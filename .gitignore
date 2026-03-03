@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Estado y sesiones (contienen cookies)
+state/storage.json
+state/*.sqlite
+state/*.sqlite-wal
+state/*.sqlite-shm
+
+# Output (archivos descargados)
+out/
+
+# Logs
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

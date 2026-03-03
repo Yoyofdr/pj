@@ -1,0 +1,105 @@
+name: Scraper Corte Suprema
+
+on:
+  # Ejecución manual desde la UI de GitHub
+  workflow_dispatch:
+    inputs:
+      target_year:
+        description: "Año a scrapear (ej: 2025). Vacío = todos los años."
+        required: false
+        type: string
+      max_pages:
+        description: "Máximo de páginas a procesar. Vacío = sin límite."
+        required: false
+        type: string
+      fast_mode:
+        description: "Modo rápido (reduce esperas entre peticiones)."
+        required: false
+        type: boolean
+        default: false
+
+  # Ejecución automática: lunes a las 06:00 UTC (03:00 Chile verano)
+  schedule:
+    - cron: "0 6 * * 1"
+
+jobs:
+  scraper:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360 # 6 horas máximo
+
+    steps:
+      # ── 1. Código ────────────────────────────────────────────────
+      - name: Checkout del repositorio
+        uses: actions/checkout@v4
+
+      # ── 2. Python ────────────────────────────────────────────────
+      - name: Configurar Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Instalar dependencias Python
+        run: pip install -r requirements.txt
+
+      # ── 3. Playwright ────────────────────────────────────────────
+      - name: Instalar Chromium (Playwright)
+        run: playwright install chromium --with-deps
+
+      # ── 4. Estado persistido entre ejecuciones ───────────────────
+      # La base de datos SQLite lleva el registro de qué casos ya
+      # se procesaron, evitando re-scrapear en corridas posteriores.
+      - name: Restaurar base de datos SQLite (corridas previas)
+        uses: actions/cache/restore@v4
+        with:
+          path: state/manifest.sqlite
+          key: scraper-db-${{ github.run_id }}
+          restore-keys: scraper-db-
+
+      # ── 5. Sesión ClaveÚnica ─────────────────────────────────────
+      # SESSION_JSON debe contener el contenido de state/storage.json
+      # codificado en base64. Ver scripts/export_session.sh.
+      - name: Restaurar sesión ClaveÚnica desde secret
+        env:
+          SESSION_JSON: ${{ secrets.SESSION_JSON }}
+        run: |
+          mkdir -p state
+          printf '%s' "$SESSION_JSON" | base64 --decode > state/storage.json
+          echo "✅ Sesión restaurada ($(wc -c < state/storage.json) bytes)"
+
+      # ── 6. Ejecutar scraper ──────────────────────────────────────
+      - name: Ejecutar scraper
+        run: |
+          ARGS="--headful false --ci-mode"
+          [ -n "${{ inputs.target_year }}" ] && ARGS="$ARGS --target-year ${{ inputs.target_year }}"
+          [ -n "${{ inputs.max_pages }}"  ] && ARGS="$ARGS --max-pages ${{ inputs.max_pages }}"
+          [ "${{ inputs.fast_mode }}" = "true" ] && ARGS="$ARGS --fast-mode true"
+          echo "Ejecutando: python -m src.main $ARGS"
+          python -m src.main $ARGS
+
+      # ── 7. Guardar estado actualizado ────────────────────────────
+      - name: Guardar base de datos SQLite actualizada
+        uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: state/manifest.sqlite
+          key: scraper-db-${{ github.run_id }}
+
+      # ── 8. Artefactos ────────────────────────────────────────────
+      - name: Subir sentencias descargadas
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: sentencias-${{ github.run_id }}
+          path: out/sentencias/
+          retention-days: 30
+          if-no-files-found: warn
+
+      - name: Subir logs de ejecución
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: logs-${{ github.run_id }}
+          path: logs/
+          retention-days: 7
+          if-no-files-found: warn
