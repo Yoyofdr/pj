@@ -64,7 +64,7 @@ jobs:
           SESSION_JSON: ${{ secrets.SESSION_JSON }}
         run: |
           mkdir -p state
-          printf '%s' "$SESSION_JSON" | base64 --decode > state/storage.json
+          printf '%s' "$SESSION_JSON" | tr -d '[:space:]' | base64 -d > state/storage.json
           echo "✅ Sesión restaurada ($(wc -c < state/storage.json) bytes)"
 
       # ── 6. Ejecutar scraper ──────────────────────────────────────
