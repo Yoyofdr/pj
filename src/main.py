@@ -484,15 +484,13 @@ async def run(config: Config) -> None:
                         idsentencia or "?",
                     )
 
-                    try:
+                    async def _process_single_case() -> tuple[int, int]:
                         case_data = await process_case_page(
                             page, case_id, case_url, db, config,
                             idsentencia=idsentencia,
                         )
 
                         ok, fail = await download_case_documents(page, context, case_data, db, config)
-                        ok_total += ok
-                        fail_total += fail
 
                         metadata = case_data.get("metadata", {})
                         fecha = metadata.get("fecha_sentencia")
@@ -504,11 +502,29 @@ async def run(config: Config) -> None:
                         else:
                             db.set_case_status(case_id, "DONE", error=f"{fail} descarga(s) fallida(s)")
 
+                        return ok, fail
+
+                    try:
+                        ok, fail = await asyncio.wait_for(
+                            _process_single_case(), timeout=120,
+                        )
+                        ok_total += ok
+                        fail_total += fail
+
                         processed += 1
                         log.info(
                             "  Resultado: %d OK, %d FAILED (acumulado: %d OK, %d FAILED)",
                             ok, fail, ok_total, fail_total,
                         )
+
+                    except asyncio.TimeoutError:
+                        log.error(
+                            "⏱️  Caso %s excedió timeout de 120s. Saltando.",
+                            case_id[:12],
+                        )
+                        db.set_case_status(case_id, "FAILED", error="TIMEOUT_120s")
+                        fail_total += 1
+                        processed += 1
 
                     except Exception as e:
                         log.error("Error procesando caso %s: %s", case_id[:12], e, exc_info=True)

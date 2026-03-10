@@ -18,9 +18,9 @@ on:
         type: boolean
         default: false
 
-  # Ejecución automática: lunes a las 06:00 UTC (03:00 Chile verano)
+  # Ejecución automática cada 6 horas
   schedule:
-    - cron: "0 6 * * 1"
+    - cron: "0 */6 * * *"
 
 jobs:
   scraper:
@@ -47,10 +47,10 @@ jobs:
         run: playwright install chromium --with-deps
 
       # ── 4. Estado persistido entre ejecuciones ───────────────────
-      # La base de datos SQLite lleva el registro de qué casos ya
-      # se procesaron, evitando re-scrapear en corridas posteriores.
+      # Usa actions/cache (no restore/save por separado) para que
+      # el SQLite se guarde automáticamente aunque el job se cancele.
       - name: Restaurar base de datos SQLite (corridas previas)
-        uses: actions/cache/restore@v4
+        uses: actions/cache@v4
         with:
           path: state/manifest.sqlite
           key: scraper-db-${{ github.run_id }}
@@ -71,34 +71,60 @@ jobs:
           print(f'Sesión restaurada ({len(data)} bytes)')
           "
 
-      # ── 6. Ejecutar scraper ──────────────────────────────────────
+      # ── 6. Ejecutar scraper con auto-commit cada 5 minutos ───────
       - name: Ejecutar scraper
+        timeout-minutes: 330
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          ARGS="--headful false --ci-mode"
+          # Configurar git
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Preparar rama data en un worktree separado
+          git fetch origin data 2>/dev/null || true
+          git worktree add /tmp/data data 2>/dev/null || \
+            git worktree add /tmp/data -b data
+          mkdir -p /tmp/data/sentencias
+
+          # Función que copia archivos nuevos y hace commit
+          push_new_files() {
+            if [ ! -d out/sentencias ]; then return; fi
+            cp -r out/sentencias/. /tmp/data/sentencias/
+            cd /tmp/data
+            git add sentencias/
+            if ! git diff --staged --quiet; then
+              COUNT=$(git diff --staged --name-only | wc -l)
+              git commit -m "auto: $COUNT sentencia(s) ($(date -u '+%H:%M UTC')) run #${{ github.run_number }}"
+              git push origin data 2>/dev/null || true
+              echo "✅ $COUNT archivo(s) nuevos guardados en rama data."
+            fi
+            cd $GITHUB_WORKSPACE
+          }
+
+          # Proceso en segundo plano: commit cada 5 minutos
+          (
+            while true; do
+              sleep 300
+              push_new_files
+            done
+          ) &
+          COMMITTER_PID=$!
+
+          # Ejecutar scraper
+          ARGS="--headful false --ci-mode --fast-mode true"
           [ -n "${{ inputs.target_year }}" ] && ARGS="$ARGS --target-year ${{ inputs.target_year }}"
           [ -n "${{ inputs.max_pages }}"  ] && ARGS="$ARGS --max-pages ${{ inputs.max_pages }}"
-          [ "${{ inputs.fast_mode }}" = "true" ] && ARGS="$ARGS --fast-mode true"
           echo "Ejecutando: python -m src.main $ARGS"
-          python -m src.main $ARGS
+          python -m src.main $ARGS || true
 
-      # ── 7. Guardar estado actualizado ────────────────────────────
-      - name: Guardar base de datos SQLite actualizada
-        uses: actions/cache/save@v4
-        if: always()
-        with:
-          path: state/manifest.sqlite
-          key: scraper-db-${{ github.run_id }}
+          # Detener background committer
+          kill $COMMITTER_PID 2>/dev/null || true
 
-      # ── 8. Artefactos ────────────────────────────────────────────
-      - name: Subir sentencias descargadas
-        uses: actions/upload-artifact@v4
-        if: always()
-        with:
-          name: sentencias-${{ github.run_id }}
-          path: out/sentencias/
-          retention-days: 30
-          if-no-files-found: warn
+          # Commit final con todo lo que quede
+          push_new_files
 
+      # ── 8. Logs como artefacto ───────────────────────────────────
       - name: Subir logs de ejecución
         uses: actions/upload-artifact@v4
         if: always()
