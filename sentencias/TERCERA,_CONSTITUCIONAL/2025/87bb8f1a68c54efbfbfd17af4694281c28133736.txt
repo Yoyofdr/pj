@@ -1,0 +1,264 @@
+METADATA
+
+case_id: 87bb8f1a68c54efbfbfd17af4694281c28133736
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7966339
+
+rol: 50533-2025
+
+fecha_sentencia: 2025-12-18
+
+caratulado: ECHEVERRÍA/CARVAJAL
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, dieciocho de diciembre de dos mil veinticinco.
+
+Vistos:
+
+Se confirma la resolución apelada de fecha veintinueve de octubre de dos mil veinticinco, dictada por la Corte de Apelaciones de Antofagasta.
+
+Regístrese y devuélvase.
+
+Rol N° 50.533-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Santiago
+Santiago, veintiséis de septiembre de dos mil veinticinco.
+
+VISTOS:
+
+Por sentencia dictada con fecha cinco de junio de dos mil veinticuatro, por el Segundo Juzgado de Letras del Trabajo de Santiago, en los autos RIT N° O-2719-2023, en procedimiento de aplicación general, se acogió la demanda de despido injustificado interpuesta por Hugo Estanislao Peña Quintana en contra de Cartograf S.A., ordenando pagar las sumas que detalla por concepto de indemnización sustitutiva del aviso previo, años de servicio con recargo legal del 80 %, “bono especial” del período marzo de 2022 al 12 de enero de 2023, así como las cotizaciones correspondientes a ese bono y hasta la convalidación del despido, sumas que ordena pagar con reajustes e intereses, sin costas.
+
+Contra dicho fallo recurrió de nulidad la parte demandada, invocando dos causales en forma subsidiaria. En primer lugar, cita la causal prevista en el artículo 478 letra b) del Código del Trabajo y, en subsidio de la anterior, aquella establecida en el literal c) del mismo artículo.
+
+Declarado admisible el recurso, se procedió a su conocimiento en audiencia, oportunidad en que alegaron los abogados de ambas partes.
+
+Y CONSIDERANDO:
+
+PRIMERO: Que, la demandada funda su recurso de nulidad en la causal prevista en el artículo 478 letra b) del Código del Trabajo, esto es, cuando la sentencia “hubiere sido pronunciada con infracción manifiesta de las normas sobre la apreciación de la prueba conforme a las reglas de la sana crítica”. Afirma que el fallo impugnado vulneró los principios de la razón suficiente y de la no contradicción, al tener por acreditados hechos sin respaldo suficiente y con argumentaciones incoherentes.
+
+En relación con el despido injustificado, sostiene que las conclusiones alcanzadas por el tribunal carecen de respaldo contundente, pues los hechos controvertidos fueron probados por su parte mediante prueba documental y testimonial. Alega que el propio juez reconoció que “los testimonios refrendan la posición de cada parte y no permiten formar convicción directa sobre una y otra versión”, y pese a ello aplicó la figura de la “admisión tácita” para suplir la falta de prueba del demandante. Critica que se diera entidad probatoria a supuestos antecedentes -como la irregularidad en el fraccionamiento del feriado, la entrega formal de comprobantes o la información previa del viaje- que, según indica, no tienen relación directa con la controversia ni bastan por sí solos para concluir la injustificación del despido. Añade que se incurre en un razonamiento confuso, pues el tribunal considera que la empresa pudo haber infringido ciertas normas laborales, pero a partir de ello deriva, sin una conexión lógica clara, que también habría concedido verbalmente un extenso permiso de vacaciones.
+
+En relación con la estructura remuneracional del demandante y su vínculo con el denominado “bono especial”, la recurrente sostiene que la sentencia se aparta del principio de razón suficiente al declarar que dicho beneficio debía seguir pagándose después de marzo de 2022. Expone que el pago del bono se realizó entre 2019 y 2022, pero que a partir de la firma del anexo de contrato de marzo de 2022 se modificó íntegramente la estructura remuneracional, absorbiéndose ese concepto en el nuevo sueldo base. Señala que el anexo expresamente “sustituye y reemplaza cualquier anexo verbal o escrito existente”, lo que, a su juicio, conforme a una “razonable interpretación”, implicaba que el denominado bono especial fue parte de lo comprendido en la nueva regulación pactada. Critica que el tribunal califique de contradictorias las cláusulas del anexo, pues -afirma- se trata de una aplicación supletoria que no puede conferir vigencia a estipendios tácitos como el bono. A su entender, lo resuelto desconoce que la remuneración del trabajador aumentó tras el anexo y que nunca existió perjuicio patrimonial.
+
+En cuanto al principio de no contradicción, aduce que el juez primero otorga valor a los comprobantes de feriado como respaldo documental, pero luego lo relativiza para privilegiar la existencia de una autorización verbal, lo que genera un razonamiento contradictorio e ilógico. Tal inconsistencia afecta gravemente la motivación del fallo, pues lo deja sin una base coherente para justificar la condena.
+
+Respecto de la influencia en lo resolutivo, la recurrente alega que las infracciones a los principios que considera quebrantados influyeron de manera decisiva en lo resuelto, pues llevaron al sentenciador a fundar la condena en motivos insuficientes o contradictorios. Ello, sostiene, genera incertidumbre respecto de las razones efectivas de la decisión e importa una afectación a garantías procesales básicas, como el debido proceso, la igualdad ante la ley y la debida motivación de las sentencias.
+
+SEGUNDO: Que, en subsidio, la recurrente invoca la causal prevista en el artículo 478 letra c) del Código del Trabajo, que procede “cuando sea necesaria la alteración de la calificación jurídica de los hechos, sin modificar las conclusiones fácticas del tribunal inferior”. Alega que la sentencia incurrió en errónea calificación jurídica en dos materias: la extensión del feriado anual del trabajador y la supuesta modificación unilateral de su remuneración.
+
+Sostiene que, aun aceptando como hecho que el trabajador no se presentó los días 11 y 12 de enero de 2023, el tribunal erró al concluir que gozaba de autorización verbal hasta el 20 de enero. Indica que la prueba documental -comprobantes de vacaciones- y la testimonial rendida por su jefe de producción acreditaban que sólo tenía derecho hasta el 9 de enero, por lo que el despido era plenamente justificado. Estima que el tribunal aplicó indebidamente la admisión tácita y desatendió la prueba que demostraba la justificación del despido.
+
+En cuanto a la supuesta modificación unilateral de la estructura remuneracional del trabajador, afirma que el tribunal interpretó equivocadamente el anexo de contrato de marzo de 2022. Según la demandada, dicho instrumento fue pactado voluntariamente, elevó la remuneración y absorbió el bono especial dentro del sueldo base, sin constituir un perjuicio ni una modificación unilateral. El fallo, sin embargo, entendió que la omisión expresa del bono implicaba su subsistencia como cláusula tácita, y que su no pago configuraba una infracción contractual. A juicio de la recurrente, esta calificación desconoce la finalidad del anexo y el efecto de sustitución que expresamente contiene, además de imputar indebidamente una conducta de mala fe al empleador.
+
+Explica que estas erróneas calificaciones jurídicas fueron decisivas, pues llevaron al tribunal a declarar injustificado el despido, acoger la nulidad prevista en el artículo 162 y condenar al pago de prestaciones improcedentes. Si se hubiera aplicado correctamente el derecho a los hechos asentados, la decisión debió ser el rechazo íntegro de la demanda. En consecuencia, solicita que, en caso de no acogerse la primera causal, se acoja esta causal subsidiaria, se anule la sentencia recurrida y, en sentencia de reemplazo, se desestimen todas las pretensiones del trabajador.
+
+TERCERO: Que el recurso de nulidad laboral tiene la particularidad de ser un arbitrio procesal dirigido, según sea la causal que lo sustente, a velar por el respeto a las garantías y derechos fundamentales, o bien a procurar que las sentencias se ajusten a la ley.
+
+Se trata de un recurso extraordinario, atendida la excepcionalidad de los presupuestos que configuran cada una de las causales previstas en los artículos 477 y 478 del Código del Trabajo; característica que restringe el ámbito de revisión asignado al tribunal superior, en comparación con el grado de conocimiento propio de la instancia. Asimismo, cabe tener presente que el recurso de nulidad no constituye una nueva instancia, de manera que esta Corte no puede revisar los hechos que conforman el conflicto jurídico, pues la apreciación y fijación de éstos corresponde de manera exclusiva y excluyente al juez que conoció del juicio respectivo.
+
+Estas particularidades se traducen, además, en el deber que pesa sobre el recurrente de precisar con rigurosidad los fundamentos de las causales que invoca, como asimismo su incidencia en lo dispositivo del fallo y en las peticiones que formula. En los términos del artículo 479, se exige “expresar el vicio que se reclama, la infracción de garantías constitucionales o de ley de que adolece, según corresponda, y en este caso, además, señalar de qué modo dichas infracciones de ley influyen sustancialmente en lo dispositivo del fallo”.
+
+CUARTO: Que la causal principal invocada corresponde a la prevista en el artículo 478 letra b) del Código del Trabajo, esto es, aquella que procede cuando la sentencia “haya sido pronunciada con infracción manifiesta de las normas sobre la apreciación de la prueba conforme a las reglas de la sana crítica”. Tal disposición se vincula con lo establecido en el artículo 456 del mismo cuerpo legal, que faculta a los jueces para valorar la prueba conforme a dichas reglas, indicando los factores y el método que deben observar para su ponderación.
+
+En efecto, el citado precepto dispone que “el tribunal deberá expresar las razones jurídicas y las simplemente lógicas, científicas, técnicas o de experiencia, en cuya virtud les asigne valor o las desestime. En general, tomará en especial consideración la multiplicidad, gravedad, precisión, concordancia y conexión de las pruebas o antecedentes del proceso que utilice, de manera que el examen conduzca lógicamente a la conclusión que convence al sentenciador”.
+
+Cabe consignar, además, que atendida la naturaleza extraordinaria del recurso de nulidad, su conocimiento se encuentra sujeto a un ámbito restringido de revisión por parte de los tribunales superiores, lo que, como contrapartida, impone al recurrente la obligación de precisar con rigurosidad los fundamentos de las causales que invoca, así como las peticiones que formula. De esta manera, la exigencia de claridad y precisión en la fundamentación resulta esencial, toda vez que es ello lo que delimita la competencia del tribunal de alzada, el cual no puede pronunciarse sobre motivos distintos a los alegados, salvo la excepción prevista en el inciso final del artículo 479 del Código del Trabajo.
+
+QUINTO: Que, sin embargo, del análisis del arbitrio se concluye que éste no satisface las exigencias propias de la causal de nulidad invocada, toda vez que, si bien denuncia infracción a las normas sobre apreciación de la prueba conforme a las reglas de la sana crítica -mediante la vulneración del principio de razón suficiente y de no contradicción-, dicha alegación más bien se presenta como una discrepancia con la valoración que ha efectuado el juez de grado, en cuyo mérito resolvió la controversia, por no ser concordante con la tesis jurídica sostenida por la parte reclamante en el juicio.
+
+En efecto, el recurrente sostiene la inobservancia de la regla de la razón suficiente alegando que la sentencia llegó a conclusiones insuficientemente acreditadas, afirmando que incluso el fallo reconoce que los testimonios sólo refrendan la posición de cada parte sin permitir convicción directa, recurriendo el juez a la admisión tácita como “arbitrio probatorio” para suplir la insuficiencia de la prueba. Según dice, se trataría de una herramienta justificada sólo en casos acotados y que, en la especie, se apoyó en antecedentes que -a su entender- no resultaban suficientes para sostener la decisión adoptada.
+
+De la manera indicada, el propio recurrente reconoce en el juzgador un ejercicio de razonamiento probatorio que, por una parte, advierte que la prueba testimonial no permitió formar convicción, pues refrendaba la posición de cada parte; y por otra, valora la falta de comparecencia del representante legal de la demandada a la prueba confesional, declarando la admisión tácita del hecho controvertido, pero otorgando además razones adicionales que sirven de soporte a tal decisión.
+
+En efecto, en el considerando séptimo el juez de base estableció: “Con todo, tratándose ésta, la oportunidad procesal en que el tribunal, cotejando la totalidad de las probanzas resuelve sobre los hechos, estima relevante para elucidar la divergencia fáctica subsistente al análisis de la prueba testifical (versiones contradictorias de los testigos), la falta de comparecencia del representante legal de la demandada a la prueba confesional; declarando la admisión tácita del hecho de la autorización previa de acuerdo a los hechos narrados por el demandante en la demanda. Se trata de un arbitrio probatorio expresamente introducido por el legislador laboral, sobre la base de la asimetría que respecto de las fuentes de información (todas dentro del espacio de dominio del empleador) suele tener el trabajador, por lo que tiene justificación en casos acotados la sanción procesal respecto de la parte no diligente durante el proceso. Con todo, no se trata de una cuestión puramente ficcional probatoria, sino que apoyada en antecedentes relevantes que dan soporte a tal decisión”.
+
+A continuación, para justificar lo excepcional de la sanción procesal consistente en la confesión tácita ante la falta de comparecencia del absolvente, en el motivo octavo razonó que: “… el más significativo es la manifiesta posición incumplidora de la demandada respecto de su obligación de suministrar un descanso continuo al trabajador, pues según ella misma reconoce y, conforme queda de manifiesto del fraccionamiento ilícito del feriado (vid 27 comprobantes; 12 de ellos por un día, 3 por 2 días, 3 por 3 días, 3 por 4 días; 2, por 5 días), en el que en un lapso de cuatro años sólo en un período se otorgan 15 días corridos, siendo la regla absolutamente general la infracción del inciso primero del artículo 70 del Código del Trabajo. Huelga explicar la gravedad de la conducta, que infringe ciertamente la prohibición del inciso segundo del artículo 5°, que, apareciendo como un arbitrio desviado de las finalidades de la norma tutelar, apunta a la recuperación mediante el descanso anual de las fuerzas insumidas en los ciclos anuales de trabajo”.
+
+Además, señaló como antecedentes adicionales, en lo relativo a la autorización de vacaciones, la reiterada práctica de fraccionar los feriados aun cuando correspondían a períodos continuos; el reconocimiento del propio jefe de producción respecto de las dificultades para otorgarlos en época estival; y la información previa que el trabajador proporcionó acerca de un viaje al extranjero para visitar a su hijo. Tales elementos permitieron dotar de coherencia y plausibilidad a la versión del actor, justificando la aplicación de la figura de la admisión tácita y concluyendo que el despido fue injustificado.
+
+En lo tocante a la estructura remuneracional y al denominado “bono especial”, la recurrente sostuvo que la sentencia incurrió en infracción al principio de razón suficiente, pues dicho estipendio habría quedado absorbido en el sueldo base con la suscripción del anexo de marzo de 2022, instrumento que -según afirmó- sustituyó toda regulación previa e impidió reconocer vigencia a beneficios tácitos, máxime cuando la remuneración del trabajador se habría visto incrementada sin menoscabo alguno. Al respecto, el fallo impugnado expone razones suficientes para descartar la tesis del recurrente, en cuanto pretende que el anexo sustituyó cualquier otro acuerdo verbal o escrito anterior.
+
+En el motivo décimo tercero, el juez de base sostuvo: “Es efectivo que la ‘prestación por especial’ no fue regulada nunca expresamente. Ni en el contrato original, ni en los anexos posteriores. Resulta claro que el pago regular de la prestación, como un ítem fijo de remuneración durante tres años (febrero de 2019 a febrero de 2022), reúne todas las condiciones, de lo que tanto la doctrina como la jurisprudencia denominan como una cláusula tácita del contrato, es decir, aquella que, no obstante no escriturada, se entiende incorporada al contenido obligacional del contrato (en este caso, patrimonial), por lo que su eliminación o modificación ha debido materializarse de manera inequívoca, quedando vedado al empresario la modificación unilateral de lo pactado y ejecutado regularmente”.
+
+Y en el motivo décimo quinto argumentó: “Si el redactor-empleador ha estado en posición de incorporar expresamente la eliminación de la prestación ‘bono especial’, tal aspecto le ha sido exigible, careciendo de aptitud jurídica derogatoria la referencia vaga y genérica a ‘cualquier anexo verbal’, y, adicionalmente, frente a la expresa referencia hecha a la subsistencia de las cláusulas contractuales ‘no modificadas’, las que mantiene vigentes”.
+
+De este modo, aparece evidente que el juez de base dio razones suficientes para establecer la vigencia en el contrato del denominado “bono especial”.
+SEXTO: Que la inobservancia del principio de no contradicción, según el recurrente, se configuraría porque, de una manera intrincada, en la materia referente a la concesión de permisos y uso del feriado, el juez primero otorgó valor a los comprobantes de feriado como respaldo documental, pero luego lo relativizó para privilegiar la existencia de una autorización verbal, lo que -a su juicio- generaba un razonamiento contradictorio e ilógico.
+
+En verdad, lo intrincado no es la motivación del juez de base, sino la confusa alegación del recurrente sobre este punto. En efecto, el sentenciador estableció que la controversia principal era si el trabajador tenía o no autorización para ausentarse más allá del 9 de enero de 2023. Reconoció que existían comprobantes escritos sólo hasta esa fecha, pero consideró relevante el contexto en que se otorgaban las vacaciones, caracterizado por fraccionamientos reiterados e irregulares del feriado legal, lo que evidenciaba una práctica empresarial contraria a la normativa. Frente a testimonios contradictorios, valoró la falta de comparecencia del representante legal de la demandada a la prueba confesional y aplicó la admisión tácita, entendiendo que existió una autorización previa conforme a lo relatado por el actor.
+
+Tal decisión no se adoptó de manera aislada, sino apoyada en antecedentes significativos: el reconocimiento de la demandada sobre la fragmentación ilícita de los descansos, las dificultades para otorgar vacaciones en período estival y la información previa entregada por el trabajador acerca de un viaje al extranjero, corroborada parcialmente por un testigo de la empresa.
+
+De contrario, el planteamiento del recurso aparece carente de la claridad y precisión que exige la naturaleza extraordinaria de este arbitrio, pues la alegación sobre la pretendida infracción al principio de no contradicción se presenta de manera confusa y reiterativa. En efecto, reprocha que el juez haya valorado la documental para reconocer la práctica irregular de la demandada en el otorgamiento del feriado, y luego haya considerado una autorización verbal, pero no explica en qué medida ello importa una contradicción lógica efectiva, más allá de discrepar de la forma en que se ponderaron las pruebas.
+
+En todo caso, resulta evidente la inexistencia de contradicción en el razonamiento reprochado; la acreditación del fraccionamiento ilícito del feriado legal no empece a que el tribunal haya tenido por establecida una autorización verbal para la extensión de este, pues se trata de hechos diversos -aunque relacionados- que pueden ser acreditados mediante distintos elementos de convicción.
+
+SÉPTIMO: Que, en subsidio, se invoca la causal del artículo 478 letra c) del Código del Trabajo, que dispone que el recurso de nulidad procede cuando sea necesaria la alteración de la calificación jurídica de los hechos, sin modificar las conclusiones fácticas del tribunal inferior. Al respecto, el recurrente sostuvo que la sentencia incurrió en errónea calificación jurídica en dos materias: la extensión del feriado anual del trabajador y la supuesta modificación unilateral de su remuneración.
+
+Como se advierte del tenor de la norma, cuando se invoca este vicio de nulidad de la sentencia, el recurrente acepta los hechos tal como fueron fijados por el tribunal a quo y únicamente discrepa respecto de la significación jurídica que se les ha otorgado en el fallo. De esta manera, el control que efectúa esta Corte, en tanto tribunal llamado a conocer del recurso de nulidad, sólo puede circunscribirse a este último aspecto, resultando inamovibles los hechos ya asentados.
+
+OCTAVO: Que, en ese entendido, resulta relevante referir que el fallo en revisión tuvo por acreditado lo siguiente:
+
+a) La existencia de la relación laboral entre demandante y demandado entre el 13 de junio de 2017 y el 12 de enero de 2023;
+
+b) Que el demandante no asistió a cumplir con sus labores los días 11 y 12 de enero de 2023;
+
+c) Que el demandante fue autorizado verbalmente por su empleador para ausentarse en los días señalados;
+
+d) Que en el mes de febrero de 2019 se incorporó al contrato un “bono especial” por $43.253, que se pagó regularmente -salvo durante períodos de licenciamiento médico- hasta febrero de 2022; que en diciembre de 2019 se elevó a $45.000, y que en los meses de diciembre de 2021 y febrero de 2022 se pagó por la suma de $194.000;
+
+e) Que en marzo de 2022 se incorporó un anexo al contrato de trabajo, en el que se estableció la nueva remuneración, debidamente firmado por el actor, pero que no modificó la cláusula tácita correspondiente al “bono especial”.
+
+NOVENO: Que, sobre la base de tales hipótesis fácticas, inamovibles para esta Corte en atención a la causal invocada, el tribunal de base razonó en cuanto a la justificación del despido, estableciendo como punto controvertido la existencia de autorización para que el actor extendiera su feriado más allá del 9 de enero de 2023. Reconoció la existencia de comprobantes escritos sólo hasta esa fecha, pero consideró relevante el contexto de fraccionamiento irregular del descanso anual, práctica habitual de la empleadora. Frente a testimonios contradictorios, estimó decisiva la falta de comparecencia del representante legal de la demandada a la prueba confesional, aplicando la admisión tácita de la autorización invocada por el actor. Explicó que este arbitrio no constituye una ficción aislada, sino que se apoyó en antecedentes relevantes, tales como la fragmentación ilícita de los feriados, las dificultades para otorgar vacaciones en época estival y la información previa del viaje al extranjero, corroborada parcialmente por un testigo de la empresa.
+
+Así, en el motivo décimo concluyó: “Tales aspectos son significativos para resolver aquello que en la prueba testifical encuentra versiones contradictorias, en orden a que el actor inició sus vacaciones el 20 de diciembre de 2022, hasta el 20 de enero, con autorización verbal dada para un viaje al extranjero conocido que había informado ya hacia julio del mismo año. El despido entonces, es injustificado”.
+
+En lo referido a la estructura remuneracional del trabajador, el tribunal de primera instancia tuvo por acreditado, a partir de los comprobantes de pago y demás antecedentes, que desde febrero de 2019 se incorporó regularmente un “bono especial”, cuyo pago se mantuvo hasta febrero de 2022, configurando una cláusula tácita del contrato. Reconoció que desde marzo de ese año dicho estipendio dejó de pagarse, sosteniendo el empleador que había sido absorbido por el anexo de contrato suscrito en esa fecha. Sin embargo, el sentenciador razonó que, no habiendo existido una regulación expresa del bono ni en el contrato original ni en los anexos posteriores, y omitiendo el anexo de marzo de 2022 toda referencia específica a él, no resultaba jurídicamente procedente entenderlo eliminado por una cláusula genérica de sustitución. En consecuencia, estableció en el motivo décimo sexto: “Una interpretación primera entonces, permite concluir que no se verificó la modificación pretendida conforme al propio texto del anexo y otra, en la misma línea, -y en hipótesis de contradicción de la cláusula- impone su interpretación en favor del sentido dado por el trabajador, toda vez que se trata de una antinomia normativa regida por el principio pro operario; principio decisorio precisamente para cuestiones de exégesis normativa, legal y/o contractual”.
+
+De tal manera, concluyó que el denominado “bono especial” formaba parte de la remuneración del actor y que su supresión configuraba una modificación unilateral ilícita, conclusión que reforzó con la aplicación del principio pro operario.
+
+DÉCIMO: Que, considerando que el recurso de nulidad discurre sobre la base de hechos diversos a los establecidos en la sentencia, en un intento evidente por modificar lo acreditado en juicio -lo que excede el marco propio de la causal invocada-, corresponde concluir que no se configura una errada calificación jurídica de los hechos.
+
+En efecto, del análisis del arbitrio se advierte con claridad que lo que el recurrente pretende es impugnar la valoración de la prueba realizada por el juez de base y sustituirla por una ponderación distinta, con el objeto de obtener un resultado favorable a sus intereses. En la práctica, lo que hace el recurso es volver a cuestionar lo resuelto, insistiendo en que el despido habría sido justificado y negando la existencia y vigencia del denominado “bono especial”, pese a que el sentenciador de instancia dio por probada su incorporación como cláusula tácita y, en consecuencia, su incidencia en el incremento de la remuneración del actor.
+
+Tales circunstancias, en consecuencia, permiten descartar las alegaciones del recurrente relativas a una supuesta infracción del artículo 478 letra c) del Código del Trabajo, lo que conduce necesariamente al rechazo del recurso en lo que a este arbitrio se refiere.
+
+UNDÉCIMO: Que, por todo lo antes razonado y al no haberse configurado ninguna de las causales invocadas, el recurso de nulidad laboral interpuesto por la parte demandada será desestimado.
+Y, vistos, además, lo dispuesto en los artículos 477, 478, 479, 481 y 482 del Código del Trabajo, SE RECHAZA, con costas, el recurso de nulidad interpuesto por la parte demandada, en contra de la sentencia de fecha cinco de junio de dos mil veinticuatro, dictada por el Segundo Juzgado de Letras del Trabajo de Santiago, en causa RIT N° O-2719-2023, caratulados “Peña con Cartograf S.A.”, la que en consecuencia, no es nula.
+
+Regístrese y comuníquese.
+
+Redactada por el Ministro (s) señor Daniel Aravena Pérez.
+No firma la Ministra señora Lilian Leyton Varela, no obstante haber concurrido a la vista y al acuerdo del fallo, por estar haciendo uso del permiso del artículo 347 del Código Orgánico de Tribunales.
+N°Laboral - Cobranza-2208-2024.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, cinco de junio de dos mil veinticuatro
+
+ANTECEDENTES
+
+Hugo Estanislao Peña Quintana, domiciliado en Quilicura, dedujo demanda en procedimiento de aplicación general contra Cartograf S.A, representada legalmente por Jaime Grau Barros, domiciliados en Santiago, para que se declare injustificado su despido, su derecho a indemnización sustitutiva y por dos años de servicios, más recargo de 80%, indemnización por feriado, “bono especial”, mensual desde marzo de 2022 hasta la fecha del despido, cotizaciones de seguridad social por esta remuneración del artículo 162, incisos quinto y siguientes, más actualmente legales y costas de la causa. Prestó servicios desde el 13 de junio de 2017 como maestro prensista, con jornada de trabajo de lunes a viernes, de 8.30 18.00 horas; fue despedido el 12 de enero de 2013 por la causal del artículo 160, número tres del código del trabajo por supuestamente haber faltado injustificadamente los días 11 y 12 de enero de 2023. Su remuneración era fija, constituido por sueldo base, gratificación, asignación de asistencia y puntualidad, bola especial, el colación y movilización, con un total de $ 1.092.542 mensual.
+
+Debía volver del regreso de sus vacaciones el 23 de enero el presentarse a trabajar, se enteró que estaba despedido contar del 12 de enero de 2023 por haber faltado injustificadamente según su empleador los días 11 y 12 de enero, lo que no es efectivo. Señala que la imputación no falsa, sino que trasluce una conducta de mala fe del empleador, pues con meses de anticipación había solicitado vacaciones desde el 20 de diciembre de 2022 hasta el 20 de enero de 2023 con la finalidad de viajar a Brasil, ciudad de Maceió, con el objeto de visitar a su hijo, a quien no veía hace años. Obtuvo el permiso el 7 de octubre de 2022, más de dos meses antes del viaje y compró pasaje de ida y vuelta el que exhibió tanto al Sr. Grau como al jefe del taller y de personal Miguel Basoalto; quienes no sólo abierta · del permiso, conocían el motivo del viaje, sin rotación frecuente chiste o que no se fuera a “enredar con una mulatiña“.
+
+El día anterior a salir de vacaciones le pidió al señor va suelto un comprobante de su feriado, otorgándole los comprobantes, el primero por cinco días del 20 al 26 de diciembre de 2022 y el segundo por nueve días, desde el 27 de diciembre hasta el 9 de enero de 2023 y al pedirle el comprobante por el resto de su feriado, le señaló que el sistema no lo permitía, pero que no se preocupara pues a la vuelta alegraría comprobante faltante. No tuvo de confianza, pues lo usual era que los comprobantes de feriado se entendieran después de hacer uso de las mismas; las que además se concedían “además de irregulares completamente anárquicas”, pues en los cinco años y seis meses trabajado tiene 26 tres permiso de vacaciones (sic), muchos de 1, 2, o 3 días; la mayoría de los cuales se daban después de mucho tiempo de haber hecho uso.
+
+Su feriado terminaba el 20 de enero, día en que llego a Chile y al volver el 23 no estaba su tarjeta de la entrada al taller por lo que no pudo marcar asistencia, ante lo cual se dirigió a hablar con el señor Basualto, quien eludió por más de una hora responderle sobre el motivo del retiro de su tarjeta, hasta que por fin le dijo que por orden del señor Grau estaba despedido a contar del 12 de enero, por haber faltado los días 11 y 12 de ese mes. Al recordarle que sus vacaciones terminaba el día 20 como le contaba fehacientemente, dijo de recibidos a orden y que no podía hacer nada.
+
+Señala que contadas todas las vacaciones (feriados) concedidas de manera irregular, con extensión brevísima, sin permitir descanso, se le debían todavía 14.5 días hábiles, por lo que los días del 10 al 20 de enero, estaban plenamente cubiertos por dicha deuda.
+
+Califica el despido como injustificado y acción de mala fe por parte de ambas jefaturas., adeudándosele las indemnizaciones que avalúa convenientemente.
+
+Pormenoriza los períodos y número de días otorgados de feriados desde junio de 2017, con fraccionamientos habituales de un día, 2, 3, 4, y 5, existiendo un período de 10 días, previo al que genera la situación del despido.
+
+El denominado “bono especial” era parte de su remuneración, correspondiente a $ 194.000 mensuales (diciembre de 2021) y se le dejó de pagar desde marzo 2022. Señala que en esa fecha suscribió con su empleador un anexo de contrato que modificó la cláusula cuarta de contrato de 13 de junio de 2017, en el que se aumentaba su sueldo base y diversas asignaciones; pero ni en el contrato original ni en la cláusula modificada uno referencia al denominado “bono especial”, que nunca tuvo regulado por escrito en ningún contrato o anexo. Al haberse pagado por tres años ininterrumpidamente se transformó en una cláusula tácita, obligatoria que no pudo dejar de pagarse de manera unilateral.
+
+Funda la acción en normas pertinentes a las acciones ejercidas (despido, nulidad, prestaciones).
+
+La demandada contestó la demanda, reconociendo el vínculo laboral a partir del 13 de junio de 2017, iniciado en el cargo de ayudante prensista, lo mismo que la terminación por la causal del artículo 160, número tres del código del trabajo con fecha 12 de enero de 2023 por haber faltado injustificadamente a sus labores los días 11 y 12 de enero de 2023.
+
+Acotó los ítems y montos de la remuneración, afirmando la variabilidad del bono de asistencia y puntualidad.
+
+Las inasistencias –afirmó- fueron injustificadas, negando la existencia del acuerdo firmado en la demanda.
+
+Indica que lo meses de junio y julio de 2022 el acto se acercó a Miguel Basualto, jefe de taller de la empresa a fin de indicarle que quería irse de vacaciones en el mes de diciembre de 2022, a lo que el jefe le señaló que ese mes no podía hacerlo y que no le daría permiso, dado que es un mes de alta en la empresa, y en dicha fecha nos otorgaban vacaciones; luego nuevamente en el mes de noviembre de manera prepotente le informó que tenía comprado los pasajes de avión para IC de vacaciones a Brasil. Basualto lo increpó pues no había solicitado el permiso debido países de vacaciones; sin perjuicio de lo cual y a pesar de que se trataba de un período de “alta” en la empresa, se le otorgaron vacaciones desde el día 20 de diciembre hasta el día 9 de enero, que en los días disponibles. Frente a dicha situación el actor señaló que volvería 23 de enero de 2023, ante lo cual Basualto le informó que debía volver en la fecha correspondiente de acuerdo a los comprobantes de vacaciones, esto es el 10 de enero de 2023; negándose a la insistencia del actor para que agregara días o modificada días en los comprobantes de vacaciones “con su mano”; ante lo cual el actor le manifestó a su jefe “que sea lo que dios quiera”.
+
+El representante legal de la demandada niega intervención en el hecho, pues tales cuestiones son tratadas y revisada por Recursos Humanos (sic) o bien por Miguel Basualto.
+
+Califica el caso como por fía, testarudez y obstinación del trabajador, quien creyó, pensó o imaginó que podía ausentarse sin el debido permiso; pues ni aunque lo hubieran quedado días pendientes-lo que niega- podía ausentarse sin ello; por lo que la causal se encuentra justificada habiendo causado demás un perjuicio grave a la compañía, en el sentido que tuvo la máquina a su cargo, parada por nueve días.
+
+que se otorgarán de forma irregular los feriados, pues si bien hay algunos otorgados por un día, se debe a que el actor solicitaba de manera constante permiso para realizar gestiones de carácter particular, lo que estima es un pacto lícito de concordar permiso con cargo sus vacaciones, que lo que es la práctica sucedía con el actor. Aporta un cuadro con los feriados otorgados según, comprobantes que indica firmados por el actor.
+
+Niega el derecho al denominado “bono especial”, modificado mediante anexo de contrato en el que estableció su nueva remuneración, debidamente firmado por el actor en marzo 2022, aumentándose sólo una nación mediante el incremento de sueldo base, pasándose el burro parte de su remuneración fija. En este acápite atribuye conducta de mala fe al trabajador, respecto una situación resuelta el 1 de marzo de 2022.
+
+Funda su defensa en normas legales pertinentes.
+
+Se llevaron efecto las audiencias de preparación y juicio; rindiendo ambas partes aquella que se pormenoriza en la parte considerativa.
+
+CONSIDERACIONES DE HECHO Y DE DERECHO
+
+1. No hubo controversia sobre la relación laboral, la extensión del vínculo, desde el 13 de junio de 2017 y el despido de 12 de enero de 2023, aplicando la demandada la causal del artículo 160, número 3 del Código del Trabajo.
+
+2. La comunicación de término invoca como inasistencias los días 11 y 12 de enero de 2023, días en que -tampoco hay divergencia- el actor no concurrió a prestar servicios.
+
+3. El demandante señala que esos días gozaba de feriado autorizado previamente. La demandada, dice que tal autorización no existía. Tal es la controversia.
+
+El demandante señala que hacia noviembre de 2022, compró con la debida anticipación los pasajes incluso, basado en esa autorización (de Basualto y Grau). La demandada refiere conocer tal hecho con antelación (compra de pasajes comunicada por el actor), pero manteniendo el conflicto sobre la extensión de feriado autorizado hasta el momento mismo del inicio, afirmándose en que se otorgaron los comprobantes, solo por el tiempo autorizado.
+
+4. Hay acuerdo en que la demandada otorgó previamente, dos comprobantes escritos del feriado iniciado el 20 de diciembre, por 5 días: del 20 al 26 de diciembre y por 9 días, del 27 de diciembre al 9 de enero.
+
+5. Como cuestión de contexto relevante para la parte demandante está la forma irregular de otorgamiento del derecho de descanso anual, con múltiples fraccionamientos, que la demandada explica como una forma lícita de otorgar permisos para trámites personales. El actor señala que tenía días pendientes que cubrían el período autorizado (hasta el 20 de enero); la demandada, señala que –al 9 de enero- no tenía saldo.
+
+6. Declaró Basualto Pérez, jefe de producción y Méndez Ríos (contador de la demandada). Por la parte demandante el hijo del actor, Fabián Peña Mora. Los testimonios refrendan la posición de cada parte y no permiten formar convicción directa sobre una u otra versión.
+
+7. Con todo, tratándose ésta, la oportunidad procesal en que el tribunal, cotejando la totalidad de las probanzas resuelve sobre los hechos, estima relevante para elucidar la divergencia fáctica subsistente al análisis de la prueba testifical (versiones contradictorias de los testigos), la falta de comparecencia del representante legal de la demandada a la prueba confesional; declarando la admisión tácita del hecho de la autorización previa de acuerdo a los hechos narrados por el demandante en la demanda.
+
+Se trata de un arbitrio probatorio expresamente introducido por el legislador laboral, sobre la base de la asimetría que respecto de las fuentes de información (todas dentro del espacio de dominio al empleador) suele tener el trabajador, por lo que tiene justificación en casos acotados la sanción procesal respecto de la parte no diligente durante el proceso. Con todo, no se trata de una cuestión puramente ficcional probatoria, sino que apoyada en antecedentes relevantes que dan soporte a tal decisión.
+
+8. Dentro de ellos, el más significativo es la manifiesta posición incumplidora de la demandada respecto de su obligación de suministrar un descanso continuo al trabajador, pues según ella misma reconoce y, conforme queda de manifiesto del fraccionamiento ilícito del feriado (vid 27 comprobantes; 12 de ellos por un día, 3 por 2 días, 3 por 3 días, 3 por 4 días; 2, por 5 días), en el que en un lapso de cuatro años sólo en un período se otorgan 15 días corridos, siendo la regla absolutamente general la infracción del inciso primero del artículo 70 del Código del Trabajo. Huelga explicar la gravedad de la conducta, que infringe ciertamente la prohibición del inciso segundo del artículo 5°, que, apareciendo como un arbitrio desviado de las finalidades de la norma tutelar apunta a la recuperación mediante el descanso anual de las fuerzas insumidas en los ciclos anuales de trabajo.
+
+9. Hace al mismo análisis sobre la forma de otorgarse el derecho legal, la extraña circunstancia de que los fraccionamientos, no obstante corresponder en algunos casos a períodos continuos, se entregaban respaldados documentalmente en comprobantes, igualmente fraccionados (a modo de ejemplo, los dos últimos), lo que permite conectar razonablemente la tesis de la parte demandante con alguna forma de ardid de la demandada, ya habituada a vulnerar la norma laboral relativa al descanso.
+
+Y todavía, adicionalmente, consta la propia circunstancia reconocida por Basualto, sobre las dificultades para otorgarse el feriado el periodo estival, haciendo ilusoria la directriz contenía del inciso final del artículo 67, siempre apareciendo regularmente doblegado el derecho de la persona, por el imperativo productivo.
+
+9.Por otra parte, el hecho de la información previa dada por el demandante sobre la necesidad de un período de vacaciones más extenso, de que efectuaría un viaje, con el motivo de visitar a un hijo en el extranjero, se corresponde con circunstancias admitidas por el testigo Basualto, por lo que sin perjuicio de su negativa acerca de la extensión del permiso, la narrativa del demandante (de suyo compleja en la demostración de todos sus extremos, por haber quedado entregado a una mera relación de confianza con su jefatura, sin perjuicio de la trama formal elusiva del derecho ideada por la empresa), se apoya en aspectos circunstanciales relevantes que están demostrados, que dotan de coherencia y plausibilidad a su versión, y que sustentan la conveniencia de aplicar la admisión tácita.
+
+10. Tales aspectos son significativos para resolver aquello que en la prueba testifical encuentra versiones contradictorias, en orden a que el actor inició sus vacaciones el 20 de diciembre de 2022, hasta el 20 de enero, con autorización verbal dada para un viaje al extranjero conocido que había informado ya hacia julio del mismo año.
+
+El despido entonces, es injustificado.
+
+10. La base de cálculo, corresponde a la que consta de los comprobantes de remuneraciones, más el estipendio preterido desde marzo de 2022, por lo que se ajusta a la señalada en la demanda ($ 1.092.542)
+
+11. La estructura de remuneración del actor se pactó con un sueldo base, anticipo de gratificación, bono de puntualidad y asistencia asignaciones de colación y movilización, todos como estipendios fijos (contrato de trabajo de 13 de junio de 2017). Los comprobantes de remuneraciones (prueba documental común), exhibe en dichos rubros hasta enero de 2019, variando únicamente por la proporción de días trabajados y la procedencia o improcedencia del bono condicionado a puntualidad y asistencia.
+
+En febrero de 2019, se incorpora un “bono especial”, por $43.253, que se paga regularmente -salvo los períodos que dan cuenta de licenciamiento médico-, hasta febrero de 2022. En diciembre de 2019 se eleva a $45.000 y los meses de diciembre de 2021 y febrero de 2022 se paga por la suma de $ 194.000.
+
+12. Están de acuerdo las partes que desde marzo, tal bono no se pagó más. El actor plantea que se trata de una modificación unilateral del contrato, pues correspondía ya a una cláusula tácita; el demandado sostiene, que el anexo contractual de marzo de 2022 modificó la estructura de remuneraciones, elevando las mismas, quedando incluido el bono en el sueldo base.
+
+13. Es efectivo que la “prestación por especial” no fue regulada nunca expresamente. Ni en el contrato original, ni en los anexos posteriores. Resulta claro que el pago regular de la prestación, como un ítem fijo de remuneración durante tres años (febrero de 2019 a febrero de 2022), reúne todas las condiciones, de lo que tanto la doctrina como la jurisprudencia denominan como una cláusula tácita del contrato, es decir de aquella que no obstante no escriturada, se entiende incorporada al contenido obligacional del contrato (en este caso, patrimonial), por lo que su eliminación o modificación ha debido materializarse de manera inequívoca, quedando vedado al empresario la modificación unilateral de lo pactado y ejecutado regularmente.
+
+14. Al tiempo del anexo de 1 de marzo de 2022 las partes conocían nítidamente cuáles eran las obligaciones relativas a la remuneración que retribuía la prestación de los servicios y por cierto, el “bono especial” que se pagaba hace 3 años. El pacto eleva los montos de las prestaciones pactadas, las singulariza expresamente una a una. Pero omite toda referencia expresa al “bono especial”.
+Solo la cláusula tercera contiene una mención contradictoria en sus términos. En efecto, junto con señalar que el anexo sustituye, reemplaza cualquier anexo verbal o escrito existente con el trabajador, pasando regir íntegramente la relación laboral en los términos del documento establece, señala, renglón seguido, que "las cláusulas no modificadas del contrato de trabajo original se mantendrán vigentes"
+
+15. Si el redactor-empleador ha estado en posición de incorporar expresamente la eliminación de la prestación “bono especial”, tal aspecto le ha sido exigible, careciendo de aptitud jurídica derogatoria la referencia vaga y genérica a “cualquier anexo verbal”, y, adicionalmente, frente a la expresa referencia hecha a la subsistencia de las cláusulas contractuales “no modificadas” las que mantiene vigentes.
+
+16. Una interpretación primera entonces, permite concluir que no se verificó la modificación pretendida conforme al propio texto del anexo y otra, en la misma línea, -y en hipótesis de contradicción de la cláusula- impone su interpretación en favor del sentido dado por el trabajador, toda vez que se trata de una antinomia normativa regida por el principio pro operario; principio decisorio precisamente para cuestiones de exégesis normativa, legal y/o contractual.
+
+17. La modificación unilateral ilícita del contrato, consistente en la privación de una parte de la remuneración del trabajador, conlleva adicionalmente la falta de pago de las cotizaciones provisionales de tal prestación, desde marzo de 2022, verificándose las hipótesis del inciso quinto del artículo 162 del Código del Trabajo (base imponible no cotizada: $ 194.000).
+
+18. Al término de los servicios, de acuerdo a los comprobantes de feriado, al actor se le otorgaron nueve días, con cargo al feriado anual del período consignado del último comprobante (junio 2022-junio 2023), donde los cuales correspondían a un anticipo de feriado, sin que exista deuda indemnizable por tal período.
+
+19. No hay otra prueba relevante que analizar; la restante documental, accede a cuestiones reconocidas, expresamente aceptadas por las partes o ya asentadas por la prueba analizada; en ningún caso, contrarían las conclusiones sobre los hechos probados.
+
+Y de acuerdo además con lo que disponen los artículos 1, 3, 5, 7, 9, 41, 42, 63, 67m, 70, 71, 73y un, 160, 168, 172, 173, 420, 445, 453, 454, 459 del Código del Trabajo, se resuelve:
+
+I. Hacer lugar a la demanda interpuesta por Hugo Estanislao Peña Quintana, contra Cartograf S.A, declarándose injustificado el despido de 12 de enero de 2023, debiendo la demandada pagar al actor las siguientes sumas por los conceptos que se indican:
+
+I) $ 1.092.542 correspondiente a indemnización sustitutiva de aviso previo
+
+II) $6.555.252 por indemnización por años de servicios
+
+III) $5.244.202 correspondiente a recargo legal del 80% sobre indemnización anterior
+
+IV) $ 2.017.600 por remuneración correspondiente a “bono especial” del período marzo de 2022 al 12 de enero de 2023 el ( a razón $194 mensual)
+
+v) Cotizaciones de seguridad social en los importes previstos en el artículo 177 del Código del Trabajo, correspondiente a la remuneración señalada en v) precedente y las remuneraciones a razón de $ 1.092.542 mensual, a contar del 13 de enero de 2023 y hasta la convalidación del despido.
+
+vi) Las sumas ordenadas pagar deberán actualizarse de acuerdo lo que disponen los artículos 63 y 173 del código especial, según corresponda y las cotizaciones de seguridad social, de acuerdo a lo previsto en los estatutos provisionales pertinentes
+
+vii) Desestimar en lo demás la demanda, sin costas al demandado por no haber sido íntegramente vencido.
+RIT O-2719-2023
+RUC 23- 4-0476040-8
+Dictada por ALVARO FELIPE FLORES MONARDES, Juez Titular del Segundo Juzgado de Letras del Trabajo de Santiago.
