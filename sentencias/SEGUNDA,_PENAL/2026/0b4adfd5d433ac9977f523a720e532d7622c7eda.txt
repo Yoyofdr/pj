@@ -1,0 +1,434 @@
+METADATA
+
+case_id: 0b4adfd5d433ac9977f523a720e532d7622c7eda
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8043882
+
+rol: 7716-2026
+
+fecha_sentencia: 2026-02-27
+
+caratulado: GONZÁLEZ CORTÉS FRANCISCO IGNACIO CONTRA JUZGADO GARANTÍA Y GENDARMERÍA ANTOFAGASTA
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintisiete de febrero de dos mil veintiséis.
+
+Vistos y teniendo presente:
+Primero: Que, de conformidad con lo dispuesto en el inciso séptimo del artículo 483-A del Código del Trabajo, se ha ordenado dar cuenta de la admisibilidad del recurso de unificación de jurisprudencia deducido por la demandada contra la sentencia dictada por la Corte de Apelaciones de Talca, que rechazó el de nulidad interpuesto contra la de instancia que acogió parcialmente la demanda, declaró indebido el despido y la condenó al pago de las prestaciones que señala.
+
+Segundo: Que según se expresa en la legislación laboral, el recurso de unificación de jurisprudencia es susceptible de ser deducido en contra de la resolución que falle el recurso de nulidad, estableciéndose su procedencia para el caso en que “respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de Tribunales Superiores de Justicia”, conforme lo explicita el artículo 483 del Código del Trabajo.
+
+Asimismo, del tenor de lo dispuesto en el artículo 483-A del cuerpo legal antes citado, aparece que esta Corte debe controlar, como requisitos para su admisibilidad, por un lado, su oportunidad; en segundo lugar, la existencia de fundamento, además de una relación precisa y circunstanciada de las distintas interpretaciones respecto de las materias de derecho objeto de la sentencia, sostenidas en diversos fallos emanados de los tribunales superiores de justicia, y finalmente, debe acompañarse copia del o los fallos que se invocan como fundamento del recurso en referencia.
+
+Tercero: Que la materia de derecho propuesta para ser unificada consiste en “Determinar el sentido y alcance del artículo 160 N°4, letra a), del Código del Trabajo, particularmente, referente a la gravedad como concepto para la determinación de lo “intempestivo”.
+Cuarto: Que la sentencia impugnada rechazó el arbitrio fundado en las causales de nulidad dispuestas en los artículos 478 e), en subsidio, 478 b) y, subsidiariamente, 477 del Código del Trabajo, dado que, con relación a la primera, aun cuando pudiere estimarse que existe una fundamentación escueta respecto de ciertos medios probatorios, dicha circunstancia no influyó sustancialmente en lo dispositivo del fallo, toda vez que la decisión de declarar indebido el despido se sustenta en que el empleador no logró acreditar suficientemente la veracidad de los hechos invocados en la carta de despido, ni la aptitud de los mismos para configurar las causales de los numerales 4 y 7 del artículo 160 del Código del Trabajo.
+Respecto de la segunda, porque, si bien puede ser discutible el razonamiento de la sentencia impugnada, no resulta manifiestamente contrario a las reglas de la sana crítica. Se construyó una inferencia, a partir de los antecedentes que daban cuenta de un conflicto latente entre las partes respecto de las condiciones de trabajo, lo que proveía de contexto y justificación a los hechos ocurridos el día del despido. Tal conclusión podrá ser compartida o no, pero no adolece de un vicio lógico evidente que autorice la invalidación del fallo por esta causa.
+Por último, referente a la tercera, puesto que el artículo 160 N°4 letra a) del Código del Trabajo define el abandono del trabajo como “la salida intempestiva e injustificada del trabajador del sitio de la faena y durante las horas de trabajo, sin permiso del empleador o de quien lo represente”, sin exigir expresamente la concurrencia de “gravedad”, como elemento de la hipótesis normativa. Sin embargo, no obsta que el tribunal pueda ponderar las circunstancias fácticas del caso para determinar si se configuran los elementos de la causal invocada.
+
+En este caso, la sentenciadora no rechazó la causal por una falta de gravedad como requisito autónomo, sino que concluyó que los hechos invocados en la carta de despido no fueron suficientemente acreditados en cuanto a su veracidad y aptitud para configurarla, de lo que se desprende que se valoró la prueba y se concluyó que los hechos acreditados no permitían configurar la causal invocada, tanto porque existían antecedentes que justificaban el actuar del trabajador, como porque el empleador no logró acreditar suficientemente las circunstancias fácticas que sustentaban el despido y esta es una cuestión de valoración probatoria, de subsunción de los hechos en la norma general y abstracta, que no constituye una errónea aplicación del derecho susceptible de ser corregida por esta vía. Así, los reproches formulados por la recurrente dicen relación más bien con una discrepancia respecto de la valoración de la prueba y con el resultado adverso del juicio y pretende una revisión de los hechos establecidos, que excede el ámbito del recurso de nulidad laboral.
+De esta forma, no ha podido constatarse un pronunciamiento sustancial que se relacione con la materia de derecho propuesta por la demandada, por lo que el recurso intentado debe ser desestimado en esta etapa procesal.
+
+Por estas consideraciones y normas citadas, se declara inadmisible el recurso de unificación de jurisprudencia interpuesto contra la sentencia de veintinueve de diciembre de dos mil veinticinco.
+
+Regístrese y devuélvase.
+
+Rol N° 2.838-2026.-
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Talca, veintinueve de diciembre de dos mil veinticuatro.
+
+VISTOS:
+
+En causa RIT O-96-2024, RUC 24-4-0559560-1 del Juzgado de Letras del Trabajo de Curicó, doña Estefanía Andrea Hunrichse Andrade, jueza suplente del mismo tribunal, con fecha seis de agosto de dos mil veinticuatro dictó sentencia definitiva, rectificada el siete del mismo mes y año, que acogió parcialmente la demanda por despido indebido interpuesta por don Evenece Elías Navarro Albornoz en contra de su ex empleadora, declarando que el término de la relación laboral de fecha 11 de marzo de 2024 se produjo por la causal del artículo 161 inciso primero del Código del Trabajo, esto es, necesidades de la empresa, condenando a la demandada al pago de las siguientes prestaciones: la suma de $1.291.485 por concepto de indemnización sustitutiva de aviso previo; la suma de $5.165.940 por concepto de indemnización por años de servicios; la suma de $4.132.752 por concepto de recargo del 80% por despido indebido; la suma de $443.760 por concepto de feriado legal adeudado; y la suma de $146.071 por concepto de feriado proporcional, todo con reajustes e intereses conforme a los artículos 63 y 173 del Código del Trabajo, eximiéndose del pago de costas a la demandada por no haber resultado totalmente vencida. Asimismo, rechazó la demanda respecto de la demandada solidaria o subsidiaria Viña Concha y Toro S.A., rechazó la pretensión de cobro de horas extraordinarias, rechazó la nulidad del despido y rechazó las solicitudes de apercibimiento formuladas por la demandante.
+
+En contra de tal fallo, interpuso recurso de nulidad don Matías Ruz Martínez, abogado, en representación de la demandada Servicios Integrales de Transporte San Daniel SpA, fundado en tres causales invocadas de manera subsidiaria.
+
+Se trajeron los autos en relación, procediéndose a la vista de la causa el 15 de diciembre de 2025, oportunidad en que se escuchó el alegato de la parte recurrente.
+
+CONSIDERANDO:
+
+PRIMERO: Que el recurrente funda su impugnación en tres causales invocadas de manera subsidiaria.
+
+Como causal principal, invoca la contemplada en el artículo 478 letra e) del Código del Trabajo, alegando que la sentencia fue dictada con omisión de los requisitos establecidos en el artículo 459 N°4 del mismo cuerpo legal, por cuanto no se habría valorado toda la prueba rendida en el juicio. Señala que el considerando décimo del fallo centró su análisis principalmente en la causal del artículo 160 N°7 del Código del Trabajo, soslayando la causal principal invocada por la empleadora, esto es, el abandono del trabajo contemplado en el artículo 160 N°4 letra a). Indica que no se habrían valorado debidamente el contrato de trabajo que establecía una jornada laboral de lunes a sábado, los reportes de GPS de los meses de septiembre y diciembre de 2023 y enero, febrero y marzo de 2024, los controles de flete, las guías de despacho, la constancia ante la Dirección del Trabajo del día 11 de marzo de 2024, la declaración de la testigo doña Cecilia de Jesús Salazar Ortega, y la prueba confesional del representante legal don Roberto Antonio Norambuena Cornejo. Reprocha que el considerando decimoquinto del fallo se limite a señalar que "respecto de los medios de prueba no aludidos, esto es los presentados por la reclamada en nada obstan a lo ya resuelto por este tribunal, en particular prueba documental consistente en reportes de producción y citación a comparendo en sede administrativa", sin explicar las razones de tal conclusión.
+
+Como primera causal subsidiaria, invoca la contemplada en el artículo 478 letra b) del Código del Trabajo, esto es, infracción manifiesta de las normas sobre apreciación de la prueba conforme a las reglas de la sana crítica, específicamente del principio de razón suficiente. Argumenta que la sentenciadora tuvo por justificada la salida del trabajador de las dependencias de la empresa basándose únicamente en capturas de pantalla de la aplicación de mensajería WhatsApp y una constancia ante la Inspección del Trabajo de fecha 27 de diciembre de 2023, antecedentes que a su juicio no se refieren a los hechos ocurridos el 11 de marzo de 2024 ni acreditan la supuesta exigencia de trabajar "de lunes a lunes" alegada por el demandante en su libelo. Sostiene que existiría contradicción en el fallo, pues la sentencia reconoce en su considerando décimo párrafo quinto que el trabajador salió de las dependencias de la empresa, pero no analiza si dicha salida fue intempestiva e injustificada conforme a la causal invocada por el empleador.
+
+La segunda causal subsidiaria alegada es la contemplada en el artículo 477 del Código del Trabajo, por errónea aplicación del artículo 160 N°4 letra a) del Código del Trabajo, en relación con el artículo 168 del mismo cuerpo normativo. Señala que la sentenciadora exigió acreditar “gravedad” y “perjuicio” para tener por configurada la causal de abandono del trabajo, requisitos que no estarían contemplados en el tipo legal, a diferencia de lo que ocurre con la causal genérica del artículo 160 N°7. Cita en apoyo de su tesis jurisprudencia de la Corte de Apelaciones de Santiago en causa rol 1798/2023.
+
+Pide se declare la nulidad de la sentencia impugnada y se dicte sentencia de reemplazo que rechace en todas sus partes la demanda deducida en autos, con expresa condena en costas.
+
+SEGUNDO: Que, en lo que respecta a la causal principal del artículo 478 letra e) del Código del Trabajo, por omisión del requisito del artículo 459 N°4 consistente en el análisis de toda la prueba rendida, corresponde señalar que una lectura íntegra de la sentencia impugnada permite constatar que la jueza a quo sí efectuó una valoración de los medios probatorios aportados por las partes.
+
+En efecto, el considerando noveno del fallo da cuenta de los hechos que la sentenciadora tuvo por acreditados con la prueba rendida, valorada conforme a las reglas de la sana crítica. En dicho acápite se analizó el contrato de trabajo, el anexo contractual, la carta de despido, las liquidaciones de remuneraciones, los comprobantes de pago, los certificados de cotizaciones previsionales, las capturas de pantalla de WhatsApp, las constancias ante la Inspección del Trabajo, y la prueba testimonial y confesional rendida en la audiencia de juicio.
+
+El hecho de que la valoración efectuada por la sentenciadora no coincida con aquella pretendida por el recurrente no constituye una omisión de análisis de prueba, sino una discrepancia con el mérito probatorio asignado, cuestión que escapa al control de esta causal. El artículo 459 N°4 del Código del Trabajo exige el análisis de toda la prueba rendida, los hechos que se estimen probados y el razonamiento que conduce a esa estimación, requisitos que se encuentran satisfechos en el fallo impugnado, aun cuando de manera sucinta en el considerando decimoquinto respecto de ciertos medios probatorios.
+
+Por lo demás, los elementos de prueba que el recurrente estima no valorados, tales como los reportes de GPS y los controles de flete, fueron efectivamente considerados en el considerando noveno numeral 5 del fallo al rechazarse la pretensión de horas extraordinarias, donde expresamente se indica que “de la documentación acompañada GPS relativo al camión que manejaría el trabajador HLZJ-84, así como de las libretas de registro diario que se encuentran llenadas, no se vislumbra ni la jornada de trabajo que señala la demandante ni la efectividad de desempeñarse de lunes a sábado”.
+
+TERCERO: Que, conforme a lo dispuesto en el inciso tercero del artículo 478 del Código del Trabajo, no producirán nulidad aquellos defectos que no influyan en lo dispositivo del fallo. En la especie, aun cuando pudiere estimarse que el considerando decimoquinto de la sentencia impugnada contiene una fundamentación escueta respecto de ciertos medios probatorios, dicha circunstancia no ha influido sustancialmente en lo dispositivo del fallo, toda vez que la decisión de declarar indebido el despido se sustenta en el razonamiento desarrollado en el considerando décimo, donde la sentenciadora analizó las pruebas pertinentes y concluyó que el empleador no logró acreditar suficientemente la veracidad de los hechos invocados en la carta de despido ni la aptitud de los mismos para configurar las causales de los numerales 4 y 7 del artículo 160 del Código del Trabajo.
+
+CUARTO: Que, en lo concerniente a la primera causal subsidiaria del artículo 478 letra b) del Código del Trabajo, por infracción manifiesta de las normas sobre apreciación de la prueba conforme a las reglas de la sana crítica, cabe precisar que esta causal tiene un carácter excepcional y restrictivo, procediendo únicamente cuando el error en la valoración de la prueba sea manifiesto, esto es, evidente, notorio y trascendente.
+
+En este sentido, el recurso de nulidad laboral no constituye una instancia de revisión amplia de los hechos establecidos por el tribunal a quo, pues la valoración de la prueba conforme a las reglas de la sana crítica es una facultad privativa de la jueza de base. Solo procede acoger esta causal cuando se demuestre que el razonamiento del sentenciador contradice abiertamente los principios de la lógica, las máximas de la experiencia o los conocimientos científicamente afianzados.
+
+En la especie, el recurrente sostiene que la sentenciadora habría vulnerado el principio de razón suficiente al tener por justificada la salida del trabajador basándose en antecedentes que no se referirían a los hechos del 11 de marzo de 2024. Sin embargo, del considerando décimo del fallo se aprecia que la jueza a quo valoró conjuntamente la constancia de diciembre de 2023 ante la Inspección del Trabajo, las capturas de pantalla de WhatsApp del 11 y 12 de marzo de 2024, y el reclamo ante la Inspección del Trabajo de igual fecha, concluyendo que “existían antecedentes que daban cuenta de que el trabajador había manifestado, ante inspección provincial del trabajo en el mes de diciembre como da cuenta documento acompañado, y comunicación mediante plataforma whatsapp con representante legal de la empresa y captura de llamado (...) en el sentido de que existiría una justificación por parte del trabajador para la ocurrencia del altercado de fecha 11 de marzo”.
+
+Dicho razonamiento, si bien puede ser discutible, no resulta manifiestamente contrario a las reglas de la sana crítica. La sentenciadora construyó una inferencia a partir de antecedentes previos que daban cuenta de un conflicto latente entre las partes respecto de las condiciones de trabajo, lo que a su juicio proveía de contexto y justificación a los hechos ocurridos el día del despido. Tal conclusión podrá ser compartida o no, pero no adolece de un vicio lógico evidente que autorice la invalidación del fallo por esta causa.
+
+QUINTO: Que, respecto de la segunda causal subsidiaria del artículo 477 del Código del Trabajo, por errónea aplicación del artículo 160 N°4 letra a) del Código del Trabajo, el recurrente alega que la sentenciadora habría exigido requisitos no contemplados en la norma, tales como la “gravedad” y el “perjuicio”, para tener por configurada la causal de abandono del trabajo.
+
+Al respecto, cabe señalar que si bien el artículo 160 N°4 letra a) del Código del Trabajo define el abandono del trabajo como “la salida intempestiva e injustificada del trabajador del sitio de la faena y durante las horas de trabajo, sin permiso del empleador o de quien lo represente”, sin exigir expresamente la concurrencia de “gravedad” como elemento de la hipótesis normativa, ello no obsta a que el tribunal de instancia pueda ponderar las circunstancias fácticas del caso para determinar si efectivamente se configuran los elementos de la causal invocada.
+
+En el caso sub lite, la sentenciadora no rechazó la causal por falta de gravedad como requisito autónomo, sino que concluyó que los hechos invocados en la carta de despido no fueron suficientemente acreditados en cuanto a su veracidad y aptitud para configurar la causal. En efecto, el considerando décimo del fallo señala que “siendo de cargo del empleador la justificación de la causal tanto en su veracidad como en su aptitud, lo cierto es que llama poderosamente la atención a esta juez, que no existan antecedentes previos durante los meses en que el trabajador se negó supuestamente a firmar la libreta de registro, sin que se acompañe amonestación en este sentido por parte del empleador de una conducta que considera de gravedad tal como para poner término a la relación laboral”.
+
+Asimismo, respecto de la salida del trabajador, la sentenciadora señaló que “para ser calificada de tal (intempestiva), habiendo ya desechado la alegación de negativa injustificada, no se ha acompañado tampoco antecedentes que den cuenta del perjuicio que hubiere causado el actuar del trabajador, más allá de la existencia de un flete con la fecha 11 de marzo a dependencias de Viña Concha y Toro, lo que por sí solo no acredita gravedad o perjuicio al empleador”.
+
+De lo anterior se desprende que la sentenciadora valoró la prueba rendida y concluyó que los hechos acreditados no permitían configurar la causal invocada, tanto porque existían antecedentes que justificaban el actuar del trabajador, como porque el empleador no logró acreditar suficientemente las circunstancias fácticas que sustentaban el despido. Esta es una cuestión de valoración probatoria y de subsunción de los hechos en la norma general y abstracta, que no constituye una errónea aplicación del derecho susceptible de ser corregida por esta vía.
+
+SEXTO: Que, por lo razonado, las causales de nulidad invocadas por el recurrente no logran configurar los vicios alegados, ya que la sentencia impugnada contiene un análisis de la prueba rendida conforme a las reglas de la sana crítica, estableciendo los hechos que tuvo por acreditados y el razonamiento que condujo a dicha estimación, sin que se advierta una infracción manifiesta a dichas reglas ni una errónea aplicación del derecho que haya influido sustancialmente en lo dispositivo del fallo.
+
+Los reproches formulados por el recurrente dicen relación más bien con una discrepancia respecto de la valoración de la prueba efectuada por la jueza a quo y con el resultado adverso del juicio, pretendiendo por esta vía una revisión de los hechos establecidos que excede el ámbito del recurso de nulidad laboral.
+
+SÉPTIMO: Que, en consecuencia, el recurso de nulidad deducido será rechazado en todas sus partes.
+
+OCTAVO: Que, respecto de las costas, debe tenerse presente que si bien el recurrente desarrolló argumentaciones jurídicas atendibles, estas no lograron desvirtuar la corrección del fallo impugnado, sin que se advierta la existencia de motivos plausibles que justifiquen eximirlo del pago de las costas, por lo que se le condenará en ellas.
+
+Y visto, además, lo dispuesto en los artículos 474, 477, 478, 479, 480, 481 y 482 del Código del Trabajo, SE RECHAZA, con costas, el recurso de nulidad interpuesto por don Matías Ruz Martínez, en representación de la demandada Servicios Integrales de Transporte San Daniel SpA, en contra de la sentencia definitiva de fecha seis de agosto de dos mil veinticuatro, rectificada con fecha siete de agosto del mismo año, dictada por doña Estefanía Andrea Hunrichse Andrade, jueza suplente del Juzgado de Letras del Trabajo de Curicó en causa RIT O-96-2024, la que, en consecuencia, NO ES NULA.
+
+Regístrese, notifíquese y devuélvase.
+
+Redactó el abogado integrante don Rodrigo Eduardo de la Vega Parra.
+Rol N° 540-2024 Laboral.
+
+Se deja constancia que no firma la ministra doña Jeannette Valdés Suazo, sin perjuicio de haber concurrido a la vista y acuerdo de la causa, por encontrarse con permiso en conformidad al artículo 347 del Código Orgánico de Tribunales, asimismo, no firma el abogado integrante don Rodrigo de la Vega Parra, no obstante haber concurrido a la vista y acuerdo de la causa, por encontrarse ausente.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+JUZGADO DE LETRAS DEL TRABAJO
+
+RIT O 96-2024
+RUC 24-4-0559560-1
+Curicó, seis de agosto de dos mil veinticuatro.
+
+VISTOS, OIDOS
+
+PRIMERO: Individualización de los intervinientes. Que son partes en este juicio laboral sobre Despido indebido, nulidad del despido, cobro de indemnizaciones y prestaciones, RIT O 96-2024, RUC 24-4-0559560-1, del Juzgado de Letras del Trabajo de Curicó, por la demandante EVENECE ELÍAS NAVARRO ALBORNOZ, trabajador, Rut N° 8.985.381-8, con domicilio en Valle de Molina, Calle 3, dpto. número 3533, comuna de Curicó, y por la demandada principal SERVICIOS INTEGRALES DE TRANSPORTE SAN DANIEL SPA, Rut N° 76.885.021-2, persona jurídica del giro de su denominación, representada legalmente por don Roberto Antonio Norambuena Cornejo, se desconoce profesión u oficio, ambos con domicilio en Longitudinal Sur Km 175, comuna de Curicó, y, solidaria o subsidiariamente en contra de VIÑA CONCHA Y TORO S.A, Rut N° 90.227.000-0, persona jurídica del giro de su denominación, representada legalmente por don Rafael Guilisasti Gana, ignoro ocupación u oficio, o por quien haga sus veces conforme al artículo 4° del Código del Trabajo, ambos domiciliados en Av. Nueva Tajamar N°481, piso 15, comuna de Providencia, región Metropolitana de Santiago.
+SEGUNDO: Síntesis de la demanda. Que se ha iniciado procedimiento ordinario por Despido indebido, nulidad del despido, cobro de indemnizaciones y prestaciones, respecto del trabajador, EVENECE ELÍAS NAVARRO ALBORNOZ, en contra de su ex empleadora SERVICIOS INTEGRALES DE TRANSPORTE SAN DANIEL SPA, y de manera solidaria o subsidiaria en contra de VIÑA CONCHA Y TORO S.A, por los fundamentos de hecho y derecho que en cada caso se señalan.
+Relata que fue contratado por su ex empleadora Servicios Integrales de Transporte San Daniel Spa, el 06/12/2019, para desarrollar la labor de chofer de camión, siendo la naturaleza del vínculo contractual indefinido y su jornada de 180 horas mensuales, de lunes a sábado, en la práctica trabajaba de 8:00 horas a 20:00 horas, con una hora de colación, no imputable a la jornada de trabajo. Lo que daba un total de 84 horas extra mensuales.
+Respecto de su remuneración señala que según consta según consta en sus liquidaciones de noviembre, diciembre de 2023 y enero de 2024, era de carácter variable y que la base de cálculos, asciende a una remuneración bruta promedio de $1.291.485.
+Alega respecto del término de la relación laboral, que con fecha 11/03/2024, fue despedido de manera verbal por su ex empleador, sin embargo, el día 12/03/2024 llega a su poder una carta de su ex empleador que indica estaba despedido en virtud de la causal del Art. 160 N.°4 y N.º 7 del Código del Trabajo. Narra así, que el día lunes 11 de marzo se presentó a trabajar a las 06:15 horas, sus labores ese día consistían como de costumbre en trasladar un contenedor en el camión que la empresa le tenía asignado hacia las instalaciones de la empresa Viña Concha y Toro S.A, al llegar se percata de que el camión no tiene puesto el contenedor, por lo que no podía cumplir sus funciones, envió un mensaje a su jefatura informando de la situación y manteniéndome en el lugar de trabajo a la espera de instrucciones, a las 9:00 horas llegan don Roberto Norambuena padre y Roberto Antonio Norambuena Cornejo hijo, Roberto Antonio Norambuena Cornejo, representante legal de la empresa le dice que las condiciones de trabajo iban a cambiar y que debía trabajar de lunes a lunes, a lo que responde que “no estoy dispuesto a hacer eso”, él dice que cuánto dinero quiere para irse, por lo que el trabajador indicó que iba a ir a la Inspección del Trabajo a denunciar esta situación.
+
+Acto seguido indica que Roberto Norambuena le pidió la llaves y le dijo que estaba despedido, entregando las llaves y dirigiéndose directo a la Inspección de Trabajo a denunciar la situación. Agrega que el despido verbal es el punto culmine de una serie de situaciones irregulares que antecedieron a su despido y que comenzaron cuando se le asignó un camión distinto al que originalmente manejaba, el cual era mas antiguo y presentaba graves problemas mecánicos, que implicaban tener que pasar mas tiempo detenido en el taller, por lo tanto, detenido y no en ruta.
+Señala que con fecha 12 de marzo llega una carta a su domicilio cuyo texto integro copia, señalando que la carta expresa un relato totalmente tergiversado de lo que ocurrió ese día. Hace presente en cuanto a sus fundamentos que su empleador aplica el artículo 160 numeral 4 sin indicar a que letra se refiere, y, además, aplica la causal del artículo 160 numeral 7, una causal de carácter genérico y residual, habiendo el legislador establecido causales específicas para el hecho que supuestamente se le imputa, en el artículo 160 N° 4 letra a, específicamente abandono del trabajo. Alega que en los hechos no ha existido abandono del trabajo por su parte, puesto que fue despedido de manera verbal, siendo una situación según refiere preparada por su empleador a quien además acusa de no haber puesto a su disposición la libreta de asistencia diaria.
+Respecto a la subcontratación, señala que sus funciones de entrega de contenedores las desempeñó siempre para la empresa Viña Concha y Toro S.A. existiendo entre las demandadas un vínculo contractual de prestación de servicios, situación que es reconocida por la demandada en la carta de despido.
+
+Indica que conforme lo dispone el artículo 73 del Código del Trabajo, hace presente que se le adeuda el pago de 22 días de Feriado legal y proporcional, de los que no ha hecho uso y tampoco ha sido compensado en dinero.
+
+Respecto de las horas extraorinarias, argumenta que realizaba horas extraordinarias constantemente, en una jornada de lunes a sábado de 08:00 a 20:00 horas, excediendo en 10 horas semanales la jornada máxima, durante los últimos 6 meses. Producto de lo anterior, se realizaban 84 horas extraordinarias mensuales. Así las cosas, las horas extras trabajadas, correspondientes a los meses de septiembre 2023 a marzo de 2024, no le fueron pagadas como en derecho corresponde. La cantidad de horas extras realizada por los días trabajados de julio a diciembre de 2023, da la suma total 504 horas extras y que en razón de su remuneración bruta, sus horas extras debían ser pagadas a razón de $7.174.- equivalentes a la suma de $3.585.456.
+
+Alega también la nulidad del despido, fundado en que en la especie, al momento del despido el empleador adeudaba las cotizaciones de seguridad social que se detallan:
+
+· Cotizaciones de AFP PROVIDA: Correspondiente al mes de febrero de 2024.
+
+· Cotizaciones de Salud FONASA: Correspondiente al mes de febrero de 2024.
+
+· Cotizaciones de AFC: Correspondientes al mes de febrero de 2024.
+
+Solicita que el despido sea declarado nulo para el demandado, en el sentido que lo establece el artículo 162 del Código del Trabajo, y procede a su respecto, el cobro inmediato de las prestaciones que la misma norma indica y que se expresan con precisión más abajo.
+
+Señala que se le adeuda por concepto de remuneración, la suma de $1.765.029.- correspondiente a la remuneración adeudada del mes de febrero de 2024 y al periodo comprendido entre el 1 de marzo de 2024 al 11 de marzo de 2024.
+
+Solicita, en definitiva declarar indebido y nulo el despido; y que se condene a las demandadas al pago de las siguientes prestaciones e indemnizaciones que se indican, o las que se, determine conforme al mérito del proceso, con sus correspondientes reajustes, intereses, aumentos legales y las costas de la causa: 1. La suma de $1.291.485, por concepto de indemnización sustitutiva de mes de aviso previo.
+
+2. La suma de $5.165.940, por concepto de indemnización por 4 años de servicios.
+
+3. La suma de $4.132.752, por concepto de recargo del 80% por despido indebido.
+
+4. La suma de $947.089, por concepto de Feriado legal y proporcional adeudado. Esto equivale a de Feriado legal y proporcional pendiente.
+
+5. La suma de $3.585.456 por concepto de horas extras no pagadas en los últimos 6 meses
+
+6. La suma de $1.765.029, por concepto de remuneración adeudada del mes de febrero de 2024 y 11 días de remuneración adeudada del periodo comprendido entre el 1 de marzo de 2024 al 11 de marzo de 2024.
+
+7. Condenar a la demandada, a enterar las siguientes cotizaciones de seguridad social: Cotizaciones de AFP PROVIDA: Correspondiente al mes de febrero de 2024. Cotizaciones de Salud FONASA: Correspondiente al mes de febrero de 2024. Cotizaciones de AFC: Correspondientes al mes de febrero de 2024. Por lo expuesto, el despido es nulo para el demandado, en el sentido que lo establece el artículo 162 del Código del Trabajo, y procede a su respecto, el cobro inmediato de las prestaciones que la misma norma indica y que se expresan con precisión más abajo. Todo en razón de $1.291.485 brutos mensuales, las cuales deberán enterarse en las instituciones antes señaladas, conforme a la remuneración indicada o la suma o periodos que se determine en la sentencia.
+
+8. Las remuneraciones que se devenguen desde la fecha del despido hasta su convalidación a razón de $1.291.485 brutos mensuales, conforme a lo dispuesto en el artículo 162 inciso quinto y séptimo del Código del Trabajo.
+
+Todo lo anterior con reajustes e intereses, de acuerdo con lo señalado en los artículos 63 y 173 del Código del Trabajo.
+
+9. Costas de la causa.
+
+10. O los montos que se, estime conformes a derecho
+
+TERCERO: Síntesis de la contestación. Que la demandada SERVICIOS INTEGRALES DE TRANSPORTE SAN DANIEL SPA, procede a contestar demanda por Despido indebido, nulidad del despido, cobro de indemnizaciones y prestaciones interpuesta en su contra por el ex trabajador EVENECE ELÍAS NAVARRO ALBORNOZ, solicitando su rechazo en definitiva con expresa condenación en costas, por los siguientes argumentos de hecho y de derecho.
+
+En cuanto a la relación laboral indica que el día 06 de diciembre de 2019, la parte y el demandante suscribieron un contrato de trabajo, de duración indefinida, vínculo que se mantuvo indemne hasta el día 11 de marzo del presente año, fecha en la cual debido a lo que la parte califica como múltiples falencias del trabajador, le informó al actor que le pondría término al contrato de trabajo que lo unía en razón de las causales previstas en los numerales 4° a) y 7° del artículo 160 del Código del Trabajo, esto es, haber abandonado injustificadamente el trabajo y haber incumplido gravemente las obligaciones que imponía su contrato.
+
+Agrega respecto a las funciones que debía ejecutar el trabajador, fue contratado como conductor de camión, debiendo desarrollar, especialmente, las obligaciones y tareas descritas en la cláusula primera de su contrato de trabajo, siendo especialmente importante la conducción por tierra de variadas cargas, y en cuanto a la jornada las partes convinieron una jornada ordinaria mensual máxima de 180 horas, cuantía que no incluye las horas de descanso interviaje, las cuales, a su turno, serían pagadas y liquidadas en consonancia con las resoluciones N° 204 de julio de 1998 y N° 611 y N° 612 de junio de 1999, todas de la Dirección del Trabajo. Sin perjuicio de ello, se estableció que en caso que no se efectuaren labores en ruta, el actor tendría una jornada ordinaria de lunes a viernes entre las 08:00 y las 17:30 horas, con 01:30 hora de colación, no imputable a la jornada de trabajo, mientras que los sábados sería entre las 08:00 y 13:00 horas.
+
+Sobre la remuneración mensual remuneración la misma asciende a un valor de $1.291.485.
+Citando la comunicación de término de la relación laboral, concluye que la empleadora que representó hizo un minucioso análisis de la situación achacada al trabajador, de manera que alegaciones formales respecto a su contenido, pareciera ser a lo menos aventurados. Por ello, es que el debate debe centrarse sobre la tergiversación que el actor expone en su líbelo. Con independencia del tipo de funciones que una persona cumpla, aparece como natural que un deber principal para ello, será registrar asistencia, salvo que dicho sujeto mantenga una jornada de trabajo más bien flexible, acorde lo prevenido en el artículo 22, inciso 2°, del Código del ramo.
+Precisa que los viajes que realiza su mandante, bien sea por contratación directa o por medio de subcontratación, se concentran entre la provincia de Curicó y los puertos de Valparaíso y San Antonio, existiendo una distancia máxima aproximada de 315 kilómetros, sin que se supere las 04 horas de traslado entre un punto y otro. De esta forma, se desdice buena parte de lo someramente expuesto por la contraria en torno a las horas extraordinarias ejecutadas. Este punto es trascendental, toda vez que no solo grafica las condiciones viales inherentes a la vinculación entre los litigantes, sino que plantea que la falta de registro de asistencia o su control por parte de la administración no tiene sentido, ya que siendo las distancias más bien cortas, no resulta necesario que el conductor pase largas horas en trayecto.
+Señala que el día sábado 09 de marzo de 2024 cuando Roberto Norambuena Cornejo, representante legal de la demanda, le consultó el estado del registro de asistencia, instancia en que se quejó que no estaba conforme con el trabajo y que las cosas debían cambiar según su parecer. Probablemente a los 02 días, al llegar a la empresa se le instruyó que debía trasladarse a la brevedad a la planta de Concha y Toro ubicada en el sector de Lontué, comuna de Molina, Evanece Navarro Albornoz simplemente se negó a ello, ante lo cual Norambuena Cornejo le replicó que ello era algo propio de sus funciones y que el viaje estaba confirmado, por lo que no podía ser reprogramado, lo que hizo, potencialmente, sabiendo que de no ceder la empresa, era altamente probable que quedaran en una posición desfavorable frente a la mandante, existiendo en concreto una negativa por parte del trabajador de ejercer sus funciones los días sábados, siendo la jornada regular de los demás trabajadores de lunes a sábado.
+
+Alega respecto de la causal del despido, que la falta de registro de asistencia de manera reiterada, constituye un hecho de la gravedad suficiente requerida por la causal invocada, agregando que si bien e la causal del artículo 160 N° 7 del Código del Trabajo es muy genérica, arrastrando un alto contenido subjetivo, debe el juez de instancia definir caso a caso cuándo enfrentaríamos un incumplimiento grave de las obligaciones que impone el contrato de trabajo, siendo de una magnitud tal el evento, que la confianza empleador-trabajador se quiebre de manera total e irreversible.
+
+Continúa argumentando que en la especie existe un incumplimiento reiterado de ello lo que resulta reforzado que luego de representada la circunstancia y ordenado corregirla, Navarro Albornoz simplemente decidió desobedecer una instrucción clara, precisa y directa, lo que hace mutar un quebrantamiento convencional aparentemente menor en grave, pero es especialmente relevante la decisión de abandonar el trabajo. Claramente la principal función de todo empleador es el pago de la remuneración ello como contrapartida de las labores que el sujeto efectuó durante el periodo respectivo, siendo, por consiguiente, este último su deber fundamental. Por lo mismo, si bien abandonar el trabajo es una causal de trabajo es una causal legal de terminación contractual en sí misma, ella lo es por la especial gravedad del asunto, no porque no sea una especie de inobservancia convencional, sino porque es de tal entidad que permite aplicar desde ya la sanción más drástica, sin que medie más oportunidades de corrección. Al respecto señala que los requisitos de procedencia son básicamente: (i) inoportunidad de la salida, (ii) carencia de motivo razonable para ello, (iii) que se provoque desde el lugar en que debiesen prestarse las funciones y (iv) que no exista autorización o justificación, indicando así que la salida del establecimiento comercial fue tan repentina que antecedió a un viaje de carga a cumplir para con la empresa Concha y Toro, el que había sido previamente confirmado para con aquella, quedando informado tanto en la mandate como iniciado los trámites de booking en el recinto portuario.
+Sostiene que el despido tuvo lugar el día 11 de marzo de 2024, aun cuando la reclamación ante la Inspección Provincial del Trabajo de Curicó señale otra cosa, instancia en que se comunicó que su contrato finalizaba por conductas imputables a él, todas las que configuran las causales de abandono injustificado del trabajo e incumplimiento grave de las obligaciones que impone el contrato de trabajo, previstas en los numerales 4° a) y 7° del artículo 160 del Código del Trabajo. Sostiene la improcedencia de las pretensiones en cuanto a indemnizaciones y recargo en base a lo señalado sobre la justificación del despido, lo que lo degenera en carentes de título. Sobre el feriado legal y proporcional, reconoce que se adeuda, parcialmente, tanto el feriado legal como el proporcional que le corresponde al demandante, pero no en los términos expuestos por el actor, toda vez que, sin precisar por acápite, se indica una deuda de 22 días por ambos conceptos, requiriéndose un pago de $947.089 por ambos. Sin embargo, la realidad es que esta parcialidad solo adeuda un total de 12 días de feriado legales y 3,95 de feriado proporcional. Por lo mismo y a razón de la base de cálculo ya expuesta, se indicará que se adeuda por feriado legal un total de $443.760, mientras que por feriado proporcional se reconoce una cuantía de $146.071. Para finalizar este punto, es dable recordar que existe profusa doctrina, inclusive emanada de la Dirección de Trabajo, que indica que en el cálculo de estos emolumentos no puede considerarse la gratificación, de manera que la base de cálculo, solo para estos puntos, es de $1.109.402.
+En atención a la sanción por nulidad del despido, citando la norma contenida en artículo 162 del Código del ramo, arguye que la obligación del empleador es informar el pago de las cotizaciones hasta el último día del mes anterior del despido, y que en el caso de autos, la desvinculación se materializó en el pasado mes de marzo, por lo que correspondía que estuvieran pagadas las cotizaciones hasta el mes de febrero de este año, lo que ha sido cumplido, encontrándose las cotizaciones previsionales por conceptos de AFP, AFC y FONASA, íntegramente pagadas.
+
+En relación a las remuneraciones cuyo cobro se pretende, son datos objetivos que ambas se adeudan. Sin perjuicio de ello, al solicitar el actor el pago íntegro de $1.291.485 se estaría dando una tesis de enriquecimiento sin causa, puesto que de dicho monto, ya se encuentran pagadas íntegramente las cotizaciones previsionales, por lo que dicha remesa debe ser adecuada al líquido a pagar. En tal sentido, el trabajador pertenece a AFP Provida, existiendo un descuento de un 11,45% por tal acápite. En el mismo sentido, se indicará que también debe descontarse un 7% adicional por concepto de FONASA y un 0,6% por AFC, lo que arroja un descuento total de un 19,05%. Es decir, lo que realmente se adeudaría, como líquido, es $1.046.748. Sin perjuicio de ello, al trabajador se le entregó un anticipo de $300.000 por asignación de viático, lo que debe ser descontado de tal monto, arrojando así un saldo pendiente en febrero del actual año por $746.748. Continúa señalando que misma cosa ocurre respecto a la remuneración de marzo, puesto que también se consideran las cotizaciones, aun cuando ellas ya fueron debidamente pagadas, por lo que es pertinente descontar tal monto. Así las cosas, es verídico una deuda remuneracional brutal de $473.544, por lo que luego de deducidas las cotizaciones previsionales, se arroja un sueldo de $383.333. Sin perjuicio de ello, al igual como ocurrió con el mes de febrero, al trabajador también se le anticipó una parte de la asignación de viático, alcanzando ésta la suma de $54.000; y una asignación de flete, por un monto de $156.690. Ambos puntos, alcanzan un total de $210.690, los que deben descontarse de la remuneración líquida expuesta. De esta forma, la deuda real es de $172.643.
+SOLICITA EN DEFINITIVA SE DECLARE, que el despido se encuentra ajustado a derecho y, por ende, no es indebido ni nulo, y como consecuencia de ello, declarar que no procede el pago de ninguna de las indemnizaciones y conceptos reclamados por el demandante, y en subsidio en el caso que se. acoja la demanda y ordene el pago de ciertas indemnizaciones, solicita que se haga en los términos expuestos en esta contestación, todo ello más la expresa condena a las costas procesales y personales que procedan.
+CUARTO: De la contestación en rebeldía de la demandada solidaria o subsidiaria. Que siendo debidamente emplazada la demandada solidaria o subsidiaria, VIÑA CONCHA Y TORO S.A., con fecha 09 de abril de 2024, la misma no contestó la acción en su contra en tiempo y forma, por lo que se tuvo por evacuado traslado en rebeldía.
+
+QUINTO: Del llamado a conciliación. Que llamadas las partes a conciliación en audiencia preparatoria al efecto, fijadas bases por el tribunal las partes no logran acuerdo en cuanto a un posible monto por lo que se tiene por frustrada.
+
+Y CONSIDERANDO:
+
+SEXTO: De convenciones probatorias y de aquellos hechos sustanciales, pertinentes y controvertidos. Que, en audiencia preparatoria al efecto, se han arribado a las siguientes convenciones probatorias:
+
+1. Fecha de inicio de la relación laboral entre las partes desde el 06/12/2019 al 11/03/2024.
+
+2. Función del trabajador de conductor.
+
+3. Base de cálculo para efectos del artículo 171 del Código del Trabajo asciende a $1.291.485.
+
+Así las cosas, se fijó por el tribunal como hechos sustanciales, pertinentes y controvertidos los siguientes:
+
+1. Efectividad de haberse cumplido con las formalidades del despido. En su caso, hechos en que se fundó la carta de despido y/o desvinculación, efectividad de los mismos y aptitud de estos para configurar la causal.
+
+2. Efectividad de haberse devengado horas extraordinarias. Base de cálculo y pago de las mismas.
+
+3. Ejercicio y/o pago de feriado legal y/o proporcional.
+
+4. Pago de cotizaciones durante la relación laboral.
+
+5. Pago de remuneraciones durante la relación laboral.
+
+6. Existencia de un régimen de subcontratación entre las demandadas SERVICIOS INTEGRALES DE TRANSPORTE SAN DANIEL SPA y VIÑA CONCHA Y TORO S.A.. En su caso, ejercicio de los derechos de información, retención y pago.
+SEXTO: De la prueba rendida. Que en audiencia única fijada al efecto las partes rindieron la siguiente prueba:
+
+PRUEBA DE LA PARTE DEMANDADA
+· DOCUMENTAL:
+
+1. Copia de contrato de trabajo de fecha 06 de diciembre de 2019 celebrado entre Servicios Integrales de Transporte San Daniel SpA y don Evanence Elias Navarro Albornoz.
+2. Copia de anexo de contrato de 01 de septiembre de 2023 celebrado entre Servicios Integrales de Transporte San Daniel SpA y don Evanence Elias Navarro Albornoz.
+
+3. Copia de set de 05 reportes de producción, correspondiente a los meses de Septiembre y diciembre de 2023 y enero, febrero y marzo de 2024.
+
+4. Reportes de GPS en los meses de septiembre y diciembre de 2023 y enero, febrero y marzo de 2024. (Software Flotasnet).
+
+5. Certificado de cotizaciones previsionales de don Evanence Elias Navarro Albornoz, instrumento que abarca entre enero de 2023 y marzo de 2024, ambos meses inclusive.
+
+6. Copia de correo electrónico hacia Viña Concha y Toro correspondiente a jornada de 08 de marzo de 2024.
+
+7. Copia de correo electrónico hacia Viña Concha y Toro correspondiente a jornada de 11 de marzo de 2024.
+
+8. Copia de controles de fletes correspondiente a los meses de febrero de 2024.
+
+9. Copia de comprobante de pago remuneraciones de los meses de febrero y marzo de 2024 de don Evanence Elias Navarro Albornoz
+
+10. Copia de comprobante de feriado de don Evanence Navarro Albornoz de los años 2022 y 2023 (set de 3).
+11. Constancia ante portal DT del día 11 de marzo de 2024.
+
+12. Copia de Carta de aviso de término de relación laboral de 11 de marzo de 2024.
+
+13. Comprobante de aviso de término de relación laboral ante DT de fecha 11 de marzo de 2024.
+
+14. Voucher de envío de carta por Correos de Chile, documento de fecha 11 de marzo de 2024.
+
+15. Citación a comparendo ante la Inspección Provincial del Trabajado de Curicó de fecha 11 de marzo de 2024.
+· Testimonial:
+
+1. Comparece doña CECILIA DE JESÚS SALAZAR ORTEGA, cédula de identidad N°13.574.014-4, quien previamente juramentada depone al tenor de registro de audio el que se tiene por reproducido por economía procesal, sin perjuicio de su valoración en su oportunidad.
+PRUEBA DE LA PARTE DEMANDANTE
+
+· Documental:
+
+1. Contrato de trabajo de fecha 06 de diciembre de 2019.
+
+2. Carta de aviso de término de contrato de trabajo de fecha 11 de marzo de 2024.
+
+3. Set de 03 liquidaciones de sueldo del actor de los meses de noviembre, diciembre de 2023 y enero de 2024.
+
+4. Activación de fiscalización N° de fiscalización 162 ante Inspección del Trabajo de fecha de origen 26 de febrero de 2024.
+
+5. Constancia ante la inspección del trabajo de fecha 27 de diciembre de 2023.
+
+6. Reclamo ante la inspección del trabajo de fecha 11 de marzo de 2024
+
+7. Capturas de pantalla de aplicación de mensajería WhatsApp de conversación del actor con contacto “OFICINA CURICO” del periodo comprendido entre el 11 y 12 de marzo de 2024, ambas fechas incluidas.
+
+8. Captura de pantalla de perfil de WhatsApp de número de contacto “OFICINA CURICO” +56 9 5397 3374.
+
+9. Captura de pantalla de registro llamada telefónica de contacto OFICINA CURICO número telefónico +56 9 5397 3374 de fecha 11 de marzo.
+
+10. Certificado de pago de cotizaciones emitido por AFC Chile S.A., de fecha 20 de marzo de 2024.
+
+11. Certificado de pago de cotizaciones previsionales emitido por AFP PROVIDA, de fecha 13 de marzo de 2024.
+
+12. Certificado de pago de cotizaciones previsionales emitido por FONASA de fecha 20 de marzo de 2024.
+
+· Exhibición de documentos (exhibidos):
+
+· Contratos de trabajo y anexos suscritos con Evenece Elías Navarro Albornoz del periodo comprendido entre diciembre de 2019 a marzo de 2024, ambos meses incluidos.
+· Guías de despacho relativas a los vehículos conducidos por el actor, del periodo comprendido entre agosto de 2023 a marzo de 2024, ambos meses incluidos.
+· Hojas de Ruta o Planillas de Ruta de los vehículos conducidos por el actor, del periodo comprendido entre desde agosto de 2023 a marzo 2024, ambos meses incluidos. (Obligatoriedad de tenerlos señalada en Resolución exenta 1719, del Ministerio del Trabajo y Previsión Social, promulgada con fecha 16 de octubre de 1990).
+
+· Registro de resumen GPS u otro método de control de los vehículos conducidos por el actor, del periodo comprendido entre agosto de 2023 a marzo de 2024, ambos meses incluidos.
+· Comprobante de otorgamiento de feriados debidamente suscrito por Evenece Elías Navarro Albornoz del periodo comprendido entre diciembre de 2021 a marzo de 2024, ambos meses incluidos.
+
+· Comprobante de pago de remuneraciones debidamente suscrito por Evenece Elías Navarro Albornoz, del periodo comprendido entre enero a marzo de 2024, ambos meses incluidos.
+· Contrato civil, mercantil o de la naturaleza que fuera, suscrito con la demandada solidaria VIÑA CONCHA Y TORO S.A., en el periodo comprendido diciembre de 2019 a marzo de 2024, ambos meses incluidos.
+· Facturas emitidas a la demandada solidaria VIÑA CONCHA Y TORO S.A., en el periodo comprendido entre diciembre de 2019 a marzo de 2024, ambos meses incluidos.
+· Confesional:
+
+Comparece don ROBERTO ANTONIO NORAMBUENA CORNEJO, en su calidad de representante legal de la demandada SERVICIOS INTEGRALES DE TRANSPORTE SAN DANIEL SPA., quien exhortado a decir verdad depone al tenor de registro de audio el que se tiene por reproducido por economía procesal, sin perjuicio de su valoración en su oportunidad.
+
+Se deja constancia que se le exhibe al absolvente de la prueba documental de la parte demandante los siguientes documentos denominados: “Capturas de pantalla de aplicación de mensajería WhatsApp de conversación del actor con contacto “OFICINA CURICÓ” del periodo comprendido entre el 11 y 12 de marzo de 2024, ambas fechas incluidas”; Captura de pantalla de perfil de WhatsApp de número de contacto “OFICINA CURICÓ” +56 9 5397 3374; Carta de aviso de término de contrato de trabajo de fecha 11 de marzo de 2024.
+
+· Testimonial
+
+Comparece don CARLOS ARTURO MELLA CÁCERES, cédula de identidad N°10.293.288-9, quien previamente juramentado depone al tenor de registro de audio el que se tiene por reproducido por economía procesal, sin perjuicio de su valoración en su oportunidad.
+
+SÉPTIMO: De los apercibimientos solicitados. Que en audiencia de juicio respectiva la parte demandante, solicita apercibimiento del artículo 453 numeral 5 del Código del Trabajo, en relación a los documentos solicitados exhibir al siguiente tenor:
+
+· Liquidaciones de remuneraciones debidamente suscritas Evenece Elías Navarro Albornoz, del periodo comprendido entre septiembre de 2023 a marzo de 2024, ambos meses incluidos. La parte demandante solicita apercibimiento por cuanto las liquidaciones exhibidas no se encuentran debidamente suscritas en los meses de febrero y marzo, la parte demandada señala que las mismas no se suscriben por el trabajador por haberse encontrado ya desvinculado el trabajador en atención a que la remuneración del mes de febrero correspondía pagarse el día 20 de marzo, agregando que el apercibimiento es inoficioso por ser convención probatoria la base de cálculo de remuneración mensual.
+En relación a los documentos solicitados exhibir, según minuta de audiencia numerales 3, 4, 5 y 6, que a continuación se detallan las partes realizan alegaciones en el mismo sentido.
+· Libro o registro de asistencia, relojcontrol o cualquier otro medio idóneo para registrar asistencia, debidamente suscrito por Evenece Elías Navarro Albornoz del periodo comprendido entre agosto de 2023 a marzo de 2024, ambos meses incluidos.
+
+· Libreta de registro diario de asistencia conductores de vehículos de carga interurbana, libro de conducción, del vehículo conducido por el actor, del periodo comprendido entre agosto de 2023 a marzo de 2024, ambos meses incluidos.
+
+· Libro de conducción, de los vehículos conducidos por el actor, del periodo comprendido entre agosto de 2023 a marzo de 2024, ambos meses incluidos.
+
+· Registro resumen de control mensual de horas del actor, del periodo comprendido entre agosto de 2023 a marzo de 2024, ambos meses incluidos.
+La parte demandante solicita apercibimiento en base a que, si bien se acompañan libretas, las mismas en el año 2024 no se encuentran con llenado alguno ni los días ni horarios en que se debía trabajar, por lo que malamente el trabajador podría haber firmado las mismas a su parecer, por su parte la demandada alega que el libro de asistencia del trabajador se encontraba sin firma desde hace meses, lo que es motivo precisamente de la carta de despido, acompañándose las libretas de asistencia.
+
+· Comprobante de otorgamiento de descanso semanal compensatorio por los días domingos y festivos trabajados, del periodo comprendido entre agosto de 2023 a marzo de 2024, ambos meses incluidos. La parte demandante solicita apercibimiento por ser hechos controvertidos, y evacuando traslado conferido la parte demandada alega que no es posible exhibir documentos que no existen, por cuanto en todo momento su parte ha sostenido que no se otorgaba dicho descanso pues la jornada del trabajador según da cuenta GPS acompañado, no incluía feriados ni domingos, agrega que no existe obligación legal de entregar comprobantes de aquello.
+
+· Facturas emitidas o recibidas, relativas a despachos realizados por los vehículos conducidos por el actor, del periodo comprendido entre diciembre de 2019 a marzo de 2024, ambos meses incluidos. La parte demandante solicita apercibimiento de manera parcial desde diciembre 2019 a diciembre de 2023 toda vez que no se cumplió a cabalidad lo solicitado ni se acompañaron las facturas que se indica que existen a título de ilustrar al tribunal, la parte demandada alega que sólo se incorporaron los del año 2024, atendido a que las facturas se generan de forma mensual de manera genérica y no por cada viaje ni por cada camión, agrega que no existe obligatoriedad de llevar tales registros que son de tipo tributarios o comerciales.
+Que respecto de los apercibimientos solicitados del artículo 453 numeral 5 del Código del Trabajo, esta sentenciadora no dará lugar a los mismos en primer lugar respecto de Facturas emitidas o recibidas, relativas a despachos realizados por los vehículos conducidos por el actor, por cuanto no se trata de documentos que deban obrar en poder del empleador en materia laboral y en un segundo término en atención a que la parte demandada ha dado justificación lógica de su falta de existencia, lo que se condice con la documentación consistente en facturas efectivamente acompañadas, las que no se emiten por camión o conductor, sino por una serie de facturaciones unidas.
+
+Que así tampoco se considera injustificada la falta de exhibición respecto de registros de asistencia signados como numerales 3, 4, 5 y 6, ya que de acuerdo a la teoría del caso de la demandada y como da cuenta la comunicación de despido, la falta de suscripción de la libreta respectiva de manera constante es precisamente motivo del despido, los que sin perjuicio se ha acompañado libreta de registro diario de asistencia del año 2024 que se encuentra en blanco, salvo la carátula y timbre de Inspección Provincial del Trabajo con revisión 12 de abril de 2024, y las libretas debidamente llenadas de los meses de junio a diciembre de 2023.
+
+Que respecto de los comprobantes de descanso lo cierto es que tampoco se dará lugar a tal apercibimiento en atención a que de acuerdo a lo señalado en contrato de trabajo, y a la propia demanda no existe jornada de trabajo que amerite compensación de festivos y domingos, siendo su jornada según indican ls alegaciones de las partes de lunes a viernes o de lunes a sábado pero sin comprender días inhábiles. Que en este mismo sentido y considerando que las liquidaciones de remuneraciones han sido efectivamente acompañadas al proceso, la sola falta de suscripción de las de los meses de febrero y marzo de 2024, considerando además la prueba rendida consistente en comprobantes de pago de tales liquidaciones y no existiendo controversia respecto de la base de cálculo de la última remuneración mensual, desconoce el tribunal respecto de qué hechos podría hacer efectivo el apercibimiento, incluso considerando que los mismos no fueron exhibidos, lo que no es el juicio de esta sentenciadora en este caso.
+Asimismo, la parte demandante solicita apercibimiento a la demandada VIÑA CONCHA Y TORO S.A., por no exhibir los siguientes documentos:
+
+1. Contrato civil, mercantil o de la naturaleza que fuera, suscrito con el demandado principal Servicios Integrales De Transporte San Daniel SPA., en el periodo comprendido diciembre de 2019 a marzo de 2024, ambos meses incluidos.
+
+2. Facturas recibidas y/o pagadas a la demandada principal Servicios Integrales De Transporte San Daniel SPA., en el periodo comprendido entre diciembre de 2019 a marzo de 2024, ambos meses incluidos.
+
+Que respecto del apercibimiento relativo a la exhibición de documentos, del artículo 454 numeral 5 respecto de la demandada solidaria o subsidiaria, si bien ha existido una falta de exhibición que no se ha justificado en atención a la rebeldía de la demandada solidaria o subsidiaria, tal apercibimiento a juicio de esta sentenciadora y a fin de hacer razonada y justificada la utilización de dicha facultad legal, debe ser en concordancia con otros medios de prueba, existiendo prueba rendida en el proceso que da cuenta de hechos que no permiten concluir lo que parece pretender la actora, como se desarrollará en el considerando siguiente, lo que por lo demás no ha indicado en términos precisos respecto de aquellos presupuestos fácticos sobre los que pretende acreditar veracidad, por lo que se rechazará la solicitud también en este caso.
+NOVENO: De los hechos acreditados. Que en atención a lo razonado en los párrafos precedentes, con la prueba rendida en el juicio valorada de acuerdo con las reglas de la sana critica, esto es libremente sin contradecir las reglas de la lógica, las máximas de la experiencia y el conocimiento científicamente afianzado, conforme lo dispuesto en el artículo 456 del Código del Trabajo, se tienen por acreditados los siguientes hechos:
+
+1. Que ha existido relación laboral bajo subordinación y dependencia entre el demandado principal SERVICIOS INTEGRALES DE TRANSPORTE SAN DANIEL SPA, y el trabajador EVENECE ELÍAS NAVARRO ALBORNOZ, que se extendió desde el 06 de diciembre de 2019 al 11 de marzo de 2024 desempeñándose como conductor, y que la última remuneración mensual para efectos del artículo 172 del Código del Trabajo asciende a la suma de $1.291.485 (un millón doscientos noventa y un mil cuatrocientos ochenta y cinco pesos).
+Lo anterior se acredita mediante convención probatoria arribada por las partes, la que es concordante con prueba documental acompañada consistente en contrato de trabajo suscrito entre las partes y anexo, así como carta de termino de la relación contractual.
+2. Que el despido efectuado por la demandada principal con fecha 11 de marzo de 2024, cumple con las formalidades de comunicación del artículo 162 del Código del Trabajo según prueba documental que se acompaña remitiendo comunicación mediante correos de Chile, no ha sido justificado suficientemente por el empleador en cuanto a los hechos que lo motivan según carta de despido y la aptitud de los mismos para configurar la causal del artículo 160 numeral 7 del Código del Trabajo.
+
+Que en este sentido la misiva acompañada como prueba documental fechada al día 11 de marzo de 2023, indica como fundamento de hecho el siguiente:
+“Por medio de la presente misiva y en razón de los hechos acaecidos el día de hoy, le comunicamos que se ha resuelto poner término a su contrato de trabajo de fecha 06 de diciembre de 2019, en virtud de las causales dispuestas en los numerales 4 y 7 del artículo 160 del Código del Trabajo, esto es, abandono del trabajo e incumplimiento grave de las obligaciones que impone el contrato de trabajo. Asimismo, se dirá que sus labores han finalizado en idéntica data de esta misiva.
+Es del caso, que en horas de la mañana, mientras el suscriptor de esta carta lo instruía de las funciones que se prestarían hoy, sin razón alguna usted me indicó que no haría tal viaje, razón por la cual se le reprendió y se le informó que sus compañeros de trabajos ya estaban cumpliendo con lo encomendado, asunto que provocó su enojo y me dijo que de ser así, que lo echara. Ante ello, le reiteré que debía efectuar el viaje de carga a Viña Concha y Toro, planta Lontué, toda vez que ya se encontraba informado en tal establecimiento el camión y chofer que realizaría los servicios, lo que no fue suficiente.
+Tras ello, usted retiró sus pertenencias del camión placa patente única HLZJ-84 que se le había asignado, dejando todo lo demás, junto con la llave del móvil, en las dependencias de esta administración, abandonando su puesto de trabajo, de manera intempestiva e injustificada, sin que hubiera existido autorización alguna de la administración de esta empleadora y sin que diera explicación para ello, dejando vacante un viaje previamente confirmado con nuestra mandante.
+En tal orden de ideas, es menester recordar que en la cláusula quinta de su contrato de trabajo se establece una jornada ordinaria de trabajo máxima de 180 horas mensuales, fijándose también su obligación de concurrir hasta nuestras oficinas para recibir las pertinentes instrucciones. En tal sentido, se agrega un horario de trabajo, el cual solo tendría lugar en la medida que no se encontrara en ruta. De esta forma, usted cumplía su horario de trabajo manteniéndose en ruta (incluido sus descansos) o en nuestro establecimiento físico ubicado en Lote A Rauquén, Curicó o Sector Los Carros Sin Número, comuna de Curicó, por lo que no estando en ninguna de las dos, usted incurriría en incumplimiento contractual.
+Asimismo, en la cláusula 11 de la convención que nos unía, particularmente en su número 13, ambas partes convenimos la prohibición especial de ausentarse o atrasarse de sus labores sin justificación, asunto que materialmente ha concurrido con la conducta que ha sido previamente descrita.
+Yendo hacia el fondo del asunto, es preciso aclarar que justamente por la naturaleza de las funciones que usted prestaba para esta empresa, no podemos sino que concluir que su puesto de trabajo es justamente el tracto camión que le ha sido entregado, ello al menos mientras realiza viajes entre nuestros proveedores y los puertos del país, por lo que retirarse del mismo, devolviendo todo lo existente ahí y yéndose del lugar de estacionamiento que este ente dispone, solo puede comprender un abandono del trabajo en los términos del artículo 160 N° 4 del Código del Trabajo.
+
+Ahora bien, si como ello no bastare, revisado los elementos que fueron depositados en nuestro establecimiento, personal administrativo se ha percatado que usted no ha registrado su asistencia en la libreta especialmente entregada al efecto, ello no obstante ser una instrucción que diariamente se imparte y que ya ha había sido amonestado verbalmente por lo mismo. Tal es la importancia de dicho elemento, que en la cláusula 10 N° 14 del antedicho negocio jurídico fue fijado como una obligación esencial1. A su vez, no obstante encontrarse contractualmente establecido tal mandato, no deja de ser cierto que el mentado acápite debe ser ponderado a propósito de la cláusula 13 del contrato de trabajo que nos ligaba, resultando reforzada dicha obligación por las especiales órdenes que se le impartieron en tal sentido, cuestión que nos plantea un incumplimiento contractual.
+
+Ahora bien, es claro que, mirado aisladamente, pareciera impropio considerarlo como grave, pero lo cierto que la intensidad de la desobediencia convencional viene dada por la reiteración en el tiempo, más aun cuando fue que previamente ya se le había representado y se había reprendido por lo mismo.
+No obstante lo anterior, en el presente caso, especial atención tiene vuestro abandono de las funciones, puesto que esta empresa ya había organizado todos los turnos de trabajo, por lo que, lamentablemente, no tenía como reemplazar su falencia, quedando así privada de efectuar el viaje convenido para con Viña Concha y Toro, lo que nos llevó a incumplir el encargo de una mandante, quedando expuestos a multas y a la conclusión de nuestra relación comercial para con ella. Y es justamente aquí donde la gravedad se aprecia con mayor claridad, en cuanto no solo nos privó de una legítima ganancia, sino que ha abierto un flanco para sanciones comerciales en contra de esta empresa, castigos que pueden llevar, inclusive, al rompimiento de vinculaciones financieras.
+Todo lo que ha sido expuesto ha quebrantado la confianza que esta empleadora había depositado en usted, tornándose imposible mantener nuestra vinculación contractual ulteriormente.
+De igual forma y según lo prevenido en el artículo 162, inciso 5°, del Código del Trabajo, le comunico que sus cotizaciones de seguridad social se encuentran íntegramente pagadas, tal como lo consigna el certificado de pago de ellas que se acompaña en este acto. Asimismo, se hace presente que su finiquito se encontrará disponible para su celebración en los próximos 10 días, en consonancia con lo prescrito en el artículo 177 del Código del Trabajo, instrumento que puede ser celebrado de manera presencial ante los ministros de fe que la normativa reconoce o electrónicamente, a través del portal de la Dirección del Trabajo, lo que será definido según su voluntad. En caso de ser presencial, se depositará el documento en la Notaría de don Hernán Fuentes Acevedo. Finalmente, se le hace presente que, en caso que lo estimare pertinente, usted está facultado para reservarse derechos y acciones, lo que no podrá ser impedido ni siquiera por el ministro de fe que autoriza dicho instrumento
+Que por la extensión del hecho señalado en este apartado, se analizará el mismo de forma extendida en el considerando siguiente.
+3. Que el empleador ha acreditado el pago de las remuneraciones de los meses de febrero y marzo y el ejercicio de feriado o pago de feriado proporcional.
+
+Que en este sentido se han acompañado como prueba documental comprobante de pago por las sumas de $1.157.914 y $231.022 en el mes de abril de 2024, lo que corresponde a pago por remuneraciones según da cuenta liquidaciones también acompañadas a la causa respecto de los meses de febrero y marzo de 2024. Que así también se han acompañado Copia de comprobante de feriado de don Evanence Navarro Albornoz de los años 2022 y 2023. Que en este entendido y tal como ha reconocido la parte demandada, se adeudan 12 días de feriado legal y 3,95 de feriado proporcional, por un total de $443.760, y de $146.071, respectivamente.
+4. Que el empleador mediante certificado de pago de obligaciones previsionales respectivo, ha acreditado el pago de las cotizaciones correspondientes a salud, fondo de pensiones y seguro de cesantía, con fecha 22 de marzo de 2024.
+Que se ha acreditado que las cotizaciones de tipo previsional se encuentran pagadas con fecha 22 de marzo de 2024, por parte del empleador, que en este sentido y siendo el alcance de la norma del artículo 162 el del Código del Trabajo, el penalizar al empleador que indebidamente se apropia de las cotizaciones que retiene a sus trabajadores, y dando cuenta de que las cotizaciones del mes de febrero fueron pagadas dentro del mes en que deben ser enteradas, esto es marzo de 2024, e incluso antes de la notificación se la sentencia, lo cierto es que este tribunal considera que no es procedente en el caso la sanción solicitada, siendo el despido validado por el pago dentro de plazo legal para efectuarlo, por parte del empleador.
+5. Que la parte demandante no ha logrado acreditar la existencia de horas extraordinarias que se adeuden así como la existencia de relación de subcontratación entre la demandada principal y la demandada soldaría o subsidiaria.
+Que en este entendido y respecto de las horas extraordinarias, la parte demandante fundamenta su pretensión en los siguientes presupuestos de hecho que el trabajador desempeñaba su jornada de “lunes a sábado de 08:00 a 20:00 horas, excediendo en 10 horas semanales la jornada máxima, durante los últimos 6 meses” y que “las horas extras trabajadas, correspondientes a los meses de septiembre 2023 a marzo de 2024, no le fueron pagadas como en derecho corresponde da la suma total 504 horas extras”. Que así de la documentación acompañada GPS relativo al camión que manejaría el trabajador HLZJ-84, así como delas libretas de registro diario que se encuentran llenadas, no se vislumbra ni la jornada de trabajao que señala la demandante ni la efectividad de desempeñarse de lunes a sábado, por lo que a falta de otro tipo de prueba que de cuenta de los pruesupuesto de hecho para dar lugar a la base de cálculo, en la forma en que ha sido fijado el punto de prueba por el tribunal , y siendo de su cargo la prueba, no se accederá a dicho concepto, máxime si del contrato de trabajo tampoco se vislumbra el horario que señala la actora.
+
+Que respecto del demandado solidario o subsidiario, si bien se solicitó apercibimiento ante la falta de exhibición de documentos, lo cierto es que de las facturas acompañadas, emitids en favor de persona jurídica Transportes Andino S.A. y lo señalado por el propio testigo de la parte, en cuanto a que sería respecto de dicha sociedad con quienes se prestaría servicios de transporte de vino y frutas, lo cierto es que o se puede concluir la existencia de vínculos ya sea civiles o comerciales entre el demandado principal y el demandante solidario o subsidiario VIÑA CONCHA Y TORO S.A., ya que si bien se ve en las guías de despacho que este es el destino, tales documentos tributarios y ante la propia prueba rendida por la parte en el proceso, son insuficientes para tener por acreditados los requisitos del artículo 183-A del Código dell Trabajo, relativos a la existencia de subcontratación.
+
+DÉCIMO: Del despido indebido. Que en la presente causa, se ha establecido que la demandada comunica al trabajador demandante en el mes de junio de 2023, el término de sus funciones basada en incumplimiento grave de las obligaciones que impone el contrato del artículo 160 numeral 4 y numeral 7 del Código del Trabajo, que en este sentido y como se ha establecido previamente el empleador no ha acreditado la veracidad de los hechos contenidos en la misiva y que justificarían la desvinculación del señor Navarro.
+
+Que en este entendido la normativa en comento señala lo siguiente:
+
+“Art. 160. El contrato de trabajo termina sin derecho a indemnización alguna cuando el empleador le ponga término invocando una o más de las siguientes causales:
+
+(…) 4.- Abandono del trabajo por parte del trabajador, entendiéndose por tal:
+a) la salida intempestiva e injustificada del trabajador del sitio de la faena y durante las horas de trabajo, sin permiso del empleador o de quien lo represente, y
+
+b) la negativa a trabajar sin causa justificada en las faenas convenidas en el contrato (…)
+
+7.-  Incumplimiento grave de las obligaciones que impone el contrato”.
+Que en este sentido las alegaciones principales dicen relación con la falta de firma de libreta de asistencia durante un periodo prolongado, que de acuerdo a documento que se acompaña corresponde a los meses del año 2024, enero febrero y días de marzo, así como la negativa a trabajar o salida intempestiva del lugar de trabajo sin autorización de la jefatura. Que en este último sentido si bien existe constancia de igual fecha del despido ante Inspección Provincial del Trabajo, y señala testigo de oídas, dependiente del demandado estar en conocimiento de tales hechos, de haber salido el trabajador de dependencias de la empresa, lo cierto es que tales hechos de haberse acreditado de manera suficiente no constituyen gravedad tal para poner termino a la relación laboral.
+
+Que la afirmación anterior se basa en que efectivamente y de forma previa existían antecedentes que daban cuenta de que el trabajador había manifestado, ante inspección provincial del trabajo en el mes de diciembre como da cuenta documento acompañado, y comunicación mediante plataforma “whatsapp” con representante legal de la empresa y captura de llamado, a quien se le exhibe dicho número de teléfono indicando que sólo él y un asistente tienen acceso al mismo, en el sentido de que existiría una justificación por parte del trabajador para la ocurrencia del altercado de fecha 11 de marzo, respecto del cual también este último realiza denuncia ante Inspección del trabajo ya aludida.
+
+Que en este sentido además y siendo de cargo del empleador la justificación de la causal tanto en su veracidad como en su aptitud, lo cierto es que llama poderosamente la atención a esta juez, que no existan antecedentes previos durante los meses en que el trabajador se negó supuestamente a firmar la libreta de registro, sin que se acompañe amonestación en este sentido por parte del empleador de una conducta que considera de gravedad tal como para poner término a la relación laboral. Que respecto del segundo punto, relativo a la salida intempestiva, lo cierto que para ser calificada de tal (intempestiva), habiendo ya desechado la alegación de negativa injustificada, no se ha acompañado tampoco antecedentes que den cuenta del perjuicio que hubiere causado el actuar del trabajador, más allá de la existencia de un flete con la fecha 11 de marzo a dependencias de Viña Concha y Toro, lo que por sí solo no acredita gravedad o perjuicio al empleador.
+Que si bien las causales contenidas en artículo 160 del Código del Trabajo, dan cuenta de una facultad que tiene el empleador para sancionar actuaciones graves en las que incurra el trabajador, lo cierto es que dicha normativa es de tipo excepcional por lo que debe primordialmente ser justificada por el empleador, no tan sólo en su existencia sino también en le posibilidad de justificar los mismos la causal invocada.
+Que en este sentido el artículo 168 inciso cuarto del Código del Trabajo ordena a este tribunal en el siguiente sentido: “Si el juez estableciere que la aplicación de una o más de las causales de terminación del contrato establecidas en los artículos 159 y 160 no ha sido acreditada, de conformidad a lo dispuesto en este artículo, se entenderá que el término del contrato se ha producido por alguna de las causales señaladas en el artículo 161, en la fecha en que se invocó la causal, y habrá derecho a los incrementos legales que corresponda en conformidad a lo dispuesto en los incisos anteriores”. Que siendo un imperativo legal la declaración en este sentido, se declara que el término de la relación laboral de fecha 11 de marzo de 2024 se ha producido por la causal del artículo 161 inciso primero del Código del Trabajo, esto es, necesidades de la empresa.
+
+DÉCIMO PRIMERO: De las indemnizaciones. Que en este sentido el artículo 168 del Código del Trabajo en su inciso primero en lo pertinente indica lo siguiente: ”El trabajador cuyo contrato termine por aplicación de una o más de las causales establecidas en los artículos 159, 160 y 161, y que considere que dicha aplicación es injustificada, indebida o improcedente, o que no se haya invocado ninguna causal legal, podrá recurrir al juzgado competente, dentro del plazo de sesenta días hábiles, contado desde la separación, a fin de que éste así lo declare. En este caso, el juez ordenará el pago de la indemnización a que se refiere el inciso cuarto del artículo 162 y la de los incisos primero o segundo del artículo 163, según correspondiere, aumentada esta última de acuerdo a las siguientes reglas: (…)
+
+c) En un ochenta por ciento, si se hubiere dado término por aplicación indebida de las causales del artículo 160”
+
+Que habiéndose establecido en el acápite anterior la aplicación indebida de la causal establecida en artículo 160 del mismo cuerpo legal, corresponde entonces las indemnizaciones a las que da lugar la norma en cuestión. En relación a aquella contenida en el artículo 162 del código del ramo, esto es, de indemnización por aviso previo, lo cierto es que de los hechos se ha establecido que la carta de despido se fecha al día 11 de marzo de 2024, , por lo que no cumpliendo con dicha formalidad en cuanto a la anticipación requerida y no habiéndose justificado la causal esgrimida, procede otorgar la misma por los montos que se indicarán en la sentencia respectiva.
+
+Que a su vez como consecuencia de las declaraciones precedentes, corresponde la indemnización contenida en artículo 162 inciso 2° por años de servicio, calculado por el periodo entre los días 06 de diciembre de 2019 al 11 de marzo de 2024, en los términos en que se explicitan en la parte resolutiva de esta sentencia, en razón de treinta días de la última remuneración mensual devengada por cada año de servicio y fracción superior a seis meses, correspondiente a 7 años de prestación de servicios. Que en este mismo punto y según la normativa ya citada, habiéndose declarado el despido indebido, corresponde recargo respecto de esta última indemnización por el aumento de un 80% (ochenta por ciento), como se indicará en la parte resolutiva de esta sentencia.
+
+DÉCIMO SEGUNDO: Sobre las prestaciones demandadas. Que en este ítem considerando lo prescrito en artículos 67 y 73 ambos del Código del Trabajo, citando al efecto esta última disposición que reza en lo pertinente lo siguiente: “El feriado establecido en el artículo 67 no podrá compensarse en dinero… Con todo, el trabajador cuyo contrato termine antes de completar el año de servicio que da derecho a feriado, percibirá una indemnización por ese beneficio, equivalente a la remuneración íntegra calculada en forma proporcional al tiempo que medie entre su contratación o la fecha que enteró la última anualidad y el término de sus funciones.
+Que en este entendido y considerando los comprobantes de ejercicio de ferido legal acompañados y sin que se acompañe comprobante de pago de feriados posteriores salvo aquellos relativos al pago de remuneraciones de los meses de febrero y marzo de 2024, se reconoce que se adeudan 12 días de feriado legal y 3,95 de feriado proporcional, por un total de $443.760, y de $146.071, respectivamente.
+DÉCIMO TERCERO: Sobre los reajustes e intereses. Que todas las sumas antes señaladas deberán ser reajustadas y devengan intereses en la forma prevista en artículos 63 y 173 del Código del Trabajo, según corresponda.
+
+DÉCIMO CUARTO: Sobre las costas. Que no se condenará en costas a la demandada SERVICIOS INTEGRALES DE TRANSPORTE SAN DANIEL SPA, por no resultar totalmente vencida.
+DÉCIMO QUINTO: Análisis de todos los medios de prueba. Que respecto de los medios de prueba no aludidos, esto es los presentados por la reclamada en nada obstan a lo ya resuelto por este tribunal, en particular prueba documental consistente en reportes de producción y citación a comparendo en sede administrativa.
+Y visto lo dispuesto en los artículos 1, 4, 5, 7, 63, 161, 162, 168, 172,173, 183 A, 420, 425, 432, 453, 454, 456 y 472 del Código del Trabajo, y demás normas legales invocadas, SE RESUELVE.
+
+I. Que, SE RECHAZA, solicitudes de apercibimiento en relación al artículo 453 numeral 5 del Código del Trabajo, por lo razonado en considerando
+
+I. Que, SE ACOGE, parcialmente la demanda interpuesta por EVENECE ELÍAS NAVARRO ALBORNOZ,, en contra de su ex empleador SERVICIOS INTEGRALES DE TRANSPORTE SAN DANIEL SPA, representada por don Roberto Antonio Norambuena Cornejo, , todas ya individualizadas y se declara:
+1.- Que la relación laboral habida entre esta parte EVENECE ELÍAS NAVARRO ALBORNOZ, y la empresa SERVICIOS INTEGRALES DE TRANSPORTE SAN DANIEL SPA, se extendió ininterrumpidamente desde el 06 de diciembre de 2019 al 11 de marzo de 2024.
+
+2.- Que la última remuneración mensual devengada ascendió a la cantidad de $1.291.485 (un millón doscientos noventa y un mil cuatrocientos ochenta y cinco pesos).
+
+3.- Que la relación laboral que ligaba a las partes terminó por despido de fecha 11 de marzo de 2024, el que es indebido, y en consecuencia se declara que el término de la relación laboral se ha producido por la causal del artículo 161 inciso primero del Código del Trabajo esto es, necesidades de la empresa.
+
+5. Que SE CONDENA a SERVICIOS INTEGRALES DE TRANSPORTE SAN DANIEL SPA a pagar en favor de la demandante EVENECE ELÍAS NAVARRO ALBORNOZ,, al pago por los conceptos de:
+
+· La suma de $1.291.485 (un millón doscientos noventa y un mil cuatrocientos ochenta y cinco pesos), por concepto de indemnización sustitutiva de mes de aviso previo.
+· La suma de $5.165.940 (cinco millones ciento sesenta y cinco mil novecientos cuarenta pesos), por concepto de indemnización por 4 años de servicios.
+· La suma de $4.132.752 (la suma de cuatro millones ciento treinta y dos mil setecientos cincuenta y dos pesos), por concepto de recargo del 80% por despido indebido.
+· Al pago de la suma de $443.760 (cuatrocientos cuarenta y tres mil setecientos sesenta pesos) por concepto de feriado legal adeudado. ,
+
+· Al pago de la suma de $146.071(ciento cuarenta y seis mil setenta y un pesos)
+
+6. Que SE RECHAZA la demanda, en lo demás y en particular respecto de VIÑA CONCHA Y TORO S.A, representada legalmente por don Rafael Guilisasti Gana, ya individualizados.
+II. Se exime del pago de las costas a la demandada.
+
+III.- Que las sumas ordenadas pagar precedentemente, deben ser reajustadas y devengan intereses en la forma prevista en artículos 63 y 173 del Código del Trabajo, según corresponda.
+
+IV.- Ejecutoriada que sea la presente sentencia, cúmplase lo dispuesto en ella dentro de quinto día, en caso contrario y una vez que quede ejecutoriada la presente sentencia, certifíquese dicha circunstancia, pásese a etapa de cumplimiento.
+
+Las partes quedan válidamente notificadas de lo resuelto con esta fecha al tenor del artículo 457 inciso 2º del Código del Trabajo y por lo tanto, desde esta notificación comienza a correr el plazo legal para impugnarla, sin perjuicio de lo anterior remítase vía correo electrónico la presente sentencia a las partes.
+
+Anótese, regístrese y archívese en su oportunidad por afinada.
+
+RIT O-96-2024
+
+RUC 24- 4-0559560-1
+
+Proveyó doña ESTEFANIA ANDREA HUNRICHSE ANDRADE, Juez Suplente del Juzgado de Letras del Trabajo de Curicó.
+
+En Curicó a seis de agosto de dos mil veinticuatro, se notificó por el estado diario la resolución precedente.

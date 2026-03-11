@@ -1,0 +1,100 @@
+METADATA
+
+case_id: 86c7b3a7674a6e386e311cc83c60cef1be318fac
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044116
+
+rol: 7204-2026
+
+fecha_sentencia: 2026-02-27
+
+caratulado: EUROCAPITAL S.A./UNIVERSIDAD DE LA SERENA
+
+sala: PRIMERA, CIVIL
+
+materias: ▪ Admisibilidad del recurso de casación en el fondo
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: RECHAZA CASACION EN EL FONDO
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Corte Apelaciones ▼
+SENTENCIA DE REEMPLAZO:
+
+Talca, siete de noviembre de dos mil veinticinco.
+
+De acuerdo con la sentencia de nulidad que precede se dicta esta sentencia de reemplazo en la causa Rit O-170-2024 del Juzgado de Letras del Talca.
+
+VISTO:
+Se tiene por reproducido el fallo anulado, con excepción del párrafo que conlleva la letra “a.-” (a.- Por concepto de indemnización sustitutiva de aviso previo la suma de $1.652.961), descrita a partir del párrafo tercero del considerando décimo cuarto, así como la decisión del fallo en su parte resolutiva numeral I letra “a.-“ (a.- Por concepto de indemnización sustitutiva de aviso previo la suma de $1.652.961), que se eliminan.
+Y CONSIDERANDO, ADEMÁS:
+
+PRIMERO: Que la demandante solicitó de forma expresa en su demanda “…dar lugar a las declaraciones y peticiones precisas y concretas que se formulan, y en definitiva declarar: …B) Indemnización Sustitutiva de Aviso Previo: Derivado de lo anterior se condene a PRODUCTOS FERNANDEZ S.A., al pago de $1.583.339 por concepto de indemnización sustitutiva del aviso previo.-
+
+SEGUNDO: Que, habiéndose acreditado que el despido del actor fue indebido, la empresa demandada deberá pagar por concepto de indemnización sustitutiva de aviso previo la suma de $1.583.339.-
+Y de acuerdo, además, a lo dispuesto en los artículos 474 y 482 del Código del Trabajo, SE DECLARA:
+
+Que la demandada, ya individualizada, deberá pagar al demandante por concepto de indemnización sustitutiva de aviso previo la suma de $1.583.339.-
+Una vez estampado el cúmplase, certifíquese lo que corresponda y remítase a la fase de cumplimiento.
+
+Redacción de la ministra (I) Carla Valladares Perroni.-
+Regístrese y devuélvase en su oportunidad, junto con la sentencia de nulidad.
+
+Rol N°479-2024/Laboral
+Se deja constancia que no firma el ministro Gerardo Bernales Rojas, sin perjuicio de haber concurrido a la vista y acuerdo de la causa, por encontrarse con licencia médica, ni el abogado integrante Diego Palomo Vélez, por estar ausente.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Corte Apelaciones ▼
+SENTENCIA DE REEMPLAZO:
+
+Talca, siete de noviembre de dos mil veinticinco.
+
+De acuerdo con la sentencia de nulidad que precede se dicta esta sentencia de reemplazo en la causa Rit O-170-2024 del Juzgado de Letras del Talca.
+
+VISTO:
+Se tiene por reproducido el fallo anulado, con excepción del párrafo que conlleva la letra “a.-” (a.- Por concepto de indemnización sustitutiva de aviso previo la suma de $1.652.961), descrita a partir del párrafo tercero del considerando décimo cuarto, así como la decisión del fallo en su parte resolutiva numeral I letra “a.-“ (a.- Por concepto de indemnización sustitutiva de aviso previo la suma de $1.652.961), que se eliminan.
+Y CONSIDERANDO, ADEMÁS:
+
+PRIMERO: Que la demandante solicitó de forma expresa en su demanda “…dar lugar a las declaraciones y peticiones precisas y concretas que se formulan, y en definitiva declarar: …B) Indemnización Sustitutiva de Aviso Previo: Derivado de lo anterior se condene a PRODUCTOS FERNANDEZ S.A., al pago de $1.583.339 por concepto de indemnización sustitutiva del aviso previo.-
+
+SEGUNDO: Que, habiéndose acreditado que el despido del actor fue indebido, la empresa demandada deberá pagar por concepto de indemnización sustitutiva de aviso previo la suma de $1.583.339.-
+Y de acuerdo, además, a lo dispuesto en los artículos 474 y 482 del Código del Trabajo, SE DECLARA:
+
+Que la demandada, ya individualizada, deberá pagar al demandante por concepto de indemnización sustitutiva de aviso previo la suma de $1.583.339.-
+Una vez estampado el cúmplase, certifíquese lo que corresponda y remítase a la fase de cumplimiento.
+
+Redacción de la ministra (I) Carla Valladares Perroni.-
+Regístrese y devuélvase en su oportunidad, junto con la sentencia de nulidad.
+
+Rol N°479-2024/Laboral
+Se deja constancia que no firma el ministro Gerardo Bernales Rojas, sin perjuicio de haber concurrido a la vista y acuerdo de la causa, por encontrarse con licencia médica, ni el abogado integrante Diego Palomo Vélez, por estar ausente.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Corte Apelaciones ▼
+SENTENCIA DE REEMPLAZO:
+
+Talca, siete de noviembre de dos mil veinticinco.
+
+De acuerdo con la sentencia de nulidad que precede se dicta esta sentencia de reemplazo en la causa Rit O-170-2024 del Juzgado de Letras del Talca.
+
+VISTO:
+Se tiene por reproducido el fallo anulado, con excepción del párrafo que conlleva la letra “a.-” (a.- Por concepto de indemnización sustitutiva de aviso previo la suma de $1.652.961), descrita a partir del párrafo tercero del considerando décimo cuarto, así como la decisión del fallo en su parte resolutiva numeral I letra “a.-“ (a.- Por concepto de indemnización sustitutiva de aviso previo la suma de $1.652.961), que se eliminan.
+Y CONSIDERANDO, ADEMÁS:
+
+PRIMERO: Que la demandante solicitó de forma expresa en su demanda “…dar lugar a las declaraciones y peticiones precisas y concretas que se formulan, y en definitiva declarar: …B) Indemnización Sustitutiva de Aviso Previo: Derivado de lo anterior se condene a PRODUCTOS FERNANDEZ S.A., al pago de $1.583.339 por concepto de indemnización sustitutiva del aviso previo.-
+
+SEGUNDO: Que, habiéndose acreditado que el despido del actor fue indebido, la empresa demandada deberá pagar por concepto de indemnización sustitutiva de aviso previo la suma de $1.583.339.-
+Y de acuerdo, además, a lo dispuesto en los artículos 474 y 482 del Código del Trabajo, SE DECLARA:
+
+Que la demandada, ya individualizada, deberá pagar al demandante por concepto de indemnización sustitutiva de aviso previo la suma de $1.583.339.-
+Una vez estampado el cúmplase, certifíquese lo que corresponda y remítase a la fase de cumplimiento.
+
+Redacción de la ministra (I) Carla Valladares Perroni.-
+Regístrese y devuélvase en su oportunidad, junto con la sentencia de nulidad.
+
+Rol N°479-2024/Laboral
+Se deja constancia que no firma el ministro Gerardo Bernales Rojas, sin perjuicio de haber concurrido a la vista y acuerdo de la causa, por encontrarse con licencia médica, ni el abogado integrante Diego Palomo Vélez, por estar ausente.
