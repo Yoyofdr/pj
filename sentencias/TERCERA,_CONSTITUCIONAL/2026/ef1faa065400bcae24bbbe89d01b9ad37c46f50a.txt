@@ -1,0 +1,71 @@
+METADATA
+
+case_id: ef1faa065400bcae24bbbe89d01b9ad37c46f50a
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8055120
+
+rol: 55942-2025
+
+fecha_sentencia: 2026-03-10
+
+caratulado: CHURA/REGISTRO CIVIL E IDENTIFICACIÓN
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (CIVIL) CASACIÓN FONDO
+
+recurso: (CIVIL) CASACIÓN FONDO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, diez de marzo de dos mil veintiséis.
+
+Vistos:
+Atendido lo dispuesto en el artículo 21 de la Carta Fundamental, se confirma la sentencia apelada de dieciocho de febrero de dos mil veintiséis, pronunciada por la Corte de Apelaciones de Valparaíso, en el ingreso Nº467-2026.
+
+Regístrese y devuélvase.
+
+Nº8.178-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Dgm.
+
+C.A. de Valparaíso
+Valparaíso, dieciocho de febrero de dos mil veintiséis.
+
+Vistos:
+
+A folio 1, Lygens Gourdet recurre de amparo en favor de Leon Louissaint, de nacionalidad haitiana, y en contra del Servicio Nacional de Migraciones por el acto que califica de arbitrario e ilegal consistente en la dictación de la Resolución Exenta N°2500100232665, de 5 de noviembre de 2025, que rechazó su solicitud de residencia definitiva, dispuso su abandono del país en un plazo de 15 días y le impuso una prohibición de ingreso por 5 años. Solicita que se deje sin efecto el acto y se ordene continuar con el proceso de regularización.
+
+Expone que el amparado solicitó su residencia definitiva el 20 de julio de 2022 y el Servicio recurrido fundó el rechazo en que el extranjero habría presentado un certificado de antecedentes penales en trámite adulterado.
+Precisa que dicho documento le fue facilitado por un tercero ajeno a la embajada y que actuó sin mala fe, dada su avanzada edad (64 años) y falta de manejo tecnológico. Concluye que la resolución es desproporcionada atendido el tiempo que lleva en Chile, y que cuenta con contrato de trabajo desde agosto de 2021 en la empresa Fruna, acompañando en esta instancia su certificado de antecedentes penales debidamente legalizado y apostillado.
+A folio 6 informa el Servicio Nacional de Migraciones solicitando el rechazo del recurso. Sostiene que la Resolución Exenta N°2500100232665 de 05 de noviembre de 2025 es legal por haber presentado el amparado un certificado de antecedentes penales en trámite adulterado. Arguye que la facultad de verificar la autenticidad de los documentos es inherente a sus atribuciones.
+Argumenta que el certificado presentado originalmente presentaba tipografías distintas a las oficiales de la Embajada de Haití, lo que configura la causal de rechazo del artículo 88 N°3 de la Ley N°21.325.
+Finalmente, concluye que la orden de abandono es una consecuencia necesaria al haberse rechazado la solicitud de residencia definitiva.
+
+A folio 7 se trajeron los autos en relación.
+Con lo relacionado y considerando:
+Primero: Que, la acción de amparo constitucional tiene por objeto restablecer el imperio del derecho frente a actos ilegales que perturben o amenacen la libertad personal y seguridad individual, según lo dispuesto en el artículo 21 de la Constitución Política.
+
+Segundo: Que, analizada la resolución atacada, se puede advertir que ella no explica suficientemente cómo concluye la falsedad del documento presentado por el amparado, limitándose únicamente a indicar que éste se encuentra adulterado y, argumentando -lisa y llanamente- que ello demuestra una conducta que vulnera bienes jurídicos e intereses protegidos por el Estado, lo que habilita el rechazo de su solicitud conforme al artículo 88 N°3 de la Ley N°21.325.
+
+Tercero: Que, lo expuesto no constituye fundamentación suficiente de la decisión arribada conforme a los artículos 11 y 41 de la Ley N°19.880, dado que no se explica adecuadamente la forma en que verificó la infracción ni cómo ella -de existir- justifica la decisión adoptada, por lo que la resolución en comento deviene ilegal.
+Cuarto: Que, por otra parte, para resolver el presente arbitrio, resulta relevante atender a las circunstancias personales del amparado, quien en esta instancia procesal ha acompañado antecedentes que no fueron ponderados en su oportunidad por la autoridad administrativa. En particular, destaca que acompañó un documento que señala ser el certificado de antecedentes penales emitido en Puerto Príncipe el 3 de abril de 2025, debidamente legalizado, traducido y apostillado. Dicho documento certifica explícitamente que el señor Leon Louissaint no registra antecedentes penales en su país de origen.
+
+Quinto: Que, asimismo, el amparado ha acreditado arraigo laboral en Chile. Consta en el proceso un certificado de la empresa Alimentos Fruna Limitada que acredita que el amparado mantiene una relación laboral vigente desde el 1 de agosto de 2021, desempeñándose como operario de producción con contrato indefinido. Esto se ve respaldado por sus certificados de cotizaciones de AFP PlanVital y FONASA, que demuestran la continuidad de sus aportes previsionales y de salud.
+
+Sexto: Que, ponderadas dichas circunstancias, la aplicación inmediata de la consecuencia más gravosa prevista por la legislación migratoria, esto es, la orden de abandono del país aparece desproporcionada y, por lo tanto, deviene en ilegal, en relación con el defecto procedimental atribuido al amparado, especialmente considerando su permanencia estable en el territorio y la ausencia de antecedentes que permitan inferir riesgo para el orden público o la seguridad interna.
+
+Tal orden de abandono, aun cuando formalmente voluntaria, amenaza la libertad personal del amparado, desde que su incumplimiento habilita a la autoridad a materializar su expulsión, con el consiguiente impacto en su vida desarrollada en Chile. A su vez, la prohibición de ingreso decretada, de la misma forma, afecta el arraigo social ya alcanzado en el país. Todo ello se torna incompatible con el principio pro homine consagrado en el artículo 12 de la Ley N°21.325, que exige interpretar y aplicar las normas migratorias en el sentido más favorable a la persona, especialmente cuando se trata de preservar derechos fundamentales.
+En consecuencia, la mantención de la orden de abandono y la prohibición de reingreso al país en las condiciones descritas resulta contraria a derecho, por lo que corresponde acoger la presente acción constitucional.
+Por estas consideraciones, se acoge, sin costas, el recurso de amparo en favor de Leon Louissaint y, en consecuencia, se deja sin efecto la Resolución Exenta N°2500100232665, de 5 de noviembre de 2025 y se ordena al Servicio Nacional de Migraciones reabrir el procedimiento administrativo por un plazo de 180 días a fin de que el amparado aporte los antecedentes solicitados, y dictar una nueva resolución que se pronuncie sobre la residencia definitiva conforme a derecho.
+
+Regístrese, comuníquese y archívese en su oportunidad.
+N° Amparo-467-2026
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Dgm.C.A. de ValparaísoValparaíso, dieciocho de febrero de dos mil veintiséis.Vistos:A folio 1, Lygens Gourdet recurre de amparo en favor de Leon Louissaint, de nacionalidad haitiana, y en contra del Servicio Nacional de Migraciones por el acto que califica de arbitrario e ilegal consistente en la dictación de la Resolución Exenta N°2500100232665, de 5 de noviembre de 2025, que rechazó su solicitud de residencia definitiva, dispuso su abandono del país en un plazo de 15 días y le impuso una prohibición de ingreso por 5 años. Solicita que se deje sin efecto el acto y se ordene continuar con el proceso de regularización. Expone que el amparado solicitó su residencia definitiva el 20 de julio de 2022 y el Servicio recurrido fundó el rechazo en que el extranjero habría presentado un certificado de antecedentes penales en trámite adulterado. Precisa que dicho documento le fue facilitado por un tercero ajeno a la embajada y que actuó sin mala fe, dada su avanzada edad (64 años) y falta de manejo tecnológico. Concluye que la resolución es desproporcionada atendido el tiempo que lleva en Chile, y que cuenta con contrato de trabajo desde agosto de 2021 en la empresa Fruna, acompañando en esta instancia su certificado de antecedentes penales debidamente legalizado y apostillado.A folio 6 informa el Servicio Nacional de Migraciones solicitando el rechazo del recurso. Sostiene que la Resolución Exenta N°2500100232665 de 05 de noviembre de 2025 es legal por haber presentado el amparado un certificado de antecedentes penales en trámite adulterado. Arguye que la facultad de verificar la autenticidad de los documentos es inherente a sus atribuciones. Argumenta que el certificado presentado originalmente presentaba tipografías distintas a las oficiales de la Embajada de Haití, lo que configura la causal de rechazo del artículo 88 N°3 de la Ley N°21.325.Finalmente, concluye que la orden de abandono es una consecuencia necesaria al haberse rechazado la solicitud de residencia definitiva.A folio 7 se trajeron los autos en relación.Con lo relacionado y considerando:Primero: Que, la acción de amparo constitucional tiene por objeto restablecer el imperio del derecho frente a actos ilegales que perturben o amenacen la libertad personal y seguridad individual, según lo dispuesto en el artículo 21 de la Constitución Política.Segundo: Que, analizada la resolución atacada, se puede advertir que ella no explica suficientemente cómo concluye la falsedad del documento presentado por el amparado, limitándose únicamente a indicar que éste se encuentra adulterado y, argumentando -lisa y llanamente- que ello demuestra una conducta que vulnera bienes jurídicos e intereses protegidos por el Estado, lo que habilita el rechazo de su solicitud conforme al artículo 88 N°3 de la Ley N°21.325.Tercero: Que, lo expuesto no constituye fundamentación suficiente de la decisión arribada conforme a los artículos 11 y 41 de la Ley N°19.880, dado que no se explica adecuadamente la forma en que verificó la infracción ni cómo ella -de existir- justifica la decisión adoptada, por lo que la resolución en comento deviene ilegal.Cuarto: Que, por otra parte, para resolver el presente arbitrio, resulta relevante atender a las circunstancias personales del amparado, quien en esta instancia procesal ha acompañado antecedentes que no fueron ponderados en su oportunidad por la autoridad administrativa. En particular, destaca que acompañó un documento que señala ser el certificado de antecedentes penales emitido en Puerto Príncipe el 3 de abril de 2025, debidamente legalizado, traducido y apostillado. Dicho documento certifica explícitamente que el señor Leon Louissaint no registra antecedentes penales en su país de origen.Quinto: Que, asimismo, el amparado ha acreditado arraigo laboral en Chile. Consta en el proceso un certificado de la empresa Alimentos Fruna Limitada que acredita que el amparado mantiene una relación laboral vigente desde el 1 de agosto de 2021, desempeñándose como operario de producción con contrato indefinido. Esto se ve respaldado por sus certificados de cotizaciones de AFP PlanVital y FONASA, que demuestran la continuidad de sus aportes previsionales y de salud.Sexto: Que, ponderadas dichas circunstancias, la aplicación inmediata de la consecuencia más gravosa prevista por la legislación migratoria, esto es, la orden de abandono del país aparece desproporcionada y, por lo tanto, deviene en ilegal, en relación con el defecto procedimental atribuido al amparado, especialmente considerando su permanencia estable en el territorio y la ausencia de antecedentes que permitan inferir riesgo para el orden público o la seguridad interna.Tal orden de abandono, aun cuando formalmente voluntaria, amenaza la libertad personal del amparado, desde que su incumplimiento habilita a la autoridad a materializar su expulsión, con el consiguiente impacto en su vida desarrollada en Chile. A su vez, la prohibición de ingreso decretada, de la misma forma, afecta el arraigo social ya alcanzado en el país. Todo ello se torna incompatible con el principio pro homine consagrado en el artículo 12 de la Ley N°21.325, que exige interpretar y aplicar las normas migratorias en el sentido más favorable a la persona, especialmente cuando se trata de preservar derechos fundamentales. En consecuencia, la mantención de la orden de abandono y la prohibición de reingreso al país en las condiciones descritas resulta contraria a derecho, por lo que corresponde acoger la presente acción constitucional.Por estas consideraciones, se acoge, sin costas, el recurso de amparo en favor de Leon Louissaint y, en consecuencia, se deja sin efecto la Resolución Exenta N°2500100232665, de 5 de noviembre de 2025 y se ordena al Servicio Nacional de Migraciones reabrir el procedimiento administrativo por un plazo de 180 días a fin de que el amparado aporte los antecedentes solicitados, y dictar una nueva resolución que se pronuncie sobre la residencia definitiva conforme a derecho.Regístrese, comuníquese y archívese en su oportunidad. N° Amparo-467-2026                        ⚠                      Sin documento en esta instancia - pdf
