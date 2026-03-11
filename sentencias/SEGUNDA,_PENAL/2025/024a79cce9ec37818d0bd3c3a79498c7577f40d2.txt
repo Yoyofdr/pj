@@ -1,0 +1,77 @@
+METADATA
+
+case_id: 024a79cce9ec37818d0bd3c3a79498c7577f40d2
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7967730
+
+rol: 55292-2025
+
+fecha_sentencia: 2025-12-19
+
+caratulado: TORRES VASQUEZ AGUSTINA MICAELA CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Corte Apelaciones ▼
+Santiago, veintidós de diciembre de dos mil veinticinco.
+
+Vistos y teniendo únicamente presente:
+
+Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de tres de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N° 4874 - 2025, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.
+
+Regístrese y devuélvase.
+
+Rol N° 55292 - 2025
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Valparaíso
+Valparaíso, veintiocho de noviembre de dos mil veinticinco.
+Vistos:
+
+A folio 1, Emmanuel Bien-Aime, deduce acción de amparo en favor de Alcina Altenor, de nacionalidad haitiana, y en contra del Servicio Nacional de Migraciones por el acto que considera ilegal consistente en la dictación de la Resolución Exenta N°24582531, de 17 de febrero de 2025, que rechaza su solicitud de residencia definitiva y dispone el abandono del país, lo que estima vulnera su derecho a la libertad personal, consagrado en el artículo 19 N°7 de la Constitución Política de la República.
+
+Expone que la amparada ingresó a Chile vía aérea con intención de asentarse y solicitó la residencia definitiva. Señala que dicha solicitud fue rechazada mediante el acto administrativo impugnado bajo el fundamento de no haber acreditado el pago de la multa por residir con permiso vencido. Argumenta que, tras ser notificada de la causal de rechazo el 26 de abril de 2024, intentó efectuar el pago de la multa en el sitio web del servicio, pero este no se encontraba en funcionamiento, por lo que su incumplimiento se debió a un error y no a una intención de evasión.
+
+Agrega que la amparada cuenta con arraigo familiar, compuesto por su pareja y su hija de dos años de nacionalidad chilena. Sostiene que la orden de abandono pone en peligro la integridad de la familia y vulnera el principio de reunificación familiar. Alega que el acto es arbitrario y desproporcionado, toda vez que en casos similares la recurrida ha otorgado permisos de residencia temporal en lugar de ordenar el abandono.
+
+Concluye solicitando que se deje sin efecto la Resolución Exenta N°24582531, se revoque la orden de abandono, se ordene a la recurrida reabrir la solicitud de residencia definitiva y se otorgue un plazo no menor a 30 días para efectuar el pago de la multa.
+
+A folio 6, evacúa informe Cristóbal Antonio Messen Reyes, en representación de la Dirección Regional de Valparaíso del Servicio Nacional de Migraciones. Señala que la amparada solicitó residencia definitiva el 10 de junio de 2022 encontrándose con su permiso de residencia vencido desde el 10 de mayo de 2020. Indica que mediante comunicación electrónica de 26 de abril de 2024 se le notificó la causal de rechazo y se le otorgó un plazo para regularizar su situación pagando la multa respectiva, trámite que la extranjera no realizó dentro del plazo legal.
+
+Sostiene que el rechazo de la solicitud fue dictado por autoridad competente en conformidad al artículo 88 N°1 de la Ley N°21.325, al no cumplir la solicitante con los requisitos exigidos. Argumenta que la plataforma de pago del servicio funciona correctamente y cuenta con instrucciones públicas para su uso.
+
+Afirma que la orden de abandono es una consecuencia imperativa del rechazo según el artículo 91 N°4 de la citada ley, pero constituye una medida de cumplimiento voluntario, diferenciándose de la expulsión. Niega la existencia de ilegalidad o arbitrariedad, solicitando el rechazo del recurso.
+
+Finalmente pide el rechazo de la presente acción constitucional de amparo en todas sus partes.
+
+A folio 7, se ordena traer los autos en relación.
+
+Con lo relacionado y considerando:
+
+Primero: Que, la acción de amparo es un proceso de tutela urgente del derecho fundamental a la libertad personal y seguridad individual, garantía consagrada en el artículo 19 N°7 de la Constitución Política de la República, procedente en aquellos casos en que una persona fuere arrestada, detenida o presa con infracción a la Constitución o a las leyes o sufra cualquier otra privación, perturbación o amenaza al derecho fundamental antes aludido, fuera de los casos en que el ordenamiento jurídico lo permite.
+
+Segundo: Que, a través de esta vía cautelar se impugna la Resolución Exenta N°24582531, de 17 de febrero de 2025, del Servicio Nacional de Migraciones, que rechazó la solicitud de residencia definitiva de la amparada y dispuso su abandono del país, acto que se estima ilegal y arbitrario por no considerar el arraigo familiar y las dificultades técnicas para el pago de la multa. Por lo anterior, solicita que se deje sin efecto dicho acto administrativo y se habilite un plazo para el pago de la sanción pecuniaria.
+
+Tercero: Que, el recurrido informa, en síntesis, que la resolución impugnada se ajusta a derecho, toda vez que la amparada postuló con su permiso de residencia vencido y no subsanó dicha irregularidad pagando la multa correspondiente, pese a haber sido notificada y otorgársele plazo para ello. Sostiene que, ante el incumplimiento de requisitos, el rechazo y la consecuente orden de abandono son mandatos imperativos de la Ley N°21.325, descartando vulneración de garantías constitucionales.
+
+Cuarto: Que, atendido al mérito de los antecedentes acompañados, se desprende que la amparada tiene arraigo familiar significativo en el país, al tener una hija de dos años de nacionalidad chilena, lo que no fue considerado por la autoridad migratoria al dictar la resolución reclamada. De esta manera, el acto impugnado contraviene la obligación de protección a la familia que vincula a todos los órganos de la Administración del Estado conforme al mandato constitucional establecido en el artículo 1 de la Carta Fundamental, así como el principio del interés superior del niño, niña y adolescente, protegido expresamente en el artículo 4 de la Ley N°21.325 y en el artículo 3 de la Convención Sobre los Derechos del Niño.
+
+Quinto: Que, en consecuencia, el rechazo de la residencia definitiva y la consecuente orden de abandono impuesta a la amparada constituyen una amenaza a su libertad personal, toda vez que, de no cumplir voluntariamente con el abandono dentro del plazo señalado, la autoridad migratoria se encuentra facultada para disponer su expulsión del país, conforme lo establece el artículo 127 numeral tercero de la Ley N°21.325. Las anteriores circunstancias y la infracción normativa referida en el motivo que precede transforman la decisión cuestionada en ilegal, razón por la cual se acogerá este arbitrio en la forma que se dirá en lo resolutivo.
+
+Por estas consideraciones y de conformidad a lo dispuesto en los artículos 19 N°7 y 21 de la Constitución Política de la República y en el Auto Acordado sobre la materia, se acoge, sin costas, la acción de amparo deducida en favor de Alcina Altenor en contra del Servicio Nacional de Migraciones, en consecuencia, se deja sin efecto la Resolución Exenta N°24582531, de 17 de febrero de 2025, debiendo la autoridad migratoria reabrir el procedimiento administrativo y otorgar a la amparada un plazo no inferior a noventa días hábiles para pagar la multa correspondiente, debiendo habilitar la plataforma electrónica al efecto y cumplido lo anterior, dictar la resolución que en derecho corresponda.
+
+Regístrese, comuníquese y archívese, en su oportunidad.
+N°Amparo-4610-2025.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de ValparaísoValparaíso, veintiocho de noviembre de dos mil veinticinco.Vistos:A folio 1, Emmanuel Bien-Aime, deduce acción de amparo en favor de Alcina Altenor, de nacionalidad haitiana, y en contra del Servicio Nacional de Migraciones por el acto que considera ilegal consistente en la dictación de la Resolución Exenta N°24582531, de 17 de febrero de 2025, que rechaza su solicitud de residencia definitiva y dispone el abandono del país, lo que estima vulnera su derecho a la libertad personal, consagrado en el artículo 19 N°7 de la Constitución Política de la República.Expone que la amparada ingresó a Chile vía aérea con intención de asentarse y solicitó la residencia definitiva. Señala que dicha solicitud fue rechazada mediante el acto administrativo impugnado bajo el fundamento de no haber acreditado el pago de la multa por residir con permiso vencido. Argumenta que, tras ser notificada de la causal de rechazo el 26 de abril de 2024, intentó efectuar el pago de la multa en el sitio web del servicio, pero este no se encontraba en funcionamiento, por lo que su incumplimiento se debió a un error y no a una intención de evasión.Agrega que la amparada cuenta con arraigo familiar, compuesto por su pareja y su hija de dos años de nacionalidad chilena. Sostiene que la orden de abandono pone en peligro la integridad de la familia y vulnera el principio de reunificación familiar. Alega que el acto es arbitrario y desproporcionado, toda vez que en casos similares la recurrida ha otorgado permisos de residencia temporal en lugar de ordenar el abandono. Concluye solicitando que se deje sin efecto la Resolución Exenta N°24582531, se revoque la orden de abandono, se ordene a la recurrida reabrir la solicitud de residencia definitiva y se otorgue un plazo no menor a 30 días para efectuar el pago de la multa.A folio 6, evacúa informe Cristóbal Antonio Messen Reyes, en representación de la Dirección Regional de Valparaíso del Servicio Nacional de Migraciones. Señala que la amparada solicitó residencia definitiva el 10 de junio de 2022 encontrándose con su permiso de residencia vencido desde el 10 de mayo de 2020. Indica que mediante comunicación electrónica de 26 de abril de 2024 se le notificó la causal de rechazo y se le otorgó un plazo para regularizar su situación pagando la multa respectiva, trámite que la extranjera no realizó dentro del plazo legal.Sostiene que el rechazo de la solicitud fue dictado por autoridad competente en conformidad al artículo 88 N°1 de la Ley N°21.325, al no cumplir la solicitante con los requisitos exigidos. Argumenta que la plataforma de pago del servicio funciona correctamente y cuenta con instrucciones públicas para su uso. Afirma que la orden de abandono es una consecuencia imperativa del rechazo según el artículo 91 N°4 de la citada ley, pero constituye una medida de cumplimiento voluntario, diferenciándose de la expulsión. Niega la existencia de ilegalidad o arbitrariedad, solicitando el rechazo del recurso.Finalmente pide el rechazo de la presente acción constitucional de amparo en todas sus partes.A folio 7, se ordena traer los autos en relación.Con lo relacionado y considerando:Primero: Que, la acción de amparo es un proceso de tutela urgente del derecho fundamental a la libertad personal y seguridad individual, garantía consagrada en el artículo 19 N°7 de la Constitución Política de la República, procedente en aquellos casos en que una persona fuere arrestada, detenida o presa con infracción a la Constitución o a las leyes o sufra cualquier otra privación, perturbación o amenaza al derecho fundamental antes aludido, fuera de los casos en que el ordenamiento jurídico lo permite.Segundo: Que, a través de esta vía cautelar se impugna la Resolución Exenta N°24582531, de 17 de febrero de 2025, del Servicio Nacional de Migraciones, que rechazó la solicitud de residencia definitiva de la amparada y dispuso su abandono del país, acto que se estima ilegal y arbitrario por no considerar el arraigo familiar y las dificultades técnicas para el pago de la multa. Por lo anterior, solicita que se deje sin efecto dicho acto administrativo y se habilite un plazo para el pago de la sanción pecuniaria.Tercero: Que, el recurrido informa, en síntesis, que la resolución impugnada se ajusta a derecho, toda vez que la amparada postuló con su permiso de residencia vencido y no subsanó dicha irregularidad pagando la multa correspondiente, pese a haber sido notificada y otorgársele plazo para ello. Sostiene que, ante el incumplimiento de requisitos, el rechazo y la consecuente orden de abandono son mandatos imperativos de la Ley N°21.325, descartando vulneración de garantías constitucionales.Cuarto: Que, atendido al mérito de los antecedentes acompañados, se desprende que la amparada tiene arraigo familiar significativo en el país, al tener una hija de dos años de nacionalidad chilena, lo que no fue considerado por la autoridad migratoria al dictar la resolución reclamada. De esta manera, el acto impugnado contraviene la obligación de protección a la familia que vincula a todos los órganos de la Administración del Estado conforme al mandato constitucional establecido en el artículo 1 de la Carta Fundamental, así como el principio del interés superior del niño, niña y adolescente, protegido expresamente en el artículo 4 de la Ley N°21.325 y en el artículo 3 de la Convención Sobre los Derechos del Niño.Quinto: Que, en consecuencia, el rechazo de la residencia definitiva y la consecuente orden de abandono impuesta a la amparada constituyen una amenaza a su libertad personal, toda vez que, de no cumplir voluntariamente con el abandono dentro del plazo señalado, la autoridad migratoria se encuentra facultada para disponer su expulsión del país, conforme lo establece el artículo 127 numeral tercero de la Ley N°21.325. Las anteriores circunstancias y la infracción normativa referida en el motivo que precede transforman la decisión cuestionada en ilegal, razón por la cual se acogerá este arbitrio en la forma que se dirá en lo resolutivo.Por estas consideraciones y de conformidad a lo dispuesto en los artículos 19 N°7 y 21 de la Constitución Política de la República y en el Auto Acordado sobre la materia, se acoge, sin costas, la acción de amparo deducida en favor de Alcina Altenor en contra del Servicio Nacional de Migraciones, en consecuencia, se deja sin efecto la Resolución Exenta N°24582531, de 17 de febrero de 2025, debiendo la autoridad migratoria reabrir el procedimiento administrativo y otorgar a la amparada un plazo no inferior a noventa días hábiles para pagar la multa correspondiente, debiendo habilitar la plataforma electrónica al efecto y cumplido lo anterior, dictar la resolución que en derecho corresponda.Regístrese, comuníquese y archívese, en su oportunidad.N°Amparo-4610-2025.                        ⚠                      Sin documento en esta instancia - pdf

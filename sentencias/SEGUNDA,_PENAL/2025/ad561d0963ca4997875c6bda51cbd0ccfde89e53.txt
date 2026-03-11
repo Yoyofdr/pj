@@ -1,0 +1,63 @@
+METADATA
+
+case_id: ad561d0963ca4997875c6bda51cbd0ccfde89e53
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7967830
+
+rol: 56344-2025
+
+fecha_sentencia: 2025-12-19
+
+caratulado: ANGULO HERNANDEZ HECTOR FABIO CONTRA TERCER JUZGADO DE GARANTÍA DE SANTIAGO
+
+sala: SEGUNDA, PENAL
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Corte Apelaciones ▼
+Santiago, veintidós de diciembre de dos mil veinticinco.
+
+Vistos y teniendo únicamente presente:
+
+Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de once de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N° 5000 - 2025, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.
+
+Regístrese y devuélvase.
+
+Rol N° 56344 - 2025
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Corte Apelaciones ▼
+pbo
+C.A. de Santiago
+Santiago, once de diciembre de dos mil veinticinco.
+
+A sus antecedentes la certificación que antecede.
+
+Al folio N°1: a lo principal, aténgase a lo que se resolverá. Al primer otrosí, a sus antecedentes. Al segundo otrosí, téngase presente.
+
+Vistos y teniendo presente:
+
+1°.- Que, el presente amparo se interpone en favor de Santiago Mateus Alvarado, en contra del Servicio Nacional de Migraciones, por rechazar archivar su solicitud de residencia temporal, mediante Resolución Exenta N°24329354, de 05 de julio de 2024.
+
+2°.- Que, del mérito de lo obrado en autos Ingreso Corte N°3092-2025 de la Iltma. Corte de Apelaciones de Valparaíso, tenidos a la vista, se evidencia que respecto del mismo actor se dedujo acción de amparo por los mismos hechos que fundan el presente recurso, el que fue rechazado por la Tercera Sala de dicha Corte, a través de sentencia de veintidós de septiembre de dos mil veinticinco.
+
+3°.- Que, en contra de dicha sentencia se dedujo recurso de apelación para ante la Excma. Corte Suprema, la que confirmó el fallo con fecha dos de octubre de dos mil veinticinco, encontrándose firme y ejecutoriada la misma.
+
+4°.- Que, en razón de ello, resulta improcedente obtener por esta vía un nuevo análisis de lo ya decidido en el ingreso señalado, no pudiendo pretenderse que la acción de amparo se erija en un instrumento que propicie su revisión anómala e impropia. Aceptarlo importaría distorsionar la finalidad de la acción de amparo para revisar sentencias que revisten imperio de cosa juzgada, motivo por el cual el presente arbitrio no puede prosperar.
+
+Por estas consideraciones, se declara inadmisible el presente recurso, por tratarse de hechos ya sometidos al conocimiento de esta Corte, y resueltos en su oportunidad.
+
+Archívese.
+
+N°Amparo-5011-2025.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+pboC.A. de SantiagoSantiago, once de diciembre de dos mil veinticinco.A sus antecedentes la certificación que antecede.Al folio N°1: a lo principal, aténgase a lo que se resolverá. Al primer otrosí, a sus antecedentes. Al segundo otrosí, téngase presente.Vistos y teniendo presente:1°.- Que, el presente amparo se interpone en favor de Santiago Mateus Alvarado, en contra del Servicio Nacional de Migraciones, por rechazar archivar su solicitud de residencia temporal, mediante Resolución Exenta N°24329354, de 05 de julio de 2024.2°.- Que, del mérito de lo obrado en autos Ingreso Corte N°3092-2025 de la Iltma. Corte de Apelaciones de Valparaíso, tenidos a la vista, se evidencia que respecto del mismo actor se dedujo acción de amparo por los mismos hechos que fundan el presente recurso, el que fue rechazado por la Tercera Sala de dicha Corte, a través de sentencia de veintidós de septiembre de dos mil veinticinco.3°.- Que, en contra de dicha sentencia se dedujo recurso de apelación para ante la Excma. Corte Suprema, la que confirmó el fallo con fecha dos de octubre de dos mil veinticinco, encontrándose firme y ejecutoriada la misma.4°.- Que, en razón de ello, resulta improcedente obtener por esta vía un nuevo análisis de lo ya decidido en el ingreso señalado, no pudiendo pretenderse que la acción de amparo se erija en un instrumento que propicie su revisión anómala e impropia. Aceptarlo importaría distorsionar la finalidad de la acción de amparo para revisar sentencias que revisten imperio de cosa juzgada, motivo por el cual el presente arbitrio no puede prosperar.Por estas consideraciones, se declara inadmisible el presente recurso, por tratarse de hechos ya sometidos al conocimiento de esta Corte, y resueltos en su oportunidad. Archívese.N°Amparo-5011-2025.                        ⚠                      Sin documento en esta instancia - pdf
