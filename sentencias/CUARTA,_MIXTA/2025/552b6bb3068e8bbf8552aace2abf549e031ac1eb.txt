@@ -1,0 +1,73 @@
+METADATA
+
+case_id: 552b6bb3068e8bbf8552aace2abf549e031ac1eb
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7970669
+
+rol: 50822-2025
+
+fecha_sentencia: 2025-12-24
+
+caratulado: SERVICIO NACIONAL DE PESCA Y ACUICULTURA/SANDRO CARDENAS ULE PESCA ARTESANAL E.I.R.L.
+
+sala: CUARTA, MIXTA
+
+materias: ▪ Admisibilidad del recurso de casación en el fondo
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: INADMISIBLES RECURSOS DE CASACIÓN FORMA Y FONDO(M)
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veinticuatro de diciembre de dos mil veinticinco.
+
+Vistos y teniendo presente:
+
+1° Que se ha deducido recurso de casación en el fondo en contra de la sentencia dictada por la Corte de Apelaciones de Talca que revocó en parte la del Juzgado de Policía Local.
+
+2° Que aquel no será admitido a tramitación, pues el artículo 38 de la Ley N° 18.287, aplicable en la especie dispone que no procederá el recurso de casación en los juicios de policía local.
+
+Y visto, además, lo dispuesto en el artículo 782 del Código de Procedimiento Civil, se declara inadmisible el recurso de casación en el fondo interpuesto por don Lisandro Roco Ayala.
+
+Al primer, segundo y tercer otrosí: téngase presente, a sus antecedentes y estese a lo decidido.
+
+Regístrese y devuélvase.
+
+Rol N° 54824-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Talca, once de noviembre de dos mil veintiuno.
+
+VISTOS:
+
+Se reproduce el fallo en alzada, con excepción de los motivos DÉCIMO TERCERO y siguientes, los cuales se eliminan.
+
+Y EN SU LUGAR SE TIENE PRESENTE:
+
+PRIMERO: Que el demandante civil don Héctor Murga Rivera endereza su acción indemnizatoria, haciendo valer su calidad de conductor y propietario de la motocicleta marca Suzuki, modelo Vstrom 1000 c.c P.P.U XD-255, según se lee en el escrito en el cual deduce la acción civil.
+
+Sin embargo, revisado el expediente de primera instancia, se advierte que no acompañó ningún elemento probatorio que permita acreditar dicha calidad legal, tanto así, que no rindió prueba alguna sobre este punto.
+
+SEGUNDO: Que, sin embargo, en esta instancia adjuntó una carta poder de fecha 13 de septiembre de 2022 firmada ante el Notario Público de Talca don Jaime Silva Sciberres, en la cual don José Hernán Rojas Figueroa, cédula de identidad N° 14.007.149-8 le confiere poder especial, para que, en su nombre y representación, ceda, venda y transfiera el vehículo de su propiedad, que es precisamente la motocicleta involucrada en el accidente de tránsito materia de este juicio, P.P.U XD-0255-7.
+
+En consecuencia, el propio actor, reconoce en esta instancia, que no detenta la calidad de propietario de dicho móvil, como sí lo había aseverado en primera instancia, y sobre lo cual edificó la demanda civil que se estudia, señalando que el propietario de la motocicleta es don José Hernán Rojas Figueroa.
+
+TERCERO: Que, en consecuencia, conforme se viene detallando, se comprueba que el actor carece de legitimidad activa para impetrar la demanda civil que ha intentado, al no detentar la calidad jurídica que dijo tener al momento de interponer dicha acción judicial, razones suficientes para desestimar la demanda civil que ha deducido en la causa.
+
+Por otro lado, tampoco acreditó tener la calidad de poseedor de la motocicleta placa patente P.P.U XD-0255-7, siendo insuficiente a este respecto, el simple hecho de ir conduciendo el móvil cuando se produjo el accidente de tránsito que da origen a esta causa, no habiéndose probado en el juicio que se configuraban los elementos de la posesión de bienes muebles, específicamente, el elemento psicológico o animus, es decir, el comportarse como señor y dueño, tanto así, que ha sido el mismo actor, al acompañar la carta poder señalada precedentemente, quien ha admitiendo en los hechos que reconocía dominio ajeno, sin perjuicio de que se le haya conferido poder, para el solo efecto de ceder, vender y transferir el referido vehículo, sin que se encuentre legalmente habilitado para interponer la presente acción civil, lo que fue ratificado en estrados por su abogada.
+
+Por estas consideraciones, y teniendo presente lo dispuesto en la Ley N° 18.287 y 186 y siguientes del Código de Procedimiento Civil, SE REVOCA, la sentencia de veinticinco de septiembre de dos mil veintitrés, dictada por el Segundo Juzgado de Policía Local de esta ciudad, que rola de fojas 120 a 125, solo en cuanto se rechaza la demanda civil de indemnización de perjuicios interpuesta en contra de doña Gemita González Álvarez y don Pedro Montecinos Riquelme, y SE CONFIRMA, en lo demás, la sentencia apelada.
+
+Acordada con el voto en contra del fiscal judicial don Gonzalo Pérez Correa, quien de conformidad a lo dispuesto en el artículo 2315 del Código Civil, fue de opinión de confirmar la sentencia apelada, en virtud de sus propios fundamentos.
+
+Redactada por el fiscal judicial Gonzalo Pérez Correa.
+
+Rol N° 249-2023/Policía Local.
+
+Se deja constancia que no firma el abogado integrante don Leonardo Mazzei Parodi, sin perjuicio de haber concurrido a la vista y acuerdo de la causa, por encontrarse ausente.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Talca, once de noviembre de dos mil veintiuno.  VISTOS: Se reproduce el fallo en alzada, con excepción de los motivos DÉCIMO TERCERO y siguientes, los cuales se eliminan.  Y EN SU LUGAR SE TIENE PRESENTE: PRIMERO: Que el demandante civil don Héctor Murga Rivera endereza su acción indemnizatoria, haciendo valer su calidad de conductor y propietario de la motocicleta marca Suzuki, modelo Vstrom 1000 c.c P.P.U XD-255, según se lee en el escrito en el cual deduce la acción civil. Sin embargo, revisado el expediente de primera instancia, se advierte que no acompañó ningún elemento probatorio que permita acreditar dicha calidad legal, tanto así, que no rindió prueba alguna sobre este punto. SEGUNDO: Que, sin embargo, en esta instancia adjuntó una carta poder de fecha 13 de septiembre de 2022 firmada ante el Notario Público de Talca don Jaime Silva Sciberres, en la cual don José Hernán Rojas Figueroa, cédula de identidad N° 14.007.149-8 le confiere poder especial, para que, en su nombre y representación, ceda, venda y transfiera el vehículo de su propiedad, que es precisamente la motocicleta involucrada en el accidente de tránsito materia de este juicio, P.P.U XD-0255-7. En consecuencia, el propio actor, reconoce en esta instancia, que no detenta la calidad de propietario de dicho móvil, como sí lo había aseverado en primera instancia, y sobre lo cual edificó la demanda civil que se estudia, señalando que el propietario de la motocicleta es don José Hernán Rojas Figueroa.TERCERO: Que, en consecuencia, conforme se viene detallando, se comprueba que el actor carece de legitimidad activa para impetrar la demanda civil que ha intentado, al no detentar la calidad jurídica que dijo tener al momento de interponer dicha acción judicial, razones suficientes para desestimar la demanda civil que ha deducido en la causa. Por otro lado, tampoco acreditó tener la calidad de poseedor de la motocicleta placa patente P.P.U XD-0255-7, siendo insuficiente a este respecto, el simple hecho de ir conduciendo el móvil cuando se produjo el accidente de tránsito que da origen a esta causa, no habiéndose probado en el juicio que se configuraban los elementos de la posesión de bienes muebles, específicamente, el elemento psicológico o animus, es decir, el comportarse como señor y dueño, tanto así, que ha sido el mismo actor, al acompañar la carta poder señalada precedentemente, quien ha admitiendo en los hechos que reconocía dominio ajeno, sin perjuicio de que se le haya conferido poder, para el solo efecto de ceder, vender y transferir el referido vehículo, sin que se encuentre legalmente habilitado para interponer la presente acción civil, lo que fue ratificado en estrados por su abogada. Por estas consideraciones, y teniendo presente lo dispuesto en la Ley N° 18.287 y 186 y siguientes del Código de Procedimiento Civil, SE REVOCA, la sentencia de veinticinco de septiembre de dos mil veintitrés, dictada por el Segundo Juzgado de Policía Local de esta ciudad, que rola de fojas 120 a 125, solo en cuanto se rechaza la demanda civil de indemnización de perjuicios interpuesta en contra de doña Gemita González Álvarez y don Pedro Montecinos Riquelme, y SE CONFIRMA, en lo demás, la sentencia apelada.  Acordada con el voto en contra del fiscal judicial don Gonzalo Pérez Correa, quien de conformidad a lo dispuesto en el artículo 2315 del Código Civil, fue de opinión de confirmar la sentencia apelada, en virtud de sus propios fundamentos. Redactada por el fiscal judicial Gonzalo Pérez Correa. Rol N° 249-2023/Policía Local.Se deja constancia que no firma el abogado integrante don Leonardo Mazzei Parodi, sin perjuicio de haber concurrido a la vista y acuerdo de la causa, por encontrarse ausente.                        ⚠                      Sin documento en esta instancia - pdf
