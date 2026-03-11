@@ -1,0 +1,67 @@
+METADATA
+
+case_id: 759485a8f09966b0d61973a7c48ad99a82ffcec5
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7964346
+
+rol: 44843-2025
+
+fecha_sentencia: 2025-12-18
+
+caratulado: INVERSIONES E INMOBILIARIA PRAMEB LIMITADA/PERUSINA (LTE)
+
+sala: PRIMERA, CIVIL
+
+materias: ▪ Admisibilidad del recurso de casación en el fondo
+
+recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+
+resultado_recurso: INADMISIBLE CASACIÓN FORMA RECHAZADA,CASACIÓN F(M)
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, dieciocho de diciembre de dos mil veinticinco.
+
+VISTOS Y TENIENDO PRESENTE:
+
+Primero: Que en este procedimiento sumario especial tramitado bajo el Rol C-13238-2024, ante el Sexto Juzgado Civil de Santiago, caratulado ¿Casas Sánchez con Diamantina Minimarket Limitada¿, se ha ordenado dar cuenta de la admisibilidad del recurso de casación en el fondo deducido por la demandada en contra de la sentencia de la Corte de Apelaciones de esta ciudad, que confirmó el fallo de primer grado que acogió la demanda y declaró terminado el contrato de arrendamiento, condenó al pago de las rentas adeudadas más reajustes y multas por atraso y ordenó la restitución del inmueble, todo ello con costas.
+
+Segundo: Que el recurrente fundamenta su solicitud de nulidad sustancial expresando que en el fallo cuestionado se infringen los artículos 1546 , 1915 y 1916 del Código Civil; 2116, 2163 N° 5 , 2169 del Código Civil, y 1698 del Código Civil en relación con el artículo 8 N° 7 de la Ley N° 18.101 . Explica en primer término, que la demandante al no informar la calidad jurídica que tenía respecto del bien arrendado incumplió los deberes de conducta que la buena fe impone en la contratación. Agrega que, si bien el arrendamiento de cosa ajena es válido, esto es solo respecto a la formación y efectos del contrato, pero en relación a su extinción, la ley nada dice sobre restituir el inmueble a un tercero que no es su dueño.
+
+Indica que si se considera que existió un mandato para arrendar el inmueble otorgado por la dueña del inmueble doña Consuelo Valenzuela Roco a la demandante como se explicó durante la vista de la causa, este se extinguió con la muerte de la mandante, circunstancia que consta de los documentos que acompañó y que no fueron considerados por el tribunal.
+
+En este sentido, sostiene que la actora tenía la carga de acreditar su legitimación activa para demandar, que es un supuesto básico de la relación jurídico procesal, lo que no hizo, pese a lo cual se acogió la demanda.
+
+Tercero: Que, para un adecuado examen de admisibilidad del recurso resulta necesario apuntar que, al desarrollar sus alegaciones, la demandada postula una línea argumentativa que no planteó durante la etapa de discusión, en la cual se mantuvo en rebeldía. Solo en la etapa de impugnación y en el recurso que ahora se revisa es que cuestiona la legitimación activa de la actora, reclamando que esta no es dueña del inmueble arrendado y, que, durante la relación contractual, nunca lo informó.
+
+Cuarto: Que lo anterior cobra relevancia, desde que no procede fundar una infracción de derecho en postulados que exceden abiertamente los términos en que se fijó la litis, ni denunciar la transgresión de disposiciones legales, a las que se les entregó un alcance distinto, dado que no es posible analizar la vulneración de preceptos en base a argumentos que no fueron materia de la controversia sometida a conocimiento del tribunal, pues de aceptarse, se atentaría contra el principio de bilateralidad de la audiencia.
+
+Quinto: Que en virtud de los raciocinios precedentes se constata que el recurso de casación adolece de manifiesta falta de fundamento.
+
+Por estas consideraciones y de conformidad además con lo dispuesto en el artículo 782 del Código de Procedimiento Civil, se rechaza el recurso de casación en el fondo interpuesto por el abogado Fabián Cazorla González, en representación de la demandada, contra la sentencia de tres de octubre de dos mil veinticinco, pronunciada por la Corte de Apelaciones de Santiago.
+
+Regístrese y devuélvase.
+
+Nº 43.990-2025.
+
+Pronunciado por la Primera Sala de la Corte Suprema integrada por los Ministros señora María Soledad Melo L., señora Jéssica González T., señor Jorge Zepeda A. (S), señora Eliana Quezada M. (S) y señora María Catepillán L. (S).
+
+No obstante, haber concurrido a la cuenta de admisibilidad y al acuerdo, no firma la Ministra señora González, por estar con permiso.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Santiago
+Santiago, tres de octubre de dos mil veinticinco.
+A los folios 16 y 17: a todo, téngase presente.
+Vistos y teniendo, además presente:
+Que los documentos acompañados por la parte demandada dirían relación con la titularidad del dominio del inmueble arrendado, respecto de lo cual cabe hacer presente lo siguiente: a) se trata de una alegación que ha debido ser formulada en la contestación de la demanda; y b) tal planteamiento se estrella contra lo dispuesto en el inciso segundo del artículo 1916 del Código Civil, que entiende válido el arrendamiento de cosa ajena.
+
+Y visto, además, lo dispuesto en el artículo 186 del Código de Procedimiento Civil, se confirma la sentencia dictada por el Sexto Juzgado Civil de Santiago, de fecha veinte de febrero de dos mil veinticinco, en autos Rol C-13238-2024.
+
+Devuélvase.
+
+N°Civil-12376-2025.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, dieciocho de diciembre de dos mil veinticinco.VISTOS Y TENIENDO PRESENTE:Primero: Que en este procedimiento sumario especial tramitado bajo el Rol C-13238-2024, ante el Sexto Juzgado Civil de Santiago, caratulado ¿Casas Sánchez con Diamantina Minimarket Limitada¿, se ha ordenado dar cuenta de la admisibilidad del recurso de casación en el fondo deducido por la demandada en contra de la sentencia de la Corte de Apelaciones de esta ciudad, que confirmó el fallo de primer grado que acogió la demanda y declaró terminado el contrato de arrendamiento, condenó al pago de las rentas adeudadas más reajustes y multas por atraso y ordenó la restitución del inmueble, todo ello con costas.Segundo: Que el recurrente fundamenta su solicitud de nulidad sustancial expresando que en el fallo cuestionado se infringen los artículos 1546 , 1915 y 1916 del Código Civil; 2116, 2163 N° 5 , 2169 del Código Civil, y 1698 del Código Civil en relación con el  artículo 8 N° 7 de la Ley N° 18.101 . Explica en primer término, que la demandante al no informar la calidad jurídica que tenía respecto del bien arrendado incumplió los deberes de conducta que la buena fe impone en la contratación. Agrega que, si bien el arrendamiento de cosa ajena es válido, esto es solo respecto a la formación y efectos del contrato, pero en relación a su extinción, la ley nada dice sobre restituir el inmueble a un tercero que no es su dueño.Indica que si se considera que existió un mandato para arrendar el inmueble otorgado por la dueña del inmueble doña Consuelo Valenzuela Roco a la demandante como se explicó durante la vista de la causa, este se extinguió con la muerte de la mandante, circunstancia que consta de los documentos que acompañó y que no fueron considerados por el tribunal.En este sentido, sostiene que la actora tenía la carga de acreditar su legitimación activa para demandar, que es un supuesto básico de la relación jurídico procesal, lo que no hizo, pese a lo cual se acogió la demanda.Tercero: Que, para un adecuado examen de admisibilidad del recurso resulta necesario apuntar que, al desarrollar sus alegaciones, la demandada postula una línea argumentativa que no planteó durante la etapa de discusión, en la cual se mantuvo en rebeldía. Solo en la etapa de impugnación y en el recurso que ahora se revisa es que cuestiona la legitimación activa de la actora, reclamando que esta no es dueña del inmueble arrendado y, que, durante la relación contractual, nunca lo informó.Cuarto: Que lo anterior cobra relevancia, desde que no procede fundar una infracción de derecho en postulados que exceden abiertamente los términos en que se fijó la litis, ni denunciar la transgresión de disposiciones legales, a las que se les entregó un alcance distinto, dado que no es posible analizar la vulneración de preceptos en base a argumentos que no fueron materia de la controversia sometida a conocimiento del tribunal, pues de aceptarse, se atentaría contra el principio de bilateralidad de la audiencia.Quinto: Que en virtud de los raciocinios precedentes se constata que el recurso de casación adolece de manifiesta falta de fundamento.Por estas consideraciones y de conformidad además con lo dispuesto en el  artículo 782 del Código de Procedimiento Civil, se rechaza el recurso de casación en el fondo interpuesto por el abogado Fabián Cazorla González, en representación de la demandada, contra la sentencia de tres de octubre de dos mil veinticinco, pronunciada por la Corte de Apelaciones de Santiago. Regístrese y devuélvase.Nº 43.990-2025.Pronunciado por la Primera Sala de la Corte Suprema integrada por los Ministros señora María Soledad Melo L., señora Jéssica González T., señor Jorge Zepeda A. (S), señora Eliana Quezada M. (S) y señora María Catepillán L. (S).No obstante, haber concurrido a la cuenta de admisibilidad y al acuerdo, no firma la Ministra señora González, por estar con permiso. Santiago, dieciocho de diciembre de dos mil veinticinco.VISTOS Y TENIENDO PRESENTE:Primero: Que en este procedimiento sumario especial tramitado bajo el Rol C-13238-2024, ante el Sexto Juzgado Civil de Santiago, caratulado “Casas Sánchez con Diamantina Minimarket Limitada”, se ha ordenado dar cuenta de la admisibilidad del recurso de casación en el fondo deducido por la demandada en contra de la sentencia de la Corte de Apelaciones de esta ciudad, que confirmó el fallo de primer grado que acogió la demanda y declaró terminado el contrato de arrendamiento, condenó al pago de las rentas adeudadas más reajustes y multas por atraso y ordenó la restitución del inmueble, todo ello con costas.Segundo: Que el recurrente fundamenta su solicitud de nulidad sustancial expresando que en el fallo cuestionado se infringen los artículos 1546, 1915 y 1916 del Código Civil; 2116, 2163 N° 5, 2169 del Código Civil, y 1698 del Código Civil en relación con el artículo 8 N° 7 de la Ley N° 18.101. Explica en primer término, que la demandante al no informar la calidad jurídica que tenía respecto del bien arrendado incumplió los deberes de conducta que la buena fe impone en la contratación. Agrega que, si bien el arrendamiento de cosa ajena es válido, esto es solo respecto a la formación y efectos del contrato, pero en relación a su extinción, la ley nada dice sobre restituir el inmueble a un tercero que no es su dueño.Indica que si se considera que existió un mandato para arrendar el inmueble otorgado por la dueña del inmueble doña Consuelo Valenzuela Roco a la demandante como se explicó durante la vista de la causa, este se extinguió con la muerte de la mandante, circunstancia que consta de los documentos que acompañó y que no fueron considerados por el tribunal.En este sentido, sostiene que la actora tenía la carga de acreditar su legitimación activa para demandar, que es un supuesto básico de la relación jurídico procesal, lo que no hizo, pese a lo cual se acogió la demanda.Tercero: Que, para un adecuado examen de admisibilidad del recurso resulta necesario apuntar que, al desarrollar sus alegaciones, la demandada postula una línea argumentativa que no planteó durante la etapa de discusión, en la cual se mantuvo en rebeldía. Solo en la etapa de impugnación y en el recurso que ahora se revisa es que cuestiona la legitimación activa de la actora, reclamando que esta no es dueña del inmueble arrendado y, que, durante la relación contractual, nunca lo informó.Cuarto: Que lo anterior cobra relevancia, desde que no procede fundar una infracción de derecho en postulados que exceden abiertamente los términos en que se fijó la litis, ni denunciar la transgresión de disposiciones legales, a las que se les entregó un alcance distinto, dado que no es posible analizar la vulneración de preceptos en base a argumentos que no fueron materia de la controversia sometida a conocimiento del tribunal, pues de aceptarse, se atentaría contra el principio de bilateralidad de la audiencia.Quinto: Que en virtud de los raciocinios precedentes se constata que el recurso de casación adolece de manifiesta falta de fundamento.Por estas consideraciones y de conformidad además con lo dispuesto en el artículo 782 del Código de Procedimiento Civil, se rechaza el recurso de casación en el fondo interpuesto por el abogado Fabián Cazorla González, en representación de la demandada, contra la sentencia de tres de octubre de dos mil veinticinco, pronunciada por la Corte de Apelaciones de Santiago.Regístrese y devuélvase.Nº 43.990-2025.Pronunciado por la Primera Sala de la Corte Suprema integrada por los Ministros señora María Soledad Melo L., señora Jéssica González T., señor Jorge Zepeda A. (S), señora Eliana Quezada M. (S) y señora María Catepillán L. (S).No obstante, haber concurrido a la cuenta de admisibilidad y al acuerdo, no firma la Ministra señora González, por estar con permiso. Sentencia anonimizada
