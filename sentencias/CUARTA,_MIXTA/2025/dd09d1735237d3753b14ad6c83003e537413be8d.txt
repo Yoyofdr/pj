@@ -1,0 +1,157 @@
+METADATA
+
+case_id: dd09d1735237d3753b14ad6c83003e537413be8d
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7970352
+
+rol: 42336-2025
+
+fecha_sentencia: 2025-12-23
+
+caratulado: SALAZAR/MUNICIPALIDAD DE LAS CONDES
+
+sala: CUARTA, MIXTA
+
+materias: ▪ Recurso de unificación de jurisprudencia
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: INADMISIBLE,UNIFICACIÓN DE JURISPRUDENCIA (M)
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Corte Suprema ▼
+Santiago, veintitrés de diciembre de dos mil veinticinco.
+
+Vistos:
+
+En estos autos RIT J-218-2020, RUC 2030264460-9, caratulados ¿Gatica y otra con Odontología e Insumos SpA¿, seguidos ante el Juzgado de Cobranza Laboral y Previsional de Concepción, por sentencia de veintiocho de marzo de dos mil veintitrés, se acogió la tercería de prelación interpuesta por el Banco de Chile y se declaró su derecho preferente para pagarse con el producto de la subasta del inmueble embargado por las ejecutantes.
+
+Se alzaron las ejecutantes y una sala de la Corte de Apelaciones de Concepción, mediante sentencia de diez de octubre de dos mil veintitrés, confirmó la de primera instancia.
+
+En contra de esta última decisión, la misma parte dedujo el recurso de casación en el fondo.
+
+Se ordenó traer los autos en relación.
+
+Considerando:
+
+Primero: Que las recurrentes denuncian infringidos los artículos 1698 inciso segundo , 2472 , números 1 y 5 , y 2478 del Código Civil, y artículo 61 del Código del Trabajo, puesto que en el fallo impugnado se reconoce el crédito de primera clase del que son titulares, pero agrega, contradictoriamente, que carecen de preferencia sobre el hipotecario del tercerista, por cuanto no comprobaron la insuficiencia o inexistencia de otros bienes de la deudora, alterando el peso de la prueba, puesto que correspondía al recurrido la acreditación de los requisitos de procedencia de la acción que interpuso, obviando en este análisis el principio pro operario, de acuerdo a la naturaleza del asunto en que se encuentra inserta la ejecución; razones por las que solicitan la invalidación del fallo impugnado y se dicte el de reemplazo que indica.
+
+Segundo: Que, en la sentencia que se revisa, se tuvo presente que las acreencias de las ejecutantes son de naturaleza laboral, por lo que gozan del privilegio establecido en el artículo 2472 del Código Civil, no obstante lo cual, en relación con el inmueble embargado, tales obligaciones coexisten con una de carácter hipotecaria, de la cual es titular el tercerista, por lo que cobra vigencia lo dispuesto en el artículo 2478 del referido texto legal, que establece como regla general, que los créditos de la primera clase no se extienden a la finca hipotecada, a menos que se dé y acredite la excepción que dicha norma contiene, esto es, que los otros bienes del deudor son insuficientes para pagar los de primera clase. Por lo anterior, resultaba necesario que las demandantes sostuvieran la insuficiencia o falta de otros bienes de la deudora para cubrir sus créditos, lo que habría permitido la aplicación de la mencionada excepción, sin embargo, no acompañaron antecedentes para acreditarlo, por lo que resulta aplicable la preferencia reclamada por el tercerista respecto del crédito que alega, equivalente a 6.339,72 Unidades de Fomento.
+
+Tercero: Que, por consiguiente, la controversia se limita a determinar el correcto sentido y alcance del inciso primero del artículo 2478 del Código Civil, conforme al cual: ¿Los créditos de la primera clase no se extenderán a las fincas hipotecadas sino en el caso de no poder cubrirse en su totalidad con los otros bienes del deudor¿; por lo que se debe establecer sobre quién recae la carga de la prueba de la existencia de otros bienes del deudor y si es condición previa para que el recurrido pueda dirigirse contra el inmueble hipotecado para garantizar el crédito del que es titular.
+
+Cuarto: Que, según se observa, concurren derechos que se confrontan sobre un mismo bien inmueble, a saber, un crédito privilegiado de la primera clase, como es el que invocan las ejecutantes, y el proveniente de la preferencia hipotecaria que alega el tercerista.
+
+Al respecto, se debe considerar que para que un crédito de primera clase pueda ser cubierto con el producto de un inmueble hipotecado, se requiere que, tal como lo indica la norma en estudio, no existan otros bienes del deudor o que no sean suficientes, es decir, no basten para que dichas acreencias se puedan pagar con primacía a cualquier otra preferencia o privilegio.
+
+Quinto: Que, en consecuencia, al disponer la ley que los créditos de primera clase se extienden a las fincas hipotecadas cuando los otros bienes del deudor no los cubren íntegramente, la existencia de estos se debe demostrar y discernir cuál es la regla general y la excepción.
+
+Sexto: Que el peso de la prueba se distribuye conforme a la normalidad o anormalidad de la situación de que se trate, por lo que debe probar quien alega la concurrencia de un escenario que escapa al estándar corriente de ocurrencia de los hechos, es decir, al litigante que argumenta la circunstancia excepcional. Al respecto, la primera clase de preferencia afecta a todos los bienes del deudor, sin distinción, incluso los afectos al privilegio de segunda clase y las fincas hipotecadas o acensuadas, por lo que la situación contemplada en el artículo 2478 del Código Civil es una excepción que limita la posibilidad de cubrirse tales créditos, de forma que, al tratarse de una situación específica, configura una hipótesis de derecho estricto y de aplicación restrictiva, en consecuencia, quien la alega o pretende aprovechar esa regulación, debe acreditar los supuestos que la hacen procedente, esto es, que por existir otros bienes del deudor suficientes para satisfacer la totalidad de los créditos privilegiados, no puede perseguirse la finca hipotecada. En idéntico sentido se ha pronunciado esta Corte en sentencias dictadas en causas Roles N°5.281-2007, 1.041-2011, 3.445-2013 , 3.862-2013 , 998-2015 , 45-2016 , 1.286-2018 , 11.223-2019 , 13.532-2022 y 54.615-2023.
+
+Séptimo: Que, por consiguiente, al acogerse la tercería de prelación sin hacer efectivas las cargas probatorias que la legislación impone a quien sostiene su mejor derecho al pago, se vulneraron las disposiciones que se afirman infringidas en el recurso, lo que influyó sustancialmente en lo dispositivo del fallo impugnado, por cuanto condujo a acoger en forma errónea la tercería deducida.
+
+Octavo: Que, por lo razonado, se dará lugar al recurso de casación en el fondo que se examina.
+
+Por estas consideraciones y visto lo dispuesto en los artículos 764 , 765 , 767 , 771 , 772 , 783 y 785 del Código de Procedimiento Civil, se acoge, sin costas, el recurso de casación en el fondo deducido por las ejecutantes contra la sentencia de diez de octubre de dos mil veintitrés, pronunciada por una sala de la Corte de Apelaciones de Concepción, que, en consecuencia, se invalida y se reemplaza por la que se dicta a continuación, sin nueva vista y en forma separada.
+
+Redacción a cargo de la abogada integrante señora Etcheberry.
+
+Regístrese.
+
+Rol Nº243.807-2023.
+
+Pronunciado por la Cuarta Sala de la Corte Suprema integrada por las ministras señoras Andrea Muñoz S., Jessica González T., Mireya López M., y las abogadas integrantes señoras Leonor Etcheberry C. y Fabiola Lathrop G.
+No firman las Abogadas Integrantes señoras Etcheberry y Lathrop, no obstante haber concurrido a la vista y al acuerdo de la causa, por estar ambas ausentes. Santiago, veintitrés de diciembre de dos mil veinticinco.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Corte Suprema ▼
+Santiago, veintitrés de diciembre de dos mil veinticinco.
+
+Vistos:
+
+En estos autos RIT J-218-2020, RUC 2030264460-9, caratulados ¿Gatica y otra con Odontología e Insumos SpA¿, seguidos ante el Juzgado de Cobranza Laboral y Previsional de Concepción, por sentencia de veintiocho de marzo de dos mil veintitrés, se acogió la tercería de prelación interpuesta por el Banco de Chile y se declaró su derecho preferente para pagarse con el producto de la subasta del inmueble embargado por las ejecutantes.
+
+Se alzaron las ejecutantes y una sala de la Corte de Apelaciones de Concepción, mediante sentencia de diez de octubre de dos mil veintitrés, confirmó la de primera instancia.
+
+En contra de esta última decisión, la misma parte dedujo el recurso de casación en el fondo.
+
+Se ordenó traer los autos en relación.
+
+Considerando:
+
+Primero: Que las recurrentes denuncian infringidos los artículos 1698 inciso segundo , 2472 , números 1 y 5 , y 2478 del Código Civil, y artículo 61 del Código del Trabajo, puesto que en el fallo impugnado se reconoce el crédito de primera clase del que son titulares, pero agrega, contradictoriamente, que carecen de preferencia sobre el hipotecario del tercerista, por cuanto no comprobaron la insuficiencia o inexistencia de otros bienes de la deudora, alterando el peso de la prueba, puesto que correspondía al recurrido la acreditación de los requisitos de procedencia de la acción que interpuso, obviando en este análisis el principio pro operario, de acuerdo a la naturaleza del asunto en que se encuentra inserta la ejecución; razones por las que solicitan la invalidación del fallo impugnado y se dicte el de reemplazo que indica.
+
+Segundo: Que, en la sentencia que se revisa, se tuvo presente que las acreencias de las ejecutantes son de naturaleza laboral, por lo que gozan del privilegio establecido en el artículo 2472 del Código Civil, no obstante lo cual, en relación con el inmueble embargado, tales obligaciones coexisten con una de carácter hipotecaria, de la cual es titular el tercerista, por lo que cobra vigencia lo dispuesto en el artículo 2478 del referido texto legal, que establece como regla general, que los créditos de la primera clase no se extienden a la finca hipotecada, a menos que se dé y acredite la excepción que dicha norma contiene, esto es, que los otros bienes del deudor son insuficientes para pagar los de primera clase. Por lo anterior, resultaba necesario que las demandantes sostuvieran la insuficiencia o falta de otros bienes de la deudora para cubrir sus créditos, lo que habría permitido la aplicación de la mencionada excepción, sin embargo, no acompañaron antecedentes para acreditarlo, por lo que resulta aplicable la preferencia reclamada por el tercerista respecto del crédito que alega, equivalente a 6.339,72 Unidades de Fomento.
+
+Tercero: Que, por consiguiente, la controversia se limita a determinar el correcto sentido y alcance del inciso primero del artículo 2478 del Código Civil, conforme al cual: ¿Los créditos de la primera clase no se extenderán a las fincas hipotecadas sino en el caso de no poder cubrirse en su totalidad con los otros bienes del deudor¿; por lo que se debe establecer sobre quién recae la carga de la prueba de la existencia de otros bienes del deudor y si es condición previa para que el recurrido pueda dirigirse contra el inmueble hipotecado para garantizar el crédito del que es titular.
+
+Cuarto: Que, según se observa, concurren derechos que se confrontan sobre un mismo bien inmueble, a saber, un crédito privilegiado de la primera clase, como es el que invocan las ejecutantes, y el proveniente de la preferencia hipotecaria que alega el tercerista.
+
+Al respecto, se debe considerar que para que un crédito de primera clase pueda ser cubierto con el producto de un inmueble hipotecado, se requiere que, tal como lo indica la norma en estudio, no existan otros bienes del deudor o que no sean suficientes, es decir, no basten para que dichas acreencias se puedan pagar con primacía a cualquier otra preferencia o privilegio.
+
+Quinto: Que, en consecuencia, al disponer la ley que los créditos de primera clase se extienden a las fincas hipotecadas cuando los otros bienes del deudor no los cubren íntegramente, la existencia de estos se debe demostrar y discernir cuál es la regla general y la excepción.
+
+Sexto: Que el peso de la prueba se distribuye conforme a la normalidad o anormalidad de la situación de que se trate, por lo que debe probar quien alega la concurrencia de un escenario que escapa al estándar corriente de ocurrencia de los hechos, es decir, al litigante que argumenta la circunstancia excepcional. Al respecto, la primera clase de preferencia afecta a todos los bienes del deudor, sin distinción, incluso los afectos al privilegio de segunda clase y las fincas hipotecadas o acensuadas, por lo que la situación contemplada en el artículo 2478 del Código Civil es una excepción que limita la posibilidad de cubrirse tales créditos, de forma que, al tratarse de una situación específica, configura una hipótesis de derecho estricto y de aplicación restrictiva, en consecuencia, quien la alega o pretende aprovechar esa regulación, debe acreditar los supuestos que la hacen procedente, esto es, que por existir otros bienes del deudor suficientes para satisfacer la totalidad de los créditos privilegiados, no puede perseguirse la finca hipotecada. En idéntico sentido se ha pronunciado esta Corte en sentencias dictadas en causas Roles N°5.281-2007, 1.041-2011, 3.445-2013 , 3.862-2013 , 998-2015 , 45-2016 , 1.286-2018 , 11.223-2019 , 13.532-2022 y 54.615-2023.
+
+Séptimo: Que, por consiguiente, al acogerse la tercería de prelación sin hacer efectivas las cargas probatorias que la legislación impone a quien sostiene su mejor derecho al pago, se vulneraron las disposiciones que se afirman infringidas en el recurso, lo que influyó sustancialmente en lo dispositivo del fallo impugnado, por cuanto condujo a acoger en forma errónea la tercería deducida.
+
+Octavo: Que, por lo razonado, se dará lugar al recurso de casación en el fondo que se examina.
+
+Por estas consideraciones y visto lo dispuesto en los artículos 764 , 765 , 767 , 771 , 772 , 783 y 785 del Código de Procedimiento Civil, se acoge, sin costas, el recurso de casación en el fondo deducido por las ejecutantes contra la sentencia de diez de octubre de dos mil veintitrés, pronunciada por una sala de la Corte de Apelaciones de Concepción, que, en consecuencia, se invalida y se reemplaza por la que se dicta a continuación, sin nueva vista y en forma separada.
+
+Redacción a cargo de la abogada integrante señora Etcheberry.
+
+Regístrese.
+
+Rol Nº243.807-2023.
+
+Pronunciado por la Cuarta Sala de la Corte Suprema integrada por las ministras señoras Andrea Muñoz S., Jessica González T., Mireya López M., y las abogadas integrantes señoras Leonor Etcheberry C. y Fabiola Lathrop G.
+No firman las Abogadas Integrantes señoras Etcheberry y Lathrop, no obstante haber concurrido a la vista y al acuerdo de la causa, por estar ambas ausentes. Santiago, veintitrés de diciembre de dos mil veinticinco.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Corte Suprema ▼
+Santiago, veintitrés de diciembre de dos mil veinticinco.
+
+Vistos:
+
+En estos autos RIT J-218-2020, RUC 2030264460-9, caratulados ¿Gatica y otra con Odontología e Insumos SpA¿, seguidos ante el Juzgado de Cobranza Laboral y Previsional de Concepción, por sentencia de veintiocho de marzo de dos mil veintitrés, se acogió la tercería de prelación interpuesta por el Banco de Chile y se declaró su derecho preferente para pagarse con el producto de la subasta del inmueble embargado por las ejecutantes.
+
+Se alzaron las ejecutantes y una sala de la Corte de Apelaciones de Concepción, mediante sentencia de diez de octubre de dos mil veintitrés, confirmó la de primera instancia.
+
+En contra de esta última decisión, la misma parte dedujo el recurso de casación en el fondo.
+
+Se ordenó traer los autos en relación.
+
+Considerando:
+
+Primero: Que las recurrentes denuncian infringidos los artículos 1698 inciso segundo , 2472 , números 1 y 5 , y 2478 del Código Civil, y artículo 61 del Código del Trabajo, puesto que en el fallo impugnado se reconoce el crédito de primera clase del que son titulares, pero agrega, contradictoriamente, que carecen de preferencia sobre el hipotecario del tercerista, por cuanto no comprobaron la insuficiencia o inexistencia de otros bienes de la deudora, alterando el peso de la prueba, puesto que correspondía al recurrido la acreditación de los requisitos de procedencia de la acción que interpuso, obviando en este análisis el principio pro operario, de acuerdo a la naturaleza del asunto en que se encuentra inserta la ejecución; razones por las que solicitan la invalidación del fallo impugnado y se dicte el de reemplazo que indica.
+
+Segundo: Que, en la sentencia que se revisa, se tuvo presente que las acreencias de las ejecutantes son de naturaleza laboral, por lo que gozan del privilegio establecido en el artículo 2472 del Código Civil, no obstante lo cual, en relación con el inmueble embargado, tales obligaciones coexisten con una de carácter hipotecaria, de la cual es titular el tercerista, por lo que cobra vigencia lo dispuesto en el artículo 2478 del referido texto legal, que establece como regla general, que los créditos de la primera clase no se extienden a la finca hipotecada, a menos que se dé y acredite la excepción que dicha norma contiene, esto es, que los otros bienes del deudor son insuficientes para pagar los de primera clase. Por lo anterior, resultaba necesario que las demandantes sostuvieran la insuficiencia o falta de otros bienes de la deudora para cubrir sus créditos, lo que habría permitido la aplicación de la mencionada excepción, sin embargo, no acompañaron antecedentes para acreditarlo, por lo que resulta aplicable la preferencia reclamada por el tercerista respecto del crédito que alega, equivalente a 6.339,72 Unidades de Fomento.
+
+Tercero: Que, por consiguiente, la controversia se limita a determinar el correcto sentido y alcance del inciso primero del artículo 2478 del Código Civil, conforme al cual: ¿Los créditos de la primera clase no se extenderán a las fincas hipotecadas sino en el caso de no poder cubrirse en su totalidad con los otros bienes del deudor¿; por lo que se debe establecer sobre quién recae la carga de la prueba de la existencia de otros bienes del deudor y si es condición previa para que el recurrido pueda dirigirse contra el inmueble hipotecado para garantizar el crédito del que es titular.
+
+Cuarto: Que, según se observa, concurren derechos que se confrontan sobre un mismo bien inmueble, a saber, un crédito privilegiado de la primera clase, como es el que invocan las ejecutantes, y el proveniente de la preferencia hipotecaria que alega el tercerista.
+
+Al respecto, se debe considerar que para que un crédito de primera clase pueda ser cubierto con el producto de un inmueble hipotecado, se requiere que, tal como lo indica la norma en estudio, no existan otros bienes del deudor o que no sean suficientes, es decir, no basten para que dichas acreencias se puedan pagar con primacía a cualquier otra preferencia o privilegio.
+
+Quinto: Que, en consecuencia, al disponer la ley que los créditos de primera clase se extienden a las fincas hipotecadas cuando los otros bienes del deudor no los cubren íntegramente, la existencia de estos se debe demostrar y discernir cuál es la regla general y la excepción.
+
+Sexto: Que el peso de la prueba se distribuye conforme a la normalidad o anormalidad de la situación de que se trate, por lo que debe probar quien alega la concurrencia de un escenario que escapa al estándar corriente de ocurrencia de los hechos, es decir, al litigante que argumenta la circunstancia excepcional. Al respecto, la primera clase de preferencia afecta a todos los bienes del deudor, sin distinción, incluso los afectos al privilegio de segunda clase y las fincas hipotecadas o acensuadas, por lo que la situación contemplada en el artículo 2478 del Código Civil es una excepción que limita la posibilidad de cubrirse tales créditos, de forma que, al tratarse de una situación específica, configura una hipótesis de derecho estricto y de aplicación restrictiva, en consecuencia, quien la alega o pretende aprovechar esa regulación, debe acreditar los supuestos que la hacen procedente, esto es, que por existir otros bienes del deudor suficientes para satisfacer la totalidad de los créditos privilegiados, no puede perseguirse la finca hipotecada. En idéntico sentido se ha pronunciado esta Corte en sentencias dictadas en causas Roles N°5.281-2007, 1.041-2011, 3.445-2013 , 3.862-2013 , 998-2015 , 45-2016 , 1.286-2018 , 11.223-2019 , 13.532-2022 y 54.615-2023.
+
+Séptimo: Que, por consiguiente, al acogerse la tercería de prelación sin hacer efectivas las cargas probatorias que la legislación impone a quien sostiene su mejor derecho al pago, se vulneraron las disposiciones que se afirman infringidas en el recurso, lo que influyó sustancialmente en lo dispositivo del fallo impugnado, por cuanto condujo a acoger en forma errónea la tercería deducida.
+
+Octavo: Que, por lo razonado, se dará lugar al recurso de casación en el fondo que se examina.
+
+Por estas consideraciones y visto lo dispuesto en los artículos 764 , 765 , 767 , 771 , 772 , 783 y 785 del Código de Procedimiento Civil, se acoge, sin costas, el recurso de casación en el fondo deducido por las ejecutantes contra la sentencia de diez de octubre de dos mil veintitrés, pronunciada por una sala de la Corte de Apelaciones de Concepción, que, en consecuencia, se invalida y se reemplaza por la que se dicta a continuación, sin nueva vista y en forma separada.
+
+Redacción a cargo de la abogada integrante señora Etcheberry.
+
+Regístrese.
+
+Rol Nº243.807-2023.
+
+Pronunciado por la Cuarta Sala de la Corte Suprema integrada por las ministras señoras Andrea Muñoz S., Jessica González T., Mireya López M., y las abogadas integrantes señoras Leonor Etcheberry C. y Fabiola Lathrop G.
+No firman las Abogadas Integrantes señoras Etcheberry y Lathrop, no obstante haber concurrido a la vista y al acuerdo de la causa, por estar ambas ausentes. Santiago, veintitrés de diciembre de dos mil veinticinco.

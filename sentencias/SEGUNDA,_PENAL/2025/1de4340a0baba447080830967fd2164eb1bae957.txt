@@ -1,0 +1,449 @@
+METADATA
+
+case_id: 1de4340a0baba447080830967fd2164eb1bae957
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7970336
+
+rol: 53127-2025
+
+fecha_sentencia: 2025-12-23
+
+caratulado: ROQUE/PRIMERA SALA ILUSTRÍSIMA CORTE DE APELACIONES DE IQUIQUE
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de queja
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: DESESTIMA DE PLANO RECURSO DE QUEJA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintitrés de diciembre de dos mil veinticinco.
+
+Vistos y teniendo presente:
+
+Primero: Que, de conformidad con lo dispuesto en el inciso séptimo del artículo 483-A del Código del Trabajo, se ha ordenado dar cuenta de la admisibilidad del recurso de unificación de jurisprudencia deducido por la demandada en contra de la sentencia dictada por la Corte de Apelaciones de Santiago, que rechazó el de nulidad interpuesto contra la de instancia que acogió la excepción de prescripción de la acción de cobro de prestaciones y la demanda, declaró la existencia de la relación laboral, desde el 14 de octubre de 2014 al 15 de junio de 2022, nulo e injustificado el despido y condenó al pago de las prestaciones que señala.
+
+Segundo: Que según se expresa en la legislación laboral, el recurso de unificación de jurisprudencia es susceptible de ser deducido en contra de la resolución que falle el recurso de nulidad, estableciéndose su procedencia para el caso en que ¿respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de Tribunales Superiores de Justicia ¿, conforme lo explicita el artículo 483 del Código del Trabajo.
+
+Asimismo, del tenor de lo dispuesto en el artículo 483-A del cuerpo legal antes citado, aparece que esta Corte debe controlar, como requisitos para su admisibilidad, por un lado, su oportunidad; en segundo lugar, la existencia de fundamento, además de una relación precisa y circunstanciada de las distintas interpretaciones respecto de las materias de derecho objeto de la sentencia, sostenidas en diversos fallos emanados de los tribunales superiores de justicia, y finalmente, debe acompañarse copia del o los fallos que se invocan como fundamento del recurso en referencia.
+
+Tercero: Que la materia de derecho propuesta para ser unificada consiste en ¿Determinar si corresponde aplicar la sanción de la nulidad del despido a un órgano de la Administración del Estado, cuando la relación laboral fue declarada por una sentencia judicial¿.
+
+Cuarto: Que la sentencia impugnada rechazó el arbitrio de la demandada fundado en las causales de los artículos 478 e ), en subsidio, conjuntamente 477 y 478 b) y, subsidiariamente, 477 del Código del Trabajo, dado que, con relación a la primera, el reproche se limita a una supuesta ponderación parcial, ya que, en el parecer de la recurrente, debe darse a las cláusulas de los contratos a honorarios el sentido que favorece a sus intereses, lo que no hizo el tribunal, sin que defina los elementos de convicción cuya ausencia de ponderación sea susceptible de control a través de esta motivación de nulidad.
+
+Referente a la segunda y tercera, puesto que, a propósito de las causales conjuntas, se pretenden modificar los hechos, para, en segundo lugar, como consecuencia de esa alteración, suponer la vulneración de normas sustantivas que debieron o no aplicarse a la solución de la litis, sin que se adviertan las supuestas conculcaciones de las reglas de la sana crítica acusadas.
+
+Finalmente, respecto de la tercera, pues con relación a la infracción de la Ley N°20.255, desarrollada por la recurrente como un párrafo distinto de las anteriores vulneraciones de ley, cabe, en primer lugar, igual consideración, esto es, la necesidad de hechos establecidos que permitan la aplicación del derecho, los que no se aprecian con la lectura del fallo cuestionado. Además, la invocación de la citada Ley surge como una alegación nueva, no formulada en la etapa procesal correspondiente, motivo por el que resulta improcedente y, por último, en cuanto a la calificación jurídica desarrollada como motivación de ineficacia por la impugnante, la confusa redacción de la causal no permite hacerse cargo de los argumentos ofrecidos, ya que al parecer, no se pretende una subsunción de los hechos establecidos -no se indica cuáles- en una norma jurídica diferente a la escogida por el juzgador, sino que intenta que se le libere de una condena impuesta por aplicación del artículo 162 del Código del Trabajo, alegación que no condice con la causal hecha valer.
+
+De esta forma, no ha podido constatarse un pronunciamiento sustancial que se relacione con la materia de derecho propuesta por la demandada, por lo que el recurso intentado debe ser desestimado en esta etapa procesal.
+
+Por estas consideraciones y normas citadas, se declara inadmisible el recurso de unificación de jurisprudencia interpuesto contra la sentencia once de septiembre de dos mil veinticinco.
+
+Regístrese y devuélvase.
+
+N°42.336-25.
+
+Pronunciado por la Cuarta Sala de la Corte Suprema integrada por las ministras señoras Gloria Ana Chevesich R., Andrea Muñoz S., Jessica González T., Mireya López M., y la abogada integrante señora Irene Rojas M. Santiago, veintitrés de diciembre de dos mil veinticinco.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Santiago, once de septiembre de dos mil veinticinco.
+
+Vistos:
+
+Ante el Segundo Juzgado de Letras del Trabajo de esta ciudad, en antecedentes O-4970-2022, comparece Luis Enrique Salazar Muñoz y, en procedimiento de aplicación general, deduce demanda en contra de la Municipalidad de Las Condes, representada por su alcaldesa Daniela Peñaloza Ramos. Pide se declare la existencia de relación de índole laboral entre las partes y, consecuencialmente, sin causal y nulo su despido, condenando a la demandada a pagar las cantidades que indica por concepto de indemnización sustitutiva del aviso previo, indemnización por años de servicios con recargo legal, horas extraordinarias adeudadas, compensación de feriados, cotizaciones previsionales, remuneraciones desde el despido hasta la convalidación, todo con reajustes e intereses, más las costas de la causa.
+
+Por sentencia de veintiséis de junio de dos mil veinticuatro, rectificada el uno de julio de igual anualidad, se acoge la excepción de prescripción opuesta por la demandada; se hace lugar a la demanda y se declara la existencia de la relación laboral entre las partes a contar del día 14 octubre de 2014 hasta el 15 de junio de 2022; asimismo, se declara nulo el despido de que fue objeto el actor, con fecha 15 de junio de 2022, condenándose consecuencialmente a la demandada al pago de las remuneraciones y demás prestaciones que se devenguen desde la fecha del despido, esto es, el día 15 de junio de 2022 y hasta la fecha en que efectivamente se efectúe el pago de las cotizaciones previsionales, de salud y de cesantía adeudadas, debiendo tomarse en consideración como remuneración mensual, la suma de $3.844.381; además, se declara injustificado el despido de que fue objeto el actor con fecha 15 de junio de 2022 y se condena, consecuencialmente, a la demandada a solucionar las cantidades que se indican por concepto de indemnización sustitutiva del aviso previo, indemnización por años de servicios con recargo legal, compensación de feriados, a más de las cotizaciones previsionales en las entidades correspondientes, disponiendo el incremento con los reajustes e intereses que se indican en los artículos 63 y 173 del Código del Trabajo. No se condena en costas a la parte demandada.
+
+En contra de dicha sentencia, la demandada deduce recurso de nulidad invocando las causales establecidas en el artículo 477 y en las letras b), c) y e) del artículo 478, ambos del Código del Trabajo, el que fue declarado admisible e incorporado a tabla para su conocimiento y resolución.
+
+Considerando:
+
+Primero: De manera principal el Municipio demandado acusa el vicio previsto en el artículo 478, letra e), del Código del Trabajo, esto es: “Cuando la sentencia se hubiere dictado con omisión de cualquiera de los requisitos establecidos en los artículos 459…”, el que vincula con lo dispuesto en el artículo 459 N° 4 del mismo Código, que exige como requisitos de la sentencia “El análisis de toda la prueba rendida, los hechos que estime probados y el razonamiento que conduce a esta estimación”.
+
+En este capítulo sostiene que el juez se limita a resumir algunos medios de prueba sin efectuar un verdadero análisis, ya que el fallo no tiene un razonamiento que permita explicar las conclusiones fácticas y las razones de porqué desestima determinados medios de prueba. No se abordan los aspectos contradictorios de los medios de prueba o declaraciones que se contraponen.
+
+Explica que la Municipalidad contrató al actor para realizar cometidos específicos año a año, siempre dependiente del Jefe del Departamento de Relaciones Públicas, cuya continuidad, tal y como se estableció en los mismos contratos, contaba con un presupuesto determinado para su ejecución, dicho presupuesto, como resulta evidente, necesariamente debe coincidir con cada ejercicio complementario. Así las cosas, en atención a que para su implementación, no sólo se requiere de recursos materiales, sino que también humanos, elemento este último, esencial para la consecución de los fines propuestos y su efectiva ejecución, las que, en estas condiciones, por tratarse de labores no habituales o accidentales que se desarrollan, incluso, en distintos días, horarios y lugares de la comuna, es que se requiere de su apoyo.
+
+Denuncia que no se explica en la sentencia, porqué se le da preponderancia a los contratos acompañados, sólo en cuanto a determinar la cantidad de años por los cuales el demandante prestó servicios para el Municipio, sin considerar las cláusulas que específicamente señalan que la relación entre las partes se rige exclusivamente por el contrato suscrito y el Programa en relación; y en las que se indica que el demandante no tiene la calidad de funcionario de la Municipalidad de Las Condes.
+
+Acusa que no se señala porqué a un mismo medio de prueba, en este caso los contratos, se la da un valor probatorio distinto, por partes, cuando debió ser analizando en su totalidad.
+
+Afirma que todas estas circunstancias atingentes a cada contrato de honorario suscrito entre el demandante y la municipalidad no fueron consideradas ni analizadas en el fallo objeto del presente recurso de nulidad.
+
+Por ello -en su parecer- y desde un simple análisis comparativo entre la prueba rendida por las partes y la prueba antes referida citada por la sentencia recurrida, se constata la plausibilidad del vicio de nulidad alegado por esta parte.
+
+Destaca las cláusulas no examinadas en la sentencia de que se trata, referidas a ejecutar su cometido en cumplimiento de los objetivos del Programa; dar buen uso y resguardar el material de trabajo que esté a su disposición; la posibilidad de que el Municipio pudiera proporcionar vestuario en calidad de préstamo; la declaración de que el demandante no tiene la calidad de funcionario municipal; la declaración que el demandante recibió información sobre la Ley N° 20.255 y que los costos de previsión social correspondientes a Administradora de Fondos de Pensiones y de seguro de accidentes del trabajo y enfermedades profesionales son de cargo del demandante y tiene la obligación personal de cumplirlas. Situación que también es reconocida en la prueba confesional por parte del demandante y respecto de la cual la sentencia no se hace cargo de ella; la cláusula en que la parte demandante reconoce expresamente que el prestador de los servicios no está sujeto a subordinación ni dependencia respecto de persona alguna en el Municipio, por lo que sólo está obligado a cumplir aquello para lo cual se le contrató, elemento trascendental, ya que en la sentencia, en el minuto 13:35 señala de manera literal: “Lo único importante es, la subordinación y dependencia”; la posibilidad de poner término anticipado en cualquier momento, sin expresión de causa y sin derecho a indemnización de ninguna especie; se estableció que el vínculo que relaciona a las partes, se regirá en cuanto a sus derechos y obligaciones, exclusiva y excluyentemente por las disposiciones del presente contrato y del programa.
+
+Enseguida, apunta que la sentencia incurre en un vicio de falta de logicidad, ya que existe falta de explicaciones o respuestas para hipótesis alternativas razonablemente posibles y que no han resultado excluidas, tornando inconducente la fundamentación. De hecho, la sola circunstancia de que se reiteren en el tiempo no transforma a los servicios prestados mediante ellos, de “ocasionales y/o transitorios” a “habituales”.
+
+Además, recuerda que la Municipalidad tenía facultades de supervisión o control que emanaban de los contratos a honorarios, los cuales no fueron detalladamente analizados en la sentencia, todos aprobados por decretos alcaldicios, ello en un contexto legal, de derecho público, que obligaba al Municipio a fiscalizar el adecuado uso de los recursos públicos y la prestación efectiva del servicio a la comunidad.
+
+Entonces -dice la recurrente- la sentencia al no hacerse cargo de forma completa de los medios de prueba aportados por el Municipio (contratos a honorarios, decretos, boletas a honorarios), los cuales en cualidad son de mayor multiplicidad, gravedad, precisión, concordancia y conexión que la prueba aportada por la parte demandante, y que dan cuenta de la existencia de una relación contractual a honorarios, las obligaciones de las partes, la modificación año a año del cometido, y por tanto su evaluación y su complejización en el tiempo.
+
+Por otra parte, estima que la sentencia es nula, ya que ésta al no exponer el análisis de toda la prueba rendida durante la audiencia de juicio, Decretos Alcaldicios, ha limitado el ejercicio de su parte de su derecho de impugnación.
+
+En subsidio, invoca, de manera conjunta, las causales de nulidad de los artículos 477 y 478, letra b), del Código del Trabajo: esto es, cuando la sentencia “…se hubiere dictado con infracción de ley que hubiere influido sustancialmente en lo dispositivo del fallo” y “cuando haya sido pronunciada con infracción manifiesta de las normas sobre la apreciación de la prueba conforme a las reglas de la sana crítica”, respectivamente, planteamiento que obedece a que, en caso de ser acogida y tras la recta aplicación de las reglas de la sana crítica, habría nuevos hechos que calificar jurídicamente.
+
+En este capítulo, el Municipio controvierte los elementos considerados por la sentencia para determinar la existencia de una relación laboral (continuidad y estructura jerárquica), alegando su particular apreciación de los mismos y reiterando la falta de logicidad ya anotada en la causal anterior.
+
+Agrega que la sentencia recurrida, para los efectos de probar la relación laboral, se basa en algunos email y los contratos lo que bastaría para aseverar que existe sujeción al control y supervisión directa por parte de un funcionario municipal, en perjuicio de la extensa prueba documental acompañada por la Municipalidad demandada, sin ninguna explicación razonable para la preferencia de una u otra prueba. A partir de estos escasos elementos probatorios, la sentencia arbitrariamente establece la existencia de los elementos de subordinación y dependencia. Además, tampoco se hace cargo, en relación con la supuesta subordinación, que la Municipalidad tiene la obligación de supervisar el correcto funcionamiento de los cometidos, por cuanto se ejecutan con dineros públicos, por lo que resulta lógico que exista un Departamento encargado de vigilar y supervisar.
+
+Sostiene que tras la recta aplicación de las reglas de la sana crítica, se concluye que entre el demandante y la Municipalidad de Las Condes existió una relación contractual a honorarios y no una relación laboral en los términos del artículo 7° del Código del Trabajo, al no configurarse los elementos de subordinación y dependencia, vicio que ha influido sustancialmente en lo dispositivo del fallo, todo lo cual ha implicado que se rechazara la defensa planteada por el Municipio en juicio, irrogando perjuicios a su parte sólo subsanables con la invalidación de la sentencia definitiva, por lo que corresponde que en este caso se dicte sentencia de reemplazo por el tribunal ad quem, a fin de que se rechace la demanda de autos de reconocimiento de relación laboral, cobro de prestaciones laborales y previsionales y nulidad del despido.
+
+A continuación, la impugnante argumenta que, como consecuencia de la recta aplicación de las reglas de la sana crítica, habría nuevos hechos que calificar jurídicamente, ya no bajo las normas del Código del Trabajo, sino de aquellas que habilitan al Municipio a contratar a honorarios y, acto seguido, se refiere a la infracción de las normas legales que influyeron en lo dispositivo de la sentencia.
+
+Indica que, como corolario del razonamiento expuesto precedentemente, la sentencia infringe los artículos 1°, inciso tercero; 7° y 8° inciso primero, del Código del Trabajo, al no acreditarse el vínculo de subordinación o dependencia que configura relación laboral. Ello, ya que la codificación laboral rige en la medida en que el régimen estatutario no contemple reglas específicas y espaciales sobre una determinada materia.
+
+Acusa infracción al Decreto N° 1.186 del Ministerio de Hacienda, publicado el 18 de enero de 2008, que Modifica Clasificaciones Presupuestarias, en relación con los artículos 7° y 8° del Código del Trabajo; el artículo 3° de la Ley 18.883.
+
+Explica que lo que se pide con la interposición conjunta de ambas causales de nulidad, es que en virtud del cambio de las conclusiones fácticas de la sentencia como resultado de la recta aplicación de las reglas de la sana crítica, y de la correcta aplicación jurídica del derecho a los hechos de la causa, se declare que en la especie resulta improcedente la demanda del actor, pues al no configurarse los elementos de subordinación y dependencia, no corresponde entender que se está frente a un contrato de trabajo y, por el contrario, se está frente a una relación a honorarios ajustada a la legislación.
+
+Concluye con la influencia sustancial y el perjuicio causado, reiterando lo antes anotado.
+
+Luego la recurrente desarrolla un párrafo que intitula como infracción a la Ley N° 20.255, que Establece Reforma Previsional, en el que hace presente que dicha Ley, estableció en el año 2008 la obligación para los trabajadores a Honorarios de realizar las cotizaciones previsionales en la entidad de Administración de Fondos de Pensiones, para accidentes del trabajo, y enfermedades profesionales y de salud. Si bien es cierto que la obligación de cotizar se implementó de forma gradual en el tiempo, a partir del año 2015 esta norma no admite excepción y todos los trabajadores a honorarios deben pagar sus cotizaciones previsionales; de seguro contra accidentes del trabajo y enfermedades profesionales; y de seguro de invalidez y de sobrevivencia. A partir del año 2018, deben, asimismo, cotizar obligatoriamente en el sistema de salud.
+
+Agrega que, de acuerdo con lo razonado por los Tribunales Laborales, la contratación a Honorarios por parte de Órganos de la Administración del Estado viene acompañada de la presunción de legalidad del acto administrativo que dio origen a la contratación, y se entiende que no existe fraude por parte del empleador.
+
+Teniendo presente lo anterior, y el hecho de haberse acreditado que la Municipalidad no ha descontado las sumas que correspondía ser enteradas a las instituciones previsionales, por cuanto ello era responsabilidad del prestador de servicios, y habiéndose pagado la totalidad de la remuneración pactada sin descuentos, no corresponde entonces ahora, una vez declarada la relación laboral, que el ente público pague las sumas correspondientes a las cotizaciones previsionales del actor, por cuanto ello conllevaría a un doble pago.
+
+En subsidio, invoca la causal de nulidad establecida en el artículo 478, letra c), del Código del Trabajo, esto es, “cuando sea necesaria la alteración de la calificación jurídica de los hechos, sin modificar las conclusiones fácticas del tribunal inferior”, la que circunscribe a la errónea aplicación de la sanción de nulidad del despido contemplada en el artículo 162 del Código del Trabajo.
+
+La recurrente reproduce los sustentos del fallo en este aspecto y agrega jurisprudencia de la Excma. Corte Suprema en el tema, precisando que ésta ha señalado que no procede aplicar la nulidad del despido cuando la relación laboral se establece con un órgano de la Administración del Estado y ha devenido a partir de una vinculación amparada en un determinado estatuto legal propio de dicho sector, ya que estos casos no se encuentran típicamente en la hipótesis para la que se previó la figura de la nulidad del despido.
+
+De lo expuesto anteriormente, concluye que la sentencia ha realizado una errónea calificación jurídica de los hechos, lo que ha influido sustancialmente en lo dispositivo del fallo, al sancionar al Municipio con la nulidad del despido, provocando perjuicios a su parte sólo subsanables con la invalidación pertinente de la sentencia impugnada, por lo que corresponde que en este caso se dicte sentencia de reemplazo por el tribunal ad quem, a fin de que se rechace dicha sanción, contemplada en el artículo 162 del Código del Trabajo.
+
+Pide acoger el presente recurso de nulidad, dictando sentencia de reemplazo de conformidad con lo dispuesto en el artículo 478 inciso segundo del Código del Trabajo, en la cual se decrete que, en la especie, ha existido entre el Municipio y la demandante una relación de carácter civil, regida por el contrato a honorarios que unió a las partes, ajustada a la normativa legal vigente; y que la Municipalidad de Las Condes no está obligada al pago de cotizaciones previsionales, con costas.
+
+Segundo: Como se advierte de lo consignado y en relación con la omisión del análisis de toda la prueba rendida acusada por el Municipio, lo cierto es que el reproche se limita a una supuesta ponderación parcial, ya que, en el parecer de la recurrente, debe darse a las cláusulas de los contratos a honorarios el sentido que favorece a sus intereses, lo que no hizo el tribunal. No pormenoriza elementos de convicción cuya ausencia de ponderación sea susceptible de control a través de esta motivación de nulidad.
+
+A propósito de las causales conjuntas por las que la recurrente intenta, en primer lugar, modificar los hechos, para, en segundo lugar y como consecuencia de esa alteración, pretender la vulneración de normas sustantivas que debieron o no aplicarse a la solución de la litis, corresponde anotar que las supuestas conculcaciones de las reglas de la sana crítica acusadas no se advierten como argumentaciones que permitan controlar el razonamiento probatorio del juzgador, único objetivo de la motivación invocada, sino como las particular ponderación propuesta por la recurrente.
+
+Por consiguiente, la causal establecida en la letra b) del artículo 478 del Código del Trabajo, no prosperará y subsecuentemente no lo hará la pretendida infracción de ley, ya que, en el caso de esta última, se requieren los hechos necesarios a la normativa denunciada y, para estos efectos ha de considerarse que se fijó como presupuesto fáctico “… no se han reunido cabalmente de esa manera los requisitos contemplados por el legislador en el artículo 4° de la Ley N° 18.883 sobre Estatuto Administrativo para Funcionarios Municipales para proceder a la contratación de personal a honorarios …”, mereciendo especial mención la conclusión en orden a que “… se constata en forma clara en el informe de Contraloría citado en el considerando anterior que hace alusión a que la prestación contratada no es de aquellas accidentales a las que se refiere el contrato a honorarios sino de las habituales y propias del respectivo departamento de relaciones públicas y de prensa, las que en definitiva han sido cumplidas por el actor durante el periodo de su contratación …”.
+
+Tercero: Del mismo modo y en relación con la infracción de la Ley N° 20.255, desarrollada por la recurrente como párrafo distinto de las anteriores vulneraciones de ley, cabe, en primer lugar, igual consideración, esto es, la necesidad de hechos establecidos que permitan la aplicación del derecho, los que no se aprecian con la lectura del fallo cuestionado. Además, la invocación de la citada Ley surge como una alegación nueva, no formulada en la etapa procesal correspondiente, motivo por el que -nuevamente destacando la índole de derecho estricto del presente arbitrio- resulta improcedente.
+
+Cuarto: Por último, en cuanto a la calificación jurídica desarrollada como motivación de ineficacia por la impugnante, la confusa redacción de la causal no permite a esta Corte hacerse cargo de los argumentos ofrecidos, ya que al parecer, no pretende una subsunción de los hechos establecidos -no indica cuáles- en una norma jurídica diferente a la escogida por el juzgador, sino que intenta que se le libere de una condena impuesta por aplicación del artículo 162 del Código del Trabajo, alegación que no condice con la causal hecha valer.
+
+Por estas consideraciones y lo dispuesto en los artículos 477 a 482 del Código del Trabajo, se rechaza el recurso de nulidad interpuesto por la demandada en contra de la sentencia de veintiséis de junio de dos mil veinticuatro, rectificada el uno de julio de igual anualidad, dictada por el Segundo Juzgado de Letras del Trabajo de Santiago, en antecedentes RIT O-4970-2022, caratulados “Salazar/Municipalidad de Las Condes”.
+
+Regístrese y comuníquese.
+
+Redactó la Fiscal Judicial, Javiera González S.
+No firma el ministro (s) señor Daniel Aravena, no obstante haber concurrido a la vista de la causa y al acuerdo, por ausencia.
+N° 2.474-2024.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, veintiséis de junio de dos mil veinticuatro-
+
+Vistos, Oídos y Considerando:
+
+PRIMERO: Que comparece LUIS ENRIQUE SALAZAR MUÑOZ, Periodista, quien interpone demanda declarativa de relación laboral en conjunto con demanda de despido injustificado, nulidad del despido, cobro de prestaciones, reajustes, intereses y costas en contra de la MUNICIPALIDAD DE LAS CONDES, representada por doña Daniela Peñaloza Ramos, solicitando desde ya se haga lugar a la misma y en consecuencia se condene a la demandada a pagar las prestaciones respectivas.
+
+Expresa que Ingresó a prestar servicios para la demandada el 1 de octubre del año 2014 mediante un contrato de honorarios a suma alzada con una duración inicial hasta el 30 de diciembre del año 2014. en el Departamento de Relaciones Públicas y de Prensa, área de funcionamiento permanente en esta Municipalidad bajo dependencia jerárquica directa del Alcalde. La relación laboral no cumplía los presupuestos del artículo 4°de la ley N°18.883, porque eran habituales y no se acotaban a cometidos específicos. Los contratos se renovaron anualmente, de manera sucesiva y sin solución de continuidad, hasta la fecha de mi despido y de mi separación ocurrida el 15 de julio del año en curso, a pesar de que mi última contratación se extendía hasta el 31de diciembre de 2022. Expresa que su última remuneración en valor bruto fue de $4.381.061; que su jornada era la misma que el resto de los trabajadores de su área, con la salvedad que también debía realizar turnos algunos fines de semana, lo que lo llevó a trabajar en a casi dos semanas continuas todos los meses del año. Que durante su relación laboral se le asigno una oficina, que debía concurrir todos los días de la semana al edificio consistorial, usaba los estacionamientos del resto de los trabajadores, contaba con una casilla de correo electrónico institucional, recibí una tarjeta para adquirir vestimenta como el resto de los dependientes, tenía como apoyo los gentiles servicios de una secretaria, impresora exclusiva, una máquina destructora de documentos, por lo que estaba sujeto a una verdadera subordinación jurídica y estaba inserto en la organización, por lo que mi vínculo laboral difícilmente puede estar regido por un estatuto diferente al Código del Trabajo.
+
+Con fecha 29 de junio del año 2022 se me hace entre de una comunicación de aviso de término anticipado del contrato, sin indicar los motivos de esta decisión, fundado en la supuesta facultad de la Municipalidad para obrar en tal sentido. La comunicación fue preparada por el Alcalde (S) señor Juan Ignacio Jaramillo Michaelis y señalaba como fecha de la separación el día 15 de julio de 2022.
+
+Agrega que no se le otorgo su feriado anual de los años 2020 y 2021; del mismo modo expresa que se le adeudan los últimos seis meses 120 horas extraordinarias.
+
+Que se adeudan las cotizaciones previsionales de toda la relación laboral, siendo las instituciones de previsión y de salud las siguientes: • AFP Habitat S.A. • ISAPRE Colmena S.A. • AFC Chile S.A.
+
+Solicitando se condene a la demandada a) Indemnización sustitutiva del aviso previo correspondiente a 90 Unidades de Fomento calculadas al último día del mes de mayo de 2022; b) Indemnización por años de servicio correspondiente a 720 Unidades de Fomento; c) A un aumento del 50% calculado sobre la indemnización por años de servicios correspondiente a 360 Unidades de Fomento; d) Feriado anual de los años 2020 y 2021 por 30 días hábiles, correspondientes a 42 días corridos, por la suma de $6.133.485; Al pago del feriado proporcional por 15,75 días de remuneración, equivalente a $2.300.057; f) Horas extras por los últimos 6 meses anteriores a mi despido por la suma de $4.089.000; g) Al pago de las cotizaciones previsionales en la AFP Habitat S.A. por toda la vigencia de la relación laboral computada desde el 1 de octubre de 2014 al 15 de julio de 2022, cuya liquidación se determinará en la etapa de cumplimiento de la sentencia, en base a una remuneración de $4.381.061.; Al pago de las cotizaciones de Salud en la Isapre Colmena S.A. por toda la 16 vigencia de la relación laboral computada desde el 1 de octubre de 2014 al 15 de julio de 2022, cuya liquidación se determinará en la etapa de cumplimiento de la sentencia, en base a una remuneración de $4.381.061 y Al pago de las cotizaciones correspondientes al AFC Chile por toda la vigencia de la relación laboral computada desde el 1 de octubre de 2014 al 15 de julio de 2022, en base a una remuneración de $4.381.061 y Al pago de la sanción contemplada en el inciso séptimo del artículo 162 del Código del Trabajo hasta la convalidación del despido, con una base de cálculo de $4.381.061.
+
+SEGUNDO: Que comparece Rogelio Erazo Román, abogado en representación de la entidad edilicia demandada, contestó la demanda solicitando su rechazo.
+
+Que previo a contestar la demanda opone la excepción de incompetencia absoluta del Tribunal, debido a la materia conocida en autos, no pueden significar la mutación de un contrato de prestación de servicios a uno de carácter laboral, más aún, si el Municipio sólo puede contratar bajo este estatuto de acuerdo con lo previsto en el artículo 3° de la Ley N° 18.883, situación en la que, como se dijo, no se encontraban los servicios prestados por el demandante, en razón de la materia, por carecer el Tribunal del Trabajo de competencia para conocer de esta demanda, cuyo conocimiento debe corresponder al Juzgado Civil pertinente, y en consecuencia, acoger la excepción impetrada en todas sus partes, con costas.
+
+En subsidio de la excepción opuesta en Lo Principal de esta presentación y para el evento en que no fuese acogida, de conformidad con lo dispuesto en el artículo 452 del Código del Trabajo, vengo en contestar la demanda deducida en contra de 3 la Municipalidad de Las Condes por don Luis Enrique Salazar Muñoz, solicitando que ésta sea rechazada en todas sus partes, con costa, ya que prestó servicios a honorarios para el Municipio en el marco de Contratos a Honorarios a Suma Alzada, suscribiendo sucesivos contratos a honorarios con el Municipio, los cuales tenían cada uno de ellos, un plazo fijo de duración, extendiéndose cada uno de ellos según las necesidades del Municipio. En cada uno de los contratos que celebró con el Municipio, el demandante se obligó para con el mismo, a cumplir una función específica o cometido y que el Municipio podía poner término anticipado al Contrato en cualquier momento, sin expresión de causa, no teniendo el demandante derecho a indemnización alguna. Como contraprestación a sus servicios, el demandante recibía, previa presentación de la boleta de honorarios respectiva, la cual debía ser visada, una suma de dinero, según lo estipulado en sus respectivos Contratos a Honorarios, por concepto de honorario bruto anual, al cual se le descontaba, según el último de los contratos suscritos, el 12,25% por concepto de Impuesto a la Renta, y el que para efectos de su pago se parcializaba mensualmente, por cada uno de los meses del año que duraba el respectivo contrato, en sumas de igual valor. 1.2. En este contexto, en la especie no existe una relación de subordinación y dependencia, como afirma el demandante, ni tampoco un contrato de trabajo, en los términos estatuidos en el Código del ramo, sino que un vínculo contractual entre las partes, fruto de su autonomía para vincularse jurídicamente, el cual tenía una fecha clara de inicio y término, y respecto del cual no puede presumirse una continuidad, no obstante la celebración de Contratos a Honorarios sucesivos. En lo referente a la prestación de sus servicios, el demandante cumplió siempre cometidos o encargos, expresados de forma clara y precisa en cada uno de los Contratos a Honorarios a que se ha hecho referencia. 1.4. El último de los Contratos suscrito entre el demandante y el Municipio, es de fecha 29 de diciembre de 2021, el cual se extendía entre el 1° de enero de 2022 hasta el 31 de diciembre de 2022. Sobre la materia, que las Municipalidades se encuentran facultadas para contratar personas bajo las normas del Código del Trabajo y a Honorarios, en los casos que la Ley N° 18.883, sobre Estatuto Administrativo para Funcionarios Municipales, señala en sus artículos 3° y 4°, respectivamente. En cuanto a las personas contratadas bajo el régimen a honorarios, el inciso final del artículo 4° de la citada ley, dispone que: “Las personas contratadas a honorarios se regirán por las reglas que establezca el respectivo contrato y no les serán aplicables las disposiciones de este Estatuto”. De lo expuesto se desprende que las personas contratadas a Honorarios, no tienen la calidad de funcionarios Municipales y tienen como única norma reguladora de sus relaciones el propio Convenio, el que constituye el marco jurídico que determina sus derechos y obligaciones, respecto de lo cual ha señalado la Contraloría General de la República, que “…, entre otros, en sus dictámenes N°s. 3.451, de 1997; 12.473, de 2002 y 46.985, de 2007, que las personas que prestan servicios a la Administración del Estado sobre la base de honorarios, no poseen la calidad de funcionarios públicos y tienen como única norma reguladora de sus relaciones con ella el propio convenio, el que constituye el marco jurídico que determina sus derechos y obligaciones. En mérito de lo expuesto atendida la inexistencia de una relación laboral entre la Municipalidad de Las Condes y el demandante de autos, es que esta parte concluye que resulta improcedente cualquier pretensión de éste, en orden a que se reconozca una relación de carácter laboral entre las partes, así como a que se le paguen las prestaciones que solicita. De acuerdo al último de los Contratos a Honorarios celebrado entre las partes, de fecha 29 de diciembre de 2021, la renta bruta de honorarios mensual que percibió el demandante durante el año 2022, fue la suma de $ 4.381.061.-, con la deducción de un 12,25% por concepto de impuesto a la renta, y un líquido a pagar mensual de $ 3.844.381.- 3.2.. De todo lo dicho hasta aquí, se puede concluir con facilidad que el Municipio no ha incurrido en el incumplimiento que acusa el demandante, siendo improcedentes las prestaciones que reclama con ocasión de aquél, lo mismo que la aplicación de la sanción del artículo 162 del Código del Trabajo (Ley Bustos) que pide el actor. Ello, pues dicha sanción, conocida como nulidad del despido, es improcedente en casos en que, como en el de la especie, se discute entre las partes la existencia de un vínculo normado por el Código del Trabajo. 9 Con todo, de existir la obligación de un pago de estas prestaciones en este tipo de casos de contratos a honorarios, previamente debe establecerse y declararse por sentencia firme y ejecutoriada que el vínculo obedece a una relación laboral y no de honorarios. Por este motivo, la Municipalidad jamás se encontró obligada al pago de cotizaciones previsionales y/o de salud, ya que no existió un vínculo de naturaleza laboral entre las partes. En subsidio a la contestación a la demanda efectuada por esta parte en el Primer Otrosí de esta presentación, y para el evento en que la posición jurídica sostenida por el Municipio en ella sea rechazada, total o parcialmente, y en consecuencia, se estime que en la especie no ha existido una prestación de servicios a honorarios, sino que una relación regulada por las normas del Código del Trabajo, tener por opuesta y acogerla en todas sus partes, con costas, la excepción de prescripción de la acción y/o derechos, tanto respecto del feriado legal, como de las cotizaciones impagas que se piden durante el período de la relación laboral, y demás prestaciones que correspondan, por el período que antecede a los 2 años anteriores a la fecha de la interposición de la demanda. Lo anterior, fundado en lo dispuesto en el artículo 510 del Código del Trabajo, en particular, en su inciso primero, donde se indica que “…Los derechos regidos por este Código prescribirán en el plazo de dos años contados desde la fecha en que se hicieron exigibles…” 12 2°. Para el evento en que no se acoja la prescripción alegada precedentemente respecto de las cotizaciones impagas que pide el demandante durante el período de la supuesta relación laboral, o bien acogiéndose dicha prescripción alegada, solicito que, con costas, no se condene al Municipio al pago de las cotizaciones impagas por el periodo de la relación laboral de que se trataría.
+En cuanto a la terminación de sus servicios, sostiene que este se produjo haciendo uso de la facultades establecidas en cada uno de los contratos a honorarios suscritos entre las partes.
+
+Alega la incompatibilidad de la sanción de Ley Bustos en caso de ser acogida la demanda, además, de oponer excepción de prescripción respecto del feriado cobrado, en especial, aquel devengado con anterioridad al 16 de enero de 2018, de conformidad a lo establecido en el artículo 510 inciso 1º del Código del Trabajo.
+
+Culmina negando la procedencia de las indemnizaciones y sanciones reclamadas, solicitando en forma subsidiaria en el primer otrosí en caso que sea acogida en la demanda en cuanto al pago de las cotizaciones previsionales, solicita la determinación de la base imponible de acuerdo a lo percibido por la demandante en cada periodo, es decir, en base a las rentas percibidas por el trabajador en cada mes durante los años en que se reconoció la existencia de una relación laboral, para lo cual deberá estarse a las liquidaciones de honorarios que ofrecerá en el juicio. En segundo lugar solicita excluir del pago de cotizaciones los intereses y multas estipulados en la ley 17.322, Los órganos públicos de la Administración del Estado se rigen por el Principio de Legalidad, previsto en los artículos 6° y 7° de la Constitución Política y 2° de la ley N°18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado. Dicho principio se traduce en que, así como en el derecho privado los particulares pueden hacer todo lo que la ley no prohíbe de manera expresa, en derecho público, los órganos del Estado, y en particular los órganos de la Administración del Estado, solo pueden realizar aquello que les está expresamente permitido por el ordenamiento jurídico, encontrándose, por ello, frente a una gran limitación que impide que se pueda tratar a los organismos públicos de igual forma que a los privados y que, por tanto, hace improcedente aplicar sanciones por no ejecutar acciones que se encuentran prohibidas en sus respectivos estatutos, que en este caso sería pagar cotizaciones previsionales respecto de trabajadores que se encuentran regidos por contratos a honorarios celebrados con la Municipalidad.
+
+TERCERO: Que en audiencia preparatoria se procede a dar traslado de las excepciones opuestas por la demandada; el tribunal rechaza la excepción de incompetencia absoluta y respecto de la excepción de prescripción para sentencia definitiva.
+
+Efectuado el llamado a conciliación esta no se produce.
+
+El Tribunal, estimando que existen hechos pertinentes, sustanciales y controvertidos, recibe la causa a prueba y fija los siguientes hechos a probar:
+
+1) Existencia de contrato de trabajo entre las partes. Efectividad de la prestación de servicios dependientes y subordinados del demandante respecto de la demandada. Funciones desempeñadas, jornada y lugar de trabajo. Pormenores y circunstancias. En la afirmativa de lo anterior:
+
+2) Remuneración y cuantía para efectos indemnizatorios y compensatorios del feriado.
+
+3) Término de la relación laboral. Efectividad del despido alegado. Pormenores y circunstancias.
+
+4) Estado de pago de las cotizaciones previsionales en AFP Habitat, Isapre Colmena S.A., y en AFC Chile por el tiempo efectivamente servido.
+
+5) Feriado legal y feriado proporcional susceptible de ser compensado, cuantía.
+
+6) Efectividad que el demandante se desempeñó en jornada extraordinaria en los últimos seis meses de vigencia de contrato. En la afirmativa cuantía de la acreencia.
+
+Las partes ofrecen sus respectivos medios de prueba.
+CUARTO: Que en audiencia de juicio se procede a recibir la prueba de los intervinientes, recibiéndose en primer lugar la prueba de la demandante , la que se pasa a individualizar:
+I - Documental:
+
+1. Set de 3 hojas con correos electrónicos de 30 de diciembre de 2014, entre el demandante, don Pedro Carrasco, don Marco Becerra y don Juan Jaramillo, por asignación de estacionamiento
+
+2. Certificado en PDF de seminario del 1 y 2 de septiembre de 2017.
+
+3. PDF con tarjeta personal de identificación del demandante. Emitida por la Municipalidad.
+
+4. Acta de entrega permanente de estacionamiento para el demandante.
+
+}5. PDF de tarjetas de saludo por cumpleaños del demandante de los días 25 de noviembre de 2020 y 25 de noviembre de 2021, de los alcaldes Joaquín Lavín y Daniela Peñaloza.
+
+6. Dos ticket de vestuario y calzado entregado por la demandada al demandante, de fechas 30 de junio de 2019 y 31 de diciembre de 2019.
+
+7. Comprobante Salida de Bodega N°035966 de 15 de junio de 2016, de la demandada, con descripción de material de trabajo para el demandante.
+
+8. Directorio de teléfonos y correos electrónico del área en que se desempeñó el demandante. 9. Fotografía del demandante con una funcionaria de la Municipalidad en el escritorio y puesto de trabajo del demandante ubicado en las dependencias de la Municipalidad.
+
+10.PDF con correo de 27 de octubre de 2014, asunto “Sobre Muévete con Respeto”.
+
+11.PDF con correo de 18 de noviembre de 2014, asunto “Un Camino a la Igualdad en Libertad”. 12.PDF con correo de 2 de marzo de 2015, de Lorena Naves, Jefe de Gabinete, para el demandante.
+
+13.PDF con correo de 25 de mayo de 2015, asunto “Epílogo libro educación”.
+
+14.PDF con correo de 21 de septiembre de 2015, asunto “Teófila Martínez”.
+
+15.PDF con correo de 3 de enero de 2017, asunto “Reunión 9 de enero a las 8:30”.
+
+16.PDF con correo de 20 de febrero de 2017, asunto “cambio de fecha capacitación”.
+
+17.PDF con correo de 15 de mayo de 2017, asunto “Minutas para Eventos del Alcalde”.
+
+18.PDF con correo de 16 de octubre de 2017, asunto “Discurso para Premiación La Jardinera”. 19.PDF con correo de 21 de agosto de 2017, asunto “Texto Alcalde”.
+
+20.PDF con correo de 23 de octubre de 2017, asunto “Información Tiendas Solidarias para Alcalde Las Condes”.
+
+21.PDF con correo de 9 de noviembre de 2017, asunto “Palabras del Alcalde”.
+
+22.PDF con correo de 12 de enero de 2018, asunto “Agenda temas prensa”.
+
+23.PDF con correo de 2 de febrero de 2018, asunto “Móvil CNN Chile”.
+
+24.PDF con correo de 8 de marzo de 2018, asunto “Carta Alcalde”.
+
+25.PDF con correo de 7 de mayo de 2018, asunto “Ceremonia Glorias Navales”.
+
+26.PDF con correo de 9 de julio de 2018, asunto “Carta agradecimiento regimiento”.
+
+27.PDF con correo de 10 de julio de 2018, asunto “Listado programas (B)Benjamín Mackenna”.
+
+28.PDF con correo de 12 de julio de 2018, asunto “Solicitud”.
+
+29.PDF con correo de 21 de enero de 2019, asunto “Solicitud carta Alcalde para manual de prevención”.
+
+30.PDF con correo de 4 de junio de 2019, asunto “Carta Bandas”.
+
+31.PDF con correo de 12 de julio de 2019, asunto “Boletín”.
+
+32.PDF con correo de 28 de noviembre de 2019, asunto “Carta y saludo”.
+
+33.PDF con Permiso Único Colectivo de 9 de junio de 2021.
+
+34.PDF con Permiso Único Colectivo de 27 de junio de 2021.
+
+35.PDF con correo de 12 de agosto de 2021, asunto “Boletín”.
+
+36.PDF con correo de 17 de agosto de 2021, asunto “algunos comentarios”.
+
+37.PDF con set de dos hojas con correo de 16 de noviembre de 2021, asunto “Pautas Prensa”. 38.PDF con correo de 31 de marzo de 2022, asunto “Plan de Marketing Parque Araucano/Línea 7”.
+
+39.PDF con correo de 7 de abril de 2022, asunto “Solicitud/materiales de oficina”.
+
+40.Decreto alcaldicio N°2183/P2022. 41.Informe Final de 17 de febrero de 2022, elaborado por la Unidad de Auditoría de la II Contraloría Regional Metropolitana de Santiago.
+
+El Tribunal tiene por incorporada la prueba documental de la parte demandante y decreta su custodia.
+
+II.- Confesional: Absolvió posiciones don Nicolás Patricio Lucero Letelier, en calidad de representante legal de la demandada, según los antecedentes que constan en el registro de audio.
+
+III.-Testimonial: Se deja constancia que la parte demandada se desiste de este medio de prueba según como consta en antecedentes de registro de audio.
+
+IV.- Exhibición de documentos:
+
+La parte demandante solicito la exhibición de los siguientes documentos en audiencia preparatoria:
+
+1. N°2183 de 30 de junio de 2022.
+
+2. N°86 de 10 de enero de 2022.
+
+3. N°163 de 9 de enero de 2021.
+
+4. N°187 de 10 de enero de 2020.
+
+5. N°66 de 2 de enero de 2019.
+
+6. N°36 de 5 de enero de 2018.
+
+7. N°6 de 3 de enero de 2017.
+
+8. N°483 de 2 de enero de 2016.
+
+9. N°572 de 12 de enero de 2015.
+
+10.N°1348 de 1 de octubre de 2014.
+
+Se deja constancia que la parte demandante da por cumplida la exhibición de documentos y el Tribunal decreta su custodia.
+
+QUINTO: Que en la audiencia de juicio la parte demandada incorporar sus medios de prueba que son los que a continuación se detallan:
+I.- Documental:
+
+1. Decreto Alcaldicio. Secc. 1ª N° 2183 de 30/06/2022.
+
+2. Decreto Alcaldicio Secc. 1ª N° 86 de 10/01/2022.
+
+3. Decreto Alcaldicio Secc. 1ª N° 163 de 09/01/2021.
+
+4. Decreto Alcaldicio Secc. 1ª N° 187 de 10/01/2020.
+
+5. Decreto Alcaldicio Secc. 1ª N° 66 de 02/01/2019.
+
+6. Decreto Alcaldicio Secc. 1ª N° 36 de 05/01/2018.
+
+7. Decreto Alcaldicio Secc. 1ª N° 6 de 03/01/2017.
+
+8. Decreto Alcaldicio Secc. 1ª N° 483 de 02/01/2016.
+
+9. Decreto Alcaldicio Secc. 1ª N° 572 de 12/01/2015.
+
+10.Decreto Alcaldicio Secc. 1ª N° 1348 de 01/10/2014.
+
+El Tribunal tiene por incorporada la prueba documental de la parte demandada y decreta su custodia.
+
+II.-Confesional: Absolvió posiciones el demandante, don Luis Enrique Salazar Muñoz, según los antecedentes que constan en el registro de audio, dando cuenta de su permanencia en la Municipalidad, tiempo, contrato.
+
+III.- Testimonial: Se deja constancia que la parte demandada se desiste de este medio de prueba según como consta en antecedentes de registro de audio.
+
+IV.-Exhibición de documentos: La parte demandada solicito la exhibición de los siguientes documentos en audiencia preparatoria:
+
+1. Declaración de renta anual durante los últimos 3 años.
+
+2. Documento donde conste inicio de actividades y su giro.
+
+3. Pago al impuesto durante los últimos tres años si procediere.
+
+4. Certificados del pago de cotizaciones del demandante (FONASA, AFP HABITAT, AFC Chile.)
+
+5. Boletas de Honorarios emitidas por la demandante durante todo el periodo que prestó servicios para la Municipalidad de Las Condes.
+
+SEXTO: Que apreciadas las pruebas incorporadas por las partes conforma a las reglas de la sana crítica importando con ello tomar en especial consideración la gravedad, concordancia, multiplicidad y conexión de aquellos medios probatorios incorporados por los intervinientes al proceso permiten a este Tribunal tener por acreditados los siguientes hechos de la causa:
+
+I.-Que en virtud de los decretos alcaldicios de la Ilustre Municipalidad de Las Condes , todos de la sección N° 1ª y que corresponden a los números N° 1348 de 01/10/2014., N° 572 de 12/01/2015., N° 483 de 02/01/2016, N° 6 de 03/01/2017, N° 36 de 05/01/2018, N° 66 de 02/01/2019, N° 187 de 10/01/2020. N° 163 de 09/01/2021 y N° 86 de 10/01/2022; en su contenido estos decretos ratificaban el todas sus partes el contrato a honorarios suscrito por la Municipalidad y el demandante, se trata de contratos a suma alzada, de estos se desprenden los siguientes hechos:
+
+1.-Se acredita que la suma alzada que da cuenta el contrato será pagada mensualmente en 12 cuotas iguales, fijando la renta bruta y la retención del 10% previa visación de la boleta de honorarios por parte del jefe del departamento de relaciones públicas ; siendo estos ratificado según boletas de honorarios acompañadas años 2020 al 2021 se constata el pago de la suma alzada en 12 cuotas exactas, pagadas mensualmente , ininterrumpidas desde el primer contrato y que la boleta de prestación de servicios de acuerdo a estas boletas eran sucesivas y emitidas en fechas entre el 19 , 20 de cada mes y del mismo modo las del año 2022.
+
+2.- Se especifica en los decretos la prestación de servicios que debía realizar el actor, todas dice relación con labores a desarrollar en el departamento de relaciones públicas y de prensa, de acuerdo a la descripción de cada decreto la prestación se mantuvo dentro del ámbito de este departamento, las que fueron desarrolladas bajo dirección del jefe de departamento respectivo lo que se constata atendido los diferentes correos electrónicos acompañados, en definitiva esto es bajo la dirección y los lineamientos requeridos por la entidad edilicia.
+
+Las prestaciones contratas son las individualizadas a continuación: reformulación de la línea editorial on line las Condes TV, respecto a contenido y tratamiento audiovisual; proponer lineamientos editoriales de los contenido periodísticos que realiza la Municipalidad de Las Condes , para un efectivo contacto con la comunidad y los medios; desarrollar lineamientos editoriales para realizar análisis de contenidos y temáticas abordadas por la Municipalidad Las Condes en su plataforma audiovisual Las Condes TV; realizar minutas con información relevantes en las que participe el alcalde o sus representantes; realizar recopilación de antecedentes en las actividades en que participe el alcalde para preparar sus participaciones en la ceremonias municipales o externas ; realizar minutas con información relevante de las actividades que realice el alcalde o sus representantes; realizar informes con los contenidos periodísticos difundidos por los medios de comunicación , que informen sobre las actividades de la Municipalidad y sus representantes; preparar análisis cualitativos y cuantitativos de las noticias publicadas por los medios de comunicación que digan relación con la municipalidad , sus autoridades y la comunidad.
+
+3.- En cuanto a la duración o extensión de los contratos, el primero de ellos es desde el 1 de octubre al 30 de diciembre de 2014 y los siguientes contratos que contemplan el período desde el año 2015 al año 2018 tenían una extensión desde el 1 de enero al 30 de diciembre de cada año y desde el año 2019 al año 2022 la duración era desde el 1 de enero al 31 de diciembre de cada año.
+
+4.- Que el control del cumplimiento de la prestación queda sujeto al control del Jefe del Departamento de Relaciones Publicas, a quien deberá el actor acompañar informe antes del términos del año respectivo.
+
+5.- Que de conformidad a los contrato de honorarios de los años 2018, 2019, 2020, 2021 y 2022 y que fueran acompañados por la demandada: entre sus cláusulas se destaca los contratos del año 2018 y 2019 contemplan comisiones de servicios dentro o fuera del país y el pago de viáticos, capacitaciones y si se proporciona vestuario que será a préstamo con obligación de ocuparlo en el desempeño del cargo; 2021 2022 el que contemplaba que en caso de tener disponibilidad presupuestaria se otorgarán los beneficios de los funcionarios.
+
+Que el demandante en relación a este punto acompaña los siguientes documentos emitidos desde el año 2014 al 2022 : copia de la credencial otorgada por la municipalidad, correos electrónicos de la jefatura donde se ordenaba asignar estacionamiento al demandante a contar del 31 de diciembre de 2014 , entrega de comprobante de estacionamiento en carácter de permanente; certificado de capacitación del demandante del año 2017; tickes de vestuarios del año 2019; entrega de material de oficina del año 2016; listados de anexos y correos electrónicos del departamento de relaciones públicas y prensa donde se incluye al demandante; listados de correos electrónicos entre el demandante de personal del asesores de gabinete del Alcalde, jefes de departamento de relaciones publica dando instrucciones respecto de diversos temas, o encargando asignaciones para cumplir dentro del cargo desempeñado, recursos humanos respecto de capacitaciones, otros departamentos de la municipalidad encargando algunas tareas determinadas; permiso de funcionario para tránsito durante la pandemia.
+
+6.- Informe final N° 644/ 2021 de la Contraloría Regional Metropolitana auditoria efectuada a la Municipalidad de las Condes período 2020 a 2021 ; este informe en su apartado 25 capitulo N° 2 N° 13 letras a y b N° 14 Observa a la Municipalidad la situación de que funcionarios contratados a honorarios deben cumplir labores accidentales y no habituales por lo que se está incumpliendo lo mandatado por el artículo 4 de la ley 18.883; que se encuentra además incorporado en el anexo N° 10 donde se constata que las funciones realizadas por el demandante en el departamento de relaciones públicas y prensa corresponde a gestión interna materias propias de dicho departamentos descritas en el reglamento organizacional de la Municipalidad de las Condes, esto es, funciones habituales que debe realizar personal de dicho departamento ; y que no corresponde al concepto de persona natural contratada a honorarios. Que en relación al análisis de esta auditoria se tuvo a la vista el 100% de los contratos a suma alzada por prestación de servicios.
+
+En el sentido las funciones o trabajos esporádico o extraordinarios, es de aquellos que no se realizan habitualmente en la descripción organizacional de la Municipalidad. En relación a este punto la propia Municipalidad en su oficio de descargo de la objeción de Contraloría, manifiesta en lo pertinente que la planta de la municipalidad no ha sido cubierta en su totalidad, por lo que obliga a cubrir funciones específicas con trabajadores en otra calidad jurídica , situación que se intensifico a raíz de las dificultades derivadas de la pandemia en cuanto a proveer los concursos. Agrega que por no existir funcionarios municipales que cumplan las labores cuestionadas en la letra a) del informe de Contraloría las actividades realizadas por el prestador de servicios no son funciones permanentes, las que cuando son requeridas, en forma esporádica, son cumplidas por personal bajo la modalidad de contratos a honorarios a suma alzada….
+
+Ante la respuesta de la Municipalidad Contraloría mantiene su objeción porque las labores para las que fueron contratados los prestadores ( 2 entre los que se encuentra el demandante) corresponde aquellas contemplada en el Reglamento de organización interna de la Municipalidad como parte de las funciones correspondientes a los departamentos y direcciones municipales que se detallan (anexo 10 ) pag, 55 y 56 informe de Contraloría) .
+
+7.- Que .por Decreto alcaldicio N° 2183-2022 de fecha 30 de julio de 2022, la Municipalidad pone término al contrato de honorarios a contar del 15 de julio de 2022, este hecho que no se encuentra controvertido entre las partes.
+
+8) Que durante la vigencia de los contratos a honorarios suscritos entre las partes, no se realizaron pago de cotizaciones laborales, si bien no se acompañaron oficios respectivos de las entidades previsionales, es claro que de acuerdo a la forma en que se contrataron los servicios ,para efectos de la demandada estos solo generan obligación de retención del impuestos respectivo.
+
+9) Que la parte demandante percibió como honorarios en forma mensual los últimos seis meses de vigencia del contrato la suma de $3.844.381, hecho que se tiene por establecido con el mérito de las boletas de honorarios incorporadas por la parte demandante, que corresponde a una suma fija, mensual, pagada los 3 últimos meses de trabajo.
+
+SEPTIMO: Que el primer hecho a determinar es establecer si la relación que vinculaba al demandante con la Municipalidad demandada independientemente de la forma contractual escriturada, cumple los presupuestos contemplados en el artículo 7° del Código del Trabajo la para concluir la existencia de un contrato de trabajo de conformidad a los requisitos contemplados por el legislador y no corresponde en definitiva a aquellos contemplados en el artículo 4° de la Ley N° 18.883 sobre Estatuto Administrativo para Funcionarios Municipales fue continuo a partir del mes de octubre del año 2014 en los términos contemplados por el legislador en el artículo 7° del Código del Trabajo.
+1) Una prestación de servicios personales;
+
+2) Una remuneración por dicha prestación, y
+
+3) Ejecución de esta prestación bajo subordinación y dependencia.
+
+En este sentido debemos concluir que el requisito de continuidad de la relación entre el actor y la municipalidad se mantuvo en forma ininterrumpida sin solución de continuidad, toda vez que esta interrupción de un día en el respectivo decreto alcaldicio o contrato a zuma alzada, hasta antes del 2018, no mantiene la entidad para estimar que hubo interrupción en la continuidad de la relación,
+
+1.- La existencia de una prestación de servicios, del mérito de los contratos suscrito entre las partes hay una prestación que debe realizar el actor en forma personal, el contenido de la prestación a que se obligaba el actor se encontraban determinada en el contrato respectivo, estas siempre fueron en el mismo departamento de relaciones públicas, funciones que efectivamente de acuerdo a su naturaleza son ejercidas en forma habitual en este departamento, correos electrónicos incorporados por la parte demandante las actividades que debía realizar en razón de la función por la que fue contratado en virtud de cada uno de los contratos suscritos entre las partes, adicionándose otras labores relacionadas con las actividades municipales que le eran encomendadas por su jefatura.
+2.-Contraprestacion económica : respecto de lo que es propiamente existencia de una remuneración, para concluir su existencia e independientemente de la forma del contrato suscritos por las partes , claramente por la forma pactada, esta fue con pago mensuales y sucesivas hasta el término de la vinculación de las partes; además del análisis de estos decretos y contratos independientes de la fecha de término en los anteriores a 2018 (, que son hasta el 30 de diciembre de cada año) se sostiene la continuidad primero en cuanto a percibir mensualmente una cantidad determinada de dinero, sin solución de continuidad, entre el primer contrato, lo que se condice con el establecimiento de una fecha determinada de pago entre el 19 y 20 de cada mes, fija y sin atrasos.
+
+Las 12 cuotas o mensualidades eran iguales, lo que claramente cumple los presupuestos de lo que entendemos como remuneración en los términos del artículo 72 código del Trabajo .
+3.- El Desarrollo de la actividad bajo dependencia o subordinación, la prestación era claramente bajo las instrucciones dadas en específico para el cumplimiento y desarrollo de la prestación, y del mismo modo adecuación de su actividad a lo requerido por el superior , claramente de los últimos mail, respecto incluso al rechazo de lo propuesto a la alcaldesa para sus discursos, las que no eran del gusto de ella, por lo que se daban instrucciones respecto de la forma de ejecutar su trabajo e incluso derivación de sus servicios a otros departamentos de la misma municipalidad encomendándole otras actividades por orden de su jefatura.
+
+4.-Lo que además, se constata en forma clara en el informe de Contraloría citado en el considerando anterior que hace alusión a que la prestación contratada no es de aquellas accidentales a las que se refiere el contrato a honorarios sino de las habituales y propias del respectivo departamento de relaciones públicas y de prensa, las que en definitiva han sido cumplidas por el actor durante el periodo de su contratación; en este sentido el informe de contraloría viene claramente a confirmar la habitualidad en las funciones contratadas, las que incluso son justificadas por la propia municipalidad al señalar que la planta no estaba completa por lo que se cubría mediante estos contratos, aunque insistía en señalar que la prestación es esporádica.
+
+Al respecto el tribunal tiene presente que se acompañaron todos los decretos alcaldicios de contratación a honorarios y solo algunos de los contratos que dieron origen a estos mismos, de lo que se desprende que hubo continuidad en el tiempo de la relación que vinculaba al actor con la demandada; en este punto dable es hacer presente que hasta antes del 2018 los contratos así como sus respectivos decretos daban cuenta de una duración que abarcaba el periodo comprendido entre el 1 de enero al 30 diciembre de cada año.
+Esta interrupción en la continuidad de la relación, más aun teniendo presente que el respectivo contrato y su decreto , solo tenía por objeto desde el punto de vista de la administración dar un sustrato jurídico para la actividad o prestación desarrollada por el actor y la percepción de su contraprestación económica; observándose que efectivamente en la practica desde el primer contrato no se dejó de prestar el servicio y de recibir la contraprestación económica en forma mensual; en este sentido la relación es sin solución de continuidad.
+
+Para el análisis de la prueba acompañada esta se debe analizar cómo se ha señalado reiteradamente bajo el tamiz de las presunción del artículo 8° del Código del Trabajo y del principio de realidad y pro operario, la contratación claramente no era esporádica , accidental ; tal como señala el informe de contraloría sino de aquellas propias de los funcionarios municipales del departamento al que se encontraba asignado, regladas específicamente por la propia municipalidad , en forma habitual, sujeto a dirección i subordinación indicaciones de contenido frente a las prestación desarrollada, adecuación a los criterios de la jefatura, en forma ininterrumpida desde el 1 de octubre de 2014 hasta la fecha de término unilateral del contrato por la Municipalidad; que se le dio un estacionamiento permanente, ropa propia de funcionarios, acceso a beneficios propios del personal titular o a contrata en la administración público, asignación de un espacio de trabajo dentro del departamentalmente de relaciones públicas, correo institucional, comunicado a los distintos estamentos, cursos de capacitación, identificación como funcionario de la municipalidad.
+
+En este sentido los derechos y obligaciones que emanan de un contrato de trabajo, son independientes del acto que condiciona su nacimiento, o los documentos que se firman; las boletas de honorarios emitidas en nada alteran la circunstancia que el trabajo ejecutado se ha ejecutado de manera permanente desde 1 de octubre del 2014; prima la realidad esto es como se ejecutó el contrato que es el que en definitiva determina la naturaleza del servicios; tal y como en el informe de Contraloría a observado a la propia Municipalidad , al no corresponder a los contemplados en el artículo 4° del Estatuto administrativo.. Por ello, si las estipulaciones consignadas en un contrato, o las boletas de honorarios que deba entregar un trabajador, no se corresponden con la realidad, ni con los derechos y obligaciones que en la práctica se encuentran ejecutando de manera permanente y de antigua data, tales instrumentos carecen de todo valor para calificar el vínculo jurídico, por infringir derechos irrenunciables para un trabajador, debiendo primar aquello que, en la ejecución del contrato, las partes han entendido es el verdadero contenido del mismo
+Se desprende de los documentos acompañados e individualizados en el considerando anterior que los servicios contratado, dicen relación con estas actividades definidas como habituales del departamento de relaciones públicas y de prensa, y que por lo tanto, no corresponde a materias propias de un contrato de honorarios, ya que estas son habituales y no esporádicas y/o accidentales; que todos esos contratos de servicios personales, fueron de similares características, y en ellos se estipularon diferentes obligaciones para el actor , todas las cuales son eminentemente de naturaleza laboral, e incompatibles con un contrato de honorarios profesionales,
+En este sentido debemos concluir que el requisito de continuidad de la relación entre el actor y la municipalidad se mantuvo en forma ininterrumpida sin solución de continuidad, toda vez que esta interrupción de un día en el respectivo decreto alcaldicio o contrato a suma alzada, hasta antes del 2018 .
+
+.
+
+En este caso en particular, la parte demandante ha podido acreditar la sujeción a algún tipo de control por parte de supervisión directa de algún superior de manera cierta y determinada, cumpliendo una jornada determinada, como asimismo, la necesidad de las labores desarrolladas por el actor para el buen funcionamiento de la entidad edilicia demandada, tal como es exigido por el Estatuto Laboral en su artículo 7°, por ende, sólo cabe concluir que no se han reunido cabalmente de esa manera los requisitos contemplados por el legislador en el artículo 4° de la Ley N° 18.883 sobre Estatuto Administrativo para Funcionarios Municipales para proceder a la contratación de personal a honorarios, como es sostenido en el escrito de contestación de la demanda, por lo que se procederá a acoger la demanda en todas sus partes, declarándose la existencia del vínculo laboral entre las partes, en el periodo reclamado en el libelo.
+
+Atendido lo antes concluido y teniendo presente la forma de termino que ha efectuado el demandado, no son de aquellas contempladas en la ley laboral; por lo que el despido de que fue objeto el trabajador, es injustificado al no haber cumplido con las formalidades legales la demandada para proceder a poner término a los servicios del actor, condenándola en consecuencia, al pago de las indemnizaciones y recargo legal respectivos.
+
+DECIMO:
+EN RELACION A LA EXCEPCION DE PRESCRIPCION OPUESTA EN RELACION AL FERIADO LEGAL COBRADO:
+
+DECIMO PRIMERO: En relación a la excepción de prescripción opuesta, cabe tener presente que la parte demandante cobra en el libelo el feriado legal y proporcional devengados durante todo el periodo trabajado, esto es, a partir del 1 octubre de 2014 y hasta el 15 de junio de 2022 oponiendo la demandada al contestar el libelo excepción de prescripción en relación al cobro del feriado legal devengado con anterioridad al día 16 de junio de 2019 tomando en consideración la fecha en que se practicó la notificación de la demanda.
+
+Al efecto, cabe tener presente que habiendo sido acogida la acción declarativa de tener por establecida la existencia del vínculo laboral entre las partes y, habiéndose notificado el libelo con fecha 16 de enero de 2020, tomando en consideración el plazo contemplado en el inciso 1º del artículo 510 del Código del Trabajo, sólo cabe acoger la excepción deducida, teniendo presente que se encuentran prescritos todos aquellos feriados legales devengados con anterioridad al 16 de enero de 2018, por ende, la única anualidad devengada con posterioridad corresponde al periodo 2018-2019, ya que con posterioridad no alcanzo a devengar una nueva anualidad, sólo feriado proporcional.
+
+DECIMO SEGUNDO: Que en relación a las prestaciones reclamadas en el libelo, cabe tener presente que, luego de haber sido acogida la excepción de prescripción opuesta por la demandada en relación al feriado legal cobrado en la demanda, el periodo discutido quedo comprendido en la anualidad devengada por el periodo 2020-2021, teniendo presente que su contrato de trabajo se inició a partir del día 1 de octubre de 2014; al respecto debemos señalar que de la prueba rendida no se acredito por la demandante la circunstancia de adeudarse estos feriados; por lo que no se acogerá esta pretensión.
+
+Habiéndose asentado la existencia del despido injustificado corresponde acoger la demanda en cuanto al feriado proporcional devengado a partir del 1 de enero de 2022 al 15 de junio de 2022, fecha de terminación de sus servicios, por lo que serán ordenados pagar.
+En relación al pago de horas extraordinarias , estas no han sido acreditadas atendida la forma de la falta de un registro fehaciente en el control de la fecha de término de la jornada laboral; lo que además es consecuencia directa de la falta de un registro fehaciente e indubitable tal como concluye Contraloría, además que se desprende del contrato en que se amparó el demandado.
+En relación al cobro de cotizaciones de seguridad social, habiéndose establecido la existencia de la relación laboral entre las partes en el presente fallo, no existiendo discusión en que la demandada no entero cotizaciones previsionales, de salud y cesantía durante el periodo laborado, se concluye que se reúnen todos los requisitos contemplados en el inciso 5° del artículo 162 antes aludido, para la procedencia de la acción de nulidad del despido, atendido que existía laguna previsional al momento del despido, por lo que se procederá a acoger la demanda en lo que se refiere a la nulidad del despido, ordenándose el pago a la demandada de las remuneraciones y demás prestaciones que se devenguen entre la fecha del mismo y hasta el pago de las cotizaciones previsionales adeudadas, además de ordenar el pago de las cotizaciones de seguridad social adeudadas por el periodo trabajado en cada una de las instituciones previsionales a las que se encuentra afiliado el actor, debiendo determinarse el monto a enterar de conformidad a lo que establezca cada entidad previsional en base a la renta que efectivamente el actor percibió en cada mes y año en que prestó servicios para la entidad edilicia demandada, de conformidad a los antecedentes documentales incorporados por las partes durante el proceso y la liquidación que pueda practicarse en la etapa de ejecución del presente fallo, tal como fue solicitado por la parte demandada declarar en virtud de las alegaciones expuestas en el primer otrosí de la contestación del libelo.
+
+DECIMO TERCERO: Que en relación a la solicitud de la demandada de excluir del pago de cotizaciones los intereses y multas estipulados en la ley 17.322, la entidad edilicia fundo su pretensión en que los órganos públicos de la Administración del Estado se rigen por el Principio de Legalidad, previsto en los artículos 6° y 7° de la Constitución Política y 2° de la ley N°18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado. Dicho principio se traduce en que, así como en el derecho privado los particulares pueden hacer todo lo que la ley no prohíbe de manera expresa, en derecho público, los órganos del Estado, y en particular los órganos de la Administración del Estado, solo pueden realizar aquello que les está expresamente permitido por el ordenamiento jurídico, encontrándose, por ello, frente a una gran limitación que impide que se pueda tratar a los organismos públicos de igual forma que a los privados y que, por tanto, hace improcedente aplicar sanciones por no ejecutar acciones que se encuentran prohibidas en sus respectivos estatutos, que en este caso sería pagar cotizaciones previsionales respecto de trabajadores que se encuentran regidos por contratos a honorarios celebrados con la Municipalidad.
+
+Al efecto cabe tener presente que la alegación planteada por la demandada en cuanto a excluirla del pago de intereses y multas estipulados en la ley 17.322, resulta absolutamente improcedente y contrario a Derecho, primero teniendo presente que de conformidad a lo establecido en el artículo 1º de la Ley antes citada, “Las normas establecidas en esta ley se aplicarán a la cobranza de las cotizaciones de seguridad social adeudadas por los empleadores a las instituciones de ese carácter, sea que el cobro judicial lo inicien éstas o el propio trabajador.”, es decir, son las respectivas entidades previsionales las que son titulares activos para decretar la imposición de pago de multas e intereses respectos de empleadores morosos de cotizaciones de seguridad social, tal como lo reafirma el mismo legislado en el artículo 2º y 3º; no compartiéndose por esta sentenciadora que el Principio de Legalidad excepcione de dicha obligación a la entidad municipal demandada, atendido que dicho principio lo que establece es que en caso de las municipalidad están tienen la facultad de contratar personal a planta, honorarios y a contrata, cuestión que en el caso del actor no cumplió, en atención a que de conformidad a la definición que otorga el legislador en la Ley Nº 18.883, en su artículo 4º, contrato los servicios del actor durante casi 98 años bajo la figura de honorarios, sin que se cumpliera con el requisito que sus labores fueran accidentales y no habituales, por lo que se desecha su petición en todas sus partes.
+
+DECIMO CUARTO: Que la prueba ha sido analizada conforme a las reglas de la sana crítica, de conformidad a lo establecido en el artículo 456 del Código del Trabajo.
+
+DECIMO QUINTO: Que no habiendo resultado totalmente vencida la parte demandada, no se la condenará en costas.
+
+Por estas consideraciones y visto lo dispuesto en los artículos 1, 2, 3, 7, 8, 9, 58, 63, 67, 162, 172, 173, 425 y siguientes, 456 y 459 del Código del Trabajo, se resuelve:
+
+I.- Que se acoge la excepción de prescripción opuesta por la demandada ILUSTRE MUNICIPALIDAD DE LAS CONDES de conformidad a los fundamentos expuestos en el considerando décimo primero del presente fallo.
+
+II.- Que se hace lugar a la demanda interpuesta por el abogado don Pedro Ignacio Peña Sánchez, en representación de don ERIC ALEXIS CERDA BARRERA en contra de la ILUSTRE MUNICIPALIDAD DE LAS CONDES, en cuanto se declara la existencia de la relación laboral entre las partes a contar del día 14 octubre de 2014 hasta el 15 de junio de 2022.
+
+III.- Que, asimismo, se declara nulo el despido de que fue objeto el actor, con fecha15 de junio de 2022, condenándose consecuencialmente a la demandada al pago de las remuneraciones y demás prestaciones que se devenguen desde la fecha del despido, esto es, el día 15 de junio de 2022 y hasta la fecha en que efectivamente se efectúe el pago de las cotizaciones previsionales, de salud y de cesantía adeudadas, debiendo tomarse en consideración como remuneración mensual, la suma de $3.844.381.
+IV.- Que asimismo se declara injustificado el despido de que fue objeto el actor con fecha15 de junio de 2022 , y se condena, consecuencialmente, a la demandada al pago al actor de las siguientes prestaciones:
+
+a) Indemnización sustitutiva de aviso previo por la suma de $.3.844.381
+b) Indemnización por años de servicios, por la suma de $,30.755.048 recargada en un 50% de conformidad a lo establecido en la letra b) del artículo 168 del Código del Trabajo, por la suma de $15.377.524.
+
+c) Feriado legal adeudado por anualidad 2020 y 2021, por la suma de $6.133.485.
+
+d)Feriado proporcional por 15,75 días de remuneración, equivalente a $
+2.300.057.
+
+e) Que la demandada deberá enterar las cotizaciones previsionales, de salud y de cesantía adeudadas al actor en AFP Habitat, Fonasa y AFC Chile, por todo el periodo trabajado, a contar del 14 de octubre de 2014 y hasta el 15 de junio de 2022 , debiendo tomar en consideración como remuneración la renta que efectivamente el actor percibió en cada mes y año en que prestó servicios para la entidad edilicia demandada, de conformidad a los antecedentes documentales incorporados por las partes durante el proceso y la liquidación que pueda practicarse en la etapa de ejecución del presente fallo.
+
+V.- Que las prestaciones e indemnizaciones ordenadas pagar deberán serlo con los reajustes e intereses que se indican en los artículos 63 y 173 del Código del Trabajo.
+
+VI.- Que no se condena en costas a la parte demandada, por no haber resultado totalmente vencida.
+
+VII.- Ejecutoriada que sea esta sentencia, cúmplase lo dispuesto en ella dentro de quinto día. En caso contrario, certifíquese dicha circunstancia y pasen los antecedentes al Juzgado de Cobranza Laboral y Previsional, de conformidad a lo establecido en el artículo 462 del Código del Trabajo.
+
+Se ordena el registro y archivo en su oportunidad de la presente causa.
+
+RIT O-4970-2022
+
+RUC 22-4-0420676-5
+
+Dictada por doña María Fernanda Sierra Cáceres , Jueza destinada del Segundo Juzgado de Letras del Trabajo de Santiago.

@@ -1,0 +1,254 @@
+METADATA
+
+case_id: ce5e9ccdacc2b0015e798bbb509a4fb66b953b26
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7970364
+
+rol: 243807-2023
+
+fecha_sentencia: 2025-12-23
+
+caratulado: ANONIMIZADO
+
+sala: CUARTA, MIXTA
+
+materias: ▪ Cobranza Laboral
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: ACOGIDA CASACIÓN FONDO, ANULADA SENTENCIA DE (M)
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintitrés de diciembre de dos mil veinticinco.
+
+Vistos y teniendo presente:
+
+Primero: Que de conformidad con lo dispuesto en los artículos 781 y 782 del Código de Procedimiento Civil, se ordenó dar cuenta de los recursos de casación en la forma y en el fondo interpuestos por la tercerista en contra de la sentencia de la Corte de Apelaciones de Valparaíso, que revocó la de primera instancia y, en su lugar, rechazó la tercería de posesión opuesta en juicio ejecutivo de cobranza laboral.
+
+Segundo: Que el artículo 766 del Código de Procedimiento Civil, prescribe que ¿El recurso de casación en la forma se concede contra las sentencias definitivas, contra las interlocutorias cuando ponen término al juicio o hacen imposible su continuación y, excepcionalmente, contra las sentencias interlocutorias dictadas en segunda instancia sin previo emplazamiento de la parte agraviada, o sin señalar día para la vista de la causa.¿
+
+Agrega su inciso segundo que ¿Procederá, asimismo, respecto de las sentencias que se dicten en los juicios o reclamaciones regidos por leyes especiales, con excepción de aquéllos que se refieran a la constitución de las juntas electorales y a las reclamaciones de los avalúos que se practiquen en conformidad a la Ley N°17.235, sobre Impuesto Territorial y de los demás que prescriban las leyes.¿
+
+En tanto que el artículo 767 del mismo cuerpo legal, establece que ¿El recurso de casación en el fondo tiene lugar contra sentencias definitivas inapelables e interlocutorias inapelables cuando ponen término al juicio o hacen imposible su continuación, dictadas, en lo que interesa, por Cortes de Apelaciones, siempre que se hayan pronunciado con infracción de ley, y aquella haya influido substancialmente en lo dispositivo de la sentencia.¿
+
+Tercero: Que la resolución objetada por la vía del referido recurso, es decir, la que rechazó la tercería de posesión deducida en etapa de cumplimiento de un juicio ejecutivo laboral, no reviste la naturaleza jurídica de ninguna de aquellas descritas en el fundamento anterior, por lo que el deducido resulta inadmisible.
+
+Por otra parte, cabe precisar que el párrafo 4 ° del Título I del Libro V del Código del Trabajo, previéndose únicamente en dicha preceptiva especial el recurso de apelación contra la sentencia que se pronuncia sobre las excepciones opuestas por el ejecutado, sin que se establezca en ese articulado el recurso de casación. Además, el sistema de recursos establecido en el párrafo quinto del mismo título y libro tampoco prevé ese medio de impugnación, habiendo consagrado solo el de unificación de jurisprudencia, respecto de las resoluciones que fallen recursos de nulidad.
+
+Finalmente, el artículo 474 del Código del Trabajo, con que se inicia dicho párrafo, indica que los recursos se regirán por las normas establecidas en él, y supletoriamente por las establecidas en el Libro Primero del Código de Procedimiento Civil, entre las cuales no se encuentra regulado el de casación.
+
+Por estas consideraciones y de conformidad, además, con lo dispuesto en los artículos 781 y 782 del Código de Procedimiento Civil, se declaran inadmisibles los recursos de casación en la forma y en el fondo interpuestos en contra de la sentencia de veintidós de octubre de dos mil veinticinco.
+
+Se previene que la ministra señora Mireya López Miranda concurre a la decisión de inadmisibilidad, teniendo únicamente presente que el juicio en el cual se dedujo la tercería de posesión es de cobranza laboral, en el cual no procede el recurso de casación respecto de la sentencia de segunda instancia, de tal suerte que siendo ello así, tampoco es posible aceptar la procedencia de dicho arbitrio para las tercerías resueltas en ese juicio por la respectiva Corte de Apelaciones.
+
+Acordada con el voto en contra de las ministras señora Gloria Ana Chevesich Ruiz y señora Jéssica González Troncoso, quienes estuvieron por traer los autos en relación, atendida que la impugnada es una sentencia que decide de manera definitiva el asunto sometido a la decisión del tribunal, consecuencialmente, aplican, a su respecto, las reglas establecidas en el Código de Procedimiento Civil.
+
+Regístrese y devuélvase.
+
+Rol Nº50.644-2025
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+I.C.A. de Valparaíso
+Valparaíso, veintidós de octubre de dos mil veinticinco.
+
+Vistos:
+
+Se reproduce la sentencia en alzada, con excepción del considerando sexto, que se elimina.
+
+Y se tiene en su lugar y, además, presente:
+
+PRIMERO: Que, conforme a la escritura pública de modificación de la Sociedad José Francisco Piraino y Cía Ltda. acompañada en autos, el año 2013 el tercerista Francisco Piraino Quiroz se retiró de dicha sociedad. Sin embargo, no se desprende de dicho documento que este tercerista haya adquirido el dominio y la posesión de los bienes que con posterioridad fueron embargados en la presente causa.
+
+SEGUNDO: Que, según indica el referido tercerista, los bienes embargados en esta causa habrían sido previamente entregados por él a la empresa demandada HP SHOPT SPA como comodato. No obstante, no se ha rendido prueba que permita acreditar tal aseveración.
+
+TERCERO: Que los dichos de los testigos que declararon en la causa, atendida su generalidad y falta de precisión, tampoco permiten establecer que exista coincidencia entre los bienes embargados y aquellos cuyo dominio y posesión el mencionado tercerista afirma haber adquirido.
+
+CUARTO: Que tampoco resulta posible sostener que la tercerista Francisco Piraino Servicios Automotrices SpA o Piraino Garaje SpA haya estado en posesión de los bienes embargados al momento de la práctica del embargo, toda vez que este se practicó el treinta y uno de enero de dos mil veintidós, en circunstancias de que dicha sociedad fue constituida recién el veinticinco de julio de dos mil veintidós, es decir, casi seis meses después. Y fue con posterioridad, el veintidós de agosto de dos mil veintitrés, cuando el inmueble en el que se encontraban las especies embargadas fue dado en arriendo a la sociedad tercerista.
+
+QUINTO: Que, en estas circunstancias, no habiéndose acreditado la posesión alegada por los terceristas ni la coincidencia de los bienes embargados con aquellos cuya posesión es invocada, la tercería de posesión será rechazada.
+
+Y visto, además, lo dispuesto en los artículos 476 del Código del Trabajo y 186 y siguientes del Código de Procedimiento Civil, se revoca la sentencia apelada, de catorce de abril de dos mil veinticinco, dictada por el Primer Juzgado de Letras de Los Andes, y, en su lugar, se declara que se rechaza la tercería de posesión deducida respecto de los bienes embargados el treinta y uno de enero de dos mil veintidós.
+
+Regístrese y devuélvase.
+
+Redacción del Abogado Integrante, señor Guillermo Oliver Calderón.
+
+Se deja constancia que no firman, no obstante haber concurrido a la vista de la causa y a la redacción del acuerdo, la Fiscal Judicial señora Nel Greeven Bobadilla, por encontrarse con licencia médica y el Abogado integrante Sr. Guillermo Oliver Calderón, por no integrar Sala el día de hoy.
+N° Laboral - Cobranza-437-2025.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Los Andes, catorce de abril de dos mil veinticinco.
+Visto:
+A   folio  3   de   este   cuaderno   de   tercería,   comparece
+
+Francisco Andrés Piraino Quiroz, actuando personalmente  y
+en representación de Francisco Piraino Servicios Automotrices
+SpA, o Piraino Garage SpA., domiciliado en Los Villares sin
+número,   sector   Plaza   Vieja,   Comuna   de   Los   Andes,
+interponiendo demanda incidental de tercería de posesión, en
+contra de la demandante Delia Valle Mayta, domiciliada en Los
+Faroles   N°1700,   Comuna   de   Los   Andes;   y   del   demandado
+Comercial Hp Shopt SpA, RUT N°76.800.201­0.
+
+A folio 6 se tuvo por evacuado el traslado en rebeldía de
+la   ejecutante   y   del   ejecutado,   y   se   recibió  la   demanda
+incidental a prueba.
+
+A folio 22 se trajeron los autos para fallo.
+Con lo relacionado y considerando:
+Primero: Que, en cuanto a la tacha opuesta a folio 11
+
+por   la   parte   ejecutante,   contra   el   testigo   Cristian   Patricio
+Piraino Quiroz, conforme a la causal del artículo 358 N°1 del
+Código de Procedimiento Civil; ya que el testigo declaró que es
+hermano del tercerista, concurre la inhabilidad alegada, ya que
+el  deponente es  pariente   colateral   en  el   segundo grado del
+tercerista, por lo que la tacha será acogida.
+
+En cuanto a  la tacha opuesta a  folio 11 por    la parte
+ejecutante,   contra   el   testigo   Diego   Rubén   Plaza   Casanova,
+conforme a las causales del artículo 358 N°5, 6 y 7 del Código
+de  Procedimiento  Civil;   atendido  que  de   las   respuestas  del
+testigo  no   es   posible   determinar   que   tenga   actualmente   la
+calidad de trabajador dependiente de la parte que lo presenta;
+que   tenga   un   interés   económico   directo   o   indirecto   con   el
+resultado del juicio; o que exista una amistad íntima con el
+tercerista, las tachas serán rechazadas.
+
+En lo que respecta a la tacha opuesta a folio 11 por   la
+parte ejecutante, contra el testigo Rodrigo Ignacio Silva Bravo,
+conforme al artículo 358 N°7 del Código de Procedimiento Civil;
+
+Código: HNKFXTLXZHY
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+dado que de las respuestas del testigo no es posible determinar
+que tenga una amistad íntima con el tercerista, la tacha será
+rechazada.
+
+Segundo: Que,   el   tercerista   funda   su   demanda
+incidental,   en síntesis,   en que  se  procedió a  embargar con
+fecha 31 de enero de 2022 bienes muebles que guarnecen el
+domicilio del taller ubicado en Los Villares sin número, sector
+de   Plaza   Vieja,   Comuna   de   Los   Andes,   bienes   que   se
+encuentran bajo su exclusiva posesión legal y material.
+
+Agrega que todos los bienes embargados pertenecieron a
+José Francisco Piraino y Cía. Ltda., RUT N°76.280.420­4, de la
+cual el tercerista fue socio, y posteriormente llevados por este a
+dependencias de HP Shopt SpA, para que  fueran utilizados
+como maquinarias y herramientas por esta última empresa, a
+modo de comodato, puesto que el tercerista trabajaba en dicha
+empresa, pero que jamás pertenecieron a HP Shopt SpA.
+
+Plantea que desde el 22 de agosto de 2023 el inmueble
+donde se practicó el embargo fue arrendado por la sociedad
+que representa; mientras que la sociedad HP Shopt SpA dejó el
+inmueble hace más de 11 meses.
+
+Solicita se acoja la demanda y se ordene el alzamiento del
+embargo sobre los bienes embargados, con costas.
+
+Tercero: Que el ejecutante y el ejecutado no evacuaron el
+traslado   conferido,   por   lo   que   se   tuvo   por   contestada   la
+demanda incidental en su rebeldía.
+
+Cuarto: Que, el tercerista rindió la siguiente prueba:
+I.­ Documental:
+A folio 3:
+1.­ Contrato de arrendamiento de 23 de agosto de 2023,
+
+entre   la   arrendadora   Silvia   Amelia   Minardi   Cueto   y   como
+arrendataria   la   Sociedad   Francisco   Piraino   Quiroz   Servicio
+Automotrices SpA, sobre el  bien  inmueble ubicado en calle
+Plaza   Vieja   N°50,   Rol   de   Avaluó   N°501­67,   suscrito   en   la
+Notaria  Marta  Rivas  Schulz   el  25  de   agosto  de  2023.    2.­
+Comprobante de pago de arrendamiento. 3.­ Comprobante de
+pago de  Chilquinta.  4.­  Certificado de   estatuto  actualizado,
+
+Código: HNKFXTLXZHY
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+respecto   de   la   sociedad   Francisco   Piraino   Quiroz   Servicios
+Automotrices SpA.
+
+A folio 12:
+1.­ Escritura pública de modificación de Sociedad de José
+
+Francisco Piraino y Cía. Ltda., de fecha 7 de agosto de 2013.
+II.­ Testimonial:
+A   folio   11   declararon   los   testigos   Diego   Rubén   Plaza
+
+Casanova y Rodrigo Ignacio Silva Bravo.
+Quinto:  Que, el  ejecutante y el  ejecutado no rindieron
+
+prueba.
+Sexto:  Que,  la escritura pública de modificación de  la
+
+Sociedad   de   José   Francisco   Piraino   y   Cía.   Ltda.,   valorada
+conforme al artículo 342 N°3 del Código de Procedimiento Civil;
+aunada a   la  declaración de  los   testigos  Diego Rubén Plaza
+Casanova y Rodrigo Ignacio Silva Bravo, en lo que resultan
+concordantes;  permiten establecer que desde el año 2013 el
+tercerista Francisco Piraino Quiroz  se   retiró  de   la  sociedad
+antes  indicada, adquiriendo el  dominio y  la posesión de  los
+bienes embargados. Luego, la declaración conteste de los dos
+testigos   ya   indicados,   permite   acreditar   que   los   bienes
+embargados   fueron   trasladados   al   domicilio   de   Plaza   Vieja
+N°50,  Los Andes,  mismo  inmueble por el  que se celebró el
+contrato de arrendamiento entre Silvia Amelia Minardi Cueto,
+como   arrendadora,   y   la   Sociedad   Francisco   Piraino   Quiroz
+Servicio   Automotrices   SpA,   representada   por   el   tercerista,
+Francisco Piraino Quiroz, como arrendataria.
+
+Si bien no quedó acreditado el título mediante el cual la
+ejecutada usaba dichos bienes; de  la  declaración de ambos
+testigos, valorada conforme a la regla segunda del artículo 384
+del   Código   de   Procedimiento   Civil,   se   desprende   que   tales
+especies se mantuvieron desde su adquisición en posesión del
+tercerista, por lo que según lo dispuesto en el artículo 725 del
+Código Civil, con independencia del título que haya ostentado
+la ejecutada, el tercerista no perdió su posesión.
+
+Código: HNKFXTLXZHY
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Finalmente,   coincidiendo   los   bienes   embargados   con
+aquellos cuya posesión ha demostrado el tercerista, la tercería
+será acogida.
+
+Por estas consideraciones y teniendo presente, además, lo
+dispuesto en los artículos 170, 342 N°2, 384 y 518 y siguientes
+del Código de Procedimiento Civil, se resuelve:
+
+I.­   Que  se acoge la  tercería   de   posesión   y,   en
+consecuencia, se ordena el  alzamiento del  embargo  trabado
+sobre los bienes indicados en el acta de folio 60 del cuaderno
+principal, de 31 de enero de 2022.
+
+II.­ Que cada parte pagará sus costas.
+Regístrese, notifíquese y, en su oportunidad, archívese.
+C-9-2021
+Dictada   por   Fernando   Marcos   Alvarado   Peña,   Juez
+
+Titular.
+
+Código: HNKFXTLXZHY
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2025-04-14T17:01:39-0400
