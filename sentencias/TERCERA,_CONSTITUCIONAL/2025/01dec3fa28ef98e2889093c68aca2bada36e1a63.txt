@@ -1,0 +1,304 @@
+METADATA
+
+case_id: 01dec3fa28ef98e2889093c68aca2bada36e1a63
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7971740
+
+rol: 29119-2025
+
+fecha_sentencia: 2025-12-24
+
+caratulado: MINISTERIO PUBLICO ANTOFAGASTA C/ ANTONIO ANDRES LAVANDEROS SALGADO
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (PENAL) NULIDAD
+
+recurso: (PENAL) NULIDAD
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Corte Suprema ▼
+
+Santiago, veinticuatro de diciembre de dos mil veinticinco.
+
+Vistos:
+Se reproduce únicamente la parte expositiva de la resolución en alzada.
+
+Y se tiene en su lugar, y además, presente:
+Primero: Que, en estos autos, se interpone recurso de protección en contra de la isapre recurrida, por el acto calificado de ilegal y arbitrario que afecta las garantías constitucionales del artículo 19 numerales 2, 9 y 24 de la Constitución Política de la República.
+
+Segundo: Que, el artículo 2 de la Ley N° 21.674 dispuso: “La Superintendencia de Salud determinará, por medio de una circular dictada especialmente para estos efectos, el modo de hacer efectiva la adecuación del precio final de todos los contratos de salud previsional a los que las Instituciones de Salud Previsional aplicaron una tabla de factores elaboradas por ellas mismas y distinta a la Tabla Única de Factores establecida por la Superintendencia de Salud.
+
+Dicha circular contendrá, al menos, las siguientes instrucciones para las Instituciones de Salud Previsional:
+1) La obligación de adecuar el precio final de todos los contratos previsionales de salud que se encontraban vigentes al 1 de diciembre de 2022 y que no empleaban la Tabla Única de Factores contenida en la Circular IF/N° 343, de 11 de diciembre de 2019, de la Superintendencia de Salud.
+Esta adecuación no podrá importar un alza del precio final de los contratos vigentes.
+
+La obligación de adecuar tampoco podrá importar una reducción del precio pactado de los contratos bajo el valor de la cotización legal obligatoria vigente al momento en que fue calculada la adecuación del precio final. El valor de la cotización legal obligatoria se calculará sobre el monto promedio de los últimos seis meses de la remuneración, renta o pensión según sea el caso, contados desde el cálculo de la adecuación. Si, al momento de aplicar la adecuación señalada en este numeral, la persona afiliada contaba con un contrato previsional de salud con un precio pactado inferior a su cotización legal, el procedimiento de adecuación no podrá importar una modificación de dicho precio.
+
+Esta adecuación se realizará simultáneamente con el ajuste al que hace referencia el artículo 9º de la presente ley.
+
+2) La obligación de informar a la Superintendencia de Salud todos los contratos que, con ocasión de la aplicación del numeral precedente, resulten con un precio final inferior al cobrado y percibido por la Institución respectiva, debiendo señalar esas diferencias en unidades de fomento, por cada uno de ellos.
+
+3) La obligación de restituir, en los términos consignados en los artículos 3° y siguientes, las cantidades percibidas en exceso por las Instituciones de Salud Previsional, desde el 1 de abril de 2020, producto del procedimiento de adecuación de tabla de factores. La restitución no considerará los montos por concepto de excedentes de conformidad al artículo 188 del decreto con fuerza de ley Nº 1, promulgado en 2005 y publicado en 2006, del Ministerio de Salud, que, en el período en cuestión ya fueron devueltos, renunciados o requeridos por las personas afiliadas para los fines establecidos en el referido artículo. Lo no devuelto, renunciado o requerido por las personas afiliadas, debe ser restituido íntegramente.
+
+4) La obligación de restituir, en los términos consignados en los artículos 3° y siguientes, las cantidades percibidas por las Instituciones de Salud Previsional por concepto de cobro de cargas no natas y menores de dos años de edad, desde el 1 de diciembre de 2022. Estos cobros no podrán ser exigidos o realizados de manera retroactiva, una vez que la persona beneficiaria cumpla dos años de edad.
+
+Calculado el precio final de los contratos de conformidad al numeral 1) anterior, las Instituciones de Salud Previsional sólo podrán realizar un alza del precio final de dichos contratos cuando se funde en la incorporación de nuevas cargas o personas beneficiarias y la suma de los factores de riesgo del grupo familiar allí previstos así lo determine, alza cuyo cobro se suspenderá hasta que la nueva persona beneficiaria cumpla dos años de edad.
+
+Lo referido en el presente artículo es sin perjuicio de las adecuaciones de precios que legalmente correspondan de conformidad a esta ley y al decreto con fuerza de ley N° 1, promulgado en 2005 y publicado en 2006, del Ministerio de Salud, así como la obligación de enterar la cotización establecida en el artículo 84 del decreto ley N° 3.500, de 1980.
+
+La circular a que se refiere el presente artículo también deberá indicar la forma y plazo en que las Instituciones Previsionales de Salud notificarán a las personas afiliadas de los cambios efectuados en los contratos de salud producto de la adecuación señalada en el numeral 1), así como cualquier otra medida que la Superintendencia de Salud estime pertinente.
+
+Artículo 3°.- Dentro del plazo de un mes contado desde la publicación de la circular mencionada en el artículo anterior, prorrogable por una única vez por un mes, las Instituciones de Salud Previsional deberán presentar a la Superintendencia de Salud un plan de pago y ajustes, el cual deberá incluir, al menos, lo siguiente:
+a) Una propuesta de devolución de la deuda que resulte de la aplicación de las reglas contenidas en el artículo anterior, para cada mes en que se ocupó una tabla distinta a la Tabla Única de Factores contenida en la Circular IF/N° 343, de 11 de diciembre de 2019, de la Superintendencia de Salud. Esta propuesta deberá contener, al menos, el número de contratos afectos a devolución; los montos a devolver a cada persona afiliada por contrato de salud, expresados en unidades de fomento; el plazo máximo de devolución; las modalidades de devolución; propuestas de compensación, si procedieren, y todos los antecedentes que den cuenta de la valorización de la deuda.
+
+b) Una propuesta de reducción de costos de la Institución. Esta propuesta deberá incluir, al menos, un sistema de pago eficiente hacia los prestadores y una política de transparencia de los gastos para los afiliados.
+
+c) Una propuesta para incorporar en todos los contratos que administre la Institución, una prima extraordinaria por beneficiario, correspondiente al monto necesario para cubrir el costo de las obligaciones con sus personas afiliada, correspondientes a prestaciones, licencias médicas, excesos y excedentes de cotización, entre otros. Asimismo, deberá considerar los costos operacionales y no operacionales que permiten el cumplimiento de los contratos de salud, incluyendo, además, las medidas de contención de costos propuestas en el mismo plan.
+
+Respecto a la propuesta señalada en el literal a) anterior, el plazo de devolución de la deuda podrá ser de hasta trece años. Con todo, la propuesta deberá contemplar mecanismos a fin de que la deuda de las personas mayores de ochenta años de edad sea pagada íntegramente dentro de los primeros veinticuatro meses de implementación del plan de pago y ajustes; y que la deuda de las personas de sesenta y cinco años o más sea pagada dentro de los primeros sesenta meses.
+
+Respecto a los montos adeudados, las Instituciones de Salud Previsional podrán ofrecer devolver dichos montos a las personas afiliadas en forma de excedentes, pudiendo ellas requerirlos para los fines previstos en el inciso cuarto del artículo 188 del decreto con fuerza de ley N° 1, promulgado en 2005 y publicado en 2006, del Ministerio de Salud. Para estos efectos, la deuda se devengará en cuotas mensuales que se reconocerán en la cuenta corriente a que se refiere el artículo 5°.
+
+Alternativamente, las Instituciones de Salud Previsional siempre podrán ofrecer acelerar el pago de la deuda y pagar parcialmente o la totalidad de la deuda en efectivo directamente a las personas cotizantes. El o la cotizante podrá solicitar, a su voluntad, el pago anticipado de la deuda o una parte de ella y, para estos efectos, podrá transigir con la Institución de Salud Previsional mediante un pago único acordado entre las partes, cuyo monto corresponderá al saldo insoluto, total o parcial, de la deuda menos una tasa de descuento por la preferencia temporal de pago. La tasa de descuento no podrá superar el equivalente a la tasa de interés máxima convencional vigente al momento de celebrar el acuerdo. En el evento que las Instituciones de Salud Previsional pretendan utilizar este mecanismo, deberán informarlo en el plan de pago y ajustes. Si el o la cotizante y la Institución respectiva celebraran un acuerdo de esta índole, la Institución de Salud Previsional deberá informar a la Superintendencia dentro del plazo de cinco días hábiles contado desde la fecha de celebración del acuerdo.
+
+Respecto de la prima establecida en el literal c) anterior, ésta no podrá considerar el déficit que pudiese haber presentado la Institución de Salud Previsional con anterioridad al 30 de noviembre de 2022. Asimismo, la referida prima no podrá implicar un alza mayor a un 10% por contrato respecto de la cotización para salud descontada de las remuneraciones, pensiones y rentas afectas a aquellas, correspondiente al mes de julio de 2023 o al momento de la aplicación de la prima extraordinaria si el contrato fuese posterior a dicha fecha. En el caso de cotizantes independientes y voluntarios, la prima no podrá implicar un alza mayor al 10% por contrato respecto de la cotización pactada en el mes de julio de 2023 o al momento de la aplicación de la prima extraordinaria si el contrato fuese posterior a dicha fecha.
+
+La Superintendencia de Salud, previa revisión del cumplimiento de los contenidos mínimos del plan respectivo, lo remitirá dentro del plazo de cinco días al Consejo Consultivo sobre Seguros Previsionales, el que tendrá treinta días para emitir una recomendación fundada por plan presentado por cada Institución de Salud Previsional.
+
+Cumplido el plazo señalado en el inciso anterior y considerando la recomendación del Consejo, la Superintendencia deberá pronunciarse fundadamente sobre el plan respectivo, aprobándolo o instruyendo cambios necesarios para su aprobación, dentro del plazo de diez días contado desde que recibió la respectiva recomendación del Consejo. En contra de esta resolución no procederá recurso alguno.
+
+En el evento que la Superintendencia de Salud instruya cambios al plan, la Institución de Salud Previsional deberá presentar un nuevo plan con las modificaciones correspondientes, en un plazo de treinta días contado desde la notificación del acto administrativo que instruye las modificaciones. Recibido el nuevo plan de pago y ajustes, la Superintendencia deberá remitirlo dentro del segundo día hábil al Consejo Consultivo sobre Seguros Previsionales, el que tendrá un plazo de diez días para entregar su recomendación. La Superintendencia se pronunciará sobre este nuevo plan, aprobándolo o rechazándolo. En contra de la resolución que lo rechace procederán los recursos de reposición y jerárquico de conformidad al artículo 113 del decreto con fuerza de ley N° 1, promulgado en 2005 y publicado en 2006, del Ministerio de Salud.
+
+Si la Superintendencia rechaza el plan modificado, deberá fijar un plan de pago y ajustes, previa consulta al Consejo Consultivo sobre Seguros Previsionales, dentro del plazo de treinta días. En este caso, la Superintendencia podrá sujetar a la Institución de Salud Previsional al régimen especial de supervigilancia y control que establece el artículo 221 del decreto con fuerza de ley N° 1, promulgado en 2005 y publicado en 2006, del Ministerio de Salud, con las mismas facultades allí indicadas.
+
+La aprobación del plan de pago y ajustes por la Superintendencia constará en una resolución que deberá, al menos, explicitar el plazo máximo de devolución, las cuotas de devolución, las condiciones conforme a las cuales la Institución de Salud Previsional respectiva hará las restituciones de los montos adeudados, y la manera en que se notificará a cada persona.
+El incumplimiento, cumplimiento tardío o parcial en la entrega del plan de pago y ajustes, o en la ejecución de éste, se sancionará de acuerdo con lo establecido en el Capítulo VII del Libro I del decreto con fuerza de ley N° 1, promulgado en 2005 y publicado en 2006, del Ministerio de Salud. Lo anterior, sin perjuicio que, en el caso de incumplimiento de la ejecución del respectivo plan, la Superintendencia podrá establecer directamente un plan de pago y ajustes, de conformidad a las reglas establecidas en el inciso noveno.
+
+En caso de retraso de una o más cuotas del plan de pago aprobado por la Superintendencia de Salud, se devengará el interés promedio pagado por los bancos en operaciones reajustables de no más de un año, según lo informado por el Banco Central de Chile en el respectivo período.
+
+Artículo 4°.- En la oportunidad y forma en que se comunique la aplicación de la prima extraordinaria, la Institución de Salud Previsional deberá ofrecer uno o más planes alternativos cuyo precio pactado sea equivalente al vigente, a menos que se trate del precio del plan mínimo que ella ofrezca. Para estos efectos operará lo dispuesto en el artículo 197 del decreto con fuerza de ley N° 1, de promulgado en 2005 y publicado en 2006, del Ministerio de Salud.
+
+Dentro de los seis meses siguientes a la aplicación de la prima extraordinaria, las personas afiliadas afectas a ella podrán solicitar a su Institución de Salud Previsional cambiarse a alguno de los planes que les sean ofrecidos, para lo cual no se les podrá exigir suscribir una nueva declaración de salud y operará la entregada al momento de suscribir el contrato que se le aplicó la prima extraordinaria”.
+
+Tercero: Que, la Circular IF 470 de fecha 7 de junio de 2024, que “INSTRUYE SOBRE EL MODO DE HACER EFECTIVA LA ADECUACIÓN DE TODOS LOS CONTRATOS DE SALUD PREVISIONAL A LA TABLA ÚNICA DE FACTORES, RESTITUCIONES, AJUSTE EXCEPCIONAL A LA COTIZACIÓN LEGAL OBLIGATORIA, PLAN DE PAGO Y AJUSTES, Y OTRAS MATERIAS QUE SE INDICAN, EN CUMPLIMIENTO DE LO ESTABLECIDO EN LA LEY 21.674”, fue dictada por el Intendente de Fondos y Seguros Previsionales de Salud, con el fin de dar cumplimiento al mandato legal referido en el considerando precedente, procediendo a impartir las instrucciones necesarias para, entre otras cosas, efectuar la adecuación del precio final de los contratos de salud de conformidad a la TFU, complementando las instrucciones previamente dictadas a través de la Circular IF/N° 468, las que se mantendrán vigentes, en todo aquello que no resulte incompatible con esta normativa y regulando materias tratadas exclusivamente en la Ley, tales como la instrucción de restituir las cantidades percibidas en exceso y el establecimiento de los parámetros técnicos y metodológicos para la presentación de los planes de pago y ajustes, por parte de las isapres.
+
+Cuarto: Que, la Isapre presentó en plazo su respectivo plan de pago y ajustes, el que fue remitido por el regulador al Consejo Consultivo a efectos de que realice las respectivas recomendaciones, las que fueron consideradas y comunicadas a la Isapre, quien las incorporó, tras lo cual la Superintendencia procedió a realizar el análisis respectivo y a continuación a aprobar fundadamente el referido plan dictando la resolución respectiva.
+Quinto: Que, tal como ha explicado anteriormente esta Corte Suprema, la naturaleza del contrato de salud corresponde a la de un contrato tipo, suscrito por adhesión, redactado y propuesto por una institución de salud previsional, pero también es un contrato parcialmente dirigido –al menos, respecto de algunas de sus cláusulas–, en particular como consecuencia de la intervención de la autoridad pública, esto es la Superintendencia de Salud, que en presencia de reglas de orden público de protección debe instar por la consideración y respeto de los intereses de los afiliados.
+
+Sexto: Que, conforme dan cuenta los antecedentes normativos referidos el alza por concepto de prima extraordinaria se ha realizado una vez que la Superintendencia de Salud, en su calidad de organismo técnico y, por cierto, independiente de la institución de salud previsional em resguardo de los intereses de los usuarios del sistema de salud y, en el caso concreto -bajo la asesoría del Consejo Consultivo- evaluó, observó y aprobó el plan de pago y ajuste presentado por la Isapre, en cumplimiento al mandato legal impuesto por la ley.
+
+Cabe recordar que el regulador se encuentra dotada de amplias facultades para realizar las averiguaciones que correspondan a ese cometido, sin que quepa a este Tribunal sustituirle en tales labores, sin perjuicio de la eventual revisión posterior de sus actos, en los casos y formas prescritos por la ley.
+
+De igual modo, los planes de pago fueron a elaborados y aprobados a instancia de la Superintendencia, órgano competente para y con amplias facultades de fiscalización en la materia.
+
+Séptimo: Que se ha sostenido sobre la presente materia que la Isapre recurrida comunicó fuera del plazo establecido por la Circular IF/N°482 de la Superintendencia de Salud, toda vez que debió realizarse más tardar el 21 de octubre de 2024, sin embargo, la carta fue enviada por correo electrónico el 24 del mismo mes y año, por lo que no puede tener efecto legal al haber sido remitida fuera del plazo que la Superintendencia.
+Octavo: Que, en relación a lo expuesto es preciso señalar que si bien la Circular citada refiere que el plazo máximo para remitir la comunicación respectiva era el 21 de octubre de 2024, por resolución exenta N°14.790 de 15 de octubre de 2024, dictada por la Intendencia de Fondos y Seguros Previsionales de Salud, dispone que al haber modificado la Circular IF/N°482 con ocasión de los recursos de reposición planteados, y considerando el corto plazo para cumplir con la comunicación ordenada por ésta, se instruye extender el hasta el día 25 de octubre del presente año, el plazo original correspondiente al 21 de octubre de 2024.
+
+En estas circunstancias, la misiva referida fue enviada dentro del plazo dispuesto por el regulador al efecto, por lo que la alegación de la recurrente será desestimada.
+
+Noveno: Que, por lo explicado en los motivos que anteceden, la presente acción constitucional no podrá ser admitida a trámite, al no haberse desarrollado en el libelo hechos que puedan constituir vulneración de derechos, en los términos exigidos por el Auto Acordado sobre Tramitación y Fallo del Recurso de Protección.
+
+Y visto, además, lo dispuesto en el artículo 20 de la Constitución Política de la República y el Auto Acordado de esta Corte sobre la materia, se confirma la resolución apelada, que declaró inadmisible el recurso.
+
+Regístrese y devuélvase.
+
+Rol N° 32.187-2025.
+Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sr. Jean Pierre Matus A., Sr. Gonzalo Ruz L., el ministro suplente Sr. Roberto Contreras O. y los Abogados Integrantes Sr. José Miguel Valdivia O. y Sra. Andrea Ruiz R. Santiago, 24 de diciembre de 2025.
+
+Autoriza el Ministro de Fe de la Excma. Corte Suprema.
+
+En Santiago, a veinticuatro de diciembre de dos mil veinticinco, notifiqué en Secretaría por el Estado Diario la resolución precedente.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Corte Suprema ▼
+
+Santiago, veinticuatro de diciembre de dos mil veinticinco.
+
+Vistos:
+Se reproduce únicamente la parte expositiva de la resolución en alzada.
+
+Y se tiene en su lugar, y además, presente:
+Primero: Que, en estos autos, se interpone recurso de protección en contra de la isapre recurrida, por el acto calificado de ilegal y arbitrario que afecta las garantías constitucionales del artículo 19 numerales 2, 9 y 24 de la Constitución Política de la República.
+
+Segundo: Que, el artículo 2 de la Ley N° 21.674 dispuso: “La Superintendencia de Salud determinará, por medio de una circular dictada especialmente para estos efectos, el modo de hacer efectiva la adecuación del precio final de todos los contratos de salud previsional a los que las Instituciones de Salud Previsional aplicaron una tabla de factores elaboradas por ellas mismas y distinta a la Tabla Única de Factores establecida por la Superintendencia de Salud.
+
+Dicha circular contendrá, al menos, las siguientes instrucciones para las Instituciones de Salud Previsional:
+1) La obligación de adecuar el precio final de todos los contratos previsionales de salud que se encontraban vigentes al 1 de diciembre de 2022 y que no empleaban la Tabla Única de Factores contenida en la Circular IF/N° 343, de 11 de diciembre de 2019, de la Superintendencia de Salud.
+Esta adecuación no podrá importar un alza del precio final de los contratos vigentes.
+
+La obligación de adecuar tampoco podrá importar una reducción del precio pactado de los contratos bajo el valor de la cotización legal obligatoria vigente al momento en que fue calculada la adecuación del precio final. El valor de la cotización legal obligatoria se calculará sobre el monto promedio de los últimos seis meses de la remuneración, renta o pensión según sea el caso, contados desde el cálculo de la adecuación. Si, al momento de aplicar la adecuación señalada en este numeral, la persona afiliada contaba con un contrato previsional de salud con un precio pactado inferior a su cotización legal, el procedimiento de adecuación no podrá importar una modificación de dicho precio.
+
+Esta adecuación se realizará simultáneamente con el ajuste al que hace referencia el artículo 9º de la presente ley.
+
+2) La obligación de informar a la Superintendencia de Salud todos los contratos que, con ocasión de la aplicación del numeral precedente, resulten con un precio final inferior al cobrado y percibido por la Institución respectiva, debiendo señalar esas diferencias en unidades de fomento, por cada uno de ellos.
+
+3) La obligación de restituir, en los términos consignados en los artículos 3° y siguientes, las cantidades percibidas en exceso por las Instituciones de Salud Previsional, desde el 1 de abril de 2020, producto del procedimiento de adecuación de tabla de factores. La restitución no considerará los montos por concepto de excedentes de conformidad al artículo 188 del decreto con fuerza de ley Nº 1, promulgado en 2005 y publicado en 2006, del Ministerio de Salud, que, en el período en cuestión ya fueron devueltos, renunciados o requeridos por las personas afiliadas para los fines establecidos en el referido artículo. Lo no devuelto, renunciado o requerido por las personas afiliadas, debe ser restituido íntegramente.
+
+4) La obligación de restituir, en los términos consignados en los artículos 3° y siguientes, las cantidades percibidas por las Instituciones de Salud Previsional por concepto de cobro de cargas no natas y menores de dos años de edad, desde el 1 de diciembre de 2022. Estos cobros no podrán ser exigidos o realizados de manera retroactiva, una vez que la persona beneficiaria cumpla dos años de edad.
+
+Calculado el precio final de los contratos de conformidad al numeral 1) anterior, las Instituciones de Salud Previsional sólo podrán realizar un alza del precio final de dichos contratos cuando se funde en la incorporación de nuevas cargas o personas beneficiarias y la suma de los factores de riesgo del grupo familiar allí previstos así lo determine, alza cuyo cobro se suspenderá hasta que la nueva persona beneficiaria cumpla dos años de edad.
+
+Lo referido en el presente artículo es sin perjuicio de las adecuaciones de precios que legalmente correspondan de conformidad a esta ley y al decreto con fuerza de ley N° 1, promulgado en 2005 y publicado en 2006, del Ministerio de Salud, así como la obligación de enterar la cotización establecida en el artículo 84 del decreto ley N° 3.500, de 1980.
+
+La circular a que se refiere el presente artículo también deberá indicar la forma y plazo en que las Instituciones Previsionales de Salud notificarán a las personas afiliadas de los cambios efectuados en los contratos de salud producto de la adecuación señalada en el numeral 1), así como cualquier otra medida que la Superintendencia de Salud estime pertinente.
+
+Artículo 3°.- Dentro del plazo de un mes contado desde la publicación de la circular mencionada en el artículo anterior, prorrogable por una única vez por un mes, las Instituciones de Salud Previsional deberán presentar a la Superintendencia de Salud un plan de pago y ajustes, el cual deberá incluir, al menos, lo siguiente:
+a) Una propuesta de devolución de la deuda que resulte de la aplicación de las reglas contenidas en el artículo anterior, para cada mes en que se ocupó una tabla distinta a la Tabla Única de Factores contenida en la Circular IF/N° 343, de 11 de diciembre de 2019, de la Superintendencia de Salud. Esta propuesta deberá contener, al menos, el número de contratos afectos a devolución; los montos a devolver a cada persona afiliada por contrato de salud, expresados en unidades de fomento; el plazo máximo de devolución; las modalidades de devolución; propuestas de compensación, si procedieren, y todos los antecedentes que den cuenta de la valorización de la deuda.
+
+b) Una propuesta de reducción de costos de la Institución. Esta propuesta deberá incluir, al menos, un sistema de pago eficiente hacia los prestadores y una política de transparencia de los gastos para los afiliados.
+
+c) Una propuesta para incorporar en todos los contratos que administre la Institución, una prima extraordinaria por beneficiario, correspondiente al monto necesario para cubrir el costo de las obligaciones con sus personas afiliada, correspondientes a prestaciones, licencias médicas, excesos y excedentes de cotización, entre otros. Asimismo, deberá considerar los costos operacionales y no operacionales que permiten el cumplimiento de los contratos de salud, incluyendo, además, las medidas de contención de costos propuestas en el mismo plan.
+
+Respecto a la propuesta señalada en el literal a) anterior, el plazo de devolución de la deuda podrá ser de hasta trece años. Con todo, la propuesta deberá contemplar mecanismos a fin de que la deuda de las personas mayores de ochenta años de edad sea pagada íntegramente dentro de los primeros veinticuatro meses de implementación del plan de pago y ajustes; y que la deuda de las personas de sesenta y cinco años o más sea pagada dentro de los primeros sesenta meses.
+
+Respecto a los montos adeudados, las Instituciones de Salud Previsional podrán ofrecer devolver dichos montos a las personas afiliadas en forma de excedentes, pudiendo ellas requerirlos para los fines previstos en el inciso cuarto del artículo 188 del decreto con fuerza de ley N° 1, promulgado en 2005 y publicado en 2006, del Ministerio de Salud. Para estos efectos, la deuda se devengará en cuotas mensuales que se reconocerán en la cuenta corriente a que se refiere el artículo 5°.
+
+Alternativamente, las Instituciones de Salud Previsional siempre podrán ofrecer acelerar el pago de la deuda y pagar parcialmente o la totalidad de la deuda en efectivo directamente a las personas cotizantes. El o la cotizante podrá solicitar, a su voluntad, el pago anticipado de la deuda o una parte de ella y, para estos efectos, podrá transigir con la Institución de Salud Previsional mediante un pago único acordado entre las partes, cuyo monto corresponderá al saldo insoluto, total o parcial, de la deuda menos una tasa de descuento por la preferencia temporal de pago. La tasa de descuento no podrá superar el equivalente a la tasa de interés máxima convencional vigente al momento de celebrar el acuerdo. En el evento que las Instituciones de Salud Previsional pretendan utilizar este mecanismo, deberán informarlo en el plan de pago y ajustes. Si el o la cotizante y la Institución respectiva celebraran un acuerdo de esta índole, la Institución de Salud Previsional deberá informar a la Superintendencia dentro del plazo de cinco días hábiles contado desde la fecha de celebración del acuerdo.
+
+Respecto de la prima establecida en el literal c) anterior, ésta no podrá considerar el déficit que pudiese haber presentado la Institución de Salud Previsional con anterioridad al 30 de noviembre de 2022. Asimismo, la referida prima no podrá implicar un alza mayor a un 10% por contrato respecto de la cotización para salud descontada de las remuneraciones, pensiones y rentas afectas a aquellas, correspondiente al mes de julio de 2023 o al momento de la aplicación de la prima extraordinaria si el contrato fuese posterior a dicha fecha. En el caso de cotizantes independientes y voluntarios, la prima no podrá implicar un alza mayor al 10% por contrato respecto de la cotización pactada en el mes de julio de 2023 o al momento de la aplicación de la prima extraordinaria si el contrato fuese posterior a dicha fecha.
+
+La Superintendencia de Salud, previa revisión del cumplimiento de los contenidos mínimos del plan respectivo, lo remitirá dentro del plazo de cinco días al Consejo Consultivo sobre Seguros Previsionales, el que tendrá treinta días para emitir una recomendación fundada por plan presentado por cada Institución de Salud Previsional.
+
+Cumplido el plazo señalado en el inciso anterior y considerando la recomendación del Consejo, la Superintendencia deberá pronunciarse fundadamente sobre el plan respectivo, aprobándolo o instruyendo cambios necesarios para su aprobación, dentro del plazo de diez días contado desde que recibió la respectiva recomendación del Consejo. En contra de esta resolución no procederá recurso alguno.
+
+En el evento que la Superintendencia de Salud instruya cambios al plan, la Institución de Salud Previsional deberá presentar un nuevo plan con las modificaciones correspondientes, en un plazo de treinta días contado desde la notificación del acto administrativo que instruye las modificaciones. Recibido el nuevo plan de pago y ajustes, la Superintendencia deberá remitirlo dentro del segundo día hábil al Consejo Consultivo sobre Seguros Previsionales, el que tendrá un plazo de diez días para entregar su recomendación. La Superintendencia se pronunciará sobre este nuevo plan, aprobándolo o rechazándolo. En contra de la resolución que lo rechace procederán los recursos de reposición y jerárquico de conformidad al artículo 113 del decreto con fuerza de ley N° 1, promulgado en 2005 y publicado en 2006, del Ministerio de Salud.
+
+Si la Superintendencia rechaza el plan modificado, deberá fijar un plan de pago y ajustes, previa consulta al Consejo Consultivo sobre Seguros Previsionales, dentro del plazo de treinta días. En este caso, la Superintendencia podrá sujetar a la Institución de Salud Previsional al régimen especial de supervigilancia y control que establece el artículo 221 del decreto con fuerza de ley N° 1, promulgado en 2005 y publicado en 2006, del Ministerio de Salud, con las mismas facultades allí indicadas.
+
+La aprobación del plan de pago y ajustes por la Superintendencia constará en una resolución que deberá, al menos, explicitar el plazo máximo de devolución, las cuotas de devolución, las condiciones conforme a las cuales la Institución de Salud Previsional respectiva hará las restituciones de los montos adeudados, y la manera en que se notificará a cada persona.
+El incumplimiento, cumplimiento tardío o parcial en la entrega del plan de pago y ajustes, o en la ejecución de éste, se sancionará de acuerdo con lo establecido en el Capítulo VII del Libro I del decreto con fuerza de ley N° 1, promulgado en 2005 y publicado en 2006, del Ministerio de Salud. Lo anterior, sin perjuicio que, en el caso de incumplimiento de la ejecución del respectivo plan, la Superintendencia podrá establecer directamente un plan de pago y ajustes, de conformidad a las reglas establecidas en el inciso noveno.
+
+En caso de retraso de una o más cuotas del plan de pago aprobado por la Superintendencia de Salud, se devengará el interés promedio pagado por los bancos en operaciones reajustables de no más de un año, según lo informado por el Banco Central de Chile en el respectivo período.
+
+Artículo 4°.- En la oportunidad y forma en que se comunique la aplicación de la prima extraordinaria, la Institución de Salud Previsional deberá ofrecer uno o más planes alternativos cuyo precio pactado sea equivalente al vigente, a menos que se trate del precio del plan mínimo que ella ofrezca. Para estos efectos operará lo dispuesto en el artículo 197 del decreto con fuerza de ley N° 1, de promulgado en 2005 y publicado en 2006, del Ministerio de Salud.
+
+Dentro de los seis meses siguientes a la aplicación de la prima extraordinaria, las personas afiliadas afectas a ella podrán solicitar a su Institución de Salud Previsional cambiarse a alguno de los planes que les sean ofrecidos, para lo cual no se les podrá exigir suscribir una nueva declaración de salud y operará la entregada al momento de suscribir el contrato que se le aplicó la prima extraordinaria”.
+
+Tercero: Que, la Circular IF 470 de fecha 7 de junio de 2024, que “INSTRUYE SOBRE EL MODO DE HACER EFECTIVA LA ADECUACIÓN DE TODOS LOS CONTRATOS DE SALUD PREVISIONAL A LA TABLA ÚNICA DE FACTORES, RESTITUCIONES, AJUSTE EXCEPCIONAL A LA COTIZACIÓN LEGAL OBLIGATORIA, PLAN DE PAGO Y AJUSTES, Y OTRAS MATERIAS QUE SE INDICAN, EN CUMPLIMIENTO DE LO ESTABLECIDO EN LA LEY 21.674”, fue dictada por el Intendente de Fondos y Seguros Previsionales de Salud, con el fin de dar cumplimiento al mandato legal referido en el considerando precedente, procediendo a impartir las instrucciones necesarias para, entre otras cosas, efectuar la adecuación del precio final de los contratos de salud de conformidad a la TFU, complementando las instrucciones previamente dictadas a través de la Circular IF/N° 468, las que se mantendrán vigentes, en todo aquello que no resulte incompatible con esta normativa y regulando materias tratadas exclusivamente en la Ley, tales como la instrucción de restituir las cantidades percibidas en exceso y el establecimiento de los parámetros técnicos y metodológicos para la presentación de los planes de pago y ajustes, por parte de las isapres.
+
+Cuarto: Que, la Isapre presentó en plazo su respectivo plan de pago y ajustes, el que fue remitido por el regulador al Consejo Consultivo a efectos de que realice las respectivas recomendaciones, las que fueron consideradas y comunicadas a la Isapre, quien las incorporó, tras lo cual la Superintendencia procedió a realizar el análisis respectivo y a continuación a aprobar fundadamente el referido plan dictando la resolución respectiva.
+Quinto: Que, tal como ha explicado anteriormente esta Corte Suprema, la naturaleza del contrato de salud corresponde a la de un contrato tipo, suscrito por adhesión, redactado y propuesto por una institución de salud previsional, pero también es un contrato parcialmente dirigido –al menos, respecto de algunas de sus cláusulas–, en particular como consecuencia de la intervención de la autoridad pública, esto es la Superintendencia de Salud, que en presencia de reglas de orden público de protección debe instar por la consideración y respeto de los intereses de los afiliados.
+
+Sexto: Que, conforme dan cuenta los antecedentes normativos referidos el alza por concepto de prima extraordinaria se ha realizado una vez que la Superintendencia de Salud, en su calidad de organismo técnico y, por cierto, independiente de la institución de salud previsional em resguardo de los intereses de los usuarios del sistema de salud y, en el caso concreto -bajo la asesoría del Consejo Consultivo- evaluó, observó y aprobó el plan de pago y ajuste presentado por la Isapre, en cumplimiento al mandato legal impuesto por la ley.
+
+Cabe recordar que el regulador se encuentra dotada de amplias facultades para realizar las averiguaciones que correspondan a ese cometido, sin que quepa a este Tribunal sustituirle en tales labores, sin perjuicio de la eventual revisión posterior de sus actos, en los casos y formas prescritos por la ley.
+
+De igual modo, los planes de pago fueron a elaborados y aprobados a instancia de la Superintendencia, órgano competente para y con amplias facultades de fiscalización en la materia.
+
+Séptimo: Que se ha sostenido sobre la presente materia que la Isapre recurrida comunicó fuera del plazo establecido por la Circular IF/N°482 de la Superintendencia de Salud, toda vez que debió realizarse más tardar el 21 de octubre de 2024, sin embargo, la carta fue enviada por correo electrónico el 24 del mismo mes y año, por lo que no puede tener efecto legal al haber sido remitida fuera del plazo que la Superintendencia.
+Octavo: Que, en relación a lo expuesto es preciso señalar que si bien la Circular citada refiere que el plazo máximo para remitir la comunicación respectiva era el 21 de octubre de 2024, por resolución exenta N°14.790 de 15 de octubre de 2024, dictada por la Intendencia de Fondos y Seguros Previsionales de Salud, dispone que al haber modificado la Circular IF/N°482 con ocasión de los recursos de reposición planteados, y considerando el corto plazo para cumplir con la comunicación ordenada por ésta, se instruye extender el hasta el día 25 de octubre del presente año, el plazo original correspondiente al 21 de octubre de 2024.
+
+En estas circunstancias, la misiva referida fue enviada dentro del plazo dispuesto por el regulador al efecto, por lo que la alegación de la recurrente será desestimada.
+
+Noveno: Que, por lo explicado en los motivos que anteceden, la presente acción constitucional no podrá ser admitida a trámite, al no haberse desarrollado en el libelo hechos que puedan constituir vulneración de derechos, en los términos exigidos por el Auto Acordado sobre Tramitación y Fallo del Recurso de Protección.
+
+Y visto, además, lo dispuesto en el artículo 20 de la Constitución Política de la República y el Auto Acordado de esta Corte sobre la materia, se confirma la resolución apelada, que declaró inadmisible el recurso.
+
+Regístrese y devuélvase.
+
+Rol N° 32.187-2025.
+Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sr. Jean Pierre Matus A., Sr. Gonzalo Ruz L., el ministro suplente Sr. Roberto Contreras O. y los Abogados Integrantes Sr. José Miguel Valdivia O. y Sra. Andrea Ruiz R. Santiago, 24 de diciembre de 2025.
+
+Autoriza el Ministro de Fe de la Excma. Corte Suprema.
+
+En Santiago, a veinticuatro de diciembre de dos mil veinticinco, notifiqué en Secretaría por el Estado Diario la resolución precedente.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Corte Suprema ▼
+
+Santiago, veinticuatro de diciembre de dos mil veinticinco.
+
+Vistos:
+Se reproduce únicamente la parte expositiva de la resolución en alzada.
+
+Y se tiene en su lugar, y además, presente:
+Primero: Que, en estos autos, se interpone recurso de protección en contra de la isapre recurrida, por el acto calificado de ilegal y arbitrario que afecta las garantías constitucionales del artículo 19 numerales 2, 9 y 24 de la Constitución Política de la República.
+
+Segundo: Que, el artículo 2 de la Ley N° 21.674 dispuso: “La Superintendencia de Salud determinará, por medio de una circular dictada especialmente para estos efectos, el modo de hacer efectiva la adecuación del precio final de todos los contratos de salud previsional a los que las Instituciones de Salud Previsional aplicaron una tabla de factores elaboradas por ellas mismas y distinta a la Tabla Única de Factores establecida por la Superintendencia de Salud.
+
+Dicha circular contendrá, al menos, las siguientes instrucciones para las Instituciones de Salud Previsional:
+1) La obligación de adecuar el precio final de todos los contratos previsionales de salud que se encontraban vigentes al 1 de diciembre de 2022 y que no empleaban la Tabla Única de Factores contenida en la Circular IF/N° 343, de 11 de diciembre de 2019, de la Superintendencia de Salud.
+Esta adecuación no podrá importar un alza del precio final de los contratos vigentes.
+
+La obligación de adecuar tampoco podrá importar una reducción del precio pactado de los contratos bajo el valor de la cotización legal obligatoria vigente al momento en que fue calculada la adecuación del precio final. El valor de la cotización legal obligatoria se calculará sobre el monto promedio de los últimos seis meses de la remuneración, renta o pensión según sea el caso, contados desde el cálculo de la adecuación. Si, al momento de aplicar la adecuación señalada en este numeral, la persona afiliada contaba con un contrato previsional de salud con un precio pactado inferior a su cotización legal, el procedimiento de adecuación no podrá importar una modificación de dicho precio.
+
+Esta adecuación se realizará simultáneamente con el ajuste al que hace referencia el artículo 9º de la presente ley.
+
+2) La obligación de informar a la Superintendencia de Salud todos los contratos que, con ocasión de la aplicación del numeral precedente, resulten con un precio final inferior al cobrado y percibido por la Institución respectiva, debiendo señalar esas diferencias en unidades de fomento, por cada uno de ellos.
+
+3) La obligación de restituir, en los términos consignados en los artículos 3° y siguientes, las cantidades percibidas en exceso por las Instituciones de Salud Previsional, desde el 1 de abril de 2020, producto del procedimiento de adecuación de tabla de factores. La restitución no considerará los montos por concepto de excedentes de conformidad al artículo 188 del decreto con fuerza de ley Nº 1, promulgado en 2005 y publicado en 2006, del Ministerio de Salud, que, en el período en cuestión ya fueron devueltos, renunciados o requeridos por las personas afiliadas para los fines establecidos en el referido artículo. Lo no devuelto, renunciado o requerido por las personas afiliadas, debe ser restituido íntegramente.
+
+4) La obligación de restituir, en los términos consignados en los artículos 3° y siguientes, las cantidades percibidas por las Instituciones de Salud Previsional por concepto de cobro de cargas no natas y menores de dos años de edad, desde el 1 de diciembre de 2022. Estos cobros no podrán ser exigidos o realizados de manera retroactiva, una vez que la persona beneficiaria cumpla dos años de edad.
+
+Calculado el precio final de los contratos de conformidad al numeral 1) anterior, las Instituciones de Salud Previsional sólo podrán realizar un alza del precio final de dichos contratos cuando se funde en la incorporación de nuevas cargas o personas beneficiarias y la suma de los factores de riesgo del grupo familiar allí previstos así lo determine, alza cuyo cobro se suspenderá hasta que la nueva persona beneficiaria cumpla dos años de edad.
+
+Lo referido en el presente artículo es sin perjuicio de las adecuaciones de precios que legalmente correspondan de conformidad a esta ley y al decreto con fuerza de ley N° 1, promulgado en 2005 y publicado en 2006, del Ministerio de Salud, así como la obligación de enterar la cotización establecida en el artículo 84 del decreto ley N° 3.500, de 1980.
+
+La circular a que se refiere el presente artículo también deberá indicar la forma y plazo en que las Instituciones Previsionales de Salud notificarán a las personas afiliadas de los cambios efectuados en los contratos de salud producto de la adecuación señalada en el numeral 1), así como cualquier otra medida que la Superintendencia de Salud estime pertinente.
+
+Artículo 3°.- Dentro del plazo de un mes contado desde la publicación de la circular mencionada en el artículo anterior, prorrogable por una única vez por un mes, las Instituciones de Salud Previsional deberán presentar a la Superintendencia de Salud un plan de pago y ajustes, el cual deberá incluir, al menos, lo siguiente:
+a) Una propuesta de devolución de la deuda que resulte de la aplicación de las reglas contenidas en el artículo anterior, para cada mes en que se ocupó una tabla distinta a la Tabla Única de Factores contenida en la Circular IF/N° 343, de 11 de diciembre de 2019, de la Superintendencia de Salud. Esta propuesta deberá contener, al menos, el número de contratos afectos a devolución; los montos a devolver a cada persona afiliada por contrato de salud, expresados en unidades de fomento; el plazo máximo de devolución; las modalidades de devolución; propuestas de compensación, si procedieren, y todos los antecedentes que den cuenta de la valorización de la deuda.
+
+b) Una propuesta de reducción de costos de la Institución. Esta propuesta deberá incluir, al menos, un sistema de pago eficiente hacia los prestadores y una política de transparencia de los gastos para los afiliados.
+
+c) Una propuesta para incorporar en todos los contratos que administre la Institución, una prima extraordinaria por beneficiario, correspondiente al monto necesario para cubrir el costo de las obligaciones con sus personas afiliada, correspondientes a prestaciones, licencias médicas, excesos y excedentes de cotización, entre otros. Asimismo, deberá considerar los costos operacionales y no operacionales que permiten el cumplimiento de los contratos de salud, incluyendo, además, las medidas de contención de costos propuestas en el mismo plan.
+
+Respecto a la propuesta señalada en el literal a) anterior, el plazo de devolución de la deuda podrá ser de hasta trece años. Con todo, la propuesta deberá contemplar mecanismos a fin de que la deuda de las personas mayores de ochenta años de edad sea pagada íntegramente dentro de los primeros veinticuatro meses de implementación del plan de pago y ajustes; y que la deuda de las personas de sesenta y cinco años o más sea pagada dentro de los primeros sesenta meses.
+
+Respecto a los montos adeudados, las Instituciones de Salud Previsional podrán ofrecer devolver dichos montos a las personas afiliadas en forma de excedentes, pudiendo ellas requerirlos para los fines previstos en el inciso cuarto del artículo 188 del decreto con fuerza de ley N° 1, promulgado en 2005 y publicado en 2006, del Ministerio de Salud. Para estos efectos, la deuda se devengará en cuotas mensuales que se reconocerán en la cuenta corriente a que se refiere el artículo 5°.
+
+Alternativamente, las Instituciones de Salud Previsional siempre podrán ofrecer acelerar el pago de la deuda y pagar parcialmente o la totalidad de la deuda en efectivo directamente a las personas cotizantes. El o la cotizante podrá solicitar, a su voluntad, el pago anticipado de la deuda o una parte de ella y, para estos efectos, podrá transigir con la Institución de Salud Previsional mediante un pago único acordado entre las partes, cuyo monto corresponderá al saldo insoluto, total o parcial, de la deuda menos una tasa de descuento por la preferencia temporal de pago. La tasa de descuento no podrá superar el equivalente a la tasa de interés máxima convencional vigente al momento de celebrar el acuerdo. En el evento que las Instituciones de Salud Previsional pretendan utilizar este mecanismo, deberán informarlo en el plan de pago y ajustes. Si el o la cotizante y la Institución respectiva celebraran un acuerdo de esta índole, la Institución de Salud Previsional deberá informar a la Superintendencia dentro del plazo de cinco días hábiles contado desde la fecha de celebración del acuerdo.
+
+Respecto de la prima establecida en el literal c) anterior, ésta no podrá considerar el déficit que pudiese haber presentado la Institución de Salud Previsional con anterioridad al 30 de noviembre de 2022. Asimismo, la referida prima no podrá implicar un alza mayor a un 10% por contrato respecto de la cotización para salud descontada de las remuneraciones, pensiones y rentas afectas a aquellas, correspondiente al mes de julio de 2023 o al momento de la aplicación de la prima extraordinaria si el contrato fuese posterior a dicha fecha. En el caso de cotizantes independientes y voluntarios, la prima no podrá implicar un alza mayor al 10% por contrato respecto de la cotización pactada en el mes de julio de 2023 o al momento de la aplicación de la prima extraordinaria si el contrato fuese posterior a dicha fecha.
+
+La Superintendencia de Salud, previa revisión del cumplimiento de los contenidos mínimos del plan respectivo, lo remitirá dentro del plazo de cinco días al Consejo Consultivo sobre Seguros Previsionales, el que tendrá treinta días para emitir una recomendación fundada por plan presentado por cada Institución de Salud Previsional.
+
+Cumplido el plazo señalado en el inciso anterior y considerando la recomendación del Consejo, la Superintendencia deberá pronunciarse fundadamente sobre el plan respectivo, aprobándolo o instruyendo cambios necesarios para su aprobación, dentro del plazo de diez días contado desde que recibió la respectiva recomendación del Consejo. En contra de esta resolución no procederá recurso alguno.
+
+En el evento que la Superintendencia de Salud instruya cambios al plan, la Institución de Salud Previsional deberá presentar un nuevo plan con las modificaciones correspondientes, en un plazo de treinta días contado desde la notificación del acto administrativo que instruye las modificaciones. Recibido el nuevo plan de pago y ajustes, la Superintendencia deberá remitirlo dentro del segundo día hábil al Consejo Consultivo sobre Seguros Previsionales, el que tendrá un plazo de diez días para entregar su recomendación. La Superintendencia se pronunciará sobre este nuevo plan, aprobándolo o rechazándolo. En contra de la resolución que lo rechace procederán los recursos de reposición y jerárquico de conformidad al artículo 113 del decreto con fuerza de ley N° 1, promulgado en 2005 y publicado en 2006, del Ministerio de Salud.
+
+Si la Superintendencia rechaza el plan modificado, deberá fijar un plan de pago y ajustes, previa consulta al Consejo Consultivo sobre Seguros Previsionales, dentro del plazo de treinta días. En este caso, la Superintendencia podrá sujetar a la Institución de Salud Previsional al régimen especial de supervigilancia y control que establece el artículo 221 del decreto con fuerza de ley N° 1, promulgado en 2005 y publicado en 2006, del Ministerio de Salud, con las mismas facultades allí indicadas.
+
+La aprobación del plan de pago y ajustes por la Superintendencia constará en una resolución que deberá, al menos, explicitar el plazo máximo de devolución, las cuotas de devolución, las condiciones conforme a las cuales la Institución de Salud Previsional respectiva hará las restituciones de los montos adeudados, y la manera en que se notificará a cada persona.
+El incumplimiento, cumplimiento tardío o parcial en la entrega del plan de pago y ajustes, o en la ejecución de éste, se sancionará de acuerdo con lo establecido en el Capítulo VII del Libro I del decreto con fuerza de ley N° 1, promulgado en 2005 y publicado en 2006, del Ministerio de Salud. Lo anterior, sin perjuicio que, en el caso de incumplimiento de la ejecución del respectivo plan, la Superintendencia podrá establecer directamente un plan de pago y ajustes, de conformidad a las reglas establecidas en el inciso noveno.
+
+En caso de retraso de una o más cuotas del plan de pago aprobado por la Superintendencia de Salud, se devengará el interés promedio pagado por los bancos en operaciones reajustables de no más de un año, según lo informado por el Banco Central de Chile en el respectivo período.
+
+Artículo 4°.- En la oportunidad y forma en que se comunique la aplicación de la prima extraordinaria, la Institución de Salud Previsional deberá ofrecer uno o más planes alternativos cuyo precio pactado sea equivalente al vigente, a menos que se trate del precio del plan mínimo que ella ofrezca. Para estos efectos operará lo dispuesto en el artículo 197 del decreto con fuerza de ley N° 1, de promulgado en 2005 y publicado en 2006, del Ministerio de Salud.
+
+Dentro de los seis meses siguientes a la aplicación de la prima extraordinaria, las personas afiliadas afectas a ella podrán solicitar a su Institución de Salud Previsional cambiarse a alguno de los planes que les sean ofrecidos, para lo cual no se les podrá exigir suscribir una nueva declaración de salud y operará la entregada al momento de suscribir el contrato que se le aplicó la prima extraordinaria”.
+
+Tercero: Que, la Circular IF 470 de fecha 7 de junio de 2024, que “INSTRUYE SOBRE EL MODO DE HACER EFECTIVA LA ADECUACIÓN DE TODOS LOS CONTRATOS DE SALUD PREVISIONAL A LA TABLA ÚNICA DE FACTORES, RESTITUCIONES, AJUSTE EXCEPCIONAL A LA COTIZACIÓN LEGAL OBLIGATORIA, PLAN DE PAGO Y AJUSTES, Y OTRAS MATERIAS QUE SE INDICAN, EN CUMPLIMIENTO DE LO ESTABLECIDO EN LA LEY 21.674”, fue dictada por el Intendente de Fondos y Seguros Previsionales de Salud, con el fin de dar cumplimiento al mandato legal referido en el considerando precedente, procediendo a impartir las instrucciones necesarias para, entre otras cosas, efectuar la adecuación del precio final de los contratos de salud de conformidad a la TFU, complementando las instrucciones previamente dictadas a través de la Circular IF/N° 468, las que se mantendrán vigentes, en todo aquello que no resulte incompatible con esta normativa y regulando materias tratadas exclusivamente en la Ley, tales como la instrucción de restituir las cantidades percibidas en exceso y el establecimiento de los parámetros técnicos y metodológicos para la presentación de los planes de pago y ajustes, por parte de las isapres.
+
+Cuarto: Que, la Isapre presentó en plazo su respectivo plan de pago y ajustes, el que fue remitido por el regulador al Consejo Consultivo a efectos de que realice las respectivas recomendaciones, las que fueron consideradas y comunicadas a la Isapre, quien las incorporó, tras lo cual la Superintendencia procedió a realizar el análisis respectivo y a continuación a aprobar fundadamente el referido plan dictando la resolución respectiva.
+Quinto: Que, tal como ha explicado anteriormente esta Corte Suprema, la naturaleza del contrato de salud corresponde a la de un contrato tipo, suscrito por adhesión, redactado y propuesto por una institución de salud previsional, pero también es un contrato parcialmente dirigido –al menos, respecto de algunas de sus cláusulas–, en particular como consecuencia de la intervención de la autoridad pública, esto es la Superintendencia de Salud, que en presencia de reglas de orden público de protección debe instar por la consideración y respeto de los intereses de los afiliados.
+
+Sexto: Que, conforme dan cuenta los antecedentes normativos referidos el alza por concepto de prima extraordinaria se ha realizado una vez que la Superintendencia de Salud, en su calidad de organismo técnico y, por cierto, independiente de la institución de salud previsional em resguardo de los intereses de los usuarios del sistema de salud y, en el caso concreto -bajo la asesoría del Consejo Consultivo- evaluó, observó y aprobó el plan de pago y ajuste presentado por la Isapre, en cumplimiento al mandato legal impuesto por la ley.
+
+Cabe recordar que el regulador se encuentra dotada de amplias facultades para realizar las averiguaciones que correspondan a ese cometido, sin que quepa a este Tribunal sustituirle en tales labores, sin perjuicio de la eventual revisión posterior de sus actos, en los casos y formas prescritos por la ley.
+
+De igual modo, los planes de pago fueron a elaborados y aprobados a instancia de la Superintendencia, órgano competente para y con amplias facultades de fiscalización en la materia.
+
+Séptimo: Que se ha sostenido sobre la presente materia que la Isapre recurrida comunicó fuera del plazo establecido por la Circular IF/N°482 de la Superintendencia de Salud, toda vez que debió realizarse más tardar el 21 de octubre de 2024, sin embargo, la carta fue enviada por correo electrónico el 24 del mismo mes y año, por lo que no puede tener efecto legal al haber sido remitida fuera del plazo que la Superintendencia.
+Octavo: Que, en relación a lo expuesto es preciso señalar que si bien la Circular citada refiere que el plazo máximo para remitir la comunicación respectiva era el 21 de octubre de 2024, por resolución exenta N°14.790 de 15 de octubre de 2024, dictada por la Intendencia de Fondos y Seguros Previsionales de Salud, dispone que al haber modificado la Circular IF/N°482 con ocasión de los recursos de reposición planteados, y considerando el corto plazo para cumplir con la comunicación ordenada por ésta, se instruye extender el hasta el día 25 de octubre del presente año, el plazo original correspondiente al 21 de octubre de 2024.
+
+En estas circunstancias, la misiva referida fue enviada dentro del plazo dispuesto por el regulador al efecto, por lo que la alegación de la recurrente será desestimada.
+
+Noveno: Que, por lo explicado en los motivos que anteceden, la presente acción constitucional no podrá ser admitida a trámite, al no haberse desarrollado en el libelo hechos que puedan constituir vulneración de derechos, en los términos exigidos por el Auto Acordado sobre Tramitación y Fallo del Recurso de Protección.
+
+Y visto, además, lo dispuesto en el artículo 20 de la Constitución Política de la República y el Auto Acordado de esta Corte sobre la materia, se confirma la resolución apelada, que declaró inadmisible el recurso.
+
+Regístrese y devuélvase.
+
+Rol N° 32.187-2025.
+Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sr. Jean Pierre Matus A., Sr. Gonzalo Ruz L., el ministro suplente Sr. Roberto Contreras O. y los Abogados Integrantes Sr. José Miguel Valdivia O. y Sra. Andrea Ruiz R. Santiago, 24 de diciembre de 2025.
+
+Autoriza el Ministro de Fe de la Excma. Corte Suprema.
+
+En Santiago, a veinticuatro de diciembre de dos mil veinticinco, notifiqué en Secretaría por el Estado Diario la resolución precedente.
