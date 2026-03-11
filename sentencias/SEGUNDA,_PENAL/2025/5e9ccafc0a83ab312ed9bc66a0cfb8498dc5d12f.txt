@@ -1,0 +1,80 @@
+METADATA
+
+case_id: 5e9ccafc0a83ab312ed9bc66a0cfb8498dc5d12f
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7969245
+
+rol: 56157-2025
+
+fecha_sentencia: 2025-12-23
+
+caratulado: YASNA LORENA MENICONI PUEBLA CONTRA COMISION DE LIBERTAD CONDICIONAL
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintitrés de diciembre de dos mil veinticinco.
+
+Vistos:
+
+Se confirma la sentencia apelada de once de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Valparaíso, en el Ingreso Corte N°Amparo-4736-2025.
+
+Regístrese y devuélvase.
+
+Rol N°56326-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Llg
+
+C.A. de Valparaíso.
+Valparaíso, once de diciembre de dos mil veinticinco.
+
+Visto:
+
+1° A folio 1, se recurre de amparo en favor de Abraham del Tránsito Córdova Varas, privado de libertad en el C.P. de Valparaíso, y en contra de la Comisión de Libertad Condicional del Segundo Semestre de 2025, por la decisión, que estima arbitraria e ilegal, conculcatoria del derecho fundamental consagrado en el numeral 7° del artículo 19 de la Constitución Política de la República, que importaría la dictación de la resolución Ord. N° 1422.2025 de 10 de octubre del presente año, que rechazó conceder el mentado beneficio al amparado. Solicita que esta Corte, restableciendo el imperio del derecho, deje sin efecto la decisión y decrete la inmediata libertad del interno.
+
+Funda su arbitrio en que el amparado, de 61 años, cumple una condena de 10 años y un día por el delito de homicidio, habiendo iniciado cumplimiento el 26 de enero de 2019, con fecha de término el 27 de enero de 2029 y tiempo mínimo de postulación al beneficio cumplido el 27 de septiembre de 2025; cumpliendo el tiempo mínimo de postulación y los requisitos de conducta y trabajo.
+
+Sin embargo, la recurrida rechazó su postulación señalando “Que teniendo en consideración que el informe de postulación psicosocial a que se refieren los artículos 12 y 14 del Decreto N°338, resulta desfavorable para un cumplimiento en libertad, pues el interno, si bien su compromiso y riesgo son bajos, sin beneficios intrapenitenciarios que permitan observar su conducta extramuros, mantiene factores de riesgo que intervenir en uso de tiempo libre, asociación a pares, entre otros, y la mayoría estima que la sugerencia de Gendarmería en orden al ingreso del interno a CET permite una incorporación paulatina al medio libre además de otros beneficios intrapenitenciarios, siendo posible concluir que no cumple con las exigencias establecidas en el numeral 3 del artículo 2 del Decreto Ley 321.”
+
+Señala que en el caso en comentario se cumplen todos los requisitos del artículo 1° del D.L. N° 321, razón por la cual la decisión de no concederla adolece de arbitrariedad, desde que no se encuentra justificada debidamente ni ajustada al mérito de los antecedentes.
+
+2° A folio 4, informa Gendarmería de Chile, remitiendo los antecedentes remitidos para la postulación a la libertad condicional del amparado, que, en lo pertinente a su informe psicosocial, expresa: “Evaluado participó del Programa de Reinserción Social, y en la actualidad participa en actividades de formación para el trabajo en programa laboral. A la fecha de la presente evaluación, presenta avances significativos respecto a objetivos planteados, finalizando intervención psicosocial, y desempeño laboral favorable. Presenta un riesgo bajo de reincidencia según última evaluación realizada, lo que implica un bajo riesgo de volver a reincidir. Es capaz de reflexionar respecto al estilo de vida adoptado y las consecuencias que ha traído para sí y su familia; permitiéndole estar motivado a participar de la intervención para generar cambios en su pensamiento. En la actualidad, presenta reflexiones de las consecuencias a nivel social y mal causado respecto a delitos cometidos durante su ciclo vital. Presenta un discurso que tiende a lo prosocial, rechazando de manera explícita la comisión de actos delictivos. Se encuentra en etapa de preparación al cambio, identificando factores de riesgo que pudieran incidir en la comisión de un nuevo delito.
+
+Presenta factores criminógenos pendientes de intervención como asociación a pares, factor de relevancia en su actuar delictual y condena actual, el cual debiese ser monitoreado constantemente, ya que en la actualidad presenta un distanciamiento.
+
+Presenta proyecciones laborales concretas y atingentes a habilidades y capacidades propias.
+
+Se observa apoyo familiar estable, con tendencia a un estilo de vida prosocial e inserta en sistema social para facilitar proceso de integración social del evaluado.”
+
+3° A folio 6, informa la señora Presidenta de la Comisión de Libertad Condicional, Ministra señora Nancy Bluck Bahamondes, acompañando la resolución impugnada, que por mayoría rechaza la concesión del beneficio; con el voto en contra de la informante, quien estuvo por conceder la libertad condicional por considerar que el interno tiene un proceso de intervención finalizado exitosamente, lo que impacta favorablemente en su vinculación con el medio, valora el empleo y la familia, es capaz de identificar los factores de riesgo asociados a su conducta, habitualidad laboral, apoyo familiar prosocial y oferta laboral concreta para desempeñarse como maestro de cocina en un restaurant.
+
+4° A folio 7, se trajeron los autos en relación.
+
+Con lo relacionado y considerando:
+
+Primero: Que, por la vía del presente recurso de amparo se cuestiona la legalidad de la resolución emanada de la Comisión de Libertad Condicional, por medio de la cual la recurrida rechazó el beneficio de la libertad condicional al amparado, según el razonamiento en ella contenido.
+
+Segundo: Que, la acción presentada no resulta idónea para revisar el mérito de lo resuelto por la Comisión de Libertad Condicional, en cuanto a la apreciación de los avances en el proceso de reinserción social del postulante, toda vez que refleja un juicio de ponderación sobre aspectos de fondo, correspondiendo únicamente verificar el cumplimiento de los requisitos objetivos establecidos en el DL N°321 y su reglamento, cuya infracción no se denuncia en la especie.
+
+Tercero: Que, en consecuencia, no evidenciándose ilegalidad alguna en la resolución impugnada, en los términos señalados en el considerando anterior, el presente arbitrio será desestimado.
+
+Por estas consideraciones y visto, además, lo dispuesto en el artículo 21 de la Constitución Política de la República y Auto Acordado de la Excma. Corte Suprema sobre la materia, se rechaza, sin costas, el recurso de amparo interpuesto en favor de Abraham del Tránsito Córdova Varas en contra de la Comisión de Libertad Condicional de la Iltma. Corte de Apelaciones de Valparaíso.
+
+Acordada con el voto en contra del Abogado Integrante señor Morales, quien fue de la opinión de acoger la presente acción y conceder la libertad condicional, en atención a que del informe de postulación psicosocial aparece que el interno ha finalizado exitosamente su proceso de intervención, presenta habitualidad laboral, apoyo familiar prosocial y una oferta laboral concreta, por lo que se estima que cumple con el requisito del numeral 3 del artículo 2 del Decreto Ley 321.
+
+Regístrese, comuníquese y archívese en su oportunidad.
+
+N°Amparo-4736-2025.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+LlgC.A. de Valparaíso.Valparaíso, once  de diciembre de dos mil veinticinco.Visto: 1° A folio 1, se recurre de amparo en favor de Abraham del Tránsito Córdova Varas, privado de libertad en el C.P. de Valparaíso, y en contra de la Comisión de Libertad Condicional del Segundo Semestre de 2025, por la decisión, que estima arbitraria e ilegal, conculcatoria del derecho fundamental consagrado en el numeral 7° del artículo 19 de la Constitución Política de la República, que importaría la dictación de la resolución Ord. N° 1422.2025 de 10 de octubre del presente año, que rechazó conceder el mentado beneficio al amparado. Solicita que esta Corte, restableciendo el imperio del derecho, deje sin efecto la decisión y decrete la inmediata libertad del interno. Funda su arbitrio en que el amparado, de 61 años, cumple una condena de 10 años y un día por el delito de homicidio, habiendo iniciado cumplimiento el 26 de enero de 2019, con fecha de término el 27 de enero de 2029 y tiempo mínimo de postulación al beneficio cumplido el 27 de septiembre de 2025; cumpliendo el tiempo mínimo de postulación y los requisitos de conducta y trabajo. Sin embargo, la recurrida rechazó su postulación señalando “Que teniendo en consideración que el informe de postulación psicosocial a que se refieren los artículos 12 y 14 del Decreto N°338, resulta desfavorable para un cumplimiento en libertad, pues el interno, si bien su compromiso y riesgo son bajos, sin beneficios intrapenitenciarios que permitan observar su conducta extramuros, mantiene factores de riesgo que intervenir en uso de tiempo libre, asociación a pares, entre otros, y la mayoría estima que la sugerencia de Gendarmería en orden al ingreso del interno a CET permite una incorporación paulatina al medio libre además de otros beneficios intrapenitenciarios, siendo posible concluir que no cumple con las exigencias establecidas en el numeral 3 del artículo 2 del Decreto Ley 321.”Señala que en el caso en comentario se cumplen todos los requisitos del artículo 1° del D.L. N° 321, razón por la cual la decisión de no concederla adolece de arbitrariedad, desde que no se encuentra justificada debidamente ni ajustada al mérito de los antecedentes. 2° A folio 4, informa Gendarmería de Chile, remitiendo los antecedentes remitidos para la postulación a la libertad condicional del amparado, que, en lo pertinente a su informe psicosocial, expresa: “Evaluado participó del Programa de Reinserción Social, y en la actualidad participa en actividades de formación para el trabajo en programa laboral. A la fecha de la presente evaluación, presenta avances significativos respecto a objetivos planteados, finalizando intervención psicosocial, y desempeño laboral favorable. Presenta un riesgo bajo de reincidencia según última evaluación realizada, lo que implica un bajo riesgo de volver a reincidir. Es capaz de reflexionar respecto al estilo de vida adoptado y las consecuencias que ha traído para sí y su familia; permitiéndole estar motivado a participar de la intervención para generar cambios en su pensamiento. En la actualidad, presenta reflexiones de las consecuencias a nivel social y mal causado respecto a delitos cometidos durante su ciclo vital. Presenta un discurso que tiende a lo prosocial, rechazando de manera explícita la comisión de actos delictivos. Se encuentra en etapa de preparación al cambio, identificando factores de riesgo que pudieran incidir en la comisión de un nuevo delito. Presenta factores criminógenos pendientes de intervención como asociación a pares, factor de relevancia en su actuar delictual y condena actual, el cual debiese ser monitoreado constantemente, ya que en la actualidad presenta un distanciamiento. Presenta proyecciones laborales concretas y atingentes a habilidades y capacidades propias. Se observa apoyo familiar estable, con tendencia a un estilo de vida prosocial e inserta en sistema social para facilitar proceso de integración social del evaluado.”3° A folio 6, informa la señora Presidenta de la Comisión de Libertad Condicional, Ministra señora Nancy Bluck Bahamondes, acompañando la resolución impugnada, que por mayoría rechaza la concesión del beneficio; con el voto en contra de la informante, quien estuvo por conceder la libertad condicional por considerar que el interno tiene un proceso de intervención finalizado exitosamente, lo que impacta favorablemente en su vinculación con el medio, valora el empleo y la familia, es capaz de identificar los factores de riesgo asociados a su conducta, habitualidad laboral, apoyo familiar prosocial y oferta laboral concreta para desempeñarse como maestro de cocina en un restaurant.4° A folio 7, se trajeron los autos en relación. Con lo relacionado y considerando:Primero: Que, por la vía del presente recurso de amparo se cuestiona la legalidad de la resolución emanada de la Comisión de Libertad Condicional, por medio de la cual la recurrida rechazó el beneficio de la libertad condicional al amparado, según el razonamiento en ella contenido.Segundo: Que, la acción presentada no resulta idónea para revisar el mérito de lo resuelto por la Comisión de Libertad Condicional, en cuanto a la apreciación de los avances en el proceso de reinserción social del postulante, toda vez que refleja un juicio de ponderación sobre aspectos de fondo, correspondiendo únicamente verificar el cumplimiento de los requisitos objetivos establecidos en el DL N°321 y su reglamento, cuya infracción no se denuncia en la especie.Tercero: Que, en consecuencia, no evidenciándose ilegalidad alguna en la resolución impugnada, en los términos señalados en el considerando anterior, el presente arbitrio será desestimado. Por estas consideraciones y visto, además, lo dispuesto en el artículo 21 de la Constitución Política de la República y Auto Acordado de la Excma. Corte Suprema sobre la materia, se rechaza, sin costas, el recurso de amparo interpuesto en favor de Abraham del Tránsito Córdova Varas en contra de la Comisión de Libertad Condicional de la Iltma. Corte de Apelaciones de Valparaíso.Acordada con el voto en contra del Abogado Integrante señor Morales, quien fue de la opinión de acoger la presente acción y conceder la libertad condicional, en atención a que del informe de postulación psicosocial aparece que el interno ha finalizado exitosamente su proceso de intervención, presenta habitualidad laboral, apoyo familiar prosocial y una oferta laboral concreta, por lo que se estima que cumple con el requisito del numeral 3 del artículo 2 del Decreto Ley 321.Regístrese, comuníquese y archívese en su oportunidad. N°Amparo-4736-2025.                        ⚠                      Sin documento en esta instancia - pdf
