@@ -1,0 +1,545 @@
+METADATA
+
+case_id: 2a45df627b3379a565c9619c4a89b95597a85362
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7966407
+
+rol: 51649-2025
+
+fecha_sentencia: 2025-12-18
+
+caratulado: JUAN CARLOS RAMOS ÁLVAREZ/SERVICIO NACIONAL DE MIGRACIONES
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+
+recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, dieciocho de diciembre de dos mil veinticinco.
+
+Visto y teniendo presente:
+
+Primero: Que, de conformidad con lo dispuesto en el inciso séptimo del artículo 483-A del Código del Trabajo, se ha ordenado dar cuenta de la admisibilidad del recurso de unificación de jurisprudencia deducido por la demandada contra la sentencia dictada por la Corte de Apelaciones de Santiago, que rechazó el de nulidad interpuesto contra la que acogió la demanda de despido injustificado y de declaración de único empleador.
+
+Segundo: Que según se expresa en la legislación laboral, el recurso de unificación de jurisprudencia es susceptible de ser deducido en contra de la resolución que falle el recurso de nulidad, estableciéndose su procedencia para el caso en que ¿respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de Tribunales Superiores de Justicia ¿, conforme lo explicita el artículo 483 del Código del Trabajo.
+
+Asimismo, del tenor de lo dispuesto en el artículo 483-A del cuerpo legal antes citado, aparece que esta Corte debe controlar, como requisitos para su admisibilidad, por un lado, su oportunidad; en segundo lugar, la existencia de fundamento, además de una relación precisa y circunstanciada de las distintas interpretaciones respecto de las materias de derecho objeto de la sentencia, sostenidas en diversos fallos emanados de los tribunales superiores de justicia, y finalmente, debe acompañarse copia del o los fallos que se invocan como fundamento del recurso en referencia.
+
+Tercero: Que el recurrente no señala la materia de derecho propuesta para ser unificada, sino que relaciona la impugnación con la forma en que se determinó la concurrencia de una dirección laboral común entre las demandadas.
+
+Cuarto: Que, entonces, el recurso en análisis incumple la obligación impuesta en el inciso segundo del artículo 483-A del Código del Trabajo, debido a que no determina con precisión qué materia pretende unificar, sin que pueda compararse con el contenido de las sentencias que se ofrecen a modo de contraste.
+
+Quinto: Que, en las condiciones expuestas, y, en especial, dado el carácter especialísimo y excepcional que reviste el mecanismo de impugnación que se intenta, particularidad reconocida expresamente por el citado artículo 483 del estatuto laboral, al determinar su procedencia bajo los supuestos estrictos que la disposición que le sigue consagra, se impone la inadmisibilidad del recurso.
+
+Por estas consideraciones y normas citadas, se declara inadmisible el recurso de unificación de jurisprudencia interpuesto contra la sentencia de diecinueve de agosto de dos mil veinticinco.
+
+Regístrese y devuélvase.
+
+N°48.863-25.-
+
+Pronunciado por la Cuarta Sala de la Corte Suprema integrada por las ministras señoras Gloria Ana Chevesich R., Andrea Muñoz S., Mireya López M. y las abogadas integrantes señoras Leonor Etcheberry C. y Fabiola Lathrop G.
+No firma la abogada integrante señora Lathrop, no obstante haber concurrido al acuerdo de la causa, por encontrarse ausente. Santiago, dieciocho de diciembre de dos mil veinticinco.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Santiago
+
+Santiago, diecinueve de agosto de dos mil veinticinco.
+
+VISTOS:
+
+Por sentencia de quince de mayo de dos mil veinticuatro, en causa Rit N° O-4620-2023, en procedimiento de aplicación general, seguido ante el Primer Juzgado de Letras del Trabajo de Santiago, se acogió la demanda en contra de Constructora UPC S.A. y UPC Desarrollos Inmobiliarios S.A., y en forma solidaria en contra de Inmobiliaria Esmeralda SpA, declarando que el despido que afectó a tres demandantes es injustificado, ordenando el pago de las sumas que detalla por concepto de indemnización sustitutiva del aviso previo, años de servicio y recargo legal del 30% así como la nulidad del despido, y según detalla por feriado legal respecto de cinco trabajadores y días trabajados del mes de mayo en un caso, cifras que ordena pagar con reajustes e intereses sin costas.
+
+Contra dicho fallo recurrieron de nulidad la demandada UPC Desarrollos Inmobiliarios S.A. y la demandada solidaria Inmobiliaria Esmeralda SpA, ambos fundados en una única causal. La primera, invocó lo dispuesto en el artículo 477 segunda parte del Código del Trabajo y, la demandada solidaria fundada en lo dispuesto en el artículo 478 letra b) del Código Laboral.
+
+Declarados admisibles los recursos, se procedió a su conocimiento en audiencia de fecha 27 de junio de 2025, oportunidad en que alegó únicamente el abogado de la recurrente UPC Desarrollos Inmobiliarios S.A.
+
+Atendido lo anterior, en la audiencia antes referida, se declaró abandonado el recurso de invalidación interpuesto por la demandada solidaria Inmobiliaria Esmeralda SpA.
+
+CONSIDERANDO:
+
+PRIMERO: Que la recurrente invoca como causal de su recurso de nulidad, la prevista en el artículo 477 segunda parte del Código del Trabajo, por haberse dictado la sentencia con infracción de ley que influyó sustancialmente en lo dispositivo del fallo, en relación con los artículos 3, 454 N° 3 y 4, 456, 459 N°4 y 478 del mismo Código, el artículo 19 N°3 inciso 6° de la Constitución Política de la República y el artículo 394 del Código de Procedimiento Civil, que llevó a la declaración de unidad económica de esa parte con Constructora UPC S.A.
+
+En primer lugar, respecto al artículo 3° del Código del Trabajo, reproduce sus incisos cuarto y quinto, y argumenta que el inciso cuarto exige como requisito esencial para que dos o más empresas puedan ser consideradas como un único empleador que exista una dirección laboral común entre ellas, no resultando suficiente el sólo vínculo propietario, debiendo existir un ejercicio conjunto de la potestad de mando laboral en relación a sus dependientes, que actúen en forma concertada como una sola unidad o empresa, valiéndose de los mismos medios materiales e inmateriales, con miras a obtener un objetivo común, que se consigue con el trabajo coordinado de ellas, las que realizan labores complementarias.
+
+No obstante lo anterior, en la sentencia recurrida para declarar que son una unidad económica no se atiende a ello, sino que exclusivamente al hecho de que los representantes no concurrieron a absolver posiciones ni se exhibieron los documentos solicitados.
+
+Cuestiona que no porque se demande a dos o más empresas por unidad económica significa que se debe vulnerar la presunción de inocencia al presumir que todas las demandadas están en la obligación de exhibir documentos que no se encuentran en su poder, como por ejemplo contratos civiles, mercantiles, de trabajo y liquidaciones, entre otros.
+
+Por su parte, sostiene, en el mandato judicial que se tuvo por acompañado al contestar la demanda de parte de Constructora UPC S.A., quien figura como representante legal es Jean Milosevich García, mientras que los representantes legales de UPC Desarrollos Inmobiliarios, según se observa en el mandato judicial, son Andrés Llodrá Daetz en conjunto con Juan José Lasen Vilensky.
+
+De esa forma, según las reglas de la sana crítica, especialmente los principios de la lógica y teniendo en cuenta la resolución que tuvo por acompañados los mandatos judiciales, desvirtúan totalmente la supuesta similitud en los representantes legales y dejan de manifiesto que el tribunal incurre en un error grave que influye en lo dispositivo del fallo al determinar por apercibimientos que ambas tienen el mismo representante legal, siendo evidente que la realidad no es así y, aun cuando lo fueran, no acredita la dirección laboral común exigida por la ley.
+
+A lo anterior, agrega que aparece como “impresentable” que la declaración de unidad económica se funde en hechos que no dicen relación ni referencia a la dirección laboral común exigida por la ley.
+
+Estima que el hecho de compartir relaciones societarias, o estar conformadas por socios comunes no configuran, ni de lejos la dirección laboral común exigida por el legislador.
+
+Lo anterior con mayor razón si se considera lo dispuesto por el inciso quinto del artículo 3° del Código Laboral, que descarta que la mera circunstancia de participación en la propiedad de las empresas configure por sí sola alguno de los elementos o condiciones señalados en el inciso anterior.
+
+Cita jurisprudencia y razona que de haberse interpretado correctamente el artículo en cuestión, se habría concluido que el compartir relaciones societarias o estar conformada por socios comunes no constituye dirección laboral común entre las demandadas y, habría rechazado la solicitud de la parte demandante de declarar la unidad económica.
+
+Como segunda infracción de ley, afirma que se vulneró el debido proceso como garantía constitucional reconocida en el artículo 19 N° 3 párrafo sexto de la Carta Fundamental, en relación con los artículos 454 N° 3 y 432 del Código del Trabajo, así como el artículo 394 del Código de Procedimiento Civil.
+
+Argumenta que en el caso no se cumple con que la sentencia dictada por un órgano jurisdiccional tenga su origen en un procedimiento racional y justo, toda vez que el tribunal respecto de la prueba confesional hizo efectivo el apercibimiento legal por la no comparecencia a la absolución de posiciones de los representantes legales de las demandadas, pero el fallo no especifica los hechos asertivos respecto de los cuales se dio por confesos a los absolventes, a pesar de que la lectura de la sentencia se desprende que esta sanción fue determinante para acoger la solicitud de declaración de unidad económica.
+
+Cita el hecho a probar fijado sobre este punto en la audiencia preparatoria, que no constituye un hecho asertivo, sin que pueda darse por confeso a nadie sobre ese punto, por deber tratarse de hechos que se den por categóricamente afirmados en el escrito en el que se pide la declaración y, por esa razón, no puede esto tampoco ser determinante ni justificación para declarar la unidad económica.
+
+Señala que al hacer una revisión del expediente electrónico, no consta en parte alguna la enumeración o individualización de los hechos asertivos respecto de los cuales se da por confesos a los citados. Lo anterior, a pesar de que estos hechos deben ser delimitados, ya que la confesión como medio de prueba no puede recaer en hechos genéricos, sino que precisos, determinados y claros, ya que permite que se forme una concatenación entre ellos y contribuyen a que el juez, en base a los principios de la lógica, pueda llegar a una conclusión o presunción acerca de un determinado hecho a probar.
+
+En otras palabras, la enumeración es esencial para una correcta, justa y racional fundamentación de la sentencia definitiva, que no se manifiesta en el fallo impugnado, vulnerando de esa forma la garantía constitucional del debido proceso, específicamente en lo que dice relación con las leyes reguladoras de la prueba.
+
+Da cuenta que el artículo 454 N° 3 del Código del Trabajo sólo se refiere a la aplicación de un apercibimiento en términos generales. Así, corresponde en virtud del principio de remisión en materia procesal, consagrado expresamente en el artículo 432 del Código Laboral aplicar el artículo 394 del Código de Procedimiento Civil, que regula los requisitos para dar por confeso al litigante ausente, pero sólo respecto de hechos asertivos.
+
+De esa forma, al no existir ningún hecho categóricamente afirmado en lo que respecta a la declaración de unidad económica de las demandadas, la declaración efectuada en base a la presunción por la no concurrencia de los absolventes sería del todo improcedente por infringir abiertamente las normas mencionadas.
+
+Concluye que este vicio influye sustancialmente en lo dispositivo del fallo al declarar que esa parte constituye unidad económica con la demandada principal, cuando de haberse respetado y aplicado correctamente las normas referidas, el tribunal debería haber tenido que descartar la presunción y rechazar la demanda en esa parte.
+
+Finaliza solicitando que se invalide el fallo que acoge la demanda en lo concerniente a estimar que las señaladas empresas constituyen una unidad económica y se dicte la respectiva sentencia de reemplazo que declare que las demandadas no constituyen esa unidad ni pueden ser consideradas como un mismo empleador respecto “del actor”, con costas.
+
+SEGUNDO: Que el recurso de nulidad laboral tiene por objeto, según sea la causal invocada, asegurar el respeto a las garantías y derechos fundamentales, o bien, conseguir sentencias ajustadas a la ley, como se desprende de los artículos 477 y 478 del Código del Trabajo, situación que igualmente determina el ámbito de revisión por parte de los tribunales superiores y que, como contrapartida, impone al recurrente la obligación de precisar con rigurosidad los fundamentos de aquellas que invoca, como asimismo, de las peticiones que efectúa.
+
+TERCERO: Que, en la especie, la parte invoca las dos hipótesis de invalidación previstas en el artículo 477 del Código del Trabajo, norma que dispone: “Tratándose de las sentencias definitivas, sólo será procedente el recurso de nulidad, cuando en la tramitación del procedimiento o en la dictación de la sentencia definitiva se hubieren infringido sustancialmente derechos o garantías constitucionales, o aquélla se hubiere dictado con infracción de ley que hubiere influido sustancialmente en lo dispositivo del fallo.”; apareciendo de su mera lectura, que ella determina dos situaciones diversas que dan pie para impetrar la nulidad del fallo, escenario en que no repara la recurrente.
+
+CUARTO: Que, sin perjuicio de lo anterior, cabe consignar que tratándose de la causal de nulidad sobre infracción de ley, corresponde al tribunal de alzada determinar el justo sentido y alcance de esta, tarea que debe efectuar analizando los hechos que se han dado por establecidos en la sentencia impugnada, sin que corresponda alterarlos por esta vía o agregar circunstancias fácticas diversas a las determinadas en el fallo. En consecuencia, este motivo de nulidad tiene por finalidad que la Corte verifique que el derecho haya sido aplicado correctamente a las circunstancias fácticas establecidas en la sentencia, las cuales son inamovibles.
+
+QUINTO: Que la sentencia impugnada en su considerando décimo segundo da por acreditado que las demandadas “CONSTRUCTORA UPC S.A” y U.P.C. DESARROLLOS INMOBILIARIOS S.A., ambas representadas por don Andrés Llodrá Daetz, y del mismo domicilio (Av. del Valle 524, of. 108, comuna de Huechuraba) constituyen una unidad económica; sustentando su conclusión en la confesional ficta y la falta de exhibición de los documentos solicitados: Escritura de Constitución de la sociedad Constructora UPC S.A. y UPC Desarrollos Inmobiliarios S.A.; Estatutos actualizados de las sociedades referidas; y, los Contratos de trabajo y anexos de contrato suscritos entre las sociedades Constructora UPC S.A. y UPC Desarrollos Inmobiliarios S.A. y los trabajadores.
+
+Luego señala en el considerando vigésimo tercero: “Que, tal como se tuvo por establecido, especialmente de la falta de comparecencia a absolver posiciones y por no exhibir los documentos societarios pedidos, unido a la circunstancia que ambos demandados tienen un mismo representante legal y han actuado en forma conjunta, la prueba incorporada, documental y testimonial, permiten dar cuenta que todas constituyen no solo un entramado societario, sino que éstas tienen giros complementarios y un mismo representante legal, lo que da cuenta de una dirección laboral común, razón por la cual corresponde acoger la demanda, también respecto al reconocimiento de la unidad económica pedida, siendo ambas demandadas igualmente responsables de las deudas laborales y previsionales que se generan”.
+SEXTO: Que, de lo anterior, se concluye en primer lugar que las alegaciones de la recurrente no pueden tener éxito puesto que la errónea aplicación de la ley -exige fidelidad a los hechos establecidos por el juzgador de base- tratarse de errores de derecho, prescripción que obliga a considerar que son presupuestos fácticos de la causa, los elementos en cuya virtud se probó la existencia de una unidad económica, entre estos, la dirección común, escenario que, no es posible modificar por medio de la causal de infracción de ley invocada.
+
+En segundo término, cabe destacar que el sentenciador contrariamente a lo que sostiene la recurrente, no fundamenta la existencia de unidad económica únicamente en la confesión ficta prevista en el artículo 454 N° 3 del Código del Trabajo, considerando al efecto otros antecedentes (prueba documental y testimonial) y desarrolla adecuadamente los motivos por los cuales presume efectiva dicha circunstancia; de manera que las supuestas infracciones denunciadas no tendrían influencia en lo dispositivo del fallo, ya que este considera para fundar su determinación otras probanzas, cuya aplicación no ha sido desvirtuada.
+
+SÉPTIMO: Que tampoco se advierte ni ha sido debidamente justificada la infracción a la garantía del debido proceso que mediante vulneración de ley acusa la recurrente, mediante la decisión adoptada por el juzgador al amparo del valor dado a las probanzas, apareciendo en este sentido que lo que dicha parte más que una infracción como la invocada lo que pretende es el cuestionamiento de la actividad de apreciación asignada privativamente al sentenciador del grado.
+En mérito de lo expuesto, citas legales y lo previsto en los artículos 477, 479, 481 y 482 del Código del Trabajo, se rechaza, sin costas, el recurso de nulidad deducido por la parte demandada UPC Desarrollos Inmobiliarios S.A., en contra de la sentencia de fecha quince de mayo de dos mil veinticuatro dictada por el Primer Juzgado de Letras del Trabajo de Santiago, en los autos RIT N° O-4620-2023, caratulados “Briones con UPC Desarrollos Inmobiliarios S.A. “, la que en consecuencia no es nula.
+Regístrese, notifíquese y comuníquese.
+
+Redactada por la ministra (S) Verónica Sepúlveda Briones, quien no firma por ausencia.
+Rol N° Laboral-Cobranza 1921-2024.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+1° Juzgado de Letras del Trabajo de Santiago
+
+Santiago, quince de mayo de dos mil veinticuatro.
+
+Vistos:
+
+Con fecha 3 de julio de 2023 comparecen don ANDRÉS MARCELO PEREDO URRA, rut 12.291.736-3, soltero, encargado de calidad en la construcción, domiciliado en calle Los benedictinos N°2428, depto. 39, comuna de Rancagua; don SERGIO ANTONIO MEDINA ESPINOZA, rut 17.736.962-4, soltero, ingeniero en prevención en riesgo, domiciliado en Padre Tadeo 4668, Quinta Normal; don FRANCISCO JAVIER CANTO SANTANDER, rut 16.902.140-6, domiciliado en Av. Echeñique 6181, La Reina; don NICOLÁS SEBASTIAN GOMEZ DIAZ, rut 15.642.227-4, soltero, ingeniero en construcción, jefe de oficina técnica, domiciliado en Las Malvas 286, depto 32 A, Las Condes; don LUIS ALFONSO BRIONES AGUAYO, rut 11.918.711-7, soltero, carpintero, domiciliado en El Alarife 13857, San Bernardo, deduciendo demanda de despido improcedente, declaración de unidad económica y régimen de subcontratación, nulidad del despido y cobro de prestaciones, en contra de “CONSTRUCTORA UPC S.A”, del giro de su denominación, legalmente representada por don ANDRÉS LLODRÁ DAETZ, ignoro profesión u oficio; y en contra de U.P.C. DESARROLLOS INMOBILIARIOS S.A., sociedad del giro inmobiliario, RUT 76.876.977-K, representada legalmente por don ANDRÉS LLODRÁ DAETZ, ignoro profesión u oficio, todos domiciliados en Av. del Valle 524, of. 108, comuna de Huechuraba, en virtud de la unidad económica; y, solidaria o subsidiariamente acorde al mérito del proceso en virtud de lo establecido en los artículos 183 A y SS. del Código del Trabajo atendida la calidad de empresa principal y/o, dueña de la obra a la sociedad, ESMERALDA S.P.A., RUT 76.876.977-K, sociedad del giro inmobiliario, e INMIBILIA S.A. 77.751.400-8, sociedad del giro inmobiliario, ambas representada legalmente por don GERARDO ANTONIO GARCIA MORALES, chileno, desconozco profesión u oficio, cédula de identidad n°8.481.961-1, domiciliados para estos efectos en Av. Apoquindo n°6419, oficina 701, Las Condes, Región Metropolitana, quienes comparecen asistidos por la misma apoderada judicial.
+
+Encontrándose debidamente emplazada, con fecha 20 de septiembre de 2023, las demandadas fueron contestadas: INMOBILIARIA ESMERALDA SpA INMOBILIA S.A., se encuentra agregada a folio 41: INMOBILIA S.A, a folio 43; CONSTRUCTORA UPC S.A. se encuentra agregada a folio 46 y UPC DESARROLLOS INMOBILIARIOS S.A., a folio 48.
+
+La audiencia preparatoria se llevó a cabo con fecha 23 de septiembre de 2023, se llamó a las partes a conciliación, la que no fue posible de alcanzar.
+
+La excepción de transacción y finiquito respecto del trabajador Sergio Antonio Medina Espinoza opuesta por parte demandada solidaria INMOBILIARIA ESMERALDA SpA fue acogida en los términos ahí planteados, luego que la contraria se allanara a la misma.La excepción de falta de legitimización pasiva opuesta por INMOBILIA S.A. se dejó para definitiva.
+
+Fijados los hechos pacíficos y los controvertidos, se determinó cuáles serían los medios de prueba que se incorporarían en la posterior audiencia de juicio; dejándose para definitiva la objeción a un video ofrecido como prueba.
+
+Celebrada la audiencia de juicio, con fecha 6 de mayo de 2024, se llevó a cabo la audiencia, con la comparecencia de los demandantes, salvo el trabajador Francisco Javier Canto Santander, asistidos por su abogado, don Pablo Cornejo Zambrano; y, las demandadas comparecen representadas por el abogado Rafael Ignacio Gálvez Zambrano, quien llegó tardíamente a la audiencia; y, la demandadas solidarias, representadas por la abogada doña Fabiola Ester Morales Fernández.
+
+Luego, se incorporó la prueba y luego de escuchar las observaciones finales, se informó que se dictaría sentencia la que, encontrándose la causa en estado, se dicta sin más trámite.
+
+CON LO OÍDO, VISTO Y CONSIDERANDO:
+
+PRIMERO: Que, por medio de la demanda deducida, se sirva tener por interpuesta demanda de despido improcedente, nulidad del despido, declaración de unidad económica y cobro de prestaciones, en contra de “CONSTRUCTORA UPC S.A” y U.P.C. DESARROLLOS INMOBILIARIOS S.A.; y, en forma solidaria o subsidiariamente acorde al mérito del proceso en virtud de lo establecido en los artículos 183 A y SS. del Código del Trabajo atendida la calidad de empresa principal y/o, dueña de la obra a la sociedad, ESMERALDA S.P.A., RUT 76.876.977-K, sociedad del giro inmobiliario, e INMIBILIA S.A. 77.751.400-8, sociedad del giro inmobiliario, todos domiciliados para estos efectos en Av. Apoquindo n°6419, oficina 701, Las Condes, Región Metropolitana, con el objeto que sea admitida a tramitación y, en definitiva, acogida en todas sus partes, con costas; y que se declare que:
+
+1.- Se declara que la relación laboral que los unió, hasta el 17 de mayo de 2023, es de naturaleza indefinida conforme lo expuesto y lo dispuesto en el artículo 10 bis del Código del Trabajo y toda otra norma legalmente pertinente.
+
+2. Que, entre las demandadas, CONSTRUCTORA U.P.C. S.A., empresa contratista, e INMOBILIARIA ESMERALDA S.P.A. e Inmobilia S.A, mandantes o dueñas de la obra, existe régimen de subcontratación de conformidad al artículo 183-A y siguientes del Código del Trabajo, y que, en consecuencia, son solidaria o subsidiariamente responsables de las obligaciones laborales, previsionales y legales de dar para con estos trabajadores.
+
+3. Que, entre las demandadas CONSTRUCTORA U.P.C. S.A., y UPC DESARROLLOS INMOBILIARIOS S.A., existe la calidad de único empleador.
+
+4. Que el despido de los trabajadores es injustificado; además de nulo, por lo que no han producido el efecto de poner término a nuestra relación laboral para efectos remuneracionales.
+
+5.- Que se condena a la demandada al pago de las siguientes prestaciones, respecto de los trabajadores que se indican:
+
+A)
+ANDRÉS MARCELO PEREDO URRA: 1) Indemnización sustitutiva por aviso previo, por $1.388.131; 2) Indemnización por 5 años de servicio por $6.940.655.- y, el recargo legal del 30%, por $2.082.196.-; 3) Remuneración por 17 días del mes de abril de 2022, por $786.607.-; 4) Feriado legal equivalente a $1.388.000.-; 5) Se ordene el pago de las cotizaciones de previsión y seguridad social por los períodos y en las instituciones siguientes: AFP HABITAT S.A., ISAPRE BANMÉDICA Y AFC CHILE correspondientes a marzo, abril y 17 días del mes de mayo, todo año 2023 y todas aquellas que se determine que se adeudan conforme al mérito del proceso; 6) El pago de las remuneraciones desde la fecha del despido y hasta su convalidación o la fecha de la dictación de la sentencia según el mérito de autos; 7) Devolución de descuento por subsidio de cesantía según se determine en el mérito del proceso.
+
+B)
+FRANCISCO JAVIER CANTO SANTANDER: 1) Indemnización sustitutiva por aviso previo, por $1.256.292-; 2.- Indemnización por 3 años de servicio por $3.768.876.- y, el recargo legal del 30%, por $1.130.663.-; 3.- Remuneración por 17 días de abril de 2022, por $711.899.-; 4.- Feriado legal y proporcional por 12,45839 días, equivalente a $1.256.292.-; 5.- Se ordene el pago de las cotizaciones de previsión y seguridad social por los períodos y en las instituciones siguientes: AFP HABITAT S.A., FONASA Y AFC CHILE correspondientes desde mayo del 2022, hasta mayo del 2023 y 17 días del mes de mayo del 2023; y todas aquellas que se determine que se adeudan conforme al mérito del proceso; 6.- El pago de las remuneraciones desde la fecha del despido y hasta su convalidación o la fecha de la dictación de la sentencia según el mérito de autos; 7.- Devolución de descuento por subsidio de cesantía según se determine en el mérito del proceso.
+
+C)
+SERGIO ANTONIO MEDINA ESPINOZA: 1) Indemnización sustitutiva por aviso previo, por $1.518.292-; 2) Indemnización por 8 años de servicio por $12.146.336.- y, el recargo legal del 30%, por $3.643.900.-; 3)
+
+Se ordene el pago de las cotizaciones de previsión y seguridad social por los períodos y en las instituciones siguientes: AFP CAPITAL declaradas y no pagadas en los meses de marzo, abril y mayo de 2023. Cotizaciones de ISAPRE COLMENA, declaradas y no pagadas, en los meses de diciembre de 2022, enero, febrero y marzo de 2023. Así como todas aquellas cotizaciones de AFC y otras adeudadas, conforme al mérito del proceso; 4) El pago de las remuneraciones desde la fecha del despido y hasta su convalidación o la fecha de la dictación de la sentencia según el mérito de autos; y, 5) Devolución de descuento por subsidio de cesantía según se determine en el mérito del proceso.
+
+D)
+NICOLÁS SEBASTIAN GOMEZ DIAZ: 1) Indemnización sustitutiva por aviso previo, por $1.462.068-: 2) Indemnización por 1 año de servicio por $1.462.068- y, el recargo legal del 30%, por $438.620.-; 3) Remuneración por 17 días del mes de mayo de 2023, por $830.205.-; 4) Feriado legal y proporcional por $731.034.-; 5) Se ordene el pago de las cotizaciones de previsión y seguridad social por los períodos y en las instituciones siguientes: AFP PROVIDA declaradas y no pagadas en los meses de marzo, abril y mayo de 2023. Cotizaciones de ISAPRE COLMENA, no declaradas ni pagadas en meses de diciembre de 2022 hasta mayo de 2023. Así como todas aquellas cotizaciones de AFC y otras adeudadas, conforme al mérito del proceso; 6) El pago de las remuneraciones desde la fecha del despido y hasta su convalidación o la fecha de la dictación de la sentencia según el mérito de autos; y, 7) Devolución de descuento por subsidio de cesantía según se determine en el mérito del proceso.
+
+E)
+LUIS ALFONSO BRIONES AGUAYO: 1) Indemnización sustitutiva por aviso previo, por $ 845.247.-; 2) Remuneración por 17 días del mes de mayo de 2023, por $ 478.973.; 3) Feriado legal y proporcional por 14 días por $ 394.448.-; 4) Se ordene el pago de las cotizaciones de previsión y seguridad social por los períodos y en las instituciones siguientes: Cotizaciones AFP PROVIDA declaradas y no pagadas en los meses de junio de 2022 hasta mayo de 2023 y cotizaciones de FONASA, declaradas y no pagadas, en los meses de junio de 2022 hasta mayo de 2023. Así como todas aquellas cotizaciones de AFC y otras adeudadas, conforme al mérito del proceso; 5) El pago de las remuneraciones desde la fecha del despido y hasta su convalidación o la fecha de la dictación de la sentencia según el mérito de autos; 6) Devolución de descuento por subsidio de cesantía según se determine en el mérito del proceso;
+
+6.- Las sumas demandadas y que se ordene pagar deben ser reajustadas, a las que se les debe aplicar, además, el interés máximo permitido para operaciones reajustables, según lo dispone el artículo 63 y 173 del Código del Trabajo.
+
+8.
+La expresa y ejemplificadora condena en costas de las contrarias si formularen oposición.
+
+Fundan su pretensión entregando los siguientes antecedentes de la relación laboral: a) Naturaleza del contrato de trabajo, fecha de ingreso y función desempeñada. En las fechas que se indican ingresaron a prestar servicios bajo vínculo de subordinación y dependencia para nuestro ex empleador, en los términos establecidos en el artículo 7° del Código del Trabajo, en virtud de un contrato con las características que se expresan a continuación:
+
+TRABAJADOR
+F. DE INGRESO
+CARGO
+
+ANDRÉS MARCELO PEREDO URRA
+23-05-2018
+INGENIERO
+
+FRANCISCO JAVIER CANTO
+SANTANDER
+01-10-2020
+INGENIERO
+
+SERGIO ANTONIO MEDINA
+ESPINOZA
+01-05-2015
+INGENIERO
+
+NICOLAS SEBASTIAN GOMEZ DIAZ
+03-05-2022
+JEFE DE TERRENO
+JUNIOR
+
+LUIS ALFONSO BRIONES AGUAYO
+09-08-2022
+MAESTRO
+
+Durante la vigencia de la relación laboral firmaron constantes y continuos contratos y anexos por diferentes etapas de obras o faenas de estas. De la última etapa de obra en la que trabajaron y de la que se los desvinculó sin que esta hubiese aún terminado, corresponde a la denominada “OBRA ESMERALDA”, correspondiente al denominado “EDIFICIO SAVIA”, ubicada en calle Esmeralda N°6540, comuna de La Cisterna, la cual es de propiedad o encargo de las demandadas solidarias.
+
+Entre las distintas obras y sus etapas que trabajaron para su ex empleador durante nuestros años de servicio, nunca firmaron finiquito alguno, por cuanto no cabe duda de que la relación laboral que los ligó es de naturaleza indefinida conforme lo dispuesto en artículo 10 bis del Código del Trabajo.
+
+b) Horario de Trabajo:
+Según consta de sus contratos de trabajo, cumplíanos con una jornada laboral de 45 horas semanales distribuidas de lunes a viernes, en horario de 08:00 a 13:00 horas, y de 14:00 a 18:00 horas, con 60 minutos destinados a colación.
+
+c) Remuneración:
+Consta en contrato de trabajo, liquidación de remuneración y otros documentos como se demostrará, que la remuneración estaba compuesta por: 1) Un sueldo base; 2) gratificación; 3) asignación de movilización; 4) Asignación de colación; y, otros estipendios fijos y permanentes.
+
+Con todo, para los efectos del artículo 172 del Código del Trabajo, señalan que su última remuneración mensual fue la siguiente:
+
+TRABAJADOR
+F. DE TÉRMINO
+REMUNERACIÓN
+
+ANDRÉS MARCELO PEREDO URRA
+17-05-2023
+$1.338.131
+
+FRANCISCO JAVIER CANTO
+SANTANDER
+17-05-2023
+$1.256.292
+
+SERGIO ANTONIO MEDINA
+ESPINOZA
+17-05-2023
+$1.518.929
+
+NICOLAS SEBASTIAN GOMEZ DIAZ
+17-05-2023
+$1.462.068
+
+LUIS ALFONSO BRIONES AGUAYO
+17-05-2023
+$845.247
+
+Los antecedentes del término de la relación laboral se refieren a la situación de los trabajadores frente a su empleador anterior.
+
+a) Respecto al despido:
+
+Aducen que siempre fueron excelentes trabajadores, cumpliendo a cabalidad con las exigencias de su ex empleador, incluso en circunstancias desfavorables como cambios en la obra que implicaban inconvenientes personales en términos de traslado y costos asociados. A pesar de esto, el ex empleador incurrió en continuos incumplimientos de sus obligaciones laborales, como no pagar cotizaciones previsionales, retrasar el pago de remuneraciones y extender los plazos de las obras de manera reiterada, afectando indirectamente su labor. A pesar de los reclamos y solicitudes de regularización, la situación empeoró con el tiempo, llevándolos incluso a considerar la renuncia voluntaria, a pesar de perder la indemnización correspondiente. Posteriormente, el 17 de mayo de 2023, al prepararse para iniciar sus labores, el ex empleador les entregó una carta de despido de forma personal, indicando que el despido sería efectivo ese mismo día, sin previo aviso. Solo en el caso de Nicolás Sebastián Gómez Díaz y Luis Alfonso Briones Aguayo, no se entregó una carta formal, sino que el despido se realizó verbalmente, sin aviso previo.
+
+b) Contenido de la carta:
+
+La carta de despido menciona como causal del término de la relación laboral el artículo 161 del Código del Trabajo, es decir, necesidades de la empresa. Sin embargo, el contenido de la carta es escueto, ambiguo e idéntico para todos los demandantes, diferenciándose únicamente en los montos de indemnización y fechas. Aunque la carta reconoce el periodo laboral y las indemnizaciones correspondientes, así como las cotizaciones previsionales adeudadas, estas últimas no han sido pagadas hasta la fecha de la presentación de la demanda.
+
+c) Incumplimientos de la demandada: Prestaciones adeudadas a instituciones de seguridad social:
+
+Se detallan los incumplimientos de cotizaciones previsionales y vacaciones proporcionales para cada uno de los demandantes, del modo que se indicó en el petitorio.
+
+II. Despido improcedente:
+
+En síntesis, se argumenta que el despido basado en las necesidades de la empresa no cumple con los requisitos legales y fácticos para su aplicación, según la doctrina y jurisprudencia. Además, se destaca que la carta de despido no menciona claramente los hechos ni la causal invocada, lo que complica la defensa de los trabajadores despedidos.
+
+III. Nulidad del despido:
+
+En síntesis, la demanda se sustenta en que, dado el al incumplimiento del empleador en el pago de cotizaciones previsionales, según el artículo 162 del Código del Trabajo se invalida el despido. Se menciona la interpretación de la Ley Interpretativa Nº 20.194, que obligaría a pagarles las remuneraciones hasta la fecha en que se le comunica formalmente a los trabajadores del pago de sus cotizaciones atrasada, citando jurisprudencia relacionada con el pago oportuno de cotizaciones previsionales.
+
+IV. Empleador único de demandados principales:
+
+Luego de explicar los fundamentos legales, doctrinarios y jurisprudenciales en relación a su petición, argumenta que las empresas CONSTRUCTORA UPC S.A. y EMPRESA UPC DESARROLLOS INMOBILIARIOS S.A. deben considerarse como un único empleador debido a la dirección laboral común, la complementariedad de giros y el controlador común entre ambas.
+
+Expresan que con fecha 28 de agosto de 2014 los mismos socios y dueños de CONSTRUCTORA UPC S.A fundan una nueva sociedad, EMPRESA UPC DESARROLLOS INMOBILIARIOS S.A., con igual representante legal, y trabajadores que prestaron labores para ambas empresas simultáneamente y trasladados desde una a otra. Añaden que eso les costa como trabajadores que la Inmobiliaria desde su creación realizó contratos de trabajos, comprobantes de liquidaciones de remuneraciones (con el mismo formato por las dos empresas), control, autorización de vacaciones, entre otros, para trabajadores de ambas empresas. Adicionalmente, tenían su domicilio ubicado en DEL VALLE N° 570, OFIC. 108, COMUNA DE HUECHURABA, sin embargo, en el 2020 EMPRESA UPC DESARROLLOS INMOBILIARIOS S.A se traslada de domicilio a una oficina ubicada a pasos de la Constructora (DEL VALLE N° 524, OFIC. 801, COMUNA DE HUECHURABA). Por otro lado, don ANDRÉS LLODRÁ DAETZ, representante legal de EMPRESA UPC DESARROLLOS INMOBILIARIOS S.A., es a su vez socio y gerente general y representante legal de CONSTRUCTORA UPC S.A. Todos estos antecedentes son indicios de la existencia de una unidad económica entre ambas empresas, además del hecho de que existe entre ellas un elemento de identidad de los servicios, e identidad de controladores. Siendo también relevante, entre otros indicios de esta unidad económica, lo siguiente: Hay una dirección laboral común, que recae en ANDRÉS LLODRÁ DAETZ. Compartían hasta el 2020 (desde el 2014) el mismo domicilio ubicado en DEL VALLE N° 570, OFIC. 108, COMUNA DE HUECHURABA. Entre las empresas existe complementariedad de giros entre las empresas, según se indica más adelante.
+
+Así, vemos que indefectiblemente existe una dirección laboral común, en donde hay complementariedad de giros, controladores, áreas de recursos humanos, documentos distintivos idénticos para todas las empresas y en general potestades de mando genéricas para las sociedades, todas sociedades pertenecientes a un único grupo empresarial, por lo que deberán ser todas las referidas empresas consideradas como un único empleador para estos efectos. Cabe indicar que la complementariedad de giros se puede apreciar en el sitio web del SII, al consultar la situación tributaria de terceros en donde se aprecia dicha identidad de giros.
+
+Por consiguiente, cada una de las sociedades que integra el grupo de empresas o unidad económica son solidariamente responsable de las responsabilidades empresariales.
+
+VI. Régimen de subcontratación:
+
+Se establece que el contrato de trabajo se realizó bajo régimen de subcontratación, haciéndose mención en la demanda acerca de la normativa aplicable a dicha figura legal; y se señala la responsabilidad solidaria de la empresa principal frente a las obligaciones legales y previsionales de la empresa contratista. Enfatizando que todas las prestaciones demandadas en la causa de autos se generaron durante la prestación de servicios requeridos por la empresa INMOBILIARIA S.A., quien encargó dichos servicios a su ex empleador.
+
+SEGUNDO: Que, al contestar la demanda la “CONSTRUCTORA UPC S.A”, se pide el rechazo de la demanda, negando formalmente los hechos contenidos en la demanda, en concreto, rechazo formalmente: 1. Existencia de una relación laboral; 2.En caso de acreditarse la existencia de esta, su fecha de inicio y fecha de término. 3. Que la causal de término sea considerada nula. 4. Que se les adeuden las indemnizaciones propias del término de la relación laboral. 5. Que se le adeude el feriado legal y proporcional reclamados y la cuantía de estos. 6. Que se le adeude cotizaciones previsionales. Y en general cualquier otro antecedente expuesto en la demanda.
+
+De esta forma, nada de lo afirmado por la parte demandante es efectivo en cuanto a los fundamentos de sus pretensiones. Niegan expresamente la existencia de los hechos contenidos en la demanda, debiendo acreditarse en el juicio. Esta parte controvierte la base de cálculo señalada por la actora en su demanda, debiendo acreditarse por ellos la misma; como también que se adeuden sumas por concepto de indemnización por años de servicio, horas extraordinarias, indemnización sustitutiva de aviso previo, feriado legal/proporcional, y cotizaciones previsionales.
+
+TERCERO: Que, la EMPRESA UPC DESARROLLOS INMOBILIARIOS S.A. contestó la demanda solicitando que ésta se rechazara, en aquella parte en que pide se declare injustificado el despido y que se le declare como único empleador, con costas, toda vez que no existiría una dirección laboral común, lo que constituye un requisito sine qua non para que pueda considerarse la circunstancia reclamada. Muy por el contrario, cada empresa actúa como empleadora de sus trabajadores, de forma independiente y soberana, sin que exista ni sean efectivos los hechos que se señalan en la demanda. Así, quedará en evidencia la inexistencia de una unidad económica entre las sociedades demandadas, pues no existe una dirección laboral común entre ellas ni se dan los demás supuestos que exige la ley para que puedan ser declaradas como tal. Señala que la demanda ni siquiera hace referencia a las razones por las que las demandadas serían una unidad económica, sino que se limita a describir, en abstracto, en que consiste la noción de unidad económica y establece la supuesta existencia de un controlador común, el cual no es señalado por la demandante, solamente afirmando su existencia. Continúa diciendo que, salvo la coincidencia de determinados accionistas, no se cumplen con ninguno de los requisitos para configurar la dirección laboral común. No existiendo entonces, un ejercicio común de las facultades de dirección, poder disciplinario y/o ius variandi. En este sentido se ha pronunciado la jurisprudencia de nuestros tribunales superiores de justicia, la que ha destacado que "para determinar la existencia de una unidad empresarial o holding, se requiere que las sociedades ejerzan la misma actividad o giros estrechamente relacionados o complementarios, funcionen en el mismo lugar y bajo una misma administración”, agregando que; “por el contrario si del estudio de los antecedentes aparece que las empresas revisten identidades jurídicas propias, sin elemento alguno en común o manifiestan una independencia fáctica que las distingue entre sí, no puede concluirse que exista dicho holding o unidad empresarial"1. De esta forma, la demandada señala que es una sociedad de inversiones, no tiene absolutamente ninguna relación con la demandada principal. De esta forma, la mera existencia de accionistas en común entre ellos y las otras empresas demandadas no importa la existencia de una dirección laboral común.
+
+CUARTO: Que, la demandada ESMERALDA S.P.A., al contestar la demanda de despido indirecto, nulidad del despido y cobro de prestaciones deducida, desde ya, se rechace la demanda en todas sus partes, con costas; controvirtiendo todos los antecedentes de hecho y de derecho que sirven de asidero a la demanda de autos. En concreto pide que: 1.- Que, se acoge la excepción de Transacción, finiquito y renuncia de acciones respecto del trabajador Sergio Medina, por lo que no su parte no puede ser parte del presente juicio respecto de dicho trabajador; 2.- Que no tienen ninguna responsabilidad en ninguno de los hechos reclamados por los demandantes de autos, por lo que se rechaza la demanda en su totalidad. 3.- Que no procede una responsabilidad solidaria de mi representada en ninguna de las peticiones de los demandantes de autos. 4.- Que, en subsidio de lo anterior, se les declare como subsidiariamente responsable de las obligaciones laborales del empleador, con el correspondiente beneficio de excusión y acotado al tiempo en que duró efectivamente el régimen de subcontratación. 5. Se condene en costas a los actores, especialmente al trabajador Sergio Medina por los antecedentes ya aportados en autos.
+
+Añade que Inmobiliaria Esmeralda, con fecha 15 de marzo de 2022 firmó contrato de construcción a suma Alzada con la empresa Constructora UPC S.A, RUT 76.207.028-6, para la construcción de un proyecto inmobiliario denominado Edificio SAVIA-ESMERALDA” ubicado en calle Esmeralda Nº 6540, comuna de La Cisterna, las que -concordando con el libelo- se iniciaron con fecha 06 de junio de 2022. Por lo tanto, dicen, a partir de dicha fecha tienen la calidad de Mandante en régimen de subcontratación respecto de los trabajadores contratados por la Constructora UPC para la ejecución de esa obra en específico. Dicho régimen se extendió hasta el 15 de mayo de 2023, fecha en la que la dan término al contrato de construcción debido a que la empresa constructora se encontraba en un estado económico deficiente, lo que finalmente los llevó a una Reorganización Judicial, siendo esa fecha también la que los trabajadores abandonaron efectivamente las obras. En virtud de la cesación de pagos de la empresa constructora respecto de sus obligaciones laborales y previsionales respecto de los trabajadores de la obra, la Inmobiliaria Esmeralda, haciendo efectivo su derecho de información y retención establecidos en los artículos 183-A y siguientes del Código del Trabajo se hicieron cargo de las remuneraciones de todos los trabajadores de la empresa UPC, entre los cuales se encuentran los demandantes de autos, pagando efectivamente a todos ellos la remuneración del mes de abril de 2023 y la remuneración del mes de mayo 2023.
+
+Reiterando que la relación contractual que existió entre ellos y la demandada principal, es la ya explicada, y que se circunscribe entre el 06 de junio de 2022 (inicio de las obras) y el 15 de mayo de 2023 (término de contrato); y no -como hacen creer los actores- duro toda se relación laboral, esto es desde el inicio de sus contratos de trabajo (de los que no tenemos conocimiento); pareciéndoles grave que, sabiendo los trabajadores que Esmeralda pagó efectivamente sus remuneraciones, y que se hizo cargo de los incumplimientos de su empleador, aun así, acusa abiertamente a esta empresa de “no haber hecho uso del derecho de información y retención conforme al Código del Trabajo” lo que es completamente falso y malintencionado de su parte.
+
+RESPECTO AL SUPUESTO DESPIDO Y SUS CAUSALES:
+
+Esta parte declara en este acto que tiene conocimiento de los incumplimientos de parte de la empresa constructora UPC para con los trabajadores de la obra Esmeralda de la que fueron mandantes. En ese sentido, dichos incumplimientos incluso los han afectado como empresa, teniendo que hacerse cargo de pagar por subrogación las obligaciones que nos correspondían como mandantes, respecto del periodo en que duró el régimen de subcontratación. Aun así, esta parte no puede tener responsabilidad alguna en las prestaciones que se demandan en autos por motivo de la acción de despido improcedente, debido a lo ya ampliamente explicado en los considerandos anteriores.
+
+RESPECTO AL COBRO DE PRESTACIONES RECLAMADO POR LOS DEMANDANTES:
+
+En relación a la demanda de cobro de prestaciones relativas a: indemnización por años de servicio, indemnización por falta de aviso previo, feriado legal y proporcional, diferencias de remuneración y recargo por concepto de despido indebido, niega y controvierte tener ningún tipo de responsabilidad en el pago de ninguno de dichos conceptos por todos los antecedentes que ventilados por esta parte en esta contestación.
+
+A saber, se desglosan las solicitudes de los trabajadores, ANDRÉS MARCELO PEREDO URRA, FRANCISCO JAVIER CANTO SANTANDER, SERGIO ANTONIO MEDINA ESPINOZA, LUIS ALFONSO BRIONES AGUAYO, las que son idénticos, de la siguiente manera, respecto de cada actor: a y b. Indemnización sustitutiva de aviso previo y por años de servicio: No corresponden dichos concepto por no haber sido nosotros el mandante durante toda la relación laboral como pretende el actor y por no constarnos tampoco su fecha de inicio. c. Recargo de 30% por despido improcedente: No corresponde dicho concepto por no ser ellos quienes despiden al trabajador. d. Remuneración por 17 días del mes de abril de 2022: no corresponde por no haber prestado servicios el trabajador en dicha fecha bajo régimen de subcontratación de ellos. e. Feriado legal: No corresponde a mi representada hacerse cargo de las prestaciones del trabajador, debido a que en el momento del término de la subcontratación su contrato se mantenía vigente, por lo que su derecho a feriado no se había devengado. f. Pago de cotizaciones y sanción por ley Bustos: Como ya se explicó esta parte no puede hacerse cargo de las cotizaciones ni de la sanción de nulidad del despido por no corresponder al mandante que ha ejercido sus derechos de información y retención. g. Devolución de AFC: No corresponde por no constarnos que se haya realizado.
+
+En relación al trabajador NICOLÁS SEBASTIAN GOMEZ DIAZ, éste presentó una renuncia voluntaria con fecha 02 de mayo de 2023, lo que desconoce en la presente demanda, demostrando su mala fe al interponer la presente acción reclamando prestaciones que no corresponden a la causal de término de contrato. Es por esto que no corresponde al trabajador ninguna de las prestaciones reclamadas por los conceptos de indemnización sustitutiva del aviso previo, indemnización por años de servicio, recargo por concepto de despido injustificado y devolución por concepto de descuento de seguro de cesantía. En cuanto a la remuneración de 17 días del mes de mayo de 2023, únicamente correspondería 2 días, no le correspondería al trabajador monto por no haber trabajado entre los días 3 y 17 de mayo de 2023-. Y, en cuanto a su feriado legal, no le corresponde hacerse cargo de las prestaciones del trabajador, por las razones ya señaladas; a igual que en relación al pago de cotizaciones y sanción por ley Bustos
+
+Respecto a la supuesta nulidad del despido, se insiste en que, habiendo ejercido los derechos de información y retención establecidos en el Código del Trabajo, y en base a la excepción de transacción y finiquito ya mencionada, no tienen ninguna responsabilidad respecto a la sanción de nulidad del despido, sanción que solo afecta al empleador de autos. Esta parte también realizó todos los esfuerzos para regularizar las cotizaciones previsionales de los trabajadores, para lo cual era necesario poder declarar al menos las mismas por medio de Previred, y como se demostrará, la constructora misma no tuvo ninguna intención de facilitar el pago de cotizaciones, incluso negándose a firmar un documento de pago por subrogación, para efectos de que las cotizaciones fueran pagadas desde el Previred del empleador pero con fondos de Esmeralda, lo que será demostrado en la oportunidad correspondiente. Además, la jurisprudencia está de acuerdo en que la sanción de nulidad del despido solo afecta a la empresa mandante en el caso de no haber ejercido los derechos de información y retención, los cuales en este caso sí se ejercieron plenamente.
+
+Es necesario destacar también que “a lo imposible nadie está obligado”, por lo que, si la empresa empleadora no declara las cotizaciones previsionales de sus trabajadores en el sistema, esta parte no podría pagar dichas cotizaciones, por no ser el empleador, y por no constar en el sistema que esos trabajadores prestaron servicios en los meses no declarados. Dicha obligación de declarar las cotizaciones no puede hacerse extensiva al mandante por ser responsabilidad exclusiva y única del empleador, no pudiendo realizarse la declaración por terceros.
+
+EN SUBSIDIO; En el caso de que Su Señoría llegara a estimar que no es suficiente para demostrar el haber ejercido los derechos laborales de información y retención en el régimen de subcontratación ya mencionado, aún habiendo pagado los sueldos de los trabajadores, se presentan las siguientes alegaciones:
+
+a) La responsabilidad solidaria reclamada es improcedente por haberse ejercido el derecho de información y retención (y pago de obligaciones) establecido en el artículo 183-C del Código del Trabajo:
+
+Sin perjuicio de lo ya expuesto, para el improbable evento que Su Señoría determinase la procedencia de las acciones deducidas por la contraria en contra de mi representada en alguna de sus partes, se hace presente a Su Señoría que es política general de la Empresa ejercer los derechos de información y retención consagrados en el artículo 183-C del Código del Trabajo, sin que este sea la excepción. Así pues, según se acreditará, durante todo el período en que el actor efectivamente hubiera prestado servicios en régimen de subcontratación en favor de mi representada, esto es, entre el 06 de junio de 2022 y el 15 de mayo de 2023, se ejercieron a cabalidad todos los derechos y obligaciones contenidos en los artículos 183-A y siguientes del Código del Trabajo, así como también las demás normas complementarias a las mismas, por consiguiente, no le cabría la responsabilidad solidaria demandada en caso de una eventual condena. En este sentido, y en virtud de lo establecido en el inciso primero del artículo 183-C del Código del Trabajo y el artículo 183-D, habiendo esta parte ejercido sus derechos de información y retención, deberán ser rechazadas las acciones solidarias interpuestas en contra de mi representada.
+
+b) Beneficio de excusión:
+
+Como bien ya se ha repetido de forma constante en esta contestación, en el caso de que Su Señoría estime que se debe acoger la demanda de autos en cualquiera de sus partes, habiendo mi representada ejercido el derecho de información ya mencionado, a lo más podríamos ser condenados de forma subsidiaria, y con la limitación de tiempo en que el trabajador efectivamente haya prestado servicios en régimen de subcontratación para mi representada. En dicho sentido, se opone el beneficio de excusión, de manera que solo podría hacerse efectiva nuestra eventual responsabilidad subsidiaria, y proporcional al tiempo de duración de la subcontratación, en la medida que se verifique que la demandada principal no da cumplimiento a una eventual condena.
+
+c) Respecto del límite acotado de tiempo de una eventual responsabilidad:
+
+En virtud del artículo 183-B del Código del Trabajo, la empresa principal será responsable de las obligaciones laborales y previsionales de los contratistas en favor de sus trabajadores, con la limitación específica del tiempo o periodo en que haya durado el régimen de subcontratación. Al respecto, cabe precisar que el demandante de autos acota el tiempo en que hubiera prestado servicios a esta empresa, por lo que en ningún caso corresponde a esta parte hacerse eventualmente cargo, ni solidaria ni subsidiariamente, de ningún tipo de remuneración, indemnización o prestación fuera de dicho período, no siéndonos imputable lo que haya sucedido con el trabajador con anterioridad a dicha fecha en que no tuvimos la calidad de mandantes.
+
+QUINTO: Que, la parte demandada solidaria INMOBILIA S.A., solicita el rechazo de la demanda, controvirtiendo todos los antecedentes de hecho y de derecho que sirven de asidero a la demanda de autos, por lo que será carga legal de la demandante acreditar sus dichos, niega tener nada que ver con los demandantes de autos, niega que haya existido un régimen de subcontratación respecto de los mismos, se niega haber tenido la calidad de mandante o dueño de la obra en la que los trabajadores dicen haber prestado servicios, ni tampoco es efectivo que esta parte sea de ninguna forma responsable por las obligaciones laborales y previsionales que los trabajadores reclaman.
+
+En consecuencia, primeramente, interponer la excepción de falta de legitimación pasiva respeto de todos los demandantes, en base a al artículo 183-A del Código del Trabajo, que cita, señalando que no concurre ninguna de dichas circunstancias entre el demandante, su empleador y la empresa INMOBILIA S.A, a saber: 1- No existe un acuerdo contractual entre INMOBILIA S.A y el empleador respecto de una prestación de servicios en dichas dependencias en que el demandante dice haber prestado servicios. 2.- Tampoco existe una relación contractual entre ellos y la empresa Inmobiliaria Esmeralda Spa como reclama el demandante. En este último punto es necesario mencionar que, lo que trata de hacer el demandante es establecer un supuesto régimen de subcontratación en cadena entre la empresa demandada principal Constructora Upc S.A, Inmobiliaria Esmeralda SpA y, como último eslabón de la cadena, Inmobilia S.A., pretendiendo que todas las prestaciones demandadas en la causa de autos se generaron durante la prestación de servicios requeridos por la empresa Esmeralda SpA, quien a su vez por encargo de Inmobilia S.A, ya individualizada, encargó dichos servicios; no obstante que -de ser real lo que el demandante señala- la empresa Inmobilia tendría la calidad de mandante o empresa principal de la cadena de régimen de subcontratación, siendo entonces la empresa Inmobiliaria Esmeralda un contratista para Inmobilia, y el empleador demandado principal sería un subcontratista de la empresa Esmeralda, lo que es absolutamente falso, no teniendo esta empresa la calidad de mandante para ninguna obra con la empresa demandada principal y por no tener ningún contrato de servicios con la empresa Esmeralda para la ejecución de ninguna obra. Ello es totalmente falso, y tampoco en la demanda se presenta ningún antecedente que haga siquiera suponer lo anterior. Para que ese fuera el caso, INMOBILIA S.A debería tener una relación civil con la empresa Esmeralda para el desarrollo de una obra o faena específica en la que haya prestado servicios el trabajador, lo que no es efectivo.
+
+También es necesario hacer presente que el demandante de autos tampoco entrega en su demanda ningún tipo de información respecto a, por lo menos, cuál sería la obra por la que reclama la subcontratación ni los periodos de ésta, por lo que para ellos es imposible probar en contrario algo que ni el demandante establece. Es más, en el petitorio de la demanda de autos, los demandantes se contradicen con la petición final que hacen solicitando lo siguiente: “Que, entre las demandadas, CONSTRUCTORA U.P.C. S.A., empresa contratista, e INMOBILIARIA ESMERALDA S.P.A. e Inmobilia S.A, mandantes o dueñas de la obra, existe régimen de subcontratación de conformidad al artículo 183-A y siguientes del Código del Trabajo”, la contradicción se evidencia en que al principio de la explicación de la supuesta subcontratación se trata de mostrar que el mandante era Inmobilia, pero luego, en el petitorio se pide que ambas demandadas, Inmobilia e Inmobiliaria Esmeralda sean declaradas AMBAS como dueñas de la obra y mandantes, lo que es falso y errado.
+
+Por lo ya mencionado, INMOBILIA S.A carece completamente de legitimación pasiva para ser demandada en autos, debido a que no concurren los requisitos para que exista un régimen de subcontratación entre el empleador de los demandantes y mi representada, y por lo demás, nunca ha existido ninguna relación de ningún tipo con la empresa demandada, lo que se demostrará en la etapa procesal correspondiente.
+
+CONTESTACIÓN DEL FONDO DE LA DEMANDA: Sin perjuicio de la excepción interpuesta en el numeral anterior, esta parte contesta la demanda de autos solicitando su total rechazo en todas sus partes, con costas, por no ser efectivos ninguno de los hechos en que se funda, recalcando que nunca ha existido ningún tipo de relación contractual con la demandada principal y mucho menos con el demandante de autos.
+
+RESPECTO A LOS SUPUESTOS INCUMPLIMIENTOS LABORALES: Señalan que no tiene conocimiento respecto de los hechos o circunstancias en que haya incurrido la empleadora y demandada principal de autos que han dado pie a los supuestos incumplimientos laborales de cotizaciones o de entrega de finiquito, ni tampoco hemos sido parte de los hechos relatados en la demanda.
+
+RESPECTO
+AL
+COBRO
+DE
+PRESTACIONES
+RECLAMADO
+POR LOS DEMANDANTES:
+
+En relación a la demanda de cobro de prestaciones relativas a: indemnización por años de servicio, nulidad del despido, indemnización por falta de aviso previo, feriado legal y proporcional y recargo por concepto de despido improcedente, niegan y controvierten tener ningún tipo de responsabilidad en el pago de ninguno de dichos conceptos por todos los antecedentes que ventilados por esta parte en esta contestación.
+
+RESPECTO A LA SUPUESTA NULIDAD DEL DESPIDO: También niegan y controvierte expresamente tener algún tipo de relación contractual ni de ningún tipo con la demandada de autos ni con la demandante, por lo que nada tiene que ver con la supuesta nulidad del despido de los trabajadores demandantes.
+
+RESPECTO AL SUPUESTO RÉGIMEN DE SUBCONTRATACIÓN: INMOBILIA S.A niega y controvierte que exista un régimen de subcontratación con la demandante de autos ni con el demandado principal, ni tampoco tenga la calidad de mandante de ninguna obra o faena en la que la empresa Constructora UPC haya prestado servicios a través de la empresa Esmeralda, también demandada solidaria de autos.
+
+SEXTO: Que, según audiencia preparatoria no son hechos controvertidos los siguientes: (1) Fecha de inicio; (2) Fecha de término; (3) Causal invocada, esto es, necesidades de la empresa; y, (4) remuneración de los trabajadores el tenor de la demanda.
+
+SÉPTIMO: Que, en consecuencia, corresponde analizar cuales son los hechos controvertidos:
+
+(a) Fundamento del despido, hechos y circunstancias relacionado al mismo. Contenido de la carta de despido y efectividad de los hechos allí descritos, cumplimiento de las formalidades legales respecto del envío de la misma.
+(b) Efectividad de adeudar la demandada al actor las siguientes prestaciones: (i) Feriado legal y/o proporcional; (ii) Remuneraciones; y, (iii) Cotizaciones de seguridad social. En la afirmativa, monto y períodos que se adeudan
+(c) Efectividad de constituir las demandadas, una Unidad Económica para ser considerado un empleador único, en los términos del artículo 3 del Código del Trabajo. Hechos, circunstancias y antecedentes que así lo acrediten; y,
+(d) Efectividad de haber prestado los actores servicios en régimen de subcontratación respecto de la demandada solidarias, en la asertiva, tiempo en el cual prestó servicios en dicha modalidad, efectividad de haber hecho uso las demandada del derecho de información y retención conforme lo dispone el artículo 183 C y siguientes del Código del trabajo.
+OCTAVO: Que, la parte demandante, incorporó prueba documental, confesional ficta, oficios y exhibición de documentos, del siguiente tenor:
+
+I.- Documental:
+
+1. En relación con el trabajador, don Andrés Marcelo Peredo: a) Contrato de trabajo de trabajo con UPC. S.A. de fecha 23 de mayo de 2018; b) Carta de término de contrato de trabajo de fecha 17 de mayo de 2023, por necesidades de la empresa, en que reconoce adeudar -además de las indemnizaciones por años de servicio y sustitutiva de aviso previo- también feriado legal; c) Certificado de Cotizaciones previsionales de fecha 30 de mayo de 2023, emitido por AFP Habitat, en que aparece que la cotización de abril está pendiente de pago; ; d) Cartola de Cotizaciones previsionales, de fecha 30 de mayo de 2023, emitido por Isapre Banmédica; y, Liquidaciones de sueldo de don Andrés Marcelo Peredo correspondiente a los meses de febrero, marzo y abril todos del año 2023.
+
+2. En referencia a don Francisco Canto Santander: a) Contrato de trabajo de fecha 1 de octubre del año 2020 con la demandada principal; b) Carta de término de fecha 17 de mayo de 2023, en que reconoce que -además de las indemnizaciones por años de servicio y sustitutiva de aviso previo- se le adeuda la suma de $ 429.594 por concepto de feriado legal; c) Comprobante de Carta de Aviso; d) Certificado de Deuda de Cotizaciones AFP Provida, en que no existe información respecto de las cotizaciones de marzo de 2023, no obstante que sí están los informes de febrero y abril, pagados por la constructora demandada; e) Liquidaciones de sueldo de don Francisco Canto Santander correspondiente a los meses de enero, febrero, marzo y abril todos del año 2023, apareciendo como C.Costo los 3 primeros meses, el de Avenida Perú 2 y desde abril de 2023, en “Esmeralda”;
+
+3. Con relación al demandante, don Sergio Antonio Medina Espinoza: a) Contrato de trabajo de fecha 1 de mayo del año 2015 con la demandada principal; b) Anexos de contrato, de fechas 01 de septiembre (como prevencionista en la Obra Petronila Plaza, de calle Santa Petronila N° 28, comuna de Estación Central) y 02 de noviembre ambos del año 2020 (como prevencionista en la Obra Edificio Briones Luco 0355, La Cisterna); c) Carta de término de Contrato de trabajo de fecha 17 de mayo de 2023, en que se reconoce adeudar -además de las indemnizaciones por años de servicio y sustitutiva de aviso previo- por concepto de feriado legal la suma de $ 851.921.-; d) Comprobante de Carta de Aviso para la terminación de contrato de trabajo; e) Certificado de Deuda de Cotizaciones previsionales, en que aparece que a mayo de 2023 se adeudaba la Isapre de los meses de abril de 2022 y la AFP CAPITAL declaró la remuneración de abril pero éstas no fueron pagadas;
+
+4) En relación al trabajador, don Nicolás Sebastián Gómez Díaz: a) Contrato de trabajo de fecha 3 de mayo del año 2022 con la demandada principal; b) Anexo de Contrato de don Nicolás Sebastián Gómez Díaz de fecha 1 de diciembre de 2022, como JEFE DE TERRENO JUNIOR en Obra Esmeralda ubicada en Esmeralda N°6540. La Cisterna; c) Certificado de Cotizaciones previsionales pagadas de fecha 30 de mayo de 2023, en que aparece que las liquidaciones correspondiente al mes de marzo fueron pagados el 25 de mayo, encontrándose impagos la cotización de abril de 2023; y en Banmedica, se encuentran impagos las cotizaciones de marzo en adelante; d) Liquidación de sueldo correspondiente al mes de febrero de 2023.
+
+5) En cuanto a don Luis Alfonso Briones Aguayo: a) Contratos de trabajo de fecha 9 de agosto del año 2022, (para la Obra Esmeralda Ubicada en Esmeralda N°6540. La Cisterna) y 1 de febrero de 2023 entre la demandada principal y don Luis Alfonso Briones Aguayo; y, b) Certificado de Deuda de Cotizaciones AFP Provida, no registrando información respecto de los meses de marzo de 2023, no obstante que sí están los informes de febrero y abril, pagados por la constructora demandada.
+
+II.- Confesional:
+
+Citado legalmente, no compareció don Andrés Llodrá Daetz, haciéndose efectivo el apercibimiento legal del modo que se indicará.
+
+III.- Oficios:
+
+1. Evacuado por la Dirección del Trabajo a objeto que informe si en la especie se dan los presupuestos que establece el artículo 3° inciso cuarto del Código del Trabajo.
+
+2. Evacuado por Previred, informando estado de pago de las cotizaciones previsionales de los demandantes para los periodos comprendidos entre los años 2021 y 2023.
+
+IV.- Exhibición de documentos: No se acompañaron:
+
+a) Comprobante de pago de cotizaciones previsionales de los demandantes; b)
+Escritura de Constitución de la sociedad Constructora UPC S.A. y UPC Desarrollos Inmobiliarios S.A.; c) Estatutos actualizados de las sociedades Constructora UPC S.A. y UPC Desarrollos Inmobiliarios S.A.; d) Contratos de trabajo y anexos de contrato suscritos entre las sociedades Constructora UPC S.A. y UPC Desarrollos Inmobiliarios S.A. y los trabajadores; e) Listado de trabajadores de UPC S.A. que trabajaron en la obra “Esmeralda”, ubicada en Esmeralda N°6540, La Cisterna; f) Tres últimas liquidaciones de sueldo de don Luis Alfonso Briones Aguayo, don Nicolás Sebastián Gómez Díaz y don Sergio Antonio Medina Espinoza.
+
+NOVENO: Que, la parte demandada principal UPS S.A. ofreció prueba documental, la que es del siguiente tenor: a) Certificados de vacaciones del trabajador Andrés Marcelo Peredo Urra, en que aparece que al 6 de enero de 2023 se le adeudaba la cantidad de 14,81 días de feriado; b) Certificados
+de vacaciones del trabajador Sergio Antonio Martínez Espinoza, en que aparece que al 23 de diciembre de 21 se autorizó 10 días hábiles, a contar del 17 de enero de 2022, con fecha de retorno el 31 de enero de 2022, quedando pendiente 9,24 días; al 6 de septiembre de 2022, se autorizaron otros 3 días, a contar del 7 de septiembre hasta el 09 de septiembre, restando 25,38 días pendientes; al 6 de septiembre de 2022, se autorizaron 1 días, a contar del 5 de septiembre, restando 24,21 días pendientes; al 27 de diciembre de 2022, se autorizaron otros 10 días, a contar del 6 de febrero hasta el 17 de febrero, restando 21,01 días pendientes; al 10 de abril de 2023, se autorizaron otros 10 días, a contar del 11 de abril hasta el 24 de abril, restando 12,75 días pendientes; al 4 de abril de 2023, se autorizó 1 día (6 de abril), restando 22 días pendientes; y, al 10 de abril de 2023, se autorizaron otros 10 días, a contar del 06 de febrero hasta el 17 de abril, restando 21,01 días pendientes;
+
+d) Carta de renuncia voluntaria del trabajador Nicolás Sebastián Gómez Diaz, cédula de identidad 15.642.227-4, del siguiente tenor, en el portal de la Dirección del Trabajo: “comunico a mi empleador CONSTRUCTORA UPC S.A, RUT 76.207.028-6, domiciliado en AVDA DEL VALLE N°570 108 Comuna HUECHURABA, mi voluntad de terminar el contrato de trabajo vigente por aplicación del número 2 del artículo 159 del Código del Trabajo, esto es renuncia voluntaria del trabajador. Conforme al artículo 177 del Código del Trabajo, ratifico mi voluntad de renunciar al contrato de trabajo ante la Dirección del Trabajo. Mi renuncia se hará efectiva a partir del día 02/05/2023; y,
+e) Carta de renuncia voluntaria del trabajador Luis Alfonso Briones Aguayo, suscrita ante la fiscalizadora, el día 28 de abril de 2023.
+
+DÉCIMO: Que, la parte demandada solidaria y/ subsidiaria la sociedad INMOBILIARIA ESMERALDA incorporó prueba documental y confesional, del siguiente tenor:
+
+I.- Documental:
+
+1. Contrato de construcción entre empresa UPC e Inmobiliaria Esmeralda, de fecha 15 de marzo de 2022, para la construcción y terminación del proyecto inmobiliario de 2 edificios de 20 pisos cada uno, más 1 subterraneo, ubicado en calle Esmeralda 6540, comuna de La Cisterna, denominado Edificio Savia- Esmeralda;
+
+2. Carta de término de contrato de construcción, por incumplimientos que se indica, de fecha 15 de mayo de 2023, enviado por la Inmobiliaria Esperanza a la Constructora UPC;
+
+3. Comprobante de envío de carta de término por correo certificado
+
+4. Reconocimiento deuda firmada por UPC respecto de pago de sueldos Abril 2023
+
+5. Acta notarial de recepción de obra, otorgado el 18 de Mayo de 2023, que indica: “Las siguientes cincuenta y cuatro (54) fotografías dan cuenta de la situación y estado actual de las obras realizadas en el proyecto denominado “Savia - Esmeralda”, a cargo de la constructora UPC S.A, Rut. 76.207.028-6, Permiso de Edificación: N°54.2020 / 29 abril 2020 , MP n°1 15-22 / 25 noviembre 2022. no apreciándose personal trabajando en el interior de la Obra en horario de funcionamiento normal de una obra de construcción al momento de la visita, lo cual observé personalmente el día de hoy, y que dichas fotografías pasan a formar parte de la presente acta”.-
+
+6. Renuncia voluntaria ante la Dirección del Trabajo de Nicolás Gómez Díaz, de fecha 2 de mayo de 2023;
+
+7. Escritura de transacción y renuncia de acciones entre el trabajador Sergio Medina Espinoza e Inmobiliaria Esmeralda, respecto de las remuneraciones demandadas, allanándose a la excepción de finiquito opuesta.
+
+8. Liquidación de sueldo de Abril de 2023 que se usó de base para el pago de sueldo de los siguientes trabajadores: Francisco Canto; Sergio Medina; Luis Briones y, Andrés Peredo; y, siendo un hecho pacíficos sus remuneraciones, la prueba es sobreabundante, no obstante que se tendrá presente, en relación a la prueba que se indica a continuación, en cuando a la responsabilidad solidarioa o subsidiaria que se demanda.
+
+9.- Comprobantes de pago de remuneraciones del mes de abril de 2023, a fin de restándole valor probatorio, por no haberse demandado, acreditándose únicamente que cumplió con la obligación de retención de las remuneraciones del mes de abril;
+
+10. Comprobante de entrega de vale vista mayo 2023.
+
+II.- Confesional:
+
+Citados a absolver posiciones, únicamente se hizo efectivo respecto del trabajador don Francisco Javier Canto Santander, el que no compareció a la audiencia, haciéndose efectivo el apercibimiento legal del modo que se indicará.
+
+UNDÉCIMO: Que, la parte demandada solidaria y/ subsidiaria la sociedad INMOBILIA únicamente rindió prueba confesional, solicitándose que se hiciera efectivo respecto del trabajador don Francisco Javier Canto Santander, el que no compareció a la audiencia, haciéndose efectivo el apercibimiento legal del modo que se indicará.
+
+DÉCIMO SEGUNDO: Que, analizado las probanzas rendidas en el juicio, de acuerdo a las reglas de la sana crítica, tomando en especial consideración la multiplicidad, gravedad, precisión, concordancia y conexión de las pruebas sintetizadas precedentemente, relacionándolos -también- con los hechos pacíficos, se tendrá por cierto los siguientes hechos en relación a los trabajadores que se indicarán:
+
+1.- Que, los actores demandantes, don Andrés Marcelo Peredo Urra, don Sergio Antonio Medina Espinoza, don Francisco Javier Canto Santander, don Nicolás Sebastian Gomez Diaz y don Luis Alfonso Briones Aguayo, prestaron servicios -en una relación laboral- para la “CONSTRUCTORA UPC S.A”, respectivamente desde 23 de mayo de 2018, 1 de octubre de 2020 y 1 de mayo de 2015.
+
+2.- Que, mediante contrato de construcción entre la CONSTRUCTORA UPC S.A e Inmobiliaria Esmeralda, de fecha 15 de marzo de 2022, la primera se obligó para la construcción y terminación del proyecto inmobiliario de 2 edificios de 20 pisos cada uno, más 1 subterraneo, ubicado en calle Esmeralda 6540, comuna de La Cisterna, denominado Edificio Savia- Esmeralda;
+
+3.- Que, durante el desarrollo de la obra, la Constructora UPC contrató, además, a los trabajadores a don NICOLAS SEBASTIAN GOMEZ DIAZ, por una remuneración ascendente a $1.518.929.- y a don LUIS ALFONSO BRIONES AGUAYO, por $845.247.-; respectivamente el 3 de mayo de 2022 y 9 de agosto de 2022, los que -a su vez- presentaron su renuncia a la CONSTRUCTORA UPC SA, respectivamente, el 2 de mayo de 2022 y el 28 de abril de 2022, cumpliendo las formalidades legales del despido, lo que se probó con los contratos de trabajo leídos y las cartas de renuncia extendidas un desde el portal de la Dirección del Trabajo y la otra, ante el fiscalizador de la Dirección del Trabajo;
+
+4.- Que, mediante carta certificada despachada por correo certificado con fecha 15 de mayo de 2023, la Inmobiliaria Esmeralda comunicó a la Constructora UPC del término del contrato de construcción, por incumplimientos, ingresando a la obra con fecha 18 de mayo de 2023, según acta notarial.
+
+5.- Que, con fecha 17 de mayo de 2023, la demandada CONSTRUCTORA UPC SA despidió -invocando la causal del inciso 1 del artículo 161 del Código del Trabajo y cumpliendo con las formalidades legales del despido- a los trabajadores ANDRÉS MARCELO PEREDO URRA, FRANCISCO JAVIER CANTO SANTANDER y SERGIO ANTONIO MEDINA ESPINOZA, lo que se probó con las cartas incorporadas en el juicio.
+
+6.- Que, en las cartas de despido enviadas, la CONSTRUCTORA UPC reconoce adeudar: a don ANDRÉS MARCELO PEREDO URRA, por concepto de indemnización sustitutiva de aviso previo ($ 1.338.131): e, indemnización por años de servicio ($ 6.443.332); a don FRANCISCO JAVIER CANTO SANTANDER, por concepto de indemnización sustitutiva de aviso previo ($ 1.256.292) e indemnización por años de servicio ($ 3.768.876)y a don SERGIO ANTONIO MEDINA ESPINOZA, indemnización sustitutiva de aviso previo ($ 1.256.292)e, indemnización por años de servicio ($ 3.768.876).
+
+7.- Que, en relación al feriado demandado:
+
+a) el empleador reconoció -en su carta de despido- adeudarle a ANDRÉS MARCELO PEREDO URRA, la suma de $1.043.270.-; a FRANCISCO JAVIER CANTO SANTANDER, la suma de $ 429.594; y, Sergio Antonio Medina Espinoza, reconoció adeudarle la suma de $ 851.921.-
+
+b) Que, respecto de los días de feriado legal devengados en relación a los trabajadores: NICOLAS SEBASTIAN GOMEZ DIAZ y LUIS ALFONSO BRIONES AGUAYO, la demandada no reconoció adeudar suma alguna, no obstante no incorporó medio de prueba tendiente a justificar que el demandante hizo uso de dicho feriado, o que se le indemnizó con anterioridad, por lo que se tendrá por cierto que les adeuda, respectivamente, la suma de $ 731.034.- y $ 394.448.-
+
+8.- Que, la demandada no extendió los finiquitos a que se encontraba obligado; y, las sumas ofrecidas en la Carta de despido a los trabajadores ANDRÉS MARCELO PEREDO URRA, FRANCISCO JAVIER CANTO SANTANDER y SERGIO ANTONIO MEDINA ESPINOZA, a título de indemnización por años de servicio y de indemnización sustitutiva de aviso previo y feriado legal reconocido, no han sido pagadas, lo que se tendrá por cierto por la falta de acreditación en orden a que dicha pena estuviera pagada; no obstante que respecto de este trabajador, la INMOBILIARIA ESPERANZA, posteriormente le pagó dicha cantidad.
+
+9.- Que, únicamente en relación a los días de trabajo demandados que, la demandada INMOBILIARIA ESPERANZA en cumplimiento de su deber de información y retención subrogó a la demandada COSTRUCTORIA UPC SA en el pago de las remuneraciones del mes de abril respecto de todos los trabajadores demandantes;
+
+10.- Que, a la fecha del despido, el empleador mantenía cotizaciones previsionales y de seguridad impagos,
+
+11.- Que las demandadas “CONSTRUCTORA UPC S.A” y U.P.C. DESARROLLOS INMOBILIARIOS S.A., ambas representadas por don ANDRÉS LLODRÁ DAETZ, y del mismo domiciliado (Av. del Valle 524, of. 108, comuna de Huechuraba) constituyen una unidad económica; lo que se tendrá por acreditado con la confesional ficta, unida a la falta de exhibición de los documentos solicitados (Escritura de Constitución de la sociedad Constructora UPC S.A. y UPC Desarrollos Inmobiliarios S.A.; Estatutos actualizados de las sociedades Constructora UPC S.A. y UPC Desarrollos Inmobiliarios S.A.; y, los Contratos de trabajo y anexos de contrato suscritos entre las sociedades Constructora UPC S.A. y UPC Desarrollos Inmobiliarios S.A. y los trabajadores.
+
+12.- Que,
+
+, en virtud de la unidad económica; y, solidaria o subsidiariamente acorde al mérito del proceso en virtud de lo establecido en los artículos 183 A y SS. del Código del Trabajo atendida la calidad de empresa principal y/o, dueña de la obra a la sociedad, ESMERALDA S.P.A., RUT 76.876.977-K, sociedad del giro inmobiliario, e INMIBILIA S.A. 77.751.400-8, sociedad d
+Unidad económica. …………
+
+……
+
+DÉCIMO CUARTO: Que, en relación a la causal de despido invocada, esto es, necesidades de la empresa, y cumplimiento de las formalidades legales, sin perjuicio del desarrollo cronológico de los hechos, teniendo en vista que los trabajadores despedidos prestaban servicios para la demandada desde antes del contrato de construcción del edificio en calle Esmeralda; y ante la defensa negativa de la propia demandada, que no sólo no rindió prueba para justificar la causal de despido, sino que además negó la existencia de la relación laboral, no obstante la abundante prueba documental existente que daba cuenta de ésta, además que -posteriormente- incorporó al juicio comprobante de feriado y renuncia de dos trabajadores.
+
+Dicha actuación procesal en caso alguno entenderse como un intento serio de cumplir con su obligación de justificar y probar la causal de despido invocada, la que -como se ha resuelto uniformemente una causal objetiva, que solo puede ser invocada por el empleador a partir de factores económicos externos ajenos a su voluntad.
+
+Frente a la falta de explicación de la demandada, no es posible comprender los motivos por los cuales el empleador dejó de cumplir con sus obligaciones, tanto con la empresa mandante, como con sus trabajadores. De este modo que pareciera ser que el origen de ello tiene su origen en la mera voluntad de la empresa, y no en situaciones graves que den cuenta que forzosamente debió adoptar procesos de modernización o de racionalización en el funcionamiento de la empresa; o que nos encontráramos frente a circunstancias financieras adversas, como bajas en la productividad o cambios en las condiciones del mercado.
+
+DÉCIMO QUINTO: Que, en consecuencia, corresponde declarar que los despedidos de los trabajadores ANDRÉS MARCELO PEREDO URRA, FRANCISCO JAVIER CANTO SANTANDER y SERGIO ANTONIO MEDINA ESPINOZA, han sido injustificados, correspondiendo que se les pague la indemnización por años de servicio con el recargo legal del 30%.
+
+DÉCIMO SEXTO: Que, respecto a la aplicación de la sanción prevista en el inciso quinto y siguientes del artículo 162 del Código del Trabajo, teniendo en consideración la fecha de despido (17 de mayo de 2023), época que se registraban cotizaciones previsionales y de seguridad social impagas, según lo que se constató del certificado de cotizaciones incorporadas en la audiencia, corresponde declarar la nulidad del despido pedida. En el mismo sentido, cabe tener presente que la denominada “nulidad del despido” no constituye, en realidad, una nulidad propiamente dicha, sino una sanción sui generis, de índole pecuniaria, establecida para el caso que el empleador no haya enterado las cotizaciones previsionales del trabajador, sanción consistente en el pago de las remuneraciones en forma íntegra desde el despido hasta su convalidación.
+
+DÉCIMO SEPTIMO: Que, teniendo presente que los trabajadores NICOLAS SEBASTIAN GOMEZ DIAZ y LUIS ALFONSO BRIONES AGUAYO, respectivamente el 2 de mayo de 2023 y 28 de abril de 2023 renunciaron a sus trabajos, no siendo -por tanto- despedidos, se rechazará la demanda de despido injustificado a su respecto; así como también la nulidad de despido, sin perjuicio de lo que se resolverá respecto de las demás prestaciones laborales a que tiene derecho.
+
+DÉCIMO OCTAVO: Que, en relación a los días trabajados de abril demandados, se oirá a la parte demandada INMOBILIARIA ESPERANZA en orden a que éstos fueron pagados por ellos, según se probó con las liquidaciones de sueldos incorporados de abril de 2023, comprobantes de transferencia electrónica, reconocimiento de deuda efectuado por la demandada principal y el finiquito respecto del Trabajador Gomez que se allanó a dicha excepción.
+
+DÉCIMO NOVENO: Que, en relación a los días trabajados del mes de mayo de 2023, respecto de los trabajadores Gomez y Briones, teniendo en consideración que el último renunció con fecha 28 de abril, corresponde rechazar íntegramente dicha pretensión; y respecto del trabajador Gomez, únicamente corresponderá el pago de 2 días, toda vez que renunció con fecha 2 de mayo.
+
+VIGÉSIMO: Que, en relación al feriado legal demandado, se acogerá lo pedido, en la proporción reconocido pagar en las cartas de despido de los trabajadores PEREDO, MEDINA y CANTO, puesto que de la prueba rendida en el juicio, no es posible determinar si el cálculo efectuado por el empleador en su carta se encuentra equivocado.
+
+Asimismo, en relación a los trabajadores que no se les envió carta de despido, por haber renunciado a sus trabajos, no habiéndose acreditado que se hubiere pagado efectivamente el feriado proporcional, se acoge lo pedido, en las sumas indicadas en el libelo.
+
+VIGESIMO PRIMERO: Que, habiéndose pedido, respecto de todos los trabajadores, la devolución de un descuento efectuado por aporte del empleador a la AFC, no habiéndose extendido finiquito alguno, no consta que se hubieren realizados, justamente, dichos descuentos, por lo que no corresponde acoger a dicha pretensión.
+
+VIGÉSIMO SEGUNDO: Que, en consecuencia, corresponde esclarecer la existencia de un empleador único de las demandadas principales y las demandandas solidarias y/o subsidiaria.
+
+Para ello resulta fundamental tener presente que el artículo 3º inciso 3º del Código del Trabajo define empresa, para los efectos de la legislación laboral y de seguridad social, toda organización de medios personales, materiales e inmateriales, ordenados bajo la dirección de un empleador, para el logro de fines económicos, sociales, culturales o benéficos, dotada de una individualizad legal determinada. Para que un conjunto de empresas se considere como una unidad económica, en los términos que establece la Ley en el inciso cuarto del artículo 3 del Código del Trabajo, que indica que “Dos o más empresas serán consideradas como un solo empleador para efectos laborales y previsionales, cuando tengan una dirección laboral común, y concurran a su respecto condiciones tales como la similitud o necesaria complementariedad de los productos o servicios que elaboren o presten, o la existencia entre ellas de un controlador común”. El inciso 5º del artículo 3º del Código citado dispone que la mera circunstancia de participación en la propiedad de las empresas no configura por sí sola alguno de los elementos o condiciones señalados en el inciso 4° antes referido.
+La jurisprudencia ha estimado el elemento fundamental para hablar de unidad de empresa, es la existencia de una “dirección laboral común”, el cual no puede faltar, aunque las otras “condiciones” sean diferentes a las mencionadas a título de ejemplo. En el mismo sentido, la jurisprudencia administrativa ha definido el poder de dirección laboral como “una serie de facultades o prerrogativas que tienen por objeto el logro del referido proyecto empresarial en lo que al ámbito laboral se refiere, y que se traducen en la libertad para contratar trabajadores, ordenar las prestaciones laborales, adaptarse a las necesidades del mercado, controlar el cumplimiento y ejecución del trabajo convenido y, sancionar las faltas o los incumplimientos contractuales del trabajador”. La misma línea jurisprudencia ha estimado que “no resulta suficiente el sólo vínculo propietario, toda vez que debe existir el ejercicio conjunto de la potestad de mando laboral en relación a los dependientes de las empresas vinculadas” (Ordinario Nº2856/162, de 30.08.2002 y Nº3406/054 de 03.09.2014).
+
+VIGÉSIMO TERCERO: Que, tal como se tuvo por establecido, especialmente de la falta de comparecencia a absolver posiciones y por no exhibir los documentos societarios pedidos, unido a la circunstancia que ambos demandados tienen un mismo representante legal y han actuado en forma conjunta, la prueba incorporada, documental y testimonial, permiten dar cuenta que todas constituyen no solo un entramado societario, sino que éstas tienen giros complementarios y un mismo representante legal, lo que da cuenta de una dirección laboral común, razón por la cual corresponde acoger la demanda, también respecto al reconocimiento de la unidad económica pedida, siendo ambas demandadas igualmente responsables de las deudas laborales y previsionales que se generan.
+
+En efecto, habiéndose acreditado que entre las demandadas existen relaciones de propiedad, control y administración que determinan su funcionamiento como unidad: todos los demandados conforman una unidad económica, que conforme lo ha descrito la doctrina "se caracterizan porque las sociedades y/o personas individuales que los integran, aún siendo independientes entre sí desde una perspectiva formal, actúan, sin embargo, con arreglo a criterios de subordinación que permiten identificar más de aquella pluralidad, una cierta unidad económica (Sergio Gamonal Contreras "La libertad sindical y los grupos de empresas", Revista Laboral Chilena Nº91, noviembre de 2000, Pág. 49 y siguientes); existiendo una dirección laboral común ejercida por el representante de la demandada, respecto de las cuales concurren además condiciones tales como la similitud y complementariedad de los productos o servicios que elaboran o prestan, debe considerarse que existe una unidad económica.
+
+Sin embargo, no se accederá a la petición de declaración de subterfugio, por cuanto de los antecedentes del proceso no es posible arribar a la conclusión que la conducta desplegada por las demandadas sea dolosa.
+
+VIGÉSIMO CUARTO: Que, en cambio, no se ha probado, la existencia de una unidad económica entre ESMERALDA S.P.A. e INMIBILIA S.A. 77.751.400-8, no siendo suficiente para ello el informe de la Dirección del Trabajo, la que -por lo demás- carece de elementos que permita sostener que entre los mismos existencias de indicios de dirección laboral común.
+
+VIGÉSIMO QUINTO: Que, en relación a la petición de ESMERALDA S.p.A. en orden a limitar su obligación, hasta el término del contrato, pretendiendo -por tanto- que no es responsable de las demás obligaciones laborales y previsionales de la Contratista CONSTRUCTORA UPC se tendrá presente lo dispuesto en el artículo 183 B del Código del Trabajo.
+
+Dicha norma establece que la empresa principal debe responder de las obligaciones laborales y previsionales de dar que afecten a los contratistas en favor de los trabajadores de éstos, incluidas las eventuales indemnizaciones legales que correspondan por el término de la relación laboral, la que estará limitada al tiempo en que los trabajadores prestaron servicios en subcontratación.
+Apareciendo de los antecedentes que el vínculo contractual entre la empresa principal y la contratista se encontraba vigente a la fecha de la renuncia de los trabajadores Sr. Gomez y Sr. Briones, deberá responder del feriado legal demandado y de las cotizaciones previsionales no pagadas.
+
+En el caso de los restantes trabajadores, cuyo despido se materializó a los 2 días del despacho de la carta certificada por la cual la empresa principal comunica al contratista de no perseverar en el contrato, y teniendo en consideración que se constituyó en las obras, junto con un ministro de Fe a los 3 días de enviada la carta, se entiende que debe responder por todas las obligaciones laborales y previsionales de dar.
+
+VIGÉSIMO SEXTO: Que, teniendo en consideración que, no obstante la empresa principal subrogó en el pago de la remuneración de abril de los trabajadores demandantes, no lo hizo en relación a las obligaciones previsionales, por lo tanto, deberá responder solidariamente de las obligaciones que se establecerán, por no haber hecho efectivo el deber de retención.
+
+En efecto, de la prueba rendida en el juicio únicamente fue posible concluir que la empresa principal pagó por subrogación a los trabajadores las remuneraciones de abril de 2023, lo que no significa de modo alguno que hubiere ejercido el derecho de información y, luego, el deber de retención en el modo que exige el artículo 183 C.
+
+Por estas consideraciones, y visto, además, lo dispuesto en los artículos 3, 4, 7, 41, 54, 55, 63, 63 bis, 67, 71, 73, 161, 162, 168, 172, 173 y siguientes, 183 B, C y D, 423, 446, 499 y 500 del Código del Trabajo; 1698 del Código Civil, y demás disposiciones legales aplicables, se declara:
+
+I.- Que se acoge la demanda promovida en contra de “CONSTRUCTORA UPC S.A” y U.P.C. DESARROLLOS INMOBILIARIOS S.A.; y, en forma solidaria, atendida la calidad de empresa principal y/o, dueña de la obra a la sociedad, ESMERALDA S.P.A., RUT 76.876.977-K, solo en cuanto que se declare que:
+
+1.- Que, el despido a los trabajadores ANDRÉS MARCELO PEREDO URRA, FRANCISCO JAVIER CANTO SANTANDER y SERGIO ANTONIO MEDINA ESPINOZA, han sido injustificados, razón por la cual se les deberá pagar las siguientes sumas:
+
+A)
+ANDRÉS MARCELO PEREDO URRA: 1) Indemnización sustitutiva por aviso previo, por $1.388.131; 2) Indemnización por 5 años de servicio por $6.940.655.- y, el recargo legal del 30%, por $2.082.196.-;
+
+B)
+FRANCISCO JAVIER CANTO SANTANDER: 1) Indemnización sustitutiva por aviso previo, por $1.256.292-; 2.- Indemnización por 3 años de servicio por $3.768.876.- y, el recargo legal del 30%, por $1.130.663.-; y,
+
+C)
+SERGIO ANTONIO MEDINA ESPINOZA: 1) Indemnización sustitutiva por aviso previo, por $1.518.292-; 2) Indemnización por 8 años de servicio por $12.146.336.- y, 3) el recargo legal del 30%, por $3.643.900.-.
+
+2.- Que, se les condena al pago de las siguientes prestaciones, respecto de los trabajadores que se indican:
+
+a) Feriado legal: (i) ANDRÉS MARCELO PEREDO URRA, la suma de $1.043.270.-; (ii) FRANCISCO JAVIER CANTO SANTANDER, la suma de $ 429.594; (iii) SERGIO ANTONIO MEDINA ESPINOZA la suma de $ 851.921.-; (iv) NICOLAS SEBASTIAN GOMEZ DIAZ, la suma de $731.034.-; y, (v) LUIS ALFONSO BRIONES AGUAYO, y $ 394.448.-
+
+b) Días trabajados de mayo: NICOLAS SEBASTIAN GOMEZ DIAZ: $ 97.417.-
+II.- Que, no constante en estos antecedentes la convalidación del despido, el despido de que fue objeto no produjo el efecto de poner término al contrato de trabajo, por no haberse enterado íntegramente las cotizaciones de seguridad social y en consecuencia las partes demandadas, son condenadas al pago de las remuneraciones, cotizaciones de seguridad social y demás prestaciones derivadas de la relación laboral, de don ANDRÉS MARCELO PEREDO URRA, considerándose que percibe una remuneración de $1.388.131; FRANCISCO JAVIER CANTO SANTANDER, la suma de $1.256.292-; y, SERGIO ANTONIO MEDINA ESPINOZA, por $1.518.292-
+
+III.- Que, la demandadas, deberán pagar las cotizaciones de los demandantes, debiendo oficiarse a las instituciones previsionales correspondientes, a fin que éstos inicien el cobro judicial, en el caso
+
+IV.- Que, todo lo anterior con los intereses y reajustes de conformidad a los artículos 63 y 173 del Código del Trabajo.
+
+VI. Que, no habiendo sido totalmente vencido, cada parte pagará sus costas.
+
+Ejecutoriada que sea la presente sentencia, cúmplase lo dispuesto en ella dentro de 5° día, en caso contrario certifíquese dicha circunstancia, pasen los antecedentes al Juzgado de Cobranza laboral y Previsional, de esta ciudad.
+
+Regístrese, notifíquese y archívense los antecedentes en su oportunidad.
+RIT: O-4620-2023
+RUC: 23- 4-0495514-4
+
+Pronunciada por doña LUZ ADRIANA CELEDON BULNES, Jueza Titular del Primer Juzgado de Letras del Trabajo de Santiago.
+En Santiago a quince de mayo de dos mil veinticuatro, se notificó por el estado diario la sentencia precedente.
+San Martín #950 Santiago – Fono 02-9157000
+
+Correo Electrónico jlabsantiago1@pjud.cl

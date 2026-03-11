@@ -1,0 +1,67 @@
+METADATA
+
+case_id: 182d347f7d2125df796ceb8116ff7f4e85579988
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7964065
+
+rol: 51861-2025
+
+fecha_sentencia: 2025-12-18
+
+caratulado: VACA/SERVICIO NACIONAL DE. MIGRACIONES
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+
+recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, dieciocho de diciembre de dos mil veinticinco.
+Vistos:
+Se confirma la sentencia apelada de fecha catorce de noviembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Concepción.
+Regístrese y devuélvase.
+
+Rol N° 51.649-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Concepción
+Concepción, catorce de noviembre de dos mil veinticinco.
+
+Visto y teniendo presente:
+
+Primero: Que, con fecha 18 de agosto de 2025, comparece don Sergio Desiderio Cabrera Placencia, abogado de la Corporación de Asistencia Judicial de la Región del Biobío, en representación de don Juan Carlos Ramos Álvarez, de nacionalidad colombiana, C.C. N° 1.235.239.767, domiciliado en la comuna de Lebu. Interpone acción de reclamación de expulsión (artículo 141 Ley 21.325) en contra de la Dirección Nacional del Servicio Nacional de Migraciones, por haber dictado la Resolución Exenta N° 25400941, de fecha 28 de julio de 2025, notificada el 11 de agosto de 2025, que dispuso su expulsión del territorio nacional y la prohibición de ingreso al país por 5 años.
+
+La reclamación se funda en que el recurrente ingresó al territorio nacional el 26 de marzo de 2024, por un paso no habilitado en Colchane, junto a su pareja, Julie Carolina Pernia Palmar, su hijo Ian Alessandro Ramos Pernia (4 años) y sus dos hijastras (15 años). Alega que la orden de expulsión es desproporcionada e irracional y que no ponderó adecuadamente las circunstancias personales y familiares exigidas por el artículo 129 de la Ley N° 21.325. Destaca que no tiene antecedentes penales ni reiteración de infracciones migratorias, mantiene un trabajo informal estable como cargador de camiones en Lebu (ingresos cercanos a $600.000), y que su grupo familiar está inscrito en Fonasa y sus hijos asisten a centros educativos en Lebu. Argumenta que se vulneran principios fundamentales como el pro homine, el interés superior del niño, y la protección de la unidad familiar. Además, señala que la prohibición de ingreso por 5 años se aplicó sin un procedimiento administrativo previo que permitiera su derecho a defensa.
+
+Segundo: Que, con fecha 10 de octubre de 2025, comparece don Ricardo Alejandro Esteban Sáez Marty, abogado del Servicio Nacional de Migraciones, evacuando el informe requerido. Solicita el rechazo del recurso en todas sus partes, sosteniendo que la resolución impugnada fue dictada por autoridad competente, con estricto apego a la normativa legal vigente (Ley N° 21.325 y su Reglamento).
+
+El Servicio expone que el reclamante, Juan Carlos Ramos Alvarez, ingresó de forma irregular, eludiendo el control policial (Parte Policial N° 212 de 12/11/2024), lo que constituye una infracción al artículo 32 N° 3 en relación con el artículo 127 N° 1 de la Ley 21.325. Afirma que se le notificó el inicio del procedimiento sancionatorio el 8 de julio de 2025, otorgándole un plazo de 10 días para realizar descargos y acompañar antecedentes relevantes. Sin embargo, el extranjero no remitió a la autoridad migratoria sus descargos dentro del plazo establecido. El Servicio sostiene que la expulsión fue resuelta ponderando las circunstancias del artículo 129 de la ley con los antecedentes disponibles: si bien no registra antecedentes delictuales ni reiteración de infracciones migratorias, no acreditó vínculos familiares que cumplieran con el supuesto del artículo 129 N° 5 o N° 6 (cónyuge, conviviente o hijos con residencia definitiva o chilenos). Además, el trabajo es informal y no autorizado. Concluye que la infracción es grave, vulnera la protección de las fronteras y la migración segura, y que, al no existir mecanismos legales para regularizar a quienes ingresan por paso no habilitado, la expulsión es la única medida aplicable. Además, informa que la pareja del recurrente, Julie Carolina Pernia Palmar, también fue expulsada con una prohibición de ingreso de 5 años mediante la Resolución Exenta N°25400938 de la misma fecha.
+
+Tercero: Que, entrando al fondo del recurso, de la revisión de los antecedentes, es claro que la Resolución Exenta N° 25400941, que el recurrente impugna, en efecto fue dictada por la autoridad competente, es decir, por el Director Nacional del Servicio Nacional de Migraciones, titular de dicha facultad en mérito de los artículos 157 N° 7 y 132 inciso primero de la Ley de Migraciones.
+
+Cuarto: Que, de otro lado, la causal legal en la que se funda la medida de expulsión se encuentra expresamente contemplada en la ley. El artículo 127 N° 1 de la Ley N° 21.325 establece como causal de expulsión que una persona migrante ingrese al país por un paso no habilitado, lo que constituye una prohibición de ingreso imperativa según el artículo 32 N° 3 de la misma ley. Se encuentra acreditado que el reclamante ingresó al país por un paso no habilitado, eludiendo el control migratorio, configurándose así el supuesto de hecho que faculta a la autoridad migratoria para aplicar la medida de expulsión.
+
+Quinto: Que, por otra parte, en cuanto a la ponderación de las "consideraciones previas" establecidas en el artículo 129 de la Ley N° 21.325, el Servicio Nacional de Migraciones inició el procedimiento sancionatorio, notificando al reclamante el 8 de julio de 2025 y otorgándole el plazo legal de 10 días hábiles para realizar sus descargos y aportar antecedentes relevantes. Sin embargo, el Servicio afirmó que el reclamante no presentó descargos dentro del plazo establecido. Consta que la autoridad migratoria ponderó, con los antecedentes que obraban en su poder: 1. Gravedad de los hechos: Se consideró grave el ingreso por paso no habilitado, por vulnerar los bienes jurídicos de la protección de las fronteras y la migración segura, ordenada y regular. 2. Antecedentes delictuales: No mantiene antecedentes delictuales. 3. Reiteración de infracciones: No registra reiteración de infracciones migratorias. 4. Residencia regular: Ingresó por paso no habilitado, no teniendo residencia regular. 5. Vínculos N° 5 (Cónyuge/Padres con residencia definitiva o chilenos): No acredita vínculos familiares de los mencionados. 6. Vínculos N° 6 (Hijos chilenos o con residencia definitiva): No acreditó vínculos familiares de los mencionados en este numeral. Si bien el reclamante tiene hijos en el país, el Servicio determinó que no cumplen con la calidad de chilenos o extranjeros con residencia definitiva exigida por el artículo 129 N° 6. Y 7. Contribuciones: No acreditó haber realizado contribuciones de índole social, política, cultural, artística, científica o económica. Además, si bien el extranjero presentó documentación laboral, esta no estaba habilitada o autorizada por la autoridad para ejercer labores remuneradas.
+
+La autoridad migratoria cumplió con ponderar los antecedentes que le fueron proporcionados y aquellos que obraban en su poder. La circunstancia de que el reclamante no haya presentado sus descargos limitó los elementos adicionales que el Servicio Nacional de Migraciones pudo considerar para una ponderación más exhaustiva de sus circunstancias personales, especialmente en relación con la protección de la unidad familiar y el interés superior del niño.
+
+Sexto: Que, de lo anterior, es claro que el reclamante incurrió en una de las infracciones calificadas por el legislador como graves, al haber faltado al requisito básico de ingresar por un paso habilitado. El derecho a migrar y residir en el territorio nacional está condicionado al deber de respetar el ordenamiento jurídico interno. La medida de expulsión, en este contexto, es la consecuencia a la grave infracción a este deber. Si bien el reclamante invoca la vulneración de principios del Derecho Internacional Humanitario y la Ley N° 21.325 (como pro homine y unidad familiar), estos argumentos requieren de una base fáctica debidamente acreditada en el procedimiento administrativo para su aplicación concreta, lo que en este caso no ocurrió por la omisión del recurrente al no ejercer su derecho a defensa en la etapa administrativa.
+
+Séptimo: Que, solo queda concluir que el acto administrativo impugnado (Resolución Exenta N° 25400941) no presenta vicio alguno que signifique la vulneración del principio de juridicidad, por cuanto fue dictado por funcionario competente y dentro del ámbito de sus atribuciones legales, motivado por un presupuesto legal expreso (ingreso irregular). La decisión de imponer una prohibición de ingreso por 5 años se enmarca en las facultades legales del Servicio Nacional de Migraciones, conforme al artículo 136 de la Ley N° 21.325, que establece un rango de 3 a 5 años para infracciones a la ley. Al haberse realizado la ponderación de los elementos del artículo 129 de la ley, con los antecedentes disponibles, la decisión sobre el plazo de prohibición se encuentra dentro del marco de la discrecionalidad reglada de la autoridad, sin que se advierta arbitrariedad en este Tribunal.
+
+Por estas consideraciones y visto, además, lo dispuesto en las normas legales citadas, SE RECHAZA, sin costas, el reclamo deducido por el abogado don Sergio Desiderio Cabrera Placencia, en representación de don Juan Carlos Ramos Álvarez, contra la Resolución Exenta N° 25400941 de fecha 28 de julio de 2025, dictada por el Servicio Nacional de Migraciones.
+
+Regístrese, notifíquese y archívese en su oportunidad.
+
+Redactada por el ministro Rodrigo Arnoldo Cortés Gutiérrez, quien no firma por encontrarse haciendo uso de permiso.
+
+Rol N° 239-2025. Contencioso Administrativo.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, dieciocho de diciembre de dos mil veinticinco.Vistos:Se confirma la sentencia apelada de fecha catorce de noviembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Concepción.Regístrese y devuélvase.Rol N° 51.649-2025. Santiago, dieciocho de diciembre de dos mil veinticinco.Vistos:Se confirma la sentencia apelada de fecha catorce de noviembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Concepción.Regístrese y devuélvase.Rol N° 51.649-2025. Sentencia anonimizada
