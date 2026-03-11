@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7977185
 
 rol: 54886-2025
 
-fecha_sentencia: 2025-12-29
+fecha_sentencia: 2025-12-30
 
 caratulado: LEON PEÑA FELIX CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
