@@ -1,0 +1,125 @@
+METADATA
+
+case_id: 90ee5c3bef7d87ea7ac89b4a1a5d41a793bf4e7f
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8054642
+
+rol: 7894-2026
+
+fecha_sentencia: 2026-03-09
+
+caratulado: OIGNAC GARDY CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, nueve de marzo de dos mil veintiséis.
+Vistos:
+De la sentencia en alzada se mantiene únicamente su parte expositiva.
+
+Y teniendo presente:
+Primero: Que el recurso de protección de garantías constitucionales establecido en el artículo 20 de la Constitución Política de la República constituye jurídicamente, una acción de evidente carácter cautelar, destinada a amparar el legítimo ejercicio de las garantías y derechos preexistentes que, en esa misma disposición se enumeran, mediante la adopción de medidas de resguardo que se deben tomar ante un acto arbitrario o ilegal que impida, amague o perturbe ese ejercicio.
+
+Segundo: Que, conforme se puede desprender del escrito que contiene el recurso deducido, el acto que se estima ilegal y arbitrario radica en la circunstancia de haberse dictado, por el Director Regional Tesorero-Juez Sustanciador del juicio ejecutivo seguido en el expediente administrativo Rol N° 10075-2024 de la Tesorería Regional de Temuco, una resolución mediante la cual se declaró extemporánea la excepción de prescripción opuesta a la ejecución por el actor, todo ello en el marco del procedimiento establecido en el Título V del Libro Tercero del Código Tributario denominado "Del cobro ejecutivo de las obligaciones tributarias en dinero", que consagra un procedimiento ejecutivo especial para el cobro de las obligaciones tributarias en dinero.
+
+En efecto, consta del referido expediente administrativo, cuyas compulsas se encuentran agregadas en la carpeta digital, que mediante resolución de 16 de octubre de 2024, dictada por doña Claudia Andrea Guajardo Arriagada, Director Regional Tesorero-Juez Sustanciador, Región de la Araucanía, en el Expediente Administrativo Rol N° 10074-2024 Toltén, se negó lugar a la solicitud de prescripción efectuada por el actor, respecto de todos los folios cuyo cobro se persigue en el referido expediente, por extemporánea, decisión que fue impugnada por el actor, siendo los recursos desestimados por la juez substanciadora mediante resolución de 6 de enero de 2025.
+Tercero: Que, en dicho contexto, cabe tener presente que la jurisprudencia reiterada de esta Corte ha asentado el criterio general de que esta acción constitucional no procede en contra de las resoluciones libradas por un juez y que, estando una controversia sometida al imperio del derecho, no procede, entonces, otorgar amparo constitucional.
+Cuarto: Que, en consecuencia, siendo precisamente el acto impugnado mediante el recurso interpuesto, la resolución pronunciada por Director Regional Tesorero-Juez Sustanciador, la que ha sido dictada en el desarrollo del procedimiento ejecutivo especial que, para el cobro de las obligaciones tributarias en dinero contempla el Código Tributario, no resulta posible que sea aquella impugnada por esta vía.
+Por estas consideraciones, de conformidad además con lo que disponen el artículo 20 de la Constitución Política de la República y el Auto Acordado de esta Corte sobre la materia, se revoca la sentencia apelada de veintidós de octubre de dos mil veinticinco, dictada por la Corte de Apelaciones de Temuco y, en su lugar se declara, que se rechaza el recurso de protección deducido por don Lautaro Eduardo Jaramillo Gallegos, en contra de la Tesorería Regional de Temuco, representada legalmente por doña Claudia Andrea Guajardo Arriagada.
+
+Redacción a cargo del Ministro señor Ruz.
+
+Regístrese y devuélvase.
+Rol N° 46.315-2025.
+Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los Ministros Sr. Jean Pierre Matus A., Sr. Gonzalo Ruz L., Sr. Roberto Contreras O. (s), Sra. Dobra Lusic N. (s) y Sr. Juan Mera M. (s). No firman, no obstante haber concurrido a la vista y al acuerdo de la causa, los Ministros Sra. Lusic por haber cesado en funciones y Sr. Mera por no encontrarse disponible su dispositivo electrónico de firma.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Temuco
+Temuco, veintidós de octubre de dos mil veinticinco.
+
+Vistos:
+
+Que comparece don Lautaro Eduardo Jaramillo Gallegos, chileno, casado, pensionado. quien interpuesto recurso de protección en contra de la Tesorería Regional de Temuco, representada legalmente por doña Claudia Andrea Guajardo Arriagada, en razón de lo que estima un acto ilegal y arbitrario consistente en considerar el día sábado como hábil para el cómputo del plazo establecido en el artículo 176 del Código Tributario, en el marco de un procedimiento administrativo de cobro de obligaciones tributarias.
+
+El recurrente sostiene que dicha actuación vulnera las garantías constitucionales consagradas en el artículo 19 de la Constitución Política de la República, específicamente en sus numerales 2°, igualdad ante la ley; y 3° inciso cuarto, derecho a un justo y racional procedimiento, y a ser juzgado por el tribunal competente establecido por la ley.
+
+Refiriere que el 13 de septiembre de 2024, la Tesorería notificó y requirió de pago al recurrente por diferencias de impuestos correspondientes al año tributario 2018, según giro Folio 229187528-1.
+
+El 2 de octubre de 2024, se presentó una excepción de prescripción conforme a los artículos 176 y 177 del Código Tributario.
+
+El 16 de octubre de 2024, la Tesorería rechazó dicha excepción por considerarla extemporánea, al computar el plazo incluyendo el sábado como día hábil.
+
+El 16 de diciembre de 2024, se interpuso recurso de reposición con apelación subsidiaria, el cual fue rechazado el 6 de enero de 2025, y notificado el 18 de febrero de 2025, argumentando que no procedía apelación en esa instancia administrativa.
+
+El recurrente argumenta que, conforme al artículo 10 inciso segundo del Código Tributario, los días sábado, domingo y festivos son inhábiles en procedimientos administrativos, como el seguido por la Tesorería, lo que haría que la excepción de prescripción se haya presentado dentro del plazo legal.
+
+Se citan sentencias de las Cortes de Apelaciones de Santiago y Valparaíso que respaldan esta interpretación, reafirmando que en la fase administrativa los sábados deben considerarse inhábiles.
+
+Se denuncia que la actuación de la Tesorería ha generado una discriminación ilegal y arbitraria, al aplicar un cómputo de plazo distinto al que se aplica a otros contribuyentes, y que ha impedido que el tribunal competente conozca del fondo del asunto.
+
+Pidió en definitiva ordenar dejar sin efecto la resolución de fecha 6 de enero de 2025, que rechazó los recursos interpuestos, y se reconozca la interposición oportuna de la excepción de prescripción.
+
+Que, informando el Servicio recurrido, expuso que, como postura de la Tesorería recurrida, que el procedimiento de cobro se realizó conforme a derecho, y que el contribuyente fue legalmente notificado y requerido de pago el 13 de septiembre de 2024, en su domicilio registrado ante el Servicio de Impuestos Internos.
+
+Sostiene que la excepción de prescripción fue interpuesta el día 13° hábil, por lo que fue extemporánea, ya que el cómputo de los días hábiles incluye los sábados.
+
+Se argumenta que, tras la modificación introducida por la Ley N° 21.210 (2020) al artículo 10 del Código Tributario, los plazos en el procedimiento judicial de cobro de obligaciones tributarias deben considerar los sábados como días hábiles.
+
+Se afirma que el procedimiento seguido por la Tesorería tiene naturaleza judicial, siendo el único proceso de cobro contemplado en el Código Tributario, lo que justificaría el cómputo aplicado.
+
+Niega la existencia de un acto ilegal o arbitrario, ya que la Tesorería actuó conforme a la normativa vigente.
+
+Finalmente, sostiene que el recurso de protección es improcedente, ya que el abogado del recurrente debió haber interpuesto un recurso de hecho ante el rechazo de la apelación, y no recurrir por esta vía.
+
+Se trajeron los autos en relación.
+
+CON LO RELACIONADO Y CONSIDERANDO:
+
+PRIMERO: Que, recurrentemente se viene sosteniendo por esta Corte que el recurso de protección de garantías constitucionales establecido en el artículo 20 de la Constitución Política de la República, constituye jurídicamente una acción cautelar destinada a amparar el legítimo ejercicio de las garantías y derechos preexistentes que en esa misma disposición se enumeran, mediante la adopción de medidas de resguardo o providencias para restablecer el imperio del derecho y asegurar la debida protección del afectado ante un acto u omisión arbitrario o ilegal que prive, perturbe o amenace dicho ejercicio.
+
+SEGUNDO: Que, como surge de lo transcrito, es requisito indispensable de la acción cautelar de protección, la existencia de un acto ilegal, esto es, contrario a la ley- o arbitrario, producto del mero capricho de quien incurre en él- y que provoque alguna de las situaciones que se han indicado, afectando una o más de las garantías constitucionales protegidas por el citado artículo 20 del texto constitucional, entre las cuales se encuentra las invocadas por la recurrente previstas en el artículo 19 de la Constitución Política de la República.
+
+Es preciso señalar que el recurso de cautela de derechos constitucionales, debe interponerse en el plazo fatal de 30 días “contados desde la ejecución del acto o la ocurrencia de la omisión o, según la naturaleza de éstos, desde que se haya tenido noticias o conocimiento cierto de los mismos”.
+
+Asimismo, constituye un arbitrio destinado a dar protección respecto de derechos que se encuentren indubitados y no discutidos, sin que pueda llegar a constituirse en una instancia de declaración de tales derechos, ya que para ello está la vía del juicio de lato conocimiento, que otorga a las partes en conflicto la posibilidad de discutir, formular alegaciones, rendir pruebas y deducir los recursos que sean del caso.
+
+TERCERO: Que, así las cosas, se ha recurrido debido a que con fecha 13 de septiembre de 2024, la Tesorería notificó y requirió de pago al recurrente por diferencias de impuestos correspondientes al año tributario 2018, según giro Folio 229187528-1.
+
+Luego con fecha 2 de octubre de 2024, se presentó una excepción de prescripción, por parte de don Lautaro Eduardo Jaramillo Gallegos, conforme a los artículos 176 y 177 del Código Tributario.
+
+El 16 de octubre de 2024, la Tesorería rechazó dicha excepción por considerarla extemporánea, al computar el plazo incluyendo el sábado como día hábil.
+
+El 16 de diciembre de 2024, se interpuso recurso de reposición con apelación subsidiaria, el cual fue rechazado el 6 de enero de 2025, y notificado el 18 de febrero de 2025, argumentando que no procedía apelación en esa instancia administrativa.
+
+CUARTO: Que, como se ha sostenido por nuestra jurisprudencia, el procedimiento de cobro de obligaciones tributarias y aduaneras se compone de dos etapas: una administrativa y otra jurisdiccional.
+
+La primera, encargada al Tesorero Regional o Provincial respectivo, comienza con el despacho del mandamiento de ejecución y embargo, y se encuentra reglada en los artículos 170 a 179 del Código Tributario.
+
+La segunda, se inicia con la recepción del expediente por el juez ordinario civil competente, correspondiente al domicilio del demandado, y ha de ceñirse a lo preceptuado en los artículos 180 a 191 del citado cuerpo legal.
+
+QUINTO: Que, a su vez, en lo atingente al cómputo de los plazos, el artículo 10 del Código Tributario, en su inciso segundo, indica:
+
+“Salvo los plazos establecidos para procedimientos judiciales o por disposición legal en contrario, todos los plazos de días establecidos en este Código y demás leyes tributarias de competencia del Servicio son de días hábiles, entendiéndose que son inhábiles los días sábado, domingo y festivos”.
+
+SEXTO: Que, como se puede apreciar, la norma transcrita en el motivo que antecede resulta aplicable al caso concreto, por cuanto, al no haber disposición legal en contrario, el plazo para la interposición de excepciones en la etapa administrativa del procedimiento es de días hábiles, descontando los días sábado, domingo y festivos.
+
+Bajo aquella regla de cálculo, la excepción opuesta por el recurrente satisface la oportunidad exigida en el artículo 176 del Código Tributario, en relación con el artículo 171 del mismo cuerpo legal, al haber sido presentada dentro del décimo día hábil contado desde la época de la notificación y requerimiento de pago, esto es el día 13 de septiembre de 2024.
+
+Por estas consideraciones, y de conformidad con lo dispuesto por el artículo 20 de la Constitución Política de la República y el Auto Acordado de esta Corte sobre la materia, SE ACOGE, el recurso de protección deducido por Lautaro Eduardo Jaramillo Gallegos en contra de doña Tesorería Regional de Temuco, representada legalmente por doña Claudia Andrea Guajardo Arriagada, debiendo de consecuencia acogerse a tramitación la excepción opuesta.
+
+Regístrese y archívese, en su oportunidad.
+
+Redactada por el Abogado Integrante Sr. Cristian Carvajal de Vicenzi.
+Rol N° Protección-1574-2025.(jog)
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de TemucoTemuco, veintidós de octubre de dos mil veinticinco.Vistos:Que comparece don Lautaro Eduardo Jaramillo Gallegos, chileno, casado, pensionado. quien interpuesto recurso de protección en contra de la Tesorería Regional de Temuco, representada legalmente por doña Claudia Andrea Guajardo Arriagada, en razón de lo que estima un acto ilegal y arbitrario consistente en considerar el día sábado como hábil para el cómputo del plazo establecido en el artículo 176 del Código Tributario, en el marco de un procedimiento administrativo de cobro de obligaciones tributarias.El recurrente sostiene que dicha actuación vulnera las garantías constitucionales consagradas en el artículo 19 de la Constitución Política de la República, específicamente en sus numerales 2°, igualdad ante la ley; y 3° inciso cuarto, derecho a un justo y racional procedimiento, y a ser juzgado por el tribunal competente establecido por la ley.Refiriere que el 13 de septiembre de 2024, la Tesorería notificó y requirió de pago al recurrente por diferencias de impuestos correspondientes al año tributario 2018, según giro Folio 229187528-1.El 2 de octubre de 2024, se presentó una excepción de prescripción conforme a los artículos 176 y 177 del Código Tributario.El 16 de octubre de 2024, la Tesorería rechazó dicha excepción por considerarla extemporánea, al computar el plazo incluyendo el sábado como día hábil.El 16 de diciembre de 2024, se interpuso recurso de reposición con apelación subsidiaria, el cual fue rechazado el 6 de enero de 2025, y notificado el 18 de febrero de 2025, argumentando que no procedía apelación en esa instancia administrativa.El recurrente argumenta que, conforme al artículo 10 inciso segundo del Código Tributario, los días sábado, domingo y festivos son inhábiles en procedimientos administrativos, como el seguido por la Tesorería, lo que haría que la excepción de prescripción se haya presentado dentro del plazo legal.Se citan sentencias de las Cortes de Apelaciones de Santiago y Valparaíso que respaldan esta interpretación, reafirmando que en la fase administrativa los sábados deben considerarse inhábiles.Se denuncia que la actuación de la Tesorería ha generado una discriminación ilegal y arbitraria, al aplicar un cómputo de plazo distinto al que se aplica a otros contribuyentes, y que ha impedido que el tribunal competente conozca del fondo del asunto.Pidió en definitiva ordenar dejar sin efecto la resolución de fecha 6 de enero de 2025, que rechazó los recursos interpuestos, y se reconozca la interposición oportuna de la excepción de prescripción.Que, informando el Servicio recurrido, expuso que, como postura de la Tesorería recurrida, que el procedimiento de cobro se realizó conforme a derecho, y que el contribuyente fue legalmente notificado y requerido de pago el 13 de septiembre de 2024, en su domicilio registrado ante el Servicio de Impuestos Internos.Sostiene que la excepción de prescripción fue interpuesta el día 13° hábil, por lo que fue extemporánea, ya que el cómputo de los días hábiles incluye los sábados.Se argumenta que, tras la modificación introducida por la Ley N° 21.210 (2020) al artículo 10 del Código Tributario, los plazos en el procedimiento judicial de cobro de obligaciones tributarias deben considerar los sábados como días hábiles.Se afirma que el procedimiento seguido por la Tesorería tiene naturaleza judicial, siendo el único proceso de cobro contemplado en el Código Tributario, lo que justificaría el cómputo aplicado.Niega la existencia de un acto ilegal o arbitrario, ya que la Tesorería actuó conforme a la normativa vigente.Finalmente, sostiene que el recurso de protección es improcedente, ya que el abogado del recurrente debió haber interpuesto un recurso de hecho ante el rechazo de la apelación, y no recurrir por esta vía.Se trajeron los autos en relación.CON LO RELACIONADO Y CONSIDERANDO:PRIMERO: Que, recurrentemente se viene sosteniendo por esta Corte que el recurso de protección de garantías constitucionales establecido en el artículo 20 de la Constitución Política de la República, constituye jurídicamente una acción cautelar destinada a amparar el legítimo ejercicio de las garantías y derechos preexistentes que en esa misma disposición se enumeran, mediante la adopción de medidas de resguardo o providencias para restablecer el imperio del derecho y asegurar la debida protección del afectado ante un acto u omisión arbitrario o ilegal que prive, perturbe o amenace dicho ejercicio. SEGUNDO: Que, como surge de lo transcrito, es requisito indispensable de la acción cautelar de protección, la existencia de un acto ilegal, esto es, contrario a la ley- o arbitrario, producto del mero capricho de quien incurre en él- y que provoque alguna de las situaciones que se han indicado, afectando una o más de las garantías constitucionales protegidas por el citado artículo 20 del texto constitucional, entre las cuales se encuentra las invocadas por la recurrente previstas en el artículo 19 de la Constitución Política de la República.Es preciso señalar que el recurso de cautela de derechos constitucionales, debe interponerse en el plazo fatal de 30 días “contados desde la ejecución del acto o la ocurrencia de la omisión o, según la naturaleza de éstos, desde que se haya tenido noticias o conocimiento cierto de los mismos”.Asimismo, constituye un arbitrio destinado a dar protección respecto de derechos que se encuentren indubitados y no discutidos, sin que pueda llegar a constituirse en una instancia de declaración de tales derechos, ya que para ello está la vía del juicio de lato conocimiento, que otorga a las partes en conflicto la posibilidad de discutir, formular alegaciones, rendir pruebas y deducir los recursos que sean del caso.TERCERO: Que, así las cosas, se ha recurrido debido a que con fecha 13 de septiembre de 2024, la Tesorería notificó y requirió de pago al recurrente por diferencias de impuestos correspondientes al año tributario 2018, según giro Folio 229187528-1.Luego con fecha 2 de octubre de 2024, se presentó una excepción de prescripción, por parte de don Lautaro Eduardo Jaramillo Gallegos, conforme a los artículos 176 y 177 del Código Tributario.El 16 de octubre de 2024, la Tesorería rechazó dicha excepción por considerarla extemporánea, al computar el plazo incluyendo el sábado como día hábil.El 16 de diciembre de 2024, se interpuso recurso de reposición con apelación subsidiaria, el cual fue rechazado el 6 de enero de 2025, y notificado el 18 de febrero de 2025, argumentando que no procedía apelación en esa instancia administrativa.CUARTO: Que, como se ha sostenido por nuestra jurisprudencia, el procedimiento de cobro de obligaciones tributarias y aduaneras se compone de dos etapas: una administrativa y otra jurisdiccional.La primera, encargada al Tesorero Regional o Provincial respectivo, comienza con el despacho del mandamiento de ejecución y embargo, y se encuentra reglada en los artículos 170 a 179 del Código Tributario.La segunda, se inicia con la recepción del expediente por el juez ordinario civil competente, correspondiente al domicilio del demandado, y ha de ceñirse a lo preceptuado en los artículos 180 a 191 del citado cuerpo legal.QUINTO: Que, a su vez, en lo atingente al cómputo de los plazos, el artículo 10 del Código Tributario, en su inciso segundo, indica:“Salvo los plazos establecidos para procedimientos judiciales o por disposición legal en contrario, todos los plazos de días establecidos en este Código y demás leyes tributarias de competencia del Servicio son de días hábiles, entendiéndose que son inhábiles los días sábado, domingo y festivos”.SEXTO: Que, como se puede apreciar, la norma transcrita en el motivo que antecede resulta aplicable al caso concreto, por cuanto, al no haber disposición legal en contrario, el plazo para la interposición de excepciones en la etapa administrativa del procedimiento es de días hábiles, descontando los días sábado, domingo y festivos.Bajo aquella regla de cálculo, la excepción opuesta por el recurrente satisface la oportunidad exigida en el artículo 176 del Código Tributario, en relación con el artículo 171 del mismo cuerpo legal, al haber sido presentada dentro del décimo día hábil contado desde la época de la notificación y requerimiento de pago, esto es el día 13 de septiembre de 2024.Por estas consideraciones, y de conformidad con lo dispuesto por el artículo 20 de la Constitución Política de la República y el Auto Acordado de esta Corte sobre la materia, SE ACOGE, el recurso de protección deducido por Lautaro Eduardo Jaramillo Gallegos en contra de doña Tesorería Regional de Temuco, representada legalmente por doña Claudia Andrea Guajardo Arriagada, debiendo de consecuencia acogerse a tramitación la excepción opuesta.Regístrese y archívese, en su oportunidad. Redactada por el Abogado Integrante Sr. Cristian Carvajal de Vicenzi. Rol N° Protección-1574-2025.(jog)                        ⚠                      Sin documento en esta instancia - pdf
