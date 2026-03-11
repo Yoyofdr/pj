@@ -1,0 +1,81 @@
+METADATA
+
+case_id: 2310695a11ea74da38e3bcaf1f3757fdc9fa2581
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7972868
+
+rol: 54356-2025
+
+fecha_sentencia: 2025-12-24
+
+caratulado: DEL RÍO/HERNÁNDEZ
+
+sala: PRIMERA, CIVIL
+
+materias: ▪ Admisibilidad del recurso de casación en la forma
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: INADMISIBLE CASACIÓN FORMA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veinticuatro de diciembre de dos mil veinticinco.
+
+Vistos y teniendo presente:
+
+1°.- Que en este procedimiento de resolución de contrato e indemnización de perjuicios seguido ante el Primer Juzgado de Letras de Osorno bajo el rol C-1082-2025 caratulado ¿Del Río con Hernández¿, la parte demandante deduce recurso de casación en la forma en contra de la resolución de la Corte de Apelaciones de Valdivia que revocó la resolución de primer grado que rechazó la excepción de corrección del procedimiento y ordenó retrotraer la causa al estado de contestación de la demanda a fin de continuar la tramitación bajo las reglas del juicio ordinario de mayor cuantía.
+
+2°.- Que el artículo 766 del Código de Procedimiento Civil establece que el recurso de casación en la forma procede contra las sentencias definitivas, contra las interlocutorias cuando ponen término al juicio o hacen imposible su continuación y, excepcionalmente, contra las sentencias interlocutorias dictadas en segunda instancia sin previo emplazamiento de la parte agraviada, o sin señalar el día de la vista de la causa.
+
+3º.- Que la resolución impugnada por esta vía no reviste la naturaleza jurídica de las sentencias a que se refiere el mencionado artículo 766 del Código de Procedimiento Civil, razón por la cual no resulta procedente la casación en estudio.
+
+Por estas consideraciones y de conformidad, además, a lo que se dispone en el artículo 781 del Código de Procedimiento Civil, se declara inadmisible el recurso de casación en la forma interpuesto por el abogado Sebastián Buré Robles, en representación de la parte demandante, en contra de la resolución de catorce de noviembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Valdivia.
+
+Regístrese y devuélvase.
+
+Nº 54.356-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Corte Suprema ▼
+C.A. de Copiapó
+
+Copiapó, cuatro de abril de dos mil veintitrés.
+
+VISTOS:
+En cuanto al incidente de prescripción de la acción, interpuesto en lo principal de folio 7, habiendo admitido en su intervención la abogada que se representa a la incidentista que incurrió en un error de hecho, al no corresponder sus fundamentos a los antecedentes de esta causa, lo que además fue alegado por la contraria al evacuar el traslado, y visto además lo dispuesto en el artículo 310 del Código de Procedimiento Civil, se rechaza el mismo.
+
+En cuanto al fondo, atendido mérito de los antecedentes, de conformidad a lo dispuesto en los artículos 186 y siguientes del Código de Procedimiento Civil, SE CONFIRMA la sentencia apelada, dictada con fecha veintiuno de noviembre de dos mil veintidós por la Jueza Titular del Primer Juzgado Civil de Vallenar, doña María Catalina López Werner.
+
+Regístrese y devuélvase.
+
+N°Civil-2-2023.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Corte Suprema ▼
+Santiago, veinticuatro de diciembre de dos mil veinticinco.
+
+Dando cumplimiento a lo dispuesto en el artículo 785 del Código de Procedimiento Civil, se dicta la siguiente sentencia de reemplazo.
+
+Vistos:
+
+Se reproduce la sentencia apelada de veintiuno de noviembre de dos mil veintidós, previa eliminación de los considerandos décimo séptimo a vigésimo y de los motivos vigésimo segundo a vigésimo quinto. Asimismo, se reproducen los fundamentos sexto a octavo de la sentencia de casación que antecede.
+
+Y se tiene además presente:
+
+Primero: Que la demandante reclama la nulidad de pertenencia minera en base al número 6 del artículo 95 del Código de Minería, en cuanto las pertenencias mineras ¿SERRANO A, 1 al 13¿, de propiedad del demandado, se han constituido abarcando con su mensura terrenos ya comprendidos con sus pertenencias ¿KIKE 501 a 550¿; supuesto de nulidad que no se configura en el caso de marras, en cuanto las de la demandante habían sido declaradas nulas en forma previa a la fecha de constitución de las de la demandada y, además, que el ejercicio del derecho de corrección de la mensura se presenta en un proceso posterior, el que no se retrotrae a la fecha de mensura anterior.
+
+Segundo: Que la demandante reclama en forma subsidiaria la nulidad en razón del número 7 del artículo 95 del Código de Minería, esto es, haberse constituido la pertenencia abarcando terreno ya comprendido por otra pertenencia, salvo lo dispuesto en el número anterior; supuesto de nulidad que tampoco se configura, en razón del mismo fundamento referido a la causal del número 6 del citado precepto legal.
+
+Y de conformidad con lo dispuesto en los artículos 186 y siguientes del Código de Procedimiento Civil, se revoca la sentencia apelada de cuatro de abril de dos mil veintitrés, manteniéndose lo decidido en los números I y II de la parte resolutiva, y, en su lugar, se declara que se rechaza la demanda interpuesta, sin costas, por haber tenido la demandante motivo plausible para litigar.
+
+Redacción de la abogada integrante señora Irene Rojas Miño.
+
+Regístrese y devuélvanse.
+
+Rol Nº68.915-23.-
+
+Pronunciado por la Cuarta Sala de la Corte Suprema integrada por las ministras señoras Gloria Ana Chevesich R., Andrea Muñoz S., María Cristina Gajardo H., Mireya López M., y la abogada integrante señora Irene Rojas M.
+No firman la ministra señora Gajardo y la abogada integrante señora Rojas, no obstante haber concurrido a la vista y al acuerdo de la causa, por estar en comisión de servicios la primera y ausente la segunda. Santiago, veinticuatro de diciembre de dos mil veinticinco.

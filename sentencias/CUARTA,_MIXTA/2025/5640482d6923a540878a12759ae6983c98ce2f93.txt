@@ -1,0 +1,397 @@
+METADATA
+
+case_id: 5640482d6923a540878a12759ae6983c98ce2f93
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7972774
+
+rol: 68915-2023
+
+fecha_sentencia: 2025-12-24
+
+caratulado: SOCIEDAD QUÍMICA Y MINERA DE CHILE S.A. CON TECK RESOURCES CHILE LIMITADA *
+
+sala: CUARTA, MIXTA
+
+materias: ▪ Procedimientos Mineros
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: SENTENCIA DE REEMPLAZO (M)
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veinticuatro de diciembre de dos mil veinticinco.
+
+Vistos y teniendo presente:
+
+Primero: Que, de conformidad con lo dispuesto en el inciso séptimo del artículo 483-A del Código del Trabajo, se ha ordenado dar cuenta de la admisibilidad del recurso de unificación de jurisprudencia deducido por la parte demandada contra la sentencia dictada por la Corte de Apelaciones de Santiago, que rechazó el de nulidad intentado para invalidar la que acogió la demanda de despido injustificado.
+
+Segundo: Que, de acuerdo con lo establecido en el artículo 483 del Código del Trabajo, contra la resolución que falle el recurso de nulidad puede deducirse el de unificación, cuando ¿respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de tribunales superiores de justicia¿.
+
+Asimismo, del tenor de lo dispuesto en el artículo 483-A del cuerpo legal antes citado, deriva que esta Corte declarará inadmisible el recurso si faltan los requisitos de los incisos primero y segundo del mismo artículo. Entre estos requisitos se encuentran el de fundar el escrito e incluir una relación precisa y circunstanciada de las distintas interpretaciones respecto de las materias de derecho objeto de la sentencia sostenidas en diversos fallos emanados de las Cortes de Apelaciones o de la Corte Suprema, y el de acompañar copia de las sentencias respectivas.
+
+Tercero: Que, según se expresa en el recurso, la materia de derecho que se propone unificar consiste en determinar si para la aplicación de la causal de incumplimiento grave de las obligaciones contractuales, contenida en el artículo 160 N°7 del Código del Trabajo, se debe estar a una interpretación estricta de la norma y a la actuación del trabajador en su jornada, lugar de trabajo, y obligaciones propias de su cargo, o bien incluye también actuaciones del trabajador que afecten el contenido ético jurídico del contrato de trabajo.
+
+Cuarto: Que el fallo impugnado desestimó el arbitrio de nulidad de la parte demandada que invocó el motivo del artículo 478 b ) del Código del Trabajo, fundado en que ¿(¿) no puede aceptarse el planteamiento del recurrente en cuanto postula una errónea apreciación de lo dispuesto en las cláusulas sexta y décimo primera del contrato de trabajo celebrado entre las partes, sin perjuicio de tener presente el razonamiento lógico, concatenado y sustentado en las probanzas rendidas que se verifican en el fallo que se revisa, tal como se lee del motivo octavo del mismo, del cual se divisa una motivación fáctica congruente y no contradictoria con la prueba rendida, mediante una formulación que no presenta inconsistencias en los raciocinios, deducciones y conclusiones, desde que a partir de los medios probatorios analizados y descritos en los motivos precedentes, concluye procedente acoger la demanda incoada.¿
+
+De esta forma, no ha podido constatarse un pronunciamiento sustancial que se relacione con la materia de derecho propuesta, por lo que el arbitrio intentado debe ser desestimado en esta etapa procesal.
+
+Por estas consideraciones y de conformidad, además, con lo dispuesto en los artículos 483 y 483-A del Código del Trabajo, se declara inadmisible el recurso de unificación deducido contra la sentencia de la Corte de Apelaciones de Santiago de trece de octubre de dos mil veinticinco.
+
+Regístrese y devuélvase.
+
+Nº49.158-2025
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Santiago, trece de octubre de dos mil veinticinco.
+
+Vistos:
+
+En estos autos por sentencia dictada con fecha doce de agosto de dos mil veinticuatro, en causa RIT O-195-2023, caratulada “Beauvior con Mel Alimentos SpA”, seguida ante el Juzgado de Letras de Colina, se acogió la demanda por despido injustificado impetrada por Dieu-Veny Beauvoir en contra de Mel Alimentos Spa, sólo en cuanto declaró que el despido de que fue objeto el demandante ha sido improcedente y, en consecuencia, la demandada deberá pagar al trabajador la indemnización sustitutiva del aviso previo; la indemnización por dos años de servicio recargada en un 80%; diferencia de remuneración por días trabajados en el mes de marzo de 2024; todo lo anterior, con reajustes e intereses, sin costas.
+
+Respecto de dicha decisión la parte demandada interpuso recurso de nulidad, invocando la causal del artículo 478 letra b) del Código del Trabajo, esto es, cuando la sentencia se haya pronunciado con infracción manifiesta de las normas sobre la apreciación de la prueba conforme a las reglas de la sana crítica, solicitando se proceda a anular la sentencia definitiva y se proceda a dictar la correspondiente de reemplazo que rechace en todas sus partes la demanda, con costas.
+
+Declarado admisible el recurso se procedió a su vista, oportunidad en que alegaron los abogados de ambas partes.
+
+Con lo relacionado y considerando:
+
+Primero: Que el recurrente sostiene que la sentencia incurre en la causal del artículo 478 letra b) del Código del Trabajo, esto es, cuando la sentencia haya sido pronunciada con infracción manifiesta de las normas sobre la apreciación de la prueba conforme a las reglas de la sana crítica, denunciando en particular infracción a la regla de la lógica del principio de la razón suficiente al interpretar erróneamente las cláusulas sexta y undécima del contrato de trabajo celebrado entre las partes.
+
+Argumenta que el sentenciador fundó su decisión en que la cláusula undécima del contrato no establecía como incumplimiento grave la obligación contenida en la cláusula sexta sobre regularización de la situación migratoria, por no estar expresamente mencionada. Sin embargo, dicha interpretación es errónea, toda vez que la mencionada estipulación expresamente establece que constituirá incumplimiento grave la contravención a las cláusulas enumeradas "… sin perjuicio del incumplimiento de otras obligaciones de este contrato, de las inherentes a la relación laboral o las contenidas en los reglamentos o instrucciones de la Empresa.", por lo que no se trata de un listado taxativo sino enunciativo.
+
+Añade que la obligación de mantener regularizada la situación migratoria constituye una obligación inherente a la relación laboral, ya que su incumplimiento expone tanto al empleador como al trabajador a sanciones legales, configurándose así el incumplimiento grave de las obligaciones que impone el contrato según el artículo 160 N°7 del Código del Trabajo.
+
+Manifiesta que el vicio denunciado ha influido sustancialmente en lo dispositivo del fallo, toda vez que, de haberse aplicado correctamente las normas sobre apreciación de la prueba conforme a las reglas de la sana crítica, y de haberse interpretado adecuadamente las cláusulas contractuales, el tribunal debió haber concluido que el despido del trabajador se encontraba justificado por configurarse el incumplimiento grave de las obligaciones contractuales, debiendo en consecuencia rechazar la demanda y así pide declararlo en la respectiva sentencia de reemplazo.
+
+Segundo: Que resulta preciso remarcar –como se ha hecho de un modo reiterado por esta Corte- que la causal del artículo 478 letra b) del Código del Trabajo atañe a la revisión de las razones que sustentan la motivación probatoria y la subsecuente fijación de los hechos que se han tenido por probados, de manera que se configura cuando en esa actividad se cometen desaciertos que suponen contrariar los parámetros de la lógica, de la técnica, de los conocimientos científicos o de las reglas de experiencia. En otras palabras, de lo que se trata es de fiscalizar que las razones probatorias vertidas por el juzgador respeten esos lineamientos.
+
+Tercero: Que, a su vez, cabe consignar que una cualidad que distingue al recurso de nulidad es que corresponde a un mecanismo de impugnación de la sentencia definitiva lo que, entre otras implicaciones, significa que está destinado a hacer un juicio de validez del fallo, de modo que no constituye instancia. Consecuentemente, la revisión debe circunscribirse a lo planteado, debatido y resuelto en la sentencia recurrida, porque es ella la que se somete a control. De ahí que, a diferencia de lo que acontece con la apelación, no es jurídicamente posible formular nuevas alegaciones en sede de nulidad que no se hicieron valer en su oportunidad, precisamente porque no han sido objeto de enjuiciamiento en el fallo recurrido;
+
+Cuarto: Que, acontece que lo pretendido por el recurrente a través de esta causal es que esta Corte resuelva sobre una alegación que no fue ventilada en la instancia. En efecto, conforme consta del escrito de contestación evacuado en la oportunidad legal pertinente por la demandada, no hubo cuestionamiento de su parte acerca de una supuesta infracción a la cláusula “Undécimo” del contrato de trabajo suscrito entre las partes, -que transcribe en su recurso-, sino que sólo se limitó a justificar la decisión de despido en el incumplimiento de carácter grave de la cláusula sexta del mismo instrumento, tal como se lee de la carta de despido notificada en su oportunidad. Al ser así, no puede pretenderse que por esta vía se genere un debate extemporáneo o, que para estos fines es lo mismo, no puede existir una vulneración al principio de la razón suficiente denunciado.
+
+Quinto: Que tan evidente resulta lo antes expuesto, que la propia demandada ofreció e incorporó en la audiencia de juicio respectiva copia del contrato de trabajo celebrado entre las partes el 17 de diciembre de 2020, -documento que si bien no fue objeto de impugnación en su oportunidad-, de su contenido se desprende que no resulta íntegro atendido que sólo fueron incorporadas sus páginas 1 y 2, -tal como lo denuncia la contraria en estrados-, contenido que comprendía precisamente desde la cláusula primera a la sexta, conociéndose únicamente el contenido íntegro del instrumento contractual aludido, en especial de la aludida clausula décimo primera sólo a través del contrato ofrecido e incorporado por la parte demandante al proceso.
+
+Sexto: Que desde esa óptica no puede aceptarse el planteamiento del recurrente en cuanto postula una errónea apreciación de lo dispuesto en las cláusulas sexta y décimo primera del contrato de trabajo celebrado entre las partes, sin perjuicio de tener presente el razonamiento lógico, concatenado y sustentado en las probanzas rendidas que se verifican en el fallo que se revisa, tal como se lee del motivo OCTAVO del mismo, del cual se divisa una motivación fáctica congruente y no contradictoria con la prueba rendida, mediante una formulación que no presenta inconsistencias en los raciocinios, deducciones y conclusiones, desde que a partir de los medios probatorios analizados y descritos en los motivos precedentes, concluye procedente acoger la demanda incoada.
+
+Séptimo: Que, por lo antes razonado, el recurso de nulidad no puede prosperar.
+
+Y visto además lo dispuesto en los artículos 478 y 482 del Código del Trabajo, se rechaza con costas, el recurso de nulidad deducido por la parte demandada en contra de la sentencia de doce de agosto de dos mil veinticuatro, dictada por el Juzgado de Letras de Colina.
+
+Regístrese y comuníquese.
+Redacción de la ministra suplente Andrea Soler Merino.
+
+No firma la abogada integrante señora Magaly Correa, no obstante haber concurrido a la vista de la causa y al acuerdo, por ausencia.
+
+Rol Nº 3039-2024 Laboral-Cobranza
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Colina, doce de agosto de dos mil veinticuatro.
+
+PRIMERO: Compareció DIEU-VENY BEAUVOIR, cédula de identidad 26.476.392-4, de nacionalidad haitiana, cesante, domiciliado para estos efectos en Calle Cuarenta, casa 104, comuna de Colina, Región Metropolitana; e interpone demanda de despido injustificado, indebido e improcedente, y cobro de prestaciones e indemnizaciones laborales contra la empresa MIEL ALIMENTOS SPA, RUT: 76.415.505-K, del giro de su denominación, todas estas representadas legalmente por don René González Balbontín, R.U.T: 7.256.553-3, ignora profesión u oficio, o por quien haga sus veces, de conformidad con lo establecido en el artículo 4 del Código del Trabajo, todas con domicilio en Esmeralda, #1458, comuna de Colina, Región Metropolitana, conforme a la relación circunstanciada de los hechos y fundamentos de Derecho que expone:
+
+Señala, previa referencia a las cuestiones de competencia y procedimiento, que comenzó a prestar servicios con fecha 17 de diciembre de 2020 para la empresa MIEL ALIMENTOS SPA, para cumplir las funciones de “OPERARIO DE PRODUCCIÓN”, según la cláusula primera del contrato de trabajo, las que serían realizadas en el establecimiento de la empresa, ubicada en Esmeralda, #1458, comuna de Colina, Región Metropolitana. La duración del contrato era indefinida.
+
+Indica que la jornada laboral sería de 45 horas semanales distribuidas de lunes a viernes desde las 7:30 horas a las 17:30 horas, según cláusula tercera.
+
+Refiere que percibía una remuneración mensual de $326.500 pesos (para la fecha del contrato), más una asignación de movilización de $21.614 pesos (para la fecha del contrato), y una gratificación legal al 25% total de las remuneraciones, sin embargo, su última remuneración y sueldo real fue por la cantidad de $1.089.017 pesos, monto que tomará en consideración para los efectos previstos en el artículo 172 del Código de Trabajo.
+
+Relata, en cuanto al término de la relación laboral, que siempre desempeñó sus funciones de la forma más diligente posible, cumpliendo con cada una de las funciones asignadas, siendo su único inconveniente la fractura ejerciendo sus funciones, lo que le habría afectado el dedo índice de su mano derecha, imposibilitándolo trabajar durante el mes de junio del año 2021 posteriormente luego de haber cumplido con el tratamiento y reposos continuó con sus labores.
+
+Cuenta que el día 6 de mayo de 2022, se terminaba su período vacacional y debió ingresar nuevamente al lugar de trabajo el día 7 de marzo de 2023, pero se le impidió su ingreso, haciéndosele entrega de una carta de despido, donde se le ofrecía el pago por indemnización de $24.000 mil pesos, lo que no aceptó, retirándose del lugar de trabajo.
+
+Dice que al día siguiente (8 de marzo de 2023) concurrió a la Inspección del Trabajo e interpuso el reclamo correspondiente, fijándose acto conciliatorio para el día 4 de abril de 2023.
+
+Comenta que, en el mismo acto de formular el reclamo, se le hace entrega de un Comprobante de Carta de Aviso para Terminación del Contrato de Trabajo, de su ex empleador, ingresada en sistema el día anterior, alegando como causal la establecida en el artículo 160 Nro. 7, esto es “Incumplimiento de las obligaciones que impone el contrato de trabajo”, con el siguiente fundamento “El trabajador actualmente tiene su situación migratoria irregular, su cédula de identidad no está vigente, no tiene visa vigente, ni tiene el permiso especial de trabajo”.
+
+En el comparendo de rigor, la conciliación no prosperó.
+
+Finalmente, en cuanto al derecho explica citando doctrina y jurisprudencia sobre la materia la formalidad en cuanto al contenido de la carta de despido.
+
+Manifiesta que le sorprende el alegato justificativo de la carta de despido, toda vez, que sin razón alguna y a la presente fecha, el demandado se da cuenta que su R.U.T se encuentra vencido, tomando como excusa su situación migratoria para intentar de manera fallida “justificar” su despido.
+
+Aduce que desde el inicio de la relación laboral fue un trabajador comprometido con sus obligaciones, sin que conste en su expediente amonestaciones o solicitudes expresas sobre “su situación migratoria”, que haya causado perjuicio a la empresa.
+
+Argumenta que analizando detenidamente los motivos en los que se fundamenta el despido, se tiene que:
+
+a) Su cédula de identidad fue otorgada en fecha 26 de septiembre de 2018, con vigencia hasta el día 11 de septiembre de 2019 y recién en el 2023 se da cuenta la empresa de esta situación, lo que cuestiona.
+
+b) Es de conocimiento público y notorio, que el sistema regulatorio de migración del país está colapsado, siendo el Registro Civil, quien se encarga de estudiar el expediente migratorio, otorgar las citas, entre otros.
+
+c) Personas migrantes que tienen hasta más de dos años para que se otorgue la visa definitiva y otros, situaciones que no son imputables a mi persona.
+
+d) Escapa de las manos el no poder obtener la vigencia de los documentos, pero en ningún caso se puede decir que se encuentra indocumentado.
+
+Afirma que su ex empleador le pagaba las cotizaciones previsionales, es decir, en nada entorpecía que después de prácticamente dos años – toda vez, que para el 2020 por Resolución Gubernamental se habían extendido las vigencias -, su empleador tome esa excusa para despedirlo, y más aun sin reconocer sus años de servicios, por lo que concluye que el despido es por cuestione personales y no laborales.
+
+Agrega que se le adeuda por feriado proporcional periodo comprendido entre el 17 de noviembre de 2022 al 07 de marzo de 2023, esto es, 3,75 días continuos, por un total de $136.127.- y que las sumas que se adeuden deben ser reajustadas de acuerdo con el artículo 173 del Código del Trabajo.
+
+Por lo expuesto, y previas citas legales, se tenga por interpuesta demanda en Procedimiento Ordinario por demanda de despido injustificado, indebido e improcedente y cobro de prestaciones e indemnizaciones laborales, que más adelante contra la empresa contra la empresa MIEL ALIMENTOS SPA, representada legalmente por don René González Balbontín, ya individualizados, o por quien haga sus veces, de conformidad con lo establecido en el artículo 4 del Código del Trabajo, declarando y ordenando el pago de las siguientes sumas:
+
+1. Que se declare que el despido es injustificado, indebido e improcedente. 2. La cantidad de $1.089.017 pesos (Un millón ochenta y nueve mil diecisiete pesos) por concepto de indemnización sustitutiva de aviso previo.
+
+3. La cantidad de $2.178.034 pesos (Dos millones ciento setenta y ocho mil treinta y cuatro pesos) por concepto de indemnización por 2 años de servicios.
+
+4. La cantidad de $1.742.427 pesos (Un millón setecientos cuarenta y dos cuatrocientos veintisiete pesos) por concepto de recargo legal al 80% sobre los años de servicios.
+5. La cantidad de $254.104 pesos (Doscientos cincuenta y cuatro mil ciento cuatro pesos), por concepto de 7 días trabajados.
+
+6. Que se condene en costas a los demandados.
+
+Todo lo anterior con reajustes e intereses de acuerdo con lo señalado en los artículos 63 y 173 del Código del Trabajo;
+
+En subsidio, lo que el tribunal determine conforme a derecho y al mérito de autos.
+
+SEGUNDO: Compareció el abogado Pablo Acevedo Álvarez, en representación de MEL ALIMENTOS SpA, contestando la demanda, solicitando su íntegro rechazo, con costas, de acuerdo con los antecedentes de hecho y de derecho que expone.
+
+Niega, en primer término, todos y cada uno de los hechos demandados y detallados por el denunciante en su libelo, sin perjuicio de aquellas circunstancias fácticas en que coincida.
+
+Realiza breve resumen de la demanda. Luego refiere que el tribunal debe pronunciarse sobre la base de los hechos que la parte accionante plasma en su demanda, y aquellos que puedan ser conocidos por el tribunal, a la luz de los plazos de caducidad interpuestos por el legislador laboral.
+
+Dice que la acción es una maniobra de la contraria para hacerse malamente de una “indemnización” que no le correspondería bajo ninguna lógica, ejercitando el empleador los derechos legítimamente otorgados por la legislación laboral.
+
+Señala que desvinculación o despido fue realizado conforme causal prevista en el Código que regula la materia, de acuerdo con una real y efectiva invocación de la causal respectiva por parte de la empresa, expresándose al trabajador por medio de la respectiva carta de aviso la causal y conceptos a pagar en virtud de ésta. El despido se encontraría fundado cumplimiento a todos y cada uno de los requisitos legales.
+
+Aduce que el trabajador empezó a prestar servicios el 17 de diciembre de 2020 bajo subordinación y dependencia desempeñando funciones de “operario de producción” a desarrollar en las dependencias de la empresa (Esmeralda N° 1458, comuna de Colina). Su jornada era de 45 horas semanales distribuidas de lunes a viernes entre las 07:30 s 17:30 horas y su remuneración mensual líquida ascendía a la suma de $637.045.- (seiscientos treinta y siete mil cuarenta y cinco pesos).
+
+Argumenta que la cláusula sexta del contrato de trabajo disponía que: Se deja constancia que la obligación de prestar servicios emanada del presente contrato solo podrá cumplirse una vez que el trabajador haya obtenido la visación de residencia correspondiente en Chile o el permiso especial de trabajo para extranjero con visa en trámite.
+
+Sin perjuicio de lo anterior, la obligación de prestar servicios emanada del presente contrato. Sólo podrá cumplirse mientras se encuentre vigente el permiso especial de trabajo que hubiere obtenido el Trabajador o bien la visación de residencia correspondiente.”
+Añade que la cédula de identidad para extranjeros del demandante tenía fecha de emisión el 26 de septiembre de 2018 y fecha de vencimiento el 11 de septiembre de 2019 al momento de ingresar a prestar servicios. No obstante, ésta se encontraba prorrogada por Decreto N° 34, que extendió la vigencia de cédula de identidad para extranjeros del Ministerio de Justicia y Derechos Humanos promulgada con fecha 27 de marzo del año 2020, en atención a la crisis sanitaria por Covid- 19.
+
+Asegura que, durante toda la vigencia de la relación laboral, a pesar de la extensión antes referida, su representada le solicitaba al actor regularizar su situación migratoria, otorgándole los permisos pertinentes. Lo anterior, porque acarearía una infracción a la ley laboral por parte del empleador y de extranjería por parte del trabajador frente una contratación de un trabajador con situación migratoria irregular, cuestión a la que el trabajador hizo caso omiso, incumpliendo con ello la cláusula cuarta del contrato.
+
+Arguye que, debido a aquello, decidió poner término a la relación laboral conforme a lo dispuesto en el N°7 del artículo 160 del Código del Trabajo, con estricto apego a la ley, citando al trabajador el día 7 de marzo de 2023 a la oficina de recursos humanos para hacerle entrega de la carta de aviso de término de contrato que se negó a firmar, la que fue enviada el mismo a su domicilio por carta certificada dejando constancia de dicho término ante la Dirección del Trabajo.
+
+Afirma que no existe ningún acto contrario a la normativa, ni existen despidos injustificados o improcedentes. El despido, obedeció a una decisión de ultima ratio ante la negativa del demandante a regularizar su situación migratoria,
+
+Agrega y hace presente que la situación irregular migratoria del demandante no ha sido una excusa para su desvinculación, siendo apoyado durante todo el tiempo de trabajo para la realización de sus trámites de regulación migratoria, a pesar de que se le pagaba en dinero en efectivo, ya que no podía tener cuenta bancaria por su situación y s ele pagaban sus cotizaciones previsionales
+
+Alude a que la tramitación para obtener un certificado de residencia temporal es expedita se puede y se realizar en el sitio web que ha puesto a disposición Extranjería, cuestión que tampoco hizo.
+
+Adiciona también que dado el vencimiento de su cédula de identidad tampoco es posible suscribir el finiquito ante Notario. Su representada le habría informado que se le pagarían sus haberes, informándole plazo legal para el retiro de los siguientes documentos, los que nunca fueron retirados.
+
+1. Cheque Serie 2019AA N°0004900 por una suma de $41.524.- correspondientes a 2,25 días de feriado proporcional.
+
+2. Cheque Serie 2019AA N°0004901 por una suma de $126.808.- correspondientes a los 7 días trabajados en el mes de marzo de 2023.
+
+Controvierte, luego los siguientes hechos.
+
+1. Que, los hechos de la carta de aviso de despido no sean reales, como indica el actor.
+
+2. Que el despido haya sido improcedente.
+
+3. Que la carta despido del actor sea una carta tipo que no abarca circunstancias específicas.
+
+4. La falta de especificación de los hechos en el caso concreto.
+
+5. Que se adeuda el pago del incremento legal del 80% de la indemnización por años de servicio, esto es a pagar la suma de $1.742.427.-
+
+6. Que se adeude el pago de la indemnización sustitutiva del aviso previo
+
+por una de $1.089.017.-.
+
+7. Que, se adeude al pago de $2.178.034.- por concepto de indemnización por años de servicio (2).
+
+8. Que, se adeude el pago de $254.104.- por concepto de días trabajados
+
+9. Que se adeude suma alguna por concepto de feriado legal y proporcional.
+
+10. Que se adeuden intereses y reajustes por las sumas demandadas
+
+11. Que se adeuden costas por el presente litigio.
+
+Alega, finalmente, como excepción de fondo o defensa: La Falta de presupuestos de la acción por supuesto despido improcedente. los hechos invocados en la carta son reales y habilitan la aplicación de la causal. el despido se ajusta a derecho.
+
+Reitera que su representada ejercido, de manera fundada y lícita, con estricto apego a la juridicidad, el derecho que le confiere el N°7 del artículo 160 del Código del Trabajo, de acuerdo con los hechos ya narrados. Se hizo entrega de la carta donde figura la causal invocada y debidamente fundada, por lo que siendo efectivos los hechos motivo del despido, se pide el rechazo de la pretensión, con costas.
+
+En consecuencia, solicita tener por contestada la demanda y en definitiva se acojan todas o cualquiera de las excepciones de fondo opuestas previamente, se declare que se rechaza la demanda sobre despido improcedente y cobro de prestaciones laborales y previsionales, con costas.
+
+TERCERO: Con fecha 20 de julio de 2023, se efectuó por video conferencia, a través de la plataforma Zoom, la audiencia preparatoria en estos autos.
+
+Llamadas las partes a conciliación el Tribunal propuso como base de acuerdo la suma de $3.000.000.-, la que es aceptada por la parte demandante en esta instancia, no así por la parte demandada, teniendo por frustrada esta etapa.
+
+Luego, se fijaron los siguientes hechos no controvertidos.
+
+1. Que el inicio de la relación laboral se produce el 17 de diciembre de 2020.
+
+2. Las funciones eran de operario de producción.
+
+3. Que el término de la relación laboral se produce el 7 de marzo de 2023.
+
+Asimismo, el tribunal fijó como hechos controvertidos, los siguientes:
+
+1. Remuneración que percibía el trabajador; composición y monto.
+
+2. Efectividad de los hechos contenidos en la carta de despido.
+
+3. Procedencia de las indemnizaciones y prestaciones demandadas en autos.
+
+Finalmente, ofrecida la prueba, se citó a las partes a la audiencia de juicio.
+
+CUARTO: En audiencia de juicio del día 9 de agosto de 2023, celebrada en forma presencial, y en apoyo de su defensa, la parte demandada rindió la siguiente prueba.
+
+i. Documental:
+1. Contrato de trabajo suscrito entre Mel Alimentos SpA y don Dieu-Veny Beauvoir de fecha 17 de diciembre del año 2020.
+
+2. Anexo de Contrato de trabajo suscrito entre Mel Alimentos SpA y don Dieu-Veny Beauvoir de fecha 17 de enero del año 2021.
+
+3. Liquidaciones de sueldo de don Dieu-Veny Beauvoir de los meses de noviembre de 2022 a marzo de 2023.
+
+4. Comprobante de vacaciones de don Dieu-Veny Beauvoir.
+
+5. Comprobantes de permiso de don Dieu-Veny Beauvoir
+
+6. Carta de aviso de término de contrato de trabajo de don Dieu-Veny
+
+Beauvoir de fecha 7 de marzo del año 2023.
+
+7. Finiquito de don Dieu-Veny Beauvoir de fecha 7 de marzo y su respectivo comprobante de pago.
+
+ii. Confesional:
+
+Declaró, Dieu-Veny Beauvoir, cédula de identidad Nº 26.476.392-4.
+
+Preguntado, indicó que empezó a trabajar el 17 de diciembre de 2020 para la demandada, como operario de producción, firmando un contrato de trabajo desde el mismo día que entró; y que estaba al tanto de las cláusulas del mismo.
+
+Habiéndosele exhibido las cláusulas sexta y décimo primera del contrato de trabajo, y preguntado sobre si tenía conocimiento del contenido de estas cláusulas y si tenía la obligación de regularizar su situación migratoria en el país, dice que no sabía porque no entendía español en ese entonces, sólo tenía un contrato en mano, señaló que firmó el documento porque ya lo habían aceptado con un carnet vencido. Consultado sobre si luego de que ya entró a la empresa, conoció el contenido del contrato, expresó que duró dos años en la empresa y después le dijeron que debía regularizar su situación migratoria en el país, pero siguió trabajando.
+
+Dijo que entró el trabajo con el carnet vencido por la crisis de Haití y no pudo conseguir los documentos para regularizarse en el país.
+
+Expresó que luego de estar dos años de estar trabajando empezó a hacer los trámites para regularizar, y que le decía a su empleador que era difícil regularizar los trámites.
+
+Dijo que venció su documento en 2019, entró a trabajar con su carnet vencido, y como hay una crisis en Haití, no pudo regularizarse y es lo mismo que ha venido diciendo a la empresa.
+
+Manifestó que pasó todo su tiempo trabajando explicando por qué no pudo obtener su visa debido a que no pudo obtener el antecedente penal en Haití. Preguntado dijo que nadie le habría preguntado si estaba regular al momento de empezar a trabajar.
+
+Consultado indicó que el 7 de marzo de 2024 concurrió a la empresa y no le dejaron ingresar al trabajo, y sobre la materialización del despido, dice que llegó a las 7 am hora en que entraba y don Nelson le entregó un documento para firmar pero le dijo que no lo iba a firmar porque no lo entendía, le solicitó a don Nelson llevarse el documento para traducirlo o tomarle una foto, pero después se fue sin el documento a la inspección del trabajo, donde pidió una carta y le entregaron un documento donde mencionaban 24 mil pesos en el documento.
+
+iii. Testimonial:
+
+1. Declaró Nelson Zalaquett Novoa, cédula de identidad N°11.483.705-9, Jefe de personas.
+
+Previamente juramentado, indicó que el demandante era operario de producción, que fue contado en diciembre de 2020, aproximadamente el 17 de diciembre.
+
+Refirió que el demandante fue desvinculado por el artículo 160 N° 7 del Código del Trabajo, fue despido porque no logró poner al día su documentación, cédula de identidad, no tenía permiso de trabajo a pesar de las facilidades que la empresa le dio, como los permisos que se le dieron para hacer el trámite. Indica que se conversó con él varias veces diciéndole que debía regularizar su situación. Dijo que en esa época estaba vigente la extensión de la vigencia de su cédula por el Covid por un año, pero cuando caducó la extensión se le señaló que debía regularizar su situación.
+
+Sobre el desempeño del demandante como trabajador expresó que era buena, era un trabajador normal.
+
+Manifestó que la decisión de desvincularlo se tomó porque la empresa estaba en una irregularidad al tener contratado al demandante sin cédula de identidad vigente. Además, indicó que la cláusula del contrato decía que no iba a causar efectos si la persona no estaba al día con su cédula de identidad, esto le consta porque él es la persona a cargo de los contratos en la empresa.
+
+Contra preguntado, indicó que la causal de despido fue la del artículo. 160 N° 7 del Código del Trabajo.
+
+Habiéndosele exhibido el documento “contrato de trabajo” incorporado por la parte demandante, dijo que la cláusula sexta no aparece dentro mencionada dentro de las causales mencionadas en la cláusula once, pero de todos modos se configuraría el incumplimiento grave, aunque no esté mencionado en el contrato y no recuerda que aparezca en el reglamento interno.
+
+Además, se le exhibió al testigo el documento “Carta de aviso para terminación del contrato de trabajo de fecha 07 de marzo de 2023”, leyendo el motivo del despido. Preguntado, indica que él (el testigo) lo despidió, y que aunque no esté mencionado el incumplimiento en un artículo del contrato si se configura el incumplimiento grave de manera específica hay que proceder con la causa que corresponda.
+
+Consultado sobre si aparece en el reglamento interno el motivo por el que despidió al demandante, indicó que no lo recuerda. Preguntado, refirió que él contrata a los trabajadores en la empresa y se lo entregó de manera completa al demandante.
+
+Agregó que, al momento de contratar al actor, tenía los papeles al día con la prórroga; al momento de contratarlo solamente tenía la prórroga, en su oportunidad la vio, desconoce si se acompañó la prórroga al juicio y sobre quien lleva la custodia de las prórrogas. Indicó que no recuerda cuando venció el contrato del demandante.
+
+Refirió que él le escrituró el contrato al demandante, que normalmente se realiza por un mes, que al momento de contratarlo tenía una prórroga, pero no recuerda donde se encuentra dicha prórroga en la actualidad. Finalmente, indicó que en marzo de 2023 se dieron cuenta de la situación y decidieron despedirlo para no seguir en la ilegalidad en que se encontraban, consultado sobre desde cuando estaban en la ilegalidad indicó que desde el momento que empieza con el trámite y tiene resultados negativos, no tiene claridad de la fecha exacta.
+
+Preguntado sobre cuantos años lleva en Chile señaló que 6 años.
+
+QUINTO: A su turno, con el objeto de probar sus asertos, la parte demandante se valió de la siguiente evidencia.
+
+i. Documental:
+1. Contrato de trabajo de fecha 17 de diciembre de 2020.
+
+2. Carta de aviso para terminación del contrato de trabajo de fecha 07 de
+
+marzo de 2023.
+
+3. Certificado de solicitud de Visa Definitiva en Trámite ante el Servicio
+
+Nacional de Migraciones.
+
+ii. Confesional:
+
+Declaró Guillermo Antonio Urra Saldivia, cédula de identidad N° 10.116.196-K, Subgerente de Operaciones.
+
+Indicó que entró a trabajar el 2005 en marzo, como coordinador de calidad, y fue ascendiendo, como jefe de planta y subgerente de operaciones desde hace 10 años atrás aproximadamente, agregó que conoce a Nelson Zalaquett desde hace 4 ó 5 años, quien es jefe de personas, encargado de recursos humanos.
+
+Refirió que conoce al demandante quien ingresó a fines del 2020 a la empresa, fue contratado por don Nelson, consultado, dijo que no sabe si tenía los papeles atrasados. Preguntado refirió que el demandante fue despedido en marzo de 2023 por tener los papeles vencidos, pero no sabe desde cuándo, agregó que no le preguntó si tenía los papeles vencidos, no maneja el asunto administrativo. Refirió que don Nelson le comunica si hay papeles vencidos y se deben desvincular.
+
+Preguntado indicó que no sabe la causal del despido. Refirió que don Nelson redactó el contrato, sobre las cláusulas del mismo, preguntado indicó que no le consultaron sobre ellas para redactarlas.
+
+Señaló que el desempeño del demandante en la empresa fue excelente.
+
+Se le exhibieron el contrato de trabajo y la carta de aviso para término de contrato de trabajo, y se le preguntó si en la cláusula undécima aparece la cláusula sexta, indicando que no aparece en ese párrafo.
+
+Preguntado, expresó que sólo toma cuenta de la situación de que el demandante no tenía los papeles al día cuando se le despidió, y que al momento de contratarlo la administración tampoco le informó al respecto.
+
+Consultado, dijo que conoce el reglamento de la empresa, que no recuerda los incumplimientos graves del reglamento. Consultado manifestó que no sabe si la causal de no tener los papeles al día se encontraba en el contrato.
+
+iii. Testimonial:
+
+Se desistió.
+
+iv. Oficios
+
+Se incorporó oficio del Servicio Nacional de Migraciones, folio 43.
+
+v. Exhibición de documentos
+
+La parte demandada exhibió:
+
+1. Liquidaciones de sueldo por todo el periodo trabajado, esto es, desde el día 17 de diciembre de 2020, hasta el día 07 de marzo de 2023.
+
+2. Certificado histórico de pago de cotizaciones previsionales de don Dieu-Veny Beauvoir.
+
+Se da por cumplida la diligencia.
+
+La prueba documental de las partes queda en custodia del tribunal bajo el N°2716-2024
+
+SEXTO: En la carta de despido se menciona, en lo relevante, como fundamento de la misma que: “Nos permitimos comunicar a usted que con esta fecha, 7 de Marzo de 2023, se ha resuelto poner término al contrato de trabajo que le vincula con la empresa, lo anterior por la causal legal prevista en el artículo 160 N° 7 del Código del Trabajo, esto es, "incumplimiento grave de las obligaciones que impone el contrato". Lo anterior, dado que Ud, ha incumplido la cláusula sexta de su Contrato de Trabajo, que señala expresamente que "la obligación de prestar servicios emanada del presente contrato, sólo podrá cumplirse uno vez que el trabajador haya obtenido la visación de residencia correspondiente en Chile o el permiso especial de trabajo para extranjeros con visa en trámite". Actualmente, Ud. tiene su situación migratoria irregular, esto es, que su cedula de identidad no se encuentra vigente, tampoco cuenta su visa temporaria o definitiva vigente o en trámite ni con el permiso especial de trabajo para aquellas personas con visa en trámite, por lo que. no solo ha incumplido las obligaciones del contrato sino también nuestra legislación laboral y migratoria. Lo anterior, a pesar de que la Empresa en reiteradas oportunidades y de manera insistente le comunicó que debía mantener su situación migratoria regular para poder trabajar”.
+
+SÉPTIMO: Que para determinar judicialmente si un despido es o no justificado, indebido, o improcedente, cuando se ha alegado es necesario analizar la gravedad del incumplimiento contractual. Esto es, si es posible estimar como de una entidad suficiente el eventual incumplimiento del trabajador para que amerite la aplicación de la sanción más gravosa que consagra la legislación laboral de un empleador a un empleado, cual es la pérdida del trabajo sin el pago de indemnizaciones legales.
+
+OCTAVO: En el contrato de trabajo del actor se hacen relevantes de analizar especialmente dos cláusulas, la sexta y la undécima, la primera señala que “SEXTO: Plazo y Vigencia. El presente contrato, será de plazo, entre los días 17 de Diciembre de 2020 y 17 de Enero de 2021, sin perjuicio de la facultad del empleador de ponerle término cuando Concurra una cualquiera de las causales legales previstas en los artículos 159, 160 y 161 del Código del Trabajo. Se deja constancia que la obligación de prestar servicios emanada del presente contrato, solo podrá cumplirse una vez que el/a trabajador/a haya obtenido la visación de residencia correspondiente en Chile o el permiso especial de trabajo para extranjeros con visa en trámites”; mientras la undécima consagra que “DÉCIMO PRIMERO: Término del contrato por incumplimiento grave. Cualquier contravención a las cláusulas primera, séptima, octava, novena, y décima del presente contrato, se considerará por ambas partes como incumplimiento grave de las obligaciones que emanan del contrato de trabajo, según los términos del N7 del Articulo 160 del Código del Trabajo, y darán derecho a la Empresa para poner término de inmediato a este, sin perjuicio del incumplimientos de otras obligaciones de este contrato, de las inherentes a la relación laboral o las contenidos en los reglamentos o instrucciones de la Empresa”.
+
+Siendo la elaboración de estas cláusulas una facultad esencialmente de parte del empleador, y tal como puede apreciarse y señalaron en el mismo sentido tanto el testigo de la demandada como su absolvente, no consta que la demandada haya establecido como unas de las obligaciones que su incumplimiento grave la obtención de la visación de residencia correspondiente en Chile o el permiso especial de trabajo para extranjeros con visa en trámites.
+
+Este solo aspecto mencionado anteriormente es suficiente a juicio de este sentenciador para dar por no acreditado el incumplimiento grave que se alude por parte del empleador, sin perjuicio de ello, de la simple lectura de la cláusula sexta, pareciera entenderse que el contrato sólo se hará efectivo una vez que se obtengan los documentos de visación de residencia o los permisos especiales de trabajo, pero en los hechos está fuera de discusión que el actor empezó a prestar servicios el 17 de diciembre de 2020, por lo que la obligación para el trabajador contenida en la cláusula sexta del contrato de trabajo se hace en la práctica inaplicable si el empleador ya aceptó la configuración del contrato de trabajo, y por tanto no puede, posteriormente, alegar su incumplimiento para justificar el despido del trabajador.
+
+Por lo razonado, no cabe si no acoger la demanda de autos en lo resolutivo de esta sentencia.
+
+NOVENO: Estando dilucidado la cuestión de la justificación del despido, corresponde determinar la base de cálculo para el pago de las indemnizaciones, recargo legal y prestaciones solicitadas.
+
+Tomando en consideración la liquidación de sueldo del mes de febrero de 2023, el último trabajado en forma íntegra, y considerando que se trata de un trabajador con remuneración fija, y realizando los descuentos correspondientes, se considerará como base de cálculo la suma de $706.393.
+
+DÉCIMO: En cuanto a los 7 días de marzo de 2023 reclamados por el demandante, de acuerdo a la liquidación de sueldo de dicho mes y la base de cálculo antes establecida, se determina una diferencia a favor del trabajador de $4.435.- de la cual se ordenará su pago en lo resolutivo de esta sentencia.
+
+UNDÉCIMO: La prueba ha sido analizada de acuerdo a las reglas de la sana crítica, esto es de conformidad a las máximas de la experiencia, los conocimiento científicamente afianzados y las reglas de la lógica, y el restante material probatorio respecto del cual no hay referencia expresa en nada altera lo antes concluido, por cuanto los documentos aportados por las partes hacen referencia a vacaciones, permisos del empleador, un anexo de contrato de trabajo que extiende la relación de trabajo, certificado de cotizaciones y una respuesta del Servicio Nacional de Migraciones que no se relacionan con las cuestiones discutidas, y la declaración del demandante como la confesional del representante de la demandada, según lo consignado anteriormente, en nada alteran los hechos relevantes para arribar a las conclusiones anteriores.
+
+DUODÉCIMO: Atendido que no se accederá a la totalidad de lo solicitado por la parte demandante en lo resolutivo de esta sentencia, cada parte soportará sus costas.
+
+Por estas consideraciones y teniendo además presente lo que disponen los artículos 1, 2, 5, 7, 63, 160 ,162, 163, 168, 172, 173, 420, 425, 432, 445, 454, 455, 456, 459, inciso primero, todos del Código del Trabajo, y demás normas pertinentes, SE DECLARA:
+
+I. Que se acoge la demanda por despido injustificado impetrada por DIEU-VENY BEAUVOIR, cédula de identidad 26.476.392-4, en contra de MIEL ALIMENTOS SPA, RUT: 76.415.505-K, en cuanto se declara que el despido de que fue objeto el demandante ha sido improcedente y, en consecuencia, la demandada deberá pagar al trabajador las siguientes prestaciones e indemnizaciones laborales:
+a. $706.393 por concepto de indemnización sustitutiva del aviso previo.
+
+b. $1.412.786 por concepto de indemnización por dos años de servicio.
+
+c. $1.130.229 por concepto de recargo legal del 80% sobre la indemnización por años de servicio.
+
+d. $4.435 por concepto de diferencia de días trabajados en el mes de marzo de 2024.
+
+II. Las sumas antes indicadas deberán serlo con los reajustes e intereses de acuerdo a lo indicado en los artículos 63 y 173 del Código del Trabajo, según corresponda.
+
+III. Que se rechaza en lo demás la demanda.
+
+IV. Que cada parte pagará sus costas.
+
+V.- En cumplimiento a lo dispuesto en el inciso penúltimo del artículo 13 de la Ley N°14.908 y, siempre que exista la obligación legal de retener pensión de alimentos en relación al trabajador, lo que deberá informar al Tribunal, el empleador deberá descontar, retener, pagar y acompañar el comprobante de pago de las sumas a que se refieren los incisos cuarto y quinto del artículo 13 de la citada ley.
+
+Notifíquese esta sentencia por correo electrónico a las partes.
+
+Regístrese y archívese, en su oportunidad.
+
+RIT.: O-195-2023
+
+RUC.: 23- 4-0477570-7
+
+SENTENCIA DICTADA POR FRANCISCO ESTEBAN GUERRERO RETAMALES, JUEZ SUPLENTE DEL JUZGADO DE LETRAS DE COLINA.
+
+En Colina a doce de agosto de dos mil veinticuatro, se notificó por el estado diario la resolución precedente.
