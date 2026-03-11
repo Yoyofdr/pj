@@ -1,0 +1,78 @@
+METADATA
+
+case_id: c9f2fe55f8dd937ee3546cc0d28d274d90e1f248
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046549
+
+rol: 7944-2026
+
+fecha_sentencia: 2026-03-03
+
+caratulado: BARRIOS CABEZA ALEJANDRO CONTRA COMISIÓN DE LIBERTAD CONDICIONAL
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, tres de marzo de dos mil veintiséis.
+Vistos:
+Se confirma la sentencia apelada de diecisiete de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N°Amparo-551-2026.
+Regístrese y devuélvase.
+Rol N°7942-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Santiago
+Santiago, diecisiete de febrero de dos mil veintiséis.
+
+Al folio 10: a todo, téngase presente.
+Visto y teniendo presente:
+
+Primero: Que comparece doña Karen Godoy Schmied, abogada y Defensora Penal Penitenciaria, en favor de Hanser Matías Pino Silva, quien se encuentra privado de libertad en el Centro de Detención Preventiva Santiago Sur, e interpone acción constitucional de amparo en contra de la Comisión de Libertad Condicional de la Corte de Apelaciones de Santiago. Funda su acción en que la recurrida, mediante resolución de 28 de octubre de 2025, denegó la libertad condicional a su representado, decisión que califica de ilegal y arbitraria.
+
+Expone que el amparado se encuentra cumpliendo una condena de 3 años y un día por su responsabilidad como autor en un delito de robo en lugar habitado, iniciando su cumplimiento el 21 de julio de 2023. Agrega que la fecha de término es el 22 de julio de 2026 y que el tiempo mínimo para postular al beneficio se verificó el 22 de julio de 2025.
+Adiciona que el interno cumple con todos los requisitos exigidos por el Decreto Ley Nro. 321, manteniendo seis bimestres de conducta calificada como “Muy Buena” y cuenta con el informe psicosocial elaborado por Gendarmería de Chile conforme al artículo 2 numeral 3° del citado cuerpo normativo.
+
+Señala que, no obstante verificarse tales exigencias, la Comisión rechazó la postulación por estimar que no se cumpliría dicho requisito, decisión que desconocería el sentido y finalidad de la libertad condicional, definida en el artículo 1° del mismo decreto ley como un medio de prueba de los avances en el proceso de reinserción social del condenado.
+
+Añade que, en el presente caso, la Comisión se limitó a referir aspectos negativos contenidos en el informe, lo que no resulta suficiente si no se fundamenta adecuadamente por qué tales antecedentes conducirían necesariamente al cumplimiento del saldo de la pena en encierro y no bajo un régimen de libertad condicional sujeto a un plan de intervención y supervisión.
+
+Solicita, en definitiva, se acoja el recurso y se ordene otorgar la libertad condicional.
+
+Segundo: Que, informando al tenor del recurso, la presidenta de la Comisión de Libertad Condicional de la Corte de Apelaciones de Santiago, ministra Sra. Sandra Araya Naranjo relata que, efectivamente, el amparado fue postulado por el tribunal de conducta del Centro de Detención Preventiva Santiago Sur, reconociéndose el cumplimiento de los requisitos de tiempo mínimo y conducta intachable exigidos por el artículo 2 Nros.1 y 2 del Decreto Ley Nro. 321. Sin embargo, explica que la decisión de rechazo fue adoptada por la unanimidad de los miembros de la Comisión, fundada en el análisis de los antecedentes técnicos proporcionados por Gendarmería de Chile, conforme lo exige el artículo 2 Nro. 3 del citado cuerpo normativo.
+
+Precisa que: “[e]ntre los documentos analizados por esta Comisión es posible advertir que el postulante es un interno de mediano compromiso delictual, pero alto riesgo de reincidencia, evidenciando necesidades de intervención especializada en áreas educación/empleo, asociación a pares, patrón antisocial, uso del tiempo libre, consumo de alcohol/drogas, familia/pareja y actitud/orientación pro criminal, todo lo cual no ha sido abordado a través de un plan de intervención psicosocial ni con su participación en otras actividades de reinserción de carácter recreativas, educativas o culturales.
+
+En cuanto a la conciencia del delito y daño es inexistente, pues niega el actual delito sin visualizar a las víctimas y las consecuencias de sus actos. En lo tocante a su disposición al cambio, es posible presumir que se ubica en fase pre contemplativa […]”.
+
+Por tanto, la Comisión estimó que no se configuran los presupuestos de reinserción social necesarios para conceder el beneficio.
+
+Tercero: Que, la acción constitucional de amparo, consagrada en el artículo 21 de la Carta Fundamental, tiene por objeto restablecer el imperio del derecho y asegurar la debida protección del afectado cuando su libertad personal o seguridad individual se vean privadas, perturbadas o amenazadas por actos ilegales o arbitrarios de autoridad o de particulares. En consecuencia, corresponde a esta Corte determinar si la resolución impugnada adolece de tales vicios.
+
+Cuarto: Que, para resolver la controversia, es imperioso recordar que la libertad condicional no constituye un derecho adquirido por el solo cumplimiento de los requisitos formales de tiempo y conducta, sino que es un beneficio penitenciario y una modalidad de cumplimiento de la pena en el medio libre que exige formular una proyección razonada sobre las perspectivas de reinserción en el medio libre. Su otorgamiento supone, por ende, que el condenado ha demostrado avances concretos y suficientes en su proceso de reinserción social.
+
+Quinto: Que, el Decreto Ley Nro. 321, en su actual redacción, establece en su artículo 2° los requisitos copulativos para acceder al beneficio. Si bien los numerales 1 y 2 refieren a aspectos objetivos (tiempo de condena y conducta intachable), el numeral 3 introduce un elemento técnico indispensable: contar con un informe de postulación psicosocial elaborado por un equipo profesional del área técnica de Gendarmería de Chile, que permita orientar sobre los factores de riesgo de reincidencia y las posibilidades de reinserción social.
+
+Sexto: Que, del mérito de los antecedentes tenidos a la vista, en particular el informe psicosocial evacuado por Gendarmería de Chile para el proceso del segundo semestre del año 2025 se desprende que el amparado presenta un riesgo de reincidencia alto, fruto de áreas que no han sido tratadas u déficits no superados. El informe indica que el interno mantiene necesidades de intervención en educación y empleo, asociación a pares y patrón antisocial, uso de tiempo libre, consumo de alcohol y drogas, familia y pareja y actitud procriminal. Además, advierte que el amparado no reconoce el daño causado a las víctimas ni visualiza consecuencias negativas del delito ni de la condena, validando la actividad delictual como medio regular para subsistir (“laboral”).
+
+Séptimo: Que, la Comisión de Libertad Condicional, al analizar dichos antecedentes, ha actuado dentro de la esfera de su competencia y con estricto apego a la legalidad vigente. La decisión de denegar el beneficio no se sustenta en un capricho o en la mera gravedad de los delitos pretéritos -lo cual vulneraría el principio de ne bis in idem-, sino en la valoración actual y técnica de la falta de idoneidad del condenado para reinsertarse en el medio libre en este momento. El hecho de que el amparado cumpla con los requisitos de tiempo y conducta funcionaria no obliga a la Comisión a conceder el beneficio si el informe técnico -requisito del artículo 2° Nro. 3 del D.L. 321- es desfavorable. La ley exige que el postulante demuestre progresos o avances en su proceso de reinserción, y la conclusión técnica de los expertos de Gendarmería es que persisten factores de riesgo que es menester intervenir.
+
+Octavo: Que, no corresponde a la sede judicial, a través de esta acción de emergencia, sustituir la evaluación técnica realizada por los organismos especializados, salvo que exista una irracionalidad o una ilegalidad evidentes; circunstancias que no se observan en la especie. La resolución impugnada se encuentra debidamente fundada y se ajusta a derecho, por lo que no puede ser calificada de ilegal ni arbitraria.
+
+Noveno: Que, en consecuencia, al no existir un acto ilegal o arbitrario que vulnere la libertad personal del amparado, quien se encuentra cumpliendo condena en virtud de sentencia ejecutoriada dictadas por tribunal competente, la presente acción constitucional no puede prosperar.
+
+Por estas consideraciones y de conformidad, además, con lo prevenido en el artículo 21 de la Constitución Política de la República, artículo 2° del Decreto Ley N°321 y Auto Acordado de la Excma. Corte Suprema sobre Tramitación y Fallo del Recurso de Amparo, se rechaza, sin costas, el recurso de amparo interpuesto en favor de Hanser Matías Pino Silva en contra de la Comisión de Libertad Condicional de la Corte de Apelaciones de Santiago.
+
+Regístrese, comuníquese y archívese en su oportunidad.
+
+N°Amparo-551-2026.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, tres de marzo de dos mil veintiséis. Vistos:Se confirma la sentencia apelada de diecisiete de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N°Amparo-551-2026.Regístrese y devuélvase.Rol N°7942-2026. Santiago, tres de marzo de dos mil veintiséis. Vistos:Se confirma la sentencia apelada de diecisiete de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N°Amparo-551-2026.Regístrese y devuélvase.Rol N°7942-2026. Sentencia anonimizada
