@@ -1,0 +1,56 @@
+METADATA
+
+case_id: 3b6ed11c2af346da5555b682f960f3516a6f4a0d
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7968233
+
+rol: 55319-2025
+
+fecha_sentencia: 2025-12-22
+
+caratulado: LACLE ZAVALA ALBERTO JESUS CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Corte Apelaciones ▼
+Santiago, veintidós de diciembre de dos mil veinticinco.
+
+Vistos y teniendo únicamente presente:
+
+Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de tres de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N° 4879 - 2025, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.
+
+Regístrese y devuélvase.
+
+Rol N° 55319 - 2025
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Talca, cuatro de diciembre de dos mil veinticinco.
+Resolviendo presentación de folio N°1:
+
+VISTO Y CONSIDERANDO:
+1°. Que la acción constitucional de amparo regulada en el artículo 21 de la Constitución Política de la República, es de competencia de la Corte de Apelaciones respectiva.
+
+2°. Que, en la presente causa, se deduce recurso de amparo por el abogado Luis Felipe León Quinteros, en contra de la sentencia de 1 de agosto de 2023, dictada por la Segunda Sala de la Corte de Apelaciones de Rancagua, inserta en causa Rol N°957-2023/Penal, que rechaza el recurso de nulidad deducido por la defensa del sentenciado Humberto Guillermo Barra Vergara.
+
+3°. Que, declarar admisible el recurso y conocer sobre el fondo, implicaría darle competencia como tribunal superior a una Corte de Apelaciones respecto de otra, lo que afecta las normas sobre competencia que regulan la materia y que se encuentran contenidas en el Código Orgánico de Tribunales, entre ellas la del grado y jerarquía y puede constituir, incluso, una vulneración de lo dispuesto por el artículo 7º de la Constitución Política de la República.
+
+Por lo antes expuesto se declara INADMISIBLE, por improcedente, el recurso de amparo interpuesto por el abogado Luis Felipe León Quinteros, contra de lo resuelto el 1 de agosto de 2023, por la Segunda Sala de la Corte de Apelaciones de Rancagua, en causa Rol N°957-2023/Penal.
+
+Regístrese y archívese, en su oportunidad.
+
+Rol N°1009-2025/Amparo.
+
+EDA/eda
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Talca, cuatro de diciembre de dos mil veinticinco. Resolviendo presentación de folio N°1:VISTO Y CONSIDERANDO:1°. Que la acción constitucional de amparo regulada en el artículo 21 de la Constitución Política de la República, es de competencia de la Corte de Apelaciones respectiva.2°. Que, en la presente causa, se deduce recurso de amparo por el abogado Luis Felipe León Quinteros, en contra de la sentencia de 1 de agosto de 2023, dictada por la Segunda Sala de la Corte de Apelaciones de Rancagua, inserta en causa Rol N°957-2023/Penal, que rechaza el recurso de nulidad deducido por la defensa del sentenciado Humberto Guillermo Barra Vergara.3°. Que, declarar admisible el recurso y conocer sobre el fondo, implicaría darle competencia como tribunal superior a una Corte de Apelaciones respecto de otra, lo que afecta las normas sobre competencia que regulan la materia y que se encuentran contenidas en el Código Orgánico de Tribunales, entre ellas la del grado y jerarquía y puede constituir, incluso, una vulneración de lo dispuesto por el artículo 7º de la Constitución Política de la República.Por lo antes expuesto se declara INADMISIBLE, por improcedente, el recurso de amparo interpuesto por el abogado Luis Felipe León Quinteros, contra de lo resuelto el 1 de agosto de 2023, por la Segunda Sala de la Corte de Apelaciones de Rancagua, en causa Rol N°957-2023/Penal.Regístrese y archívese, en su oportunidad.Rol N°1009-2025/Amparo.EDA/eda                        ⚠                      Sin documento en esta instancia - pdf

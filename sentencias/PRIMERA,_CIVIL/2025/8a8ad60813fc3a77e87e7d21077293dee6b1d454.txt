@@ -1,0 +1,107 @@
+METADATA
+
+case_id: 8a8ad60813fc3a77e87e7d21077293dee6b1d454
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7967731
+
+rol: 43582-2025
+
+fecha_sentencia: 2025-12-22
+
+caratulado: ANONIMIZADO
+
+sala: PRIMERA, CIVIL
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: DESISTIDO RECURSO
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintidós de diciembre de dos mil veinticinco.
+
+Vistos:
+
+Se confirma la sentencia apelada de veintiocho de noviembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Valparaíso, en el Ingreso Corte N°4580-2025.
+
+Acordada con el voto en contra del Ministro Sr. Valderrama, quien estuvo por revocar la sentencia recurrida y, consecuencialmente, rechazar el amparo impetrado, teniendo para ello presente que el acto impugnado fue dictado por la Autoridad Administrativa competente, en un caso previsto por la ley, encontrándose además debidamente fundados, lo que descarta la existencia de ilegalidad en su emisión.
+
+Regístrese y devuélvase.
+
+Rol N°53489-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Valparaíso
+Valparaíso, veintiocho de noviembre de dos mil veinticinco.
+
+VISTOS:
+A folio 1, Daniel Esteban Ortega Cadena, abogado, deduce acción de amparo en favor de Jairo Moisés Loayza Uyuli, de nacionalidad boliviana, y en contra del Servicio Nacional de Migraciones, por el acto que considera ilegal consistente en la dictación de la Resolución Exenta N° 25409917, de 4 de agosto de 2025, que dispuso su expulsión del territorio nacional, lo que estima vulnera su derecho a la libertad personal, consagrado en el artículo 19 N°7 de la Constitución Política de la República.
+
+Expone que, el amparado es ciudadano boliviano y, si bien registra un ingreso irregular al país en el año 2020 por paso no habilitado, dicha decisión obedeció al contexto de cierre de fronteras por la pandemia de COVID-19 y a la necesidad de reunirse con su madre, doña Janette Uyuli, quien es titular de residencia definitiva en Chile.
+
+Argumenta que, la autoridad administrativa dictó la orden de expulsión basándose únicamente en el ingreso irregular, omitiendo ponderar el arraigo familiar y la ausencia de antecedentes penales del amparado, vulnerando el principio de reunificación familiar y los requisitos del artículo 129 de la Ley N° 21.325, al señalar erróneamente en el acto impugnado que no se acreditaron vínculos con residentes definitivos.
+
+Sostiene que, la medida resulta desproporcionada y que la prohibición de ingreso por 5 años amenaza su libertad personal y quiebra la unidad familiar protegida constitucionalmente, y no tomó en consideración que cuenta con contrato de trabajo de carácter indefinido.
+
+Concluye solicitando que se revoque la Resolución Exenta N° 25409917 de fecha 4 de agosto de 2025.
+
+Acompaña al recurso los siguientes documentos: a) Copia de Resolución Exenta N° 25409917; b) Cédula de identidad y pasaporte del amparado; c) Cédula de identidad de la madre del amparado, doña Janette Uyuli; d) Certificado de nacimiento del amparado que acredita filiación; e) Contratos de trabajo y arrendamiento; f) Certificado de antecedentes penales de Bolivia sin anotaciones.
+
+A folio 4, evacúa informe Daniel Alberto Baltra Goity, en representación de la Dirección Regional de Valparaíso del Servicio Nacional de Migraciones.
+
+Alega, en primer término, la improcedencia de la acción, por existir una vía especial de reclamación consagrada en el artículo 141 de la Ley N° 21.325.
+
+En cuanto al fondo, señala que la medida de expulsión se encuentra ajustada a derecho, fundada en el ingreso por paso no habilitado eludiendo el control migratorio, conducta tipificada como causal de expulsión en el artículo 127 N° 1 en relación al 32 N° 3 de la Ley de Migración. Agrega que, se respetó el debido proceso notificando el inicio del procedimiento sancionatorio, sin que el amparado presentara descargos dentro del plazo legal para acreditar vínculos familiares o arraigo, por lo que la autoridad resolvió con los antecedentes disponibles en sus registros.
+
+Finalmente pide se rechace el recurso interpuesto en todas sus partes, debido a que la medida de expulsión impugnada fue ordenada en virtud de causales legales expresas, por autoridad competente, dentro de sus facultades legales, con estricto apego a la Constitución y las leyes.
+
+Acompaña al informe los siguientes documentos: a) Copia de escritura pública de mandato judicial; b) Oficio Ordinario N° 73761723 de inicio de procedimiento; c) Resolución Exenta N° 25409917 de expulsión.
+
+A folio 11, evacúa informe Alejandra Quevas Daluz, Subprefecta, Jefa Subrogante de la Prefectura Provincial de San Antonio de la Policía de Investigaciones de Chile.
+
+Señala que, en sus sistemas consta la orden de expulsión vigente decretada mediante Resolución Exenta N° 25409917, la cual fue notificada por correo electrónico, conforme a la ley. Menciona que, consultados sus sistemas, el amparado no registra antecedentes policiales ni encargos judiciales pendientes en su contra.
+
+A folio 12, se ordenó traer los autos en relación.
+
+Con lo relacionado y considerando:
+
+I. - En cuanto a la excepción de improcedencia:
+
+Primero: Que, dicha alegación será desestimada, toda vez que, si bien la ley contempla un recurso especial de reclamación en el proceso de expulsión, de conformidad al artículo 21 de la Carta Fundamental esta acción procede toda vez que exista alguna privación, perturbación o amenaza en la libertad personal o seguridad individual, que es precisamente lo alegado en este caso.
+
+II.- En cuanto al fondo:
+
+Segundo: Que, la acción de amparo es un proceso de tutela urgente del derecho fundamental a la libertad personal y seguridad individual, garantía consagrada en el artículo 19 N°7 de la Constitución Política de la República, procedente en aquellos casos en que una persona fuere arrestada, detenida o presa con infracción a la Constitución o a las leyes o sufra cualquier otra privación, perturbación o amenaza al derecho fundamental antes aludido, fuera de los casos en que el ordenamiento jurídico lo permite.
+
+Tercero: Que, a través de esta vía cautelar se impugna la Resolución Exenta N°25409917, de 4 de agosto de 2025, dictada por el Servicio Nacional de Migraciones, que decretó la expulsión del amparado Jairo Moisés Loayza Uyuli y la prohibición de ingreso al país por 5 años, solicitando que se revoque dicho acto administrativo.
+
+Cuarto: Que, el recurrido informa, en síntesis, que el acto impugnado se ajusta a la legalidad vigente, fundado en el ingreso clandestino del amparado, quien no presentó descargos en el procedimiento administrativo para acreditar arraigo familiar.
+
+Quinto: Que, para la resolución del asunto se debe tener presente que, el artículo 127 de la Ley 21.325, regula las causales de expulsión para quienes carezcan de un permiso que los habilite para residir legalmente en el país, señalando en su numeral 1° como causal de esta medida “ingresar al país no obstante configurarse a su respecto una causal de prohibición de ingreso de las señaladas en el artículo 32”. Por su parte, el mencionado artículo 32 de la misma normativa, regula en su numeral 3°, como prohibición imperativa la situación de quienes ingresen por un paso no habilitado, eludiendo el control migratorio.
+
+Sexto: Que, a su vez, se debe tener en consideración lo dispuesto en el artículo 129 de la Ley N°21.325, que establece: “Consideraciones. Previamente a dictar una medida de expulsión, en su fundamentación el Servicio considerará respecto del extranjero afectado: 1. La gravedad de los hechos en los que se sustenta la causal de expulsión. 2. Los antecedentes delictuales que pudiera tener. 3. La reiteración de infracciones migratorias. 4. El período de residencia regular en Chile. 5. Tener cónyuge, conviviente o padres chilenos o radicados en Chile con residencia definitiva. 6. Tener hijos chilenos o extranjeros con residencia definitiva o radicados en el país, así como la edad de los mismos, la relación directa y regular y el cumplimiento de las obligaciones de familia, tomando en consideración el interés superior del niño, su derecho a ser oído y la unidad familiar. 7. Las contribuciones de índole social, política, cultural, artística, científica o económica realizadas por el extranjero durante su estadía en el territorio nacional.”
+
+Séptimo: Que, del análisis de la resolución que por esta vía se impugna, aparece que, en su considerando tercero, relativo a los antecedentes ponderados por el Servicio, se indica que el amparado no registra vínculos familiares de los mencionados en el numeral 5 de la norma legal antes transcrita.
+
+Sexto: Que, en ese contexto, y de acuerdo a los antecedentes acompañados en esta instancia, en especial el certificado de nacimiento del actor, que registra como madre a Janette Uyuli Encinas, y la cédula de identidad de ésta última, que da cuenta de ser acreedora de residencia definitiva, permiten concluir que la actuación del Servicio recurrido, devino en ilegal desde que la decisión adoptada no ponderó dicha documentación y desoye el principio de unificación familiar consagrado en la Ley N° 21.325, así como el deber de protección de la familia al que se hallan compelidos los órganos de la Administración del Estado de acuerdo con el mandato constitucional del artículo 1 de la Carta Fundamental.
+
+Séptimo: Que, además, se ha acreditado el arraigo social y laboral del actor en el país, toda vez que cuenta con contrato de trabajo de carácter indefinido desde el 23 de diciembre de 2024, motivos suficientes para acoger el presente arbitrio.
+
+Por estas consideraciones y de conformidad con lo que dispone el artículo 21 de la Constitución Política de la República y Auto Acordado sobre la materia, se declara:
+
+I.- Que, se rechaza la alegación de improcedencia;
+
+II.- Que, se acoge, sin costas, el recurso de amparo interpuesto en favor de Jairo Moisés Loayza Uyuli en contra del Servicio Nacional de Migraciones y, en consecuencia, se deja sin Resolución Exenta N°25409917, de 4 de agosto de 2025, debiendo la autoridad reabrir el procedimiento migratorio con el objeto de ponderar debidamente los documentos acompañados en esta instancia, a que se aluden en el considerando sexto, tras lo cual deberá resolver como en derecho corresponda.
+
+Déjese sin efecto la orden de no innovar decretada a folio 2.
+
+Regístrese, comuníquese por la vía más expedita y, en su oportunidad, archívese.
+
+N°Amparo-4580-2025.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de ValparaísoValparaíso, veintiocho de noviembre de dos mil veinticinco.VISTOS:A folio 1, Daniel Esteban Ortega Cadena, abogado, deduce acción de amparo en favor de Jairo Moisés Loayza Uyuli, de nacionalidad boliviana, y en contra del Servicio Nacional de Migraciones, por el acto que considera ilegal consistente en la dictación de la Resolución Exenta N° 25409917, de 4 de agosto de 2025, que dispuso su expulsión del territorio nacional, lo que estima vulnera su derecho a la libertad personal, consagrado en el artículo 19 N°7 de la Constitución Política de la República.Expone que, el amparado es ciudadano boliviano y, si bien registra un ingreso irregular al país en el año 2020 por paso no habilitado, dicha decisión obedeció al contexto de cierre de fronteras por la pandemia de COVID-19 y a la necesidad de reunirse con su madre, doña Janette Uyuli, quien es titular de residencia definitiva en Chile. Argumenta que, la autoridad administrativa dictó la orden de expulsión basándose únicamente en el ingreso irregular, omitiendo ponderar el arraigo familiar y la ausencia de antecedentes penales del amparado, vulnerando el principio de reunificación familiar y los requisitos del artículo 129 de la Ley N° 21.325, al señalar erróneamente en el acto impugnado que no se acreditaron vínculos con residentes definitivos. Sostiene que, la medida resulta desproporcionada y que la prohibición de ingreso por 5 años amenaza su libertad personal y quiebra la unidad familiar protegida constitucionalmente, y no tomó en consideración que cuenta con contrato de trabajo de carácter indefinido. Concluye solicitando que se revoque la Resolución Exenta N° 25409917 de fecha 4 de agosto de 2025.Acompaña al recurso los siguientes documentos: a) Copia de Resolución Exenta N° 25409917; b) Cédula de identidad y pasaporte del amparado; c) Cédula de identidad de la madre del amparado, doña Janette Uyuli; d) Certificado de nacimiento del amparado que acredita filiación; e) Contratos de trabajo y arrendamiento; f) Certificado de antecedentes penales de Bolivia sin anotaciones.A folio 4, evacúa informe Daniel Alberto Baltra Goity, en representación de la Dirección Regional de Valparaíso del Servicio Nacional de Migraciones.Alega, en primer término, la improcedencia de la acción, por existir una vía especial de reclamación consagrada en el artículo 141 de la Ley N° 21.325. En cuanto al fondo, señala que la medida de expulsión se encuentra ajustada a derecho, fundada en el ingreso por paso no habilitado eludiendo el control migratorio, conducta tipificada como causal de expulsión en el artículo 127 N° 1 en relación al 32 N° 3 de la Ley de Migración. Agrega que, se respetó el debido proceso notificando el inicio del procedimiento sancionatorio, sin que el amparado presentara descargos dentro del plazo legal para acreditar vínculos familiares o arraigo, por lo que la autoridad resolvió con los antecedentes disponibles en sus registros.Finalmente pide se rechace el recurso interpuesto en todas sus partes, debido a que la medida de expulsión impugnada fue ordenada en virtud de causales legales expresas, por autoridad competente, dentro de sus facultades legales, con estricto apego a la Constitución y las leyes.Acompaña al informe los siguientes documentos: a) Copia de escritura pública de mandato judicial; b) Oficio Ordinario N° 73761723 de inicio de procedimiento; c) Resolución Exenta N° 25409917 de expulsión.A folio 11, evacúa informe Alejandra Quevas Daluz, Subprefecta, Jefa Subrogante de la Prefectura Provincial de San Antonio de la Policía de Investigaciones de Chile.Señala que, en sus sistemas consta la orden de expulsión vigente decretada mediante Resolución Exenta N° 25409917, la cual fue notificada por correo electrónico, conforme a la ley. Menciona que, consultados sus sistemas, el amparado no registra antecedentes policiales ni encargos judiciales pendientes en su contra.A folio 12, se ordenó traer los autos en relación.Con lo relacionado y considerando:I. - En cuanto a la excepción de improcedencia:Primero: Que, dicha alegación será desestimada, toda vez que, si bien la ley contempla un recurso especial de reclamación en el proceso de expulsión, de conformidad al artículo 21 de la Carta Fundamental esta acción procede toda vez que exista alguna privación, perturbación o amenaza en la libertad personal o seguridad individual, que es precisamente lo alegado en este caso.II.- En cuanto al fondo:Segundo: Que, la acción de amparo es un proceso de tutela urgente del derecho fundamental a la libertad personal y seguridad individual, garantía consagrada en el artículo 19 N°7 de la Constitución Política de la República, procedente en aquellos casos en que una persona fuere arrestada, detenida o presa con infracción a la Constitución o a las leyes o sufra cualquier otra privación, perturbación o amenaza al derecho fundamental antes aludido, fuera de los casos en que el ordenamiento jurídico lo permite.Tercero: Que, a través de esta vía cautelar se impugna la Resolución Exenta N°25409917, de 4 de agosto de 2025, dictada por el Servicio Nacional de Migraciones, que decretó la expulsión del amparado Jairo Moisés Loayza Uyuli y la prohibición de ingreso al país por 5 años, solicitando que se revoque dicho acto administrativo.Cuarto: Que, el recurrido informa, en síntesis, que el acto impugnado se ajusta a la legalidad vigente, fundado en el ingreso clandestino del amparado, quien no presentó descargos en el procedimiento administrativo para acreditar arraigo familiar.Quinto: Que, para la resolución del asunto se debe tener presente que, el artículo 127 de la Ley 21.325, regula las causales de expulsión para quienes carezcan de un permiso que los habilite para residir legalmente en el país, señalando en su numeral 1° como causal de esta medida “ingresar al país no obstante configurarse a su respecto una causal de prohibición de ingreso de las señaladas en el artículo 32”. Por su parte, el mencionado artículo 32 de la misma normativa, regula en su numeral 3°, como prohibición imperativa la situación de quienes ingresen por un paso no habilitado, eludiendo el control migratorio.Sexto: Que, a su vez, se debe tener en consideración lo dispuesto en el artículo 129 de la Ley N°21.325, que establece: “Consideraciones. Previamente a dictar una medida de expulsión, en su fundamentación el Servicio considerará respecto del extranjero afectado: 1. La gravedad de los hechos en los que se sustenta la causal de expulsión. 2. Los antecedentes delictuales que pudiera tener. 3. La reiteración de infracciones migratorias. 4. El período de residencia regular en Chile. 5. Tener cónyuge, conviviente o padres chilenos o radicados en Chile con residencia definitiva. 6. Tener hijos chilenos o extranjeros con residencia definitiva o radicados en el país, así como la edad de los mismos, la relación directa y regular y el cumplimiento de las obligaciones de familia, tomando en consideración el interés superior del niño, su derecho a ser oído y la unidad familiar. 7. Las contribuciones de índole social, política, cultural, artística, científica o económica realizadas por el extranjero durante su estadía en el territorio nacional.”Séptimo: Que, del análisis de la resolución que por esta vía se impugna, aparece que, en su considerando tercero, relativo a los antecedentes ponderados por el Servicio, se indica que el amparado no registra vínculos familiares de los mencionados en el numeral 5 de la norma legal antes transcrita.Sexto: Que, en ese contexto, y de acuerdo a los antecedentes acompañados en esta instancia, en especial el certificado de nacimiento del actor, que registra como madre a Janette Uyuli Encinas, y la cédula  de identidad de ésta última, que da cuenta de ser acreedora de residencia definitiva, permiten concluir que la actuación del Servicio recurrido, devino en ilegal desde que la decisión adoptada no ponderó dicha documentación y desoye el principio de unificación familiar consagrado en la Ley N° 21.325, así como el deber de protección de la familia al que se hallan compelidos los órganos de la Administración del Estado de acuerdo con el mandato constitucional del artículo 1 de la Carta Fundamental. Séptimo: Que, además, se ha acreditado el arraigo social y laboral del actor en el país, toda vez que cuenta con contrato de trabajo de carácter indefinido desde el 23 de diciembre de 2024, motivos suficientes para acoger el presente arbitrio.Por estas consideraciones y de conformidad con lo que dispone el artículo 21 de la Constitución Política de la República y Auto Acordado sobre la materia, se declara:I.- Que, se rechaza la alegación de improcedencia;II.- Que, se acoge, sin costas, el recurso de amparo interpuesto en favor de Jairo Moisés Loayza Uyuli en contra del Servicio Nacional de Migraciones y, en consecuencia, se deja sin Resolución Exenta N°25409917, de 4 de agosto de 2025, debiendo la autoridad reabrir el procedimiento migratorio con el objeto de ponderar debidamente los documentos acompañados en esta instancia, a que se aluden en el considerando sexto, tras lo cual deberá resolver como en derecho corresponda.Déjese sin efecto la orden de no innovar decretada a folio 2.Regístrese, comuníquese por la vía más expedita y, en su oportunidad, archívese.N°Amparo-4580-2025.                        ⚠                      Sin documento en esta instancia - pdf

@@ -1,0 +1,70 @@
+METADATA
+
+case_id: a4a4c75c3da3c37c476456ca4b811acdd26d9ed2
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7967732
+
+rol: 40495-2025
+
+fecha_sentencia: 2025-12-22
+
+caratulado: RUIZ / ROSAS
+
+sala: PRIMERA, CIVIL
+
+materias: ▪ Admisibilidad del recurso de casación en el fondo
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: RECHAZA CASACION EN EL FONDO
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintidós de diciembre de dos mil veinticinco.
+
+Vistos:
+
+Se confirma la sentencia apelada de veinticuatro de noviembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Valdivia, en el Ingreso Corte N°452-2025.
+
+Regístrese y devuélvase.
+
+Rol N°53479-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Valdivia, veinticuatro de noviembre de dos mil veinticinco.
+
+Visto:
+
+1. A folio 1 Camilo Bahamondes Oses, Abogado Defensor Privado, por el condenado Johao Peña Pizarro, en causa Rit 6297-2025 del Juzgado de Garantía de Valdivia y que actualmente cumple condena en el Centro Penitenciario de Valdivia, dedujo Acción Constitucional de Amparo contra las resoluciones de 30 de octubre y 11 de noviembre de 2025 por las que se rechazó la impugnación de la sanción impuesta al amparado sin escuchar a la parte solicitante.
+
+Indicó que el 29 de septiembre interpuso recurso de reposición contra una resolución que autorizaba una sanción intrapenitenciaria contra el amparado pidiendo audiencia para su impugnación; tal petición fue acogida por el Tribunal y citó a audiencia para el 30 de octubre de 2025 a las 09:00.
+
+Agregó con fecha 27 de octubre de 2025 solicitó al Tribunal de Garantía autorización para asistir a la audiencia fijada vía remota, no recibiendo ninguna resolución de respuesta por lo que el 29 de octubre pidió se fijara una nueva fecha, ocurriendo que el día 30 de octubre en la mañana un familiar de su representado le comunicó que la audiencia se había realizado y que habían rechazado la impugnación; tras ello ese mismo día recibió a eso de las 14:52 hrs una notificación del Tribunal de Garantía que lo autorizaba para comparecer vía remota a la audiencia que había sido ya realizada hace casi 6 horas antes. Al escuchar el audio de tal audiencia el juez indica 2 veces que había sido autorizado para comparecer vía remota y que había decidido no asistir, no obstante que la resolución la había firmado el juez a las 07:32 de la mañana y le fue notificada recién a las 15:52 hrs.
+
+Señaló que por lo anterior interpuso reposición extraordinaria haciendo una exposición detallada de lo ocurrido pidiendo solo se fijara una nueva fecha y se le autorizara acceder vía remota, lo cual fue rechazado por el Tribunal al estimar improcedente la reposición y sin perjuicio de que “la regla general de comparecencia a audiencias es la presencialidad, siendo de carga del peticionario todas las consecuencias negativas que surjan por su incomparecencia y además, que el solicitante pudo de todas formas conectarse a la audiencia vía zoom sin que conste fehacientemente que haya cumplido con tal diligencia.”
+Indicó que lo anterior hace que la resolución de fecha 30 de octubre de 2025 sea además de ilegal y arbitraria absolutamente contradictoria ya que el tribunal resolvió rechazar la impugnación de la sanción sin escuchar a la parte que la solicitó; indicando que aun cuando había sido autorizado para comparecer vía remota a la audiencia no lo había hecho y posteriormente mantiene el rechazo de la impugnación requerida en resolución de 11 de noviembre señalando que igualmente sin estar autorizado se podía asistir lo que obviamente no se condice con lo dispuesto en el artículo 47 letra D del Código Orgánico de Tribunales.
+
+Pide se fije una nueva fecha de audiencia para efecto de debatir la impugnación de sanción que fue objeto el amparado.
+
+2. A folio 5 informó don Fabian Duffau García quien indicó que la autorización para comparecer por zoom es de carácter excepcional, y no se da a los solicitantes un enlace o link, sino que instrucciones para conectarse vía página web del poder judicial. Agregó que el recurrente no ha justificado ni en su reposición, ni en su recurso de amparo, los motivos por lo que habría estado impedido de conectarse vía zoom a la audiencia.
+
+Finalizó indicando que la decisión de rechazar la impugnación de sanción intentada fue pronunciada mediante una resolución fundada, tomada por el tribunal competente y dentro del procedimiento destinado a tal efecto por lo que estimo no he incurrido en ilegalidad o arbitrariedad al dictar tal resolución.
+
+3. Que, la acción constitucional de amparo se concede a toda persona detenida, presa o arrestada con infracción a la Constitución o a la ley, o que sufra cualquier otra privación, perturbación o amenaza en su derecho a la libertad personal y seguridad individual, ocurriendo que, en la especie, el amparado se halla cumpliendo condena impuesta por Tribunal competente, lo cual no ha sido controvertido por el actor.
+
+4. Que el arbitrio de autos se endereza a dejar sin efecto una audiencia decretada por el Juzgado de Garantía de esta ciudad cuyo objeto era discutir la procedencia de aplicar una sanción intrapenitenciaria al imputado, audiencia a la cual el recurrente no compareció no obstante que ella se había dispuesto a su petición.
+
+5. Que del mérito de autos no se advierte ilegalidad o arbitrariedad alguna por parte del juez a quo al momento de proceder a realizar la audiencia en rebeldía del solicitante, desde que era carga de este último concurrir a dicha instancia, lo cual no hizo; no siendo la presente acción constitucional vía idónea para obtener la nulidad de dicha audiencia.
+
+Por los motivos expuestos y teniendo presente lo dispuesto en el artículo 21 de la Constitución Política de la República y Auto Acordado de la Excma. Corte Suprema sobre la materia;
+
+Se rechaza la acción constitucional de amparo interpuesta a favor de Johao Peña Pizarro.
+
+Regístrese, notifíquese y archívese, en su oportunidad.
+
+Rol 452 – 2025 Amparo.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, veintidós de diciembre de dos mil veinticinco. Vistos:Se confirma la sentencia apelada de veinticuatro de noviembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Valdivia, en el Ingreso Corte N°452-2025. Regístrese y devuélvase.Rol N°53479-2025. Santiago, veintidós de diciembre de dos mil veinticinco. Vistos:Se confirma la sentencia apelada de veinticuatro de noviembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Valdivia, en el Ingreso Corte N°452-2025.Regístrese y devuélvase.Rol N°53479-2025. Sentencia anonimizada

@@ -1,0 +1,78 @@
+METADATA
+
+case_id: ee3327d273afc303947b0ccfd403cee8295a29b0
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7967722
+
+rol: 53523-2025
+
+fecha_sentencia: 2025-12-22
+
+caratulado: QUINTANA QUINTANA ELAINE CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintidós de diciembre de dos mil veinticinco.
+
+Vistos:
+
+Se confirma la sentencia apelada de veinticinco de noviembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Concepción, en el Ingreso Corte N°726-2025.
+
+Acordada con el voto en contra del Ministro Sr. Valderrama, quien estuvo por revocar la sentencia recurrida y, consecuencialmente, rechazar el amparo impetrado, teniendo para ello presente que el acto impugnado fue dictado por la Autoridad Administrativa competente, en un caso previsto por la ley, encontrándose además debidamente fundados, lo que descarta la existencia de ilegalidad en su emisión.
+
+Regístrese y devuélvase.
+
+Rol N°53560-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Concepción
+Concepción, veinticinco de noviembre de dos mil veinticinco.
+
+Visto:
+
+Que compareció JUAN MANUEL ALFARO CANELONES, RUT N°26.409.134-9, interponiendo acción constitucional de amparo en favor de ALIS CECILIA LEON DUARTE, venezolana, Pasaporte N° 150370512, en contra del SERVICIO NACIONAL DE MIGRACIONES (SNM), por la dictación de la Resolución Exenta N°25409509 de fecha 4 de agosto de 2025, que dispone su expulsión del país.
+
+El recurrente alega que la medida es arbitraria y desproporcionada, ya que la amparada ingresó en octubre de 2021 por paso no habilitado debido a la realidad social de su país, pero cuenta con arraigo laboral (trabaja como asesora de hogar), no tiene antecedentes penales, y vive junto a su tío YOCER ESTIVEN DUARTE LOPEZ, quien es residente definitivo y emite carta de expensas. El acto recurrido transgrede el derecho a la libertad personal y la seguridad individual (Art. 19 N° 7 y 21 CPCh) y el principio de unidad familiar.
+
+El Servicio Nacional de Migraciones evacuó informe solicitando el rechazo del amparo, oponiendo preliminarmente la excepción de que el recurso de amparo no es la vía procesal pertinente al existir el recurso de reclamación especial del artículo 141 de la Ley 21.325. En subsidio, el recurrido sostiene que la expulsión se basa en una causal legal expresa (ingreso por paso no habilitado, Art. 127 N° 1 en relación al Art. 32 N° 3 de la Ley 21.325), que fue dictada por autoridad competente y es proporcional. Argumenta que la amparada no presentó descargos dentro del plazo de 10 días luego de la notificación del inicio del procedimiento sancionatorio (15/07/2025), y que la autoridad ponderó los factores del artículo 129 de la Ley 21.325, concluyendo que no acreditó arraigos familiares ni contribuciones de índole social. Además, señala que el supuesto arraigo laboral no es un aspecto a considerar dado que la extranjera no está habilitada para trabajar formalmente.
+
+Y considerando:
+
+Primero: Que, en cuanto a la excepción de previo y especial pronunciamiento opuesta por el Servicio Nacional de Migraciones, esta debe ser desestimada, toda vez que la existencia de un procedimiento especial de reclamación (Art. 141 Ley 21.325) no es un obstáculo para ejercer la acción constitucional de amparo, cuya finalidad de tutela urgente del derecho a la libertad personal y seguridad individual es distinta y más amplia que el procedimiento de reclamación ordinario.
+
+Segundo: Que la Constitución Política de la República asegura a todas las personas el derecho a la libertad personal y a la seguridad individual (Art. 19 N° 7), y establece que el Estado debe proteger y respetar los derechos humanos de las personas extranjeras que se encuentren en Chile, sin importar su condición migratoria. Además, se debe asegurar a todo extranjero un procedimiento racional y justo para ordenar su expulsión del país con prohibición de ingreso.
+
+Tercero: Que, en el caso de autos, la decisión de expulsión fue adoptada principalmente porque la amparada no remitió los antecedentes solicitados (descargos o documentación de arraigo) tras la notificación del inicio del procedimiento sancionatorio de fecha 15 de julio de 2025. Sin embargo, la propia amparada ha aportado durante la tramitación de esta acción documentos relevantes para la ponderación exigida por el artículo 129 de la Ley 21.325, incluyendo un contrato de trabajo, declaración jurada de expensas de su tío (residente definitivo), título de bachiller en ciencias y certificados de antecedentes penales de Venezuela apostillados, que acreditan que no registra antecedentes delictuales.
+
+Cuarto: Que, la Ley 21.325 de Migración y Extranjería exige a la autoridad administrativa considerar, previamente a dictar una medida de expulsión, la gravedad de los hechos y, entre otros factores, los antecedentes delictuales, el período de residencia regular, y la existencia de vínculos familiares. La omisión de la recurrente en la fase administrativa de presentar oportunamente los descargos y documentos no puede llevar a una decisión desproporcionada. Resulta que la amparada cuenta con documentación que acredita sus lazos de arraigo (familiar y laboral) en el país por más de 4 años y una conducta intachable, ya que no registra antecedentes delictuales.
+
+Quinto: Que, conforme a la jurisprudencia reiterada, se incumple la obligación de protección y respeto del derecho a un procedimiento racional y justo al decretar una expulsión por omitir presentar un documento o descargo, sin adoptar antes las medidas conducentes y razonables para permitir subsanar dicha omisión, sobre todo considerando el exiguo tiempo que se le otorga al migrante (10 días) para aquello, el momento en que se le otorga (recién ingresado al país) y las graves consecuencias que conlleva dicha decisión. En este caso, la Resolución Exenta N°25409509 resulta ilegal por desproporcionada, pues se basa en una omisión procedimental para desconocer un arraigo familiar y social ya acreditado en sede judicial.
+
+Sexto: Que, de esta manera, la actuación del Servicio Nacional de Migraciones al no considerar la documentación ya existente y dictar la orden de expulsión sin una ponderación de antecedentes completa, constituye un acto ilegal que perturba y amenaza la libertad personal y seguridad individual de Alis Cecilia Leon Duarte, contraviniendo, además, el principio de unidad familiar y la protección de los derechos humanos de las personas extranjeras en Chile.
+
+Por estas consideraciones, y visto además lo dispuesto en los artículos 1, 5, 19 N° 7 y 21 de la Constitución Política de la República, el Auto Acordado sobre tramitación y fallo del Recurso de Amparo, y los artículos 3 y 129 de la Ley N° 21.325, SE RESUELVE:
+
+I.- Que, SE DESESTIMA la excepción de previo y especial pronunciamiento interpuesta por el Servicio Nacional de Migraciones.
+
+II.- Que, SE ACOGE, sin costas, la acción constitucional de amparo interpuesta por Juan Manuel Alfaro Canelones en favor de Alis Cecilia Leon Duarte en contra del Servicio Nacional de Migraciones, en consecuencia, SE DEJA SIN EFECTO la Resolución Exenta N°25409509 de fecha 4 de agosto de 2025, dictada por el Servicio Nacional de Migraciones, que dispuso la expulsión de la amparada y su prohibición de ingreso, debiendo el Servicio Nacional de Migraciones reabrir el procedimiento administrativo, otorgando un nuevo plazo de 60 días hábiles a la amparada para que incorpore y se ponderen debidamente todos los antecedentes de arraigo y los documentos ya presentados en esta sede judicial.
+
+Regístrese, comuníquese por la vía más expedita y, una vez hecho, archívese en su oportunidad.
+
+Redacción del ministro Rodrigo Cortés Gutiérrez.
+
+No firma el ministro Mauricio Silva Pizarro, pese a haber concurrido a la vista y al acuerdo de la causa por encontrarse realizando visita a tribunales.
+
+Rol Corte 726 – 2025 Amparo.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de ConcepciónConcepción, veinticinco de noviembre de dos mil veinticinco.Visto:Que compareció JUAN MANUEL ALFARO CANELONES, RUT N°26.409.134-9, interponiendo acción constitucional de amparo en favor de ALIS CECILIA LEON DUARTE, venezolana, Pasaporte N° 150370512, en contra del SERVICIO NACIONAL DE MIGRACIONES (SNM), por la dictación de la Resolución Exenta N°25409509 de fecha 4 de agosto de 2025, que dispone su expulsión del país.El recurrente alega que la medida es arbitraria y desproporcionada, ya que la amparada ingresó en octubre de 2021 por paso no habilitado debido a la realidad social de su país, pero cuenta con arraigo laboral (trabaja como asesora de hogar), no tiene antecedentes penales, y vive junto a su tío YOCER ESTIVEN DUARTE LOPEZ, quien es residente definitivo y emite carta de expensas. El acto recurrido transgrede el derecho a la libertad personal y la seguridad individual (Art. 19 N° 7 y 21 CPCh) y el principio de unidad familiar.El Servicio Nacional de Migraciones evacuó informe solicitando el rechazo del amparo, oponiendo preliminarmente la excepción de que el recurso de amparo no es la vía procesal pertinente al existir el recurso de reclamación especial del artículo 141 de la Ley 21.325. En subsidio, el recurrido sostiene que la expulsión se basa en una causal legal expresa (ingreso por paso no habilitado, Art. 127 N° 1 en relación al Art. 32 N° 3 de la Ley 21.325), que fue dictada por autoridad competente y es proporcional. Argumenta que la amparada no presentó descargos dentro del plazo de 10 días luego de la notificación del inicio del procedimiento sancionatorio (15/07/2025), y que la autoridad ponderó los factores del artículo 129 de la Ley 21.325, concluyendo que no acreditó arraigos familiares ni contribuciones de índole social. Además, señala que el supuesto arraigo laboral no es un aspecto a considerar dado que la extranjera no está habilitada para trabajar formalmente.Y considerando:Primero: Que, en cuanto a la excepción de previo y especial pronunciamiento opuesta por el Servicio Nacional de Migraciones, esta debe ser desestimada, toda vez que la existencia de un procedimiento especial de reclamación (Art. 141 Ley 21.325) no es un obstáculo para ejercer la acción constitucional de amparo, cuya finalidad de tutela urgente del derecho a la libertad personal y seguridad individual es distinta y más amplia que el procedimiento de reclamación ordinario.Segundo: Que la Constitución Política de la República asegura a todas las personas el derecho a la libertad personal y a la seguridad individual (Art. 19 N° 7), y establece que el Estado debe proteger y respetar los derechos humanos de las personas extranjeras que se encuentren en Chile, sin importar su condición migratoria. Además, se debe asegurar a todo extranjero un procedimiento racional y justo para ordenar su expulsión del país con prohibición de ingreso.Tercero: Que, en el caso de autos, la decisión de expulsión fue adoptada principalmente porque la amparada no remitió los antecedentes solicitados (descargos o documentación de arraigo) tras la notificación del inicio del procedimiento sancionatorio de fecha 15 de julio de 2025. Sin embargo, la propia amparada ha aportado durante la tramitación de esta acción documentos relevantes para la ponderación exigida por el artículo 129 de la Ley 21.325, incluyendo un contrato de trabajo, declaración jurada de expensas de su tío (residente definitivo), título de bachiller en ciencias y certificados de antecedentes penales de Venezuela apostillados, que acreditan que no registra antecedentes delictuales.Cuarto: Que, la Ley 21.325 de Migración y Extranjería exige a la autoridad administrativa considerar, previamente a dictar una medida de expulsión, la gravedad de los hechos y, entre otros factores, los antecedentes delictuales, el período de residencia regular, y la existencia de vínculos familiares. La omisión de la recurrente en la fase administrativa de presentar oportunamente los descargos y documentos no puede llevar a una decisión desproporcionada. Resulta que la amparada cuenta con documentación que acredita sus lazos de arraigo (familiar y laboral) en el país por más de 4 años y una conducta intachable, ya que no registra antecedentes delictuales.Quinto: Que, conforme a la jurisprudencia reiterada, se incumple la obligación de protección y respeto del derecho a un procedimiento racional y justo al decretar una expulsión por omitir presentar un documento o descargo, sin adoptar antes las medidas conducentes y razonables para permitir subsanar dicha omisión, sobre todo considerando el exiguo tiempo que se le otorga al migrante (10 días) para aquello, el momento en que se le otorga (recién ingresado al país) y las graves consecuencias que conlleva dicha decisión. En este caso, la Resolución Exenta N°25409509 resulta ilegal por desproporcionada, pues se basa en una omisión procedimental para desconocer un arraigo familiar y social ya acreditado en sede judicial.Sexto: Que, de esta manera, la actuación del Servicio Nacional de Migraciones al no considerar la documentación ya existente y dictar la orden de expulsión sin una ponderación de antecedentes completa, constituye un acto ilegal que perturba y amenaza la libertad personal y seguridad individual de Alis Cecilia Leon Duarte, contraviniendo, además, el principio de unidad familiar y la protección de los derechos humanos de las personas extranjeras en Chile. Por estas consideraciones, y visto además lo dispuesto en los artículos 1, 5, 19 N° 7 y 21 de la Constitución Política de la República, el Auto Acordado sobre tramitación y fallo del Recurso de Amparo, y los artículos 3 y 129 de la Ley N° 21.325, SE RESUELVE:I.- Que, SE DESESTIMA la excepción de previo y especial pronunciamiento interpuesta por el Servicio Nacional de Migraciones.II.- Que, SE ACOGE, sin costas, la acción constitucional de amparo interpuesta por Juan Manuel Alfaro Canelones en favor de Alis Cecilia Leon Duarte en contra del Servicio Nacional de Migraciones, en consecuencia, SE DEJA SIN EFECTO la Resolución Exenta N°25409509 de fecha 4 de agosto de 2025, dictada por el Servicio Nacional de Migraciones, que dispuso la expulsión de la amparada y su prohibición de ingreso, debiendo el Servicio Nacional de Migraciones reabrir el procedimiento administrativo, otorgando un nuevo plazo de 60 días hábiles a la amparada para que incorpore y se ponderen debidamente todos los antecedentes de arraigo y los documentos ya presentados en esta sede judicial.Regístrese, comuníquese por la vía más expedita y, una vez hecho, archívese en su oportunidad.Redacción del ministro Rodrigo Cortés Gutiérrez.No firma el ministro Mauricio Silva Pizarro, pese a haber concurrido a la vista y al acuerdo de la causa por encontrarse realizando visita a tribunales.Rol Corte 726 – 2025 Amparo.                        ⚠                      Sin documento en esta instancia - pdf

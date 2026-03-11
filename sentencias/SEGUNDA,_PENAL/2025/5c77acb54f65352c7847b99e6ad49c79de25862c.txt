@@ -1,0 +1,47 @@
+METADATA
+
+case_id: 5c77acb54f65352c7847b99e6ad49c79de25862c
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7967749
+
+rol: 55491-2025
+
+fecha_sentencia: 2025-12-22
+
+caratulado: BARRA VERGARA HUMBERTO GUILLERMO CONTRA CORTE DE APELACIONES DE RANCAGUA
+
+sala: SEGUNDA, PENAL
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintidós de diciembre de dos mil veinticinco.
+
+Vistos:
+
+Se confirma la sentencia apelada de seis de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Antofagasta, en el Ingreso Corte N°953-2025.
+
+Regístrese y devuélvase.
+
+Rol N°55738-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+/chc
+
+Antofagasta, a seis de diciembre de dos mil veinticinco.
+Vistos:
+
+Teniendo en consideración que el acto arbitrario e ilegal que se invoca dice relación con la decisión del tribunal de decretar el abandono de la querella y con ello el sobreseimiento definitivo, en razón de la falta de comparecencia del actor, sustentando la ilegalidad invocada en el rechazo de la solicitud de comparecencia telemática, impugnaciones que exceden el marco de la acción cautelar que nos convoca, al pretender impugnar una decisión judicial y con ello los alcances de la decisión de no autorizar la comparecencia telemática pretendida, no evidenciándose del sustento fáctico del arbitrio en los términos invocados vulneración a la garantía constitucional que protege esta acción, lo que deviene en su inadmisibilidad.
+
+Comuníquese.
+Rol 953-2025 (Amparo)
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, veintidós de diciembre de dos mil veinticinco. Vistos:Se confirma la sentencia apelada de seis de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Antofagasta, en el Ingreso Corte N°953-2025. Regístrese y devuélvase.Rol N°55738-2025. Santiago, veintidós de diciembre de dos mil veinticinco. Vistos:Se confirma la sentencia apelada de seis de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Antofagasta, en el Ingreso Corte N°953-2025.Regístrese y devuélvase.Rol N°55738-2025. Sentencia anonimizada
