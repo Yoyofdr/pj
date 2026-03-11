@@ -1,0 +1,65 @@
+METADATA
+
+case_id: de5328a567642d7dbd54f85a9fa53227c3501733
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7972769
+
+rol: 48861-2025
+
+fecha_sentencia: 2025-12-24
+
+caratulado: SINDICATO/ELABORADORA DE ALIMENTOS DOÑIHUE LTDA
+
+sala: CUARTA, MIXTA
+
+materias: ▪ Recurso de unificación de jurisprudencia
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: INADMISIBLE,UNIFICACIÓN DE JURISPRUDENCIA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veinticuatro de diciembre de dos mil veinticinco.
+
+VISTO Y TENIENDO PRESENTE:
+
+Primero: Que en este procedimiento ejecutivo de cobro de pagaré tramitado ante el Vigésimo Noveno Juzgado Civil de Santiago, caratulado ¿Banco Itau Chile S.A. con Global Group Ingeniería SpA y otro¿, la parte ejecutada recurre de casación en la forma y en el fondo en contra de la sentencia de la Corte de Apelaciones de esta ciudad, que rechazó las excepciones y ordenó seguir adelante la ejecución.
+
+EN CUANTO AL RECURSO DE CASACIÓN DE FORMA:
+
+Segundo: Que el recurrente sostiene que la sentencia impugnada habría incurrido en la causal de casación en la forma establecida en el numeral 5º del artículo 768 en relación al artículo 170 N° 4 ambos del Código de Procedimiento Civil ya que la sentencia de segunda instancia no se ha hecho cargo de todas las cuestiones y agravios que fueron objeto del recurso de apelación deducido por su parte en contra de la sentencia definitiva.
+
+Tercero: Que la impugnación formal no podrá prosperar, toda vez que la causal se configura cuando en la sentencia se omiten las consideraciones de hecho y de derecho que le sirven de fundamento, y la resolución objeto de reproche cumple con dicha exigencia. En efecto, en el fallo que se revisa reproduce y confirma el del tribunal a quo, haciendo suyas las reflexiones en virtud de las cuales rechazan las excepciones opuestas a la ejecución, lo que necesariamente implica el rechazo de los argumentos expuestos en la apelación.
+
+EN CUANTO AL RECURSO DE CASACIÓN EN EL FONDO:
+
+Cuarto: Que en el capítulo de nulidad sustancial el recurrente sostiene que en el fallo cuestionado al rechazar la excepción de falta de requisitos del título para que tenga mérito ejecutivo infringió los artículos 425 y 401 del Código Orgánico de Tribunales y el 434 N° 4 del Código de Procedimiento Civil ya que en la declaración contenida en el pagaré respecto de la autorización notarial, no existe correspondencia ni concordancia con la realidad, pues se trata de un formulario prellenado en el cual no se señala el tipo de representación ni el documento que autoriza a quien suscribe para actuar en nombre de los ejecutados. En consecuencia, la firma del suscriptor no ha sido autorizada de conformidad a la ley.
+
+Quinto: Que el artículo 772 N° 1 del Código de Procedimiento Civil sujeta el recurso de casación en el fondo a un requisito indispensable para su admisibilidad, cual es que el escrito en que se lo interpone exprese, es decir, explicite en qué consiste el o los errores de derecho.
+
+Sexto: Que la exigencia a que se alude en el motivo anterior obligaba al impugnante a explicar los contenidos jurídicos aplicables; así, recayendo la controversia sobre la procedencia de la excepción de falta de requisitos del título para que tenga fuerza ejecutiva, debió extender la infracción de ley al numeral 7º del artículo 464 del Código de Procedimiento Civil, por corresponder a la disposición que contiene la mencionada excepción que el recurrente pretende sea acogida en el fallo de reemplazo que se dicte en el evento de dar lugar al presente arbitrio. En estas condiciones, al no venir acusado en el libelo de casación el quebrantamiento de la preceptiva sustantiva básica en comento, a saber, la ley especial que rige el conflicto jurídico y que ha tenido influencia sustancial en lo resolutivo de la sentencia cuya anulación se persigue, el presente recurso será denegado.
+
+Por estas consideraciones y de conformidad además con lo previsto en los artículos 772 , 781 y 782 del Código de Procedimiento Civil, se declara inadmisible el recurso de casación en la forma y se rechaza el recurso de casación en el fondo, interpuestos por el abogado Jorge Manuel Lena Salgado, en representación de la parte ejecutada, contra la sentencia de siete de octubre de dos mil veinticinco, pronunciada por la Corte de Apelaciones de Santiago.
+
+Regístrese y devuélvase.
+
+Nº 53.820-2025
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Santiago
+
+Santiago, siete de octubre de dos mil veinticinco.
+
+Vistos:
+
+Atendido el mérito de los antecedentes, se confirma en lo apelado la sentencia de veinte de enero de dos mil veinticinco dictada por el Vigésimo Noveno Juzgado Civil de Santiago, en causa Rol N° C- 148-2024.
+
+Regístrese y comuníquese.
+
+N°Civil-7533-2025.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de SantiagoSantiago, siete de octubre de dos mil veinticinco.Vistos:Atendido el mérito de los antecedentes, se confirma en lo apelado la sentencia de veinte de enero de dos mil veinticinco dictada por el Vigésimo Noveno Juzgado Civil de Santiago, en causa Rol N° C- 148-2024.Regístrese y comuníquese.N°Civil-7533-2025.                        ⚠                      Sin documento en esta instancia - pdf
