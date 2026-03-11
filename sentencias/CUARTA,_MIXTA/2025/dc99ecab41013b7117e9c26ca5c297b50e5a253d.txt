@@ -1,0 +1,139 @@
+METADATA
+
+case_id: dc99ecab41013b7117e9c26ca5c297b50e5a253d
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7967086
+
+rol: 4388-2025
+
+fecha_sentencia: 2025-12-19
+
+caratulado: BARRA/BANCO SANTANDER -CHILE
+
+sala: CUARTA, MIXTA
+
+materias: ▪ Terminación de contrato individual de trabajo
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: RECHAZA,UNIFICACIÓN DE JURISPRUDENCIA (M)
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Corte Apelaciones ▼
+SENTENCIA DE REEMPLAZO
+
+Puerto Montt, nueve de mayo de dos mil veinticinco.
+En cumplimiento de lo dispuesto en los artículos 477 y 482 del Código del Trabajo se dicta la siguiente sentencia de reemplazo:
+VISTOS:
+De la sentencia anulada parcialmente se mantienen todos sus considerandos, con excepción de su motivo octavo, los que se elimina.
+Asimismo, se reproducen desde el considerando quinto al décimo de la sentencia de nulidad que antecede, a los que cabe remitirse para evitar reiteraciones innecesarias.
+Y TENIENDO ADEMÁS PRESENTE:
+1°) Que, en lo que respecta al régimen normativo aplicable a la relación laboral entre las partes, consta debidamente acreditado en autos que, al momento de la terminación del vínculo, dicha relación se encontraba regida por un convenio colectivo plenamente vigente, celebrado entre la parte empleadora y la organización sindical a la que pertenecía la trabajadora. Este instrumento normativo, que reviste el carácter de fuente formal del derecho del trabajo y cuya validez no ha sido discutida en el proceso, establece un estatuto indemnizatorio más favorable al trabajador que el régimen supletorio previsto por el legislador.
+
+2°) Que, la cláusula décima del referido instrumento establece una indemnización por años de servicio exenta de los topes de monto y de duración previstos en el artículo 163 del Código del Trabajo, consolidando así una mejora en la posición patrimonial del trabajador en caso de término del contrato. No obstante, dicha cláusula, en una expresión clara y categórica de la autonomía colectiva, establece una excepción específica respecto de la aplicación del incremento previsto en el artículo 168 del Código del Trabajo, disponiendo que, en caso de declaración de improcedencia del despido por la judicatura, dicho recargo del 30% no se aplicará sobre la base de la indemnización convencional pactada, sino exclusivamente sobre aquella reconocida legalmente, con sujeción a los topes normativos en cuanto a monto y duración.
+
+Esta estipulación no constituye una renuncia a derechos, sino una distribución razonada y racional de beneficios dentro del marco de la negociación colectiva, plenamente válida y vinculante para las partes conforme al artículo 1545 del Código Civil, y respetuosa del principio de progresividad en tanto el régimen indemnizatorio global permanece por sobre los estándares mínimos legales.
+
+3°) Que, verificado que no existe estipulación alguna —ni expresa ni tácita— que faculte la aplicación del recargo indemnizatorio del artículo 168 del Código del Trabajo sobre la base de la indemnización pactada convencionalmente entre las partes, cabe aplicar, en estricto apego a la juridicidad y a la autonomía colectiva, el contenido normativo derivado del instrumento colectivo vigente.
+
+En efecto, la cláusula en cuestión —resultado de un proceso de negociación colectiva ajustado a las formalidades legales y legitimado mediante la ratificación recíproca de las partes— constituye una manifestación clara de la voluntad normativa bilateral, suscrita entre la empleadora y la organización sindical representativa de los trabajadores, y por tanto, ostenta plena eficacia normativa dentro del marco de la relación laboral, a la luz de lo dispuesto por el artículo 1545 del Código Civil.
+
+4°) Que la citada cláusula décima del contrato colectivo de trabajo establece, sin ambigüedad ni margen interpretativo, que el recargo legal del 30% previsto en el artículo 168 del Código del Trabajo deberá calcularse exclusivamente sobre la indemnización por años de servicio determinada conforme al régimen legal supletorio, es decir, la contenida en los incisos primero y segundo del artículo 163 del mismo cuerpo legal.
+
+Este último precepto establece un tope máximo equivalente a trescientas treinta días de remuneración ordinaria mensual para los efectos de calcular la referida indemnización. En consecuencia, el quantum sobre el cual debe proyectarse el incremento legal ha de ser fijado estrictamente dentro de los límites objetivos que emanan de la legislación laboral común, excluyendo toda base superior que se derive de estipulaciones convencionales que, si bien benefician al trabajador, han sido expresamente exceptuadas como base de cálculo para el recargo por común acuerdo de las partes.
+
+5°) En tal sentido, la pretensión de extender el ámbito de aplicación del recargo al total de la indemnización convenida resulta contraria al principio de legalidad y vulnera la voluntad contractual colectiva, lo que impediría al juzgador aplicar una consecuencia jurídica no reconocida por el marco legal ni por la normativa convencional. Tal proceder contravendría no solo el principio de juridicidad que rige la actividad jurisdiccional, sino también el principio de seguridad jurídica que exige coherencia, previsibilidad y respeto a las reglas de origen pactado. En virtud de ello, se descarta toda posibilidad de computar el incremento legal sobre una base distinta a la estrictamente legal, asegurando de este modo el respeto a la coherencia sistemática del ordenamiento jurídico-laboral vigente.
+
+Por estas consideraciones y, visto lo dispuesto en los artículos 1, 5, 7, 161,162, 168, 172, 456, 459 y siguientes del Código del Trabajo, y demás normas citadas y pertinentes,
+
+SE RESUELVE:
+
+I.- Que, SE ACOGE, la demanda sobre despido injustificado presentada por AICHA VILLAR SARMIENTO, en contra de BANCO SANTANDER-CHILE; declarándose injustificado el despido del que fue objeto, por lo que se condena a la demandada al pago del recargo del 30% de la indemnización por años de servicios sobre la base legal de 11 meses (330 días), con tope de 90 UF.
+
+II.- Que se mantiene en todo lo demás lo resolutivo de la sentencia impugnada.
+
+Redacción del Abogado Integrante don Darío Parra Sepúlveda.
+No firma el Fiscal Judicial (S) don Rodolfo Maldonado Mansilla, quien concurrió a la vista y acuerdo por encontrarse haber cesado su cometido funcionario.
+Regístrese, notifíquese, comuníquese y archívese en su oportunidad.
+Rol N°5-2024.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Corte Apelaciones ▼
+SENTENCIA DE REEMPLAZO
+
+Puerto Montt, nueve de mayo de dos mil veinticinco.
+En cumplimiento de lo dispuesto en los artículos 477 y 482 del Código del Trabajo se dicta la siguiente sentencia de reemplazo:
+VISTOS:
+De la sentencia anulada parcialmente se mantienen todos sus considerandos, con excepción de su motivo octavo, los que se elimina.
+Asimismo, se reproducen desde el considerando quinto al décimo de la sentencia de nulidad que antecede, a los que cabe remitirse para evitar reiteraciones innecesarias.
+Y TENIENDO ADEMÁS PRESENTE:
+1°) Que, en lo que respecta al régimen normativo aplicable a la relación laboral entre las partes, consta debidamente acreditado en autos que, al momento de la terminación del vínculo, dicha relación se encontraba regida por un convenio colectivo plenamente vigente, celebrado entre la parte empleadora y la organización sindical a la que pertenecía la trabajadora. Este instrumento normativo, que reviste el carácter de fuente formal del derecho del trabajo y cuya validez no ha sido discutida en el proceso, establece un estatuto indemnizatorio más favorable al trabajador que el régimen supletorio previsto por el legislador.
+
+2°) Que, la cláusula décima del referido instrumento establece una indemnización por años de servicio exenta de los topes de monto y de duración previstos en el artículo 163 del Código del Trabajo, consolidando así una mejora en la posición patrimonial del trabajador en caso de término del contrato. No obstante, dicha cláusula, en una expresión clara y categórica de la autonomía colectiva, establece una excepción específica respecto de la aplicación del incremento previsto en el artículo 168 del Código del Trabajo, disponiendo que, en caso de declaración de improcedencia del despido por la judicatura, dicho recargo del 30% no se aplicará sobre la base de la indemnización convencional pactada, sino exclusivamente sobre aquella reconocida legalmente, con sujeción a los topes normativos en cuanto a monto y duración.
+
+Esta estipulación no constituye una renuncia a derechos, sino una distribución razonada y racional de beneficios dentro del marco de la negociación colectiva, plenamente válida y vinculante para las partes conforme al artículo 1545 del Código Civil, y respetuosa del principio de progresividad en tanto el régimen indemnizatorio global permanece por sobre los estándares mínimos legales.
+
+3°) Que, verificado que no existe estipulación alguna —ni expresa ni tácita— que faculte la aplicación del recargo indemnizatorio del artículo 168 del Código del Trabajo sobre la base de la indemnización pactada convencionalmente entre las partes, cabe aplicar, en estricto apego a la juridicidad y a la autonomía colectiva, el contenido normativo derivado del instrumento colectivo vigente.
+
+En efecto, la cláusula en cuestión —resultado de un proceso de negociación colectiva ajustado a las formalidades legales y legitimado mediante la ratificación recíproca de las partes— constituye una manifestación clara de la voluntad normativa bilateral, suscrita entre la empleadora y la organización sindical representativa de los trabajadores, y por tanto, ostenta plena eficacia normativa dentro del marco de la relación laboral, a la luz de lo dispuesto por el artículo 1545 del Código Civil.
+
+4°) Que la citada cláusula décima del contrato colectivo de trabajo establece, sin ambigüedad ni margen interpretativo, que el recargo legal del 30% previsto en el artículo 168 del Código del Trabajo deberá calcularse exclusivamente sobre la indemnización por años de servicio determinada conforme al régimen legal supletorio, es decir, la contenida en los incisos primero y segundo del artículo 163 del mismo cuerpo legal.
+
+Este último precepto establece un tope máximo equivalente a trescientas treinta días de remuneración ordinaria mensual para los efectos de calcular la referida indemnización. En consecuencia, el quantum sobre el cual debe proyectarse el incremento legal ha de ser fijado estrictamente dentro de los límites objetivos que emanan de la legislación laboral común, excluyendo toda base superior que se derive de estipulaciones convencionales que, si bien benefician al trabajador, han sido expresamente exceptuadas como base de cálculo para el recargo por común acuerdo de las partes.
+
+5°) En tal sentido, la pretensión de extender el ámbito de aplicación del recargo al total de la indemnización convenida resulta contraria al principio de legalidad y vulnera la voluntad contractual colectiva, lo que impediría al juzgador aplicar una consecuencia jurídica no reconocida por el marco legal ni por la normativa convencional. Tal proceder contravendría no solo el principio de juridicidad que rige la actividad jurisdiccional, sino también el principio de seguridad jurídica que exige coherencia, previsibilidad y respeto a las reglas de origen pactado. En virtud de ello, se descarta toda posibilidad de computar el incremento legal sobre una base distinta a la estrictamente legal, asegurando de este modo el respeto a la coherencia sistemática del ordenamiento jurídico-laboral vigente.
+
+Por estas consideraciones y, visto lo dispuesto en los artículos 1, 5, 7, 161,162, 168, 172, 456, 459 y siguientes del Código del Trabajo, y demás normas citadas y pertinentes,
+
+SE RESUELVE:
+
+I.- Que, SE ACOGE, la demanda sobre despido injustificado presentada por AICHA VILLAR SARMIENTO, en contra de BANCO SANTANDER-CHILE; declarándose injustificado el despido del que fue objeto, por lo que se condena a la demandada al pago del recargo del 30% de la indemnización por años de servicios sobre la base legal de 11 meses (330 días), con tope de 90 UF.
+
+II.- Que se mantiene en todo lo demás lo resolutivo de la sentencia impugnada.
+
+Redacción del Abogado Integrante don Darío Parra Sepúlveda.
+No firma el Fiscal Judicial (S) don Rodolfo Maldonado Mansilla, quien concurrió a la vista y acuerdo por encontrarse haber cesado su cometido funcionario.
+Regístrese, notifíquese, comuníquese y archívese en su oportunidad.
+Rol N°5-2024.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Corte Apelaciones ▼
+SENTENCIA DE REEMPLAZO
+
+Puerto Montt, nueve de mayo de dos mil veinticinco.
+En cumplimiento de lo dispuesto en los artículos 477 y 482 del Código del Trabajo se dicta la siguiente sentencia de reemplazo:
+VISTOS:
+De la sentencia anulada parcialmente se mantienen todos sus considerandos, con excepción de su motivo octavo, los que se elimina.
+Asimismo, se reproducen desde el considerando quinto al décimo de la sentencia de nulidad que antecede, a los que cabe remitirse para evitar reiteraciones innecesarias.
+Y TENIENDO ADEMÁS PRESENTE:
+1°) Que, en lo que respecta al régimen normativo aplicable a la relación laboral entre las partes, consta debidamente acreditado en autos que, al momento de la terminación del vínculo, dicha relación se encontraba regida por un convenio colectivo plenamente vigente, celebrado entre la parte empleadora y la organización sindical a la que pertenecía la trabajadora. Este instrumento normativo, que reviste el carácter de fuente formal del derecho del trabajo y cuya validez no ha sido discutida en el proceso, establece un estatuto indemnizatorio más favorable al trabajador que el régimen supletorio previsto por el legislador.
+
+2°) Que, la cláusula décima del referido instrumento establece una indemnización por años de servicio exenta de los topes de monto y de duración previstos en el artículo 163 del Código del Trabajo, consolidando así una mejora en la posición patrimonial del trabajador en caso de término del contrato. No obstante, dicha cláusula, en una expresión clara y categórica de la autonomía colectiva, establece una excepción específica respecto de la aplicación del incremento previsto en el artículo 168 del Código del Trabajo, disponiendo que, en caso de declaración de improcedencia del despido por la judicatura, dicho recargo del 30% no se aplicará sobre la base de la indemnización convencional pactada, sino exclusivamente sobre aquella reconocida legalmente, con sujeción a los topes normativos en cuanto a monto y duración.
+
+Esta estipulación no constituye una renuncia a derechos, sino una distribución razonada y racional de beneficios dentro del marco de la negociación colectiva, plenamente válida y vinculante para las partes conforme al artículo 1545 del Código Civil, y respetuosa del principio de progresividad en tanto el régimen indemnizatorio global permanece por sobre los estándares mínimos legales.
+
+3°) Que, verificado que no existe estipulación alguna —ni expresa ni tácita— que faculte la aplicación del recargo indemnizatorio del artículo 168 del Código del Trabajo sobre la base de la indemnización pactada convencionalmente entre las partes, cabe aplicar, en estricto apego a la juridicidad y a la autonomía colectiva, el contenido normativo derivado del instrumento colectivo vigente.
+
+En efecto, la cláusula en cuestión —resultado de un proceso de negociación colectiva ajustado a las formalidades legales y legitimado mediante la ratificación recíproca de las partes— constituye una manifestación clara de la voluntad normativa bilateral, suscrita entre la empleadora y la organización sindical representativa de los trabajadores, y por tanto, ostenta plena eficacia normativa dentro del marco de la relación laboral, a la luz de lo dispuesto por el artículo 1545 del Código Civil.
+
+4°) Que la citada cláusula décima del contrato colectivo de trabajo establece, sin ambigüedad ni margen interpretativo, que el recargo legal del 30% previsto en el artículo 168 del Código del Trabajo deberá calcularse exclusivamente sobre la indemnización por años de servicio determinada conforme al régimen legal supletorio, es decir, la contenida en los incisos primero y segundo del artículo 163 del mismo cuerpo legal.
+
+Este último precepto establece un tope máximo equivalente a trescientas treinta días de remuneración ordinaria mensual para los efectos de calcular la referida indemnización. En consecuencia, el quantum sobre el cual debe proyectarse el incremento legal ha de ser fijado estrictamente dentro de los límites objetivos que emanan de la legislación laboral común, excluyendo toda base superior que se derive de estipulaciones convencionales que, si bien benefician al trabajador, han sido expresamente exceptuadas como base de cálculo para el recargo por común acuerdo de las partes.
+
+5°) En tal sentido, la pretensión de extender el ámbito de aplicación del recargo al total de la indemnización convenida resulta contraria al principio de legalidad y vulnera la voluntad contractual colectiva, lo que impediría al juzgador aplicar una consecuencia jurídica no reconocida por el marco legal ni por la normativa convencional. Tal proceder contravendría no solo el principio de juridicidad que rige la actividad jurisdiccional, sino también el principio de seguridad jurídica que exige coherencia, previsibilidad y respeto a las reglas de origen pactado. En virtud de ello, se descarta toda posibilidad de computar el incremento legal sobre una base distinta a la estrictamente legal, asegurando de este modo el respeto a la coherencia sistemática del ordenamiento jurídico-laboral vigente.
+
+Por estas consideraciones y, visto lo dispuesto en los artículos 1, 5, 7, 161,162, 168, 172, 456, 459 y siguientes del Código del Trabajo, y demás normas citadas y pertinentes,
+
+SE RESUELVE:
+
+I.- Que, SE ACOGE, la demanda sobre despido injustificado presentada por AICHA VILLAR SARMIENTO, en contra de BANCO SANTANDER-CHILE; declarándose injustificado el despido del que fue objeto, por lo que se condena a la demandada al pago del recargo del 30% de la indemnización por años de servicios sobre la base legal de 11 meses (330 días), con tope de 90 UF.
+
+II.- Que se mantiene en todo lo demás lo resolutivo de la sentencia impugnada.
+
+Redacción del Abogado Integrante don Darío Parra Sepúlveda.
+No firma el Fiscal Judicial (S) don Rodolfo Maldonado Mansilla, quien concurrió a la vista y acuerdo por encontrarse haber cesado su cometido funcionario.
+Regístrese, notifíquese, comuníquese y archívese en su oportunidad.
+Rol N°5-2024.

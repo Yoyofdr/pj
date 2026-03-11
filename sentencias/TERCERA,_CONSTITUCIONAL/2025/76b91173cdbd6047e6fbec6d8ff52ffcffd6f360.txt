@@ -1,0 +1,83 @@
+METADATA
+
+case_id: 76b91173cdbd6047e6fbec6d8ff52ffcffd6f360
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7967531
+
+rol: 41474-2025
+
+fecha_sentencia: 2025-12-19
+
+caratulado: CASTILLO ROJAS, NATHALIE /MINISTERIO DE EDUCACIÓN
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (CIVIL) APELACIÓN PROTECCIÓN
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, diecinueve de diciembre de dos mil veinticinco.
+
+Vistos:
+Se reproduce la sentencia en alzada, con excepción de los considerandos cuarto y quinto, que se eliminan.
+
+Y, teniendo únicamente presente:
+Primero: Que esta Corte ha sostenido reiteradamente que la acción de protección no es procedente para impugnar actos intermedios o trámites administrativos que no ocasionen el término del procedimiento ni afecten de manera irreversible el ejercicio de derechos fundamentales.
+Segundo: Que, en el caso particular, se advierte que el sumario seguido en contra del recurrente se encuentra en tramitación y pendiente de resolución, existiendo instancias de defensa que son propias del procedimiento disciplinario contemplado en la Ley 18.834 (Estatuto Administrativo) para impugnar o cuestionar la prueba en que se sustenta la denuncia y para efectuar las alegaciones referidas a la utilización del teléfono personal, por lo que la acción deducida en la especie es prematura y no puede prosperar.
+
+Por estas consideraciones y de conformidad, además, con lo prevenido en el artículo 20 de la Constitución Política de la República y Auto Acordado de esta Corte sobre la materia, se confirma la sentencia apelada de treinta de septiembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Temuco.
+Regístrese y devuélvase.
+
+Rol N°41.487-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Temuco
+Temuco, treinta de septiembre de dos mil veinticinco.
+
+VISTOS:
+
+Comparece doña Romané Benjamín Garrido Pérez, terapeuta ocupacional, representada por los abogados Damián Alejandro Pande Catrilaf y Rubén Andrés Nahuelpán Cares, interponiendo recurso de protección en contra del Complejo Asistencial Padre Las Casas y del Servicio de Salud Araucanía Sur, fundado en que se han vulnerado sus garantías constitucionales mediante la utilización, como prueba en un procedimiento disciplinario, de conversaciones privadas de la aplicación WhatsApp, así como por la obligación de emplear su número telefónico personal para fines laborales.
+
+Expone que el día 7 de mayo de 2025 fue notificada de la existencia de un sumario administrativo en su contra, cuya investigación se basaba en imágenes de conversaciones obtenidas desde su cuenta de WhatsApp, tanto en grupos laborales como en chats privados, los que contendrían información personal de carácter sensible y familiar. Refiere que tales antecedentes habrían sido obtenidos de manera subrepticia e ilegal, provocándole angustia y afectación psicológica al ver expuesta su intimidad y datos confidenciales.
+
+Sostiene que desde su ingreso al Centro Kimünche se le ha exigido utilizar su número y aplicación personal de WhatsApp para comunicarse con pacientes y colegas, pese a que en reiteradas oportunidades solicitó a sus superiores habilitar un número institucional de contacto, sin que ello fuera acogido. En razón de lo anterior, estima vulnerados los derechos garantizados en el artículo 19 de la Constitución Política de la República, en particular los números 1, 3 inciso quinto, 4 y 24. Solicita se acoja la acción, se deje sin efecto el sumario iniciado en su contra, se disponga que el establecimiento cuente con un número y cuenta institucional de WhatsApp y se condene en costas a las recurridas. En el primer otrosí pide orden de no innovar para suspender la tramitación del sumario administrativo.
+
+Evacuando informe, comparece la abogada Francisca Ignacia Gajardo Alzamora, en representación del Servicio de Salud Araucanía Sur y del Complejo Asistencial Padre Las Casas, solicitando el rechazo del recurso. Manifiesta que la investigación cuestionada corresponde a un sumario administrativo actualmente en etapa indagatoria, procedimiento regulado por la Ley N° 18.834 que contempla las garantías del debido proceso y que resulta ajeno al conocimiento de esta sede cautelar.
+
+Sostiene que no se ha obligado a la recurrente a utilizar su número personal para fines laborales, pues en el Centro Kimünche existía un número fijo institucional y, posteriormente, se implementó un teléfono celular con aplicación WhatsApp oficial. En cuanto a las conversaciones acompañadas en el procedimiento sumarial, alega que no hubo intromisión ilegítima en la privacidad de la actora, ya que dichas imágenes provienen de un computador institucional de uso compartido donde la recurrente mantenía vinculada y abierta su sesión de WhatsApp Web, sin cerrar ni resguardar el acceso, lo que implicaría una autorización tácita de acceso a terceros.
+
+Precisa que la situación descrita es consecuencia de un actuar negligente de la propia recurrente y que, en consecuencia, no concurren actos ilegales ni arbitrarios atribuibles a las recurridas. Reitera que el recurso de protección no constituye una instancia para controvertir un procedimiento disciplinario reglado por normas especiales, insistiendo en la improcedencia de la acción y pidiendo su rechazo con expresa condena en costas.
+
+Se trajeron los autos en relación, procediendo a la vista del recurso en la audiencia del pasado ocho de septiembre, a la que comparecieron los abogados Damián Pande Catrilaf y Gregorio Haristoy Charnay, quienes alegaron ante estrados por y contra el recurso, respectivamente, quedando la causa en estado de acuerdo.
+
+CON LOS RELACIONADO Y CONSIDERANDO:
+
+PRIMERO: Que el recurso de protección, establecido en el artículo 20 de la Constitución Política de la República, tiene por objeto restablecer el imperio del derecho y asegurar la debida protección del afectado cuando, por acto u omisión arbitrario o ilegal, se prive, perturbe o amenace el legítimo ejercicio de las garantías allí indicadas.
+
+SEGUNDO: Que la recurrente funda su acción en la circunstancia de haberse utilizado, como sustento de un procedimiento disciplinario en su contra, conversaciones de la aplicación WhatsApp obtenidas supuestamente de forma subrepticia e ilegal, y en la obligación de usar su número personal para fines laborales, lo que a su juicio vulnera los derechos reconocidos en los numerales 1, 3 inciso quinto, 4 y 24 del artículo 19 de la Constitución.
+
+TERCERO: Que las recurridas, al evacuar informe, han señalado que el procedimiento cuestionado corresponde a un sumario administrativo en curso, en etapa de investigación, regido por la Ley N° 18.834 sobre Estatuto Administrativo, la cual contempla expresamente las garantías de un debido proceso, incluyendo la formulación de cargos, derecho a defensa, presentación de descargos y medios de impugnación, por lo que no es procedente que esta acción cautelar se convierta en una instancia paralela para revisar su contenido o suspender su tramitación.
+
+CUARTO: Que en relación con la alegada utilización indebida de su número y aplicación personal de WhatsApp, las recurridas han acreditado que en el establecimiento existía un número telefónico fijo institucional y que posteriormente se implementó un número celular con la aplicación correspondiente, negando haber impuesto a la actora el uso de su número personal.
+
+QUINTO: Que respecto de las imágenes acompañadas en el sumario administrativo, consta que las mismas provienen de un computador institucional de uso compartido en el cual la recurrente habría mantenido vinculada y abierta su sesión de WhatsApp Web, sin adoptar las medidas de resguardo correspondientes, situación que descarta la existencia de una intromisión ilegítima atribuible a las recurridas.
+
+SEXTO: Que la jurisprudencia reiterada ha sostenido que el recurso de protección no constituye una vía para revisar procedimientos disciplinarios reglados por ley, sino únicamente para restablecer derechos conculcados por actos u omisiones arbitrarios o ilegales, lo que en la especie no se advierte.
+
+SÉPTIMO: Que, en consecuencia, no se divisa en el actuar de las recurridas ilegalidad o arbitrariedad que afecte las garantías fundamentales invocadas por la recurrente, razón por la cual la acción deducida no puede prosperar.
+
+Por estas consideraciones y lo dispuesto en los artículos 19 y 20 de la Constitución Política de la República y Auto Acordado de la Excma. Corte Suprema sobre tramitación del recurso de protección, SE RECHAZA, sin costas, el recurso de protección deducido por doña Romané Benjamín Garrido Pérez en contra del Complejo Asistencial Padre Las Casas y del Servicio de Salud Araucanía Sur.
+
+Regístrese, notifíquese y, en su oportunidad, archívese.
+
+Redacción a cargo del Abogado Integrante Sr. Reinaldo Osorio Ulloa.
+N°Protección-2474-2025. (csd)
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de TemucoTemuco, treinta  de septiembre de dos mil veinticinco.VISTOS:Comparece doña Romané Benjamín Garrido Pérez, terapeuta ocupacional, representada por los abogados Damián Alejandro Pande Catrilaf y Rubén Andrés Nahuelpán Cares, interponiendo recurso de protección en contra del Complejo Asistencial Padre Las Casas y del Servicio de Salud Araucanía Sur, fundado en que se han vulnerado sus garantías constitucionales mediante la utilización, como prueba en un procedimiento disciplinario, de conversaciones privadas de la aplicación WhatsApp, así como por la obligación de emplear su número telefónico personal para fines laborales.Expone que el día 7 de mayo de 2025 fue notificada de la existencia de un sumario administrativo en su contra, cuya investigación se basaba en imágenes de conversaciones obtenidas desde su cuenta de WhatsApp, tanto en grupos laborales como en chats privados, los que contendrían información personal de carácter sensible y familiar. Refiere que tales antecedentes habrían sido obtenidos de manera subrepticia e ilegal, provocándole angustia y afectación psicológica al ver expuesta su intimidad y datos confidenciales.Sostiene que desde su ingreso al Centro Kimünche se le ha exigido utilizar su número y aplicación personal de WhatsApp para comunicarse con pacientes y colegas, pese a que en reiteradas oportunidades solicitó a sus superiores habilitar un número institucional de contacto, sin que ello fuera acogido. En razón de lo anterior, estima vulnerados los derechos garantizados en el artículo 19 de la Constitución Política de la República, en particular los números 1, 3 inciso quinto, 4 y 24. Solicita se acoja la acción, se deje sin efecto el sumario iniciado en su contra, se disponga que el establecimiento cuente con un número y cuenta institucional de WhatsApp y se condene en costas a las recurridas. En el primer otrosí pide orden de no innovar para suspender la tramitación del sumario administrativo.Evacuando informe, comparece la abogada Francisca Ignacia Gajardo Alzamora, en representación del Servicio de Salud Araucanía Sur y del Complejo Asistencial Padre Las Casas, solicitando el rechazo del recurso. Manifiesta que la investigación cuestionada corresponde a un sumario administrativo actualmente en etapa indagatoria, procedimiento regulado por la Ley N° 18.834 que contempla las garantías del debido proceso y que resulta ajeno al conocimiento de esta sede cautelar.Sostiene que no se ha obligado a la recurrente a utilizar su número personal para fines laborales, pues en el Centro Kimünche existía un número fijo institucional y, posteriormente, se implementó un teléfono celular con aplicación WhatsApp oficial. En cuanto a las conversaciones acompañadas en el procedimiento sumarial, alega que no hubo intromisión ilegítima en la privacidad de la actora, ya que dichas imágenes provienen de un computador institucional de uso compartido donde la recurrente mantenía vinculada y abierta su sesión de WhatsApp Web, sin cerrar ni resguardar el acceso, lo que implicaría una autorización tácita de acceso a terceros.Precisa que la situación descrita es consecuencia de un actuar negligente de la propia recurrente y que, en consecuencia, no concurren actos ilegales ni arbitrarios atribuibles a las recurridas. Reitera que el recurso de protección no constituye una instancia para controvertir un procedimiento disciplinario reglado por normas especiales, insistiendo en la improcedencia de la acción y pidiendo su rechazo con expresa condena en costas.Se trajeron los autos en relación, procediendo a la vista del recurso en la audiencia del pasado ocho de septiembre, a la que comparecieron los abogados Damián Pande Catrilaf y Gregorio Haristoy Charnay, quienes alegaron ante estrados por y contra el recurso, respectivamente, quedando la causa en estado de acuerdo.CON LOS RELACIONADO Y CONSIDERANDO:PRIMERO: Que el recurso de protección, establecido en el artículo 20 de la Constitución Política de la República, tiene por objeto restablecer el imperio del derecho y asegurar la debida protección del afectado cuando, por acto u omisión arbitrario o ilegal, se prive, perturbe o amenace el legítimo ejercicio de las garantías allí indicadas.SEGUNDO: Que la recurrente funda su acción en la circunstancia de haberse utilizado, como sustento de un procedimiento disciplinario en su contra, conversaciones de la aplicación WhatsApp obtenidas supuestamente de forma subrepticia e ilegal, y en la obligación de usar su número personal para fines laborales, lo que a su juicio vulnera los derechos reconocidos en los numerales 1, 3 inciso quinto, 4 y 24 del artículo 19 de la Constitución.TERCERO: Que las recurridas, al evacuar informe, han señalado que el procedimiento cuestionado corresponde a un sumario administrativo en curso, en etapa de investigación, regido por la Ley N° 18.834 sobre Estatuto Administrativo, la cual contempla expresamente las garantías de un debido proceso, incluyendo la formulación de cargos, derecho a defensa, presentación de descargos y medios de impugnación, por lo que no es procedente que esta acción cautelar se convierta en una instancia paralela para revisar su contenido o suspender su tramitación.CUARTO: Que en relación con la alegada utilización indebida de su número y aplicación personal de WhatsApp, las recurridas han acreditado que en el establecimiento existía un número telefónico fijo institucional y que posteriormente se implementó un número celular con la aplicación correspondiente, negando haber impuesto a la actora el uso de su número personal.QUINTO: Que respecto de las imágenes acompañadas en el sumario administrativo, consta que las mismas provienen de un computador institucional de uso compartido en el cual la recurrente habría mantenido vinculada y abierta su sesión de WhatsApp Web, sin adoptar las medidas de resguardo correspondientes, situación que descarta la existencia de una intromisión ilegítima atribuible a las recurridas.SEXTO: Que la jurisprudencia reiterada ha sostenido que el recurso de protección no constituye una vía para revisar procedimientos disciplinarios reglados por ley, sino únicamente para restablecer derechos conculcados por actos u omisiones arbitrarios o ilegales, lo que en la especie no se advierte.SÉPTIMO: Que, en consecuencia, no se divisa en el actuar de las recurridas ilegalidad o arbitrariedad que afecte las garantías fundamentales invocadas por la recurrente, razón por la cual la acción deducida no puede prosperar.Por estas consideraciones y lo dispuesto en los artículos 19 y 20 de la Constitución Política de la República y Auto Acordado de la Excma. Corte Suprema sobre tramitación del recurso de protección, SE RECHAZA, sin costas, el recurso de protección deducido por doña Romané Benjamín Garrido Pérez en contra del Complejo Asistencial Padre Las Casas y del Servicio de Salud Araucanía Sur.Regístrese, notifíquese y, en su oportunidad, archívese.Redacción a cargo del Abogado Integrante Sr. Reinaldo Osorio Ulloa. N°Protección-2474-2025. (csd)                        ⚠                      Sin documento en esta instancia - pdf
