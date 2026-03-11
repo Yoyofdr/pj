@@ -1,0 +1,79 @@
+METADATA
+
+case_id: c55849bff7b0b62fbdc62579565408f906ef311f
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7976186
+
+rol: 54681-2025
+
+fecha_sentencia: 2025-12-29
+
+caratulado: CONEJEROS RIQUELME DAVID CONTRA COMISION DE LIBERTAD CONDICIONAL
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, treinta de diciembre de dos mil veinticinco.
+
+Vistos:
+
+Se confirma la sentencia apelada de cuatro de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Arica, en el Ingreso Corte N°Amparo-539-2025.
+
+Acordado con la prevención del Abogado Integrante Sr. Ferrada, quien estuvo por rechazar el arbitrio intentado, por exceder los márgenes de lo dispuesto en el artículo 21 de la Constitución Política de la República, al encontrarse el amparado legalmente privado de su libertad por orden judicial, y haber actuado la autoridad impugnada en el ejercicio de sus facultades legales, sin perjuicio de su derecho a recurrir de esta y otras decisiones relativas a la ejecución de su condena ante el Juzgado de Garantía competente, de conformidad con lo dispuesto en el artículo 466 del Código Procesal Penal y en el artículo 14 , letra f ) del Código Orgánico de Tribunales.
+
+Regístrese y devuélvase.
+
+Rol N°55436-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Arica
+
+Arica, cuatro de diciembre de dos mil veinticinco.
+
+VISTOS:
+
+Comparece Patricia Martínez Márquez, abogada, en representación de Richard Orlando Mella Vega, quien interpone acción de amparo en contra de la Comisión de Libertad Condicional de Arica y Parinacota, por haber rechazado la postulación del amparado al beneficio de libertad condicional, vulnerando la garantía constitucional del N° 7 del artículo 19 de la Constitución Política de la República.
+
+Explica que se encuentra cumpliendo una condena de 6 años de presidio mayor en su grado mínimo por el delito de tráfico ilícito de drogas del artículo 3 de la Ley 20.000. El cumplimiento se inició el 6 de noviembre de 2020 y su término está proyectado para el 6 de noviembre de 2026. Desde el 6 de noviembre de 2024 cumplía con el tiempo mínimo para postular al beneficio, manteniendo conducta “Muy Buena” desde hace 11 bimestres.
+
+Señala que, pese a cumplir con los requisitos objetivos, la Comisión rechazó su postulación invocando factores de riesgo de manera genérica, sin ponderar los avances intrapenitenciarios como su participación en el programa "Amando a Cristo, Amarás al Prójimo" (APAC), su desempeño laboral en aseo y mantención por 20 meses, y el apoyo familiar de su hermana Alicia Mella Vega, además de contar con una oferta laboral concreta.
+
+Solicita dejar sin efecto la resolución recurrida y ordenar la concesión de la libertad condicional, dictándose la correspondiente orden de libertad.
+
+Informando la Comisión de Libertad Condicional, señala que la negativa fue adoptada por unanimidad de sus integrantes, sobre la base del informe psicosocial que advierte un riesgo de reincidencia y otros factores que impiden estimar que el postulante esté en condiciones de reinsertarse en libertad. Indica que el informe da cuenta de factores de riesgo de reincidencia que, analizados por los comisionados, permitieron concluir que el postulante no podría reinsertarse adecuadamente en este proceso, sugiriéndose continuar su intervención en sistema cerrado.
+
+Se ordenó traer los autos en relación.
+
+CON LO RELACIONADO Y CONSIDERANDO:
+
+PRIMERO: Que, el recurso de amparo, previsto en el artículo 21 de la Constitución Política de la República, tiene por objeto proteger a las personas que ilegal o arbitrariamente sufren cualquier privación, perturbación o amenaza en su derecho a la libertad personal y/o a la seguridad individual, motivo por el cual y considerando que en definitiva el acto denunciado concierne a aquel en virtud del cual se negó al amparado el beneficio de libertad condicional, corresponderá entonces determinar si, en la especie, la Comisión de Libertad Condicional, al decidir como lo hizo, incurrió efectivamente de modo ilegítimo en alguna vulneración a los derechos fundamentales precedentemente citados.
+
+SEGUNDO: Que, se encuentra acreditado que el amparado cumple condena de 6 años de presidio mayor en su grado mínimo por el delito de tráfico ilícito de drogas. Inició su cumplimiento el 6 de noviembre de 2020 y su término está proyectado para el 6 de noviembre de 2026. Desde el 6 de noviembre de 2024 cumple con el tiempo mínimo para postular al beneficio, manteniendo conducta “Muy Buena” en los once bimestres anteriores a su postulación.
+
+TERCERO: Que el informe psicosocial, elemento central en análisis, da cuenta de un nivel de riesgo de reincidencia alto. El evaluado presenta un alto compromiso delictual y registra múltiples condenas anteriores por tráfico de drogas, lesiones, robo y conducción en estado de ebriedad, además de una revocación previa de libertad condicional. Se advierte una justificación del delito como medio económico, con precaria conciencia del daño y del mal causado, situándose en una fase motivacional contemplativa y manteniendo cogniciones antisociales. Asimismo, se identifican déficits en resolución de conflictos y escasas habilidades sociales.
+
+En cuanto a los aspectos positivos, se destaca que realiza labores de aseo y mantención en el penal, lo que favorece la adquisición de hábitos, y participa en el programa religioso APAC. Su red de apoyo se compone de su hermana, doña Alicia Mella Vega, quien reside en Talcahuano y es identificada como referente afectivo dispuesto a apoyar el proceso.
+
+CUARTO: Que, a juicio de esta Corte, los antecedentes ponderados por la Comisión recurrida, en especial el informe psicosocial emanado de Gendarmería de Chile, dan cuenta de factores de riesgo de reincidencia y características de personalidad que, en su conjunto, justifican la mantención del amparado en un régimen de cumplimiento cerrado. El alto riesgo de reincidencia, sumado a la validación de conductas transgresoras, la insuficiente conciencia del delito y su historial de incumplimiento previo del beneficio, permiten concluir que no se encuentra actualmente en condiciones de cumplir exitosamente el saldo de su pena en libertad. La red de apoyo declarada, si bien existe, no logra contrapesar los factores de riesgo señalados, ni acreditar con suficiencia una estructura de soporte que permita asegurar la reinserción efectiva del postulante, máxime cuando el propio informe consigna que el postulante no se acomoda a la figura de un delegado, lo que hace inviable su cumplimiento en libertad. Todos estos elementos, analizados en conjunto, otorgan fundamento suficiente a la decisión de la Comisión de Libertad Condicional, descartándose que aquella haya incurrido en una ilegalidad al rechazar la postulación del amparado.
+
+Por estas consideraciones, normas legales citadas, y lo dispuesto en el artículo 21 de la Constitución Política de la República y en el Auto Acordado de la Excma. Corte Suprema, sobre Tramitación y Fallo del Recurso de Amparo, del año 1932, SE RECHAZA la acción constitucional de amparo interpuesta en favor de Richard Orlando Mella Vega, en contra de la Comisión de Libertad Condicional de Arica y Parinacota.
+
+Comuníquese al Jefe del Complejo Penitenciario de Arica, por la vía más expedita.
+
+Notifíquese al condenado por intermedio de Gendarmería de Chile.
+
+Regístrese, notifíquese y archívese, si no se apelare.
+
+Rol N° 539-2025 Amparo.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de AricaArica, cuatro de diciembre de dos mil veinticinco.VISTOS:Comparece Patricia Martínez Márquez, abogada, en representación de Richard Orlando Mella Vega, quien interpone acción de amparo en contra de la Comisión de Libertad Condicional de Arica y Parinacota, por haber rechazado la postulación del amparado al beneficio de libertad condicional, vulnerando la garantía constitucional del N° 7 del artículo 19 de la Constitución Política de la República. Explica que se encuentra cumpliendo una condena de 6 años de presidio mayor en su grado mínimo por el delito de tráfico ilícito de drogas del artículo 3 de la Ley 20.000. El cumplimiento se inició el 6 de noviembre de 2020 y su término está proyectado para el 6 de noviembre de 2026. Desde el 6 de noviembre de 2024 cumplía con el tiempo mínimo para postular al beneficio, manteniendo conducta “Muy Buena” desde hace 11 bimestres. Señala que, pese a cumplir con los requisitos objetivos, la Comisión rechazó su postulación invocando factores de riesgo de manera genérica, sin ponderar los avances intrapenitenciarios como su participación en el programa "Amando a Cristo, Amarás al Prójimo" (APAC), su desempeño laboral en aseo y mantención por 20 meses, y el apoyo familiar de su hermana Alicia Mella Vega, además de contar con una oferta laboral concreta.Solicita dejar sin efecto la resolución recurrida y ordenar la concesión de la libertad condicional, dictándose la correspondiente orden de libertad. Informando la Comisión de Libertad Condicional, señala que la negativa fue adoptada por unanimidad de sus integrantes, sobre la base del informe psicosocial que advierte un riesgo de reincidencia y otros factores que impiden estimar que el postulante esté en condiciones de reinsertarse en libertad. Indica que el informe da cuenta de factores de riesgo de reincidencia que, analizados por los comisionados, permitieron concluir que el postulante no podría reinsertarse adecuadamente en este proceso, sugiriéndose continuar su intervención en sistema cerrado. Se ordenó traer los autos en relación. CON LO RELACIONADO Y CONSIDERANDO: PRIMERO: Que, el recurso de amparo, previsto en el artículo 21 de la Constitución Política de la República, tiene por objeto proteger a las personas que ilegal o arbitrariamente sufren cualquier privación, perturbación o amenaza en su derecho a la libertad personal y/o a la seguridad individual, motivo por el cual y considerando que en definitiva el acto denunciado concierne a aquel en virtud del cual se negó al amparado el beneficio de libertad condicional, corresponderá entonces determinar si, en la especie, la Comisión de Libertad Condicional, al decidir como lo hizo, incurrió efectivamente de modo ilegítimo en alguna vulneración a los derechos fundamentales precedentemente citados. SEGUNDO: Que, se encuentra acreditado que el amparado cumple condena de 6 años de presidio mayor en su grado mínimo por el delito de tráfico ilícito de drogas. Inició su cumplimiento el 6 de noviembre de 2020 y su término está proyectado para el 6 de noviembre de 2026. Desde el 6 de noviembre de 2024 cumple con el tiempo mínimo para postular al beneficio, manteniendo conducta “Muy Buena” en los once bimestres anteriores a su postulación. TERCERO: Que el informe psicosocial, elemento central en análisis, da cuenta de un nivel de riesgo de reincidencia alto. El evaluado presenta un alto compromiso delictual y registra múltiples condenas anteriores por tráfico de drogas, lesiones, robo y conducción en estado de ebriedad, además de una revocación previa de libertad condicional. Se advierte una justificación del delito como medio económico, con precaria conciencia del daño y del mal causado, situándose en una fase motivacional contemplativa y manteniendo cogniciones antisociales. Asimismo, se identifican déficits en resolución de conflictos y escasas habilidades sociales. En cuanto a los aspectos positivos, se destaca que realiza labores de aseo y mantención en el penal, lo que favorece la adquisición de hábitos, y participa en el programa religioso APAC. Su red de apoyo se compone de su hermana, doña Alicia Mella Vega, quien reside en Talcahuano y es identificada como referente afectivo dispuesto a apoyar el proceso. CUARTO: Que, a juicio de esta Corte, los antecedentes ponderados por la Comisión recurrida, en especial el informe psicosocial emanado de Gendarmería de Chile, dan cuenta de factores de riesgo de reincidencia y características de personalidad que, en su conjunto, justifican la mantención del amparado en un régimen de cumplimiento cerrado. El alto riesgo de reincidencia, sumado a la validación de conductas transgresoras, la insuficiente conciencia del delito y su historial de incumplimiento previo del beneficio, permiten concluir que no se encuentra actualmente en condiciones de cumplir exitosamente el saldo de su pena en libertad. La red de apoyo declarada, si bien existe, no logra contrapesar los factores de riesgo señalados, ni acreditar con suficiencia una estructura de soporte que permita asegurar la reinserción efectiva del postulante, máxime cuando el propio informe consigna que el postulante no se acomoda a la figura de un delegado, lo que hace inviable su cumplimiento en libertad. Todos estos elementos, analizados en conjunto, otorgan fundamento suficiente a la decisión de la Comisión de Libertad Condicional, descartándose que aquella haya incurrido en una ilegalidad al rechazar la postulación del amparado.Por estas consideraciones, normas legales citadas, y lo dispuesto en el artículo 21 de la Constitución Política de la República y en el Auto Acordado de la Excma. Corte Suprema, sobre Tramitación y Fallo del Recurso de Amparo, del año 1932, SE RECHAZA la acción constitucional de amparo interpuesta en favor de Richard Orlando Mella Vega, en contra de la Comisión de Libertad Condicional de Arica y Parinacota. Comuníquese al Jefe del Complejo Penitenciario de Arica, por la vía más expedita. Notifíquese al condenado por intermedio de Gendarmería de Chile. Regístrese, notifíquese y archívese, si no se apelare. Rol N° 539-2025 Amparo.
