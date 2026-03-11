@@ -1,0 +1,68 @@
+METADATA
+
+case_id: 74874476432427b05c3611ad3b6d01eea611328e
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7963720
+
+rol: 55372-2025
+
+fecha_sentencia: 2025-12-18
+
+caratulado: RODRIGUEZ COFRE GUILLERMO ANTONIO CONTRA COMISION DE LIBERTAD CONDICIONAL
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, dieciocho de diciembre de dos mil veinticinco.
+
+Vistos:
+
+Se confirma la sentencia apelada de veintiséis de noviembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Arica, en el Ingreso Corte N° 514-2025.
+
+Regístrese y devuélvase.
+
+Rol N° 54.282-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Arica, veintiséis de noviembre de dos mil veinticinco.
+
+VISTOS:
+
+Comparece Violeta Álvarez Ramírez, defensora penal pública, quien interpone acción de amparo constitucional en favor de Katherine Natasha Cornejo Tuanama y Yanis Mishell Pirzl Casqui y en contra de la Jueza del Juzgado de Garantía de Arica, doña Paulina Zúñiga Lira, por el acto conculcatorio de su libertad personal y seguridad individual consistente en la fijación de una audiencia de revisión de prisión preventiva con un retardo excesivo e injustificado.
+
+Señala la recurrente que sus representadas se encuentran formalizadas por el delito de tráfico ilícito de drogas desde el 06 de agosto de 2025, sujetas a la medida cautelar de prisión preventiva de manera ininterrumpida. Indica que con fecha 18 de noviembre de 2025, la defensa solicitó al tribunal la fijación de una audiencia para revisar dicha medida cautelar, invocando la existencia de nuevos antecedentes y solicitando el traslado de las imputadas. Refiere que, frente a esta solicitud, el tribunal recurrido resolvió fijar la audiencia para el día 29 de diciembre de 2025 a las 08:30 horas, lo que implica que transcurrirán 41 días desde la petición hasta la realización de la audiencia.
+
+Argumenta que este plazo vulnera el derecho a ser juzgado en un plazo razonable y sin dilaciones indebidas, garantizado en el artículo 21 de la Constitución, el artículo 8.1 de la Convención Americana sobre Derechos Humanos y el 14.3 del Pacto Internacional de Derechos Civiles y Políticos. Sostiene que, tratándose de personas privadas de libertad, las audiencias deben agendarse con urgencia y preferencia, citando jurisprudencia de la Corte Interamericana de Derechos Humanos sobre la celeridad requerida en estos procesos. Agrega que la decisión es arbitraria pues desconoce la realidad carcelaria y el riesgo que implica, impidiendo discutir la libertad de la amparada con la urgencia necesaria.
+
+Solicita que se ordene al Juzgado de Garantía de Arica fijar en el más breve plazo posible una audiencia para discutir la revisión de la medida cautelar.
+
+Informando la magistrada Paulina Zúñiga Lira, Jueza del Juzgado de Garantía de Arica, explica que la defensa solicitó la revisión después de tres meses y doce días, cumpliendo con sus directrices institucionales de actuaciones mínimas. Argumenta que la audiencia está supeditada al agendamiento otorgado por la administración en función de un plan objetivo y general que ella carece de competencias para modificar, y que no resulta propio interferir la agenda del tribunal por una urgencia que la propia defensa no dio anteriormente.
+
+Se ordenó traer los autos en relación.
+
+CON LO RELACIONADO Y CONSIDERANDO:
+
+PRIMERO: Que, de conformidad con el artículo 21 de la Constitución Política de la República, el recurso de amparo puede ser deducido a favor de toda persona que se hallare arrestado, detenido o preso con infracción de lo dispuesto en la Constitución o las leyes, a fin de que se guarden las formalidades legales y se adopte de inmediato las providencias necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado. El mismo recurso, y en igual forma, podrá ser deducido en favor de toda persona que ilegalmente sufra cualquiera otra privación, perturbación o amenaza en su derecho a la libertad personal y seguridad individual.
+SEGUNDO: Que, el acto impugnado consiste en la resolución de fecha 18 de noviembre de 2025, dictada por el Juzgado de Garantía de Arica, mediante la cual se fijó audiencia de revisión de prisión preventiva respecto de las amparadas para el día 29 de diciembre de 2025, esto es, con una dilación de 41 días desde la solicitud de la defensa.
+
+TERCERO: Que, en la especie y atendido lo informado por la jueza a quo, no se vislumbra ilegalidad, pues de acuerdo a las normas contenidas en el artículo 389 B del Código Orgánico de Tribunales, la gestión de la agenda del tribunal está a cargo de la administración del mismo, y en este caso la recurrente no ha invocado la necesidad de una cautela de garantías que ameriten un agendamiento urgente, como tampoco ha realizado otras alegaciones con el mismo fin, como sería, por ejemplo, una solicitud de acompañar nuevos antecedentes para modificar las circunstancias en orden a sustituir la cautelar vigente.
+
+Por estas consideraciones y de conformidad además con lo previsto en el artículo 21 de la Constitución Política de la República y el Auto Acordado de la Excma. Corte Suprema sobre tramitación del recurso de amparo, SE RECHAZA el recurso de amparo deducido en favor de Katherine Natasha Cornejo Tuanama y Yanis Mishell Pirzl Casqui y en contra del Juzgado de Garantía de esta ciudad.
+
+Remítase copia al tribunal recurrido.
+
+Regístrese, notifíquese y archívese en su oportunidad.
+
+Rol N° 514-2025 Amparo.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Arica, veintiséis de noviembre de dos mil veinticinco.VISTOS:Comparece Violeta Álvarez Ramírez, defensora penal pública, quien interpone acción de amparo constitucional en favor de Katherine Natasha Cornejo Tuanama y Yanis Mishell Pirzl Casqui y en contra de la Jueza del Juzgado de Garantía de Arica, doña Paulina Zúñiga Lira, por el acto conculcatorio de su libertad personal y seguridad individual consistente en la fijación de una audiencia de revisión de prisión preventiva con un retardo excesivo e injustificado.Señala la recurrente que sus representadas se encuentran formalizadas por el delito de tráfico ilícito de drogas desde el 06 de agosto de 2025, sujetas a la medida cautelar de prisión preventiva de manera ininterrumpida. Indica que con fecha 18 de noviembre de 2025, la defensa solicitó al tribunal la fijación de una audiencia para revisar dicha medida cautelar, invocando la existencia de nuevos antecedentes y solicitando el traslado de las imputadas. Refiere que, frente a esta solicitud, el tribunal recurrido resolvió fijar la audiencia para el día 29 de diciembre de 2025 a las 08:30 horas, lo que implica que transcurrirán 41 días desde la petición hasta la realización de la audiencia.Argumenta que este plazo vulnera el derecho a ser juzgado en un plazo razonable y sin dilaciones indebidas, garantizado en el artículo 21 de la Constitución, el artículo 8.1 de la Convención Americana sobre Derechos Humanos y el 14.3 del Pacto Internacional de Derechos Civiles y Políticos. Sostiene que, tratándose de personas privadas de libertad, las audiencias deben agendarse con urgencia y preferencia, citando jurisprudencia de la Corte Interamericana de Derechos Humanos sobre la celeridad requerida en estos procesos. Agrega que la decisión es arbitraria pues desconoce la realidad carcelaria y el riesgo que implica, impidiendo discutir la libertad de la amparada con la urgencia necesaria.Solicita que se ordene al Juzgado de Garantía de Arica fijar en el más breve plazo posible una audiencia para discutir la revisión de la medida cautelar.Informando la magistrada Paulina Zúñiga Lira, Jueza del Juzgado de Garantía de Arica, explica que la defensa solicitó la revisión después de tres meses y doce días, cumpliendo con sus directrices institucionales de actuaciones mínimas. Argumenta que la audiencia está supeditada al agendamiento otorgado por la administración en función de un plan objetivo y general que ella carece de competencias para modificar, y que no resulta propio interferir la agenda del tribunal por una urgencia que la propia defensa no dio anteriormente.Se ordenó traer los autos en relación.CON LO RELACIONADO Y CONSIDERANDO: PRIMERO: Que, de conformidad con el artículo 21 de la Constitución Política de la República, el recurso de amparo puede ser deducido a favor de toda persona que se hallare arrestado, detenido o preso con infracción de lo dispuesto en la Constitución o las leyes, a fin de que se guarden las formalidades legales y se adopte de inmediato las providencias necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado. El mismo recurso, y en igual forma, podrá ser deducido en favor de toda persona que ilegalmente sufra cualquiera otra privación, perturbación o amenaza en su derecho a la libertad personal y seguridad individual.SEGUNDO: Que, el acto impugnado consiste en la resolución de fecha 18 de noviembre de 2025, dictada por el Juzgado de Garantía de Arica, mediante la cual se fijó audiencia de revisión de prisión preventiva respecto de las amparadas para el día 29 de diciembre de 2025, esto es, con una dilación de 41 días desde la solicitud de la defensa.TERCERO: Que, en la especie y atendido lo informado por la jueza a quo, no se vislumbra ilegalidad, pues de acuerdo a las normas contenidas en el artículo 389 B del Código Orgánico de Tribunales, la gestión de la agenda del tribunal está a cargo de la administración del mismo, y en este caso la recurrente no ha invocado la necesidad de una cautela de garantías que ameriten un agendamiento urgente, como tampoco ha realizado otras alegaciones con el mismo fin, como sería, por ejemplo, una solicitud de acompañar nuevos antecedentes para modificar las circunstancias en orden a sustituir la cautelar vigente.Por estas consideraciones y de conformidad además con lo previsto en el artículo 21 de la Constitución Política de la República y el Auto Acordado de la Excma. Corte Suprema sobre tramitación del recurso de amparo, SE RECHAZA el recurso de amparo deducido en favor de Katherine Natasha Cornejo Tuanama y Yanis Mishell Pirzl Casqui y en contra del Juzgado de Garantía de esta ciudad.Remítase copia al tribunal recurrido.Regístrese, notifíquese y archívese en su oportunidad.Rol N° 514-2025 Amparo.                        ⚠                      Sin documento en esta instancia - pdf
