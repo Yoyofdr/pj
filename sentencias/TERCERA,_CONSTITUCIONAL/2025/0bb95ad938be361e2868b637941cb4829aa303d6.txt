@@ -6,15 +6,15 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7971950
 
 rol: 37563-2025
 
-fecha_sentencia: 2025-12-24
+fecha_sentencia: 2025-12-26
 
 caratulado: ZARRAGA PÉREZ IRMA/ADMINISTRADORA DE FONDOS DE PENSIONES MODELO S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
