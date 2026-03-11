@@ -1,0 +1,220 @@
+METADATA
+
+case_id: 448fe7a6f5a0f7ccf4d3c4a7eef778125a96474c
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7970377
+
+rol: 44837-2025
+
+fecha_sentencia: 2025-12-23
+
+caratulado: LÓPEZ/ARAYA
+
+sala: PRIMERA, CIVIL
+
+materias: ▪ Admisibilidad del recurso de casación en el fondo
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: INADMISIBLES RECURSOS DE CASACIÓN FORMA Y FONDO
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintitrés de diciembre de dos mil veinticinco.
+
+Visto y teniendo presente:
+
+Primero: Que, de conformidad con lo dispuesto en el inciso séptimo del artículo 483-A del Código del Trabajo, se ha ordenado dar cuenta de la admisibilidad del recurso de unificación de jurisprudencia deducido por la demandada contra la sentencia dictada por la Corte de Apelaciones de Santiago, que rechazó el de nulidad interpuesto contra la que acogió la demanda de despido injustificado y declaración de único empleador.
+
+Segundo: Que según se expresa en la legislación laboral, el recurso de unificación de jurisprudencia es susceptible de ser deducido en contra de la resolución que falle el recurso de nulidad, estableciéndose su procedencia para el caso en que ¿respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de Tribunales Superiores de Justicia ¿, conforme lo explicita el artículo 483 del Código del Trabajo.
+
+Asimismo, del tenor de lo dispuesto en el artículo 483-A del cuerpo legal antes citado, aparece que esta Corte debe controlar, como requisitos para su admisibilidad, por un lado, su oportunidad; en segundo lugar, la existencia de fundamento, además de una relación precisa y circunstanciada de las distintas interpretaciones respecto de las materias de derecho objeto de la sentencia, sostenidas en diversos fallos emanados de los tribunales superiores de justicia, y finalmente, debe acompañarse copia del o los fallos que se invocan como fundamento del recurso en referencia.
+
+Tercero: Que la recurrente no señala la materia de derecho propuesta para ser unificada, sino que sólo relaciona lo decidido en la sentencia impugnada con lo resuelto en otros pronunciamientos referidos a la acreditación de una dirección laboral común, como requisito para declarar la existencia de un único empleador.
+
+Cuarto: Que, entonces, el recurso en análisis incumple la obligación impuesta en el inciso segundo del artículo 483-A del Código del Trabajo, debido a que no determina con precisión qué materia pretende unificar, sin que pueda compararse con el contenido de las sentencias que se ofrecen a modo de contraste.
+
+Quinto: Que, en las condiciones expuestas, y, en especial, dado el carácter especialísimo y excepcional que reviste el mecanismo de impugnación que se intenta, particularidad reconocida expresamente por el citado artículo 483 del estatuto laboral, al determinar su procedencia bajo los supuestos estrictos que la disposición que le sigue consagra, se impone la inadmisibilidad del recurso.
+
+Por estas consideraciones y normas citadas, se declara inadmisible el recurso de unificación de jurisprudencia interpuesto contra la sentencia de siete de octubre de dos mil veinticinco.
+
+Regístrese y devuélvase.
+
+N°49.174-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Santiago, siete de octubre de dos mil veinticinco.
+
+Vistos:
+Por sentencia de veinticuatro de julio de dos mil veinticuatro, dictada por el Segundo Juzgado de Letras del Trabajo de Santiago, en los autos RIT O-4596-2023, caratulados “Medina con Constructora UPC S.A.”, se resolvió acoger la demanda de despido injustificado, nulidad de despido y acción de declaración de único empleador respecto de las empresas Constructora UPC S.A y UPC Desarrollos Inmobiliarios S.A., condenándolas en forma solidaria al pago de todas las indemnizaciones y prestaciones adjudicadas.
+
+Contra este fallo, la demandada solidaria, UPC Desarrollos Inmobiliarios S.A., interpuso recurso de nulidad invocando la causal única de nulidad establecida en el artículo 477 del Código del Trabajo.
+
+Declarado admisible el recurso se procedió a su vista en la audiencia de 8 de agosto último, oportunidad en que alegó el abogado de la parte recurrente.
+
+Considerando:
+
+Primero: Que UPC Desarrollos Inmobiliarios S.A., invocó la causal del artículo 477 del Código del Trabajo, alegando una infracción de ley que influyó sustancialmente en lo dispositivo del fallo. En efecto, considera que se infringen los artículos 3°, 452, 453 N°1, 454 N°3 y N°4, 456, 459 N°4 y 478 del Código del Trabajo, el artículo 19 N°3 inciso 6 de la Constitución Política de la República, y el artículo 394 del Código de Procedimiento Civil.
+
+Sostiene que, en primer lugar, se infringen los incisos 4° y 5° del artículo 3 del Código del Trabajo, por cuanto éste exige como requisito esencial para que dos o más empresas puedan ser consideradas como un único empleador, el que exista una dirección laboral común entre ellas, lo que en la sentencia se establece mediante la aplicación de presunciones, aplicando el apercibimiento del artículo 453 número 1 inciso 7 del Código del Trabajo, teniéndolo como un hecho tácitamente admitido, y también por el silencio en la absolución de posiciones y la imposición del apercibimiento del artículo 453 número 5 del mismo cuerpo legal ante la falta de la exhibición documental. Manifiesta que, de haber interpretado correctamente dicha norma, el sentenciador habría debido concluir que el compartir relaciones societarias, o estar conformadas por socios comunes, no constituyen dirección laboral común, por lo que habría debido rechazar la solicitud del demandante de declarar unidad económica entre las demandadas.
+
+Como segunda infracción, alega una errónea interpretación del artículo 452 y 453 número 1 inciso 7 del Código del Trabajo, atacando la facultad del juez para tener por tácitamente admitidos los hechos. Argumenta que ambos artículos hacen referencia a dos situaciones diferentes, por un lado, el artículo 452 se refiere a la carga de la defensa de los intereses, mientras que el artículo 453, menciona una facultad excepcional del juez. Acusa que al sostener el sentenciador que el silencio no es admitido por el legislador se comete un error jurídico ya que la ley permite a la parte demandada negar las afirmaciones y acusaciones presentadas en la demanda, por lo que no cabía dar al silencio una manifestación de voluntad y -de haber interpretado correctamente las normas- el sentenciador habría debido concluir que no hay declaración alguna de voluntad y por lo mismo no tendría valor probatorio alguno para probar los hechos objeto de la prueba.
+
+Como tercera infracción, denuncia la errónea aplicación del artículo 453 número 1 inciso 7 del Código del Trabajo, alegando que la sentencia erróneamente aplica la facultad allí establecida, en circunstancias de que no se configuraron los supuestos para hacer uso de ella, pues existió una contestación de Constructora UPC que estableció una defensa negativa. Argumenta que la sanción se refiere exclusivamente al interviniente que no contesta la demanda, o que al hacerlo no niega algunos de los hechos contenidos en la demanda, y desde que se trata de una sanción, alega que ella no puede ser aplicada por analogía a otras situaciones no contempladas expresamente. La sentencia refiere: "Existe silencio de la parte empleadora, sobre lo cual se impone el apercibimiento del artículo 453 número 1 inciso 7 del Código del Trabajo, teniéndolo hecho por tácitamente admitido, incluidos los hechos de configuración de la unidad económica". Alega que, si bien Constructora UPC S.A. no contestó la demanda en los supuestos términos exigidos por el artículo 452, dicha admisión tácita no puede ser aplicable a su parte, atendido el carácter de sanción procesal, pues constituye una infracción a la garantía constitucional de ser juzgado en un procedimiento legalmente tramitado.
+
+Como cuarta infracción, se denuncia la vulneración al debido proceso como garantía constitucional, es decir al artículo 19 N°3, inciso 6° de la Constitución Política de la República, además de los artículos 454 N°3 y 432 del Código del Trabajo, y artículo 394 del Código de Procedimiento Civil. Lo anterior sobre la base que el tribunal, hizo efectivo el apercibimiento legal por la no comparecencia a la absolución de posiciones por parte de los representantes legales de las empresas demandadas, pero la sentencia definitiva no especifica los hechos asertivos respecto de los cuales se dio por confeso a los absolventes, en circunstancias de que se desprende de la lectura de la resolución que esta sanción fue determinante para acoger la solicitud de declaración de unidad económica que formula la demandante. Destaca que, que los hechos a probar relacionados con la petición de declaración de unidad económica no son asertivos si no indagatorios, por lo que no se puede dar por confeso a nadie. Agrega que el Código del Trabajo, en su artículo 454 N°3, solo se refiere a la aplicación de un apercibimiento en términos generales. Por tanto, corresponde, en virtud del principio de remisión, aplicar el artículo 394 del Código de Procedimiento Civil, que dispone que se tendrá por confeso al litigante ausente solo de los hechos asertivos, esto es, de los categóricamente afirmados.
+
+Solicita se invalide la sentencia recurrida y se dicte la sentencia de reemplazo en la cual se declare que UPC Desarrollos Inmobiliarios S.A., no constituye unidad económica alguna con la otra demandada ni pueden ser consideradas como un mismo empleador respecto del actor, con costas.
+
+Segundo: Que como se ha sostenido por esta Corte, la causal del artículo 477 del Código del Trabajo, sobre infracción de ley, tiene como finalidad velar porque el derecho sea correctamente aplicado a los hechos o al caso concreto determinado en la sentencia. En otras palabras, su propósito esencial está en fijar el significado, alcance y sentido de las normas, en función de los hechos que se han tenido por probados.
+
+Tercero: Que, en ese orden de ideas, debe ponerse en relieve que, en lo que dice relación con la declaración de único empleador, la sentencia estableció como hechos de relevancia que las demandadas Constructora UPC S.A. y UPC Desarrollos Inmobiliarios S.A. comparten propiedad, por tratarse de exactamente de los mismos propietarios en ambas empresas, es decir, las mismas personas jurídicas deciden desarrollar un negocio a través de otras dos personas jurídicas que son las demandadas de este juicio, resultando además el negocio “complementario” y relativo al desarrollo de obras de construcción. De otro lado, las demandadas referidas, al menos en alguna época, tuvieron el mismo domicilio y la representación legal de ambas la ejerce una misma persona.
+
+Con los hechos acreditados el sentenciador concluye que se verifica en el caso el requisito de la dirección laboral común y se hace lugar a declaración de un empleador único, agregando que existe una razón subyacente para ello que es que “estos trabajadores son abandonados a la época del término de la relación laboral, la empresa constructora, empleadora, es vaciada en su patrimonio y la empresa Inmobiliaria, donde se concentra el poder patrimonial, no aporta ninguna información útil al juicio, pese a encontrarse obligada a aquello, con la injustificada esperanza que ante la falta de entrega de esa información, la demanda sea rechazada, cuando existe prueba material de indicio y cuando sus obligaciones, a partir de las cargas dinámicas de la prueba son aportar información al juicio y no mantenerse como espectador respecto a los hechos”.
+
+Cuarto: Que, como se puede advertir, las alegaciones del recurrente no pueden tener cabida, en la medida que pretende insertar su motivo de nulidad, haciendo caso omiso de lo determinado en la sentencia, dado que en su petición insiste en que no existen los vínculos de dirección laboral común, en circunstancias que en el fallo que se revisa establece exactamente lo contrario. En efecto, lo determinante en la figura del único empleador gira en torno a la dirección laboral común, elemento que el sentenciador ha dado por establecido y respecto del cual discurre profusamente en la sentencia, a partir de los hechos asentados. De este modo, no se puede estimar infringido el artículo 3 del Código del Trabajo.
+
+De otro lado, no siendo del ámbito de la causal el análisis la forma en que se llegó a determinar el sustrato fáctico de la dirección laboral común, tampoco puede atenderse al reproche sobre el ejercicio de las facultades del sentenciador para entender por tácitamente admitidos los hechos.
+
+Quinto: Que, por lo demás existe, otra razón para rechazar el presente recurso y es que las infracciones denunciadas a los artículos 452, 453 N°1 y 454 N°3 del Código del Trabajo, 19 N°3 de la Constitución Política radican en la manifestación de voluntad que el sentenciador ha otorgado al silencio de las demandadas, en circunstancias que UPC Desarrollos Inmobiliarios S.A. contestó la demanda y negó los hechos atribuidos.
+
+Acontece que, por un lado, existe un informe de la Dirección del Trabajo que da cuenta de la coincidencia de domicilio entre las demandadas y de al menos uno de los representantes, por lo que los vínculos entre ambas no se han establecido únicamente por el apercibimiento del inciso 7° del N°1 del artículo 453 del Código del Trabajo, como lo pretende el recurso, cuestión que resta influencia al supuesto vicio. De otro lado, un relato críptico en la contestación, la falta de comparecencia a la citación a absolver posiciones, la renuencia a exhibir documentación que debía estar en su poder y la falta absoluta de aporte probatorio, son conductas evidentemente evasivas que es posible valorar conforme a las reglas de la sana crítica, y que llevan razonablemente a estimar que dicha falta de colaboración debe operar en contra del interés de quien estaba en inmejorable situación de aportar la información faltante. Lo anterior es concordante con lo señalado por el sentenciador en orden a que la recurrente ha obrado así con la esperanza de beneficiarse de su inactividad procesal.
+
+Por último, la misma circunstancia alegada en estrados relativa a la inexistencia de trabajadores en la empresa recurrente, es indiciaria de que efectivamente se verifica la situación que el sentenciador denuncia, en orden a que se ha desviado el patrimonio de la empresa que tenía trabajadores, dejando a éstos abandonados a su suerte.
+
+En tales condiciones no se verifica el error jurídico denunciado y el recurso deberá ser rechazado.
+Y visto, además, lo dispuesto en los artículos 477, 479, 481 y 482 del Código del Trabajo, se rechaza, con costas, el recurso de nulidad deducido por la parte demandada Constructora UPC S.A., en contra de la sentencia de veinticuatro de julio de dos mil veinticuatro, dictada por el Segundo Juzgado de Letras del Trabajo de Santiago, en la causa RIT O-4596-2023, la que, en consecuencia, no es nula.
+
+Regístrese y comuníquese.
+Redacción de la ministra (s) señora Paola Díaz Urtubia.
+
+N° Laboral-Cobranza-2848-2024.
+1
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+ACTA DE CONTINUACIÓN DE AUDIENCIA DE JUICIO
+
+PROCEDIMIENTO ORDINARIO
+
+FECHA
+24 DE JULIO DE 2024
+
+TRIBUNAL
+SEGUNDO JUZGADO DE LETRAS DEL TRABAJO
+
+LUGAR
+SANTIAGO
+
+SALA
+17
+
+RUC
+23-4-0495307-9
+
+RIT
+O-4596-2023
+
+MAGISTRADO
+VÍCTOR RIFFO ORELLANA
+
+ADMINISTRATIVA DE ACTAS
+ROCÍO ÁLVAREZ MIRANDA
+
+HORA DE INICIO
+09:20 HORAS
+
+HORA DE TÉRMINO
+10:03 HORAS
+
+N° REGISTRO DE AUDIO
+2340495307-9-1349-240724-00
+
+N° CUSTODIA ASIGNADA
+1830/2024
+
+PARTE DEMANDANTE
+CAROLAINE NICOLE FERRADA PACHECO
+
+JAVIER MARTÍN MEDINA ESPINOZA
+
+ABOGADO PARTE DEMANDANTE
+NICOLÁS GARCÍA CERDA
+
+FORMA DE NOTIFICACIÓN
+CORREO ELECTRÓNICO
+
+PARTE DEMANDADA NO COMPARECIENTE
+CONSTRUCTORA UPC S.A
+
+FORMA DE NOTIFICACIÓN
+CORREO ELECTRÓNICO
+
+PARTE DEMANDADA NO COMPARECIENTE
+UPC DESARROLLOS INMOBILIARIOS
+
+S.A.
+
+FORMA DE NOTIFICACIÓN
+CORREO ELECTRÓNICO
+
+ACTUACIONES EFECTUADAS:
+SI
+NO
+ORD
+
+(HECHO DE HABERSE EFECTUADO O NO, Y SU ORDEN)
+
+DICTACIÓN Y NOTIFICACIÓN DE SENTENCIA
+X
+
+SENTENCIA
+
+Se deja constancia que conforme a lo dispuesto en el acta 71-2016 de la Excelentísima Corte Suprema y lo acordado en acta de Comité de Jueces N° 77-2016 de este Tribunal, la sentencia es pronunciada íntegramente en la audiencia, como consta en el registro de audio, correspondiendo la transcripción únicamente de su parte resolutiva.
+
+Parte resolutiva
+
+Visto además lo dispuesto en los artículos 1, 3, 7, 159, 161, 162, 163, 168, 172, 173, 420, 446 y siguientes, 453, 454, 456, 457, 489, 507, y demás normas legales pertinentes, se resuelve:
+
+I. Se acoge la acción de despido injustificado y cobro de prestaciones interpuesta por JAVIER MARTÍN MEDINA ESPINOZA y CAROLAINE NICOLE FERRADA PACHECO en contra de la empresa CONSTRUCTORA UPC S.A., declarándose que el despido de ambos demandantes es injustificado.
+
+II. Se condena a la demandada CONSTRUCTORA UPC S.A. a pagar a los demandantes:
+
+1. Respecto de Javier Martín Medina Espinoza:
+
+a) Indemnización sustitutiva del aviso previo correspondiente a $1.007.971.-
+
+b) Indemnización por tiempo servido correspondiente a $807.650.-
+
+c) Feriado correspondiente a $503.985.-
+
+2. Respecto de la demandante Carolaine Nicole Ferrada Pacheco:
+
+a) Indemnización sustitutiva del aviso previo correspondiente a $1.205.684.-
+
+b) Indemnización por años de servicio correspondiente $4.822.736.-
+
+c) Recargo del 30% sobre la indemnización por años de servicio correspondiente a $1.446.820.-
+
+d) Días de remuneración del mes de abril de 2022 correspondiente a $622.365.-
+
+e) Feriado correspondiente a $1.492.794.-
+
+III. Las cantidades señaladas en el punto anterior deberán ser objeto de reajustes e intereses, según dispone el artículo 63 y 173 del Código del Trabajo.
+
+IV. De las cantidades señaladas en el punto número 2 de lo resolutivo de esta sentencia, deberá descontarse lo obtenido por los demandantes en el avenimiento arribado con la empresa LATIKA S.A. correspondiente a $1.041.300.- respecto de JAVIER MARTÍN MEDINA ESPINOZA y $3.458.700.- respecto de la demandante CAROLAINE NICOLE FERRADA PACHECO.
+
+V. Se acoge la demanda de nulidad del despido por no pago de cotizaciones previsionales, y por tanto se condena a la demandada CONSTRUCTORA UPC S.A. a pagar a los demandantes remuneraciones desde la época del despido ocurrido respecto de la demandante Ferrada Pacheco el 5 de mayo de 2023 y del demandante Medina Espinoza el 30 de abril de 2023, hasta el pago efectivo de las cotizaciones de salud adeudadas a razón de, respecto de la demandante Ferrada Pacheco $1.205.684.- y en el caso del demandante Medina Espinoza $1.007.971.- Para efectos de la convalidación del despido, deberá acreditarse el pago de las cotizaciones de salud respecto de cada uno de los demandantes por todo el período trabajado.
+
+VI. Se acoge la acción de declaración de unidad económica o único empleador, declarándose por tanto que respecto de ambos demandantes la empresa CONSTRUCTORA UPC S.A y la empresa UPC DESARROLLOS INMOBILIARIOS S.A. constituyen un único empleador y son por tanto solidariamente obligados al pago de todas las indemnizaciones, prestaciones y sanciones establecidas en lo resolutivo de esta sentencia.
+
+VII. Cada parte pagará sus costas.
+
+VIII. Una vez firme y ejecutoriada la presente sentencia, remítanse los antecedentes al Juzgado de Cobranza Laboral y Previsional para su ejecución, en los tiempos y formas dispuesto en el artículo 462 del Código del Trabajo.
+
+Téngase a las partes por notificadas de las resoluciones precedentemente dictadas.
+
+Dirigió la audiencia y dictó sentencia don Víctor Manuel Riffo Orellana, Juez Titular del Segundo Juzgado de Letras del Trabajo de Santiago.
+
+Se deja constancia que el registro oficial de la presente audiencia, se encuentra grabado en el audio y a disposición de los intervinientes. Segundo Juzgado de Letras del Trabajo de Santiago, veinticuatro de julio de dos mil veinticuatro.-

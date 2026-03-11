@@ -1,0 +1,84 @@
+METADATA
+
+case_id: d7a69d1625e1229f8928c7296a2bc85d7963151e
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7969267
+
+rol: 44130-2025
+
+fecha_sentencia: 2025-12-23
+
+caratulado: CIMA INGENIERIA Y CONSTRUCCION SPA/COMPAÑIA DE SEGUROS GENERALES CONTINENTAL S.A.
+
+sala: PRIMERA, CIVIL
+
+materias: ▪ Admisibilidad del recurso de casación en el fondo
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: RECHAZA CASACION EN EL FONDO
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintitrés de diciembre de dos mil veinticinco.
+
+Vistos:
+
+Atendido lo dispuesto en el artículo 21 de la Carta Fundamental, se confirma la sentencia apelada de uno de diciembre de dos mil veinticinco, pronunciada por la Corte de Apelaciones de Valparaíso, en el ingreso Nº4.655-2025.
+
+Regístrese y devuélvase.
+
+Nº53.680-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Dgm.
+
+C.A. de Valparaíso
+Valparaíso, uno de diciembre de dos mil veinticinco.
+
+VISTOS:
+
+A folio 1, Tomás Guillermo Matheson Mujica, abogado, deduce acción de amparo en favor de Getho Laguerre, de nacionalidad haitiana, y en contra del Servicio Nacional de Migraciones, por el acto que considera ilegal consistente en la dictación de la Resolución Exenta N°2500100266181, de fecha 17 de noviembre de 2025, que rechazó su solicitud de residencia definitiva y dispuso su abandono del país, lo que estima vulnera su derecho a la libertad personal, consagrado en el artículo 19 N°7 de la Constitución Política de la República.
+
+Expone que, el amparado es originario de Haití y se vio en la necesidad de migrar a Chile debido a la crisis en su país. Señala que, posee RUT definitivo, lo que implica que tuvo residencia temporal previa. Indica que, la recurrida informó el rechazo de su solicitud por no presentar copia de la sanción por residir en el país con el permiso vencido. Argumenta que, la orden de abandono es ilegal, arbitraria y desproporcionada, dejándolo en el desamparo e impidiendo su incorporación legal a la sociedad. Sostiene que, la autoridad optó por la sanción más gravosa, pudiendo haber otorgado una residencia temporal sustitutiva conforme al artículo 91 inciso 5° de la Ley N°21.325. Alega que, se vulnera la igualdad ante la ley y no se le otorgó el derecho a subsanar la solicitud. Agrega que, la medida carece de razonabilidad al desatender su arraigo laboral.
+
+Concluye solicitando que se acoja la acción, se deje sin efecto la resolución administrativa que dispone el abandono, se retrotraiga el proceso permitiendo complementar antecedentes o realizar una nueva postulación y, en caso de revocarse el rechazo, se otorgue certificado de residencia en trámite.
+
+Acompaña al recurso los siguientes documentos: a) Resolución Exenta que rechaza la solicitud de residencia y dispone la orden de abandono.
+
+A folio 5, evacúa informe Daniel Baltra Goity, abogado, en representación de la Dirección Regional de Valparaíso del Servicio Nacional de Migraciones.
+
+Expone que, el amparado solicitó residencia definitiva el 31 de mayo de 2023, encontrándose con su permiso anterior vencido desde el 17 de octubre de 2019. Señala que, se le solicitaron antecedentes adicionales para subsanar su solicitud, específicamente el pago de la multa por residencia irregular, sin que el extranjero diera cumplimiento a ello. Indica que, se le notificó un "previo rechazo" otorgándole plazo para descargos, los cuales no lograron desvirtuar la causal. Sostiene que, mediante Resolución Exenta N°2500100266181 de fecha 17 de noviembre de 2025, se rechazó la solicitud y dispuso el abandono del país por no remitir copia de la sanción por residencia vencida. Argumenta que, la resolución fue dictada por autoridad competente y que la orden de abandono es una consecuencia legal imperativa del rechazo de un permiso, cuyo cumplimiento es voluntario, a diferencia de la expulsión.
+
+Finalmente pide el rechazo de la presente acción constitucional de amparo en todas sus partes, por no existir acto u omisión ilegal o arbitrario.
+
+Acompaña al informe los siguientes documentos: a) Copia de escritura pública de mandato judicial; b) Comunicación electrónica folio N°41354036; c) Notificación de Previo Rechazo folio N°58458332; d) Resolución Exenta N°25035791; e) Comunicación Electrónica de 08-09-2025; f) Notificación de Previo Rechazo folio N°88506090; g) Resolución Exenta N°2500100266181.
+
+A folio 11, se ordena traer los autos en relación.
+
+Con lo relacionado y considerando:
+
+Primero: Que, la acción de amparo es un proceso de tutela urgente del derecho fundamental a la libertad personal y seguridad individual, garantía consagrada en el artículo 19 N°7 de la Constitución Política de la República, procedente en aquellos casos en que una persona fuere arrestada, detenida o presa con infracción a la Constitución o a las leyes o sufra cualquier otra privación, perturbación o amenaza al derecho fundamental antes aludido, fuera de los casos en que el ordenamiento jurídico lo permite.
+
+Segundo: Que, a través de esta vía cautelar se impugna la Resolución Exenta N°2500100266181 que rechazó la solicitud de residencia definitiva del amparado y dispuso su abandono del país, acto que se estima ilegal y arbitrario por desatender el arraigo del actor y no aplicar sanciones menos gravosas, solicitando que se deje sin efecto dicha resolución y se retrotraiga el procedimiento administrativo.
+
+Tercero: Que, el recurrido informa, en síntesis, que la resolución se ajusta a derecho pues el amparado postuló con su residencia vencida y no acreditó el pago de la multa correspondiente tras ser notificado, siendo la orden de abandono una consecuencia legal imperativa del rechazo, dictada por autoridad competente.
+
+Cuarto: Que, consta del informe del Servicio Nacional de Migraciones que la Excma. Corte Suprema, en causa Rol Amparo N°684-2025, dejó sin efecto la resolución anterior que rechazaba la solicitud de residencia definitiva del amparado y ordenó otorgar un plazo de noventa días para subsanar los antecedentes faltantes. En cumplimiento de dicho fallo, el Servicio notificó al amparado, el 8 de septiembre de 2025, una nueva comunicación otorgando ese plazo de 90 días para acompañar la documentación pendiente. Tal notificación se encuentra reconocida expresamente por la recurrida en su informe y en los documentos acompañados.
+
+Quinto: Que, conforme al tenor literal de la decisión de la Excma. Corte Suprema, el plazo otorgado al amparado tenía naturaleza perentoria, debiendo computarse desde la notificación efectuada el 8 de septiembre de 2025. De este modo, los noventa días concedidos vencen a inicios de diciembre de 2025. En consecuencia, al dictarse la Resolución Exenta N°2500100266181 con fecha 17 de noviembre de 2025, esto es, antes de vencido el plazo judicialmente otorgado, la autoridad administrativa anticipó indebidamente la decisión de rechazo y de abandono del país, desconociendo lo resuelto por el máximo tribunal.
+
+Sexto: Que, tal actuar importa una ilegalidad en los términos exigidos por esta acción, por cuanto la autoridad administrativa se adelantó a resolver el procedimiento sancionatorio sin que hubiera expirado el plazo otorgado expresamente por la Excma. Corte Suprema para subsanar antecedentes. Dicho incumplimiento afecta directamente la situación migratoria del amparado y coloca en riesgo su libertad personal al imponerle una orden de abandono dictada sin respetar el término conferido por el tribunal superior.
+
+Por estas consideraciones y de conformidad con lo dispuesto en los artículos 19 N°7 y 21 de la Constitución Política de la República, y en el Auto Acordado de la Corte Suprema sobre tramitación del recurso de amparo, se acoge, sin costas, la acción de amparo deducida en favor de Getho Laguerre en contra del Servicio Nacional de Migraciones y, en consecuencia, se ordena reabrir el procedimiento administrativo y otorgar un nuevo plazo de 90 días al amparado, a fin de que acompañe los documentos requeridos.
+
+Regístrese, comuníquese y archívese en su oportunidad.
+
+N°Amparo-4655-2025.
+
+En Valparaíso, uno de diciembre de dos mil veinticinco, se notificó por el estado diario la resolución que antecede.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Dgm.C.A. de ValparaísoValparaíso, uno de diciembre de dos mil veinticinco.VISTOS:A folio 1, Tomás Guillermo Matheson Mujica, abogado, deduce acción de amparo en favor de Getho Laguerre, de nacionalidad haitiana, y en contra del Servicio Nacional de Migraciones, por el acto que considera ilegal consistente en la dictación de la Resolución Exenta N°2500100266181, de fecha 17 de noviembre de 2025, que rechazó su solicitud de residencia definitiva y dispuso su abandono del país, lo que estima vulnera su derecho a la libertad personal, consagrado en el artículo 19 N°7 de la Constitución Política de la República.Expone que, el amparado es originario de Haití y se vio en la necesidad de migrar a Chile debido a la crisis en su país. Señala que, posee RUT definitivo, lo que implica que tuvo residencia temporal previa. Indica que, la recurrida informó el rechazo de su solicitud por no presentar copia de la sanción por residir en el país con el permiso vencido. Argumenta que, la orden de abandono es ilegal, arbitraria y desproporcionada, dejándolo en el desamparo e impidiendo su incorporación legal a la sociedad. Sostiene que, la autoridad optó por la sanción más gravosa, pudiendo haber otorgado una residencia temporal sustitutiva conforme al artículo 91 inciso 5° de la Ley N°21.325. Alega que, se vulnera la igualdad ante la ley y no se le otorgó el derecho a subsanar la solicitud. Agrega que, la medida carece de razonabilidad al desatender su arraigo laboral.Concluye solicitando que se acoja la acción, se deje sin efecto la resolución administrativa que dispone el abandono, se retrotraiga el proceso permitiendo complementar antecedentes o realizar una nueva postulación y, en caso de revocarse el rechazo, se otorgue certificado de residencia en trámite.Acompaña al recurso los siguientes documentos: a) Resolución Exenta que rechaza la solicitud de residencia y dispone la orden de abandono.A folio 5, evacúa informe Daniel Baltra Goity, abogado, en representación de la Dirección Regional de Valparaíso del Servicio Nacional de Migraciones.Expone que, el amparado solicitó residencia definitiva el 31 de mayo de 2023, encontrándose con su permiso anterior vencido desde el 17 de octubre de 2019. Señala que, se le solicitaron antecedentes adicionales para subsanar su solicitud, específicamente el pago de la multa por residencia irregular, sin que el extranjero diera cumplimiento a ello. Indica que, se le notificó un "previo rechazo" otorgándole plazo para descargos, los cuales no lograron desvirtuar la causal. Sostiene que, mediante Resolución Exenta N°2500100266181 de fecha 17 de noviembre de 2025, se rechazó la solicitud y dispuso el abandono del país por no remitir copia de la sanción por residencia vencida. Argumenta que, la resolución fue dictada por autoridad competente y que la orden de abandono es una consecuencia legal imperativa del rechazo de un permiso, cuyo cumplimiento es voluntario, a diferencia de la expulsión.Finalmente pide el rechazo de la presente acción constitucional de amparo en todas sus partes, por no existir acto u omisión ilegal o arbitrario.Acompaña al informe los siguientes documentos: a) Copia de escritura pública de mandato judicial; b) Comunicación electrónica folio N°41354036; c) Notificación de Previo Rechazo folio N°58458332; d) Resolución Exenta N°25035791; e) Comunicación Electrónica de 08-09-2025; f) Notificación de Previo Rechazo folio N°88506090; g) Resolución Exenta N°2500100266181.A folio 11, se ordena traer los autos en relación.Con lo relacionado y considerando:Primero: Que, la acción de amparo es un proceso de tutela urgente del derecho fundamental a la libertad personal y seguridad individual, garantía consagrada en el artículo 19 N°7 de la Constitución Política de la República, procedente en aquellos casos en que una persona fuere arrestada, detenida o presa con infracción a la Constitución o a las leyes o sufra cualquier otra privación, perturbación o amenaza al derecho fundamental antes aludido, fuera de los casos en que el ordenamiento jurídico lo permite.Segundo: Que, a través de esta vía cautelar se impugna la Resolución Exenta N°2500100266181 que rechazó la solicitud de residencia definitiva del amparado y dispuso su abandono del país, acto que se estima ilegal y arbitrario por desatender el arraigo del actor y no aplicar sanciones menos gravosas, solicitando que se deje sin efecto dicha resolución y se retrotraiga el procedimiento administrativo.Tercero: Que, el recurrido informa, en síntesis, que la resolución se ajusta a derecho pues el amparado postuló con su residencia vencida y no acreditó el pago de la multa correspondiente tras ser notificado, siendo la orden de abandono una consecuencia legal imperativa del rechazo, dictada por autoridad competente.Cuarto: Que, consta del informe del Servicio Nacional de Migraciones que la Excma. Corte Suprema, en causa Rol Amparo N°684-2025, dejó sin efecto la resolución anterior que rechazaba la solicitud de residencia definitiva del amparado y ordenó otorgar un plazo de noventa días para subsanar los antecedentes faltantes. En cumplimiento de dicho fallo, el Servicio notificó al amparado, el 8 de septiembre de 2025, una nueva comunicación otorgando ese plazo de 90 días para acompañar la documentación pendiente. Tal notificación se encuentra reconocida expresamente por la recurrida en su informe y en los documentos acompañados.Quinto: Que, conforme al tenor literal de la decisión de la Excma. Corte Suprema, el plazo otorgado al amparado tenía naturaleza perentoria,  debiendo computarse  desde la notificación efectuada el 8 de septiembre de 2025. De este modo, los noventa días concedidos vencen a inicios de diciembre de 2025. En consecuencia, al dictarse la Resolución Exenta N°2500100266181 con fecha 17 de noviembre de 2025, esto es, antes de vencido el plazo judicialmente otorgado, la autoridad administrativa anticipó indebidamente la decisión de rechazo y de abandono del país, desconociendo lo resuelto por el máximo tribunal.Sexto: Que, tal actuar importa una ilegalidad en los términos exigidos por esta acción, por cuanto la autoridad administrativa se adelantó a resolver el procedimiento sancionatorio sin que hubiera expirado el plazo otorgado expresamente por la Excma. Corte Suprema para subsanar antecedentes. Dicho incumplimiento afecta directamente la situación migratoria del amparado y coloca en riesgo su libertad personal al imponerle una orden de abandono dictada sin respetar el término conferido por el tribunal superior.Por estas consideraciones y de conformidad con lo dispuesto en los artículos 19 N°7 y 21 de la Constitución Política de la República, y en el Auto Acordado de la Corte Suprema sobre tramitación del recurso de amparo, se acoge, sin costas, la acción de amparo deducida en favor de Getho Laguerre en contra del Servicio Nacional de Migraciones y, en consecuencia, se ordena reabrir el procedimiento administrativo y otorgar un nuevo plazo de 90 días al amparado, a fin de que acompañe los documentos requeridos.Regístrese, comuníquese y archívese en su oportunidad.N°Amparo-4655-2025.En Valparaíso, uno de diciembre de dos mil veinticinco, se notificó por el estado diario la resolución que antecede.                        ⚠                      Sin documento en esta instancia - pdf
