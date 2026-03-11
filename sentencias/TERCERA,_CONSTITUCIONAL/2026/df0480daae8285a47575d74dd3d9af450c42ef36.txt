@@ -1,0 +1,52 @@
+METADATA
+
+case_id: df0480daae8285a47575d74dd3d9af450c42ef36
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047953
+
+rol: 1586-2026
+
+fecha_sentencia: 2026-03-04
+
+caratulado: COLQUE/MINISTERIO DEL INTERIOR
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (CIVIL) APELACIÓN PROTECCIÓN
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, cuatro de marzo de dos mil veintitrés.
+
+Visto y teniendo presente:
+1° Que en este procedimiento monitorio seguido ante el Cuarto Juzgado Civil de San Miguel bajo el Rol C-1697-2023, caratulado “Lamar con Arismendi”, el demandante recurre de casación en el fondo en contra de la resolución dictada por la Corte de Apelaciones de San Miguel, de fecha veintisiete de enero de dos mil veintiséis, que declaró inadmisible un recurso de apelación.
+
+2° Que el artículo 767 del Código de Procedimiento Civil dispone que se admite el recurso de casación en el fondo contra sentencias definitivas inapelables y contra sentencias interlocutorias inapelables cuando ponen término al juicio o hacen imposible su continuación, dictadas -en lo que interesa para el presente caso- por Cortes de Apelaciones, siempre que se hayan pronunciado con infracción de ley y esta infracción haya influido sustancialmente en lo dispositivo de la sentencia.
+
+3º Que la resolución impugnada por esta vía no presenta las características de aquellas aludidas en el motivo anterior, toda vez que no ha concluido el juicio ni hecho imposible su prosecución, razón por la cual el recurso de nulidad intentado en autos no podrá ser admitido a tramitación.
+
+Por estas consideraciones y de conformidad con lo dispuesto en los artículos 767 y 782 del Código de Procedimiento Civil, se declara inadmisible el recurso de casación en el fondo interpuesto en por el abogado Jaime Retamal Torres, en representación del demandante contra la resolución de veintisiete de enero de dos mil veintiséis, dictada por la Corte de Apelaciones de San Miguel.
+
+Regístrese y devuélvase.
+
+Rol N° 8234-2026
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+CH (dmg)
+
+San Miguel, veintisiete de enero de dos mil veintiséis.
+Vistos:
+Que la resolución recurrida –en cuanto decretó el lanzamiento del inmueble objeto del juicio– no se encuentra en ninguna de las hipótesis del artículo 188 del Código de Procedimiento Civil, por lo que no procede su impugnación por la presente vía.
+Por lo expuesto y de conformidad con lo dispuesto en los artículos 158, 188 y 189, todos del citado Código, se declara inadmisible el recurso de apelación interpuesto en contra de la resolución de veinticuatro de noviembre de dos mil veinticinco, dictada en la causa Rol C-1697-2023 del Cuarto Juzgado Civil de San Miguel.
+Al folio 3: A lo principal, téngase presente. Al otrosí, estese al mérito de lo resuelto.
+Devuélvase por interconexión.
+Rol Nº155-2026 Civil
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, cuatro de marzo de dos mil veintitrés.Visto y teniendo presente:1° Que en este procedimiento monitorio seguido ante el Cuarto Juzgado Civil de San Miguel bajo el Rol C-1697-2023, caratulado “Lamar con Arismendi”, el demandante recurre de casación en el fondo en contra de la resolución dictada por la Corte de Apelaciones de San Miguel, de fecha veintisiete de enero de dos mil veintiséis, que declaró inadmisible un recurso de apelación.2° Que el artículo 767 del Código de Procedimiento Civil dispone que se admite el recurso de casación en el fondo contra sentencias definitivas inapelables y contra sentencias interlocutorias inapelables cuando ponen término al juicio o hacen imposible su continuación, dictadas -en lo que interesa para el presente caso- por Cortes de Apelaciones, siempre que se hayan pronunciado con infracción de ley y esta infracción haya influido sustancialmente en lo dispositivo de la sentencia.3º Que la resolución impugnada por esta vía no presenta las características de aquellas aludidas en el motivo anterior, toda vez que no ha concluido el juicio ni hecho imposible su prosecución, razón por la cual el recurso de nulidad intentado en autos no podrá ser admitido a tramitación.Por estas consideraciones y de conformidad con lo dispuesto en los artículos 767 y 782 del Código de Procedimiento Civil, se declara inadmisible el recurso de casación en el fondo interpuesto en por el abogado Jaime Retamal Torres, en representación del demandante contra la resolución de veintisiete de enero de dos mil veintiséis, dictada por la Corte de Apelaciones de San Miguel.Regístrese y devuélvase.Rol N° 8234-2026 Santiago, cuatro de marzo de dos mil veintitrés.Visto y teniendo presente:1° Que en este procedimiento monitorio seguido ante el Cuarto Juzgado Civil de San Miguel bajo el Rol C-1697-2023, caratulado “Lamar con Arismendi”, el demandante recurre de casación en el fondo en contra de la resolución dictada por la Corte de Apelaciones de San Miguel, de fecha veintisiete de enero de dos mil veintiséis, que declaró inadmisible un recurso de apelación.2° Que el artículo 767 del Código de Procedimiento Civil dispone que se admite el recurso de casación en el fondo contra sentencias definitivas inapelables y contra sentencias interlocutorias inapelables cuando ponen término al juicio o hacen imposible su continuación, dictadas -en lo que interesa para el presente caso- por Cortes de Apelaciones, siempre que se hayan pronunciado con infracción de ley y esta infracción haya influido sustancialmente en lo dispositivo de la sentencia.3º Que la resolución impugnada por esta vía no presenta las características de aquellas aludidas en el motivo anterior, toda vez que no ha concluido el juicio ni hecho imposible su prosecución, razón por la cual el recurso de nulidad intentado en autos no podrá ser admitido a tramitación.Por estas consideraciones y de conformidad con lo dispuesto en los artículos 767 y 782 del Código de Procedimiento Civil, se declara inadmisible el recurso de casación en el fondo interpuesto en por el abogado Jaime Retamal Torres, en representación del demandante contra la resolución de veintisiete de enero de dos mil veintiséis, dictada por la Corte de Apelaciones de San Miguel.Regístrese y devuélvase.Rol N° 8234-2026 Sentencia anonimizada
