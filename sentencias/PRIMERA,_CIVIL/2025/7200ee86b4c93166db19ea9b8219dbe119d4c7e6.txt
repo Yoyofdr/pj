@@ -1,0 +1,232 @@
+METADATA
+
+case_id: 7200ee86b4c93166db19ea9b8219dbe119d4c7e6
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7963728
+
+rol: 54587-2025
+
+fecha_sentencia: 2025-12-18
+
+caratulado: BANCO SANTANDER - CHILE/RETAMAL. ACUMULADA ROL N° 279-2024
+
+sala: PRIMERA, CIVIL
+
+materias: ▪ Admisibilidad del recurso de casación en el fondo
+
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+
+resultado_recurso: INADMISIBLE CASACIÓN DE FONDO
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, dieciocho de diciembre de dos mil veinticinco.
+
+Vistos y teniendo presente:
+
+Primero: Que, de conformidad con lo dispuesto en el inciso séptimo del artículo 483-A del Código del Trabajo, se ha ordenado dar cuenta de la admisibilidad del recurso de unificación de jurisprudencia deducido por el demandante en contra de la sentencia dictada por la Corte de Apelaciones de Puerto Montt, que, en procedimiento monitorio, rechazó el de nulidad interpuesto contra la de instancia que desestimó la demanda de despido indebido.
+
+Segundo: Que el artículo del 502 del Código del Trabajo dispone que las resoluciones dictadas en el procedimiento monitorio serán susceptibles de ser impugnadas por medio de todos los recursos establecidos en este Código, con excepción del recurso de unificación de jurisprudencia, contenido en los artículos 483 y siguientes .
+
+Tercero: Que, en consecuencia, la interposición de este arbitrio, respecto de la sentencia que se recurre resulta improcedente y, en consecuencia, no es dable admitirlo a tramitación.
+
+Por estas consideraciones y de conformidad, además, con lo dispuesto en los artículos 482 y 483 del del Código del Trabajo, se declara inadmisible el recurso de unificación de jurisprudencia deducido contra la sentencia de doce de noviembre de dos mil veinticinco.
+
+Regístrese y archívese.
+
+N°53.816-25.-
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Puerto Montt, doce de noviembre de dos mil veinticinco.
+
+Vistos:
+
+En antecedentes RIT M.-252-2023 del Juzgado de Letras del Trabajo de Puerto Montt, sobre demanda en procedimiento monitorio de despido injustificado, indebido o improcedente y cobro de prestaciones, caratulado“ Pineda con Pescagenesis”, el abogado Sr. Rubén Rivas Huanquilef deduce recurso de nulidad en contra de la sentencia de fecha 29 de abril de 2024, dictada por el Juez de dicho tribunal, en cuanto rechaza la demanda deducida por don Alberto Máximo Pineda Méndez en contra de la Sociedad Pescagenesis Asesoría y Servicios Ltda. de Servicios.
+
+Considerando.
+
+Primero: Que el recurso de nulidad se fundamenta en la causal establecida en el artículo 478 letra c) del Código del Trabajo, esta es, “cuando sea necesaria la alteración de la calificación jurídica de los hechos, sin modificar las conclusiones fácticas del tribunal inferior".
+
+El recurrente argumenta en que la sentencia definitiva que se impugna rechazó la acción de despido injustificado, por estimar que las ausencias de su representada en el período del 20, 21, y 22 de marzo 2023, fueron injustificadas, toda vez que la licencia médica fue puesta en conocimiento del empleador fuera del plazo estipulado en artículo 11 del Decreto 3 de 1984, calificación jurídica que su parte estima no se ajusta a los hechos del proceso en relación con los criterios jurídicos considerados por la doctrina y jurisprudencia de nuestros Tribunales Superiores de Justicia.
+
+Segundo: Que, los requisitos para la procedencia de esta causal son: que sea necesaria la alteración de la calificación jurídica de los hechos y sin que se modifiquen las conclusiones fácticas del tribunal inferior.
+
+Tercero: Que, en la especie, esta Corte estima que no se cumplen estos requisitos, toda vez que, en primer término, el tribunal del grado dio por acreditada la imputación tardía en la entrega de la licencia médica por parte del trabajador, pues ésta era del tipo mixta, lo que importaba que el trabajador estaba obligado a presentar la copia impresa a su empleador y de manera presencial en 48 horas, conforme lo ordena el artículo 11 del Decreto 3 de 1984. Esta situación se encuentra probada por el testigo Sr. Lepe Ruiz, y teniendo, además, acreditado, como lo asevera el motivo décimo sexto, que desde Recursos Humanos de la empresa llamaron al trabajador por teléfono para conocer el motivo de sus inasistencias sin obtener información; así, el empleador, no tenía cómo saber en tiempo y forma, que el actor no se presentaría a trabajar, comunicándose éste con la empresa, prácticamente un mes después del inicio de esta licencia y dejando constancia el 24 de marzo de 2023, ante la Dirección del Trabajo, que su empleador no había tramitado la licencia. En segundo término, la determinación de la justificación de la ausencia del trabajador a sus labores impuestas en el contrato de trabajo, no es una cuestión de calificación jurídica, sino que de una valoración de las circunstancias de hecho que conforman esa hipótesis de justificación y que corresponde hacerlo sólo al juez que resuelve la controversia planteada, según las pruebas que se produzcan en el juicio, situación de hecho que fue establecida por el Juez, y que no puede ser revisada o modificadas a través del recurso de nulidad por la causal intentada.
+
+Cuarto: Que, se advierte que el ejercicio pretendido por el recurrente, importa una revisión de la prueba, y luego que se determinen nuevos hechos diferentes a los establecidos por el juez del grado en la sentencia que se ataca, y esta vez, donde se establezca la justificación de las ausencias del trabajador a su labores, teniendo como excusa la existencia de una licencia médica mixta entregada a su empleador en forma tardía.
+
+Quinto: Que, lo anterior no se corresponde con la naturaleza del recurso de nulidad, que es de derecho estricto, sino que más bien de uno de instancia o si extremamos el argumento correspondería su revisión en la medida que se hubiese fundado en otra causal, pues, como se dijo, lo que se plantea en el arbitrio es únicamente una ponderación distinta de los elementos de convicción incorporados al proceso.
+
+Sexto: Que de esta manera, estos sentenciadores han considerado que los hechos establecidos por el juez se adecuan al mérito del proceso; a las pruebas aportadas; que éstas han sido apreciadas como corresponde en derecho; realizándose, por lo demás, en ella, una adecuada calificación jurídica, que impidieron que la sentencia en estudio pudiese haberse dictado de manera diferente, razones por las cuales esta causal de nulidad será desestimada.
+
+En virtud con lo expuesto, y lo dispuesto en los artículos 456, 459, 477, 478 letras b), 481 y 482 del Código del Trabajo, se declara que se rechaza el recurso de nulidad interpuesto por el abogado Sr. Rubén Rivas Huanquilef en contra de la sentencia de fecha 29 de abril de 2024 dictada por el Juez de dicho tribunal Sr. Moisés Samuel Montiel Torres, sentencia que en consecuencia no es nula, sin costas del recurso, por estimar que el recurrente tuvo motivos plausibles para alzarse.
+
+Regístrese y notifíquese.
+
+Redactó el abogado Integrante don Mauricio Cárdenas García.
+Rol N° 224-2024.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Puerto Montt, veintinueve de abril de dos mil veinticuatro.
+
+Vistos, Oídos y considerando:
+
+PRIMERO: Que en estos autos Rit M-252-2023, del Juzgado de Letras del Trabajo de Puerto Montt, don RUBÉN RIVAS HUANQUILEF, abogado, C.N.I. N° 16.532.351-3, en representación de ALBERTO MÁXIMO PINEDA MÉNDEZ, C.N.I. N° 17.263.677-2, cesante, ambos domiciliados para estos efectos en Antonio Varas 216, oficina 308, Región de Los Lagos, interpone demanda en procedimiento monitorio de despido injustificado, indebido o improcedente y cobro de prestaciones laborales en contra de PESCAGENESIS ASESORÍA Y SERVICIOS LTDA. (antes PESCAGENESIS ASESORÍA Y SERVICIOS SPA) RUT 76.169.727-7, representada legalmente por don OMAR GUILLERMO ZAMORA CHIRINO, C.N.I. N° 8.070.455-0, desconoce profesión u oficio y estado civil, ambos domiciliados para estos efectos en Matías Doggenweisler Nº 280. Manuel Montt, Puerto Montt; y, solidaria o subsidiariamente, según sea el caso, en contra de COMERCIALIZADORA NUTRECO CHILE LTDA. (también conocida como SKRETTING), sociedad del giro de su denominación, representada legalmente por don RONALD BARLOW HERNÁNDEZ, ignora profesión u oficio, C.N.I. N° 10.509.928-2, ambos con domicilio en camino a pargua 1.001. Parque Industrial de la comuna de Puerto Montt.
+
+Señala que con fecha 3 de abril de 2021, ingresó a prestar servicios, y suscribió contrato de trabajo ese mismo día, afirmando que sus funciones las desempeñó de manera continua y exclusivamente en la Planta de Proceso de Comercializadora Nutreco Chile Ltda., ubicada en camino a Pargua N° 1.001, Parque Industrial de la comuna de Puerto Montt, empresa de la cual la demandada principal era contratista, por lo que habiéndose beneficiado esta empresa con los servicios del demandante se configura el trabajo en régimen de subcontratación y Comercializadora Nutreco Chile Ltda., tiene por tanto la calidad de empresa mandante para estos efectos.
+
+Sostiene que sus funciones eran las de Operador de grúa horquilla y que su contrato de trabajo tenía carácter indefinido, siendo el monto de su última remuneración para efectos del artículo 172 del Código del Trabajo la suma de $768.750, compuesta por: Sueldo Base ($615.000) y Gratificación del artículo 50 ($153.750).
+
+En cuanto a los antecedentes término de la relación laboral, indica que el 28 de marzo de 2023 el empleador despide al trabajador por la causal contemplada en el artículo 160 N° 3 del Código del Trabajo.
+
+Hace presente que el trabajador no recibió carta de despido en su domicilio, y que, al tramitar una licencia médica tomó conocimiento de su despido. Además, se dirige a la Inspección del Trabajo en donde se le exhibió la carta ingresada en esta entidad que señala que su despido se produjo por la causal artículo 160 N° 3 del Código del Trabajo, señalando en dicho documento que el trabajador se ausentó los días 20, 21, 22, y 23 de marzo de 2023.
+
+Afirma que el trabajador se encontraba con licencia médica desde el 18 de febrero de 2023 al 19 de marzo de 2023 y con una segunda licencia médica desde el 20 de marzo de 2023 al 18 de mayo de 2023, esta última licencia no fue tramitada por su empleador quien se negó a hacerlo. Por lo tanto, al momento del despido el trabajador se encontraba con licencia médica.
+
+Agrega que, aun soslayando el hecho que el trabajador no recibió carta de despido, en el caso de autos, las inasistencias no se debieron al mero arbitrio de su representado, sino que correspondían a que el trabajador se encontraba con licencia médica desde el 18 de febrero de 2023 al 19 de marzo de 2023 y con una segunda licencia médica desde el 20 de marzo de 2023 al 18 de mayo de 2023, reiterando que esta última licencia no fue tramitada por su empleador quien se negó a hacerlo y que por lo tanto, al momento del despido el trabajador se encontraba con licencia médica.
+
+Por lo anterior refiere que el despido –bajo la causal del Art. 160 N° 3– no cumple con el estándar legal para su aplicación, por lo que se trata de un despido injustificado, solicitando el pago de las indemnizaciones legales que proceden por haberse invocado injustificadamente la causal.
+
+A continuación argumenta en relación a la existencia del régimen de subcontratación señalando que durante el tiempo que duró el contrato de trabajo, prestó servicios continuos e ininterrumpidos de operador de Grúa Horquilla en la Planta de Proceso de Skretting, empresa de la cual su empleador era contratista, por lo que, habiéndose beneficiado de sus servicios personales, se configura la existencia de trabajo en régimen de subcontratación, teniendo al efecto esta empresa, la calidad de empresa mandante, citando lo dispuesto en el artículo 183 A y 183 B del del Código del Trabajo.
+
+Pide, se acoja la demanda y, en definitiva, declarar: Que COMERCIALIZADORA NUTRECO CHILE LTDA., (SKRETTING) es solidaria o subsidiariamente responsable, según sea el caso, de las obligaciones laborales, debido a la existencia de trabajo en régimen de subcontratación; Que la relación laboral de las partes terminó de manera injustificada, con fecha 23 de marzo de 2023, esto es, al término de la segunda licencia médica del trabajador y que en consecuencia el demandando deberá pagarle las prestaciones e indemnizaciones que reclama, todo con reajustes, intereses y costas.
+
+SEGUNDO: Que la demandada PESCAGENESIS ASESORÍA Y SERVICIOS LTDA. contestó la demanda solicitando su rechazo.
+
+Señala que el 01 de noviembre de 2021 se suscribe Contrato de Trabajo Operario entre don Alberto Máximo Pineda Méndez, cédula de identidad N° 17.263.677-2 y la empresa PESCAGENESIS, ASESORIAS Y SERVICIOS SPA, RUT N ° 76.169.727-7. En dicho contrato se estipula que el trabajador se compromete y obliga a prestar servicios como Operador de grúa horquilla u otro trabajo o función similar, que tenga directa relación con el cargo ya indicado, en la Planta de la Empresa Skretting, ubicado en Ruta 5 sur Km 1078,5 camino a Pargua, comuna de Calbuco. Luego se firman Anexos de Contrato con fecha 01 diciembre de 2021 y 03 de enero de 2022, éste último con carácter de indefinido.
+
+Indica que en el contrato de trabajo, como en los anexos, el trabajador don Alberto Máximo Pineda Méndez informa como domicilio el siguiente: Los Alerces S/N de la ciudad de Puerto Montt.
+
+Refiere que, desde el 30 de enero de 2023 al 13 de febrero de 2023, don Alberto Máximo Pineda Méndez presenta Licencia Médica donde se le otorgan 15 días de reposo. Luego, el día 14 de febrero de 2023 le correspondía libre al trabajador según los turnos asignados. Al día siguiente, el actor reingresa a trabajar, pero solo hasta el día 18 de febrero de 2023.
+
+Sostiene que de acuerdo con el Comprobante Licencia Médica Electrónica Folio Licencia 13806942-7 otorgada por el profesional José Ángel Cardozo González (de especialidad médica certificada Traumatología y Ortopedia) se le indica reposo a don Alberto Máximo Pineda Méndez por 30 días, es decir, como fecha de inicio el 18 de febrero de 2023 y la fecha de término era el día 19 de marzo de 2023. El domicilio indicado por el paciente para su reposo es en la dirección pasaje la unión con circunvalación de la comuna de Maullín.
+
+Aduce que, consta la no concurrencia sin causa justificada del trabajador a sus labores desde el lunes 20 de marzo de 2023.
+
+Así, habiendo transcurrido más de 2 días seguidos de no concurrencia a sus labores del trabajador don Alberto Máximo Pineda Méndez, sin causa justificada, esto es, el lunes 20, martes 21 y miércoles 22 del mes de marzo, el empleador decide confeccionar Carta de Término de Relación Laboral de fecha 23 de marzo de 2023 invocando la causal legal del artículo 160 N° 3 del Código del Trabajo dando cumplimiento al artículo 162 inciso segundo del Código del Trabajo, al enviar dicha carta – 28 de marzo de 2023 - dentro de los tres días hábiles siguientes por carta certificada al domicilio señalado en el Contrato de don Alberto Máximo Pineda Méndez, y a la Inspección Provincial del Trabajo de Puerto Montt, a través de internet.
+
+Afirma que recién con fecha lunes 24 de abril de 2023, el demandante don Alberto Pineda, concurre a la Inspección Provincial del Trabajo de Puerto Montt a realizar la gestión de Declaración Jurada Tramitación Licencia Médica. En ella señala que la Licencia Médica N° 14120571-4 no fue recepcionada por el empleador.
+
+Asevera que le resulta poco creíble que el demandante, luego de habérsele otorgado Licencia Médica con fecha 21 de marzo de 2023, es decir, transcurridos más de un mes, recién con fecha 24 de abril de 4 2023, el actor se preocupe de tramitar su Licencia Médica N° 14120571-4, precisando que en la Constancia 1001/2023/131 que contiene la Declaración Jurada Tramitación Licencia Médica, don Alberto Pineda declara que dicha Licencia no fue recepcionada por el empleador.
+
+Indica que conforme al artículo 11 inciso primero del DECRETO 3 de 1984 del Ministerio de Salud que Aprueba Reglamento de Autorización de Licencias Médicas por las COMPIN e ISAPRES, don Alberto Pineda tenía la obligación de presentar a su empleador la Licencia Médica N ° 14120571-4 dentro del plazo de dos días hábiles, es decir, contados desde el día hábil siguiente al de la fecha de inicio del reposo médico, a saber: fecha inicio reposo lunes 20 de marzo 2023 plazo de entrega al empleador miércoles 22 de marzo 2023
+
+Por último, controvierte los montos demandados, aseverando que estos no se ajustan al simple cálculo que ordena realizar el Código del Trabajo.
+
+TERCERO: Que la demandada COMERCIALIZADORA NUTRECO CHILE LTDA. (también conocida como SKRETTING), contestó la demanda objetando la condena en forma solidaria señalando que su responsabilidad no es solidaria sino subsidiaria ya que ha dado cumplimiento al derecho de información y retención que le confiere la ley.
+
+CUARTO: Que tratándose de un juicio sobre despido en primer lugar rindió prueba la parte demandada principal. Al efecto incorporó los siguientes medios de prueba:
+
+Prueba documental:
+
+1.- Comprobante Licencia Médica Electrónica Folio Licencia 13806942-7 otorgada por el profesional JOSÉ ANGEL CARDOZO GONZALEZ (de especialidad médica certificada Traumatología y Ortopedia) reposo por 30 días, es decir, como fecha de inicio el 18 de febrero de 2023 y la fecha de término era el día 19 de marzo de 2023.
+
+2.- Carta de Término de Relación Laboral de fecha 23 de marzo de 2023 invocando la causal legal del artículo 160 N° 3 del Código del Trabajo.
+
+3.- Constancia 1001/2023/131 Declaración Jurada Tramitación Licencia Médica de fecha 24 abril 2023.
+
+4.- Comprobante Licencia Médica Electrónica Folio Licencia 14120571-4 reposo por 30 días fecha de inicio el 20 de marzo de 2023 y la fecha de término era el día 18 de mayo de 2023.
+
+5.- Acta de Comparendo de Conciliación N 1001/2023/1413 en la Inspección Provincial del Trabajo de Puerto Montt de fecha 24 de mayo de 2023.
+
+6.- Resolución de multa administrativa N º 7713/23/66-1-2 de Inspección Provincial del Trabajo de Puerto Montt.
+
+7.- Finiquito ante la Notaría de don Felipe San Martín de esta ciudad, de fecha 15 de mayo de 2023, con reserva de derechos.
+
+Prueba testimonial:
+
+Declaración de don Carlos Eduardo Lepe Ruiz. Señala que trabaja para Pescagénesis desde octubre de 2021 a la fecha. Es jefe de turno. Conoce de la asistencia y ausencia de los trabajadores, maneja toda esa información. Conoce al demandante, recuerda que su última licencia terminaba el 19 de marzo de 2023. Posteriormente la empresa le pide reportar la ausencia por los días 20, 21 y 22 no tuvieron información. Cuando trabajador no asiste es un factor crítico para la empresa. Pidió reporte al Recursos Humanos y no tuvieron información del trabajador. Recursos humanos lo llamó por teléfono y no tuvieron información. Recién en abril de 2023 el trabajador se puso en contacto con recursos humanos consultando por su licencia. Normalmente informan a su jefe directo a través de recursos humanos. Tramitan las licencias por el portal. Las licencias llegan al correo de recursos humanos de la empresa. La licencia del trabajador no llegó en la fecha, llegó después como en abril, se contactó con recursos humanos y se le dijo que no se tenía conocimiento de su licencia médica. Aproximadamente en la segunda semana de abril supieron lo de su licencia médica. El demandante hizo denuncia ante la Inspección del Trabajo. Concurrió personalmente a la Inspección del Trabajo. El demandante no fue a la Inspección del Trabajo, solo su abogado. Acusaba un despido injustificado. La Inspección del Trabajo le dijo que podían llegar a acuerdo. La Inspección del Trabajo le propuso la reincorporación a lo que el trabajador se negó. La inasistencia produjo consecuencias porque la carga laboral se traspasa a sus compañeros. Desconoce si la licencia médica era común, no era por el trabajo.
+
+En el contraexamen señala que dentro de sus funciones no está la de tramitar las licencias médicas, eso lo ve recursos humanos. A Francisca Gallardo le llegan las licencias, su correo está informado en el portal. No tiene acceso a ese portal. Lo tiene Francisca Gallardo. Como jefe de turno tiene que hacer un seguimiento de las licencias. Francisca le informa si el trabajador tiene licencias médicas. La empresa está afiliada al registro de licencias médicas. El trabajador envió un correo a la empresa preguntando por su licencia médica.
+
+QUINTO: Que a su turno la parte demandante rindió los siguientes medios de prueba:
+
+Prueba documental:
+
+1.- Retirado.
+
+2.- Retirado.
+
+3.- Licencias médica electrónica folio N°14120571-4.
+
+4.- Licencias médica electrónica folio N° 13806942-7
+
+5.- Dato atención de urgencia emitido por el CESFAM de Carelmapu N° 03118, de fecha 18 de febrero de 2023.
+
+6.- Retirado.
+
+7.- Declaración jurada tramitación licencia médica de fecha 24 de abril de 2023 ante la Dirección del Trabajo.
+
+Exhibición de documentos:
+
+A petición de la parte demandante la demandada PESCAGÉNESIS ASESORÍAS Y SERVICIOS SPA, exhibió los siguientes documentos:
+
+1.- Contrato de trabajo y sus anexos del trabajador durante toda la relación laboral.
+
+2.- Carta de despido o terminación de contrato del trabajador demandante.
+
+3. Boucher y comprobantes de envío de carta certificada de carta de despido o terminación de contrato remitida al trabajador demandante.
+
+No exhibió:
+
+4.- Liquidaciones de sueldo del trabajador durante toda la relación laboral.
+
+5.- Contratos de prestación de servicios NUTRECO CHILE LTDA. vigente durante la relación laboral del demandante.
+
+6.- Facturas emitidas por PESCAGENESES ASESORIA Y SERVICIOS SPA a NUTRECO CHILE LTDA., durante la relación laboral del demandante.
+
+7.- Órdenes de servicio o de compra emitidas por NUTRECO CHILE LTDA.. a PESCAGENESES ASESORIA Y SERVICIOS SPA, durante la relación laboral del demandante.
+
+8.- Estados de pago de los servicios prestados por PESCAGENESES ASESORIA Y SERVICIOS SPA a NUTRECO CHILE LTDA., durante la relación laboral del demandante.
+
+Oficio:
+
+Se ofició a MEDIPASS, a fin que informe a este tribunal lo siguiente:
+
+1).- Si la empresa Pescagénesis Asesorías y Servicios SpA, se encuentra inscrita en el sistema de tramitación electrónica de licencias médicas y además si fue notificado de la licencia médica folio N° 14120571-4 y la fecha de la notificación. Domicilio: Del Valle N° 576 piso 7, oficina 703, comuna de Huechuraba.
+
+2).- Si la licencia médica electrónica folio: 13806942-7, fecha de emisión 18 de febrero de 2023, otorgada al trabajador don Alberto Máximo Pineda Méndez, Rut N°17.263677-2, era tipo de licencia MIXTA o tipo de licencia FULL. Además, aclare al tenor de los documentos que se le adjuntarán (comprobantes de licencias médicas), si existe algún tipo de alteración del documento al momento de consignar en éstas, el tipo de licencias médicas.
+
+SEXTO: Que son hechos no controvertidos, desde que así quedó estipulado en la audiencia única, los siguientes:
+1.- Que existió una relación laboral entre el demandante y la demandada Pescagénesis Asesorías y Servicios SpA, la que se inició el 03 de abril de 2021.
+
+2.- Que las funciones que desempeñaba el demandante eran las de operador de grúa horquilla.
+
+3.- Que el monto de la última remuneración del demandante para efectos del artículo 172 del Código del Trabajo, ascendía a la suma de $ 768.750.
+
+4.- Que el 23 de marzo de 2023 el trabajador fue despedido por su empleador, invocando la causal del artículo 160 N° 3 del Código del Trabajo, remitiéndole copia de la carta de despido el día 28 de marzo de 2023.
+
+5.- Que la demandada Comercializadora Nutreco Chile Ltda., ejerció su derecho de información y retención por la suma demandada en autos, y por ende su eventual responsabilidad sería subsidiaria en esta causa.
+
+SÉPTIMO: Que como cuestión previa cabe consignar a que, pese a que no quedó expresamente estipulado, de la propia contestación de la demanda por Nutreco Chile Limitada fluye que el demandante prestó servicios personales bajo régimen de subcontratación para dicha empresa durante la vigencia de la relación laboral, resultando aplicable a su respecto la normativa consagrada en los artículos 183 A y siguientes del Código del Trabajo. En tal sentido resultaba impertinente la petición de exhibición de documentos a la demandada principal que tenían como finalidad acreditar la existencia del régimen de subcontratación, motivo por el cual resulta innecesario pronunciarse sobre el apercibimiento solicitado ante la no exhibición de los contratos de prestación de servicios de Nutreco Chile Ltda., facturas emitidas por Pescagénesis Asesoría y Servicios Spa a Nutreco Chile Ltda, Órdenes de servicio o de compra emitidas por Nutreco Chile Ltda. a Pescagénesis Asesoría Y Servicios Spa, y Estados de pago de los servicios prestados por Pescagénesis Asesoría y Servicios Spa A Nutreco Chile Ltda., durante la relación laboral del demandante.
+
+OCTAVO: Que conforme a los hechos a probar la controversia se centró en determinar lo siguiente: 1.- Contenido de la carta de despido; 2.- Si el empleador cumplió con las formalidades legales para proceder al despido del trabajador; 3.- Si el trabajador se ausentó injustificadamente de su lugar de trabajo los días que se indican en la carta de despido.
+
+NOVENO: Que con el mérito de la carta de despido incorporada se acredita que el 23 de marzo de 2023, el empleador puso término al contrato de trabajo con el demandante invocando la casual de despido contemplada en el artículo 160 N° 3 del Código del Trabajo, esto es, “no concurrencia del trabajador a sus labores sin causa justificada dos días seguidos, dos lunes en el mes o un total de tres días durante igual período de tiempo”, basado en la no concurrencia sin aviso ni antecedentes previos los días, 20, 21, 22 y 23 de marzo de 2023.
+
+DÉCIMO: Que conocido el tenor de la carta de despido corresponde a continuación dilucidar si el empleador cumplió con las formalidades legales para proceder al despido del trabajador. A este respecto cabe señalar el inciso 1° del artículo 162 del Código del Trabajo prescribe que, si el contrato de trabajo termina de acuerdo con los números 4, 5 ó 6 del artículo 159, o si el empleador le pusiere término por aplicación de una o más de las causales señaladas en el artículo 160, deberá comunicarlo por escrito al trabajador, personalmente o por carta certificada enviada al domicilio señalado en el contrato, expresando la o las causales invocadas y los hechos en que se funda. El inciso 2° señala que tal comunicación se entregará o deberá enviarse, dentro de los tres días hábiles siguientes al de la separación del trabajador. Luego en su inciso 3° agrega que deberá enviarse copia del aviso mencionado en el inciso anterior a la respectiva Inspección del Trabajo, dentro del mismo plazo. Mas adelante el inciso 8° del artículo 162 ya mencionado establece que: “Los errores u omisiones en que se incurra con ocasión de estas comunicaciones que no tengan relación con la obligación de pago íntegro de las imposiciones previsionales, no invalidarán la terminación del contrato, sin perjuicio de las sanciones administrativas que establece el artículo 506 de este Código.”
+
+UNDÉCIMO: Que, en consecuencia, del claro tenor del inciso 8° del artículo 162 antes citado es posible advertir, que el hecho de haberse omitido el aviso del despido en el plazo que señala la norma, desde que es un hecho indiscutido que la copia de la carta de despido de fecha 23 de marzo de 2023, fue remitida al trabajador el día 28 de marzo de 2023, esto es, al cuarto día hábil del despido, no lo invalida ni lo hace injustificado, como lo pretende el demandante. Lo anterior, sin perjuicio de las sanciones administrativas que establece el a artículo 506 de Código del Trabajo, en cuya virtud consta que la fiscalizadora actuante de la Inspección del Trabajo le aplicó una multa administrativa a la empresa demandada, ascendente a 10 Unidades Tributarias mensuales, precisamente por no enviar a la Inspección del Trabajo dentro de los 3 días hábiles siguientes a la separación del trabajador demandante la copia del aviso de término de su contrato de trabajo, según se acreditó con la copia de la resolución de multa N° 7713/23/66-2 incorporada por la empresa.
+
+DUODÉCIMO: Que, ahora bien, en cuanto a la procedencia de la causal invocada, cabe señalar que, conforme al tenor de la carta de despido, la empresa demandada principal desvinculó al trabajador por no concurrir a su trabajo sin aviso previo los días 20, 21, 22 y 23 de marzo de 2023. Por su parte el trabajador alega que las inasistencias no se debieron al mero arbitrio, sino que se encontraba con licencia médica desde el 20 de marzo de 2023 al 18 de mayo de 2023, afirmando que esta licencia médica no fue tramitada por su empleador quien se negó a haberlo.
+
+DECIMOTERCERO: Que en estos autos el empleador reconoció en su contestación que el trabajador hizo uso de la licencia médica Folio 13806942-7, por el término de 30 días, desde el 18 de febrero de 2023 hasta el 19 de marzo de 2023. Según se acreditó con las copias incorporadas al juicio por ambas partes y de las respuestas de los oficios remitidos al Tribunal por Medipass, esta primera Licencia Médica Electrónica Folio 13806942-7 fue emitida como MIXTA pero se tramitó digitalmente, por lo que pasó a ser FULL ELECTRÓNICA.
+
+DECIMOCUARTO: Que el empleador sostiene que habiendo expirado la licencia médica del trabajador Folio 13806942-7 el día 19 de marzo de 2023, el actor debía presentarse a trabajar el día 20 de marzo de ese año, lo que no hizo, por lo que habiendo transcurrido más de 2 días seguidos de no concurrencia a sus labores sin causa justificada, decide confeccionar la carta de despido el 23 de marzo de 2023 por la causal legal del artículo 160 N° 3 del Código del Trabajo, controvirtiendo de esta manera que se haya negado a tramitar la segunda licencia médica N° 14120571-4 que le fuera extendida al trabajador.
+DECIMOQUINTO: Que para acreditar sus asertos el empleador rindió prueba documental y la testifical de don Carlos Eduardo Lepe Ruiz, quien se desempeña como jefe de turno de la empresa Pescagénesis desde octubre de 2021 a la fecha y como tal conoce la asistencia y ausencia de los trabajadores, manejando toda la información que reporta a la empresa mandante. Este testigo refiere que la última licencia del trabajador terminaba el 19 de marzo de 2023 y que posterior esa fecha los días 20, 21 y 22 de marzo no se presentó a trabajar ni tuvieron información, precisando que de Recursos humanos lo llamaron por teléfono y no tuvieron información. Agrega que recién en abril de 2023 el trabajador se puso en contacto con recursos humanos consultando por su licencia, afirmando que la licencia no llegó en la fecha, sino después, en abril de 2023, se contactó con recursos humanos y se le dijo que no se tenía conocimiento de su licencia médica. Este testigo es categórico al señalar que la empresa tuvo conocimiento de la licencia del demandante aproximadamente en la segunda semana de abril de 2023.
+
+La declaración de este testigo presentado por la empresa no ha sido desvirtuada por prueba en contrario y encuentra respaldo en la copia de la Declaración Jurada de Tramitación de Licencia Médica de fecha 24 de abril de 2023 en la cual, recién con esa fecha, el actor deja constancia ante la Dirección del Trabajo que la licencia médica N° 14120571-4 que se iniciaba el 20 de marzo de 2023 (por el término de 60 días) no fue tramitada por su empleador.
+
+DECOMOSEXTO: Que así las cosas, apareciendo de las copias de la licencia médica Folio 14120571-4 incorporada al juicio por ambas partes, que esta era de tipo MIXTA, lo que significaba que el trabajador debía presentar la copia impresa a su empleador de forma presencial en 48 horas y desprendiéndose de la declaración del testigo Lepe Ruiz que el trabajador no presentó la licencia médica a su empleador dentro del plazo que señala el artículo 11 del Decreto 3 de 1984 y teniendo, además, presente que desde Recursos Humanos de la empresa llamaron al trabajador por teléfono para conocer el motivo de sus inasistencias sin obtener información, resulta que el empleador no tenía cómo saber en tiempo y forma, que el actor no se presentaría a trabajar, comunicándose el actor con la empresa, prácticamente un mes después del inicio de esta licencia y dejando constancia ante la Dirección del Trabajo, recién el 24 de marzo de 2023 que su empleador no había tramitado la licencia.
+La justificación a que alude la causal de despido del artículo 160 N° 3 del Código del Trabajo, supone que tribunal debe ponderar al momento de resolver las circunstancias del caso y la oportunidad en que se hace valer la licencia médica, pues si como ocurre en este caso, el empleador toma conocimiento de ella de manera tan tardía y sin razón alguna que avale la no entrega, la ausencia es injustificada y autoriza el despido disciplinario, motivo por el cual se procederá al rechazo de la acción impetrada.
+Por estas consideraciones y visto, además, lo dispuesto en los artículos 160, 162, 168, 420, 496 y siguientes del Código del Trabajo se resuelve:
+
+I.- Que se rechaza en todas sus partes la demanda interpuesta por el abogado don RUBÉN RIVAS HUANQUILEF, en representación de ALBERTO MÁXIMO PINEDA MÉNDEZ, en contra de PESCAGENESIS ASESORÍA Y SERVICIOS LTDA. (antes PESCAGENESIS ASESORÍA Y SERVICIOS SPA) y en contra de COMERCIALIZADORA NUTRECO CHILE LTDA. (también conocida como SKRETTING).
+II.- Que no se condena a la parte demandante por estimar que ha tenido motivos plausibles para litigar.
+
+Regístrese, y archívese en su oportunidad.
+
+RIT M-252-2023.
+Sentencia dictada por don Moisés Samuel Montiel Torres, Juez Titular del Juzgado de Letras del Trabajo de Puerto Montt.
