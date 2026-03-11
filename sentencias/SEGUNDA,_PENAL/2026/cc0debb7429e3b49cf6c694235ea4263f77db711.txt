@@ -1,0 +1,79 @@
+METADATA
+
+case_id: cc0debb7429e3b49cf6c694235ea4263f77db711
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8056365
+
+rol: 9576-2026
+
+fecha_sentencia: 2026-03-10
+
+caratulado: ARCOS CORDOVA NICOLAS CONTRA TRIBUNAL ORAL EN LO PENAL DE TALCA
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CIVIL) CASACIÓN FONDO
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, diez de marzo de dos mil veintiséis.
+Vistos:
+Se confirma la sentencia apelada de fecha trece de junio de dos mil veinticinco, dictada por la Corte de Apelaciones de Iquique.
+Regístrese y devuélvase.
+
+Rol N° 25.905-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Iquique, trece de junio de dos mil veinticinco.
+
+VISTO:
+
+Comparece don Sergio Aburto Mayorga, abogado, a favor de don Jorge Anoy Castillo García, ciudadano cubano, por quien deduce acción constitucional de protección en contra del Servicio Nacional de Migraciones, por considerar que ha vulnerado su derecho a la vida y a la integridad física y psíquica, garantizado en el artículo 19 N°1 de la Constitución Política de la República.
+
+Relata que ingresó irregularmente a Chile por Colchane el 01 de agosto de 2021, y formalizó su solicitud de refugio en Rancagua el 17 de ese mes. Se le otorgó una visa temporaria como solicitante de refugio hasta mayo de 2023. Sin embargo, por recomendación de un tramitador no identificado que posteriormente falleció, no prorrogó dicha visa y en cambio solicitó residencia definitiva, lo cual no procedía legalmente en su situación. Lo anterior provoco el archivo de su solicitud de refugio por Resolución Exenta N°28.950, del 08 de agosto de 2024, y posteriormente, el 30 de diciembre de 2024, se archivó también su solicitud de residencia definitiva.
+
+Desde entonces, ha quedado sin estatus migratorio, lo que lo deja en una situación de vulnerabilidad, pudiendo ser expulsado en cualquier momento, a pesar de que al regresar a Cuba podría enfrentarse a tortura, tratos inhumanos o degradantes, por haber desertado de una misión médica en Venezuela entre 2010 y 2012, lo que derivó en una prohibición de ingreso a su país por ocho años y acusaciones de traición a la patria. Añade que ha intentado en varias ocasiones presentar su situación directamente ante abogados del Servicio Nacional de Migraciones, sin éxito, quedando en un “limbo jurídico”.
+
+En razón de lo expuesto solicita que ordene al Servicio reevaluar su situación migratoria con miras a otorgarle Protección Complementaria, conforme al artículo 10 de la Ley N° 21.325 y artículo 113 de su Reglamento, argumentando que cumple con todos los requisitos para este estatus por el riesgo evidente a su vida e integridad si es devuelto a Cuba. Acompaña documentos.
+
+Evacúa informe el Servicio Nacional de Migraciones, tras detallar el historial migratorio del recurrente, se refiere a la protección complementaria. Señala que la Ley N° 21.325 establece que dicha protección puede otorgarse a extranjeros cuya solicitud de refugio haya sido rechazada, ya sea de oficio o a petición de parte, y que la autoridad competente para concederla es el Subsecretario del Interior, previa recomendación de la Comisión de Reconocimiento de la Condición de Refugiado.
+
+Destaca que en este caso el recurrente no presentó solicitud de protección complementaria. Sostiene que su petición judicial, que busca forzar al órgano a reevaluar su situación con miras a otorgarle dicho estatus, vulneraría el principio de separación de funciones, ya que pretende atribuir al Poder Judicial facultades exclusivas de la administración.
+
+Reafirma que la acción constitucional es improcedente, porque no hay acto ilegal ni arbitrario atribuible al Servicio, y porque el recurso busca obligar a la administración a actuar en una materia de su competencia exclusiva, sin haberse agotado las vías administrativas pertinentes. En virtud de lo anterior, solicita el rechazo del recurso en todas sus partes. Acompaña documentos.
+
+Se trajeron los autos en relación.
+
+CON LO RELACIONADO Y CONSIDERANDO:
+
+PRIMERO: Que el artículo 20 de la Constitución Política de la República concede, a quien por causa de actos u omisiones arbitrarios o ilegales sufra privación, perturbación o amenaza en el legítimo ejercicio de los derechos y garantías taxativamente señalados, la acción cautelar de protección a fin de impetrar del órgano jurisdiccional se adopten de inmediato las medidas o providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado.
+
+De lo anterior se infiere que para su procedencia es requisito indispensable la existencia de un acto u omisión ilegal, es decir, contrario a derecho, en el sentido de vulnerar un precepto normativo obligatorio, o bien, arbitrario, esto es, producto del mero capricho de quien incurre en él, de modo que la arbitrariedad significa carencia de razonabilidad en el actuar u omitir.
+
+SEGUNDO: Que, conforme el mérito de autos, se desprende que producto del archivo de la solicitud del reconocimiento de la condición de refugiado, se solicita otorgar la protección complementaria establecida en el artículo 10 de la Ley 21.325.
+TERCERO: Que para decidir lo planteado a través de esta acción cautelar, cabe tener presente lo preceptuado en el artículo 10 de la Ley 21.325 que contempla la Protección Complementaria: “Artículo 10.- Protección complementaria. A los extranjeros solicitantes de refugio que no les fuere reconocida tal calidad, se les podrá otorgar protección complementaria de oficio o a petición de parte por la autoridad dispuesta en la ley Nº 20.430, conforme a los requisitos y visados que, al efecto establezca la Política Nacional de Migración y Extranjería, la que asimismo establecerá las causales de cesación de dicha protección complementaria.
+Ningún extranjero titular de protección complementaria podrá ser expulsado o devuelto al país donde su derecho a la vida, integridad física o la libertad personal corran riesgo de ser vulneradas en razón de su raza o etnia, nacionalidad, religión o creencia, condición social, ideología u opinión política, orientación sexual o identidad de género.
+
+No podrá invocar los beneficios de la presente disposición el extranjero que haya sido condenado por crimen o simple delito en Chile o el extranjero; o respecto del cual existan fundados motivos de que ha cometido un delito contra la paz, de guerra, o cualquier otro delito contra la humanidad definido en algún instrumento internacional, ratificado por Chile; o que ha realizado actos contrarios a los principios y finalidades de la Carta de Naciones Unidas; o que sea considerado, por razones fundadas, como un peligro para la seguridad del país donde se encuentra.”
+
+Por su parte, la Política Nacional de Migración y Extranjería se encuentra establecida a través del Decreto 181 de 6 de julio de 2023 del Ministerio del Interior, mediante la cual se establece que los requisitos para poder a optar a la protección complementaria son:
+
+1) Habiendo sido solicitantes de refugio, no les fuere reconocida tal condición;
+
+2) Justifiquen suficientemente que de regresar a su país de nacionalidad, su vida, integridad física y/o libertad personal, corran grave riesgo, en atención a haber sido víctimas de violencia intrafamiliar o violencia basada en género u orientación sexual.
+
+CUARTO: Que, de acuerdo con las normas antes citada y conforme a los hechos en que funda la solicitud de garantía complementaria, esta no podrá prosperar al ser una facultad de competencia del Ministerio del Interior el otorgamiento de la misma, aunado, a lo expresado por la recurrida, en cuanto a que el actor no ha efectuado solicitud alguna en dicho sentido, según se aprecia de su base de datos.
+
+Y visto, además, lo establecido en el artículo 20 de la Constitución Política de la República y el Auto Acordado de la Excma. Corte Suprema sobre la materia, SE RECHAZA la acción constitucional de protección presentada a favor de don Jorge Anoy Castillo García en contra del Servicio Nacional de Migraciones.
+
+Regístrese, comuníquese y en su oportunidad, archívese.
+Rol N°1189-2025 Protección.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Iquique, trece de junio de dos mil veinticinco. VISTO: Comparece don Sergio Aburto Mayorga, abogado, a favor de don Jorge Anoy Castillo García, ciudadano cubano, por quien deduce acción constitucional de protección en contra del Servicio Nacional de Migraciones, por considerar que ha vulnerado su derecho a la vida y a la integridad física y psíquica, garantizado en el artículo 19 N°1 de la Constitución Política de la República.Relata que ingresó irregularmente a Chile por Colchane el 01 de agosto de 2021, y formalizó su solicitud de refugio en Rancagua el 17 de ese mes. Se le otorgó una visa temporaria como solicitante de refugio hasta mayo de 2023. Sin embargo, por recomendación de un tramitador no identificado que posteriormente falleció, no prorrogó dicha visa y en cambio solicitó residencia definitiva, lo cual no procedía legalmente en su situación. Lo anterior provoco el archivo de su solicitud de refugio por Resolución Exenta N°28.950, del 08 de agosto de 2024, y posteriormente, el 30 de diciembre de 2024, se archivó también su solicitud de residencia definitiva.Desde entonces, ha quedado sin estatus migratorio, lo que lo deja en una situación de vulnerabilidad, pudiendo ser expulsado en cualquier momento, a pesar de que al regresar a Cuba podría enfrentarse a tortura, tratos inhumanos o degradantes, por haber desertado de una misión médica en Venezuela entre 2010 y 2012, lo que derivó en una prohibición de ingreso a su país por ocho años y acusaciones de traición a la patria. Añade que ha intentado en varias ocasiones presentar su situación directamente ante abogados del Servicio Nacional de Migraciones, sin éxito, quedando en un “limbo jurídico”.En razón de lo expuesto solicita que ordene al Servicio reevaluar su situación migratoria con miras a otorgarle Protección Complementaria, conforme al artículo 10 de la Ley N° 21.325 y artículo 113 de su Reglamento, argumentando que cumple con todos los requisitos para este estatus por el riesgo evidente a su vida e integridad si es devuelto a Cuba. Acompaña documentos.Evacúa informe el Servicio Nacional de Migraciones, tras detallar el historial migratorio del recurrente, se refiere a la protección complementaria. Señala que la Ley N° 21.325 establece que dicha protección puede otorgarse a extranjeros cuya solicitud de refugio haya sido rechazada, ya sea de oficio o a petición de parte, y que la autoridad competente para concederla es el Subsecretario del Interior, previa recomendación de la Comisión de Reconocimiento de la Condición de Refugiado.Destaca que en este caso el recurrente no presentó solicitud de protección complementaria. Sostiene que su petición judicial, que busca forzar al órgano a reevaluar su situación con miras a otorgarle dicho estatus, vulneraría el principio de separación de funciones, ya que pretende atribuir al Poder Judicial facultades exclusivas de la administración. Reafirma que la acción constitucional es improcedente, porque no hay acto ilegal ni arbitrario atribuible al Servicio, y porque el recurso busca obligar a la administración a actuar en una materia de su competencia exclusiva, sin haberse agotado las vías administrativas pertinentes. En virtud de lo anterior, solicita el rechazo del recurso en todas sus partes. Acompaña documentos.Se trajeron los autos en relación. CON LO RELACIONADO Y CONSIDERANDO:PRIMERO: Que el artículo 20 de la Constitución Política de la República concede, a quien por causa de actos u omisiones arbitrarios o ilegales sufra privación, perturbación o amenaza en el legítimo ejercicio de los derechos y garantías taxativamente señalados, la acción cautelar de protección a fin de impetrar del órgano jurisdiccional se adopten de inmediato las medidas o providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado.De lo anterior se infiere que para su procedencia es requisito indispensable la existencia de un acto u omisión ilegal, es decir, contrario a derecho, en el sentido de vulnerar un precepto normativo obligatorio, o bien, arbitrario, esto es, producto del mero capricho de quien incurre en él, de modo que la arbitrariedad significa carencia de razonabilidad en el actuar u omitir. SEGUNDO: Que, conforme el mérito de autos, se desprende que producto del archivo de la solicitud del reconocimiento de la condición de refugiado, se solicita otorgar la protección complementaria establecida en el artículo 10 de la Ley 21.325.TERCERO: Que para decidir lo planteado a través de esta acción cautelar, cabe tener presente lo preceptuado en el artículo 10 de la Ley 21.325 que contempla la Protección Complementaria: “Artículo 10.- Protección complementaria. A los extranjeros solicitantes de refugio que no les fuere reconocida tal calidad, se les podrá otorgar protección complementaria de oficio o a petición de parte por la autoridad dispuesta en la ley Nº 20.430, conforme a los requisitos y visados que, al efecto establezca la Política Nacional de Migración y Extranjería, la que asimismo establecerá las causales de cesación de dicha protección complementaria.Ningún extranjero titular de protección complementaria podrá ser expulsado o devuelto al país donde su derecho a la vida, integridad física o la libertad personal corran riesgo de ser vulneradas en razón de su raza o etnia, nacionalidad, religión o creencia, condición social, ideología u opinión política, orientación sexual o identidad de género.No podrá invocar los beneficios de la presente disposición el extranjero que haya sido condenado por crimen o simple delito en Chile o el extranjero; o respecto del cual existan fundados motivos de que ha cometido un delito contra la paz, de guerra, o cualquier otro delito contra la humanidad definido en algún instrumento internacional, ratificado por Chile; o que ha realizado actos contrarios a los principios y finalidades de la Carta de Naciones Unidas; o que sea considerado, por razones fundadas, como un peligro para la seguridad del país donde se encuentra.”Por su parte, la Política Nacional de Migración y Extranjería se encuentra establecida a través del Decreto 181 de 6 de julio de 2023 del Ministerio del Interior, mediante la cual se establece que los requisitos para poder a optar a la protección complementaria son:1) Habiendo sido solicitantes de refugio, no les fuere reconocida tal condición;2) Justifiquen suficientemente que de regresar a su país de nacionalidad, su vida, integridad física y/o libertad personal, corran grave riesgo, en atención a haber sido víctimas de violencia intrafamiliar o violencia basada en género u orientación sexual.CUARTO: Que, de acuerdo con las normas antes citada y conforme a los hechos en que funda la solicitud de garantía complementaria, esta no podrá prosperar al ser una facultad de competencia del Ministerio del Interior el otorgamiento de la misma, aunado, a lo expresado por la recurrida, en cuanto a que el actor no ha efectuado solicitud alguna en dicho sentido, según se aprecia de su base de datos.Y visto, además, lo establecido en el artículo 20 de la Constitución Política de la República y el Auto Acordado de la Excma. Corte Suprema sobre la materia, SE RECHAZA la acción constitucional de protección presentada a favor de don Jorge Anoy Castillo García en contra del Servicio Nacional de Migraciones.Regístrese, comuníquese y en su oportunidad, archívese.Rol N°1189-2025 Protección.
