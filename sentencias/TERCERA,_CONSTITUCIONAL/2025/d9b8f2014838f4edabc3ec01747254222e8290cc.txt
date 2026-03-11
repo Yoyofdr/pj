@@ -1,0 +1,85 @@
+METADATA
+
+case_id: d9b8f2014838f4edabc3ec01747254222e8290cc
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7972833
+
+rol: 47775-2025
+
+fecha_sentencia: 2025-12-24
+
+caratulado: CABACH/VIDA TRES S.A.
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (CIVIL) APELACIÓN PROTECCIÓN
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veinticuatro de diciembre de dos mil veinticinco.
+
+Vistos y teniendo presente:
+
+Primero: Que, de conformidad con lo dispuesto en el inciso séptimo del artículo 483-A del Código del Trabajo, se ha ordenado dar cuenta de la admisibilidad del recurso de unificación de jurisprudencia deducido por la parte demandada contra la sentencia dictada por la Corte de Apelaciones de Valdivia, que rechazó el de nulidad intentado contra la que acogió la demanda de despido injustificado.
+
+Segundo: Que, según se expresa en la legislación laboral, el recurso de unificación de jurisprudencia es susceptible de ser deducido en contra de la resolución que falle el recurso de nulidad, estableciéndose su procedencia para el caso en que ¿respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de Tribunales Superiores de Justicia ¿, conforme lo explicita el artículo 483 del Código del Trabajo.
+
+Asimismo, del tenor de lo dispuesto en el artículo 483-A del cuerpo legal antes citado, aparece que esta Corte debe controlar, como requisitos para su admisibilidad, por un lado, su oportunidad; en segundo lugar, la existencia de fundamento, además de una relación precisa y circunstanciada de las distintas interpretaciones respecto de las materias de derecho objeto de la sentencia, sostenidas en diversos fallos emanados de los tribunales superiores de justicia, y finalmente, debe acompañarse copia del o los fallos que se invocan como fundamento del recurso en referencia.
+
+Tercero: Que, conforme se expresa en el recurso, la materia que se propone unificar consiste en ¿determinar si el análisis de la causal de nulidad consagrada en la letra b ) del artículo 478 del Código del Trabajo, implica examinar si en el proceso de valoración de la prueba rendida que efectuó el tribunal de base se infringió el sistema que lo regula, esto es, la sana crítica, o si en ese estudio la Corte respectiva está autorizada para llevar a cabo una evaluación probatoria directa y basada en los hechos, importando un reexamen de la prueba, lo que permitiría sustituir o reemplazar la ponderación probatoria que llevó a cabo el juez del grado.¿
+
+Cuarto: Que, de la sola lectura del libelo entablado, se desprende que el pretendido tema de derecho cuya línea jurisprudencial se procura unificar no constituye un asunto jurídico habilitante de este recurso, sino que resulta ser un cuestionamiento a los motivos esgrimidos para rechazar la causal del artículo 478 b ) del Código del Trabajo; por lo que, en consecuencia, debe ser desestimado en este estadio procesal.
+
+Por estas consideraciones y normas citadas, se declara inadmisible el recurso de unificación de jurisprudencia interpuesto contra la sentencia de dieciséis de octubre de dos mil veinticinco.
+
+Regístrese y devuélvase.
+
+Rol N°48.725-2025
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Valdivia, dieciséis de octubre de dos mil veinticinco.
+
+Visto y teniendo presente:
+
+1.- En contra de la sentencia de veintidós de agosto del año en curso, emanada del Juzgado de Letras de Trabajo de Osorno, el abogado de la parte demandada, Luis Navarro Egaña, dedujo recurso de nulidad por las causales subsidiarias del artículo 478 letra b) y 478 literal c), del Código del Trabajo, aduciendo por la primera, una errada apreciación de la prueba, y por la segunda un error en la calificación jurídica de los hechos probados.
+
+2.- Conviene precisar que la sentencia referida, acogió la demanda por despido injustificado y cobro de prestaciones laborales, como consecuencia de haber estimado, en relación al motivo del despido, artículo 160 N° 7 del Código Laboral, la singularidad del hecho, y la falta de gravedad del mismo, dando por establecido únicamente que el trabajador en una ocasión no efectuó la mantención de una caldera, desestimando las demás imputaciones, a saber: cosechar papas en un campo de investigación sin la aquiescencia de la demandada, y concurrir al predio donde se prestaban los servicios mientras se encontraba con licencia médica.
+
+3.- El primer punto que se debe abordar dice relación con la forma de impugnación de la sentencia, conforme a la invocación, subsidiaria, de dos causales, por una, se atacan los hechos al cuestionar la ponderación probatoria, y por la otra, se aceptan los mismos hechos, pero se disiente en lo que concierne a su calificación jurídica.
+
+4.- Tal proceder del recurrente, es suficiente para desestimar el recurso en estudio, desde que, atendido que el carácter estricto del mismo, impone que su línea y estructura argumentativa se forjen de manera coherente y no contrapuestos con otros motivos de invalidación, aún subsidiarios, ello en contexto de la unidad del acto procesal censurado. Tal principio, resulta quebrantado en este caso, desde que por la primera causal se cuestionan los hechos, respecto de los cuales se difiere en la calificación jurídica conforme lo planteado en la causal subsidiaria.
+
+5.- Se debe adicionar además, que la refutación del recurrente, en lo que atañe a la sana critica se centra básicamente en la determinación que hace el tribunal de la entidad de las faltas que sirven de sustento al despido, en cuanto éste considera que no son graves, juicio fáctico que al no estar definido o determinado por un precepto legal, su aquilatamiento queda entregado al juicio del tribunal, el cual debe dar las razones que lo justifiquen, fundamentación que en la especie ha sido consignada especialmente en el considerando sexto, en cuanto solo se pudo probar un hecho aislado relacionado con la mantención de la caldera, desestimando las demás imputaciones en tanto la cosecha de papas era un practica aceptada y la concurrencia del trabajador con licencia médica, no sería sancionable por esta vía.
+
+6.- Del análisis del señalado en el referido considerando sexto en relación con la prueba aportada, no se aprecia una manifiesta vulneración de las reglas de la sana critica, sino que trasunta un razonamiento lógico, perfectamente hilado, concatenado y coherente, a través del cual es posible comprender la razonabilidad del tribunal en la solución de la controversia de autos.
+
+En consecuencia, en mérito de lo razonado y de conformidad con lo preceptuado en los artículos 474 y 482 del Código del Trabajo,
+
+Se rechaza el recurso de nulidad interpuesto por el abogado Luis Navarro Egaña en contra de la sentencia de veintidós de agosto del año en curso, emanada del Juzgado de Letras de Trabajo de Osorno, la cual no es nula.
+
+Redacción del ministro Sr. Samuel Muñoz Weisz.
+
+Regístrese, comuníquese y archívese.
+
+Rol 280 – 2025 Laboral.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Osorno, veintidós de agosto de dos mil veinticinco
+
+Téngase presente que el sistema informático no permite firmar la sentencia dictada en autos atendido el formato utilizado en esta, por lo que fue agregada como escrito por resolver para los fines de su firma y respectiva notificación.
+
+(jml)
+
+RIT O-201-2024
+
+RUC 24- 4-0598779-8
+
+Proveyó don(a) MARIANGEL CABRERA RABIE, Juez Titular del Juzgado de Letras del Trabajo de Osorno.
+
+En Osorno a veintidós de agosto de dos mil veinticinco se notificó por el estado diario la resolución precedente.
