@@ -1,0 +1,88 @@
+METADATA
+
+case_id: 35114a74a36139a6a7fcf8702c1f917fcbe03177
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7967243
+
+rol: 41630-2025
+
+fecha_sentencia: 2025-12-19
+
+caratulado: ESCALONA/LOYOLA
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (CIVIL) APELACIÓN PROTECCIÓN
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, diecinueve de diciembre de dos mil veinticinco.
+
+VISTO Y TENIENDO PRESENTE:
+
+Primero: Que en este procedimiento ejecutivo de cobro de factura ante el Cuarto Juzgado Civil de Santiago, caratulado ¿BCI Factoring S.A. con Inversiones Alto Sierra¿, se ha ordenado dar cuenta de la admisibilidad del recurso de casación en el fondo deducido por la parte ejecutada en contra de la sentencia de la Corte de Apelaciones de esta ciudad, que, en lo que interesa al recurso, confirmó el fallo de primer grado que rechazó las excepciones de los números 6 y 7 del artículo 464 del Código de Procedimiento Civil.
+
+Segundo: Que, el recurrente sostiene que al rechazar las excepciones a la ejecución, el fallo infringió los artículos 1698 , 1699 , 1700 , 1702 del Código Civil, y artículos 342 , 346 y 384 N° 2 , 464 N° 6 y 7 del Código de Procedimiento Civil, y artículos 3 ° y 5 ° de la Ley N° 19.983, al valorar erróneamente la prueba aportada por su parte la que permitía establecer que la cesión de la factura se realizó antes del plazo legal para su aceptación como asimismo la falsedad ideológica de la factura.
+
+Tercero: Que, al contrastar lo decidido con el tenor del recurso, queda de manifiesto que este se ha construido sobre la base de una propuesta fáctica distinta de aquélla que viene asentada en el fallo recurrido.
+
+En efecto, los jueces del fondo descartaron las excepciones en estudio teniendo en consideración que no se verificaban los presupuestos fácticos en que se fundaron ya que, a diferencia de lo que plantea el recurrente, no se acreditó la emisión maliciosa e infundada de la factura que se cobra pues si bien se ha hecho referencia a una querella penal en curso y a comunicaciones informales con terceros, dichos antecedentes no resultan concluyentes ni acreditan fehacientemente la inexistencia de la obligación documentada ni una actuación dolosa por parte del emisor. Asimismo, el fallo consignó que consta que la ejecutada efectuó un acuse de recibo electrónico de la factura.
+
+Cuarto: Que en este sentido resulta pertinente recordar que solamente los jueces del fondo se encuentran facultados para fijar los hechos de la causa y, efectuada correctamente dicha labor en atención al mérito de las probanzas aportadas, ellos resultan inamovibles conforme a lo previsto en el artículo 785 del Código de Procedimiento Civil, no siendo posible su revisión por la vía de la nulidad que se analiza salvo que se haya denunciado de modo eficaz la vulneración de las leyes reguladoras de la prueba, lo que no acontece en el caso de autos.
+
+En nada altera lo razonado la denuncia de infracción a lo previsto en el artículo 1698 del Código Civil, por cuanto ésta únicamente corresponde a la regla básica de distribución de la carga probatoria, misma que no se aprecia como infringida. Tampoco se observa una transgresión en la forma de ponderar los documentos aportados negándose el carácter de instrumentos públicos o privados a los documentos de tal naturaleza acompañados al proceso, o asignándole el valor de públicos o privados a aquellos que no revestían dicha condición. En tanto, el artículo 384 del Código de Procedimiento Civil contiene reglas cuya aplicación queda entregada a los jueces de fondo y escapa al control del tribunal de casación.
+
+Quinto: Que lo razonado lleva a concluir que el recurso de casación en el fondo no puede prosperar por adolecer de manifiesta falta de fundamento.
+
+Por estas consideraciones y de conformidad, además, con lo dispuesto en los artículos 772 y 782 del Código de Procedimiento Civil, se rechaza el recurso de casación en el fondo interpuesto la abogada Isabel Echeverría Donoso, en representación del demandado, en contra de la sentencia de veintitrés de octubre de dos mil veinticinco, dictada por la Corte de Apelaciones de Santiago.
+
+Regístrese y devuélvase.
+
+Rol Nº 50.588-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Santiago
+Santiago, veintitrés de octubre de dos mil veinticinco.
+
+VISTOS:
+
+I.- EN CUANTO AL RECURSO DE APELACIÓN INGRESO ROL N°11.970-2023:
+
+Que las actuaciones cuya nulidad se persigue no han irrogado a la parte apelante un perjuicio de carácter irreparable que justifique su invalidación, especialmente considerando que las resoluciones que dieron curso al proceso ejecutivo fueron ya dejadas sin efecto en el cuaderno principal, en su oportunidad.
+
+En razón de lo anterior y visto, además, lo dispuesto en los artículos 186 y siguientes del Código de Procedimiento Civil, se confirma la resolución apelada de diez de julio de dos mil veintitrés, dictada por el Cuarto Juzgado Civil de Santiago en causa rol C-5168-2023 (Cuaderno de Gestión Preparatoria).
+
+II.- EN RELACIÓN CON EL RECURSO DE APELACIÓN INGRESO ROL N°4.200-2024:
+
+Que, atendido lo dispuesto en el artículo 5 letra d) de la Ley N° 19.983, solo es posible controvertir la falsificación material de la factura, esto es, su autenticidad o alteración externa, y no su contenido o la veracidad de las operaciones que representa. En tal virtud, las alegaciones relativas a la inexistencia de la prestación o a una eventual falsedad ideológica resultan ajenas a la etapa de gestión preparatoria, careciendo de eficacia para enervar el mérito del documento notificado.
+
+Por estas consideraciones y de conformidad, además, con lo previsto en los artículos 186 y siguientes del Código de Procedimiento Civil, se confirma la resolución apelada de fecha nueve de febrero de dos mil veinticuatro, dictada por el Cuarto Juzgado Civil de Santiago en causa rol C-5168-2023 (Cuaderno de Gestión Preparatoria).
+
+III.- EN CUANTO AL RECURSO DE APELACIÓN INGRESO ROL N°18.570-2024:
+
+Que no existiendo un vicio en el procedimiento que sea reparable únicamente mediante la declaración de nulidad, y habida consideración de que lo obrado en el cuaderno de apremio se ajusta a lo ordenado por el tribunal al disponer el embargo de bienes del deudor en cantidad suficiente para cubrir la deuda con sus intereses y costas si no paga en el acto; y siendo la eventual desproporcionalidad entre el bien embargado y la suma adeudada subsanable por medio de la sustitución del embargo;
+
+Y de conformidad, además, con lo previsto en los artículos 186 y siguientes del Código de Procedimiento Civil, se confirma la resolución apelada de fecha ocho de octubre de dos mil veinticuatro, dictada por el Cuarto Juzgado Civil de Santiago en causa rol C-5168-2023 (Cuaderno incidente de nulidad).
+
+IV.- EN RELACIÓN CON EL RECURSO DE APELACIÓN INGRESO ROL N°13.205-2025:
+
+Teniendo presente que la factura objeto del proceso fue oportunamente aceptada por su receptor mediante acuse de recibo electrónico dentro del plazo legal, cumpliendo las condiciones de emisión conforme a la normativa aplicable, sin que se haya demostrado que carezca de los elementos mínimos exigidos por la ley; se concluye que se encuentran cumplidos los requisitos legales del artículo 5 de la Ley N° 19.983 para conferirle mérito ejecutivo. No se acreditó falsedad material que afecte su autenticidad, y las alegaciones de falsedad ideológica o inexistencia del negocio subyacente resultan improcedentes en esta sede. Tampoco se configuró vicio formal en el libelo ni falta de requisitos del título, siendo inoponibles al cesionario de una factura irrevocablemente aceptada las excepciones personales que hubieren podido oponerse al cedente.
+
+Por estas consideraciones y de conformidad, además, con lo previsto en los artículos 186 y siguientes del Código de Procedimiento Civil, se confirma la sentencia apelada de fecha veintitrés de mayo de dos mil veinticinco, dictada por el Cuarto Juzgado Civil de Santiago en causa rol C-5168-2023 (Cuaderno principal).
+
+Regístrese y devuélvase.
+Redacción del Ministro (S) señor Daniel Aravena Pérez.
+N°Civil-11970-2023.
+
+Pronunciada por la Novena Sala, integrada por la Ministro señora María Paula Merino Verdugo, el Ministro (S) señor Daniel Eduardo Aravena Pérez y la Abogado Integrante señora Soledad Krause Muñoz, quien no firma, no obstante haber concurrido a la vista de la causa y al acuerdo, por ausencia.
+
+En Santiago, veintitrés de octubre de dos mil veinticinco, se notificó por el estado diario la resolución que antecede.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de SantiagoSantiago, veintitrés de octubre de dos mil veinticinco.VISTOS:I.- EN CUANTO AL RECURSO DE APELACIÓN INGRESO ROL N°11.970-2023:Que las actuaciones cuya nulidad se persigue no han irrogado a la parte apelante un perjuicio de carácter irreparable que justifique su invalidación, especialmente considerando que las resoluciones que dieron curso al proceso ejecutivo fueron ya dejadas sin efecto en el cuaderno principal, en su oportunidad.En razón de lo anterior y visto, además, lo dispuesto en los artículos 186 y siguientes del Código de Procedimiento Civil, se confirma la resolución apelada de diez de julio de dos mil veintitrés, dictada por el Cuarto Juzgado Civil de Santiago en causa rol C-5168-2023 (Cuaderno de Gestión Preparatoria).II.- EN RELACIÓN CON EL RECURSO DE APELACIÓN INGRESO ROL N°4.200-2024:Que, atendido lo dispuesto en el artículo 5 letra d) de la Ley N° 19.983, solo es posible controvertir la falsificación material de la factura, esto es, su autenticidad o alteración externa, y no su contenido o la veracidad de las operaciones que representa. En tal virtud, las alegaciones relativas a la inexistencia de la prestación o a una eventual falsedad ideológica resultan ajenas a la etapa de gestión preparatoria, careciendo de eficacia para enervar el mérito del documento notificado.Por estas consideraciones y de conformidad, además, con lo previsto en los artículos 186 y siguientes del Código de Procedimiento Civil, se confirma la resolución apelada de fecha nueve de febrero de dos mil veinticuatro, dictada por el Cuarto Juzgado Civil de Santiago en causa rol C-5168-2023 (Cuaderno de Gestión Preparatoria).III.- EN CUANTO AL RECURSO DE APELACIÓN INGRESO ROL N°18.570-2024:Que no existiendo un vicio en el procedimiento que sea reparable únicamente mediante la declaración de nulidad, y habida consideración de que lo obrado en el cuaderno de apremio se ajusta a lo ordenado por el tribunal al disponer el embargo de bienes del deudor en cantidad suficiente para cubrir la deuda con sus intereses y costas si no paga en el acto; y siendo la eventual desproporcionalidad entre el bien embargado y la suma adeudada subsanable por medio de la sustitución del embargo;Y de conformidad, además, con lo previsto en los artículos 186 y siguientes del Código de Procedimiento Civil, se confirma la resolución apelada de fecha ocho de octubre de dos mil veinticuatro, dictada por el Cuarto Juzgado Civil de Santiago en causa rol C-5168-2023 (Cuaderno incidente de nulidad).IV.- EN RELACIÓN CON EL RECURSO DE APELACIÓN INGRESO ROL N°13.205-2025: Teniendo presente que la factura objeto del proceso fue oportunamente aceptada por su receptor mediante acuse de recibo electrónico dentro del plazo legal, cumpliendo las condiciones de emisión conforme a la normativa aplicable, sin que se haya demostrado que carezca de los elementos mínimos exigidos por la ley; se concluye que se encuentran cumplidos los requisitos legales del artículo 5 de la Ley N° 19.983 para conferirle mérito ejecutivo. No se acreditó falsedad material que afecte su autenticidad, y las alegaciones de falsedad ideológica o inexistencia del negocio subyacente resultan improcedentes en esta sede. Tampoco se configuró vicio formal en el libelo ni falta de requisitos del título, siendo inoponibles al cesionario de una factura irrevocablemente aceptada las excepciones personales que hubieren podido oponerse al cedente.Por estas consideraciones y de conformidad, además, con lo previsto en los artículos 186 y siguientes del Código de Procedimiento Civil, se confirma la sentencia apelada de fecha veintitrés de mayo de dos mil veinticinco, dictada por el Cuarto Juzgado Civil de Santiago en causa rol C-5168-2023 (Cuaderno principal).Regístrese y devuélvase.Redacción del Ministro (S) señor Daniel Aravena Pérez.N°Civil-11970-2023.Pronunciada por la Novena Sala, integrada por  la Ministro señora María Paula Merino Verdugo, el Ministro (S) señor Daniel Eduardo Aravena Pérez y  la Abogado Integrante señora Soledad Krause Muñoz, quien no firma, no obstante haber concurrido a la vista de la causa y al acuerdo, por ausencia.En Santiago, veintitrés de octubre de dos mil veinticinco, se notificó por el estado diario la resolución que antecede.                        ⚠                      Sin documento en esta instancia - pdf
