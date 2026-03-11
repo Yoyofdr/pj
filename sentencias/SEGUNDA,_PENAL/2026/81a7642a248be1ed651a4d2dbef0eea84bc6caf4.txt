@@ -1,0 +1,90 @@
+METADATA
+
+case_id: 81a7642a248be1ed651a4d2dbef0eea84bc6caf4
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8053301
+
+rol: 7711-2026
+
+fecha_sentencia: 2026-03-06
+
+caratulado: MARTÍNEZ PUERTA YEISON DANIEL CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, seis de marzo de dos mil veintiséis.
+
+Vistos:
+Se confirma la sentencia apelada de 11 de febrero de 2026, dictada por la Corte de Apelaciones de Concepción, en el Ingreso Corte N°76-2026.
+
+Se previene que el Ministro Sr. Llanos concurre a la confirmatoria teniendo únicamente presente la ausencia de antecedentes suficientes de arraigo que permitan revertir la decisión de expulsión.
+
+Decisión acordada con el voto en contra del Ministro Sr. Zepeda quien estuvo por revocar la sentencia apelada y, en consecuencia, acoger la acción de amparo entablada teniendo en consideración la crisis institucional, política y social que atraviesa el país del que la amparada es nacional en relación con lo dispuesto en la Declaración de Cartagena de 1984 que protege, entre otros, a las personas que huyen de territorios caracterizados por conflictos internos y violencia generalizada, como es el caso de la amparada.
+Regístrese, comuníquese y devuélvase.
+Rol N°7702-2026
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Concepción
+xsr
+Concepción, once de febrero de dos mil veintiséis.
+
+VISTO:
+Que comparece doña Daniela Uribe Maturana, abogada de la Corporación de Asistencia Judicial, Consultorio Jurídico Talcahuano, en favor de la ciudadana venezolana Verónica Carolina Sánchez Torres, interponiendo recurso de amparo constitucional en contra del Servicio Nacional de Migraciones, impugnando la Resolución Exenta N°25285432 de fecha 19 de mayo de 2025, emanada de la recurrida, que decreta la expulsión del territorio nacional de la amparada y le impone una prohibición de ingreso por cinco años.
+
+Señala la recurrente que la amparada ingresó a Chile buscando refugio debido a la situación humanitaria en su país, habiendo entrado por un paso no habilitado luego de cruzar cuatro países. Indica que, tras residir brevemente en Santiago, se estableció en la zona de Concepción, desempeñándose actualmente como ayudante de cocina en la localidad de Caleta Lenga. Agrega que fue notificada del inicio del procedimiento sancionatorio el 27 de mayo de 2024, pero que el plazo para presentar descargos fue exiguo dada la dificultad de obtener documentos desde Venezuela.
+
+Argumenta que la medida de expulsión, notificada personalmente el 22 de octubre de 2025, resulta desproporcionada y vulnera su libertad personal y proyecto de vida, afirmando contar con vínculos sociales y familiares en el país -mencionando amigos, primos y tíos- y ser económicamente activa, aunque su hija permanece en Venezuela. Solicita se deje sin efecto la orden de expulsión y se le permita regularizar su situación migratoria.
+
+Informó el Servicio Nacional de Migraciones, solicitando el rechazo del recurso. Opone excepción de previo y especial pronunciamiento, alegando que la vía idónea es el recurso de reclamación especial del artículo 141 de la Ley N° 21.325 y no la acción de amparo, haciendo presente que el plazo de 10 días para reclamar ya ha transcurrido en exceso. En cuanto al fondo, indica que la amparada ingresó por paso no habilitado el 7 de junio de 2023, infracción que constituye una causal imperativa de prohibición de ingreso y expulsión según los artículos 32 N°3 y 127 N°1 de la Ley de Migración. Señala que se inició el procedimiento sancionatorio debidamente, otorgando plazo para descargos que no fueron presentados en la oportunidad administrativa. Asimismo, sostiene que no se acreditaron vínculos familiares directos en Chile (cónyuge, hijos o padres con residencia definitiva) que justifiquen revocar la medida bajo el principio de reunificación familiar, dado que su hija reside en el extranjero.
+
+Informó también la Policía de Investigaciones de Chile, Prefectura Provincial Concepción, confirmando que la amparada registra una Orden de Expulsión vigente, decretada por Resolución Exenta N° 25285432, la cual fue notificada presencialmente el 22 de octubre de 2025. Agrega que la ciudadana extranjera no registra ingresos por pasos habilitados ni órdenes de detención pendientes.
+
+Se trajeron los autos en relación.
+
+CONSIDERANDO:
+Primero: Que, la acción constitucional de amparo, consagrada en el artículo 21 de la Carta Fundamental, tiene por objeto restablecer el imperio del derecho y asegurar la debida protección del afectado cuando su libertad personal o seguridad individual se vean privadas, perturbadas o amenazadas por actos ilegales o arbitrarios.
+
+Segundo: Que, para resolver lo debatido, si bien el artículo 141 de la Ley 21.325 de Migración y Extranjería dispone un mecanismo específico, señalando que “El afectado por una medida de expulsión podrá reclamar por sí o por cualquier persona en su nombre, ante la Corte de Apelaciones del domicilio del reclamante, dentro del plazo de diez días corridos, contado desde la notificación de la resolución respectiva”, aquello no obsta a que la recurrente utilice esta vía constitucional, atendido lo dispuesto en el artículo 21 de la Constitución Política de la República.
+
+Sin perjuicio de la discusión sobre la idoneidad de la vía, cabe analizar las normas que sustentaron la Resolución recurrida a efectos de determinar si se ha dictado con vicios de ilegalidad o arbitrariedad que justifiquen la intervención de esta Corte.
+
+Tercero: Que, en cuanto a la regulación normativa de la situación a que se refieren estos autos, el artículo 127 de la Ley N° 21.325 establece como causal de expulsión para quienes carezcan de un permiso que los habilite para residir: “1. Ingresar al país no obstante configurarse a su respecto una causal de prohibición de ingreso de las señaladas en el artículo 32...”.
+
+A su turno, el artículo 32 antes aludido, en su numeral 3, dispone: “Se prohíbe el ingreso al país a los extranjeros que: 3. Intenten ingresar o egresar del país, o hayan ingresado o egresado, por un paso no habilitado, eludiendo el control migratorio...”.
+
+Cuarto: Que, en mérito a las normas antes transcritas y a los propios antecedentes reconocidos por la recurrente en su libelo y confirmados por el informe policial, se puede concluir que a Verónica Carolina Sánchez Torres le afecta una prohibición imperativa consagrada en la Ley de Migraciones, consistente en el ingreso irregular al país eludiendo el control migratorio. De esta manera, concurre el presupuesto jurídico que faculta a la Autoridad para disponer la expulsión del país.
+
+Quinto: Que, la actuación de la reclamada se encuentra comprendida dentro de sus atribuciones legales y en conformidad a la legislación vigente. En efecto, se acreditó que la autoridad administrativa inició el procedimiento sancionatorio, notificando a la afectada para que presentara sus descargos, oportunidad que no fue utilizada oportunamente por la amparada.
+
+Sexto: Que, respecto a las alegaciones sobre arraigo y vínculos familiares, no se verifica ilegalidad en la resolución recurrida. Si bien la recurrente alude a la presencia de tíos y primos y a una oferta laboral, consta en el propio recurso que su hija menor de edad reside en Venezuela, por lo que no se configura la vulneración al principio de reunificación familiar ni al interés superior del niño dentro del territorio nacional. La oferta de trabajo presentada, de fecha 30 de octubre de 2025, se encuentra supeditada a la obtención de un permiso de residencia que la amparada no posee, y que no puede obtener por la vía ordinaria dada su condición de ingreso irregular.
+
+Séptimo: Que, en consecuencia, la resolución N° 25285432 fue dictada por la autoridad competente, dentro de sus atribuciones, fundada en causa legal expresa (ingreso por paso no habilitado) y dotada de la motivación necesaria. Teniendo presente, además, que en el caso que nos ocupa ningún antecedente sólido se allegó con relación a vínculos familiares directos (cónyuge o hijos) de la extranjera en el país que obliguen a desestimar la norma migratoria infringida.
+
+Octavo: Que, como se puede apreciar, la decisión que se estima vulneratoria, se aprecia acorde al mérito de los antecedentes que se tuvo a la vista y, en consecuencia, no resulta ser ni ilegal ni arbitraria.
+
+Noveno: Que, por lo razonado, la resolución reclamada se ajusta plenamente a derecho y al principio de proporcionalidad y fundamentación de las actuaciones de los Órganos de la Administración, lo que deviene en la improcedencia de la acción incoada.
+
+Por estas consideraciones y de conformidad, además, con lo previsto en el artículo 21 de la Constitución Política de la República y la Ley 21.325, se declara:
+
+I.- Que se desecha la excepción opuesta por el servicio Nacional de Migraciones.
+
+II.- SE RECHAZA, sin costas, el recurso de amparo interpuesto por la abogada Daniela Uribe Maturana, en favor de la ciudadana venezolana Verónica Carolina Sánchez Torres, en contra del Servicio Nacional de Migraciones.
+
+Regístrese, comuníquese y archívese oportunamente.
+
+Redacción del ministro suplente Gonzalo Gabriel Díaz González.
+
+N°Amparo-76-2026.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de ConcepciónxsrConcepción, once  de febrero de dos mil veintiséis.VISTO:Que comparece doña Daniela Uribe Maturana, abogada de la Corporación de Asistencia Judicial, Consultorio Jurídico Talcahuano, en favor de la ciudadana venezolana Verónica Carolina Sánchez Torres, interponiendo recurso de amparo constitucional en contra del Servicio Nacional de Migraciones, impugnando la Resolución Exenta N°25285432 de fecha 19 de mayo de 2025, emanada de la recurrida, que decreta la expulsión del territorio nacional de la amparada y le impone una prohibición de ingreso por cinco años.Señala la recurrente que la amparada ingresó a Chile buscando refugio debido a la situación humanitaria en su país, habiendo entrado por un paso no habilitado luego de cruzar cuatro países. Indica que, tras residir brevemente en Santiago, se estableció en la zona de Concepción, desempeñándose actualmente como ayudante de cocina en la localidad de Caleta Lenga. Agrega que fue notificada del inicio del procedimiento sancionatorio el 27 de mayo de 2024, pero que el plazo para presentar descargos fue exiguo dada la dificultad de obtener documentos desde Venezuela.Argumenta que la medida de expulsión, notificada personalmente el 22 de octubre de 2025, resulta desproporcionada y vulnera su libertad personal y proyecto de vida, afirmando contar con vínculos sociales y familiares en el país -mencionando amigos, primos y tíos- y ser económicamente activa, aunque su hija permanece en Venezuela. Solicita se deje sin efecto la orden de expulsión y se le permita regularizar su situación migratoria.Informó el Servicio Nacional de Migraciones, solicitando el rechazo del recurso. Opone excepción de previo y especial pronunciamiento, alegando que la vía idónea es el recurso de reclamación especial del artículo 141 de la Ley N° 21.325 y no la acción de amparo, haciendo presente que el plazo de 10 días para reclamar ya ha transcurrido en exceso. En cuanto al fondo, indica que la amparada ingresó por paso no habilitado el 7 de junio de 2023, infracción que constituye una causal imperativa de prohibición de ingreso y expulsión según los artículos 32 N°3 y 127 N°1 de la Ley de Migración. Señala que se inició el procedimiento sancionatorio debidamente, otorgando plazo para descargos que no fueron presentados en la oportunidad administrativa. Asimismo, sostiene que no se acreditaron vínculos familiares directos en Chile (cónyuge, hijos o padres con residencia definitiva) que justifiquen revocar la medida bajo el principio de reunificación familiar, dado que su hija reside en el extranjero.Informó también la Policía de Investigaciones de Chile, Prefectura Provincial Concepción, confirmando que la amparada registra una Orden de Expulsión vigente, decretada por Resolución Exenta N° 25285432, la cual fue notificada presencialmente el 22 de octubre de 2025. Agrega que la ciudadana extranjera no registra ingresos por pasos habilitados ni órdenes de detención pendientes.Se trajeron los autos en relación.CONSIDERANDO:Primero: Que, la acción constitucional de amparo, consagrada en el artículo 21 de la Carta Fundamental, tiene por objeto restablecer el imperio del derecho y asegurar la debida protección del afectado cuando su libertad personal o seguridad individual se vean privadas, perturbadas o amenazadas por actos ilegales o arbitrarios.Segundo: Que, para resolver lo debatido, si bien el artículo 141 de la Ley 21.325 de Migración y Extranjería dispone un mecanismo específico, señalando que “El afectado por una medida de expulsión podrá reclamar por sí o por cualquier persona en su nombre, ante la Corte de Apelaciones del domicilio del reclamante, dentro del plazo de diez días corridos, contado desde la notificación de la resolución respectiva”, aquello no obsta a que la recurrente utilice esta vía constitucional, atendido lo dispuesto en el artículo 21 de la Constitución Política de la República.Sin perjuicio de la discusión sobre la idoneidad de la vía, cabe analizar las normas que sustentaron la Resolución recurrida a efectos de determinar si se ha dictado con vicios de ilegalidad o arbitrariedad que justifiquen la intervención de esta Corte.Tercero: Que, en cuanto a la regulación normativa de la situación a que se refieren estos autos, el artículo 127 de la Ley N° 21.325 establece como causal de expulsión para quienes carezcan de un permiso que los habilite para residir: “1. Ingresar al país no obstante configurarse a su respecto una causal de prohibición de ingreso de las señaladas en el artículo 32...”.A su turno, el artículo 32 antes aludido, en su numeral 3, dispone: “Se prohíbe el ingreso al país a los extranjeros que: 3. Intenten ingresar o egresar del país, o hayan ingresado o egresado, por un paso no habilitado, eludiendo el control migratorio...”.Cuarto: Que, en mérito a las normas antes transcritas y a los propios antecedentes reconocidos por la recurrente en su libelo y confirmados por el informe policial, se puede concluir que a Verónica Carolina Sánchez Torres le afecta una prohibición imperativa consagrada en la Ley de Migraciones, consistente en el ingreso irregular al país eludiendo el control migratorio. De esta manera, concurre el presupuesto jurídico que faculta a la Autoridad para disponer la expulsión del país.Quinto: Que, la actuación de la reclamada se encuentra comprendida dentro de sus atribuciones legales y en conformidad a la legislación vigente. En efecto, se acreditó que la autoridad administrativa inició el procedimiento sancionatorio, notificando a la afectada para que presentara sus descargos, oportunidad que no fue utilizada oportunamente por la amparada.Sexto: Que, respecto a las alegaciones sobre arraigo y vínculos familiares, no se verifica ilegalidad en la resolución recurrida. Si bien la recurrente alude a la presencia de tíos y primos y a una oferta laboral, consta en el propio recurso que su hija menor de edad reside en Venezuela, por lo que no se configura la vulneración al principio de reunificación familiar ni al interés superior del niño dentro del territorio nacional. La oferta de trabajo presentada, de fecha 30 de octubre de 2025, se encuentra supeditada a la obtención de un permiso de residencia que la amparada no posee, y que no puede obtener por la vía ordinaria dada su condición de ingreso irregular.Séptimo: Que, en consecuencia, la resolución N° 25285432 fue dictada por la autoridad competente, dentro de sus atribuciones, fundada en causa legal expresa (ingreso por paso no habilitado) y dotada de la motivación necesaria. Teniendo presente, además, que en el caso que nos ocupa ningún antecedente sólido se allegó con relación a vínculos familiares directos (cónyuge o hijos) de la extranjera en el país que obliguen a desestimar la norma migratoria infringida.Octavo: Que, como se puede apreciar, la decisión que se estima vulneratoria, se aprecia acorde al mérito de los antecedentes que se tuvo a la vista y, en consecuencia, no resulta ser ni ilegal ni arbitraria.Noveno: Que, por lo razonado, la resolución reclamada se ajusta plenamente a derecho y al principio de proporcionalidad y fundamentación de las actuaciones de los Órganos de la Administración, lo que deviene en la improcedencia de la acción incoada.Por estas consideraciones y de conformidad, además, con lo previsto en el artículo 21 de la Constitución Política de la República y la Ley 21.325, se declara:I.- Que se desecha la excepción opuesta por el servicio Nacional de Migraciones.II.- SE RECHAZA, sin costas, el recurso de amparo interpuesto por la abogada Daniela Uribe Maturana, en favor de la ciudadana venezolana Verónica Carolina Sánchez Torres, en contra del Servicio Nacional de Migraciones.Regístrese, comuníquese y archívese oportunamente. Redacción del ministro suplente Gonzalo Gabriel Díaz González.N°Amparo-76-2026.                        ⚠                      Sin documento en esta instancia - pdf
