@@ -1,0 +1,53 @@
+METADATA
+
+case_id: 95ebbd6a473958bfb2adea21e5cc01db98544927
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7963965
+
+rol: 55747-2025
+
+fecha_sentencia: 2025-12-18
+
+caratulado: VIVANCO MORALES OSCAR ALEJANDRO CONTRA COMISIÓN DE LIBERTAD CONDICIONAL
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, dieciocho de diciembre de dos mil veinticinco.
+
+Vistos:
+
+Se confirma la resolución apelada de fecha treinta de octubre de dos mil veinticinco, dictada por la Corte de Apelaciones de Antofagasta.
+
+Regístrese y devuélvase.
+
+Rol N° 50.669-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+/jps
+
+Antofagasta, treinta de octubre de dos mil veinticinco.
+
+A folio 1:
+
+Vistos:
+
+Atendidos los hechos que fundamentan la presente acción constitucional, los que no configuran los presupuestos necesarios para ser amparados por aquélla, considerando que el recurso interpuesto no se dirige a cuestionar la ilegalidad en la aplicación de normas o reglas de procedimiento durante la substanciación del sumario administrativo, sino únicamente a manifestar disconformidad con la valoración de la prueba efectuada y con las conclusiones a las que arribó la autoridad respectiva. Dicho examen excede el ámbito de conocimiento propio de la acción constitucional de protección, pues pretende que esta Corte de Apelaciones efectúe una nueva revisión de mérito respecto de las probanzas rendidas y de los antecedentes recopilados en la investigación, y con ello un examen del fondo de la decisión de destitución adoptada como medida disciplinaria. En consecuencia, no se configura vulneración a la garantía constitucional invocada, atendido que lo solicitado importa un examen de fondo de la decisión adoptada por la institución recurrida, razón por la cual corresponde declarar inadmisible el presente recurso.
+
+Por tanto, no siendo el recurso de protección la vía idónea para resolver la cuestión planteada se declara INADMISIBLE el recurso de protección interpuesto en contra del Gobierno Regional de Antofagasta.
+
+Regístrese, comuníquese y, en su oportunidad, archívese.
+
+Rol 1970-2025 (Protección)
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+/jpsAntofagasta, treinta de octubre de dos mil veinticinco.A folio 1:Vistos:Atendidos los hechos que fundamentan la presente acción constitucional, los que no configuran los presupuestos necesarios para ser amparados por aquélla, considerando que el recurso interpuesto no se dirige a cuestionar la ilegalidad en la aplicación de normas o reglas de procedimiento durante la substanciación del sumario administrativo, sino únicamente a manifestar disconformidad con la valoración de la prueba efectuada y con las conclusiones a las que arribó la autoridad respectiva. Dicho examen excede el ámbito de conocimiento propio de la acción constitucional de protección, pues pretende que esta Corte de Apelaciones efectúe una nueva revisión de mérito respecto de las probanzas rendidas y de los antecedentes recopilados en la investigación, y con ello un examen del fondo de la decisión de destitución adoptada como medida disciplinaria. En consecuencia, no se configura vulneración a la garantía constitucional invocada, atendido que lo solicitado importa un examen de fondo de la decisión adoptada por la institución recurrida, razón por la cual corresponde declarar inadmisible el presente recurso.Por tanto, no siendo el recurso de protección la vía idónea para resolver la cuestión planteada se declara INADMISIBLE el recurso de protección interpuesto en contra del Gobierno Regional de Antofagasta. Regístrese, comuníquese y, en su oportunidad, archívese.Rol 1970-2025 (Protección)                        ⚠                      Sin documento en esta instancia - pdf

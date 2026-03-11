@@ -1,0 +1,69 @@
+METADATA
+
+case_id: 2ca08c4de5afe02d208a8661e62f103ba8d0dbdf
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7966559
+
+rol: 44859-2025
+
+fecha_sentencia: 2025-12-18
+
+caratulado: NANCY DE LAS MERCEDES SEPULVEDA FUENTES CON ELIZ ELIADA SEPULVEDA FUENTES Y OTRAS
+
+sala: PRIMERA, CIVIL
+
+materias: ▪ Admisibilidad del recurso de casación en el fondo
+
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+
+resultado_recurso: RECHAZA CASACION EN EL FONDO
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, dieciocho de diciembre de dos mil veinticinco.
+
+Proveyendo la presentación de treinta de octubre pasado:
+
+A lo principal:
+
+VISTOS Y TENIENDO PRESENTE:
+
+1°.- Que, en este juicio ordinario, se ha ordenado dar cuenta de la admisibilidad del recurso de casación en la forma deducido por la parte demandada, en contra de la sentencia dictada por la Corte de Apelaciones de Chillán, la cual confirmó el fallo de primera instancia de cinco de octubre de dos mil veintitrés, que acogió la demanda de nulidad absoluta de la escritura pública de fecha veintiséis de febrero de dos mil dieciocho.
+
+2°.- Que la recurrente sostiene que la sentencia de segundo grado ha incurrido en la causal Nº 5 del artículo 768 del Código de Procedimiento Civil, en relación con el artículo 170 Nº 3 , 4 , y 6 del mismo cuerpo legal, por no hacer mención alguna a la defensa de la demandada sobre el rechazo de la acción reivindicatoria por tener la demandante `título inscrito y estar en posesión de la servidumbre¿; por haber prescindido de las consideraciones de hecho y de derecho que sirven de fundamento a la sentencia, haciendo suyo los razonamientos del juez de la instancia, sin referirse a los otros ocho propietarios demandados ni a los títulos acompañados; y por haber omitido la decisión del asunto controvertido en su totalidad, pues se pronunció solo respecto de uno de los aspectos de la apelación interpuesta: la nulidad de la inscripción de la servidumbre y no se pronuncia respecto a la acción reivindicatoria, dejando fuera y sin pronunciamiento alguno, el derecho de ocho personas demandadas.
+
+3°.- Que la casación formal sustentada en el Nº 5 del artículo 768 del Código de Procedimiento Civil, en todos sus capítulos deberá ser declarada inadmisible, puesto que no fue preparada en los términos que exige el artículo 769 del mismo texto legal . En efecto consta de autos que el recurrente no reclamó oportunamente y en todos sus grados del vicio que ahora invoca ya que solo apeló de la sentencia de primera instancia y la de segunda en los puntos objetados, es solo confirmatoria de aquella.
+
+Por lo demás, los sentenciadores de segunda instancia sólo tienen obligación de cumplir en sus fallos con las exigencias del artículo 170, en la medida que modifiquen o revoquen en su parte dispositiva la sentencia impugnada por la vía del recurso de apelacón, o bien cuando, no obstante confirmarla sin modificaciones, el fallo en alzada no satisface dichas exigencias. Ahora bien, la sentencia que es objeto de la casación de forma se limitó a confirmar la de primer grado, sin modificarla en su parte resolutiva, teniendo para ello además presente otras consideraciones adicionales a las del tribunal a quo y que se refirieron a la prueba documental allegada en segunda instancia.
+
+Por estas consideraciones y de conformidad además con lo dispuesto en los artículos 768 , 772 y 781 del Código de Procedimiento Civil, se declara inadmisible el recurso de casación en la forma interpuesto por la abogada Nora Buzeta Rivera, en representación de la parte demandada, en contra de la sentencia de la Corte de Apelaciones de Chillán, de fecha nueve de octubre de dos mil veinticinco.
+
+Al primer otrosí, no ha lugar; al segundo otrosí, téngase presente.
+
+Regístrese y devuélvase.
+
+Rol N° 44.854 ¿ 2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Chillán, nueve de octubre de dos mil veinticinco.
+
+VISTOS Y TENIENDO PRESENTE.
+
+1°.- Que, la abogada, doña Nora Buzeta Rivera, en representación de la recurrente, acompañó en esta instancia, a fojas 17, los siguientes documentos: a) Imagen del plano de los lotes 1 a 8, perteneciente a los demandados Simón A. Velásquez, Lote 1; Genoveva Pino S., Lote 2; María Zenovia Pino S., Lote 3; Patricia Pino Pino, Lote 4; Estela Pino S., Lote 5; Manuel Pino S., Lote 6; María Elsa Pino S., Lote 7, y Patricia Pino Pino, lote 8. b) Plano aprobado por el SAG y Certificado del Servicio Agrícola y Ganadero número trescientos ochenta y tres guion LA, de la oficina de Los Angeles, de fecha 21 de julio de 2017 y que s encuentra agregado al final del Registro de Propiedad del Conservador de Bienes Raíces de Yungay con el número mil trescientos sesenta y cuatro, correspondiente al año dos mil diecisiete.
+
+Refiere la recurrente que del plano acompañado es posible advertir, en línea marcada con rojo, el lugar por donde atraviesa la servidumbre ilegítima, esto es, atravesando por medio del predio afectando a los Lotes 1 al 8, perteneciente a terceros que no participaron del contrato de servidumbre, y que la demandante presentó como título, y que la sentenciadora validó en su sentencia.
+
+2°.- Que, los documentos referidos en el numeral precedente no alteran lo concluido por la sentenciadora del grado, en cuanto acogió la demanda de nulidad absoluta de la escritura pública de fecha 26 de febrero de 2018, suscrita por doña Sara Rosa Pino Sanhueza, ante el Notario Público y Conservador de Bienes Raíces de Yungay, y por medio de la cual alteró de manera unilateral la servidumbre de tránsito originalmente pactada el 1° de julio de 2015, entre ella y la demandante de estos autos, doña Patricia Elizabeth Inostroza Fernández.
+
+Por estas consideraciones y lo dispuesto en los artículos 186 y 227 del Código de Procedimiento Civil, SE CONFIRMA, sin costas, la sentencia apelada de cinco de octubre de dos mil veintitrés.
+
+Regístrese y en su oportunidad, devuélvase conjuntamente con sus agregados.
+
+Redacción a cargo del abogado integrante don Juan Antonio De La Hoz Fonseca, quien no firma por no haber integrado el día de hoy.
+
+ROL N°875-2023-CIVIL
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, dieciocho de diciembre de dos mil veinticinco.Proveyendo la presentación de treinta de octubre pasado:A lo principal:VISTOS Y TENIENDO PRESENTE:1°.- Que, en este juicio ordinario, se ha ordenado dar cuenta de la admisibilidad del recurso de casación en la forma deducido por la parte demandada, en contra de la sentencia dictada por la Corte de Apelaciones de Chillán, la cual confirmó el fallo de primera instancia de cinco de octubre de dos mil veintitrés, que acogió la demanda de nulidad absoluta de la escritura pública de fecha veintiséis de febrero de dos mil dieciocho.2°.- Que la recurrente sostiene que la sentencia de segundo grado ha incurrido en la causal Nº 5 del artículo 768 del Código de Procedimiento Civil, en relación con el artículo 170 Nº 3 , 4 , y 6 del mismo cuerpo legal, por no hacer mención alguna a la defensa de la demandada sobre el rechazo de la acción reivindicatoria por tener la demandante `título inscrito y estar en posesión de la servidumbre¿; por haber prescindido de las consideraciones de hecho y de derecho que sirven de fundamento a la sentencia, haciendo suyo los razonamientos del juez de la instancia, sin referirse a los otros ocho propietarios demandados ni a los títulos acompañados; y por haber omitido la decisión del asunto controvertido en su totalidad, pues se pronunció solo respecto de uno de los aspectos de la apelación interpuesta: la nulidad de la inscripción de la servidumbre y no se pronuncia respecto a la acción reivindicatoria, dejando fuera y sin pronunciamiento alguno, el derecho de ocho personas demandadas.3°.- Que la casación formal sustentada en el Nº 5 del artículo 768 del Código de Procedimiento Civil, en todos sus capítulos deberá ser declarada inadmisible, puesto que no fue preparada en los términos que exige el artículo 769 del mismo texto legal . En efecto consta de autos que el recurrente no reclamó oportunamente y en todos sus grados del vicio que ahora invoca ya que solo apeló de la sentencia de primera instancia y la de segunda en los puntos objetados, es solo confirmatoria de aquella.Por lo demás, los sentenciadores de segunda instancia sólo tienen obligación de cumplir en sus fallos con las exigencias del artículo 170, en la medida que modifiquen o revoquen en su parte dispositiva la sentencia impugnada por la vía del recurso de apelacón, o bien cuando, no obstante confirmarla sin modificaciones, el fallo en alzada no satisface dichas exigencias. Ahora bien, la sentencia que es objeto de la casación de forma se limitó a confirmar la de primer grado, sin modificarla en su parte resolutiva, teniendo para ello además presente otras consideraciones adicionales a las del tribunal a quo y que se refirieron a la prueba documental allegada en segunda instancia.Por estas consideraciones y de conformidad además con lo dispuesto en los artículos 768 , 772 y 781 del Código de Procedimiento Civil, se declara inadmisible el recurso de casación en la forma interpuesto por la abogada Nora Buzeta Rivera, en representación de la parte demandada, en contra de la sentencia de la Corte de Apelaciones de Chillán, de fecha nueve de octubre de dos mil veinticinco.Al primer otrosí, no ha lugar; al segundo otrosí, téngase presente. Regístrese y devuélvase.Rol N° 44.854 ¿ 2025. Santiago, dieciocho de diciembre de dos mil veinticinco.Proveyendo la presentación de treinta de octubre pasado:A lo principal:VISTOS Y TENIENDO PRESENTE:1°.- Que, en este juicio ordinario, se ha ordenado dar cuenta de la admisibilidad del recurso de casación en la forma deducido por la parte demandada, en contra de la sentencia dictada por la Corte de Apelaciones de Chillán, la cual confirmó el fallo de primera instancia de cinco de octubre de dos mil veintitrés, que acogió la demanda de nulidad absoluta de la escritura pública de fecha veintiséis de febrero de dos mil dieciocho.2°.- Que la recurrente sostiene que la sentencia de segundo grado ha incurrido en la causal Nº 5 del artículo 768 del Código de Procedimiento Civil, en relación con el artículo 170 Nº 3, 4, y 6 del mismo cuerpo legal, por no hacer mención alguna a la defensa de la demandada sobre el rechazo de la acción reivindicatoria por tener la demandante ‘título inscrito y estar en posesión de la servidumbre”; por haber prescindido de las consideraciones de hecho y de derecho que sirven de fundamento a la sentencia, haciendo suyo los razonamientos del juez de la instancia, sin referirse a los otros ocho propietarios demandados ni a los títulos acompañados; y por haber omitido la decisión del asunto controvertido en su totalidad, pues se pronunció solo respecto de uno de los aspectos de la apelación interpuesta: la nulidad de la inscripción de la servidumbre y no se pronuncia respecto a la acción reivindicatoria, dejando fuera y sin pronunciamiento alguno, el derecho de ocho personas demandadas.3°.- Que la casación formal sustentada en el Nº 5 del artículo 768 del Código de Procedimiento Civil, en todos sus capítulos deberá ser declarada inadmisible, puesto que no fue preparada en los términos que exige el artículo 769 del mismo texto legal. En efecto consta de autos que el recurrente no reclamó oportunamente y en todos sus grados del vicio que ahora invoca ya que solo apeló de la sentencia de primera instancia y la de segunda en los puntos objetados, es solo confirmatoria de aquella.Por lo demás, los sentenciadores de segunda instancia sólo tienen obligación de cumplir en sus fallos con las exigencias del artículo 170, en la medida que modifiquen o revoquen en su parte dispositiva la sentencia impugnada por la vía del recurso de apelacón, o bien cuando, no obstante confirmarla sin modificaciones, el fallo en alzada no satisface dichas exigencias. Ahora bien, la sentencia que es objeto de la casación de forma se limitó a confirmar la de primer grado, sin modificarla en su parte resolutiva, teniendo para ello además presente otras consideraciones adicionales a las del tribunal a quo y que se refirieron a la prueba documental allegada en segunda instancia.Por estas consideraciones y de conformidad además con lo dispuesto en los artículos 768, 772 y 781 del Código de Procedimiento Civil, se declara inadmisible el recurso de casación en la forma interpuesto por la abogada Nora Buzeta Rivera, en representación de la parte demandada, en contra de la sentencia de la Corte de Apelaciones de Chillán, de fecha nueve de octubre de dos mil veinticinco.Al primer otrosí, no ha lugar; al segundo otrosí, téngase presente.Regístrese y devuélvase.Rol N° 44.854 – 2025. Sentencia anonimizada
