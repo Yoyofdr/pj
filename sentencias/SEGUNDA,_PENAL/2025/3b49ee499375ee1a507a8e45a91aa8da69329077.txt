@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7970711
 
 rol: 53864-2025
 
-fecha_sentencia: 2025-12-24
+fecha_sentencia: 2025-12-26
 
 caratulado: RODRIGUEZ ALFARO DIANA CAROLINA CONTRA ERVICIO NACIONAL DE MIGRACIONES
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 

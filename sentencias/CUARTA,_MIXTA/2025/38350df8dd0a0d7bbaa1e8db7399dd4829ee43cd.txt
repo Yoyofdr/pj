@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7970704
 
 rol: 49159-2025
 
-fecha_sentencia: 2025-12-24
+fecha_sentencia: 2025-12-26
 
 caratulado: BETANCOURT/MUNICIPALIDAD DE HUECHURABA
 
@@ -14,7 +14,7 @@ sala: CUARTA, MIXTA
 
 materias: ▪ Recurso de unificación de jurisprudencia
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: INADMISIBLE UNIFICACIÓN DE JURISPRUDENCIA, MATERIA UNIFICADA O SIN DISPERSIÓN
 
