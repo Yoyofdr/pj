@@ -1,0 +1,1205 @@
+METADATA
+
+case_id: ac5090b3080fcc72b58a02e6adc61c21be857ac6
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8053181
+
+rol: 7692-2026
+
+fecha_sentencia: 2026-03-06
+
+caratulado: ROSALES RAMÍREZ OMAR ENRIQUE CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, seis de marzo de dos mil veintiséis.
+
+VISTOS Y TENIENDO PRESENTE:
+Primero: Que en este procedimiento sumario especial de acción revocatoria concursal, seguido ante el Décimo Octavo Juzgado Civil de Santiago, bajo el Rol C-26647-2019, caratulado “/Sociedad Comercial Álamo y Salman Limitada”, se ha ordenado dar cuenta de la admisibilidad de los recursos de casación en la forma y en el fondo deducidos por la demandada Investpack SpA, y del recurso de casación en el fondo interpuesto por la demandada Comercial Álamo Salman Ltda., en contra de la sentencia de segunda instancia, de cinco de diciembre de dos mil veinticinco, respecto de aquella parte que, respectivamente, confirmó: (i) la sentencia definitiva de primera instancia, de cuatro de julio de dos mil veintitrés, que acogió la demanda revocatoria concursal subjetiva; (ii) la resolución de primer grado, de veinte de octubre del mismo año, que desestimó el incidente de abandono del procedimiento promovido por la demandada Investpack SpA; y (iii) la resolución de primer grado, de dieciocho de junio de dos mil veinticuatro, que rechazó el incidente de abandono del procedimiento promovido por la demandada Comercial Álamo Salman Ltda.
+EN CUANTO AL RECURSO DE CASACIÓN EN LA FORMA DE LA DEMANDADA INVESTPACK SPA:
+Segundo: Que la recurrente funda su arbitrio de nulidad formal en la causal prevista en el numeral 9° del artículo 768 del Código de Procedimiento Civil, en relación con los numerales 1° y 4° del artículo 795 del mismo cuerpo legal.
+
+Solicita se invalide el fallo recurrido y se dicte sentencia de reemplazo que rechace la demanda revocatoria concursal subjetiva, con costas.
+
+Tercero: Que, si bien de acuerdo con el artículo 766 del Código de Procedimiento Civil, el recurso de casación en la forma procede respecto de las sentencias que se dicten en procedimientos o reclamaciones regidos por leyes especiales; el inciso segundo del artículo 768 del mismo cuerpo legal, limita las causales de nulidad formal, aplicables a esa clase de procedimientos, disponiendo que el referido recurso sólo podrá fundarse en algunas de las indicadas en sus numerales 1, 2, 3, 4, 6, 7 y 8, y -en el caso del numeral 5- cuando se haya omitido en la sentencia la decisión del asunto controvertido.
+Cuarto: Que, en consecuencia, siendo el de autos uno de aquellos procedimientos especiales aludidos en el citado artículo 766 del Código de Procedimiento Civil, al encontrarse éste regulado por la Ley N° 20.720; fluye entonces que el alzamiento formal fundado en la causal del numeral 9° del artículo 768, en relación con los numerales 1° y 4° del artículo 795 del Código de Enjuiciamiento Civil, resulta inadmisible al no encontrarse la citada causal dentro de aquéllas que puedan invocarse en contra de la sentencia recurrida que hizo suyo el fallo de primer grado.
+
+Quinto: Que, en consecuencia, el arbitrio de nulidad formal no puede admitirse a tramitación.
+EN CUANTO A LOS RECURSOS DE CASACIÓN EN EL FONDO DE LAS DEMANDADAS INVESTPACK SPA Y COMERCIAL ÁLAMO SALMAN LTDA.:
+Sexto: Que, por otra parte, ambas recurrentes fundan su arbitrio de nulidad sustantiva en la infracción del artículo 152 del Código de Procedimiento Civil, con motivo de haberse confirmado por el Tribunal de Alzada las resoluciones de primer grado que desecharon los incidentes de abandono del procedimiento promovidos por cada una de aquéllas.
+
+Solicitan, respectivamente, que se anule el fallo recurrido y se dicte sentencia de reemplazo que declare abandonado el procedimiento, con costas.
+
+Séptimo: Que al respecto cabe precisar que el artículo 767 del Código de Procedimiento Civil sólo admite el recurso de casación en el fondo contra sentencias definitivas inapelables, e interlocutorias inapelables cuando ponen término al juicio o hacen imposible su continuación, dictadas -en lo que interesa para el presente caso- por Cortes de Apelaciones, siempre que se hayan pronunciado con infracción de ley influyendo substancialmente en lo dispositivo del fallo.
+Octavo: Que, sin embargo, aquella parte del fallo recurrido que confirmó las resoluciones de primer grado que desecharon las incidencias de abandono del procedimiento, no presenta las características de aquéllas aludidas en el motivo precedente, toda vez que no es una sentencia definitiva, ni tampoco una interlocutoria que por sí misma haya concluido el juicio, ni hecho imposible su prosecución; razón por la que los recursos de nulidad intentados no pueden admitirse a tramitación.
+
+Por estas consideraciones y de conformidad, además, con lo dispuesto en los artículos 764, 765, 766, 767 y 768 del Código de Procedimiento Civil, se declaran inadmisibles los recursos de casación en la forma y en el fondo deducidos por el abogado Gerardo Picón Ocampo en representación de la demandada Investpack SpA, y el recurso de casación en el fondo interpuesto por el abogado Nelson Fuentes Tatche en representación de la demandada Comercial Álamo Salman Ltda., contra la sentencia de cinco de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Santiago.
+Regístrese, notifíquese, comuníquese y devuélvase, vía interconexión.
+
+Rol N° 6253-2026
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Santiago, cinco de diciembre de dos mil veinticinco.
+Vistos:
+I. IC-17436-2023: en cuya virtud esta Corte resolvió autos en relación para conocer de recurso de apelación y recurso de casación en la forma interpuesto por la parte demandada, Investpack SpA., con fecha 10 de agosto de 2023, en contra la sentencia definitiva de fecha 4 de julio de 2023, dictada por la Jueza doña Claudia Donoso Niemeyer del 18° Juzgado Civil de Santiago, que acogió la demanda de acción revocatoria concursal interpuesta por doña María Loreto Ried Undurraga, liquidadora titular de Sociedad Comercial Álamo y Salman Ltda. Solicita, respecto del recurso de apelación, que se revoque la sentencia definitiva y en consecuencia, se rechace la acción revocatoria concursal interpuesta; y, respecto del recurso de casación en forma, solicita se anule la sentencia definitiva y retrotraiga el proceso al estado de practicarse las diligencias omitidas conforme a derecho.
+II. IC 2570-2024. En cuya virtud, esta Corte resolvió autos en relación para conocer del recurso de apelación interpuesto con fecha 26 de octubre de 2023, por la demandada Investpack SpA., contra la resolución de fecha 20 de octubre de 2023 que rechazó incidente de abandono del procedimiento deducido a folio 184 del cuaderno principal. Pide a esta Corte que se revoque la resolución y se declare el abandono del procedimiento, con costas. (Acumulado al Rol IC 17436-2023).
+III. IC 11003-2024. A su turno, en este Rol de Ingreso, esta Corte resolvió autos en relación para conocer de recurso de apelación interpuesto por la demandada Sociedad Comercial Álamo y Salman Ltda., con fecha 18 de junio de 2024 contra resolución de fecha 18 de junio de 2024 que rechazó nuevo incidente de abandono del procedimiento deducido en lo principal de folio 191 del cuaderno principal. Solicita a esta Corte que se revoque la resolución recurrida y se declare el abandono del procedimiento, con costas. (Acumulado al Rol IC 17436-2023).
+IV. IC 7408-2025. A su turno, en este Rol, esta Corte resolvió autos en relación para conocer de recurso de apelación interpuesto con fecha 29 de mayo de 2025 por Sociedad Comercial Álamo y Salman Ltda. contra resolución de 28 de marzo de 2025 que rechazó los incidentes de nulidad de todo lo obrado, por falta de emplazamiento y omisión de notificación del auto de prueba. Pide a esta Corte se revoque la resolución y acoja la nulidad de todo lo obrado, declarando inválidas las actuaciones posteriores a la omisión, con costas. (Acumulado al Rol IC 17436-2023)
+Todos los ingresos signados con los números II, III y IV precedentes, se acumularon a la Causa Rol IC17436-2023.
+Considerando:
+I.- En cuanto al recurso de apelación y casación en la forma (Rol 17436-2023).
+1º) Que el recurso de marras fue presentado por doña Erika Sepúlveda, en representación de Investpack SpA, presentándose primero el recurso de apelación, solicitando se revoque la sentencia definitiva sustentado en fundamentos de hecho y de derecho que pueden sintetizarse como sigue: a) alega vicio de falta de emplazamiento respecto de Comercial Alamo y Salman Limitada, pues nunca fue notificada del auto de prueba ni de la sentencia; b) cuestiona la apreciación probatoria del tribunal, por basarse en antecedentes posteriores a la fecha del contrato cuya revocación se solicitó por la demandante, consistentes en certificados de liquidación de 2019 y verificación de créditos del 2020.
+2º) Que los argumentos vertidos por la recurrente en su recurso de apelación no logran desvirtuar las conclusiones de la sentencia el tribunal a quo, máxime bajo el análisis de los requisitos que exigen para la interposición de la revocatoria concursal, según lo dispuesto en la ley 20.720 en Chile dependen de si se trata de una acción objetiva, referidos a actos realizados dentro del período sospechoso; o subjetiva, relativo a actos de la empresa deudora. De esta manera, en términos generales, los actos que se pretenden revocar deben haber sido realizados por el deudor de forma perjudicial para los acreedores, dentro de un plazo legal definido desde el inicio del procedimiento concursal, y se debe acreditar que el acto causa un perjuicio a los acreedores, como una disminución del patrimonio o la concesión de un privilegio a un acreedor específico.
+En este caso, estamos frente a un hecho acreditado, cual es el contrato de compraventa cuya resolución se demandó por la Sra. Liquidadora Titular, Loreto Ried, amén de que dicho contrato se realizó dentro del plazo de dos años previos al inicio de la liquidación, y por haberse acreditado también la relación familiar y comercial entre los representantes de ambas sociedades, lo que evidencia el conocimiento del mal estado de los negocios.
+3º) Que, en consecuencia, los elementos que debe examinar el tribunal a quo no pueden circunscribirse únicamente al examen del contrato impugnado, como pretende la recurrente, toda vez que, para configurar la causal de revocación es necesario que el tribunal examine justamente cuando se dio inicio a la liquidación – para verificar si el acto se produjo en el período sospechoso – y demás circunstancias apuntadas.
+4º) Que, en consecuencia, el recurso de apelación no podrá prosperar.
+I a) En cuanto al recurso de casación en la forma.
+5º) Que el recurso referido se interpone invocando la causal del artículo 768 Nº 9 del Código de Procedimiento Civil, en relación con el artículo 794 Nº 4 del mismo Código. Funda su recurso en el hecho que el tribunal a quo designó como perito tasador a doña Orietta Lina Rodríguez Ortiz, ordenándole que aceptara el cargo y prestara juramento, notificándola por cédula. Señala que, nueve meses después de su designación (08.02.2023), la misma perito emitió informe de tasación sin haber sido notificada del cargo, sin aceptarlo, sin jurar su desempeño y sin citar a audiencia de reconocimiento a las partes (arts. 417 y 419 CPC), lo que configura omisión de diligencias esenciales y dejó en indefensión a la demandada. Refiere que la sentencia de primera instancia se fundó en ese informe pericial incorporado a fojas 170, utilizándolo para tener por demostrado un perjuicio a los acreedores, lo que redunda en un fallo que se apoya en prueba pericial viciada. Destaca, como contraste, que el perito contable don Luis Alejandro Núñez Valenzuela sí fue notificado, aceptó el cargo, juró y citó a audiencia de reconocimiento (art. 411 CPC), lo que no ocurrió con la tasadora.
+6º) Que, para rechazar el recurso de casación en la forma interpuesto, baste consignar lo dispuesto expresamente en la Ley 20.720, a propósito de la sentencia recaída en los procedimientos de revocaciones concursales:
+“Artículo 292.- Sentencia. La sentencia definitiva que acoja la demanda declarará la revocación solicitada, ordenará la restitución y la práctica de las inscripciones y cancelaciones que fueren pertinentes….
+…. Contra la sentencia definitiva sólo procederá el recurso de apelación, el que deberá interponerse en el plazo de diez días contado desde la notificación del fallo. Dicho recurso será concedido en ambos efectos y tendrá preferencia para su inclusión en la tabla, su vista y fallo.”
+De este texto expreso, no cabe sino colegir que el recurso de casación en contra de la sentencia impugnada resulta improcedente por así disponerlo expresamente la ley aplicable, por cuanto la norma sólo autoriza el recurso de apelación.
+7º) Que, a mayor abundamiento, aun cuando se considerase que el recurso interpuesto resulta procedente, el arbitrio intentado tampoco podría prosperar, por cuanto el recurso se funda en la causal signada en el artículo 768 No. 4 del Código de Procedimiento Civil, que señala:… “4a. En haber sido dada ultra petita, esto es, otorgando más de lo pedido por las partes, o extendiéndola a puntos no sometidos a la decisión del tribunal, sin perjuicio de la facultad que éste tenga para fallar de oficio en los casos determinados por la ley.”, que no es la causal desarrollada en el recurso, sino que se refiere más bien a la novena causal consagrada en artículo antes citado, no invocada por el recurrente, que dispone: … “9a. En haberse faltado a algún trámite o diligencia declarados esenciales por la ley o a cualquier otro requisito por cuyo defecto las leyes prevengan expresamente que hay nulidad.”, recurso que no se preparó por la recurrente, toda vez que no alegó esta falta a lo largo de la tramitación del juicio, como en derecho corresponde, al tenor del artículo 769 del ya referido Código de Procedimiento Civil, que dispone:…. “Para que pueda ser admitido el recurso de casación en la forma es indispensable que el que lo entabla haya reclamado de la falta, ejerciendo oportunamente y en todos sus grados los recursos establecidos por la ley.”
+8º) Que, adicionalmente, debe apuntarse que la forma en que se interpusieron los recursos, esto es, en primer término el de apelación y en segundo el de casación, importa un defecto formal en su interposición, lo cual – al ser un recurso de derecho estricto – conlleva necesariamente a su rechazo.
+9º) Que, de todo lo que se viene desarrollando, el recurso de casación en la forma interpuesto deberá ser desestimado, como se dirá.
+II. En cuanto al recurso de apelación interpuesto por la demandada Investpack SpA, en contra de la resolución que rechazó el incidente de abandono del procedimiento (IC 2570-2024):
+10°) Que esta Corte comparte los fundamentos de la resolución apelada para desestimar la solicitud de la recurrente tendiente que se acoja el incidente promovido, por cuanto no transcurrió el tiempo exigido por la ley para declarar tal abandono, por lo cual dicha resolución se confirmará.
+III.- En cuanto al recurso de apelación interpuesto por la demandada Sociedad Comercial Álamo y Salman Ltda. en contra de la resolución que rechazó el incidente del abandono del procedimiento (IC11003-2024)
+11°) Que esta Corte comparte los fundamentos de la resolución apelada para desestimar la solicitud de la recurrente tendiente que se acoja el incidente promovido, por cuanto no transcurrió el tiempo exigido por la ley para declarar tal abandono, por lo cual dicha resolución se confirmará.
+IV. En cuanto al recurso de apelación interpuesta Sociedad Comercial Álamo y Salman Ltda. que rechazó los incidentes de nulidad de todo lo obrado, por falta de emplazamiento y omisión de notificación del auto de prueba.
+12º) Que esta Corte comparte los fundamentos de la resolución impugnada, no logrando los argumentos vertidos por la recurrente desvirtuar lo que se ha decidido por el tribunal a quo, por lo que dicha resolución se confirmará.
+Por las razones anteriores, más lo previsto en los artículos 287,288,289,291, y 292 de la Ley 20.720 y artículos 186, 223 y 227 del Código de Procedimiento Civil, se resuelve que:
+I.- Se confirma la sentencia definitiva de fecha 4 de julio de 2023, y se rechaza el recurso de casación en la forma interpuesto contra dicha sentencia (Rol IC 17.436-2023).
+II.- Se confirma la resolución de fecha 20 de octubre de 2023 que rechazó incidente de abandono del procedimiento deducido a folio 184 del cuaderno principal. – (Rol IC 2570-2024).
+III.- Se confirma la resolución de fecha resolución de fecha 18 de junio de 2024 que rechazó nuevo incidente de abandono del procedimiento deducido en lo principal de folio 191 del cuaderno principal. – (Rol IC 11003-2024)
+IV.- Se confirma la resolución de fecha de 28 de marzo de 2025 que rechazó los incidentes de nulidad de todo lo obrado, por falta de emplazamiento y omisión de notificación del auto de prueba – (Rol IC 7408-2025).
+Cada parte pagará sus costas.
+Regístrese y comuníquese.
+Redacción de la abogada integrante Bárbara Vidaurre M.
+Rol Civil 17.436-2023 (y acumuladas IC 2570-2024, IC 11003-2024, IC 7408-2025).
+
+Pronunciada por la Octava Sala de la Iltma. Corte de Apelaciones de Santiago, presidida por el ministro señor Alejandro Rivera e integrada, por el ministro (s) señor Patricio Álvarez Maldini y la abogada integrante señora Barbara Vidaurre Miller. No firma el ministro (s) señor Álvarez, no obstante haber concurrido a la vista y al acuerdo del fallo, por encontrarse ausente.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C-26647-2019
+
+Foja: 1
+
+FOJA: 264 .- .-
+
+NOMENCLATURA : 1. [40]Sentencia
+JUZGADO : 18 Juzgado Civil de Santiagoº
+CAUSA ROL : C-26647-2019
+CARATULADO : / SOCIEDAD COMERCIAL ALAMO Y SALMAN
+LIMITADA
+
+Santiago, cuatro de Julio de dos mil veintitr sé
+
+VISTOS:
+
+A folio 1, con fecha 21 de agosto de 2019, comparece do a ñ Mar aí
+
+Loreto Ried Undurraga, abogada, Liquidadora titular, en autos sobre
+
+procedimiento de liquidaci n concursal de la sociedad Comercial lamo yó Á
+
+Salman Limitada, iniciado en causa Rol C-40958-2018 de este tribunal,
+
+quien deduce acci n revocatoria concursal en contra de la sociedadó
+
+Investpack Spa, del giro de su denominaci n, representada legalmente poró
+
+don Sergio Alfredo lamo Salman, administrador de empresas, conÁ
+
+domicilio en Avenida Hernando de Aguirre N 201, piso 14, comuna de°
+
+Providencia, y en contra de la deudora, Comercial lamo y SalmanÁ
+
+Limitada, representada legalmente por don Cristian Antonio lamoÁ
+
+Salman, administrador de empresas, e indistintamente por do a Luz Munirañ
+
+Salman Manzur, empresaria, todos domiciliados en Avenida Kennedy N°
+
+7447, departamento 73, comuna de Las Condes.
+
+Funda su demanda en que, por escritura p blica de 9 de febrero deú
+
+2018 otorgada en la Notar a de Santiago de don Juan Ricardo San Mart ní í
+
+Urrejola, la sociedad Comercial lamo y Salman Limitada, vendi , cedi yÁ ó ó
+
+transfiri a Investpack Spa, las siguientes propiedades: 1) Huerto N 75 deló °
+
+plano de la agrupaci n de Huertos Familiares Las Rosas , de la comunaó “ ”
+
+de La Pintana, antes La Granja, rol de aval o n mero 7.144-11, inscrito aú ú
+
+nombre de la sociedad INVESTPACK SPA a fojas 3743, n mero 3514 enú
+
+Código: XJLTXGDLPGF
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-26647-2019
+
+Foja: 1
+el Registro de Propiedad del Conservador de Bienes Ra ces de San Miguelí
+
+del a o 2018; 2) Propiedad ubicada en calle Rosa Ester N 03371, Huertoñ º
+
+N 76 del plano de la Agrupaci n de Huertos Familiares Fundo Las Rosas,° ó
+
+comuna de La Pintana, antes La Granja, rol n mero 7144-12, inscrito aú
+
+nombre de la sociedad Investpack Spa a fojas 3744, n mero 3515, en elú
+
+Registro de Propiedad del Conservador de Bienes Ra ces de San Miguel delí
+
+a o 2018.ñ
+
+Refiere que el precio de la compraventa fue la suma de
+
+$1.200.000.000.- que se pag , de conformidad a las declaraciones de laó
+
+escritura, asumiendo el comprador deudas de la sociedad vendedora,
+
+respecto de los siguientes acreedores: a) Banco Security, por la suma de
+
+$675.460.872; b) Multival SAGR, por la suma de $30.318.568; c) Forestal
+
+y Papelera Concepci n S.A., por la suma de $800.000.000. Agrega que noó
+
+se efectu novaci n de las deudas, pues ninguno de los acreedores de lasó ó
+
+obligaciones mencionadas dio por libre al deudor original, en los t rminosé
+
+del art culo 1632 y siguientes del C digo Civil.í ó
+
+Cita al efecto el art culo 288 de la Ley 20.720, en relaci n a laí ó
+
+Revocabilidad Subjetiva y los requisitos para su procedencia, explicando
+
+ella puede ser solicitada cuando el acto se ejerza dentro de los 2 a osñ
+
+inmediatamente anteriores al inicio del proceso de liquidaci n, el cual fueó
+
+declarado respecto de la sociedad Comercial lamo y Salman Limitada, porÁ
+
+resoluci n de 9 de abril de 2019, sin perjuicio de haberse iniciado con laó
+
+presentaci n de la solicitud de liquidaci n forzosa el 18 de diciembre deó ó
+
+2018, y notificada a la empresa deudora el 15 de febrero de 2019; mientras
+
+que la compraventa fue celebrada mediante escritura p blica de fecha 9 deú
+
+febrero de 2018, esto es, dentro del plazo indicado por la norma citada.
+
+Adem s, indica que la acci n revocatoria se encuentra ejercida dentro delá ó
+
+t rmino establecido por el art culo 291 del mismo cuerpo legal.é í
+
+En relaci n al requisito de conocimiento del mal estado de losó
+
+negocios al momento de celebrar el acto, comenta que no se exige que tal
+
+estado sea conocido por parte de la empresa deudora, pero s respecto delí
+
+adquirente que contrat con la empresa declarada en liquidaci n,ó ó
+
+Investpack.
+
+Código: XJLTXGDLPGF
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-26647-2019
+
+Foja: 1
+A ade que la sociedad Investpack estaba en pleno conocimiento de lañ
+
+existencia de obligaciones impagas de la sociedad vendedora, las cuales
+
+asumi pagar en la escritura, y que, por lo dem s, se encontraban vencidasó á
+
+a la fecha del acto y contrato, sin que conste que se hubiese efectuado
+
+novaci n alguna ni otorgado nuevos plazos para cumplir con ellas. Adem s,ó á
+
+que en la referida escritura de compraventa, se describen una serie de
+
+embargos y medidas precautorias inscritas respecto de los inmuebles que se
+
+vend an.í
+
+Comenta que don Cristi n Antonio lamo Salman fue socio de laá Á
+
+empresa deudora, y su hermano es actual due o del 100% de las accionesñ
+
+de la sociedad que adquiri los inmuebles. En efecto, mediante escrituraó
+
+p blica de fecha 12 de septiembre de 2017, el Sr. Alamo Salman vendi aú ó
+
+su padre, Fuad Sergio Alamo Alamo, el 50% de los derechos que ten a ení
+
+la sociedad, quedando como nicos socios de la empresa deudora esteú
+
+ltimo y su madre, do a Luz Munira Salman Manzur, sin perjuicio deú ñ
+
+continuar siendo representante de la empresa deudora.
+
+Indica que 5 meses despu s de vender su participaci n social en laé ó
+
+empresa deudora, se otorg la escritura p blica de fecha 9 de febrero deó ú
+
+2018, mediante la cual la sociedad Comercial Alamo y Salman Limitada
+
+vendi , cedi y transfiri a Investpack Spa, los inmuebles cuya revocaci n seó ó ó ó
+
+solicita, compareciendo dicha escritura de compraventa, Cristi n Antonioá
+
+lamo Salman en representaci n de la deudora. Luego, dos meses despu sÁ ó é
+
+de celebrada la compraventa, su hermano, don Sergio Alfredo Alamo
+
+Salman, seg n escritura p blica de fecha 3 de abril de 2018 se transformaú ú
+
+en due o y nico administrador del 100% de las acciones de la sociedadñ ú
+
+adquirente Investpack Spa.
+
+Acorde a lo anterior, a la fecha de la presentaci n de la demanda, laó
+
+empresa deudora ser a de propiedad de los padres del nico due o yí ú ñ
+
+representante de la sociedad que adquiri los dos inmuebles cuya revocaci nó ó
+
+se pide, sin que se haya desembolsado suma alguna por dicha transferencia,
+
+lo que es indicio equ voco del conocimiento del mal estado de los negociosí
+
+de la sociedad adquirente.
+
+Manifiesta que la sociedad Forestal y Papelera Concepci n S.A. fueó
+
+quien solicit la liquidaci n forzosa de empresa demandada y verific susó ó ó
+
+Código: XJLTXGDLPGF
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-26647-2019
+
+Foja: 1
+cr ditos en la liquidaci n, la que fue decretada a petici n de este acreedor.é ó ó
+
+Precisamente, en la escritura de compraventa el comprador asumi laó
+
+obligaci n de pagar, entre otras obligaciones, las deudas que manten a laó í
+
+empresa deudora para con la Forestal y Papelera Concepci n S.A.ó
+
+Agrega que en la causa concursal, la empresa deudora presentó
+
+oposici n, alegando, entre otras cosas, la existencia de novaci n de lasó ó
+
+obligaciones que adeudaba para con la solicitante, Papelera y Forestal
+
+Concepci n S.A, la cual fue desestimada y en virtud de ello, se decret laó ó
+
+liquidaci n forzosa.ó
+
+Una vez declarada la liquidaci n de la empresa deudora yó
+
+demandada en autos, la sociedad Forestal y Papelera Concepci n S.A.,ó
+
+verific en ella sus cr ditos por la suma de $1.379.476.500, los cuales seó é
+
+encuentran reconocidos en dicha causa, pues no fueron objeto de
+
+impugnaciones por ninguno de los legitimados, por lo que una de las deudas
+
+morosas que exist an a la fecha de celebraci n del acto o contrato, fueí ó
+
+plenamente conocida por la compradora, sin que se haya pagado suma
+
+alguna por ella. Asimismo, no existir a antecedente alguno en laí
+
+contabilidad de la empresa deudora, que permita sustentar la veracidad del
+
+pago de la compraventa, en contrario de lo que se afirma en ella, lo que
+
+indiciar a que se trat , simplemente, de una maniobra para sustraer delí ó
+
+patrimonio de la empresa deudora los bienes ya indicados. De esta manera,
+
+todo lo obrado es indicio del conocimiento del mal estado de los negocios
+
+de la empresa deudora por parte de la compradora, pues solo en un estado
+
+de extrema necesidad, una sociedad puede vender un activo de tal valor, sin
+
+que exista un pago en efectivo, o al menos, que se formalice una novaci n yó
+
+se libere a la empresa deudora de las obligaciones que se asumen en la
+
+escritura de compraventa.
+
+Indica que la suma de los valores por los cuales se efectu laó
+
+compraventa de los inmuebles fue por la cantidad de $1.200.000.000, en
+
+circunstancias que el precio comercial de dichos bienes era
+
+desproporcionadamente mayor al valor de venta, esto es la suma de
+
+$2.500.0000.000, seg n acreditar en la oportunidad procesal pertinente,ú á
+
+raz n por la cual se ha producido un perjuicio a la masa de acreedores, enó
+
+tanto no se ha pagado ninguna parte del precio pactado de la compraventa,
+
+Código: XJLTXGDLPGF
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-26647-2019
+
+Foja: 1
+al no existir pruebas o asientos contables que acrediten que el precio de la
+
+compraventa ingres al patrimonio de la empresa deudora, por lo que noó
+
+han podido disponer de ellos los acreedores que forman el concurso.
+
+Tampoco existe constancia del pago efectuado a los acreedores cuyas
+
+obligaciones fueron asumidas, de los cuales sociedad Forestal y Papelera
+
+Concepci n S.A verific cr dito por la suma de $1.379.476.500, el que noó ó é
+
+fue impugnado y se encuentra reconocido en la liquidaci n forzosa.ó
+
+Por ltimo, hace presente que en el evento improbable que se pruebeú
+
+que dicho precio haya sido pagado, en su totalidad o parcialmente, el
+
+perjuicio est configurado por la diferencia de valor entre el precio de laá
+
+compraventa efectivamente pagado, y el valor real del inmueble a la fecha
+
+del acto o contrato, en relaci n a las condiciones y precios que prevalec anó í
+
+en el mercado para operaciones similares a la poca del contrato.é
+
+Por lo anterior, solicita tener por interpuesta demanda en juicio
+
+sumario sobre Acci n Concursal Revocatoria, en contra de Investpack Spa,ó
+
+ya individualizada, en su calidad de compradora, y en contra de la deudora,
+
+Comercial lamo y Salman Limitada, en su calidad de vendedora, y enÁ
+
+definitiva, acogerla y declarar la revocaci n de los actos indicados en eló
+
+libelo pretensor, y consecuencialmente, se ordene la restituci n a la masa deó
+
+los bienes inmuebles que fueron transferidos con ocasi n a ellos, junto conó
+
+disponer la cancelaci n de las inscripciones de dominio y de los embargos yó
+
+medidas precautorias que recaen sobre los inmuebles, restableciendo las
+
+inscripciones anteriores a dichas transferencias, a objeto de proceder a su
+
+realizaci n en la liquidaci n concursal.ó ó
+
+El d a 16 de noviembre de 2020, í se llev a efecto el comparendo deó
+
+estilo, ratificando la actora la demanda deducida, mientras que la demanda
+
+se tuvo por contestada en rebeld a de las sociedades demandadas. Actoí
+
+seguido, se llam a las partes a conciliaci n, la cual no prosper .ó ó ó
+
+A folio 99, se recibi la causa a prueba, rindi ndose la que consta enó é
+
+autos.
+
+A folio 173, se cit a las partes a o r sentencia.ó í
+
+CONSIDERANDO:
+
+Código: XJLTXGDLPGF
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-26647-2019
+
+Foja: 1
+1 ) ° Que, con fecha 21 de agosto de 2019, comparece do a Mar añ í
+
+Loreto Ried Undurraga, abogada, Liquidadora titular, en autos sobre
+
+procedimiento de liquidaci n concursal de la sociedad Comercial lamo yó Á
+
+Salman Limitada, iniciado en causa Rol C-40958-2018 de este tribunal,
+
+quien deduce acci n revocatoria concursal en contra de la sociedadó
+
+Investpack Spa, del giro de su denominaci n, representada legalmente poró
+
+don Sergio Alfredo lamo Salman, administrador de empresas, conÁ
+
+domicilio en Avenida Hernando de Aguirre N 201, piso 14, comuna de°
+
+Providencia, y en contra de la deudora, Comercial lamo y SalmanÁ
+
+Limitada, representada legalmente por don Cristian Antonio lamoÁ
+
+Salman, administrador de empresas, e indistintamente por do a Luz Munirañ
+
+Salman Manzur, empresaria, todos domiciliados en Avenida Kennedy N°
+
+7447, departamento 73, comuna de Las Condes, conforme a los
+
+fundamentos se alados en la expositiva, y solicita en definitiva, se acoja lañ
+
+demanda y se declare la revocaci n de los actos indicados en el libeloó
+
+pretensor, y consecuencialmente, se ordene la restituci n a la masa de losó
+
+bienes inmuebles que fueron transferidos con ocasi n a ellos, junto conó
+
+disponer la cancelaci n de las inscripciones de dominio y de los embargos yó
+
+medidas precautorias que recaen sobre los inmuebles, restableciendo las
+
+inscripciones anteriores a dichas transferencias, a objeto de proceder a su
+
+realizaci n en la liquidaci n concursal;ó ó
+
+2 ) ° Que, pese a encontrarse debidamente emplazadas, ninguna de las
+
+demandadas contest la demanda ni compareci en autos rindiendo pruebaó ó
+
+alguna que ponderar;
+
+3 ) ° Que el art culo 1698 del C digo Civil dispone que incumbeí ó
+
+probar las obligaciones o su extinci n al que alega aqu llas o sta;ó é é
+
+4 ) ° Que, para acreditar sus asertos, la demandante incorpor en autosó
+
+prueba documental, no objetada de contrario, consistente en:
+
+A folio 1. 1) Resoluci n de liquidaci n de fecha 9 de abril de 2019,ó ó
+
+dictada por este tribunal, encausa Rol C-40958-2018; 2) copia de certificado
+
+emitido por la Superintendencia de Insolvencia y Reemprendimiento, con
+
+fecha 14 de mayo de 2019, que indica la calidad de deudora de la
+
+demandada, sociedad Comercial lamo y Salman Limitada, unÁ
+
+Procedimiento Concursal de Liquidaci n Forzosa indicado en el numeraló
+
+Código: XJLTXGDLPGF
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-26647-2019
+
+Foja: 1
+anterior, conforme a resoluci n publicada en el Bolet n Concursal con fechaó í
+
+9 de mayo de 2019.
+
+A folio 117. 3) Copia de escrito de verificaci n de cr dito presentadaó é
+
+por Multiaval SAGR en la causa concursal; 4) Copia de sentencia dictada
+
+en causa RIT O-327-2018 del Juzgado de Letras del Trabajo de San
+
+Miguel, en la cual se declara la existencia de una unidad econ mica entre laó
+
+sociedad Invest Pack Spa y la sociedad Comercial Alamo y Salman Ltda; 5)
+
+copia de escritura p blica de compraventa celebrada entre Comercialú
+
+Alamo y Salman Limitada e Investpack SpA, con fecha 09 de febrero de
+
+2018, ante el Notario P blico de Santiago don Juan Ricardo San Mart nú í
+
+Urrejola, Repertorio 7893-2018; 6) copia de certificado de dominio vigente
+
+y de hipotecas y grav menes de la propiedad ubicada en Huerto N 75, deá °
+
+la comuna de la Pintana; 7) copia de certificado de hipotecas y grav menesá
+
+de la propiedad ubicada en Rosa Ester N 03371, Huerto N 76, de la° °
+
+comuna de la Pintana; 8) copia de escrito de verificaci n de cr ditoó é
+
+presentada por la sociedad Forestal y Papelera Concepci n S.A, en la causaó
+
+concursal; 9) copia de certificados de nacimiento de Cristi n Alamo Salmaná
+
+y Sergio Alamo Salman; 10) copia de sentencia dictada en causa concursal
+
+Rol C-40958-2018 de este tribunal, con fecha 4 de abril de 2019, en virtud
+
+de la cual se rechaza la oposici n formulada por la deudora; 11) copia deó
+
+informes Dicom de Investpack y de la sociedad Comercial Alamo y Salman
+
+Ltda; 12) copia de escritura de modificaci n social de la empresa deudora,ó
+
+Comercial Alamo y Salman Ltda, de fecha 12 de septiembre de 2007, en
+
+virtud de la cual don Cristi n Alamo Salman se retir de dicha sociedad,á ó
+
+vendiendo, cediendo y transfiriendo sus derechos sociales a don Fuad Sergio
+
+Alamo Alamo, quien se incorpor como socio; 13) copia de escritura deó
+
+modificaci n social de la demandada Investpack Spa, de fecha 3 de abril deó
+
+2018, que da cuenta que su representante legal y administrador es don
+
+Sergio Alfredo Alamo Salman;
+
+5 )° Que a folio 117, la demandante solicit audiencia de exhibici nó ó
+
+de documentos, respecto del tercero Multiaval SAGR, la cual se llev aó
+
+efecto con fecha 26 de abril de 2022, exhibi ndose por parte de la requeridaé
+
+los siguientes antecedentes:
+
+Código: XJLTXGDLPGF
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-26647-2019
+
+Foja: 1
+1.- Certificado de fianza y codeuda solidaria emitido por Multiaval
+
+S.A. de garant a rec proca de fecha 04 de agosto de 2015 N 951.í í °
+
+2.- Pagar 258247 de fecha 4 de agosto del 2015 por la suma deé
+
+27.008,1640 UF suscrito por Sociedad Comercial lamo y Salman a laÁ
+
+orden de Banco Security que contiene firmas autorizadas por la Notario
+
+Mar a Ang lica Gal n de la 17 Notar a de Santiago.í é á ° í
+
+3.- Carta de cobro de fecha 26 de julio de 2017, dirigida por Banco
+
+Security a Multiaval S.A. de garant a rec proca cuya referencia dice cobroí í
+
+garant a rec proca N 951, en la que se se ala que la Sociedad Alamo yí í ° ñ
+
+Salman dej de pagar desde la cuota 20 en adelante y por lo tanto Bancoó
+
+Security hac a efectivo el cobro completo del pagar en comento, cuyoí é
+
+capital insoluto era 23.257,03 UF.
+
+4.- Memor ndum aprobaci n pago de cuotas por el que Multiavalá ó
+
+paga la cuota 51 del 25 de noviembre del 2019 junto a correos electr nicosó
+
+que dan cuenta del pago y el cheque por el que Multiaval paga a Banco
+
+Security esta cuota;
+
+6 )° Que, adem s, la demandante rindi prueba testimonial con fechaá ó
+
+26 de abril de 2022, a folio 150, consistente en la declaraci n de los testigosó
+
+Jose Sebastian Jofre Fuentes, Gonzalo Pacheco Achondo, Sergio Andr sé
+
+L pez Herreros, Francisco Larra n Schultz y Elizabeth Jacqueline Sep lvedaó í ú
+
+Ledezma.
+
+El testigo Jose Sebasti n Jofre Fuentesá , declara que a la fecha de la
+
+celebraci n del contrato impugnado, esto es, febrero del a o 2018, laó ñ
+
+sociedad Alamos y Salman se encontraba en estado ruinoso de sus negocios,
+
+lo cual le consta porque a ese entonces adeudaba m s de 700 millones deá
+
+pesos a su representada, Multiaval, quien el 4 de agosto del a o 2015 emitiñ ó
+
+certificado de fianza en favor de la deudora, afianzando las obligaciones de
+
+esta ltima con Banco Security hasta por la suma de 27.000 Unidades deú
+
+Fomento. Agrega que, conforme a ello, Alamo y Salman suscribi pagar aó é
+
+la orden de Banco Security por la suma de 27.000 Unidades de Fomento
+
+pagaderas en 60 cuotas mensuales se aladas en el pagar en cuesti n,ñ é ó
+
+dejando de pagar desde la cuota 21, con fecha de vencimiento el d a 25 deí
+
+mayo de 2017, raz n por la cual el banco acreedor con fecha 26 de julioó
+
+Código: XJLTXGDLPGF
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-26647-2019
+
+Foja: 1
+del a o 2017 remiti carta a Multiaval cobr ndole la suma de 23.257ñ ó á
+
+Unidades de fomento.
+
+Refiere que desde principio de agosto del a o 2017, Multiaval leñ
+
+manifest preocupaci n por esta deuda del cliente Alamo y Salman,ó ó
+
+const ndole que desde esa poca se han realizado numerosas gestiones deá é
+
+cobranza extrajudicial por el cr dito, y luego, comenzar las accionesé
+
+judiciales para obtener el pago de la acreencia, advirtiendo que al momento
+
+de requerir los certificados correspondientes ante el Conservador de Bienes
+
+Ra ces respectivo, los inmuebles hab an sido transferidos a Investpack,í í
+
+sociedad cuyo nico accionista era una persona de apellidos Alamo Salman.ú
+
+Posteriormente, al requerir la copia de la escritura de compraventa asociada
+
+a esa operaci n, constataron que el precio de la misma estar a destinado aló í
+
+pago de las obligaciones de Alamo y Salman para con Banco Security, y a
+
+su vez, afianzadas por Multiaval, siendo el importe de la deuda descrita en
+
+dicha escritura el mismo que ya se encontraba en mora desde el mes de
+
+mayo del a o 2017, siendo tal antecedente una prueba de que la adquirenteñ
+
+y demandada, Investpack, conoc a el mal estado de los negocios de laí
+
+deudora, dado que declar en la escritura conocer y aceptar que parte deló
+
+precio ser a destinado al pago de la obligaci n en mora.í ó
+
+Recalca que el contrato cuya revocaci n se pide en autos, perjudica aó
+
+la masa de acreedores, pues se ha sustra do de la misma bienes ra ces cuyoí í
+
+valor comercial supera los miles de millones de pesos, que habr an sidoí
+
+transferidos a una sociedad de papel , sin movimiento alguno, que result“ ” ó
+
+ser de la misma familia controladora de la empresa deudora, y que, de no
+
+haber mediado tal transferencia, dichos bienes habr an permitido solucionarí
+
+los cr ditos verificados en la causa concursal.é
+
+A continuaci n, el testigo ó Gonzalo Pacheco Achondo, indica ser
+
+Gerente General de Forestal y Papelera Concepci n S.A (en adelante FPC),ó
+
+y declara que fueron contactados por parte de Investpack para comunicar
+
+que se estaban haciendo cargo de los pasivos de la empresa deudora,
+
+ofreciendo una salida a la deuda con su representada, por un monto inferior
+
+al adeudado, montos que fueron originados con anterioridad a la
+
+compraventa de 9 de febrero de 2018, y que finalmente no fueron pagados.
+
+A ade que le consta que Investpack estaba en conocimiento del mal estadoñ
+
+Código: XJLTXGDLPGF
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-26647-2019
+
+Foja: 1
+de los negocios de la deudora, por haberles hecho esta oferta referente a
+
+solucionar los montos adeudados, de los cuales FPC no ha recibido pago
+
+alguno, y que fueron asumidas por la compradora en la escritura de 9 de
+
+febrero de 2018.
+
+Luego, comparece el testigo Sergio Andr s L pez Herrerosé ó , quien
+
+manifiesta que la sociedad Alamo y Salman era cliente de FPC Papeles y
+
+ten a una deuda de aproximadamente 1.300.000 millones de pesos, losí
+
+cuales estaban vencidos, oblig ndoles a solicitar la cobranza judicial, y que,á
+
+producto de ello, los contact Investpack para ofrecer el pago de parteó
+
+importante de la deuda morosa, equivalente a 800 millones
+
+aproximadamente, lo que le consta por haber participado en las reuni nó
+
+celebrada para tal efecto, en enero de 2018. Agrega que Investpack
+
+ten a conocimiento de las deudas vencidas que manten a la empresaí í
+
+deudora a la fecha de celebraci n de la compraventa, pues estaba dispuestaó
+
+a pagar 800 millones de pesos, en lugar del monto efectivamente adeudado,
+
+de los cuales no se realiz ning n pago con posterioridad a la celebraci nó ú ó
+
+de la escritura. Asimismo, se ala que las deudas que se mencionan en elñ
+
+contrato de compraventa, a n siguen impagas por parte de la empresaú
+
+deudora, y que el activo m s grande qued en la sociedad Investpack, porá ó
+
+ende, los acreedores de la deudora no tienen activos de los cuales puedan
+
+hacerse pago.
+
+El cuarto testigo, Francisco Larra n Schultzí , indica que le consta la
+
+celebraci n del contrato, porque en su calidad de abogado particip en lasó ó
+
+negociaciones entre Forestal Concepcion e Investpack, las cuales
+
+comenzaron en enero de 2018, pact ndose un pago por 800 millones deá
+
+pesos para autorizar la enajenaci n de los inmuebles, precio que nunca fueó
+
+pagado por la compradora, por ello la Forestal solicit la liquidaci n forzosaó ó
+
+de la empresa deudora. En lo referente a la compraventa, manifiesta que las
+
+deudas que se mencionan en la misma no fueron novadas, pues se
+
+encuentran vigentes y han sido verificadas en la causa concursal por parte
+
+de dicho acreedor, quien ya hab a iniciado acciones ejecutivas tendientes aí
+
+obtener el pago de la deuda.
+
+A ade que el mal estado de los negocios de Comercial Alamo yñ
+
+Salman era conocido por Investpack, ya que en la reuni n efectu ofertaó ó
+
+Código: XJLTXGDLPGF
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-26647-2019
+
+Foja: 1
+por un monto inferior al total de la deuda, y conociendo la existencia de
+
+embargos sobre los inmuebles que se adquirieron en dicha compraventa,
+
+cuyo precio debi ser superior al valor pactado en el contrato. Comenta queó
+
+ello caus perjuicio a la masa de acreedores porque el precio nunca fueó
+
+pagado y a consecuencia de ello, Forestal es el principal acreedor con un
+
+cr dito que supera los 1.300 millones de pesos, verificado dentro del periodoé
+
+ordinario en la causa concursal.
+
+Finalmente, comparece la testigo Elizabeth Jacqueline Sep lvedaú
+
+Ledezma, quien solo indica tener conocimiento de los cr ditos que seé
+
+encuentran verificados en la causa concursal, siendo el preferente por 1.300
+
+millones y los valistas por 2.100 millones de pesos;
+
+7 )° Que la demandante requiri informe de perito tasador y peritoó
+
+contable, design ndose con fecha 2 de junio de 2022, a do a Orietta Linaá ñ
+
+Rodriguez Ortiz, como tasadora, y don Luis Alejandro N ez Valenzuela,úñ
+
+como contable.
+
+Al efecto, solo se acompa a folio 170, informe pericial de la Sra.ñó
+
+Rodr guez Ortiz, quien concluy , respecto de la tasaci n efectuada a ambosí ó ó
+
+inmuebles, lo siguiente:
+
+1.- Que los precios del contrato de compraventa celebrado el 9 de
+
+febrero de 2018, fueron los siguientes: a) Para el inmueble ubicado en calle
+
+Rosa Ester 3361 (Huerto 75), La Pintana, la suma de $920.000.000,
+
+equivalentes a 34.286,485 UF; b) Para el inmueble de calle Rosa Ester
+
+03371 (Huerto 76), La Pintana, la suma de $280.000.000, equivalentes a
+
+10.435,017 UF; 2.-
+
+2.- Que el precio de venta del primer inmueble (Huerto 75) parece
+
+excesivo, toda vez que, a la fecha de elaboraci n de su informe, conó
+
+similares condiciones de urbanizaci n y servicios, su valor de ventaó
+
+fluctuar a entre los 22.408 UF y las 17.375 UF (usando la variaci n deí ó
+
+18,88% y 7,82% del aval o fiscal del SII).ú
+
+3.- Que el precio de venta del segundo inmueble (Huerto 76) parece
+
+bajo, dado que, con iguales condiciones de urbanizaci n y zonificaci nó ó
+
+comunal, se vender a en un promedio de 3,211 UF/m2 es decir, en 16.055í
+
+UF.
+
+Código: XJLTXGDLPGF
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-26647-2019
+
+Foja: 1
+4.- Que los valores de venta en la compraventa de autos, fueron
+
+establecidos en funci n del aval o fiscal de los predios, duplicando en esteó ú
+
+caso los respectivos aval os fiscales, sin considerar otras variables deú
+
+mercado;
+
+8 ) ° Que la acci n revocatoria concursal ejercida en autos se sustentaó
+
+conforme a lo dispuesto por el art culo 288 de la Ley 20.720, en el marcoí
+
+de la Revocabilidad Subjetiva, norma que establece para su procedencia,
+
+que el acto o contrato ejecutado por la deudora con cualquier persona, se
+
+realice "dentro de los dos a os, inmediatamente anteriores al inicio delñ
+
+procedimiento concursal de Reorganizaci n o de Liquidaci n", debiendoó ó
+
+acreditarse: a) el conocimiento del contratante acerca del mal estado de los
+
+negocios de la empresa deudora; y b) que el acto o contrato celebrado
+
+perjudique a la masa, o altere la posici n de igualdad de los acreedores enó
+
+el respectivo concurso;
+
+9 ) ° Que, conforme a la prueba rendida, y no objetada por la
+
+contraria, es posible tener por establecidos los siguientes hechos:
+
+i.- Que la Sociedad Comercial lamo y Salman Limitada era due aÁ ñ
+
+de del inmueble correspondiente a Huerto N 75 del plano de la agrupaci n° ó
+
+de Huertos Familiares Las Rosas , de la comuna de La Pintana, el cual“ ”
+
+adquiri por escritura p blica 23 de marzo de 2015, cuya inscripci n rolabaó ú ó
+
+a fojas fojas 5.163 vuelta n mero 4.724 del a o 2015 del Registro deú ñ
+
+Propiedad del Conservador de Bienes Ra ces de San Miguel; y del inmuebleí
+
+ubicado en calle Rosa Ester N 03371, que corresponde al Huerto N 76 delº °
+
+plano de la Agrupaci n de Huertos Familiares Fundo Las Rosas , comunaó “ ”
+
+de La Pintana, cuya inscripci n rolaba a fojas 2100 n mero 2005 del a oó ú ñ
+
+2009 del Registro de Propiedad del Conservador de Bienes Ra ces de Saní
+
+Miguel.
+
+ii.- Que por escritura p blica de 9 de febrero de 2018, la Sociedadú
+
+Comercial lamo y Salman Limitada, vendi , cedi y transfiri a InvespackÁ ó ó ó
+
+Spa, los inmuebles singularizados en el numeral precedente, pact ndoseá
+
+como precio la suma nica y total de $1.200.000.000.- por ambasú
+
+propiedades, cantidad que la compradora pagar a a trav s del pago de parteí é
+
+de las deudas que la vendedora manten a con algunos acreedores, hasta laí
+
+concurrencia del precio de venta, entre ellos, Banco Security, Multiaval
+
+Código: XJLTXGDLPGF
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-26647-2019
+
+Foja: 1
+SAGR y Forestal y Papelera Concepci n S.A, seg n se desprende de laó ú
+
+cl usula tercera de dicho instrumento p blico. á ú
+
+iii.- Que las inscripciones de dominio de los inmuebles antes
+
+indicados, figuran actualmente a nombre de Investpack Spa, inscritas a fojas
+
+3743 N 3514 del a o 2018 (Huerto N 75) y a fojas 3744 N 3515 del a oº ñ ° º ñ
+
+2018 (Huerto N 76), respectivamente, ambas del Registro de Propiedad del°
+
+Conservador de Bienes Ra ces de San Miguel.í
+
+iv.- Que, con fecha 18 de diciembre de 2018, la Forestal y Papelera
+
+Concepci n S.A, present demanda de liquidaci n forzosa de empresaó ó ó
+
+deudora, en contra de Comercial lamo y Salman Limitada, en causa RolÁ
+
+C-40958-2018 de este 18 Juzgado Civil de Santiago, dict ndose resoluci n° á ó
+
+de liquidaci n con fecha 9 de abril de 2019;ó
+
+10 ) ° Que de lo expuesto, queda en evidencia que la transferencia de
+
+los inmuebles que son objeto de la acci n revocatoria, fue efectuada poró
+
+escritura p blica de 9 de febrero de 2018, esto es, dentro del periodo de dosú
+
+a os a que se refiere el inciso 1 del art culo 288 de la Ley N 20.720;ñ ° í °
+
+11 ) ° Que unido a lo anterior, de la exposici n de hechos del libelo, yó
+
+particularmente de las probanzas aportadas por la actora, se colige
+
+claramente que la compradora y demandada de autos, Investpack Spa, era
+
+conocedora del mal estado de los negocios de la empresa deudora,
+
+Comercial lamo y Salman Limitada. Á
+
+En efecto, en la escritura p blica de 9 de febrero de 2018, Investpack,ú
+
+en su calidad de compradora, acept pagar parte de las deudas de laó
+
+vendedora, dentro de las cuales se encontraba la solicitante del
+
+procedimiento concursal, Forestal y Papelera Concepci n S.A, junto con eló
+
+Banco Security y Multiaval SAGR, lo cual demuestra el conocimiento del
+
+estado y morosidad de las deudas que manten a Comercial lamo y Salmaní Á
+
+con sus diversos acreedores.
+
+Asimismo, los testigos Joffre Fuentes, Pacheco Achondo, L pezó
+
+Herreros y Larra n Schultz, quienes no fueron objeto de tacha, declaraní
+
+todos contestes sobre el conocimiento que ten a la empresa adquirente deí
+
+los inmueble, Investpack, del mal estado de los negocios de la deudora
+
+demandada, principalmente, en raz n de realizar una oferta de pago a suó
+
+mayor acreedora, la Forestal y Papelera Concepci n S.A, por lo cual, enó
+
+Código: XJLTXGDLPGF
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-26647-2019
+
+Foja: 1
+raz n de ello, es posible tener por acreditado el cumplimiento de taló
+
+requisito de procedencia de la acci n revocatoria incoada;ó
+
+12 )° Que, por lo dem s, del informe pericial incorporado a folio 170,á
+
+realizado por la tasadora Orietta Rodriguez Ortiz, se desprende que, el
+
+valor de los inmuebles adquiridos por escritura p blica de 9 de febrero deú
+
+2018, supera los $1.300.000.000.- y que el segundo inmueble ubicado en
+
+Huerta N 76, comuna de la Pintana, fue pactado a un precio bastante°
+
+inferior a su valor comercial. Con todo, el precio total de venta indicado en
+
+la escritura no fue pagado en los t rminos pactados, esto es, mediante elé
+
+pago a los acreedores de la vendedora, lo que permite a esta magistratura
+
+concluir que el excluir tales bienes del patrimonio de la deudora, sin duda
+
+que ha perjudicado a sus acreedores, en especial, si no recibi dinero algunoó
+
+para cubrir parte de las deudas de la sociedad demandada;
+
+13 )° Que, en consecuencia, encontr ndose acreditado el cumplimientoá
+
+de los requisitos establecidos para la procedencia de la acci n revocatoriaó
+
+concursal incoada en autos, necesariamente habr de acogerse la demanda,á
+
+a fin de que los bienes indicados en el libelo sean restituidos a la masa,
+
+como se dir en lo resolutivo del fallo; á
+
+14 )° Que, los dem s antecedentes allegados y no pormenorizados, ená
+
+nada alteran lo antes concluido por esta sentenciadora.
+
+Por estas consideraciones y teniendo presente adem s lo dispuesto ená
+
+los art culo 1698, 1700 y 2468 de C digo Civil, art culos 144, 170, 254,í ó í
+
+341, 426 y 680 de C digo de Procedimiento Civil, y art culo 288 y dem só í á
+
+pertinentes de la Ley N 20.720, se declara:°
+
+I.- Que se acoge la demanda deducida por la Liquidadora
+
+Concursal Definitiva de los autos Rol C-40958-2018 de este Tribunal, do añ
+
+Mar a Loreto Ried Undurraga, y en consecuencia, se revoca la escritura deí
+
+fecha 9 de febrero de 2018 otorgada en la Notar a de Santiago de don Juaní
+
+Ricardo San Mart n Urrejola, Repertorio N mero 7893-2018, mediante laí ú
+
+cual la Sociedad Comercial lamo y Salman Limitada, vendi , cedi yÁ ó ó
+
+transfiri a Invespack Spa, el inmueble ubicado en Huerto N 75 del planoó °
+
+de la agrupaci n de Huertos Familiares Las Rosas , de la comuna de Laó “ ”
+
+Pintana, inscrito a fojas 3743 N 3514 del Registro de Propiedad delº
+
+Conservador de Bienes Ra ces de San Miguel del a o 2018; y la propiedadí ñ
+
+Código: XJLTXGDLPGF
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-26647-2019
+
+Foja: 1
+ubicada en calle Rosa Ester N 03371, Huerto N 76 del plano de laº °
+
+Agrupaci n de Huertos Familiares Fundo Las Rosas, comuna de Laó
+
+Pintana, inscrita a fojas 3744 N 3515 del Registro de Propiedad del°
+
+Conservador de Bienes Ra ces de San Miguel del a o 2018.í ñ
+
+II.- Que para los efectos de restituir los inmuebles ya singularizados al
+
+patrimonio de la empresa deudora, se ordena la cancelaci n de lasó
+
+inscripciones de fojas 3743 N 3514 del a o 2018 y 3744 N 3515, ambasº ñ °
+
+del Registro de Propiedad del Conservador de Bienes Ra ces de San Miguelí
+
+del a o 2018, a nombre de Investpack Spa, como tambi n, de todo registroñ é
+
+de inscripciones de grav menes posteriores sobre los inmuebles,á
+
+retrotray ndose las cosas al estado de la inscripci n de dominio anterior, aé ó
+
+nombre de la deudora Comercial lamo y Salman Limitada, debiendoÁ
+
+practicarse las subinscripciones y anotaciones que correspondan al margen
+
+de la referida inscripci n de dominio.ó
+
+III.- Que se condena en costas a la parte demandada, por haber
+
+resultado totalmente vencida.
+
+Notif quese, reg strese y en su oportunidad arch vense.í í í
+
+Pronunciada por do a Claudia Donoso Niemeyer, Juez Titular;ñ
+
+Autorizada por don Erwin C rdenas Jofr , Secretario Subrogante.á é
+
+Se deja constancia que se dio cumplimiento a lo dispuesto en el inciso final del art. 162
+del C.P.C. en Santiago, cuatro de Julio de dos mil veintitr sé
+
+Código: XJLTXGDLPGF
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-26647-2019
+
+Foja: 1
+
+Código: XJLTXGDLPGF
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2023-07-04T13:28:04-0400

@@ -1,0 +1,114 @@
+METADATA
+
+case_id: 843b5cdc3bd46ac5f1e8d87192d48954956d49e6
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8053176
+
+rol: 6253-2026
+
+fecha_sentencia: 2026-03-06
+
+caratulado: / SOCIEDAD COMERCIAL ALAMO Y SALMAN LIMITADA - (CASACIÓN Y APELACIÓN) - ACUMULADA I.C A-2570-24, A-11003-2024 Y A-7408-2025 - VUELVE A TABLA
+
+sala: PRIMERA, CIVIL
+
+materias: ▪ Admisibilidad del recurso de casación en el fondo
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: INADMISIBLES RECURSOS DE CASACIÓN FORMA Y FONDO
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, seis de marzo de dos mil veintiséis.
+
+VISTOS Y TENIENDO PRESENTE:
+Primero: Que en este procedimiento ejecutivo de cobro de facturas, seguido ante el Segundo Juzgado de Letras de Quilpué, bajo el Rol C-2477-2020, caratulado “Transportes Golden S.A. con Textiles Zahr S.A.”, se ha ordenado dar cuenta de la admisibilidad de los recursos de casación en la forma y en el fondo, deducidos por la parte ejecutada, contra la sentencia de la Corte de Apelaciones de Valparaíso, de doce de diciembre de dos mil veinticinco, que rechazó el recurso de casación en la forma, y confirmó el fallo de primer grado, de veintinueve de enero de dos mil veinticuatro, que desestimó la excepción del numeral 7° del artículo 464 del Código de Procedimiento Civil y, en consecuencia, ordenó seguir adelante con la ejecución hasta el entero y cumplido pago de lo adeudado, más intereses y reajustes, con costas.
+
+EN CUANTO AL RECURSO DE CASACIÓN EN LA FORMA:
+Segundo: Que la recurrente de nulidad formal funda su arbitrio en las causales de invalidación previstas en los numerales 4° y 5° del artículo 768 del Código de Enjuiciamiento Civil, en relación con el numeral 4° del artículo 170 del mismo cuerpo legal.
+
+Solicita se invalide el fallo recurrido y se dicte sentencia de reemplazo que revoque la de primer grado y se acoja la oposición deducida por su parte a la ejecución, con costas.
+Tercero: Que, al analizar el libelo de casación formal, aparece que la recurrente impugna más bien el pronunciamiento que desestimó el recurso de casación en la forma deducido en su oportunidad en contra de la sentencia de primer grado, y por las mismas causales que ahora invoca.
+
+Cuarto: Que, sobre el particular, cabe tener presente que el artículo 63 N° 1 letra a) del Código Orgánico de Tribunales, dispone que las Cortes de Apelaciones conocerán en única instancia de los recursos de casación en la forma que se deduzcan en contra de las sentencias dictadas por los jueces de letras de su territorio jurisdiccional; y, en dicho orden, la palabra “instancia” está tomada en el sentido que el fallo que resuelve el correspondiente recurso de casación en la forma, no es susceptible de ningún otro recurso ni puede ser revisado, de consiguiente, por ningún tribunal superior (Mario Casarino Viterbo, Manual de Derecho Procesal Orgánico, Quinta Edición Actualizada, Tomo I, página 161).
+
+Quinto: Que, así las cosas, el recurso de nulidad formal no puede prosperar en ninguno de sus extremos.
+
+EN CUANTO AL RECURSO DE CASACIÓN EN EL FONDO:
+Sexto: Que la recurrente de casación sustantiva funda su arbitrio, en primer término, en la infracción de los artículos 160, 437 y 464 N° 6 y 7 del Código de Procedimiento Civil, en relación con el artículo 1552 del Código Civil, artículo 5 letra b) de la Ley N° 19.983, artículo 10 del Código Orgánico de Tribunales, y artículo 76 de la Constitución Política de la República.
+
+En síntesis, explica que la infracción normativa se produce porque el fallo recurrido confirmó la decisión de primer grado que desestimó la excepción de falta de requisitos o condiciones para que el título tenga fuerza ejecutiva, fundado en que las facturas dan cuenta de obligaciones actualmente exigibles respecto de su parte, atendida la prestación efectiva de los servicios consignados en ésta; en circunstancias que la oposición de la ejecutada no se basó en la existencia o inexistencia de la prestación de tales servicios, sino en la inexigibilidad actual de pago de las citadas facturas por la concurrencia de la excepción de contrato no cumplido, tras haberse infringido previamente por la ejecutante el contrato bilateral que subyace a las facturas objeto de cobro.
+
+Acto seguido, acusa la vulneración de los artículos 1552, 1545, 1546, 1547 y 1558 del Código Civil, en relación con el artículo 464 N° 7 del Código de Procedimiento Civil, artículo 10 del Código Orgánico de Tribunales, y artículos 19 N° 3 y 76 de la Constitución Política de la República, por cuanto los jueces del fondo para desestimar la oposición a la ejecución, confundieron la excepción de contrato no cumplido –cuyo efecto propio es suspender la exigibilidad del pago de la obligación– con la responsabilidad contractual de la actora, declarando incorrectamente que el Tribunal carecía de competencia para pronunciarse sobre dicha alegación.
+
+Finalmente, invoca la infracción de los artículos 1698, 1700, 1702 y 1713 del Código Civil, en relación con los artículos 341, 346 y 399 del Código de Procedimiento Civil, dado que los jueces del grado no otorgaron valor probatorio a la documental y confesional aportada por su parte, en que consta la falta de exigibilidad de pago de las facturas objeto de ejecución, por haberse acreditado que éstas tienen su origen en un contrato bilateral de transporte y logística que la ejecutada incumplió gravemente al causar la destrucción de las mercaderías que indica, al no contar las bodegas de almacenamiento con las medidas de seguridad y protección mínimas contra incendios; lo que impide a la ejecutada constituirse en mora respecto de la ejecutante.
+
+Solicita se anule el fallo recurrido y se dicte sentencia de reemplazo que revoque la de primer grado y se acoja la oposición deducida por su parte a la ejecución, con costas.
+Séptimo: Que, en primer término, no puede pasar inadvertido que las alegaciones esgrimidas por la parte recurrente en torno a que los jueces del fondo resolvieron la excepción examinada sobre la base de un fundamento distinto al alegado por su parte al oponerla, importa más bien un reproche de tipo formal que no se aviene con la naturaleza del presente recurso de nulidad sustantiva; de tal suerte que la argumentación desarrollada por la recurrente en dicha parte, tampoco permite configurar un error sustantivo en lo decisorio del fallo impugnado, y que sea susceptible de ser revisado a través de esta vía, tal como se ha pretendido erróneamente en el caso sub-judice.
+Octavo: Que, por otra parte, del examen del arbitrio de nulidad de fondo, fluye que las infracciones que denuncia la recurrente se encuentran construidas sobre la base de una propuesta fáctica diversa a aquélla asentada por los jueces del grado.
+En efecto, los sentenciadores del fondo para desestimar la excepción en estudio, dejaron asentado que la obligación consignada en cada una de las facturas objeto de ejecución es actualmente exigible respecto de la ejecutada; a diferencia de la recurrente quien postula a través de su arbitrio que dicha obligación le es inexigible atendida la grave infracción contractual en que incurrió la ejecutante respecto del contrato bilateral que le vinculaba.
+
+Sin embargo, debe tenerse presente que sólo los jueces del fondo se encuentran facultados para fijar los hechos y, efectuada dicha labor en mérito de las probanzas aportadas, resultan ser éstos inamovibles conforme el artículo 785 del Código de Procedimiento Civil; a menos de denunciarse eficazmente la contravención de alguna norma reguladora de la prueba; cuestión que, en este caso, no ha ocurrido de forma satisfactoria.
+
+Noveno: Que, sobre el particular, la recurrente se ha limitado a invocar la infracción de los artículos 1698, 1700, 1702 y 1713 del Código Civil, y de los artículos 341, 346 y 399 del Código de Procedimiento Civil, a propósito de la carga de la prueba, y la valoración de la documental y confesional rendida; sin embargo, no es posible avizorar la forma en que los jueces del grado hayan conculcado dichas reglas.
+
+En efecto, tal como ha tenido oportunidad de indicar esta Corte, la primera de dichas disposiciones sólo se infringe cuando la sentencia obliga a una de las partes a probar un hecho que corresponde acreditar a su contraparte, esto es, si se altera el “onus probandi”; situación que, en la especie, no ha tenido lugar desde que correspondiendo a la ejecutada probar la falta de fuerza ejecutiva de las facturas objeto de ejecución, con motivo de la inexigibilidad que alega por el incumplimiento contractual que acusa de la parte ejecutante, aquélla no cumplió con dicha carga al tenor de la prueba rendida.
+
+Por otra parte, de la sola lectura del fallo impugnado puede constatarse que los sentenciadores del fondo tampoco han negado el carácter público o privado de los documentos acompañados al proceso, o asignado a éstos un valor distinto del previsto por la ley; sino que han ponderado la instrumental allegada, pero efectuando de ésta un análisis que no derivó en el establecimiento de los hechos y circunstancias pretendidos por la recurrente, especialmente en torno a la falta de exigibilidad de la obligación objeto de cobro; quedando así en evidencia que sus alegaciones se orientan más bien a promover que esta Corte realice una nueva valoración de dichas probanzas, lo que constituye una actividad ajena al recurso de casación en estudio.
+
+Asimismo, a partir de la confesional cuya ponderación se cuestiona, tampoco es posible establecer –como lo reclama la parte recurrente– hechos que permitan configurar la falta de exigibilidad de la obligación, de tal suerte que dicha probanza tampoco resulta idónea como prueba de tal circunstancia.
+
+Décimo: Que, por consiguiente, siendo necesario para el éxito de la pretensión de la recurrente, modificar los hechos fijados por los jueces de la instancia; y no pudiendo aquello verificarse en esta sede de casación por lo señalado en los motivos precedentes, el arbitrio de nulidad sustantiva debe ser desestimado por adolecer de manifiesta falta de fundamento.
+
+Por estas consideraciones y de conformidad, además, con lo dispuesto en los artículos 764, 765, 766, 767, 768, 772, 781 y 782 del Código de Procedimiento Civil, se declara inadmisible el recurso de casación en la forma, y se rechaza el recurso de casación en el fondo, interpuestos por el abogado Edgardo Campusano Ramos, en representación de la parte ejecutada, contra la sentencia de doce de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Valparaíso.
+Regístrese, notifíquese, comuníquese y devuélvase, vía interconexión.
+
+Rol N° 210-2026
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Valparaíso
+Valparaíso, doce de diciembre de dos mil veinticinco.
+
+VISTO:
+
+I.
+En cuanto al recurso de casación en la forma:
+
+1° Que se ha interpuesto recurso de casación en la forma por la parte ejecutada en contra de la sentencia de 29 de enero de 2024, por las causales señaladas en los numerales 4° y 5° del artículo 768 del Código de Procedimiento Civil.
+
+La primera de ellas, la ultra petita, se ha fundamentado en que el sustrato de la excepción opuesta por su parte, del artículo 464 N° 7 del Código de Procedimiento Civil, esto es, la falta de fuerza ejecutiva de las facturas presentadas a cobro, es la existencia de una excepción de contrato no cumplido, que es lo que debió resolver el Tribunal; sin embargo, éste funda la decisión de rechazo de su oposición en la existencia de una efectiva prestación de servicios, cuestión que no fue discutida en autos.
+
+En cuanto a la segunda causal de casación invocada la del artículo 768 N° 5, en relación con el artículo 170 N° 4, ambos del Código de Procedimiento Civil, consistente en la falta de consideraciones de hecho y de derecho que sirven de fundamento a la decisión, la recurrente la ha hecho descansar en que el Tribunal, en primer lugar, discurre en su razonamiento únicamente respecto de la falta de prestación de servicios, que no fue lo controvertido en autos, siendo que debió referirse, en su razonamiento, a la excepción de contrato no cumplido opuesta; y en segundo lugar, en la falta de ponderación de prueba relevante, y especialmente los informes y denuncias que dan cuenta del incendio en que se habría perdido la mercadería objeto del contrato.
+
+2° Que, en relación con la primera causal invocada, debe señalarse que, sin perjuicio que la excepción opuesta por la ejecutada se funde en una presunta excepción de contrato no cumplido, lo cierto es que, junto con ella, se controvirtió en la causa la prestación de los servicios y se recibió a prueba, habiéndose también fundado la alegada falta de fuerza ejecutiva en dicha circunstancia.
+
+De esta manera, tratándose dicha prestación de servicios de un hecho en controversia, el vicio invocado no existe, puesto que el Tribunal debía pronunciarse sobre ello.
+
+3° Que, en relación a la segunda excepción invocada, esto es, la falta de ponderación de prueba por parte del Tribunal, lo cierto es que, de la lectura del considerando duodécimo del fallo, se advierten los hechos que se encuentran probados en la causa y la forma en que la sentenciadora ha tenido cada uno de ellos por acreditados, de modo tal que no se advierte el vicio invocado.
+
+A este respecto, el hecho de que la prueba cuya ponderación el recurrente echa en falta no haya sido citada para fundar alguno de los hechos acreditados no significa, en caso alguno, que ella no haya sido valorada, sino únicamente que la misma no resultó relevante para el establecimiento de los hechos; en este sentido, lo que subyace a la alegación de la ejecutada a este respecto, es más bien un desacuerdo en la manera en que el Tribunal forma su convicción, y no a una falta de valoración probatoria; en suma, la ejecutada discrepa de la forma en que ha sido valorada la prueba y por ende, de la decisión a la que el Tribunal ha arribado, cuestión que escapa al objeto del arbitrio formal deducido.
+
+II.
+En cuanto al recurso de apelación:
+
+4° Que, conjuntamente, se ha interpuesto recurso de apelación en contra de la sentencia de autos, solicitándose la revocación de la misma, y en consecuencia, que se acoja la oposición de la ejecutada en base al artículo 464 N°7 del Código de Procedimiento Civil, y en consecuencia, se ponga fin a la ejecución.
+
+5° Que los argumentos vertidos por el apelante y los documentos acompañados en esta instancia no obran el efecto de hacer variar lo que viene decidido en la instancia.
+
+Por estas consideraciones y conforme con lo prescrito en los artículos 186 y siguientes y 764 y siguientes del Código de Procedimiento Civil, se resuelve:
+
+I.
+Que se rechaza el recurso de casación en la forma deducido por la parte demandada en contra de la sentencia de fecha de veintinueve de enero de dos mil veinticuatro, dictada por el Segundo Juzgado de Letras de Quilpué.
+
+II.
+Que se confirma la sentencia apelada de veintinueve de enero de dos mil veinticuatro, dictada por el Segundo Juzgado de Letras de Quilpué.
+
+Regístrese, notifíquese y devuélvase en su oportunidad.
+
+N°Civil-953-2024.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de ValparaísoValparaíso, doce  de diciembre de dos mil veinticinco.VISTO:I.En cuanto al recurso de casación en la forma:1° Que se ha interpuesto recurso de casación en la forma por la parte ejecutada en contra de la sentencia de 29 de enero de 2024, por las causales señaladas en los numerales 4° y 5° del artículo 768 del Código de Procedimiento Civil. La primera de ellas, la ultra petita, se ha fundamentado en que el sustrato de la excepción opuesta por su parte, del artículo 464 N° 7 del Código de Procedimiento Civil, esto es, la falta de fuerza ejecutiva de las facturas presentadas a cobro, es la existencia de una excepción de contrato no cumplido, que es lo que debió resolver el Tribunal; sin embargo, éste funda la decisión de rechazo de su oposición en la existencia de una efectiva prestación de servicios, cuestión que no fue discutida en autos. En cuanto a la segunda causal de casación invocada la del artículo 768 N° 5, en relación con el artículo 170 N° 4, ambos del Código de Procedimiento Civil, consistente en la falta de consideraciones de hecho y de derecho que sirven de fundamento a la decisión, la recurrente la ha hecho descansar en que el Tribunal, en primer lugar, discurre en su razonamiento únicamente respecto de la falta de prestación de servicios, que no fue lo controvertido en autos, siendo que debió referirse, en su razonamiento, a la excepción de contrato no cumplido opuesta; y en segundo lugar, en la falta de ponderación de prueba relevante, y especialmente los informes y denuncias que dan cuenta del incendio en que se habría perdido la mercadería objeto del contrato. 2° Que, en relación con la primera causal invocada, debe señalarse que, sin perjuicio que la excepción opuesta por la ejecutada se funde en una presunta excepción de contrato no cumplido, lo cierto es que, junto con ella, se controvirtió en la causa la prestación de los servicios y se recibió a prueba, habiéndose también fundado la alegada falta de fuerza ejecutiva en dicha circunstancia.De esta manera, tratándose dicha prestación de servicios de un hecho en controversia, el vicio invocado no existe, puesto que el Tribunal debía pronunciarse sobre ello. 3° Que, en relación a la segunda excepción invocada, esto es, la falta de ponderación de prueba por parte del Tribunal, lo cierto es que, de la lectura del considerando duodécimo del fallo, se advierten los hechos que se encuentran probados en la causa y la forma en que la sentenciadora ha tenido cada uno de ellos por acreditados, de modo tal que no se advierte el vicio invocado.A este respecto, el hecho de que la prueba cuya ponderación el recurrente echa en falta no haya sido citada para fundar alguno de los hechos acreditados no significa, en caso alguno, que ella no haya sido valorada, sino únicamente que la misma no resultó relevante para el establecimiento de los hechos; en este sentido, lo que subyace a la alegación de la ejecutada a este respecto, es más bien un desacuerdo en la manera en que el Tribunal forma su convicción, y no a una falta de valoración probatoria; en suma, la ejecutada discrepa de la forma en que ha sido valorada la prueba y por ende, de la decisión a la que el Tribunal ha arribado, cuestión que escapa al objeto del arbitrio formal deducido. II.En cuanto al recurso de apelación:4° Que, conjuntamente, se ha interpuesto recurso de apelación en contra de la sentencia de autos, solicitándose la revocación de la misma, y en consecuencia, que se acoja la oposición de la ejecutada en base al artículo 464 N°7 del Código de Procedimiento Civil, y en consecuencia, se ponga fin a la ejecución.5° Que los argumentos vertidos por el apelante y los documentos acompañados en esta instancia no obran el efecto de hacer variar lo que viene decidido en la instancia. Por estas consideraciones y conforme con lo prescrito en los artículos 186 y siguientes y 764 y siguientes del Código de Procedimiento Civil, se resuelve:I.Que se rechaza el recurso de casación en la forma deducido por la parte demandada en contra de la sentencia de fecha de veintinueve de enero de dos mil veinticuatro, dictada por el Segundo Juzgado de Letras de Quilpué.II.Que se confirma la sentencia apelada de veintinueve de enero de dos mil veinticuatro, dictada por el Segundo Juzgado de Letras de Quilpué.Regístrese, notifíquese y devuélvase en su oportunidad.N°Civil-953-2024.                        ⚠                      Sin documento en esta instancia - pdf
