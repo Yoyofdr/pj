@@ -6,15 +6,15 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7977754
 
 rol: 41040-2025
 
-fecha_sentencia: 2025-12-29
+fecha_sentencia: 2025-12-30
 
 caratulado: HURTADO/SERVICIO NACIONAL DE MIGRACIONES DE DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: (CIVIL) APELACIÓN RECLAMACIÓN
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
