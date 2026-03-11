@@ -1,0 +1,127 @@
+METADATA
+
+case_id: d59075864568286a3d98e0d4d1f172e246f2525c
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8048424
+
+rol: 5544-2026
+
+fecha_sentencia: 2026-03-04
+
+caratulado: NAVARRETE DÍAZ MANUEL/SUPERINTENDENCIA DE SEGURIDAD SOCIAL
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (CIVIL) APELACIÓN PROTECCIÓN
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Corte Apelaciones ▼
+Santiago, cuatro de marzo de dos mil veintiséis.
+
+Vistos y teniendo presente:
+Primero: Que de conformidad con lo dispuesto en el inciso séptimo del artículo 483-A del Código del Trabajo, se ordenó dar cuenta de la admisibilidad del recurso de unificación de jurisprudencia deducido por la parte demandada contra la sentencia dictada por la Corte de Apelaciones de Santiago, que acogió el de nulidad intentado por la demandante y, en sentencia de reemplazo, acogió la demanda de despido injustificado.
+
+Segundo: Que el recurso de unificación de jurisprudencia es susceptible de ser deducido contra la resolución que falle el de nulidad, estableciéndose su procedencia para el caso en que “respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de tribunales superiores de justicia”, conforme lo explicita el artículo 483 del Código del Trabajo.
+
+Asimismo, de su artículo 483-A, se desprende que esta Corte debe controlar en la admisibilidad, su oportunidad, la existencia de fundamento, además de una relación precisa y circunstanciada de las distintas interpretaciones respecto de las materias de derecho objeto de la sentencia, sostenidas en diversos fallos emanados de las Cortes de Apelaciones o de la Corte Suprema, y finalmente, debe acompañarse copia del o los fallos que se invocan como fundamento del arbitrio en referencia.
+
+Tercero: Que, conforme se indica en el recurso, la materia de derecho que se propone uniformar consiste en “determinar si la falta de asignación de funciones específicas de aula a una educadora de párvulos por un periodo acotado (uno a dos meses), constituye un incumplimiento de carácter "grave" de las obligaciones que impone el contrato en los términos de los artículos 160 N°7 y 171 del Código del Trabajo, o si dicha conducta se encuentra justificada por las facultades organizativas del empleador y la razonabilidad exigida en la gestión de servicios públicos.”
+Cuarto: Que, de la sola lectura del libelo entablado, se desprende que el pretendido tema de derecho, cuya línea jurisprudencial se procura unificar, tal como ha sido planteado y propuesto, no es factible de contrastarse con otros dictámenes, dado que dice relación con los presupuestos fácticos a que refiere, lo que implica colocarla cuestión en el terreno de lo concreto, exigiendo a esta Corte situarse en el ámbito de los elementos y circunstancias del caso específico. Se trata, pues, de un asunto de eminente carácter casuístico y particular que no puede constituir un asunto jurídico habilitante de este arbitrio, puesto que imposibilita su comparación en lo estrictamente jurídico con otras sentencias, dado que su resolución depende de cada contexto situacional en particular.
+
+Por estas consideraciones y normas citadas, se declara inadmisible el recurso de unificación de jurisprudencia interpuesto contra la sentencia de quince de enero de dos mil veintiséis.
+Regístrese y devuélvase.
+
+Nº5.236-2026
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Corte Apelaciones ▼
+Santiago, quince de enero de dos mil veintiséis.
+
+En cumplimiento de lo dispuesto en el artículo 478 del Código del Trabajo, se pronuncia a continuación la siguiente sentencia de reemplazo:
+
+VISTOS:
+
+Se reproduce la sentencia invalidada en todas sus partes, con excepción del motivo octavo que se elimina.
+
+Y se tiene en su lugar y, además, presente:
+
+1º Que, con el objeto de evitar repeticiones innecesarias, se reproducen íntegramente los fundamentos contenidos en la sentencia de nulidad que antecede, los que forman parte integrante de esta decisión.
+
+2º Que, conforme al razonamiento desarrollado por esta Corte en el fallo de nulidad y conforme a los hechos fijados en la sentencia de base, se encuentra acreditado que, tras su reincorporación en marzo de 2023, la demandante no pudo ejercer las funciones propias del cargo para el cual fue contratada, permaneciendo durante un período relevante sin asignación de nivel ni funciones pedagógicas concretas, para luego desempeñar labores de carácter accesorio y discontinuo, sin que conste la adopción de una solución definitiva por parte del empleador, circunstancias que configuran un incumplimiento de la obligación esencial del empleador de proporcionar el trabajo convenido, conforme a lo dispuesto en los artículos 7 y 10 N°3 del Código del Trabajo.
+
+3º Que, considerando que el empleador incumplió una obligación esencial del contrato, cual es permitir a la trabajadora ejercer efectivamente la función principal para la cual fue contratada, y atendida la extensión temporal de dicho incumplimiento y la afectación que generó en su situación laboral, este alcanza la gravedad exigida por el artículo 160 N°7 del Código del Trabajo. Asimismo, la decisión de la trabajadora de poner término al contrato no aparece como intempestiva ni desproporcionada, por cuanto fue adoptada luego de un período relevante sin ejercicio efectivo de sus funciones, habiendo incluso solicitado su traslado a otro establecimiento sin obtener respuesta del empleador, lo que permite concluir que el despido indirecto fue ejercido en forma razonable y proporcional, conforme a lo dispuesto en el artículo 171 del mismo cuerpo legal.
+
+4º Que, en consecuencia, concurren en la especie los presupuestos legales que habilitan a la trabajadora para poner término al contrato por incumplimiento grave del empleador, razón por la cual corresponde acoger la demanda subsidiaria de despido indirecto, con las consecuencias indemnizatorias que establece la ley, manteniéndose lo resuelto en la sentencia de base en todo aquello que no ha sido objeto de invalidación.
+
+Y visto, además, lo dispuesto en los artículos 7, 10, 160 N°7, 162, 163, 171, 477, 478 letra c), 479, 481 y 482 del Código del Trabajo, se resuelve:
+
+I. Se acoge la demanda subsidiaria por despido indirecto interpuesto por doña Romina Gaete Correa en contra de la Ilustre Municipalidad De Independencia, declarándose justificado el término del contrato de trabajo efectuado por la trabajadora conforme al artículo 171 del Código del Trabajo, por incumplimiento grave del empleador de las obligaciones que impone el contrato.
+
+II. En consecuencia, se condena a la demandada al pago de:
+
+a. Indemnización sustitutiva del aviso previo por $1.195.406.-
+
+b. Indemnización por años de servicio (11 años) por $13.149.466.-
+
+c. Recargo legal del 50% establecido en el artículo 171 del Código del Trabajo equivalente a $6.574.733.-
+
+d. Feriado proporcional correspondiente a 1,5 días por la suma de $59.769.-
+
+III. Que las sumas ordenadas pagar lo serán con los reajustes e intereses que disponen los artículos 63 y 173 del Código del Trabajo.
+
+IV. No habiendo sido totalmente vencida la demandada, cada parte pagará sus costas.
+Regístrese y comuníquese.
+
+Redactó la abogada integrante Magaly Correa Farías.
+
+Rol Laboral-Cobranza 2833-2024.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Corte Apelaciones ▼
+Santiago, quince de enero de dos mil veintiséis.
+
+En cumplimiento de lo dispuesto en el artículo 478 del Código del Trabajo, se pronuncia a continuación la siguiente sentencia de reemplazo:
+
+VISTOS:
+
+Se reproduce la sentencia invalidada en todas sus partes, con excepción del motivo octavo que se elimina.
+
+Y se tiene en su lugar y, además, presente:
+
+1º Que, con el objeto de evitar repeticiones innecesarias, se reproducen íntegramente los fundamentos contenidos en la sentencia de nulidad que antecede, los que forman parte integrante de esta decisión.
+
+2º Que, conforme al razonamiento desarrollado por esta Corte en el fallo de nulidad y conforme a los hechos fijados en la sentencia de base, se encuentra acreditado que, tras su reincorporación en marzo de 2023, la demandante no pudo ejercer las funciones propias del cargo para el cual fue contratada, permaneciendo durante un período relevante sin asignación de nivel ni funciones pedagógicas concretas, para luego desempeñar labores de carácter accesorio y discontinuo, sin que conste la adopción de una solución definitiva por parte del empleador, circunstancias que configuran un incumplimiento de la obligación esencial del empleador de proporcionar el trabajo convenido, conforme a lo dispuesto en los artículos 7 y 10 N°3 del Código del Trabajo.
+
+3º Que, considerando que el empleador incumplió una obligación esencial del contrato, cual es permitir a la trabajadora ejercer efectivamente la función principal para la cual fue contratada, y atendida la extensión temporal de dicho incumplimiento y la afectación que generó en su situación laboral, este alcanza la gravedad exigida por el artículo 160 N°7 del Código del Trabajo. Asimismo, la decisión de la trabajadora de poner término al contrato no aparece como intempestiva ni desproporcionada, por cuanto fue adoptada luego de un período relevante sin ejercicio efectivo de sus funciones, habiendo incluso solicitado su traslado a otro establecimiento sin obtener respuesta del empleador, lo que permite concluir que el despido indirecto fue ejercido en forma razonable y proporcional, conforme a lo dispuesto en el artículo 171 del mismo cuerpo legal.
+
+4º Que, en consecuencia, concurren en la especie los presupuestos legales que habilitan a la trabajadora para poner término al contrato por incumplimiento grave del empleador, razón por la cual corresponde acoger la demanda subsidiaria de despido indirecto, con las consecuencias indemnizatorias que establece la ley, manteniéndose lo resuelto en la sentencia de base en todo aquello que no ha sido objeto de invalidación.
+
+Y visto, además, lo dispuesto en los artículos 7, 10, 160 N°7, 162, 163, 171, 477, 478 letra c), 479, 481 y 482 del Código del Trabajo, se resuelve:
+
+I. Se acoge la demanda subsidiaria por despido indirecto interpuesto por doña Romina Gaete Correa en contra de la Ilustre Municipalidad De Independencia, declarándose justificado el término del contrato de trabajo efectuado por la trabajadora conforme al artículo 171 del Código del Trabajo, por incumplimiento grave del empleador de las obligaciones que impone el contrato.
+
+II. En consecuencia, se condena a la demandada al pago de:
+
+a. Indemnización sustitutiva del aviso previo por $1.195.406.-
+
+b. Indemnización por años de servicio (11 años) por $13.149.466.-
+
+c. Recargo legal del 50% establecido en el artículo 171 del Código del Trabajo equivalente a $6.574.733.-
+
+d. Feriado proporcional correspondiente a 1,5 días por la suma de $59.769.-
+
+III. Que las sumas ordenadas pagar lo serán con los reajustes e intereses que disponen los artículos 63 y 173 del Código del Trabajo.
+
+IV. No habiendo sido totalmente vencida la demandada, cada parte pagará sus costas.
+Regístrese y comuníquese.
+
+Redactó la abogada integrante Magaly Correa Farías.
+
+Rol Laboral-Cobranza 2833-2024.
