@@ -1,0 +1,107 @@
+METADATA
+
+case_id: 3021445c3997f6965dfbe942d2ff4d904636109d
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7963698
+
+rol: 54281-2025
+
+fecha_sentencia: 2025-12-18
+
+caratulado: VERGAS DURÁN NICOLÁS FRANCICO CONTRA JUZGADO DE GARANTIA DE ARICA
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, dieciocho de diciembre de dos mil veinticinco.
+
+A los alegatos solicitados en los escritos folios 5 y 7: atento a lo dispuesto por el Auto Acordado sobre la forma de conocimiento del recurso de Apelación de los Recursos de Amparo ante esta Corte Suprema, registrado en el Acta N° 105-2024 de esta Excma. Corte Suprema, publicado con fecha 17 de mayo de 2024, y no habiéndose justificado suficientemente la necesidad de escuchar alegatos en atención al derecho invocado, no ha lugar.
+
+Vistos:
+
+Se confirma la sentencia apelada de veintiocho de noviembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Concepción, en el Ingreso Corte N° 747-2025.
+
+Regístrese y devuélvase.
+
+Rol N° 54.171-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Concepción, veintiocho de noviembre de dos mil veinticinco.
+
+VISTO:
+
+Comparece el abogado Ignacio Mauricio Vergara Lizama, defensor penal público, y deduce acción constitucional de amparo en favor de su representado Williams Alexander Chaparro Pilco, en contra de la resolución dictada con fecha 17 de noviembre del 2025, por el Juzgado de Letras y Garantía de Lota.
+
+El acto que califica de vulneratorio es la resolución que autorizó la orden de entrada, registro, descerrajamiento e incautación respecto del domicilio ubicado en Pasaje Llanquihue S/N, Lota (coordenadas -37.0955096, -73.1583392), en la causa RIT 1128-2025, RUC 2501641223-9.
+
+Señala el recurrente que la orden de entrada y registro adolece de ilegalidad, toda vez que se concedió, en virtud de antecedentes insuficientes y no concordantes con la carpeta investigativa, añade a su argumentación que el domicilio en cuestión, descrito como Pasaje Llanquihue S/N, sector Estación Lota, carece de numeración, haciendo que las coordenadas sean de particular relevancia para su individualización. Sin embargo, al constar la solicitud verbal en la carpeta judicial, las coordenadas señaladas (-37.0955096, -73.1583392) arrojan un domicilio diverso, ubicado en Pasaje Punta Arenas, Lota, y no en Pasaje Llanquihue.
+
+Añade que la insuficiencia e incongruencia de los antecedentes vulnera el deber de fundamentación del artículo 36 Código Procesal Penal y los requisitos del artículo 208 del Código Procesal Penal. Como consecuencia, la orden concedida se refiere a un domicilio diverso de aquel que fue allanado, lo que constituyó una actuación ilegal.
+
+El abogado defensor incidentó la ilegalidad en la audiencia de control de la detención, realizada el 18 de noviembre de 2025, pero el tribunal la rechazó, declarando la detención ajustada a derecho y decretando la prisión preventiva de Williams Chaparro Pilco por el delito de tráfico de drogas, ilícito previsto y sancionado en los artículos 1° y 3° de la Ley N° 20.000.
+
+Finalmente pide que esta Corte acoja el presente recurso, y se sirva reestablecer el imperio del derecho, declarando la ilegalidad de la orden de entrada y registro concedida y se disponga la inmediata libertad de mi representado, o se adopten todas las medidas necesarias para el correcto restablecimiento del derecho.
+
+Informa el magistrado recurrido, don Gonzalo Muñoz Muñoz, Juez Suplente del Juzgado de Letras y Garantía de Lota, quien confirma que el 18 de noviembre de 2025 se celebró la audiencia de control de la detención, formalización y debate de cautelares respecto del imputado Williams Alexander Chaparro Pilco, declarándose la detención ajustada a derecho y decretándose la prisión preventiva.
+
+Explica que es efectiva la inconsistencia de las coordenadas indicadas, pero sostiene que dicha discrepancia se enmarca en un mero error de referencia o digitación, sin incidencia sustantiva en la determinación del domicilio objeto de la diligencia.
+
+Afirma que, el inmueble fue claramente identificado en la solicitud telefónica como Pasaje Llanquihue S/N, sector Estación Lota, y estaba previamente identificado mediante diligencias de vigilancia, sin que existieran dudas respecto de su individualización.
+
+Se trajeron los autos en relación.
+
+CON LO RELACIONADO Y CONSIDERANDO:
+
+Primero: Que la acción constitucional de amparo procede, conforme lo señala el artículo 21 de la Constitución Política de la República, a favor de quien se encuentra arrestado, detenido o preso, o que sufra cualquier otra privación, perturbación o amenaza en su derecho a la libertad personal o seguridad individual, con infracción de la normas constitucionales o de las leyes, a fin de que la magistratura ordene se guarden las formalidades legales y adopte de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado.
+
+El mismo recurso, y en igual forma, podrá ser deducido en favor de toda persona que ilegalmente sufra cualquiera otra privación, perturbación o amenaza en su derecho a la libertad personal y seguridad individual.
+
+Segundo: Que, en conformidad a lo anterior, para que un recurso de amparo pueda prosperar, se requiere de la existencia de una vía de hecho o de un acto contrario al ordenamiento jurídico que perturbe la libertad personal o la seguridad individual. Ello se puede producir en caso de actuaciones emanadas de un órgano incompetente, manifiestamente ilegales o efectuadas con infracción a las formalidades legales, debiendo en tal caso restablecerse el imperio del derecho y asegurar la debida protección del afectado, como se ala el artículo 21 de la Constitución Política de la República.
+
+Tercero: Que, la controversia en el caso sub-lite se centra en determinar si la discordancia de las coordenadas contenidas en la decisión judicial de autorizar la medida intrusiva de entrada y registro, en el domicilio del imputado, constituye una ilegalidad o arbitrariedad que vicie la diligencia, afectando con ello la libertad personal y seguridad individual del amparado.
+
+Cuarto: Que, el recurrente sostiene que, al tratarse de un inmueble sin número (S/N), las coordenadas eran el único elemento preciso de individualización, y su discordancia implica una falta de fundamentación y precisión legal, que anula la orden, ello atendido lo dispuesto en el artículo 208 del Código Procesal Penal, señalando además que la autorización de entrada y registro adolece de falta de fundamentación
+Quinto: Que, al informar el señor juez del Juzgado de Garantía de Lota, ha reconocido la inconsistencia, pero ha justificado su decisión de declarar ajustada a derecho la detención, al calificar la discrepancia como un mero error de referencia o digitación, afirmando que la dirección del inmueble como Pasaje Llanquihue s/n, sector Estación Lota, se señaló de manera clara en la solicitud verbal. Adicionalmente, el tribunal recurrido sostuvo que el inmueble siempre estuvo claramente identificado mediante diligencias investigativas previas, sin que existieran dudas respecto de su individualización.
+
+Sexto: Que, de conformidad a lo previsto en el artículo 208 del Código Procesal Penal:
+
+“La orden que autorizaré la entrada y registro debe señalar:
+
+a) el, los edificios, o lugares que hubieren de ser registrados,
+
+b) el fiscal que le hubiere solicitado.,
+
+c) la autoridad encargada de practicar el registro y,
+
+d) el motivo del registro y en su caso el del ingreso nocturno
+
+La orden tendrá una vigencia máxima de 10 días después de las cuales caducará la utilización. Con todo el juez que emitiera la orden podrá establecer un plazo de vigencia inferior.”
+
+En el caso cada uno de los requisitos referidos precedentemente aparecen cumplidos, debiendo considerarse, además que la orden de entrada y registro emanó del Juzgado de Letras y Garantía de Lota, tribunal competente para ello, a solicitud del Ministerio Público individualizándose el domicilio, petición de entrada y registro que aparece precedida de una investigación policial, pudiendo determinarse que, el error formal en la georreferenciación, no tiene la sustancialidad que le atribuye el recurrente de amparo, desde luego porque tal error de referencia no altera la identidad del inmueble objeto de la medida intrusiva de que se trata, pues aparte de que ese domicilio había sido objeto de vigilancias, desde que en su techo fue visto un sujeto al parecer secando pasta base en plato, tales vigilancias se mantuvieron hasta que se logró la entrada y registro al referido inmueble, con autorización del tribunal. De este modo, por demás, la orden de entrada y registro aparece debidamente fundada.
+
+Séptimo: Que, en consecuencia, esta Corte no encuentra arbitrariedad ni ilegalidad en el actuar del tribunal recurrido, puesto que obró en ejercicio de las facultades que le otorga la ley, debiendo considerarse que en el caso de autos la defensa incidentó, en su oportunidad, de ilegal la detención fundando tal solicitud, precisamente en este error de georreferenciación en que funda ahora la presente acción de amparo, tal incidencia fue rechazada por resolución del tribunal respectivo, disponiendo luego la ampliación del plazo de detención, y enseguida el imputado fue formalizado como autor del delito de tráfico de estupefacientes del artículo 3° de la Ley 20.000, disponiéndose como medida cautelar personal, su prisión preventiva.
+
+De esta forma, el vicio denunciado por el recurrente no concurre y, al contrario, en la orden de entrada y registro expedida por el Juzgado de Letras y Garantía de Lota, no se divisan arbitrariedades o ilegalidades que hagan procedente el recurso de amparo impetrado; al contrario, se observa un obrar con apego a las normas legales que regulan el procedimiento.
+
+Octavo: Que, no habiéndose constatado la existencia de vulneración alguna al derecho de libertad personal y de seguridad individual invocados por el recurrente, procede que el presente recurso sea rechazado.
+Por estas consideraciones, normas legales citadas y lo previsto en el artículo 21 de la Constitución Política de la República, SE RECHAZA, sin costas, el recurso de amparo deducido por el abogado defensor penal público Ignacio Mauricio Vergara Lizama, en favor de Williams Alexander Chaparro Pilco, en contra del Juzgado de Letras y Garantía de Lota.
+
+Comuníquese lo resuelto al Juzgado de Letras y Garantía de Lota, remitiendo copia de esta sentencia por la vía más expedita.
+
+Regístrese y archívese, en su oportunidad.
+
+Redacción del ministro Rafael L. Andrade Díaz.
+
+N° Amparo 747-2025.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Concepción, veintiocho de noviembre de dos mil veinticinco.VISTO:Comparece el abogado Ignacio Mauricio Vergara Lizama, defensor penal público, y deduce acción constitucional de amparo en favor de su representado Williams Alexander Chaparro Pilco, en contra de la resolución dictada con fecha 17 de noviembre del 2025, por el Juzgado de Letras y Garantía de Lota.El acto que califica de vulneratorio es la resolución que autorizó la orden de entrada, registro, descerrajamiento e incautación respecto del domicilio ubicado en Pasaje Llanquihue S/N, Lota (coordenadas -37.0955096, -73.1583392), en la causa RIT 1128-2025, RUC 2501641223-9.Señala el recurrente que la orden de entrada y registro adolece de ilegalidad, toda vez que se concedió, en virtud de antecedentes insuficientes y no concordantes con la carpeta investigativa, añade a su argumentación que el domicilio en cuestión, descrito como Pasaje Llanquihue S/N, sector Estación Lota, carece de numeración, haciendo que las coordenadas sean de particular relevancia para su individualización. Sin embargo, al constar la solicitud verbal en la carpeta judicial, las coordenadas señaladas (-37.0955096, -73.1583392) arrojan un domicilio diverso, ubicado en Pasaje Punta Arenas, Lota, y no en Pasaje Llanquihue.Añade que la insuficiencia e incongruencia de los antecedentes vulnera el deber de fundamentación del artículo 36 Código Procesal Penal  y los requisitos del artículo 208 del Código Procesal Penal. Como consecuencia, la orden concedida se refiere a un domicilio diverso de aquel que fue allanado, lo que constituyó una actuación ilegal.El abogado defensor incidentó la ilegalidad en la audiencia de control de la detención, realizada el 18 de noviembre de 2025, pero el tribunal la rechazó, declarando la detención ajustada a derecho y decretando la prisión preventiva de Williams Chaparro Pilco por el delito de tráfico de drogas, ilícito previsto y sancionado en los artículos 1° y 3° de la Ley N° 20.000.Finalmente pide que esta Corte acoja el presente recurso, y se sirva reestablecer el imperio del derecho, declarando la ilegalidad de la orden de entrada y registro concedida y se disponga la inmediata libertad de mi representado, o se adopten todas las medidas necesarias para el correcto restablecimiento del derecho.Informa el magistrado recurrido, don Gonzalo Muñoz Muñoz, Juez Suplente del Juzgado de Letras y Garantía de Lota, quien confirma que el 18 de noviembre de 2025 se celebró la audiencia de control de la detención, formalización y debate de cautelares respecto del imputado Williams Alexander Chaparro Pilco, declarándose la detención ajustada a derecho y decretándose la prisión preventiva.Explica que es efectiva la inconsistencia de las coordenadas indicadas, pero sostiene que dicha discrepancia se enmarca en un mero error de referencia o digitación, sin incidencia sustantiva en la determinación del domicilio objeto de la diligencia.Afirma que, el inmueble fue claramente identificado en la solicitud telefónica como Pasaje Llanquihue S/N, sector Estación Lota, y estaba previamente identificado mediante diligencias de vigilancia, sin que existieran dudas respecto de su individualización.Se trajeron los autos en relación.CON LO RELACIONADO Y CONSIDERANDO:Primero: Que la acción constitucional de amparo procede, conforme lo señala el artículo 21 de la Constitución Política de la República, a favor de quien se encuentra arrestado, detenido o preso, o que sufra cualquier otra privación, perturbación o amenaza en su derecho a la libertad personal o seguridad individual, con infracción de la normas constitucionales o de las leyes, a fin de que la magistratura ordene se guarden las formalidades legales y adopte de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado. El mismo recurso, y en igual forma, podrá ser deducido en favor de toda persona que ilegalmente sufra cualquiera otra privación, perturbación o amenaza en su derecho a la libertad personal y seguridad individual.Segundo: Que, en conformidad a lo anterior, para que un recurso de amparo pueda prosperar, se requiere de la existencia de una vía de hecho o de un acto contrario al ordenamiento jurídico que perturbe la libertad personal o la seguridad individual. Ello se puede producir en caso de actuaciones emanadas de un órgano incompetente, manifiestamente ilegales o efectuadas con infracción a las formalidades legales, debiendo en tal caso restablecerse el imperio del derecho y asegurar la debida protección del afectado, como se ala el artículo 21 de la Constitución Política de la República.Tercero: Que, la controversia en el caso sub-lite se centra en determinar si la discordancia de las coordenadas contenidas en la decisión judicial de autorizar la medida intrusiva de entrada y registro, en el domicilio del imputado, constituye una ilegalidad o arbitrariedad que vicie la diligencia, afectando con ello la libertad personal y seguridad individual del amparado.Cuarto: Que, el recurrente sostiene que, al tratarse de un inmueble sin número (S/N), las coordenadas eran el único elemento preciso de individualización, y su discordancia implica una falta de fundamentación y precisión legal, que anula la orden, ello atendido lo dispuesto en el artículo 208 del Código Procesal Penal, señalando además que la autorización de entrada y registro adolece de falta de fundamentaciónQuinto: Que, al informar el señor juez del Juzgado de Garantía de Lota, ha reconocido la inconsistencia, pero ha justificado su decisión de declarar ajustada a derecho la detención, al calificar la discrepancia como un mero error de referencia o digitación, afirmando que la dirección del inmueble como Pasaje Llanquihue s/n, sector Estación Lota, se señaló de manera clara en la solicitud verbal. Adicionalmente, el tribunal recurrido sostuvo que el inmueble siempre estuvo claramente identificado mediante diligencias investigativas previas, sin que existieran dudas respecto de su individualización.Sexto: Que, de conformidad a lo previsto en el artículo 208 del Código Procesal Penal:   “La orden que autorizaré la entrada y registro debe señalar:a) el, los edificios, o lugares que hubieren de ser registrados,b)   el fiscal que le hubiere solicitado.,c) la autoridad encargada de practicar el registro y,d)  el motivo del registro y en su caso el del ingreso nocturno La orden tendrá una vigencia máxima de 10 días después de las cuales caducará la utilización. Con todo el juez que emitiera la orden podrá establecer un plazo de vigencia inferior.”  En el caso cada uno de los requisitos referidos precedentemente aparecen cumplidos, debiendo considerarse, además que la orden de entrada y registro emanó del Juzgado de Letras y Garantía de Lota, tribunal competente para ello, a solicitud del Ministerio Público individualizándose el domicilio, petición de entrada y registro que aparece precedida de una investigación policial, pudiendo determinarse  que, el error formal en la georreferenciación, no tiene la sustancialidad que le atribuye el recurrente de amparo, desde luego porque tal error de referencia no altera la identidad del inmueble objeto de la medida intrusiva de que se trata, pues aparte de que ese domicilio había sido objeto de vigilancias, desde que en su techo fue visto un sujeto al  parecer secando pasta base en plato, tales vigilancias se mantuvieron hasta que se logró la entrada y registro al referido inmueble, con autorización del tribunal. De este modo, por demás, la orden de entrada y registro aparece debidamente fundada. Séptimo: Que, en consecuencia, esta Corte no encuentra arbitrariedad ni ilegalidad en el actuar del tribunal recurrido, puesto que obró en ejercicio de las facultades que le otorga la ley, debiendo considerarse que en el caso de autos la defensa incidentó, en su oportunidad, de ilegal la detención fundando tal solicitud, precisamente en este error de georreferenciación en que funda ahora la presente acción de amparo, tal incidencia fue rechazada por resolución del tribunal respectivo, disponiendo luego la ampliación del plazo de detención, y enseguida el imputado fue formalizado como autor del delito de tráfico de estupefacientes del artículo 3° de la Ley 20.000, disponiéndose como medida cautelar personal, su prisión preventiva.De esta forma, el vicio denunciado por el recurrente no concurre y, al contrario, en la orden de entrada y registro expedida por el Juzgado de Letras y Garantía de Lota, no se divisan arbitrariedades o ilegalidades que hagan procedente el recurso de amparo impetrado; al contrario, se observa un obrar con apego a las normas legales que regulan el procedimiento.Octavo:  Que, no habiéndose constatado la existencia de vulneración alguna al derecho de libertad personal y de seguridad individual invocados por el recurrente, procede que el presente recurso sea rechazado.Por estas consideraciones, normas legales citadas y lo previsto en el artículo 21 de la Constitución Política de la República, SE RECHAZA, sin costas, el recurso de amparo deducido por el abogado defensor penal público Ignacio Mauricio Vergara Lizama, en favor de Williams Alexander Chaparro Pilco, en contra del Juzgado de Letras y Garantía de Lota.Comuníquese lo resuelto al Juzgado de Letras y Garantía de Lota, remitiendo copia de esta sentencia por la vía más expedita.Regístrese y archívese, en su oportunidad.Redacción del ministro Rafael L. Andrade Díaz.N° Amparo 747-2025.                        ⚠                      Sin documento en esta instancia - pdf
