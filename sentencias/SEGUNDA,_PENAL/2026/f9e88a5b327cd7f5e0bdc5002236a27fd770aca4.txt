@@ -1,0 +1,63 @@
+METADATA
+
+case_id: f9e88a5b327cd7f5e0bdc5002236a27fd770aca4
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8053524
+
+rol: 8170-2026
+
+fecha_sentencia: 2026-03-09
+
+caratulado: OSIAS CADETIN CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, nueve de marzo de dos mil veintiséis.
+Vistos:
+Se confirma la sentencia apelada de dieciséis de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Valparaíso, en el Ingreso Corte N°Amparo-397-2026.
+Regístrese y devuélvase.
+Rol N°7895-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Valparaíso
+Valparaíso, dieciséis de febrero de dos mil veintiséis.
+
+Vistos:
+
+A folio 1 comparece Juan José Navarro Salomón, abogado, quien deduce acción de amparo en favor de Robert Andrés Rojas Gutiérrez, de nacionalidad venezolana, en contra del Servicio Nacional de Migraciones, por el acto que considera ilegal y arbitrario consistente en la Resolución Exenta N° 2500100316551, de 15 de diciembre de 2025, que rechazó su solicitud de residencia definitiva, dispuso su abandono del país en 15 días e impuso una prohibición de ingreso por 5 años, denunciando que lo anterior vulnera su derecho a la libertad personal y seguridad individual, consagrado en el artículo 19 N° 7 de la Constitución Política de la República.
+
+Explica que el amparado ingresó a Chile el 9 de agosto de 2018, siendo menor de edad, por paso habilitado y regularizó de inmediato su situación migratoria junto a su madre, por lo que el 21 de octubre de 2024, solicitó su residencia definitiva, sin embargo, el Servicio recurrido rechazó la petición por no haber acompañado el certificado de antecedentes penales de su país de origen debidamente apostillado dentro de un plazo de 10 días otorgado en una notificación de previo rechazo.
+
+Alega que cumplir con tal requerimiento en solo 10 días es una acción imposible de cumplir debido a los tiempos de gestión del consulado de Venezuela y caídas en las plataformas digitales del país de origen, lo que torna la decisión en desproporcionada.
+
+Por lo que pide se sin efecto la Resolución Exenta recurrida y se le otorgue un plazo para acompañar el certificado ante el Servicio Nacional de Migraciones.
+A folio 8 evacua informe el Servicio Nacional de Migraciones, solicitando el rechazo de la acción.
+Sostiene que el acto se ajusta estrictamente al artículo 88 N° 1 de la Ley N° 21.325, por cuanto el interesado no cumplió con los requisitos documentales tras habérsele otorgado el plazo legal para subsanar.
+Argumenta que la orden de abandono es una consecuencia imperativa del rechazo y que no existe una amenaza real a la libertad personal.
+
+Finalmente, señala que el amparado tiene los recursos administrativos para impugnar la decisión, sin embargo, no ejerció el derecho a recurrir en sede administrativa.
+Con lo relacionado y considerando:
+
+Primero: Que, la acción de amparo es un proceso de tutela urgente del derecho fundamental a la libertad personal y seguridad individual, conforme al artículo 21 de la Constitución Política de la República, aplicable cuando una persona sufre perturbación o amenaza ilegal en su derecho a residir y permanecer en el territorio nacional.
+
+Segundo: Que, la resolución impugnada se fundamenta únicamente en que el amparado no adjuntó oportunamente el certificado de antecedentes penales apostillado. No obstante, consta en el expediente que el recurrente ha satisfecho dicho reproche en esta instancia, acompañando el Certificado de Antecedentes Penales emitido por su país de origen, Venezuela, debidamente apostillado, con fecha de emisión 26 de enero de 2026, lo que demuestra una voluntad real de regularizar su situación migratoria.
+Tercero: Que, además, la autoridad administrativa omitió ponderar circunstancias fácticas de relevancia. El amparado tiene arraigo en Chile, país donde reside desde agosto de 2018, habiendo ingresado siendo un niño y cursado su etapa de desarrollo en el territorio nacional. Asimismo, posee arraigo familiar directo, toda vez que su madre, Yakeline Gutiérrez Roleto, es titular de permanencia definitiva en Chile.
+
+Cuarto: Que, la decisión de la autoridad deviene en desproporcionada, por cuanto el plazo de 10 días otorgado originalmente resulta insuficiente para trámites que dependen de organismos extranjeros y plataformas técnicas externas. De ejecutarse el abandono, se fracturaría la unidad familiar y el proyecto de vida del amparado, vulnerando los principios consagrados en el artículo 1° de la Constitución y el principio de reunificación familiar de la Ley N° 21.325.
+Quinto: Que, a la luz de lo expuesto, la resolución recurrida es ilegal al carecer de una motivación que pondere adecuadamente el principio de proporcionalidad y la protección a la familia, por lo que se acogerá el recurso para restablecer el imperio del derecho.
+Por estas consideraciones y visto, además, lo dispuesto en el artículo 21 de la Constitución Política de la República y Auto Acordado de la Excma. Corte Suprema sobre la materia, se acoge, sin costas, la acción de amparo interpuesta en favor de Robert Andrés Rojas Gutiérrez en contra del Servicio Nacional de Migraciones, en consecuencia, se deja sin efecto la Resolución Exenta N° 2500100316551, de 15 de diciembre de 2025, debiendo la autoridad recurrida reabrir el procedimiento administrativo de la solicitud de residencia definitiva ID 71617254, considerar el documento que acompañó en esta instancia, continuando con la tramitación hasta su término, emitiendo un nuevo pronunciamiento sobre el fondo de la solicitud conforme a derecho.
+Regístrese, notifíquese y archívese en su oportunidad.
+N° Amparo-397-2026.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de ValparaísoValparaíso, dieciséis de febrero de dos mil veintiséis.Vistos:A folio 1 comparece Juan José Navarro Salomón, abogado, quien deduce acción de amparo en favor de Robert Andrés Rojas Gutiérrez, de nacionalidad venezolana, en contra del Servicio Nacional de Migraciones, por el acto que considera ilegal y arbitrario consistente en la Resolución Exenta N° 2500100316551, de 15 de diciembre de 2025, que rechazó su solicitud de residencia definitiva, dispuso su abandono del país en 15 días e impuso una prohibición de ingreso por 5 años, denunciando que lo anterior vulnera su derecho a la libertad personal y seguridad individual, consagrado en el artículo 19 N° 7 de la Constitución Política de la República.Explica que el amparado ingresó a Chile el 9 de agosto de 2018, siendo menor de edad, por paso habilitado y regularizó de inmediato su situación migratoria junto a su madre, por lo que el 21 de octubre de 2024, solicitó su residencia definitiva, sin embargo, el Servicio recurrido rechazó la petición por no haber acompañado el certificado de antecedentes penales de su país de origen debidamente apostillado dentro de un plazo de 10 días otorgado en una notificación de previo rechazo.Alega que cumplir con tal requerimiento en solo 10 días es una acción imposible de cumplir debido a los tiempos de gestión del consulado de Venezuela y caídas en las plataformas digitales del país de origen, lo que torna la decisión en desproporcionada.Por lo que pide se sin efecto la Resolución Exenta recurrida y se le otorgue un plazo para acompañar el certificado ante el Servicio Nacional de Migraciones.A folio 8 evacua informe el Servicio Nacional de Migraciones, solicitando el rechazo de la acción. Sostiene que el acto se ajusta estrictamente al artículo 88 N° 1 de la Ley N° 21.325, por cuanto el interesado no cumplió con los requisitos documentales tras habérsele otorgado el plazo legal para subsanar. Argumenta que la orden de abandono es una consecuencia imperativa del rechazo y que no existe una amenaza real a la libertad personal.Finalmente, señala que el amparado tiene los recursos administrativos para impugnar la decisión, sin embargo, no ejerció el derecho a recurrir en sede administrativa.Con lo relacionado y considerando:Primero: Que, la acción de amparo es un proceso de tutela urgente del derecho fundamental a la libertad personal y seguridad individual, conforme al artículo 21 de la Constitución Política de la República, aplicable cuando una persona sufre perturbación o amenaza ilegal en su derecho a residir y permanecer en el territorio nacional.Segundo: Que, la resolución impugnada se fundamenta únicamente en que el amparado no adjuntó oportunamente el certificado de antecedentes penales apostillado. No obstante, consta en el expediente que el recurrente ha satisfecho dicho reproche en esta instancia, acompañando el Certificado de Antecedentes Penales emitido por su país de origen, Venezuela, debidamente apostillado, con fecha de emisión 26 de enero de 2026, lo que demuestra una voluntad real de regularizar su situación migratoria.Tercero: Que, además, la autoridad administrativa omitió ponderar circunstancias fácticas de relevancia. El amparado tiene arraigo en Chile, país donde reside desde agosto de 2018, habiendo ingresado siendo un niño y cursado su etapa de desarrollo en el territorio nacional. Asimismo, posee arraigo familiar directo, toda vez que su madre, Yakeline Gutiérrez Roleto, es titular de permanencia definitiva en Chile.Cuarto: Que, la decisión de la autoridad deviene en desproporcionada, por cuanto el plazo de 10 días otorgado originalmente resulta insuficiente para trámites que dependen de organismos extranjeros y plataformas técnicas externas. De ejecutarse el abandono, se fracturaría la unidad familiar y el proyecto de vida del amparado, vulnerando los principios consagrados en el artículo 1° de la Constitución y el principio de reunificación familiar de la Ley N° 21.325.Quinto: Que, a la luz de lo expuesto, la resolución recurrida es ilegal al carecer de una motivación que pondere adecuadamente el principio de proporcionalidad y la protección a la familia, por lo que se acogerá el recurso para restablecer el imperio del derecho.Por estas consideraciones y visto, además, lo dispuesto en el artículo 21 de la Constitución Política de la República y Auto Acordado de la Excma. Corte Suprema sobre la materia, se acoge, sin costas, la acción de amparo interpuesta en favor de Robert Andrés Rojas Gutiérrez en contra del Servicio Nacional de Migraciones, en consecuencia, se deja sin efecto la Resolución Exenta N° 2500100316551, de 15 de diciembre de 2025, debiendo la autoridad recurrida reabrir el procedimiento administrativo de la solicitud de residencia definitiva ID 71617254, considerar el documento que acompañó en esta instancia, continuando con la tramitación hasta su término, emitiendo un nuevo pronunciamiento sobre el fondo de la solicitud conforme a derecho.Regístrese, notifíquese y archívese en su oportunidad. N° Amparo-397-2026.                        ⚠                      Sin documento en esta instancia - pdf
