@@ -1,0 +1,462 @@
+METADATA
+
+case_id: c528f448dd81d9d6e6c2bca471a506615ff4e571
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8056392
+
+rol: 8180-2026
+
+fecha_sentencia: 2026-03-10
+
+caratulado: HERNANDEZ MONSALVE VICENTA CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CIVIL) CASACIÓN FONDO
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, diez de marzo de dos mil veintiséis.
+
+Vistos y teniendo presente:
+Primero: Que, de conformidad con lo dispuesto en el inciso séptimo del artículo 483-A del Código del Trabajo, se ha ordenado dar cuenta de la admisibilidad del recurso de unificación de jurisprudencia deducido por la parte denunciante contra la sentencia dictada por la Corte de Apelaciones de Santiago, que rechazó la nulidad intentada contra la que desestimó la denuncia de vulneración de garantías fundamentales con ocasión del despido y acogió la demanda de despido injustificado.
+
+Segundo: Que, según se expresa en la legislación laboral, el recurso de unificación de jurisprudencia es susceptible de ser deducido en contra de la resolución que falle el recurso de nulidad, estableciéndose su procedencia para el caso en que “respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de Tribunales Superiores de Justicia”, conforme lo explicita el artículo 483 del Código del Trabajo.
+
+Asimismo, del tenor de lo dispuesto en el artículo 483-A del cuerpo legal antes citado, aparece que esta Corte debe controlar, como requisitos para su admisibilidad, por un lado, su oportunidad; en segundo lugar, la existencia de fundamento, además de una relación precisa y circunstanciada de las distintas interpretaciones respecto de las materias de derecho objeto de la sentencia, sostenidas en diversos fallos emanados de los tribunales superiores de justicia, y finalmente, debe acompañarse copia del o los fallos que se invocan como fundamento del recurso en referencia.
+
+Tercero: Que, conforme se expresa en el recurso, la materia que se propone unificar consiste en “determinar si, conforme a lo dispuesto en el artículo 459 N°4 del Código del Trabajo, en relación con la causal del artículo 478 letra e) del mismo cuerpo legal, resulta jurídicamente suficiente una fundamentación genérica de la prueba rendida, o si, por el contrario, el juez del grado se encuentra obligado a realizar un análisis pormenorizado y explícito de los medios probatorios relevantes, indicando las razones por las cuales otorga o niega valor probatorio a cada uno de ellos”.
+Cuarto: Que, de la sola lectura del libelo entablado, se desprende que el pretendido tema de derecho cuya línea jurisprudencial se procura unificar, en los términos que se ha planteado, no constituye un asunto jurídico habilitante de este recurso, sino que resulta ser un cuestionamiento a los argumentos que tuvo la Corte para desestimar la causal del artículo 478 e) del Código del Código del Trabajo, razón por la debe ser desestimado en este estadio procesal.
+
+Por estas consideraciones y normas citadas, se declara inadmisible el recurso de unificación de jurisprudencia interpuesto contra la sentencia de ocho de enero de dos mil veintiséis.
+
+Regístrese y devuélvase.
+
+Rol N°5.239-2026
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Santiago, ocho de enero de dos mil veintiséis.
+
+Vistos:
+
+Por sentencia dictada con fecha veintiuno de julio de dos mil veinticinco, en causa RIT T-286-2024, seguida ante el Primer Juzgado de Letras del Trabajo de Santiago, caratulada "Salazar con L Barbosa SPA", se resolvió rechazar la acción de tutela laboral por vulneración de derechos fundamentales, rechazar la acción de cobro de prestaciones laborales por horas extraordinarias adeudadas, rechazar la acción de nulidad del despido fundada en el pago incompleto de cotizaciones previsionales, y acoger parcialmente la acción de despido injustificado, condenando al pago de diferencias de indemnizaciones.
+
+Contra dicho fallo recurrió la parte demandante por la causal del artículo 478 letra e) del Código del Trabajo, en relación con el artículo 477 del mismo cuerpo legal, y subsidiariamente por la causal del artículo 478 letra b) en relación con el artículo 477, todas del Código del Trabajo, pidiendo la invalidación del fallo y la dictación de uno de reemplazo que acoja la denuncia de tutela laboral en todas sus partes.
+
+Declarado admisible el recurso, se procedió a su conocimiento en audiencia, oportunidad en que alegaron los abogados de ambas partes.
+
+Y considerando:
+
+Primero: Que recurre de nulidad la parte denunciante invocando como causal principal la del artículo 478 letra e) del Código del Trabajo, esto es, haber sido la sentencia dictada con omisión de los requisitos establecidos en el artículo 459 del Código del ramo, específicamente su numeral cuarto, que exige el análisis de toda la prueba rendida, los hechos que se estimen probados y el razonamiento que conduce a esta estimación.
+
+Sostiene que el sentenciador omitió analizar integralmente la prueba documental, testimonial y confesional rendida, particularmente el libro de registro de asistencias, las liquidaciones de sueldo, la constancia interpuesta ante la Dirección del Trabajo, y las declaraciones de los testigos don Mario Reyes Velásquez y don Luis Silva Maita, así como la confesión del representante legal de la demandada.
+
+Argumenta que el tribunal realizó un examen parcial de las probanzas, omitiendo pronunciamiento sobre documentos clave y soslayando la valoración conjunta de los medios probatorios. Específicamente, respecto de la acción de tutela laboral, el recurrente señala que el sentenciador no consideró las liquidaciones de sueldo que demostrarían la disminución arbitraria de la remuneración de la trabajadora desde septiembre de 2023, ni valoró adecuadamente el libro de asistencia que evidenciaría las extensas jornadas laborales sin horario de colación.
+
+Expone, en cuanto a las horas extraordinarias, que el tribunal desconoció que el libro de asistencia demuestra que, en al menos doscientos setenta de los doscientos ochenta y nueve días trabajados, la actora registró ingreso anticipado o salida posterior al horario contractual, llegando en ocasiones a retirarse a las 23:20, 21:30 o 20:55 horas.
+
+Añade que el tribunal ignoró que el propio representante legal de la demandada reconoció en su declaración confesional que los días sábado la jornada efectiva era hasta las 15:30 horas, no hasta las 18:30 como indica el contrato, validando así una jornada distinta a la pactada formalmente.
+
+Finalmente, señala que el vicio que se alega tiene influencia sustancial en lo dispositivo del fallo, toda vez que, si se hubiese apreciado toda la prueba rendida e incorporada, el tribunal habría llegado a una conclusión distinta que a la que se llegó en la sentencia dictada y, en definitiva, hubiera acogido, la acción de tutela de garantías fundamentales, la acción de cobro de prestaciones laborales adeudadas (horas extraordinarias) y, en consecuencia, la acción de nulidad del despido.
+
+Segundo: Que subsidiariamente, invoca la causal del artículo 478 letra b) del Código del Trabajo, esto es, haberse dictado la sentencia con infracción manifiesta de las normas sobre apreciación de la prueba conforme a las reglas de la sana crítica.
+
+Afirma que el tribunal vulneró las máximas de la lógica y la experiencia al ponderar las probanzas de manera aislada y no conjunta, llegando a conclusiones que carecen de raciocinio.
+
+Alega que cualquier persona razonable, al examinar integralmente el libro de asistencia, las liquidaciones de sueldo, la prueba testimonial de un compañero de trabajo que presenció el estrés de la demandante y su pareja que la recogía regularmente después de las 19:00 horas, y la confesión del empleador reconociendo jornadas de trabajo que difieren del contrato, habría concluido necesariamente la existencia de sobrecarga laboral, prestación de horas extraordinarias no remuneradas, y afectación a la integridad física y psíquica de la trabajadora.
+
+Denuncia que el sentenciador rechaza las horas extraordinarias argumentando que la demandante no especificó con claridad cuáles horas reclamaba y a qué períodos correspondían, cuando el libelo señaló expresamente que ocurrieron durante toda la relación laboral, intensificándose desde julio de 2023, y el libro de asistencia permite verificar día a día las horas efectivamente trabajadas.
+
+Reprocha que el tribunal valora negativamente que algunos días la trabajadora no completara las cuarenta y cinco horas semanales o se retirara antes los sábados, cuando el propio empleador validó una jornada sabatina hasta las 15:30 horas. El recurrente sostiene que una apreciación lógica y razonada de la prueba debió considerar que las contadas ocasiones de ausencia o retraso (permisos específicos, emergencias médicas familiares, feriados) no desvirtúan el patrón sistemático de trabajo en exceso de jornada durante prácticamente todo el año laboral.
+
+Finalmente, señala que el vicio que se alega tiene influencia sustancial en lo dispositivo del fallo, toda vez que si se hubiese apreciado la prueba considerando la lógica y las máximas de la experiencia, el tribunal habría llegado a una conclusión distinta que a la que se llegó en la sentencia dictada y, en definitiva, hubiera acogido, la acción de tutela de garantías fundamentales, la acción de cobro de prestaciones laborales adeudadas (horas extraordinarias) y, en consecuencia, la acción de nulidad del despido.
+
+Tercero: Que, sostiene el recurrente, que ambas causales convergen en la causal del artículo 477 del Código del Trabajo, esto es, infracción de ley que ha influido sustancialmente en lo dispositivo del fallo.
+
+Sostiene que la omisión del requisito del artículo 459 N°4 del Código del Trabajo y la infracción a las reglas de la sana crítica condujeron a vulnerar sustancialmente los artículos 485 y siguientes del Código del Trabajo relativos al procedimiento de tutela laboral, y los artículos 42, 58 y 162 del mismo cuerpo legal en materia de cobro de prestaciones laborales y nulidad del despido.
+
+Argumenta que las extensas jornadas de trabajo sin descanso de colación, sumadas a la sobrecarga por cubrir funciones de su compañera ausente, causaron deterioro a la integridad física y psíquica de la actora, derecho fundamental consagrado en el artículo 19 N°1 de la Constitución Política. Cuando la trabajadora reclamó estas condiciones, el empleador respondió con represalias materializadas en reducción salarial, configurándose hostigamiento laboral.
+
+Refiere, con relación a las horas extraordinarias, invoca que el artículo 42 letra b) del Código del Trabajo las considera expresamente como remuneración imponible, por lo que su falta de pago implicó cálculo incorrecto de las cotizaciones previsionales, configurándose la causal de nulidad del artículo 162 inciso séptimo.
+
+Finalmente, en cuanto a la influencia sustancial en lo dispositivo del fallo, señala que la contravención formal de los artículos 485 y siguientes y en especial el 493, así como los artículos 58, 42 y 162, todos del Código del Trabajo, importa una infracción de ley que influye sustancialmente en lo dispositivo del fallo, toda vez que, de haber fallado conforme a derecho, debió haber llegado a la conclusión que sí existió vulneración de derechos fundamentales, sí existieron horas extraordinarias que no fueron pagadas, y que sí es procedente la sanción de nulidad del despido.
+
+I.- Algunas consideraciones acerca del recurso de nulidad.
+
+Cuarto: Que, el recurso de nulidad laboral tiene por objeto, según sea la causal invocada, asegurar el respeto a las garantías y derechos fundamentales, o bien, conseguir sentencias ajustadas a la ley, como se desprende de los artículos 477 y 478 del Código del Trabajo, todo lo cual evidencia su carácter extraordinario que se manifiesta por la excepcionalidad de los presupuestos que configuran cada una de las referidas causales en atención al fin perseguido por ellas, situación que igualmente determina un ámbito restringido de revisión por parte de los tribunales superiores y que, como contrapartida, impone al recurrente la obligación de precisar con rigurosidad los fundamentos de aquellas que invoca, como, asimismo, de las peticiones que efectúa.
+
+Igualmente, cabe tener presente que el recurso de nulidad no constituye una instancia, de manera que estos sentenciadores no pueden ni deben revisar los hechos que conforman el conflicto jurídico de que se trata, siendo la apreciación y establecimiento de éstos una facultad exclusiva y excluyente del juez que conoció del respectivo juicio, y, asimismo, a esta Corte le está vedado efectuar una valoración de la prueba rendida ante el Juzgado del Trabajo, lo que corresponde únicamente a éste, el cual está dotado de plena libertad para ello, con la sola limitación de no contrariar los principios de la lógica, las máximas de experiencia y los conocimientos científicamente afianzados.
+
+El recurso de nulidad, finalmente, es un arbitrio de derecho estricto que requiere claridad y precisión en su fundamentación lo que resulta necesario toda vez que aquello da y define la competencia del Tribunal superior, el que no puede acogerlo por otros motivos, salvo la situación contemplada en el inciso final del artículo 479 del Código del Trabajo.
+
+II.- Respecto del petitorio del recurso.
+
+Quinto: Que, como cuestión previa en lo que atañe a la petición concreta, y de acuerdo con lo establecido en el artículo 480 inciso final del Código del Trabajo, esta Corte ha resuelto de manera uniforme que este requisito mira a que el pedimento del libelo recursivo sea lo suficientemente detallado y pormenorizado como para bastarse a sí mismo, pues ello implica que sea, verdaderamente concreto. Y tal exigencia tiene importancia, pues es el petitorio el que revela las pretensiones del recurrente, tal como debe hacerlo en la demanda o contestación, según sea el caso. Además, tiene la importancia que otorga competencia al tribunal a quem, para que éste quede en condiciones de poder resolver de la manera que interesa a quien recurre.
+
+Pues bien, el recurso impetrado no satisface las exigencias antes anotadas, se interpusieron diversas causales, y en la parte alusiva a la petición concreta pidió: “… y elevarlo para ante la Ilustrísima Corte de Apelaciones de Santiago, para que definitiva lo acoja íntegramente, dejando sin efecto la sentencia recurrida y dictando una sentencia de reemplazo que acoja en todas sus partes la demanda interpuesta total o parcialmente, según SS.Iltma. estime pertinente.”
+
+Del petitorio antes expuesto, es posible constatar que carece de peticiones concretas al señalar que se dicte sentencia de reemplazo, y en la eventualidad de que se acoja la demanda en lo principal no especifica qué prestaciones solicita, falencia que denota una falta de celo en su interposición, lo que bastaría para rechazarlo. No obstante, de igual manera se hará un análisis del recurso de nulidad interpuesto.
+
+III.- Análisis de las causales interpuestas en forma subsidiaria.
+Sexto: Que, en relación con la primera causal interpuesta, establecida en el artículo 478 letra e) del Código del Trabajo, por contener la sentencia decisiones contradictorias; otorgar más allá de lo pedido; y por haber omitido los requisitos del artículo 459 N° 4 del mismo cuerpo legal.
+
+Respecto de esta causal es necesario tener en cuenta que el artículo 478 letra e) del Código del Trabajo prescribe: “El recurso de nulidad procederá, además:
+e) Cuando la sentencia se hubiere dictado con omisión de cualquiera de los requisitos establecidos en los artículos 459, 495 ó 501, inciso final, de este Código, según corresponda; contuviese decisiones contradictorias; otorgare más allá de lo pedido por las partes, o se extendiere a puntos no sometidos a la decisión del tribunal, sin perjuicio de las facultades para fallar de oficio que la ley expresamente otorgue”;
+
+El artículo 459 del Código del Trabajo, a su turno, indica que: “La sentencia definitiva deberá contener:
+
+N° 4.- El análisis de toda la prueba rendida, los hechos que estime probados y el razonamiento que conduce a esta estimación;” conceptualización que da cuenta que ella está prevista para velar por la forma de las sentencias, imponiendo al tribunal -en lo pertinente al recurso- la carga de analizar toda la prueba rendida, consignar los hechos que se consideran demostrados y las consideraciones jurídicas en las que el fallo se funda.
+
+Que, la causal invocada requiere, para ser acogida, los siguientes requisitos: a) que el recurrente singularice cuales fueron los medios de prueba omitidos; b) que el sentenciador efectivamente haya omitido el análisis de determinados medios de prueba en su sentencia; y c) que esa omisión influya sustancialmente en lo dispositivo del fallo.
+
+Séptimo: Como fundamento del arbitrio el recurrente sostiene que el sentenciador omitió analizar íntegramente la prueba documental, consistente en el registro de asistencia, las liquidaciones de sueldo y la constancia interpuesta ante la Dirección del Trabajo. Asimismo, tampoco analizó los dichos de los testigos Mario Reyes Velásquez y Luis Silva Maita y la confesional del representante legal de la demandada, lo que habría permitido acoger la acción de tutela de garantías fundamentales y la acción de cobro de prestaciones adeudadas, horas extraordinarias y la acción de nulidad del despido.
+
+Octavo: Que, contrario a lo que sostiene el recurrente, la jueza sí analizó la prueba documental, testimonial y confesional, explicitando los fundamentos por los cuales desestimó la denuncia de tutela laboral, y el cobro de horas extraordinarias, dando cuenta de un análisis racional y comprensible de las evidencias incorporadas a la audiencia.
+
+Es así como la acción de tutela por vulneración de garantías fundamentales fue rechazada por no haberse acreditado indicios de la vulneración reclamada, de conformidad a lo establecido en el artículo 493 del Código del Trabajo. Al efecto el considerando séptimo señala: “Para fundar la vulneración de derecho que reclama, la actora realiza una relación bastante somera, carente de detalles, señalando que sufrió acoso y humillaciones, las que no describe claramente.“
+
+Agrega en el considerando octavo: “Que, en cuanto al acoso, a más de no haber sido descritas las circunstancias que estima que constituyen tal vulneración, la actora no rindió prueba de aquello, si bien los testigos refieren incumplimientos de la demandada, lo cierto es que ninguno de ellos describe -ni someramente-algún tipo de acoso. En cuanto a la imposibilidad de hacer uso de su hora de colación, ha de señalarse que la actora indica que ello se debe a las metas impuestas por el empleador, que no se lo permitían, hecho que no acreditó de modo alguno, siquiera en cuanto a la existencia de las referidas metas. Asimismo, la actora indica que se vulneró su derecho a la integridad física y síquica, de lo que no hay prueba tampoco, pues a más de las menciones de su testigo Sr. Luis Silva, quien era su pareja, narrando que tuvo que llevarla al Cesfam por un ataque de pánico, tal situación no fue referida en la demanda y no existe documento que dé cuenta de alguna atención en centro de salud, y sólo agregó que, además, la actora tenía poco apetito. De este modo, estas circunstancias no son indiciarias de afectación de garantías fundamentales, desde el momento que el denunciante no fundamentó un vínculo de causa efecto entre el despido y una consecuencia diversa de la pérdida del empleo. Por otra parte, los indicios aludidos carecen de la gravedad suficiente dada la falta de precisión y claridad del libelo, lo que infringe lo dispuesto en el artículo 490 del referido cuerpo legal.”
+
+Por su parte, en cuanto a las horas extraordinarias que reclama, la jueza en el considerando décimo quinto expresa: “Que, en cuanto a las horas extraordinarias, ha de tenerse en cuenta que el contrato establece en su numerando cuarto que la jornada de trabajo será de 45 horas semanales distribuidas de Lunes a Sábado, de 10:00 a 18.30 horas, incluyendo una hora de colación, periodo no considerado como parte de la jornada laboral. Ha de indicarse que resulta determinante para estos efectos el que, en el libelo, no se señale con claridad cuáles son las horas que demanda y a qué periodo corresponden, lo que obviamente deja en indefensión a la empleadora en cuanto no le es posible defenderse adecuadamente de las aseveraciones que se contienen en la demanda.”
+
+Añade en el considerando décimo sexto: “Que, además de lo señalado, la demandante indica que se le adeudan a lo menos 245 horas extraordinarias, debiendo considerarse que la relación laboral únicamente se mantuvo por algo más de 46 semanas, de modo que ha de concluirse que la trabajadora señala haber trabajado, a lo menos, 5 horas extras cada semana. Ahora bien, revisados los registros de asistencia, se tiene que si bien en algunas semanas laboró poco más de 45 horas, no es menos cierto que en algunas de ellas como la del 23 al 28 de enero, el registro indica que no alcanza a completar las 45 horas pactadas en el contrato, siendo además que existen días en que no registra asistencia como se aprecia del 16 de junio, en que no hay firma de hora de salida como el 23 de junio, o registra permisos como el día 26 de septiembre, ingresando a las 11:00 hrs.; o el día completo con permiso para obtener pasaporte el día 2 de noviembre, y además, tal como señala el demandado, retirándose todos los días sábado entre las 15:00 y 16:00 hrs, con bastante antelación a la hora pactada, sin perjuicio que también en innumerables ocasiones la demandante firmaba su ingreso después de las 10:00 hrs, que corresponde al ingreso establecido en el contrato, nada de lo cual se menciona en la demanda.”
+
+Finalmente, en el considerando décimo séptimo sostiene: “Que, por otra parte, las horas extras han sido solicitadas y calculadas sin respaldo alguno, pretendiendo la demandante entregar al juez el cálculo en cada uno de los días trabajados, lo que no es posible de aceptar, menos si la trabajadora contaba con copias del libro de asistencia, tal como fue ofrecido en la audiencia preparatoria. Por todas estas razones y no habiendo acreditado la demandante la existencia de las 245 horas que plantea al menos trabajó de manera extraordinaria, la demanda será rechazada en este punto, según se dirá y consecuentemente la nulidad del despido que sustenta en esta petición.”
+
+Además, de lo antes reproducido cabe tener presente el considerando décimo octavo de la sentencia que señala: “Que, la prueba ha sido analizada conforme a las reglas de la sana critica y el resto no pormenorizado, en nada altera lo decidido.”
+
+De acuerdo con lo antes expuesto, la causal principal interpuesta corresponde que sea desestimada.
+Noveno: Subsidiariamente, invocó la causal establecida en el artículo 478 letra b) del Código del Trabajo. Al efecto, cabe tener en cuenta que el artículo 456 del Código del Trabajo establece que: “El tribunal apreciará la prueba conforme a las reglas de la sana crítica. Al hacerlo, el tribunal deberá expresar las razones jurídicas y las simplemente lógicas, científicas, técnicas o de experiencia, en cuya virtud les asigne valor o las desestime. En general, tomará en especial consideración la multiplicidad, gravedad, precisión, concordancia y conexión de las pruebas o antecedentes del proceso que utilice, de manera que el examen conduzca lógicamente a la conclusión que convence al sentenciador.”
+
+Por ello, lo que corresponde es determinar si en su sentencia el tribunal ha vulnerado en forma manifiesta, esto es, de manera evidente y notoria las reglas indicadas en el artículo 456 ya citado.
+
+Décimo: Que, para que esta Corte, en cuanto tribunal de nulidad, se encuentre en condiciones de efectuar un control sobre las reglas de la valoración de la prueba en la fundamentación de la sentencia, resulta indispensable que la parte recurrente precise al momento de formalizarlo, las reglas fundamentales de la lógica, de la ciencia y de la experiencia, que habrían sido incumplidas por el juez de la instancia, límites de ponderación que tradicionalmente se han entendido referidos a las leyes fundamentales de coherencia y derivación y a los principios lógicos de identidad, contradicción, tercero excluido y razón suficiente.
+Además, por tratarse de un vicio formal, se exige que la infracción de las reglas de valoración de la prueba sea “manifiesta”, esto es, evidente, ostensible, indudable.
+
+Undécimo: Que en este caso el recurrente reprocha que el tribunal vulneró las máximas de la lógica y la experiencia al ponderar las probanzas de manera aislada y no conjunta llegando a conclusiones que carecen de raciocinio. De haber analizado integralmente la prueba documental, testimonial y confesional habría concluido necesariamente la existencia de sobrecarga laboral, la prestación de horas extraordinarias no remuneradas y la afectación de la integridad física y psíquica de la trabajadora.
+Duodécimo: Al efecto, cabe señalar en primer término que el libelo no cumple el imperativo establecido en el artículo 479 del Código del Trabajo, pues no desarrolló la forma en que el juez vulneró las reglas de la lógica y de la experiencia, imprescindible para poder proceder a su análisis, limitándose a cuestionar la decisión a la que arribó el sentenciador del grado al analizar la prueba, respecto de la cual manifiesta su disconformidad al sostener que la prueba sí es suficiente para acoger sus pretensiones, acápite que no es materia de la causal impetrada.
+
+De acuerdo con el considerando octavo que antecede, en que se transcriben considerandos relevantes de la sentencia del grado, se constata que la jueza razona sobre la prueba rendida, la pondera, le asigna valor de acuerdo con el mérito observado por el tribunal del fondo, sin que exista una conclusión carente de sustento, es decir, todo su razonamiento es lógico, congruente con los hechos establecidos, de manera que no existe violación alguna a las normas de apreciación de la prueba.
+
+Asimismo, cabe señalar que las alegaciones del recurrente se limitan a proponer una interpretación alternativa de la prueba rendida, especialmente del libro de asistencia, de las declaraciones testimoniales y de la confesión del empleador, pretendiendo que esta Corte acoja sus pretensiones a partir de dichos antecedentes. Sin embargo, el tribunal de la instancia explicó de manera razonada por qué estimó que los registros de asistencia no permitían determinar con precisión la existencia, extensión y periodicidad de las horas extraordinarias reclamadas, ni establecer que éstas se hubiesen prestado con conocimiento o autorización del empleador, así como también por qué la prueba testimonial rendida no resultaba suficiente para acreditar los hechos constitutivos de la denuncia de tutela laboral.
+
+En virtud de todo lo señalado debe rechazarse la causal de nulidad interpuesta.
+
+IV.- Análisis de la causal consistente en infracción de ley interpuestas conjuntamente con las anteriores.
+
+Décimo Tercero: Que, se ha interpuesto la causal de nulidad consistente en infracción de ley de manera conjunta con los arbitrios anteriores, lo que trae diversas consecuencias, siendo una de ellas que ambos motivos se deben acoger y si alguno no prospera, el otro, independientemente del fondo del asunto, debe rechazarse por esta sola razón.
+
+A lo anterior, cabe agregar que la ley procesal laboral permite esgrimir más de una causal de nulidad en un mismo recurso y autoriza también al recurrente para hacerlo en forma conjunta, como se hiciera en este caso. Con todo, esa forma de interposición opera en la idea que todas esas causales son compatibles o que no se contraponen, porque de lo contrario se torna racionalmente imposible su resolución.
+Décimo Cuarto: Que respecto de la causal el artículo 477 del Código del Trabajo, sobre infracción de ley, tiene como finalidad velar por una correcta aplicación del derecho a los hechos o al caso concreto determinado en la sentencia. En otras palabras, su propósito esencial está en fijar el significado, alcance y sentido de las normas, en función de los hechos tenidos por probados. Dicha hipótesis resulta procedente en el evento que el fallo aplique incorrectamente el derecho llamado a regir la cuestión que motiva la controversia, lo que puede tener lugar en los casos de contravención formal de la ley -aquéllos en que la sentencia prescinde de la ley o falla en oposición a su texto expreso-; en los de errónea interpretación de la ley -cuando la sentencia da al precepto legal un sentido o alcance distinto a aquel que debió haberle dado si hubiera aplicado correctamente las normas de interpretación; y si existiere una falsa aplicación de la ley -defecto que puede producirse cuando la ley se aplica a un caso no regulado por la norma o la sentencia prescinde de la aplicación de la ley para los casos en que ella se ha dictado-, siempre que cualquiera de estas hipótesis que se presente influya sustancialmente en lo dispositivo del fallo.
+
+Décimo Quinto: Que se establecieron como hechos de la causa los siguientes:
+
+-La existencia de la relación laboral al menos desde el 04 de enero de 2023 hasta el 12 de diciembre de 2023, cumpliendo funciones de vendedora.
+
+-El cumplimiento de las formalidades legales del despido por necesidades de la empresa.
+
+-El finiquito, suscrito con cláusula de reserva, a la trabajadora se le descontó la suma de $107.433, por concepto de aporte del empleador a la AFC.
+
+-No se acreditaron indicios debido a vulneración de derechos, conforme lo mandata el artículo 493 del Código del trabajo.
+
+-No se han acreditado las horas extraordinarias solicitadas.
+
+Décimo Sexto: El recurrente sostiene que la omisión de los requisitos del artículo 459 N° 4 del Código del Trabajo y la infracción de las reglas de la sana critica condujeron a vulnerar sustancialmente los artículos 485 y siguientes del Código del Trabajo relativos al procedimiento de tutela laboral y los artículos 42 letra b), 58 y 162 del mismo cuerpo legal en materia de horas extraordinarias y nulidad del despido. Agrega, que las extensas jornadas de trabajo sin descanso de colación, sumado a la sobrecarga laboral, causaron deterioro a la integridad física y psíquica de la actora, derecho fundamental consagrado en el artículo 19 N° 1 de la Constitución Política de la República.
+
+Décimo Séptimo: Que como se adelantó en el motivo décimo tercero que antecede, en este caso por la forma en que las causales han sido interpuestas, las hipótesis de ambas resultan irreconciliables, en atención a que operan de manera diversa. Al efecto, cabe señalar que existe contradicción formal de las mismas, mientras que con las primeras causales subsidiarias, -478 letra e) en relación con el artículo 459 N° 4, del Código del Trabajo, y la establecida en el artículo 478 letra b) del mismo cuerpo legal- se pretende la modificación de los hechos; luego el recurrente al interponer conjuntamente la causal del artículo 477 del mismo código, lo que implica aceptar los hechos que se han establecidos como efectivos, los que resultan inamovibles, por lo que es evidente que ambos escenarios, uno fáctico y otro normativo, no pueden coexistir en un análisis conjunto, sin perjuicio de lo que se dirá a continuación.
+
+Además, cabe agregar que la causal conjunta tampoco puede prosperar cuando las supuestas infracciones de ley se construyen sobre la base de hechos diversos a los acreditados por el tribunal o descansan en la premisa de que la prueba debió ser valorada de manera diversa.
+Es así, que, no habiéndose acreditado la existencia de horas extraordinarias, ni indicios de vulneración de derechos fundamentales, no es posible sostener que ha existido infracción de las normas que invoca el recurrente, por lo que la causal impetrada conjuntamente debe ser desestimada.
+
+Por las razones anteriores, y lo dispuesto en los artículos 477, 479, 481 y 482 del Código del Trabajo, se rechaza, sin costas el recurso de nulidad deducido por la parte demandante, abogado Christopher Salazar Dunn, por doña Jurgelys Salazar, contra la sentencia de fecha veintiuno de julio de dos mil veinticinco dictada por el Primer Juzgado de Letras del Trabajo de Santiago, en los autos RIT T-286-2024, caratulados "Salazar con L Barbosa SPA", la que en consecuencia no es nula.
+
+Regístrese y comuníquese.
+
+Redactada por la Fiscal Judicial Ana María Hernández Medina.
+
+No firma la ministra Carolina Brengi, no obstante concurrir a la vista de la causa y del acuerdo, por ausencia.
+
+Rol Laboral-Cobranza N°2770-2025.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+1° Juzgado de Letras del Trabajo de Santiago
+
+Santiago, veintiuno de julio de dos mil veinticinco.
+
+VISTOS:
+
+PRIMERO: Que, comparece JURGELYS SALAZAR CALZADILLA, venezolana, actualmente desempleada, cédula nacional de identidad número 27.769.783-1, domiciliada para estos efectos en calle Martínez de Rozas #5048, comuna de Quinta Normal, deduciendo demanda por tutela de derechos fundamentales, nulidad del despido, cobro de prestaciones laborales e indemnizaciones laborales, de conformidad a los artículos 162, 485 y siguientes del Código del Trabajo y demás normas pertinentes, en contra de L BARBOSA SPA, rol único tributario número 77.219.776-9, representada legalmente por don Luis Palma Barbosa de Paula, desconoce profesión u oficio, cédula nacional de identidad número 17.329.079-9, ambos domiciliados en calle Teatinos #371, oficina N°508, comuna y ciudad de Santiago.
+
+Expone que con fecha 4 de enero del año 2023, inicia la relación laboral para realizar labores administrativas en un local de Óptica, debiendo atender clientes, vender productos y en general realizar las anotaciones correspondientes a la atención y ventas respectivas. Dicho trabajo lo realizaba de manera conjunta con doña María Eugenia Sirit.
+
+Dicha relación laboral no tuvo mayores inconvenientes sino hasta el mes de julio del año 2023, fecha en la cual su compañera de trabajo se ausentó de sus labores por encontrarse en descanso por licencias médicas. En este entendido, comenzó a asumir las responsabilidades que le correspondían a su colega en la medida que no se designara a otra persona en sus funciones.
+
+Pasados los días desde este suceso fue que el empleador colocó a otra persona para cumplir las funciones de la trabajadora que estaba haciendo uso de su licencia médica, quien sería doña Sara Banda. A este respecto la persona que vino a suplir sus funciones no tenía mayor experiencia en el rubro o al menos en las labores que tenían diariamente en la Óptica, por ello no pudo desligarse del trabajo adicional puesto que le nombraron “encargada de local”, razón por la cual, si su nueva colega no realizaba adecuadamente sus funciones, la actora debía cumplirlas.
+
+Debido a las labores subsumidas, se le complicaron los horarios de descanso o colación, puesto que para cumplir los objetivos o metas que le encargaban debía soslayar su horario de colación y trabajar horas extraordinarias, a efectos de poder cumplirlas.
+
+El no poder hacer uso de su horario de colación como la realización de horas extras, fueron comunicados a su empleador desde la primera semana en que se realizaron, sin embargo, su jefa o supervisora doña Lucía de Paula le respondía que lo resolverían más adelante o llanamente no prestaba atención a sus reclamos.
+
+En septiembre del año 2023, frente al exceso de carga laboral, solicitó -nuevamente- a su jefa o supervisora que se le paguen las horas extraordinarias trabajadas como también que se respete su horario de colación, empero, ésta se negó rotundamente al pago y en cuanto a la colación, la responsabilizó por no tomárselas, desconociendo íntegramente que ellos mismos establecían metas u objetivos que no le permitían usar su horario de colación tranquilamente.
+
+Luego de esta conversación, se produjo un cambio rotundo en el trato por parte de la jefatura hacia la denunciante, toda vez que comenzaron a hostigarle y/o asediarle con mayor cantidad de trabajo, alza en las metas u objetivos que debían alcanzar mes a mes, como asimismo un trato personal hostil. Como si fuera poco, de manera unilateral y arbitraria, sus liquidaciones de sueldo se ven modificadas reduciendo drásticamente los conceptos de Colación, Movilización y Viáticos.
+
+La circunstancia mencionada comenzó a ocurrir desde el mes de septiembre del año 2023, posteriormente entre los meses de octubre y noviembre doña Lucia de Paula se le acerca para realizarle una “nueva propuesta laboral”, indicándole que para seguir trabajando en conjunto sería “bueno” que le despidieran por la causal “necesidades de la empresa”, para luego prestarles servicios de manera personal emitiendo boletas de honorarios, y así podría ver aumentada su renta.
+
+Esta situación ya la había visto con otras personas que trabajaban para esta empresa y que aceptaron dicha propuesta, pero luego nunca más los volvió a ver, puesto que esto era una táctica para terminar la relación laboral de manera consensuada, razón por la cual no aceptó por ningún motivo la propuesta y aprovechó nuevamente de representar su malestar en cuanto a las horas extras no pagadas, el horario de colación, los conceptos que se vieron disminuidos en las liquidaciones de sueldo y las demás prestaciones que se le adeudaban.
+
+Con fecha 11 de diciembre del año 2023, mediante la aplicación de comunicación instantánea WhatsApp, doña Lucia de Paul le remite a una carta fechada del día 01 de diciembre de 2023, mediante la cual se le informa que la relación laboral fenecerá el día 31 de diciembre del año 2023, lo cual fue una total mentira, puesto que le despidieron en ese mismo instante.
+
+Ante esto se le solicita que se acerque a notaría a firmar el finiquito, sin embargo, en él solo se liquidaba la indemnización por feriado legal y el descuento del aporte por AFC, soslayando el pago íntegro de la indemnización sustitutiva de aviso previo, el pago de horas extras, las disminuciones de conceptos de sus liquidaciones de sueldo, entre otros.
+
+Además de esto, doña Lucia de Paul procede a tratarla de “tonta” por no aceptar las propuestas que le habían hecho anteriormente y que de todas formas no le pagarían nada más de lo establecido en el finiquito, denotándose claramente un amedrentamiento de su parte haciendo uso y abuso de su superioridad laboral.
+
+En vista de que perdería el trabajo sin importar lo que pudiera realizar, procede a firmar el finiquito -con expresa reserva de derechos- el día 12 de diciembre del año 2023, realizando los reclamos respectivos ante la Dirección del Trabajo en la misma fecha y, celebrándose audiencia de conciliación y mediación con fecha 17 de enero del año 2024, declarándose frustrada dicha instancia por no concurrir el empleador a la misma.
+
+En el caso particular, el derecho fundamental principalmente afectado fue el derecho a la integridad física y psíquica establecido en el artículo 19 N°1 de la Constitución Política de la República, como asimismo fui objeto de tratos vejatorios por parte de su jefa o supervisora lo cual perjudicó directamente su situación laboral y devino en la desvinculación que se alega.
+
+En cuanto a la vulneración de la integridad física y psíquica, esta se ve manifestada en que en vista de la absorción de labores que tenía su colega de trabajo -la cual comenzó a hacer uso de licencias médicas-, puesto que mientras el empleador no obtuviera o colocara un reemplazo para ejercer sus labores, tuvo que asumir todas las responsabilidades que conllevaban la mantención de la óptica en la cual trabajaba, haciéndose claramente insostenible en el tiempo dicha práctica.
+
+Esta situación, fue la que conllevó que la actora tuviera que dejar de hacer uso de su horario de colación, afectando su alimentación para efectos de que el local pudiera funcionar como corresponde, lo cual afectó en gran manera su ánimo y fuerzas para seguir trabajando diariamente.
+
+Ahora bien, como si no fuera suficiente el daño físico que se le estaba provocando, al momento de que el empleador contrato a una persona para suplantar (sic) a su colega de trabajo, él mismo no se encargó de hallar una persona apta para la empresa, puesto que ésta por carecer de los conocimientos necesarios o al menos suficientes para sobrellevar las cargas laborales diarias, entorpecía las funciones que se debían cumplir constantemente o llanamente se dedicaba a hacer funciones sencillas tales como abastecer de implementos de limpieza o diligencias bancarias como depositar los ingresos diarios o semanales que obtuviera el negocio, soslayando la tención de clientes y venta de los productos de la empresa.
+
+Hace presente que, en razón de esta carga laboral, tuvo que realizar horas extraordinarias con objeto de poder alcanzar los objetivos que su supervisora establecía constantemente, situación que fue expresada a sus superiores, sin embargo, no fue escuchada en manera alguna y por lo tanto no se le retribuyó lo que le correspondía, afectándole dicha situación en sus ingresos mensuales para subsistir.
+
+Estas situaciones de reclamación conllevaron inmediatamente que fuera objeto de hostilidades y hostigamientos materializándose inclusive en una reducción de su renta en las liquidaciones de sueldo para que la relación laboral terminara no por su desvinculación sino para que la actora renunciara y así no tuviera acceso a las prestaciones que se alegan, sin embargo, como la necesidad de trabajo fue mayor sólo aguantó los malos tratos para que posteriormente y de todas formas fuera desvinculada, siendo este hecho el culmine para demostrar que fue objeto de tratos vejatorios y humillantes, lo cual afectó su integridad física y psíquica perjudicando directamente su situación laboral.
+
+Reitera que vio afectada sus liquidaciones de sueldo y consecuentemente sus ingresos por disminuciones realizadas por el empleador de manera ilegal y arbitraria, procediéndose inclusive en el finiquito a un pago parcial por concepto de indemnización sustitutiva de aviso de previo como asimismo a un pago proporcional parcial a los días trabajados durante el mes de diciembre del año 2023.
+
+Indica lo percibido como sueldo bruto durante los meses de enero de 2023 a diciembre de 2023.
+
+Hace presente que desde el mes de julio del año 2023 que su remuneración comienza a declinar sin justificación o razón alguna, denotándose aún más el hostigamiento hacia su persona.
+
+Pasa a referirse al sueldo que debía percibir, señalando que para calcular las prestaciones adeudadas, tomará en consideración exclusivamente los meses en que percibió sin inconvenientes ni rebajas su liquidación de sueldo, considerándose para tales efectos entonces desde el mes de enero a agosto del año 2023, respecto del cual se obtuvo un sueldo bruto promedio de $781.802, lo cual dista y se encuentra bastante alejado de los $575.000.- que se le pagaron por concepto de indemnización sustitutiva de aviso previo, lo cual por conclusión demostraría cual fue su última remuneración, encontrándose adeudado por este concepto entonces la suma de $206.802.
+
+Por otro parte, como menciona de manera insistente, mientras se encontraba prestando servicios para la demandada, realizó una suma importante de horas extraordinarias mensualmente, que dan cuenta de que se le deben al menos 245 horas extraordinarias.
+
+La base de cálculo promedio da $524.844.-, por lo tanto, la hora normal de trabajo tendría un valor de $2.916.-, y considerando el recargo del 50% para efectos de calcular el valor de la hora extraordinaria, esta ascendería a la suma de $4.374.
+
+En razón de ello, la suma de dinero adeudada por concepto de horas extraordinarias efectivamente trabajadas ascendería a la suma de $1.071.630.
+
+Afirma que no está alegando que el empleador no hizo pago de las cotizaciones previsionales, sino que este se realizó se manera parcial, es decir, no hubo un pago íntegro de sus cotizaciones previsionales, lo cual se materializa en que trabajó una cantidad no menor de horas extraordinarias para el empleador, las cuales nunca fueron pagadas y debieron ser consideradas para la imponibilidad de las cotizaciones previsionales.
+
+Solicita acoger la demanda en todas sus partes y declarar la vulneración de derechos fundamentales que se alega. Que se ordene a la demandada el pago de la indemnización
+
+establecida en el artículo 489 del Código del Trabajo equivalente a once remuneraciones mensuales ($8.599.822) o la cual no puede ser inferior a seis remuneraciones mensuales ($4.690.812.-), la diferencia restante por concepto de indemnización sustitutiva de aviso previo, correspondiente a $206.802, el pago de las horas extraordinarias adeudadas, correspondiente a $1.071.630, se declare la nulidad del despido y se condene a la demandada a enterar el pago íntegro de las cotizaciones previsionales (AFP, salud y seguro de cesantía), las remuneraciones que se sigan devengando desde la fecha del despido y hasta la convalidación del mismo, adeudándose hasta la fecha $1.363.604.-, correspondiente a la diferencia de pago por el mes de diciembre del año 2023 y por la remuneración completa de enero del año 2024.
+
+Todo con reajustes e intereses y costas a la demandada.
+
+En subsidio, deduce demanda de despido injustificado, indebido e improcedente, nulidad del despido, cobro de prestaciones laborales e indemnizaciones laborales, solicitando tener por reproducidos íntegramente los antecedentes de hecho ya señalados.
+
+Sostiene que la carta de aviso de término de relación laboral, resulta totalmente exigua y carente de fundamentos suficientes para considerar el despido justificado por la causal establecido en el artículo 161 del Código del Trabajo, arguyéndose por lo tanto que el despido frente al cual estamos es uno de carácter meramente potestativo, situación que tal como da cuenta el artículo 454 N°1 del mismo cuerpo normativo no puede ser modificada durante el desarrollo del juicio por el empleador.
+
+Argumenta acerca de la restitución o rembolso de descuento por aporte a AFC.
+
+Insiste en que vio afectada sus liquidaciones de sueldo y consecuentemente sus ingresos por disminuciones realizadas por el empleador de manera ilegal y arbitraria, procediéndose inclusive en el finiquito a un pago parcial por concepto de indemnización sustitutiva de aviso de previo como asimismo a un pago proporcional parcial a los días trabajados durante el mes de diciembre del año 2023 y que realizó una suma importante de horas extraordinarias mensualmente.
+
+Pide se declare que el despido es injustificado, indebido e improcedente. Que se ordene a la demandada la restitución o rembolso del descuento al aporte del seguro de cesantía, correspondiente a $107.433, el pago de la diferencia restante por concepto de indemnización sustitutiva de aviso previo, correspondiente a $206.802, el pago de las horas extraordinarias adeudadas, correspondiente a $1.071.630. Se declare la nulidad del despido y se condene a la demandada a enterar el pago íntegro de las cotizaciones previsionales (AFP, salud y seguro de cesantía, las remuneraciones que se sigan devengando desde la fecha del despido y hasta la convalidación, adeudándose hasta la fecha $1.363.604.-, correspondiente a la diferencia de pago por el mes de diciembre del año 2023 y por la remuneración completa de enero del año 2024.
+
+Todo con reajustes, intereses y costas a la demandada.
+
+SEGUNDO: Que, contesta la demandada, afirmando que la trabajadora señala haber sido contratada el día 04 de enero de 2023, si bien la fecha de inicio de la relación laboral es cierta, la denunciante no precisa que su contrato de trabajo original era a plazo fijo o definido, cuya duración se extendía hasta el día 03 de abril del mismo año. Por ende, con fecha 04 de abril de 2023, en virtud de un anexo a su contrato original, se modificó únicamente la duración, estableciéndoselo como indefinido y manteniéndose inalterable el resto de su contenido.
+
+La trabajadora no indica cuál era su jornada de trabajo, que era de cuarenta y cinco horas, la que se extendía entre las 10:00 y las 18:30 horas cada día entre lunes a sábado, incluyendo una hora de colación cada día, período no considerado como parte de la jornada laboral.
+
+En cuanto al sueldo base indica que la actora, tanto al calcular las prestaciones laborales supuestamente adeudadas, como al señalar sus “Pretensiones concretas, vierte variadas cifras discordantes entre sí, por lo que no queda claro cómo llega a la base de cálculo que señala, ni, en consecuencia, a las sumas demandadas.
+
+Aclara que la remuneración pactada en su contrato de trabajo, a saber: en el apartado Quinto del “Contrato definido” (a plazo fijo) suscrito, según se dijo, entre las partes con fecha 04 de enero de 2023, se establece como sueldo base mensual el de $410.000.- (cuatrocientos diez mil pesos), al cual se agregaba únicamente, un porcentaje también mensual de la gratificación total anual del veinticinco por ciento de lo devengado por la trabajadora, con un tope de 4,75 ingresos mínimos mensuales, de acuerdo a lo dispuesto en los artículos 47 y 50 del Código del Trabajo. De esa forma, sumados ambos conceptos, se llegaba a una remuneración mensual imponible que, en todo el período trabajado por ella, fluctuó entre los $461.250 y $575.000. Recalca, que cuando se firmó el anexo entre las partes, en el mes de abril de 2023, no se hizo modificación alguna a su sueldo base y aun así, ella aceptó ser contratada, ahora en forma indefinida, recibiendo el mismo sueldo original.
+
+La trabajadora señala que fue contratada, supuestamente, para realizar “labores administrativas en un local de óptica, debiendo atender clientes, vender productos y en general realizar las anotaciones correspondientes a la atención y ventas respectivas.” Incluso más, señala que, en determinado momento, debió asumir funciones como “encargada de local”, supuesto cargo para el que la habrían “nombrado”. Pues bien, según consigna el contrato de trabajo original, sin que tampoco se hayan hecho modificaciones en este punto en el único anexo que las partes firmaron, el único cargo que detentaba la denunciante era como vendedora, no como administrativa ni menos, como encargada del local en que trabajaba. Si bien es efectivo que durante su período de trabajo, su compañera de local, doña María Eugenia Sirit (quien dicho sea de paso, fue contratada el mismo día que ella), presentó licencia médica de tipo maternal, lo que obligó a la demanda a contratar a una reemplazante -doña Sara Banda, como la propia denunciante consigna- esto no significó que la denunciante pasara a ejercer supuestas labores como “encargada de local” y en cuanto a que ella debió enseñar el trabajo a la señorita Banda, ello no es efectivo, pues esta última trabajadora ya se había desempeñado en otros operativos propios del giro de la empresa, dominando adecuadamente sus funciones. Por lo demás, olvida, al parecer, la denunciante, que al ser contratada, tanto ella como la señora Sirit fueron capacitadas durante una semana por una persona venida desde Santiago con ese expreso fin, lo que ejemplifica este punto. Por último, para ilustrar este punto, podemos señalar que el local comercial de la ciudad de Talca tiene una cortina metálica cerrada con un candado, cuya llave la tienen, por turnos, los distintos trabajadores que se desempeñan en él, por lo que cualquiera puede abrirlo o cerrarlo.
+
+En cuanto a las supuestas horas extraordinarias, reitera que el horario de trabajo de la denunciante era entre 10:00 y las 18:30 horas, cada día, entre lunes a sábado, incluyendo una hora diaria de colación. No obstante, la denunciante señala, como punto central de su alegación, que “para cumplir los objetivos y metas que se me encargaban debía soslayar mi horario de colación y trabajar horas extraordinarias.”
+
+Insiste que el único cargo que ocupaba la trabajadora era como vendedora del mencionado local de la ciudad de Talca, por lo que los “objetivos y metas” no eran otros que vender los artículos ópticos del local. Si a esto le sumamos el que, su contrato de trabajo estipulaba la ya mencionada gratificación mensual porcentual, la que se pagaría -según lo establecía su contrato, en cumplimiento con el artículo 47 ya citado- de acuerdo a lo devengado por ella, es lógico concluir que formaba parte de la naturaleza de sus servicios como vendedora para los que fue contratada, el hacer lo posible por incrementar, o al menos, mantener un buen nivel de ventas en su lugar de trabajo, tanto para que la empresa obtuviera mayores excedentes, cuanto para que su gratificación fuere satisfactoria. Esto nunca significó, al contrario de lo que ella quiere hacer creer en su demanda, que esta parte la conminara a trabajar horas extraordinarias, ni que no le respetara su derecho a colación, ni tampoco, que tolerara estas prácticas abusivas, a sabiendas de que ocurrían.
+
+Si bien en el libro de control de asistencias se señala que algunos días entre lunes a viernes, la trabajadora se habría retirado más tarde de lo pactado en su contrato, este mismo libro consigna que los días sábados, ella se retiraba generalmente entre las 15:45 y las 16:30 en promedio, salvo uno o dos sábados en que se retiró poco más tarde de las 17:00 horas. Vale decir: ni un solo sábado, durante todo su período trabajado, ella se retiró en el horario establecido de las 18:30 horas. Esto nos lleva a la siguiente conclusión, pues los empleadores no estaban físicamente en el local comercial de la sureña ciudad de Talca en el cual la trabajadora desempeñaba sus funciones, pues la empresa tiene su asiento en la ciudad de Santiago según la misma denuncia corrobora, por lo que no tenían cómo llevar un control presencial sobre el fiel cumplimiento contractual de los horarios de ésta, ni en consecuencia, habrían podido conminarla o instarla a trabajar más tarde de lo estipulado, ni menos, a trabajar en sus horarios de colación, que el mismo contrato garantizaba.
+
+Para respaldar el control efectivo en el cumplimiento de los horarios, los empleadores crearon un grupo de whatsapp con todos sus trabajadores, incluyendo a la denunciante, en el cual, éstos debían saludar tanto al ingresar como al concluir su jornada laboral. Pues bien, revisados los mensajes de la denunciante en la mencionada red social, ninguno de ellos corresponde a las supuestas horas extraordinarias que alega en su libelo.
+
+Destaca que la única función de la denunciante era vender los productos del local, en un horario de por sí extenso pero acorde con el funcionamiento habitual del comercio en toda gran ciudad, por lo que tampoco los empleadores habrían obtenido ninguna ganancia económica con obligarla a trabajar más tarde del horario de salida, en los que
+
+el comercio normalmente disminuye.
+
+La trabajadora señala que tras una conversación sostenida en el mes de septiembre de 2023 con doña Lucía De Paula (por parte de la empresa, cuyo verdadera identidad es Lucía Barbosa De Paula), no solo cambió el trato hacia ella, tornándose hostil, sino además, cito textual: “mis liquidaciones de sueldo se ven modificadas reduciendo drásticamente los conceptos de colación, movilización y viáticos.” A partir de esa afirmación, la contraparte expone una serie de cifras-valiéndose incluso de tablas gráficas-, muy discordantes entre sí, no solo en cuanto al monto de las remuneraciones, sino lo que es más delicado, en cuanto a las indemnizaciones adeudadas y el concepto al que correspondería cada una.
+
+Ejemplifica “demando la suma de $8.599.822 o $4.690.812 por concepto de aplicación de la sanción establecida en el artículo 489 del Código del trabajo”, si ya esta frase es confusa, al no existir claridad en la cifra concreta que se demanda por ese ítem, dicha sensación se profundiza cuando a continuación señala: “Con todo, la suma directamente demandada es de $11.349.291” y derechamente esa confusión se torna ininteligible, dejando virtualmente a la denuncia sin peticiones concretas.
+
+Constata que la actora señala primero que, por concepto de la “diferencia adeudada por
+
+indemnización sustitutiva de aviso previo”, se pide la suma de $1.071.630.- y por concepto de “horas extraordinarias no pagadas, la suma de $1.363.604.-“
+
+Sin embargo, en su parte petitoria final, en el punto 4 de la misma, la señalada cantidad de $1.071.630 la imputa a un concepto diverso, esto es: “al pago de horas extraordinarias adeudadas” y en el punto 6, la cantidad de $1.363.604.- recién señalada, la imputa a “la diferencia del pago del mes de diciembre del año 2023 y por la remuneración completa de enero de año 2024”.
+
+Más allá de que las normas legales establezcan ciertos mínimos y máximos en cuanto a las cantidades que se puedan solicitar en una demanda o denuncia laboral, es deber de cada actor señalar con precisión y claridad la cantidad que exige por cada concepto, cosa que está muy lejos de ocurrir en este caso.
+
+Recordar que el contrato de la denunciante establecía como remuneración mensual, la
+
+cantidad única de $410.000, a la cual, por contrato, se le agregaba como único monto extra, la gratificación proporcional a que se hizo referencia. No se establece, en el ítem Quinto del contrato, el pago extra de “colación, movilización y viáticos” que ella reclama en su demanda, por lo que si en la práctica se le entregaba una cantidad por esto último, era de manera netamente convencional, no implicando, en consecuencia, una obligación
+
+laboral de parte de la denunciada. Por lo demás, como se establece en el contrato, la trabajadora residía en la misma ciudad en que se encuentra el local comercial donde prestaba sus servicios, por lo que tampoco era procedente un pago por los mencionados conceptos.
+
+No es efectivo, en resumen, que a la trabajadora se le haya “bajado” arbitrariamente el sueldo, pagándosele sumas menores a las que mis representados hubiesen estado, por contrato, obligados. Al contrario, si en los meses finales de su relación laboral, a la trabajadora se le pagaron sumas menores, fue porque las ventas del local comercial en que ella se desempeñaba bajaron, lo cual repercutió directamente en una menor gratificación proporcional, la cual se paga según lo devengado por cada trabajador. Su sueldo base, tantas veces señalado, siempre se le respetó y, de todas maneras, al hacer efectivo el finiquito, en el cálculo de los diversos conceptos que en él se estipularon-particularmente, en el mes de aviso previo- se incorporó un monto proporcional promedio de la referida gratificación, además del sueldo base.
+
+Finalmente, graficando la falta de precisión y concordancia de la denuncia en este importante ítem, señala que la actor omite el sueldo del mes de octubre, y según las liquidaciones de sueldo el sueldo bruto del mes de enero de 2023 de la trabajadora fue de $461.250.- (algo totalmente razonable, considerando que ella ganaba el ingreso mínimo mensual como sueldo base y ese fue su primer mes trabajado) y el sueldo líquido de octubre de 2023, aquel que se omite en la denuncia, fue de $550.000 (el bruto fue de $804.535), siendo que entre octubre y noviembre, en lugar de bajar sus ingresos mensuales, como ella señala, éstos subieron.
+
+En cuanto a la supuesta vulneración de derechos fundamentales, la denunciante no explica cómo el pleno ejercicio de sus derechos fundamentales fue limitado en forma arbitraria o desproporcionada por la demandada, o bien, que no se haya respetado el contenido o núcleo esencial de estos. Este es el marco en el que toda denuncia como la que se ha hecho valer aquí, debe sustentarse. No cualquier situación que un trabajador
+
+considere “injusta”, ya sea en el ejercicio habitual de sus funciones, o al momento de ponérsele término a éstas, constituye una causal para acceder al procedimiento de tutela laboral, pues, por ejemplo, el no respetarle la hora completa de su colación, el mantenerlo en su puesto media hora más tarde de lo estipulado o el alterarle a último momento la fecha de sus vacaciones, pueden ser consideradas situaciones injustas por él, pero pueden ser plenamente explicables dentro del funcionamiento de una empresa. Por ello, como se deduce del inciso segundo del artículo 485 ya citado, la vulneración reclamada en un procedimiento como éste requiere cierta permanencia, o al menos, habitualidad en el tiempo, por algo se alude al “ejercicio” de los derechos y no a la mera “existencia” de ellos. Esto no es baladí, pues a fin de cuentas, un contrato de trabajo es una instancia consensuada entre las partes, a la que el trabajador “decide”, en síntesis, incorporarse (otra cosa son las necesidades que lo motiven), por lo que únicamente cuando las labores que se suponía debía ejercer, o aquellos derechos derivados de las mismas pero inherentes a una relación laboral, son entorpecidos de manera frecuente por su empleador, surge la posibilidad de interponer una denuncia como ésta buscando la reparación correspondiente.
+
+En la especie, no hay claridad, en los fundamentos del libelo, respecto de cuáles habrían sido aquellos actos supuestamente vulneradores de derechos y garantías fundamentales- propios de una relación laboral-, de los que habría sido objeto la denunciante. Se alude a “tratos vejatorios”, a “hostilidades y hostigamientos” y a “malos tratos”, sin especificar en qué consistieron, pero tampoco, sin especificar si con la referencia a estos, se está fundamentando una vulneración habitual de sus derechos durante el período trabajado, o bien, si la supuesta vulneración se habría producido con motivo u ocasión del acto mismo del despido. Lo señala pues, entre sus “Pretensiones concretas”, la denunciante cita el artículo 489 del Código del Trabajo, referido como es sabido, a la vulneración ocurrida en el último supuesto a que se acaba de hacer mención, lo que introduce otra duda más a sus pretensiones y los fundamentos de las mismas.
+
+Solo para contextualizar la verdadera razón del despido de la denunciante, efectivamente a ella se le hizo una propuesta de continuar trabajando a honorarios, manteniendo su mismo sueldo, pues los ingresos del mencionado local de Talca estaban teniendo una drástica caída, ante lo que los empleadores incluso evaluaron la posibilidad de concluir el contrato de arrendamiento por el mismo y luego cerrarlo, pero ella la rechazó. Por eso mismo, en el mencionado finiquito, se incluyó, entre otros conceptos, el pago del mes de aviso, totalizando la suma de $916.817, que esta parte entiende proporcionada al tiempo por ella trabajado, que no alcanzó a ser de un año.
+
+La trabajadora no fue objeto de vejaciones, denostaciones, manipulaciones, coacciones ni apremios físicos ni psicológicos en el tiempo trabajado. Por todo ello, esta parte no solo considera improcedente la denuncia, sino además, exorbitante e incluso, motivada por cierto afán de lucro, de lo que cuenta las confusas y contradictorias sumas expuestas en su parte petitoria, la que no se condice ni con el tiempo trabajado por ella, ni con el debido resguardo que durante ese tiempo esta parte le otorgó en el ejercicio de sus funciones. No debe olvidarse que el mismo artículo 489 por ella citada, si bien permite el pago de una indemnización equivalente a entre seis y once meses, exige que el despido haya sido “discriminatorio” y “grave”, lo que no se encuentra acreditado acá.
+
+Estima debe rechazarse esta solicitud -al igual que el resto de la denuncia principal-, por considerar que las cotizaciones previsionales de la trabajadora fueron íntegramente cubiertas, lo que por lo demás se puede comprobar con el certificado de fecha 19 de diciembre de 2023. En cuanto a invocar como parte del cálculo de este concepto, lo supuestamente adeudado por las “horas extraordinarias”, ello no constituye por ahora más que una mera expectativa, no sustentado en medios de prueba idóneos.
+
+Solicita rechazar la demanda en todas sus partes, declarando que no es procedente declarar que existieron actos constitutivos de vulneración de sus derechos fundamentales y, por tanto, declarar que el demandado no adeuda a la contraria ninguna de las cantidades señaladas en la parte petitoria del libelo principal, todo ello con expresa condena en costas a la contraparte.
+
+Contestando la demanda subsidiaria, por los mismos fundamentos ya invocados, solicita igualmente que la demanda sea rechazada en todas sus partes. Para ello, se pide tener en cuenta especialmente que a la denunciante intentó ofrecérsele una solución pese a los bajos ingresos comerciales que estaba reportando el local en el que ella se desempeñaba y al no haber prosperado esta, lamentablemente, se le hizo pago de casi un millón de pesos en el finiquito.
+
+Todo ello con expresa condena en costas a la contraparte.
+
+TERCERO: Que, llamadas las partes a conciliación, no se produce.
+
+CUARTO: Que se fijaron como hechos no controvertidos: 1.- La existencia de una relación laboral al menos desde 04 de enero de 2023 hasta el 12 de diciembre de 2023, cumpliendo funciones de vendedora. 2.- Cumplimiento de las formalidades legales del despido por necesidades de la empresa. 3.- Que en el finiquito, suscrito con cláusula de reserva, a la trabajadora se le descontó la suma de $107.433-, por concepto de aporte del empleador a la AFC.
+
+QUINTO: Que se establecieron como hechos controvertidos: 1.- La existencia de indicios suficientes de vulneración de derechos (19 N°1 de la Constitución de la República y artículo 2 del Código del Trabajo) que dan cuenta que la demandante fuere víctima de acoso y hostigamiento del empleador; y, que ello provocó que se pusiera término a la relación laboral. En su caso, razonabilidad de las medidas adoptadas por la demandada.
+
+2.- En su caso, justificación de la causal del despido invocada por el empleador. 3.- Base de cálculo para los efectos del artículo 172 del Código del Trabajo y para el cálculo de las horas extraordinarias demandadas. 4.- Efectividad que la demandante trabajó horas extraordinarios con autorización o exigencia de su empleadora.
+
+SEXTO: Que, en audiencia de juicio, las partes incorporaron los siguientes medios de prueba:
+
+-Parte demandante:
+
+Documental:
+
+1) Finiquito de trabajo firmado, con expresa reserva de derechos, ante el notario público Teodoro Durán Palma, con fecha 12 de diciembre de 2023.
+
+2) Carta de aviso de termino de relación laboral comunica con fecha 11 de diciembre de 2023, empero, fechada de día 01 de diciembre de 2023.
+
+3) Capturas de pantalla a aplicación de comunicación instantánea Whatsapp, que da cuenta de la comunicación de aviso de termino de relación laboral de fecha 11 de diciembre de 2023.
+
+4) Liquidaciones de sueldo de los meses de enero a septiembre, y de noviembre y diciembre, todas del año 2023.
+
+5) Constancia de conflicto laboral con ocasión del despido de doña Jurgelys Salazar emitida por el Portal Electrónico de la Dirección del Trabajo, con fecha 12 de diciembre de 2023.
+
+6) Reclamo por despido realizada ante Dirección del Trabajo con fecha 12 de diciembre de 2023.
+
+7) Reclamo administrativo realizado ante la Inspección del Trabajo, otorgándose el número 1318/2023/28836, con fecha 12 de diciembre de 2023.
+
+8) Acta de audiencia de conciliación y mediación celebrada ante la Dirección del Trabajo vía TEAMS, con fecha 17 de enero de 2024.
+
+9) Fotografías Libro de Control de Asistencia de L Barbosa SPA, por la trabajadora doña Jurgelys Salazar entre los meses de enero a diciembre del año 2023, ambos meses inclusive.
+
+Confesional:
+
+Luis Barbosa por la demandada.
+
+Testimonial:
+
+1) Mario Andrés Reyes Velásquez, chileno, C.I. N°16.971.072-4,
+
+2) Luis Alberto Silva Maita, venezolano, C.I. N° 23.124. 695-9,
+
+Oficios:
+
+1) AFC Chile,
+
+2) AFP Modelo S.A.,
+
+3) FONASA,
+
+Exhibición de documentos:
+
+1) Libro de Asistencia L Barbosa SPA de todos sus trabajadores, por el año 2023, o en su defecto, la exhibición del Libro de Asistencia sólo respecto de la trabajadora doña Jurgelys Salazar Calzadilla por los meses de enero a diciembre del año 2023, ambos meses inclusive.
+
+2) Libro de remuneraciones de L Barbosa SPA de todos los trabajadores, por el año 2023, o en su defecto, la exhibición del Libro de Remuneraciones sólo respecto de la trabajadora doña Jurgelys Salazar Calzadilla por los meses de enero a diciembre del año 2023, ambos meses inclusive. Solicitud apercibimiento
+
+3) Liquidaciones de Sueldo que L Barbosa SPA pagó a la trabajadora doña Jurgelys Salazar Calzadilla, por los meses de enero a diciembre del año 2023, ambos meses inclusive.
+
+Denunciante solicita aplicación de apercibimiento legal del articulo 453 n°5 del Código del Trabajo respecto del N°2.
+
+-Parte Demandada:
+
+Documental:
+
+a) Contrato definido de trabajo, suscrito entre por la trabajadora con fecha 04 de enero de 2023.
+
+b) Anexo del mencionado contrato, suscrito por las partes con fecha 04 de abril de 2023.
+
+c) Liquidaciones de remuneraciones del denunciante correspondientes a los meses de enero a diciembre de 2023.
+
+d) Copia del libro de asistencias del denunciante, entre los meses de enero y diciembre de 2023.
+
+e) Certificado de pago de cotizaciones previsionales al denunciante, de fecha 11 de diciembre de 2023.
+
+f) Finiquito de trabajo suscrito por ambas partes con fecha 12 de diciembre de 2023.
+
+g) Comprobante de carta de aviso para terminación del contrato de trabajo, suscrito por la trabajadora con fecha 12 de diciembre de 2023.
+
+Confesional:
+
+Jurgelys Eliani Salazar Calzadilla Rut N° 27.769.783-1,
+
+SEPTIMO: Que, en cuanto a la acción por vulneración de derechos fundamentales, corresponde analizar, de conformidad al artículo 493 del Código del Trabajo, si los antecedentes aportados por la denunciante constituyen indicios suficientes de que se ha producido la vulneración que se alega. Para fundar la vulneración de derechos que reclama, la actora realiza una relación bastante somera, carente de detalles, señalando que sufrió acoso y humillaciones, las que no describe claramente. Por otra parte, indica que existieron una serie de incumplimientos de parte del empleador, como sobrecarga, funciones que no les correspondían y horas extras no pagadas.
+
+OCTAVO: Que, en cuanto al acoso, a más de no haber sido descritas las circunstancias que estima constituyen tal vulneración, la actora no rindió prueba de aquello, si bien sus testigos refieren incumplimientos de la demandada, lo cierto es que ninguno de ellos describe -ni someramente- algún tipo de acoso. En cuanto a la imposibilidad de hacer uso de su hora de colación, ha de señalarse que la actora indica que ello se debe a las metas impuestas por el empleador, que no se lo permitían, hecho que no acreditó de modo alguno, siquiera en cuanto a la existencia de las referidas metas. Asimismo, la actora indica que se vulneró su derecho a la integridad física y síquica, de lo que no hay prueba tampoco, pues a más de las menciones de su testigo Sr. Luis Silva, quien era su pareja, narrando que tuvo que llevarla al Cesfam por un ataque de pánico, tal situación no fue referida en la demanda y no existe documento que dé cuenta de alguna atención en centro de salud, y solo agregó que, además, la actora tenía poco apetito. De este modo, estas circunstancias no son indiciarias de afectación de garantías fundamentales, desde el momento que el denunciante no fundamentó un vínculo de causa efecto entre el despido y una consecuencia diversa de la pérdida del empleo. Por otra parte, los indicios aludidos carecen de la gravedad suficiente dada la falta de precisión y claridad del libelo de demanda, lo que infringe lo dispuesto en el artículo 490 del referido cuerpo legal.
+
+NOVENO: Que, la doctrina y jurisprudencia están contestes que para vulnerar garantías fundamentales debe, sin duda, resultar exigible a lo menos acreditar indicios respecto a la existencia de motivaciones antijurídicas, persecutorias o espurias, o bien la existencia de una especial intención de dañar o lesionar al trabajador como ciudadano, que la conducta del empleador vulnere intereses cautelados por la ley laboral, involucrando una afectación distinta de aquélla que normalmente produce el hecho de ser objeto de un despido, o por los incumplimientos del empleador que derivan en la necesidad de un despido indirecto.
+
+DECIMO: Que, con todo lo señalado, sólo es posible determinar que no habiendo acreditado suficientemente el trabajador los indicios de la vulneración reclamada, conforme lo mandata el artículo 493 del Código del Trabajo, la denuncia en procedimiento de tutela habrá de rechazarse, según se dirá.
+
+UNDECIMO: Que, en cuanto al despido, preciso es señalar que de conformidad al artículo 454 Nº1 del Código del Trabajo, le corresponde a la demandada acreditar la veracidad de los hechos imputados en la carta de despido. Al efecto baste señalar que la misiva en cuestión, únicamente señala “Por medio de la presente, nos permitimos comunicar que, con fecha 31 de diciembre de 2023, se ha resuelto poner término al contrato de trabajo que la vincula con la empresa, por la causal del artículo 161 del Código del Trabajo – Necesidades de la empresa.” Para luego referir que las cotizaciones de la demandante se encuentran pagadas y los montos que solucionará. De lo referido, se concluye que la parte demandada no indicó en la carta de aviso de despido de la actora, los presupuestos fácticos en que fundamenta la causal de desvinculación invocada; así las cosas, la falta de indicación de hechos concretos que configurarían la causal de exoneración invocada por el empleador para poner término al contrato de trabajo de su dependiente, convierte inmediatamente dicho despido en injustificado, indebido o improcedente, según corresponda, toda vez que la omisión indicada si bien no invalida el despido, tal como prescribe el inciso penúltimo del artículo 162 citado, sí obliga a tenerlo como injustificado, considerando que el conocimiento de los hechos fundantes de la decisión del empleador es indispensable para que el afectado determine si accionará o no reclamando la declaración de injustificación del término del vínculo, defina el contenido de su demanda. Siendo además que el artículo 454 N°1 del Código del Trabajo, pone al empleador la carga de acreditar los hechos fundantes del término del contrato, y los circunscribe a los que se contengan en la carta de despido, por lo que no habiendo hechos nada pudo acreditar la demandada.
+
+DUODECIMO: Que, en relación con el despido injustificado que se declarará, la actora demanda únicamente diferencias por la indemnización sustitutiva de aviso previo -que habrá de determinarse- y restitución de lo descontado en el finiquito por aporte patronal al AFC. Debe tenerse en cuenta que el artículo 13 de la Ley N°19.728 autoriza al empleador a imputar a la indemnización por años de servicios -prevista en el inciso segundo del artículo 163 del Código del Trabajo-, la parte del saldo de la Cuenta Individual por Cesantía del trabajador constituida por las cotizaciones que haya efectuado más su rentabilidad, deducidos los costos de administración que correspondan, cuando se invoquen algunas de las causales de despido previstas en el artículo 161 del Código del Trabajo –esto es, necesidades de la empresa y desahucio-. En el caso, dada la duración de la relación laboral, no procede pago alguno de la indemnización sobre la cual el empleador pudo haber efectuado tal descuento. Por lo demás, la Excma. Corte Suprema ha fallado en reiteradas oportunidades que el objetivo del legislador al establecer el inciso 2° del artículo 13 de la Ley N°19.728, no ha sido otro que favorecer al empleador en casos en que se ve enfrentado a problemas en relación con la subsistencia de la empresa, con una suerte de beneficio cuando debe responder de las indemnizaciones relativas al artículo 161 del Código del Trabajo, y tratándose de una prerrogativa, debe ser considerada como una excepción, por lo tanto, su aplicación debe hacerse en forma restrictiva. Ello lleva a concluir que sólo puede proceder cuando se configuran los presupuestos del artículo 161, esto es, cuando el despido del trabajador se debe a necesidades de la empresa que hacen necesaria la separación de uno o más trabajadores, de manera que, en el caso, tratándose de un despido injustificado, no es posible que el empleador se vea beneficiado y autorizado para descontar lo aportado al seguro de cesantía. En consecuencia, ha de estimarse entonces que la procedencia del descuento no resulta tampoco acreditada, por lo que se ordenará el pago de lo que en forma improcedente se descontó al trabajador de sus indemnizaciones, por la suma de $107.433.
+
+DECIMO TERCERO: Que, en cuanto a la remuneración, la actora ha señalado que desde el mes de julio del año 2023 su remuneración comienza a disminuir sin justificación, mientras que el demandado indica que si en los meses finales de su relación laboral, a la trabajadora se le pagaron sumas menores, fue porque las ventas del local comercial en que ella se desempeñaba bajaron, lo cual repercutió directamente en una menor gratificación proporcional. Cabe señalar que el contrato de la actora establece el pacto de Sueldo Base Mensual por $ 410.000 y Gratificación, de conformidad a lo establecido en el artículo 50 del Código del Trabajo. Ahora bien, de las liquidaciones de remuneraciones aportadas por ambas partes que resultan idénticas, la trabajadora no acompaña la de octubre de 2023. Revisada la incorporada por el empleador -que no fuera objetada- aparece claramente que no resulta conveniente a los intereses de la demandante. De dichas liquidaciones se tiene que el sueldo base y gratificación fue pagado incluso reajustadas a partir de septiembre de 2023. Asimismo, a la actora se le pagaba además $70.000 por colación y $90.000 por movilización a contar de marzo de 2023, y que se rebaja en el mes de noviembre sin justificación. Dado que este concepto fue incorporado en todas sus remuneraciones, no se comprende que la actora no lo reclame como un derecho adquirido. Por otra parte existe un concepto de viático, que la actora no explica a qué corresponde, que es pagado en distintos montos mensuales y que en algunos meses no se paga, y que según explicó el representante de la demandada correspondía a salidas de los vendedores a starken para despacho de pedidos. De este modo, considerando que sólo este ultimo pudo ser variable, se estará a los tres últimos meses trabajados considerando en este lo pagado, más los estipendios fijos base y gratificación agregándose la colación y movilización que debió mantenerse inmodificable en noviembre, lo que da de los haberes de agosto septiembre y octubre una remuneración promedio de $763.175.
+
+DECIMO CUARTO: Que, en cuanto a la diferencia reclamada en la indemnización sustitutiva de aviso previo pagada por el empleador que ascendió a $575.000, conforme a lo razonado procedentemente, se ordenará el pago de $188.175.
+
+DECIMO QUINTO: Que, en cuanto a las horas extraordinarias, ha de tenerse en cuenta que el contrato establece en su numerando cuarto que la jornada de trabajo será de 45 horas semanales distribuidas de Lunes a Sábado, de 10:00 a 18.30 horas, incluyendo una hora de colación, periodo no considerado como parte de la jornada laboral. Ha de indicarse que resulta determinante para estos efectos el que, en el libelo, no se señale con claridad cuales son las horas que demanda y a que periodo corresponden, lo que obviamente deja en indefensión a la empleadora en cuanto no le es posible defenderse adecuadamente de las aseveraciones que se contienen en la demanda.
+
+DECIMO SEXTO: Que, además de lo señalado, la demandante indica que se le adeudan a lo menos 245 horas extraordinarias, debiendo considerarse que la relación laboral únicamente se mantuvo por algo más de 46 semanas, de modo que ha de concluirse que la trabajadora señala haber trabajado, a lo menos, 5 horas extras cada semana. Ahora bien, revisados los registros de asistencia, se tiene que si bien en algunas semanas laboró poco más de 45 horas, no es menos cierto que en algunas de ellas como la del 23 al 28 de enero, el registro indica que no alcanza a completar las 45 horas pactadas en el contrato, siendo además que existen días en que no registra asistencia como se aprecia del 16 de junio, en que no hay firma de hora de salida como el 23 de junio, o registra permisos como el día 26 de septiembre, ingresando a las 11:00 hrs.; o el día completo con permiso para obtener pasaporte el día 2 de noviembre, y además, tal como señala el demandado, retirándose todos los días sábado entre las 15:00 y 16:00 hrs, con bastante antelación a la hora pactada, sin perjuicio que también en innumerables ocasiones la demandante firmaba su ingreso después de las 10:00 hrs, que corresponde al ingreso establecido en el contrato, nada de lo cual se menciona en la demanda.
+
+DECIMO SEPTIMO: Que, por otra parte, las horas extras han sido solicitadas y calculadas sin respaldo alguno, pretendiendo la demandante entregar al juez el cálculo en cada uno de los días trabajados, lo que no es posible de aceptar, menos si la trabajadora contaba con copias del libro de asistencia, tal como fue ofrecido en la audiencia preparatoria. Por todas estas razones y no habiendo acreditado la demandante la existencia de las 245 horas que plantea al menos trabajó de manera extraordinaria, la demanda será rechazada en este punto, según se dirá y consecuentemente la nulidad del despido que sustenta en esta petición.
+
+DECIMO OCTAVO: Que, la prueba ha sido analizada conforme a las reglas de la sana crítica y el resto no pormenorizado, en nada altera lo decidido.
+
+Por estas consideraciones y visto además lo dispuesto en los artículos 1, 7 y siguientes, 34, 41, 54, 63, 162, 168, 453, 454 y 485 y siguientes del Código del Trabajo, se declara:
+
+I.- Que se rechaza en todas sus partes la denuncia por vulneración de derechos fundamentales.
+
+II.- Que, se acoge parcialmente la demanda subsidiaria, sólo en cuanto se declara injustificado el despido e improcedente el descuento efectuado de conformidad a lo establecido en la Ley 19.728, condenándose a la demandada al pago de:
+
+a) $188.175 por diferencia en lo pagado por indemnización sustitutiva de aviso previo.
+
+b) $107.433 por descuento indebido del aporte patronal al AFC
+
+III.- Que, se rechaza en lo demás pedido en la demanda.
+
+IV.- Que los montos precedentemente señalado se deberán pagar más los reajustes e intereses legales que correspondan, de conformidad a lo dispuesto en los artículos 63 y 173 del Código del Trabajo, según corresponda.
+
+V. -Que, cada parte pagará sus costas.
+
+Regístrese y archívese en su oportunidad.
+
+RIT : T-286-2024
+RUC : 24- 4-0546872-3
+
+Pronunciada por ANDREA LEONOR SILVA AHUMADA, Juez Titular del Primer Juzgado de Letras del Trabajo de Santiago.
+En Santiago a veintiuno de julio de dos mil veinticinco, se notificó por el estado diario la sentencia precedente.
+
+San Martín #950 Santiago – Fono 02-9157000
+
+Correo Electrónico jlabsantiago1@pjud.cl
