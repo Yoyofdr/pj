@@ -1,0 +1,74 @@
+METADATA
+
+case_id: 55445db28521e2086d5d7c4d8d4c6a511beb4584
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8050378
+
+rol: 4073-2026
+
+fecha_sentencia: 2026-03-05
+
+caratulado: QUINTERO CARCAMO MAURICIO / V-MAX SPA
+
+sala: CUARTA, MIXTA
+
+materias: ▪ Recurso de unificación de jurisprudencia
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: INADMISIBLE UNIFICACIÓN DE JURISPRUDENCIA, NO ES MATERIA PROPIA DE UNIFICACION
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, cinco de marzo de dos mil veintiséis.
+Vistos:
+Se confirma la sentencia apelada de fecha treinta de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Concepción.
+Regístrese y devuélvase.
+
+Rol N° 1.161-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Concepción
+xsr
+Concepción, treinta de diciembre de dos mil veinticinco.
+
+VISTOS
+
+Comparece el abogado Andrés Rolando Méndez Ortega, en representación de VÍCTOR HUGO GONZÁLEZ ALVARADO, suboficial del Ejército de Chile, quien interpone un recurso de protección en contra de la Comisión de Sanidad del Ejército (CSE) y el Comando de Salud del Ejército, representados por su presidente y el Comandante en Jefe del Ejército respectivamente.
+
+El recurrente señala que posee 30 años de servicio efectivo y que, tras una destacada carrera como instructor de infantería y paracaidista, comenzó a padecer graves patologías físicas (discopatía y hernias discales) desde el año 2012, derivadas de sus funciones militares. Sostiene que la falta de adecuación de sus labores y tratos humillantes desencadenaron un deterioro severo de su salud mental, diagnosticándosele trastorno adaptativo crónico, depresión severa, trastorno de personalidad y trastorno delirante, llegando incluso a un intento de suicidio en agosto de 2024.
+
+Impugna la Resolución Exenta N° 1615/54257/012566, de fecha 27 de agosto de 2025, la cual dispuso su retiro temporal por enfermedad curable cronificada. El actor califica este acto de ilegal y arbitrario, argumentando que se fundó en un informe médico desactualizado de 2023 (Informe CSE N° 2310/2023), omitiendo antecedentes psiquiátricos recientes del Hospital Militar de Santiago y el hecho de poseer una discapacidad certificada del 46,6%. Solicita que se deje sin efecto el retiro y se ordene una nueva evaluación para reconocer su condición de inutilidad de carácter permanente.
+
+Informó el Director de Sanidad del Ejército, solicitando el rechazo del recurso por carecer de fundamentos legales. Argumenta que la CSE es el único organismo con la facultad exclusiva y excluyente para determinar la aptitud del personal, según el artículo 234 del DFL N° 1 de 1997. Hace presente que el funcionario acumula un historial de 1.396 días de licencia médica y que la vía de protección no es la idónea para discutir juicios técnicos médicos, los cuales solo son susceptibles de discusión científica.
+
+Informe de la División de Personal (DIVPER): Informó el Coronel Jorge Labarca Cid, Comandante de la División de Personal (S), solicitando también el rechazo del recurso. Expuso que el retiro temporal se dispuso como consecuencia legal forzosa tras la declaración de no aptitud emitida por la CSE, pues DIVPER tiene el deber legal de concluir el procedimiento administrativo de separación una vez firme la decisión técnica. Aclaró que la tramitación del retiro se vio demorada inicialmente por dificultades técnicas en la Plataforma SIAPER de la Contraloría General de la República y por la demora del recurrente en entregar su certificado de antecedentes, lo que obligó a realizar el trámite en soporte papel tras autorización de la CGR en agosto de 2025. Finalmente, hizo presente que el actor acumula un histórico de 1.396 días de licencia médica y que ya firmó su solicitud de pensión de retiro, desahucios y asignación familiar el 6 de octubre de 2025, lo que demuestra la ejecución administrativa del acto.
+
+Informa el Hospital Militar dando de cuenta de las afecciones física y mentales del recurrente.
+
+CONSIDERANDO
+
+1° Que el recurso de protección tiene por objeto amparar el ejercicio de derechos fundamentales ante actos u omisiones arbitrarios o ilegales que causen privación o perturbación en los mismos.
+
+2° Que el acto impugnado consiste en la resolución que dispone el retiro temporal del actor basada en dictámenes de la CSE que lo declararon "No Apto" para el servicio por patologías de salud mental cronificadas que le impiden el uso de armas y el cumplimiento de guardias.
+
+Respecto de la extemporaneidad alegada se rechaza desde ya considerando que la resolución recurrida es de fecha 27 de agosto de 2025 notificada mediante carta certificada al recurrente el día 22 de septiembre de 2025.
+
+3° Que, de los antecedentes aportados, se observa que la institución recurrida actuó dentro de la esfera de sus atribuciones legales. La determinación de la capacidad psicofísica del personal es una facultad privativa de la Comisión de Sanidad, basada en juicios técnicos que no pueden ser sustituidos por el arbitrio judicial en esta sede cautelar.
+
+4° Que, respecto a la alegada falta de consideración de nuevos antecedentes, consta que el recurrente ha interpuesto diversos recursos de reposición administrativos, los cuales han sido resueltos ratificando su condición de no aptitud. Por tanto, no se verifica una actuación caprichosa, sino una decisión motivada en el historial médico y las facultades legales vigentes.
+
+5° Que la pretensión del recurrente de que se declare su "inutilidad permanente" excede el ámbito de esta acción, pues requiere de un procedimiento de lato conocimiento y discusión técnica ajena a esta vía urgente.
+
+Por estas consideraciones, y conforme a lo dispuesto en los artículos 19 y 20 de la Constitución Política de la República, SE RECHAZA, sin costas, el recurso de protección presentado por VÍCTOR HUGO GONZÁLEZ ALVARADO en contra de la Comisión de Sanidad del Ejército.
+
+Regístrese, notifíquese y archívese.
+
+Redacción de la ministra suplente Claudia Vilches Toro.
+
+N°Protección-4532-2025.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de ConcepciónxsrConcepción, treinta  de diciembre de dos mil veinticinco.VISTOSComparece el abogado Andrés Rolando Méndez Ortega, en representación de VÍCTOR HUGO GONZÁLEZ ALVARADO, suboficial del Ejército de Chile, quien interpone un recurso de protección en contra de la Comisión de Sanidad del Ejército (CSE) y el Comando de Salud del Ejército, representados por su presidente y el Comandante en Jefe del Ejército respectivamente.El recurrente señala que posee 30 años de servicio efectivo y que, tras una destacada carrera como instructor de infantería y paracaidista, comenzó a padecer graves patologías físicas (discopatía y hernias discales) desde el año 2012, derivadas de sus funciones militares. Sostiene que la falta de adecuación de sus labores y tratos humillantes desencadenaron un deterioro severo de su salud mental, diagnosticándosele trastorno adaptativo crónico, depresión severa, trastorno de personalidad y trastorno delirante, llegando incluso a un intento de suicidio en agosto de 2024.Impugna la Resolución Exenta N° 1615/54257/012566, de fecha 27 de agosto de 2025, la cual dispuso su retiro temporal por enfermedad curable cronificada. El actor califica este acto de ilegal y arbitrario, argumentando que se fundó en un informe médico desactualizado de 2023 (Informe CSE N° 2310/2023), omitiendo antecedentes psiquiátricos recientes del Hospital Militar de Santiago y el hecho de poseer una discapacidad certificada del 46,6%. Solicita que se deje sin efecto el retiro y se ordene una nueva evaluación para reconocer su condición de inutilidad de carácter permanente.Informó el Director de Sanidad del Ejército, solicitando el rechazo del recurso por carecer de fundamentos legales. Argumenta que la CSE es el único organismo con la facultad exclusiva y excluyente para determinar la aptitud del personal, según el artículo 234 del DFL N° 1 de 1997. Hace presente que el funcionario acumula un historial de 1.396 días de licencia médica y que la vía de protección no es la idónea para discutir juicios técnicos médicos, los cuales solo son susceptibles de discusión científica. Informe de la División de Personal (DIVPER): Informó el Coronel Jorge Labarca Cid, Comandante de la División de Personal (S), solicitando también el rechazo del recurso. Expuso que el retiro temporal se dispuso como consecuencia legal forzosa tras la declaración de no aptitud emitida por la CSE, pues DIVPER tiene el deber legal de concluir el procedimiento administrativo de separación una vez firme la decisión técnica. Aclaró que la tramitación del retiro se vio demorada inicialmente por dificultades técnicas en la Plataforma SIAPER de la Contraloría General de la República y por la demora del recurrente en entregar su certificado de antecedentes, lo que obligó a realizar el trámite en soporte papel tras autorización de la CGR en agosto de 2025. Finalmente, hizo presente que el actor acumula un histórico de 1.396 días de licencia médica y que ya firmó su solicitud de pensión de retiro, desahucios y asignación familiar el 6 de octubre de 2025, lo que demuestra la ejecución administrativa del acto.Informa el Hospital Militar dando de cuenta de las afecciones física y mentales del recurrente.CONSIDERANDO1° Que el recurso de protección tiene por objeto amparar el ejercicio de derechos fundamentales ante actos u omisiones arbitrarios o ilegales que causen privación o perturbación en los mismos.2° Que el acto impugnado consiste en la resolución que dispone el retiro temporal del actor basada en dictámenes de la CSE que lo declararon "No Apto" para el servicio por patologías de salud mental cronificadas que le impiden el uso de armas y el cumplimiento de guardias.Respecto de la extemporaneidad alegada se rechaza desde ya considerando que la resolución recurrida es de fecha 27 de agosto de 2025 notificada mediante carta certificada al recurrente el día 22 de septiembre de 2025.3° Que, de los antecedentes aportados, se observa que la institución recurrida actuó dentro de la esfera de sus atribuciones legales. La determinación de la capacidad psicofísica del personal es una facultad privativa de la Comisión de Sanidad, basada en juicios técnicos que no pueden ser sustituidos por el arbitrio judicial en esta sede cautelar.4° Que, respecto a la alegada falta de consideración de nuevos antecedentes, consta que el recurrente ha interpuesto diversos recursos de reposición administrativos, los cuales han sido resueltos ratificando su condición de no aptitud. Por tanto, no se verifica una actuación caprichosa, sino una decisión motivada en el historial médico y las facultades legales vigentes.5° Que la pretensión del recurrente de que se declare su "inutilidad permanente" excede el ámbito de esta acción, pues requiere de un procedimiento de lato conocimiento y discusión técnica ajena a esta vía urgente.Por estas consideraciones, y conforme a lo dispuesto en los artículos 19 y 20 de la Constitución Política de la República, SE RECHAZA, sin costas, el recurso de protección presentado por VÍCTOR HUGO GONZÁLEZ ALVARADO en contra de la Comisión de Sanidad del Ejército.Regístrese, notifíquese y archívese.Redacción de la ministra suplente Claudia Vilches Toro.N°Protección-4532-2025.                        ⚠                      Sin documento en esta instancia - pdf

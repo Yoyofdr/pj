@@ -1,0 +1,492 @@
+METADATA
+
+case_id: 83269cc9736ccfd84b3043263f2bf3e32c83baa5
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8050334
+
+rol: 7457-2026
+
+fecha_sentencia: 2026-03-05
+
+caratulado: ROMERO GUTIERREZ LEONARDO CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, cinco de marzo de dos mil veintiséis.
+
+Vistos y teniendo presente:
+Primero: Que, de conformidad con lo dispuesto en el inciso séptimo del artículo 483-A del Código del Trabajo, se ha ordenado dar cuenta de la admisibilidad del recurso de unificación de jurisprudencia deducido por el demandado en contra de la sentencia dictada por la Corte de Apelaciones de San Miguel, que rechazó el de nulidad interpuesto contra la de instancia que desestimó la excepción de finiquito, acogió la demanda, declaró el despido improcedente y condenó al pago de las prestaciones que señala.
+
+Segundo: Que según se expresa en la legislación laboral, el recurso de unificación de jurisprudencia es susceptible de ser deducido en contra de la resolución que falle el recurso de nulidad, estableciéndose su procedencia para el caso en que “respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de Tribunales Superiores de Justicia”, conforme lo explicita el artículo 483 del Código del Trabajo.
+
+Asimismo, del tenor de lo dispuesto en el artículo 483-A del cuerpo legal antes citado, aparece que esta Corte debe controlar, como requisitos para su admisibilidad, por un lado, su oportunidad; en segundo lugar, la existencia de fundamento, además de una relación precisa y circunstanciada de las distintas interpretaciones respecto de las materias de derecho objeto de la sentencia, sostenidas en diversos fallos emanados de los tribunales superiores de justicia, y finalmente, debe acompañarse copia del o los fallos que se invocan como fundamento del recurso en referencia.
+
+Tercero: Que la materia de derecho propuesta para ser unificada consiste en “Determinar que el juez debe valorar toda la prueba rendida”.
+
+Cuarto: Que, con relación al tema de derecho cuya línea jurisprudencial se procura unificar por el demandado, esto es, la obligación del juez de ponderar toda la prueba rendida en el juicio, no constituye un asunto jurídico habilitante de este arbitrio, por cuanto no dice relación con la discusión de fondo entre las partes, sino la forma cómo se argumentó para rechazar el recurso; razón que permite desestimarlo en esta etapa procesal.
+Por estas consideraciones y normas citadas, se declara inadmisible el recurso de unificación de jurisprudencia interpuesto contra la sentencia de seis de febrero de dos mil veintiséis.
+
+Regístrese y devuélvase.
+
+N°4.073-26.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+San Miguel, seis de enero de dos mil veintiséis.
+
+VISTOS:
+En estos antecedentes Ingreso Corte N°537-2025 Laboral, correspondientes a la causa RIT 680-2024, seguida entre Mauricio Quintero Cárcamo y empresa V- MAX Spa, ante el Juzgado de Letras del Trabajo de San Bernardo, por sentencia de siete de julio de dos mil veinticinco, en lo que interesa al recurso, luego de rechazar la excepción de finiquito, se acogió la demanda por despido injustificado, ordenando el pago del incremento de un 30% aplicable a la indemnización por años de servicios, devolución del aporte de seguro de cesantía y diferencia por feriado, con costas.
+Contra la aludida decisión, la demandada dedujo recurso de nulidad esgrimiendo como causal principal la contemplada en el artículo 478 letra e), sobre la base de lo que dispone el numeral 4° del artículo 459, ambos del Código del Trabajo y, en subsidio, la que prevé la letra b) del artículo 478 del cuerpo legal citado, por haberse dictado el fallo con infracción de ley que ha influido sustancialmente en lo dispositivo del mismo. Pide se invalide la sentencia y se dicte una de reemplazo en que se deseche íntegramente la demanda, con costas.
+
+Por resolución de veintinueve de julio del año dos mil veinticinco, la Sala Tramitadora de esta Corte declaró admisible el recurso interpuesto, que fue conocido en audiencia del cinco de diciembre del año pasado, escuchándose los alegatos por ambas partes.
+
+CON LO OIDO Y CONSIDERANDO:
+PRIMERO: Que, para sustentar la primera causal invocada, esto es la del artículo 478 letra e), aplicable cuando la sentencia se hubiere dictado con omisión de cualquiera de los requisitos establecidos para la extensión de la sentencia, en la especie los que el que dispone el numeral 4 del artículo 459 del código en la materia, cual es “el análisis de toda la prueba rendida, los hechos que estime probados y el razonamiento que conduce a esta estimación”, la recurrente sostiene que para ello es indispensable que el tribunal indique si cada medio de prueba es o no creíble, evitando el sesgo de confirmación que conlleva analizar sólo los elementos favorables a su juicio sobre los acontecimientos.
+
+Desarrollando sus apreciaciones, luego de citar doctrina y jurisprudencia que estima atingente, arguye que, en la especie, la jueza del grado prescinde de un grupo relevante de antecedentes allegados por su parte para acreditar la insolvencia económica por el que atraviesa la empresa hace años, arribando a una conclusión que no se sostiene desde un punto de vista fáctico y soslayando el estándar legal, pues se refirió a ellos de manera genérica, particularmente respecto de los documentos tributarios, contratos, informe financiero y ciertas declaraciones allegadas. En su parecer, de su mérito y analizando 3 años consecutivos de operación, los que evidencian menos ventas y constante pérdida, sin utilidad, no es posible estimar que la compañía pudiera seguir manteniendo los sueldos más altos ya que ninguna empresa con esa situación financiera específica lograría mantenerse indemne.
+
+Por otro lado, en relación con la condena por concepto del pago de horas extraordinarias, afirma la transgresión legal en el valor que la juzgadora efectuó del finiquito suscrito con la demandante, al que le resta peso liberatorio, no obstante lo resuelto en idéntica situación en la causa RIT-213-2024, seguida entre otro trabajador de la entidad, en orden a que aquél es un equivalente jurisdiccional que lo hace tener la misma fuerza que la sentencia firme, sólo en aquello establecido expresamente. Arguye que en el caso de autos, si bien se señala que las partes “consintieron en el finiquito sólo respecto al monto consignado en el mismo y por los días que allí se señalan, pero no en el poder liberatorio del mismo”, se hace una diferenciación odiosa, ilógica y contradictoria con fallos anteriores.
+
+Concluye que si se hubiera estudiado íntegramente el contenido de las declaraciones y los documentos acompañados que refiere, se habría arribado forzosamente a que la empresa se encuentra en una grave situación económica y financiera, que le llevó a prescindir de las funciones del actor debido a su alta remuneración, desechando todos los ítem por éste exigidos.
+
+SEGUNDO: Que, subsidiariamente, la demandada articuló un segundo yerro, de acuerdo con lo que consigna el artículo 478 letra b), al no haberse observado la sana crítica conforme al artículo 456, ambos del cuerpo legal ya citado, que ordena al tribunal “expresar las razones jurídicas y las simplemente lógicas, científicas, técnicas o de experiencia, en cuya virtud les asigne valor o las desestime”, tomando en especial consideración “la multiplicidad, gravedad, precisión, concordancia y conexión de las pruebas o antecedentes del proceso que utilice, de manera que el examen conduzca lógicamente a la conclusión que convence al sentenciador”.
+
+Luego de citar a varios autores y jurisprudencia al respecto, arguyó que en nuestra legislación se ha entendido que el requisito citado implica que la tasación de la prueba se enmarca dentro de ciertos parámetros, principios, criterios o reglas, que tienden a "objetivizar" el proceso de valoración, tales como, los principios de la lógica, las máximas de la experiencia y los conocimientos científicamente afianzados, a propósito de los cuales sostuvo que en el fallo que se impugna se ha vulnerado el principio de identidad y el de contradicción. En tal sentido, articula que los esquemas basados en los grados de confirmación de una o varias hipótesis sobre los hechos de la causa y la necesidad de establecer cuál de ellas resulta más aceptable a la luz de las pruebas disponibles, son los que mejor se adecuan a los problemas probatorios de un proceso y conforme a los cuales, propone reglas diferentes para la aceptabilidad individual de una hipótesis y para la elección entre varias hipótesis igualmente verificadas.
+
+En la especie, la transgresión se genera respecto de los hechos que giran en torno a la causa, por haber reconocido el enorme pasivo y endeudamiento de la empresa, incluso las pérdidas tributarias que reflejan la carencia de utilidades, y por otro lado, indicar que la empresa no acreditó cambios en el mercado o que se hizo todo lo posible para no desvincular a la persona, ignorando la elevada remuneración que tenía. En esa línea, argumenta que la disminución de las ventas acreditada es un factor inherente al cambio de las condiciones del mercado y la contratación de los auditores independientes, todos los desafíos que se impuso la empresa, reflejan que ha hecho todo lo posible para mantenerse a flote.
+
+Finalmente, misma infracción a las directrices aludidas se evidencia cuando el fallo recurrido se hace cargo de la apertura de una sucursal en Mejillones, entendiendo que significa una altísima inversión y endeudamiento, lo que no dependía del demandante, sin que se haya comprobado que se realizó todo lo necesario para poder continuar con el giro de la empresa sin afectar a los trabajadores. Idea contradictoria e incongruente con el principio de identidad puesto que en el informe de auditoría independiente se asentó el nivel de endeudamiento que se ha ocasionado por la instalación de dicha planta, doblemente más costosa de lo proyectado.
+La incidencia de estas faltas, al igual que las presentadas de forma principal, en su parecer, fue que de no haberse incurrido en ellas, se habría desestimado la acción en todas sus partes.
+TERCERO: Que se hace indispensable al caso recordar que, tanto la jurisprudencia como la doctrina, en forma reiterada, han comprendido el recurso de nulidad laboral como de derecho estricto por naturaleza, en tanto tiene por objeto, según sea la causal invocada, velar por el respeto a las garantías y derechos fundamentales, o bien conseguir sentencias ajustadas a la ley. Un medio de revisión extraordinario, atendida la excepcionalidad de los presupuestos que configuran cada una de las causales previstas en los artículos 477 y 478 del código del ramo y que, por ende, restringe el ámbito que para ello ha sido asignado al tribunal superior, en comparación al grado de conocimiento que es propio de la instancia. Particularidades que se traducen, además, en el deber que pesa sobre el recurrente de precisar con rigurosidad los fundamentos de las causales que invoca, como, asimismo, su incidencia en lo dispositivo y las peticiones concretas en su razón, según particularmente recuerda el profesor Astudillo en su obra al respecto.
+
+Así, en lo que respecta al principal motivo de invalidación esgrimido y para apreciar su concurrencia, es de relevancia recordar que la transgresión que autoriza el recurso por este motivo puede producirse a través de una contravención formal de la ley, de una interpretación errónea o de una falsa aplicación de aquélla, y en esta última hipótesis, sea que la norma se aplique a hechos que no han de regirse por ella, sea que se deja de aplicar a actuaciones que se le deben someter.
+En el caso, según lo entiende la parte, el que no se desarrollara un análisis contrapuesto, comparativo, del peso de cada elemento probatorio allegado a juicio sino sólo algunos, pretiriendo los acompañados por su parte y que, en su conjunto, son demostrativos de la crisis económica de la entidad y, por ende, lo insostenible de la continuidad en ella de trabajadores con los sueldos más altos, así como que se diera validez total al finiquito.
+CUARTO: Que, entonces, el examen del fallo que implica una causal como la inicialmente esgrimida, a priori, en modo alguno permite modificar las conclusiones fácticas del tribunal a quo, toda vez que alcanza una infracción de ley ligada a la subsunción de los hechos asentados en las normas sustantivas pertinentes, producto de la ponderación de la prueba allegada, ya que el ataque de esta última operación, siempre previa, lo es a través del motivo específico que prevé la norma del citado artículo 478.
+
+No obstante lo anterior, concentrándonos en el ataque que las argumentaciones entregadas por la recurrente apuntan la operación que se impone al tribunal de mirar todos los elementos allegados y, con su mérito, construir los presupuestos fácticos que conduzcan a solventar su decisión, incluyendo la consideración del finiquito acompañado en torno a su poder liberatorio en lo atingente a la diferencia de remuneraciones ordenada pagar, se destacan varias cuestiones que emanan de la lectura de la sentencia correspondiente.
+En un primer orden y no obstante que no ha sido invocada como vulnerado el artículo 177 del código del ramo -imprescindible para entrar en su posible invalidación-, se destaca que en los motivos octavo y siguientes, haciéndose cargo de la excepción de finiquito, la sentenciadora sí reconoce el poder liberatorio que, como equivalente jurisdiccional, ostenta la suscripción de un finiquito entre las partes de un contrato laboral, no obstante lo cual, en el caso, sustrae de éste efecto lo que dice relación con diferencias de “indemnizaciones y prestaciones”, derivada de la reserva explicitada a mano por el trabajador en el instrumento de que se trata, y que, en el parecer de aquélla, incluye las discrepancias de monto con ocasión del rubro de feriados. Por tanto, asentado el hecho de la existencia de un finiquito, el texto del mismo y de la citada anotación al margen, el tribunal se aboca ya en el fondo y entre otras cosas, al análisis de una posible discrepancia y deuda por ello.
+
+En los fundamentos decimotercero y siguientes, sobre el fondo, la juzgadora asienta como sucesos no controvertidos, la existencia de una relación laboral entre las partes desde el 1 de diciembre de 1998, en virtud de la cual el actor se desempeñaba como jefe de servicios e innovación, y que el 18 de octubre de 2024 fue despedido por necesidades de la empresa, cuyos motivos, de acuerdo a la carta de despido, fueron “1) la existencia de un proceso de racionalización y reestructuración que la empresa está llevando a cabo a nivel local, luego del análisis de las operaciones en la cuales participa. Lo anterior atendido los resultados financieros negativos que ha tenido de manera sostenida los últimos trimestres”; y “2) Luego de haber realizado un análisis pormenorizado de las pérdidas, costos asociados a sus operaciones y a la baja proyección, ha tomado la decisión de eliminar el cargo de “Jefe de Servicios e Innovación”, siendo sus funciones redistribuidas en los demás cargos de la empresa.
+
+Haciéndose cargo de la prueba allegada por los litigantes en orden a sustentar sus posiciones, esto es, la injustificación o sustento del término comentado, en las consideraciones decimosexta y siguientes, la falladora a quo estudia el contenido y trascendencia al efecto de una serie de documentos presentados, tales como, el contrato laboral y formularios tributarios de la empresa, asentando que si bien ésta efectivamente presenta pérdidas sostenidas y en aumento los últimos tres años, aumentando por ello su riesgo financiero, también mantiene operaciones y exportaciones significativas, una base de activos y remanente de IVA que evidencia la necesidad de un análisis profundo de costos y estrategia comercial para mejorar sus márgenes. Ante tal escenario, de acuerdo con los testimonios allegados por el actor, establece que la empresa, no obstante, ha seguido contratando personal, lo que no se condice con la necesidad que alega, considerando que podría reasignar funciones en las distintas áreas entre los trabajadores que no fueron despedidos, rebajado sus “gastos”, refinanciado deudas, optimizado inventarios y diversificado clientes, evitando cargar a sus colaboradores con las consecuencias de estas decisiones y asumir el riesgo del negocio, disintiendo en los hechos de las imposibilidades totales esgrimidas por la entidad emplazada para acudir a otra vía que el despido.
+En el mismo orden, la sentenciadora arguyó la falta de prueba en lo atingente a los cambios estructurales que se debían dar en las áreas pertinentes ante la prescindencia de ciertos trabajadores y la real búsqueda de salidas alternativas viables, relacionándolo con otra causa conocida contra la misma empresa.
+
+Finalmente, en lo que atañe a los rubros dados, especialmente el criticado de diferencias monetarias por feriados, la juez a quo revisó elementos vinculados y después de tener por acreditado tiempos y montos, también asentó la existencia de una brecha en su pago.
+QUINTO: Que, de esta forma y como se ha dicho, soslayando que el articulado normativo invocado no se condice con lo expuesto y pretendido en este capítulo principal del recurso, y que tampoco se ha citado transgredidas las disposiciones relativas al finiquito, surge con claridad que el tribunal sí efectuó un camino de revisión y apreciación valorativa de los antecedentes allegados por las partes a juicio, decantando de ellos hechos relacionados con lo debatido, y a partir de los que arriba a conclusiones que fuerzan acoger la demanda al no aparecer justificada la exoneración. Luego, más allá de compartir o no las consideraciones a las que arriba el fallo, cuestión que no corresponde a esta sede recursiva, lo cierto es que se hizo un proceso de ponderación probatoria y articulación de conclusiones derivadas, a la luz de las reglas aplicables, incluido el rubro del que se excepcionó el finiquito.
+En esta misma línea, se hace relevante también anotar que aun cuando la sentenciadora no destacara particularmente el informe contable, por ejemplo, a la hora de determinar las condiciones en que se haya la empresa, ello dista de tener los efectos que se persiguen por la recurrente, toda vez que en modo alguno extrajo de los primeros hechos diversos de los que se comentan por ésta, sino por el contrario, asienta la compleja situación financiera de aquélla y la necesidad de un reordenamiento, etcétera, lo que contrapone a las decisiones tomadas por la empleadora en sentido contrario al alegado para el despido, restándole coherencia de acuerdo con los testimonios incorporados. Escenario de contraposición y significación que no muta sobre la base de lo alegado, siendo una cuestión diversa, la mayor o menor profundización en el panorama financiero que detalla la demandada y que, como se viene diciendo, queda establecido y considerado en el fallo.
+SEXTO: Que, a partir de lo referido, no es posible admitir la impugnación desde la óptica de la causal principal que se articula, ni desde su forma ni revisándola en cuanto a su fondo.
+SÉPTIMO: Que, derivado de lo anterior, ya en lo que atañe a la causal de nulidad subsidiaria alegada, la del artículo 478 letra b) del código del ramo, y que la recurrente construye a partir de la transgresión a la sana crítica según la cual la falladora habría vulnerado los parámetros de la sana crítica al ponderar la prueba allegada, especialmente los principios de no contradicción y razón suficiente, según los que debió fijar los presupuestos fácticos respectivos y articular sus conclusiones de forma diversa, es útil recordar la naturaleza y finalidad del recurso en estudio.
+
+En efecto, como se reflexionó inicialmente, lo verdaderamente cuestionado es la ponderación que de la prueba ha efectuado la adjudicadora, en su mérito, lo que por la vía de esta causal no procede revisar sin cumplir previamente la exigencia que el motivo invocado impone, cual es, indicar cómo la sentencia omite las razones jurídicas y las simplemente lógicas, científicas, técnicas o de experiencia, en cuya virtud le asignó valor o desestimó aquélla, de acuerdo a lo previsto en el artículo 456 del código del ramo, cuyo no ha sido el caso, siendo insuficiente la mera cita de esta norma. Cabe al litigante interesado, entonces, abogar no sólo por el cambio de decisión, aludiendo e insistiendo en el valor de ciertos testimonios o documentos por encima de otros, sino que articular qué aspecto de las limitaciones a razonabilidad que exige el legislador ha sido traicionado y cómo, en cuanto a cuál prueba o suceso construido. Siendo de radical importancia los principios de la lógica vulnerados, como el de identidad o de no contradicción, o las máximas de experiencia o lo conocimientos científicos asentados que no han sido respetados y por qué, dando contenido a lo que sería una vulneración en la apreciación de los antecedentes y que justificara, por su influencia en definitiva, anular la sentencia.
+
+De lo que se sigue que, “…el propósito de la causal… es la modificación de los hechos que se han tenido por probados, situación que sólo tendrá lugar cuando se incurra en infracciones manifiestas que, conforme a la ley, puedan dar lugar a una nueva determinación fáctica. Por lo tanto, la anulación del fallo no está concebida en el Código del Trabajo como cosa habitual” (“El Recurso de Nulidad Laboral”, Omar Astudillo Contreras, Thomson Reuters)
+
+En este estricto marco, ya antes comentado, y atentas al análisis que se efectúa en el fallo, tanto de las pruebas allegadas por ambas partes, cuanto de los hechos que sobre el peso o falencias de aquéllas fueron establecidos, para apreciar si las conclusiones pueden inferirse con fluidez, lo cierto es que no se advierte en el proceso inferencial, deductivo y dialéctica de la jueza de primer grado, una transgresión que fuerce socavar sus decisiones en cuanto al fondo del caso. Fondo que, como se revisó inicialmente, en modo alguno descarta la compleja situación financiera de la demanda sino que, reconociéndola, la enfrenta a otros hechos que la peticionaria omite en su análisis recursivo, incorporados con los elementos probatorios del demandante, y a partir de cuya discrepancia considera que no se acreditó, por un lado, que el despido fuera la salida necesaria para la empresa y luego, que conllevara la reestructuración de tareas y recursos que ameritaría, de ser la única opción y por ende, no hubiesen más contrataciones. Camino que implica, per se, razonabilidad, esto es, la sujeción a los principios de la lógica y máximas de experiencia que la recurrente extraña. Sin que se aprecie una falta a la razón suficiente o la no contradicción, sino por el contrario, siempre a la necesaria luz de la operación efectuada por la sustanciadora y su propio mérito, más que la coincidencia con el fondo de sus opiniones, que es finalmente lo que se pretende invalidar.
+Desde tal óptica, revisada la decisión de esta Corte en el IC N°417-2025, que recae en un muy similar recurso de la empleadora, inserto en una causa por desvinculación de otro trabajador y sobre la base de los mismos argumentos, se hace ostensible la coincidencia de la correcta tarea de ponderación de la prueba y criterio aplicado a su respecto por la falladora en lo que dice relación con esta revisión comparativa -situación económica o financiera versus nuevas contrataciones-, así como también las conclusiones a las que arribó. Contexto en el que tampoco se avizora una discrepancia en lo que dice relación con el valor liberatorio del finiquito, dados los presupuestos fácticos establecidos en uno u otro caso sobre los términos de las anotaciones o exclusiones hechas por quienes fueron desvinculados y su sentido.
+
+OCTAVO: Que, por las razones anotadas, tampoco puede prosperar el recurso intentado por esta segunda causal, al no verificarse en la sentencia que se revisa las infracciones acusadas en subsidio de la principal, ya estudiado el proceso de análisis y decisión efectuado por el tribunal del grado sobre la base de las exigencias normativas atingentes a ello.
+
+Y vistos, además, lo dispuesto por los artículos 474, 479 y 482 del Código del Trabajo, SE RECHAZA el recurso de nulidad deducido en representación de la demandada V- MAX Spa, en contra de la sentencia dictada el siete de julio de dos mil veinticinco, por del Juzgado de Letras del Trabajo de San Bernardo, declarándose expresamente que la referida sentencia no es nula.
+
+Regístrese
+
+Redactada por la ministra (S) Nora Rosati Jerez.
+
+N°537-2025 Laboral
+Pronunciada por la Segunda Sala de la Corte de Apelaciones de San Miguel integrada por las ministras Sylvia Pizarro Barahona, Nora Rosati Jerez y Fiscal Judicial Tita Aránguiz Zúñiga. No firma, no obstante haber concurrido a la vista de la causa y posterior acuerdo, la señora Aránguiz, por estar en labores de fiscalía.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+JUZGADO DE LETRAS DEL TRABAJO DE SAN BERNARDO
+
+RIT «RIT»
+RUC «RUC»
+
+San Bernardo, siete de julio de dos mil veinticinco
+VISTOS, OÍDOS Y CONSIDERANDO:
+PRIMERO: Que MAURICIO ANDRES QUINTERO CARCAMO, ingeniero de ejecución metalúrgico, domiciliado para estos efectos en calle La Bolsa N°81, piso 9, comuna de Santiago, comparece ante este Juzgado de Letras del Trabajo de San Bernardo, y deduce demanda en contra de V-MAX SPA, sociedad dedicada a la fabricación de tuberías de polietileno industrial, representada por Carlos Javier Walger, ignora profesión u oficio, ambos con domicilio en Avenida General Velásquez N°11.001, comuna de San Bernardo, por los fundamentos que expone.
+
+Señala que el 01 de diciembre de 1998 celebró contrato con la empresa “PLASTECNIA” que luego fue comprada por SOLMAX Chile S.P.A., actualmente V-Max SpA., desempeñando los cargos de Ingeniero de Ventas, Gerente Técnico, posteriormente y durante 5 años como Gerente de Ventas, y los últimos dos años como jefe de Servicios e Innovación, estando a cargo de organizar y potenciar la comercialización de servicios de clientes antiguos y nuevos.
+
+Su remuneración ascendía a $5.878.941, suma que resulta del promedio de los tres últimos meses trabajados en forma íntegra, sin embargo, para efectos indemnizatorios conforme lo dispone el artículo 172 del Código del Trabajo, se debe considerar solamente 90 UF, equivalente a la suma de $3.417.428.
+
+Agrega que el día 18 de octubre de 2024 fue despedido por la causal del artículo 161 inciso 1° del Código del Trabajo, esto es, necesidades de la empresa, siendo los fundamentos de la causal, textualmente, los siguientes: “Esta decisión se funda en el proceso de racionalización y reestructuración que la empresa está llevando a cabo a nivel local, luego del análisis de las operaciones en las cuales participa. Lo anterior, atendidos los resultados financieros negativos que ha tenido la empresa de manera sostenida los últimos trimestres. En razón de lo antes expuesto es que la empresa, luego de haber realizado un análisis pormenorizado de las pérdidas, costos asociados a sus operaciones y a la baja de proyección mismos ha tomado la decisión de eliminar el cargo de jefe de servicios e innovación, en la cual usted se desempeña, siendo sus funciones redistribuidas en los demás cargos de la empresa”.
+
+Manifiesta que la carta de despido no cumple con los requisitos del artículo 162 del Código del Trabajo, ya que no señala los hechos pormenorizados que tuvo a la vista la empresa o motiva la racionalización y reestructuración que señala. Además, la empresa reemplazó inmediatamente su cargo al contratar a Matías Quila, en el cargo de Product Manager, para desempeñar funciones similares a las que él realizaba, por lo que la causal debe ser declara improcedente.
+
+Señala que la demandada ha mantenido su nivel de ventas en el tiempo, incluso abrió una nueva planta de tuberías en la zona norte del país, específicamente en la cuidad de Mejillones, la que apertura en el mes de abril de 2024, por lo que, si ha disminuido sus utilidades, ello es consecuencia de la inversión efectuada, planta que cuando esté en plena marcha entregará resultados muy positivos. Tampoco es efectivo que se haya disminuido el personal en el área donde él se desempeñaba, toda vez que inmediatamente de ser despedido se contrató otra persona en su reemplazo, y solo en forma burda pretende desconocer el reemplazo mediante el cambio de nombre del cargo, que ahora se denomina “Product Manager de Servicios”, en circunstancias que se trata de las mismas funciones y del mismo perfil profesional.
+
+Con fecha 29 de octubre de 2024 suscribió finiquito con reserva de derechos. El 11 de noviembre de 2024 efectuó reclamo por despido injustificado ante la Inspección del Trabajo, no se llegó a acuerdo en esa instancia administrativa. Expone que la demandada solo le pagó 60.16 días de feriado por $10.783.953, debiendo haberle pagado 73.28 días por la suma de $14.360.293, por lo que le adeuda una diferencia de $3.576.340. Atendido su despido injustificado, se le deberá restituir el descuento del aporte al seguro de cesantía, atendido el criterio sostenido por la Excma. Corte Suprema, y pagar un 30% de incremento legal sobre la indemnización por años de servicios.
+
+En mérito de lo expuesto y lo dispuesto en los artículos 162, 168, 172, 446 y siguientes del Código del Trabajo, solicita tener por interpuesta la demanda, acogerla, y en definitiva declarar:
+
+1) Que el despido es improcedente, injustificado.
+
+2) Que se le pague:
+
+· 30% de recargo legal sobre la indemnización por años de servicios.
+
+· Devolución del descuento del aporte al seguro de cesantía.
+
+· Diferencia de feriados.
+
+3) Que las cantidades sean pagadas con reajustes e intereses contemplados en los artículos 63 y 173 del Código del Trabajo.
+
+4) Que se le paguen las costas del juicio.
+
+SEGUNDO: Que CAROLL CARMONA LIZANA, abogada, chilena, C.I. N°18.665.106-5, correo electrónico caroll.carmona@derecho.uchile.cl, en representación de la demandada V-MAX SPA, Rol Único Tributario N°76.133.595-2, representada por Carlos Javier Walger, cédula de identidad N°14.538.379-K, todos domiciliados para estos efectos en Avenida General Velásquez N°11.001, comuna de San Bernardo, conforme lo establecido en los artículos 452 y siguientes del Código del Trabajo, contesta la demanda solicitando que sea rechazada en todas sus partes, con expresa condena en costas.
+
+De acuerdo con lo dispuesto en el artículo 452 del Código del Trabajo, acepta los siguientes hechos señalados en la demanda:
+
+1.- Que desde el 01 de diciembre de 1998 el demandante prestó servicios a V-Max SpA, cuya razón social anterior era Solmax SpA; el último cargo del demandante fue como Jefe de Servicios, Calidad e Innovación.
+
+2.- Que el 18 de octubre de 2024, el demandante fue desvinculado de la Compañía, mediante entrega presencial de carta de aviso de término de contrato de trabajo, fundado en la causal establecida en el artículo 161 inciso primero del Código del Trabajo, esto es “necesidades de la empresa”.
+
+3.- Que con fecha 29 de octubre de 2024, el demandante firmó y ratificó finiquito de contrato de trabajo, ante notario, reservándose derechos.
+
+4.- Que, para los del artículo 172 del Código del Trabajo, se debe considerar el tope de 90 Unidades de Fomento, equivalente a $3.417.428.
+
+De acuerdo con lo preceptuado en el artículo 452 inciso 2° del Código del Trabajo, niega en forma expresa y concreta los siguientes hechos afirmados por el demandante en su libelo pretensor:
+
+1.- Que el despido del demandante sea injustificado, indebido e improcedente.
+
+2.- Que se le adeuden prestaciones e indemnizaciones laborales al demandante, pues se le pagó correctamente sus remuneraciones, prestaciones, asignaciones e indemnizaciones por término de contrato de trabajo, sin existir reclamo alguno.
+
+3.- Que se le adeude al demandante días compensatorios de descanso.
+
+El término de la relación laboral del demandante se encuentra ajustado a derecho, y, por tanto, no es procedente ninguna de las prestaciones e indemnizaciones que reclama.
+
+Opone excepción de finiquito respecto del pago de supuestas diferencias en el feriado legal, por lo siguiente:
+
+1.- Sin perjuicio de que el petitorio de la parte demandante no señala una suma de dinero concreta en relación con el supuesto feriado legal adeudado, el cual fue en todo caso íntegramente pagado, y por tanto no existirá suma que pueda concederse al actor por no haberla señalado oportunamente en su libelo pretender, la reserva de derechos consignada en Página 2 del finiquito suscrito por la contraria el 29 de octubre de 2024, no hace referencia alguna a feriado proporcional.
+
+2.- El actor señaló claramente cada uno de los conceptos respecto de los cuales quiso hacer reserva de derechos, y deliberadamente no hizo referencia alguna a un pago por vacaciones proporcionales. En ese escenario, es claro el poder liberatorio que produce la suscripción del finiquito laboral, en relación con el feriado legal, lo cual conlleva que se rechace absolutamente esa pretensión, la cual, además, fue pagada íntegramente.
+
+Agrega que la demanda carece de peticiones concretas, como lo exige el artículo 446 N°5 del Código del Trabajo, no señala los montos solicitados, por lo que difícilmente el tribunal podrá acoger la demanda condenando a esta parte a una suma de dinero, dado que ello no fue solicitado por el actor. Es más, la gramática utilizada por el demandante en su petitorio concreto es ciertamente confusa, dado que al leer cada una de las peticiones, algunas de ellas carecen de sentido lógico; a modo ejemplar, pide que el tribunal: − “Declarando restitución del descuento por seguro de cesantía”, pero ¿Respecto de quién? ¿Es condena pecuniaria o mera declaración? ¿Por cuál monto? − “Declarando pago de diferencias por concepto de feriado”, respecto de lo cual esta parte se plantea las mismas preguntas: ¿Respecto de quién? ¿Es condena pecuniaria o mera declaración? ¿Por cuál monto? − “Declarando las costas de la causa”: la frase indicada por la contraria, ciertamente, no es una petición, sólo pide que declare las costas de la causa lo cual podría significar una condena tanto al demandante como al demandado. Así, resulta indiscutible que el actor no ha solicitado que esta parte sea condenada en costas, sino que sólo se limitó a solicitar que el tribunal declare las cosas; Con todo, resulta indiscutible que las peticiones de la parte demandante, no tienen un contenido económico claro y concreto, por tanto, en el evento que el tribunal de fondo concediere un monto específico y condenara a su representada a pagar dicha suma de dinero, incurriría en el vicio de extra y/o ultrapetita, dejando en clara indefensión a esta parte.
+
+Contestando derechamente la demanda por despido injustificado y cobro prestaciones e indemnizaciones alegadas, señala que la causal de despido invocada en la carta de término de relación laboral se ajusta a derecho, en la carta de término de contrato entregada de manera presencial al ex trabajador, se consignaron los hechos que justificaban la aplicación de esta causal, y los motivos por los cuales el demandante fue desvinculado son bastante claros, y se debe principalmente a factores externos e independientes de las partes que celebraron el contrato, derivada netamente de una causal económica que tiene incidencia en la empresa, con miras a la racionalización y reorganización de la Empresa, y que provoca la necesidad del despido. La presente demanda se genera producto única y exclusivamente de la inconformidad manifiesta del actor por haber sido despedido bajo la causal “necesidades de la empresa”, y ninguno de sus argumentos contradice la propia causal de la carta (necesidades de la Empresa en su vertiente racionalización y reorganización de la Empresa donde se desempeñaba el trabajador). Luego, la misma Jurisprudencia ha establecido que los fundamentos para comprobar la existencia de necesidades de la empresa deben corresponder a aquellos de índole económico, ajeno a las partes y no subsanables en el corto periodo de tiempo, y esa es justamente la fundamentación de la carta de término de relación laboral entre las partes. En tal sentido, como Compañía, no ha existido un manejo deficiente ni culpable que finalmente pueda derivar en esta decisión, sino más bien, deriva de una dificultad netamente económica inherente a la situación del país, ajena a la voluntad de ambas partes del Contrato de Trabajo.
+
+Manifiesta que, en agosto de 2024, inició una fuerte reestructuración del área comercial, cuyo fin principal radicó en ordenar las funciones de cada uno y consolidar el equipo en base a la racionalización de los recursos, para que estos sean rentables de acuerdo con los ingresos mínimos requeridos para la mantención de dos plantas (una en Mejillones y la otra en San Bernardo), junto con solventar el enorme pasivo de la empresa y las pérdidas de arrastre que vienen de años pretéritos. Dentro de esta reestructuración es que las funciones del cargo de jefe de Servicios e Innovación, fueron absorbidas por otros colaboradores y por la Gerente Comercial. Respecto a las imputaciones del demandante, relativa a una supuesta “nueva contratación” y cambio de denominación del cargo, son falsas, ambas funciones no tienen relación alguna en lo sustantivo y tampoco en lo remuneracional, e inclusive, la profesión del actor con Matías Quila -con quien forzosamente pretende compararse- son totalmente diferentes; el jefe de Servicios, Calidad e Innovación es Ingeniero Metalúrgico, y Matías Quila es Ingeniero Constructor Civil. Por su parte, el equipo de trabajo de Matías Quila, tampoco es el mismo; Sr. Quila se relaciona directamente con el Gerente General y trabaja de forma autónoma e independiente, con una remuneración muy inferior a la que el actor percibía. Tanto así, que Pedro Silva, Encargado de Calidad y dependiente del demandante de autos, pasó a reportarle a él, para rendir cuenta directamente a Carlos Javier Walger, gerente general. Lo mismo respecto de Catalina Armijo, ingeniería de innovación, quien reportaba a Mauricio Quintero y ahora reporta a Taide Peña, Head of Marketing. De este modo, todas las funciones y roles del actor fueron distribuidas en otros miembros del equipo, y el Sr. Quila responde a necesidades del giro totalmente distintas a las que desempeñaba el Sr. Quinteros. Con todo, hace presente que la ley no define el significado de la expresión “necesidades de la empresa”, sino lo que hace es señalar ejemplos a los derivados de la racionalización, reorganización o modernización de la empresa, establecimiento o servicio;
+
+Agrega que “las necesidades de la empresa” no es un concepto único, sino que dependerá de la propia estructura de la empresa de que se trate y de su vinculación con la situación particular del trabajador o trabajadores que se desea desvincular. Son por las razones expuestas, que el término de la relación laboral por la causal invocada, necesidades de la empresa, concretamente - racionalización y reorganización -, es procedente y se encuentra plenamente ajustada a derecho.
+
+En cuanto a la construcción de una nueva planta de Mejillones, indica que justamente ese es uno de los motivos que generaron urgencia en la reestructuración de la empresa, dado que dicha construcción generó 3 veces mayores costos de lo proyectado, generando un déficit de caja y nivel de endeudamiento que ha llevado a la empresa ad-portas de la insolvencia concursal. Acreditará que llevan meses sin poder pagar a los proveedores, quienes han debido ejercer labores de cobranza periódicas, frente a su incumplimiento. Es más, la empresa fue sometida a una auditoría contable y financiera externa, en la cual se tuvo que reajustar los estados financieros del año 2022, en el cual primeramente se dio como resultado una ganancia de $800M aproximadamente -que, por mala gestión del área contable, dicho monto no reflejaba la realidad de la Compañía-, pero que en realidad sólo fue de $198M aproximadamente. Mismo escenario ocurrió con el año 2023, cuyo periodo se cerró con una pérdida de $500M aproximadamente, pero que en realidad la pérdida fluctúa en $1.002M. Al respecto, dice que este año la empresa lleva una pérdida acumulada de $281M, lo cual refleja el mal estado de los negocios de la empresa. El excesivo sobreendeudamiento de esta parte, sumado a la pérdida acumulada y a la corrección que debió hacerse a la contabilidad y estados financieros, necesariamente derivó en que la empresa haya debido adoptar medidas de racionalización de las labores desarrolladas y restructurar funciones y formas de trabajo del área, terminando por prescindir del cargo Jefe de Servicios, Calidad e Innovación desempeñado por el actor, pasando a ser de responsabilidad de la Gerenta de Administración y Finanzas. Lo anterior es natural toda vez que la denominación de “necesidades de la empresa” en sí misma nos indica su finalidad. Si no se pudiese poner término al contrato de trabajo de un dependiente por los motivos expuestos, de manera justificada, finalmente se estaría derogando tácitamente esta causal. No admitir la procedencia justificada de esta causal para hechos como los descritos, implicaría limitar la legítima administración de una empresa, escenario en el cual los trabajadores que ahí se desempeñen gozarían de una suerte de inamovilidad en el empleo o fuero laboral, ya que nunca se les podría despedir sino mediante el pago de un recargo adicional del 30% por sobre las indemnizaciones por años de servicio, lo que llevaría a un absurdo que no puede tener cabida en el derecho. La causal invocada se fundamentó en que su representada, realizó un proceso de reestructuración, el cual tuvo como propósito reorganizar el equipo de trabajo en el cual se desempeñaba el demandante, eliminando su puesto de trabajo sin que fuese reemplazado por otra persona.
+
+Al respecto, como se indicó, el sobreendeudamiento de su representada, sumado a las pérdidas anuales que han ido acumulando, ha llegado a tornar un escenario de urgencia y sobrevivencia de la empresa, viéndose obligada a racionalizar y reestructuras a los equipos de trabajo, circunstancia que no ha ocurrido sólo en el área de comercial, sino que en todas las áreas de la empresa.
+
+En conclusión, las pretensiones del demandante tendientes a que el tribunal estime su despido como injustificado, no se condice con la realidad material. Los conceptos demandados por el actor son totalmente infundados, no siendo ajustados a derecho. El actor no fue el único trabajador respecto de la cual se ha prescindido de sus servicios, y no se adeuda suma alguna por concepto de incremento legal reclamado. Mismo escenario, al no tratarse de un despido injustificado, tampoco corresponde devolución del aporte dado a la Aseguradora de Fondos de Pensiones. Por su parte, sin perjuicio que el actor no se reservó derechos respecto del feriado legal, el cobro de un monto adicional por este concepto, el cual ya fue pagado en el finiquito, resulta del todo improcedente. El demandante no indica en qué periodo está haciendo el cálculo, ni tampoco descuenta aquellos días en que el actor hizo uso de dichos feriados legales, lo cual derivó que, en definitiva, quedasen 60,16 días de feriado legal, tal como se consigna del cómputo que concluyo el sistema informático donde se van registrando los días en que los trabajadores hacen uso del feriado legal. El petitorio del actor no contempla ninguna suma en concreto, por lo que deberá ser rechazado de plano.
+
+Solicita tener por contestada la demanda y rechazarla en todas y cada una de sus partes, con expresa condenación en costas, declarando, en definitiva:
+
+1) Que se acoge la excepción de finiquito respecto del feriado legal.
+
+2) Que la demanda deberá rechazarse puesto que no cumple con las formalidades del artículo 446 N 5 del Código del Trabajo.
+
+3) Que el despido del actor, fundado en el artículo 161 inciso 1° del Código del Trabajo, es procedente, debido y justificado, y que, por tanto, el término de la relación laboral se encuentra ajustado y conforme a derecho.
+
+4) Que nada se adeuda por recargo del 30% establecido en el artículo 168 del Código del Trabajo, sobre la indemnización por años de servicio, siendo por tanto improcedente.
+
+5) Que, en consecuencia, no se debe aplicar ninguna de las medidas solicitadas por la contraria.
+
+6) No se adeuda ninguna prestación por concepto de seguro de cesantía, de feriados ni ningún otro concepto.
+
+7) Que nada se adeuda por concepto de reajustes ni intereses.
+
+8) Que se condene en costas al demandante.
+
+TERCERO: Que, llamadas las partes a conciliación, ésta no se produce.
+
+CUARTO: Que son hechos no controvertidos por las partes:
+1. La relación laboral y su fecha de inicio el 01 de diciembre de 1998.
+
+2. Que anteriormente la demandada tenía como nombre “SOLMAX CHILE SPA”.
+
+3. La función desempeñada por el demandante como jefe de servicios e innovación.
+
+4. El tope de 90 UF de la remuneración que señala la parte demandante, equivalente a $3.417.428.
+
+5. Que el 18 de octubre de 2024 el demandante fue despedido por la causal de necesidades de la empresa.
+
+6. Que el día 29 de octubre del año 2024 el demandante firmó un finiquito con reserva de derechos.
+
+7. Que se le descontó al demandante, por concepto de aporte al seguro de cesantía, la suma de $9.146.342.
+
+QUINTO: Que los hechos a probar fueron los siguientes:
+
+1. La remuneración pactada, efectivamente percibida y los ítems que la componen.
+
+2. Hechos que configuran la causal de necesidades de la empresa invocada por la demandada para despedir al actor. Existencia de estos. Antecedentes de hecho.
+
+3. Tenor del finiquito y de la reserva consignada en el mismo.
+
+4. Efectividad de adeudarse diferencia de feriado al actor. Antecedentes de hecho.
+
+SEXTO: Que, en la audiencia preparatoria, la parte demandante ofreció los siguientes medios de prueba, los cuales fueron incorporados y rendidos en la audiencia de juicio:
+
+Documental: consistente en:
+
+1. Contrato de trabajo de 01 de septiembre de 2021.
+
+2. Anexo de contrato de trabajo de 28 de marzo de 2019.
+
+3. Anexo de fecha 01 de enero de 2023.
+
+4. Anexo contrato de trabajo de fecha 02 de noviembre de 2023.
+
+5. Carta de aviso para terminación de contrato de trabajo de fecha 18 de octubre de 2024.
+
+6. Acta de Comparendo de Conciliación Ante la Inspección de Trabajo de fecha 27 de noviembre de 2024.
+
+7. Finiquito de fecha 18 de octubre de 2024, suscrito con fecha 25 de octubre de 2024.
+
+8. Liquidaciones de remuneraciones de los meses de mayo a octubre de 2024.
+
+9. Copia de correo electrónico enviado por Ana Paula Misari, con fecha 18 de octubre de 2024.
+
+10. Correo electrónico de comunicaciones V- Max de fecha 21 de octubre de 2024.
+
+11. Respuesta Oficio AFC de fecha 11 de diciembre de 2024, ingresada en los autos caratulados “Venegas con V-Max“, seguidos ante este Tribunal, RIT T- 213-2024.
+
+12. Impresión Pagina web demandada, cuyo encabezado es V-Max- Un nuevo capítulo en Mejillones, Antofagasta de fecha 23 de enero de 2024.
+
+13. Impresión Pagina web demandada, cuyo encabezado es V-Max- Líder Mundial en Soluciones Sostenibles, de fecha 23 de enero de 2024.
+
+Testimonial: Declara bajo juramento y/o promesa:
+
+1. Cristian Andrés Jelves Paredes, Ingeniero de Soporte en V-Max.
+
+2. Alejandra Elisa Molina Farfán, Desarrolladora de Negocios en V-Max.
+
+Exhibición de Documentos:
+
+1. Formulario 29, esto es, declaración de impuesto mensual, del periodo enero a diciembre de 2023 y enero a octubre de 2024. (Exhibe)
+
+2. Comprobantes de feriado de todo el periodo trabajado desde el año 2010 en adelante. (No exhibe completamente)
+
+Oficios:
+
+1. De la Administradora de Fondos de cesantía (Folio 63).
+
+2. De la Dirección del Trabajo. (Folio 57)
+
+Se Tenga a La Vista:
+
+1. Página web de la demandada: https://www.v-max.com/es/inicio/ en especial noticias y nosotros.
+
+SEPTIMO: Que la demandada ofreció, rindió e incorporó al juicio las siguientes probanzas:
+Documental: consistente en:
+
+1. Contrato de trabajo de fecha 01 de septiembre de 2021, entre Mauricio Quintero Cárcamo y Solmax Chile SpA, para el cargo de Gerente de Ventas.
+
+2. Anexo de contrato de trabajo de fecha 01 enero de 2023, entre Mauricio Quintero y V-Max SpA, para el cargo de jefe de Servicios e Innovación.
+
+3. Carta de aviso de término de contrato de trabajo de fecha 18 de octubre de 2024, a Mauricio Quintero Cárcamo.
+
+4. Comprobante envío carta por Correos de Chile, de fecha 18 de octubre de 2024.
+
+5. Finiquito de trabajo, firmado el 29 de octubre de 2024, por Mauricio Quinteros y V-Max SpA.
+
+6. Acta comparendo en la Inspección del Trabajo, de fecha 27 de noviembre de 2024.
+
+7. Comprobante aviso carta de despido ante la Dirección del Trabajo, de fecha 18 de octubre de 2024.
+
+8. Cadena de correo electrónico enviado por Mauricio Quintero Cárcamo, desde la casilla de email mquintero@v-max.com desde el 03 de octubre de 2024, asunto “Fondos por rendir Pedro Silva”.
+
+9. Certificado de vacaciones de Cristian Jelvez Paredes.
+
+10. Liquidaciones de sueldo de Mauricio Quintero Cárcamo desde julio a septiembre de 2024.
+
+11. Carpeta tributaria V-Max SpA al 06 de noviembre de 2024, emitida por el Servicio de Impuestos Internos.
+
+12. Formulario 22 del Impuesto a la Renta de V-Max SpA, correspondiente al año 2022.
+
+13. Formulario 22 del Impuesto a la Renta de V-Max SpA, correspondiente al año 2023.
+
+14. Formulario 22 del Impuesto a la Renta de V-Max SpA, correspondiente al año 2024.
+
+15. Informe de auditor independiente, versión final, emitido por Deloitte, y análisis estados financieros por los años terminados al 31 de diciembre de 2023 y 2022.
+
+16. Descripción del cargo de Product Manager.
+
+17. Organigrama del área comercial de V-Max SpA al mes de agosto de 2024, y organigrama actual.
+
+18. Organigrama área comercial de V-Max SpA al 2025.
+
+20. Contrato de trabajo a plazo fijo de Matías Quila con V-Max SpA, de 21 de octubre de 2024.
+
+Confesional: Absuelve posiciones el demandante de autos, Mauricio Quintero Cárcamo. Su testimonio consta íntegramente en audio.
+
+Testimonial: Declara bajo juramento y/o promesa:
+
+1. Matías Orlando Quila Acuña, cédula de identidad N°18.083.551-2, Product Manager de Servicios.
+
+2. Andrea Raquel San Martin Ibarra, cédula de identidad N°15.694.003-8, encargada de bienestar.
+
+3. Gloria Barrientos Casal, cédula de identidad N°11.919.608-6, gerente de administración y finanzas.
+
+Sus testimonios constan íntegramente en audio.
+
+Oficios:
+
+1. Dirección del Trabajo (Folio 68)
+
+2. Servicio de Impuestos Internos (Folio 55)
+
+Se tienen a la vista:
+
+1. Causa laboral caratulada “Jelvez con V-Max SpA”, RIT M-454-2024, tramitada ante este mismo Juzgado de Letras del Trabajo de San Bernardo.
+
+2. Causa laboral caratulada “Venegas con V-Max SpA”, RIT T-213-2024, tramitada ante este mismo Juzgado de Letras del Trabajo de San Bernardo.
+
+EN CUANTO A LA EXCEPCION DE FINIQUITO:
+
+OCTAVO: Que la demandada opone la excepción de finiquito, toda vez que la reserva de derechos consignada en el finiquito suscrito por la contraria el 29 de octubre de 2024, no hace referencia alguna a feriado proporcional. El actor señaló claramente cada uno de los conceptos respecto de los cuales quiso hacer reserva de derechos, y deliberadamente no hizo referencia alguna a un pago por vacaciones proporcionales, por lo que es claro el poder liberatorio que produce la suscripción del finiquito laboral, en relación con el feriado legal, lo cual conlleva que se rechace absolutamente esa pretensión.
+
+NOVENO: Que, al evacuar el traslado conferido, la demandante solicita el rechazo de la excepción, toda vez que el finiquito fue suscrito con reserva de derechos y el artículo 177 del Código del Trabajo, en su inciso 6°, no señala ningún otro requisito al hacer la reserva, solo que consta por escrito.
+
+DECIMO: Que consta del finiquito de 18 de octubre de 2024, suscrito por las partes el 29 de octubre de 2024 ante Notario Público, en su cláusula segunda, que “Por el presente instrumento el trabajador declara estar plenamente de acuerdo y satisfecho con la liquidación de haberes y descuentos que se detalla a continuación, declarando asimismo haber tenido la oportunidad de revisarla en forma adecuada”, en los haberes se señala una indemnización por años de servicios (11 años) por $37.591.706, una indemnización sustitutiva del aviso previo por la suma $3.417.428, feriado legal pendiente y/o proporcional (60,16 días corridos) por $10.783.956. En la parte final del documento, consta que se consignó a mano escrita lo siguiente: “Yo Mauricio Quintero Cárcamo, me reservo el derecho a reclamar judicialmente, por la base de cálculo, por despido injustificado, por diferencias en el pago de indemnizaciones y prestaciones, recargo legal y devolución de aporte de AFC”.
+
+DECIMO PRIMERO: Que el finiquito antes referido cumple con las formalidades legales contempladas en el artículo 177 del Código del Trabajo, toda vez que fue suscrito por las partes ante un notario público como ministro de fe. Sin embargo, al tratarse de un equivalente jurisdiccional que lo hace tener la misma fuerza que una sentencia firme, debe reunir, además, otros requisitos, debiendo constar que las partes han dado total y absoluto cumplimiento a las obligaciones que le correspondían conforme al contrato de trabajo, pues al tener una naturaleza convencional, es vinculante para las partes que concurren a su otorgamiento, pero solo en aquello establecido expresamente en el documento, no extendiéndose su poder liberatorio a otras obligaciones o prestaciones a las que no se hace mención, entendiéndose que respecto de ellas no existió acuerdo, así lo ha resuelto la Excelentísima Corte Suprema en diversos fallos de Unificación de Jurisprudencia.
+
+DECIMO SEGUNDO: Que, en el caso concreto, conforme a lo señalado anteriormente y lo consignado por las partes en el finiquito, se entiende que en relación con el feriado legal pendiente y/o feriado proporcional, las partes acordaron expresamente que éste se adeuda, obligándose la demandada claramente a pagar el monto que en el finiquito se consigna y por los días que ahí se señalan. No obstante, a juicio de esta sentenciadora, no existió pleno consentimiento en el monto pagado, y por ende, no existe poder liberatorio del finiquito en cuanto al feriado, toda vez que, tal como ya se indicó, la empleadora se obligó a pagar feriado legal pendiente y/o feriado proporcional, y en su reserva de derechos el trabajador hace expresa reserva de su derecho a reclamar “diferencias en el pago de las indemnizaciones y prestaciones”, entendiéndose incluidas dentro de estas prestaciones el feriado, legal y proporcional. Así las cosas, se rechaza la excepción de finiquito opuesta. Lo resuelto es la interpretación más acorde con los principios que informan el Derecho del Trabajo y su fin de protección al trabajador que concurre a suscribir el finiquito de contrato de trabajo, sin asistencia jurídica la mayoría de las veces, y con la necesidad imperiosa de obtener el pago de sus servicios para seguir solventando sus necesidades.
+
+EN CUANTO AL FONDO:
+
+DECIMO TERCERO: Que no se encuentra controvertido en autos la existencia de relación laboral entre las partes desde el 01 de diciembre de 1998, que anteriormente la razón social de la demandada era “SOLMAX CHILE SPA”, que el demandante se desempeñaba como jefe de servicios e innovación, y entre otras cosas, que el 18 de octubre de 2024 el demandante fue despedido por la causal de necesidades de la empresa.
+
+DECIMO CUARTO: Que, sin embargo, el demandante sostiene que fue despedido de forma improcedente, mientras que la demandada aduce que el despido se encuentra justificado.
+
+DECIMO QUINTO: Que consta de la carta aviso de término de contrato de trabajo de 18 de octubre de 2024 que se informa al trabajador que a contar de ese día se decidió poner término al contrato de trabajo por la causal del artículo 161 inciso 1° del Código del Trabajo, esto es, necesidades de la empresa, y se indica como hechos fundantes de la causal, los siguientes:
+
+1) La existencia de un proceso de racionalización y reestructuración que la empresa está llevando a cabo a nivel local, luego del análisis de las operaciones en la cuales participa. Lo anterior atendido los resultados financieros negativos que ha tenido de manera sostenida los últimos trimestres.
+
+2) Luego de haber realizado un análisis pormenorizado de las pérdidas, costos asociados a sus operaciones y a la baja proyección, ha tomado la decisión de eliminar el cargo de “Jefe de Servicios e Innovación”, siendo sus funciones redistribuidas en los demás cargos de la empresa.
+
+DECIMO SEXTO: Que, es necesario analizar si la misma se probó suficientemente en el caso concreto, y de la prueba incorporada al juicio, se puede establecer lo siguiente:
+
+a.- Que el cargo que el demandante desempeñaba como jefe de servicios e innovación, según consta en el anexo de contrato de 01 de enero de 2023, contemplaba entre sus funciones: “Está a cargo de organizar y potenciar la comercialización de servicios a clientes antiguos y nuevos, trabajando en sinergia con los equipos de desarrollo y ventas para mejorar la posición y el giro de la compañía en soluciones integrales y de valor. Proponer, evaluar y calificar los servicios a ofertar desde perspectivas comerciales, técnicas y financieras, brindando apoyo a los equipos de Desarrollo y Ventas, incluso participando directamente en las ofertas a los clientes cuando sea necesario. Liderar y ejecutar trabajos en terreno coordinados en diversas áreas de la empresa. Encabezar innovaciones en la fabricación de nuevas soluciones técnicas y comerciales para satisfacer la demanda en diferentes sectores, de acuerdo con las estrategias definidas por la Dirección y Equipo Comercial, supervisar el Departamento de Control de Calidad y brindar soporte técnico interno y externo; garantizar el cumplimiento de la Política de Calidad de la organización y las normas establecidas tanto para los productos fabricados como para los comercializados por V-Max. Gestionar, elaborar y dar seguimiento a procedimientos, instrucciones y métodos de trabajo para mantener el nivel de calidad requerido por la empresa. Controlar la precisión y calibración periódica de equipos de medición y herramientas de la planta, además de asegurar que el personal de producción comprenda los métodos y herramientas de control de calidad. Apoyar al equipo Comercial en términos de especificaciones técnicas y desarrollo de soluciones asegurando que las soluciones ofertadas cumplan con las expectativas del cliente. Así como hacer seguimiento de las quejas de productos en colaboración con el equipo de ventas/Desarrollo y el cliente.”
+
+b.- Que según consta en el anexo de contrato de 01 de enero de 2023, eran responsabilidades específicas del demandante:
+
+CALIDAD:
+
+. Asegurar la aplicación del Plan Control de Calidad.
+
+. Supervisar el trabajo del analista de calidad.
+
+. Asegurar la calibración y verificación de los equipos de laboratorio y herramientas de medición en la planta.
+
+. Administrar la certificaciones y acreditaciones de la empresa.
+
+. Llevar el seguimiento de reclamos y/o no conformidad de producción.
+
+. Asegurar la trazabilidad de los ensayos de calidad previsto al Plan de Calidad.
+
+. Mantener buenas relaciones con certificadores y/o acreditadores externos.
+
+. Archivar certificados de calidad de los productos comercializados por Solmax Chile.
+
+. Identificar o desarrollar pruebas necesarias al desarrollo de nuevas soluciones técnicas en desarrollo.
+
+. Asegurar adecuada capacitación del personal de planta con respecto a control de calidad.
+
+SOPORTE VENTAS:
+
+. Coordina la información técnica entre las partes para encontrar las expectativas de los clientes.
+
+. Participa al desarrollo de nuevas soluciones.
+
+. Contesta a preguntas técnicas de los clientes.
+
+. Apoya al equipo comercial con la venta de soluciones específicas ya sea solo o como parte de un equipo.
+
+. Visita clientes para verificar sus necesidades y dolores y realizar ventas.
+
+. Apoya al equipo comercial en presentaciones técnicas.
+
+. Apoya al equipo comercial (si es necesario) en ferias y conferencias.
+
+. Prepara artículos técnicos a ser publicados.
+
+. Recupera y organiza la información técnica para el presente y el futuro.
+
+QUEJAS:
+
+. Si es necesario, viajará a faenas para entender y resolver quejas.
+
+. Si es necesario, él coordinará con el Departamento de Producción la resolución de quejas con el apoyo de la Gerencia General.
+
+MARKETING:
+
+. Apoyará a la introducción de estrategias de ventas de nuevas soluciones.
+
+. Apoyará la preparación de contenido técnico a ser integrado en la literatura marketing de la empresa.
+
+. Evaluará tendencias del mercado y aportará con recomendaciones para el crecimiento de V-Max.
+
+c. Que según consta en el descriptor de cargo “Product Manager”, éste será responsable de liderar el desarrollo, gestión y promoción de servicios relacionados con todas las soluciones V-MAX, asegurando su posicionamiento en diferentes mercados. Su enfoque será generar valor agregado mediante soluciones técnicas y estratégicas dirigidas a empresas de ingeniería y proyectos, garantizando el cierre exitoso de los negocios. Se indica, que el cargo participa en reuniones de equipo, capacitaciones, reuniones de proyectos con clientes, y según organización, reporta al Gerente Comercial.
+
+d. Según consta del organigrama de agosto de 2024, el demandante, Mauricio Quintero, en su calidad de jefe de servicios, calidad e innovación, reportaba a Carolina Herrera, Commercial Manager, trabajando en el área 10 personas.
+
+e. Según consta del organigrama de fines 2024, el Product Manager Servicios Matías Quila, reporta a Carolina Herrera, Commercial Manager, trabajando en el área 9 personas.
+
+f. Según consta de la Carpeta Tributaria Electrónica generada el 06/11/2024, el estado financiero y tributario de la empresa se puede resumir del siguiente modo: La empresa inició actividades el 15/02/2011, presenta como actividades económicas la fabricación de productos plásticos y metálicos, y actividades de apoyo minero, fondos de inversión. Tiene domicilio en San Bernardo y una sucursal en Mejillones. Conforme a las Declaraciones de IVA (Formulario 29), en junio de 2024 pagó $23.005.664, en julio de 2024 pagó $22.623.421, en agosto de 2024 pagó $23.838.143, y en septiembre de 2024 pagó $19.527.851. Según Declaración de Renta (Formulario 22) el año 2022 tuvo una pérdida tributaria de $111.872.377, el año 2023 tuvo una pérdida tributaria de $94.975.980, y el año 2024 tuvo una pérdida tributaria de $171.159.895. Posee un bien raíz en la ciudad de Antofagasta, cuyo avalúo fiscal asciende a $508.663.232. Sus socios participantes son Groupe Versification International, Inc RUT 14.681.003-9 y otra sociedad RUT 59.276.190-4. Posee un remanente de crédito fiscal a septiembre de 2024 ascendente a $367.874.660, y una base imponible promedio mensual año 2024 de $1.100 millones. En definitiva, se observa un cumplimiento tributario impecable y activo inmobiliario de alto valor, y presenta pérdidas persistentes durante tres años consecutivos.
+
+g. Según el informe de auditor independiente, emitido por Deloitte, y análisis estados financieros por los años terminados al 31 de diciembre de 2023 y 2022, la empresa presenta pérdidas operativas, alto endeudamiento y deterioro de solvencia.
+DECIMO SEPTIMO: Que, además, con el Formulario 22 del Impuesto a la Renta de V-Max SpA, correspondiente al año 2022, el Formulario 22 del Impuesto a la Renta de V-Max SpA, correspondiente al año 2023, y el Formulario 22 del Impuesto a la Renta de V-Max SpA, correspondiente al año 2024, se observan algunas ventas significativas mensuales, como en septiembre y agosto de 2024, que en el año 2023 las ventas oscilaron entre cien y quinientos millones aproximadamente, lo que se mantiene en el año 2024. La empresa realiza exportaciones, por lo que tiene presencia internacional, paga montos de impuestos significativos y tiene un remanente de crédito fiscal considerable. En cuanto a sus activos, estos ascendieron a $15.565 millones en el año 2022, a $18.031 millones el año 2023, y a $20.218 millones el año 2024, mientras que sus pasivos alcanzaron el año 2022 $14.810 millones, el año 2023 $17.194 millones y el año 2024 a $20.786 millones, y su patrimonio ascendió el año 2022 a $755.261.336 y el año 2023 a $837.505.483, el año 2024 no se encuentra calculado, pero el capital propio tributario alcanza la suma de $3.215 millones, lo que sugiere solvencia. En definitiva, la empresa demandada, no obstante presentar pérdidas sostenidas los últimos tres años, las que han ido en aumento, superando sus pasivos a sus activos, aumentando por ello su riesgo financiero. No obstante, también presenta operaciones y exportaciones significativas, una base de activos, y remanente de IVA que es un activo, pudiendo este último, en caso de que las pérdidas continúen, afectar su liquidez, por lo que se hace evidente que la empresa requiere un análisis profundo de costos y estrategia comercial para mejorar sus márgenes.
+
+DECIMO OCTAVO: Que, por otra parte, los testigos que declaran a favor de la actora señalan lo siguiente:
+
+a.- El testigo Matías Quila Acuña, que ingresó a la Compañía el 21 de octubre de 2024, se desempeña como Product Manager, que su remuneración bruta asciende a $1.500.000, no tiene personal a cargo, depende de la gerencia comercial, y que dentro de su principal función se encuentra el tener que promocionar venta de servicios.
+
+b.- La testigo Andrea San Martín, que trabaja para la demandada en el Área de Gestión de Personas, es la encargada de esa área en San Bernardo, tiene acceso a los contratos, el demandante ganaba sobre 3 millones de pesos y el señor Quila un millón quinientos mil pesos y solo vende servicios, no participa en los proyectos, y entre otras cosas, que en el año 2024 más de 6 personas fueron desvinculadas por necesidades de la empresa, y que en el año 2024 se contrató 3 o 4 personas.
+
+c.- La testigo Alejandra Molina, que el demandante fue desvinculado y asumió el liderazgo otra persona que no conoce, pero vio el comunicado, lo que se condice con los correos de 18 de octubre de 2024 y 21 de octubre de 2024, donde se informa la desvinculación del demandante y se da la bienvenida a Matías Quila, respectivamente, y con lo declarado por el testigo Cristian Jelves en cuanto a que la gerente de ventas le dijo que Matías venía en reemplazo del demandante.
+
+DECIMO NOVENO: Que la jurisprudencia y doctrina han sostenido que la causal de necesidades de la empresa debe fundarse en hechos objetivos que hagan inevitable la separación de uno o más trabajadores.
+
+En el caso concreto, ha quedado suficientemente establecido, con la prueba pormenorizada, la necesidad de la Compañía demandada de reestructurar costos, revisar sus gastos operativos, y mejorar sus estrategias para mejorar sus márgenes de ganancia. No obstante, se desconoce cuáles son las causas de las pérdidas, y el alto remanente de crédito fiscal es un activo clave para gestionar el flujo en el corto plazo, aun cuando de continuar las pérdidas ello “podría afectar la liquidez”. Por lo que a juicio de esta sentenciadora, no obstante alegar la demandada que se encuentra en un estado de necesidad económica que justifica la desvinculación de la demandante, lo cierto es que no hace mucho tiempo abrió una sucursal en Antofagasta, específicamente en Mejillones, lo que evidentemente significa una altísima inversión y endeudamiento de la empresa, decisión que no dependía de la demandante, y no existe prueba alguna en el juicio destinada a acreditar que ésta haya realizado todo lo necesario, agotando todos los medios, para poder continuar con el giro de la empresa sin afectar a los trabajadores. En efecto, la demandada ha seguido contratando personal, lo que no se condice con la necesidad que alega, toda vez que bien podría haber disminuido su personal y reasignar funciones en las distintas áreas entre los trabajadores que no fueron despedidos, así también podría haber rebajado sus “gastos”, refinanciado deudas, optimizado inventarios y diversificar clientes, pero no se entiende y no se comparte por el Tribunal que pretenda desviar su responsabilidad en el mal manejo de sus negocios en sus colaboradores, quienes no tienen por qué asumir los riesgos del negocio, toda vez que no ha acreditado cambios en las condiciones del mercado donde desarrolla su giro, y tampoco acreditó un cambio efectivo en la estructura del área de la que dependía el trabajador. A esta misma conclusión arribo el Tribunal en una similar en contra de esta misma demandada RIT T-123-2024 de este mismo Tribunal, tenida a la vista.
+
+VIGESIMO: Que en definitiva, la demandada sigue funcionando, no acreditó que haya realizado o al menos intentado algún esfuerzo para no desvincular al demandante, y no acreditó que haya sido estrictamente necesario su despido atendidas las condiciones económicas de la empresa, bajas en la productividad, o cambios de la economía o del mercado que hicieran estrictamente necesaria la separación del trabajador, por lo tanto, esta causal no se configura, toda vez que, a juicio de esta sentenciadora, el despido del actor solo se debe a la mera voluntad unilateral y discrecional del empleador para pagar una remuneración inferior por la prestación del servicio.
+
+VIGESIMO PRIMERO: Que atendido todo lo anteriormente razonado y resuelto, el despido del demandante es improcedente, y consecuentemente se hará lugar a la demandada en cuanto por ella se cobra un incremento del 30% sobre la indemnización por años de servicios.
+
+VIGESIMO SEGUNDO: Que el demandante solicita se le haga devolución de lo descontado en su finiquito por concepto de aporte al seguro de cesantía. Es un hecho no controvertido por las partes que el día 29 de octubre de 2024 el actor firmó un finiquito con reserva de derechos, donde se le descontó por concepto de aporte al seguro de cesantía, la suma de $9.146.342.
+
+En el caso que nos aqueja y según se ha resuelto en el considerando vigésimo primero, el despido del demandante se ha declarado improcedente, y así las cosas, el término del contrato no tuvo por fundamento una de las causales que prevé el artículo 13 de la Ley N°19.728, por lo tanto, no se dan las condiciones para que dicha norma opere, motivo por el cual en opinión de esta sentenciadora, no corresponde que la demandada descuente su aporte al seguro de cesantía, así por lo demás lo ha resuelto la Excma. Corte Suprema en recurso de unificación de jurisprudencia, donde señala, entre otras cosas, que en estos casos hay que tener en consideración que “el objetivo del legislador al establecer el inciso 2° del artículo 13 de la Ley N°19.728, no ha sido otro que favorecer al empleador en casos en que se ve enfrentado a problemas en relación con la subsistencia de la empresa, con una suerte de beneficio cuando debe responder de las indemnizaciones relativas al artículo 161 del Código del Trabajo”, y que “al ser una prerrogativa, debe ser considerada como una excepción, y por lo tanto, su aplicación debe hacerse en forma restrictiva”.
+VIGESIMO TERCERO: Que el demandante también solicita el pago de una diferencia de feriados, toda vez que la demandada solo le pagó 60.16 días de feriado por $10.783.953, debiendo haberle pagado 73.28 días por la suma de $14.360.293, adeudando una diferencia de $3.576.340. Al efecto, la demandada, siendo de su cargo hacerlo, solo incorporó al juicio un certificado de vacaciones que no se encuentra suscrito por el trabajador, debiendo haber incorporado los comprobantes de feriado debidamente suscritos por éste, lo que no hizo. Así las cosas, se acogerá el cobro de este ítem.
+
+VIGESIMO CUARTO: Que la remuneración del actor con tope de 90 UF corresponde a la suma de $3.417.428, monto que las partes no controvirtieron.
+
+VIGESIMO QUINTO: Que la prueba se analizó de conformidad con las reglas de la sana crítica, y la no pormenorizada, no altera lo concluido.
+
+Por estas consideraciones y visto lo dispuesto en los artículos 1698 del Código Civil; 7, 63, 73, 161, 456, 457, 459, 485 y siguientes del Código del Trabajo, y demás normas aplicables en la especie, SE DECLARA:
+
+I.- Que SE RECHAZA la excepción de finiquito.
+
+II.- Que SE ACOGE la demanda en cuanto se declara improcedente el despido de Mauricio Andrés Quintero Cárcamo, y se condena a la demandada V-MAX SPA., representada por don Carlos Javier Walger a pagarle las siguientes prestaciones:
+
+a) $11.277.512 por 30% de incremento legal sobre la indemnización por años de servicios pagada en el finiquito.
+b) $9.146.342 por concepto de devolución de descuento de aporte al seguro de cesantía.
+c) $3.576.340 por diferencia de feriados.
+VI.- Que las sumas antes señaladas deberán ser reajustadas y aplicárseles el interés correspondiente, conforme lo dispone el artículo 63 del Código del Trabajo.
+
+VII.- Que cada parte pagará sus costas.
+
+Regístrese en el sistema informático y archívese en su oportunidad.
+
+Regístrese y notifíquese.
+
+RIT O-680-2024
+RUC 24- 4-0629671-3
+Dictada por Clara Rojo Silva, Jueza Titular del Juzgado de Letras del Trabajo de San Bernardo.
+
+PÁGINA 1 DE 1
