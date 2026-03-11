@@ -1,0 +1,65 @@
+METADATA
+
+case_id: e5db641d96fa7d41567cba03e915d6b9df3adf73
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7969243
+
+rol: 54894-2025
+
+fecha_sentencia: 2025-12-23
+
+caratulado: CASTRO ALVAREZ MARTIN ALEXIS CONTRA JUZGADO DE GARANTÍA DE MELIPILLA
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintitrés de diciembre de dos mil veinticinco.
+
+Vistos:
+
+Se confirma la sentencia apelada de nueve de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Valdivia, en el Ingreso Corte N°Amparo-483-2025.
+
+Regístrese y devuélvase.
+
+Rol N°56173-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Valdivia
+Valdivia, nueve de diciembre de dos mil veinticinco.
+Vistos:
+
+1º) Sandra Zamora Oyarzún, abogada, defensora penal pública penitenciaria, por el condenado José Arnoldo Oyarzo Vargas, actualmente privado de libertad en el Centro de Cumplimiento Penitenciario de Osorno, deduce acción constitucional de amparo en contra de la Comisión de Libertad Condicional, por haber rechazado la concesión del beneficio de la libertad condicional de su representado, a pesar de contar con todos los requisitos legales para ello, lesionando su derecho a la libertad personal garantizado en el numeral séptimo del artículo 19 de la Constitución Política de la República.
+
+2º) El recurso de amparo, previsto en el artículo 21 de la Constitución Política de la República, es una acción constitucional cuyo propósito consiste en obtener de los Tribunales Superiores de Justicia, una tutela eficaz y eficiente para salvaguardar la integridad del derecho que la doctrina ha denominado libertad individual, para evitar una afectación antijurídica del derecho a la libertad personal y a la seguridad individual de cualquier persona, siendo precisamente la antijuridicidad de la conducta el comportamiento que la acción constitucional referida intenta solucionar o revertir.
+
+3º) Para una adecuada resolución de este asunto es necesario tener en cuenta que el artículo 1º del Decreto Ley N°321 del Ministerio de Justicia, modificado por la Ley N°21.124, de 18 de enero de 2019, dispone que “La libertad condicional es un medio de prueba de que la persona condenada a una pena privativa de libertad y a quien se le concediere, demuestra, al momento de postular a este beneficio, avances en su proceso de reinserción social”.
+El artículo 4º de la ley citada indica que: “La postulación al beneficio de libertad condicional será conocida por una Comisión de Libertad Condicional, que funcionará en la Corte de Apelaciones respectiva, durante los primeros quince días de los meses de abril y octubre de cada año, previo informe de Gendarmería de Chile. Este informe deberá acreditar el cumplimiento de los requisitos establecidos en el artículo 2°, y de los artículos 3°, 3° bis y 3° ter, según sea el caso, en la forma que determine el reglamento respectivo”.
+
+A su vez, el artículo 5° indica que: “Será facultad de la Comisión de Libertad Condicional conceder, rechazar y revocar, en su caso, el beneficio, mediante resolución fundada.
+
+La Comisión deberá constatar el cumplimiento de los requisitos establecidos en el artículo 2°, y de los artículos 3°, 3° bis y 3° ter, según sea el caso, para lo cual se tendrán a la vista los antecedentes emanados de Gendarmería de Chile, y todos los demás que la Comisión considere necesarios para mejor resolver”.
+
+4º) Del marco normativo citado precedentemente, surge que la Comisión de Libertad Condicional tiene la obligación de tomar decisiones concediendo o rechazando el beneficio a la libertad condicional mediante una resolución fundada, en que se constate el cumplimiento de los requisitos objetivos establecidos en los números 1 y 2 del artículo 2 del Decreto Ley N°321 y, en lo que interesa al recurso, ponderar el informe de postulación psicosocial, que orienta sobre los factores de riesgo de reincidencia y permite conocer las posibilidades del interno de reinsertarse adecuadamente en la sociedad.
+
+5º) En la especie, la Comisión de Libertad Condicional negó -por unanimidad- la libertad condicional al amparado, precisando los motivos por los que tomó dicha determinación, que consisten en que “presenta riesgo alto de reincidencia sexual, con un estado motivacional al cambio precontemplativo; con problemas de resolución de conflictos, manejo de la ira, impulsividad, su red de apoyo no se visualiza como contenedora de conductas disruptivas, por lo que debe dar continuidad al proceso de reinserción social en el sistema cerrado.”
+
+6º) De lo reseñado en el motivo precedente, queda en evidencia que, para sustentar el rechazo reclamado, ha existido un desarrollo argumental completo de parte de la Comisión recurrida, inspirado, en lo fáctico, en la evaluación de la condición del interno, practicada por el órgano técnico competente.
+
+En efecto, al cumplir con la obligación de fundamentación de la resolución denegatoria, el actuar de la Comisión no carece de razonabilidad, pues se apoya en motivaciones suficientes que resultan idóneas para fundar su legitimidad, dentro de los extremos del artículo 2º del Decreto Ley N°321, advirtiéndose que el recurrente ha confundido la falta de fundamentación con la distinta valoración o apreciación que tiene de dichos elementos y que, por cierto, difiere de la argumentada por la Comisión recurrida.
+
+7º) En virtud de lo expuesto, no cabe sino concluir que la Comisión de Libertad Condicional correspondiente a la jurisdicción de Valdivia ha actuado enmarcada en la esfera de sus atribuciones, dentro del proceso que la ley prevé y otorgando fundamento a su resolución en el contexto regulador respectivo, por lo que la acción constitucional será rechazada.
+Por lo expuesto, normas citadas, y visto, además, lo dispuesto en el artículo 21 de la Constitución Política de la República, SE RECHAZA el recurso de amparo interpuesto a favor de José Arnoldo Oyarzo Vargas.
+Regístrese, notifíquese y archívese, en su oportunidad.
+Rol Amparo 483-2025
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de ValdiviaValdivia, nueve de diciembre de dos mil veinticinco.Vistos:1º) Sandra Zamora Oyarzún, abogada, defensora penal pública penitenciaria, por el condenado José Arnoldo Oyarzo Vargas, actualmente privado de libertad en el Centro de Cumplimiento Penitenciario de Osorno, deduce acción constitucional de amparo en contra de la Comisión de Libertad Condicional, por haber rechazado la concesión del beneficio de la libertad condicional de su representado, a pesar de contar con todos los requisitos legales para ello, lesionando su derecho a la libertad personal garantizado en el numeral séptimo del artículo 19 de la Constitución Política de la República.2º) El recurso  de amparo, previsto en el artículo 21 de la Constitución Política de la República, es una  acción constitucional cuyo propósito consiste en obtener de los Tribunales Superiores de Justicia, una tutela eficaz y eficiente para salvaguardar la integridad del derecho que la doctrina ha denominado libertad individual, para evitar una afectación antijurídica del derecho a la libertad personal y a la seguridad individual de cualquier persona, siendo precisamente la antijuridicidad de la conducta el comportamiento que la acción constitucional referida intenta solucionar o revertir.3º) Para una adecuada resolución de este asunto es necesario tener en cuenta que el artículo 1º del Decreto Ley N°321 del Ministerio de Justicia, modificado por la Ley N°21.124, de 18 de enero de 2019, dispone que “La libertad condicional es un medio de prueba de que la persona condenada a una pena privativa de libertad y a quien se le concediere, demuestra, al momento de postular a este beneficio, avances en su proceso de reinserción social”.El artículo 4º de la ley citada indica que: “La postulación al beneficio de libertad condicional será conocida por una Comisión de Libertad Condicional, que funcionará en la Corte de Apelaciones respectiva, durante los primeros quince días de los meses de abril y octubre de cada año, previo informe de Gendarmería de Chile. Este informe deberá acreditar el cumplimiento de los requisitos establecidos en el artículo 2°, y de los artículos 3°, 3° bis y 3° ter, según sea el caso, en la forma que determine el reglamento respectivo”. A su vez, el artículo 5° indica que: “Será facultad de la Comisión de Libertad Condicional conceder, rechazar y revocar, en su caso, el beneficio, mediante resolución fundada. La Comisión deberá constatar el cumplimiento de los requisitos establecidos en el artículo 2°, y de los artículos 3°, 3° bis y 3° ter, según sea el caso, para lo cual se tendrán a la vista los antecedentes emanados de Gendarmería de Chile, y todos los demás que la Comisión considere necesarios para mejor resolver”.4º) Del marco normativo citado precedentemente, surge que la  Comisión de Libertad Condicional tiene la obligación de tomar decisiones concediendo o rechazando el beneficio a la libertad condicional mediante una resolución fundada, en que se constate el cumplimiento de los requisitos objetivos establecidos en los números 1 y 2 del artículo 2 del Decreto Ley N°321 y, en lo que interesa al recurso, ponderar el informe de postulación psicosocial, que orienta sobre los factores de riesgo de reincidencia y permite conocer las posibilidades del interno de reinsertarse adecuadamente en la sociedad.5º) En la especie, la Comisión de Libertad Condicional negó -por unanimidad- la libertad condicional al amparado, precisando los motivos por los que tomó dicha determinación, que consisten en que “presenta riesgo alto de reincidencia sexual, con un estado motivacional al cambio precontemplativo; con problemas de resolución de conflictos, manejo de la ira, impulsividad, su red de apoyo no se visualiza como contenedora de conductas disruptivas, por lo que debe dar continuidad al proceso de reinserción social en el sistema cerrado.”6º) De lo reseñado en el motivo precedente, queda en evidencia que, para sustentar el rechazo reclamado, ha existido un desarrollo argumental completo de parte de la Comisión recurrida, inspirado, en lo fáctico, en la evaluación de la condición del interno, practicada por el órgano técnico competente. En efecto, al cumplir con la obligación de fundamentación de la resolución denegatoria, el actuar de la Comisión no carece de razonabilidad, pues se apoya en motivaciones suficientes que resultan idóneas para fundar su legitimidad, dentro de los extremos del artículo 2º del Decreto Ley N°321, advirtiéndose que el recurrente ha confundido la falta de fundamentación con la distinta valoración o apreciación que tiene de dichos elementos y que, por cierto, difiere de la argumentada por la Comisión recurrida.7º) En virtud de lo expuesto, no cabe sino concluir que la Comisión de Libertad Condicional correspondiente a la jurisdicción de Valdivia ha actuado enmarcada en la esfera de sus atribuciones, dentro del proceso que la ley prevé y otorgando fundamento a su resolución en el contexto regulador respectivo, por lo que la acción constitucional será rechazada.Por lo expuesto, normas citadas, y visto, además, lo dispuesto en el artículo 21 de la Constitución Política de la República, SE RECHAZA el recurso de amparo interpuesto a favor de José Arnoldo Oyarzo Vargas.Regístrese, notifíquese y archívese, en su oportunidad.Rol Amparo 483-2025                        ⚠                      Sin documento en esta instancia - pdf

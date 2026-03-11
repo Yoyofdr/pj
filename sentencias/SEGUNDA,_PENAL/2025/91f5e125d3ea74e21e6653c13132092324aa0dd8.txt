@@ -1,0 +1,642 @@
+METADATA
+
+case_id: 91f5e125d3ea74e21e6653c13132092324aa0dd8
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7969914
+
+rol: 56297-2025
+
+fecha_sentencia: 2025-12-23
+
+caratulado: DIEGO BRANCO ESPINOSA PIÑONES CONTRA COMISION LIBERTAD CONDICIONAL
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintitrés de diciembre de dos mil veinticinco.
+
+Vistos y teniendo presente:
+
+Primero: Que, en estos autos Rol Nº27.855-2025 caratulados ¿Consejo de Defensa con Rodríguez Ramos, Rubén Manuel¿, sobre demanda en juicio ordinario de restitución de inmueble, de conformidad con lo dispuesto en el artículo 782 del Código de Procedimiento Civil, se ha ordenado dar cuenta de la admisibilidad del recurso de casación en el fondo deducido por la parte demandada en contra de la sentencia dictada por la Corte de Apelaciones de La Serena que confirmó la del 2 ° Juzgado Civil de la misma ciudad, que acogió la demanda, declarando que el demandado es un ocupante ilegal del inmueble inscrito a favor del Fisco a mayor cabida a fojas 530 N° 371, en el Registro de Propiedad del Conservador de Bienes Raíces de Coquimbo, correspondiente al año 1991 y le ordenó su restitución al Fisco, dentro de tercero día de ejecutoriada la sentencia y rechazó la demanda de indemnización de perjuicios.
+
+Segundo: Que, se alega como causal de nulidad sustancial que la sentencia incurre en una errónea interpretación de los artículos 66 y 67 del Decreto Ley N°1939 y al artículo 1545 del Código Civil.
+
+Funda su arbitrio en que, para ser declarado ocupante ilegal, se debe cumplir con los requisitos establecidos en el artículo 19 inciso segundo del DL N°1939 de 1977, que señala que los bienes raíces del Estado no podrán ser ocupados si no mediare una autorización, concesión o contrato originado en conformidad a esa misma Ley u otras disposiciones legales especiales y, quien no acredite alguna de estas calidades es un ocupante ilegal, normas de las que la sentencia no se hace cargo, remitiéndose solo a la existencia de una resolución.
+
+Sostiene que la resolución N°64 nunca le fue notificada y que la norma dispone que el contrato de arrendamiento obedecerá a las normas del propio decreto, como regla especial y que debe aplicarse el artículo 1545 del Código Civil, ¿respecto a la celebración del contrato para posteriormente sea considerado para la confección y perfeccionamiento de la resolución 64 indicada (sic)¿, lo que significaría que los actos consecutivos son nulos de pleno derecho, por la falta de legalidad de la señalada resolución.
+
+Agrega que, como media consentimiento de las partes, reconocido tácitamente por Bienes Nacionales, el demandado no puede ser considerado ocupante ilegal y que, en la especie, hay un contexto histórico de las autorizaciones que le fueron otorgadas en diversas oportunidades, y que están sujetas a nulidad absoluta, que no fueron ponderadas.
+
+Tercero: Que, para mayor claridad en lo que ha de decidirse, es menester señalar que el proceso se inició por demanda interpuesta por el Fisco de Chile en contra de Rubén Manuel Rodríguez Ramos, fundada en que es dueño del inmueble correspondiente al Lote A, ubicado en el sector Playa Grande, camino a Puerto Aldea S/N, comuna de Coquimbo, Provincia del Elqui, IV Región, individualizado en el Plano N° 04102-1464 C.U., del Ministerio de Bienes Nacionales, inscrito a favor del Fisco a mayor cabida a fojas 530 N°371, en el Registro de Propiedad del Conservador de Bienes Raíces de Coquimbo, correspondiente al año 1991, de una superficie de 4.562,73 M².
+
+Agregó que, por Resolución Exenta N° 64 , de 22 de abril de 2009, se le concedió al demandado el arriendo del predio, con el objeto de mejorar la infraestructura del camping que funciona en dicho terreno.
+
+Explicó que, a raíz del tsunami del 27 de febrero de 2010 se dictó una nueva normativa de seguridad para el borde costero por lo que, encontrándose el inmueble dado en arriendo en una zona inundable, con fecha 11 de noviembre de 2010, se dictó resolución Exenta Nº3512 que derogó la Resolución Exenta Nº64, poniendo término al arrendamiento.
+
+El 11 de marzo de 2019 se realizó la fiscalización N°1023858, constatándose la ocupación del inmueble por parte del señor Rodríguez Ramos, quien mantiene construcciones de material ligero, las cuales son utilizadas como camping, sin que exista acto administrativo alguno que ampare dicha ocupación.
+
+Por lo que, en virtud de lo dispuesto en el artículo 19 del DL Nº1939 de 1977 y 915 del Código Civil, solicitó declarar la calidad de ocupante ilegal del inmueble fiscal del demandado y ordenar su restitución material.
+
+Cuarto: Que, la sentencia de primer grado tuvo por acreditados los siguientes hechos:
+
+1. El Fisco es dueño de la propiedad cuya inscripción de dominio de inmueble fiscal, inscrito a fojas 530 N°371 en el Registro de Propiedades del Conservador de Bienes Raíces de Coquimbo, correspondiente al año 1991.
+
+2. El demandado ocupa el referido inmueble, con título de arrendatario, desde el año 2009, en virtud de la Resolución N°64.
+
+3. La autoridad administrativa dictó en el año 2010 la resolución N°3512, que derogó el contrato que detentaba el demandado.
+
+4. El demandado es un empresario turístico del sector Tongoy y ha solicitado al menos desde el año 1992 autorizaciones para instalar un camping en la playa.
+
+5. El demandado solicitó se le concediera arriendo de una franja de propiedad fiscal en el año 2008, aceptando la resolución que acogió su solicitud.
+
+Quinto: Que, a continuación, razonó que, atendido que la Resolución N°64 fue derogada por la N°3512 y constado que el demandado utiliza el inmueble, de conformidad a lo dispuesto en el inciso tercero del artículo 19 del D.L. N°1939, es un ocupante ilegal de aquél y debía restituirlo al Fisco, acogiendo la demanda en la forma señalada.
+
+Dicha decisión fue confirmada por la Corte de Apelaciones de La Serena.
+
+Sexto: Que, es pertinente recordar que, según lo dispone el artículo 767 del Código de Procedimiento Civil, el recurso de casación en el fondo procede en contra de sentencias que se hayan pronunciado con infracción de ley y siempre que dicha infracción haya influido substancialmente en lo dispositivo del fallo.
+
+Por su parte, para que un error de derecho pueda influir de manera substancial en lo dispositivo del fallo, como lo exige la ley, aquél debe consistir en una equivocada aplicación, interpretación o falta de aplicación de aquellas normas destinadas a decidir la cuestión controvertida, situación que no ocurre en este caso.
+
+Séptimo: Que, sin perjuicio de la poca claridad con que el recurso plantea la existencia del vicio denunciado, ha de desestimarse que los jueces del grado incurran en alguna vulneración de los artículos 66 y 67 del DL N°1939 y 1545 del Código Civil pues ninguna de estas normas permite resolver la controversia planteada, que dice relación con la ocupación ilegal derivada de la ausencia de título que le permita al demandado permanecer en el inmueble fiscal, desde que, como se estableció por los jueces del grado, el arrendamiento que se le concediera fue dejado sin efecto en el año 2010.
+
+Por lo que el recurso de casación no puede prosperar por adolecer de manifiesta falta de fundamento.
+
+Y de conformidad, además, con lo dispuesto en los artículos 764 , 765 , 767 y 782 del Código de Procedimiento Civil, se rechaza por manifiesta falta de fundamento el recurso de casación en el fondo deducido por la parte demandada, en su presentación de cuatro de julio de dos mil veinticinco, en contra de la sentencia de dieciséis de junio del mismo año, dictada por la Corte de Apelaciones de La Serena.
+
+Regístrese y devuélvase.
+
+Redacción a cargo del Ministro (S) señor Contreras.
+
+Rol Nº27.855-2025.-
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Consejo de Defensa del Estado
+
+Rodríguez Ramos, Rubén Manuel
+
+Haciendo, procedimiento cuantía inferior art. 749 C.P.C.
+
+Rol N° 71-2024.- (C-813-2020 del Primer Juzgado de Letras de La Serena)
+
+La Serena, dieciséis de junio de dos mil veinticinco.
+
+VISTO:
+
+Se reproduce la sentencia en alzada y se tiene, además, presente.
+Que, como bien sostuvo la sentenciadora a quo, esta Corte comparte el que haya sido tenido por cierto que el demandado ocupa una propiedad del Fisco de Chile sin alguna de las calidades a las que se refiere el artículo 19 del Decreto Ley 1939, siendo correcta, entonces, la calificación de ocupante ilegal. A lo anterior debemos agregar que, por interesantes que aparezcan los argumentos del demandado, expuesto a través de su apoderada en estrados, lo cierto es que nada de ello fue incorporado al debate de la instancia, por lo que escapa, con creces, a los márgenes con los que esta Corte puede obrar a ese respecto.
+
+En relación con la petición de indemnización, formulada por la entidad demandante, analizada la acción a ese respecto, es posible constatar que lo que el Fisco busca es el pago de una suma equivalente al monto fijado como renta de arrendamiento en la Resolución Exenta 64 de 2009 que así lo dispuso. Sin embargo, no se puede obviar que aquel contrato fue dejado sin efecto, mediante Resolución Exenta de 2010, lo que transformó al ocupante en ilegal, por lo que malamente podría establecerse, como indemnización de ocupación, las rentas supuestamente impagas. Por lo demás, el Fisco no realiza un trabajo exhaustivo de explicar los montos que busca sean indemnizados, lo que, sumado al motivo que justificó la dictación de la segunda de las resoluciones, esto es, el carácter de inundable del terreno, no es posible comprender que el Fisco pueda percibir un monto indemnizatorio por el uso de un suelo que no podría ser ocupado.
+
+Finalmente, no consta prueba respecto del tiempo total de ocupación del demandado, circunstancia que impide acceder a aquel extremo de la acción.
+
+Atendido el mérito de los antecedentes y lo dispuesto en los artículos 186, 223 y 227 del Código de Procedimiento Civil, SE CONFIRMA la sentencia apelada de fecha veintiocho de agosto de dos mil veintitrés, transcrita íntegramente en la carpeta digital.
+
+Regístrese y devuélvase vía interconexión.
+
+Rol No.71-2024 Civil.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C-813-2020
+
+NOMENCLATURA : 1. [40]Sentencia
+
+JUZGADO : 1 Juzgado de Letras de la Serenaº
+
+CAUSA ROL : C-813-2020
+
+CARATULADO : CONSEJO DE DEFENSA/RODR GUEZÍ
+
+La Serena, veintiocho de Agosto de dos mil veintitrés
+
+VISTOS:
+
+Con fecha 28 de febrero de 2020, a folio 1, comparece
+
+don Carlos Vega A., Procurador Fiscal de La Serena del
+
+Consejo de Defensa del Estado, en representación legal del
+
+Fisco de Chile, ambos con domicilio para estos efectos en
+
+Eduardo de la Barra N°336, oficina 301, La Serena, quien
+
+deduce de restitución de inmueble fiscal en juicio de
+
+hacienda, en contra de don RUBÉN MANUEL RODRÍGUEZ RAMOS,
+
+Cédula Nacional de Identidad N° 9.205.218-4, domiciliado en
+
+Lote A, Playa Grande S/N, camino a Puerto Aldea, Tongoy,
+
+comuna de Coquimbo y/o Francisco Encina Nº 615, Población
+
+Balmaceda, comuna de La Serena, con la finalidad que
+
+restituya al Fisco de Chile, libre de todo ocupante, el
+
+inmueble fiscal ubicado en Tongoy, Comuna de Coquimbo.
+
+Explica que el Fisco de Chile es dueño del inmueble
+
+correspondiente al Lote A, ubicado en el sector Playa Grande,
+
+camino a Puerto Aldea S/N, comuna de Coquimbo, Provincia del
+
+Elqui, IV Región, individualizado en el Plano N° 04102-1464
+
+C.U., del Ministerio de Bienes Nacionales, inscrito a favor
+
+del Fisco a mayor cabida a fojas 530 N° 371, en el Registro
+
+de Propiedad del Conservador de Bienes Raíces de Coquimbo,
+
+correspondiente al año 1991, de una superficie de 4.562,73 M²
+
+y con los siguientes deslindes particulares: AL NORTE: Fisco,
+
+terreno de playa en 13,40 metros entre los puntos 1 y 2 del
+
+plano; AL ESTE: camino público Puerto Aldea-Tongoy en 271,20
+
+metros; AL SUR: Fisco, Lote B en 22,90 metros; AL OESTE:
+
+Fisco, terrenos administrados por Armada de Chile en 260,70
+
+metros.
+
+Refiere que a través de Resolución Exenta N° 64, de 22
+
+de abril de 2009, se le concedió al demandado don Rubén
+
+Código: QVMSXHZPXNX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-813-2020
+
+Manuel Rodríguez Ramos, el arriendo del predio
+
+individualizado precedentemente, con el objeto de mejorar la
+
+infraestructura del camping que funciona en dicho terreno,
+
+agrega que el 27 de febrero de 2010 ocurrió un evento sísmico
+
+de gran envergadura en nuestro país, acompañado de un
+
+posterior tsunami que arrasó con la mayoría de las
+
+localidades costeras del Maule y Bio-Bio, lo cual dio origen
+
+a normativa de seguridad para todo el borde costero ante
+
+posibles nuevos tsunamis, en virtud de lo anterior, y
+
+encontrándose el inmueble dado en arriendo en zona inundable,
+
+con fecha 11 de noviembre de 2010, se dictó resolución Exenta
+
+Nº3512 a través de la cual se deroga la Resolución Exenta
+
+Nº64, poniendo término al arrendamiento.
+
+Sostiene que con fecha 11 de marzo de 2019 se realizó
+
+fiscalización, la cual consta en ficha de fiscalización N°
+
+1023858, constatándose la ocupación del inmueble por parte
+
+del señor Rodríguez Ramos, quien mantiene construcciones de
+
+material ligero las cuales son utilizadas como camping, sin
+
+que exista acto administrativo alguno que ampare dicha
+
+ocupación.
+
+A este Tribunal pide que se declare que el demandado
+
+tiene la calidad de ocupante ilegal del inmueble fiscal
+
+correspondiente al Lote A, ubicado en el sector Playa Grande,
+
+camino a Puerto Aldea S/N, comuna de Coquimbo, Provincia del
+
+Elqui, IV Región, individualizado en el Plano N°04102-1464
+
+C.U., del Ministerio de Bienes Nacionales, inscrito a favor
+
+del Fisco a mayor cabida a fojas 530 N°371, en el Registro de
+
+Propiedad del Conservador de Bienes Raíces de Coquimbo,
+
+correspondiente al año 1991, de una superficie de 4.562,73
+
+M², por lo que está obligado a restituirlo y que se ordene la
+
+restitución material del inmueble ya individualizado, libre
+
+de todo ocupante, dentro de tercero día de ejecutoriada la
+
+sentencia, bajo percibimiento de proceder al lanzamiento con
+
+auxilio de la fuerza pública, todo ello, con costas.
+
+En el primer otrosí de su presentación, deduce demanda
+
+indemnizatoria en contra del demandado ya individualizado,
+
+con la finalidad de que indemnice al Fisco de Chile por el
+
+tiempo de ocupación ilegal del inmueble fiscal indicando que
+
+la ocupación ilegal se remonta al año 2010, motivo por el
+
+Código: QVMSXHZPXNX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-813-2020
+
+cual la indemnización demandada asciende a la suma de $
+
+10.769.564, correspondiendo al año 2010 la suma de $92.595,
+
+al 20211 la suma de $1.160.450, a 2012 $1.177.695, a 2013
+
+$1.213.212, a 2014 la suma de $1.325.179, 2016 la suma de
+
+$1.361.068, a 2017 $1.391.958, a 2018 $1.427.634, a 2019
+
+$350.189, calculo que señala haber realizado en base al monto
+
+promedio de una renta mensual que el demando debió pagar por
+
+un inmueble de dichas características.
+
+Con fecha 30 de abril de 2022, a folio 19, comparece
+
+don RUBÉN MANUEL RODRIGUEZ RAMOS, factor de comercio, cédula
+
+nacional de identidad número 9.205.218-4, domiciliado en
+
+calle Avenida Playa Grande sin número, Camping Tongoy, comuna
+
+de Coquimbo contestando la demanda interpuesta en su contra,
+
+indicando que no es efectivo que mediante Resolución Exenta
+
+N° 64, de 22 de abril de 2009, se le concediera el arriendo
+
+del predio, toda vez que él tomó conocimiento con fecha 17 de
+
+junio de 2008, que su solicitud fue aceptada y que dicho Ord
+
+N° SE 04-1165, “debía ser confirmada por escrito al servicio
+
+respectivo”, presentándose con fecha 24 de junio de 2008,
+
+carta de aceptación de dicho inmueble, notificándosele
+
+personalmente en reunión con la secretaria regional
+
+ministerial de la época de manera formal el arrendamiento,
+
+para realizar su escrituración.
+
+Sostiene que no es efectivo que se haya buscado por su
+
+parte mejorar la infraestructura del Camping que funciona en
+
+dicho terreno, porque la franja fiscal individualizada solo
+
+busca resguardar los terrenos aledaños a su Camping.
+
+Previas citas legales solicita que se declare la
+
+improcedencia de la acción intentada en lo principal,
+
+rechazándola con costas en todas sus partes.
+
+Además solicita que se rechace la pretensión señalada en
+
+el primer otrosí por ilegal e improcedente, toda vez que no
+
+media entre las partes, contrato de arrendamiento.
+
+Con fecha 22 de agosto de 2022, a folio 26, se recibió
+
+la causa a prueba, acompañándose por el demandante, Fisco de
+
+Chile, solo prueba documental (folio 30), reiterándose la
+
+acompañada al momento de interponer su libelo, a saber:
+
+1. Inscripción de dominio de inmueble fiscal, inscrito
+
+a fojas 530 N°371 en el Registro de Propiedades del
+
+Código: QVMSXHZPXNX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-813-2020
+
+Conservador de Bienes Raíces de Coquimbo, correspondiente al
+
+año 1991;
+
+2. Copia de Resolución Exenta N°64, de 22 de abril de
+
+2009, de la Secretaría Regional Ministerial de Bienes
+
+Nacionales de Coquimbo, que concede arriendo del inmueble
+
+fiscal ubicado en la localidad de Tongoy, sector Playa Grande
+
+S/N, comuna de La Coquimbo, Provincia de Elqui, Región de
+
+Coquimbo;
+
+3. Copia de Resolución Exenta N°3512, de 11 de noviembre
+
+2010, que deroga la resolución Exenta N°64;
+
+4. Ficha de fiscalización N°1023858, sector Playa Grande
+
+Tongoy, Lote A, de fecha 11 de marzo de 2019.
+
+Además consta que la demandada acompañó documentos al
+
+momento de contestar la acción, los siguientes documentos:
+
+1. ORD. SE 04-11654, de la Secretaria Ministerial de
+
+Bienes Nacionales.
+
+2. Carta de Aceptación de RUBEN RODRIGUEZ RAMOS.
+
+3. Acta De Compromiso De Acuerdo, de fecha 6 de julio de
+
+2007.
+
+4. Carta de presentación de Proyecto ante Bienes
+
+Nacionales, con finalidad de Proyecto de fecha 16 de mayo de
+
+2008.
+
+5. Carta dirigida a Bienes Nacionales de fecha 06 de
+
+junio de 1999.
+
+6. Res. 4767, de fecha 10 de enero de 1992, con
+
+Resolución de alcantarillado.
+
+7. Resolución de autorización de funcionamiento de
+
+propiedad de RUBEN RODRIGUEZ RAMOS, de fecha 19 de enero de
+
+1999.
+
+8. Certificado de uso de suelo, de fecha 04 de
+
+septiembre de 2014. N°156.
+
+9. Postulación A Inmueble Fiscal Para Consolidación De
+
+Dominio.
+
+Con fecha 30 de mayo de 2023, a folio 55, se citó a las
+
+partes a oír sentencia.
+
+CONSIDERANDO:
+
+PRIMERO: Que, se inició acción de restitución de
+
+inmueble por el Fisco de Chile, de conformidad a lo que se ha
+
+Código: QVMSXHZPXNX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-813-2020
+
+reseñado en lo expositivo de este fallo y a la normativa
+
+contemplada en el Decreto Ley Nº 1939 de 1977.
+
+SEGUNDO: Que, la parte demandada, contesta la demanda,
+
+conforme los fundamentos indicados en la expositiva de esta
+
+sentencia.
+
+TERCERO: Que, la parte demandante y demandada a fin de
+
+acreditar los hechos en que funda su acción y su defensa,
+
+acompañaron exclusivamente prueba documental, la que ya se ha
+
+individualizado.
+
+CUARTO: Que, son hechos de la causa, por haberse
+
+acreditado con los documentos acompañados por las partes, los
+
+que no fueron objetados por la contraria en la oportunidad
+
+respectiva: 1.- Que el Fisco es dueño de la propiedad cuya
+
+inscripción de dominio de inmueble fiscal, inscrito a fojas
+
+530 N°371 en el Registro de Propiedades del Conservador de
+
+Bienes Raíces de Coquimbo, correspondiente al año 1991,
+
+aquello consta en razón de la copia de inscripción acompañada
+
+por el demandante; 2.- Que el demandado ocupa el referido
+
+inmueble, con título de arrendatario, desde el año 2009,
+
+aquello se desprende de la resolución N° 64 acompañada por el
+
+actor; 3. Que la autoridad administrativa dictó en el año
+
+2010 resolución que derogó el contrato que detentaba el
+
+demandado, lo que consta de conformidad a la resolución N°
+
+3512 acompañada en estos autos: 4. Que el demandado es un
+
+empresario turístico del sector Tongoy y ha solicitado al
+
+menos desde el año 1992 autorizaciones para instalar camping
+
+en la playa y; 5. El demandado solicitó se le concediera
+
+arriendo de una franja de propiedad fiscal en el año 2008,
+
+aceptando la resolución que acogió su solicitud, los dos
+
+últimos puntos referidos constan de los documentos
+
+acompañados por el demandado y de lo expresado por su
+
+representante al momento de contestar la demanda.
+
+QUNTO: Que el artículo 19 del Decreto Ley N° 1939, que
+
+establece Normas sobre Adquisición, Administración y
+
+Disposición de Bienes del Estado que los bienes raíces del
+
+Estado no podrán ser ocupados si no mediare una
+
+autorización, concesión o contrato originado en conformidad a
+
+esta ley o de otras disposiciones legales especiales y que
+
+todo ocupante de bienes raíces fiscales que no acreditare, a
+
+Código: QVMSXHZPXNX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-813-2020
+
+requerimiento de la Dirección, poseer alguna de las calidades
+
+indicadas en el inciso anterior, ser reputado ocupante
+
+ilegal, contra el cual se podrán ejercer las acciones
+
+posesorias establecidas en el Título IV del Libro III del
+
+Código de Procedimiento Civil, sin que rija para el Fisco lo
+
+establecido en el número 1 del artículo 551, del citado
+
+Código.
+
+SEXTO: Que, del mérito de las probanzas rendidas,
+
+específicamente, en la resolución N° 64, documento que, como
+
+se dijo, no fue objetado por la demandada, consta que se
+
+concedió el arrendamiento al demandado, asimismo, con la
+
+resolución N° 3512, la que tampoco fuera objeto de reproches
+
+por parte del demandado, consta que se derogó la resolución
+
+del año 2009 que había concedido el arriendo, atendida la
+
+situación vivida en el país en el mes de febrero del año
+
+2010.
+
+SÉPTIMO: Que atendido lo referido, constado que el
+
+demandado utiliza el inmueble, acreditándose en estos autos
+
+que la resolución que se lo permitía fue dejada sin efecto,
+
+y de conformidad a lo dispuesto en el inciso tercero del art
+
+culo 19 del D.L. en estudio, el demandado es un ocupante
+
+ilegal del inmueble y deberá restituirlo al Fisco.
+
+OCTAVO: Que en cuanto a la indemnización demandada en el
+
+primer otrosí de la presentación del actor, fundada en la
+
+renta que dejó de percibir el demandante, por no haberse
+
+rendido prueba alguna por parte del actor para acreditarlos,
+
+se desestimará, como se dirá en lo resolutivo de esta
+
+sentencia.
+
+Por estas consideraciones y de conformidad, además, con
+
+lo razonado y dispuesto en los artículos 724, 728, 1698 del
+
+Código Civil; 144, 170, 342, 384 y siguientes del Código de
+
+Procedimiento Civil, Decreto Ley 1939, se resuelve:
+
+I.- Que se ACOGE la demanda deducida en lo principal a
+
+folio 1, y se declara que el demandado es un ocupante ilegal
+
+del inmueble inscrito a favor del Fisco a mayor cabida a
+
+fojas 530 N° 371, en el Registro de Propiedad del Conservador
+
+de Bienes Raíces de Coquimbo, correspondiente al año 1991 y
+
+deberá restituirlo al Fisco, dentro de tercero día de
+
+ejecutoriada la presente sentencia.
+
+Código: QVMSXHZPXNX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-813-2020
+
+II.- Que se RECHAZA la demanda interpuesta en el primer
+
+otrosí de la presentación de folio 1.
+
+III.- Que, por no haberse acogido completamente la
+
+acción, cada parte soportará sus costas.
+
+C-813-2020
+
+Regístrese, notifíquese y en su oportunidad archívese.
+
+Dictada por doña KARLA DANIELLA MALEBRÁN TORRES, Jueza
+
+Interina del Primer Juzgado de Letras de La Serena.
+
+Se deja constancia que se dio cumplimiento a lo dispuesto en el inciso final del art. 162
+
+del C.P.C. en La Serena, veintiocho de Agosto de dos mil veintitr sé
+
+Código: QVMSXHZPXNX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2023-08-28T16:56:37-0400

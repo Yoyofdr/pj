@@ -1,0 +1,80 @@
+METADATA
+
+case_id: ef25729eee243090abeb9a1034e97099e701a68d
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7969795
+
+rol: 53691-2025
+
+fecha_sentencia: 2025-12-23
+
+caratulado: MARIE LOURDE SAINT VILLE CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintitrés de diciembre de dos mil veinticinco.
+
+Vistos:
+
+Se confirma la sentencia apelada de tres de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N°Amparo-4786-2025.
+
+Regístrese y devuélvase.
+
+Rol N°54531-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Santiago
+Santiago, tres de diciembre de dos mil veinticinco.
+
+Visto y teniendo presente:
+
+Primero: Que, comparece doña Verónica Marina Azócar Pinto, quien interpone acción constitucional de amparo en favor de Juan Carlos Martínez Azócar, en contra de la Comisión de Libertad Condicional de la Corte de Apelaciones de Santiago, por rechazar concederle al amparado el beneficio de libertad condicional.
+
+Expone, que el amparado cumple con los requisitos normativos objetivos vigentes para acceder al beneficio impetrado, habiendo permanecido privado de libertad por el tiempo mínimo y manteniendo conducta intachable durante los últimos cuatro bimestres de su condena. Refiere que la recurrida rechazó conceder el beneficio aduciendo, entre otros factores: (i) riesgo de reincidencia alto; (ii) falta de análisis crítico frente a su comportamiento delictual y carencia de empatía hacia terceros; (iii) debilitada visualización de las víctimas; (iv) estadio motivacional contemplativo y ambivalencia; (v) el tiempo de condena restante y la ausencia de beneficios intrapenitenciarios.
+
+Sostiene que, sin perjuicio de lo expuesto, la decisión de la Comisión es ilegal y arbitraria, toda vez que basa su rechazo en una evaluación psicosocial y supuestos incumplimientos, sin que dichos antecedentes prevalezcan necesariamente sobre el cumplimiento de los requisitos objetivos exigidos por el Decreto Ley N° 321 de 1925.
+
+En definitiva, solicita que se deje sin efecto la resolución que rechaza la libertad condicional del amparado, decretando que se le concede ésta, o bien, que se reevalúe su caso.
+
+Segundo: Que, la Comisión de Libertad Condicional evacuó informe en su representación su presidenta, la ministra señora Sandra Araya Naranjo, quien relata que el amparado fue postulado por el Centro de Cumplimiento Penitenciario Colina I, pero se resolvió su rechazo por unanimidad, teniendo presente que el análisis de los antecedentes acompañados por Gendarmería de Chile no permitía hacer uso de la facultad establecida en el artículo 5 del Decreto Ley N°321, mediante resolución dictada el veintiocho de octubre del año en curso.
+
+Tercero: Que, la Comisión de Libertad Condicional acompañó los antecedentes con los que el amparado fue postulado al beneficio, consistentes en la mencionada resolución sobre la libertad condicional de fecha 28 de octubre de 2025, y sus antecedentes de postulación.
+
+En esta última se constata que se encuentra cumpliendo dos condenas de ocho años, por seis delitos de uso malicioso de instrumento privado mercantil falso y de 540 días por el delito de receptación, iniciando el cumplimiento de éstas el 6 de diciembre de 2017, con término previsto para el 13 de agosto de 2026, cumpliendo el tiempo mínimo para postular al beneficio de libertad condicional el 16 de noviembre de 2021, no registra beneficios intrapenitenciarios.
+
+En esta última se constata que el interno Juan Carlos Martínez Azócar fue postulado por el Tribunal de Conducta del Centro de Cumplimiento Penitenciario de Colina I. y que de la revisión de los antecedentes del interno contenidos en la postulación, se pudo comprobar que el postulante ha permanecido privado de libertad por el tiempo mínimo para acceder al beneficio y que, además, mantiene conducta intachable durante los últimos cuatro bimestres de su condena, cumpliendo los requisitos que establecen los números 1 y 2 del artículo 2 del Decreto Ley citado. No obstante, la misma documentación da cuenta de la existencia de factores de riesgo de reincidencia que desaconsejan, por ahora, otorgarle el beneficio solicitado. Manifiesta, en efecto, que el amparado cuenta con riesgo de reincidencia alto.
+
+Es capaz de asumir la autoría del delito por el cual cumple condena, sin embargo, no realiza ningún análisis crítico frente a su comportamiento delictual, careciendo de empatía hacia terceros; es dable señalar que se trata de un sujeto que presenta una debilitada visualización de las víctimas, toda vez que desarrolla la idea de que quienes se vieron afectados más bien fueron instituciones o empresas. Se encuentra en un estadio motivacional contemplativo, presentando ambivalencia identificando simultáneamente los motivos a favor y en contra del cambio, a lo anterior debe agregarse que aún le restan diez meses de condena y que no goza de beneficios intra penitenciarios.”; siendo aspectos que, confrontados con la evaluación psicosocial correspondiente a su postulación del primer semestre del año 2025, se mantienen prácticamente sin cambios, lo que demuestra, por ahora, escasas posibilidades del postulante para reinsertarse adecuadamente en la sociedad e impiden tener por probado avances en su proceso de reinserción social, como lo exige el Decreto Ley N° 321.
+
+Cuarto: Que la acción de amparo, prevista en el artículo 21 de la Constitución Política de la República, tiene por objeto proteger a aquellas personas que ilegalmente sufran cualquier privación, perturbación o amenaza de su derecho a la libertad personal y seguridad individual, mediante la adopción por parte de esta Corte de medidas de resguardo que se deben tomar ante un acto u omisión ilegal que impida, amague o moleste ese ejercicio.
+
+Quinto: Que el artículo 2 del D.L. 321 de 1925, modificado por la Ley N° 21.732, en vigencia a contar del 12 de febrero de 2025, incluye actualmente entre los requisitos para optar al beneficio de libertad condicional: “3) Contar con un informe de postulación psicosocial elaborado por un equipo profesional del área técnica de Gendarmería de Chile, que permita orientar sobre los factores de riesgo de reincidencia, con el fin de conocer sus posibilidades para reinsertarse adecuadamente en la sociedad. Dicho informe será un antecedente calificado al momento de resolver la respectiva solicitud, y contendrá, además, los antecedentes sociales y las características de personalidad de la persona condenada, dando cuenta de la conciencia de la gravedad del delito, del mal que éste causa y de su rechazo explícito a tales delitos.
+
+Asimismo, deberá contener información sobre eventuales beneficios intrapenitenciarios que la persona postulante hubiese obtenido, especialmente si éstos hubiesen sido revocados y las razones para ello”. Por su parte, el artículo 5 del mismo texto normativo, dispone que: “Será facultad de la Comisión de Libertad Condicional conceder, rechazar y revocar, en su caso, el beneficio, mediante resolución fundada”, debiendo para ello “constatar el cumplimiento de los requisitos establecidos en el artículo 2°, y de los artículos 3°, 3° bis y 3° ter, según sea el caso, para lo cual se tendrán a la vista los antecedentes emanados de Gendarmería de Chile, y todos los demás que la Comisión considere necesarios para mejor resolver”.
+
+Sexto: Que en el caso de autos la resolución impugnada, que rechazó conceder el beneficio de libertad condicional al amparado por no presentar al momento de postular al mismo avance en su proceso de reinserción social que permitiera la concesión del citado beneficio, contiene los fundamentos que justifican la decisión que se reclama, misma a la que se arribó por la unanimidad de la Comisión de Libertad Condicional.
+
+Séptimo: Que del análisis de los antecedentes tenidos a la vista y reseñados en el motivo tercero, puede concluirse que la recurrida, actuando en el ámbito de sus atribuciones, denegó la concesión de la libertad condicional solicitada por el recurrente, contando dicha decisión con la debida fundamentación, la que se apoyó en los antecedentes proporcionados por Gendarmería de Chile y en la inteligencia, que dentro de la esfera de las competencias que le son propias, le permitió concluir que el amparado no es merecedor, por ahora, de la misma. En concepto de esta Corte, la Comisión recurrida no ha excedido el ámbito de las facultades que importan formarse convicción sobre el buen pronóstico del comportamiento futuro del solicitante en el medio libre, la que en este caso no alcanzó, por las razones que señala y que esta Corte comparte, y por lo mismo, no puede estimarse que en la adopción de esta determinación haya incurrido en alguna ilegalidad.
+
+Octavo: Que estas consideraciones y fundamentos aparecen como razones suficientes para esta magistratura en orden a rechazar la acción de amparo deducida, y que el recurrente continúe realizando actividades de reinserción social y su proceso de intervención, ya que las necesidades de intervención, su riesgo actual de reincidencia, y características con potencial criminógeno del amparado, dan cuenta de que, no obstante sus avances en el proceso de reinserción, debe seguir trabajando y profundizando sobre las diversas áreas identificadas en las que cuenta con necesidades de intervención, particularmente en el desarrollo de análisis crítico, empatía hacia las víctimas, y superación de la ambivalencia en su estadio motivacional, los que fueron identificados por la autoridad penitenciaria como elementos presentes y desencadenantes en las conductas transgresoras previas del actor, siendo antecedentes que en conjunto justifican, por ahora, y tal como fue resuelto por la Comisión de Libertad Condicional, el rechazo del beneficio de libertad condicional solicitado.
+
+Por estas consideraciones y con lo dispuesto, además, en los artículos 2 N° 3 del Decreto Ley N° 321 de 1925, 12 del Decreto N° 338 de 2019, ambos del Ministerio de Justicia; 21 de la Constitución Política de la República y Auto Acordado de la Excma. Corte Suprema sobre tramitación y fallo del Recurso de Amparo, se rechaza el recurso de amparo deducido en favor de Juan Carlos Martínez Azócar, en contra la Comisión de Libertad Condicional de la Ilustrísima Corte de Apelaciones de Santiago.
+
+Regístrese, comuníquese y archívese en su oportunidad.
+
+N°Amparo-4786-2025.
+
+En Santiago, tres de diciembre de dos mil veinticinco, se notificó por el estado diario la resolución que antecede.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, veintitrés de diciembre de dos mil veinticinco. Vistos:Se confirma la sentencia apelada de tres de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N°Amparo-4786-2025. Regístrese y devuélvase.Rol N°54531-2025. Santiago, veintitrés de diciembre de dos mil veinticinco. Vistos:Se confirma la sentencia apelada de tres de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N°Amparo-4786-2025.Regístrese y devuélvase.Rol N°54531-2025. Sentencia anonimizada
