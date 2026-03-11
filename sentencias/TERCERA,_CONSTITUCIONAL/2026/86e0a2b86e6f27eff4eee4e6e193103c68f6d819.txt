@@ -1,0 +1,36 @@
+METADATA
+
+case_id: 86e0a2b86e6f27eff4eee4e6e193103c68f6d819
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8050349
+
+rol: 617-2026
+
+fecha_sentencia: 2026-03-05
+
+caratulado: VÉLIZ BRAVO SEBASTIÁN/PONTIFICIA UNIVERSIDAD CATÓLICA DE VALPARAÍSO
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: ▪ Educación
+
+recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+
+resultado_recurso: REVOCADA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, cinco de marzo de dos mil veintiséis.
+Vistos:
+Se confirma la sentencia apelada de fecha cinco de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Valparaíso.
+Regístrese y devuélvase.
+
+Rol N° 147-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Santiago, cinco de marzo de dos mil veintiséis.Vistos:Se confirma la sentencia apelada de fecha cinco de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Valparaíso.Regístrese y devuélvase.Rol N° 147-2026. Santiago, cinco de marzo de dos mil veintiséis.Vistos:Se confirma la sentencia apelada de fecha cinco de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Valparaíso.Regístrese y devuélvase.Rol N° 147-2026. Sentencia anonimizada
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, cinco de marzo de dos mil veintiséis.Vistos:Se confirma la sentencia apelada de fecha cinco de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Valparaíso.Regístrese y devuélvase.Rol N° 147-2026. Santiago, cinco de marzo de dos mil veintiséis.Vistos:Se confirma la sentencia apelada de fecha cinco de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Valparaíso.Regístrese y devuélvase.Rol N° 147-2026. Sentencia anonimizada

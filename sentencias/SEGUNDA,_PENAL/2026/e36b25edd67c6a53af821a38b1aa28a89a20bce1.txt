@@ -1,0 +1,83 @@
+METADATA
+
+case_id: e36b25edd67c6a53af821a38b1aa28a89a20bce1
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8051221
+
+rol: 5707-2026
+
+fecha_sentencia: 2026-03-05
+
+caratulado: BRICEÑO BIELANCIC MAURO NIKOLA CONTRA JUZGADO DE LETRAS, FAMILIA Y DEL TRABAJO DE ALTO HOSPICIO
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE (M)
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, cinco de marzo de dos mil veintiséis.
+Vistos:
+Se reproduce la sentencia en alzada, previa eliminación de su fundamento cuarto.
+
+Y se tiene en su lugar y, además, presente:
+Primero: Que, se ha denunciado como acto arbitrario e ilegal la negativa de la Universidad Católica de Valparaíso de entregar al actor su certificado de licenciatura, documento necesario para iniciar el expediente ante la Excma. Corte Suprema para jurar como abogado, fundada en la existencia de deudas arancelarias y una multa de biblioteca.
+
+Segundo: Que, del mérito del documento acompañado por la recurrida a folio 8 de los antecedentes de primera instancia, ha quedado acreditado que el objeto mismo de esta acción constitucional ha desaparecido, puesto que consta que con fecha 18 de noviembre de 2025 se dictó el Decreto de Rectoría N°4431/2025, mediante el cual se confirió formalmente el grado académico de Licenciado en Ciencias Jurídicas al recurrente, encontrándose desde esa fecha el certificado correspondiente a su entera disposición, por lo que no existe actualmente medida alguna que estos sentenciadores puedan adoptar a favor de quien ha accionado.
+
+Por estas consideraciones y lo previsto en el artículo 20 de la Constitución Política de la República y Auto Acordado de esta Excma. Corte Suprema sobre Tramitación del Recurso de Protección, se declara que se revoca la sentencia dictada con fecha dieciséis de diciembre de dos mil veinticinco por la Corte de Apelaciones de Valparaíso, y en su lugar se declara que se rechaza el recurso de protección deducido en estos antecedentes por haber perdido el mismo oportunidad.
+
+Regístrese y devuélvase.
+
+Rol Nº 617-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Llg
+
+C.A. de Valparaíso.
+Valparaíso, dieciséis de diciembre de dos mil veinticinco.
+
+Vistos:
+A folio 1, Sebastián Rodrigo Véliz Bravo, por sí, deduce acción de protección en favor de sí mismo y en contra de la Pontificia Universidad Católica de Valparaíso, representada legalmente por su Rector don Nelson Lorenzo Vásquez Lara, por el acto que considera ilegal y arbitrario, consistente en la negativa a entregar su certificado de licenciado en ciencias jurídicas fundado en la existencia de una deuda arancelaria, lo que estima vulnera sus derechos fundamentales garantizados en el artículo 19 N°2 y 24 de la Constitución Política de la República.
+
+Expone que ingresó a la carrera de Derecho en la universidad recurrida en el año 2015, egresando en 2021 y aprobando su examen de grado el 25 de marzo de 2025. Señala que, al intentar reunir los documentos para abrir su expediente de titulación en la Corte Suprema, se percató que el certificado de licenciado no aparecía disponible en su "navegador académico". Indica que, tras consultar a la Facultad, recibió un correo electrónico el 17 de junio de 2025 indicando que su expediente no avanzaba por mantener deuda arancelaria y multa de biblioteca.
+
+Sostiene que, pese a manifestar su voluntad de pago y citar la normativa vigente que prohíbe condicionar la entrega de títulos a deudas (Ley 21.091 art. 55 letra e), la situación persistió. Asevera que, tras meses sin solución y creyendo que se trataba de un retraso administrativo, volvió a consultar el 10 de octubre de 2025, recibiendo como respuesta que la traba se mantenía por "deuda arancelaria y multa de biblioteca". Alega que este actuar es ilegal pues contraviene la prohibición expresa de retener documentos académicos por motivos pecuniarios, y arbitrario al impedirle ejercer su profesión y generar ingresos para pagar la propia deuda. Argumenta que se vulnera su igualdad ante la ley y su derecho de propiedad sobre el grado académico obtenido al cumplir todos los requisitos académicos.
+
+Concluye solicitando que se acoja el recurso, ordenando a la recurrida otorgar el certificado que lo habilita para obtener el título de abogado, con expresa condenación en costas.
+
+A folio 8, evacúa informe Hugo Muñoz López, abogado, en representación de la Pontificia Universidad Católica de Valparaíso.
+
+Expone que el recurrente ingresó el 2015 y mantiene una deuda por el arancel de 2021. Señala que, ante las consultas del estudiante en junio de 2025, la Unidad de Gestión Arancelaria le informó que no existía impedimento en la tramitación por parte de dicha unidad y que la demora podía deberse a la cantidad de expedientes, negando así la existencia de una conducta ilegal. Argumenta que la Universidad goza de autonomía académica, económica y administrativa, facultada para exigir el cumplimiento de obligaciones financieras según sus reglamentos vigentes al momento del contrato de 2015.
+
+Sostiene que la modificación a la Ley N°21.091 que prohíbe condicionar títulos a deudas no es aplicable retroactivamente a contratos celebrados con anterioridad a su entrada en vigencia en noviembre de 2024. Sin perjuicio de lo anterior, afirma que la institución no ha retenido el título, indicando que se ha conferido el grado de Licenciado en Ciencias Jurídicas al recurrente mediante el Decreto de Rectoría N°4431/2025 de 18 de noviembre de 2025, por lo que el certificado ya estaría disponible, haciendo perder oportunidad al recurso.
+
+Finalmente pide que se rechace el recurso de protección íntegramente, con costas.
+
+A folio 9, se ordena traer los autos en relación.
+
+Con lo relacionado y considerando:
+Primero: Que, la acción constitucional de protección, consagrada en el artículo 20 de la Constitución Política de la República, ha sido establecida a favor de quien, por causa de actos u omisiones arbitrarios o ilegales, sufra privación, perturbación o amenaza en el legítimo ejercicio de algunos de los derechos y garantías establecidas en el artículo 19 de la Carta Fundamental.
+
+Segundo: Que, a través de esta vía cautelar deducida el 20 de octubre de 2025, se impugna la negativa de la universidad recurrida a entregar el certificado de licenciatura del recurrente, fundada en la existencia de deudas arancelarias, acto que se califica de ilegal por contravenir la normativa de educación superior y arbitrario por carecer de razonabilidad, solicitando que se ordene la entrega de dicho documento para continuar con el proceso de titulación.
+
+Tercero: Que, el artículo 55 letra e) de la Ley 21.091 establece como infracción grave a la normativa educacional “Condicionar la rendición de exámenes de grado o de titulación, o el otorgamiento de títulos, diplomas y certificaciones a exigencias pecuniarias por deudas de arancel, aun cuando estén establecidas por la institución de educación superior en su reglamentación e informadas a los estudiantes al momento de suscribir el contrato respectivo”.
+
+Cuarto: Que, la negativa de la recurrida a entregar el certificado de licenciatura al actor, vulnera la norma antes señalada lo que deviene en una ilegalidad.
+
+La circunstancia que el 18 de noviembre de 2025, encontrándose en tramitación el presente recurso, a través del Decreto de Rectoría N°4431/2025, la universidad confiriera al actor el grado de Licenciado en Ciencias Jurídicas, encontrándose a su disposición el certificado correspondiente, no es óbice para subsanar la ilegalidad denunciada, razón por la cual este arbitrio será acogido, sin que sea necesario, atendida dicha circunstancia, adoptar alguna medida.
+
+Por estas consideraciones y de conformidad a lo dispuesto en los artículos 19 y 20 de la Constitución Política de la República y en el Auto Acordado sobre la materia, se acoge, sin costas, la acción de protección deducida en favor de Sebastián Rodrigo Véliz Bravo en contra de la Pontificia Universidad Católica de Valparaíso.
+
+Regístrese, comuníquese y archívese en su oportunidad.
+
+N°Protección-6573-2025.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+LlgC.A. de Valparaíso.Valparaíso, dieciséis de diciembre de dos mil veinticinco.Vistos:A folio 1, Sebastián Rodrigo Véliz Bravo, por sí, deduce acción de protección en favor de sí mismo y en contra de la Pontificia Universidad Católica de Valparaíso, representada legalmente por su Rector don Nelson Lorenzo Vásquez Lara, por el acto que considera ilegal y arbitrario, consistente en la negativa a entregar su certificado de licenciado en ciencias jurídicas fundado en la existencia de una deuda arancelaria, lo que estima vulnera sus derechos fundamentales garantizados en el artículo 19 N°2 y 24 de la Constitución Política de la República.Expone que ingresó a la carrera de Derecho en la universidad recurrida en el año 2015, egresando en 2021 y aprobando su examen de grado el 25 de marzo de 2025. Señala que, al intentar reunir los documentos para abrir su expediente de titulación en la Corte Suprema, se percató que el certificado de licenciado no aparecía disponible en su "navegador académico". Indica que, tras consultar a la Facultad, recibió un correo electrónico el 17 de junio de 2025 indicando que su expediente no avanzaba por mantener deuda arancelaria y multa de biblioteca.Sostiene que, pese a manifestar su voluntad de pago y citar la normativa vigente que prohíbe condicionar la entrega de títulos a deudas (Ley 21.091 art. 55 letra e), la situación persistió. Asevera que, tras meses sin solución y creyendo que se trataba de un retraso administrativo, volvió a consultar el 10 de octubre de 2025, recibiendo como respuesta que la traba se mantenía por "deuda arancelaria y multa de biblioteca". Alega que este actuar es ilegal pues contraviene la prohibición expresa de retener documentos académicos por motivos pecuniarios, y arbitrario al impedirle ejercer su profesión y generar ingresos para pagar la propia deuda. Argumenta que se vulnera su igualdad ante la ley y su derecho de propiedad sobre el grado académico obtenido al cumplir todos los requisitos académicos.Concluye solicitando que se acoja el recurso, ordenando a la recurrida otorgar el certificado que lo habilita para obtener el título de abogado, con expresa condenación en costas.A folio 8, evacúa informe Hugo Muñoz López, abogado, en representación de la Pontificia Universidad Católica de Valparaíso.Expone que el recurrente ingresó el 2015 y mantiene una deuda por el arancel de 2021. Señala que, ante las consultas del estudiante en junio de 2025, la Unidad de Gestión Arancelaria le informó que no existía impedimento en la tramitación por parte de dicha unidad y que la demora podía deberse a la cantidad de expedientes, negando así la existencia de una conducta ilegal. Argumenta que la Universidad goza de autonomía académica, económica y administrativa, facultada para exigir el cumplimiento de obligaciones financieras según sus reglamentos vigentes al momento del contrato de 2015.Sostiene que la modificación a la Ley N°21.091 que prohíbe condicionar títulos a deudas no es aplicable retroactivamente a contratos celebrados con anterioridad a su entrada en vigencia en noviembre de 2024. Sin perjuicio de lo anterior, afirma que la institución no ha retenido el título, indicando que se ha conferido el grado de Licenciado en Ciencias Jurídicas al recurrente mediante el Decreto de Rectoría N°4431/2025 de 18 de noviembre de 2025, por lo que el certificado ya estaría disponible, haciendo perder oportunidad al recurso.Finalmente pide que se rechace el recurso de protección íntegramente, con costas.A folio 9, se ordena traer los autos en relación.Con lo relacionado y considerando:Primero: Que, la acción constitucional de protección, consagrada en el artículo 20 de la Constitución Política de la República, ha sido establecida a favor de quien, por causa de actos u omisiones arbitrarios o ilegales, sufra privación, perturbación o amenaza en el legítimo ejercicio de algunos de los derechos y garantías establecidas en el artículo 19 de la Carta Fundamental.Segundo: Que, a través de esta vía cautelar deducida el 20 de octubre de 2025, se impugna la negativa de la universidad recurrida a entregar el certificado de licenciatura del recurrente, fundada en la existencia de deudas arancelarias, acto que se califica de ilegal por contravenir la normativa de educación superior y arbitrario por carecer de razonabilidad, solicitando que se ordene la entrega de dicho documento para continuar con el proceso de titulación.Tercero: Que, el artículo 55 letra e) de la Ley 21.091 establece como infracción grave a la normativa educacional “Condicionar la rendición de exámenes de grado o de titulación, o el otorgamiento de títulos, diplomas y certificaciones a exigencias pecuniarias por deudas de arancel, aun cuando estén establecidas por la institución de educación superior en su reglamentación e informadas a los estudiantes al momento de suscribir el contrato respectivo”.Cuarto: Que, la negativa de la recurrida a entregar el certificado de licenciatura al actor, vulnera la norma antes señalada lo que deviene en una ilegalidad.  La circunstancia que el 18 de noviembre de 2025, encontrándose en tramitación el presente recurso, a través del  Decreto de Rectoría N°4431/2025, la universidad confiriera al actor el grado de Licenciado en Ciencias Jurídicas, encontrándose a su disposición el certificado correspondiente, no es óbice para subsanar la ilegalidad denunciada, razón por la cual este arbitrio será acogido, sin que sea necesario, atendida dicha circunstancia, adoptar alguna medida.Por estas consideraciones y de conformidad a lo dispuesto en los artículos 19 y 20 de la Constitución Política de la República y en el Auto Acordado sobre la materia, se acoge, sin costas, la acción de protección deducida en favor de Sebastián Rodrigo Véliz Bravo en contra de la Pontificia Universidad Católica de Valparaíso.Regístrese, comuníquese y archívese en su oportunidad.N°Protección-6573-2025.                        ⚠                      Sin documento en esta instancia - pdf
