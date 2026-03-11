@@ -1,0 +1,1043 @@
+METADATA
+
+case_id: 0dc08e8764b6a95258db4fb43cd4651c92bcf90b
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7970371
+
+rol: 43130-2025
+
+fecha_sentencia: 2025-12-22
+
+caratulado: SCOTIABANK CHILE S. A./COMUNIDAD MAGDALENA MARIA CONSUELO ROJAS DURAN SOCIEDAD INMOBILIARIA EIRL (ACUMULADA N°CIVIL-2474-2024-A)
+
+sala: PRIMERA, CIVIL
+
+materias: ▪ Admisibilidad del recurso de casación en el fondo
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: RECHAZA CASACION EN EL FONDO
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintitrés de diciembre de dos mil veinticinco.
+
+Vistos y teniendo presente:
+
+Primero: Que, de conformidad con lo dispuesto en el inciso séptimo del artículo 483-A del Código del Trabajo, se ha ordenado dar cuenta de la admisibilidad del recurso de unificación de jurisprudencia deducido por la parte demandada contra la sentencia dictada por la Corte de Apelaciones de Santiago, que acogió la demanda de despido injustificado y ordenó la restitución del descuento efectuado al trabajador por el aporte del empleador al seguro de cesantía.
+
+Segundo: Que el recurso de unificación de jurisprudencia es susceptible de ser deducido contra la resolución que falle el de nulidad, estableciéndose su procedencia para el caso en que ¿respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de tribunales superiores de justicia¿, conforme lo explicita el artículo 483 del Código del Trabajo.
+
+Asimismo, de su artículo 483-A, se desprende que esta Corte debe controlar en la admisibilidad, su oportunidad, la existencia de fundamento, además de una relación precisa y circunstanciada de las distintas interpretaciones a que se ha hecho referencia, y finalmente, debe acompañarse copia del o los fallos que se invocan como fundamento del arbitrio.
+
+Tercero: Que, según se expresa en el recurso, se propone como materia de derecho a unificar la consistente en determinar la correcta interpretación del artículo 13 de la Ley N°19.728 sobre seguro de desempleo.
+
+Cuarto: Que para justificar la existencia de distintas interpretaciones respecto de la materia que se pide unificar, la recurrente alega que la sentencia que impugna decidió que el descuento efectuado por el empleador de los montos enterados por concepto de seguro de cesantía, solo se justifica cuando se configuran los presupuestos del artículo 161 del Código del Trabajo, esto es, cuando el despido del trabajador se debe a necesidades de la empresa que hacen necesaria la separación de uno o más trabajadores, de manera que cuando se declara que el despido es improcedente, no es posible que se autorice al empleador a imputar a la indemnización por años de servicio lo aportado por dicho concepto.
+
+Lo que resulta contradictorio con lo resuelto por esta Corte en las causas Rol N°42.567-2021, N°32.713-2021, N°26.030-2019, N°11.905-2019 y N°23.348-2018, y por la Corte de Apelaciones de Santiago en las causas Rol N°2805-2023 y N°3478-2023 que expresan una tesis jurídica diversa, que, en síntesis, deciden que procede el aludido descuento aun cuando se haya declarado injustificado el despido, en atención a que la sanción para el empleador es el aumento del 30% en la indemnización por años de servicios, lo que conduce a emitir un pronunciamiento al respecto.
+
+Quinto: Que la sentencia reseñada en el considerando precedente da cuenta que, en algún momento existieron distintas interpretaciones respecto de la materia indicada, la que se encuentra unificada desde hace algún tiempo por esta Corte, a partir de la sentencia dictada en la causa Rol N°92.645-2021 y, más recientemente, en la N°1.633-2022, N°106718-2023, N°28994-2024 y N°14372-2025, sosteniéndose sin variación que una condición sine qua non para que opere el descuento de que se trata, es que el contrato de trabajo haya terminado efectivamente por las causales previstas en el artículo 161 del Código del Trabajo, lo que se ve corroborado por su artículo 168, letra a), de manera que si la sentencia declara injustificado el despido priva de base a la aplicación del inciso segundo del artículo 13 de la Ley N°19.728, pues tanto la indemnización por años de servicio como la imputación de la parte del saldo de la cuenta individual por cesantía, constituyen un efecto que emana de la exoneración prevista en el artículo 161 del Código del Trabajo.
+
+En consecuencia, si el término del contrato por necesidades de la empresa fue considerado injustificado por el tribunal, simplemente no se satisface la condición, en la medida que el despido no tuvo por fundamento una de las causales que prevé el artículo 13 de la Ley N°19.728.
+
+De esta manera no aparece que el tema cuya línea jurisprudencial se procura unificar requiera de la aplicación del mecanismo unificador que importa el arbitrio intentado, por lo que será desestimado en esta etapa procesal.
+
+Por estas consideraciones y de conformidad, además, con lo dispuesto en los artículos 483 y 483-A del Código del Trabajo, se declara inadmisible el recurso de unificación deducido en contra de la sentencia de seis de octubre de dos mil veinticinco.
+
+Las ministras señoras Chevesich y López previenen que si bien tienen una postura diferente respecto de la materia de derecho, en los términos señalados en los votos estampados en sentencias dictadas en causas que se refieren a la misma cuestión, declinan incorporarla, teniendo únicamente en consideración que ya se encuentra uniformada por esta Corte en los términos señalados en la sentencia impugnada, sin que se hayan dado a conocer nuevos argumentos que autorice su variación, tampoco que ha sido modificada.
+
+Regístrese y devuélvase.
+
+Nº48.864-2025.-
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Santiago, seis de octubre de dos mil veinticinco.
+
+VISTOS:
+
+Por sentencia de tres de mayo de dos mil veinticuatro, dictada por el Segundo Juzgado de Letras del Trabajo de Santiago, en los autos RIT O-3310-2023, se acogió la demanda, declarando injustificado el despido de los 8 actores y condenando a la demandada al pago del recargo del 30% sobre la indemnización por años de servicios y a la devolución del aporte patronal al seguro de cesantía, junto con los montos allí señalados por concepto de descanso reparatorio por trabajo en pandemia covid-19, más reajustes e intereses.
+
+En contra de dicho fallo recurrió de nulidad la parte demandada invocando las causales del artículo 478 letra b) del Código del Trabajo, por infracción manifiesta de las normas sobre la apreciación de la prueba conforme a las reglas de la sana crítica y, en subsidio, del artículo 477 del mismo cuerpo normativo, por errónea interpretación del artículo 13 de la Ley N° 19.728.
+
+En relación con el motivo principal, pide que se anule la sentencia recurrida en la parte que condena parcialmente a la empresa, dictando la correspondiente sentencia de reemplazo que rechace en todas sus partes la demanda intentada en autos. Respecto del motivo subsidiario, solicita se deje sin efecto la parte del fallo en que se condena a esa parte a la devolución del descuento realizado en relación con el aporte del empleador al seguro de cesantía.
+
+Declarado admisible el recurso, se procedió a su conocimiento en la audiencia respectiva, oportunidad en que alegaron los abogados de ambas partes.
+
+CONSIDERANDO:
+Primero: Que, como primer motivo de nulidad el recurrente hizo valer aquel previsto en el artículo 478 letra b) del Código del Trabajo, argumentando que la sentencia se dictó con infracción manifiesta de las normas sobre la apreciación de la prueba conforme con las reglas de la sana crítica.
+
+Al respecto, alega que el juez de primera instancia transgredió los principios de la lógica al analizar la prueba aportada en juicio, como puede apreciarse en los considerandos octavo y noveno de la sentencia recurrida.
+
+Reclama que la fundamentación allí contenida para considerar como injustificado el despido de los demandantes no solo resulta exiguo, sino que ignora absolutamente que esa parte aportó antecedentes claros respecto de las razones que hicieron necesaria la desvinculación de los actores, principalmente a través de las cartas de despido acompañadas al proceso, cuyo contenido factico es claro, pues cada una de esas misivas se basta a sí misma.
+
+Agrega que esa parte acompañó pruebas acerca de cómo las circunstancias de la empresa hicieron necesaria una reestructuración masiva, lo que implicó no solo el despido de los demandantes, si no que la de al menos cientos de trabajadores durante los años 2021 a 2023, tal como se acreditó a través de los listados de desvinculaciones, los oficios enviados por la Dirección del Trabajo, el organigrama de la empresa -dando
+cuenta de los cambios a nivel direccional- e incluso con la declaración de las tres testigos presentadas, que dieron fe de lo señalado en las cartas.
+
+Observa que el sentenciador hizo presente que la prueba testimonial de esa parte era insuficiente pues los testigos carecían de imparcialidad al ser trabajadores de la empresa, apreciación que refuta señalando que quienes están más capacitados para hablar de la realidad de la empresa, son justamente los trabajadores de ésta, quienes son imparciales.
+
+Acusa infracción del principio de razón suficiente, dado que el razonamiento del juez implica derechamente ignorar toda la prueba del juicio, aparece en forma genérica y desconectada de la prueba, e incluso de la carta de despido.
+
+Denuncia finalmente que el fallo no explica cómo se llegó a la conclusión que la prueba aportada era insuficiente para considerar el despido injustificado.
+
+Segundo: Que, en subsidio, se ha planteado la causal del artículo 477 del Código del Trabajo, por existir una interpretación errónea del artículo 13 de la Ley N° 19.728 sobre el descuento que puede realizar el empleador en el caso de un término por necesidades de la empresa, que influyó sustancialmente en lo dispositivo del fallo.
+
+Sostiene que dicha infracción se materializó en el considerando décimo segundo de la sentencia impugnada, atendido que el efecto que se señala no aparece expresamente en la ley y, de existir, supondría interpretar extensivamente una norma de carácter sancionatorio, lo cual resulta improcedente.
+
+Afirma que, a diferencia de los contratos patrimoniales civiles, el contrato de trabajo termina desde el momento en que cualquiera de las partes le pone término invocando la causal correspondiente. Luego, la posibilidad de descontar el aporte del seguro de cesantía se produce cuando el contrato termina por la causal del artículo 161 del Código del Trabajo, ya que las otras causales no generan derecho a indemnización.
+
+Añade que la ley no distingue qué pasa si el despido es declarado injustificado, ya que esta declaración no tiene efecto retroactivo, ni constituye una nulidad de todo lo obrado con anterioridad a dicha declaración, siendo el recargo del 30% establecido en el artículo 168 letra a) del Código del Trabajo la única consecuencia que la ley prevé para el evento de efectuarse dicha declaración.
+
+Postula que la tesis del tribunal convierte el descuento del AFC en uno sujeto a condición resolutoria, específicamente a que un tribunal declare posteriormente el despido como indebido, interpretación que carece de asidero legal, pues las modalidades deben ser expresas y tal condición resolutoria no puede deducirse ni presumirse.
+
+Enfatiza que la experiencia demuestra que la posibilidad de que un despido sea calificado como injustificado es cierta y concreta, siendo las acciones por despido injustificado una de las más frecuentes en el sistema judicial, por lo que, si la intención del legislador hubiera sido restituir el descuento del AFC en estos casos, así lo habría establecido expresamente, lo que no ocurrió.
+
+Consigna que conforme al artículo 52 de la Ley N° 19.728, si un trabajador acciona por despido injustificado y así se declara en causales que no dan derecho a indemnización, se debe proceder según el artículo 13, que precisamente habilita para descontar el AFC, precepto que no fue considerado en el fallo, el cual no explicó cómo se concilia esta disposición con su tesis.
+
+Finalmente, expone que esta errada interpretación nace de una confusión común, como es que la declaración de despido injustificado equivale a considerarlo sin causa, lo que no es efectivo, y nace de una interpretación libre y errada del efecto del artículo 161 del Código del Trabajo.
+
+Concluye que, en ambos casos, de no haberse cometido las infracciones denunciadas el tribunal habría rechazado la demanda por despido improcedente y la solicitud de devolución del aporte del empleador al seguro de cesantía.
+
+Tercero: Que el recurso de nulidad laboral tiene por objeto, según sea la causal invocada, asegurar el respeto a las garantías y derechos fundamentales, o bien, conseguir sentencias ajustadas a la ley, como se desprende de los artículos 477 y 478 del Código del Trabajo, todo lo cual evidencia su carácter extraordinario que se manifiesta por la excepcionalidad de los presupuestos que configuran cada una de las referidas causales en atención al fin perseguido por ellas, situación que igualmente determina un ámbito restringido de revisión por parte de los tribunales superiores y que, como contrapartida, impone al recurrente la obligación de precisar con rigurosidad los fundamentos de aquellas que invoca, como, asimismo, de las peticiones que efectúa.
+
+Igualmente, cabe tener presente que el recurso de nulidad no constituye una instancia, de manera que estos sentenciadores no pueden ni deben revisar los hechos que conforman el conflicto jurídico de que se trata, siendo la apreciación y establecimiento de éstos una facultad exclusiva y excluyente del juez que conoció del respectivo juicio, y, asimismo, a esta Corte le está vedado efectuar una valoración de la prueba rendida ante el Juzgado del Trabajo, lo que corresponde únicamente a éste, el cual está dotado de plena libertad para ello, con la sola limitación de no contrariar los principios de la lógica, las máximas de experiencia y los conocimientos científicamente afianzados.
+
+El recurso de nulidad, finalmente, es un arbitrio de derecho estricto que requiere claridad y precisión en su fundamentación lo que resulta necesario toda vez que aquello da y define la competencia del Tribunal superior, el que no puede acogerlo por otros motivos, salvo la situación contemplada en el inciso final del artículo 479 del Código del Trabajo.
+Cuarto: Que, en consecuencia, el recurso de nulidad es un arbitrio de carácter extraordinario y de derecho estricto y solo procede por las causales que expresamente se prevé en los artículos 477 y 478 del Código del Trabajo.
+Quinto: Que sobre el motivo de invalidación hecho valer en lo principal, cabe tener en cuenta que el artículo 456 del Código del Trabajo establece que: “El tribunal apreciará la prueba conforme a las reglas de la sana crítica. Al hacerlo, el tribunal deberá expresar las razones jurídicas y las simplemente lógicas, científicas, técnicas o de experiencia, en cuya virtud les asigne valor o las desestime. En general, tomará en especial consideración la multiplicidad, gravedad, precisión, concordancia y conexión de las pruebas o antecedentes del proceso que utilice, de manera que el examen conduzca lógicamente a la conclusión que convence al sentenciador.”
+Por ello, lo que corresponde es determinar si en su sentencia el tribunal ha vulnerado en forma manifiesta, esto es, de manera evidente y notoria las reglas indicadas en el artículo 456 ya citado.
+
+Sexto: Que, para que esta Corte, en cuanto tribunal de nulidad, se encuentre en condiciones de efectuar un control sobre las reglas de la valoración de la prueba en la fundamentación de la sentencia, resulta indispensable que la parte recurrente precise al momento de formalizarlo, las reglas fundamentales de la lógica, de la ciencia y de la experiencia, que habrían sido incumplidas por el juez de la instancia, límites de ponderación que tradicionalmente se han entendido referidos a las leyes fundamentales de coherencia y derivación y a los principios lógicos de identidad, no contradicción, tercero excluido y razón suficiente.
+Además, por tratarse de un vicio formal, se exige que la infracción de las reglas de valoración de la prueba sea “manifiesta”, esto es, evidente, ostensible, indudable.
+
+Séptimo: Que el recurrente sostiene que el juez al analizar la prueba ha transgredido la lógica, en específico el principio de razón suficiente, dado que el juez en su razonamiento ha ignorado que su parte aportó antecedentes claros respecto de las razones que hicieron necesaria la desvinculación de los actores, principalmente a través de la documental que menciona consistente en: cartas de despido, un listado de las desvinculaciones de trabajadores de la empresa, oficios enviados por la Dirección del Trabajo, el organigrama de la empresa; además de las declaraciones de los testigos.
+Octavo: Que al citar el principio que según su parecer fue infringido -razón suficiente- hace referencia a pruebas que no fueron analizadas o ignoradas, lo que es motivo de una causal diversa a la invocada, considerando que, de existir esa falencia en el fallo, conlleva un error formal de su estructuración, lo que pugna con una alegación de infracción a la sana critica.
+
+Además, cabe tener presente que no resulta admisible que la impugnación se realice a partir de la valoración que el recurrente hace de la prueba rendida, sosteniendo que su teoría del caso debe ser acogida, según la apreciación que ella misma realiza de las evidencias incorporadas.
+
+En efecto, de esa forma, el recurso plantea que se relacione y pondere directamente por esta Corte, tanto las pruebas rendidas, como su mérito, lo que es distinto al supuesto de la causal de nulidad esgrimida, que se relaciona con el examen, de si el Tribunal de la instancia, se ajustó al apreciar la prueba a las reglas de la sana crítica.
+
+Noveno: Que por todo lo razonado, el recurso de nulidad laboral interpuesto por la demandada debe desestimarse.
+
+Décimo: Que en subsidio ha planteado la causal del artículo 477 en su hipótesis de infracción de ley, por existir una interpretación errónea del artículo 13 de la Ley N° 19.728.
+
+Undécimo: Que, en primer término, cabe señalar que si el recurrente pretende que se dicte una sentencia de reemplazo debió haber citado, el artículo 52 de la Ley 19.728, norma que omite y que es ineludible para proceder a una adecuada y correcta interpretación en orden a determinar si es procedente o no descontar el seguro de cesantía, tal como se explicará a continuación.
+
+Sin perjuicio de ello, constituyen hechos de la causa, en lo que interesa, que las actoras y el actor fueron despedidos por la causal de necesidades de la empresa, de acuerdo con lo establecido en el artículo 161 inciso 1 del Código del Trabajo y el juez del grado declaró que los despidos han sido injustificados, tal como se señala en el considerando décimo primero.
+
+Que, la disposición citada por el recurso es el artículo 13 de la Ley N° 19.728, establece que: “Si el contrato terminare por las causales previstas en el artículo 161 del Código del Trabajo, el afiliado tendrá derecho a la indemnización por años de servicios (…)”, agregando el inciso segundo que “se imputará a esta prestación la parte del saldo de la Cuenta Individual por Cesantía (…)”.
+Por su parte, el artículo 52 de la ley mencionada prescribe que: “Cuando el trabajador accionare por despido injustificado, indebido o improcedente, en conformidad al artículo 168 del Código del Trabajo, o por despido indirecto, conforme al artículo 171 del mismo Código, podrá disponer del saldo acumulado en su Cuenta Individual por Cesantía, en la forma señalada en el artículo 15, a partir del mes siguiente al de la terminación de los servicios”.
+Y agrega en el inciso 2º que: “Si el Tribunal acogiere la pretensión del trabajador, deberá ordenar que el empleador pague las prestaciones que correspondan conforme al artículo 13”.
+Luego, el artículo 54 del mismo cuerpo legal dispone que: “Las prestaciones establecidas en esta ley de cargo de los empleadores a favor de los trabajadores afiliados al Seguro, tendrán la calidad jurídica de indemnizaciones por años de servicio, para todos los efectos legales, y gozarán del privilegio establecido en el Nº 8º del artículo 2472 del Código Civil”.
+Finalmente, el artículo 168 del Código del Trabajo consigna, en su inciso penúltimo, que: “Si el juez estableciere que la aplicación de una o más de las causales de terminación del contrato establecidas en los artículos 159 y 160 no ha sido acreditada, de conformidad a lo dispuesto en este artículo, se entenderá que el término del contrato se ha producido por alguna de las causales señaladas en el artículo 161, en la fecha en que se invocó la causal, y habrá derecho a los incrementos legales que corresponda en conformidad a lo dispuesto en los incisos anteriores”.
+Duodécimo: Que, del tenor de las disposiciones legales transcritas, se desprende que, para que el descuento opere, es necesario que se haya producido el término de los servicios del trabajador por la causal de necesidades de la empresa.
+
+En efecto, el artículo 13 de la Ley N° 19.728, al usar la expresión “Si el contrato terminare por las causales previstas en el artículo 161 del Código del Trabajo”, no alude a la causal eventualmente invocada por el empleador para poner término al contrato de trabajo, sino a que refiere a la que jurídicamente ha tenido lugar.
+En consecuencia, la procedencia del descuento que previene el citado artículo requiere no sólo que el contrato de trabajo haya terminado formalmente por las causales previstas en el artículo 161 del Código del Trabajo, sino que dicho motivo haya sido validado judicialmente en caso de impugnarse su procedencia o justificación pues, de otro modo, se desvirtúa la intención que se tuvo en vista para la dictación de la ley.
+Ahora bien, cuando el despido es declarado injustificado, lo que se determina jurídicamente es que no ha existido la causal invocada para desvincular al trabajador, por lo cual, tratándose de una prerrogativa a favor del empleador, se le debe considerar una excepción, lo que conlleva que debe aplicarse restrictivamente, es decir, sólo a los casos en que real y jurídicamente la desvinculación del trabajador se debió a necesidades de la empresa.
+Si el juez determina que no se han probado debidamente las necesidades de la empresa para despedirlo y declara que su separación resultó improcedente -como ocurre en la especie- no puede tener lugar la imputación referida en el inciso 2° del artículo 13 precitado, ya que esa deducción está sujeta a la condición de haber operado efectivamente la causal de necesidades de la empresa.
+Pensar lo contrario, implicaría que al empleador le bastaría invocar esa causal para que se aplique el descuento, olvidando que esa determinación puede ser objeto de revisión por la justicia, a requerimiento del trabajador, quien acciona motivado por lo que estima una vulneración de sus derechos, los que son irrenunciables.
+
+Este predicamento, por lo demás, se refuerza en el inciso 2° del artículo 52 de la Ley N° 19.728 antes aludido, toda vez que, al acogerse la demanda del trabajador, declarando el despido improcedente, dicha disposición establece que el tribunal “deberá ordenar que el empleador pague las prestaciones que corresponden conforme al artículo 13”, referencia que debe entenderse hecha al inciso 1° de este último precepto, pues el descuento pretendido obviamente no es el pago de las prestaciones, sino que una disminución de las mismas.
+Décimo Tercero: Que, en tal virtud, al razonar la sentencia en el motivo décimo segundo en cuanto a la procedencia de la devolución del aporte del empleador a la AFC, no ha incurrido en infracción de ley, pues ha dado correcta aplicación a la normativa. En efecto, señala en el párrafo segundo del citado considerando luego de transcribir el artículo 13 de la Ley 19.728: “Si bien la norma citada, en principio, facultaría al empleador para descontar de la indemnización por años de servicio el aporte efectuado por este en la Cuenta Individual por Cesantía, dicha facultad es sólo procedente en los casos que el despido efectuado por necesidades de la empresa resulte ajustado a derecho, cuestión que en la especie no ocurrió, al declararse el término de la relación laboral improcedente. Sostener lo contrario constituiría un incentivo al empleador para invocar una causal errada a fin de obstaculizar la restitución de los fondos e implicaría un aprovechamiento del propio dolo de la empresa al invocar una causal que, en la especie, no concurre, implicando, además, que un despido que fue declarado ilícito igualmente surta los efectos de un término de relación laboral ajustada a derecho, siendo claramente improcedente el descuento realizado por el empleador en el finiquito…”
+
+Décimo Cuarto: Que, en este mismo orden de ideas, la Corte Suprema con fecha 14 de febrero de 2014, en causa Rol N° 7.847-2023 resolvió: “Cuarto: Que las sentencias que acompaña para la comparación de la materia de derecho propuesta son las dictadas por esta Corte en los antecedentes N°413-2018, N°19.115-2018, N°9796-2019 y N°122.154-2020, que expresan una tesis jurídica diversa, que, en síntesis, resuelven que una condición necesaria para que opere el descuento, es que el contrato de trabajo haya terminado por las causales previstas en el artículo 161 del Código del Trabajo, de modo que si la sentencia declara improcedente el despido, priva de base a la aplicación del inciso segundo del artículo 13 de la Ley N°19.728. En consecuencia, si el término del contrato por necesidades de la empresa fue considerado injustificado, no se satisface la condición, en la medida que el despido no tuvo por fundamento una de las causales que prevé el artículo 13 de la Ley N°19.728.
+Quinto: Que el fallo recurrido y las reseñadas en el considerando precedente dan cuenta que, en algún momento, existieron distintas interpretaciones respecto de la materia indicada, la que se encuentra unificada desde hace algún tiempo por esta Corte, a partir de la sentencia dictada en la causa Rol N° 92.645-2021, criterio ratificado más recientemente en causas Rol Nº 57.795-2022 y 80.864-2022, entre otras, sosteniéndose sin variación, lo mismo que las sentencias que se acompañan de cotejo, esto es, que una condición sine qua non para que opere el descuento de que se trata, es que el contrato de trabajo haya terminado efectivamente por las causales previstas en el artículo 161 del Código del Trabajo, lo que se ve corroborado por su artículo 168, letra a), de manera que si la sentencia declara injustificado el despido priva de base a la aplicación del inciso segundo del artículo 13 de la Ley N°19.728, pues tanto la indemnización por años de servicio como la imputación de la parte del saldo de la cuenta individual por cesantía, constituyen un efecto que emana de la exoneración prevista en el artículo 161 del Código del Trabajo.
+
+En consecuencia, si el término del contrato por necesidades de la empresa fue considerado injustificado por el tribunal, simplemente no se satisface la condición, en la medida que el despido no tuvo por fundamento una de las causales que prevé el artículo 13 de la Ley N°19.728”.
+Décimo Quinto: Por las razones antes expuestas el recurso interpuesto corresponde que sea desestimado.
+
+Por las razones anteriores, más lo dispuesto en los artículos 477, 478 letra b), 479, 481 y 482 del Código del Trabajo, se rechaza, con costas, el recurso de nulidad deducido por la demandada en contra de la sentencia de tres de mayo de dos mil veinticuatro, dictada por el Segundo Juzgado de Letras del Trabajo de Santiago, en los autos RIT O-3310-2023, sentencia que, en consecuencia, no es nula.
+Regístrese y comuníquese.
+
+Redacción de la Fiscal Judicial Ana María Hernández Medina.
+No firma la abogado integrante señora Soledad Krause, no obstante haber concurrido a la vista de la causa y al acuerdo, por ausencia.
+Laboral-Cobranza Nº 1765-2024.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, tres de mayo de dos mil veinticuatro.
+
+VISTOS, OIDOS Y CONSIDERANDO:
+
+PRIMERO: Que comparece CLAUDIA HERNÁNDEZ ARCOS, cédula nacional de identidad N° 13.924.622-5; DAISY ESPINOSA ZÚÑIGA, cédula nacional de identidad N° 15.702.241-5; DANIELA AGURTO BEROIZA, cédula nacional de identidad N° 15.970.799-7; KAREN RAMOS RAMOS, cédula nacional de identidad N° 26.689.189-K; JESSICA OJEDA SUÁREZ, cédula nacional de identidad N° 18.047.461-7; MARIA EUGENIA MARDONES MILLACARIS, cédula nacional de identidad N° 11.479.673-5; NICOLÁS ANDRADES VERA, cédula nacional de identidad N° 20.158.336-5; y PAULINA HERNÁNDEZ ROJAS, cédula nacional de identidad N° 19.634.448-9; todos domiciliados para estos efectos en calle Santa Beatriz Nº 100, Oficina 802, comuna de Providencia, Región Metropolitana; e interpone demanda por despido injustificado, indebido y/o improcedente en procedimiento de aplicación general en contra de su ex empleador INTEGRAMÉDICA S.A., RUT: 76.098.454-K, representada por MARÍA CAROLINA MONTERO DIDYK, cédula nacional de identidad N° 14.599.235-4 o por quien sus derechos represente de acuerdo a lo prescrito en el artículo 4 del Código del Trabajo, ambos con domicilio en Avenida Libertador Bernardo O´Higgins Nº 654, comuna de Santiago, Región Metropolitana.
+Señala que todos los actores suscribieron contratos de trabajo con INTEGRAMÉDICA S.A. y que la fecha de ingreso, cargo, remuneración y fecha de despido son, respecto de cada actor:
+
+CLAUDIA HERNÁNDEZ ARCOS:
+- Ingreso: 07 JUNIO 2012
+
+- Cargo: SUPERVISORA CENTRAL DE CAJAS
+
+- Remuneración: $1.253.898.-
+
+- Despido: 16 MARZO 2023
+
+DAISY ESPINOSA ZÚÑIGA:
+- Ingreso: 01 MAYO 2014
+
+- Cargo: ADM. DE CONVENIOS
+
+- Remuneración: $1.138.568.-
+
+- Despido: 16 MARZO 2023
+
+DANIELA AGURTO BEROIZA:
+- Ingreso: 03 ABRIL 2017
+
+- Cargo: TENS DE ENFERMERIA
+
+- Remuneración: $885.217.-
+
+- Despido: 16 MARZO 2023
+
+KAREN RAMOS RAMOS:
+- Ingreso: 03 ABRIL 2017
+
+- Cargo: TESORERA SUPERVISORA CENTRAL CAJAS
+
+- Remuneración: $1.079.507.-
+
+- Despido: 15 MARZO 2023
+
+JESSICA OJEDA SUÁREZ:
+- Ingreso: 02 SEPTIEMBRE 2013
+
+- Cargo: TENS DE ENFERMERIA
+
+- Remuneración: $930.568.-
+
+- Despido: 20 MARZO 2023
+
+MARIA EUGENIA MARDONES MILLACARIS:
+- Ingreso: 14 NOVIEMBRE 2007
+
+- Cargo: ANFITRIONA
+
+- Remuneración: $881.160.-
+
+- Despido: 06 MARZO 2023
+
+NICOLÁS ANDRADES VERA:
+- Ingreso: 01 JUNIO 2018
+
+- Cargo: ANFITRIÓN
+
+- Remuneración: $917.488.-
+
+- Despido: 03 MARZO 2023
+
+PAULINA HERNÁNDEZ ROJAS:
+- Ingreso: 13 MARZO 2019
+
+- Cargo: ASISTENTE DENTAL
+
+- Remuneración: $850.851.-
+
+- Despido: 03 ABRIL 2023.
+
+En cuanto a las remuneraciones, expresa que los montos señalados son los que fueron expresamente reconocidos por su ex empleador en sus cartas de aviso de despido, de manera que no puede ahora desconocer esos montos, en virtud de lo dispuesto en el artículo 169 del Código del Trabajo, salvo respecto de Nicolás Andrades Vera, que señala una remuneración por un monto diferente, ya que demanda en este acto diferencias de indemnizaciones por término de contrato de trabajo.
+
+Menciona que en las fechas señaladas fueron despedidos sorpresivamente mediante la misma carta de aviso. Refiere que todas las cartas de despido, invocan los mismos fundamentos de desvinculación, para lo cual transcribe la misiva enviada a la actora Claudia Hernández Arcos:
+“Por medio de la presente comunicamos a usted la decisión de la empresa de poner término a su contrato de trabajo a contar del día de hoy, por la causal indicada en el artículo 161 inciso 1° del Código del Trabajo, esto es “Necesidades de la Empresa”.
+
+Los hechos en los que se funda la causal antes indicada son los siguientes:
+
+Como usted sabe, Integramédica S.A. es una empresa que presta servicios de atención ambulatoria de salud, a través de sus más de 27 centros médicos que mantiene a lo largo del país, para poder ofrecer los servicios de medicina general, pediatría, ginecología y obstetricia, traumatología, dermatología, psicología y psiquiatría, neurología, gastroenterología, cardiología, unidad de oftalmología, urología, otorrinolaringología, kinesiología, entre otros.
+
+En ese contexto, la realidad del comportamiento de nuestros pacientes ha ido evolucionando a lo largo de los últimos años, para lo cual como Compañía estamos siempre actualizándonos para poder brindar un mejor servicio.
+
+Esta medida forma parte de una serie de esfuerzos que sigue realizando la Empresa para poder hacer frente al complejo escenario en el que nuestra industria se encuentra en la actualidad, motivada principalmente por una baja en la cantidad de pacientes, debido a diferentes factores, lo que repercute directamente en los ingresos de la Compañía.
+
+En efecto, las bajas en las ventas de este año, sumado a los incrementos en los costos experimentados por la variación del IPC, han implicado la necesidad de tener que revisar y restructurar aquellas posiciones que permitan hacer frente a este nuevo escenario en el cual nos encontramos. Adicional a ello, tenemos que considerar además otros factores externos que afectan la caja de la empresa, como son los retrasos en los pagos de las Isapres y el futuro de las mismas.
+
+En su caso particular, usted desempeña en el área de GERENCIA FINANZAS la que se verá afectada por este proceso de restructuración y racionalización, disminuyendo la dotación de su cargo de SUPERVISOR(A) CENTRAL DE CAJAS y en tal sentido, nos vemos en la imperiosa necesidad de poner término a su contrato de trabajo, contribuyendo así a reflejar la realidad actual de la empresa con las ventas registradas en lo que va de este año 2023”.
+
+Alega que los actores otorgaron el respectivo finiquito de trabajo recibiendo el pago de las indemnizaciones por término de contrato de trabajo, previo descuento de los aportes del empleador a la AFC, haciendo en todo caso reserva expresa de derechos para demandar en la forma en que lo hacen en este acto.
+
+Respecto de las cartas de despido, asegura la demanda, que los hechos referidos en dichas misivas son genéricos y no cumplen los requisitos propios de la causal. De igual forma afirma que las deficiencias de la carta de aviso no pueden ser corregidas en el juicio, ya que con ello se vulneraría su derecho a tener los mismos medios de defensa que la denunciada. Alega también que el despido de los actores no ha sido consecuencia de una circunstancia objetiva que haya operado de forma independiente a la voluntad del empleador.
+
+Agrega que para ser verosímiles las explicaciones de la carta de aviso de despido, que invoca una reestructuración, racionalización y/o reformulación interna para justificar la desvinculación, sería necesario que las funciones que realizaban los suscritos, ya no fueran necesarias para la empresa, de manera de explicar así que efectivamente se produjo un cambio en las funciones, que volvían inevitable la desvinculación.
+
+Indica que ello no ha ocurrido, ya que las funciones que desempeñaban los actores en sus cargos, son indispensables para el funcionamiento normal de la respectiva área, por lo que se siguen realizando con toda normalidad en la empresa, sin modificación alguna.
+
+En cuanto a la demanda de cobro de prestaciones laborales, Nicolás Andrades Vera demanda cobro de diferencias de indemnizaciones por término de contrato de trabajo, en consideración a que en la carta despido se consideró como base para calcular dichas indemnizaciones, un monto inferior al que debía considerarse para mi remuneración mensual, según lo dispuesto en el artículo 172 del Código del Trabajo.
+
+Expresa que le fue ofrecida y pagada una indemnización sustitutiva del aviso previo de $911.629.- en circunstancias de que debió ofrecérsele y pagársele una de $917.488.- Asimismo se le ofreció y pagó una indemnización por años de servicios de $4.558.145.- en circunstancias que me correspondía una de $4.587.440.-
+
+La causa de estas diferencias se debe a que su ex empleador no consideró para determinar el monto de su remuneración mensual, el pago mensual de horas extras, que se efectuó de forma permanente e ininterrumpida todos los meses anteriores a su despido, y cuyo monto promedio los últimos tres meses completos trabajados ascendió a $5.895.-
+
+Manifiesta que las demandantes Claudia Hernández, Daniela Agurto, Jessica Ojeda y Daisy Espinoza, demandan el cobro de la asignación de escolaridad al que tenían derecho en virtud de lo dispuesto en el contrato colectivo de trabajo que se les aplicaba.
+
+Explica que, en el contrato colectivo celebrado entre el Sindicato Interempresa de Trabajadores de la Salud Privada e Integramédica, de fecha 17 de noviembre de 2022 y con vigencia hasta el 03 de noviembre de 2025, aplicable a las actoras, se pactó el beneficio de asignación de escolaridad para hijos de trabajadores, beneficio cuya suma es de 1,5 UF.
+Señala que Paulina Hernández Rojas demanda el cobro de 16 días de feriado legal pendiente al momento de su despido, por los períodos 2021/2022 y 2022/2023, equivalentes en consideración a la remuneración mensual reconocida en su carta de aviso de despido a $453.787.-
+
+En cuanto al cobro de diferencias en pago compensatorio de días de descanso reparatorio por trabajo en pandemia Covid-19, alega que la Ley N° 21.530 fue publicada en el Diario Oficial el 02 de febrero de 2023, concediendo a los trabajadores de la salud privada el derecho a días de descanso reparatorio, como reconocimiento a su labor durante la pandemia.
+
+Asevera que para todos los trabajadores se reconoció el derecho a 14 días de descanso reparatorio, mientras que, si se desempeñaron exclusivamente mediante “tele trabajo”, se reconoció el derecho a sólo 7 días de descanso reparatorio.
+
+Su ex empleador reconoció que los suscritos tenían derecho a la compensación de estos días de descanso reparatorio, ofreciéndoles su pago en la carta de aviso de despido y pagando, en efecto, tal compensación, en los respectivos finiquitos. Sin embargo, demandan el cobro de diferencias por el pago que se efectuó en el finiquito en compensación de este descanso reparatorio.
+
+En efecto, tal y como dispone el artículo 1º inciso final de la Ley 21.530, si al término de la relación laboral quedaran días pendientes de utilizar de este descanso reparatorio, el empleador debe compensarlo en dinero, consignando el valor de los días pendientes que correspondía utilizar en la respectiva remuneración, entendiéndose estos días como trabajados para todos los efectos legales.
+
+En consecuencia, para calcular el valor de estos días de descanso reparatorio que correspondían a cada uno de los suscritos, debía considerarse el monto total de la remuneración mensual, expresamente reconocido por el empleador en la carta de despido, y dividirlo por 30 para calcular el valor de cada día de trabajo, y luego multiplicar esa cantidad por el número de días a compensar.
+
+Pues bien, a cada uno de los suscritos se pagó en el finiquito un monto en compensación de estos días de descanso reparatorio inferior al que resulta de calcular el valor de cada día de trabajo tomando como base de cálculo la remuneración mensual expresamente reconocida en la carta de aviso de despido, generándose así las siguientes diferencias que se demandan:
+
+DAISY ESPINOZA:
+- Remuneración mensual $1.138.568.-
+
+- Compensación de descanso reparatorio pagada en finiquito 7 días: $198.051.-
+
+- Compensación de descanso reparatorio a la que se tenía derecho 7 días: $265.666.-
+
+- Diferencia $67.615.-
+
+DANIELA AGURTO:
+- Remuneración mensual $885.217.-
+
+- Compensación de descanso reparatorio pagada en finiquito 14 días: $245.588.-
+
+- Compensación de descanso reparatorio a la que se tenía derecho 14 días: $413.101.-
+
+- Diferencia $167.513.-
+
+KAREN RAMOS:
+
+- Remuneración mensual $1.079.507.-
+
+- Compensación de descanso reparatorio pagada en finiquito 14 días: $317.800
+
+- Compensación de descanso reparatorio a la que se tenía derecho 14 días: $503.770.-
+
+- Diferencia $185.970.-
+
+JESSICA OJEDA:
+
+- Remuneración mensual $930.568.-
+
+- Compensación de descanso reparatorio pagada en finiquito 14 días: $254.436.-
+
+- Compensación de descanso reparatorio a la que se tenía derecho 14 días: $434.265.-
+
+- Diferencia $179.829.-
+
+MARIA EUGENIA MARDONES:
+
+- Remuneración mensual $881.160.-
+
+- Compensación de descanso reparatorio pagada en finiquito 14 días: $324.184.-
+
+- Compensación de descanso reparatorio a la que se tenía derecho 14 días: $411.208.-
+
+- Diferencia $87.024.-
+
+NICOLÁS ANDRADES:
+
+- Remuneración mensual $911.629.-
+
+- Compensación de descanso reparatorio pagada en finiquito 14 días: $266.462.-
+
+- Compensación de descanso reparatorio a la que se tenía derecho 14 días: $425.427.-
+
+- Diferencia $158.965.-
+
+PAULINA HERNÁNDEZ:
+- Remuneración mensual $850.851.-
+
+- Compensación de descanso reparatorio pagada en finiquito 14 días: $241.794.-
+
+- Compensación de descanso reparatorio a la que se tenía derecho 14 días: $397.064.-
+
+- Diferencia $155.270.-
+CLAUDIA HERNÁNDEZ:
+
+- Remuneración mensual $1.253.898.-
+
+- Compensación de descanso reparatorio pagada en finiquito 7 días: $211.771.-
+
+- Compensación de descanso reparatorio a la que se tenía derecho 7 días: $292.576.-
+
+- Diferencia $80.805.-
+
+Demandan también el reembolso del descuento, realizados por el empleador, en virtud del artículo 13 de la Ley N° 19.728, por ser improcedentes. Indica que el detalle los dichos descuentos es:
+- CLAUDIA HERNÁNDEZ ARCOS: $1.642.977.-
+
+- DAISY ESPINOSA ZÚÑIGA: $1.551.341.-
+
+- DANIELA AGURTO BEROIZA: $636.338.-
+
+- KAREN RAMOS RAMOS: $446.173.-
+
+- JESSICA OJEDA SUÁREZ: $957.485.-
+
+- MARIA EUGENIA MARDONES MILLACARIS: $667.144.-
+
+- NICOLÁS ANDRADES VERA: $609.894.-
+
+- PAULINA HERNÁNDEZ ROJAS: $557.642.-
+
+Finaliza solicitando se acoja la demanda y se declare:
+1) Que el despido fue injustificado, indebido y/o improcedente;
+
+2) Que en consecuencia la demandada debe ser condenada a pagar lo siguiente, en los montos señalados o en los que este tribunal determine que en derecho y conforme a los antecedentes del proceso correspondan:
+
+CLAUDIA HERNANDEZ ARCOS:
+a) Conforme a lo dispuesto en la letra a) del artículo 168 del Código del Trabajo, condenar a la demandada al pago del incremento del 30% sobre la indemnización por años de servicios, equivalente a $4.137.863.-
+
+b) Condenar al pago de diferencias en pago compensatorio de días de descanso reparatorio por trabajo en pandemia covid-19 (Ley 21.530), por la cantidad de $80.805.-
+
+c) Condenar al pago de la asignación de escolaridad pactada en el contrato colectivo que se le aplicaba, por la cantidad equivalente a 1,5 UF.
+
+d) Condenar a pago de devolución de los aportes a la AFC descontados en el finiquito, por la cantidad de $1.642.977.-
+
+e) Reajustes de todas las sumas expresadas, y determinables, en el mismo porcentaje en que haya variado el Índice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas, entre el mes anterior a aquel en que debió efectuarse el pago y el precedente a aquel en que efectivamente se realice, conforme al artículo 63 y 173 del Código del Trabajo.
+
+f) Costas.
+
+DAISY ESPINOZA ZUÑIGA:
+a) Conforme a lo dispuesto en la letra a) del artículo 168 del Código del Trabajo, condenar a la demandada al pago del incremento del 30% sobre la indemnización por años de servicios, equivalente a $3.074.134.-
+
+b) Condenar al pago de la asignación de escolaridad pactada en el contrato colectivo que se le aplicaba, por la cantidad equivalente a 1,5 UF.
+
+c) Condenar al pago de diferencias en pago compensatorio de días de descanso reparatorio por trabajo en pandemia covid-19 (Ley 21.530), por la cantidad de $67.615.-
+
+d) Condenar a pago de devolución de los aportes a la AFC descontados en el finiquito, por la cantidad de $1.551.341.-
+
+e) Reajustes de todas las sumas expresadas, y determinables, en el mismo porcentaje en que haya variado el Índice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas, entre el mes anterior a aquel en que debió efectuarse el pago y el precedente a aquel en que efectivamente se realice, conforme al artículo 63 y 173 del Código del Trabajo.
+
+f) Costas.
+
+DANIELA AGURTO BEROIZA:
+a) Conforme a lo dispuesto en la letra a) del artículo 168 del Código del Trabajo, condenar a la demandada al pago del incremento del 30% sobre la indemnización por años de servicios, equivalente a $1.593.391.-
+
+b) Condenar al pago de diferencias en pago compensatorio de días de descanso reparatorio por trabajo en pandemia covid-19 (Ley 21.530), por la cantidad de $167.513.-
+
+c) Condenar al pago de la asignación de escolaridad pactada en el contrato colectivo que se le aplicaba, por la cantidad equivalente a 1,5 UF.
+
+d) Condenar a pago de devolución de los aportes a la AFC descontados en el finiquito, por la cantidad de $636.338.-
+
+e) Reajustes de todas las sumas expresadas, y determinables, en el mismo porcentaje en que haya variado el Índice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas, entre el mes anterior a aquel en que debió efectuarse el pago y el precedente a aquel en que efectivamente se realice, conforme al artículo 63 y 173 del Código del Trabajo.
+
+f) Costas.
+
+KAREN RAMOS RAMOS:
+a) Conforme a lo dispuesto en la letra a) del artículo 168 del Código del Trabajo, condenar a la demandada al pago del incremento del 30% sobre la indemnización por años de servicios, equivalente a $971.556.-
+
+b) Condenar al pago de diferencias en pago compensatorio de días de descanso reparatorio por trabajo en pandemia covid-19 (Ley 21.530), por la cantidad de $185.970.-
+
+c) Condenar a pago de devolución de los aportes a la AFC descontados en el finiquito, por la cantidad de $446.173.-
+
+d) Reajustes de todas las sumas expresadas, y determinables, en el mismo porcentaje en que haya variado el Índice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas, entre el mes anterior a aquel en que debió efectuarse el pago y el precedente a aquel en que efectivamente se realice, conforme al artículo 63 y 173 del Código del Trabajo.
+
+e) Costas.
+
+JESSICA OJEDA SUAREZ:
+a) Conforme a lo dispuesto en la letra a) del artículo 168 del Código del Trabajo, condenar a la demandada al pago del incremento del 30% sobre la indemnización por años de servicios, equivalente a $2.791.704.-
+
+b) Condenar al pago de la asignación de escolaridad pactada en el contrato colectivo que se le aplicaba, por la cantidad equivalente a 1,5 UF.
+
+c) Condenar al pago de diferencias en pago compensatorio de días de descanso reparatorio por trabajo en pandemia covid-19 (Ley 21.530), por la cantidad de $179.829.-
+
+d) Condenar a pago de devolución de los aportes a la AFC descontados en el finiquito, por la cantidad de $957.485.-
+
+e) Reajustes de todas las sumas expresadas, y determinables, en el mismo porcentaje en que haya variado el Índice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas, entre el mes anterior a aquel en que debió efectuarse el pago y el precedente a aquel en que efectivamente se realice, conforme al artículo 63 y 173 del Código del Trabajo.
+
+f) Costas.
+
+MARIA EUGENIA MARDONES MILLACARIS:
+a) Conforme a lo dispuesto en la letra a) del artículo 168 del Código del Trabajo, condenar a la demandada al pago del incremento del 30% sobre la indemnización por años de servicios, equivalente a $2.907.828.-
+
+b) Condenar al pago de diferencias en pago compensatorio de días de descanso reparatorio por trabajo en pandemia covid-19 (Ley 21.530), por la cantidad de $185.965.-
+
+c) Condenar a pago de devolución de los aportes a la AFC descontados en el finiquito, por la cantidad de $667.144.-
+
+d) Reajustes de todas las sumas expresadas, y determinables, en el mismo porcentaje en que haya variado el Índice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas, entre el mes anterior a aquel en que debió efectuarse el pago y el precedente a aquel en que efectivamente se realice, conforme al artículo 63 y 173 del Código del Trabajo.
+
+e) Costas.
+
+NICOLÁS ANDRADES VERA
+
+a) Conforme a lo dispuesto en la letra a) del artículo 168 del Código del Trabajo, condenar a la demandada al pago del incremento del 30% sobre la indemnización por años de servicios, equivalente a $1.367.443.-
+
+b) Condenar al pago de diferencia de indemnización sustitutiva de aviso previo por la cantidad de $5.859.-
+
+c) Condenar al pago de diferencia de indemnización por años de servicios: $29.295.-
+
+d) Condenar al pago de diferencias en pago compensatorio de días de descanso reparatorio por trabajo en pandemia covid-19 (Ley 21.530), por la cantidad de $158.965.-
+
+e) Condenar a pago de devolución de los aportes a la AFC descontados en el finiquito, por la cantidad de $609.894.-
+
+f) Reajustes de todas las sumas expresadas, y determinables, en el mismo porcentaje en que haya variado el Índice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas, entre el mes anterior a aquel en que debió efectuarse el pago y el precedente a aquel en que efectivamente se realice, conforme al artículo 63 y 173 del Código del Trabajo.
+
+g) Costas.
+
+PAULINA HERNÁNDEZ ROJAS
+
+a) Conforme a lo dispuesto en la letra a) del artículo 168 del Código del Trabajo, condenar a la demandada al pago del incremento del 30% sobre la indemnización por años de servicios, equivalente a $1.021.021.-
+
+b) Condenar al pago de 16 días de feriado legal pendiente equivalentes a $453.787.-
+
+c) Condenar al pago de diferencias en pago compensatorio de días de descanso reparatorio por trabajo en pandemia covid-19 (Ley 21.530), por la cantidad de $155.270.-
+
+d) Condenar a pago de devolución de los aportes a la AFC descontados en el finiquito, por la cantidad de $557.642.-
+
+e) Reajustes de todas las sumas expresadas, y determinables, en el mismo porcentaje en que haya variado el Índice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas, entre el mes anterior a aquel en que debió efectuarse el pago y el precedente a aquel en que efectivamente se realice, conforme al artículo 63 y 173 del Código del Trabajo.
+
+f) Costas.
+
+SEGUNDO: Que comparece KATHERINNE CARES CARRASCO, abogada, Cédula Nacional de Identidad N° 17.981.841-8, actuando en representación judicial de la demandada INTEGRAMÉDICA S.A., ambas para estos efectos domiciliadas en Santa Lucia 344, oficina 61, comuna de Santiago, Región Metropolitana; quien contesta la demanda de despido injustificado y cobro de prestaciones laborales interpuesta, solicitando que la misma sea rechazada en todas sus partes con expresa condena en costas.
+Señala que la causa de necesidades de la empresa fundante del despido de los actores, no sólo aparece configurada formalmente, al mencionarse en la comunicación del despido, sino que también se configuró en la realidad de los hechos.
+
+En ese sentido, y sin perjuicio de la carta utilizada como ejemplo en la demanda, esta parte sostiene que todas las cartas se bastan a sí mismas para explicar a los y las demandantes las razones que motivaron su salida de la empresa e incluso se hace alusión al cargo específico de cada trabajador o trabajadora, entregando información específica de hechos que conocen los actores pues la empresa se ha visto gravemente afectado en los últimos años obligándola a adaptarse esta nueva realidad. Por este motivo, la empresa está implementando una reestructuración que afecta de manera transversal todos los Centros Médicos del país, lo que ha implicado la modificación de áreas tanto administrativas como técnicas, redefinición de cargos y funciones, entre otros cambios que siguen en curso.
+
+Expresa que, en este contexto, la empresa se ha visto en la necesidad de despedir a múltiples trabajadores de diversas áreas y cargos, lo que incluye cargos medios y jefaturas máximas de Centros Médicos. Esta misma demanda da cuenta del despido de 8 trabajadores por estas razones, lo que pone de manifiesto que la decisión responde a criterios objetivos y externos independientes del desempeño de cada trabajador en particular.
+
+Por el contrario, la salida de los trabajadores se debe a causas externas propias del mercado y rubro en que se desenvuelve su representada, esto es, las atenciones de carácter ambulatorio. Los hechos experimentados en los últimos años han obligado a su representada a adaptarse un nuevo escenario del mercado cada vez más difícil de afrontar.
+
+El despido de los trabajadores se da un contexto global de restructuración de la empresa que no comienza en sus desvinculaciones, que ya en el año 2021 se vislumbraba como un proceso de restructuración paulatino en el tiempo, en donde los diversos equipos de la empresa, en conjunto con la administración, han debido implementar medidas para pasar a ejercer funciones diferentes, debiendo modificar competencias de los trabajadores, realizar ajustes de dotación, y en este caso particular, avanzar en el ajuste de la dotación de su área, que permita optimizar costos y generar eficiencia operacional, haciendo frente a la situación del país. Así, este proceso de restructuración que parte de forma paulatina va afectando cada una de las áreas hasta llegar precisamente al final de la línea completa del proceso de cada área, ya sean técnicas como administrativas.
+
+Indica que tal reestructuración significa una reformulación de procesos de gestión y operación al interior de todos los Centros Médicos de la empresa lo que ciertamente conlleva la reducción de la dotación de diversos cargos con el objeto de reorganizar los equipos de trabajo y el desempeño de sus funciones para la reasignación de éstas, para lograr mayor eficiencia y optimización de los costos.
+
+En efecto, continúa la contestación, la carta no tiene la pretensión de ser un informe detallado, sino de exponer adecuadamente los hechos en virtud de los cuales se han debido tener que adoptar éstas drásticas decisiones, incluso en el área en que se desempeñaban los actores.
+
+Por ello y precisamente en el espíritu de adaptar los procesos, es que la reestructuración en el área tiene este objetivo, esto es, el hacer más eficientes procesos considerando la nueva estructura de la organización, precisamente por la urgencia que significa en la actualidad modernizar las estructuras de trabajo para atender precisamente las necesidades actuales del servicio y para hacer frente al estado actual de la economía y el mercado, todo con el fin de asegurar la sostenibilidad de toda la red y la viabilidad del negocio.
+
+Así, con la reestructuración se logra una disminución importante en los costos asociados, tanto en lo que dice relación con el ajuste de dotación para el área, como con el costo asociado a remuneraciones, lo que permite adaptarse a la nueva realidad evitando en lo posible tener que recurrir a nuevos despidos masivos.
+
+De modo que el término del contrato se debió, afirma la demandada, a un auténtico proceso de reestructuración, de reevaluación de cargos y sobre todo de racionalización, tal como señalan las cartas de despido. Así, la causal invocada para poner término al contrato de trabajo se encuentra plenamente justificada y ajustada a Derecho, no siendo improcedente como pretende hacer creer la contraria, toda vez que producto de una política de reestructuración de los servicios de su empresa, por razones objetivas, graves y permanentes, se ha debido prescindir de los servicios personales de los y las demandantes en este juicio.
+
+Respecto a las necesidades de la empresa, argumenta la empresa, se trata de una causal objetiva de índole económica que y de la cual estaba en conocimiento de los y las demandantes y que para su procedencia requiere de los siguientes requisitos:
+a. Debe tratarse de una situación objetiva que afecte a la empresa, establecimiento o servicio.
+
+b. Debe tratarse de una necesidad que revista cierta envergadura.
+
+c. Debe existir una relación de causalidad entre la necesidad empresarial y el despido del trabajador.
+Afirma la empresa que el despido de cual fueron objeto los demandantes cumple con cada una de estas exigencias, por lo cual los despidos de los y las demandantes se ejecutaron conforme a Derecho, motivo por el que las prestaciones que demanda no son procedentes. A este respecto manifiesta:
+1. Cobro de diferencia de indemnizaciones por término de contrato de trabajo respecto de Nicolás Andrades Vera.
+
+Que, respecto de esta solicitud, esta parte controvierte expresamente las diferencias señaladas tanto en la base de cálculo como en las indemnizaciones sustitutivas y por años de servicio, respecto del demandante. En este sentido, ratifica lo dispuesto en el finiquito del trabajador, y que corresponde a los montos que legalmente corresponde pagar por estos conceptos, motivo por el cual nada se adeuda a este respecto.
+
+2. Cobro de beneficio de escolaridad pactado en contrato colectivo respecto de Claudia Hernández, Daniela Agurto, Jessica Ojeda y Daysi Espinoza.
+
+Controvierte que se adeude monto alguno por estos conceptos, a las demandantes señaladas y que, además, la procedencia del pago de estos montos deberá ser probada por estas, motivo por el cual esta solicitud debe ser rechazada.
+
+3. Cobro de Feriado legal respecto de Paulina Hernández Rojas.
+
+En cuanto a los días de feriado legal demandados, esta parte controvierte la procedencia de días pendientes de pago. En este sentido, consta en el finiquito de la demandante, el pago de 22,89 días de feriado pagados, motivo por el cual no es comprensible la solicitud de la demandante.
+4. Cobro de diferencias en pago compensatorio de días de descanso reparatorio por trabajo en pandemia covid-19.
+
+Esta parte niega la existencia de diferencias a pagar por este concepto. En este sentido, señala que, respecto de todos los demandantes, fue pagado este concepto en el finiquito según la ley que regula al efecto esta materia, motivo por el cual, controvierte la existencia de las aludidas diferencias referidas en la demanda, respecto de todos los trabajadores señalados en esta.
+
+5. Recargo legal del 30% de los años de servicio
+
+Habiendo sido procedente y justificado el despido, lo solicitado por la parte demandante no procede. Motivo por el cual la solicitud de recargo sobre la indemnización por años de servicio debe ser rechazada respecto a todos los demandantes.
+
+6. Devolución del descuento al seguro de cesantía
+
+Sobre la petición en sí, esta parte estima que es procedente de aplicar el descuento del AFC.
+
+7. Reajustes, intereses y costas
+
+Atendido que el despido ha sido justificado en derecho, es que no resulta procede el pago por estos conceptos.
+TERCERO: Que se celebró la audiencia preparatoria, oportunidad en la se efectuó el llamado a conciliación el cual no prospero, luego se establecieron como hechos no discutidos:
+1. Fecha de inicio de la relación laboral respecto de cada uno de los demandantes.
+
+2. Fecha de término.
+
+3. Causal de término.
+
+4. Cumplimiento de las formalidades legales en cuanto a la comunicación del despido.
+
+5. Remuneración, excepto de don Nicolás Andrades.
+
+6. Montos de descuentos de la AFC en los finiquitos.
+Se estableció como convención probatoria:
+
+Fecha de inicio de doña Karen Ramos: 14 de septiembre de 2020.
+A su vez, en la misma audiencia se establecieron los siguientes hechos controvertidos:
+1. Remuneración pactada y efectivamente percibida por don Nicolás Andrades a efectos indemnizatorios.
+
+2. Efectividad de los hechos contenidos en la carta de despido de los demandantes. Pormenores y circunstancias.
+
+3. Efectividad de adeudar a los demandantes (Claudia Hernández, Daniela Agurto, Jessica Ojeda y Daisy Espinoza) Beneficio de Escolaridad por concepto de contrato colectivo. Elementos para determinar su procedencia y cuantía.
+
+4. Efectividad de adeudar la demandada diferencia de feriado legal a doña Paulina Hernández.
+
+5. Efectividad de adeudar la demandada diferencias de pago compensatorio en relación a días de descanso. Elementos para determinar su procedencia y cuantía.
+
+6. Efectividad de adeudar diferencia de remuneraciones a don Nicolás Andrades.
+CUARTO: Que la parte demandada aportó la siguiente prueba:
+
+Documental:
+1. Prueba documental correspondiente a doña Claudia Hernández:
+
+a. Contrato de trabajo.
+
+b. Carta de término de contrato de trabajo de fecha 16 de marzo de 2023
+
+c. Comprobante de envío de carta certificada por correos de chile
+
+d. Comprobante de carta de aviso para terminación de contrato de trabajo emitido por la Dirección del Trabajo.
+
+e. Certificado de saldo de aporte del empleador al seguro de cesantía para imputar a indemnización.
+
+2. Prueba documental correspondiente a doña Daisy Espinosa Zúñiga
+
+a. Contrato de trabajo
+
+b. Anexo de teletrabajo de fecha 01 de julio de 2020.
+
+c. Carta de término de contrato de trabajo de fecha 16 de marzo de 2023.
+
+d. Comprobante de envío por carta certificada por Correos de Chile.
+
+e. Comprobante de carta de aviso para terminación de contrato de trabajo emitido por la Dirección del Trabajo.
+
+f. Finiquito de trabajo suscrito por la demandante.
+
+g. Certificado de saldo de aporte del empleador al seguro de cesantía para imputar a indemnización.
+
+3. Prueba documental correspondiente a doña Daniela Agurto
+
+a. Contrato de trabajo.
+
+b. Anexo de teletrabajo.
+
+c. Carta de término de contrato de trabajo de fecha 16 de marzo de 2023.
+
+d. Comprobante de carta de aviso para terminación de contrato de trabajo emitido por la Dirección del Trabajo.
+
+e. Finiquito de trabajo suscrito por la demandante.
+
+f. Certificado de saldo de aporte del empleador al seguro de cesantía para imputar a indemnización.
+
+4. Prueba documental correspondiente a doña Jessica Ojeda
+
+a. Anexo de teletrabajo de fecha 01 de julio de 2020.
+
+b. Anexo de contrato de trabajo de fecha 1 de julio de 2020
+
+c. Anexo de contrato de trabajo de fecha 01 de septiembre de 2021.
+
+d. Comprobante de carta de aviso para terminación de contrato de trabajo emitido por la Dirección del Trabajo.
+
+e. Certificado de saldo de aporte del empleador al seguro de cesantía para imputar a indemnización.
+
+f. Finiquito de trabajo suscrito por la demandante.
+
+5. Prueba documental correspondiente a doña Karen Ramos
+
+a. Contrato de trabajo.
+
+b. Anexo de teletrabajo.
+
+c. Anexo de contrato de fecha 01 de enero de 2021
+
+d. Carta de término de contrato de trabajo de fecha 15 de marzo de 2023.
+
+e. Comprobante de carta de aviso para terminación de contrato de trabajo emitido por la Dirección del Trabajo.
+
+f. Finiquito de trabajo suscrito por la demandante.
+
+g. Certificado de saldo de aporte del empleador al seguro de cesantía para imputar a indemnización
+
+6. Prueba documental correspondiente a doña María Mardones
+
+a. Contrato de trabajo.
+
+b. Carta de término de contrato de trabajo de fecha 06 de marzo de 2023
+
+c. Comprobante de carta de aviso para terminación de contrato de trabajo emitido por la Dirección del Trabajo.
+
+d. Finiquito de trabajo suscrito por la demandante.
+
+e. Certificado de saldo de aporte del empleador al seguro de cesantía para imputar a indemnización.
+7. Prueba documental correspondiente a don Nicolás Andrades
+
+a. Contrato de trabajo.
+
+b. Carta de término de contrato de trabajo de fecha 03 de marzo de 2023
+
+c. Comprobante de carta de aviso para terminación de contrato de trabajo emitido por la Dirección del Trabajo.
+
+d. Finiquito de trabajo suscrito por el demandante.
+
+e. Liquidaciones de remuneración correspondiente a los meses de Noviembre y Diciembre de 2022, Enero, Febrero y Marzo de 2023 correspondientes al demandante.
+
+8. Prueba documental correspondiente a doña Paulina Hernández (Primera parte)
+
+a. Contrato de trabajo.
+
+b. Carta de término de contrato de trabajo de fecha 03 de abril de 2023.
+
+c. Comprobante de carta de aviso para terminación de contrato de trabajo emitido por la Dirección del Trabajo.
+
+d. Finiquito de trabajo suscrito por la demandante.
+
+e. Certificado de saldo de aporte del empleador al seguro de cesantía para imputar a indemnización.
+
+9. Prueba documental correspondiente a doña Paulina Hernández (Segunda parte)
+
+a. Set de certificados de vacaciones legales de fechas de emisión: 23 de septiembre, 04 de noviembre, 02 de septiembre, 28 de mayo, 15 de mayo, 20 de enero, 14 de diciembre, 25 de diciembre, 25 de agosto, de 2022; de 04 de enero, 19 de enero de 2023, 06 de diciembre de 2021, correspondientes a la demandante.
+
+b. Registros de asistencia correspondientes a la demandante en los años 2021, 2022 y 2023.
+
+10.Contrato colectivo de trabajo entre Integramédica S.A. y Sindicato Nacional Interempresa de Trabajadores de la Salud Privada de fecha 17 de noviembre de 2022 y anexo N° 1 correspondiente a los trabajadores incluidos en él.
+
+11.Lista de ex trabajadores de Integramédica, actualmente desvinculados por causal de necesidades de la empresa y desahucio entre los años 2021 y 2023.
+
+12.Oficio emitido por la Dirección del Trabajo Nº 2/2242/2023, de fecha 16 de marzo de 2023, en causa RIT O-531-2023, caratulada “UBILLA/INTEGRAMÉDICA” durante el periodo comprendido entre el 1 de enero de 2022 y el 31 de marzo de 2023, por la causal de necesidades de la empresa.
+
+13.Organigrama de Integramédica S.A.
+
+Confesional: consistente en la absolución de posiciones de las actoras Claudia Hernández y María Eugenia Mardones, íntegramente registrada en el audio respectivo y que se tiene por reproducida atendido el principio de oralidad que rige el procedimiento laboral, conforme a lo dispuesto en el artículo 425 del código del ramo. Además, la parte demandada pidió la absolución de posiciones de las actoras Karen Ramos Ramos y Paulina Hernández Rojas, quienes no comparecieron por lo que pidió se hiciera efectivo el apercibimiento legal, quedando su resolución para la sentencia definitiva.
+
+Testimonial: consistente en la declaración de las testigos Daniela Andrea Martínez Inclan, Yasna Solange Zúñiga Aguilera y Ana Haydee Lillo Sandoval, debidamente juramentadas y cuyos testimonios constan en el registro de audio respectivo, el que se tiene por reproducido para todos los efectos legales de conformidad a lo previsto en el artículo 425 del Código del Trabajo, que consagra el principio de oralidad en el procedimiento laboral.
+
+Exhibición de documentos: la parte demandada solicitó la exhibición de documentos bajo apercibimiento del artículo 453 del Código del Trabajo, a saber:
+1. Finiquito de doña Claudia Hernández.
+
+2. Carta de despido de doña Jessica Ojeda.
+
+La parte demandada da por cumplida la exhibición de documentos.
+QUINTO: Que, por su parte, la demandante rindió la siguiente prueba:
+Documental
+
+RESPECTO DE CADA DEMANDANTE:
+
+1. CLAUDIA HERNÁNDEZ ARCOS
+
+a. Carta de despido.
+
+b. Finiquito de trabajo.
+
+c. Liquidación Marzo 2022 (pago de escolaridad)
+
+d. Certificado nacimiento JOSEFA RENATA LUNA HERNÁNDEZ.
+
+e. Certificado de afiliación JOSEFA RENATA LUNA HERNÁNDEZ emitido por Caja Los Andes.
+
+2. DAISY ESPINOSA ZÚÑIGA
+
+a. Carta de despido.
+
+b. Finiquito de trabajo.
+
+c. Certificado nacimiento FLORENCIA AGUSTINA ZUÑIGA ESPINOZA.
+
+d. Autorización de carga familiar de FLORENCIA AGUSTINA ZUÑIGA ESPINOZA respecto de actora, emitido por Caja Los Andes.
+
+f. Certificado alumno regular de FLORENCIA AGUSTINA ZUÑIGA ESPINOZA emitido por Fundación Educacional José Emilio Ibáñez Zúñiga y concentración de nota escolares de la misma de año escolar 2018.
+
+3. DANIELA AGURTO BEROIZA
+
+a. Carta de despido.
+
+b. Finiquito de trabajo.
+
+c. Certificado nacimiento IGNACIA CATALINA CASTRO AGURTO.
+
+d. Certificado alumno regular de IGNACIA CATALINA CASTRO AGURTO emitido por Liceo Carmen Arriarán.
+
+4. KAREN RAMOS RAMOS
+
+a. Carta de despido.
+
+b. Finiquito de trabajo.
+
+5. JESSICA OJEDA SUÁREZ
+
+a. Carta de despido.
+
+b. Finiquito de trabajo.
+
+c. Certificado nacimiento MAITE PASCALE VEAS OJEDA.
+
+d. Certificado alumno regular de MAITE PASCALE VEAS OJEDA emitido por colegio Monte de Asís.
+
+6. MARIA EUGENIA MARDONES MILLACARIS
+
+a. Carta de despido.
+
+b. Finiquito de trabajo.
+
+7. NICOLÁS ANDRADES VERA
+
+a. Carta de despido.
+
+b. Finiquito de trabajo.
+
+c. Liquidaciones de remuneraciones de Noviembre y Diciembre 2022 y de Enero y Febrero 2023.
+
+8. PAULINA HERNÁNDEZ ROJAS
+
+a. Carta de despido.
+
+b. Finiquito de trabajo.
+
+DOCUMENTOS EN COMÚN:
+
+1. Contrato colectivo celebrado entre el SINDICATO INTEREMPRESA DE TRABAJADORES DE LA SALUD PRIVADA e INTEGRAMÉDICA, de fecha 17 de Noviembre de 2022.
+
+2. Impresión de pantalla sitio www.google.cl de fecha 27 de Enero de 2023, con oferta de empleo de INTEGRAMÉDICA para Tens de Enfermería.
+
+3. Impresión de pantalla sitio www.google.cl de fecha 28 de Febrero de 2023, con oferta de empleo de INTEGRAMÉDICA para Tens de Enfermería.
+
+4. Impresión de pantalla sitio www.kitempleo.cl de fecha 24 de Abril de 2023, con oferta de empleo de INTEGRAMÉDICA para Tens de Enfermería.
+
+5. Impresión de pantalla sitio https://bebee.com de fecha 04 de Mayo de 2023, con oferta de empleo de INTEGRAMÉDICA para Anfitrión.
+
+6. Impresión de pantalla sitio jobsalud.cl de fecha 26 de Marzo de 2023, con oferta de empleo de INTEGRAMÉDICA para Asistente Dental.
+
+Testimonial: consistente en la declaración de la testigo Blanca Hernández Currimilla, debidamente juramentada, y cuyo testimonio consta en el registro de audio respectivo, el que se tiene por reproducido para todos los efectos legales de conformidad a lo previsto en el artículo 425 del Código del Trabajo, que consagra el principio de oralidad en el procedimiento laboral.
+Exhibición de documentos: la parte demandante solicitó la exhibición de documentos bajo apercibimiento del artículo 453 del Código del Trabajo, a saber:
+Libro de remuneraciones con dotación de cargos de los actores, de los meses de Febrero, Marzo, Abril y Mayo 2023, indicando cargo y fecha de contratación.
+La parte demandante da por cumplida la exhibición de documentos
+
+SEXTO: Que, respecto de la acción de despido injustificado, es un antecedente de suyo relevante la carta de despido de las demandantes, desde que además de la obligación de la empresa demandada de comunicar el despido a través de una carta de desvinculación, impone el artículo 454 número uno inciso segundo del Código del trabajo, la obligación de acreditar los hechos contenidos en la carta de despido, lo que opera también como un límite a la prueba a considerar a la hora de la sentencia.
+SÉPTIMO: Que las cartas de despido de las demandantes CLAUDIA HERNÁNDEZ ARCOS, DAISY ESPINOSA ZÚÑIGA, DANIELA AGURTO BEROIZA, JESSICA OJEDA SUÁREZ y PAULINA HERNÁNDEZ ROJAS, de fechas próximas, son idénticas en cuanto a los hechos en que se funda el despido y estos son:
+“Por medio de la presente comunicamos a usted la decisión de la empresa de poner término a su contrato de trabajo a contar del día de hoy, por la causal indicada en el artículo 161 inciso 1° del Código del Trabajo, esto es “Necesidades de la Empresa”.
+
+Los hechos en los que se funda la causal antes indicada son los siguientes:
+
+Como usted sabe, Integramédica S.A. es una empresa que presta servicios de atención ambulatoria de salud, a través de sus más de 27 centros médicos que mantiene a lo largo del país, para poder ofrecer los servicios de medicina general, pediatría, ginecología y obstetricia, traumatología, dermatología, psicología y psiquiatría, neurología, gastroenterología, cardiología, unidad de oftalmología, urología, otorrinolaringología, kinesiología, entre otros.
+
+En ese contexto, la realidad del comportamiento de nuestros pacientes ha ido evolucionando a lo largo de los últimos años, para lo cual como Compañía estamos siempre actualizándonos para poder brindar un mejor servicio.
+
+Esta medida forma parte de una serie de esfuerzos que sigue realizando la Empresa para poder hacer frente al complejo escenario en el que nuestra industria se encuentra en la actualidad, motivada principalmente por una baja en la cantidad de pacientes, debido a diferentes factores, lo que repercute directamente en los ingresos de la Compañía.
+
+En efecto, las bajas en las ventas de este año, sumado a los incrementos en los costos experimentados por la variación del IPC, han implicado la necesidad de tener que revisar y restructurar aquellas posiciones que permitan hacer frente a este nuevo escenario en el cual nos encontramos. Adicional a ello, tenemos que considerar además otros factores externos que afectan la caja de la empresa, como son los retrasos en los pagos de las Isapres y el futuro de las mismas”.
+
+Luego en todas las cartas de despido aparece el siguiente párrafo que señala “En su caso particular, usted desempeña en el área de…”, indicando la misiva en cada caso el área en la que se desempeñaba cada actora, para luego continuar “la que se verá afectada por este proceso de restructuración y racionalización, disminuyendo la dotación de su cargo de…”, mencionando cada comunicación de despido el cargo que ocupaba cada demandante, para finalizar expresando “y en tal sentido, nos vemos en la imperiosa necesidad de poner término a su contrato de trabajo, contribuyendo así a reflejar la realidad actual de la empresa con las ventas registradas en lo que va de este año 2023”.
+En cuanto a la carta de despido de la demandante KAREN RAMOS RAMOS, los hechos en los que se funda el despido son:
+
+“Por medio de la presente comunicamos a usted la decisión de la empresa de poner término a su contrato de trabajo a contar del día de hoy, por la causal indicada en el artículo 161 inciso 1° del Código del Trabajo, esto es “Necesidades de la Empresa”.
+
+Los hechos en los que se funda la causal antes indicada son los siguientes:
+
+Como usted sabe, Integramédica S.A. es una empresa que presta servicios de atención ambulatoria de salud, a través de sus más de 27 centros médicos que mantiene a lo largo del país, para poder ofrecer los servicios de medicina general, pediatría, ginecología y obstetricia, traumatología, dermatología, psicología y psiquiatría, neurología, gastroenterología, cardiología, unidad de oftalmología, urología, otorrinolaringología, kinesiología, entre otros.
+
+En ese contexto, la realidad del comportamiento de nuestros pacientes ha ido evolucionando a lo largo de los últimos años, para lo cual como Compañía estamos siempre actualizándonos para poder brindar un mejor servicio.
+
+Esta medida forma parte de una serie de esfuerzos que sigue realizando la Empresa para poder hacer frente al complejo escenario en el que nuestra industria se encuentra en la actualidad, motivada principalmente por una baja en la cantidad de pacientes, debido a diferentes factores, lo que repercute directamente en los ingresos de la Compañía.
+
+En efecto, las bajas en las ventas de este año, sumado a los incrementos en los costos experimentados por la variación del IPC, han implicado la necesidad de tener que revisar y restructurar aquellas posiciones que permitan hacer frente a este nuevo escenario en el cual nos encontramos. Adicional a ello, tenemos que considerar además otros factores externos que afectan la caja de la empresa, como son los retrasos en los pagos de las Isapres y el futuro de las mismas.
+
+En su caso particular, usted desempeña en labores de Tesorero, lo que implica la responsabilidad de la apertura de tesorería, la entrega y cambios de sencillos, retiros parciales, la recepción de cajas, gestión Brinks, cuadratura y cierre de cajas, entre otras. En las tareas antes descritas, históricamente tenía un rol fundamental la cantidad de transacciones que se hacían en efectivo, que corresponden precisamente a las ventas diarias del centro médico.
+
+Así entre más efectivo circulante exista en el Centro Médico, mayor será la carga de trabajo de los Tesoreros, y en el sentido contrario, la baja de las ventas en efectivo disminuirá la carga y el número de tareas que deben realizar. En ese contexto, nuestros clientes en los últimos años han privilegiado modalidades de pago electrónico, representando cada vez más un incremento en el pago electrónico, cayendo la recaudación en efectivo a un 7%, porcentaje que seguirá decreciendo conforme evolucionan los comportamientos de pago de nuestros pacientes.
+
+Dicho ello, se ha dispuesto huna transformación completa en su área al unificar los departamentos de Control de Producción y Regularización y Tesorería, como así mismo dispone mejoras efectivas, simples y prácticas, como la habilitación de espacios con llave para que cada caja pueda acceder a los fondos que necesite. Esto por cierto sin descartar que en el futuro se tengan que adoptar otras medidas en línea con el objetivo propuesto”.
+
+En cuanto a la carta de despido de la demandante MARIA EUGENIA MARDONES MILLACARIS y la del actor NICOLÁS ANDRADES VERA, de fechas próximas, son idénticas en cuanto a los hechos en que se funda el despido y estos son:
+“Por medio de la presente comunicamos a usted la decisión de la empresa de poner término a su contrato de trabajo a contar del día de hoy, por la causal indicada en el artículo 161 inciso 1° del Código del Trabajo, esto es “Necesidades de la Empresa”.
+
+Los hechos en los que se funda la causal antes indicada son los siguientes:
+
+Como usted sabe, Integramédica S.A. es una empresa que presta servicios de atención ambulatoria de salud, a través de sus más de 27 centros médicos que mantiene a lo largo del país, para poder ofrecer los servicios de medicina general, pediatría, ginecología y obstetricia, traumatología, dermatología, psicología y psiquiatría, neurología, gastroenterología, cardiología, unidad de oftalmología, urología, otorrinolaringología, kinesiología, entre otros.
+
+Los hechos en que se funda la causal invocada dicen relación con un proceso de reestructuración interna que la empresa ha debido implementar, debido a la situación actual, tanto a nivel país como a nivel interno. Es del caso que este proceso afecta de manera transversal a todos los Centros Médicos de la Compañía, tanto en sus áreas administrativas como técnicas, dentro de las cuales se encuentra el área en la que usted se desempeñaba en el cargo de ANFITRION (A). Lo anterior, a fin de asegurar la sostenibilidad de toda la red y la viabilidad del negocio.
+
+Lo cierto es que la situación de los últimos años ha generado consecuencias negativas en nuestra economía y un cambio profundo en la forma en que nos relacionamos con otros, esta nueva realidad ha afectado tanto a la actividad que realizamos como a nuestros clientes, y nos ha obligado a repensar y definir las funciones de los cargos. Lo anterior, considerando que resulta indispensable adecuarse a los nuevos tiempos, teniendo presente que la habilidad para ejecutar cambios es determinante en un mercado tan competitivo como en el que estamos insertos.
+
+En este contexto, se procederá a la reformulación de procesos de gestión y operación al interior de todos los Centros Médicos de la Empresa, lo que implica la reducción de la dotación de diversos cargos con el objeto de reorganizar los equipos de trabajo cambiando la forma en que éstos desempeñan sus funciones, con el fin de lograr mayor eficiencia operacional y al mismo tiempo la optimización de los costos asociados a su área en particular. Así, esta medida forma parte de una serie de esfuerzos que sigue realizando la Empresa para hacer frente a la realidad actual.
+
+Cabe señalar que se trata de una decisión que ha afectado a un sin número de trabajadores de la Empresa, sin distinción de los diferentes cargos, quienes no serán reemplazados, siendo reasignadas sus funciones a otros trabajadores”.
+OCTAVO: Que, del solo contenido factico de las comunicaciones de despido, se desprende, en primer término, que estas no contienen un extenso contenido factico, no logrando reunir de manera satisfactoria el estándar mínimo exigido por el legislador de conformidad a lo establecido en el artículo 454 Nº 1 inciso segundo del Código del Trabajo, en cuanto a describir con claridad los presupuestos facticos en que fundamenta su decisión, dejando de esa manera en indefensión los trabajadores demandantes, privándolos de la posibilidad de ejercer su derecho a defensa respecto de los hechos en que se justifica su despido, ya que los hechos invocados en las comunicaciones de despido resultan tener un carácter demasiado genérico y vagos, sin especificar ni explicar de manera concreta en que habría consistido el proceso de restructuración y racionalización de las áreas en que desempeñaban funciones los trabajadores demandantes y como los despidos de los actores resultaban ser necesarios en dicho contexto. El carácter genérico y vago de los hechos descritos en las cartas de despido se manifiesta en los siguientes párrafos:
+
+· Extracto de las misivas enviadas a las demandantes CLAUDIA HERNÁNDEZ ARCOS, DAISY ESPINOSA ZÚÑIGA, DANIELA AGURTO BEROIZA, JESSICA OJEDA SUÁREZ y PAULINA HERNÁNDEZ ROJAS: “Esta medida forma parte de una serie de esfuerzos que sigue realizando la Empresa para poder hacer frente al complejo escenario en el que nuestra industria se encuentra en la actualidad, motivada principalmente por una baja en la cantidad de pacientes, debido a diferentes factores, lo que repercute directamente en los ingresos de la Compañía”.
+(…)
+
+“En efecto, las bajas en las ventas de este año, sumado a los incrementos en los costos experimentados por la variación del IPC, han implicado la necesidad de tener que revisar y restructurar aquellas posiciones que permitan hacer frente a este nuevo escenario en el cual nos encontramos. Adicional a ello, tenemos que considerar además otros factores externos que afectan la caja de la empresa, como son los retrasos en los pagos de las Isapres y el futuro de las mismas”.
+
+· Extracto comunicación enviada a KAREN RAMOS RAMOS: “Así entre más efectivo circulante exista en el Centro Médico, mayor será la carga de trabajo de los Tesoreros, y en el sentido contrario, la baja de las ventas en efectivo disminuirá la carga y el número de tareas que deben realizar. En ese contexto, nuestros clientes en los últimos años han privilegiado modalidades de pago electrónico, representando cada vez más un incremento en el pago electrónico, cayendo la recaudación en efectivo a un 7%, porcentaje que seguirá decreciendo conforme evolucionan los comportamientos de pago de nuestros pacientes”.
+
+· Extracto de la carta enviada a la demandante MARIA EUGENIA MARDONES MILLACARIS y al actor NICOLÁS ANDRADES VERA: “Los hechos en que se funda la causal invocada dicen relación con un proceso de reestructuración interna que la empresa ha debido implementar, debido a la situación actual, tanto a nivel país como a nivel interno”.
+(…)
+
+Lo cierto es que la situación de los últimos años ha generado consecuencias negativas en nuestra economía y un cambio profundo en la forma en que nos relacionamos con otros, esta nueva realidad ha afectado tanto a la actividad que realizamos como a nuestros clientes, y nos ha obligado a repensar y definir las funciones de los cargos. Lo anterior, considerando que resulta indispensable adecuarse a los nuevos tiempos, teniendo presente que la habilidad para ejecutar cambios es determinante en un mercado tan competitivo como en el que estamos insertos.
+La única referencia, en las cartas de despido, a un dato concreto que justificaría las desvinculaciones es la contenida en la comunicación enviada a KAREN RAMOS RAMOS, en el sentido de “En ese contexto, nuestros clientes en los últimos años han privilegiado modalidades de pago electrónico, representando cada vez más un incremento en el pago electrónico, cayendo la recaudación en efectivo a un 7%, porcentaje que seguirá decreciendo conforme evolucionan los comportamientos de pago de nuestros pacientes”, sin embargo, esta aseveración no fue acreditada mediante prueba alguna.
+NOVENO: Que, para acreditar los hechos contenidos en la carta de despido, la demandada incorporó a juicio documentos consistentes en “Lista de ex trabajadores de Integramédica, actualmente desvinculados por causal de necesidades de la empresa y desahucio entre los años 2021 y 2023” y “Oficio emitido por la Dirección del Trabajo Nº 2/2242/2023, de fecha 16 de marzo de 2023, en causa RIT O-531-2023, caratulada “UBILLA/INTEGRAMÉDICA” durante el periodo comprendido entre el 1 de enero de 2022 y el 31 de marzo de 2023, por la causal de necesidades de la empresa”. Se incorporó también la declaración de las actoras Claudia Hernández y María Eugenia Mardones y la declaración de las testigos Daniela Andrea Martínez Inclan, Yasna Solange Zúñiga Aguilera y Ana Haydee Lillo Sandoval.
+
+Respecto del listado y oficio mencionados, lo cierto es que por sí solos únicamente dan cuenta de haber existido otros despidos al interior de la empresa de trabajadores y trabajadoras. Pero lo que es más relevante aun, es el hecho de existir otros despidos, no importa por si solos que esos otros despidos ni estos despidos (los que son objeto de la presente demanda) sean justificados, podrán ser un número importante de despidos válidamente justificados o un número importante de despidos injustificados, únicamente se puede establecer que la empresa demandada efectuó otros despidos por la causal necesidades de la empresa.
+
+De otro lado, las testigos de la parte demandada por tratarse de trabajadores de la empresa, que sólo se limitan a ratificar las alegaciones de ésta, carecen de la imparcialidad necesaria para producir convicción en el suscrito. Además, cabe señalar que la demandada no aportó prueba alguna, a parte de la testimonial referenciada, que dé cuenta del proceso de reestructuración, sus características y de qué forma este implicaba necesariamente el despido de los demandantes, por lo cual difícilmente este sentenciador podría confirmar lo declarado por las testigos de la demandada.
+
+DÉCIMO: Que debe tenerse presente que la causal de necesidades de la empresa se ha entendido en forma objetiva, esto es, que deben darse ciertas condiciones graves y permanentes en la empresa para poner término al contrato, es decir, condiciones de la empresa no de la trabajadora, por ello no dependen de la mera voluntad del empleador, de manera tal, necesidades que pueden tener su origen en circunstancias de carácter económico -bajas en la productividad o cambios en las condiciones de mercado o economía-, los que no deben ser transitorios o subsanables, esto es, que la causal debe ser independiente de la voluntad de las partes, y que dicen relación exclusivamente con circunstancias que rodean la actividad económica de que se trata; como en la existencia de un detrimento en la situación financiera de la empresa que afecte su marcha, o bien la reestructuración en la administración del giro comercial que ejecuta. A lo que cabe agregar, que todos y cada uno de estos hechos y circunstancias deben ser señaladas y especificadas en la respectiva carta de despido y acreditadas por la empresa demandada en juicio, lo cual no ocurrió en estos autos.
+
+DECIMOPRIMERO: Que por lo ya razonado y el análisis de la prueba rendida, se puede concluir que los despidos de los que fueron objeto los demandantes fueron injustificados y, por ende, procederá ordenar el pago del recargo legal de un 30%, respecto de la indemnización por años de servicios ya pagada a cada trabajador al momento de la suscripción del finiquito respectivo, no obstante, lo que se resolverá más adelante respecto de la acción de cobro de prestaciones laborales deducida.
+
+DECIMOSEGUNDO: Que en lo tocante a la solicitud de restitución del monto descontado por el empleador a la indemnización por años de servicios del aporte efectuado por éste en la Cuenta Individual por Cesantía del demandante, el artículo 13 de la Ley N° 19.728 expresa: “Si el contrato terminare por las causales previstas en el artículo 161 del Código del Trabajo, el afiliado tendrá derecho a la indemnización por años de servicios prevista en el inciso segundo del artículo 163 del mismo cuerpo legal, calculada sobre la última remuneración mensual definida en el artículo 172 del mismo, con un límite máximo de trescientos treinta días de remuneración, a menos que se haya pactado, individual o colectivamente, una superior, caso en el cual se aplicará esta última”. Continúa señalando: “se imputará a esta prestación la parte del saldo de la Cuenta Individual por Cesantía constituida por las cotizaciones efectuadas por el empleador más su rentabilidad, deducidos los costos de administración que correspondan, con cargo a los cuales el asegurado pueda hacer retiros en la forma que señala el artículo 15”. Termina: “en ningún caso se podrá tomar en cuenta el monto constituido por los aportes del trabajador, para los efectos de la imputación a que se refiere el inciso anterior”.
+Si bien la norma citada, en principio, facultaría al empleador para descontar de la indemnización por años de servicios el aporte efectuado por este en la Cuenta Individual por Cesantía, dicha facultad es sólo procedente en los casos que el despido efectuado por necesidades de la empresa resulte ajustado a derecho, cuestión que en la especie no ocurrió, al declararse el término de la relación laboral improcedente. Sostener lo contrario constituiría un incentivo al empleador para invocar una causal errada a fin de obstaculizar la restitución de los fondos e implicaría un aprovechamiento del propio dolo de la empresa al invocar una causal que, en la especie, no concurre, implicando, además, que un despido que fue declarado ilícito igualmente surta los efectos de un término de relación laboral ajustado a derecho, siendo claramente improcedente el descuento realizado por el empleador en el finiquito, razón por la que se acogerá la petición de restitución.
+
+DECIMOTERCERO: Que, en cuanto a la acción de cobro de prestaciones laborales, cabe referirse, primeramente, al cobro de diferencia de indemnizaciones por término de contrato de trabajo respecto del actor Nicolás Andrades Vera. Señala la demanda que la remuneración que el empleador utilizó como base de cálculo de la indemnización sustitutiva de aviso previo y de la por años de servicio, es menor a la que realmente le correspondía al actor, toda vez que, indica el libelo, la empresa no consideró para determinar el monto de la remuneración mensual, el pago mensual de horas extras, que se le efectuó al actor de forma permanente e ininterrumpida todos los meses anteriores a su despido, y cuyo monto promedió los últimos tres meses completos trabajados ascendió a $5.895. Por lo anterior, expresa la demanda, al actor Nicolás Andrades Vera le fue ofrecida y pagada una indemnización sustitutiva del aviso previo de $911.629.- en circunstancias de que debió ofrecérsele y pagársele una de $917.488.- Asimismo se le ofreció y pagó una indemnización por años de servicios de $4.558.145.- en circunstancias que le correspondía una de $4.587.440.
+Que de la prueba aportada se tiene por acreditado que el actor fue remunerado por concepto de horas extraordinarias los meses de noviembre y diciembre de 2022 y enero y febrero de 2023. Sin embargo, dado que únicamente se acreditó el pago de horas extras por cuatro meses, dicha cantidad de meses, en comparación con la extensión de la relación laboral, no permite a este sentenciador afirmar que la realización de horas extras pasó de ser una excepción a constituir una situación habitual, desnaturalizándose su carácter eventual y accidental. Por lo anterior, y en consideración al artículo 172 del Código del Trabajo, el monto pagado por concepto de horas extras no debía ser incluido en la determinación de la base de cálculo de las indemnizaciones enteradas al actor Nicolás Andrades Vera a propósito del despido del que fue objeto, de forma que se procederá a rechazar la demanda de cobro de prestaciones laborales en este aspecto.
+
+DECIMOCUARTO: Que, en cuanto al cobro de beneficio de escolaridad pactado en contrato colectivo, respecto de las actoras Claudia Hernández, Daniela Agurto, Jessica Ojeda y Daisy Espinosa, señala la demanda, que por instrumento colectivo celebrado entre el Sindicato Interempresa de Trabajadores de la Salud Privada e INTEGRAMÉDICA de fecha 17 de Noviembre de 2022 y con vigencia hasta el 03 de Noviembre de 2025, aplicable a las actoras, se pactó el beneficio de asignación de escolaridad para hijos de trabajadores en su cláusula 18º, beneficio que se alega no fue pagado a las demandantes mencionadas.
+
+DECIMOQUINTO: Que, con la prueba aportada en autos, es posible tener por acreditado que por contrato colectivo de fecha 17 de noviembre de 2022 y con vigencia hasta el 03 de noviembre de 2025, suscrito entre Sindicato Interempresa de Trabajadores de la Salud Privada y la demandada, se pactó en su cláusula décimo octavo:
+
+“DECIMO OCTAVO: ASIGNACIÓN DE ESCOLARIDAD PARA HIJOS DE TRABAJADORES
+
+La empresa pagará al trabajador, por cada hijo o hija que sea carga familiar y que curse estudios regulares en jardín infantil -excluida la sala cuna -, educación básica media, superior, técnica o profesional, una asignación de educación ascendente a 1,5 UF bruta, la que se devengará por una vez en el año y se pagará en el mes de Marzo.
+
+Para el caso de la educación diferencial y niños con necesidades especiales según normativa establecida en el Decreto 170 del Ministerio de Educación, incluyendo TEA, la asignación ascenderá a 2,5 UF brutas.
+
+El pago se efectuará una vez al año, junto con las liquidaciones de remuneraciones del mes de Marzo, para lo cual el trabajador deberá respaldar esta situación, sólo en la eventualidad que la empresa se lo solicite”.
+Del tenor de la cláusula transcrita se desprende que, para acceder al beneficio de escolaridad, la trabajadora o el trabajador deberá tener como carga familiar a un hija o hijo y esta o este que curse estudios regulares en jardín infantil -excluida la sala cuna -, educación básica media, superior, técnica o profesional.
+De la prueba aportada se tiene por probado que la actora CLAUDIA HERNANDEZ ARCOS, es madre de una hija de nombre JOSEFA RENATA LUNA HERNANDEZ, que es carga familiar de la demandante; que la actora DANIELA AGURTO BEROIZA es madre de una hija de nombre IGNACIA CASTRO AGURTO, quien a mayo del año 2023 cursaba Séptimo básico en Liceo Carmen Arriarán de Peñalolen; que la actora JESSICA OJEDA SUÁREZ es madre de una hija de nombre MAITE VEAS OJEDA, quien a marzo del año 2023 cursaba pre kínder en el colegio Monte de Asís de Puente Alto; y que la actora DAISY ESPINOSA ZUÑIGA es madre de una hija de nombre FLORENCIA ZUÑIGA ESPINOSA, que es carga familiar de la demandante y quien a diciembre de 2018 cursaba quinto básico en el establecimiento Fundación Educacional José Emilio Ibáñez Zúñiga.
+
+En virtud de lo señalado en los párrafos anteriores es posible afirmar que las actoras CLAUDIA HERNANDEZ ARCOS y DAISY ESPINOSA ZUÑIGA no cumplían con los requisitos para acceder al beneficio ya mencionado, ya que no acreditaron que sus hijas estuvieran cursando estudios regulares el año 2023. Respecto de las actoras DANIELA AGURTO BEROIZA y JESSICA OJEDA SUÁREZ tampoco cumplían con los requisitos para acceder al beneficio ya mencionado, ya que no acreditaron que sus hijas fueran sus cargas familiares. A lo anterior, es necesario agregar que de todas formas las demandantes no tenían derecho a percibir el beneficio de escolaridad demandado dado que del tenor de la clausula décimo octava del contrato colectivo ya mencionado, se desprende que, para que un trabajador pudiera acceder a este beneficio, requería que su contrato de trabajo se encontrara vigente durante el mes de marzo, presupuesto que ninguna de las demandantes cumple dado que sus despidos tuvieron lugar entre el 16 y 20 de marzo de 2023. Por lo anterior se procederá a rechazar la demanda de cobro de prestaciones laborales en este parte.
+
+DECIMOSEXTO: Que, en cuanto al cobro de días de feriado legal pendiente respecto de PAULINA HERNÁNDEZ ROJAS, señala la demanda que al momento del despido se encontraban pendientes 16 días de feriado legal, por los períodos 2021/2022 y 2022/2023, equivalentes en consideración a la remuneración mensual reconocida en su carta de aviso de despido a $453.787.
+
+Estando acreditado el vínculo contractual entre las partes, recayendo en la parte demandada alegar y demostrar la extinción de la obligación de compensar el feriado que se reclama en la demanda, sin que haya formulado alegación, ni rendido prueba alguna sobre el particular, teniendo en cuenta, además, que en el finiquito otorgado y suscrito por la trabajadora únicamente se consideró el feriado proporcional, será condenada al pago de dicha prestación, como se dirá en lo resolutivo.
+DECIMOSÉPTIMO: Que en cuanto al cobro de diferencias en pago compensatorio de días de descanso reparatorio por trabajo en pandemia covid-19 (Ley N° 21.530), indica la demanda que, dicha norma concedió a los trabajadores de la salud privada el derecho a días de descanso reparatorio, como reconocimiento a su labor durante la pandemia, reconociendo el derecho a 14 días de descanso reparatorio y, si se desempeñaron exclusivamente mediante “tele trabajo”, se reconoció el derecho a sólo 7 días de descanso reparatorio. Expresa el libelo que la empresa reconoció que los suscritos tenían derecho a la compensación de estos días de descanso reparatorio, ofreciendo su pago en la carta de aviso de despido y pagando, en efecto, tal compensación, en los respectivos finiquitos. Sin embargo, alega, el cobro de diferencias por el pago que se efectuó en el finiquito en compensación de este descanso reparatorio, toda vez que para calcular el valor de estos días de descanso reparatorio que correspondían a cada uno de los suscritos, debía considerarse el monto total de la remuneración mensual, expresamente reconocido por el empleador en la carta de despido, y dividirlo por 30 para calcular el valor de cada día de trabajo, y luego multiplicar esa cantidad por el número de días a compensar.
+Que, en consideración a las cartas de despido y finiquitos acompañados, y realizando las operaciones aritméticas de dividir por 30 la remuneración que el empleador consideró como base para el cálculo de las indemnizaciones pagadas a propósito del despido, y luego multiplicar el resultado de dicha división por el número de días de descanso compensatorio reconocidos por el empleador en dichos documentos, es posible constatar que efectivamente existe una diferencia con lo pagado por la empresa, en los términos que señala la demanda de autos y que a continuación se especifican:
+
+DAISY ESPINOZA:
+- Remuneración mensual $1.138.568 (dividido en 30 da como resultado $37.952).
+- Compensación de descanso reparatorio pagada en finiquito 7 días: $198.051.-
+
+- Compensación de descanso reparatorio a la que se tenía derecho 7 días ($37.952 multiplicado por 7): $265.666.-
+
+- Diferencia con lo efectivamente pagado $67.615.-
+
+DANIELA AGURTO:
+- Remuneración mensual $885.217 (dividido en 30 da como resultado $29.507).
+- Compensación de descanso reparatorio pagada en finiquito 14 días: $245.588.-
+
+- Compensación de descanso reparatorio a la que se tenía derecho 14 días ($29.507 multiplicado por 14): $413.101.-
+
+- Diferencia $167.513.-
+
+KAREN RAMOS:
+
+- Remuneración mensual $1.079.507 (dividido en 30 da como resultado $35.983).
+- Compensación de descanso reparatorio pagada en finiquito 14 días: $317.800
+
+- Compensación de descanso reparatorio a la que se tenía derecho 14 días ($35.983 multiplicado por 14): $503.770.-
+
+- Diferencia $185.970.-
+
+JESSICA OJEDA:
+
+- Remuneración mensual $930.568 (dividido en 30 da como resultado $31.018).
+- Compensación de descanso reparatorio pagada en finiquito 14 días: $254.436.-
+
+- Compensación de descanso reparatorio a la que se tenía derecho 14 días ($31.018 multiplicado por 14): $434.265.-
+
+- Diferencia $179.829.-
+
+MARIA EUGENIA MARDONES:
+
+- Remuneración mensual $881.160 (dividido en 30 da como resultado $29.372).
+- Compensación de descanso reparatorio pagada en finiquito 14 días: $324.184.-
+
+- Compensación de descanso reparatorio a la que se tenía derecho 14 días ($29.372 multiplicado por 14): $411.208.-
+
+- Diferencia $87.024.-
+
+NICOLÁS ANDRADES:
+
+- Remuneración mensual $911.629 (dividido en 30 da como resultado $30.387).
+- Compensación de descanso reparatorio pagada en finiquito 14 días: $266.462.-
+
+- Compensación de descanso reparatorio a la que se tenía derecho 14 días ($30.387 multiplicado por 14): $425.427.-
+
+- Diferencia $158.965.-
+
+PAULINA HERNÁNDEZ:
+- Remuneración mensual $850.851 (dividido en 30 da como resultado $28.361).
+- Compensación de descanso reparatorio pagada en finiquito 14 días: $241.794.-
+
+- Compensación de descanso reparatorio a la que se tenía derecho 14 días ($28.361 multiplicado por 14): $397.064.-
+
+- Diferencia $155.270.-
+CLAUDIA HERNÁNDEZ:
+
+- Remuneración mensual $1.253.898 (dividido en 30 da como resultado $41.796).
+- Compensación de descanso reparatorio pagada en finiquito 7 días: $211.771.-
+
+- Compensación de descanso reparatorio a la que se tenía derecho 7 días ($41.796 multiplicado por 7): $292.576.
+
+- Diferencia $80.805.-
+
+Por lo anteriormente razonado, se acogerá la demanda en esta parte.
+
+DECIMOCTAVO: Que la restante prueba no considerada, en nada incide en la decisión que se hará, por ser innecesaria o sobreabundante, atento a los hechos pacíficos y el razonamiento contenido en las consideraciones que preceden. Además, resulta inoficioso emitir pronunciamiento expreso en relación al apercibimiento solicitado, respecto de la prueba confesional ofrecida por la demandada, por ser facultativo y no necesaria su aplicación para la resolución del asunto controvertido.
+Lo mismo ocurre con otras alegaciones de las partes, por no afectar las motivaciones de la decisión que se hará, sobre la base de los fundamentos de esta sentencia.
+
+Por estas consideraciones y visto, además lo dispuesto en los artículos 7, 161, 162, 168, 172, 420, 446 y siguientes del Código del Trabajo, se resuelve:
+I. Que SE ACOGE la demanda por despido improcedente interpuesta por CLAUDIA HERNÁNDEZ ARCOS, DAISY ESPINOSA ZÚÑIGA, DANIELA AGURTO BEROIZA, KAREN RAMOS RAMOS, JESSICA OJEDA SUÁREZ, MARIA EUGENIA MARDONES MILLACARIS, NICOLÁS ANDRADES VERA y PAULINA HERNÁNDEZ ROJAS en contra de INTEGRAMÉDICA S.A., en cuanto se declara improcedentes los despidos de que fueron objeto el 16 de marzo de 2023, 16 de marzo de 2023, 16 de marzo de 2023, 15 de marzo de 2023, 20 de marzo de 2023, 06 de marzo de 2023, 03 de marzo de 2023 y 03 de abril de 2023, respectivamente, y que se condena, consecuencialmente, a la parte demandada a pagar a los demandantes las siguientes prestaciones:
+1. CLAUDIA HERNANDEZ ARCOS:
+a)
+La suma de $4.137.863, por concepto de recargo legal del 30% de conformidad a lo establecido en la letra a) del artículo 168 del Código del Trabajo respecto de la indemnización por años de servicios ya enterada a la trabajadora demandante a la época de suscripción del finiquito respectivo.
+
+b)
+La suma de $1.642.977, por concepto de devolución del descuento efectuado en forma improcedente por la demandada al momento de la suscripción del finiquito respecto del aporte efectuado por esta última a la cuenta individual de cesantía de la actora durante la vigencia de la relación laboral.
+2. DAISY ESPINOZA ZUÑIGA:
+a)
+La suma de $3.074.134, por concepto de recargo legal del 30% de conformidad a lo establecido en la letra a) del artículo 168 del Código del Trabajo respecto de la indemnización por años de servicios ya enterada a la trabajadora demandante a la época de suscripción del finiquito respectivo.
+
+b)
+La suma de $1.551.341, por concepto de devolución del descuento efectuado en forma improcedente por la demandada al momento de la suscripción del finiquito respecto del aporte efectuado por esta última a la cuenta individual de cesantía de la actora durante la vigencia de la relación laboral.
+3. DANIELA AGURTO BEROIZA:
+
+a)
+La suma de $1.593.391, por concepto de recargo legal del 30% de conformidad a lo establecido en la letra a) del artículo 168 del Código del Trabajo respecto de la indemnización por años de servicios ya enterada a la trabajadora demandante a la época de suscripción del finiquito respectivo.
+
+b)
+La suma de $636.338, por concepto de devolución del descuento efectuado en forma improcedente por la demandada al momento de la suscripción del finiquito respecto del aporte efectuado por esta última a la cuenta individual de cesantía de la actora durante la vigencia de la relación laboral.
+4. KAREN RAMOS RAMOS:
+a)
+La suma de $971.556, por concepto de recargo legal del 30% de conformidad a lo establecido en la letra a) del artículo 168 del Código del Trabajo respecto de la indemnización por años de servicios ya enterada a la trabajadora demandante a la época de suscripción del finiquito respectivo.
+
+b)
+La suma de $446.173, por concepto de devolución del descuento efectuado en forma improcedente por la demandada al momento de la suscripción del finiquito respecto del aporte efectuado por esta última a la cuenta individual de cesantía de la actora durante la vigencia de la relación laboral.
+5. JESSICA OJEDA SUAREZ:
+a)
+La suma de $2.791.704, por concepto de recargo legal del 30% de conformidad a lo establecido en la letra a) del artículo 168 del Código del Trabajo respecto de la indemnización por años de servicios ya enterada a la trabajadora demandante a la época de suscripción del finiquito respectivo.
+
+b)
+La suma de $957.485, por concepto de devolución del descuento efectuado en forma improcedente por la demandada al momento de la suscripción del finiquito respecto del aporte efectuado por esta última a la cuenta individual de cesantía de la actora durante la vigencia de la relación laboral.
+6. MARIA EUGENIA MARDONES MILLACARIS:
+a)
+La suma de $2.907.828, por concepto de recargo legal del 30% de conformidad a lo establecido en la letra a) del artículo 168 del Código del Trabajo respecto de la indemnización por años de servicios ya enterada a la trabajadora demandante a la época de suscripción del finiquito respectivo.
+
+b)
+La suma de $667.144, por concepto de devolución del descuento efectuado en forma improcedente por la demandada al momento de la suscripción del finiquito respecto del aporte efectuado por esta última a la cuenta individual de cesantía de la actora durante la vigencia de la relación laboral.
+7. NICOLÁS ANDRADES VERA:
+a)
+La suma de $1.367.443, por concepto de recargo legal del 30% de conformidad a lo establecido en la letra a) del artículo 168 del Código del Trabajo respecto de la indemnización por años de servicios ya enterada a la trabajadora demandante a la época de suscripción del finiquito respectivo.
+
+b)
+La suma de $609.894, por concepto de devolución del descuento efectuado en forma improcedente por la demandada al momento de la suscripción del finiquito respecto del aporte efectuado por esta última a la cuenta individual de cesantía de la actora durante la vigencia de la relación laboral.
+8. PAULINA HERNÁNDEZ ROJAS
+
+a)
+La suma de $1.021.021, por concepto de recargo legal del 30% de conformidad a lo establecido en la letra a) del artículo 168 del Código del Trabajo respecto de la indemnización por años de servicios ya enterada a la trabajadora demandante a la época de suscripción del finiquito respectivo.
+
+b)
+La suma de $557.642, por concepto de devolución del descuento efectuado en forma improcedente por la demandada al momento de la suscripción del finiquito respecto del aporte efectuado por esta última a la cuenta individual de cesantía de la actora durante la vigencia de la relación laboral.
+II. Que SE ACOGE la demanda por cobro de prestaciones, solo en cuanto se ordena a la demandada INTEGRAMÉDICA S.A. pagar a los demandantes las siguientes sumas:
+1. CLAUDIA HERNÁNDEZ ARCOS: La suma de $80.805 por concepto de diferencia en pago compensatorio de días de descanso reparatorio por trabajo en pandemia covid-19 (Ley N° 21.530).
+2. DAISY ESPINOZA ZUÑIGA: La suma de $67.615 por concepto de diferencia en pago compensatorio de días de descanso reparatorio por trabajo en pandemia covid-19 (Ley N° 21.530).
+3. DANIELA AGURTO BEROIZA: La suma de $167.513 por concepto de diferencia en pago compensatorio de días de descanso reparatorio por trabajo en pandemia covid-19 (Ley N° 21.530).
+4. KAREN RAMOS RAMOS: La suma de $185.970 por concepto de diferencia en pago compensatorio de días de descanso reparatorio por trabajo en pandemia covid-19 (Ley N° 21.530).
+5. JESSICA OJEDA SUAREZ: La suma de $179.829 por concepto de diferencia en pago compensatorio de días de descanso reparatorio por trabajo en pandemia covid-19 (Ley N° 21.530).
+6. MARIA EUGENIA MARDONES MILLACARIS: La suma de $87.024 por concepto de diferencia en pago compensatorio de días de descanso reparatorio por trabajo en pandemia covid-19 (Ley N° 21.530).
+7. NICOLÁS ANDRADES VERA: La suma de $158.965 por concepto de diferencia en pago compensatorio de días de descanso reparatorio por trabajo en pandemia covid-19 (Ley N° 21.530).
+8. PAULINA HERNÁNDEZ ROJAS:
+- La suma de $453.787 por concepto de feriado legal.
+
+- La suma de $155.270 por concepto de diferencia en pago compensatorio de días de descanso reparatorio por trabajo en pandemia covid-19 (Ley N° 21.530).
+
+III. Que las cantidades ordenadas pagar en forma precedente deberán serlo con los intereses y reajustes contemplados en los artículos 63 y 173 del Código del Trabajo.
+IV. Que, no se condena en costas a la parte demandada, por estimarse que ha litigado con motivo plausible.
+V. Ejecutoriada que sea la presente sentencia, cúmplase lo resuelto en ella dentro de quinto día hábil, de lo contrario remítanse los antecedentes al Juzgado de Cobranza Laboral Previsional de Santiago para su cumplimiento compulsivo.
+
+Notifíquese, regístrese y archívese en su oportunidad.
+RIT O-3310-2023
+RUC 23- 4-0481746-9
+Dictada por CAMILO AMARO YAÑEZ MIRANDA, Juez Titular del Segundo Juzgado de Letras del Trabajo de Santiago.

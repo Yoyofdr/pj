@@ -1,0 +1,237 @@
+METADATA
+
+case_id: a704fdc7ed69a4c3ef5be152513bcdfe79b29973
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7970374
+
+rol: 48864-2025
+
+fecha_sentencia: 2025-12-22
+
+caratulado: HERNÁNDEZ/INTEGRAMEDICA S.A.
+
+sala: CUARTA, MIXTA
+
+materias: ▪ Recurso de unificación de jurisprudencia
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: INADMISIBLE UNIFICACIÓN DE JURISPRUDENCIA, MATERIA UNIFICADA O SIN DISPERSIÓN
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintitrés de diciembre de dos mil veinticinco.
+
+Vistos y teniendo presente:
+
+Primero: Que, de conformidad con lo dispuesto en el inciso séptimo del artículo 483-A del Código del Trabajo, se ha ordenado dar cuenta de la admisibilidad del recurso de unificación de jurisprudencia deducido por la parte demandante contra la sentencia dictada por la Corte de Apelaciones de Santiago, que rechazó el de nulidad intentado contra la que desestimó la demanda de declaración de relación laboral.
+
+Segundo: Que, según se expresa en la legislación laboral, el recurso de unificación de jurisprudencia es susceptible de ser deducido en contra de la resolución que falle el recurso de nulidad, estableciéndose su procedencia para el caso en que ¿respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de Tribunales Superiores de Justicia ¿, conforme lo explicita el artículo 483 del Código del Trabajo.
+
+Asimismo, del tenor de lo dispuesto en el artículo 483-A del cuerpo legal antes citado, aparece que esta Corte debe controlar, como requisitos para su admisibilidad, por un lado, su oportunidad; en segundo lugar, la existencia de fundamento, además de una relación precisa y circunstanciada de las distintas interpretaciones respecto de las materias de derecho objeto de la sentencia, sostenidas en diversos fallos emanados de los tribunales superiores de justicia, y finalmente, debe acompañarse copia del o los fallos que se invocan como fundamento del recurso en referencia.
+
+Tercero: Que, conforme se expresa en el recurso, la materia que se propone unificar consiste en determinar la ¿determinar la normativa aplicable a una persona natural contratada bajo la modalidad de honorarios por organismos del Estado en atención a si las funciones desplegadas corresponden o no a los requisitos de contratación respecto de cometidos específicos del artículo 4 del Estatuto Administrativo para funcionarios Municipales y si estas se han ejecutado bajo índices de subordinación y dependencia¿.
+
+Cuarto: Que el fallo impugnado desestimó el arbitrio de nulidad de la parte demandante que invocó los motivos de los artículos 478 c ) y 477 del Código del Trabajo, fundado en que ¿(¿) no pueden tener cabida las alegaciones del recurrente, en la medida que pretende insertar ambos motivos de nulidad contrariando los hechos establecidos, dado que ¿para convencer de la configuración de las causales de despido-, insiste en que se habría demostrado la existencia de jefatura y subordinación, en circunstancias que en el fallo que se revisa establece precisamente lo contrario, conclusión fáctica que no puede ser alterada y que impone el rechazo del recurso en ambos acápites.
+
+Por lo demás, lleva la razón la sentenciadora al establecer que la ausencia de algún tipo de control directo e inmediato impide estimar la existencia de subordinación en el caso y la existencia de informes de sus funciones no logran revertir esa situación, pues ello -justamente- demuestra que la fiscalización de su labor no era inmediata, pues solo requería una visación a posteriori para que sus honorarios fueran pagados.
+
+De otro lado, la forma de contratación estuvo adscrita a dos cometidos diferentes, que no se extendieron por largo tiempo y la circunstancia de que se hayan pactado beneficios como vacaciones o permisos, son situaciones que pueden perfectamente ser concebibles en el ámbito de un contrato de prestación de servicios específicos de tipo civil.¿
+
+De esta forma, no ha podido constatarse un pronunciamiento sustancial que se relacione con la materia de derecho propuesta, por lo que el arbitrio intentado debe ser desestimado en esta etapa procesal.
+
+Quinto: Que la conclusión anterior no es enervada por el hecho que la sentencia impugnada, luego de desechar el recurso, y por vía de un argumento obiter dictum ¿es decir como fundamento subsidiario o mayor abundamiento¿, manifieste opinión que podría relacionarse con la materia de derecho propuesta, desde que tal pronunciamiento no fue formulado de manera principal, por lo mismo no tuvo influencia sustancial en lo dispositivo del fallo, siendo, entonces, para los efectos del presente recurso, irrelevante lo que se diga sin perjuicio, o de manera complementaria del argumento substancial.
+
+Por estas consideraciones y normas citadas, se declara inadmisible el recurso de unificación de jurisprudencia interpuesto contra la sentencia de nueve de octubre de dos mil veinticinco.
+
+Regístrese y devuélvase.
+
+N°49.172-25.-
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Santiago, nueve de octubre de dos mil veinticinco.
+VISTOS:
+
+Por sentencia de diecisiete de julio de dos mil veinticuatro, dictada por el Segundo Juzgado de Letras del Trabajo de Santiago, en los autos RIT O-41-2024, caratulados “Stuardo con I. Municipalidad de Santiago”; se rechazó la demanda de declaración de relación laboral, despido injustificado y nulidad del despido, en todas sus partes.
+Contra ese fallo, recurrió de nulidad la parte demandante, quien funda su recurso en dos causales, que deducen de modo subsidiario. En primer lugar, la causal del artículo 478 letra c) del Código del Trabajo, es decir, cuando sea necesaria la alteración de la calificación jurídica de los hechos, sin modificar las conclusiones fácticas del tribunal inferior. En subsidio, la causal del artículo 477 Código del Trabajo, en su hipótesis de infracción de ley, con relación al artículo 1° del mismo código, el artículo 4° de la Ley 18.883, y los artículos 7 y 8 del Código Laboral.
+
+Declarado admisible el recurso, se procedió a su conocimiento en la audiencia del 2 de septiembre último, oportunidad en que se escucharon alegatos.
+CONSIDERANDO:
+
+PRIMERO: Que por la causal del artículo 478 letra c) del Código del Trabajo se acusa la errada calificación jurídica de los hechos al estimar que los servicios prestados por el demandante no corresponden a aquellos regidos por el Código del Trabajo, sino a un vínculo civil.
+Sostiene el recurso que el tribunal tuvo por acreditado que el actor prestó servicios sin solución de continuidad para el municipio por más de dos años, sujeto a subordinación y dependencia, ejecutando labores a cambio de una contraprestación mensual, debiendo emitir informes visados por su jefatura y accediendo a beneficios como vacaciones, días administrativos y licencias médicas.
+
+Alega que las labores que desempeñaba el actor no constituyen "cometidos específicos", pues no están claramente determinadas en el tiempo ni perfectamente individualizadas, realizándose de manera continua. Añade que tampoco se trata de funciones "no habituales", pues guardan relación con aspectos habituales de la Municipalidad, específicamente con la adopción de medidas en el ámbito de la seguridad pública a nivel comunal, conforme al artículo 4 letra j) de la ley 18.695.
+
+Indica finalmente que los hechos acreditados constituyen claros índices de subordinación y dependencia, citando jurisprudencia reciente de la Corte Suprema que avala esta interpretación.
+
+SEGUNDO: Que, en subsidio, la parte demandante deduce la causal del artículo 477 Código del Trabajo, en su hipótesis de infracción de ley, alegando la infracción al artículo 1° del Código del Trabajo en relación con el artículo 4° de la Ley 18.883, por falsa aplicación de ley, ello por cuanto debió aplicarse la legislación laboral, pues las labores del demandante como "Geólogo" en el Departamento de Seguridad Comunitaria constituían funciones habituales del municipio, conforme al artículo 4° letra j) de la Ley 18.695.
+Luego, alega la infracción a los artículos 7° y 8° del Código del Trabajo, por no dárseles debida aplicación. Afirma que se infringe el artículo 7° del Código del Trabajo al no reconocer los elementos constitutivos del contrato de trabajo acreditados en juicio: servicios personales, bajo dependencia y subordinación, con remuneración determinada. Igualmente, se vulnera el artículo 8° al no aplicar la presunción legal de existencia de contrato de trabajo.
+Explica que el tribunal acreditó en el considerando noveno, claros índices de subordinación: contratación continua por más de dos años, pago mensual, supervisión por jefatura mediante informes, y acceso a beneficios como vacaciones y licencias médicas.
+Sostiene que estas infracciones influyen sustancialmente en lo dispositivo del fallo, pues de haberse aplicado correctamente la ley, se habría concluido que la relación entre las partes era de carácter laboral, lo que habría llevado a acoger la demanda.
+
+TERCERO: Que ambas causales interpuestas comparten una característica, cual es que ambas exigen fidelidad a los hechos establecidos en el fallo. En efecto, la causal del artículo 478 letra c) del Código del Trabajo, por expresa precisión legal, exige mantener inmutables “las conclusiones fácticas del tribunal inferior”, restricción que deben observar tanto el recurrente en sus planteamientos como el propio tribunal de nulidad a la hora de juzgar la procedencia de alterar la calificación jurídica asignada a los hechos que se tuvieron por probados. A su turno, la del artículo 477 del mismo cuerpo legal, sobre infracción de ley, tiene como finalidad velar porque el derecho sea correctamente aplicado a los hechos o al caso concreto determinado en la sentencia.
+
+Por ende, la impugnación y la subsecuente revisión han de realizarse con estricta sujeción a tales hechos, sin agregar conclusiones fácticas diversas de las fijadas, lo que reviste especial relevancia en el caso.
+
+CUARTO: Que debe ponerse en relieve que en la sentencia recurrida se establecieron los siguientes hechos:
+
+a) El demandante suscribió sucesivamente tres convenios a honorarios con la municipalidad demandada a partir del mes de octubre de 2021 al 31 de diciembre de 2023, fecha esta última en que se le comunicó por escrito que su contratación concluía por el vencimiento del plazo.
+
+b) El primer convenio tuvo una vigencia de tres meses y tuvo por objeto desempeñar la ejecución de un “Catastro de actividades relacionadas con la seguridad pública, labores operativas dispuestas por la Dirección de Seguridad Vecinal y resguardo en los barrios del oriente y poniente de la comuna de Santiago”, asociado al Programa Dirección Seguridad Vecinal y Resguardo.
+c) El segundo y tercer convenio, tuvo por objeto ejecutar un “Análisis geoespacial y georeferenciado de información de delitos o incivilidades a nivel comunal y barrial de Santiago durante el año 2022 y 2023, respectivamente” asociado al Programa Dirección Seguridad Vecinal y Resguardo. La vigencia fue pactada del 1 de enero al 31 de diciembre de cada año.
+d) Los convenios indicados establecían el pago de un honorario por el trabajo del actor como contraprestación a suma alzada, debiendo emitir la correspondiente boleta de prestación de servicios e informe de actividades visado por el Director respectivo. En promedio recibió la suma de $ 1.797.826 mensuales.
+
+e) Entre los meses de octubre y diciembre de 2021 aparecen declaradas y enteradas cotizaciones de seguridad social a nombre del actor en AFP Plan Vital y AFC Chile por el empleador identificado como Corporación para el desarrollo de Santiago.
+QUINTO: Que con los hechos señalados la sentenciadora concluye que los convenios dejan bien determinados los servicios del actor y no se acreditó que este prestara otras funciones o en programas distintos a requerimiento de su jefatura como se sugirió en la demanda. No estimó tampoco acreditado que el actor siguiese instrucciones u órdenes, tampoco una jornada laboral durante la vigencia del primer convenio “ni de otros antecedentes que den cuenta real de una subordinación y dependencia durante todo el periodo desempeñado, más aun teniendo presente las labores y/o cometidos específicos descritos en cada convenio pactado”. Insiste más adelante que “no se ha podido acreditar la sujeción a algún tipo de control por parte de supervisión directa de algún superior de manera cierta y determinada”. Así, decide que se verifica la hipótesis legal para la contratación a honorarios que dispone el artículo 4 de la Ley N°18.883, más aún si en el primer período en que prestó servicios aparecen cotizaciones para otra empleadora, sin que el libelo se haya hecho cargo de ello.
+
+SEXTO: Que, así las cosas, no pueden tener cabida las alegaciones del recurrente, en la medida que pretende insertar ambos motivos de nulidad contrariando los hechos establecidos, dado que –para convencer de la configuración de las causales de despido-, insiste en que se habría demostrado la existencia de jefatura y subordinación, en circunstancias que en el fallo que se revisa establece precisamente lo contrario, conclusión fáctica que no puede ser alterada y que impone el rechazo del recurso en ambos acápites.
+
+Por lo demás, lleva la razón la sentenciadora al establecer que la ausencia de algún tipo de control directo e inmediato impide estimar la existencia de subordinación en el caso y la existencia de informes de sus funciones no logran revertir esa situación, pues ello -justamente- demuestra que la fiscalización de su labor no era inmediata, pues solo requería una visación a posteriori para que sus honorarios fueran pagados.
+
+De otro lado, la forma de contratación estuvo adscrita a dos cometidos diferentes, que no se extendieron por largo tiempo y la circunstancia de que se hayan pactado beneficios como vacaciones o permisos, son situaciones que pueden perfectamente ser concebibles en el ámbito de un contrato de prestación de servicios específicos de tipo civil.
+Por las razones anteriores, más lo dispuesto en los artículos 479, 481 y 482 del Código del Trabajo, se rechaza el recurso de nulidad deducido por la parte demandante en contra de la sentencia de diecisiete de julio de dos mil veinticuatro, dictada por el Segundo Juzgado de Letras del Trabajo de Santiago, en los autos RIT O-41-2024.
+Regístrese y comuníquese.
+
+Redacción de la ministra (s) señora Paola Díaz Urtubia.
+No firma la ministra señora Gómez, no obstante concurrir a la vista de la causa y del acuerdo, por ausencia.
+Laboral-Cobranza Nº 2667-2024.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, diecisiete de julio de dos mil veinticuatro.
+
+Vistos, Oídos y Considerando:
+
+PRIMERO: Que comparece el abogado Pedro Ignacio Peña Sánchez, cédula de identidad N° 16.658.896-0, en representación de don DAVID IGNACIO STUARDO PÉREZ, biógrafo, cédula de identidad Nº18.541.048-K, ambos domiciliados para estos efectos en Avenida Las Condes N°11.380, oficina N°91, comuna de Vitacura, quien interpone demanda en procedimiento de aplicación general por declaración de existencia de relación laboral, nulidad del despido, despido injustificado y cobro de prestaciones en contra de la ILUSTRE MUNICIPALIDAD DE SANTIAGO, representada legalmente por su Alcaldesa doña Irací Hassler Jacob, cédula de identidad Nº17.604.080-7, ambas domiciliadas para estos efectos en Plaza de Armas S/N, comuna de Santiago, solicitando el pago de las indemnizaciones y prestaciones que indica en su libelo, todo ello con reajustes, intereses y costas.
+
+Funda su demanda en que su representado ingresó a prestar servicios bajo vínculo de subordinación y dependencia para la Municipalidad demandada, en los términos del artículo 7 del Código del Trabajo, a partir del 06 de octubre de 2021, mediante múltiples contratos de honorarios, para desempeñar la labor de Geólogo, para el Departamento de Administración y Comunicación de la Dirección de Prevención y Seguridad Comunitaria, además de realizar otras funciones que no eran propias de su cargo; labor evidentemente genérica, no accidental y habitual en la organización jerárquica de la Municipalidad de Santiago, consistentes en el cálculo de estadística espacial de requerimientos vecinales que ingresan por plataformas de seguridad de la municipalidad, localizar los lugares en donde ocurren situaciones donde interviene seguridad municipal, coordinación de equipo para actuar en protocolos, investigación y análisis de datos para patente de alcoholes, apoyo en consejos STOP (sistema táctico de operación policial) de carabineros confeccionando minutas con datos, investigaciones, seguimientos mensuales de situaciones relativas a seguridad de la comuna, actualización de datos en plataforma en línea, intervenir aportando información relativa a seguridad en certificación ISO 9001 y a otras unidades, entre otras funciones.
+
+Sostiene que durante todo el periodo fue sujeto a jornadas de trabajo claramente establecidas, al poder de mando de sus superiores y, a su vez, al deber de obediencia en el desempeño de sus funciones, a tiempo completo de lunes a jueves desde las 08:30 hasta las 17:30 horas, debiendo realizar funciones fuera de la jornada pactada durante fines de semana y festivos, conforme a los requerimientos de la jefatura, percibiendo una remuneración mensual que ascendía a la suma de $1.797.826, previa emisión de un informe mensual de su gestión y emisión de la boleta de honorarios respectiva.
+
+Alega que en el vínculo que mantuvo vigente su representado con la demandada se encontraban presentes todos y cada uno de los elementos del contrato de trabajo, tales como subordinación y dependencia, exclusividad, continuidad en la prestación de los servicios, asistencia diaria, periodicidad en las remuneraciones, entre otros.
+
+En cuanto al término de sus servicios, expone que con fecha 31 de diciembre de 2023, su representado fue informado por carta escrita de fecha 28 de ese mismo mes del término de sus servicios, sin invocación de causal alguna de término de contrato, alegando el incumplimiento de formalidades legales.
+
+SEGUNDO: Que la municipalidad demandada, contestó la demanda solicitando su rechazo, controvirtiendo la existencia del vínculo laboral reclamado en el libelo en los términos del artículo 7º del Código del Trabajo, negando la existencia de la subordinación y dependencia reclamada, lo que en definitiva existió entre las partes fue una contratación a honorarios a suma alzada, con funciones determinadas asociadas a programas o cometidos específicos de la municipalidad, ocasionales y/o transitorios, siendo estos ajenos a la gestión administrativa interna de su representada; dándose cumplimiento a lo establecido en el artículo 4° de la Ley N°18.883, esto es, que las funciones no sean permanentes.
+
+En consecuencia, no habiendo existido en alguna oportunidad contrato de trabajo entre la Municipalidad y el actor, nunca hubo por tanto obligación de pagar las prestaciones e indemnizaciones laborales establecidas por ley, ni tampoco existió para esta parte la obligación de declarar y pagar cotizaciones previsionales, de salud y aporte de cesantía, negando la procedencia de las indemnizaciones y sanciones reclamadas, citando jurisprudencia al efecto.
+
+TERCERO: Que celebrada la audiencia preparatoria con fecha 23 de mayo de 2024, llamadas las partes a conciliación, esta no se produjo, siendo recibida la causa a prueba fijándose los siguientes hechos a probar:
+
+1. Efectividad de haber existido una relación de aquellas consagradas en el 7 y siguiente del Código del Trabajo entre el demandante y demandado.
+
+En la asertiva de aquello;
+
+1.1. Fecha de inicio, labores y jornada.
+
+1.2. Base de cálculo.
+
+1.3. Hechos y circunstancias que rodearon el término de la vinculación y cumplimiento de las formalidades legales.
+
+1.4. Efectividad de adeudarse emolumentos por concepto de prestaciones laborales, en la asertiva, monto adeudado y orígenes de las acreencias.
+
+1.5. Efectividad de adeudarse cotizaciones de seguridad social, en la asertiva, monto adeudado y procedencia de las sanciones estatuidas en el artículo 162, inciso quinto y sétimo del Código del Trabajo.
+
+CUARTO: Que la parte demandante para acreditar sus alegaciones, incorporó en la audiencia de juicio los siguientes medios de prueba:
+
+-Documental:
+
+1. Copia de Contrato de Prestación de Servicios Honorarios, suscrito entre las partes, emitido por la I. Municipalidad de Santiago, de septiembre de 2022.
+
+2. Boletas de honorarios electrónicas emitidas por la actora, con cargo a la I. Municipalidad de Santiago, con los siguientes números: - 15 y 16, todas del año 2021. - 20 a 31, todas del año 2022. - 32 a 38, 40 a 44, todas del año 2023.
+
+3. Copia de Informes Mensuales de Actividades, correspondientes al actor, que comprenden los meses de mayo, junio, julio, agosto, octubre y noviembre de 2022.
+
+4. Copia de Informes Mensuales de Actividades, correspondientes al actor, que comprenden los meses de enero, febrero, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre y diciembre de 2023.
+
+5. Constancia laboral web, emitida por la Dirección de Gestión de Personas de la I. Municipalidad de Santiago, N°452097/2023, de fecha 29 de diciembre de 2023.
+
+6. Constancia capacitación, emitida por la Dirección de Gestión de Personas de la I. Municipalidad de Santiago, de fecha 29 de diciembre de 2023.
+
+7. Minuta, Catastro Comercio Informal Parque los Reyes (sector 2), emitida por la Dirección de Prevención y Seguridad Comunitaria, de la I. Municipalidad de Santiago.
+
+8. Memorándum N°894, emitido por la Dirección de Prevención y Seguridad Comunitaria, de la I. Municipalidad de Santiago, de fecha 7 de septiembre de 2023.
+
+9. Memorándum N°410, emitido por la Dirección de Seguridad Vecinal y Resguardo, de la I. Municipalidad de Santiago, de fecha 13 de octubre de 2023.
+
+10.Set de 8 correos electrónicos entre el actor y funcionarios de la I. Municipalidad de Santiago.
+
+11.Fotografía en color por la parte frontal correspondiente a la credencial institucional otorgada al actor.
+
+12.Fotografía del demandante cumpliendo labores en terreno para la demandada.
+
+-Testimonial: Prestó declaración el testigo don Jean Paul Piña Veas, según consta el registro de audio respectivo.
+
+-Oficios: Fueron incorporadas las respuestas de los oficios solicitados a Administradora de Fondos de Pensiones Plan Vital, Fonasa y Administradora de Fondos de Cesantía, según consta del registro de audio respectivo.
+
+-Exhibición de documentos: La parte demandada exhibió en la audiencia de juicio a la demandante los siguientes documentos:
+
+1. Contratos y/o convenios suscritos entre la actora y la I. Municipalidad de Santiago, debidamente visados, respecto del periodo que va desde el 6 de octubre de 2021 hasta el 31 de diciembre de 2023.
+
+2. Decretos o resoluciones en donde se aprueba la contratación de la actora y la I. Municipalidad de Santiago, respecto del periodo que va desde el 6 de octubre de 2021 hasta el 31 de diciembre de 2023.
+
+En relación a la solicitud de exhibición del libro de control de asistencia o registro de asistencia en el cual consten las entradas y salidas de la actora, correspondientes al periodo que va desde el 6 de octubre de 2021 hasta el 31 de diciembre de 2023, la parte demandada reconoció que este no existe.
+
+Por último, en relación a los informes de gestión mensual emitidos por el actor y visados por la jefatura correspondiente de la I. Municipalidad de Santiago, correspondientes al periodo que va desde el 6 de octubre de 2021 hasta el 31 de diciembre de 2023, la parte demandada cumplió parcialmente la diligencia, exhibiendo los meses de abril, mayo, julio y agosto de 2022 y enero, febrero, abril, agosto, septiembre y octubre de 2023, solicitando la parte demandante la aplicación del apercibimiento legal respectivo, el que se negará lugar, teniendo presente que no se trata de un documento de carácter laboral y la demandada ninguna obligación tiene de tener en su poder, mas aun teniendo presente las conclusiones que serna alcanzadas más adelante.
+
+QUINTO: Que por su parte la demandada para acreditar sus alegaciones, incorporó en la presente audiencia de juicio los siguientes medios de prueba:
+
+-Documental:
+1. Contrato a honorarios por el periodo 06 de octubre al 31 de diciembre de 2021.
+
+2. Contrato a honorarios por el periodo 01 de enero al 31 de diciembre de 2022.
+
+3. Contrato a honorarios por el periodo 01 de enero al 31 de diciembre de 2023.
+
+4. Notificación de fecha 28 de noviembre de 2023 y comprobante de envío por correos de chile de la misma fecha.
+
+5. Set de 12 Boletas de honorarios electrónicas emitidas por la demandante de enero a diciembre de 2023
+
+-Exhibición de documentos: La parte demandante exhibió en la audiencia de juicio los siguientes documentos, dando cumplimiento a la diligencia:
+
+1. Todas las boletas de Honorarios que emitió durante el periodo comprendido entre octubre de 2021 a diciembre de 2023.
+
+2. Cartola de cotizaciones previsiones de FONASA, a la cual está afiliado el demandante, en el periodo comprendido entre octubre de 2021 a diciembre de 2023, con información respecto al monto imponible sobre el cual se cotizo, la fecha de pago por cada periodo, y el Rut y nombre de la persona natural o jurídica que efectúo dicho pago.
+
+3. Cartola de cotizaciones previsiones de AFP PLAN VITAL en el periodo comprendido entre octubre de 2021 a diciembre de 2023, con información respecto al monto imponible sobre el cual se cotizo, la fecha de pago por cada periodo, y el Rut y nombre de la persona natural o jurídica que efectúo dicho pago.
+
+SEXTO: Que apreciadas las pruebas incorporadas por las partes conforma a las reglas de la sana crítica importando con ello tomar en especial consideración la gravedad, concordancia, multiplicidad y conexión de aquellos medios probatorios incorporados por los intervinientes al proceso permiten a este Tribunal tener por acreditados los siguientes hechos de la causa:
+
+a) Que la parte demandante suscribió un primer convenio a honorarios con la entidad demandada en el mes de octubre de 2021, con el fin de desempeñar la ejecución del “Catastro de actividades relacionadas con la seguridad pública, labores operativas dispuestas por la Dirección de Seguridad Vecinal y resguardo en los barrios del oriente y poniente de la comuna de Santiago”, asociado al Programa Dirección Seguridad Vecinal y Resguardo, dependiente del departamento de Administración y Comunicación de la Dirección de Prevención y Seguridad Comunitaria, cuya vigencia fue pactada entre el 06 de octubre y 31 de diciembre de 2021; hecho que se tiene por establecido con el mérito del convenio a honorario antes aludido, incorporado por ambas partes.
+
+b) Que la parte demandante suscribió dos convenios a honorarios con la entidad edilicia demandada durante los años 2022 y 2023, con el fin de desempeñar labores específicas de ejecución del “Análisis geoespacial y georreferenciado de información de delitos o incivilidades a nivel comunal y barrial de Santiago durante el año 2022 o 2023, respectivamente”, asociado al Programa Dirección Seguridad Vecinal y Resguardo, dependiente del departamento de Administración y Comunicación de la Dirección de Prevención y Seguridad Comunitaria, cuya vigencia fue pactada entre el 1° de enero y el 31 de diciembre de cada año; hecho que se tiene por acreditado con el mérito de la prueba documental incorporada por las partes consistente en cada uno de los respectivos contratos a honorarios suscritos entre las partes durante esa época, que dan cuenta de las funciones y periodos desempeñados, además de cada uno de los programas en los cuales participó;
+
+c) Que en los diversos contratos a honorarios suscritos entre las partes durante los años en que prestó servicios el actor para la entidad edilicia demandada, se estableció el pago de un honorario por el trabajo especificado que se comprometía a desempeñar la parte demandante, pagar como contraprestación la suma alzada que en cada uno fue establecido, debiendo emitir la correspondiente boleta de prestación de servicios e informe actividades debidamente visados por el Director respectiva; hecho que se tiene por acreditado en virtud de la documental incorporada por las partes consistente en los distintos instrumentos contractuales suscritos durante la vigencia de la prestación de servicios y de las boletas de honorarios antes aludidos, reafirmado con el mérito de la prueba testimonial rendida por la parte demandante.
+
+d) Que el promedio de honorarios percibidos por la parte demandante durante los últimos tres meses desempeñados en la entidad edilicia ascendían a la suma de $1.797.826; hecho que se tiene por establecido con el mérito de las boletas de honorarios emitidas por el actor durante los últimos meses de prestación de servicios, incorporadas por la ambas partes.
+
+e) Que con fecha 28 de diciembre de 2023, la entidad edilicia demandada comunicación por escrito al actor que el contrato vigente a esa época, concluía con fecha 31 de diciembre de 2023, por vencimiento del plazo vencido; hecho que no se encuentra controvertido entre las partes y, que se desprende del mérito del acta de notificación de terminación de servicios, incorporada por la parte demandada.
+
+f) Que entre los meses de octubre y diciembre de 2021 aparecen declaradas y enteradas cotizaciones de seguridad social a nombre del actor en AFP Plan Vital y AFC Chile por el empleador identificado como Corporación para el Desarrollo de Santiago; hecho que se tiene por establecido con el mérito de los certificados incorporados por la parte demandante.
+
+SEPTIMO: Que cabe tener presente que de conformidad a la controversia planteada en autos corresponde establecer o no la existencia del vínculo laboral que reclama la parte demandante en el libelo respecto de la entidad municipal demandada en el presente proceso. Al respecto cabe tener presente que la parte demandante plantea en su acción que el vínculo que lo unió con la municipalidad demandada fue continuo y en los términos contemplados por el legislador en el artículo 7° del Código del Trabajo. Por su parte la demandada evacuo el trámite de contestación de la demanda, controvirtiendo la naturaleza de los servicios, sosteniendo que el contrato suscrito por las partes y, que da origen a estos autos, no se encuentra regulado por las normas del Código del Trabajo, sino que conforme a lo dispuesto en el artículo 4° de la Ley 18.883, que aprueba el Estatuto Administrativo para Funcionarios Municipales, no tratándose de labores habituales de la entidad que representa, sino que sólo de servicios específicos, distintos y contenidos en el marco de programas y/o proyectos específicos, tal como lo autoriza el artículo 4° del Estatuto citado.
+
+Al efecto, ha quedado establecido como un hecho de la causa, que la parte demandante suscribió un primer convenio a honorarios con la entidad demandada en el mes de octubre de 2021, con el fin de desempeñar la ejecución del “Catastro de actividades relacionadas con la seguridad pública, labores operativas dispuestas por la Dirección de Seguridad Vecinal y resguardo en los barrios del oriente y poniente de la comuna de Santiago”, asociado al Programa Dirección Seguridad Vecinal y Resguardo, dependiente del departamento de Administración y Comunicación de la Dirección de Prevención y Seguridad Comunitaria, cuya vigencia fue pactada entre el 06 de octubre y 31 de diciembre de 2021. Luego durante los años 2022 y 2023 la parte demandante suscribió dos convenios a honorarios con la entidad edilicia demandada, con el fin de desempeñar labores específicas de ejecución del “Análisis geoespacial y georreferenciado de información de delitos o incivilidades a nivel comunal y barrial de Santiago durante el año 2022 o 2023, respectivamente”, asociado al mismo Programa antes individualizado, cuya vigencia fue pactada entre el 1° de enero y el 31 de diciembre de cada año, estableciendo como fecha de termino del último convenio el día 31 de diciembre de 2023.
+
+OCTAVO: Que a mayor abundamiento, cabe tener presente que del mérito de los convenios a honorarios suscritos de manera anual en general entre las partes, salvo el primer convenio, quedó plenamente establecida la función que desarrollaría la parte demandante en cada Programa en específico para el cual fue contratado, sin que describieran con exactitud otras funciones ni proyectos distintos, -como pretendió sostener la parte demandante en el libelo haber participado y/o realizando labores no encomendadas a requerimiento de su jefatura-, resultando insuficiente al efecto el mérito de la prueba testimonial rendida por su parte al efecto, atendido que se trata de un ex funcionario de la entidad demandada, Jean Paul Piña Veas, quien declaró que desempeñó funciones junto al actor, sin embargo, especifico el testigo que él desempeñó funciones entre los años 2018 a mediados de diciembre de 2021, no siéndole renovado el ultimo convenio a honorarios en esta ultima época, aclarando que con el actor trabajaron juntos el ultimo año y medio, un tiempo el actor como practicante y luego a honorarios, es decir, compartieron labores propiamente tales como funcionarios a honorarios durante la primera vinculación contratada respecto del actor, es decir, entre octubre y diciembre de 2021, no pudiendo con su declaración concluir que el actor efectivamente se encontrase sujeto a ordenes e instrucciones por parte de su jefatura ni a una jornada laboral como fue invocado en el libelo, ni de otros antecedentes que den cuenta real de una subordinación y dependencia durante todo el periodo desempeñado, mas aun teniendo presente las labores y/o cometidos específicos descritos en cada convenio pactado, no resultando suficiente por sí solo para tener por establecido que el actor si cumplía un vínculo de naturaleza laboral, atendido el hecho que cumpliera dicha jornada o tuviera derecho a hacer uso de beneficios que la ley le confiere a los funcionarios municipales, como vacaciones o días de permisos, o remitir informes de sus funciones a su Jefatura Directa, que fueron incorporados como prueba documental por la parte demandante, más bien dan cuenta de directrices normales impartidas en el cometido en particular, lo que no quiere decir que con el sólo mérito de dicha situación existan antecedentes probatorios suficientes de laboralidad como pretende la parte demandante, más aun si no ha podido acreditar la sujeción a algún tipo de control por parte de supervisión directa de algún superior de manera cierta y determinada, como es exigido por el Estatuto Laboral en su artículo 7°, por ende, sólo cabe concluir que se han reunido cabalmente de esa manera los requisitos contemplados por el legislador en el artículo 4° de la Ley N° 18.883 sobre Estatuto Administrativo para Funcionarios Municipales para proceder a la contratación de personal a honorarios, como es sostenido en el escrito de contestación de la demanda, más aun teniendo presente que durante los meses de octubre y diciembre de 2021 aparecen declaradas y enteradas cotizaciones de seguridad social a nombre del actor en AFP Plan Vital y AFC Chile por el empleador identificado como Corporación para el Desarrollo de Santiago, no haciéndose cargo en el libelo acerca de las circunstancias en que desempeñó servicios subordinados para dos empleadores en aquel periodo.
+
+NOVENO: Que a mayor abundamiento, cabe destacar, –tal como ya ha sido expresado en fallo anteriores por esta misma sentenciadora-, que el hecho que al actor de autos le haya sido reconocido el derecho a hacer uso de vacaciones legales y/o permisos con derecho a goce de remuneraciones y/o licencias médicas, u otros beneficios de dicha índole, no es óbice para alcanzar la misma conclusión señalada en el motivo precedente, atendido que sólo responde a la forma de regularizar la contratación bajo la figura a honorarios utilizada por la entidad edilicia demandada, atendido que el propio Estatuto Administrativo para Funcionarios Municipales, posibilita el otorgamiento de determinados beneficios a las personas contratadas bajo las diversas condiciones que acepta dicho marco regulatorio, sin embargo, en el caso de autos no ha podido ser acreditado por la parte demandante, -como en otros causas seguidos ante diversas entidades edilicias-, que dicha contratación efectivamente haya sido para encubrir una verdadera relación de carácter laboral o bien que sus servicios contratados eran necesarios para el funcionamiento de la entidad municipal demandada, para su cometido habitual, cuestión que ha sido absolutamente desvirtuado y, que como ya ha sido expresado los medios probatorios incorporados por la parte demandante tampoco alteran en nada lo antes concluido, sino que permite mantener la conclusión antes alcanzada en el sentido de que los servicios requeridos por el actor por la entidad demandada fueron respecto de un Proyecto en específico de dicho municipalidad en cada uno de los años de contratación y fuera de su marco habitual de funcionamiento y no permanentes en el tiempo, por lo que se procederá al rechazo integro de la acción.
+
+DECIMO: Que la prueba ha sido analizada conforme a las reglas de la sana crítica, de conformidad a lo establecido en el artículo 456 del Código del Trabajo.
+
+DECIMO PRIMERO: Que estimándose que la parte demandante tuvo motivos plausibles para litigar, no se la condenará en costas.
+
+Por estas consideraciones y visto lo dispuesto en los artículos 1, 2, 3, 7, 8, 9, 58, 63, 67, 162, 172, 173, 425 y siguientes, 456 y 459 del Código del Trabajo, se resuelve:
+
+I.- Que se RECHAZA, en todas sus partes, la demanda interpuesta por el abogado Pedro Ignacio Peña Sánchez, en representación de don DAVID IGNACIO STUARDO PÉREZ en contra de la ILUSTRE MUNICIPALIDAD DE SANTIAGO.
+II.- Que no se condena en costas a la parte demandante, por estimar que tuvo motivos plausibles para litigar.
+
+Se ordena el registro y archivo en su oportunidad de la presente causa.
+
+RIT O-41-2024
+
+RUC 24-4-0539385-5
+
+Dirigió doña Andrea Paola Soler Merino, Jueza Titular del Segundo Juzgado de Letras del Trabajo de Santiago.
