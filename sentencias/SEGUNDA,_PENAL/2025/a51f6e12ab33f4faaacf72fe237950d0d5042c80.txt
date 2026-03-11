@@ -1,0 +1,88 @@
+METADATA
+
+case_id: a51f6e12ab33f4faaacf72fe237950d0d5042c80
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7967377
+
+rol: 53060-2025
+
+fecha_sentencia: 2025-12-19
+
+caratulado: CONDALES GUEVARA ANTONIO JOSE CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, diecinueve de diciembre de dos mil veinticinco.
+
+A los alegatos solicitados en escrito folio N°5: atento a lo dispuesto por el Auto Acordado sobre la forma de conocimiento del recurso de Apelación de los Recursos de Amparo ante esta Corte Suprema, registrado en el Acta N° 105-2024 de esta Excma. Corte Suprema, publicado con fecha 17 de mayo de 2024, y no habiéndose justificado suficientemente la necesidad de escuchar alegatos en atención al derecho invocado, no ha lugar.
+
+Vistos:
+
+Previa eliminación de sus considerandos séptimo a décimo y teniendo únicamente presente la ausencia de un acto ilegal en la decisión pronunciada por el Juzgado de Garantía de Lebu como tampoco en la decisión que confirmó la imposición de la condición establecida en la letra c ) del artículo 17 Ter de la Ley 18.216, se confirma la sentencia apelada de dos de diciembre de dos mil veinticinco, pronunciada por la Corte de Apelaciones de Chillán, en el ingreso N°356-2025.
+
+Acordada con el voto en contra de la Ministra Sra. Letelier y del abogado integrante Sr. Ferrada, quienes fueron del parecer de rechazar el recurso de amparo entablado por resultar improcedente su promoción respecto de la decisión pronunciada por una Corte de Apelaciones, toda vez que mediante dicho derrotero se vulnera la regla del grado o jerarquía.
+
+Regístrese y devuélvase.
+
+Rol N°54588-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Chillán, dos de diciembre de dos mil veinticinco.
+
+Visto:
+
+1°.- Que, comparecen los abogados don Ernesto Ochoa Cid, y don Juan Carlos Casanova Faúndez, por los amparados, don Jorge Ignacio Araneda Vásquez y don Jerson Giovanni Horias Mendoza, quienes deducen recurso de amparo en contra de la resolución de fecha 21 de noviembre de 2025 dictada por la segunda sala de la Iltma. Corte de Concepción, integrada por las ministras suplentes señora Jimena Cecilia Troncoso Sáez, señora Margarita Elena Sanhueza Núñez y señora Claudia Andrea Vilches Toro, la cual, rechazó la apelación presentada en favor de los amparados en causa Penal-1710-2025, por considerar que la resolución dictada con fecha 17 de octubre de 2025, en causa RIT 108-2025, por el Juzgado de Garantía de Lebu, que -sin debate previo y sin la debida fundamentación- en el marco de un procedimiento abreviado con pena sustitutiva, impuso la medida del artículo 17 ter letra c), respecto de los acusados se ajustaba a derecho, no siendo procedente decretar la medida de la letra d) del artículo 17 ter de la Ley 18216, decidiendo, entonces que, los amparados, además de la pena de libertad vigilada intensiva, debían cumplir por efecto de las referidas medidas, del artículo 17 ter c), una privación de libertad en su domicilio por un máximo de 8 horas.
+
+En cuanto a los hechos, señalan, en síntesis, que, sus representados fueron formalizados por hechos ocurridos el 20 de febrero de 2025. Posteriormente, el 13 de octubre de 2025, el Ministerio Público formula acusación verbal, proponiendo un procedimiento abreviado, reconociendo atenuantes y solicitando penas dentro del presidio menor en su grado máximo, con accesorias y sin costas. Aceptado por los imputados tanto los hechos como el abreviado, la defensa solicita la aplicación del mínimo de las penas y la pena sustitutiva de Libertad Vigilada Intensiva, acreditando antecedentes personales, sociales, psicológicos, académicos y laborales, sin oposición de la Fiscalía al tratarse de un acuerdo.
+
+Añade que, ese mismo día, el tribunal dicta veredicto condenatorio, deja sin efecto las cautelares y fija la lectura de sentencia para el 17 de octubre de 2025, fecha en que condena conforme al acuerdo y otorga la pena sustitutiva de Libertad Vigilada Intensiva. Sin embargo, se impone la condición del artículo 17 ter letra c), consistente en un encierro domiciliario de hasta ocho horas diarias, sin debate previo y apartándose de la práctica habitual, que utiliza la condición de la letra d). Frente a ello, presentan un recurso de aclaración o rectificación, estimando un error de copia, pero es rechazado el 21 de octubre por una jueza distinta, quien señala que no existe punto oscuro que aclarar. En consecuencia, se interpone recurso de apelación únicamente respecto de la imposición de la letra c), por resultar incompatible con la naturaleza de la Libertad Vigilada Intensiva y especialmente perjudicial tratándose de un estudiante y un trabajador.
+
+Indican que, durante la vista de la causa del 17 de noviembre de 2025 ante la Corte de Apelaciones de Concepción, exponen que la jueza de primera instancia no llamó a debate sobre la aplicación del artículo 17 ter, lo que impidió que las partes se pronunciaran. Pese a ello, la presidenta de la sala insiste en preguntar si la defensa solicitó alguna medida específica, reiterándose que no existió debate alguno por omisión del tribunal. Finalmente, el 21 de noviembre, la Segunda Sala rechaza el recurso. En su considerando 5°, reprocha a la defensa no haber solicitado oportunamente una medida concreta, sin atender que el tribunal no abrió debate. En los considerandos 6° a 8°, justifica la medida impuesta sin considerar los antecedentes personales, sociales, académicos ni laborales de los sentenciados.
+
+Sostienen que la decisión de la Corte de Apelaciones recurrida desconoce la correcta aplicación de las normas pertinentes, al interpretar erróneamente el artículo 17 ter en relación con los artículos 1° y siguientes de la Ley N° 18.216, cuyo texto y finalidad exigen que las condiciones impuestas en una Libertad Vigilada Intensiva se ajusten al caso particular de cada sentenciado. A su juicio, el razonamiento de la Segunda Sala de la Ilustrísima Corte vulnera lo dispuesto en el artículo 21 de la Constitución, al no abordar el fondo de la acción y omitir los antecedentes personales de los sentenciados, que justificaban la aplicación de la condición de la letra d) del artículo 17 ter de la Ley N° 18.216, y no una más gravosa.
+
+Agrega que la resolución, al mantener la condición de la letra c) en lugar de la letra d) del artículo 17 ter de la Ley N° 18.216, basada en una argumentación parcial y jurídicamente incorrecta, vulnera garantías constitucionales y afecta el derecho a la libertad de los amparados. Ello porque se sostiene de manera errónea, que una reclusión parcial domiciliaria sería más favorable que los programas formativos, sin considerar los relevantes antecedentes personales, educativos y laborales de los sentenciados. Como resultado, impone, junto a la libertad vigilada intensiva, una reclusión domiciliaria excesiva y carente de fundamento, que implica una privación indebida de su libertad ambulatoria. Destacando que la recurrida en su fundamentación transgrede disposiciones legales que, en materia penal deben ser interpretadas siempre de manera restrictiva y en favor de los penados, considerándose toda interpretación distinta, contraria a derecho e ilegal.
+
+Finalmente, pide a esta Corte que se acoja la presente acción, restableciendo el imperio del derecho, dejando sin efecto, por ser arbitraria e ilegal, la resolución que confirma lo resuelto por el Juzgado de Garantía de Lebu, en la causa RIT 108 – 2025, y en su lugar se resuelva que se sustituye la condición de la letra c, por la de la letra d) del artículo 17 ter de la ley 18.216, respecto de ambos amparados, en el marco de la pena sustitutiva de libertad vigilada intensiva, de acuerdo a la ley 18216, otorgada por el Juzgado de Garantía de Lebu en RIT 108-2025, tal como se pidió, en las peticiones concretas. En subsidio, se ordene anular lo obrado y se disponga que el Juzgado de Lebu debe citar a audiencia especialmente convocada al efecto a fin de, previo debate, resolver la aplicación de alguna de las medidas del artículo 17 ter de la ley 18216, respecto de los amparados.
+
+2°.- Que, al informar las señoras Jimena Cecilia Troncoso Sáez, Margarita Elena Sanhueza Núñez y Claudia Andrea Vilches Toro, ministras suplentes, miembros de la Segunda Sala de la I. Corte de Apelaciones de Concepción, señalan que en causa rol 1710-2025, del ingreso Penal de esta Corte, el 17 de noviembre en curso se procedió a la vista de los recursos de apelación interpuestos por las defensas de los imputados Jerson Giovanni Horias Mendoza y Jorge Ignacio Araneda Vásquez, en contra de la resolución del Juzgado de Letras y Garantía de Lebu, que en causa RIT 726- 2025 dictó sentencia definitiva el 17 de octubre de 2025, producto de un procedimiento abreviado, condenando a los acusados Jorge Ignacio Araneda Vásquez y Jerson Giovanni Horias Mendoza, a la pena de 3 años y 1 día de presidio menor en su grado máximo en calidad de autores del ilícito de Porte de Arma Hechiza, a la de 541 días de presidio menor en su grado medio y multa de 1 unidad tributaria mensual. La Sala por unanimidad, por medio de la resolución que transcriben, decidió confirmar la decisión apelada, por los motivos que en aquella se expresan.
+
+3º.- Que, el recurso de amparo tiene por objeto que todo individuo que se hallare arrestado, detenido o preso con infracción de lo dispuesto en la Constitución o en las leyes, pueda ocurrir a la magistratura a fin de que ésta ordene se guarden las formalidades legales y se adopten de inmediato las providencias que se juzguen necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado. El mismo recurso, en igual forma, puede ser deducido en favor de toda persona que ilegalmente sufra cualquiera otra privación, perturbación o amenaza en su derecho a la libertad personal y seguridad individual.
+
+4º.- Que, concordante con lo señalado en el considerando precedente, el recurso de amparo tiene como objeto restablecer el imperio del derecho ante cualquier perturbación, privación o amenaza en el ejercicio de la libertad personal y seguridad individual, que tenga como causa una actuación ilegal que afecte tales derechos fundamentales.
+
+5º.- Que la parte recurrente plantea que la decisión de la Iltma. Corte de Apelaciones de Concepción que confirmó, en lo apelado, la sentencia definitiva, dictada en un procedimiento abreviado, por el Juzgado de Letras de Letras y Garantía de Lebu y que impuso como condición de la libertad vigilada intensiva la contemplada en la letra c) del Artículo 17 de la Ley 18.216, vulnera ilegalmente la libertad personal de los amparados, por no haber sido objeto de debate, con lo que además se afectó su derecho a defensa.
+
+Por su parte, la Corte recurrida informa que su resolución fue dictada dentro de sus atribuciones legales, se encuentra debidamente fundada y corresponde al ejercicio de sus facultades en el conocimiento del recurso de apelación, sin que exista ilegalidad o arbitrariedad alguna.
+
+6º.- Que, corresponde a esta Corte determinar si el acto recurrido, consistente en la resolución judicial que confirma la sentencia definitiva dictada en un procedimiento abreviado, en relación a la pena sustitutiva otorgada y sus condiciones, constituye una privación, perturbación o amenaza ilegal y arbitraria que afecte la libertad personal o la seguridad individual del amparado, según lo dispuesto en el artículo 21 de la Constitución Política de la República.
+
+7º.- Que primeramente debe señalarse que la decisión de conceder una pena sustitutiva y su modalidad de cumplimiento constituye el ejercicio de una facultad legal propia del Juez de Garantía, que puede ser revisada por la Corte de Apelaciones respectiva por medio del recurso de apelación, conforme a lo previsto en los artículos 414 del Código Procesal Penal y 37 de la Ley 18.216.
+
+8º.- Que en el presente caso el recurrente ejerció precisamente el recurso de apelación en contra de la resolución del Juzgado de Letras y Garantía de Lebu, el que fue conocido por la Corte de Apelaciones de Concepción en la audiencia de 17 de noviembre del año en curso y resuelto por sentencia de 21 de noviembre por las razones latamente expuestas en ella y que fue debidamente notificada a los intervinientes.
+
+9°.- Que, el recurso de amparo constituye, como se ha sostenido, una acción de carácter cautelar, de aplicación estricta y excepcional, que solo debe prosperar en la medida que se acredite el quebrantamiento ilegal del derecho fundamental que tutela, lo que en la especie no ocurre, pues lo que se persigue es la revisión de una resolución judicial dictada por el tribunal competente, dentro del ámbito de sus atribuciones, luego de haber oído los planteamientos de los intervinientes en la vista de la causa y que se encuentra debidamente fundada.
+
+10°.- Que resulta palmario que la acción constitucional de amparo enderezada en contra de una sala de la Corte de Apelaciones de Concepción pretende más bien que un tribunal de la misma jerarquía efectúe un nuevo examen de cuestiones de fondo que ya han sido conocidas y resueltas por los tribunales competentes y en las oportunidades procesales establecidas por el legislador, lo que excede la naturaleza de esta cautela constitucional.
+
+En consecuencia, el presente recurso debe ser desestimado.
+
+Por estas consideraciones, y visto lo dispuesto en el artículo 21 de la Constitución Política de la República, y los artículos 17 y siguientes del Auto Acordado de la Excma. Corte Suprema sobre Tramitación del Recurso de Amparo, se rechaza el recurso de amparo interpuesto por los abogados Ernesto Ochoa Cid y Juan Carlos Casanova Faúndez, por los amparados, Jorge Ignacio Araneda Vasquez y Jerson Giovanni Horias Mendoza, en contra de la resolución dictada por la Segunda Sala de la Iltma. Corte de Apelaciones de Concepción.
+
+Regístrese, notifíquese, y ejecutoriada esta sentencia, comuníquese esta resolución por la vía más expedita.
+Redacción a cargo de la Ministra Titular señora Érica Pezoa Gallegos.
+
+ROL N°356-2025 – AMPARO
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, diecinueve de diciembre de dos mil veinticinco.A los alegatos solicitados en escrito folio N°5: atento a lo dispuesto por el Auto Acordado sobre la forma de conocimiento del recurso de Apelación de los Recursos de Amparo ante esta Corte Suprema, registrado en el Acta N° 105-2024 de esta Excma. Corte Suprema, publicado con fecha 17 de mayo de 2024, y no habiéndose justificado suficientemente la necesidad de escuchar alegatos en atención al derecho invocado, no ha lugar.Vistos:Previa eliminación de sus considerandos séptimo a décimo y teniendo únicamente presente la ausencia de un acto ilegal en la decisión pronunciada por el Juzgado de Garantía de Lebu como tampoco en la decisión que confirmó la imposición de la condición establecida en la  letra c ) del artículo 17 Ter de la Ley 18.216, se confirma la sentencia apelada de dos de diciembre de dos mil veinticinco, pronunciada por la Corte de Apelaciones de Chillán, en el ingreso N°356-2025. Acordada con el voto en contra de la Ministra Sra. Letelier y del abogado integrante Sr. Ferrada, quienes fueron del parecer de rechazar el recurso de amparo entablado por resultar improcedente su promoción respecto de la decisión pronunciada por una Corte de Apelaciones, toda vez que mediante dicho derrotero se vulnera la regla del grado o jerarquía.Regístrese y devuélvase.Rol N°54588-2025. Santiago, diecinueve de diciembre de dos mil veinticinco.A los alegatos solicitados en escrito folio N°5: atento a lo dispuesto por el Auto Acordado sobre la forma de conocimiento del recurso de Apelación de los Recursos de Amparo ante esta Corte Suprema, registrado en el Acta N° 105-2024 de esta Excma. Corte Suprema, publicado con fecha 17 de mayo de 2024, y no habiéndose justificado suficientemente la necesidad de escuchar alegatos en atención al derecho invocado, no ha lugar.Vistos:Previa eliminación de sus considerandos séptimo a décimo y teniendo únicamente presente la ausencia de un acto ilegal en la decisión pronunciada por el Juzgado de Garantía de Lebu como tampoco en la decisión que confirmó la imposición de la condición establecida en la letra c) del artículo 17 Ter de la Ley 18.216, se confirma la sentencia apelada de dos de diciembre de dos mil veinticinco, pronunciada por la Corte de Apelaciones de Chillán, en el ingreso N°356-2025.Acordada con el voto en contra de la Ministra Sra. Letelier y del abogado integrante Sr. Ferrada, quienes fueron del parecer de rechazar el recurso de amparo entablado por resultar improcedente su promoción respecto de la decisión pronunciada por una Corte de Apelaciones, toda vez que mediante dicho derrotero se vulnera la regla del grado o jerarquía.Regístrese y devuélvase.Rol N°54588-2025. Sentencia anonimizada

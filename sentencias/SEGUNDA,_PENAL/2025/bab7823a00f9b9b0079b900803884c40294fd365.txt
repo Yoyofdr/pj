@@ -1,0 +1,69 @@
+METADATA
+
+case_id: bab7823a00f9b9b0079b900803884c40294fd365
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7967452
+
+rol: 44342-2025
+
+fecha_sentencia: 2025-12-19
+
+caratulado: C/ EDWIN ALEJANDRO CACERES VERDEJO
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de nulidad
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: RECHAZA RECURSO DE NULIDAD (M)
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, diecinueve de diciembre de dos mil veinticinco.
+
+Vistos:
+
+Se confirma la sentencia apelada de veintiséis de noviembre de dos mil veinticinco, pronunciada por la Corte de Apelaciones de Valparaíso, en el ingreso N°4496-2025.
+
+Regístrese y devuélvase.
+
+Rol N°53064-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Llg
+
+C.A. de Valparaíso.
+Valparaíso, veintiséis de noviembre de dos mil veinticinco.
+
+Visto:
+
+A folio 1, comparece Ernesto Manríquez Mendoza, abogado, quien interpone acción de amparo constitucional en favor de Joseph Wisberne, haitiano, cédula de identidad para extranjeros 25.621.389-3, en contra del Servicio Nacional de Migraciones, por la reconducción que le afecta debido al impedimento de ingresar a Chile. El recurrente argumenta que esta actuación es arbitraria e ilegal.
+
+Expone que obtuvo residencia en Chile, primero temporal y luego definitiva, y que durante ese periodo nació su hijo Wensky Joseph Dorvilson en Melipilla, el 28 de octubre de 2018, de nacionalidad chilena. Señala que, pensando en aprovechar el parole humanitario de los Estados Unidos, salió de Chile por paso no habilitado. Tras el fracaso de esa postulación, decidió volver para encontrarse con su hijo y la madre del menor, pero su entrada fue impedida por personal de la Policía de Investigaciones de Chile, encontrándose actualmente en el Aeropuerto Arturo Merino Benítez. El recurrente sostiene que el no permitir su entrada, existiendo un hijo chileno, constituye una vulneración al derecho a residir en Chile, y a su libertad personal y seguridad individual, consagradas en el artículo 19 número 7 letras a) y b) de la Constitución Política de la República. Agrega que la medida resulta desproporcionada. Solicita que se ordene al Servicio Nacional de Migraciones permitir la entrada del amparado en régimen de ingreso condicionado, para que pueda encontrarse con su hijo y realizar los trámites necesarios para regularizar su permanencia. Acompaña documentos como el certificado de nacimiento y control de niño sano de su hijo.
+
+A folio 6, el Servicio Nacional de Migraciones evacua informe, solicitando el rechazo del recurso en todas sus partes, ya que no se configuran los presupuestos constitucionales ni legales para su interposición.
+
+Sostiene la recurrida que no existe controversia de que la persona extranjera egresó del territorio nacional por un paso no habilitado, a pesar de ser titular de un permiso de residencia definitiva. Si bien la residencia definitiva permite el ingreso y egreso sin requerir autorización previa, debe realizarse siempre a través de pasos habilitados, conforme al artículo 78 inciso final de la Ley 21.325. Refiere que, según consta en el Certificado de Impedimento de Ingreso al País número 1490/2025 de la Policía de Investigaciones de Chile, la persona extranjera se encuentra en la circunstancia prevista en el artículo 127 número 1 en relación con el artículo 32 número 3 de la Ley 21.325, por haber egresado del territorio nacional por un paso no habilitado eludiendo el control migratorio, lo que configura una prohibición de ingreso imperativa. Concluye que la prohibición de ingreso aplicada no es resultado de una medida arbitraria o ilegal, sino de la aplicación estricta de la normativa migratoria vigente.
+
+A folio 7, se trajeron los autos en relación.
+
+Con lo relacionado y considerando:
+
+Primero: Que, el recurso de amparo es un proceso de tutela urgente del derecho fundamental a la libertad personal y seguridad individual, establecido en el artículo 19 número 7 de la Constitución Política de la República, que es procedente en aquellos casos en que una persona fuere arrestada, detenida o sufra cualquier otra privación, perturbación o amenaza al derecho fundamental antes aludido.
+
+Segundo: Que, por esta vía cautelar, se cuestiona el impedimento de ingreso y la reconducción del amparado dispuesta por la Policía de Investigaciones de Chile del Aeropuerto Internacional de Santiago Arturo Merino Benítez, en base a que el actor egresó del país por paso no habilitado, lo que constituye una causal imperativa de prohibición de ingreso de conformidad con el artículo 32 número 3 de la Ley número 21.325.
+
+Tercero: Que, el citado artículo 32 de la Ley número 21.325 si bien no exige que exista un procedimiento administrativo debidamente tramitado y concluido, no está al margen de las reglas generales del debido proceso legal, lo que se ve reforzado por lo dispuesto en el artículo 140 del mismo cuerpo legal que señala que frente a la interposición de recursos, los efectos de las decisiones administrativas quedan suspendidos, todo lo cual en la especie no se verificó respecto del amparado, bastándose en la información que habría aportado el mismo, en cuanto a que salió del país por un paso no habilitado, elemento insuficiente para fundar la causal que se invoca por la recurrida, considerando además de los antecedentes acompañados que el amparado tiene un hijo de nacionalidad chilena, Wensky Joseph Dorvilson, nacido en Melipilla en el año 2018, lo cual da cuenta de su arraigo familiar.
+
+Cuarto: Que, la decisión de impedir el ingreso al país del amparado, forzando su reconducción y manteniéndolo en el aeropuerto, afecta el derecho a su libertad personal y de circulación, resultando dicha decisión sin sustento legal, razón por la cual se acogerá el presente recurso.
+
+Por estas consideraciones, y visto además lo dispuesto en el artículo 21 de la Constitución Política de la República y Auto Acordado de la Excelentísima Corte Suprema sobre la materia, se acoge, sin costas, el recurso de amparo deducido a favor de Joseph Wisberne, en contra del Servicio Nacional de Migraciones y, en consecuencia, se ordena que la Policía de Investigaciones de Chile, Departamento de Migraciones y Policía Internacional, debe permitir el ingreso del amparado al territorio nacional.
+Regístrese, comuníquese por la vía más expedita y, en su oportunidad, archívese.
+
+N°Amparo-4496-2025.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+LlgC.A. de Valparaíso.Valparaíso, veintiséis de noviembre de dos mil veinticinco.Visto:A folio 1, comparece Ernesto Manríquez Mendoza, abogado, quien interpone acción de amparo constitucional en favor de Joseph Wisberne, haitiano, cédula de identidad para extranjeros 25.621.389-3, en contra del Servicio Nacional de Migraciones, por la reconducción que le afecta debido al impedimento de ingresar a Chile. El recurrente argumenta que esta actuación es arbitraria e ilegal.Expone que obtuvo residencia en Chile, primero temporal y luego definitiva, y que durante ese periodo nació su hijo Wensky Joseph Dorvilson en Melipilla, el 28 de octubre de 2018, de nacionalidad chilena. Señala que, pensando en aprovechar el parole humanitario de los Estados Unidos, salió de Chile por paso no habilitado. Tras el fracaso de esa postulación, decidió volver para encontrarse con su hijo y la madre del menor, pero su entrada fue impedida por personal de la Policía de Investigaciones de Chile, encontrándose actualmente en el Aeropuerto Arturo Merino Benítez. El recurrente sostiene que el no permitir su entrada, existiendo un hijo chileno, constituye una vulneración al derecho a residir en Chile, y a su libertad personal y seguridad individual, consagradas en el artículo 19 número 7 letras a) y b) de la Constitución Política de la República. Agrega que la medida resulta desproporcionada. Solicita que se ordene al Servicio Nacional de Migraciones permitir la entrada del amparado en régimen de ingreso condicionado, para que pueda encontrarse con su hijo y realizar los trámites necesarios para regularizar su permanencia. Acompaña documentos como el certificado de nacimiento y control de niño sano de su hijo.A folio 6, el Servicio Nacional de Migraciones evacua informe, solicitando el rechazo del recurso en todas sus partes, ya que no se configuran los presupuestos constitucionales ni legales para su interposición.Sostiene la recurrida que no existe controversia de que la persona extranjera egresó del territorio nacional por un paso no habilitado, a pesar de ser titular de un permiso de residencia definitiva. Si bien la residencia definitiva permite el ingreso y egreso sin requerir autorización previa, debe realizarse siempre a través de pasos habilitados, conforme al artículo 78 inciso final de la Ley 21.325. Refiere que, según consta en el Certificado de Impedimento de Ingreso al País número 1490/2025 de la Policía de Investigaciones de Chile, la persona extranjera se encuentra en la circunstancia prevista en el artículo 127 número 1 en relación con el artículo 32 número 3 de la Ley 21.325, por haber egresado del territorio nacional por un paso no habilitado eludiendo el control migratorio, lo que configura una prohibición de ingreso imperativa. Concluye que la prohibición de ingreso aplicada no es resultado de una medida arbitraria o ilegal, sino de la aplicación estricta de la normativa migratoria vigente.A folio 7, se trajeron los autos en relación.Con lo relacionado y considerando:Primero: Que, el recurso de amparo es un proceso de tutela urgente del derecho fundamental a la libertad personal y seguridad individual, establecido en el artículo 19 número 7 de la Constitución Política de la República, que es procedente en aquellos casos en que una persona fuere arrestada, detenida o sufra cualquier otra privación, perturbación o amenaza al derecho fundamental antes aludido.Segundo: Que, por esta vía cautelar, se cuestiona el impedimento de ingreso y la reconducción del amparado dispuesta por la Policía de Investigaciones de Chile del Aeropuerto Internacional de Santiago  Arturo Merino Benítez, en base a que el actor egresó del país por paso no habilitado, lo que constituye una causal imperativa de prohibición de ingreso de conformidad con el artículo 32 número 3 de la Ley número 21.325.Tercero: Que, el citado artículo 32 de la Ley número 21.325  si bien no exige que exista un procedimiento administrativo debidamente tramitado y concluido, no está al margen de las reglas generales del debido proceso legal, lo que se ve reforzado por lo dispuesto en el artículo 140 del mismo cuerpo legal que señala que frente a la interposición de recursos, los efectos de las decisiones administrativas quedan suspendidos, todo lo cual en la especie no se verificó respecto del amparado, bastándose en la información que habría aportado el mismo, en cuanto a que salió del país por un paso no habilitado, elemento insuficiente para fundar la causal que se invoca por la recurrida, considerando además de los antecedentes acompañados que el amparado tiene un hijo de nacionalidad chilena, Wensky Joseph Dorvilson, nacido en Melipilla en el año 2018, lo cual da cuenta de su arraigo familiar.Cuarto: Que, la decisión de impedir el ingreso al país del amparado, forzando su reconducción y manteniéndolo en el aeropuerto, afecta el derecho a su libertad personal y de circulación, resultando dicha decisión sin sustento legal, razón por la cual se acogerá el presente recurso.Por estas consideraciones, y visto además lo dispuesto en el artículo 21 de la Constitución Política de la República y Auto Acordado de la Excelentísima Corte Suprema sobre la materia, se acoge, sin costas, el recurso de amparo deducido a favor de Joseph Wisberne, en contra del Servicio Nacional de Migraciones y, en consecuencia, se  ordena que la Policía de Investigaciones de Chile, Departamento de Migraciones y Policía Internacional, debe permitir el ingreso del amparado al territorio nacional. Regístrese, comuníquese por la vía más expedita y, en su oportunidad, archívese.N°Amparo-4496-2025.                        ⚠                      Sin documento en esta instancia - pdf

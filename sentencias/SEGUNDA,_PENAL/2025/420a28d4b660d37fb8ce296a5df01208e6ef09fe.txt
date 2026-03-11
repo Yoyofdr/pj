@@ -1,0 +1,1322 @@
+METADATA
+
+case_id: 420a28d4b660d37fb8ce296a5df01208e6ef09fe
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7967251
+
+rol: 53059-2025
+
+fecha_sentencia: 2025-12-19
+
+caratulado: FILS-AIME HARRYSSON CONTRA SERVICIO NACIONAL DE. MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, diecinueve de diciembre de dos mil veinticinco.
+
+VISTO Y TENIENDO PRESENTE:
+
+Primero: Que en este procedimiento ordinario tramitado ante el Undécimo Juzgado Civil de Santiago, caratulado ¿Capriles con Pavez¿, se ha ordenado dar cuenta de la admisibilidad del recurso de casación en el fondo deducido por la parte demandante en contra de la sentencia dictada por la Corte de Apelaciones de esta ciudad, que, en lo que interesa al recurso, confirmó el fallo de primer grado con declaración que se rechaza la demanda, con costas.
+
+Segundo: Que, el recurrente de nulidad acusa la infracción de los artículos 67 del Código de Procedimiento Civil y 1684 del Código Civil toda vez que la escritura pública de adjudicación en remate fue suscrita fuera del plazo judicial fatal establecido en las bases de remate de manera que el sentenciador estaba obligado a acoger su solicitud de declarar la nulidad de dicho acto.
+
+Tercero: Que el artículo 772 del Código de Enjuiciamiento Civil, en armonía con lo previsto en los artículos 764 y 767 del citado cuerpo legal, exige, como sustento de la invalidación de la sentencia impugnada, el quebrantamiento de una o más normas legales contenidas en la decisión. Por ello, es menester que al interponer un recurso con tal objeto su promotor deba cumplir necesariamente con lo exigido por el precepto en análisis, esto es, expresar en qué consisten él o los errores de derecho de que adolece la sentencia recurrida.
+
+Además del cumplimiento del requisito enunciado en el párrafo precedente, con idéntica rigurosidad el mismo artículo 772 aludido impone a quien interponga un recurso de casación en el fondo la obligación de señalar, de manera circunstanciada, en el respectivo escrito, el modo en que él o los errores de derecho que denuncia han influido sustancialmente en lo dispositivo de la sentencia que trata de invalidar. Por ende, la exigencia señalada no se agota con la simple indicación de las normas conculcadas, sino que requiere además un desarrollo argumentativo en torno a los yerros de derecho que acusa.
+
+Cuarto: Que, al enfrentar lo expuesto precedentemente con el recurso de casación en el fondo en estudio, se concluye indefectiblemente que carece de los requerimientos legales exigibles para su interposición pues, como ya se señaló, si bien indica ciertas disposiciones que a su juicio han sido infringidas, lo cierto es que no desarrolla la manera en que estas han sido transgredidas.
+
+Atento a lo expresado, resulta inconcuso que el recurso que se analiza, en lo que dice relación con las normas que lo sustentan, carece de razonamientos concretos y precisos dirigidos a demostrar los errores de derecho en que habrían incurrido los sentenciadores lo que no se condice con la exigencia impuesta por el legislador, razón por la cual la nulidad intentada no se acogerá a tramitación.
+
+Y de conformidad además con lo dispuesto en los artículos 767 y 782 del Código de Procedimiento Civil, se declara inadmisible el recurso de casación en el fondo interpuesto por el abogado Mauricio Baalatbeer Barriga, en representación de la parte demandante, en contra de la sentencia de veintitrés de octubre de dos mil veinticinco, pronunciada por la Corte de Apelaciones de Santiago.
+
+Al folio N° 5: a todo, estese a lo resuelto a folio 4.
+
+Al folio N° 6: téngase presente.
+
+Regístrese y devuélvase.
+
+Nº 50.986-2025
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Santiago, veintitrés de octubre de dos mil veinticinco.
+
+Vistos:
+
+En estos antecedentes rol ingreso Corte 4916-2023 Civil, correspondiente al rol C-18.222-2020 del Undécimo Juzgado Civil de Santiago, en autos sobre acción de nulidad de adjudicación y tradición de inmueble, en procedimiento ordinario de mayor cuantía, el abogado don Mauricio Baalatbeer Barriga, por la parte demandante deduce recurso de apelación en contra de la sentencia definitiva de veinticuatro de febrero de dos mil veintitrés, mediante la cual se acogió la excepción de cosa juzgada deducida por los demandados, sin condenar en costas a la parte demandante.
+
+En cuanto al recurso de apelación deducido por la defensa de la parte demandante, explica que la sentencia recurrida yerra al acoger la excepción de cosa juzgada, ya que la resolución interlocutoria previa en que se respalda la cosa juzgada, dictada por el Séptimo Juzgado Civil de Santiago en proceso ejecutivo Rol C-14.971-2016, caratulado "Fisco-Tesorería Regional Metropolitana con Capriles", el 27 de febrero de 2017, sólo rechaza al demandante un incidente de nulidad en que se cuestionaba la validez procedimental del otorgamiento y suscripción formal y temporal de la escritura pública de adjudicación en remate sub-lite, por ende, no se pronunció sobre el fondo de la litis materia de estos autos ni menos sobre la validez del contenido de la escritura pública de adjudicación en remate. Solamente declara la improcedencia de la incidencia, lo que es confirmado por el tribunal de alzada.
+
+Sostiene que doctrinariamente, no hay triple identidad en cuanto a los elementos que configuran la institución jurídico -procesal de la cosa juzgada. En efecto, entre la incidencia promovida por su parte en el juicio ejecutivo anterior ya referido y la acción rescisoria deducida en estos autos, si bien concurren las mismas partes (el demandante como ejecutado y en este proceso como actor; el demandado como tercero adjudicatario del inmueble subastado y en estos autos como demandado), lo pedido procesalmente, en cuanto causa y cosa, es diferente. Incidentalmente ante el Séptimo Juzgado Civil de Santiago se solicitó la nulidad de una diligencia procesal y en este juicio se pide, vía acción ordinaria, la nulidad del contenido de una escritura pública de adjudicación de inmueble en remate, en cuanto título habilitante para efectuar la tradición de un inmueble objeto de venta forzada. Esto último por incurrirse en el vicio manifiesto de error sustantivo al haberse extendida, otorgada y suscrita esta escritura pública una vez vencido, extinguido o precluido el plazo - judicial y fatal - establecido al efecto en las bases del remate y no haberse ejercido por el demandado directamente interesado en la materia el derecho ampliatorio del mismo establecido en el artículo 67 del Código de Procedimiento Civil.
+
+Expone que contrariamente a lo establecido en la sentencia recurrida, en el ejercicio por su parte de la acción de nulidad de escritura pública no rige el plazo de caducidad de cinco días, establecido en el artículo 83 del Código de Procedimiento Civil para promover Incidencias de nulidad, sino el plazo para demandar la rescisión o nulidad relativa, por vía ordinaria, la que al haberse interpuesto oportunamente por esta parte no ha recibido objeción de eventual prescripción por la demandada.
+
+Finalmente, en cuanto al requisito de perjuicio para que opere en el caso la nulidad relativa impetrada por esta parte, éste se encuentra presente y constituido por el hecho procesal, público y notorio, de que el demandante se vio privado de su dominio sobre un inmueble por efecto directo de un título y subsecuente tradición afectos a nulidad relativa por el vicio de Error en su plazo judicial y fatal de otorgamiento, perjuicio que ha sido reservado en su determinación, para la fase de ejecución de la sentencia, que obviamente acoja este recurso.
+
+En definitiva, solicita que se revoque la sentencia apelada y en su lugar acoger, con costas, la demanda de nulidad de escritura pública de adjudicación en remate y subsecuente tradición de inmueble deducida en autos por esta parte.
+
+Considerando:
+Se reproduce la sentencia en alzada, con excepción de la frase que comienza con: “…Sostener lo contrario y concluye con la palabra procesal.”, en el primer párrafo del considerando Duodécimo.
+
+Asimismo, se elimina el párrafo segundo del motivo Duodécimo.
+
+Y teniendo, además, presente:
+
+Primero: Que el recurrente afirma que la sentencia del tribunal del fondo yerra al acoger la excepción de cosa juzgada, ya que la resolución interlocutoria previa en que se respalda la cosa juzgada, dictada el 27 de febrero de 2017, por el Séptimo Juzgado Civil de Santiago en proceso ejecutivo Rol C-14.971-2016, caratulado "Fisco-Tesorería Regional Metropolitana con Capriles", sólo rechaza al demandante un incidente de nulidad en que se cuestionaba la validez procedimental del otorgamiento y suscripción formal y temporal de la escritura pública de adjudicación en remate sub-lite, por ende, no se pronunció sobre el fondo de la litis materia de estos autos ni menos sobre la validez del contenido de la escritura pública de adjudicación en remate. Solamente declara la improcedencia de la incidencia, lo que es confirmado por el tribunal de alzada.
+
+Solicitando en definitiva revocar la sentencia apelada y en su lugar acoger, con costas, la demanda de nulidad de escritura pública de adjudicación en remate y subsecuente tradición de inmueble deducida en autos por su parte.
+Segundo: Que para resolver lo que viene propuesto, resulta útil recordar que el instituto de la cosa juzgada pretende evitar un pronunciamiento judicial sobre un asunto ya resuelto, para así asegurar la certidumbre jurídica y la estabilidad de los derechos, estableciéndose por nuestra legislación la excepción perentoria anómala contemplada en el artículo 310 del Código Adjetivo.
+
+En efecto, tal como lo sostiene el recurrente al impetrar el recurso, esta Corte comparte que la resolución de 27 de febrero de 2017, dictada por el Séptimo Juzgado Civil de Santiago en proceso ejecutivo Rol C-14.971-2016, caratulado "Fisco-Tesorería Regional Metropolitana con Capriles", no resolvió en el fondo la incidencia de nulidad de escritura pública de adjudicación en remate promovido en dicho proceso, sino que no le dio lugar, por estimarla deducida en forma extemporánea, resolución que posteriormente fue confirmada por esta Corte, por ende, en ningún caso puede concluirse que ha existido pronunciamiento de fondo de la cuestión debatida y que ha formado parte de las pretensiones de la recurrente, utilizando diversas vías y/o acciones en ambos procesos, lo que conlleva al rechazo de la excepción de cosa juzgada opuesta, en todas sus partes.
+
+Tercero: Que con relación a la oportunidad y plazo de interposición de la acción de nulidad de escritura pública incoada, cabe tener presente que esta se encuentra sustentada, -según se desprende de la lectura del libelo que rola a fojas 1-, en que la escritura pública de adjudicación de la propiedad que fue rematada en el proceso tramitado ante el tribunal antes aludido, fue suscrita recién el 19 de enero de 2017, es decir, fuera del plazo de cuarenta días hábiles otorgado en su oportunidad por tribunal en que fue seguida la causa ejecutiva en su contra, sin embargo, estima que debió ser otorgada en el plazo de treinta hábiles originalmente otorgados y, tratándose de un plazo fatal y judicial, conlleva a la nulidad absoluta del acto que da cuenta.
+
+En efecto, esta Corte no comparte que el plazo judicial otorgado por el tribunal a quo en el proceso tramitado ante el Séptimo Juzgado Civil de Santiago, tenga el carácter de fatal, menos aun que pueda llevar a la configuración del vicio pretendido por el recurrente, lo que se ve reafirmado por lo resuelto en el referido proceso ejecutivo frente a la misma solicitud y que fue objeto de análisis con ocasión de la excepción de cosa juzgada recién analizada.
+
+Cuarto: Que, por otro lado, esta Corte comparte los fundamentos expuestos en la sentencia recurrida en el motivo Undécimo, al concluir que: “…es indudable que el demandante perdió y/o se extinguió a su respecto, a facultad de poder renovar dicha alegación por vía incidental o principal como la pretendida en esta demanda.”; en virtud del análisis que efectúa en la motivación anterior del plazo para impetrar la nulidad procesal de conformidad a lo establecido en el artículo 83 del Código de Procedimiento Civil; nulidad que debió alegar en su oportunidad, dentro del plazo contemplado en la norma legal recién citada en el proceso ejecutivo seguido en su contra y en donde finalmente resultó rematado el inmueble que era de su propiedad, no pudiendo pretender hacer revivir la discusión a través de la acción de autos, atendido que los vicios denunciados no son tales y no configuran los errores esenciales que acusa en el libelo de autos.
+
+Quinto: Que, los fundamentos y conclusiones antes alcanzados se ven reafirmados con el hecho que el propio recurrente validó cualquier vicio que pudiese haber existido en la tramitación del proceso ejecutivo seguido en su contra ante el Séptimo Juzgado Civil de Santiago, en causa Rol C-14.971-2016, caratulado "Fisco-Tesorería Regional Metropolitana con Capriles", al constar en dicho proceso que el 26 de junio de 2020, -antes de la interposición de la acción de autos- el recurrente solicitó el giro de cheque por el saldo del remate por un total de $624.400, es decir, validando lo actuado en dicho proceso, sin perjuicio que le fuera negada su solicitud al tratarse la suma pretendida de las costas del juicio y no de una suma a favor del solicitante, por ende, solo cabe concluir que debe ser desechada cada una de las alegaciones expuestas en la apelación impetrada por la demandante y, en consecuencia, de la acción incoada, en todas sus partes.
+
+Por estas consideraciones y de acuerdo, además, con lo dispuesto en el artículo 186 y siguientes del código de la materia, se revoca, la sentencia apelada de veinticuatro de febrero de dos mil veintitrés, pronunciada por el 11° Juzgado Civil de Santiago, en cuanto acogió la excepción de cosa juzgada opuesta por los demandados y, en su lugar se declara que se la rechaza.
+
+En lo demás, se confirma la referida sentencia, con declaración, que se rechaza la acción impetrada a fojas 1 por Robinson Benjamín Capriles Cornejo en contra de Santiago Abel Ceballos Valenzuela y de Sociedad Inmobiliaria Belén Limitada, en todas sus partes, con costas.
+
+Regístrese y devuélvase.
+
+Redactada por la ministra suplente Andrea Soler Merino.
+
+Rol N°4916-2023 Civil.
+
+Pronunciada por la Décima Tercera Sala de la Corte de Apelaciones de Santiago integrada con los ministros Patricio Martínez Benavides, Claudia Lazen Manzur y Andrea Soler Merino.
+
+No firma el ministro Patricio Martínez Benavides por encontrarse ausente.
+
+No firma la ministra (S) Andrea Soler Merino por haber cesado en sus funciones como ministra (S).
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+NOMENCLATURA : 1. [40]Sentencia
+JUZGADO : 11º Juzgado Civil de Santiago
+CAUSA ROL : C-18222-2020
+CARATULADO : CAPRILES/PAVEZ
+
+Santiago, veinticuatro de febrero de dos mil veintitrés.
+
+Visto:
+
+Que, compareció don Robinson Benjamín Capriles Cornejo,
+
+pensionado, domiciliado en Avenida La Paz 1011, comuna de Recoleta,
+
+quien dedujo demanda en procedimiento ordinario de mayor cuantía, a fin
+
+de obtener la declaración de nulidad de la escritura pública de la
+
+adjudicación de inmueble en remate y nulidad de la tradición del dominio del
+
+mismo ante el Registro Conservatorio de Bienes Raíces de Santiago en
+
+contra de don Santiago Abel Ceballos Valenzuela, empresario; de la
+
+Sociedad Inmobiliaria Belén Limitada, representada por doña Pablina del
+
+Carmen Pavez Moya, comerciante y de don Pedro Pavez Moya, abogado,
+
+todos domiciliados en calle Agustinas N°1442, torre B, oficina 302, comuna
+
+de Santiago, a fin de que se invalide dicha escritura pública de adjudicación,
+
+disponiendo la cancelación al margen de la matriz respectiva y la
+
+cancelación de la inscripción de dominio de fojas 10.330, número 14.865,
+
+del año 2017, en el Registro de Propiedad del Conservador de Bienes
+
+Raíces de Santiago, con indemnización de perjuicios y con costas.
+
+Expuso que en su calidad de anterior propietario del inmueble ubicado
+
+en calle Loa N°7661, comuna de Las Condes, inscrito a fojas 75.173,
+
+número 120.033, del año 2007, en el Registro de Propiedad del
+
+Conservador de Bienes Raíces de Santiago y con motivo de haber sido
+
+objeto de un procedimiento ejecutivo seguido en su contra por el Fisco de
+
+Chile, ante el 7° Juzgado Civil de Santiago, en la causa rol C-14971-2016,
+
+en dicho proceso se produjo el remate del inmueble ya señalado, el 8 de
+
+noviembre de 2016.
+
+Refirió que en dicho remate los adjudicatarios fueron Sebastián Ceballo en
+
+un 50%, Inmobiliaria Belén Limitada en un 25% y, finalmente, Inmobiliaria
+
+Kairos en un 25%. Esta última transfirió sus derechos a don Pedro Pavez
+
+Moya.
+
+Código: XQVDXDXVDEY
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Indicó que, posteriormente, la escritura pública de adjudicación se
+
+suscribió el 19 de enero de 2017, ante la Notario Público doña María
+
+Soledad Santos Muños, repertorio N°997-2017, siendo inscrito el dominio a
+
+nombre de los adjudicatarios a fojas 10330,número 14865, año 2017, del
+
+Registro de propiedad del Conservador de Bienes Raíces de Santiago. A su
+
+vez la cesión de los derechos de Inmobiliaria Kairos a don Pedro Pavez se
+
+encuentra inscrita a fojas 76785, número 111794, año 2019, en el mismo
+
+registro de propiedad.
+
+En cuanto a los vicios que denuncia, sostuvo que la escritura pública
+
+de adjudicación en remate, en tanto instrumento público, como en su
+
+calidad de título para efectuar la tradición del inmueble, adolece de nulidad
+
+absoluta o al menos relativa, invalidando también la tradición del inmueble
+
+practicada por el Conservador de Bienes Raíces de Santiago, por cuanto,
+
+esta se extendió una vez expirado el plazo establecido para ello en las
+
+bases de remate.
+
+Hizo presente que en el proceso ejecutivo ya mencionado, el 20 de
+
+julio de 2026, se tuvieron por aprobadas las bases de remate,
+
+estableciéndose en la cláusula quinta que el plazo para suscribir la escritura
+
+pública de adjudicación será de 30 días hábiles contados desde que quede
+
+ejecutoriada la resolución que ordene extender dicha escritura. Luego, el
+
+remate fue realizado el 8 de noviembre de 2016.
+
+Posteriormente, el 22 de noviembre de 2016 el 7° Juzgado Civil de
+
+Santiago, ordenó que se extendiera la escritura pública de adjudicación, con
+
+citación, formulando oposición a su respecto, lo que finalmente fue resuelto
+
+el 26 de diciembre de 2016, lo que produjo que se ampliara el plazo para
+
+extender la escritura a 40 días hábiles con citación, resolución que quedó
+
+firme y ejecutoriada en el acto.
+
+Destacó, con base a lo anterior, que el plazo judicial y fatal para la
+
+extensión de la escritura, expiró fatal e irrevocablemente el décimo día hábil
+
+contado desde el 30 de diciembre de 2016, exactamente el miércoles 11 de
+
+enero de 2017.
+
+Código: XQVDXDXVDEY
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+No obstante ello, si se omitiera del cómputo del plazo los días sábados,
+
+el plazo había expirado de igual forma con anterioridad, es decir, el viernes
+
+13 de enero del año 2017.
+
+Alegó que consta tanto en la escritura de adjudicación como en la
+
+inscripción de dominio que dio lugar, que esta solo se extendió en la Notaría
+
+Santos, el jueves 19 de enero de 2017, situación de hecho que es solo
+
+imputable en su extemporaneidad a los adjudicatarios demandados,
+
+quienes dispusieron de tiempo más que suficiente al efecto para realizarlo.
+
+Concluye que, de este modo, la escritura de adjudicación en remate es
+
+nula por haberse incurrido manifiestamente en un error, dado que se
+
+extendió vencido el plazo judicial y fatal para la validez del instrumento
+
+mismo y se infringieron las normas de orden público del plazo fijado por el
+
+tribunal y lo establecido en el artículo 67 del Código de Procedimiento Civil.
+
+Adicionalmente, arguyó que la escritura es rescindible por la causal de
+
+“error esencial en la identidad de uno de los adjudicatarios” (sic). En efecto,
+
+en el acta de remate se señaló como uno de ellos a Santiago Abel Ceballo
+
+Valenzuela, en circunstancias que su identidad real es Santiago Abel
+
+Ceballos Valenzuela, como aparece en la escritura pública.
+
+Señaló que los vicios ameritan la declaración de nulidad de este
+
+instrumento público y la tradición del inmueble, por cuanto, le ha causado
+
+perjuicios manifiestos de carácter patrimonial y moral, toda vez que por esa
+
+escritura se vio privado de irregularmente del dominio, posesión y derecho
+
+personal de habitación del inmueble su blite.
+
+En cuanto a los perjuicios, refirió que se reserva su discusión y
+
+determinación, para la fase de ejecución de la sentencia.
+
+Por escrito de 5 de marzo de 2021, compareció don Pedro Alfonso
+
+Pavez Moya, por sí y en representación de don Santiago Abel Ceballos
+
+Valenzuela y de Inmobiliaria Belén Limitada, quien opuso la excepción de
+
+cosa juzgada, por existir sentencia interlocutoria firme y ejecutoriada en la
+
+materia.
+
+Fundó su resistencia en el hecho que en el juicio ejecutivo donde fue
+
+subastada la propiedad ubicada en calle Rio Loa N° 7661, de la Comuna de
+
+Las Condes, tramitado ante el 7° Juzgado Civil de Santiago, caratulados
+
+Código: XQVDXDXVDEY
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+“Fisco con Capriles”, Rol C-14.971-2016, don Robinson Benjamín Capriles
+
+Cornejo a través de sus diferentes apoderados interpuso una multitud de
+
+incidentes entre los cuales se opuso en primer lugar a la extensión de la
+
+escritura y luego solicitó la “nulidad de escritura pública de adjudicación” en
+
+lo principal del escrito presentado con fecha 17/02/2017 y que el referido
+
+Tribunal, resolvió con fecha 27/02/2017, rechazando varios recursos de
+
+reposición y en lo pertinente señala: “A fojas 148: A lo Principal; no ha lugar
+
+por extemporáneo. Al primer otrosí: No ha lugar por improcedente”
+
+Destacó que ante el rechazo de su pretensión el señor Capriles Cornejo
+
+a través de sus abogados apeló dicha resolución con fecha 3 de marzo de
+
+2017, sin embargo el fallo fue confirmado por la Ilustrísima Corte de
+
+Apelaciones de Santiago.
+
+Por lo que, de los hechos expuestos se puede apreciar que concurren
+
+las mismas partes, causa de pedir y objeto pedido.
+
+En cuanto a las partes, indicó que hay identidad física de personas,
+
+pues en ambos juicios, el presente y el realizado ante el 7° Juzgado Civil de
+
+Santiago involucran a las mismas partes adjudicatarias.
+
+En lo que respecta a la identidad de cosa pedida, en el presente juicio y
+
+el realizado ante el 7° Juzgado Civil de Santiago don Robinson Capriles
+
+solicita nulidad de escritura pública de adjudicación.
+
+Luego, en relación a la causa de pedir, sostuvo que en ambos juicios
+
+don Robinson Capriles argumenta que la escritura de adjudicación en
+
+remate fue supuestamente suscrita fuera de plazo.
+
+En subsidio, contestó la demandada solicitando su total rechazo, por
+
+cuanto la demandada resulta absolutamente improcedente y extemporánea,
+
+así como todos los pseudos recursos que interpuso el demandante durante
+
+años entorpeciendo la tramitación de la causa donde se remató el inmueble
+
+de su propiedad por deudas que mantenía con el Fisco de Chile y con el
+
+Banco BCI. En efecto, don Robinson Benjamín Capriles Cornejo interpuso
+
+innumerables incidentes en reiteradas oportunidades, sin embargo, cada
+
+uno de estos incidentes y sus apelaciones fueron rechazados por el 7°
+
+Juzgado Civil de Santiago, y la mayoría de las apelaciones fueron
+
+Código: XQVDXDXVDEY
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+declaradas inadmisibles por no cumplir los requisitos legales y los recursos
+
+de hecho fueron rechazados.
+
+Por otra parte, sus representadas, en cumplimiento de todas sus
+
+obligaciones como compradoras y de acuerdo a lo estipulado en las bases
+
+del remate debidamente aprobadas por el referido Tribunal, se procedió a
+
+suscribir la correspondiente escritura pública de compraventa en remate,
+
+inscribiéndose posteriormente el dominio a sus nombres en el Registro de
+
+Propiedad del Conservador de Bienes Raíces de Santiago.
+
+En consecuencia, lo que sigue pretendiendo el demandante es solicitar
+
+la nulidad de una escritura, que ya fue rechazada por el propio Tribunal que
+
+subastó el inmueble en una venta forzada, en la cual se cumplieron todos
+
+los requisitos exigidos por la ley para que la enajenación sea válida, no
+
+existiendo ningún vicio.
+
+El 14 de abril de 2021 el demandante evacuó el traslado a la
+
+excepción opuesta y evacuó el trámite de réplica.
+
+Respecto a la excepción de cosa juzgada, solicitó el rechazo de la
+
+misma, refiriendo que en la materia específica de la acción de autos, esto
+
+es, nulidad de fondo de escritura pública de adjudicación, no hubo
+
+pronunciamiento judicial en el proceso citado, ni en la sentencia de remate
+
+ni en los fallos de apelación y casación emitidos por los Tribunales
+
+Superiores y Corte Suprema, por cuanto, dicha alegación necesariamente
+
+debe realizarse en procedimiento ordinario y nunca por vía de resolver
+
+incidentes en proceso ejecutivo como señala el demandado.
+
+En cuanto a la réplica, reitera lo ya expuesto en su demanda, en los
+
+hechos y en el derecho, agregando que los demandados no se hacen cargo
+
+en forma alguna y ni siquiera se pronuncian sobre el fundamento central de
+
+la demanda de nulidad de escritura pública de adjudicación y de la
+
+subsecuente tradición del dominio, cuál es el otorgamiento y suscripción del
+
+instrumento público estando ya expirado el plazo judicial y fatal establecido
+
+al efecto.
+
+Mediante escrito de 27 de abril de 2021, los demandados evacuaron el
+
+trámite de dúplica, señalando que el demandante de autos al hacer alusión
+
+a la nulidad de fondo se está refiriendo a la nulidad absoluta o relativa, las
+
+Código: XQVDXDXVDEY
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+que ya fueron solicitadas en su oportunidad procesal, y fueron rechazadas
+
+por el tribunal competente que conoció de aquellas pretensiones, como ya
+
+se ha argüido en la contestación de la demanda.
+
+Por otro lado, en cuanto a que la escritura pública de adjudicación en
+
+remate, fue suscrita por el Juez Civil, en representación legal del
+
+demandado y en total ausencia del ejecutado, no es efectivo, pues el
+
+demandante de autos en todo el procedimiento del remate se hizo presente,
+
+como ya se señaló en la contestación, interponiendo todo tipo de incidentes,
+
+a través de recursos de reposición y apelación ante el 7° Juzgado Civil de
+
+Santiago, en los autos Rol C-14.971-2016.
+
+Sostuvo que la presente demanda es del todo temeraria, dado que, además
+
+de que existe una resolución que se encuentra firme y ejecutoriada por un
+
+tribunal competente respecto de los mismos hechos que alega la
+
+demandante en el presente juicio, la contraparte con fecha 26 de junio de
+
+2020 en la causa donde se remató el inmueble, solicitó el giro de cheque del
+
+saldo del precio de la subasta. Es decir, el demandante luego de haberse
+
+pagado la totalidad del precio del remate por los adjudicatarios, solicitó el
+
+excedente que existía en su favor, entonces a esta parte le cabe la pregunta
+
+¿cómo es posible estar demandando la nulidad de la escritura de
+
+adjudicación en remate, cuando el ejecutado solicitó el saldo disponible en
+
+la cuenta corriente del tribunal?, es decir, el actor con su presentación
+
+convalidó el supuesto vicio de nulidad que ahora está alegando.
+
+En consecuencia, lo que parece pretender el demandante en
+
+definitiva es la nulidad del remate que se realizó ante el 7° Juzgado Civil de
+
+Santiago, lo cual ya fue rechazado en su oportunidad por el Tribunal
+
+competente, atendido que se cumplió con todos los requisitos legales para
+
+la validez de la subasta pública.
+
+El 22 de octubre de 2021, se llevó a cabo la audiencia de conciliación, la
+
+que se tuvo por frustrada por no alcanzar un acuerdo entre las partes.
+
+Por resolución de 26 de octubre de 2021, se recibió la causa a
+
+prueba, fijándose como hechos sustanciales, pertinentes y controvertidos
+
+los siguientes:
+
+Código: XQVDXDXVDEY
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+1. Efectividad de haber sido el demandante el anterior propietario del
+
+inmueble ubicado en calle Loa N° 7661, comuna de Las Condes.
+
+2. Antecedentes del proceso ROL C-14971-2016, seguido ante el 7°
+
+Juzgado Civil de Santiago. Estado procesal del mismo.
+
+3. Contenido de escritura pública de adjudicación del inmueble de
+
+marras y fecha de suscripción de la misma.
+
+4. Existencia, naturaleza y origen de los perjuicios alegados por la
+
+demandante.
+
+Encontrándose la causa en estado, mediante resolución de 2 de
+
+marzo de 2022, se citó a las partes a oír sentencia.
+
+Considerando:
+
+Primero: Que ha comparecido don Robinson Benjamín Capriles
+
+Cornejo, quien dedujo demanda en procedimiento ordinario de mayor
+
+cuantía, de nulidad de escritura pública de la adjudicación de inmueble en
+
+remate y nulidad de la tradición del dominio del mismo ante el Registro
+
+Conservatorio de Bienes Raíces de Santiago, en contra de Santiago Abel
+
+Ceballos Valenzuela, de la Sociedad Inmobiliaria Belén Limitada,
+
+representada por doña Pablina del Carmen Pavez Moya, y de don Pedro
+
+Pavez Moya, a fin de que se invalide la escritura pública de adjudicación,
+
+disponiendo la cancelación al margen de la matriz respectiva y la
+
+cancelación de la inscripción de dominio de fojas 10.330, número 14.865,
+
+del año 2017, en el Registro de Propiedad del Conservador de Bienes
+
+Raíces de Santiago, con indemnización de perjuicios, con costas.
+
+Fundamentó su demanda en los antecedentes de hecho y de derecho
+
+expuestos en la parte expositiva de esta sentencia.
+
+Segundo: Que comparecieron los demandados oponiendo la
+
+excepción de cosa juzgada, fundada en el hecho que en el juicio ejecutivo
+
+donde fue subastada la propiedad, ya se emitió un pronunciamiento
+
+respecto a lo solicitado en autos, existiendo las mismas partes, causa de
+
+pedir y objeto pedido.
+
+En subsidio, solicitaron el rechazo de la demanda, ya que, lo que
+
+sigue pretendiendo por el demandante es solicitar la nulidad de una
+
+escritura pública, que ya fue rechazada por el propio Tribunal que subastó el
+
+Código: XQVDXDXVDEY
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+inmueble en una venta forzada, en la cual se cumplieron todos los requisitos
+
+exigidos por la ley para que la enajenación sea válida, no existiendo ningún
+
+vicio.
+
+Tercero: Que conforme a las reglas de la carga de la prueba, es inconcuso
+
+que incumbe probar las obligaciones o su extinción a quien alega aquellas o
+
+éstas, de conformidad a lo dispuesto en artículo 1698 del Código Civil.
+
+Cuarto: Que antes de adentrarnos al fondo de la acción deducida,
+
+corresponde determinar, como punto de partida de la alegación de los
+
+demandados, si en el caso se dan los supuestos sobre cosa juzgada
+
+alegada.
+
+Quinto: Que, como primera cuestión, cabe señalar que el artículo
+
+175 del Código de Procedimiento Civil establece: Las sentencias definitivas
+
+o interlocutorias firmes producen acción o la excepción de cosa juzgada.
+
+En cuanto a la excepción de cosa juzgada, esta encuentra su
+
+regulación en el artículo 177 del Código de Procedimiento Civil. En efecto,
+
+sostiene la referida norma que:
+
+“La excepción de cosa juzgada puede alegarse por el litigante que
+
+haya obtenido en el juicio y para todos aquellos a quienes según la ley
+
+aprovecha el fallo, siempre que entre la nueva demanda y la anteriormente
+
+resuelta haya:
+
+1°Identidad legal de personas;
+
+2°Identidad de la cosa pedida; y
+
+3°Identidad de la causa a pedir;
+
+Se entiende por causa de pedir el fundamento inmediato del derecho
+
+deducido en juicio”.
+
+Sexto: Que con el objeto de acreditar la excepción en estudio, los
+
+demandados acompañaros al proceso los siguientes medios de prueba, a
+
+saber:
+
+1. Solicitud de nulidad de la escritura pública de adjudicación de fecha
+
+17/02/2017 presentada en causa Rol C-14.971-2016, del 7° Juzgado Civil
+
+de Santiago, caratulados “Fisco Con Capriles”;
+
+Código: XQVDXDXVDEY
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2. Resolución que rechazó la nulidad de la escritura de adjudicación
+
+de 27/02/2017; en causa Rol C-14.971-2016, del 7° Juzgado Civil de
+
+Santiago, caratulados “Fisco Con Capriles”;
+
+3. Escrito de apelación de la resolución que rechazó la nulidad de
+
+fecha 06/03/2017; presentada en causa Rol C-14.971-2016, del 7° Juzgado
+
+Civil de Santiago, caratulados “Fisco Con Capriles”;
+
+Rindió también prueba testifical, mediante la cual depusieron don
+
+Felipe Andrés Stevens Briones y doña Rossana Michelle Tapia Encina,
+
+quienes debidamente juramentados e interrogados, declararon que:
+
+Doña Rossana indicó que es efectivo que el demandante es el
+
+anterior propietario del inmueble, lo que le consta porque es corredora de
+
+propiedades y trabaja con Pedro Pavez, quien le comentó que adquirió el
+
+inmueble en un remate a finales de 2016 y, el demandado en esta causa y
+
+también en el juicio ejecutivo era el anterior dueño, que este intentó anular
+
+el remate, pero fue rechazado, además de intentar girar un cheque a su
+
+nombre lo que también fue rechazado.
+
+Por su parte, don Felipe Stevens, también sostuvo que el
+
+demandante era el dueño anterior del inmueble, lo que le consta porque
+
+presta esporádicamente servicios de cuidado de propiedades para Santiago
+
+Ceballos y él le comentó hace un par de años la posibilidad de realizar
+
+reparaciones menores en la propiedad en cuestión, lo que nunca se llevó a
+
+cabo ya que, el ex propietario se estaba querellando en su contra para
+
+impugnar el remate y anteriormente ya había perdido la propiedad.
+
+Indicó que el demandante está pidiendo al tribunal impugnar el
+
+remate de la propiedad de Loa 7661 y también le comentó al Sr. Ceballos
+
+que en su momento el tribunal rechazó todas las peticiones del
+
+demandante, cuando intentó anteriormente impugnar el remate y recuerda
+
+también que le comento que el demandante había sido demandado por el
+
+Fisco por una suma millonaria y perdió definitivamente la propiedad.
+
+Séptimo: Que, por su parte, la demandante, acompañó la siguiente
+
+prueba instrumental, no objetada de contrario:
+
+1. Copia de inscripción de dominio del inmueble de autos, emitido por
+
+el Conservador de Bienes Raíces de Santiago;
+
+Código: XQVDXDXVDEY
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2. Resolución de fecha 20 de julio 2016 en causa Rol C-14.971-2016,
+
+segunda ante el 7° Juzgado Civil de Santiago, en la que, se aprueban las
+
+bases de remate.
+
+3. Resolución de 22 de noviembre de 2016, en causa Rol C-14.971-
+
+2016, segunda ante el 7° Juzgado Civil de Santiago, donde se ordena
+
+extender la escritura pública de adjudicación en remate, con citación.
+
+4. Resolución de fecha 26 de diciembre de 2016 , en causa Rol C-
+
+14.971-2016, segunda ante el 7° Juzgado Civil de Santiago, que aumenta el
+
+plazo inicial para la extensión de la escritura pública de adjudicación en el
+
+remate sublite a 40 días hábiles, con citación.
+
+5. Copia de Acta de Adjudicación en Remate del inmueble sublite,
+
+realizada en proceso Rol C-14.971-2016, seguido ante el 7° Juzgado Civil
+
+de Santiago.
+
+6. Copia de Inscripción de dominio respecto del inmueble de autos, a
+
+nombre de la parte demandada, emanado del Conservador de Bienes
+
+Raíces de Santiago.
+
+7. Copia de escritura pública de compraventa en remate del inmueble
+
+sublite, suscrita el 19 de enero del año 2017 ante la Notario de Santiago
+
+doña María Santos Muñoz, por el Juez del Séptimo Juzgado Civil de
+
+Santiago en representación del demandante y asimismo por los
+
+demandados.
+
+Octavo: Que la institución de la cosa juzgada ha sido objeto de los
+
+más variados estudios por parte de destacados procesalistas. Sin embargo,
+
+es la doctrina moderna la que ha delimitado de manera más correcta esta
+
+institución jurídico - procesal, estableciendo sus principios básicos y efectos.
+
+Sobre el particular, se ha señalado que “el principio básico del que
+
+parte el concepto de cosa juzgada es el siguiente: Los juicios sólo deben
+
+realizarse una única vez. De donde se deriva que la cosa juzgada en una
+
+prohibición de reiteración de juicios. Ese fue el postulado en época de
+
+Hammurabi, ese era el postulado en época romana, y ese es y seguirá
+
+siendo el postulado del que la cosa juzgada partirá en todo caso.
+
+“La razón de ello es muy evidente, y puede resumirse de este modo:
+
+la seguridad jurídica requiere que sobre cada asunto solamente pueda
+
+Código: XQVDXDXVDEY
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+decidirse una única vez. La jurisdicción existe para dar fijeza y seguridad a
+
+las relaciones humanas conflictivas” (v. Nieva Fenoll, Jordi, La Cosa
+
+Juzgada, Editorial Atelier, Barcelona, 2006, pp. 119-120).
+
+A partir de lo expuesto, podemos concluir que la cosa juzgada, en
+
+tanto resistencia opuesta contra el nuevo juicio, importa una limitación al
+
+derecho, que por regla general tienen las partes para postular acciones de
+
+toda clase. En efecto, su objeto es impedir un nuevo pronunciamiento sobre
+
+materias en que ya ha recaído una decisión, reconociéndose un carácter
+
+inmutable a las decisiones jurisdiccionales, para lograr una efectiva
+
+seguridad jurídica que permitirá una completa certeza, “impidiendo la
+
+renovación indefinida de pleitos entre las partes sobre el mismo asunto”.
+
+(Corte Suprema, rol N°20.520-2018, de 14 de noviembre de 2019).
+
+Noveno: Que de los antecedentes aparejados al proceso y de la
+
+causa traída a la vista rol N° C-14971-2016, seguida ante el Séptimo
+
+Juzgado Civil de Santiago, es posible advertir que, efectivamente como
+
+alega el demandado, concurre la triple identidad.
+
+En efecto, si bien el juicio ejecutivo fue seguido entre partes diversas,
+
+lo cierto es que la incidencia de nulidad procesal planteada en dicha sede,
+
+involucra a las mismas partes de este proceso, concurriendo el demandante
+
+de autos como incidentista, mientras que los demandados como
+
+adjudicatarios.
+
+Como lo explica Calamandrei, se llama “partes” a los contendientes
+
+en el proceso, en el mismo sentido en que se habla de partes en todos los
+
+casos en que hay una contraposición de adversarios que compiten entre sí
+
+para la obtención de una victoria: en un duelo, en un torneo caballeresco, en
+
+una competición gimnástica, en una lucha política de partidos o facciones”.
+
+La doctrina ha señalado que para delimitar el concepto jurídico de
+
+parte, es necesario considerar algunas reglas fundamentales:
+
+a) Se tiene la calidad de parte en la relación procesal aun cuando el
+
+sujeto del proceso se mantiene distinto del que tiene la vinculación con el
+
+derecho sustancial, resultando perfectamente posible que en un proceso la
+
+demanda se proponga por quien (o contra quien) no está en realidad
+
+interesado en la relación sustancial controvertida. (…)
+
+Código: XQVDXDXVDEY
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+b) Es parte incluso el litigante rebelde, esto es, aquel demandado que
+
+adopta frente al proceso judicial una actitud pasiva después de su
+
+emplazamiento.
+
+c) Se adquiere la calidad de parte incluso aunque no exista un
+
+contraste efectivo de intereses en un determinado conflicto. (…)
+
+d) El proceso, en cuanto relación jurídica, debe desarrollarse entre
+
+personas concretas y determinadas, y no entre entes sin determinar. (…)
+
+e) Puede adquirir la calidad de parte la persona que, teniendo
+
+capacidad, carezca sin embargo de legitimación activa o pasiva.
+
+f) La calidad de parte la adquiere el representado y no el
+
+representante. Por lo mismo, el abogado no es parte en el proceso.
+
+g) También tienen la calidad de parte los terceros que
+
+voluntariamente o forzosamente intervienen en el proceso. Los límites de la
+
+intervención vienen dados por la norma de legitimación, que en cada caso
+
+les autoriza para participar en un juicio en el que originalmente no
+
+adquirieron la calidad de parte (Romero Seguel, Alejandro, La cosa juzgada
+
+en el proceso civil chileno. Doctrina y jurisprudencia, Editorial Jurídica de
+
+Chile, Santiago, 2012, pp. 58-62).
+
+En este escenario, es evidente que las mismas partes que litigan en
+
+autos, son las mismas que litigaron en las incidencias propuestas en el
+
+juicio ejecutivo sustanciado ante el 7° Juzgado Civil de Santiago, teniendo la
+
+misma legitimación jurídica, lo que permite dar por cumplido este requisito.
+
+Por otro lado, la cosa pedida tanto en el presente juicio, como en la
+
+incidencia planteada ante el 7° Juzgado Civil de Santiago, es la solicitud de
+
+la nulidad de escritura pública de adjudicación. La única diferencia es el
+
+mecanismo jurídico utilizado, ya que por una parte se solicitó por vía
+
+incidental, mientras que en estos autos se formuló por vía principal.
+
+En cuanto a la causa de pedir, el fundamento en que basó la
+
+demandante su incidencia de nulidad procesal en el juicio ejecutivo,
+
+coincide con la causa basal del libelo pretensor y que dice relación con
+
+haberse suscrito la escritura pública fuera del plazo establecido para ello.
+
+En suma, las partes, el objeto y la causa de pedir formulados en el
+
+incidente de nulidad procesal substanciado en el juicio ante el 7° Juzgado
+
+Código: XQVDXDXVDEY
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Civil de Santiago, son exactamente los mismos que los que se promovieron
+
+en esta causa.
+
+A fin de demostrar la conclusión anterior, resulta útil recurrir a la
+
+distinción entre causa de pedir y objeto pedido. Siguiendo a Alessandri
+
+Besa en esta materia, el concepto de causa utilizado por nuestro Código
+
+Civil según la mayor parte de la doctrina es la causa final, esto es, la
+
+intención jurídica que motivó a la persona a ejecutar el acto o contrato.
+
+(Alessandri Besa, Arturo, La Nulidad y la Rescisión en el derecho civil
+
+chileno, Volumen I, Editorial Jurídica de Chile, Santiago, p. 206).
+
+Por su parte, el artículo 177 del Código de Procedimiento Civil, a
+
+propósito de la excepción de cosa juzgada, nos dice que se entiende por
+
+causa de pedir el fundamento inmediato del derecho deducido en juicio.
+
+A su turno, la Corte Suprema ha sostenido que la causa de pedir se
+
+caracteriza por los hechos jurídicos en que se apoyan las peticiones que se
+
+proponen en el litigio. Dicho en otras palabras, es el fundamento
+
+determinante de la acción deducida en el juicio y se constituye por el hecho
+
+material o jurídico que crea y hace nacer el derecho deducido. En este
+
+contexto, la sentencia que falla una controversia, sólo obliga a quienes
+
+litigan con respecto al asunto discutido y, a la inversa, no obliga a quienes
+
+litigaron con respecto a asuntos no discutidos ni sentenciados. (Corte
+
+Suprema Rol N°4403-2006).
+
+Así las cosas, considerando que tanto la nulidad procesal solicitada
+
+por la vía incidental tiene como fundamento inmediato el mismo que la
+
+demanda interpuesta en autos, siendo la intención jurídica obtener la
+
+nulidad de la escritura pública de adjudicación en remate, se pueden tener
+
+por acreditados los requisitos de la triple identidad que hacen procedente la
+
+excepción de cosa juzgada deducida por los demandados.
+
+Décimo: Que, a mayor abundamiento, para una acertada resolución de la
+
+excepción de cosa juzgada, hay que precisar que la misma descansa en lo
+
+decidido en la causa C-14.971-2016, seguida ante el Séptimo Juzgado Civil
+
+de Santiago, sobre juicio ejecutivo; en cuya virtud se rechazó una incidencia
+
+de nulidad procesal fundada en los mismos antecedentes en que se hace
+
+Código: XQVDXDXVDEY
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+consistir la demanda de autos y que dicen relación con la suscripción
+
+extemporánea de la escritura pública de adjudicación en remate.
+
+En este punto, si bien existió un atraso de 7 días entre la prórroga
+
+concedida por resolución de 26 de diciembre de 2016 y la referida
+
+suscripción, lo cierto es que dicho vicio es de carácter meramente
+
+procedimental, desde que el plazo violentado fue establecido por el juez de
+
+la causa en el procedimiento ejecutivo.
+
+Ahora bien, habiéndose asentado que dicho plazo es judicial y que
+
+fue incumplido, el vicio no necesariamente importa la nulidad de la
+
+actuación realizada, ya que, es condición indispensable para la declaración
+
+de nulidad judicial, la existencia de un perjuicio.
+
+En el caso sub judice, la parte ejecutada, hoy demandante, interpuso
+
+un incidente de nulidad procesal en el juicio ejecutivo reclamando dicho
+
+incumplimiento. Sin embargo, por sentencia interlocutoria de 27 de febrero
+
+de 2017, dicho artículo fue rechazado por haber sido promovido de manera
+
+extemporánea, resolución que si bien fue objeto de un recurso de apelación,
+
+dicha decisión fue confirmada por el tribunal de alzada.
+
+En este escenario, la sentencia que rechazó la incidencia de nulidad,
+
+produce un doble efecto, por una parte, la cosa juzgada, que trae aparejada
+
+la prohibición de reiteración de juicios en que se cumpla la triple identidad,
+
+lo que ocurre en la especie, como se analizó previamente. En segundo
+
+lugar, se produce el efecto de saneamiento del vicio denunciado, por
+
+cuanto, la cosa juzgada tiene por virtud despojar de toda mácula al
+
+procedimiento sobre el que recae y, en consecuencia, no resulta admisible
+
+renovar por la vía de una acción ordinaria una discusión fundada en un vicio
+
+que ya quedó subsanado por el referido efecto, lo cual conduce a
+
+desestimar la pretensión del demandante en dicho extremo.
+
+Undécimo: Que si bien, el demandante al contestar el traslado de la
+
+excepción de cosa juzgada, señaló que no existe pronunciamiento judicial
+
+en el proceso, seguido en el Séptimo Juzgado Civil de Santiago, ni en la
+
+sentencia de remate ni en los fallos de apelación y casación emitidos por los
+
+Tribunales Superiores y Corte Suprema, dicha alegación será desoía.
+
+Código: XQVDXDXVDEY
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+En efecto, el artículo 83 del Código de Procedimiento Civil, establece
+
+en el inciso segundo que la nulidad sólo podrá impetrarse dentro de cinco
+
+días, contados desde que aparezca o se acredite que quien deba reclamar
+
+de la nulidad tuvo conocimiento del vicio, a menos que se trate de la
+
+incompetencia absoluta del tribunal. La parte que ha originado el vicio o
+
+concurrido a su materialización o que ha convalidado tácita o expresamente
+
+el acto nulo, no podrá demandar la nulidad. Es precisamente por aplicación
+
+de dicho precepto, que el juez de la causa ejecutiva desestimó la incidencia
+
+interpuesta y, no hizo un pronunciamiento en cuanto a las alegaciones de
+
+fondo.
+
+Hay que poner de relieve que, el inciso segundo del artículo 83 ya
+
+señalado, contiene una norma de caducidad respecto de la pretensión
+
+incidental de nulidad al emplear la expresión “sólo podrá impetrarse dentro
+
+de cinco días”. La caducidad, en sentido amplio, se define como “la pérdida
+
+o extinción de un derecho o una acción por el solo transcurso de un
+
+determinado plazo de tiempo, que ha sido previamente fijado”. Vencido
+
+dicho plazo, el derecho haya sido o no usado, se extingue o pierde.
+
+La caducidad tiene su correlato normativo en el inciso primero del
+
+artículo 64 del Código de Procedimiento Civil, norma que prescribe: Los
+
+plazos que señala este Código son fatales cualquiera sea la forma en que
+
+se exprese, salvo aquéllos establecidos para la realización de actuaciones
+
+propias del tribunal. En consecuencia, la posibilidad de ejercer un derecho o
+
+la oportunidad para ejecutar el acto se extingue al vencimiento del plazo.
+
+Dicha normativa consagra la denominada “preclusión procesal”, cuya
+
+finalidad es dar mayor precisión y rapidez en el desarrollo de los actos del
+
+proceso, a través de un cierto orden en el desarrollo del mismo, como lo
+
+sostiene Chiovenda. Agrega dicho autor italiano que mediante esta figura, la
+
+ley pone límites al ejercicio de determinadas facultades procesales, con la
+
+consecuencia siguiente: fuera de esos límites esas facultades ya no pueden
+
+ejercitarse. (Chiovenda Giuseppe, Instituciones del derecho procesal civil,
+
+V.III, Ed. Revista de derecho privado, Madrid, 1936, pp. 277-278).
+
+Duodécimo: Que, asentados los conceptos antes mencionados, es
+
+indudable que el demandante perdió y/o se extinguió a su respecto, a
+
+Código: XQVDXDXVDEY
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+facultad de poder renovar dicha alegación por vía incidental o principal
+
+como la pretendida en esta demanda. Sostener lo contrario dejaría en letra
+
+muerta la cosa juzgada, la caducidad y la preclusión procesal.
+
+Por lo antes razonado, es que se procederá a acoger la excepción de
+
+cosa juzgada, como se indicará en la parte resolutiva del presente fallo.
+
+Décimo tercero: Que sin perjuicio de lo anterior, en relación a la
+
+alegación de error esencial que efectúa el demandante, hay que precisar
+
+que el acta de remate tiene un doble carácter, por un lado, uno procesal y
+
+por el otro, civil, ya que ambos van unidos indisolublemente, por cuanto, en
+
+este caso, la nulidad procesal acarrea efectos civiles y, de haber existido el
+
+vicio que se denuncia, este fue convalidado tácitamente por el ejecutado,
+
+hoy demandante, al no haber alegado oportunamente su nulidad en el juicio
+
+ejecutivo, lo que conduce al rechazo de la alegación.
+
+Por otro lado, desde el punto de vista civil, alegó el vicio de error
+
+esencial, fundado en que en el acta de remate se señaló como uno de los
+
+adjudicatarios a don Santiago Abel Ceballo Valenzuela, en circunstancias
+
+que su identidad real es Santiago Abel Ceballos Valenzuela, como se indicó
+
+en la escritura pública de adjudicación.
+
+En primer lugar, cabe destacar que el yerro que denuncia es respecto
+
+del acta de remate, más no de la escritura que por esta vía pretende
+
+rescindir, por lo que, en caso alguno tendría dicho vicio el mérito de anular
+
+la mencionada escritura, en la cual se individualizó correctamente a los
+
+adjudicatarios.
+
+En segundo lugar, nuestro ordenamiento jurídico no contempla la
+
+figura alegada por el demandante, por cuanto, el error esencial contemplado
+
+en el artículo 1453 del Código Civil, dispone: “El error de hecho vicia el
+
+consentimiento cuando recae sobre la especie de acto o contrato que se
+
+ejecuta o celebra, como si una de las partes entendiese empréstito y la otra
+
+donación; o sobre la identidad de la cosa específica de que se trata, como
+
+si en el contrato de venta el vendedor entendiese vender cierta cosa
+
+determinada y, el comprador entendiese comprar otra”.
+
+Por consiguiente, el error esencial puede recaer sobre dos tipos de
+
+elementos del contrato: sobre la especie de acto o contrato que se ejecuta o
+
+Código: XQVDXDXVDEY
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+celebra, es decir, sobre la naturaleza jurídica misma del negocio, o sobre el
+
+objeto mismo de la convención, sobre la cosa que ha determinado la
+
+celebración del acto o contrato, pero en caso alguno contempla el error
+
+alegado por el demandante en la identidad de quienes celebran el acto o
+
+contrato, por lo que su alegación resulta del todo improcedente.
+
+Por otro lado, si bien nuestro ordenamiento ha establecido en el
+
+artículo 1455 del Código Civil, el error en la persona, este por regla general
+
+no vicia el consentimiento, salvo que la consideración de esta persona sea
+
+la causa principal del contrato, lo que no ocurre en la especie, al tratarse de
+
+una adjudicación en remate y por otro lado, porque la omisión de la letra “s”
+
+en el apellido de uno de los adjudicatarios es un error completamente
+
+irrelevante, que en caso alguno obsta a la validez del acto. Es más, no hay
+
+duda respecto de la identidad del adjudicatario, por cuanto el acta contiene
+
+el rol único nacional (RUN) del adjudicatario, el cual corresponde al número
+
+identificatorio único e irrepetible que posee todo chileno, residente o no en
+
+Chile, y de todo extranjero que permanezca, temporal o definitivamente, con
+
+una visa distinta a la visa de turista en dicho país, no pudiendo la omisión
+
+alegada dificultar la identificación de la persona del adjudicatario ni mucho
+
+menos tener la entidad de invalidar el acto, todo lo cual, conlleva a
+
+desestimar la alegación.
+
+Décimo cuarto: Que no obstante haber sido vencido totalmente el
+
+demandante, no se le condenará al pago de costas por estimar que tuvo
+
+motivo plausible para litigar.
+
+Por estas consideraciones, normas legales citadas y visto, además lo
+
+dispuesto en los artículos además, lo dispuesto en los artículos 1451 y
+
+siguientes del Código Civil, 144, 160, 170, 175, 177, 254 y siguientes del
+
+Código de Procedimiento Civil, se decide:
+
+I. Que se acoge la excepción de cosa juzgada deducida por los
+
+demandados.
+
+II. Que no se condena en costas a la parte demandante.
+
+Regístrese, notifíquese y archívese en su oportunidad.
+
+Pronunciada por don Patricio Hernández Jara, Juez Titular.
+
+Código: XQVDXDXVDEY
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Se deja constancia que se dio cumplimiento a lo dispuesto en el inciso final
+
+del art. 162 del C.P.C. en Santiago, veinticuatro de febrero de dos mil
+
+veintitrés.
+
+Código: XQVDXDXVDEY
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2023-02-24T21:52:26-0300
