@@ -1,0 +1,75 @@
+METADATA
+
+case_id: 67646414173753097519e5672ed4201c04bb9dc1
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7963682
+
+rol: 54172-2025
+
+fecha_sentencia: 2025-12-18
+
+caratulado: MENESES LLANCALAHUEN KRIZNA BELEN CONTRA JUZGADO DE GARANTIA DE PUNTA ARENAS
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, dieciocho de diciembre de dos mil veinticinco.
+
+Vistos:
+
+Se confirma la sentencia apelada de veintiuno de noviembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Valdivia, en el Ingreso Corte N° 445-2025.
+
+Regístrese y devuélvase.
+
+Rol N° 52.885-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Valdivia, veintiuno de noviembre de dos mil veinticinco.
+
+Vistos y teniendo presente:
+
+1°) Que, comparece Camila Andrea Leonicio Uribe, abogada, por el condenado José Daniel Galíndez García, cédula nacional de identidad N°14.894.911-5, privado de libertad en el Centro Penitenciario de Valdivia, quien interpone acción constitucional de amparo en contra de Gendarmería de Chile, en virtud de mantener a su representado cumpliendo condena en un recinto distante a más de 2.800 kilómetro del lugar donde reside su red de apoyo, actuación que estima que amenaza sus derechos a la vida e integridad física y psíquica y a un debido proceso.
+
+Expone que su representado con fecha 2 de febrero de 2025 fue trasladado desde el Centro Penitenciario de Arica hacia la comuna de Valdivia, por aparentes motivos de seguridad, aunque afirma desconocer las razones concretas que motivaron la decisión de la recurrida. Indica que lo anterior le ha privado de su red de apoyo, constituida por su pareja, su hijo de un año, y una persona que señala como amiga del grupo familiar, todos quienes residen en la comuna de Arica. Alega que la recurrida no ha considerado en su decisión el arraigo de su representado, afectando derecho a mantener vínculos familiares, al interés superior del niño y a la integridad psíquica del amparado.
+
+Argumenta que el traslado de condenados hacia otros recintos penitenciarios, lejos de ser una potestad discrecional de Gendarmería exenta de control normativo y jurisdiccional, está sujeta a diversas limitaciones previstas en la normativa nacional, internacional y en la jurisprudencia.
+
+Solicita que se acoja la acción constitucional de amparo y, en definitiva, se ordene el traslado del amparado desde el Centro Penitenciario de Valdivia al Centro Penitenciario de Arica o, en subsidio, de las comunas de La Serena o Antofagasta, por ser unidades más cercanas al domicilio de su red de apoyo.
+
+2°) Que, comparece Edgardo Cáceres Mosqueira, teniente coronel, alcaide del Centro Penitenciario de Valdivia, quien evacúa informe al tenor de la acción constitucional interpuesta.
+
+Expone que el acto recurrido fue adoptado por razones de seguridad institucional referida a varios internos, entre ellos el amparado, por existir una necesidad de descongestionar el Centro Penitenciario de Arica, el cual se encontraba al borde de exceder su capacidad máxima, tomando también en consideración los reiterados hechos de violencia grave ocurridos durante el último periodo en la unidad penal. Señala que, en el análisis previo efectuado, identificó a los internos que fueron objeto del traslado, en su mayoría identificados como líderes negativos al interior del establecimiento penitenciario.
+
+Argumenta que conforme su Ley Orgánica tiene la potestad de determinar los establecimientos en que los condenados cumplirán sus penas y disponer traslados de la población penal.
+
+Alega que la decisión adoptada no es arbitraria o ilegal efectuándose de conformidad al derecho penitenciario, siendo consecuencia de un acto fundado.
+
+Adicionalmente, refiere que a la fecha no ha recibido solicitudes de traslado del interno por la vía administrativa.
+
+Solicita que se rechace la acción constitucional interpuesta en su contra.
+
+3°) Que, la acción constitucional de amparo, prevista en el artículo 21 de la Constitución Política de la República, es una  acción constitucional cuyo propósito consiste en obtener de los Tribunales Superiores de Justicia, una tutela eficaz y eficiente para salvaguardar la integridad del derecho que la doctrina ha denominado libertad individual, para evitar una afectación antijurídica del derecho a la libertad personal y a la seguridad individual de cualquier persona, siendo precisamente la antijuridicidad de la conducta el comportamiento que la acción constitucional referida intenta solucionar o revertir.
+
+4°) Que, conviene precisar que la presentación en favor del amparado no precisa en forma clara cuál sería la afectación a la libertad o seguridad individual, conforme al artículo 19 N°7 de la Constitución Política de la República que haría procedente la acción constitucional interpuesta.
+
+5°) Que, sin perjuicio de lo anterior, si se considerara que el acto recurrido pudiera constituir una vulneración a la seguridad individual al no respetarse las formas en que debe adoptarse la privación de libertad, no resulta posible estimar que el acto recurrido carezca de fundamentación, toda vez que el servicio, en el marco de las potestades discrecionales que le concede la ley, ha adoptado una decisión que es antecedida por diversos antecedentes de los cuales deja constancia en el acto recurrido, vinculados a la seguridad del recinto y la necesidad de racionalizar los recursos disponibles, de modo que no es posible advertir la existencia de un acto ilegal o arbitrario.
+
+6°) Que, adicionalmente, la recurrente no ha solicitado por la vía administrativa el traslado del amparado hacia el Centro Penitenciario de Arica u otro que mantenga una mayor proximidad hacia su familia y red de apoyo, de manera que no se pudo en conocimiento de la autoridad de aquellos antecedentes que invoca en esta sede y que aún puede hacer presentes por la vía administrativa, por lo cual no se advierte la necesidad de adoptar alguna providencia por esta vía urgente y cautelar, de manera que la acción constitucional interpuesta deberá ser rechazada.
+
+Por lo expuesto, normas citadas, y visto, además, lo dispuesto en el artículo 21 de la Constitución Política de la República, se rechaza, sin costas, la acción constitucional de amparo interpuesta en favor de José Daniel Galíndez García en contra de Gendarmería de Chile.
+
+Regístrese, notifíquese y archívese, en su oportunidad.
+
+N°Amparo-445-2025
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Valdivia, veintiuno de noviembre de dos mil veinticinco.Vistos y teniendo presente:1°) Que, comparece Camila Andrea Leonicio Uribe, abogada, por el condenado José Daniel Galíndez García, cédula nacional de identidad N°14.894.911-5, privado de libertad en el Centro Penitenciario de Valdivia, quien interpone acción constitucional de amparo en contra de Gendarmería de Chile, en virtud de mantener a su representado cumpliendo condena en un recinto distante a más de 2.800 kilómetro del lugar donde reside su red de apoyo, actuación que estima que amenaza sus derechos a la vida e integridad física y psíquica y a un debido proceso.Expone que su representado con fecha 2 de febrero de 2025 fue trasladado desde el Centro Penitenciario de Arica hacia la comuna de Valdivia, por aparentes motivos de seguridad, aunque afirma desconocer las razones concretas que motivaron la decisión de la recurrida. Indica que lo anterior le ha privado de su red de apoyo, constituida por su pareja, su hijo de un año, y una persona que señala como amiga del grupo familiar, todos quienes residen en la comuna de Arica. Alega que la recurrida no ha considerado en su decisión el arraigo de su representado, afectando derecho a mantener vínculos familiares, al interés superior del niño y a la integridad psíquica del amparado.Argumenta que el traslado de condenados hacia otros recintos penitenciarios, lejos de ser una potestad discrecional de Gendarmería exenta de control normativo y jurisdiccional, está sujeta a diversas limitaciones previstas en la normativa nacional, internacional y en la jurisprudencia.Solicita que se acoja la acción constitucional de amparo y, en definitiva, se ordene el traslado del amparado desde el Centro Penitenciario de Valdivia al Centro Penitenciario de Arica o, en subsidio, de las comunas de La Serena o Antofagasta, por ser unidades más cercanas al domicilio de su red de apoyo.2°) Que, comparece Edgardo Cáceres Mosqueira, teniente coronel, alcaide del Centro Penitenciario de Valdivia, quien evacúa informe al tenor de la acción constitucional interpuesta.Expone que el acto recurrido fue adoptado por razones de seguridad institucional referida a varios internos, entre ellos el amparado, por existir una necesidad de descongestionar el Centro Penitenciario de Arica, el cual se encontraba al borde de exceder su capacidad máxima, tomando también en consideración los reiterados hechos de violencia grave ocurridos durante el último periodo en la unidad penal. Señala que, en el análisis previo efectuado, identificó a los internos que fueron objeto del traslado, en su mayoría identificados como líderes negativos al interior del establecimiento penitenciario.Argumenta que conforme su Ley Orgánica tiene la potestad de determinar los establecimientos en que los condenados cumplirán sus penas y disponer traslados de la población penal.Alega que la decisión adoptada no es arbitraria o ilegal efectuándose de conformidad al derecho penitenciario, siendo consecuencia de un acto fundado.Adicionalmente, refiere que a la fecha no ha recibido solicitudes de traslado del interno por la vía administrativa.Solicita que se rechace la acción constitucional interpuesta en su contra.3°) Que, la acción constitucional de amparo, prevista en el artículo 21 de la Constitución Política de la República, es una  acción constitucional cuyo propósito consiste en obtener de los Tribunales Superiores de Justicia, una tutela eficaz y eficiente para salvaguardar la integridad del derecho que la doctrina ha denominado libertad individual, para evitar una afectación antijurídica del derecho a la libertad personal y a la seguridad individual de cualquier persona, siendo precisamente la antijuridicidad de la conducta el comportamiento que la acción constitucional referida intenta solucionar o revertir.4°) Que, conviene precisar que la presentación en favor del amparado no precisa en forma clara cuál sería la afectación a la libertad o seguridad individual, conforme al artículo 19 N°7 de la Constitución Política de la República que haría procedente la acción constitucional interpuesta.5°) Que, sin perjuicio de lo anterior, si se considerara que el acto recurrido pudiera constituir una vulneración a la seguridad individual al no respetarse las formas en que debe adoptarse la privación de libertad, no resulta posible estimar que el acto recurrido carezca de fundamentación, toda vez que el servicio, en el marco de las potestades discrecionales que le concede la ley, ha adoptado una decisión que es antecedida por diversos antecedentes de los cuales deja constancia en el acto recurrido, vinculados a la seguridad del recinto y la necesidad de racionalizar los recursos disponibles, de modo que no es posible advertir la existencia de un acto ilegal o arbitrario.6°) Que, adicionalmente, la recurrente no ha solicitado por la vía administrativa el traslado del amparado hacia el Centro Penitenciario de Arica u otro que mantenga una mayor proximidad hacia su familia y red de apoyo, de manera que no se pudo en conocimiento de la autoridad de aquellos antecedentes que invoca en esta sede y que aún puede hacer presentes por la vía administrativa, por lo cual no se advierte la necesidad de adoptar alguna providencia por esta vía urgente y cautelar, de manera que la acción constitucional interpuesta deberá ser rechazada. Por lo expuesto, normas citadas, y visto, además, lo dispuesto en el artículo 21 de la Constitución Política de la República, se rechaza, sin costas, la acción constitucional de amparo interpuesta en favor de José Daniel Galíndez García en contra de Gendarmería de Chile.Regístrese, notifíquese y archívese, en su oportunidad.N°Amparo-445-2025                        ⚠                      Sin documento en esta instancia - pdf
