@@ -1,0 +1,71 @@
+METADATA
+
+case_id: 1d97bbe88c9fae9951ac18c0006fecfbb65bc007
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049944
+
+rol: 699-2026
+
+fecha_sentencia: 2026-03-05
+
+caratulado: JORGE MAURICIO BUSTOS ARDILES/FONDO NACIONAL DE SALUD (FONASA)
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+
+recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+
+resultado_recurso: CONFIRMA RESOLUCIÓN APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, cinco de marzo de dos mil veintiséis.
+A los alegatos solicitados, no ha lugar.
+
+Vistos:
+Se confirma la resolución apelada de fecha treinta y uno de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Valdivia.
+Regístrese y devuélvase.
+
+Rol N° 699-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Temuco
+Temuco, diecisiete de diciembre de dos mil veinticinco.
+
+VISTOS:
+
+Comparece doña Zunilda del Rosario Merino Montecinos e interpone recurso de protección en contra del Banco de Chile S.A., denunciando que fue incorporada indebidamente en los registros de la CMF como aval y deudora de una tarjeta de crédito que jamás contrató. Señala que la situación fue conocida el 28 de mayo de 2025, que el 3 de junio acudió a la sucursal del banco en Temuco, donde se le informó que figuraba como aval, y que la deuda volvió a aparecer en el informe de la CMF del 27 de agosto de 2025, pese a no existir vínculo contractual. Agrega que el banco reconoció por escrito una “inadvertencia operativa”, y que estos hechos afectaron gravemente su salud, motivando una hospitalización psiquiátrica en julio de 2025.
+
+Evacuando informe, el Banco de Chile solicita el rechazo del recurso. Indica que la deuda referida ya no figura en los registros de la CMF, habiéndose gestionado su completa rectificación. Alega además que la acción es extemporánea, pues la recurrente habría conocido los hechos a fines de mayo de 2025 y dedujo el recurso recién el 12 de septiembre de 2025. Sostiene también que no existe relación causal entre la información errónea y el cuadro clínico invocado.
+
+Se trajeron los autos en relación, procediendo a la vista del recurso en la audiencia del pasado 5 de diciembre, a la que compareció el abogado de la recurrida quien alegó en estrado contra el recurso, quedando la causa en estado de acuerdo.
+
+CON LO RELACIONADO Y CONSIDERANDO:
+
+PRIMERO: Que el recurso de protección de autos ha sido interpuesto en contra del Banco de Chile S.A., fundado en la supuesta inclusión errónea de la recurrente en registros de deudas del sistema financiero, solicitando se ordene la eliminación inmediata y definitiva de toda vinculación con obligaciones crediticias inexistentes, así como la adopción de medidas para evitar la reiteración de tales hechos.
+
+SEGUNDO: Que el recurso de protección, conforme a lo dispuesto en el artículo 20 de la Constitución Política de la República y al Auto Acordado de la Excma. Corte Suprema sobre su tramitación y fallo, constituye una acción cautelar de urgencia, destinada a restablecer de inmediato el imperio del derecho frente a actos u omisiones ilegales o arbitrarios que importen una privación, perturbación o amenaza actual de garantías constitucionales, exigiendo para su procedencia la existencia de una vulneración vigente o actual al momento de su interposición.
+
+TERCERO: Que, del mérito de los antecedentes acompañados por la propia recurrente, en particular del informe de deudas emanado de la Comisión para el Mercado Financiero, se desprende que, a la fecha de su emisión, la actora no registra deudas vigentes, directas ni indirectas en el sistema financiero, constando expresamente que su estado de deudas es cero.
+
+CUARTO: Que, asimismo, del informe evacuado por la parte recurrida consta que la situación reclamada fue regularizada con anterioridad a la interposición del recurso, habiéndose gestionado la rectificación de la información enviada a la Comisión para el Mercado Financiero, de modo que no solo no existe actualmente publicación alguna de deudas asociadas a la recurrente, sino que incluso las consultas de carácter histórico deben ser informadas como inexistentes, según se indica en dicho informe y en el respaldo acompañado al efecto.
+
+QUINTO: Que, en estas condiciones, no se advierte la existencia de una afectación actual o subsistente de garantías constitucionales que haga procedente la intervención cautelar de esta Corte, desde que la situación que motivó la acción ya se encontraba corregida al tiempo de deducirse el recurso, no existiendo medida concreta que pueda adoptarse para restablecer el imperio del derecho, presupuesto esencial de esta acción constitucional.
+
+SEXTO: Que el recurso de protección no resulta procedente cuando la situación denunciada ha cesado o ha sido corregida con anterioridad a su interposición, por cuanto en tal caso se verifica una falta de oportunidad de la acción, al no existir un acto u omisión actual que requiera tutela urgente por esta vía excepcional.
+
+SÉPTIMO: Que, atendido lo razonado, el recurso de protección deducido debe ser desestimado por falta de oportunidad, resultando innecesario emitir pronunciamiento sobre las demás alegaciones formuladas por las partes.
+
+Por estas consideraciones y visto, además, lo dispuesto en el artículo 20 de la Constitución Política de la República y en el Auto Acordado de la Excma. Corte Suprema sobre tramitación y fallo del recurso de protección de garantías constitucionales, SE RECHAZA, sin costas, el recurso de protección interpuesto por doña Zunilda del Rosario Merino Montecinos en contra del Banco de Chile S.A., por falta de oportunidad, al no verificarse una vulneración actual de garantías constitucionales susceptible de ser amparada por esta vía cautelar.
+
+Regístrese y archívese, en su oportunidad.
+
+Redacción a cargo del Abogado Integrante Sr. Fernando Cartes Sepúlveda.
+
+Rol N° Protección-3444-2025.(jog)
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de TemucoTemuco, diecisiete  de diciembre de dos mil veinticinco.VISTOS:Comparece doña Zunilda del Rosario Merino Montecinos e interpone recurso de protección en contra del Banco de Chile S.A., denunciando que fue incorporada indebidamente en los registros de la CMF como aval y deudora de una tarjeta de crédito que jamás contrató. Señala que la situación fue conocida el 28 de mayo de 2025, que el 3 de junio acudió a la sucursal del banco en Temuco, donde se le informó que figuraba como aval, y que la deuda volvió a aparecer en el informe de la CMF del 27 de agosto de 2025, pese a no existir vínculo contractual. Agrega que el banco reconoció por escrito una “inadvertencia operativa”, y que estos hechos afectaron gravemente su salud, motivando una hospitalización psiquiátrica en julio de 2025.Evacuando informe, el Banco de Chile solicita el rechazo del recurso. Indica que la deuda referida ya no figura en los registros de la CMF, habiéndose gestionado su completa rectificación. Alega además que la acción es extemporánea, pues la recurrente habría conocido los hechos a fines de mayo de 2025 y dedujo el recurso recién el 12 de septiembre de 2025. Sostiene también que no existe relación causal entre la información errónea y el cuadro clínico invocado.Se trajeron los autos en relación, procediendo a la vista del recurso en la audiencia del pasado 5 de diciembre, a la que compareció el abogado de la recurrida quien alegó en estrado contra el recurso, quedando la causa en estado de acuerdo.CON LO RELACIONADO Y CONSIDERANDO:PRIMERO: Que el recurso de protección de autos ha sido interpuesto en contra del Banco de Chile S.A., fundado en la supuesta inclusión errónea de la recurrente en registros de deudas del sistema financiero, solicitando se ordene la eliminación inmediata y definitiva de toda vinculación con obligaciones crediticias inexistentes, así como la adopción de medidas para evitar la reiteración de tales hechos.SEGUNDO: Que el recurso de protección, conforme a lo dispuesto en el artículo 20 de la Constitución Política de la República y al Auto Acordado de la Excma. Corte Suprema sobre su tramitación y fallo, constituye una acción cautelar de urgencia, destinada a restablecer de inmediato el imperio del derecho frente a actos u omisiones ilegales o arbitrarios que importen una privación, perturbación o amenaza actual de garantías constitucionales, exigiendo para su procedencia la existencia de una vulneración vigente o actual al momento de su interposición.TERCERO: Que, del mérito de los antecedentes acompañados por la propia recurrente, en particular del informe de deudas emanado de la Comisión para el Mercado Financiero, se desprende que, a la fecha de su emisión, la actora no registra deudas vigentes, directas ni indirectas en el sistema financiero, constando expresamente que su estado de deudas es cero.CUARTO: Que, asimismo, del informe evacuado por la parte recurrida consta que la situación reclamada fue regularizada con anterioridad a la interposición del recurso, habiéndose gestionado la rectificación de la información enviada a la Comisión para el Mercado Financiero, de modo que no solo no existe actualmente publicación alguna de deudas asociadas a la recurrente, sino que incluso las consultas de carácter histórico deben ser informadas como inexistentes, según se indica en dicho informe y en el respaldo acompañado al efecto.QUINTO: Que, en estas condiciones, no se advierte la existencia de una afectación actual o subsistente de garantías constitucionales que haga procedente la intervención cautelar de esta Corte, desde que la situación que motivó la acción ya se encontraba corregida al tiempo de deducirse el recurso, no existiendo medida concreta que pueda adoptarse para restablecer el imperio del derecho, presupuesto esencial de esta acción constitucional.SEXTO: Que el recurso de protección no resulta procedente cuando la situación denunciada ha cesado o ha sido corregida con anterioridad a su interposición, por cuanto en tal caso se verifica una falta de oportunidad de la acción, al no existir un acto u omisión actual que requiera tutela urgente por esta vía excepcional.SÉPTIMO: Que, atendido lo razonado, el recurso de protección deducido debe ser desestimado por falta de oportunidad, resultando innecesario emitir pronunciamiento sobre las demás alegaciones formuladas por las partes.Por estas consideraciones y visto, además, lo dispuesto en el artículo 20 de la Constitución Política de la República y en el Auto Acordado de la Excma. Corte Suprema sobre tramitación y fallo del recurso de protección de garantías constitucionales, SE RECHAZA, sin costas, el recurso de protección interpuesto por doña Zunilda del Rosario Merino Montecinos en contra del Banco de Chile S.A., por falta de oportunidad, al no verificarse una vulneración actual de garantías constitucionales susceptible de ser amparada por esta vía cautelar.Regístrese y archívese, en su oportunidad.Redacción a cargo del Abogado Integrante Sr. Fernando Cartes Sepúlveda.Rol N° Protección-3444-2025.(jog)                        ⚠                      Sin documento en esta instancia - pdf
