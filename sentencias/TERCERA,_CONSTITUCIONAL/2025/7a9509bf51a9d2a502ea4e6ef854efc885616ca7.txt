@@ -1,0 +1,101 @@
+METADATA
+
+case_id: 7a9509bf51a9d2a502ea4e6ef854efc885616ca7
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7966835
+
+rol: 44345-2025
+
+fecha_sentencia: 2025-12-19
+
+caratulado: TATIS MENESES TOMÁS ARMANDO/SERVICIO DE SALUD VALPARAÍSO-SAN ANTONIO Y OTRO
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (CIVIL) APELACIÓN PROTECCIÓN
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, diecinueve de diciembre de dos mil veinticinco.
+
+Vistos:
+
+Se confirma la sentencia apelada de veintisiete de noviembre de dos mil veinticinco, pronunciada por la Corte de Apelaciones de Valparaíso, en el ingreso N°4624-2025.
+
+Regístrese y devuélvase.
+
+Rol N°53062-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+edp
+C.A. de Valparaíso
+Valparaíso, veintisiete de noviembre de dos mil veinticinco.
+
+Visto:
+
+A folio 1, comparece don Tomás Matheson Mujica, abogado, quien interpone acción constitucional de amparo en favor de doña Daphnee Alphonse, de nacionalidad haitiana, cédula de identidad para extranjeros N°26.453.403-8, en contra del Servicio Nacional de Migraciones.
+
+Expone que el 16 de octubre de 2021 la amparada solicitó acogerse al proceso de regularización extraordinaria establecido en el artículo 8° transitorio de la Ley N°21.325 de Migración y Extranjería, mediante ID N°32685112 en la plataforma "Simple" del Registro Nacional de Extranjeros.
+
+Señala que mediante Resolución Exenta N°23173041 de 13 de junio de 2023, el Servicio Nacional de Migraciones rechazó su solicitud de regularización y dispuso su abandono del país en el plazo de 30 días, fundamentando dicha decisión en que la amparada no presentó certificado de antecedentes penales de su país de origen debidamente legalizado o apostillado.
+
+Sostiene que dicha resolución nunca le fue debidamente notificada, desconociendo por completo su existencia hasta el 5 de septiembre de 2025, cuando acudió a las oficinas del Servicio Nacional de Migraciones en San Felipe y se le informó que su solicitud de residencia definitiva presentada el 19 de agosto de 2023 había sido archivada en abril de 2025 por mantener una orden de abandono vigente.
+
+Argumenta que la falta de notificación legal de la Resolución Exenta N°23173041 constituye una ilegalidad manifiesta, toda vez que el artículo 51 de la Ley N°19.880 establece expresamente que los actos administrativos producen efectos jurídicos desde su notificación, siendo ésta un requisito indispensable para su ejecutividad. Complementariamente invoca el artículo 14 del mismo cuerpo legal que establece la obligatoriedad de notificar las resoluciones para permitir su impugnación, y el artículo 146 de la Ley N°21.325 que prescribe la forma en que deben notificarse las resoluciones migratorias.
+
+Afirma que con esto se le ha privado de la posibilidad de conocer los fundamentos de la decisión e interponer los recursos que la ley establece, dejándola en situación de completa indefensión jurídica y afectando gravemente su derecho a residir y permanecer en el territorio nacional.
+
+Adicionalmente sostiene que la orden de abandono, pese a caracterizarse como medida de cumplimiento voluntario, constituye una amenaza a la libertad personal al derivar su incumplimiento en expulsión e impedir la libre entrada y salida del país, vulnerando así el derecho a la libertad personal consagrado en el artículo 19 N°7 letra A de la Constitución Política de la República.
+
+Solicita se acoja la acción de amparo, se ordene la notificación legal de la Resolución Exenta N°23173041 y, en subsidio, se ordene a la recurrida emitir pronunciamiento sobre su solicitud de residencia conforme al artículo 1 N°25 de la Ley N°21.325.
+
+Acompaña documentos.
+
+A folio 5, evacuó informe el Servicio Nacional de Migraciones, solicitando el rechazo de la acción por improcedente.
+
+Expone que doña Daphnee Alphonse ingresó por primera vez a territorio nacional el 5 de enero de 2018, obteniendo visación temporaria mediante Resolución Exenta N°2840 de 7 de mayo de 2018, vigente hasta el 8 de mayo de 2019.
+
+Señala que el 28 de octubre de 2021 la amparada solicitó acogerse al proceso de regularización extraordinaria, pero que al evaluar los antecedentes se constató que no cumplía con los requisitos al no presentar certificado de antecedentes penales de su país de origen debidamente legalizado o apostillado.
+
+Sostiene que mediante notificación electrónica N°36002719 de 23 de marzo de 2023 se le comunicó la insuficiencia documental, otorgándole plazo de 10 días hábiles para subsanarla bajo apercibimiento de rechazo, y que al no acompañar la documentación requerida se dictó la Resolución Exenta N°23173041 de 21 de julio de 2023 que rechazó su solicitud y dispuso el abandono del país en 30 días.
+
+Argumenta que el rechazo fue conforme a derecho dado que el artículo 8° transitorio de la Ley N°21.325 establece como requisito fundamental no tener antecedentes penales, y que la orden de abandono constituye una consecuencia necesaria e imperativa del rechazo según el artículo 91 inciso 4° de la Ley N°21.325.
+
+Agrega que posteriormente, encontrándose vigente la orden de abandono, la amparada solicitó el 8 de enero de 2025 un permiso de residencia definitiva, solicitud declarada inadmisible y archivada mediante Comunicación Electrónica de 17 de abril de 2025, conforme al artículo 50 inciso final del Decreto N°296.
+
+Concluye que los actos de la autoridad migratoria se encuentran plenamente ajustados a derecho y no vulneran las garantías constitucionales invocadas.
+
+Acompaña documentos a su informe.
+
+Se trajeron los autos en relación.
+
+Con lo relacionado y considerando:
+
+PRIMERO: Que la acción constitucional de amparo, consagrada en el artículo 21 de la Constitución Política de la República, garantiza a toda persona que ilegalmente sufra cualquier privación, perturbación o amenaza en su derecho a la libertad personal y seguridad individual, la posibilidad de recurrir ante la respectiva magistratura para que ésta dicte las providencias necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado.
+
+SEGUNDO: Que por la presente vía cautelar se recurre en contra del Servicio Nacional de Migraciones por haber rechazado la solicitud de regularización migratoria de la amparada mediante Resolución Exenta N°23173041 de 13 de junio de 2023, disponiendo su abandono del país, y posteriormente haber archivado su solicitud de residencia definitiva por mantener una orden de abandono vigente, alegando la recurrente que jamás fue debidamente notificada de la resolución que rechazó su solicitud de regularización e impuso la orden de abandono, lo que constituye una ilegalidad manifiesta que vulnera su derecho a la libertad personal.
+
+TERCERO: Que consta de los antecedentes remitidos por la recurrida la existencia de la Resolución Exenta N°23173041 de 13 de junio de 2023 del Servicio Nacional de Migraciones que rechazó la solicitud de regularización extraordinaria de la amparada y dispuso su abandono del país en el plazo de 30 días, y la Comunicación Electrónica N°77071453 de 17 de abril de 2025 mediante la cual se informó a la recurrente la inadmisibilidad de su solicitud de residencia definitiva por registrar orden de abandono vigente, disponiendo su archivo conforme al artículo 50 del Decreto N°296.
+
+CUARTO: Que, consta de la Resolución Exenta 23173041 de 13 de junio de 2023, que la solicitud de regularización migratoria de la amparada fue rechazada por no haber acompañado el certificado de antecedentes penales de su país de origen debidamente legalizado y apostillado, disponiendo su abandono del país.
+
+QUINTO: Que de conformidad a lo dispuesto en el inciso segundo del artículo 51 de la Ley N°19.880 que Establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado: "Los decretos y las resoluciones producirán efectos jurídicos desde su notificación o publicación, según sean de contenido individual o general." Por su parte, el artículo 146 de la Ley N°21.325 de Migración y Extranjería prescribe que: "Las resoluciones que otorguen o rechacen una solicitud de residencia o permanencia, revoquen una ya otorgada o impongan alguna sanción distinta de la expulsión, serán notificadas por correo electrónico. Se establece como notificación supletoria de la practicada mediante medio electrónico, la notificación por carta certificada dirigida al último domicilio que tenga registrado en el Servicio."
+
+SEXTO: Que, no habiendo la recurrida acreditado el cumplimiento de este trámite obligatorio en todo procedimiento administrativo con relación a la Resolución Exenta N° 23173041 de 13 de junio de 2023, en la que se asila el archivo de la petición de residencia definitiva presenta aquella un defecto procesal que la hace ilegal ante la falta de emplazamiento de la recurrente, motivo por el cual se acogerá el árbitro en los términos que se dirán.
+
+Por estas consideraciones y, visto además lo dispuesto en el artículo 21 de la Constitución Política de la República y Auto Acordado de la Excelentísima Corte Suprema sobre Tramitación y Fallo del Recurso de Amparo, se acoge, sin costas la acción constitucional de amparo interpuesta a favor de Daphnne Alphonse en contra del Servicio Nacional de Migraciones y, en consecuencia, se deja sin efecto la Resolución Exenta 23173041 de 13 de junio de 2023 y la Comunicación Electrónica N°77071453 de 17 de abril de 2025 que declaró inadmisible y archivó la solicitud de residencia definitiva, debiendo la recurrida reabrir el procedimiento administrativo relativo a la solicitud de regularización migratoria de la amparada, otorgándole un plazo no inferior a ciento ochenta días hábiles para que acompañe el certificado de antecedentes penales de su país de origen debidamente legalizado y/ o apostillado y, hecho, dicte la resolución que en derecho corresponda.
+
+Regístrese, comuníquese por la vía más expedita y, en su oportunidad, archívese.
+
+N°Amparo-4624-2025.
+
+En Valparaíso, veintisiete de noviembre de dos mil veinticinco, se notificó por el estado diario la resolución que antecede.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+edpC.A. de ValparaísoValparaíso, veintisiete de noviembre de dos mil veinticinco.Visto:A folio 1, comparece don Tomás Matheson Mujica, abogado, quien interpone acción constitucional de amparo en favor de doña Daphnee Alphonse, de nacionalidad haitiana, cédula de identidad para extranjeros N°26.453.403-8, en contra del Servicio Nacional de Migraciones.Expone que el 16 de octubre de 2021 la amparada solicitó acogerse al proceso de regularización extraordinaria establecido en el artículo 8° transitorio de la Ley N°21.325 de Migración y Extranjería, mediante ID N°32685112 en la plataforma "Simple" del Registro Nacional de Extranjeros.Señala que mediante Resolución Exenta N°23173041 de 13 de junio de 2023, el Servicio Nacional de Migraciones rechazó su solicitud de regularización y dispuso su abandono del país en el plazo de 30 días, fundamentando dicha decisión en que la amparada no presentó certificado de antecedentes penales de su país de origen debidamente legalizado o apostillado.Sostiene que dicha resolución nunca le fue debidamente notificada, desconociendo por completo su existencia hasta el 5 de septiembre de 2025, cuando acudió a las oficinas del Servicio Nacional de Migraciones en San Felipe y se le informó que su solicitud de residencia definitiva presentada el 19 de agosto de 2023 había sido archivada en abril de 2025 por mantener una orden de abandono vigente.Argumenta que la falta de notificación legal de la Resolución Exenta N°23173041 constituye una ilegalidad manifiesta, toda vez que el artículo 51 de la Ley N°19.880 establece expresamente que los actos administrativos producen efectos jurídicos desde su notificación, siendo ésta un requisito indispensable para su ejecutividad. Complementariamente invoca el artículo 14 del mismo cuerpo legal que establece la obligatoriedad de notificar las resoluciones para permitir su impugnación, y el artículo 146 de la Ley N°21.325 que prescribe la forma en que deben notificarse las resoluciones migratorias.Afirma que con esto se le ha privado de la posibilidad de conocer los fundamentos de la decisión e interponer los recursos que la ley establece, dejándola en situación de completa indefensión jurídica y afectando gravemente su derecho a residir y permanecer en el territorio nacional.Adicionalmente sostiene que la orden de abandono, pese a caracterizarse como medida de cumplimiento voluntario, constituye una amenaza a la libertad personal al derivar su incumplimiento en expulsión e impedir la libre entrada y salida del país, vulnerando así el derecho a la libertad personal consagrado en el artículo 19 N°7 letra A de la Constitución Política de la República.Solicita se acoja la acción de amparo, se ordene la notificación legal de la Resolución Exenta N°23173041 y, en subsidio, se ordene a la recurrida emitir pronunciamiento sobre su solicitud de residencia conforme al artículo 1 N°25 de la Ley N°21.325.Acompaña documentos.A folio 5, evacuó informe el Servicio Nacional de Migraciones, solicitando el rechazo de la acción por improcedente.Expone que doña Daphnee Alphonse ingresó por primera vez a territorio nacional el 5 de enero de 2018, obteniendo visación temporaria mediante Resolución Exenta N°2840 de 7 de mayo de 2018, vigente hasta el 8 de mayo de 2019.Señala que el 28 de octubre de 2021 la amparada solicitó acogerse al proceso de regularización extraordinaria, pero que al evaluar los antecedentes se constató que no cumplía con los requisitos al no presentar certificado de antecedentes penales de su país de origen debidamente legalizado o apostillado.Sostiene que mediante notificación electrónica N°36002719 de 23 de marzo de 2023 se le comunicó la insuficiencia documental, otorgándole plazo de 10 días hábiles para subsanarla bajo apercibimiento de rechazo, y que al no acompañar la documentación requerida se dictó la Resolución Exenta N°23173041 de 21 de julio de 2023 que rechazó su solicitud y dispuso el abandono del país en 30 días.Argumenta que el rechazo fue conforme a derecho dado que el artículo 8° transitorio de la Ley N°21.325 establece como requisito fundamental no tener antecedentes penales, y que la orden de abandono constituye una consecuencia necesaria e imperativa del rechazo según el artículo 91 inciso 4° de la Ley N°21.325.Agrega que posteriormente, encontrándose vigente la orden de abandono, la amparada solicitó el 8 de enero de 2025 un permiso de residencia definitiva, solicitud declarada inadmisible y archivada mediante Comunicación Electrónica de 17 de abril de 2025, conforme al artículo 50 inciso final del Decreto N°296.Concluye que los actos de la autoridad migratoria se encuentran plenamente ajustados a derecho y no vulneran las garantías constitucionales invocadas.Acompaña documentos a su informe.Se trajeron los autos en relación.Con lo relacionado y considerando:PRIMERO: Que la acción constitucional de amparo, consagrada en el artículo 21 de la Constitución Política de la República, garantiza a toda persona que ilegalmente sufra cualquier privación, perturbación o amenaza en su derecho a la libertad personal y seguridad individual, la posibilidad de recurrir ante la respectiva magistratura para que ésta dicte las providencias necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado.SEGUNDO: Que por la presente vía cautelar se recurre en contra del Servicio Nacional de Migraciones por haber rechazado la solicitud de regularización migratoria de la amparada mediante Resolución Exenta N°23173041 de 13 de junio de 2023, disponiendo su abandono del país, y posteriormente haber archivado su solicitud de residencia definitiva por mantener una orden de abandono vigente, alegando la recurrente que jamás fue debidamente notificada de la resolución que rechazó su solicitud de regularización e impuso la orden de abandono, lo que constituye una ilegalidad manifiesta que vulnera su derecho a la libertad personal.TERCERO: Que consta de los antecedentes remitidos por la recurrida la existencia de la Resolución Exenta N°23173041 de 13 de junio de 2023 del Servicio Nacional de Migraciones que rechazó la solicitud de regularización extraordinaria de la amparada y dispuso su abandono del país en el plazo de 30 días, y la Comunicación Electrónica N°77071453 de 17 de abril de 2025 mediante la cual se informó a la recurrente la inadmisibilidad de su solicitud de residencia definitiva por registrar orden de abandono vigente, disponiendo su archivo conforme al artículo 50 del Decreto N°296.CUARTO: Que, consta de la Resolución Exenta 23173041 de 13 de junio de 2023, que la solicitud de regularización migratoria de la amparada fue rechazada por no haber acompañado el certificado de antecedentes penales de su país de origen debidamente legalizado y apostillado, disponiendo su abandono del país.QUINTO: Que de conformidad a lo dispuesto en el inciso segundo del artículo 51 de la Ley N°19.880 que Establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado: "Los decretos y las resoluciones producirán efectos jurídicos desde su notificación o publicación, según sean de contenido individual o general." Por su parte, el artículo 146 de la Ley N°21.325 de Migración y Extranjería prescribe que: "Las resoluciones que otorguen o rechacen una solicitud de residencia o permanencia, revoquen una ya otorgada o impongan alguna sanción distinta de la expulsión, serán notificadas por correo electrónico. Se establece como notificación supletoria de la practicada mediante medio electrónico, la notificación por carta certificada dirigida al último domicilio que tenga registrado en el Servicio."SEXTO: Que, no habiendo la recurrida acreditado el cumplimiento de este trámite obligatorio en todo procedimiento administrativo con relación a la Resolución Exenta N° 23173041 de 13 de junio de 2023, en la que se asila el archivo de la petición de residencia definitiva presenta aquella un defecto procesal que la hace ilegal ante la falta de emplazamiento de la recurrente, motivo por el cual se acogerá el árbitro en los términos que se dirán. Por estas consideraciones  y, visto además lo dispuesto en el artículo 21 de la Constitución Política de la República y Auto Acordado de la Excelentísima Corte Suprema sobre Tramitación y Fallo del Recurso de Amparo, se acoge, sin costas la acción constitucional de amparo interpuesta a  favor de Daphnne Alphonse en contra del Servicio Nacional de Migraciones y, en consecuencia, se deja sin efecto la Resolución Exenta 23173041 de 13 de junio de 2023  y la Comunicación Electrónica N°77071453 de 17 de abril de 2025 que declaró inadmisible y archivó la solicitud de residencia definitiva, debiendo la recurrida reabrir el procedimiento administrativo relativo a la solicitud de regularización migratoria de la amparada, otorgándole un plazo no inferior a ciento ochenta días hábiles para que acompañe el certificado de antecedentes penales de su país de origen debidamente legalizado y/ o apostillado y, hecho, dicte la resolución que en derecho corresponda.  Regístrese, comuníquese por la vía más expedita y, en su oportunidad, archívese.N°Amparo-4624-2025.En Valparaíso, veintisiete de noviembre de dos mil veinticinco, se notificó por el estado diario la resolución que antecede.                        ⚠                      Sin documento en esta instancia - pdf

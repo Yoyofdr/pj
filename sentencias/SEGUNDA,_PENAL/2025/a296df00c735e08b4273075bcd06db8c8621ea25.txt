@@ -1,0 +1,81 @@
+METADATA
+
+case_id: a296df00c735e08b4273075bcd06db8c8621ea25
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7966923
+
+rol: 53067-2025
+
+fecha_sentencia: 2025-12-18
+
+caratulado: TITO JUSTINIANO MARCOS ALEXANDER CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, diecinueve de diciembre de dos mil veinticinco.
+
+Vistos:
+
+Se confirma la sentencia apelada de veintisiete de noviembre de dos mil veinticinco, pronunciada por la Corte de Apelaciones de Valparaíso, en el ingreso N°4703-2025.
+
+Regístrese y devuélvase.
+
+Rol N°53080-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Dgm.
+
+C.A. de Valparaíso
+Valparaíso, veintisiete de noviembre de dos mil veinticinco.
+
+Visto:
+
+A folio 1, se interpone recurso de amparo en favor de don Marko Saint-Bert en contra del Servicio Nacional de Migraciones por el acto arbitrario e ilegal consistente en el rechazo de su solicitud de residencia definitiva y la imposición de una orden de abandono del país, mediante la dictación de la Resolución Exenta N°24582912 de 18 de diciembre de 2024, vulnerando con ello los artículos 19 N°7 y 19 N°2 de la Constitución Política de la República.
+
+El recurrente señala que el amparado, ciudadano haitiano, ingresó regularmente al país, realizó todos los trámites de regularización migratoria y presentó su solicitud de residencia definitiva bajo el N°48401551. Sin embargo, dicha solicitud fue rechazada mediante Resolución Exenta N°24582912 de 18 de diciembre de 2024, argumentándose la falta de acompañamiento del comprobante de pago de una multa, documento que el amparado no pudo obtener debido a la inoperancia del sitio web institucional al momento de intentar pagarlo, actuando siempre de buena fe.
+
+Asimismo, el recurrente expone que la resolución recurrida dispone el abandono del país dentro de 10 días, medida desproporcionada e injustificada, pues la autoridad no ponderó la situación personal, laboral y familiar del amparado, ni consideró que carece de antecedentes penales en Chile. Indica además que la Ley N°21.325 faculta al Servicio Nacional de Migraciones a aplicar sanciones menos gravosas como la residencia temporal sustitutiva del artículo 91 inciso 5° criterio utilizado por la misma autoridad en casos análogos, configurándose así una evidente infracción al principio de igualdad ante la ley. La decisión impugnada, entonces, constituye una perturbación ilegal y arbitraria a la libertad ambulatoria del amparado y vulnera los principios de razonabilidad y debido procedimiento administrativo.
+
+Solicita que se deje sin efecto la Resolución Exenta N°24582912, particularmente la orden de abandono del territorio nacional, y que se ordene al Servicio Nacional de Migraciones reabrir la solicitud de residencia definitiva del amparado, otorgando además un plazo no inferior a 30 días para habilitar el sistema de pago de multas y permitir que el recurrente regularice la situación que injustamente motivó el rechazo. Todo ello, con el fin de restablecer el imperio del derecho y asegurar la debida protección del afectado.
+
+A folio 5, informa el Servicio Nacional de Migraciones, solicitando que el recurso de amparo sea rechazado en todas sus partes, por cuanto no se configura acto u omisión arbitrario o ilegal atribuible a esta autoridad. La decisión cuestionada se ajusta plenamente a la normativa migratoria vigente y fue dictada por órgano competente, en ejercicio regular de sus atribuciones, sin afectar la libertad personal o seguridad individual de la recurrente.
+
+De los antecedentes del procedimiento administrativo, consta que la persona extranjera postuló a residencia definitiva encontrándose en situación migratoria irregular y sin haber acompañado el pago de la multa correspondiente, requisito exigido expresamente por los artículos 37, 88 N°1, 107 y 119 de la Ley N°21.325. Asimismo, fue debidamente notificada de la causal de previo rechazo, otorgándosele un plazo legal de diez días hábiles para formular descargos, los cuales no permitieron desvirtuar el incumplimiento detectado. En consecuencia, el rechazo de la solicitud y la consecuente orden de abandono del país se emitieron en estricto cumplimiento de la ley.
+
+Por tanto, al no existir vulneración de garantías constitucionales ni afectación alguna a la libertad personal de la recurrente, la presente acción de amparo deviene improcedente. La resolución impugnada constituye un acto administrativo válido, fundado y dictado conforme al procedimiento legal.
+
+A folio 6, se ordenó traer los autos en relación:
+
+Con lo relacionado y considerando:
+
+Primero: Que, el recurso de amparo es un proceso de tutela urgente del derecho fundamental a la libertad personal y seguridad individual, establecido en el artículo 19 N°7 de la Constitución Política de la República, que es procedente en aquellos casos en que una persona fuere arrestada, detenida o presa con infracción a la Constitución o a las leyes o sufra cualquier otra privación, perturbación o amenaza al derecho fundamental antes aludido, fuera de los casos en que el ordenamiento jurídico lo permite.
+
+Segundo: Que, por esta vía cautelar se cuestiona la legalidad de la Resolución Exenta N°24582912, de 18 de noviembre del 2025 dictada por el Servicio Nacional de Migraciones, mediante la cual rechazó la solicitud de residencia definitiva disponiéndose el abandono del país en el plazo de 10 días.
+
+Tercero: Que, por su parte, el Servicio Nacional de Migraciones informa que se rechaza la solicitud de residencia definitiva por no acreditar el pago de la multa por residencia irregular, dictándose la resolución impugnada conforme a la Ley N°21.325 y su reglamento.
+
+Cuarto: Que, del mérito de los antecedentes, teniendo presente el tiempo que el actor reside en el país, unido a la dificultad que tienen los nacionales de la República de Haití para acceder a la tramitación tecnológica en un plazo breve para pagar la multa, lo que torna en ilegal dicha decisión, toda vez que, de no cumplirse voluntariamente, permite a la autoridad migratoria disponer la expulsión del afectado, de acuerdo con el artículo 127 de la Ley N°21.325.
+
+Quinto: Que, además, ha de considerarse que el amparado mantiene un arraigo cierto en el país, evidenciado -entre otros- por encontrarse residiendo en Chile desde antes del 9 de octubre de 2022, fecha desde la cual, según lo informado por el propio Servicio Nacional de Migraciones, su permiso se encuentra vencido, lo que da cuenta de una permanencia prolongada en el territorio nacional.
+
+Por estas consideraciones y lo dispuesto, además, en el artículo 21 de la Constitución Política de la República, se acoge el recurso de amparo interpuesto a favor de Marko Saint-Bert en contra Servicio Nacional de Migraciones, y, por consiguiente, se deja sin efecto la Resolución Exenta N°24582912, de 18 de noviembre del 2025, debiendo la autoridad migratoria, reabrir el procedimiento administrativo y otorgar un plazo no inferior a 30 días a fin de que el amparado acredite el pago de la sanción por residencia irregular, debiendo proceder como en derecho corresponda.
+
+Acordada con el voto en contra del Ministro Sr. Pablo Droppelmmann Cuneo, quien estuvo por rechazar la presente acción constitucional de amparo, considerando que el rechazo de la solicitud por parte del Servicio Nacional de Migraciones no resulta ilegal, al fundarse en una causal contemplada en el artículo 88 N°1 de la Ley 21.325, en relación al artículo 37 inciso quinto del mismo cuerpo legal, y previo apercibimiento concedido para subsanar la solicitud, sin que el amparado acompañara el comprobante de pago de la multa por haber residido de manera irregular en el país
+
+Regístrese, notifíquese y archívese en su oportunidad.
+N°Amparo-4703-2025.
+
+En Valparaíso, veintisiete de noviembre de dos mil veinticinco, se notificó por el estado diario la resolución que antecede.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Dgm.C.A. de ValparaísoValparaíso, veintisiete de noviembre de dos mil veinticinco.Visto:A folio 1, se interpone recurso de amparo en favor de don Marko Saint-Bert en contra del Servicio Nacional de Migraciones por el acto arbitrario e ilegal consistente en el rechazo de su solicitud de residencia definitiva y la imposición de una orden de abandono del país, mediante la dictación de la Resolución Exenta N°24582912 de 18 de diciembre de 2024, vulnerando con ello los artículos 19 N°7 y 19 N°2 de la Constitución Política de la República.El recurrente señala que el amparado, ciudadano haitiano, ingresó regularmente al país, realizó todos los trámites de regularización migratoria y presentó su solicitud de residencia definitiva bajo el N°48401551. Sin embargo, dicha solicitud fue rechazada mediante Resolución Exenta N°24582912 de 18 de diciembre de 2024, argumentándose la falta de acompañamiento del comprobante de pago de una multa, documento que el amparado no pudo obtener debido a la inoperancia del sitio web institucional al momento de intentar pagarlo, actuando siempre de buena fe.Asimismo, el recurrente expone que la resolución recurrida dispone el abandono del país dentro de 10 días, medida desproporcionada e injustificada, pues la autoridad no ponderó la situación personal, laboral y familiar del amparado, ni consideró que carece de antecedentes penales en Chile. Indica además que la Ley N°21.325 faculta al Servicio Nacional de Migraciones a aplicar sanciones menos gravosas como la residencia temporal sustitutiva del artículo 91 inciso 5° criterio utilizado por la misma autoridad en casos análogos, configurándose así una evidente infracción al principio de igualdad ante la ley. La decisión impugnada, entonces, constituye una perturbación ilegal y arbitraria a la libertad ambulatoria del amparado y vulnera los principios de razonabilidad y debido procedimiento administrativo.Solicita que se deje sin efecto la Resolución Exenta N°24582912, particularmente la orden de abandono del territorio nacional, y que se ordene al Servicio Nacional de Migraciones reabrir la solicitud de residencia definitiva del amparado, otorgando además un plazo no inferior a 30 días para habilitar el sistema de pago de multas y permitir que el recurrente regularice la situación que injustamente motivó el rechazo. Todo ello, con el fin de restablecer el imperio del derecho y asegurar la debida protección del afectado.A folio 5, informa el Servicio Nacional de Migraciones, solicitando que el recurso de amparo sea rechazado en todas sus partes, por cuanto no se configura acto u omisión arbitrario o ilegal atribuible a esta autoridad. La decisión cuestionada se ajusta plenamente a la normativa migratoria vigente y fue dictada por órgano competente, en ejercicio regular de sus atribuciones, sin afectar la libertad personal o seguridad individual de la recurrente.De los antecedentes del procedimiento administrativo, consta que la persona extranjera postuló a residencia definitiva encontrándose en situación migratoria irregular y sin haber acompañado el pago de la multa correspondiente, requisito exigido expresamente por los artículos 37, 88 N°1, 107 y 119 de la Ley N°21.325. Asimismo, fue debidamente notificada de la causal de previo rechazo, otorgándosele un plazo legal de diez días hábiles para formular descargos, los cuales no permitieron desvirtuar el incumplimiento detectado. En consecuencia, el rechazo de la solicitud y la consecuente orden de abandono del país se emitieron en estricto cumplimiento de la ley.Por tanto, al no existir vulneración de garantías constitucionales ni afectación alguna a la libertad personal de la recurrente, la presente acción de amparo deviene improcedente. La resolución impugnada constituye un acto administrativo válido, fundado y dictado conforme al procedimiento legal.A folio 6, se ordenó traer los autos en relación:Con lo relacionado y considerando:Primero: Que, el recurso de amparo es un proceso de tutela urgente del derecho fundamental a la libertad personal y seguridad individual, establecido en el artículo 19 N°7 de la Constitución Política de la República, que es procedente en aquellos casos en que una persona fuere arrestada, detenida o presa con infracción a la Constitución o a las leyes o sufra cualquier otra privación, perturbación o amenaza al derecho fundamental antes aludido, fuera de los casos en que el ordenamiento jurídico lo permite.Segundo: Que, por esta vía cautelar se cuestiona la legalidad de la Resolución Exenta N°24582912, de 18 de noviembre del 2025 dictada por el Servicio Nacional de Migraciones, mediante la cual rechazó la solicitud de residencia definitiva disponiéndose el abandono del país en el plazo de 10 días.Tercero: Que, por su parte, el Servicio Nacional de Migraciones informa que se rechaza la solicitud de residencia definitiva por no acreditar el pago de la multa por residencia irregular, dictándose la resolución impugnada conforme a la Ley N°21.325 y su reglamento.Cuarto: Que, del mérito de los antecedentes, teniendo presente el tiempo que el actor reside en el país, unido a la dificultad que tienen los nacionales de la República de Haití para acceder a la tramitación tecnológica en un plazo breve para pagar la multa,  lo que torna en ilegal dicha decisión, toda vez que, de no cumplirse voluntariamente, permite a la autoridad migratoria disponer la expulsión del afectado, de acuerdo con el artículo 127 de la Ley N°21.325.Quinto: Que, además, ha de considerarse que el amparado mantiene un arraigo cierto en el país, evidenciado -entre otros- por encontrarse residiendo en Chile desde antes del 9 de octubre de 2022, fecha desde la cual, según lo informado por el propio Servicio Nacional de Migraciones, su permiso se encuentra vencido, lo que da cuenta de una permanencia prolongada en el territorio nacional.Por estas consideraciones y lo dispuesto, además, en el artículo 21 de la Constitución Política de la República, se acoge el recurso de amparo interpuesto a favor de Marko Saint-Bert en contra Servicio Nacional de Migraciones, y, por consiguiente, se deja sin efecto la Resolución Exenta N°24582912, de 18 de noviembre del 2025, debiendo la autoridad migratoria, reabrir el procedimiento administrativo y otorgar un plazo no inferior a 30 días a fin de que el amparado acredite el pago de la sanción por residencia irregular, debiendo proceder como en derecho corresponda.Acordada con el voto en contra del Ministro Sr. Pablo Droppelmmann Cuneo, quien estuvo por rechazar la presente acción constitucional de amparo, considerando que el rechazo de la solicitud por parte del Servicio Nacional de Migraciones no resulta ilegal, al fundarse en una causal contemplada en el artículo 88 N°1 de la Ley 21.325, en relación al artículo 37 inciso quinto del mismo cuerpo legal, y previo apercibimiento concedido para subsanar la solicitud, sin que el amparado acompañara el comprobante de pago de la multa por haber residido de manera irregular en el paísRegístrese, notifíquese y archívese en su oportunidad.N°Amparo-4703-2025.En Valparaíso, veintisiete de noviembre de dos mil veinticinco, se notificó por el estado diario la resolución que antecede.                        ⚠                      Sin documento en esta instancia - pdf
