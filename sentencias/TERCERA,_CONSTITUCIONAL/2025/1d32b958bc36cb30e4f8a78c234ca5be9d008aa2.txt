@@ -1,0 +1,86 @@
+METADATA
+
+case_id: 1d32b958bc36cb30e4f8a78c234ca5be9d008aa2
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7969794
+
+rol: 31524-2025
+
+fecha_sentencia: 2025-12-23
+
+caratulado: DÍAZ ICAZA CLAUDIA MARCELA CONTRA ILUSTRE MUNICIPALIDAD DE DIEGO DE ALMAGRO
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (CIVIL) APELACIÓN PROTECCIÓN
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintitrés de diciembre de dos mil veinticinco.
+
+Vistos:
+
+Se confirma la sentencia apelada de tres de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Punta Arenas, en el Ingreso Corte N°Amparo-247-2025.
+
+Regístrese y devuélvase.
+
+Rol N°54510-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Punta Arenas, tres de diciembre de dos mil veinticinco.
+
+VISTOS:
+
+Que comparece doña Priscilla Vásquez Casanova, abogada Defensora Penal Público Penitenciario y deduce acción de amparo en favor de don Esteban Fernando Unicahuín Orozco, cédula nacional de identidad N°19.621.314-7, actualmente privado de libertad en el Complejo Penitenciario de Punta Arenas, en contra de la Comisión de Libertad Condicional que, en sesión de fecha 8 de octubre de 2025, rechazó la postulación del amparado al beneficio de libertad condicional, ello sin ajustarse a derecho, por lo que su privación de libertad se torna arbitraria e ilegal.
+
+Señala que el amparado cumple una pena de tres años y un día impuesta en la causa RIT 513-2023, del Juzgado de Garantía de Punta Arenas, por el delito de tráfico ilícito de drogas.
+
+Inició el cumplimiento de la pena el 14 de septiembre de 2023, tiene fecha de término el 15 de septiembre de 2026 y tiempo mínimo de postulación lo cumplió el 15 de septiembre de 2025.
+
+Considera que la resolución que rechaza el Beneficio de Libertad Condicional es un acto ilegal, pues contraviene lo expresado en el Decreto Ley 321 y la Ley 21.124. Agrega que el rechazo del beneficio de Libertad Condicional por parte de la Comisión respectiva que se funda en exigencias no contempladas en la ley o en requisitos superiores, lo que constituye un acto arbitrario, pues no basta con resaltar los aspectos negativos del condenado y en base a ello rechazar la postulación, sino que debe fundar adecuadamente porque esos aspectos llevan a inclinarse porque deba cumplir el saldo de pena privado de libertad y no bajo la modalidad de libertad condicional.
+
+Entiende que el amparado cumple con el requisito de tiempo mínimo y de conducta intachable durante los últimos 4 bimestres. El amparado fue rechazado por informe psicosocial el cual no es totalmente desfavorable.
+
+Lo cierto es que no se ha evaluado correctamente sus avances y así dar estricto cumplimiento a lo expresado en el artículo 1º del DL Nº321 ya que durante el tiempo de condena el amparado ha desarrollado y ha conseguido significativos avances en su proceso de reinserción, los cuales detalla en el recurso.
+Concluye que el amparado, en tal sentido, ha dado cumplimiento a todos los requisitos, tantos objetivos como subjetivos, que el legislador ha contemplado como necesarios para otorgar la Libertad Condicional.
+
+Solicita se acoja la acción en todas sus partes, ordenando, como medida para restablecer el imperio del derecho, dejar sin efecto la resolución que rechaza la libertad condicional al amparado, decretando que se le conceda dicha libertad.
+
+Que informan el recurso don Marcos Kusanovic Antinopai, Ministro de la Corte de Apelaciones de Punta Arenas, don Guillermo Cádiz Vatcky y don Octavio Salinas Cabrera, jueces titulares del Tribunal de Juicio Oral en lo Penal de esta ciudad, doña Paula Stange Kahler, jueza titular del Juzgado de Garantía de Punta Arenas y don Pablo Aceituno Romero, juez titular del Juzgado de Letras y Garantía de Porvenir.
+
+Sostienen que, analizados y ponderados los antecedentes en el caso del interno Unicahuín Orozco, se rechazó su postulación, por unanimidad, atendido el mérito de los mismos y por estimarse que el condenado presenta un riesgo de reincidencia alto, principalmente asociado a factores de riesgo relacionados con la pérdida de habitualidad laboral, el uso inadecuado del tiempo libre, la vinculación con pares de carácter antisocial y la presencia de un patrón conductual de tipo antisocial, sumado a características personales con potencial criminógeno, vinculadas a dificultades en la resolución asertiva de conflictos y un deficiente control de la ira. En cuanto respecto de la conciencia del delito, se observa una tendencia a centrarse en los perjuicios personales y familiares derivados de su conducta, relegando a un segundo plano el daño ocasionado a la comunidad.
+
+Se reconoce como factor de riesgo relevante el acceso y consumo de drogas, lo que podría facilitar la vinculación con pares antisociales y la comisión de nuevos delitos; por lo que debe consolidar dinámicas prosociales que favorezcan la construcción de vínculos estables y libres de conductas de riesgo. Se hace presente que el condenado da cuenta de una trayectoria delictual de larga data y, asimismo, de su extracto de filiación se observa la presencia de antecedentes previos por lesiones graves gravísimas, condena que se encontraba cumpliendo bajo el régimen de libertad vigilada intensiva, la cual fue revocada tras la comisión de nuevos delitos.
+
+Finalmente, fue de opinión de la Comisión que el condenado requiere fortalecer el desarrollo de habilidades de modulación emocional y autocontrol, así como profundizar en la intervención orientada a la desvinculación de pares antisociales, en tanto constituyen factores directamente asociados a su riesgo de reincidencia; profundizar en el desarrollo de habilidades de autocontrol y regulación emocional, la desvinculación de pares antisociales y el fortalecimiento de competencias.
+
+Se ordenó traer los autos en relación.
+
+CON LO RELACIONADO Y CONSIDERANDO:
+
+PRIMERO: Que el recurso de amparo es una acción constitucional que da origen a un procedimiento autónomo que tiene por objeto proteger la libertad personal y seguridad individual, cuando ella se encuentra amenazada, coartada o vulnerada en cualquier forma, en virtud de una orden ilegítima o de un acto arbitrario.
+
+En consecuencia, puede interponerse de inmediato para instar por la libertad física o ambulatoria de una persona contra quien exista una orden de arraigo, detención o prisión emanada de autoridad que no tenga facultad para disponerla o que, teniendo esa facultad, la ha expedido fuera de los casos previstos en la ley o sin que haya mérito o antecedente que la justifiquen, sea que dicha orden se haya ejecutado o no, por lo que el amparado o cualquier persona a su nombre podrán, si no se hubieren deducido los otros recursos legales, reclamar su inmediata libertad o que se subsanen los respectivos defectos.
+
+SEGUNDO: Que, en este caso, se recurre contra la decisión de la Comisión de Libertad Condicional, que rechazó la postulación del condenado.
+
+TERCERO: Que, de los antecedentes allegados al recurso, aparece que la acción de amparo constitucional intentada no constituye la vía idónea para revisar la decisión que se pretende impugnar, toda vez que en la situación descrita no se avizora ninguna de las hipótesis referidas en el fundamento primero; que, si se hiciere lo que pretende el recurrente, se constituiría esta Corte en una segunda instancia de revisión de aquella decisión, lo que no está contemplado en la ley y, por tanto, requiere modificación legal.
+
+CUARTO: Que, en este sentido, cabe también tener presente que la naturaleza del recurso de amparo es de carácter excepcional, y su supuesto de hecho resulta o proviene de un caso o escenario de limitación o privación de libertad arbitraria o ilegal, lo que no ocurre ni se aprecia en la especie.
+
+QUINTO: Que, finalmente, y sin perjuicio de lo anterior, se ha de indicar que la decisión que motiva el presente arbitrio ha sido emitida por el órgano competente, en uso de sus facultades y otorgando la argumentación necesaria que le entrega suficiente sustento normativo y fáctico, por lo que se descarta cualquier arbitrariedad o ilegalidad.
+
+Por estas consideraciones, y visto, además, lo dispuesto en el artículo 21 de la Constitución Política de la República de Chile y el Auto Acordado sobre tramitación del recurso de amparo, SE RECHAZA el recurso de amparo intentado en favor de Esteban Fernando Unicahuín Orozco, por la abogada Priscilla Vásquez Casanova, en contra de la Comisión de Libertad Condicional.
+
+Regístrese, comuníquese y archívese en su oportunidad.
+
+Rol Corte N°247-2025. AMPARO.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Punta Arenas, tres de diciembre de dos mil veinticinco.VISTOS:Que comparece doña Priscilla Vásquez Casanova, abogada Defensora Penal Público Penitenciario y deduce acción de amparo en favor de don Esteban Fernando Unicahuín Orozco, cédula nacional de identidad N°19.621.314-7, actualmente privado de libertad en el Complejo Penitenciario de Punta Arenas, en contra de la Comisión de Libertad Condicional que, en sesión de fecha 8 de octubre de 2025, rechazó la postulación del amparado al beneficio de libertad condicional, ello sin ajustarse a derecho, por lo que su privación de libertad se torna arbitraria e ilegal. Señala que el amparado cumple una pena de tres años y un día impuesta en la causa RIT 513-2023, del Juzgado de Garantía de Punta Arenas, por el delito de tráfico ilícito de drogas. Inició el cumplimiento de la pena el 14 de septiembre de 2023, tiene fecha de término el 15 de septiembre de 2026 y tiempo mínimo de postulación lo cumplió el 15 de septiembre de 2025. Considera que la resolución que rechaza el Beneficio de Libertad Condicional es un acto ilegal, pues contraviene lo expresado en el Decreto Ley 321 y la Ley 21.124. Agrega que el rechazo del beneficio de Libertad Condicional por parte de la Comisión respectiva que se funda en exigencias no contempladas en la ley o en requisitos superiores, lo que constituye un acto arbitrario, pues no basta con resaltar los aspectos negativos del condenado y en base a ello rechazar la postulación, sino que debe fundar adecuadamente porque esos aspectos llevan a inclinarse porque deba cumplir el saldo de pena privado de libertad y no bajo la modalidad de libertad condicional.Entiende que el amparado cumple con el requisito de tiempo mínimo y de conducta intachable durante los últimos 4 bimestres. El amparado fue rechazado por informe psicosocial el cual no es totalmente desfavorable. Lo cierto es que no se ha evaluado correctamente sus avances y así dar estricto cumplimiento a lo expresado en el artículo 1º del DL Nº321 ya que durante el tiempo de condena el amparado ha desarrollado y ha conseguido significativos avances en su proceso de reinserción, los cuales detalla en el recurso. Concluye que el amparado, en tal sentido, ha dado cumplimiento a todos los requisitos, tantos objetivos como subjetivos, que el legislador ha contemplado como necesarios para otorgar la Libertad Condicional.Solicita se acoja la acción en todas sus partes, ordenando, como medida para restablecer el imperio del derecho, dejar sin efecto la resolución que rechaza la libertad condicional al amparado, decretando que se le conceda dicha libertad.Que informan el recurso don Marcos Kusanovic Antinopai, Ministro de la Corte de Apelaciones de Punta Arenas, don Guillermo Cádiz Vatcky y don Octavio Salinas Cabrera, jueces titulares del Tribunal de Juicio Oral en lo Penal de esta ciudad, doña Paula Stange Kahler, jueza titular del Juzgado de Garantía de Punta Arenas y don Pablo Aceituno Romero, juez titular del Juzgado de Letras y Garantía de Porvenir.Sostienen que, analizados y ponderados los antecedentes en el caso del interno Unicahuín Orozco, se rechazó su postulación, por unanimidad, atendido el mérito de los mismos y por estimarse que el condenado presenta un riesgo de reincidencia alto, principalmente asociado a factores de riesgo relacionados con la pérdida de habitualidad laboral, el uso inadecuado del tiempo libre, la vinculación con pares de carácter antisocial y la presencia de un patrón conductual de tipo antisocial, sumado a características personales con potencial criminógeno, vinculadas a dificultades en la resolución asertiva de conflictos y un deficiente control de la ira. En cuanto respecto de la conciencia del delito, se observa una tendencia a centrarse en los perjuicios personales y familiares derivados de su conducta, relegando a un segundo plano el daño ocasionado a la comunidad. Se reconoce como factor de riesgo relevante el acceso y consumo de drogas, lo que podría facilitar la vinculación con pares antisociales y la comisión de nuevos delitos; por lo que debe consolidar dinámicas prosociales que favorezcan la construcción de vínculos estables y libres de conductas de riesgo. Se hace presente que el condenado da cuenta de una trayectoria delictual de larga data y, asimismo, de su extracto de filiación se observa la presencia de antecedentes previos por lesiones graves gravísimas, condena que se encontraba cumpliendo bajo el régimen de libertad vigilada intensiva, la cual fue revocada tras la comisión de nuevos delitos. Finalmente, fue de opinión de la Comisión que el condenado requiere fortalecer el desarrollo de habilidades de modulación emocional y autocontrol, así como profundizar en la intervención orientada a la desvinculación de pares antisociales, en tanto constituyen factores directamente asociados a su riesgo de reincidencia; profundizar en el desarrollo de habilidades de autocontrol y regulación emocional, la desvinculación de pares antisociales y el fortalecimiento de competencias.Se ordenó traer los autos en relación.CON LO RELACIONADO Y CONSIDERANDO:PRIMERO: Que el recurso de amparo es una acción constitucional que da origen a un procedimiento autónomo que tiene por objeto proteger la libertad personal y seguridad individual, cuando ella se encuentra amenazada, coartada o vulnerada en cualquier forma, en virtud de una orden ilegítima o de un acto arbitrario. En consecuencia, puede interponerse de inmediato para instar por la libertad física o ambulatoria de una persona contra quien exista una orden de arraigo, detención o prisión emanada de autoridad que no tenga facultad para disponerla o que, teniendo esa facultad, la ha expedido fuera de los casos previstos en la ley o sin que haya mérito o antecedente que la justifiquen, sea que dicha orden se haya ejecutado o no, por lo que el amparado o cualquier persona a su nombre podrán, si no se hubieren deducido los otros recursos legales, reclamar su inmediata libertad o que se subsanen los respectivos defectos. SEGUNDO: Que, en este caso, se recurre contra la decisión de la Comisión de Libertad Condicional, que rechazó la postulación del condenado. TERCERO: Que, de los antecedentes allegados al recurso, aparece que la acción de amparo constitucional intentada no constituye la vía idónea para revisar la decisión que se pretende impugnar, toda vez que en la situación descrita no se avizora ninguna de las hipótesis referidas en el fundamento primero; que, si se hiciere lo que pretende el recurrente, se constituiría esta Corte en una segunda instancia de revisión de aquella decisión, lo que no está contemplado en la ley y, por tanto, requiere modificación legal. CUARTO: Que, en este sentido, cabe también tener presente que la naturaleza del recurso de amparo es de carácter excepcional, y su supuesto de hecho resulta o proviene de un caso o escenario de limitación o privación de libertad arbitraria o ilegal, lo que no ocurre ni se aprecia en la especie. QUINTO: Que, finalmente, y sin perjuicio de lo anterior, se ha de indicar que la decisión que motiva el presente arbitrio ha sido emitida por el órgano competente, en uso de sus facultades y otorgando la argumentación necesaria que le entrega suficiente sustento normativo y fáctico, por lo que se descarta cualquier arbitrariedad o ilegalidad. Por estas consideraciones, y visto, además, lo dispuesto en el artículo 21 de la Constitución Política de la República de Chile y el Auto Acordado sobre tramitación del recurso de amparo, SE RECHAZA el recurso de amparo intentado en favor de Esteban Fernando Unicahuín Orozco, por la abogada Priscilla Vásquez Casanova, en contra de la Comisión de Libertad Condicional.Regístrese, comuníquese y archívese en su oportunidad.Rol Corte N°247-2025. AMPARO.                        ⚠                      Sin documento en esta instancia - pdf
