@@ -1,0 +1,268 @@
+METADATA
+
+case_id: 14bbf8fd876d17c7c480a81e1d298d0163392fa5
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044590
+
+rol: 6082-2026
+
+fecha_sentencia: 2026-02-27
+
+caratulado: PARTIDAS MONRROY JAIMEN ALBERTO CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintisiete de febrero de dos mil veintiséis.
+
+Vistos y teniendo presente:
+Primero: Que, de conformidad con lo dispuesto en el inciso séptimo del artículo 483-A del Código del Trabajo, se ha ordenado dar cuenta de la admisibilidad del recurso de unificación de jurisprudencia deducido por la demandante en contra de la sentencia dictada por la Corte de Apelaciones de San Miguel, que declaró abandonado el de nulidad interpuesto contra la de instancia que desestimó la demanda de desafuero sindical.
+
+Segundo: Que según se expresa en la legislación laboral, el recurso de unificación de jurisprudencia es su susceptible de ser deducido en contra de la resolución que falle el recurso de nulidad, estableciéndose su procedencia para el caso en que “respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de Tribunales Superiores de Justicia”, conforme lo explicita el artículo 483 del Código del Trabajo.
+
+Asimismo, del tenor de lo dispuesto en el artículo 483-A del cuerpo legal antes citado, aparece que esta Corte debe controlar, como requisitos para su admisibilidad, por un lado, su oportunidad; en segundo lugar, la existencia de fundamento, además de una relación precisa y circunstanciada de las distintas interpretaciones respecto de las materias de derecho objeto de la sentencia, sostenidas en diversos fallos emanados de los tribunales superiores de justicia, y finalmente, debe acompañarse copia del o los fallos que se invocan como fundamento del recurso en referencia.
+
+Tercero: Que la materia de derecho propuesta para ser unificada consiste en “Determinar el sentido y alcance de la disposición contenida en el artículo 174 del Código del Trabajo, en tanto otorga al juez una facultad para autorizar –o no hacerlo- la desvinculación de un trabajador amparado por la inamovilidad o fuero”.
+Cuarto: Que el recurso en análisis fue declarado abandonado, por lo que no se decidió acerca del recurso de nulidad, lo que incumple los presupuestos de procedencia impuestos en el inciso primero del artículo 483-A del Código del Trabajo.
+
+Quinto: Que, en las condiciones expuestas, y, en especial, dado el carácter especialísimo y excepcional que reviste el mecanismo de impugnación que se intenta, particularidad reconocida expresamente por el citado artículo 483 del estatuto laboral, al determinar su procedencia bajo los supuestos estrictos que la disposición que le sigue consagra, se impone la inadmisibilidad del recurso.
+
+Por estas consideraciones y normas citadas, se declara inadmisible el recurso de unificación de jurisprudencia interpuesto contra la sentencia de veintitrés de diciembre de dos mil veinticinco.
+
+Regístrese y devuélvase.
+
+Rol N° 2.837-2026.-
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+San Miguel, veintitrés de diciembre de dos mil veinticinco.
+
+Sala: Primera Sala
+
+Rol: 590-2025 Laboral
+
+Ruc: 2440634105-0
+
+RIT O-1065-2024
+
+Tribunal: Juzgado de Letras del Trabajo de San Miguel
+
+Integrantes: Ministros señor Danilo Quezada Rojas y señora Alondra Castro Jiménez y Abogado Integrante señora Paula Manzo Sagüez
+
+Relator: Nicole Bustos Maulén
+Digitadora: Marliz Vergara Jaramillo
+
+Recurrente: no comparece
+
+Recurrido: Simón González
+
+Registro de audio: 2440634105-0-91
+
+Hora de inicio: 11:04 am.
+
+Hora de término: 11:05 am
+
+Caratulado: Corporación Educacional María Medianera del Bosque con Diocares Rebolledo Carolina
+
+Tipo de recurso: Nulidad
+
+Escritos resueltos en audiencia: 1 (Folio 9)
+
+Certifico que el abogado recurrente señor Abel Sepúlveda González, en representación de la parte demandante, no se anunció para alegar ni se encontraba en dependencias de esta Corte de Apelaciones ni en sala de espera de la audiencia Zoom al momento de iniciarse la vista de la causa, pese a haberse publicado oportunamente en el Monitor de Salas. San Miguel, 23 de diciembre de 2025. Nicole Bustos Maulén, relatora.
+
+San Miguel, veintitrés de diciembre de dos mil veinticinco.
+Vistos:
+
+Con el mérito de la certificación que antecede y de conformidad con lo dispuesto en el inciso final del artículo 481 del Código del Trabajo, se declara abandonado el recurso de nulidad deducido por la parte demandante en contra de la sentencia dictada en audiencia de quince de julio del año en curso, por el Juzgado de Letras del Trabajo de San Miguel, en causa RIT O-1065-2024.
+
+Regístrese y devuélvase.
+
+Nº 590-2025 Laboral.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+San Miguel, a quince de julio de veinte veinticinco.
+VISTOS, OIDOS Y CONSIDERANDO:
+
+Primero: Que, doña NATALIA JEANNTTE RONDANELLI LAGOS, ingeniera comercial, cédula nacional de identidad número 14.093.399-6, en representación convencional de la sociedad CORPORACIÓN EDUCACIONAL MARÍA MEDIANERA DEL BOSQUE”, RUT N° 65.153.972 – 2, establecimiento educacional, ambos domiciliados para estos efectos en Av. Lo Blanco 346 y Pedro de Mendoza N° 13160, comuna del El Bosque, de conformidad a lo dispuesto en los artículos 446 y siguientes del Código del Trabajo, interpone demanda de desafuero en contra de la trabajadora doña CAROLINA ANDREA DIOCARES REBOLLEDO, cédula nacional de identidad número 18.221.703 – 4, docente, domiciliada en calle Lo Blanco N°225, comuna de San Bernardo, a fin de que conceda su desafuero para poner término a la relación laboral existente de acuerdo a los siguientes antecedentes de hecho y derecho:
+Con fecha 01 de abril de 2023, su representada contrató los servicios de doña CAROLINA ANDREA DIOCARES REBOLLEDO, a fin de que esta realizara labores de profesora de educación diferencial. En este sentido, el contrato laboral suscrito por las partes, con ocasión de esta relación laboral corresponde a aquellos que la ley define como definido, según consta del mismo.
+Posteriormente, con fecha 01 de marzo de 2024, suscribieron un anexo a sus respectivos contratos de trabajo en el cual se mantiene la naturaleza de carácter definido, toda vez que de conformidad a la cláusula octava en dicho anexo establece que su duración será hasta el 28 de febrero de 2025 y que, cumplida la fecha, se entenderá terminado por vencimiento del plazo.
+Finalmente, hace presente que, con fecha 26 de octubre de 2022 se la informa a su representada, de la constitución del sindicado en la CORPORACIÓN MARÍA EDUCACIONAL DE BOSQUE, de la cual actualmente la trabajadora doña CAROLINA ANDREA DIOCARES REBOLLEDO es tesorera sindical.
+Aduce que, se decidió poner término al presente contrato de trabajo por vencimiento del plazo convenido en el contrato, fundado en la cláusula octava de los anexos de contrato ya señalada puesto que señala expresamente: “Las partes acuerdan que el presente contrato será hasta el 28 de febrero de 2025. Cumplida esa fecha se entenderá terminado por vencimiento del plazo.”
+En este sentido, la referente acción de desafuero tiene por objeto solicitar la autorización del término del contrato del trabajo de la demandada, teniendo presente lo dispuesto en el inciso primero del artículo 174 del Código del Trabajo: “En el caso de los trabajadores sujetos a fuero laboral, el empleador no podrá poner término al contrato sino con autorización previa del juez competente, quien podrá concederla en los casos de las causales señaladas en los números 4 y 5 del artículo 159 y en las del artículo 160.”
+Reitera que se trata un contrato definido, en que se invoca la causal del artículo 159 N°4 el cual señala que: “El contrato de trabajo terminará en los siguientes casos: 4.- Vencimiento del plazo convenido en el contrato. La duración del contrato de plazo fijo no podrá exceder de un año.”
+Señala que, es plenamente ajustada a derecho la solicitud de desafuero de la trabajadora, que habiendo sido contratada a plazo definido se verifica su despido conforme a derecho en orden de existir un fuero laboral y que se encuentra en discusión.
+Que, a pesar de lo anterior, existiendo el elemento fáctico para el término del contrato de trabajo y debiendo entonces invocar la causal legal que para ello dispone el legislador, esto es la del artículo 159 N°4 del Código del Trabajo, se hace imprescindible interponer la presente acción de desafuero basado en los fundamentos esgrimidos en esta presentación y que se esgrimieron en la carta de término de contrato de trabajo y que facultan a ejercer esta demanda solicitando el desafuero de la dirigente sindical toda vez que la demandada ha sido desvinculada por la causal establecida en el artículo 159 N°4 del Código del Trabajo.
+En mérito de lo expuesto, de las normas legales citadas y demás normativa aplicable, solicita tener por interpuesta demanda ordinaria por desafuero laboral en procedimiento de aplicación general en contra de doña CAROLINA ANDREA DIOCARES REBOLLEDO, dirigente sindical del Sindicato de Trabajadores de la CORPORACIÓN EDUCACIONAL MARÍA MEDIANERA DEL BOSQUE, acogerla a tramitación y en definitiva, declarar el desafuero de la trabajadora referida por las razones anteriormente expuestas.
+
+Segundo: Que, doña CAROLINA ANDREA DIOCARES REBOLLEDO, procede a contestar demanda interpuesta en su contra, solicitando desde ya el rechazo de la misma, en todas sus partes, con expresa condena en costas, por no ser efectivos los hechos y fundamentos en que se sustenta.
+
+HECHOS NO CONTROVERTIDOS:
+
+- Que con fecha 01 DE ABRIL DE 2023 se celebró contrato de trabajo a PLAZO FIJO, con fecha de término 29 DE FEBRERO DE 2024, para que se desempeñara como PROFESORA DE EDUCACIÓN DIFERENCIAL en el Establecimiento Escolar MARIA MEDIANERA, cuyo empleador es la actora de estos autos.
+- Que con Fecha 01 DE MARZO DEL 2024, se celebró anexo de contrato de trabajo a PLAZO FIJO, con fecha de término 28 DE FEBRERO DE 2025. Cuyo empleador es la actora de autos.
+- Que, con fecha 16 DE OCTUBRE DE 2022 se informó a la demandante la constitución del sindicato en la CORPORACIÓN EDUCACIONAL MARÍA MEDIANERA DEL BOSQUE, respecto a este dato, es dable señalar, que se trata de un sindicato respectivamente nuevo, sindicato del cual hoy en día forma parte como Tesorera.
+- Que con fecha 22 de NOVIEMBRE DEL 2024, se notificó por escrito al empleador, dando cumplimiento a lo señalado en el artículo 225 del Código del Trabajo, la elección del directorio del sindicato, de la cual fue electa como tesorera.
+
+RELACIÓN CIRCUNSTANCIADA DE LOS HECHOS:
+Antecedentes de nuestra relación laboral. Con fecha 01 DE ABRIL DE 2023 se celebró CONTRATO DE TRABAJO A PLAZO FIJO, con fecha de término 29 DE FEBRERO DE 2024, para que se desempeñara como PROFESORA DE EDUCACIÓN DIFERENCIAL en el Establecimiento de Educación denominado MARIA MEDIANERA; con fecha 01 DE MARZO DEL 2024, se celebró anexo de contrato de trabajo a PLAZO FIJO, con fecha de término 28 DE FEBRERO DE 2025. Cuyo empleador es la actora de autos; el 19 DE JULIO DE 2024, se celebra entre el sindicato y la Corporación Educacional, el contrato colectivo; con fecha 03 DE MARZO DEL 2025, su empleadora le negó el acceso a las dependencias físicas del Establecimiento Escolar, ILEGAL Y ARBITRARIAMENTE, en circunstancias que este tribunal no concedió la Medida Prejudicial del ARTÍCULO 174 INCISO SEGUNDO DEL CÓDIGO DEL TRABAJO, en circunstancias que en la página web de la Corporación Educacional, aparece considerada para la planta de DOCENTES DEL AÑO 2025.
+Circunstancias Laborales antes de la huelga julio 2024.
+Durante todo el año 2023 y 2024 se desempeñó sin problemas y dando cumplimiento a todas sus obligaciones laborales dentro del Establecimiento Escolar.
+Dice que su rol fue constantemente destacado y agradecido por las y los apoderados del colegio, e incluso era reconocida de manera positiva por el Establecimiento Educacional, como consta en la Rúbrica de Observaciones de Aula 2023, practicada por los observadores Giovanna Romero y Claudio Aguilera.
+
+Señala que, el trato con la Sostenedora del Establecimiento Escolar, antes de la huelga de julio de 2024, era muy cercano conmigo, toda vez que fue Estudiante del Colegio María Medianera del Bosque y además realizó su práctica profesional en dicho Establecimiento Escolar.
+Circunstancias Laborales posteriores a la huelga 2024:
+Indica que, aun cuando su desempeño era siempre adecuado y daba cumplimiento a lo solicitado, comenzó a tener roces con su empleador y el equipo directivo producto del rol que adquirió entre sus compañeros dentro de un proceso de conflictos que tuvieron con la demandante.
+
+Que, al inicio del mes de julio de 2024, se produce huelga porque el Establecimiento Educacional no quería suscribir el Contrato Colectivo, no obstante, se suscribió con fecha 19 de julio de 2024, poniendo término a la huelga iniciada por 24 colegas;
+
+Desde dicho hito se comenzaron a gestar una serie de prácticas antisindicales, tanto con su persona como con los restantes 23 huelguistas, como, por ejemplo:
+1.- Despido del profesor de música que era cara visible del sindicato y llevaba 5 años prestando servicios para el Establecimiento Escolar.
+2.- Proferir comentarios como “En cuanto pueda los voy a echar a todos.” relato que se realizó durante una reunión con los colegas que no se encontraban en huelga, mientras ella y los 23 colegas restantes estaban exigiendo el cumplimiento de sus derechos como trabajadores.
+No suficiente con las prácticas antisindicalistas, el clima laboral se torna tenso dificultando la comunicación con la sostenedora, porque posterior a la huelga, surgen requisitos que no existían como que para poder hablar con ella se requiere enviar un correo electrónico solicitando una cita, como también que la comenzó a saludar como Doña Carolina Diocares, en circunstancias que anteriormente le decía Caro, incluso en oportunidades negándole el saludo durante las mañanas al momento de registrar la asistencia de la jornada laboral, la cual se realizaba en las dependencias físicas de su oficina.
+Agrega que, no existe tal protocolo de comunicación en el Reglamento de Convivencia Escolar y a priori en el Reglamento de Orden Higiene y Seguridad.
+
+Refiere que, posterior a la huelga de julio del año 2024 la sostenedora le negó realizar su práctica profesional, viéndose obligada a solicitar licencia médica para poder realizarla en otro Establecimiento Escolar; que, al finalizar su Práctica Profesional, le notificó dicha circunstancia a la Sostenedora, quien ni siquiera la felicita, ni muestra asombro por su logro personal.
+Menciona que, posterior a su regreso al colegio, se realiza una asamblea del sindicato, en la cual la eligen como tesorera del sindicato, con fecha 20 de noviembre de 2024.
+De acuerdo a todos los hechos anteriormente relatados, es que el sindicato ha denunciado ante la Dirección Regional del Trabajo Metropolitana Oriente N° E370515/2024, por prácticas antisindicales de la sostenedora en comento, clara representación de ello, es la denuncia en atención a la extensión de la jornada académica hasta el día 13 de enero de 2025, como concepto de recuperación por los días perdidos en la huelga del mes de julio, dicha medida sólo fue aplicada a los 24colegas huelguistas, mientras tanto que todos los demás docentes y asistentes de aula, salieron efectivamente de vacaciones en la fecha estipulada en el año calendario docente.
+Agrega que, resulta curioso que se haya decidido despedirla si había sido bien evaluada desde el punto de vista profesional, nunca había recibido observaciones negativas de su desempeño y dio cumplimiento con todos los plazos establecidos respecto a las funciones que tenía que realizar.
+Añade que, es una educadora diferencial que tiene a su cargo 3 estudiantes con necesidades educativas permanentes (NEEP), 2 de ellos son Estudiantes con Diagnóstico de Trastorno Espectro Autista (TEA) y 1 de ellos con discapacidad intelectual, además tiene a su cargo 15 estudiantes con Necesidades Educativas Transitorias (NEET), ambos requiriendo de una continuidad permanente para contribuir en el Desarrollo de su Aprendizaje y entregar la mayor cantidad de herramientas para que enfrente la educación media y profesional una vez que egresen del Establecimiento Escolar.
+Cree que se trata de algo personal en su contra, toda vez que formó parte de la huelga y posteriormente de la directiva del sindicato.
+Expone que, la relación con el empleador, que ya se encontraba en estado de tensión durante la huelga del mes de julio de 2024, comenzó a empeorar de manera exponencial, sobre todo respecto de ella, en el momento en que fue elegida como tesorera del sindicato.
+Circunstancias posteriores a la interposición de la acción de desafuero:
+Con fecha 3 de marzo de 2025, le correspondía volver a sus funciones como docente, ya que en resolución de fecha 10 de febrero de 2025, no da lugar a su separación provisional, diciendo expresamente la resolución que consta en estos autos a folio 14, lo siguiente “Al primer otrosí: Atendido lo dispuesto por el artículo 174 inciso segundo del Código del Trabajo y teniendo presente que los antecedentes aportados por el demandante no son suficientes a juicio del Tribunal para conceder la separación provisional solicitada, no ha lugar”.
+Que, ese día, inicio del año escolar, se presentó en su lugar de trabajo a la hora pactada en el contrato laboral, no obstante lo anterior le niegan el acceso de manera Ilegal y arbitraria, toda vez que no se ha decretado la medida prejudicial del artículo 174 inciso 2 del código del ramo, presumiendo la mala fe de la empleadora al negarle el acceso, vulnerando abiertamente sus derechos fundamentales no tan solo como persona natural sino también como Trabajadora de la Corporación Educacional, siendo de conocimiento público la resolución judicial que constan en estos autos a folio 14.
+Asevera que, la mala fe de la actora va más allá de querer desaforarla, desvincularla, y negarle el acceso al Establecimiento Educacional, ya que, con fecha 5 de marzo de 2025, mediante la plataforma Facebook, la psicopedagoga del Establecimiento Educacional, Camila Gálvez, sube oferta laboral relativa a su puesto de trabajo, en circunstancias que ella debería seguir trabajando.
+Expresa que, la decisión del empleador de no renovar su contrato no obedece en absoluto a que no fuese idónea para desempeñar el cargo, y lo normal hubiese sido que, de no haber formado parte de la huelga y parte de la directiva del sindicato, se le hubiese renovado el contrato y hubiera pasado a contrato indefinido, pero ello no ocurrió, por lo anteriormente señalado y porque es parte fundamental de la directiva del Sindicato y del proceso de aprendizaje de sus estudiantes con Necesidades Educativas Transitorias y Permanentes.
+FUNDAMENTOS DE DERECHO.
+Dice que, la razón para solicitar su desafuero es en virtud del término del plazo convenido en el contrato, establecida en el artículo 159 N° 4 del Código del Trabajo, sin embargo, esto probablemente no iba a ser efectivo, ya que su desempeño era adecuado, su cargo era necesario, y lo usual en esos casos es que la contratación sea de carácter indefinido.
+Esgrime que, se ha configurado una legítima expectativa de que su contrato sería renovado, ya que aparece como considerada en la planta del año 2025 de la Corporación Educacional María Medianera Del Bosque, según consta en la página web de la actora (https://www.colegiomariamedianera.cl/nosotros.php) y que la misma contratación a plazo fijo, en este caso concreto, ha desvirtuado el propósito de la norma contenida en el artículo 159 N 4 antes citado.
+En este mismo sentido se ha pronunciado la Iltma. CORTE DE APELACIONES DE VALDIVIA, en fallo recaído en causa ROL N° 20-2015, cuyo considerando sexto señala: “Que, asentada tal atingente reflexión, asentada en otros dictámenes, la controversia planteada en el caso sub lite se circunscribe a determinar la concurrencia de la causal de expiración del contrato de trabajo de la demandada, contemplada en el N° 4 del artículo 159 del Código del Trabajo, esto es, vencimiento del plazo convenido, ello en conexión al real propósito y voluntad que instó a las partes a instaurar el vínculo laboral en comento, recurriendo a la buena fe inserta en todo convención de esta naturaleza, como se ha indicado, dilucidando el juez del grado que el propósito era diverso a la temporalidad, en consideración especialmente a los supuestos relacionados con el carácter permanente de las faenas y la factibilidad de la empleadora de continuar brindando el desempeño en cuestión, presupuestos que sin embargo, en estricto rigor, a criterio de ésta Corte se distancian de la voluntad exteriorizada por los contratantes en el pacto en análisis y que debe inequívocamente desprenderse del contexto del convenio y las circunstancias que circundaron su suscripción, al margen de factores independientes a dicho entorno y que no se dilucidan de sus designios naturales, más aún cuando estos se hacen recaer sobre la misma empleadora, en lo relativo a la presunta prolongación fáctica de las labores encomendadas, que ella misma delimitó válidamente en el tiempo y decidió finiquitar una vez transcurrida su vigencia”.
+Que, en el improbable caso que se estimare que efectivamente el plazo fijo es la razón por la que su empleador ha decidido su desvinculación, señala que esto no basta para realizar un acto con tales implicancias, ya que la facultad disciplinaria del empleador de poner término al contrato de trabajo debe ser ponderada con la afectación a la libertad sindical que significa el despido de la tesorera de un sindicato y que, además dicha facultad del empleador debe ser ponderada con la afectación del Interés Superior del Niño, dado que atiende a estudiantes con Necesidad Educativas Transitorias y con Necesidades Educativas Permanentes, de los cuales destacan estudiantes con Trastorno de Espectro Autista Certificados, con quienes ha estrechado lazos pedagógicos y de confianza, conservando un estado de regulación emocional y conductual con ellos.
+Que, si bien es cierto que el artículo 174 del C.T., en su inciso 1 dispone la autorización previa del juez competente, esta norma utiliza el verbo “PODRÁ” (facultativo y privativo del sentenciador) concederla en ciertos casos.
+Así, esta facultad del juez en ningún caso representa una obligación, es decir, el juez no está obligado a aprobar dicha separación, lo que considera el caso del ARTÍCULO 159 Nº4, ya que no ha sido excluido por la ley.
+Así también lo ha sostenido nuestra jurisprudencia, en específico, lo indica la ILUSTRÍSIMA CORTE DE APELACIONES DE VALDIVIA EN CAUSA ROL 20-2015: “CUARTO: Que conforme lo dispone el artículo 174 del Código del Trabajo, en el caso de trabajadores sujetos a fuero, como ocurre en estos autos, el Juez podrá conceder autorización al empleador para poner término al contrato de trabajo en los casos señalados en los numerales cuarto y quinto del artículo 159 y de las causales contempladas en el artículo 160 ambas del texto legal antes mencionado, desprendiéndose del tenor de la disposición legal antes citada que el tribunal está facultado para conceder la autorización requerida en el evento de concurrir alguno de los motivos antes señalados, vencimiento del plazo convenido y conclusión del trabajo o servicio que le dio origen, situación que lo obliga a ponderar caso a caso, si concurren elementos suficientes que justifiquen autorizar el despido del trabajador que goza de fuero”.
+La finalidad de esta prerrogativa es, entonces, justamente la PROTECCIÓN A LA ACTIVIDAD SINDICAL. En ese orden de cosas, cabe hacer una ponderación entre el supuesto perjuicio que implica para la empleadora continuar la relación laboral y la protección a la libertad sindical y su configuración normativa y la eventual alteración del proceso de aprendizaje de los estudiantes con Necesidades Educativas Especiales sean transitorias o permanentes, junto con el Interés del Niño.
+Sostiene que, la Constitución Política de la República le brinda una especial protección de los grupos intermedios – dentro de los cuales cabe señalar se encuentran las organizaciones sindicales-, así, ya en el artículo 1 inciso 3, se dispone que “El Estado reconoce y ampara a los grupos intermedios a través de los cuales se organiza y estructura la sociedad y les garantiza la adecuada autonomía para cumplir sus propios fines específicos”.
+A su turno, el artículo 212 del Código del Trabajo, reconoce a los trabajadores del sector privado y de las empresas del Estado cualquiera sea su naturaleza jurídica, el derecho a constituir, sin autorización previa, las organizaciones sindicales que estimen convenientes, con la sola condición de sujetarse a la ley y a los estatutos de las mismas”.
+Establece que son fines principales del sindicato entre otros: “En general, realizar todas aquellas actividades contempladas en los estatutos y que no estuvieren prohibidas por ley”.
+Que, no habiendo incurrido en ninguna actividad ilegal, es que la actividad sindical se encuentra amparada en la cúspide de nuestro ordenamiento jurídico, artículo 19 N°19 de la Constitución, que establece “La Constitución asegura a todas las personas […] El derecho a sindicarse en los casos y la forma que señala la ley. La afiliación sindical será siempre voluntaria. La ley contemplará los mecanismos que aseguren la autonomía de estas organizaciones”, consagrando el derecho fundamental a la LIBERTAD SINDICAL, que la doctrina define como “El derecho que asiste a todos los trabajadores para constituir organizaciones, afiliarse o desafiliarse a ellas, a darse su propia normativa, sin intervención de terceros; y, específicamente, el derecho al ejercicio de la actividad sindical por medio de aquellas acciones tendientes a la defensa y promoción de los intereses que le son propios, en particular, la negociación colectiva y el derecho a huelga”. (Mario Varas, 2003).
+Aduce que, la libertad sindical no solo se encuentra reconocida en la Constitución, sino que también en los Convenios Internacionales ratificados por Chile, especialmente los CONVENIOS N° 87 Y 98 DE LA ORGANIZACIÓN INTERNACIONAL DEL TRABAJO (OIT), instrumentos que consagran la libertad sindical como un derecho fundamental de los trabajadores y de las organizaciones sindicales, tanto en su dimensión individual como colectiva.
+Refiere que, de acuerdo a la normativa internacional directamente aplicable al caso que sustenta esta presentación, el despido a un representante sindical resulta una vulneración directa a la Libertad Sindical, que es elevada al nivel de derecho fundamental, sobreponiéndose a cualquier otra materia.
+En síntesis, previene que, aun si se estima que la demandada incurre en la causal invocada únicamente porque de manera formal está en dicho supuesto, será facultativo acceder a dicha solicitud, ya que se deberá ponderar el interés del empleador en ponerle término al contrato de trabajo con la libertad sindical, que se ve restringida con el despido de uno o más de los dirigentes de una organización sindical. Más aún, si se considera que todos los hechos se circunscriben a conflictos en la negociación por las condiciones laborales, y en la conformación de la directiva del sindicato a menos de tres meses que le notificaron de la presente causa.
+Solicita su inmediato reintegro a sus funciones laborales y en mérito de lo expuesto y lo dispuesto en los artículos 160 y 174 del Código del Trabajo, artículos 1, 5 y 19 N°1 de la Constitución y los Tratados Internacionales vigentes y ratificados por Chile señalados en el cuerpo de esta presentación y demás normas legales solicita tener por contestada en tiempo y forma la demanda interpuesta en su contra de su persona por parte de su empleador, procediendo a su rechazo, con costas. En virtud del artículo 174 inciso segundo y resolución que consta en folio 14 de autos, solicita su inmediato reintegro a sus funciones como educadora diferencial de la demandada, mientras se sustancia el presente juicio, con derecho a remuneración y demás beneficios que proceden y entendiéndose que todos los días que se encuentre suspendida de sus labores, se entiendan trabajados para todos los efectos legales.
+
+Tercero: Que, efectuado el llamado a conciliación, no se produjo.
+
+Que, se establecieron como hechos pacíficos, los siguientes:
+
+1. Que la trabajadora ha prestado servicios bajo vínculo de subordinación y dependencia de la demandada.
+2. La fecha de inicio
+3. Las funciones
+4. Que el contrato que vinculó a la actora con la demandada era un contrato a plazo, siendo la fecha acordada de término el 28 de febrero.
+5. Que con fecha 26 de octubre de 2022 se habría informado la constitución del sindicato Corporación María Educacional de El Bosque.
+
+6. Que la trabajadora a la fecha de interposición de la demanda detentaba la calidad de tesorera en la respectiva organización sindical.
+7. Que la trabajadora está amparada por fuero sindical.
+Cuarto: Que, se fijaron como hechos controvertidos, los siguientes:
+
+1. Vigencia del fuero sindical que ampara a la trabajadora. Pormenores y circunstancias de lo anterior.
+2. Procedencia de la acción de desafuero sindical solicitado por la demandante, en relación a Doña Carolina Diocares Rebolledo. Pormenores y circunstancias de lo anterior.
+
+Quinto: Que, la demandante, para acreditar sus pretensiones, incorporó prueba documental, consistente en:
+
+1, Contrato de Trabajo de Carolina Diocares
+2. Anexo contrato de trabajo de Carolina Diocares
+3. Informe Acompañamiento de Aula de Carolina Diocares
+4. Registro de asistencia de Caolina Diocares año 2024
+5. Carta de comunicación de Directiva Sindical de fecha 20 de noviembre de 2024.
+6. Nómina de Trabajadores afiliados al Sindicato de trabajadores de la Corporación Educacional María Medianera del Bosque.
+Confesional: Solicita se cite a absolver posiciones a la demandada Carolina Andrea Diocares Rebolledo, bajo apercibimiento legal. Se desiste.
+Testimonial:
+
+1.- Giovanna Alejandra Romero Cruces Coordinadora PIE Rut: 13.295.999-4, Coordinadora PIE de la demandada, quien previo juramento señaló que conoce a Carolina Diocares porque fue profesora diferencial del colegio nivel de séptimos básicos y ella es la coordinadora del equipo, que se desempeñó la demandante hasta el 28/2/2025; que se hacen observaciones de aula para evaluar a los docentes junto a una asesoría externa y que se concluyó que la evaluación de las 2 docentes de aula, la demandada y doña Joselyn Barrera, profesora de matemáticas, fue insuficiente y básica; que estas observaciones se hacen 3 veces al año y la última fue realizada a fines de octubre, inicios de noviembre 2024; que ella no tiene injerencia en la renovación de los contratos; que Joselyn sigue trabajando a pesar de la evaluación obtenida pero su contrato es indefinido, desde hace aprox. 4 o 5 años; que la demandada estuvo con licencia aproximadamente por dos meses periodo agosto/septiembre; se le exhibe el documento “Pantallazo simple de la página web de la Corporación Educacional María Medianera Del Bosque, respecto de la cual aparece la demandada como contemplada para la planta docente del año 2025”, dice que no lo reconoce aunque el logo si corresponde al establecimiento, que faltan educadoras en la nómina, que no tiene fecha; que deberían aparecer todas las educadoras de párvulos y todo el cuerpo docente. Contrainterrogada: señaló que en el año 2024 hubo 10 educadoras diferenciales, número que se mantiene este año 2025, que no hay alumnas en práctica, que la función de la demandada es de carácter permanente por tratarse de un colegio adherido al programa de integración; que después de las observaciones de aula se hace una retroalimentación aproximadamente 5 días después; que no se renovaron los contratos de todas las educadoras diferenciales.
+
+2. Cristian Fernando Jara Quiroz Docente Rut: 15.558.046-1, quien previo juramento, declaró que conoce a la demandada porque era educadora PIE de 7° básico y él es profesor de ciencias de 5° a 8° básico y, además, encargado de informática; que el contrato de la demandada era a plazo fijo hasta el 28/2/2025; se le exhibe el mismo pantallazo exhibido a la primera testigo y sobre éste, lo reconoce y dice que él lo subió a la página web del establecimiento en enero de 2025 ya que el es quine edita y maneja la información que se publica; desconoce la fecha en que fue captada la imagen y no aparecen las jefaturas, porque aparecen en el mes de marzo, que es cuando se hace el proceso de actualización de los datos y esa es la información definitiva; se le pregunta porque fue incluida en esa nómina si sabía que el contrato a plazo fijo, y dice que pudo haber sido una omisión que no consideró; Contrainterrogado: dice que a él no le corresponde efectuar publicaciones sobre empleos;
+
+Sexto; Que, la demandada, a su turno, incorporó prueba documental, consistente en:
+
+1. Contrato de Trabajo de fecha 01 de abril de 2023, suscrito entre mi representada y la demandante de autos.
+2. Anexo de Contrato de Trabajo, de fecha 01 de marzo de 2024; suscrito entre mi representada y la demandante de autos.
+3. Observaciones de Aula año 2023; respecto a la demandada.
+5. Notificación al empleador sobre la elección de la Directiva del Sindicato, de fecha 20 de noviembre de 2024;
+6. Denuncia ante la Dirección Regional del Trabajo Metropolitana Oriente N° E370515/2024.-
+7. Copia digital simple de publicación de oferta laboral de Educadora Diferencial.
+8. Pantallazo simple de la página web de la Corporación Educacional María Medianera Del Bosque, respecto de la cual aparece la demandada como contemplada para la planta docente del año 2025.
+9. Minuta de investigación por separación ilegal de trabajador con fuero laboral sindical, procedimiento administrativo especial de tutela, N° de Fiscalización 381, de fecha 11 de marzo de 2025.
+Testimonial:
+1. Manuel Jesús Sandoval Molina, RUT: 17.254.536-k, profesor y presidente del sindicato del colegio, quien previo juramento dijo que conoce a Carolina y a la Sra. Teresa Ripoll que es la representante del establecimiento; que el 16/10/2022 se constituyó el sindicato y que la nueva directiva fue elegida el 20/11/2’24, donde la demandada es la tesorera, lo que fue informado al empleador el 24/11/2024; que se han hecho denuncias por prácticas antisindicales y separación ilegal de trabajadoras ante la D.T. ; que en febrero de 2025 se notifica a Carolina del desafuero; que el 3/3/2025 se le prohibió el ingreso al colegio y el juez que proveyó la demanda no autorizó la separación de la trabajadora; que la función de la demandada es una de carácter permanente ya que es un colegio de integración; que la demandante ha incurrido en varias conductas de prácticas antisindicales por malos tratos, algunas están en proceso, en otras se ha llegado a acuerdos y en otras se la ha multado por no cumplir con el contrato colectivo; que los miembros del sindicato son 30. Contrainterrogado: que en la D.T. respecto de Carolina Diocares no se siguió el proceso porque ya había una causa ingresada al tribunal;
+
+2. Pamela Nathaly Contreras Cofré, RUT: 16.071.957-5, previo juramento expuso que conoce a las partes porque ella es profesora jefe del 8° básico y profesora de ciencias del colegio; que el cargo de carolina es permanente ya que el colegio está adherido al programa de integración; que la demandada fue educadora diferencial del curso en que ella ejercía su jefatura y señala que Carolina es la mejor educadora diferencial que ha conocido en los 15 años que lleva en el colegio porque conoce su rubro, su trabajo, sus planificaciones son adecuadas a las necesidades educativas, solicitaba acompañamiento en las materias en que le hacía falta e incluso se preocupaba de asuntos domésticos como artículos de higiene de los alumnos, pago del furgón; que al año 2024 había 10 educadoras diferenciales y este año hay más porque algunos van a hacer sus prácticas profesionales y cubren en casos de licencia o renuncias; que el año escolar se inició el 3/3/2025 y la dotación de educadoras diferenciales en esa fecha no estaba completa; que el 14/3/2025 advirtió a sus jefaturas que su curso no tenía educadora diferencial, que era el cargo que ejercía Carolina y ese día le dijeron que había llegado alguien pero que empezó haciendo trabajos administrativos y que el apoyo en aula recién lo tuvo el mes de mayo.
+
+Oficio: A la Dirección Regional del Trabajo Metropolitana Oriente, con el objeto de que informe a este juzgado las denuncia por prácticas antisindicales, por parte de la Corporación Educacional María Medianera Del Bosque y en especial que remita los antecedentes de la denuncia N° E370515/2024.-, de fecha 30 de diciembre de 2024. Se desiste.
+Séptimo: Que, con fecha 20 de noviembre de 2024, se informó al Establecimiento Educacional, de conformidad a lo dispuesto en el artículo 225 del Código del Trabajo, el Directorio del "Sindicato de la Corporación Educacional María Medianera del Bosque", electo por un periodo de 2 años, quedando compuesto de la siguiente forma: PRESIDENTE: Manuel Jesús Sandoval Molina SECRETARIA: Camila Fernanda Huenchún Cardenas TESORERA: Carolina Andrea Diocares Rebolledo; sindicato conformado por 28 trabajadores, de acuerdo a nómina acompañada a la causa;
+
+Octavo: Que, a contar de esa fecha, doña Carolina Andrea Diocares empezó a gozar de fuero sindical; fuero que se extiende desde la fecha de su elección y hasta 6 meses después de haber cesado en el cargo, conforme lo dispuesto en el artículo 243 del Código del Trabajo.
+
+Noveno; Que, el fuero sindical se traduce en una protección legal que impide el despido, traslado o desmejoramiento de las condiciones laborales de ciertos trabajadores, como dirigentes sindicales y delegados, sin una justa causa previamente calificada por un juez laboral, buscando con ello, garantizar la libertad sindical y la autonomía de las organizaciones sindicales.
+Su objeto es asegurar que los representantes sindicales puedan ejercer sus funciones sin temor a represalias por parte del empleador.
+Décimo: Que, la libertad sindical consagrada en la Constitución, es el derecho de los trabajadores a formar sindicatos y afiliarse a ellos, así como a participar en la negociación colectiva y a ejercer el derecho a huelga; garantiza la autonomía de los sindicatos frente a terceros, incluyendo a los empleadores, y protege la capacidad de los trabajadores para organizarse y defender sus intereses.
+
+Décimo Primero: Que, en el contexto de los hechos que se discuten en esta causa, en la que se ha solicitado por la demandante la autorización para poner término al contrato de trabajo que vincula a las partes en razón de lo mandatado por el artículo 174 del Código del Trabajo, aduciendo como casual el vencimiento del plazo convenido, conforme a lo dispuesto en el artículo 159 N°4 del Código del Trabajo, es efectivo que el contrato suscrito entre las partes era de plazo definido, estableciendo como fecha de término el 28 de febrero de 2025.
+
+Así dan cuenta los contratos de trabajo suscrito por las partes, que fueron dos, renovándose el primero, y su anexo, siendo, además, un hecho no discutido por las partes y refrendado por los testigos deponentes.
+
+Décimo Segundo; Que, también se tendrá por acreditado el proceso de huelga de los trabajadores ocurrido en julio de 2024, según se observa de la denuncia efectuada por el sindicato a la D.T., que inicia señalando que, durante el mes de julio del año 2024, después de varias instancias de negociación por parte de nuestros dirigentes sindicales y la representante legal de la sostenedora (Sra. María Teresa Ripoll), no hubo más acuerdo que comenzar con nuestra huelga legal, la cual comenzó el lunes 8 de julio de 2024 hasta el día viernes 19 de julio de 2024, fecha en que se firmó el contrato colectivo. Expusieron que, dado que, durante esta huelga legal, no se pudieron realizar clases por la baja asistencia de los estudiantes y por no contar con el personal docente necesario para poder realizar clases, es que se estableció la recuperación de 9 días de clases, los cuales se agendaron para el mes de diciembre desde el 13 de diciembre de 2024 hasta el viernes 27 de diciembre de 2024. Esto según consta en lo informado por parte de dirección al ministerio de educación.
+Continúa la denuncia exponiendo que, durante la vuelta a la normalidad de la funciones, se informa en un consejo de profesores, realizado por la directora del colegio, Sra. Mirian Inda y la jefa de UTP, Sra. Karen Canales y la representante de la sostenedora, Sra. María Teresa Ripoll, realizado el viernes 19 de julio de 2024, que nuestras estancia en el colegio será hasta el 13 de enero de 2025 (los 31 de diciembre todo el personal del colegio inicia sus vacaciones según lo establece nuestro calendario escolar 2024), ya que hay que recuperar el trabajo administrativo que no se puede realizar en el mes de diciembre del presente año por la recuperación de clases, esto según la directora, Sra. Mirian Inda, es para todo el personal, incluidos los funcionarios que si entraron a trabajar durante la huelga y el cual no recibieron descuento alguno en sus sueldos y se les pago como días trabajados.
+Que, pese a las múltiples preguntas efectuadas y pese a no tener eventualmente trabajos pendientes, la directora reitera la instrucción señalando que, si no hay asuntos pendientes, se impartirían charlas a los trabajadores, y consultada sobre si es un castigo para quienes participaron en la huelga, habría contestado que sí;
+
+Décimo Tercero; Que, en cuanto a la procedencia de la acción de desafuero sindical solicitado por la demandante, en relación a doña Carolina Diocares Rebolledo. Pormenores y circunstancias de lo anterior, el artículo 174 del código laboral, prescribe que, para poner término al contrato de trabajo de una persona que goza de fuero, debe solicitar la autorización pertinente al tribunal.
+
+Sin perjuicio de ello, se trata de una facultad, ya que el tribunal “podrá autorizar el desafuero, de lo que se colige que se otorgan facultades a los jueces, para determinar, caso a caso, si resulta procedente el despido;
+
+Décimo Cuarto: Que, se tendrán en consideración 2 circunstancias que resultan relevantes, la primera de ellas se obtiene del pantallazo simple de la página web de la Corporación, que contempla dentro del cuerpo docente del año 2025, a la demandada doña Carolina Diocares, y la copia digital de publicación de oferta laboral, en que se busca Educadora diferencial por 36 horas, para la comuna del Bosque, publicado por doña Camila Galvez, señalando como correo para enviar el cv: camila.lorca@colegiomariamedianera.cl.
+
+Décimo Quinto: Que, haciendo uso del principio de la realidad y las máximas de la lógica, es dable concluir, que, pese a tratarse de un contrato a plazo fijo que expiraba el 28 de febrero de 2025, la demandada ya había sido considerada para la planta docente del 2025, lo que hacía presumir la renovación de su contrato.
+
+Décimo Sexto; Que, de la declaración de don Cristian Fernando Jara, testigo de la demandante, en su calidad de encargado de informática y del manejo y contenido de las publicaciones en la página web, reconoció que efectivamente ese pantallazo se obtuvo de la página y que el fue quien lo hizo en enero de 2025, pero dijo que se trataba de una información desactualizada porque la actualización se produce el mes de marzo, llamando la atención que, pese a estar informado y en conocimiento de que el contrato de la Sra. Diocares vencía el 28/2/2025, igualmente sube esa información en la que aparece como parte del cuerpo docente del año 2025;
+
+Décimo Séptimo: Que, la testigo Sra. Pamela Contreras, quien trabajó estrechamente con la demandada ya que ésta era la educadora diferencial asignada a su curso, aseveró en estrados, que doña Carolina ha sido la mejor educadora diferencial que ha conocido durante los 15 años que lleva trabajando para el colegio, destacando sus competencias y habilidades profesionales y humanas.
+
+Décimo Octavo: Que, doña Giovanna Romero, coordinadora PIE, señaló que la evaluación obtenida por la trabajadora en el mes de noviembre de 2024 había sido deficiente, junto con la profesora Joselyn Barrera, a quienes se observó en su trabajo conjunto en aula, pero que ésta última, pese a tener la misma evaluación de la demandada, continúa prestando servicios haciendo alusión a que el contrato que ella tiene es indefinido;
+
+Décimo Noveno: Que, de acuerdo al mérito de los antecedentes, y de la prueba referida precedentemente, es factible y plausible suponer que la decisión de no renovar su contrato no dice relación con sus habilidades profesionales para ejercer el cargo, por cuanto se tendrá en consideración los dichos de la Sra. Contreras, quien trabajó a la par con la demandada, siendo su opinión trascendental ya que fue la educadora diferencial asignada a su curso, pudiendo ver en forma cercana y diaria el desempeño y la relación que tenía con los alumnos;
+
+Y aun cuando la causal del término que invoca la demandante es el vencimiento del plazo, la mayor parte de su argumentación dice relación con el desempeño de la trabajadora, el que, de acuerdo a lo razonado, se estima que fue satisfactorio.
+
+Vigésimo: Que, de acuerdo al pantallazo de la página web ya tantas veces mencionado, las declaraciones de los testigos, teniendo presente lo declarado por el presidente del sindicato, Sr. Sandoval, en cuanto a las denuncias de prácticas antisindicales presentadas en contra de su empleador, es dable presumir que, de no haber sido parte activa de la huelga de julio y tesorera del sindicato, se le habría renovado su contrato, información publicada el mes de enero del año en curso.
+
+Vigésimo Primero: Que, conforme a lo previsto en el artículo 174 del Código del Trabajo, en el caso de trabajadores sujetos a fuero, el Juez podrá conceder autorización al empleador para poner término al contrato de trabajo en los casos señalados en los N°4 y 5 del artículo 159 y de las causales contempladas en el artículo 160 ambas del código en referencia; se trata, entonces, de una facultad que requiere analizar caso a caso si concurren los elementos suficientes para proceder a autorizar el desafuero;
+
+Vigésimo Segundo; Que, dicha prerrogativa no es otra cosa que la protección a la actividad sindical, teniendo en cuenta las labores desempeñadas por la trabajadora cuya función es la de educadora diferencial de estudiantes con necesidades educativas especiales e imprescindibles para el establecimiento educacional;
+Vigésimo Tercero: Que, lo que se busca en este tipo de procedimientos, es garantizar que los despidos de trabajadores con fuero se realicen con respaldo legal y no arbitrariamente, protegiéndolos de posibles represalias por parte del empleador, debiendo constatarse si el empleador tiene motivos justificados y comprobables para solicitar el despido de un trabajador con fuero.
+
+Vigésimo Cuarto: Que, a la luz de lo razonado en los considerandos precedentes, estimando esta juez que en el caso de autos el vencimiento del plazo que invoca el empleador para el término no iba a ser considerado por éste al incluir a la demandada en la nómina de profesores año 2025, se denegará la solicitud impetrada a folio 1, gozando la demandada de fuero y, en consecuencia, no puede ser despedida.
+
+Por tanto, de acuerdo a lo expuesto y visto, además, lo dispuesto en los artículos 174, artículo 19 N°19 de la Constitución Política de la República, convenios N° 87 Y 98 de la OIT; principio de la realidad y estabilidad en el empleo, se resuelve:
+
+Que, se rechaza la solicitud de desafuero presentada por doña Natalia Jeannette Rondanelli Lagos, en representación convencional de la sociedad CORPORACIÓN EDUCACIONAL MARÍA MEDIANERA DEL BOSQUE”, RUT N°65.153.972–2, en contra de la trabajadora doña CAROLINA ANDREA DIOCARES REBOLLEDO, debiendo ser reincorporada a sus funciones.
+
+Además, se le deberán pagar las remuneraciones devengadas y no percibidas hasta la fecha de su reincorporación, habida cuenta de la precautoria decretada en juicio, consistente en la separación provisional de la trabajadora sin goce de remuneraciones.
+
+Liquídese el crédito en su oportunidad.
+
+Cúmplase una vez ejecutoriada la presente sentencia, en conformidad a lo dispuesto en el artículo 466 en relación al artículo 462, ambos del Código del Trabajo.
+
+Que, no se condena en costas a la demandante, por estimar que tuvo motivo plausible para litigar.
+Regístrese, notifíquese y archívese, en su oportunidad.
+
+RIT O-1065-2024
+
+Dictada por doña María Paz Rodríguez Maluenda, Jueza Suplente del Juzgado de Letras del Trabajo de San Miguel.

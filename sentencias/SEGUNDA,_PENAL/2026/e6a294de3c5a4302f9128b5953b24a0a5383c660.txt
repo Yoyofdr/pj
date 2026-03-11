@@ -1,0 +1,779 @@
+METADATA
+
+case_id: e6a294de3c5a4302f9128b5953b24a0a5383c660
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8043980
+
+rol: 6061-2026
+
+fecha_sentencia: 2026-02-27
+
+caratulado: DI LORENZO GIL ANGELA FABIOLA CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintisiete de febrero de dos mil veintiséis.
+Vistos y teniendo presente:
+Primero: Que, de conformidad con lo dispuesto en el inciso séptimo del artículo 483-A del Código del Trabajo, se ha ordenado dar cuenta de la admisibilidad del recurso de unificación de jurisprudencia deducido por la demandante en contra de la sentencia dictada por la Corte de Apelaciones de Talca, que rechazó el de nulidad interpuesto contra la de instancia que acogió parcialmente la demanda, condenó al pago de las prestaciones que señala y desestimó declarar el despido improcedente.
+
+Segundo: Que según se expresa en la legislación laboral, el recurso de unificación de jurisprudencia es susceptible de ser deducido en contra de la resolución que falle el recurso de nulidad, estableciéndose su procedencia para el caso en que “respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de Tribunales Superiores de Justicia”, conforme lo explicita el artículo 483 del Código del Trabajo.
+
+Asimismo, del tenor de lo dispuesto en el artículo 483-A del cuerpo legal antes citado, aparece que esta Corte debe controlar, como requisitos para su admisibilidad, por un lado, su oportunidad; en segundo lugar, la existencia de fundamento, además de una relación precisa y circunstanciada de las distintas interpretaciones respecto de las materias de derecho objeto de la sentencia, sostenidas en diversos fallos emanados de los tribunales superiores de justicia, y finalmente, debe acompañarse copia del o los fallos que se invocan como fundamento del recurso en referencia.
+
+Tercero: Que la materia de derecho propuesta para ser unificada consiste en “Determinar la obligación del empleador de especificar en la carta de despido cuál de las tres hipótesis de relación laboral, contenidas en el artículo 161 inciso segundo del Código del Trabajo, vinculaban al trabajador con el empleador y el efecto de la omisión de dicha información”.
+Cuarto: Que la sentencia impugnada rechazó el arbitrio, en lo pertinente, fundado en las causales de nulidad dispuestas en los artículos 478 b) y, en subsidio, 477 del Código del Trabajo, dado que, con relación a la primera, se persigue que se analice una infracción a los principios de razón suficiente y de no contradicción, lo que no es advertido, debido a que el tribunal, basándose en la prueba rendida, hizo una deducción lógica y razonada de la normativa aplicable.
+Respecto de la segunda, porque tampoco puede apreciarse una infracción de ley que influya sustancialmente en lo dispositivo del fallo, dado que se argumentó apropiadamente sobre la naturaleza del vínculo de la recurrente y esa interpretación parece razonable y plausible. En consecuencia, lo que existe es una divergencia, natural y obvia, de la aplicación de la causal de despido, que no autoriza a estimar que existió una infracción de ley alguna.
+
+De esta forma, no ha podido constatarse un pronunciamiento sustancial que se relacione con la materia de derecho propuesta por la demandante, por lo que el recurso intentado debe ser desestimado en esta etapa procesal.
+
+Por estas consideraciones y normas citadas, se declara inadmisible el recurso de unificación de jurisprudencia interpuesto contra la sentencia de cinco de diciembre de dos mil veinticinco.
+
+Regístrese y devuélvase.
+
+Rol N° 184-2026.-
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Talca, cinco de diciembre de dos mil veinticinco.
+​VISTOS:
+​En causa RIT O-123-2023 del Juzgado de Letras del Trabajo de Curicó, compareció el abogado Valentín Rafael Reyes Bertolone, en representación de  la parte demandante en causa caratulada “FARÍAS con BANCO SANTANDER”, quien interpuso recurso de nulidad en contra de la sentencia de 7 de septiembre de 2023, la que acogió parcialmente la demanda interpuesta por despido injustificado, y condena únicamente a la parte demandada a pagar diferencia de prestaciones fundado, primeramente, en la causal de nulidad prevista en el artículo 478 letra b), conjuntamente con la del artículo 477 y en subsidio, la del artículo 477, por infracción a los artículos 454 N° 1, 161 inciso segundo, 16, 477 y 479, todos los anteriores del Código del Trabajo.
+
+OIDO LOS INTERVINIENTES Y CONSIDERANDO:
+PRIMERO: Que, el recurrente señala como primera causal la signada en el artículo 478 letra b) del Código del Trabajo, esto es, que la sentencia definitiva se hubiere dictado con infracción de las normas sobre apreciación de la prueba de acuerdo a la sana crítica.
+
+En la especie, según sostiene, el juez del grado ha dictado la sentencia sin respetar el principio de no contradicción y de razón suficiente.
+
+Ahondando en el principio de no contradicción, sostiene que el tribunal razona equivocadamente acerca del carácter de exclusiva confianza que tenía el cargo ostentado por la trabajadora, debido a que las funciones inherentes a tal cargo no podían ser llevadas a la práctica, existiendo una contradicción entre teoría y práctica laboral.
+
+Ahora bien, en lo relativo a la vulneración de la razón suficiente, expresa el recurrente que el sentenciador ha efectuado una conclusión a partir de una premisa totalmente ajena a la discusión y no controvertida, debido a que, de atribuirle el carácter de alto cargo, deriva naturalmente que ese cargo se trata de uno de exclusiva confianza. Vuelve a señalar que lo que debió congeniar el sentenciador eran las funciones reales de la demandante, más allá del rango de su cargo y si tenía las facultades derivadas de ese cargo. En este punto, agrega, su representada era un mando medio que no tenía las facultades y funciones de un cargo de exclusiva confianza y que ello se halla en concordancia a la primacía de la realidad.
+
+Asevera, asimismo, que existe una errónea aplicación del derecho, debido a que la sentencia ha considerado erróneamente aplicada la causal de despido invocada por el demandado para poner término al contrato de trabajo, ya que no había prueba suficiente, según sostiene, para utilizar dicha causal porque la trabajadora no efectuaba funciones de trabajador de exclusiva confianza.
+
+Ahora bien, y en subsidio de la anterior, se invoca la causal contenida en el artículo 477 del Código del Trabajo, debido a que, según argumenta, el fallo ha vulnerado sustancialmente la garantía fundamental del debido proceso señalada en el inciso 6º del numeral 3 del artículo 19 del texto fundamental en relación al artículo 454 N° 1 del Código del Trabajo.
+
+Profundizando la causal, sostiene que esta última disposición obliga al demandado en juicios de despido a rendir la prueba que acredite la veracidad de las aseveraciones contenidas en las comunicaciones a que se refieren los incisos primero y cuarto del artículo 162, también del Código laboral. Sucede en este caso, según manifiesta, que la carta de despido de la demandada carece, en su concepto, de la necesaria precisión para establecer, con claridad, si la trabajadora era de las que cabe atribuir el carácter de exclusiva confianza y que ello acarreó la indefensión de la demandante.
+
+Ahora bien, en lo que se refiere a la tercera causal invocada, asegura que se ha vulnerado en numeral 1 del artículo 453 ya referido del Código del ramo, ocupando los mismos anteriormente mencionados, esto es, que el sentenciador ha sostenido la calidad de trabajadora de exclusiva confianza de la actora, pero que en su carga de despido no se precisa la hipótesis a la que se refiere; que ello hace imposible el debatir los presupuestos de tal despido al estar mal formulada la demanda y que tocaba al empleador acreditar la hipótesis aplicable a la trabajadora.
+
+En base a ello, solicitó acoger el recurso, en razón de haberse dictado la sentencia por las infracciones denunciadas, para que esta resuelva que: a) se acoge la causal subsidiaria esto es, aquella causal contenida en el artículo 478, letra b) del Código del Trabajo, esto es cuando la sentencia definitiva haya sido pronunciada con infracción manifiesta de las normas sobre la apreciación de la prueba conforme a las reglas de la sana crítica; b) se acoge la causal deducida en lo principal, esto es, causal de nulidad del artículo 477 del Código del Trabajo, por cuanto la sentencia definitiva se dictó con infracción de ley que ha influido sustancialmente en lo dispositivo del fallo, o bien c) se anule la sentencia impugnada por infracción de ley que influye sustancialmente en lo dispositivo del fallo, en concreto, por transgresión del numeral 1 del artículo 454 del Código del Trabajo.
+
+SEGUNDO.- Que, de la lectura del fallo impugnada puede colegirse que el sentenciador, en el considerando 5º ha fijado la controversia en el cumplimiento de las formalidades exigidas por el artículo 162 del Código laboral para que el despido surta efecto y que resultaba carga del demandado acreditar los hechos en que se funda el despido.
+
+Además, analizando los hechos que se han tenido por probados, en el considerando 8º el tribunal ha dado por probado que la demandante ostentaba facultades de administración y dirección, además de la de representación y por ello, los considerandos siguientes razonan sobre el despido de un trabajador que tiene poder para representar al empleador.
+
+TERCERO.- Que, en primer término, cabe tener presente que el recurso de nulidad es de derecho estricto, lo que implica que quién hace uso de él, para los efectos que su interposición pueda prosperar, debe ceñirse cabalmente a las normas que lo instituyeron y al claro tenor de las causales que habilitan su configuración.
+En consecuencia, para fundar legalmente el recurso, debe indicarse de manera clara y precisa la forma en que se ha incurrido en el vicio por la causal que se invoca y explicitar la forma en que se configura la infracción.
+
+CUARTO.- Que, en lo que concierne a la primera causal de nulidad impetrada, esto es, la consagrada en el artículo 478 letra b) del Código del Trabajo, se advierte que se exige que exista una vulneración de las reglas de la sana crítica en la valoración de la prueba.
+
+En este sentido, se persigue que se analice una infracción a los principios de razón suficiente y no contradicción y ello no es advertido por la Corte, debido que el tribunal, basándose en la prueba rendida ha hecho deducción lógica y razonada de la normativa aplicable a la actora y por consiguiente, argumentativamente no se advierte la vulneración alegada.
+
+En el mismo sentido, tampoco puede apreciarse una infracción de ley que influya sustancialmente en lo dispositivo del fallo, dado que se ha argumentado apropiadamente sobre la naturaleza del vínculo de la recurrente y esa interpretación parece razonable y plausible.
+
+Cabe señalar que este recurso pretende que los razonamientos judiciales sean reflejo de una conclusión ajustada a ciertos parámetros de razonabilidad que extraigan de los medios de prueba exhibidos conclusiones lógicas y adecuadas a la consideración y tratamiento de los hechos de conformidad a los hechos y a las normas.
+
+En este caso, lo que la Corte aprecia es que existe una divergencia, absolutamente natural y obvia entre la aplicación de la causal de despido en el caso en comento, entre el sentenciador y el recurrente, pero que no autoriza a estimar que ha existido infracción de ley alguna.
+
+Por las anteriores consideraciones y visto, además, lo dispuesto en los artículos 161, 162, 454, 477 y 478, del Código del Trabajo,  SE RECHAZA, sin costas, el recurso de nulidad deducido por el abogado don Valentín Rafael Reyes Bertolone, en representación de  la parte demandante en causa caratulada “FARÍAS con BANCO SANTANDER”, , en contra de la sentencia de 7 de septiembre de 2023, dictada en causa RIT 0-123-2023 del Juzgado de Letras del Trabajo de Curicó, declarándose que dicho fallo no es nulo.
+Regístrese, comuníquese y archívese, en su oportunidad.
+Redacción del abogado integrante Rodrigo Medina Jara.
+Rol N°535-2023/Laboral.
+
+Se deja constancia que no firma el abogado integrante don Rodrigo Medina Jara, sin perjuicio de haber concurrido a la vista y acuerdo de la causa, por encontrarse ausente.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Juzgado de Letras del Trabajo de Curicó.
+
+RIT: O 123 2023
+
+RUC: 23-4-0474061-K
+
+Talca, a once de septiembre de dos mil veintitrés.
+
+VISTO Y OIDO:
+
+PRIMERO: Individualización de las partes.
+
+En causa RIT: O 123 2023 RUC: 23-4-0475323-1 comparece:
+
+Como demandante LORENA DE LOURDES FARIAS REY, chilena, contador auditor y actualmente sin ocupación, cédula nacional de identidad número 10.829.910-K con domicilio en Calle Ángel Lago Nº1037, casa 44, comuna y ciudad de Curicó.
+
+Como demandada BANCO SANTANDER CHILE S.A., representado legalmente para estos efectos por don Jorge Peña Collao, cédula nacional de identidad Nº 8.190.497-9, ambos con domicilio en Bandera 140, de la comuna de Santiago.
+SEGUNDO: Sobre la demanda.
+
+Deduce acción de despido indebido y cobro de prestaciones y que los hechos en que se funda la presente demanda son los siguientes:
+
+Señala que con fecha 05 de noviembre del año 1990, fue contratada por el Banco Santander Chile S.A., y desarrolla una larga carrera funcionaria y desempeña desde esa fecha distintos cargos y por último, se le contrató para cumplir las labores de AGENTE I, función que realizaba en las dependencias de la demandada, ubicadas en sucursal Mall Curicó de la referida ciudad, las cuales ejerció y desarrolló con un alto grado de profesionalismo hasta el último día que presenta servicios para el Banco.
+
+Por los servicios contratados percibía una remuneración de carácter variable, compuesta por diversos haberes, siendo el promedio de ésta, la suma de $7.239.992, y no la suma que, erróneamente se ofreció en la carta de despido y finiquito suscrito con fecha 14 de marzo del año 2023.
+
+Que, lamentablemente, con fecha 26 de mayo de 2022, se comunica que ha sido despedida, ello, aduciendo para tal efecto la causal prevista en el artículo 161 inciso 2º del Código del Trabajo, esto es, Desahucio escrito del empleador. Hace presente que la carta de despido entregada carece de hechos fundantes, no se explicita en ella los motivos por los cuales se me aplicaría la mencionada causal ni en cuál de las hipótesis señaladas por la norma supuestamente se encuentro.
+
+La carta de despido y su causal, causó absoluta sorpresa, ya que en la práctica nunca ha sido una persona que tenga las características que señala dicha norma legal para que le sea aplicable una separación por dicha causal de despido, en la medida que no ocupa el cargo de gerente, subgerente, administrador, no desempeña un cargo de confianza o tenga otra calidad análoga, no posee facultades de administración y disposición, de manera tal que dicha hipótesis de despido no concurre ni es aplicable en la especie, sino que muy por contrario, la labor que ejercía era totalmente subordinada, debiendo pedir autorizaciones siempre a superiores para distintas situaciones, del mismo modo se encuentra afiliado al sindicato de trabajadores, participó de la negociación colectiva, suscribe el convenio colectivo, etc., situaciones todas que, de haber tenido un cargo de confianza, nunca podría haber realizado.
+
+A mayor abundamiento, es del caso señalar que nunca se dieron los presupuestos para ser catalogado como una persona de confianza, ya que si bien en mi contrato se señala nominalmente que desempeñaba el cargo de Agente I, en la realidad esto nunca fue así, toda vez que, debía informar asistencia, cumplir horarios, reportarse constantemente con superiores, informar y pedir vacaciones, días libres, tenía reuniones a diario con jefaturas, cumplía horarios, etc., de manera tal que, nunca tuvo autonomía propia y menos para contratar o desvincular personal del Banco, cerrar o abrir la sucursal a mi antojo, tampoco podía comprometer el patrimonio de la empresa, hacer mejoras en la sucursal (comprar una silla, mesa, computador etc..,) las operaciones que cursaba tenían siempre que ser aprobadas por mis superiores etc., es decir, la realidad verdadera es que es un trabajador como cualquier otro u otra que prestaba servicios dentro de la sucursal, no existiendo nunca rasgos reales que me dotaran de autonomía para cumplir con los requisitos previstos por la ley para aplicar el desahucio.
+
+En la carta de despido de fecha 14 de marzo de 2023, se ofrecieron las siguientes sumas de dinero:
+
+a) Años de Servicio (32 años) $213.163.488.
+
+b) Mes de aviso $6.661.359.
+
+c) Feriado Legal (22 Días) $4.805.064.
+
+Con fecha 30 de marzo del año 2023, suscribe finiquito ante el Notario Suplente de Curicó don José Marcelo Adasme Bravo, instrumento en el cual quedó estampada la reserva de derechos para reclamar la causal de despido y su incremento legal en Tribunales, así como también, el derecho a impugnar la base de cálculo e impugnar el convenio colectivo, etc.
+
+En concreto, alega que la decisión de la empresa de poner término al contrato de trabajo invocando para ello la causal legal establecida en el artículo 161 inciso 2º del Código del Trabajo, es improcedente, por cuanto nunca tuvo poder para representar al empleador, nunca suscribió un mandato con su empleador que le facultara para actuar como mandatario, ni mucho menos estuvo dotado de facultades generales de administración, en los términos exigidos por la disposición legal, dado que las facultades entregadas por el empleador en razón del cargo, eran destinadas exclusivamente a prestar los servicios que el banco entrega a sus clientes en razón de su giro y no para ejecutar acto de administración empresarial, como por ejemplo, la facultad de constituir al Banco en codeudor solidario, o la de asistir a juntas de accionistas o de socios, no tenía caja chica, no podía disponer de dineros, etc. como se expuso.
+
+Tampoco está de acuerdo con la base de cálculo utilizada por el demandado en el pago de finiquito, dado que por las labores que realizada percibía una remuneración de carácter variable, la que conforme a mis liquidaciones de remuneraciones asciende a la suma de $7.239.992 y no la suma de $6.661.359 como se señala erróneamente en la carta de despido y finiquito, generando este último monto grandes desigualdades en la base de cálculo para el pago de las indemnizaciones legales y prestaciones adeudadas, ya que lo que efectivamente me corresponde por indemnización por años de servicio es la suma de $231.679.744 y no $213.163.488, produciéndose una diferencia de $18.516.256, por la indemnización sustitutiva del aviso previo la suma de $7.239.992 y no $6.661.359, originando una diferencia de $578.633, y por feriado legal la suma de $5.309.327 y no $4.805.064 generando una diferencia de $504.263, todas estas sumas generan una diferencia total de $19.599.152.
+
+Dado las diferencias antes expresadas, y la causal improcedente, pide se declare que el despido sea declarado improcedente y se disponga el pago de las indemnizaciones legales y feriados, en conformidad a las disposiciones de nuestro ordenamiento jurídico laboral, disponiendo el pago de los dineros anteriormente indicados.
+
+En cuanto a los fundamentos de derecho señala que el artículo 168 del Código del Trabajo, señala: “El trabajador cuyo contrato termine por aplicación de una o más causales establecidas en los artículos 159, 160 y 161, y que considere que dicha aplicación es injustificada, indebida o improcedente, o que no se haya invocado ninguna causal, podrá recurrir al juzgado competente (…) a fin que éste así lo declare. En este caso el Juez ordenará el pago de la indemnización a que se refiere el inciso cuarto del artículo 162 y la de los incisos primero o segundo del artículo 163, según correspondiere, aumentada esta última de acuerdo a las siguientes reglas:
+
+a) En un treinta por ciento, si se hubiere dado término por aplicación improcedente del artículo 161;”
+
+De igual forma el artículo 454 Nº1 inciso 2º del Código del ramo expone “... en los juicios sobre despido corresponderá en primer lugar al demandado la rendición de la prueba, debiendo acreditar la veracidad de los hechos imputados en las comunicaciones a que se refieren los incisos primero y cuarto del artículo 162, sin que pueda alegar en el juicio hechos distintos como justificativos del despido”.
+
+La causal de despido que se invocó por parte del empleador fue la prevista en el artículo 161 inciso 2º del Código del Trabajo, la cual posee aplicación para aquellos trabajadores que tengan determinadas características, como lo son quienes pueden representar al empleador, tales como gerentes, subgerentes, agentes o apoderados, siempre que, en todos estos casos, estén dotados, a lo menos, de facultades generales de administración o se trate de empleos o cargos de exclusiva confianza.
+
+Pese a que en la carta de despido entregada no se especificó porqué se me aplicaba dicha causal, o que hipótesis me encuentro, lo que me ha dejado evidentemente en indefensión, es primordial asentar qué se entiende por trabajador de exclusiva confianza, y como el Código del Trabajo no define lo que ha de entenderse por tal, resulta ilustrativo recurrir al sentido natural de la palabra y en este sentido el Diccionario de la Real Academia Española, define “de confianza” en lo pertinente, como “Dicho de una persona en quien se puede confiar” y confiar por su parte, lo define como “encargar o poner al cuidado de alguien algún negocio u otra cosa” y como “depositar en alguien, sin más seguridad que la buena fe y la opinión que de él se tiene, la hacienda, el secreto o cualquier otra cosa”.
+
+Nuestra legislación laboral, no define lo que debe entenderse por cargos o empleos de la exclusiva confianza, limitándose a expresar en el inciso 2° parte final del artículo 161 que son aquellos cuyo carácter de tales emane de la naturaleza de los mismos.
+
+Por esta razón la doctrina y jurisprudencia se han encargado de conceptuarlos. En efecto, se ha dicho que son aquellos que por sí solos habilitan a quienes los desempeñan para poder comprometer a la empresa, pues están investidos para decidir su marcha y futuro, o bien, cuando la labor significa una función directa y especial entre las partes. Son las ideas que inspiran los diversos fallos citados en la obra “Manual de Derecho del Trabajo”, tomo 3°, del profesor Sr. W. Thayer. A su vez, citando la obra de Daniel Nadal Serri, “Manual Práctico de Terminación de Trabajo”, tomo II pág. 577, se resumen los requisitos a concurrir para definir la calidad de “exclusiva confianza”, a saber: a) Facultades para representar judicial o extrajudicialmente a la empleadora en toda clase de actos o en alguno con trascendencia económica b) Poder y capacidad para disponer o enajenar, no obstante limitaciones, el patrimonio empresarial c) Poder de dirección de la empresa, los cuales además han sido asentados por variada jurisprudencia.
+
+Sin embargo, en la especie, no se cumple alguna de esas características, ya que no tiene ninguna de esas calidades en la función que desempeñaba, tal como se expresó, se encontraba siempre subordinado a una jefatura quien impartía instrucciones de manera verbal o por escrito, debía obtener aprobaciones, cumplir metas, cumplir jornada, registrar e informar mis labores diarias, estaba afiliado al sindicato, pagaba cuotas sindicales, suscribe el convenio colectivo, etc., actividades todas que de haber tenido alguna de las condiciones del artículo 161 inciso 2º del Código del Trabajo no hubiera podido realizar por imposición del artículo 305 del Código del Trabajo.
+
+No se debe olvidar, que la finalidad protectora del derecho laboral y su proyección en la estabilidad o continuidad del contrato hacen procedente que la terminación del contrato por la sola voluntad del empleador es excepcional, de aplicación restrictiva y no debe ser contraria a los convenios o tratados internacionales en especial al convenio 158 de la OIT, que si bien no ha sido ratificado por Chile, establece los principios sobre los cuales se debe establecer un régimen de terminación del contrato por voluntad del empleador, el que dispone que siempre la terminación por dicha voluntad debe tener una causa y debe el trabajador tener recursos judiciales para la impugnación de dicho término.
+
+Igualmente es relevante el principio de primacía de la realidad, conforme al cual las cosas son lo que son y no lo que las partes quieren que sea, esto se argumenta por el hecho que aun cuando en el contrato, señale cláusulas que me atribuyen nominalmente un cargo de jefatura, esto en la práctica no operaba así, sino que muy por el contrario se encontraba siempre subordinado dentro de la estructura del Banco a otros controles que se detallaran en su oportunidad.
+
+Lo anterior fue resuelto por el Segundo Juzgado De letras Del Trabajo De San Fernando en causal ROL Nº O-92-2019 caratulada “Ramírez con Banco Santander Chile”, en sentencia de fecha 27 septiembre del año 2018, ratificado por Ilustrísima Corte de Apelaciones de Rancagua, mismo criterio adoptado por el Segundo Juzgado De letras Del Trabajo De Santiago en causal ROL Nº O-3139-2019 caratulada “Zenteno con Banco Santander Chile”, en sentencia de fecha 20 de noviembre del año 2019 y también resuelto por el Juzgado de Letras Del Trabajo de Talca en sentencia de fecha 2 de julio del año 2021, en causa O-467-2020, caratulada “Cuevas con Banco Santander Chile”, todos fallos que se encuentran firmes y ejecutoriados.
+
+En lo referente a las diferencias expresadas y adeudas, ellas, se generan, debido a que su remuneración tenía un componente de carácter variable, dado por premios, premios campaña, bonos e incentivos, que se generan de manera reiterada, lo que no le quita el carácter de permanente para efectos de ser considerados dentro del concepto de última remuneración. Esto es absolutamente independiente a la forma o hecho en que la demandada paga la remuneración, ya que a pesar de que el pago de este premio, bono o incentivo se realice conforme al sistema de campaña o concursos, ello, no le quita el carácter de permanencia y continuidad de la asignación, como lo exige el artículo 172 del código del trabajo, situación que en su caso es del todo permanente, ya que las liquidaciones contemplan premios, y bonos lo cual demuestra la permanencia y habitualidad de tal estipendio.
+
+Lo anterior, fue resuelto por el Juzgado de Letras Del Trabajo de Talca en sentencia de fecha 2 de julio del año 2021, en causa O-467-2020, caratulada “Cuevas con Banco Santander Chile”, sentencia de fecha 8 de julio del año 2021, en causa O468-2020, caratulada “Sáez con Banco Santander Chile”, mismo criterio adoptado por el Primer Juzgado de Letras Del Trabajo de Linares, en sentencia de fecha 18 de mayo del año 2021, en causa O-68-2020, caratulada “León con Banco Santander Chile”, sentencia dictada en la causa RIT M-38 caratulada Gutiérrez con Banco Santander del Juzgado de Letras de Curicó, entre otras tantas.
+
+Es importante señalar que es miembro del sindicato de trabajadores del Banco Santander, y en dicha calidad, le corresponden los derechos que se han ido estableciendo en los diversos convenios colectivos firmados con el Banco y el Sindicato. En tal sentido se establece en el inciso 1° de la letra A de la cláusula décimo con Convenio Colectivo Vigente establece que referente a la indemnización por años de servicios, en caso de ser despedido por la causal de necesidades de la empresa, se pagará una indemnización por años de servicios equivalente a 30 días de la última remuneración mensual devengada, sin topes legales, por cada año de servicios y fracción superior a seis meses.
+
+Pero, en el inciso 3° de la letra A de la referida cláusula décima de dicho convenio colectivo, se establece una renuncia a un derecho futuro de los trabajadores, ya que indica que para el caso de que un trabajador recurra ante los tribunales de justicia por estimar que su despido sea injustificado y solicite el incremento del 30% sobre la indemnización por años de servicios, en forma ilegal se establece una renuncia anticipada al derecho de que dicha sanción se aplique sobre el total de la indemnización por años de servicios convencional, limitando su aplicación solo a aquella parte de la indemnización por años de servicios con el tope de los 11 años.
+
+Pero ello no puede ser aplicado, ya que la renuncia a derechos laborales futuros no procede y está prohibido. Además, que los derechos laborales sólo se pueden renunciar una vez que estos se hayan devengado a favor del respectivo trabajador.
+
+Efectivamente, esta renuncia priva al trabajador de derechos que forman parte de su patrimonio al establecerse que su despido sea injustificado, debiendo aplicarse la sanción del 30% sobre la indemnización por años de servicios, ya sea la convencional o la legal; y en este caso, existiendo una indemnización por años de servicios convencional, es sobre esta y no otra sobre la que se debe aplicar la sanción del incremento.
+
+Y lo indebido de la renuncia anticipada a este derecho que consagra el Código del Trabajo en su artículo 168, en relación con el artículo 163 del mismo cuerpo legal, y en virtud de lo dispuesto por el artículo 5° inciso 2° del Código del Trabajo, es claramente indebida la renuncia anticipada de derechos, ya sea que sean incluidos en los contratos individuales de trabajo o instrumentos colectivos, como es en este caso, y de aceptar la legalidad de la misma, vuelve ineficaz e ilusoria la irrenunciabilidad de derechos y, por añadidura, el carácter esencialmente protector de la ley laboral.
+
+Del mismo modo, se está vulnerando un principio general del derecho, ya que nadie puede verse beneficiado con su propio dolo, en este sentido, se me paga una indemnización convencional, pero por el despido, se me limita el incremento sólo a los 11 años, lo que implica un beneficio para la empresa pues se estaría beneficiando de un acto que depende de su sola voluntad.
+
+Es en virtud de ello, establecida la improcedencia de la causal legal esgrimida por la parte demandada, resulta ajustado conforme a derecho, aplicar el recargo del 30% establecido en el artículo 168 letra a) del Código del Trabajo sobre el concepto mismo de indemnización por años de servicios, que en mi caso asciende a $69.503.923, ello por existir diferencias en mi base de cálculo como se indicó precedentemente.
+
+Como se señaló, con respecto al recargo del 30% establecido en el artículo 168 letra a) del Código del Trabajo, estipula que en el evento de obtener la declaración judicial despido injustificado, indebido o improcedente, el juez ordenará el pago de la indemnización a que se refiere el inciso cuarto del articulo 162 y la de los incisos primero o segundo del artículo 163, según correspondiere, aumentada esta última en un treinta por ciento, si se hubiere dado término por aplicación improcedente del artículo 161”, luego, el sentido de la norma legal contenida en el artículo 168, es claro, por lo tanto no puede desatenderse su tenor literal, y éste es, que el recargo legal procede aplicarse tanto respecto de indemnizaciones convencionales, por estar comprendidas en el inciso primero del artículo 163 del Código del Trabajo la que prevalece por sobre la legal cuando ella es superior a ésta, como a la indemnización legal, por cuanto que, la frase “aumentada esa última de acuerdo a las siguientes reglas “contenida en el citado artículo 168 es inclusiva de ambas indemnizaciones por años de servicios, tanto la convencional como la legal, y, es a la vez, distintiva y excluyente de la indemnización sustitutiva del aviso previo.
+
+Sostener una interpretación contraria y limitar la procedencia del recargo a los topes legales, implica derechamente la existencia de una cláusula nula, por atentar ésta a lo dispuesto en el artículo 5º inciso segundo del código del Trabajo “Los derechos establecidos por las leyes laborales son irrenunciables, mientras subsista el contrato de trabajo”.
+
+En igual sentido, establecer límites o topes en caso de demandas judiciales implica coartar el legítimo derecho que le asiste a demandar en sede judicial la procedencia de la causal de despido invocada, por ende, el pago de mis indemnizaciones no puede quedar sujeto, limitado o atado, a si accionó o no en contra de mi ex empleador en sede judicial.
+
+Sin perjuicio de lo anterior y si se llega a estimar que existen dos o más interpretaciones para una norma legal, debe aplicarse la regla in dubio pro-operario, es decir, frente a dos o más posibles interpretaciones de una misma norma, preferir aquella interpretación más favorable para el trabajador.
+
+Lo anterior fue resuelto por la Ilustrísima Corte de Apelaciones de Talca en causal ROL Nº 309-2019 con fecha 19 mayo del año 2020.
+
+Mismo criterio adoptado por el segundo Juzgado de Letras del Trabajo de Santiago en sentencia de fecha 18 de octubre del año 2021, en causa RIT O-1916-2021, caratulado Huerta con Banco Santander Chile, mismo razonamiento adoptado por el primer Juzgado de Letras del Trabajo de Santiago en sentencia de fecha 20 de octubre del año 2021, en causa RIT O-24-2021, caratulado Carrasco con Banco Santander Chile, también en fallo dictado por la Ilustrísima Corte de Apelaciones de Temuco, en causa Rol 121-2021, en sentencia de fecha 16 de agosto de 2021 caratulada Villablanca con Banco Santander Chile, y recientemente en fallo dictado por la Ilustrísima Corte de Apelaciones de Concepción, en causa Rol 271-2021, en sentencia de fecha 9 de septiembre de 2021 caratulada Benavente con Banco Santander Chile, Rojas con Banco Santander Rol 207 2022 de la Ilustrísima Corte de Apelaciones de Chillan, y en sentencia de fecha 15 de septiembre del año 2022, caratulada Morales con Banco Santander Rol 324-2022 de la Ilustrísima Corte de Apelaciones de Concepción establece una pena, un incremento legal como sanción al empleador que es condenado por despido injustificado, indebido, improcedente o sin causa legal y como norma de orden público no puede ser materia de negociación colectiva, por lo cual corresponde la aplicación de la norma jurídica que se invoca.
+
+Sobre la enunciación precisa y concreta de las peticiones que se someten a la resolución del tribunal.
+
+En virtud de lo señalado precedentemente pide declarar y condenar a su ex empleador al pago de las siguientes prestaciones:
+
+a) Que, el despido de la actora ocurrido con fecha 14 de marzo de 2023, es IMPROCEDENTE.
+
+b) Que, la última remuneración mensual de la actora asciende a $7.239.992. y como consecuencia, dado que existe una disconformidad entre la base de cálculo propuesta por la empresa en su carta ($6.661.359) y la que legalmente me corresponde ($7.239.992), se me adeudan las siguientes diferencias:
+
+- Diferencia de indemnización sustitutiva del aviso previo $578.633, o la suma mayor o menor que determine
+
+- Diferencia de indemnización por años de servicio $18.516.256, o la suma mayor o menor que determine
+
+- Diferencia de Feriado Legal $504.263, o la suma mayor o menor que determine
+
+c) Que se condena al demandado al pago del recargo legal establecido en el artículo 168 letra a) del Código del Trabajo, esto es, el treinta por ciento de la indemnización por años de servicio a que tengo derecho. Teniendo en consideración que le corresponden 32 años de servicios, y que este concepto asciende a la suma de $231.679.744, como se señaló precedentemente, el incremento del 30% de dicha cantidad asciende a la suma de $69.503.923 o la suma mayor o menor que determine
+
+d) Que las sumas de dinero, se pagarán más los reajustes e intereses legales calculados de la forma prevista en el artículo 173 del Código del Trabajo.
+
+e) Que se condena a la parte demandada al pago de las costas de la causa
+
+TERCERO: De la contestación.
+
+Solicita el rechazo de la misma, con costas.
+
+La actora comienza su relato señalando que fue contratada por el demandado con fecha 5 de noviembre de 1990, desempeñando diversos cargos siendo el último de ellos el de Agente I, función realizada en la sucursal del Mall Curicó. En virtud de ello, percibía una remuneración mensual ascendiente a e $7.239.992.- es decir, superior a la consignada en el finiquito, ya que estaba compuesta de emolumentos variables.
+
+Que la actora asegura que existe una diferencia, pero en ningún momento explica que conceptos componen esa diferencia, no señala cuales fueron los conceptos no considerados ni explica la periodicidad con la que los mismos se pagaron. Lo anterior, constituye desde ya una deficiencia en las peticiones conforme lo señala el artículo 446 del Código del Trabajo que no puede ser subsanada por vía de prueba.
+
+Continuando con el relato factico, señala la actora que con fecha 26 de mayo de 2022 fue despedida por la causal contenida en el artículo 161 inciso 2 del Código del Trabajo, esto es, desahucio escrito del empleador, la que – según la actora – carece de “hechos fundantes, no se explicita en ella los motivos por los cuales se me aplicaría la mencionada causal ni en cuál de las hipótesis señaladas por la norma supuestamente me encuentro”.
+
+Dice también que nunca ha poseído las características que le hagan aplicable la causal de despido en comento, ya que en sus palabras “no ocupo el cargo de gerente, subgerente, administrador, no desempeño un cargo de confianza o tenga otra calidad análoga, no poseo facultades de administración y disposición, de manera tal que dicha hipótesis de despido no concurre ni es aplicable en la especie”.
+
+Señala que la fecha de despido señalada por la señora Farías es evidentemente errónea, habiéndose producido su despido con fecha 14 de marzo de 2023. Luego, como se abordará con posterioridad, la carta ha cumplido con todos los requisitos establecidos por el legislador, siendo la petición de mención de hipótesis una construcción propia de la demandante que la misma causal no exige.
+
+Asimismo, se demostrará que la actora era una persona de exclusiva confianza del empleador y, además, poseía las facultades de administración y disposición que le hacen aplicable la referida causal de despido.
+
+Finalmente, la demandante solicita que el despido sea declarado injustificado, debiendo el demandado pagar el recargo calculado sobre la totalidad de años de servicio convencionalmente pactados en el finiquito, a pesar de que existe una cláusula expresa que impide aquello.
+
+Sobre los hechos no controvertidos, señala que deberá tener presente que esta parte, en los términos del artículo 452 del Código del Trabajo, expresa y taxativamente acepta los siguientes hechos señalados por la demandante:
+
+1. Es efectivo que la actora fue contratada con fecha 5 de noviembre de 1990;
+
+2. Es efectivo que, al momento del despido, la actora se desempeñaba en el cargo de Agente I;
+
+3. Es efectivo que la causal de despido invocada corresponde a desahucio escrito del empleador;
+
+4. Hacemos presente que no se encuentran controvertidas las formalidades del despido.
+
+Sobre hechos controvertidos señala que, también en los términos del artículo 452 del Código del Trabajo y sin que la enumeración importe un listado taxativo, niega y controvierte expresamente los siguientes hechos:
+
+1. No es efectivo que la relación laboral haya terminado con fecha 26 de mayo de 2022, siendo la fecha correcta de despido el 14 de marzo de 2023.
+
+2. No es efectivo que la carta de despido carezca de los elementos mínimos exigidos por la ley;
+
+3. No es efectivo que el despido sea injustificado, indebido o improcedente;
+
+4. No es efectivo que la actora estuviera desprovista de las facultades que le hacen aplicable la causal de desahucio escrito del empleador;
+
+5. No es efectivo que el descuento efectuado al seguro de cesantía sea improcedente;
+
+6. No es efectivo que, para efectos del artículo 172 del Código del Trabajo, la base de calcula ascienda a $7.239.992, debiendo estarse el tribunal a los señalado por el finiquito de contrato de trabajo.
+
+7. No es efectivo que en caso de declararse injustificado el despido, el recargo del 30% deba ser calculado sobre la totalidad de años de servicio pactados convencionalmente, ya que existe pacto expreso en contrario el que fue suscrito entre la empresa y el sindicato que representaba a la demandante.
+
+8. No es efectivo cualquier otro hecho que no se encuentre expresamente reconocido en el cuerpo del presente escrito
+
+Sobre los antecedentes de la relación laboral y fundamento de los hechos contenidos en la carta de despido.
+
+A. Antecedentes respecto del cargo ejercido por la actora.
+
+Banco Santander Chile, en adelante también e indistintamente el Banco y/o Banco Santander, es una empresa nacional de reconocida experiencia en el mercado crediticio y financiero, prestando gran diversidad de servicios tanto a personas naturales como jurídicas, sean nacionales o extranjeras.
+
+Para otorgar un mejor servicio a los clientes y subsistir en el competitivo mercado de la banca nacional, el demandado tiene diversas sucursales a lo largo de todo el territorio nacional, y cada sucursal ofrece una serie de servicios (servicios de tarjetas de crédito; créditos otorgados a personas naturales, pequeñas y grandes empresas; recepción y custodia de depósitos, pagos masivos de remuneraciones, etc.). Cada una de las sucursales, tiene un jefe oficina o agente de sucursal, que es una de las máximas autoridades de la sucursal respectiva, teniendo el equipo de ejecutivos comerciales a su cargo, como también el restante personal dependiente del Banco que presta servicios en la Sucursal a su cargo.
+
+Como bien lo reconoce la actora, era precisamente éste su cargo.
+
+El Jefe de Oficina o agente, como se ha dicho, es la máxima autoridad de la sucursal que dirige, teniendo incluso poderes para representar al Banco ante sus clientes y terceros en virtud del otorgamiento de poderes para ello, teniendo incluso, facultades para comprometer el patrimonio e intereses del Banco. Circunstancias todas que demuestran que el Jefe de Oficina es un cargo de exclusiva confianza del empleador por su propia naturaleza y, también, tiene poder de representarlo y comprometerlo patrimonialmente.
+
+De esta manera, lo señalado por la actora es lisa y llanamente falso y será interesante saber cómo explica su carencia de facultades de representación y, al mismo tiempo, la existencia de documentos notariados donde constan sus poderes para hacerlo.
+
+Atendida la naturaleza de la actividad económica que desempeña el Banco, caracterizada por administrar y gestionar dinero de terceras personas (depósitos, cuentas corrientes), que han depositado su confianza en el Banco Santander para manejar sus recursos; y por prestar dinero a sus clientes (créditos, líneas de créditos), el demandado selecciona rigurosamente su personal, con el objeto de que puedan cumplir eficientemente sus funciones.
+
+Si bien todo contrato de trabajo es intuito personae, caracterizado por la confianza depositada por el empleador en el trabajador, la situación actual lo es aún más, habida consideración de que el demandado es una entidad bancaria. En este sentido, es menester ser enfáticos en cuanto a las funciones que desarrollaba la señora Farías, quien tenía a su cargo personal y estaba dotada de facultades para aprobar créditos de considerables sumas de dinero, lo que por sí es un cargo de exclusiva confianza del Banco y lo que de por sí lo compromete financieramente.
+
+B. De la procedencia del despido: formalidades y justificación.
+
+Las alegaciones contenidas en el libelo son del todo reiterativas y se sientan sobre la base de los mismos argumentos: “la carta no hace alusión a la hipótesis del artículo 161 que me es aplicable”, “no poseía facultades generales de administración” y “no representaba al empleador”.
+
+1. Exigencias formales para el despido por aplicación de la causal contenida en el artículo 161 inciso 2 del Código del Trabajo, esto es, desahucio escrito del empleador.
+
+El artículo 161 inciso 2 del Código del Trabajo señala lo siguiente:
+
+“En el caso de los trabajadores que tengan poder para representar al empleador, tales como gerentes, subgerentes, agentes o apoderados, siempre que, en todos estos casos, estén dotados, a lo menos, de facultades generales de administración, y en el caso de los trabajadores de casa particular, el contrato de trabajo podrá, además, terminar por desahucio escrito del empleador, el que deberá darse con treinta días de anticipación, a lo menos, con copia a la Inspección del Trabajo respectiva. Sin embargo, no se requerirá esta anticipación cuando el empleador pagare al trabajador, al momento de la terminación, una indemnización en dinero efectivo equivalente a la última remuneración mensual devengada. Regirá también esta norma tratándose de cargos o empleos de la exclusiva confianza del empleador, cuyo carácter de tales emane de la naturaleza de los mismos.”
+
+En ese sentido, de la transcripción anterior podemos extraer diferentes requisitos:
+
+a. Debe ser dado por escrito, señalando que se pone término al contrato de trabajo por desahucio.
+
+b. Debe darse con 30 días de anticipación a lo menos. Sin embargo, no se requerirá esta anticipación cuando el empleador pagare al trabajador al momento de la terminación, una indemnización en dinero efectivo equivalente a la última remuneración mensual devengada por parte del trabajador.
+
+c. El respectivo aviso debe efectuarse con copia a la Inspección del Trabajo.
+
+El cumplimiento de los requisitos anteriores NO ha sido materia de controversia, sino que el reproche es otro y está contenido en la segunda página de la demanda: “Hago presente que la carta de despido entregada a mi persona carece de hechos fundantes, no se explicita en ella los motivos por los cuales se me aplicaría la mencionada causal ni en cuál de las hipótesis señaladas por la norma supuestamente me encuentro.”.
+
+En este punto, nos preguntamos ¿en qué parte exige el legislador que se especifique la hipótesis en la que se encuadra el desahucio? Ciertamente no existe dicho requerimiento, toda vez que lo único que hace el legislador es limitar las circunstancias de hecho en las que se hará aplicable este tipo de despido, pudiendo nuevamente, distinguir 3:
+
+a. Para aquellos trabajadores que tengan poder para representar al empleador, dotados al menos de facultades generales de administración;
+
+b. A las trabajadoras de casa particular; y
+
+c. Para trabajadores que ocupen cargos o empleos de la exclusiva confianza del empleador, cuyo carácter de tales emane de la naturaleza de los mismos.
+
+En ese sentido, la causal de desahucio escrito del empleador se trata de una causal que atendido el cargo, labores y responsabilidades que tiene un determinado trabajador no requiere que sea fundada. Es decir, la característica esencial del desahucio del empleador constituye el hecho que no requiere ser fundada, sino que aplica a determinados cargos dentro de la estructura de una empresa, y por ello no puede legalmente ser calificada de improcedente, no originando incremento legal alguno a la indemnización por años de servicio.
+
+2. Atribuciones y facultades que hacen aplicable la causal de desahucio a la señora Farías.
+Como se dijo con anterioridad, también nos haremos cargo de la segunda alegación formulada en la demanda, la que dice relación con la inexistencia de las facultades que le hagan aplicable la causal de despido en comento. En ese sentido, la señora Farías, también en la segunda página del libelo, señala lo siguiente:
+
+“La carta de despido y su causal, me causó absoluta sorpresa, ya que en la práctica nunca he sido una persona que tenga las características que señala dicha norma legal para que le sea aplicable una separación por dicha causal de despido, en la medida que no ocupo el cargo de gerente, subgerente, administrador, no desempeño un cargo de confianza o tenga otra calidad análoga, no poseo facultades de administración y disposición, de manera tal que dicha hipótesis de despido no concurre ni es aplicable en la especie, sino que muy por contrario, la labor que ejercía era totalmente subordinada, debiendo pedir autorizaciones siempre a mis superiores para distintas situaciones, del mismo modo me encuentro afiliado al sindicato de trabajadores, participé de la negociación colectiva, suscribí el convenio colectivo, etc., situaciones todas que, de haber tenido un cargo de confianza, nunca podría haber realizado.
+A mayor abundamiento, es del caso señalar que nunca se dieron los presupuestos para ser catalogado como una persona de confianza, ya que si bien en mi contrato se señala nominalmente que desempeñaba el cargo de Agente I, en la realidad esto nunca fue así, toda vez que, debía informar asistencia, cumplir horarios, reportarme constantemente con mis superiores, informar y pedir vacaciones, días libres, tenía reuniones a diario con mis jefaturas, cumplía horarios, etc., de manera tal que, nunca tuve autonomía propia y menos para contratar o desvincular personal del Banco, cerrar o abrir la sucursal a mi antojo, tampoco podía comprometer el patrimonio de la empresa, hacer mejoras en la sucursal (comprar una silla, mesa, computador etc..,) las operaciones que cursaba tenían siempre que ser aprobadas por mis superiores etc., es decir, la realidad verdadera es que soy un trabajador como cualquier otro u otra que prestaba servicios dentro de la sucursal, no existiendo nunca rasgos reales que me dotaran de autonomía para cumplir con los requisitos previstos por la ley para aplicar el desahucio.” (lo destacado es nuestro)
+
+Para explicar lo anterior, es necesario volver a las funciones que desarrollaba la señora Farías, esto es, “Agente I”. Dicho cargo, se trata de una actividad que está dotada de la más absoluta confianza del empleador. Así, para el caso particular, la actora debía supervisar, corregir y dirigir constantemente las funciones de cada una de las personas que tenía a su cargo, siendo la verdadera cara del empleador en la sucursal.
+
+Para graficar lo que se pretende expresar es necesario revisar una serie de documentos, siendo el primero de ellos el contrato de trabajo:
+
+Como se puede apreciar, existen dos verbos rectores que dan cuenta de las facultades de la actora: dirección y administración; control y supervisión.
+
+Otro ejemplo de lo anterior es el régimen de trabajo al que estaba sometida la actora, en efecto, la señora Farías estaba regida por el inciso segundo del artículo 22 del Código del Trabajo, por tanto, se encontraba exento del cumplimiento de jornada de trabajo y de fiscalización superior inmediata, que la actora señale que ello no es verídico, será también una cuestión que le corresponderá a él acreditar.
+
+Luego, siguiendo con las atribuciones de la señora Farías, llama profundamente la atención que indique que no poseía ningún tipo de atribución, si su nombre constaba en una escritura pública que lo habilitaba para lo siguiente:
+
+Pero esta no ha sido la única escritura que la faculta a representar al Banco, sino que con fecha 29 de mayo de 2019, su nombre fue incorporado en otra escritura, mucho más decidora, que la habilitaba para ejecutar los siguientes actos:
+
+Las escrituras y los poderes conferidos a la demandante, hablan por sí solos. Pero no son las únicas atribuciones que tenía la actora, quien en su calidad de máxima autoridad de la sucursal, evaluaba el desempeño de los ejecutivos que tenía a cargo; atendía a los fiscalizadores en caso de visitas por parte de la Inspección del Trabajo; representaba al Banco frente a los clientes; proponía contrataciones; solicitaba despidos; promovía ascensos, entre otras muchas atribuciones.
+
+La causal de despido es perfectamente aplicable.
+
+A mayor abundamiento, tenemos que remitirnos al descriptor de cargo contenido en el Reglamento Interno de Orden, Higiene y Seguridad:
+
+“Responsable de la Administración global de la sucursal, en términos de negocios es el encargado de lograr de manera eficiente y conforme a objetivos establecidos la correcta distribución de productos y servicios financieros que el banco tiene para los distintos segmentos de clientes objetivos en que participa. Junto con lo anterior debe mantener un buen clima laboral, estándares de calidad de servicio acordes a lo definido por el banco y manejar la sucursal dentro de parámetros de riesgo y control interno vigentes”.
+
+Aun así, la actora asegura que no poseía las facultades que su propio contrato le confiere. ¿existía entonces una discrepancia entre lo contenido en el papel y las tareas efectivamente realizadas?, ¿se trata acaso de la aplicación del principio de la primacía de la realidad? Lo negamos tajantemente, sin embargo, es importante destacar que ello no ha sido alegado en ningún momento por la actora.
+
+Asimismo, la actora es reiterativa en cuanto a la imposibilidad de que se le aplique la causal en comento, toda vez que existiría un superior jerárquico, de quien debía obedecer órdenes y directrices.
+
+Al respecto, debemos señalar que ello la existencia de jefatura y/o subordinación no dice relación con la procedencia de la causal. Lo anterior es así, no solo por una cuestión relacionada al texto expreso de la norma (el artículo 161 no exige que no exista jefatura alguna) sino que también por una cuestión obvia de aplicabilidad, esto es, que solo el gerente general de una empresa cumpliría con los requisitos que pretende la actora.
+
+C. De aquello que han resuelto los tribunales respecto a la misma materia.
+
+Con el objeto de ilustrar sobre la jurisprudencia existente en lo referente a los Jefes de Oficina (o Agentes) solo a modo ejemplar se hace presente una ilustrativa sentencia dictada el 04 de noviembre de 2016 por el Juzgado de Letras del Trabajo de Coyhaique, en la causa RIT O-57-2016. A su saber., el presente fallo hace énfasis en que el cargo desempeñado por demandante respectiva (Agente I, es decir, el mismo cargo que desempeñaba la señora Farías) es un cargo de exclusiva confianza
+
+La señora Farías se desempeñaba como Agente o Jefe Oficina, un cargo de exclusiva confianza del demandado, confianza, tal como se ha señalado, ha sido corroborada por la jurisprudencia laboral. Ilustrativa es la misma sentencia en que hace referencia a Jurisprudencia de la Corte Suprema sobre la exclusiva confianza y los requisitos contemplados en ella para poder hacer uso de la causal de desahucio:
+
+“Para determinar si la función desempeñada por el ex trabajador es de exclusiva confianza del empleador, debe analizarse la naturaleza misma de la función prestada. Dicho en otros términos, para reconocer si se está o no en presencia de un cargo de exclusiva confianza del empleador, debe analizarse sus atribuciones y también el contenido del servicio prestado. No basta que se trate de un empleado que goce de toda la confianza de su empleador, sino que es necesario que ese atributo radique en el empleo mismo, que emane de su naturaleza, como dice la ley, careciendo de él quien no tiene ni jerarquía ni poder decisivo, según lo ha sostenido la Excma. Corte Suprema, conociendo de recurso de queja, en sentencia de fecha 2 de octubre de 1970.
+
+La confianza debe ser un elemento crucial y preponderante para que sea aplicable el desahucio (Revista de Derecho y Jurisprudencia, Tomo XCVI, N° 1, 1999, pág. 9). Así será de exclusiva confianza, a modo de ejemplo, cuando:
+
+a) "Sea decisivo en la marcha de la empresa;
+
+b) Tenga acceso a los secretos de la contabilidad y a los programas económicos y formas de realizarlos;
+
+c) A los secretos profesionales e industriales;
+
+d) Cuidar los bienes materiales del empleador puestos a su cuidado; y
+
+e) Realizar funciones que por su misma naturaleza no puede encomendarse a cualquier persona, sino solo en quien hace fe de su comportamiento y moralidad por el ejemplo que debe dar" (Carlos Benavides Fritis, EL DESPIDO EN LA NUEVA JUSTICIA LABORAL, Editorial Punto Lex, Año 2009, pág. 116).
+
+Todos y cada uno de los aspectos antes señalados se cumplían respecto a la actora. El cargo desempeñado por la actora al momento de su despido era “Agente I”.
+
+Más recientemente, el Juzgado de Letras del Trabajo de Temuco, en la causa RIT O-405- 2019, caratulada “Pineda con Banco Santander Chile”, señala que la desvinculación de la demandante, quien ejercía el cargo de Jefe Oficina II o Agente I, se ajustaba a derecho, por cuanto se encontraba dentro de las hipótesis del artículo 161 inciso 2 del Código del Trabajo.
+
+Alega la jurisprudencia es conteste al señalar que el cargo de Agente o Jefe Oficina es un cargo que cae dentro de la causal establecida en el artículo 161 inciso 2 del Código del Trabajo, esto es, desahucio escrito del empleador
+
+EN SUBSIDIO DE LO ANTERIOR, EL RECARGO DEBERÁ SER CALCULADO CONFORME A LOS TOPES LEGALES, YA QUE ASÍ LO HA PACTADO EXPRESAMENTE LA ACTORA A TRAVÉS DEL SINDICATO QUE LA REPRESENTA.
+
+Hemos señalado de forma lata que el despido se encuentra justificado, razón por la que mal podría proceder el recargo del 30% sobre los años de servicio, tal como pretende la demandante. Sin perjuicio de lo anterior, conviene referirnos a un asunto particular, esto es, que en caso de declararse injustificado el despido, el recargo del 30% deberá aplicarse de conforme lo señala el contrato colectivo al que se encontraba afecto la actora.
+
+La señora Farías, con fecha 16 de febrero de 2021 y debidamente representada por el Sindicato al que se encontraba afecta, suscribió con el demandado un contrato colectivo que, en su décima cláusula, señala lo siguiente:
+
+“La empresa pagará a los trabajadores con una antigüedad superior a 1 (un) año y cuyo contrato de trabajo termine por decisión del empleador, es decir, por las causales establecidas en el artículo 161 del Código del Trabajo, o de la norma que lo reemplace, una indemnización por años de servicio, equivalente a 30 (treinta) días de la última remuneración mensual devengada, sin topes legales, por cada año de servicio y fracción superior a seis meses, que hubieren trabajado en forma continua para la empresa y/o sus antecesores, reconocidos en sus respectivos contratos de trabajo.” (lo destacado es nuestro).
+
+En razón del párrafo expuesto, la señora Farías, al momento de suscribir su finiquito, percibió una remuneración que superaba el tope legal establecido en el artículo 163 del Código del Trabajo sin perjuicio de ello, la referida cláusula no se agotaba en lo anterior, sino que además agrega lo siguiente:
+
+“Las partes acuerdan que en el evento que los Tribunales de Justicia declaren que la causal del artículo 161 del Código del Trabajo es injustificada el incremento legal o el que lo reemplace, no se aplicará sobre la indemnización por años de servicio establecida en el párrafo primero de esta cláusula, sino que sobre la indemnización por años de servicio legal aplicándose en consecuencia para estos efectos los topes legales”
+
+Es decir, se pacta una indemnización sin topes, no obstante, en caso de que el despido sea declarado injustificado, el recargo legal no procederá sobre la indemnización convencional, sino que se calculará conforme a los topes legales.
+
+De esta forma, conviene hacer presente que la demandante pretende que se calcule el eventual recargo sobre una indemnización convencional, pero olvida que la misma cláusula que le otorgaba ese derecho, también lo limita en caso de que el despido sea declarado injustificado.
+
+Ambas partes (el demandado y el sindicato al que se encontraba afecta la actora) han entregado su consentimiento en un sentido claro, esto es, que en caso de declararse injustificado el despido por parte de los tribunales de justicia el incremento legal del 30% no se aplicará sobre la indemnización por años de servicio señalada anteriormente, sino que sobre la indemnización por años de servicio legal aplicándose en consecuencia para estos efectos los topes legales de monto (90 UF) y de tiempo (330 días).
+
+En ese sentido, lo que en este punto pretende la actora, es desconocer parte del contrato colectivo debidamente suscrito, pero solo parte, toda vez que expresa su total conformidad respecto al primer párrafo de la décima clausula, que le permitió percibir una indemnización superior a los 200.000.000.-, sin embargo, creemos que el la señora Farías evidentemente olvida los principios rectores que predominan en la actuación sindical.
+
+Así las cosas, no ha sido el demandado quien de forma unilateral e improcedente ha pactado una cláusula en detrimento de los derechos de sus trabajadores, sino que al referido acuerdo ha comparecido, libre y espontáneamente, el sindicato al que el actor se encontraba afecto.
+
+En efecto, no debemos olvidar que el tenor de la cláusula, su redacción y el objeto que ella persigue, fue acordado tanto por la empresa como por el correspondiente sindicato. El artículo 220 del Código del Trabajo, nos indica precisamente cuáles serán los fines de las actuaciones llevadas a cabo por las organizaciones sindicales, entre las cuales se encuentra:
+
+1. “Representar a los afiliados en las diversas instancias de la negociación colectiva, suscribir los instrumentos colectivos del trabajo que corresponda, velar por su cumplimiento y hacer valer los derechos que de ellos nazcan;
+
+3. Velar por el cumplimiento de las leyes del trabajo o de la seguridad social, denunciar sus infracciones ante las autoridades administrativas o judiciales, actuar como parte en los juicios o reclamaciones a que den lugar la aplicación de multas u otras sanciones;
+
+5. Prestar ayuda a sus asociados (…);
+
+11. Propender al mejoramiento del nivel de empleo y participar en funciones de colocación de trabajadores, y;
+
+12. En general, realizar todas aquellas actividades contempladas en los estatutos y que no estuvieren prohibidas por ley” (lo destacado es nuestro)
+
+Lo anterior, dice relación con el poder de representación del cual están investidos los sindicatos respecto de sus afiliados, tal como lo establece el artículo 234 del Código del Trabajo.
+
+De esta forma, nos parece al menos conveniente para el demandante que, en esta instancia, se alegue que la referida clausula contenida en el convenio colectivo es en realidad abusiva, toda vez que a la suscripción de la misma concurrió una entidad que precisamente busca proteger los derechos de los trabajadores, tal como se extrae de las normas transcritas con anterioridad.
+
+La titularidad sindical esgrimida en párrafos anteriores ha sido reafirmada judicialmente por el Segundo Juzgado de Letras del Trabajo de Santiago, quien en causa M-1164-2021, respecto al reclamo por una supuesta cláusula abusiva contenida en el contrato colectivo, sentenció lo siguiente:
+
+“En tercer lugar, que con fecha 09 de abril de 2020, entre la empresa demandada y los representantes del sindicato al que estaba afiliado el trabajador se establece una cláusula interpretativa de la cláusula ya referida, en la que se señala que el bono referido en ella no se pagará por la emergencia sanitaria, y se pacta un bono que varía de acuerdo a la remuneración del trabajador, por el período de 3 meses. Que, en este contexto, cobra relevancia la norma del artículo 220 del Código del Trabajo, que en su numeral 1 indica que uno de los fines principales de las organizaciones sindicales es representar a los afiliados en las diversas instancias de negociación colectiva, suscribir instrumentos colectivos de trabajo que corresponda, entre otros, concordado esto con lo dispuesto en el artículo 234 del citado cuerpo legal, el documento denominado cláusula interpretativa firmado por la empresa y los dirigentes del Sindicato al que pertenecía el actor, tiene plena vigencia y aplicabilidad a éste, toda vez que fue firmado por las personas que lo representaban para esos efectos, no habiéndose acreditado por parte del demandante por medio alguno que las personas que aparecían firmando el documento no fueran los dirigentes sindicales, o que éstos no hubieran consultado con las bases previamente el acuerdo, por lo que dicho documento tiene pleno valor respecto del actor, y no puede desconocer sus efectos, ya que formaba parte del sindicato que de común acuerdo con la empresa interpretó lo establecido en la cláusula 17 del convenio colectivo, por lo que la demanda será rechazada en todas sus partes en este punto.” (lo destacado es nuestro)
+
+En ese sentido – reiteramos – la cláusula es del todo válida.
+
+Sin perjuicio de lo anterior y como si lo expuesto no fuere razón suficiente para desestimar la pretensión de la actora, es necesario hacer referencia a otro punto importante, esto es, el manifiesto abuso de la norma que pretende la señora Farías.
+
+Que la demandante intente no respetar lo pactado al solicitar el recargo del 30% sobre la totalidad de los montos enterados, implica que se estaría beneficiando doblemente, pues estaría recibiendo una indemnización por parte del banco por sobre los montos que exige la ley en razón del acuerdo alcanzado, pero además está exigiendo que se aplique un recargo legal sobre dicha indemnización, ignorando parte -y esencial- del mismo acuerdo que busca al mismo tiempo hacer aplicable.
+
+Precisamente el haber otorgado aquella indemnización sin tope, tiene la limitación de que en caso de que el despido sea declarado injustificado, el recargo sea sobre la indemnización legal con topes.
+
+De esta manera, la pretensión de la actora no puede ser sino rechazada por ir en contra del texto expreso del Convenio Colectivo y de lo dispuesto en el artículo 168 del Código del Trabajo, además de ser un abuso a un beneficio otorgado por el demandado. El aplicar la sanción que el actor pretende sería, por lo demás, un desincentivo a los empleadores en general a otorgar este tipo de beneficios a sus trabajadores y además supondría ir en contra de lo acordado entre todos los Sindicatos del Banco Santander y éste, lo que incluye al actor, dejando sin efecto sólo parcialmente un Convenio Colectivo vigente y legalmente celebrado.
+
+Lo anterior se encuentra en perfecta armonía con una sentencia dictada con fecha 27 de diciembre de 2019 por el Juzgado de Letras del Trabajo de Puerto Montt, la cual recoge todos y cada uno de los argumentos esgrimidos por esa parte en una situación idéntica a la de autos.
+
+Sentencia dictada por la Corte de Apelaciones de Valdivia, en causa ROL 287-2019, caratulada Espinoza con Santander:
+
+Sentencia dictada por el Juzgado de Letras del Trabajo de Talca, con fecha 24 de junio de 2019, causa caratulada “Sanhueza con Banco Santander” RIT O-109-2019, también reconoce lo estipulado en el convenio colectivo en el siguiente sentido.
+
+Sentencia dictada por el Juzgado de Letras del Trabajo de Puerto Montt en causa RIT O-441-2019 Caratulada González con Banco Santander.
+
+Sin intención de ser reiterativos o sobre abundantes, es necesario ser enfáticos en que lo pretendido por el actor no es una cuestión nueva, sino que ya ha sido discutido por los tribunales de justicia quienes, a su vez, han sido contestes al señalar que la cláusula en comento es plenamente aplicable.
+
+Finalmente, cabe destacar que incluso en el finiquito suscrito por el demandante se establece claramente y de forma separada la distinción entre la indemnización legal y la indemnización convencional que se paga como diferencia para alcanzar el total establecido en la cláusula del instrumento colectivo, cuestión no viene sino en estar en plena armonía con lo acordado en el Convenio Colectivo, donde se distingue entre la indemnización legal del ex trabajador y la diferencia que se entera para poder completar el total pactado en el mencionado Convenio, tal como se muestra en el siguiente extracto del referido finiquito:
+
+Como se puede apreciar, desde ya el finiquito incorpora dos letras (a y b) en los haberes pagaderos a la trabajadora. Por una parte, la letra a) establece el monto referente al último párrafo de la décima clausula contenida en el contrato colectivo. Así, la suma de $35.154.584.- no es sino el tope legal que correspondería pagar al trabajador por años de servicio en caso de no estar afecto al contrato colectivo, asimismo, corresponde también al monto sobre el cual deberá calcularse el recargo del 30% en el improbable caso de que SS., considere el despido como injustificado.
+
+Por tanto, en caso se considerare que el despido del actor es injustificado, el recargo del 30% debe aplicarse en conformidad a lo dispuesto al artículo 168 del Código del Trabajo, en la medida que este hace plenamente aplicable en su integridad lo pactado en el Convenio Colectivo, siendo la base de cálculo indemnizatoria la indemnización legal por años de servicio necesarios para la aplicación de la causal de despido en comento.
+
+Luego, en el improbable caso de que se, estime que el despido es efectivamente injustificado, el recargo legal deberá ser calculado conforme a los topes legales, es decir, el 30% de $35.154.584.-
+
+2. Del descuento al aporte del Seguro de Cesantía.
+
+En primer lugar, debemos mencionar que el aporte del demandado relativo al seguro de cesantía de la señora Farías se ha descontado en virtud de lo que dispone la ley, por tanto, no se trata de un descuento ilegal como refiere la demandante.
+
+En efecto, la Ley N.º 19.728 faculta expresamente al empleador, para descontar del finiquito el aporte que éste hubiere efectuado en la cuenta del trabajador cuyo contrato de trabajo hubiere concluido por la causal del artículo 161 del Código del Trabajo.
+
+Así, señala expresamente la referida ley 19.728 en su artículo 13 “Si el contrato terminare por las causales previstas en el artículo 161 del Código del Trabajo, el afiliado tendrá derecho a la indemnización por años de Banco Santander prevista en el inciso segundo del artículo 163 del mismo cuerpo legal, calculada sobre la última remuneración mensual definida en el artículo 172 del mismo, con un límite máximo de trescientos treinta días de remuneración, a menos que se haya pactado, individual o colectivamente, una superior, caso en el cual se aplicará esta última
+
+Se imputará a esta presentación la parte del saldo de la Cuenta Individual por Cesantía constituida por las cotizaciones efectuadas por el empleador más su rentabilidad, deducidos los costos de administración que correspondan, con cargo a las cuales el asegurado pueda hacer retiros en la forma que señala el artículo 15”.
+
+En consecuencia, lo que Banco Santander plantea como descuento al actor no es otra cosa que la expresión de una facultad reconocida en la ley. Hacemos presente a SS. que el descuento anterior surte efecto incluso si se declara injustificado el despido por parte del Tribunal, pues la Ilustrísima Corte de Apelaciones de Santiago, en fallo de fecha 02 de junio de 2017, ROL 492-2017, señaló expresamente que el referido descuento procedía incluso si el despido era posteriormente declarado injustificado.
+
+En virtud de lo expuesto, la calificación judicial de injustificado un despido por necesidades de la empresa no incide ni es obstáculo para el descuento reclamado. Justificado o no, lo cierto es que el contrato de trabajo terminó por la causal de necesidades de la empresa. Por consiguiente, los descuentos realizados por el empleador, por concepto de aporte de seguro de cesantía, han sido ajustados a derecho, siendo improcedentes las alegaciones de la demanda.
+
+Finalmente, de acuerdo a la reciente Sentencia de Unificación de Jurisprudencia, dictada por la Cuarta Sala de fecha 3 de enero de 2020, ROL 11905-2019, se concluyó categóricamente que el descuento por concepto de aporte al AFC procede aun en caso de que se determine como injustificado el despido, declarado así por nuestro máximo Tribunal de la República, según el siguiente tenor:
+
+3. De la supuesta diferencia en la base de cálculo.
+
+Como se expresó con anterioridad, la base de cálculo es aquella que se consigna en el finiquito. Lo que la actora pretende, es aumentar eventuales indemnizaciones sobre la base de situaciones inexistentes toda vez que, como se pude apreciar, no es capaz siquiera de exponer con claridad que conceptos serían los que no se contabilizaron, menos aún, la continuidad en el pago de los mismos.
+
+Pide se sirva tener por contestada la demanda por despido injustificado y cobro de prestaciones interpuesta por doña Lorena De Lourdes Farías Rey en contra del demandado, y se proceda a declarar lo siguiente:
+
+1. Que las funciones de la actora se encuadran en la hipótesis de la causal de despido invocada.
+
+2. Que la carta de despido cumple con los requisitos formales exigidos por el artículo 162 del Código del Trabajo.
+
+3. Que el despido de la actora fue justificado, debido y procedente.
+
+4. Que nada se debe por conceptos de recargo legal.
+
+5. Que, en subsidio de lo anterior, el recargo legal sea calculado conforme a los topes legales.
+
+6. Que el descuento al aporte del empleador en el seguro de cesantía es procedente.
+
+7. Que la base de cálculo corresponde a aquella expresada en el finiquito.
+
+8. Que se condene expresamente en costas al actor o, en subsidio, se exima a esta parte de su pago.
+CUARTO: De la conciliación.
+
+Llamadas las partes a conciliación en la oportunidad procesal correspondiente, esta no se produjo.
+
+Y CONSIDERANDO.
+
+QUINTO: De la controversia jurídica.
+
+Que, el artículo 162 del Código del Trabajo dispone, que “Si el contrato de trabajo termina de acuerdo con los números 4, 5 ó 6 del artículo 159, o si el empleador le pusiere término por aplicación de una o más de las causales señaladas en el artículo 160, deberá comunicarlo por escrito al trabajador, personalmente o por carta certificada enviada al domicilio señalado en el contrato, expresando la o las causales invocadas y los hechos en que se funda.
+
+Esta comunicación se entregará o deberá enviarse, dentro de los tres días hábiles siguientes al de la separación del trabajador. Si se tratare de la causal señalada en el número 6 del artículo 159, el plazo será de seis días hábiles.
+
+Deberá enviarse copia del aviso mencionado en el inciso anterior a la respectiva Inspección del Trabajo, dentro del mismo plazo. Las Inspecciones del Trabajo, tendrán un registro de las comunicaciones de terminación de contrato que se les envíen, el que se mantendrá actualizado con los avisos recibidos en los últimos treinta días hábiles.
+
+Así las cosas debió en el juicio probarse el cumplimiento de dichas formalidades para que el despido produjera sus efectos normales.
+
+Además el artículo 453 del mismo cuerpo legal, en su numeral 1) inciso segundo dispone que “No obstante lo anterior, en los juicios sobre despido corresponderá en primer lugar al demandado la rendición de la prueba, debiendo acreditar la veracidad de los hechos imputados en las comunicaciones a que se refieren los incisos primero y cuarto del artículo 162, sin que pueda alegar en el juicio hechos distintos como justificativos del despido.
+
+De tal forma, que resultaba además carga de la demandada acreditar los hechos en que fundó su carta de despido y luego su calificación en la causal fundada.
+
+SEXTO: Sobre los hechos controvertidos y no controvertidos.
+
+Por no existir controversia fáctica al respecto se fijaron como hechos no controvertidos:
+
+1. Existencia de la relación laboral entre Lorena Farías y Banco Santander Chile, desde 5 de noviembre de 1990 y hasta el 14 de marzo 2023 la que finalizó por la causal del art. 161 inc. 2° desahucio del empleador.
+
+2. Cumplimiento de las formalidades del despido, en cuanto a las comunicaciones.
+
+3. Que ejercía al momento del despido el cargo de Agente I.
+
+4.- Celebración finiquito con fecha 30 de marzo de 2023, con reserva de acciones, en donde se pagaron por concepto de indemnización por años de servicio $213.163.488, mes de aviso $6.661.359 y compensación por feriado legal por 22 días por la suma de $4.805.064.
+
+5. Existencia de convenio colectivo que establece en la cláusula 10° inciso 3° letra A, establece que para el pago del recargo de 30% sobre indemnización por años de servicio, se aplicará sólo respecto de la indemnización legal
+
+A su vez, que por tratarse de hechos controvertidos pertinentes y sustanciales, se fijaron como tales:
+1. Fundamento contenido en la carta de despido. Efectividad del mismo. Aptitud de éste para configurar la causal.
+
+2. En su caso, efectividad de tratarse de un trabajador con poder para representar al empleador y con facultades generales de administración. hechos que lo constituyen.
+
+3. Remuneración pactada y efectivamente percibida en promedio los últimos 3 meses trabajados íntegramente.
+
+4. Procedencia de la cláusula de limitación de indemnización de convenio colectivo.
+
+SÉPTIMO: Sobre la prueba rendida.
+Que con objeto de acreditar sus afirmaciones fácticas las partes incorporaron la siguiente prueba:
+La demandada:
+
+I. Documental.
+
+1. Contrato de trabajo suscrito por la actora.
+
+2. Carta de despido suscrita por la actora junto a su respectivo comprobante de envío a la Dirección del Trabajo.
+
+3. Finiquito de contrato de trabajo suscrito por la actora con fecha 30 de marzo de 2023.
+
+4. Liquidación de remuneraciones de la actora respecto del periodo comprendido entre octubre de 2022 a marzo de 2023.
+
+5. Detalle de conceptos que compusieron la indemnización pagada en el finiquito.
+
+6. Acta de estructura de poderes del Banco Santander establecida en sesión ordinaria de directorio N° 336 de 2002.
+
+7. Escritura pública de revocación y otorgamiento de poderes clase “B” a Lorena Lourdes Farías Rey y Otros, suscrita ante la 37 notaría de Santiago con fecha 3 de mayo de 2011.
+
+8. Escritura pública de otorgamiento de poder especial a Lorena Lourdes Farías Rey y Otros, suscrita ante la 37 notaría de Santiago con fecha 29 de mayo de 2019.
+
+9. Cuadro explicativo de las facultades que comprende el “poder clase B”.
+
+10. Contrato colectivo al que se encontraba afecto la actora junto a su respectiva nómina.
+
+11. Evaluación de desempeño efectuada por la actora a la trabajadora Lucía Sura Paredes, respecto del año 2022.
+
+II. Confesional:
+
+LORENA DE LOURDES FARIAS REY, quien preguntada por la demandada quien preguntada por la parte demandada indicó que, trabajo para el banco Santander en calidad de agente, que es efectivo que le dieron un poder clase b, y que era un poder que daba el banco, que ella no firmó.
+
+Que fue ejecutivo banca personas, ejecutiva banca pyme, ejecutiva empresa, jefe de plataforma y agente en tres sucursales.
+
+Que como agente se desempeñó en la sucursal de Curicó Mall, en Curicó Plaza y en la sucursal Curicó y estuvo 3 meses haciendo un reemplazo en San Fernando.
+
+La demandante por su parte incorporó:
+
+I. Documental.
+
+1. Finiquito de Contrato de Trabajo de fecha 14 de marzo del año 2023 suscrito entre el Banco Santander Chile y la demandante de autos, en la cual consta la reserva de derechos.
+
+2. Copia carta despido de fecha 14 de marzo del año 2023.
+
+3. Liquidaciones de remuneraciones de la demandante de autos del periodo comprendido entre enero del año 2021 hasta febrero del año 2023
+II. Confesional.
+
+Citado a prestar declaración bajo apercibimiento del artículo 454 Nº3 del Código del Trabajo don Jorge Peña no comparece, sin justificación.
+
+III. Testimonial.
+
+PATRICIA ASTUDILLO que conoce a doña Patricia trabajaron juntas, en el banco Santander, que a ella la despidieron que trabajo desde el año 1998, que era jefa de Riesgo, que sus funciones eran tener personas a cargo y trabajaba viendo toda la zona, tenía ejecutivos a cargos. La zona era desde Rancagua hasta Cauquenes.
+
+Que doña Lorena era agente, que sus funciones eran de ser una trabajadora más igual que ella, que el rol era dirigir ir a la oficina y los ejecutivos de cuenta, el rol es dirigirlos.
+
+Que el personal del banco lo contrata recursos humanos, y también lo desvincula. Que la jornada de trabajo era los mismos horarios de los trabajadores, desde las 9 de la mañana a las 18.00 horas.
+
+Que las facultades del agente no tienen, porque todo lo preguntan a Santiago o recursos humanos o jefe de operaciones, ellos no tiene facultades para tomar determinaciones.
+
+Que el horario la determina Santiago, al igual que el mobiliario.
+
+Que la sucursal 23 de Curicó.
+
+La máxima autoridad de una sucursal, es el jefe de operaciones generalmente es quien toma determinaciones como oficina.
+
+Los créditos bancarios es el sistema quien lo aprueba, lo demás es todo por el área de Riesgo que es la que determina los valores, los montos y las autorizaciones.
+
+La remuneración del agente es variable, como todos, tienen un sueldo fijo, gratificaciones bonos, campañas, por lo que es variable. Los bonos se devengan mes a mes depende de la campaña o el bono.
+
+EXEQUIEL QUITRAL quien preguntado por la parte demandante señala que conoce a la demandante porque trabajaron juntos en Santander por varios años, que ya no trabaja que trabajo durante 33 años, y fue desvinculado en el año 2022, que su cargo era de jefe de operaciones.
+
+Sus funciones eran de hacer que el edificio funcionaria de acuerdo a poder dar atención a público, que pudieran funcionar sistema operativo del banco y se preocupaba de dar el soporte en caso de necesidad, algún desperfecto o algo que hiciera que el edificio tuviera una falla, el jefe de operaciones era el encargado de solucionar el tema
+
+Lorena Farías era agente, el agente es dirigir comercialmente a un grupo de ejecutivos que trabajaban en base a cumplir lo que está estipulado en el banco para cumplir metas comerciales.
+
+La máxima autoridad de la sucursal es el jefe de operaciones en funcionamiento del edificio, dado que también del edificio y el sistema aes el encargado de seguridad.
+
+Que el personal lo contrata y desvincula recursos humanos.
+
+La jornada de trabajo al igual que todo el equipo del trabajo, es de 8.30 a 18.00 horas
+
+Los agentes no tiene mayormente facultades sino de dirigir a los equipos comerciales, para cumplir las metas.
+
+El horario de funcionamiento y el mobiliario se determinen por recursos humanos.
+
+El personal de la sucursal es evaluado por recursos humanos, y por los jefes
+
+Que los créditos se aprueban por el sistema, si el sistema no lo da se deriva al agente y el agente lo eleva por sistema al área de riesgo.
+
+La remuneración de los agentes al igual que de todas las plataformas es una renta variable que se compone de un sueldo base, gratificación, campaña y comisiones.
+
+Estos están establecidos por el banco, pueden ser campañas quincenales, mensuales o semestrales, pero el banco lo paga al tercer mes, eso es durante todo el año.
+
+IV. Exhibición de documentos.
+
+Se solicitó la exhibición de los siguientes documentos, bajo apercibimiento del artículo 453 Nº5 del Código del Trabajo, sin que se exhibiera
+
+1. Todos los contratos y anexos de contrato de trabajo de la demandante, que contengan la formula y procedimiento del cálculo de los bonos, premios y comisiones percibidos en las liquidaciones de sueldo, durante todo el periodo de la relación laboral que las unía, siendo este desde el 05 de noviembre del año 1990 hasta el día 14 de marzo del año 2023.
+
+2. Anexos de liquidaciones de remuneraciones de la demandante conforme lo dispone el artículo 54 bis del código del trabajo, ello, respecto del periodo comprendido entre marzo del año 2021 a marzo del año 2023.
+
+OCTAVO: Sobre los hechos acreditados.
+
+Que con la prueba rendida en el juicio valorada mediante sana critica, de conformidad con las reglas de la lógica, las máximas de la experiencia y el conocimiento científicamente afianzado, conforme lo dispuesto en el artículo 456 del Código del Trabajo, siendo está valorada en su conjunto e individualmente permitieron formar convicción en este sentenciador del modo de su ocurrencia de los siguientes hechos, en la forma que se señalara:
+
+1. Existencia relación laboral entre Lorena De Lourdes Farías Rey y Banco Santander que inició con fecha desde 5 de noviembre de 1990.
+
+Sobre dicho punto, si bien se trató de un hecho no controvertido, tanto en cuanto la fecha de inicio de la misma, como la relación laboral como tal.
+
+Ello se refrendó también mediante la incorporación del contrato de trabajo celebrado entre las partes con fecha 1 enero de 2011, en donde se establecía como jefe oficina II.
+
+Da cuenta por lo demás de la relación laboral, la existencia de liquidaciones de remuneraciones y la propia carta de despido.
+
+2. Que las funciones realizadas por la trabajadora eran de Agente I, y en virtud de las cuales mantenía facultades de representación y dirección en la empresa.
+
+Sobre dicho punto, se trata de un hecho no controvertido que las funciones eran realizadas eran de Agente I, sin perjuicio de ello, fue refrendado también mediante las liquidaciones de sueldo donde también aparece signado como agente I, al igual que la propia carta de despido, y por lo demás reconocido por la propia actora quien prestó declaración en juicio.
+
+Por lo demás si bien el contrato incorporado señala como funciones la de Jefe de Oficina, las mismas contemplan entre otras obligaciones las de:
+
+“Dirigir y administrar de forma eficiente y oportuna la oficina o sucursal que el empleador le asigne al cargo, orientándola al cumplimiento de las metas y demás compromisos comerciales de cada uno de sus integrantes en forma permanente, controlando o supervisando a aplicación de las Políticas de Riesgo y Riesgo Operacional, velando por la calidad y oportunidad del servicio hacia los clientes, y mejorando permanentemente la rentabilidad de dicha unidad. Todo lo anterior, de acuerdo a las directrices, indicaciones e instrucciones que el Empleador determine.
+
+En el cumplimiento de su cargo, el Jefe Oficina II será el encargado de planificar las estrategias acciones comerciales que permitan generar oportunidades de negocios con organismos e instituciones públicas y privadas, estableciendo objetivos y controlando el cumplimiento de los mismos, respecto del personal a su cargo.
+
+De igual forma, será el responsable de la Administración eficiente del personal o recurso humanos y financieros, efectuando todos los controles y el seguimiento de los compromisos adquiridos con sus jefaturas superiores. También deberá asegurar el correcto uso de las herramientas comerciales por parte de su personal a cargo, específicamente; Terminal Financiero, Browser, Syseva, Intranet, Blanca y Gestión Dirigida, como de cualquier otra herramienta tecnológica que la empresa ponga a disposición de la Sucursal para el desarrollo de sus funciones.
+
+Deberá, asimismo, participar permanentemente en el Comité de Normalización y Crédito de Riesgos, con la finalidad de estar en pleno conocimiento de las operaciones que se desarrollan al interior de su respectiva Sucursal.”.
+
+Estableciendo en su cláusula Tercera, que: “Las partes declaran y ratifican que para todos los efectos legales que procedan, el cargo o función que servirá el Agente constituye un cargo de exclusiva confianza del empleador, en razón de las funciones de jefatura, administración y responsabilidad general que el trabajador desempeñara para la Empresa, antes descritas en el cargo de Jefe de Oficina II. Lo anterior, dada la naturaleza del mismo dentro de la organización de la Empresa.”.
+
+Destaca por lo demás en su contrato la cláusula expresa de prohibición de negociar colectivamente por cuanto se encuentra comprendido en el artículo 305 Nº 2 y/o 4ª del Código del Trabajo.
+
+En cuanto a las facultades de representación, se allegaron sendas escrituras públicas entre ellas, la de mayo de 2019, para que actuando individualmente pueda suscribir a favor del Banco Santander escrituras, otorgar créditos o mutuos, pudiendo aceptar, endosar, liberar y alzar hipotecas y prohibiciones constituidas en favor del Banco. Puede recibir, aceptar, cancelar, posponer y liberar, prendas, fianzas, entre otros.
+
+Además la escritura pública de 24 de julio de 2002, de reducción de sesión ordinaria de directorio, en donde se modifica poderes del banco, donde se otorga a la demandante poder clase b, para que actuando conjuntamente dos apoderados clase “B”, o uno de ellos conjuntamente con un apoderado clase “A” podrán: 1. Comprar toda clase de bienes corporales o incorporales muebles. 2. Cobrar y percibir de cualquier persona o institución las sumas, bonos y valores que correspondan al Banco provenientes de cualquier clase de documentos, depósitos, valores hipotecarios reajustables u otros tipos de inversiones o cualquier otro valor que exista o existiere en el futuro. 3. Abrir cuentas corrientes bancarias en el exterior; retirar talonarios de cheques.4. Reconocer saldos de las cuentas corrientes abiertas a nombre del Banco. 5. Girar cheques, cancelar, endosar, protestar y revalidar cheques. 6. Suscribir los documentos de créditos que otorgue el Banco, suscribir renovaciones de dichos documentos, contratar préstamos comerciales y financieros en el exterior. 7. Cobrar y percibir cuanto se adeude o llegue a adeudar al Banco por cualquier causa o motivo 8. Otorgar recibos. 9. Otorgar cancelaciones y finiquitos. 10. Aceptar cesiones de créditos. 11. Contratar para el Banco y/o terceros pólizas de seguro y endosar dichos documentos. 12. Entregar y retirar valores en custodia y garantía.13. Otorgar los certificados de custodia o de garantía sobre valores que haya recibido el Banco. 14. Arrendar y administrar cajas de seguridad. 15. Firmar los comprobantes y certificados de depósitos. 16. Otorgar y suscribir boletas de garantía, firmar memorándum o letras emitidas sobre oficinas del Banco o de los bancos corresponsales.17. Suscribir escrituras de mutuo a favor del Banco. 18. Emitir órdenes de pago o de entrega de valores, abrir y conferir créditos simples o documentarios sobre los bancos corresponsales, cancelar y alzar dichas cauciones. 19. Girar, aceptar, reaceptar, endosar, descontar y redescontar, cancelar y prorrogar, renovar, revalidar y hacer protestar letras de cambio, pagarés y cualquier clase de títulos de crédito y documentos a la orden.20. Recibir, aceptar, cancelar, posponer, dividir y liberar hipotecas, prendas, fianzas y otras garantías. 21. Endosar letras de cambio, pagarés y efectos de comercio en cobranza o en garantía. 22. Retirar correspondencia certificada o giros postales o telegráficos. 23. Tramitar operaciones ante el Banco Central de Chile y otorgar las garantías que exijan. 24. Aceptar mandatos generales o especiales. 25. Aceptar comisiones de confianza, con amplias facultades para estipular en ellas las obligaciones, derechos y condiciones que estime convenientes. 26. Presentar toda clase de solicitudes y reclamos en materias tributarias ante el Servicio de Impuestos Internos, Tesorería General de la Republica o ante cualquier otra entidad u organismo competente con las más amplias facultades. 27. Contratar y cerrar a terceros cuentas corrientes o cuentas especiales, de depósitos, de créditos, ya sea en moneda nacional o extranjera. 28. Efectuar operaciones de cambio internacionales y arbitrajes, suscribir informes de importaciones o exportaciones y solicitudes anexas, para efectuar importaciones de mercaderías necesarias para el Banco, representar al Banco en todo lo relacionado con actividades de comercio exterior, ante todo tipo de autoridades, ya sea por cuenta del propio Banco o de terceras personas. 29. Endosar documentos de embarque y firmar certificados de endoso de documentos de embarque. 30. Efectuar importaciones con cobertura diferida. 31. Abrir, confirmar y modificar créditos simples y documentarios. 32. Comprar y vender divisas, incluso a plazo o a futuro y con pacto de retroventa o retrocompra. 33. Emitir vales de liquidación bancaria y certificados de depósitos a la vista y plazo. 34. Celebrar contratos de trabajo individual, ponerles término y modificarlos. 35. Suscribir a favor del Banco escrituras de mutuos hipotecarios endosables, o de mutuos hipotecarios provenientes-
+
+Además actuando conjuntamente un apoderado clase “B” con un apoderado clase “C”, podrán celebrar contratos de arrendamiento con opción de compra o leasing sobre bienes muebles, corporales e incorporales, hasta por un monto total equivalente a 1.000 Unidades de Fomento, siempre y cuando estos no incluyan derechos de aduanas diferidos. En relación con estos contratos, los apoderados podrán suscribir las actas y anexos que correspondan, suscribir modificaciones o aclaraciones, ponerles término, suscribir actas de devolución, proceder al retiro de los bienes entregados en arrendamiento con opción de compra o leasing, y suscribir los documentos necesarios para transferir el dominio de los bienes cuando el arrendatario decida ejercer su opción de compra.
+
+3. Que la remuneración promedio percibida por la actora es de carácter variable, y los últimos 3 meses trabajados ascendió a la suma de $6.689.261
+
+Sobre dicho punto si bien consta el contrato de trabajo, allegado que refiere en cuanto a la remuneración sueldo base y, gratificación mensual, existe también ambos elementos remuneraciones coinciden, y aparece además un bono de colación.
+
+Luego, si bien aparece existen otros conceptos remuneracionales, como “premios” pagados con cierta periodicidad el que debe ser considerado en la forma contemplada esto es 3 últimos meses.
+
+Respecto de bono vac aguinaldos, y caja navidad, son conceptos esporádicos
+
+De tal forma corresponde a los meses de febrero, enero y diciembre los conceptos remuneracionales de sueldo base, y gratificación, bono de colación y premio.
+
+4. Que con fecha 28 de febrero de 2023 finalizó la relación laboral por despido fundado causal de desahucio del empleador, prevista en el artículo 161 inciso 2 del Código del Trabajo, la que se notificó personalmente a la trabajadora. Hechos de la carta.
+
+En efecto, se trató también de una cuestión establecida como un hecho no controvertido, se incorporó copia de la misiva en donde en la fecha indicada consta el término de la relación laboral fundada la causal dispuesta en al artículo 161 inciso 2° del Código del Trabajo.
+Así con respecto al contenido de la misma, se funda según expresa “Comunico a ud. La decisión de la empresa de poner término a su contrato de Trabajo con fecha 14 de marzo de 2023, en virtud de la causal legal establecida en el artículo 161 inciso 2° del Código del Trabajo, esto es, Desahucio escrito del empleador”
+5. Que se suscribió finiquito con fecha 30 marzo de 2023 en donde se pagaron por concepto de indemnización por años de servicio $213.163.488, mes de aviso $6.661.359 y compensación por feriado legal por 22 días por la suma de $4.805.064 y se estableció una reserva de derechos por la trabajadora.
+
+Ello, aparece establecido como un hecho no controvertido, sin perjuicio de lo cual se acompañó al proceso copia del finiquito que aparece suscrito entre la trabajadora y la empresa, en donde queda de manifiesto al tenor literal de lo dispuesto en el respectivo finiquito, en donde se señala como haberes por concepto de indemnización por años de indemnización por 32 años de servicio, y hace la distinción en cuanto as u pago, respecto de aquella dispuesta en la cláusula décima letra a última párrafo del instrumento colectivo la suma de $35.154.584 y diferencia para alcanzar el total establecido en la cláusula del instrumento colectivo $178.008.904, mes de aviso $6.661.359 y compensación por feriado legal por 22 días por la suma de $4.805.064.
+
+Consta estampada la reserva de derechos para demandar de la trabajadora.
+
+Estos montos coinciden con los propuestos en la carta de despido.
+
+6. Existencia de convenio colectivo que establece para el pago del recargo de 30% sobre indemnización por años de servicio, se aplicará sólo respecto de la indemnización legal.
+
+Que sobre este punto, si bien se trató de un hecho no controvertido se acompañó así mismo copia del contrato colectivo en cuanto su cláusula 10° letra A, dispone pagara para los casos de término de la indemnización por años de servicio equivalente a 30 días de la última remuneración, sin topes legales por cada año de servicio, y fracción superior a 6 meses, que se hubieran trabajado de forma continua para la empresa.
+
+Refiere se incluye en la última remuneración mensual los estipendios fijos percibidos periódicamente en los tres últimos tres meses anteriores al término del contrato, excluyéndose aquellos pagados esporádicamente o de forma excepcional.
+
+Finalmente se acuerda que en el evento de que los tribunales de justicia declararen que la causal del artículo 161 del Código del Trabajo es injustificada el incremento legal del 30% o el que lo reemplace, no se aplicara sobre la indemnización por años de servicio establecida en el párrafo primero de esta cláusula, sino que sobre las indemnización por años de servicio legal aplicándose en consecuencia para estos efectos los topes legales.
+NOVENO: Sobre la calificación del despido.
+
+Que, la legislación laboral tiende a tutelar al trabajador en sus derechos y, en tal sentido, las causales de terminación del contrato de trabajo han sido establecidas expresamente en la ley, concluyéndose forzosamente que todo despido debe tener fundamento, correspondiendo al empleador su prueba. De manera que en esta materia, la autonomía de la voluntad se encuentra fuertemente restringida. A lo dicho, podemos indicar que el legislador ha establecido en sus artículos 159, 160 y 161 las causas por la cuales procede el despido. La legislación laboral obliga al empleador a despedir a los trabajadores fundando su decisión en una causa legal de aquellas enumeradas taxativamente en el Código del Trabajo y que, además, esta concurra efectivamente en la realidad. De ellas, las causales previstas en los números en los números 4, 5 o 6 del artículo 159, las contempladas en el artículo 160 y 161 se debe dar cumplimiento estricto a lo dispuesto en el artículo 162, todas del Código del Trabajo.
+
+Del artículo 162 antes transcrito, se desprende que las obligaciones que se deben cumplir serán las de i. entregar una comunicación escrita al trabajador; ii. Que en ella se exprese la causal invocada y los hechos en que se funda; iii. Que sea esta entregada personalmente o remitida al domicilio señalado en el contrato de trabajo, debiendo ser la entrega o remisión vía correo sea dentro de 3º día hábil siguiente a la separación del trabajador, salvo plazo excepción que es de 6 días hábiles; y iv. Que dentro de igual plazo se remita copia a la Inspección del Trabajo.
+
+Así mismo, el artículo 168 del Código Labora, indica que “El trabajador cuyo contrato termine por aplicación de una o más de las causales establecidas en los artículos 159, 160 y 161, y que considere que dicha aplicación es injustificada, indebida o improcedente, o que no se haya invocado ninguna causal legal, podrá recurrir al juzgado competente, dentro del plazo de sesenta días hábiles, contado desde la separación, a fin de que éste así lo declare. En este caso, el juez ordenará el pago de la indemnización a que se refiere el inciso cuarto del artículo 162 y la de los incisos primero o segundo del artículo 163, según correspondiere, aumentada esta última de acuerdo a las siguientes reglas:
+
+a) En un treinta por ciento, si se hubiere dado término por aplicación improcedente del artículo 161.”
+
+Luego, en el caso de la causal en cuestión confunda la acreditación fáctica con su calificación en cuanto se trata de un despido excepcionalmente que depende de la voluntad del empleador.
+
+DÉCIMO: Sobre la configuración de la causal.
+
+Que conforme sobre el particular cabe tener presente que el artículo 161 inciso 2º del Código del Trabajo señala, “En el caso de los trabajadores que tengan poder para representar al empleador, tales como gerentes, subgerentes, agentes o apoderados, siempre que, en todos estos casos, estén dotados, a lo menos, de facultades generales de administración, y en el caso de los trabajadores de casa particular, el contrato de trabajo podrá, además, terminar por desahucio escrito del empleador, el que deberá darse con treinta días de anticipación, a lo menos, con copia a la Inspección del Trabajo respectiva. Sin embargo, no se requerirá esta anticipación cuando el empleador pagare al trabajador, al momento de la terminación, una indemnización en dinero efectivo equivalente a la última remuneración mensual devengada. Regirá también esta norma tratándose de cargos o empleos de la exclusiva confianza del empleador, cuyo carácter de tales emane de la naturaleza de los mismos”
+
+En el caso de determinados cargos, atendido su grado de responsabilidad al interior de la empresa, existiera la posibilidad de ponerle término a su contrato sin necesidad de explicitar motivo alguno para llevar a efecto esa decisión. Así́ lo ha entendido tanto la Doctrina como la Jurisprudencia y, que queda en evidencia con lo señalado por los Profesores don Sergio Gamonal Contreras y doña Caterina Guidi Moggia, quienes en el “Manual del Contrato de Trabajo”, manifiestan que el desahucio es una figura excepcional dentro del sistema causado y estabilidad relativa que impera en nuestro país. Y que: “El desahucio es expresión de libre despido, esto es, la facultad del empleador de poner término al contrato de trabajo en forma inmediata aun sin causa justificada. Con todo el libre despido en nuestro ordenamiento jurídico se atenúa por la necesidad de dar un plazo de preaviso al trabajador y por el pago de una indemnización por término del contrato de trabajo”
+
+Así es necesario entonces que se trate de:
+i. personal con facultad de representar al empleador, cuando tenga facultades generales de administración
+ii. Trabajadora de casa particular o
+iii. Personal de exclusiva confianza.
+
+Luego, si bien el trabajador ejerce un cargo denominado como agente, hipótesis expresamente ejemplificada por el legislador como alguno de quienes detentan poder para representar al empleador, lo cierto es que no se acreditó que este gozara de facultades generales de administración, dado que según se indicó en el considerando octavo precedente, si bien posee diversas facultades, tanto respecto de la explotación propia del giro bancario, como de las necesarias para el funcionamiento, como adquisición o arrendamiento de muebles o inmuebles, no posee facultades generales de administración sino solo aquellas que se le otorgaron.
+
+Sin perjuicio de lo anterior, si es posible establecer se trata de un cargo de exclusiva confianza, ello se desprende por las facultades otorgadas por la compañía antes indicadas, que permiten comprometer el patrimonio de la empresa, ejecutar el giro comercial y la administración del establecimiento.
+Se trata por lo demás del cargo más alto dentro de la sucursal, lo que aparece conforme se le obliga por contrato a Dirigir y administrar de forma eficiente y oportuna la oficina que se le entrega al cargo. Dirigir el personal supervisando el cumplimiento de metas. Todo lo que se estima, sin perjuicio de señalar expresamente el contrato de tratarse de un empleo de exclusiva confianza. No se trata de un trabajador igual al resto, lo que se visualiza al estar dotado de facultades especiales, a diferencia del resto de trabajadores de su misma unidad.
+
+No resulta atendible descartar o minimizar la importancia del trabajador dada la imposibilidad del actor de disponer libremente de los horarios del banco, o de compra o venta de edificios, dado que se trata de un trabajador inserto dentro de una estructura comercial mayor en una empresa multinacional, cuyas directrices son determinadas de formas complejas, lo que en caso alguno implica desconocer el carácter de exclusiva confianza otorgado al actor.
+Lo anterior permite en definitiva estimar que el cargo de agente que detenta la actora si se trata de uno que es de exclusiva confianza, y por lo tanto se debe considerar como justificado el despido, por encuadrase en la hipótesis prevista en la norma y en consecuencia no se dará lugar al recargo legal pretendido por la parte demandante.
+
+DUODÉCIMO: Sobre el cobro de diferencia de la indemnizaciones.
+
+Que la demanda en su parte petitoria solicita se condene al demandado al pago de la diferencia por indemnización por aviso previo, así como la indemnización por años de servicio.
+
+Al respecto cabe tener presente que el inciso 4° del artículo 162 dispone que cuando el empleador invoque la causal señalada en el inciso primero del artículo 161, el aviso deberá darse al trabajador, con copia a la Inspección del Trabajo respectiva, a lo menos con treinta días de anticipación. Sin embargo, no se requerirá esta anticipación cuando el empleador pagare al trabajador una indemnización en dinero efectivo sustitutiva del aviso previo, equivalente a la última remuneración mensual devengada.
+
+Así mismo al respecto de la denominada indemnización por años de servicio el artículo 163 del Código del Trabajo refiere “Si el contrato hubiere estado vigente un año o más y el empleador le pusiere término en conformidad al artículo 161, deberá pagar al trabajador, la indemnización por años de servicio que las partes hayan convenido individual o colectivamente, siempre que ésta fuere de un monto superior a la establecida en el inciso siguiente.
+
+A falta de esta estipulación, entendiéndose además por tal la que no cumpla con el requisito señalado en el inciso precedente, el empleador deberá pagar al trabajador una indemnización equivalente a treinta días de la última remuneración mensual devengada por cada año de servicio y fracción superior a seis meses, prestados continuamente a dicho empleador. Esta indemnización tendrá un límite máximo de trescientos treinta días de remuneración.”
+
+Ello resulta coincidente también con las estipulaciones contractuales colectivamente que conforme se acreditó mantenía la misma forma de cálculo de las indemnizaciones, sin límites.
+
+Así mismo, según se dio como un hecho no controvertido, al haber sido expuesto expresamente por la demandante y aceptado como tal por el demandado, la remuneración promedio de los últimos meses trabajados mensual de la demandante ascendía a la suma de $6.689.261, estimándose se trataba de una remuneración variable por cuanto contenía conceptos que diferían en el tiempo como aquellos denominados “premio” de tal forma que se consideró para todos los efectos y conforme el mandato del artículo 172 del Código del Trabajo, coincidente con la cláusula 10º del Contrato Colectivo, el promedio de los últimos 3 meses trabajados.
+
+Luego según se tuvo por acreditado para las indemnizaciones se consideró una base inferior de cálculo, al haberse considerado $6.661.359 existiendo una diferencia de $27.902 como base de cálculo, por lo que al haberse calculado la indemnización por 32 años, existe una diferencia de $892.864 por lo que se condenará a su pago.
+
+Lo propio respecto de la indemnización por falta de aviso previo, en cuanto existe una diferencia de $27.902
+DECIMO TERCERO: Sobre la diferencia del pago de feriado.
+
+Que la demandante ha solicitado se condena a la demandada, al pago de la diferencia de feriado, dado que se tomó una base menor a la que se debió emplear, por lo que conforme se tuvo por acreditado la remuneración ascendió a $6.689.261 se debió pagar por los 22 días de feriado pendiente $4.905.458, de tal forma que al haberse pagado únicamente $4.805.064, existe una diferencia de $100.394 que deberá pagarse a la demandante.
+
+DÉCIMO CUARTO: Sobre los interés y reajustes.
+
+Que con respecto a los interés y reajustes el propio legislador laboral ha dispuesto tanto el artículo 173 del Código del Trabajo que “Las indemnizaciones a que se refieren los artículos 163, 168, 169, 170 y 171 se reajustarán conforme a la variación que experimente el Índice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas, entre el mes anterior a aquel en que se puso término al contrato y el que antecede a aquel en que se efectúe el pago. Desde el término del contrato, la indemnización así reajustada devengará también el máximo interés permitido para operaciones reajustables.”
+
+De tal forma, que tratándose en la especie de un cobro por diferencia en las indemnizaciones se deberá estar a la disposición antes citada, para efectos del cálculo de reajustes e intereses.
+
+Esto es, una variación conforme a la sufrida por el IPC desde el mes de enero de 2023 y la fecha del mes anterior a su pago efectivo. Y devengado intereses por el máximo interés permitido para operaciones reajustables, a contar desde el día 1 de marzo de 2023.
+
+DÉCIMO QUINTO: De los apercibimientos probatorios.
+
+Que, según dispone el artículo 453 N.º 5) del mismo artículo dispone “La exhibición de instrumentos que hubiere sido ordenada por el tribunal se verificará en la audiencia de juicio.
+Cuando, sin causa justificada, se omita la presentación de aquellos que legalmente deban obrar en poder de una de las partes, podrán estimarse probadas las alegaciones hechas por la parte contraria en relación con la prueba decretada.”
+
+Lo propio el artículo 454 Nº 3 del Código del Trabajo, “Si el llamado a confesar no compareciese a la audiencia sin causa justificada, o compareciendo se negase a declarar o diere respuestas evasivas, podrán presumirse efectivas, en relación a los hechos objeto de prueba, las alegaciones de la parte contraria en la demanda o contestación, según corresponda.”
+
+De esta forma, aparece como una facultad propia del juez, presumir como efectivas las afirmaciones en relación al objeto de prueba y las alegaciones efectuadas por las partes. Así las cosas, en el caso en cuestión no resulta a juicio del sentenciador, compatible la aplicación del apercibimiento en cuestión, con la valoración de la prueba conforme a las reglas de la sana critica en la forma ordenada en el artículo 456 del Código del Trabajo, en cuanto la observancia de dicha regla implica una libre valoración de la prueba, de tal forma que de conformidad con la prueba rendida y valorada en la presenta causa, no aparece como conveniente la aplicación del apercibimiento, en cuanto este no puede contradecir los hechos afianzados mediante la valoración racional de la prueba, por lo que se rechazará el mismo.
+
+DÉCIMO SEXTO: Prueba desestimada.
+
+Que, por resultar contrario a los elementos objetivos de prueba antes valorados, se le restara valor a la declaración de los testigos, Astudillo y Quitral, dado que ambos resultar especialmente acomodaticios en cuanto a la forma de desempeño del cargo de la trabajadora, y contradictorios con los elementos objetivos valorados.
+
+DÉCIMO SÉPTIMO: Sobre las costas.
+
+Que, por no haber resultado completamente vencida ninguna de las partes, cada una deberá soportar sus costas.
+
+Por estas consideraciones y lo dispuesto los artículos artículo 1, 63, 161, 162, 168, 172, 173, 456 y siguientes del Código del Trabajo SE RESUELVE:
+a. Sobre el apercibimiento del artículo 454 N°5 del Código del Trabajo.
+
+I. SE RECHAZA la aplicación del apercibimiento del artículo 453 N°5 del Código del Trabajo, respecto de los documentos que se debían exhibir y 454 Nª3 respecto de la declaración que debió prestar el demandado
+b. Sobre el fondo.
+II. SE ACOGE PARCIALMENTE la demanda de despido injustificado, y cobro de prestaciones interpuesta en procedimiento de aplicación general, por doña LORENA DE LOURDES FARIAS REY, en contra de BANCO SANTANDER CHILE S.A representada por Jorge Peña Collao, únicamente en cuanto al cobro de prestaciones condenándolo a este último a pagar:
+· Por concepto de diferencia por indemnización por falta de aviso previo la suma de $27.902
+· Por concepto de diferencia de indemnización por años de servicio la suma de $892.864
+III. Por concepto de diferencia de compensación de feriado la suma de $100.394
+IV. Se rechaza en lo demás la demanda deducida especialmente la calificación de despido injustificado.
+V. Que la suma antes indicada deberá ser pagada conforme a los reajustes e interés en la forma dispuesta por el artículo 173 del Código del Trabajo.
+
+VI. Que se exime del pago de las costas a la demandada.
+Anótese, regístrese y archívese en su oportunidad.
+
+RIT: O 123 2023
+
+RUC: 23-4-0474061-K
+
+Sentencia dictada por Jorge Muñoz Escobar, Juez Suplente del Juzgado de Letras del Trabajo de Curicó.
+
+34
