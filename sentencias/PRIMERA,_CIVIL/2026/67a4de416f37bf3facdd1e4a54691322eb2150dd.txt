@@ -1,0 +1,69 @@
+METADATA
+
+case_id: 67a4de416f37bf3facdd1e4a54691322eb2150dd
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046772
+
+rol: 7493-2026
+
+fecha_sentencia: 2026-03-03
+
+caratulado: PEÑA/PÉREZ(ACUMULADA CIVIL N° 3589-2024).-D-
+
+sala: PRIMERA, CIVIL
+
+materias: ▪ Admisibilidad del recurso de casación en el fondo
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: INADMISIBLE CASACIÓN FORMA RECHAZADA, CASACIÓN FON
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, tres de marzo de dos mil veintiséis.
+Vistos:
+Atendido lo dispuesto en el artículo 21 de la Carta Fundamental, se confirma la sentencia apelada de diez de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de San Miguel, en el ingreso N°181-2026.
+Acordado con el voto en contra de los Ministros Sres. Llanos y Zepeda, quienes fueron del parecer de revocar la sentencia apelada y acoger el amparo deducido, teniendo para ello presente que el amparado mantiene contrato de trabajo vigente, lo cual demuestra su arraigo laboral y desaconseja materializar la expulsión decretada por la autoridad migratoria.
+Regístrese y devuélvase.
+N°7.176-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+San Miguel, diez de febrero de dos mil veintiséis.
+
+Al folio 14: A lo principal y primer otrosí, téngase presente; al segundo otrosí, a sus antecedentes.
+
+Vistos y teniendo presente:
+
+Primero: Que el abogado Pablo Peñaloza Parra, en representación de Manuel Fernando González Ayala, de nacionalidad colombiana, cédula de identidad de Colombia N°1.140.848.117, con domicilio en pasaje La Fachada 2080, comuna de Pedro Aguirre Cerda, interpuso acción constitucional de amparo en contra del Servicio Nacional de Migraciones, representado por Luis Thayer Correa y la Policía de Investigaciones de Chile, por el acto que califica de ilegal consistente en la Resolución Exenta N°250010025814, de 12 de noviembre de 2025, que decretó la medida de expulsión.
+Explica que su representado ingresó al territorio por paso no habilitado en el 2025 y mientras recopilaba la documentación para regularizar su situación migratoria recibió la resolución cuestionada, mediante la cual se dispuso la orden de expulsión, sin que fuera debidamente emplazado por lo que no pudo evacuar los descargos.
+Arguye que si no estuviera vigente la orden de expulsión podría ejercer su derecho a solicitar la regularización extraordinaria contenida en el artículo 155 N°8 y 9 de la Ley N°21.325 ante el Subsecretario del Interior.
+
+Pide se deje sin efecto la resolución que ordena la expulsión de su representado.
+
+Segundo: Que el Servicio Nacional de Migraciones informó que el recurrente ingresó al país por paso no habilitado y el 27 de enero de 2025 la Policía de Investigaciones de Chile le notificó personalmente el extranjero el Acta de Notificación N°19344 por medio de la cual se inició un procedimiento sancionatorio de expulsión, en virtud de la causal establecida en el artículo 127 N°1, en relación al artículo 32 N°3, ambos de la Ley N°21.325.
+
+Precisa que el recurrente no realizó descargos por lo que con los antecedentes emitió la Resolución Exenta N°2500100252814 de 12 de noviembre de 2025.
+
+Agrega que el actor no ha presentado solicitud de regularización de acuerdo al artículo 155 de la Ley N°21.325, y que se adoptó la medida en virtud del artículo 127 de la misma ley y ponderó la gravedad de los hechos en los que se sustenta la causal de expulsión: la persona extranjera ingresó al país por un paso no habilitado, eludiendo el respectivo control migratorio, y la circunstancia que no acreditó ningún vínculo familiar de los mencionados en el artículo 129 N°5 de la Ley N° 21.325.
+
+Tercero: Que la Policía de Investigaciones de Chile informó que en la esfera de sus competencias notificó el decreto de expulsión personalmente al recurrente.
+
+Cuarto: Que la acción constitucional de amparo, conforme lo señala el artículo 21 de la Constitución Política de la República, procede respecto de quien se encuentra arrestado, detenido o preso, o que sufra cualquier otra privación, perturbación o amenaza en su derecho a la libertad personal o seguridad individual, con infracción de las normas constitucionales o de las leyes, a fin de que la magistratura ordene se guarden las formalidades legales y adopte de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado.
+
+Quinto: Que el asunto que se somete al conocimiento de esta Corte, de conformidad con lo que se denuncia en la acción constitucional intentada, dice relación con la orden de expulsión del país en contra de la persona en cuyo favor se recurre.
+
+Sexto: Que resulta conveniente tener presente el marco normativo aplicable en la especie. Al respecto, el artículo 127 N°1 de la Ley N°21.325, vigente a la época de la medida impugnada establece: “Causales de expulsión en caso de permanencia transitoria. Son causales de expulsión del país para los titulares de un permiso de permanencia transitoria y para aquellos que carezcan de un permiso que los habilite para residir legalmente en el país, exceptuando los casos señalados en el inciso séptimo del artículo 131, los que se regirán por dicha norma, las siguientes: 1. Ingresar al país no obstante configurarse a su respecto una causal de prohibición de ingreso de las señaladas en el artículo 32, con excepción de lo dispuesto en el Nº2 de dicho artículo, salvo que respecto a las primeras se hayan verificado las excepciones consignadas en el artículo 29”. A su turno, el artículo 32 N°3 de la Ley N°21.325 establece: “Prohibiciones imperativas. Se prohíbe el ingreso al país a los extranjeros que: (…) 3. Intenten ingresar o egresar del país, o hayan ingresado o egresado, por un paso no habilitado, eludiendo el control migratorio o valiéndose de documentos falsificados, adulterados o expedidos a nombre de otra persona, en los cinco años anteriores.”
+
+Séptimo: Que, de acuerdo con la documentación acompañada, se advierte que la medida de expulsión adoptada obedece a la circunstancia de que el recurrente ingresó al territorio nacional eludiendo el correspondiente control migratorio, sin que iniciara el procedimiento de regularización respectivo, de lo que se sigue que concurre el presupuesto jurídico que faculta a la autoridad administrativa para disponer su expulsión del territorio nacional.
+
+Octavo: Que, en consecuencia, no se verifica en la especie ilegalidad alguna en el acto administrativo recurrido, desde que de los antecedentes acompañados se desprende que la resolución exenta impugnada por esta vía fue dictada por la autoridad competente, dentro de sus atribuciones, fundada suficientemente en causa legal y dotada de la motivación necesaria para comprender los fundamentos de la decisión adoptada.
+
+Por estas consideraciones y de conformidad, además, con lo dispuesto en el artículo 21 de la Constitución Política de la República y Auto Acordado sobre la materia, se rechaza el recurso de amparo deducido en favor de Manuel Fernando González Ayala en contra del Servicio Nacional de Migraciones y la Policía de Investigaciones de Chile.
+Regístrese, comuníquese y archívese en su oportunidad.
+
+N°181-2026 Amparo
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+San Miguel, diez de febrero de dos mil veintiséis. Al folio 14: A lo principal y primer otrosí, téngase presente; al segundo otrosí, a sus antecedentes.Vistos y teniendo presente: Primero: Que el abogado Pablo Peñaloza Parra, en representación de Manuel Fernando González Ayala, de nacionalidad colombiana, cédula de identidad de Colombia N°1.140.848.117, con domicilio en pasaje La Fachada 2080, comuna de Pedro Aguirre Cerda, interpuso acción constitucional de amparo en contra del Servicio Nacional de Migraciones, representado por Luis Thayer Correa y la Policía de Investigaciones de Chile, por el acto que califica de ilegal consistente en la Resolución Exenta N°250010025814, de 12 de noviembre de 2025, que decretó la medida de expulsión. Explica que su representado ingresó al territorio por paso no habilitado en el 2025 y mientras recopilaba la documentación para regularizar su situación migratoria recibió la resolución cuestionada, mediante la cual se dispuso la orden de expulsión, sin que fuera debidamente emplazado por lo que no pudo evacuar los descargos. Arguye que si no estuviera vigente la orden de expulsión podría ejercer su derecho a solicitar la regularización extraordinaria contenida en el artículo 155 N°8 y 9 de la Ley N°21.325 ante el Subsecretario del Interior.Pide se deje sin efecto la resolución que ordena la expulsión de su representado.Segundo: Que el Servicio Nacional de Migraciones informó que el recurrente ingresó al país por paso no habilitado y el 27 de enero de 2025 la Policía de Investigaciones de Chile le notificó personalmente el extranjero el Acta de Notificación N°19344 por medio de la cual se inició un procedimiento sancionatorio de expulsión, en virtud de la causal establecida en el artículo 127 N°1, en relación al artículo 32 N°3, ambos de la Ley N°21.325.Precisa que el recurrente no realizó descargos por lo que con los antecedentes emitió la Resolución Exenta N°2500100252814 de 12 de noviembre de 2025.Agrega que el actor no ha presentado solicitud de regularización de acuerdo al artículo 155 de la Ley N°21.325, y que se adoptó la medida en virtud del artículo 127 de la misma ley y ponderó la gravedad de los hechos en los que se sustenta la causal de expulsión: la persona extranjera ingresó al país por un paso no habilitado, eludiendo el respectivo control migratorio, y la circunstancia que no acreditó ningún vínculo familiar de los mencionados en el artículo 129 N°5 de la Ley N° 21.325.Tercero: Que la Policía de Investigaciones de Chile informó que en la esfera de sus competencias notificó el decreto de expulsión personalmente al recurrente.Cuarto: Que la acción constitucional de amparo, conforme lo señala el artículo 21 de la Constitución Política de la República, procede respecto de quien se encuentra arrestado, detenido o preso, o que sufra cualquier otra privación, perturbación o amenaza en su derecho a la libertad personal o seguridad individual, con infracción de las normas constitucionales o de las leyes, a fin de que la magistratura ordene se guarden las formalidades legales y adopte de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado.Quinto: Que el asunto que se somete al conocimiento de esta Corte, de conformidad con lo que se denuncia en la acción constitucional intentada, dice relación con la orden de expulsión del país en contra de la persona en cuyo favor se recurre.Sexto: Que resulta conveniente tener presente el marco normativo aplicable en la especie. Al respecto, el artículo 127 N°1 de la Ley N°21.325, vigente a la época de la medida impugnada establece: “Causales de expulsión en caso de permanencia transitoria. Son causales de expulsión del país para los titulares de un permiso de permanencia transitoria y para aquellos que carezcan de un permiso que los habilite para residir legalmente en el país, exceptuando los casos señalados en el inciso séptimo del artículo 131, los que se regirán por dicha norma, las siguientes:  1. Ingresar al país no obstante configurarse a su respecto una causal de prohibición de ingreso de las señaladas en el artículo 32, con excepción de lo dispuesto en el Nº2 de dicho artículo, salvo que respecto a las primeras se hayan verificado las excepciones consignadas en el artículo 29”. A su turno, el artículo 32 N°3 de la Ley N°21.325 establece: “Prohibiciones imperativas. Se prohíbe el ingreso al país a los extranjeros que: (…)  3. Intenten ingresar o egresar del país, o hayan ingresado o egresado, por un paso no habilitado, eludiendo el control migratorio o valiéndose de documentos falsificados, adulterados o expedidos a nombre de otra persona, en los cinco años anteriores.”Séptimo: Que, de acuerdo con la documentación acompañada, se advierte que la medida de expulsión adoptada obedece a la circunstancia de que el recurrente ingresó al territorio nacional eludiendo el correspondiente control migratorio, sin que iniciara el procedimiento de regularización respectivo, de lo que se sigue que concurre el presupuesto jurídico que faculta a la autoridad administrativa para disponer su expulsión del territorio nacional.Octavo: Que, en consecuencia, no se verifica en la especie ilegalidad alguna en el acto administrativo recurrido, desde que de los antecedentes acompañados se desprende que la resolución exenta impugnada por esta vía fue dictada por la autoridad competente, dentro de sus atribuciones, fundada suficientemente en causa legal y dotada de la motivación necesaria para comprender los fundamentos de la decisión adoptada.Por estas consideraciones y de conformidad, además, con lo dispuesto en el artículo 21 de la Constitución Política de la República y Auto Acordado sobre la materia, se rechaza el recurso de amparo deducido en favor de Manuel Fernando González Ayala en contra del Servicio Nacional de Migraciones y la Policía de Investigaciones de Chile.Regístrese, comuníquese y archívese en su oportunidad.N°181-2026 Amparo                        ⚠                      Sin documento en esta instancia - pdf
