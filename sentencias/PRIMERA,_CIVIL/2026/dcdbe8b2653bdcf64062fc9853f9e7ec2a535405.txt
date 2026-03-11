@@ -1,0 +1,71 @@
+METADATA
+
+case_id: dcdbe8b2653bdcf64062fc9853f9e7ec2a535405
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8053302
+
+rol: 8219-2026
+
+fecha_sentencia: 2026-03-06
+
+caratulado: BANCO DE CRÉDITO E INVERSIONES/INDUSTRIA INV E INMOB PARADISO S.A. (ACUM. N° 19271-2023 AP. SENT. DEF.) *
+
+sala: PRIMERA, CIVIL
+
+materias: ▪ Admisibilidad del recurso de casación en el fondo
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: RECHAZA CASACION EN EL FONDO
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Corte Apelaciones ▼
+Santiago, seis de marzo de dos mil veintiséis.
+
+Vistos:
+Se reproduce la sentencia en alzada, con excepción de sus fundamentos cuarto a séptimo, que se eliminan.
+
+Y se tiene en su lugar y, además, presente:
+1°) Que el artículo 7 de la Ley N° 21.325 dispone que “El Estado promoverá que los extranjeros cuenten con las autorizaciones y permisos de residencia o permanencia necesarios para su estadía en el país, y para el desarrollo de sus actividades y el ejercicio de sus derechos, de conformidad con la Constitución Política de la República, la ley y los tratados internacionales ratificados por Chile que se encuentren vigentes.”
+2°) Que se incumple por la Administración dicha obligación de protección y respeto del derecho a un procedimiento racional y justo, así como de promoción de la obtención de las autorizaciones y permisos de residencia o permanencia, al negar lugar, en esta ocasión, a extender certificado de residencia en trámite en relación con la generación de residencia temporal hecha por la propia autoridad migratoria. Lo anterior, bajo la errada creencia que el pretendido certificado dice relación con la solicitud de residencia definitiva elevada en su oportunidad por la amparada.
+
+Con todo, la solicitud de la recurrente de amparo persigue obtener el certificado de residencia en trámite relacionado con la residencia temporal que la propia administración oficiosamente gestionó para los efectos de evitar dejar a la amparada en la irregularidad migratoria.
+
+Desde esa perspectiva, no es posible pasar por alto las graves consecuencias que conlleva para la amparada la negativa de la administración a otorgar un certificado de residencia en trámite, quien requiere viajar con urgencia
+a su país para los efectos de atender los requerimientos de salud de sus progenitores, viéndose impedida a causa de la reticencia de la administración.
+
+3°) Que por todo lo anterior, la actuación impugnada resulta, en definitiva, ilegal por desproporcionada a la luz de los antecedentes acreditados en esta sede, todos los cuales deben ser reevaluados por la autoridad migratoria para determinar la idoneidad de la medida, motivos todos que llevarán a acoger la acción constitucional deducida, con el propósito de adoptar las medidas necesarias para restablecer el imperio del derecho.
+
+Y visto, además, lo dispuesto en el artículo 21 de la Constitución Política de la República, se revoca la sentencia apelada de 11 de febrero de 2026, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N°47-2026, y en su lugar se declara que se acoge el recurso de amparo interpuesto a favor de la ciudadana Lidys del Carmen Martínez Ardila, por lo que se ordena a la Administración otorgar a la brevedad certificado de residencia en trámite correspondiente a la generación de residencia temporal iniciada oficiosamente por la autoridad administrativa.
+
+Regístrese y devuélvase.
+
+Rol N°7708-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Corte Apelaciones ▼
+mbaa
+
+C.A. de Santiago
+Santiago, seis de enero de dos mil veintiséis.
+
+Al folio N°1: A lo principal y primer otrosí, aténgase a lo que se resolverá. Al segundo otrosí, téngase presente. Estese al mérito de las notificaciones efectuadas por el Estado Diario de esta Corte.
+
+Vistos y teniendo presente:
+
+1°) Que, según se colige de lo establecido en los artículos 21 de la Carta Fundamental y 7.6 de la Convención Americana de Derechos Humanos, la acción constitucional de amparo tiene como finalidad esencial controlar la “legalidad” de eventuales afectaciones o amenazas a la libertad personal y seguridad individual, en términos de verificar que, de mediar, se ajusten a la Constitución y a las leyes;
+
+2°) Que, los antecedentes expuestos en el recurso no dan cuenta de hechos que, según el artículo 21 de la Constitución Política de la República, correspondan a aquellos susceptibles de la cautela impetrada por esta vía, al no vulnerar o amenazar la libertad personal y la seguridad individual, entendida esta última como la garantía de que la libertad personal no pueda ser afectada sino en los casos previstos por la ley, máxime si, de lo expuesto, se advierte que el ordenamiento jurídico concede y reconoce al recurrente el remedio idóneo para poner término a la situación descrita en el libelo, ejerciendo su derecho de defensa a través de la vía del recurso de protección.
+
+Por estas consideraciones, y lo dispuesto por el artículo 21 de la Constitución Política de la República, se declara inadmisible el recurso deducido en estos autos.
+
+Se previene que el Ministro (s) Sr. Valderrama Martínez, estuvo por declarar inadmisible la acción constitucional en análisis, por considerar que no es la vía idónea para resolver las materias sometidas al conocimiento de esta Corte, toda vez que las alegaciones contenidas en el recurso deben ser debatidas en la sede administrativa prevista por el legislador para tales efectos.
+
+Archívese en su oportunidad.
+N°Amparo-47-2026.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+mbaaC.A. de SantiagoSantiago, seis de enero de dos mil veintiséis.Al folio N°1: A lo principal y primer otrosí, aténgase a lo que se resolverá. Al segundo otrosí, téngase presente. Estese al mérito de las notificaciones efectuadas por el Estado Diario de esta Corte.   Vistos y teniendo presente:1°) Que, según se colige de lo establecido en los artículos 21 de la Carta Fundamental y 7.6 de la Convención Americana de Derechos Humanos, la acción constitucional de amparo tiene como finalidad esencial controlar la “legalidad” de eventuales afectaciones o amenazas a la libertad personal y seguridad individual, en términos de verificar que, de mediar, se ajusten a la Constitución y a las leyes;2°) Que, los antecedentes expuestos en el recurso no dan cuenta de hechos que, según el artículo 21 de la Constitución Política de la República, correspondan a aquellos susceptibles de la cautela impetrada por esta vía, al no vulnerar o amenazar la libertad personal y la seguridad individual, entendida esta última como la garantía de que la libertad personal no pueda ser afectada sino en los casos previstos por la ley, máxime si, de lo expuesto, se advierte que el ordenamiento jurídico concede y reconoce al recurrente el remedio idóneo para poner término a la situación descrita en el libelo, ejerciendo su derecho de defensa a través de la vía del recurso de protección.Por estas consideraciones, y lo dispuesto por el artículo 21 de la Constitución Política de la República, se declara inadmisible el recurso deducido en estos autos.Se previene que el Ministro (s) Sr. Valderrama Martínez, estuvo por declarar inadmisible la acción constitucional en análisis, por considerar que no es la vía idónea para resolver las materias sometidas al conocimiento de esta Corte, toda vez que las alegaciones contenidas en el recurso deben ser debatidas en la sede administrativa prevista por el legislador para tales efectos. Archívese en su oportunidad. N°Amparo-47-2026.                        ⚠                      Sin documento en esta instancia - pdf
