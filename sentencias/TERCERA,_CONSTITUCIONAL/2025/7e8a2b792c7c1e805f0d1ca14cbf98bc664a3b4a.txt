@@ -1,0 +1,63 @@
+METADATA
+
+case_id: 7e8a2b792c7c1e805f0d1ca14cbf98bc664a3b4a
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7966436
+
+rol: 41491-2025
+
+fecha_sentencia: 2025-12-18
+
+caratulado: FONDO NACIONAL DE SALUD/SCARLETT AURORA CADAGÁN MUÑOZ
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (CIVIL) APELACIÓN RECLAMACIÓN
+
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+
+resultado_recurso: REVOCADA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, dieciocho de diciembre de dos mil veinticinco.
+Vistos:
+Se confirma la sentencia apelada de fecha veintiocho de octubre de dos mil veinticinco, dictada por la Corte de Apelaciones de San Miguel.
+Regístrese y devuélvase.
+
+Rol N° 46.664-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+San Miguel, veintiocho de octubre de dos mil veinticinco.
+
+Al folio 19: Téngase presente.
+
+Vistos y teniendo presente:
+
+Primero: Que Gloria Figueroa Rivera, estudiante domiciliada en Avenida Vicuña Mackenna 2935, Departamento 206-A, comuna de San Joaquín, dedujo recurso de protección en contra del Condominio Nuevo Mundo, representado legalmente por don Héctor Durán Alvarado, por haber dispuesto el corte del suministro eléctrico del departamento que habita, medida que estima arbitraria e ilegal.
+Sostiene que la administración del condominio procedió a interrumpir el servicio eléctrico el 22 de junio de 2025, fundándose en la existencia de una deuda de dos meses y una fracción de gastos comunes, pese a que el artículo 20 N° 9 de la Ley N° 21.442 solo faculta dicha suspensión cuando el propietario o residente se encuentre moroso en tres o más cuotas, continuas o discontinuas, de dichos gastos.
+Alega que la actuación impugnada constituye una interpretación extensiva y antojadiza de la norma, tratándose además de una medida de autotutela excepcional, que debe aplicarse de modo restrictivo por implicar una afectación directa a derechos fundamentales.
+Afirma que el corte de energía eléctrica vulnera las garantías contempladas en los numerales 2° y 24° del artículo 19 de la Constitución Política de la República, relativas a la igualdad ante la ley y al derecho de propiedad, al privarla de un servicio esencial para la vida cotidiana y funcionamiento de su hogar.
+Solicita que se acojan las acciones cautelares interpuestas, ordenando al recurrido restituir el suministro eléctrico y abstenerse de efectuar nuevas interrupciones en el futuro, con condena en costas.
+
+Segundo: Que compareció Héctor Durán Alvarado, en su calidad de administrador y representante legal del Condominio Nuevo Mundo, solicitando el rechazo íntegro del recurso deducido por doña Gloria Figueroa Rivera, con condena en costas. Explicó que la recurrente mantiene una deuda correspondiente a dos cuotas completas y una fracción de gastos comunes, configurándose así el supuesto de morosidad en tres obligaciones, que habilita legalmente a la administración para suspender el suministro de servicios comunes conforme al artículo 20 N° 9 de la Ley N° 21.442 sobre Copropiedad Inmobiliaria. Indicó que, con fecha 22 de junio de 2025 y previo acuerdo del Comité de Administración, se procedió al corte del suministro eléctrico de la unidad 206-A, ocupada por la recurrente, medida adoptada tras reiteradas gestiones infructuosas de cobro y ante la falta de regularización de la deuda, la cual actualmente alcanza a cuatro meses de morosidad. En cuanto al derecho, sostuvo que la actuación del condominio se encuentra amparada en una disposición legal expresa, y que el acto impugnado no reviste carácter arbitrario ni ilegal, al haberse ejercido una facultad reglada destinada a resguardar los intereses comunes de los copropietarios.
+Añadió que no se ha vulnerado el derecho de propiedad ni la igualdad ante la ley, pues la medida se aplica de manera uniforme a quienes se encuentran en igual situación de incumplimiento.
+Finalmente, concluyó que no existe en la especie conducta alguna contraria a la Constitución o la ley, sino el legítimo ejercicio de las atribuciones que la normativa sobre copropiedad inmobiliaria confiere al administrador, solicitando el rechazo del recurso en todas sus partes.
+
+Tercero: Que el recurso de protección de garantías constitucionales
+
+establecido en el artículo 20 de la Constitución Política de la República, constituye una acción de naturaleza cautelar, destinada a amparar el legítimo ejercicio de las garantías y derechos que en esa misma disposición se enumeran, mediante la adopción de medidas de resguardo que se deben tomar ante un acto u omisión arbitrario o ilegal que impida, amague o perturbe ese ejercicio. Por consiguiente, constituye presupuesto indispensable de la acción cautelar de protección la existencia de un acto u omisión ilegal -contrario a la leyó arbitrario -producto del mero capricho de quienes incurren en él-, que provoque alguna de las situaciones que se han indicado y que afecte, además, una o más de las garantías constitucionales protegidas por el referido artículo 20 de la Carta Fundamental.
+Cuarto: Que, lo que se denuncia por esta vía, consiste en la suspensión del suministro eléctrico de la unidad habitacional de la recurrente, la que se adoptó previa verificación de una morosidad de cuotas de gastos comunes.
+
+Quinto: Que del mérito de los antecedentes aparece que el acto impugnado fue adoptado con acuerdo del Comité de Administración, en uso de la facultad prevista expresamente en el artículo 20 N° 9 de la Ley N° 21.442 sobre Copropiedad Inmobiliaria.
+Sexto: Que, en consecuencia, lo único que se discute dice relación con la cantidad de cuotas de morosidad que permitirían adoptar la medida impugnada por esta vía. En efecto, al deducir el recurso reconoce que adeuda 2 cuotas y el saldo de una tercera, para sostener que de conformidad a la norma que invoca no se configura la hipótesis que faculta la adopción de tal medida. Sin embargo, resulta que lo alegado no tiene asidero alguno, desde que sea cual sea la interpretación que se le dé a la normativa prevista en el artículo antes citado, resulta que a la fecha adeuda en exceso las tres cuotas completas que echa de menos quien recurre, por lo que la presente acción no puede prosperar.
+
+Y, de conformidad, además, en el Auto Acordado de la Excma. Corte Suprema sobre la materia, se rechaza el recurso de protección interpuesto por Gloria Figueroa Rivera.
+
+Regístrese, comuníquese y archívese en su oportunidad.
+N° 2406-2025 Protección.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+San Miguel, veintiocho de octubre de dos mil veinticinco.Al folio 19: Téngase presente.Vistos y teniendo presente: Primero: Que Gloria Figueroa Rivera, estudiante domiciliada en Avenida Vicuña Mackenna 2935, Departamento 206-A, comuna de San Joaquín, dedujo recurso de protección en contra del Condominio Nuevo Mundo, representado legalmente por don Héctor Durán Alvarado, por haber dispuesto el corte del suministro eléctrico del departamento que habita, medida que estima arbitraria e ilegal. Sostiene que la administración del condominio procedió a interrumpir el servicio eléctrico el 22 de junio de 2025, fundándose en la existencia de una deuda de dos meses y una fracción de gastos comunes, pese a que el artículo 20 N° 9 de la Ley N° 21.442 solo faculta dicha suspensión cuando el propietario o residente se encuentre moroso en tres o más cuotas, continuas o discontinuas, de dichos gastos. Alega que la actuación impugnada constituye una interpretación extensiva y antojadiza de la norma, tratándose además de una medida de autotutela excepcional, que debe aplicarse de modo restrictivo por implicar una afectación directa a derechos fundamentales. Afirma que el corte de energía eléctrica vulnera las garantías contempladas en los numerales 2° y 24° del artículo 19 de la Constitución Política de la República, relativas a la igualdad ante la ley y al derecho de propiedad, al privarla de un servicio esencial para la vida cotidiana y funcionamiento de su hogar. Solicita que se acojan las acciones cautelares interpuestas, ordenando al recurrido restituir el suministro eléctrico y abstenerse de efectuar nuevas interrupciones en el futuro, con condena en costas.Segundo: Que compareció Héctor Durán Alvarado, en su calidad de administrador y representante legal del Condominio Nuevo Mundo, solicitando el rechazo íntegro del recurso deducido por doña Gloria Figueroa Rivera, con condena en costas. Explicó que la recurrente mantiene una deuda correspondiente a dos cuotas completas y una fracción de gastos comunes, configurándose así el supuesto de morosidad en tres obligaciones, que habilita legalmente a la administración para suspender el suministro de servicios comunes conforme al artículo 20 N° 9 de la Ley N° 21.442 sobre Copropiedad Inmobiliaria. Indicó que, con fecha 22 de junio de 2025 y previo acuerdo del Comité de Administración, se procedió al corte del suministro eléctrico de la unidad 206-A, ocupada por la recurrente, medida adoptada tras reiteradas gestiones infructuosas de cobro y ante la falta de regularización de la deuda, la cual actualmente alcanza a cuatro meses de morosidad. En cuanto al derecho, sostuvo que la actuación del condominio se encuentra amparada en una disposición legal expresa, y que el acto impugnado no reviste carácter arbitrario ni ilegal, al haberse ejercido una facultad reglada destinada a resguardar los intereses comunes de los copropietarios. Añadió que no se ha vulnerado el derecho de propiedad ni la igualdad ante la ley, pues la medida se aplica de manera uniforme a quienes se encuentran en igual situación de incumplimiento. Finalmente, concluyó que no existe en la especie conducta alguna contraria a la Constitución o la ley, sino el legítimo ejercicio de las atribuciones que la normativa sobre copropiedad inmobiliaria confiere al administrador, solicitando el rechazo del recurso en todas sus partes.Tercero: Que el recurso de protección de garantías constitucionalesestablecido en el artículo 20 de la Constitución Política de la República, constituye una acción de naturaleza cautelar, destinada a amparar el legítimo ejercicio de las garantías y derechos que en esa misma disposición se enumeran, mediante la adopción de medidas de resguardo que se deben tomar ante un acto u omisión arbitrario o ilegal que impida, amague o perturbe ese ejercicio. Por consiguiente, constituye presupuesto indispensable de la acción cautelar de protección la existencia de un acto u omisión ilegal -contrario a la leyó arbitrario -producto del mero capricho de quienes incurren en él-, que provoque alguna de las situaciones que se han indicado y que afecte, además, una o más de las garantías constitucionales protegidas por el referido artículo 20 de la Carta Fundamental. Cuarto: Que, lo que se denuncia por esta vía, consiste en la suspensión del suministro eléctrico de la unidad habitacional de la recurrente, la que se adoptó previa verificación de una morosidad de cuotas de gastos comunes.Quinto: Que del mérito de los antecedentes aparece que el acto impugnado fue adoptado con acuerdo del Comité de Administración, en uso de la facultad prevista expresamente en el artículo 20 N° 9 de la Ley N° 21.442 sobre Copropiedad Inmobiliaria. Sexto: Que, en consecuencia, lo único que se discute dice relación con la cantidad de cuotas de morosidad que permitirían adoptar la medida impugnada por esta vía. En efecto, al deducir el recurso reconoce que adeuda 2 cuotas y el saldo de una tercera, para sostener que de conformidad a la norma que invoca no se configura la hipótesis que faculta la adopción de tal medida. Sin embargo, resulta que lo alegado no tiene asidero alguno, desde que sea cual sea la interpretación que se le dé a la normativa prevista en el artículo antes citado, resulta que a la fecha adeuda en exceso las tres cuotas completas que echa de menos quien recurre, por lo que la presente acción no puede prosperar.Y, de conformidad, además, en el Auto Acordado de la Excma. Corte Suprema sobre la materia, se rechaza el recurso de protección interpuesto por Gloria Figueroa Rivera.Regístrese, comuníquese y archívese en su oportunidad. N° 2406-2025 Protección.                        ⚠                      Sin documento en esta instancia - pdf

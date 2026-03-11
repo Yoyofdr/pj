@@ -1,0 +1,1514 @@
+METADATA
+
+case_id: 0df46a36658637e8c0d5a73f43b59cbdbe2eb57c
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7966544
+
+rol: 43586-2025
+
+fecha_sentencia: 2025-12-18
+
+caratulado: TESORERIA REGIONAL DE LA ARAUCANÍA/MAX SERVICE SEGURIDAD INDUSTRIAL S.A
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Admisibilidad del recurso de casación en el fondo
+
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+
+resultado_recurso: RECHAZADO CASACIÓN FONDO MANIFIESTA FALTA DE F
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, dieciocho de diciembre de dos mil veinticinco.
+
+VISTOS Y TENIENDO PRESENTE:
+
+1°.- Que, en este procedimiento sumario especial de la Ley N°18.101, se ha ordenado dar cuenta de la admisibilidad del recurso de casación en el fondo deducido por la parte demandante, en contra de la sentencia dictada por la Corte de Apelaciones de Santiago, la cual confirmó el fallo de primera instancia de cuatro de abril de dos mil veinticinco, que rechazó la demanda de indemnización de perjuicios por incumplimiento de contrato de arrendamiento.
+
+2°.- Que, en concepto de la recurrente, la sentencia impugnada ha incurrido en los siguientes errores de derecho: a) infringió los artículos 1552 , 1545 , 1546 , 1547 , 1556 y 1558 del Código Civil, al invertir por completo la cronología y la causalidad de los incumplimientos, pues los actos de la demandada se iniciaron el 18 de octubre de 2019, mientras que la deuda en el pago de las rentas se originó a partir de abril de 2023. Agrega que al aplicar la excepción de forma mecánica, el fallo desnaturaliza el artículo 1552 Código Civil, llegando al absurdo de sostener que el incumplimiento en el pago de la renta por parte del arrendatario habilita al arrendador para causarle perjuicios en su patrimonio y en su persona, eludiendo toda responsabilidad; b) se han infringido, también, los artículos 1924 N°3 , 1928 y 1929 del Código Civil que consagran las obligaciones esenciales del arrendador; en particular, porque el tapiado de la mampara de vidrio con planchas metálicas no fue una mera turbación, sino una modificación sustancial y permanente de la cosa arrendada, y al calificar de innecesario el análisis de la demanda, el fallo simplemente ignoró la aplicación de estas normas; y c) contravino los artículos 1698 del Código Civil y 8 N°7 de la Ley N°18.101, pues se limitó a enumerar un extenso catálogo probatorio, para luego, sin análisis alguno, descartarlo de plano.
+
+3°.- Que, de la lectura del libelo que contiene el recurso de casación en estudio, es posible constatar que la parte recurrente omitió extender la infracción legal denunciada a normas que, en la especie, tienen el carácter de decisorias de la litis, esto es, preceptos cuya aplicación permite resolver la cuestión controvertida, tales como los artículos 1437 , 1438 , 1555 , 1557 y 1915 del Código Civil, y los artículos 1 y 6 N°5 de la Ley N°18.101 . Siendo ello así, la sola mención de las normas indicadas en el recurso como infringidas no constituye motivo plausible para acoger la casación en el fondo que lo contiene, por lo que cabe concluir que el recurso interpuesto adolece de manifiesta falta de fundamento.
+
+Por estas consideraciones y de conformidad además con lo dispuesto en los artículos 772 y 782 del Código de Procedimiento Civil, se rechaza el recurso de casación en el fondo interpuesto por el abogado Diego Lefimil Valdebenito, en representación de la parte demandante, en contra de la sentencia dictada por la Corte de Apelaciones de Santiago, de fecha tres de octubre de dos mil veinticinco.
+
+Regístrese y devuélvase.
+
+Rol Nº 44.849 - 2025
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Santiago
+Santiago, tres de octubre de dos mil veinticinco.
+
+A los folios 18 y 19; a todo, téngase presente.
+VISTOS:
+
+Atendido el mérito de los antecedentes, se confirma la sentencia apelada de cuatro de abril de dos mil veinticinco, dictada por el Noveno Juzgado Civil de Santiago, en los autos Rol C-17630-2024.
+Regístrese, comuníquese y devuélvase.
+
+Civil N°6775-2025.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C-17630-2024
+
+NOMENCLATURA : 1. [40]Sentencia
+JUZGADO : 9º Juzgado Civil de Santiago
+CAUSA ROL : C-17630-2024
+CARATULADO : BUENO/ALVI SUPERMERCADOS MAYORISTAS
+S.A.
+
+Santiago, cuatro de abril de dos mil veinticinco
+
+VISTOS:
+
+A folio 1, con fecha 1 de octubre de 2024, comparece SARA EUGENIA
+
+BUENO INZUNZA, chilena, dueña de casa, cédula nacional de identidad:
+
+11.405.792-4, domiciliada en Pasaje Aracarí N°118, comuna de Maipú, Región
+
+Metropolitana, quien deduce demanda de indemnización de perjuicios por
+
+incumplimiento de contrato de arrendamiento en contra de ALVI
+
+SUPERMERCADOS MAYORISTAS S.A., sociedad del giro de su denominación,
+
+RUT N°96.618.540-6, representada indistintamente por Francisco Javier Chávez
+
+Chávez, ingeniero comercial, RUN 12.117.686-6, Fernando Raúl Ureta Rojas,
+
+ingeniero civil, RUN 13.891.965-K y por Héctor Antonio Ortega Layana, contador
+
+auditor, RUN 12.073.760-0, todos domiciliados en Cerro El Plomo N°5680, piso
+
+11, comuna de Las Condes, Región Metropolitana.
+
+Sostiene que, con fecha 1 de abril de 2017, celebró con la demandada un
+
+contrato de subarrendamiento respecto de un local comercial, de
+
+aproximadamente 16 metros cuadrados que se encuentra ubicado en el exterior
+
+del supermercado "Alvi Pajaritos", situado en Avenida Pajaritos N°5100, comuna
+
+de Maipú, Santiago. El local estaba estratégicamente ubicado detrás de las cajas
+
+registradoras del supermercado, lo que lo convertía en un punto de alta afluencia
+
+de clientes.
+
+Expone que el objeto del contrato era la explotación comercial del local para
+
+la prestación de servicios de peluquería y reflexología. La ubicación era esencial,
+
+ya que permitía captar a los clientes que, tras realizar sus compras en el
+
+supermercado, buscaban complementar su experiencia adquiriendo servicios
+
+adicionales. Este flujo constante de personas garantizaba una clientela estable y
+
+creciente, factor determinante en la decisión de celebrar el contrato en las
+
+condiciones pactadas.
+
+Indica que desde el inicio de la ejecución del contrato, su negocio operó
+
+conforme al giro pactado, ofreciendo servicios de alta calidad en peluquería y
+
+reflexología. La estratégica ubicación del local permitió un flujo constante de
+
+1
+
+Código: BCPNXTXCWYT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-17630-2024
+
+clientes, generando ingresos suficientes para cubrir los costos operativos,
+
+incluyendo el pago del arriendo pactado en 9 UF, más IVA mensuales.
+
+Durante este período, el negocio experimentó un crecimiento sostenido. Se
+
+realizaron inversiones en equipamiento, decoración y capacitación del personal
+
+para mejorar la experiencia del cliente. Además, se establecieron relaciones
+
+comerciales con proveedores y se implementaron estrategias de fidelización de
+
+clientes, lo que contribuyó a consolidar el negocio en el mercado local.
+
+Señala que a partir del 18 de octubre de 2019, la demandada comenzó a
+
+implementar una serie de medidas unilaterales y arbitrarias que afectaron
+
+gravemente el normal funcionamiento de su negocio. Sin previo aviso ni
+
+justificación válida, procedieron a cerrar los accesos al local desde el
+
+estacionamiento y desde la parte trasera de las cajas registradoras del
+
+supermercado, obstaculizando la visión de la vitrina y el acceso principal de
+
+clientes al salón de local por medio de la mampara de vidrio ubicada tras caja.
+
+Estas acciones incluyeron la instalación de planchas de zinc y otros
+
+obstáculos físicos que impidieron el tránsito de clientes desde el interior del
+
+supermercado hacia el local por medio de dicha mampara. Además, se
+
+bloquearon los portones exteriores de acceso al estacionamiento y se descuidaron
+
+las condiciones de aseo y mantenimiento en las áreas circundantes al local,
+
+generando un ambiente poco propicio para atraer clientes.
+
+Destaca que esas medidas se adoptaron sin su conocimiento ni
+
+consentimiento y sin ofrecer alternativas para mitigar el impacto negativo que
+
+estas tendrían en su negocio. A pesar de sus constantes reclamos, y los
+
+realizados por los demás subarrendatarios de locales vecinos, no se realizó
+
+ninguna comunicación formal explicando las razones de estas acciones ni se
+
+ofreció una reubicación del local o una reducción en el canon de arriendo.
+
+Agrega que, durante el año 2023, comenzó a enfrentar problemas que
+
+afectaban negativamente el funcionamiento del negocio y que fueron
+
+oportunamente puestos en conocimiento de la administración de la demandada,
+
+sin obtener soluciones concretas. Estos problemas, relacionados con aspectos de
+
+mantención que correspondía solucionar al arrendador por encontrarse en el
+
+exterior del local, consistieron en la presencia de numerosas palomas en los
+
+contornos del supermercado que generaba una acumulación de excrementos en la
+
+entrada del local. Esto provocaba una imagen de suciedad que alejaba a los
+
+clientes, a pesar de las reiteradas sesiones de aseo diario que realizaba. La
+
+2
+
+Código: BCPNXTXCWYT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-17630-2024
+
+solución era sencilla y consistía en la colocación de mallas o púas para evitar que
+
+las palomas se posaran en los contornos. Sin embargo, las solicitudes para
+
+resolver este problema no fueron atendidas.
+
+Las medidas adoptadas por la demandada tuvieron consecuencias
+
+devastadoras para el negocio, volviéndolo insostenible. La drástica disminución en
+
+la afluencia de clientes, causada por las dificultades de acceso y las condiciones
+
+desfavorables del entorno, se tradujo en una caída significativa de los ingresos.
+
+Los clientes habituales dejaron de frecuentar el local debido a la inaccesibilidad y
+
+al deterioro ambiental, incluyendo la falta de aseo y la presencia de excrementos
+
+de palomas, lo que también afectó la reputación del negocio.
+
+Expone que entre octubre y diciembre de 2019, las ventas disminuyeron un
+
+85% en comparación con el mismo período del año anterior, y no lograron
+
+repuntar en idénticos periodos de años posteriores. Esta situación provocó
+
+incumplimientos en obligaciones financieras, como el pago a proveedores y
+
+salarios del personal, obligándole a reducir la plantilla de trabajadores y asumir
+
+pérdidas económicas considerables.
+
+La falta de respuesta y apoyo evidenció una actitud negligente y de mala fe
+
+por parte de la demandada.
+
+Señala que las acciones de la demandada tuvieron las siguientes
+
+consecuencias para su negocio:
+
+• Drástica disminución de clientes: la inaccesibilidad del local y las
+
+condiciones desfavorables del entorno alejaron a los clientes habituales y
+
+potenciales.
+
+• Pérdidas económicas significativas: las ventas disminuyeron un 85% en
+
+comparación con el mismo período del año anterior.
+
+• Deterioro de la imagen comercial: la falta de aseo y la presencia de
+
+excrementos de palomas afectaron la reputación de su negocio.
+
+• Impacto en la salud y bienestar personal: el estrés y la ansiedad generados
+
+por esta situación afectaron mi salud mental y calidad de vida.
+
+Las barreras impuestas por la demandada tornaron imposible la ejecución
+
+del objeto del contrato. Al impedir el acceso de clientes al local, se vulneró la
+
+esencia misma del acuerdo, que presuponía la operación de un negocio accesible
+
+al público desde el supermercado. Esta situación frustró las legítimas expectativas
+
+3
+
+Código: BCPNXTXCWYT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-17630-2024
+
+generadas al momento de la celebración del contrato y violó los principios de
+
+buena fe y confianza legítima.
+
+Debido a las pérdidas económicas sufridas, derivadas del bloqueo de la
+
+mampara de acceso principal al local así como el cierre de los portones del
+
+estacionamiento, y a la insostenibilidad de continuar con el negocio en tales
+
+condiciones, se vio obligada a optar por el término del contrato de
+
+subarrendamiento. Procedió a restituir el local el 31 de diciembre de 2022 a las
+
+12:00 horas. Sin embargo, al no haber nadie facultado en el local que pudiera
+
+recibir las llaves ese día, las mismas fueron entregadas el 6 de enero de 2023 a la
+
+administradora del supermercado, a las 14:30 horas.
+
+Por último, explica la procedencia de los requisitos de la responsabilidad
+
+que demanda, e indica que, como consecuencia directa de las acciones del
+
+demandado, su negocio sufrió pérdidas económicas significativas, estimadas en
+
+$127.500.000. Este monto corresponde a las ganancias dejadas de percibir desde
+
+la implementación de las medidas unilaterales hasta el cierre definitivo del negocio
+
+en diciembre de 2023.
+
+La estimación del lucro cesante se basa en los ingresos mensuales
+
+promedio obtenidos entre octubre y diciembre de los años 2017 a 2018, los cuales
+
+ascendían a $3.000.000 mensuales. Este cálculo se contrasta con la significativa
+
+reducción registrada durante el mismo trimestre en los años 2019 a 2023, cuando
+
+los ingresos promediaron $450.000 mensuales. El cálculo se realizó restando de
+
+los $3.000.000 el monto de $450.000, lo que resulta en $2.550.000, y este valor se
+
+multiplicó por la cantidad de meses comprendidos entre octubre de 2019 y
+
+diciembre de 2023, es decir, por 50 meses.
+
+Se ha seleccionado este periodo específico para evitar el impacto de las
+
+restricciones relacionadas con la pandemia del COVID-19, cuyas medidas más
+
+severas se implementaron entre marzo y septiembre de 2020. Esta pérdida
+
+económica no solo afectó de manera considerable su patrimonio, sino también su
+
+capacidad para cumplir con las obligaciones financieras y mantener su fuente de
+
+ingresos.
+
+Asimismo, estima el daño moral sufrido en la suma de $15.000.000, o en el
+
+monto que S.S. considere adecuado. Esta cantidad busca reflejar el sufrimiento, la
+
+angustia y la disminución en su calidad de vida, consecuencia directa de las
+
+acciones de la parte demandada.
+
+4
+
+Código: BCPNXTXCWYT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-17630-2024
+
+Además, indica que como resultado del estrés y la ansiedad, ha
+
+experimentado dolores neuropáticos, gastritis inducida por el estrés, y se ha
+
+sometido a una endoscopia gástrica. Ha necesitado medicación, incluyendo
+
+Pregabalina, practicar Aerobox, y también ha desarrollado resistencia a la insulina
+
+debido a la ansiedad prolongada.
+
+Termina solicitando tener por interpuesta demanda de indemnización de
+
+perjuicios, en juicio sumario de conformidad con la Ley N°18.101, en contra de
+
+ALVI SUPERMERCADOS MAYORISTAS SA representada legal e indistintamente
+
+por Francisco Javier Chávez Chávez, Fernando Raúl Ureta Rojas, y/o Héctor
+
+Antonio Ortega Layana, ya individualizados en autos, acogerla a tramitación y en
+
+definitiva declarar que la demandada le adeuda la suma ascendente a
+
+$142.500.000, o lo que US., estime por cada uno de los conceptos reclamados,
+
+más los reajustes e intereses, con costas.
+
+A folio 4, con fecha 15 de octubre de 2024, consta la notificación
+
+personal de la demandada.
+
+A folio 19, con fecha 28 de octubre de 2024, se llevó a cabo el
+
+comparendo de contestación, conciliación y prueba, con la asistencia de los
+
+apoderados de ambas partes. La demandada contestó mediante escrito ingresado
+
+a través de la Oficina Judicial Virtual, con fecha 28 de octubre de 2024, a folio 16.
+
+Luego se practicó el llamado a conciliación, el que no prosperó. Se recibió la
+
+causa a prueba, rindiéndose la documental que obra en autos.
+
+En su contestación la demandada solicita el rechazo de la demanda, con
+
+costas, negando expresamente los hechos expuestos en ella.
+
+Sostiene que la demandante acciona por supuestos perjuicios directos
+
+derivados de un, igualmente supuesto, incumplimiento de un contrato de arriendo
+
+suscrito entre las partes con fecha 1 de abril de 2017. Indica que en la exposición
+
+de la demanda se omiten una serie de hechos que son de relevancia para la
+
+resolución del presente proceso:
+
+Las partes suscribieron un contrato de subarriendo, el 31 de julio de 2014,
+
+para efectos de arrendar un local de 16 metros cuadrados, al interior del
+
+Supermercado Alvi ubicado en Avenida Pajaritos N°5.100, Comuna de Maipú,
+
+contrato suscrito ante el Notario Público de Santiago don Manuel Almarza Varas.
+
+El valor pactado del subarriendo fue de 8 UF mensuales, en base a un contrato de
+
+renovación anual.
+
+5
+
+Código: BCPNXTXCWYT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-17630-2024
+
+La contraria incumplió este contrato de subarriendo, dejando de pagar las
+
+rentas, razón por la cual, mi representada se vio obligada a requerir el término del
+
+contrato y la restitución del local. En este contexto se le remite una carta de fecha
+
+16 de junio de 2016.
+
+En este contexto, las partes comienzan un proceso de negociación,
+
+exponiendo la demandante una de hechos personales, que concluyeron en que mi
+
+representado, con la finalidad de ayudarla y de no tener el local desocupado,
+
+decidió condonar la deuda y pactar un nuevo contrato. De lo expuesto se dejó
+
+expresa constancia en el nuevo contrato a suscribir.
+
+Así las cosas, las partes suscribieron un nuevo contrato de subarriendo, con
+
+fecha 1 de abril de 2017, para efectos de subarrendar el local de 16 metros
+
+cuadrados, al interior del Supermercado Alvi ubicado en Avenida Pajaritos
+
+N°5.100, Comuna de Maipú. El valor pactado del subarriendo fue de 9 UF
+
+mensuales, en base a un contrato con vigencia por 3 años y posterior a ello,
+
+renovación anual de un año, por lo cual, contractualmente el contrato estaba
+
+vigente hasta cada mes de abril, en el caso de autos, hasta el mes de abril de
+
+2024. Ambas obligaciones contractuales fueron incumplidas por la demandante,
+
+ya que, no sólo no pagó íntegramente las rentas de subarriendo, sino que
+
+tampoco respetó el plazo contractual establecido, haciendo abandono unilateral
+
+del inmueble.
+
+El uso pactado por las partes fue, exclusivamente, para efectos del giro de
+
+servicios de peluquería, reflexología y venta de productos y servicios afines; sin
+
+perjuicio de ello, la demandante instaló una barbería, por lo cual no es efectivo lo
+
+señalado en la demanda, en el sentido de haber ofrecido “servicios de alta calidad
+
+en peluquería y reflexología”, ya que el servicio prestado fue diverso.
+
+Respecto de los hechos ocurridos a contar del 18 de octubre, precisa que lo
+
+que realmente ocurrió fue que el local supermercado fue quemado y saqueado en
+
+el contexto del estallido social iniciado ese día, lo que derechamente generó el
+
+cierre del local.
+
+Para acreditar lo expuesto, acompaña noticias de la época consignadas por
+
+el Diario La Tercera y por Radio Cooperativa, además de una imagen que muestra
+
+la quema total del Supermercado, en el contexto del estallido social (hecho de
+
+público conocimiento), que, señala, no puede ser imputado a la responsabilidad de
+
+su representado.
+
+6
+
+Código: BCPNXTXCWYT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-17630-2024
+
+Teniendo presente lo ocurrido, señala que se reunió con todos los
+
+subarrendatarios, incluida la demandante, acordando detener la facturación y
+
+cobro de los contratos de subarriendo, debido a que esta sala de supermercado
+
+había sido siniestrada por los acontecimientos descritos.
+
+Esta suspensión de facturación y cobro de los contratos de subarriendo se
+
+mantuvo hasta el mes de agosto 2021, ya que habiendo sido mayores los daños
+
+generados en el incendio y saqueo, la reparación tomo un tiempo en ser realizada.
+
+En este contexto, se suscribe por las partes un Acta de Entrega de 1 de
+
+julio de 2021, donde la demandante, acepta a su conformidad las condiciones en
+
+las que se encontraba el local; cabe mencionar que las mamparas a las que se
+
+alude como argumento central de su demanda, fueron recepcionadas a
+
+conformidad por la demandante, las que fueron instaladas a costo de la
+
+demandante por resguardo y seguridad para la subarrendataria y del
+
+supermercado, ya que estas antes eran de vidrio.
+
+Agrega que el local comercial fue entregado en excelentes condiciones a la
+
+demandante, para que ejerciera su giro comercial, quien suscribe el Acta a
+
+conformidad y comienza a utilizarlo, hasta la fecha en que voluntariamente efectúa
+
+su abandono físico.
+
+Es más, por una petición especial de ella y sin costo alguno, se le autorizó a
+
+la instalación de dos señaléticas de su local (a diferencia de los demás
+
+subarrendatarios, que sólo podían instalar una).
+
+Así, niega los hechos base de la demanda, ya que el local fue entregado en
+
+excelentes condiciones a la demandante, donde nunca existieron problemas de
+
+limpieza o de palomas, como aduce en su demanda y nunca se prohibió el acceso
+
+de clientes al local dado en subarriendo.
+
+Más allá de los argumentos de las partes, indica que se puede apreciar de
+
+los hechos, la buena fe de su representada, ya que, con la finalidad de dar
+
+cumplimiento y mantener el contrato, y también de ayudar a su subarrendataria,
+
+no sólo condonó parte de la deuda y suspendió la facturación de cobro cuando el
+
+local tuvo problemas de funcionamiento por el estallido social, sino que además
+
+dio todas las facilidades para la realización de su negocio.
+
+Agrega que le llama la atención que el demandante al accionar sólo expone
+
+frases grandilocuentes, sin explicar los términos expresos del contrato suscrito
+
+entre las partes, sin exponer cómo ha dado cumplimiento al mismo y sin
+
+7
+
+Código: BCPNXTXCWYT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-17630-2024
+
+desarrollar cómo solicita una indemnización total de $142.500.000, valor
+
+desprovisto de toda proporcionalidad al tenor de los hechos.
+
+Señala que la demanda es improcedente, además por incumplimiento en el
+
+canon de arriendo y devolución anticipada unilateral del local.
+
+Al mes de abril de 2023 la demandante presentaba una deuda acumulada
+
+de rentas de subarrendamiento ascendente a $976.904 (subarriendo y servicios
+
+generales de los meses de marzo y abril 2023, más un saldo anterior).
+
+En el mes de junio de 2023, la demandante efectúa un abono a la deuda
+
+quedando su deuda actualizada en el monto de $791.360 (incluidos meses de
+
+mayo y junio del año 2023).
+
+Como la deuda se seguía acumulando, su representado le envía una carta
+
+formal de fecha 12 de julio de 2023, en la cual le detalla la deuda de arrastre
+
+ascendente a $1.206.263.
+
+Ante esta situación de morosidad se inicia un proceso de negociación entre
+
+las partes en el mes de julio de 2023, acordando documentar la deuda en un
+
+pagaré, pagadero en cuotas mensuales.
+
+La demandante, simplemente después de haber llegado al acuerdo, no lo
+
+suscribe, sin perjuicio de haberse redactado toda la documentación.
+
+Lo anterior se acordó directamente con la demandante. Ahora bien,
+
+arribado dicho acuerdo incumplido por la demandada, su abogado el Sr. Diego
+
+Lefimil Valdebenito, solicita reunión para intentar a llegar a un acuerdo distinto,
+
+recién ahora planteando los supuestos problemas por las mamparas y palomas
+
+(nunca reclamados por su representada), condicionando los pagos a estos puntos.
+
+Esto a nuestro criterio no corresponde, ya que como se señaló, la demandante
+
+expresamente recepcionó las nuevas mamparas en el año 2021 y nunca reclamó
+
+una supuesta situación de palomas.
+
+Como finalmente no se llegó a un nuevo acuerdo entre las partes, en
+
+septiembre de 2023, el abogado de la demandante, el Sr. Diego Lefimil
+
+Valdebenito expone la voluntad de su representada de abandonar el local e indica
+
+que habría una persona interesada en comprar el derecho del local, quien además
+
+supuestamente pagaría lo adeudado a través de un vale vista a emitir a nombre de
+
+Alvi Supermercados.
+
+8
+
+Código: BCPNXTXCWYT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-17630-2024
+
+Ante esta situación la demandada de buena fe responde solicitando los
+
+datos de contacto de la persona o empresa que tomaría el local para hacer la
+
+evaluación financiera y las actuales condiciones comerciales (condición para
+
+continuar con la negociación) y de contratación. Esta persona, según información
+
+enviada por el abogado de la contraria sería doña Catalina Nahomi Vásquez
+
+Rodríguez, Rut: 19.321.152-6, quien simplemente no contestó ninguno de los
+
+correos ni tampoco se contactó con su representada.
+
+Como la persona nunca contestó, se le expuso esta situación a la contraria
+
+en octubre de 2023, quien ante dicho requerimiento señaló que la Sra. Rodríguez
+
+ya no estaría interesada y que el nuevo interesado sería el Sr. Gilbert Andrés
+
+Escalante Vilca, Rut: 14.663.962-3.
+
+A esta supuesta nueva persona se le envío por correo los detalles de la
+
+opción, respondiendo el abogado de la demandante, el 31 de octubre de 2023,
+
+que esta segunda persona ya no estaría interesada, estando ahora
+
+supuestamente interesado don Benjamín Jesús Pávez Wangnet, Rut: 20.532.309-
+
+0.
+
+El 9 de noviembre de 2023 se confirma por parte de la contraria que este
+
+tercer supuesto interesado, ya no estaría interesado en el local.
+
+Lo extraño de todas estas propuestas, es que los supuestos interesados o
+
+no contestaban o sólo contestaban a través del abogado de la demandante.
+
+Así la contraria realiza en noviembre de 2023 una solicitud de condonación
+
+de la deuda la cual a esas alturas ascendía a $2.886.386, lo que claramente no
+
+podía ser aceptado.
+
+En el mes de diciembre de 2023 se propone supuestamente pagar la deuda
+
+que ya tenía un valor de $3.901.267, en 24 cuotas, pero sin intereses, reajustes ni
+
+ningún documento de acuerdo como pagaré, lo cual claramente no podía ser
+
+aceptado.
+
+Con toda esta situación, esta parte en octubre de 2023 debió iniciar las
+
+gestiones judiciales de cobro de facturas, con la deuda que a dicho mes se tenía,
+
+causa radicada ante el 11° Juzgado Civil de Santiago, Rol C-18.081-2023, proceso
+
+que el 30 de julio de 2024, rechazó con costas las excepciones deducidas.
+
+Por lo que, al no pagar la renta del contrato de subarriendo, se ha
+
+incumplido por la demandante el artículo 1942 del Código Civil.
+
+9
+
+Código: BCPNXTXCWYT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-17630-2024
+
+Respecto de la devolución anticipada unilateral del local, una vez
+
+terminadas las conversaciones de supuestos potenciales nuevos subarrendatarios
+
+y potenciales pagos que nunca ocurrieron, la contraria simplemente nos informa a
+
+través de correo electrónico de 10 de enero de 2024, remitido por su abogado, que
+
+se habría realizado el desalojo del local el 7 de enero 2024, pero que no realizaron
+
+la entrega de las llaves de este ya no había alguien designado para restituirlas
+
+formalmente.
+
+Indica que esto incumple el contrato de arriendo, el cual tiene renovación
+
+anual el mes de abril al mes de abril de cada año, por lo que el subarriendo estaría
+
+vigente a lo menos hasta el mes de abril de 2024.
+
+En conclusión, la demanda es improcedente, ya que no es efectivo que su
+
+representada haya incumplido el contrato, sino que como se puede apreciar, quien
+
+incumplió el contrato de arriendo de 1 de abril de 2017 fue la demandante.
+
+Aparte de lo anterior, la acción deducida en autos no cumple con ninguno
+
+de los requisitos legales en cuanto a su interposición.
+
+A En cuanto a la existencia de daños en favor de la demandante, la la
+demandada los niega.
+
+B En subsidio de la defensa principal, opone excepción de contrato no
+
+cumplido al tenor del artículo 1552, la que corresponde en un contrato bilateral
+
+para negarse a cumplir su obligación mientras la otra parte no cumpla o se allane
+
+a cumplir la suya. Siendo el contrato de subarriendo un contrato bilateral, se aplica
+
+esta excepción en todo y por todo. Este artículo confiere al contratante diligente
+
+una defensa contra el contratante que exige el cumplimiento de las obligaciones
+
+que ceden a su favor, mientras incumple las propias.
+
+C Se dan todos y cada uno de los requisitos que admiten su procedencia:
+
+D 1.- El contrato es bilateral.
+
+E 2.- La demandante no ha cumplido en forma previa, ni está llano a cumplir,
+
+o ha cumplido de manera muy deficiente con las obligaciones emanadas del
+
+contrato.
+
+F 3.- La demandante estaba obligada a cumplir primero, ya que la contraria
+
+no sólo no pagó el contrato de subarriendo incumpliendo el artículo 1942 del
+
+Código Civil, sino que además abandonó el inmueble, de forma previa al plazo
+
+contractual establecido entre las partes, incumpliendo el artículo 1947 del Código
+
+Civil.
+
+10
+
+Código: BCPNXTXCWYT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-17630-2024
+
+G En este punto es de relevancia recordar que en octubre de 2023 se debió
+
+iniciar las gestiones judiciales de cobro de facturas con la deuda de subarriendo
+
+que a dicho mes se tenía, causa radicada ante el 11° Juzgado Civil de Santiago,
+
+Rol C-18.081-2023, proceso que con fecha 30 de julio de 2024, rechazó con
+
+costas las excepciones deducidas.
+
+H Por todo lo anterior, solicita el rechazo de la demanda, con costas.
+
+A folio 36, con fecha 3 de diciembre de 2024: se citó a las partes para oír
+
+sentencia.
+
+CONSIDERANDO:
+
+I. En cuanto a las tachas :
+
+PRIMERO: Que, a folio 34 se rindió prueba testimonial de la demandante,
+
+audiencia en que declararon los testigos Florencia Nataly Montoya Correa y
+
+Alejandro Patricio Olavarría Ramírez. Respecto de la primera testigo, se solicitó su
+
+inhabilidad conforme al artículo 358 N°7 del Código de Procedimiento Civil, y
+
+respecto al segundo, se tachó por los artículos 358 N°6 y 7 de la misma norma
+
+referida.
+
+SEGUNDO: Que, al evacuar el traslado, la reclamante expuso que los
+
+testigos no comprometían su objetividad, ya que, respecto de la primera, su
+
+relación es más bien espiritual en el sentido que se reúnen con la demandante al
+
+igual que otros cientos de personas en la misma iglesia y, respecto del segundo
+
+testigo señala que se reúnen socialmente y el testigo no ha señalado ninguna
+
+frecuencia de los encuentros, por lo que podrían haber sido meramente
+
+circunstanciales, por lo que no afectaba su imparcialidad.
+
+TERCERO: Que, el presente procedimiento está regulado por las normas
+
+dispuestas en la ley 18.101, la que, en su artículo 8 N°7, dispone que “[l]a prueba
+
+será apreciada conforme a las reglas de la sana crítica (…)”, de manera que tal es
+
+el estándar que debe aplicarse al análisis de toda la prueba rendida en este
+
+procedimiento. En este contexto, las tachas opuestas deberán rechazarse toda
+
+vez que pretenden excluir a priori el examen de un medio probatorio cuyo análisis
+
+compete al tribunal a través del sistema de sana crítica ya referido.
+
+Así las cosas, las tachas serán desechadas por improcedentes, sin costas.
+
+II. En cuanto al fondo :
+
+11
+
+Código: BCPNXTXCWYT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-17630-2024
+
+CUARTO: Que, a folio 1, doña Sara Eugenia Bueno Inzunza, dedujo
+
+demanda de indemnización de perjuicios por incumplimiento de contrato de
+
+arrendamiento en contra de Alvi Supermercados Mayoristas S.A., solicitando se
+
+declare que la demandada le adeuda la suma ascendente a $142.500.000, o lo
+
+que S.S., estime por cada uno de los conceptos reclamados, más los reajustes e
+
+intereses, con costas. De tal cifra, demanda $127.500.000 por lucro cesante y
+
+$15.000.000 por daño moral.
+
+QUINTO: Que, la demandada estima que no procedería la acción incoada
+
+por la actora, arguyendo que sería improcedent, por haber sido la demandada
+
+quien incumplió sus obligaciones emanadas del contrato y no corresponder los
+
+hechos de la manera en que fueron expuestos en la demanda.
+
+SEXTO: Que, a fin de acreditar sus asertos, la parte demandante rindió, en
+
+forma legal y sin objeción de contrario, la siguiente prueba documental a folio 11:
+
+1) Contrato de subarrendamiento, de 1 de abril de 2017, suscrito tanto por
+
+la demandante como por los representantes legales de la demandada.
+
+2) Set de correos electrónicos iniciados el 10 de enero de 2024, en los
+
+cuales se notifica a la demandada sobre la restitución del local ubicado tras la caja
+
+del supermercado “Alvi Pajaritos”.
+
+3) Correo electrónico del 28 de julio de 2023, que informa a la demandada
+
+sobre el estado deplorable del local y sus alrededores, atribuible a los cierres
+
+realizados por la demandada y la falta de mantención adecuada.
+
+4) Copia de la ficha clínica de la demandante, en la que se detallan las
+
+prestaciones realizadas por Clínica Indisa, evidenciando las complicaciones
+
+psicológicas y físicas que presentaba la demandante como resultado de la
+
+ansiedad y el estrés ocasionados por las acciones de la demandada.
+
+5) Copia de la ficha clínica de la demandante, en la que se detallan las
+
+prestaciones realizadas por Clínica UC Christus San Carlos de Apoquindo, que
+
+complementa los asertos del documento anterior.
+
+6) Copia de la ficha clínica de la demandante, en la que se detallan las
+
+prestaciones realizadas por centro de atención UC Christus Alcántara, que
+
+complementa los asertos del documento anterior.
+
+7) Cálculo de lucro cesante realizado sobre la base del consolidado del libro
+
+diario llevado por la demandante para su peluquería.
+
+12
+
+Código: BCPNXTXCWYT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-17630-2024
+
+8) Cálculo de pérdida de utilidades realizado sobre la base del consolidado
+
+del libro diario llevado por la demandante para su peluquería.
+
+9) Copia digital del libro diario llevado por la demandante para su
+
+peluquería, correspondiente a octubre de 2017.
+
+A folio 13:
+
+1) Copia digital del libro diario llevado por la demandante para su
+
+peluquería, correspondiente a octubre de 2018.
+
+2) Copia digital del libro diario llevado por la demandante para su
+
+peluquería, correspondiente a noviembre de 2018.
+
+3) Copia digital del libro diario llevado por la demandante para su
+
+peluquería, correspondiente a diciembre de 2018.
+
+4) Copia digital del libro diario llevado por la demandante para su
+
+peluquería, correspondiente a octubre de 2019.
+
+5) Copia digital del libro diario llevado por la demandante para su
+
+peluquería, correspondiente a octubre de 2023.
+
+6) Copia digital del libro diario llevado por la demandante para su
+
+peluquería, correspondiente a noviembre de 2023.
+
+A folio 14:
+
+1) Copia digital del libro diario llevado por la demandante para su
+
+peluquería, correspondiente a diciembre de 2023.
+
+2) Diagrama del local de supermercado y el local subarrendado, para
+
+efectos de referencia.
+
+A folio 17:
+
+1) Set de fotografías del local subarrendado, con focalización en la
+
+mampara tras caja antes de que fuera cerrada por la demandada.
+
+2) Set de fotografías del local subarrendado, con focalización en la
+
+mampara tras caja después de que fuera cerrada por la demandada.
+
+SÉPTIMO: Que a folio 34 la demandante, rindió prueba testimonial, con la
+
+declaración de los siguientes testigos:
+
+13
+
+Código: BCPNXTXCWYT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-17630-2024
+
+- Florencia Nataly Montoya Correa: en cuanto al punto de prueba N°2,
+
+indica que no se cumplieron. En un principio, sí pero se produjo el cierre de la vista
+
+de la peluquería en cuanto miraba hacia las cajas, y se hizo un cierre metálico a lo
+
+largo de toda la vista de la peluquería. Esto, durante el estallido social con un
+
+cierre de un año completo y hasta la fecha no se ha abierto el cierre metálico de la
+
+vista de la peluquería. Le consta porque se atendía en esa peluquería y ya no
+
+funciona. No conoce otro incumplimiento. Al punto N°3, señala que sí, los
+
+perjuicios son físicos y mentales, también son económicos y espirituales. El origen
+
+de los daños es el cierre de la visual de la peluquería. Desconoce los montos de
+
+los daños relatados y le constan esos daños por haber visto a la demandante muy
+
+afectada por el tema de la peluquería y en la iglesia se conversó al respecto, y el
+
+tema económico porque se vio la baja de su personal y ella tenía 6 personas
+
+trabajando para quedar con solo 1 trabajador. En relación con las repreguntas,
+
+sostiene que la fecha del estallido social fue el 2019. La frecuencia con que
+
+concurría a la peluquería era, todos los meses. El motivo que disminuyó la
+
+cantidad de trabajadores fue el cierre de la visual. En sus visitas, observó una baja
+
+de clientes desfavorable para la demandante. Describe los daños físicos y
+
+psicológicos, con que tuvo tedenitis por no tener trabajadores y tener que hacer
+
+ella todo en la peluquería, y los psicológicos fueron crisis de pago, ansiedad. En
+
+relación con los clientes que había, señala que hubo una baja, lo que le consta
+
+porque iba a la peluquería. Respecto de las contrainterrogaciones, sostiene que
+
+los clientes ingresaban al local frente a las cajas el medio de oros locales
+
+comerciales. El local comercial tenía publicidad hacia el exterior del
+
+supermercado, por fuera hacia los estacionamientos 1 metro por metro y medio
+
+aproximadamente. Agrega que la fecha en que se cerró la peluquería fue en
+
+diciembre de 2023.
+
+- Alejandro Patricio Olavarría Ramírez: en cuanto al punto N°2, respecto
+
+del acceso principal, señala que en el estallido social se protegieron los accesos y
+
+le cerraron el acceso completo a la peluquería con OSB pintado. Después nunca
+
+más le abrieron el acceso y el local de la barbería está completamente cerrado y,
+
+agrega que últimamente no ha ido al Alvi y desconoce si hay otro incumplimiento.
+
+Le consta porque, al pedir hora a la demandante, le ha contado la situación. Al
+
+punto N°3, indica que se han producido daños, en su fuente laboral, lo anímico,
+
+psicológico y monetario. El origen es el tema del local cerrado y la baja de público,
+
+baja de sus ingresos. Desconoce le monto de los daños. Le consta por dichos de
+
+la demandante y por haber concurrido al lugar antes del estallido y después lo
+
+atendía en su casa. En relación con las repreguntas, Le consta el cierre del local,
+
+porque lo vio personalmente al principio del estallido social y pasó al Autoplanet,
+
+14
+
+Código: BCPNXTXCWYT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-17630-2024
+
+que está en el mismo recinto. En relación con los cambios de ánimo, se refiere a
+
+que, en principio, ella era una persona muy alegre que atendía muy bien a su
+
+clientela y con lo del cierre se empezó a ver afectada en lo anímico y estaba
+
+angustiada con el tema monetario, lo que le fue produciendo una depresión y está
+
+hasta la actualidad con medicamentos. Explica que con daños económicos se
+
+refiere a una baja en sus ingresos con relación al estallido por disminución de la
+
+frecuencia del público. Respecto de las contrainterrogaciones, indica que el
+
+acceso principal, antes estaba frente a las cajas y después estaba por afuera del
+
+supermercado en su exterior en el sector de estacionamientos. En relación a si
+
+tenía publicidad hacia el exterior, señala que sí; después del cierre con un letrero
+
+de 2x1 metro aproximadamente. Respecto a si el supermercado Alvi se quemó o
+
+siniestró para el estallido social, indica que lo desconoce. A la pregunta para que
+
+diga en qué fecha de cerró la peluquería, indica que a fines de octubre de 2018.
+
+OCTAVO: Que, a fin de acreditar sus alegaciones la demandada rindió, en
+
+forma legal y sin objeción de contrario, la siguiente prueba documental a folio 16:
+
+1) Contrato de subarriendo suscrito entre las partes el 31 de julio de 2014,
+
+para efectos de arrendar un local de 16 metros cuadrados, al interior del
+
+Supermercado Alvi ubicado en Avenida Pajaritos N°5.100, comuna de Maipú,
+
+suscrito ante el Notario Público de Santiago don Manuel Almarza Varas.
+
+2) Carta de requerimiento de término de contrato de subarriendo y
+
+restitución del local, de 16 de junio de 2016.
+
+3) Contrato de subarriendo suscrito entre las partes el 1 de abril de 2017,
+
+para efectos de arrendar el local de 16 metros cuadrados, al interior del
+
+Supermercado Alvi ubicado en Avenida Pajaritos N°5.100, comuna de Maipú.
+
+4) Nota periodística de 24 de octubre de 2019, realizada por Radio
+
+Cooperativa, que expone la quema del local en el contexto del estallido social.
+
+5) Nota periodística de 26 de octubre de 2019, realizada por el Diario La
+
+Tercera, que expone la quema del local en el contexto del estallido social.
+
+6) Acta de Entrega Local o Espacio de 1 de julio de 2021, suscrita por
+
+ambas partes.
+
+7) Set de 3 imágenes del local comercial materia del subarriendo.
+
+15
+
+Código: BCPNXTXCWYT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-17630-2024
+
+8) Correo electrónico de 13 de julio de 2023, remitido por don José Miguel
+
+Reinoso a la demandante, a través de la cual se le adjunta carta de cobro de
+
+canon de arriendo de 12 de julio de 2023.
+
+9) Carta de 12 de julio de 2023, enviada en el correo acompañado en el
+
+punto anterior.
+
+10) Correo electrónico de 24 de julio de 2023, remitido por don José Miguel
+
+Reinoso a la demandante, a través de la cual se le copia el detalle del acuerdo
+
+adoptado y el pagaré para su firma. (el cual nunca fue firmado por la contraria).
+
+11) Cadena de correos electrónicos, iniciada el 10 de enero de 2024,
+
+remitido por don Diego Lefimil Valdebenito (abogado de la demandante) a los
+
+contactos de Alvi Supermercados, a través de la cual informa que su representada
+
+ha hecho abandono del local comercial.
+
+12) Ebook de la causa Rol C-18.081-2023, seguida ante el 11° Juzgado
+
+Civil de Santiago, proceso en el cual con fecha 30 de julio de 2024, se rechazan
+
+con costas las excepciones deducidas por la demandante de estos autos.
+
+A folio 25:
+
+Informe de seguro por quema y saqueo, denominado Ajuste de Pérdida
+
+Folio N°322.413, emitido por la empresa Viollier & Asociados, Liquidadores de
+
+Seguros Limitada, RUT: 96.594.270-k, siniestro N°219203878.
+
+A folio 26:
+
+1) Cadena de correos electrónicos iniciada el 13 de julio de 2023, que
+
+incluye, entre otros:
+
+- Remisión de carta de cobranza por no pago de rentas, de 13 de julio de
+
+2024.
+
+- Detalle del acuerdo de negociación, de 24 de julio de 2024.
+
+- Coordinación de reunión entre las partes del juicio.
+
+- Propuestas de pago de deuda, incumplidas por la demandante.
+
+- Propuestas de supuesto nuevo subarrendatario efectuada por la
+
+demandante, respecto de doña Catalina Vásquez Rodríguez, a través de correos
+
+de 13 de septiembre de 2024; quien simplemente nunca contestó.
+
+16
+
+Código: BCPNXTXCWYT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-17630-2024
+
+- Propuestas de supuesto nuevo subarrendatario efectuada por la
+
+demandante, respecto de don Gilbert Escalante Vilca, a través de correos de 24
+
+de octubre de 2024, quien simplemente nunca contestó.
+
+2) Resolución sanitaria Folio Nº005647, número de solicitud 12392 / 07,
+
+emitida por la Secretaría Regional Ministerial de Salud Región Metropolitana.
+
+3) Patente Municipal emitido por la Ilustre Municipalidad de Maipú, en los
+
+periodos comprendidos de julio a diciembre 2024, Ingreso Nº26006615, de Alvi
+
+Supermercados Mayoristas SA.
+
+4) Actas año 2021 de la empresa de control de plagas ORKIN, local
+
+Avenida Pajaritos Nº5100, Maipú.
+
+5) Actas año 2023 y 2024 de la empresa de control de plagas ORKIN, local
+
+Avenida Pajaritos Nº5100, Maipú.
+
+A folio 27:
+
+Certificados de control de plagas del local Alvi ubicado en Avenida Pajaritos
+
+N°5.100, comuna de Maipú, respecto del año 2022.
+
+NOVENO: Que, ponderadas las pruebas mediante las reglas de la sana
+
+crítica, es posible tener por establecidos los siguientes hechos:
+
+1. Conforme al contrato de arrendamiento acompañado:
+
+a. Que con fecha 1 de abril de 2017, se celebró contrato de
+
+subarrendamiento entre Alvi Supermercados Mayoristas SA como
+
+subarrendador y Sara Bueno Inzunza como subarrendataria,
+
+respecto de un local de 16 metros cuadrados aproximadamente,
+
+ubicado en el exterior del supermercado conocido como “Alvi
+
+Pajaritos”, ubicado en Avenida Pajaritos N°5.100, de la comuna de
+
+Maipú.
+
+b. Que, conforme su cláusula Primera, Uno.Tres, establece que, a
+
+través de dicho instrumento, la subarrendadora condona la deuda
+
+actual (individualizada en el punto Uno.Dos de la misma cláusula) en
+
+la que doña Sara Bueno Inzunza tiene con Alvi Supermercados
+
+Mayoristas SA y, en consecuencia, entre ambas partes se entregan
+
+mutuamente el más amplio, total y completo finiquito respecto al
+
+Contrato de Subarrendamiento, declarando que nada se adeudan, y
+
+17
+
+Código: BCPNXTXCWYT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-17630-2024
+
+que por tanto quedan liberadas de todo compromiso recíproco en
+
+relación al Contrato de Subarrendamiento.
+
+c. Que, conforme la cláusula Quinta, se estipuló que el contrato
+
+empezaría a regir desde la fecha de suscripción y tendrá una
+
+duración de tres años. Se indica que dicho plazo se prorrogará
+
+automática y sucesivamente por períodos iguales de 1 año cada uno,
+
+si ninguna de las partes manifiesta su voluntad de no perseverar en
+
+él, mediante aviso enviado por correo certificado al domicilio de la
+
+otra parte, con al menos 60 días de anticipación a la fecha de
+
+vencimiento del plazo original o de la prórroga que estuviere vigente.
+
+d. Que en la cláusula Séptima del contrato se pactó una renta mensual
+
+equivalente en pesos al día de su pago efectivo a 9 UF, más IVA, la
+
+que se debía pagar a más tardar, el día 5 de cada mes calendario.
+
+2. Conforme correos electrónicos intercambiados entre las partes
+
+durante el mes de enero de 2024 (acompañados por ambas partes):
+
+Que el inmueble arrendado fue restituido por la demandada el 31 de
+
+diciembre de 2023 y las llaves entregadas el 6 de febrero de 2024.
+
+3. Conforme correos electrónicos intercambiados entre los meses de
+
+julio y octubre de 2023 entre las partes: Que la demandante mantenía
+
+una deuda de la renta de arrendamiento para con la demandada, la que
+
+estaba intentando repactar y negociar.
+
+DÉCIMO: Que, la demanda interpuesta en autos es una acción de
+
+indemnización de perjuicios intentada por la subarrendataria en contra de la
+
+subarrendadora por supuestas medidas unilaterales y arbitrarias que esta última
+
+habría tomado respecto del local arrendado desde el 18 de octubre de 2019, las
+
+que habrían afectado el normal funcionamiento del negocio de la demandante,
+
+produciéndole pérdidas en sus ganancias y daños sicológicos.
+
+Cabe hacer presente que las partes han reconocido la existencia del
+
+contrato de subarrendamiento en base al cual se interpuso la demanda y tal hecho
+
+se ha tenido por establecido en el motivo noveno, de manera que conforme lo
+
+dispuesto en el artículo 1968 del Código Civil, cada parte debió acreditar el
+
+cumplimiento de las obligaciones cuyo incumplimiento se denuncia para efectos
+
+de proceder a determinar si tal infracción tuvo el mérito de generar los perjuicios
+
+que se demandan.
+
+18
+
+Código: BCPNXTXCWYT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-17630-2024
+
+UNDÉCIMO: Que, sin perjuicio de lo anterior, en su contestación, la
+
+demandada planteó que la demandante incumplió el contrato de
+
+subarrendamiento en base al cual demanda, pues no pagó la renta pactada en
+
+tiempo y forma, presentando una deuda por tal concepto incluso al momento de la
+
+entrega del inmueble.
+
+Tal hecho ha quedado por establecido en estos autos, toda vez que se
+
+rindió prueba suficiente para acreditarlo. Así las cosas, corresponde tener
+
+presente lo dispuesto en el artículo 1552 del Código Civil, que señala:
+
+“En los contratos bilaterales ninguno de los contratantes está en mora
+
+dejando de cumplir lo pactado, mientras el otro no lo cumple por su parte, o no se
+
+allana a cumplirlo en la forma y tiempo debidos”
+
+Así las cosas, resulta estéril proceder a analizar si es que concurren los
+
+requisitos de la acción indemnizatoria interpuesta por la actora pues ya en este
+
+punto es claro que ella incumplió sus obligaciones correlativas al no haber pagado
+
+la renta pactada en el contrato de subarrendamiento, de manera que, conforme a
+
+la normativa transcrita, no se encontraba habilitada para denunciar ningún
+
+incumplimiento por parte de su contraria.
+
+Que, en consecuencia, se ha de rechazar la acción interpuesta, según se
+
+dirá en lo resolutivo.
+
+DUODÉCIMO: Que, conforme lo dispuesto en el artículo 144 del Código de
+
+Procedimiento Civil, la demandante será condenada en costas por considerarse
+
+que no tuvo motivo plausible para litigar.
+
+Por estas consideraciones, y visto además lo dispuesto en los artículos 160,
+
+170, 254 y demás pertinentes del Código de Procedimiento Civil; 1489, 1552,
+
+1545, 1546, 1698, 1977 y demás pertinentes del Código Civil; y la Ley N°18.101;
+
+se resuelve:
+
+I. Que se rechazan las tachas interpuestas a folio 34, sin costas.
+
+II. Que se rechaza la demanda interpuesta a folio 1 en todas sus
+
+partes.
+
+III. Que se condena en costas a la demandante.
+
+Regístrese y notifíquese.
+
+C-17.630-2024
+
+19
+
+Código: BCPNXTXCWYT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-17630-2024
+
+Resolvió doña Valeria Osorio Zamora, Jueza Suplente de este Noveno
+
+Juzgado Civil de Santiago.
+
+Se deja constancia que se dio cumplimiento a lo dispuesto en el inciso final del art.
+162 del C.P.C. en Santiago, cuatro de abril de dos mil veinticinco
+
+20
+
+Código: BCPNXTXCWYT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2025-04-04T13:14:07-0300
