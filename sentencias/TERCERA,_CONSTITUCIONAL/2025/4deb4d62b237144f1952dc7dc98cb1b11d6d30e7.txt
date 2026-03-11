@@ -6,15 +6,15 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7978004
 
 rol: 48686-2025
 
-fecha_sentencia: 2025-12-29
+fecha_sentencia: 2025-12-30
 
 caratulado: BRAVO/BANMÉDICA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: (CIVIL) APELACIÓN RECLAMACIÓN
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

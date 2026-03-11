@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7978029
 
 rol: 50577-2025
 
-fecha_sentencia: 2025-12-29
+fecha_sentencia: 2025-12-30
 
 caratulado: OYANEDEL/I MUNICIPALIDAD DE LA LIGUA
 
@@ -14,7 +14,7 @@ sala: CUARTA, MIXTA
 
 materias: ▪ Recurso de unificación de jurisprudencia
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
 
 resultado_recurso: INADMISIBLE,UNIFICACIÓN DE JURISPRUDENCIA
 
