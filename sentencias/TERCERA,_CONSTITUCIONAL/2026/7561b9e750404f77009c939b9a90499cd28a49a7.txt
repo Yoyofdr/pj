@@ -1,0 +1,262 @@
+METADATA
+
+case_id: 7561b9e750404f77009c939b9a90499cd28a49a7
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049942
+
+rol: 28237-2025
+
+fecha_sentencia: 2026-03-05
+
+caratulado: REINOSO/SERVICIO NACIONAL DE MIGRACIONES DE DE MIGRACIONES
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+
+recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Corte Suprema ▼
+Santiago, cinco de marzo de dos mil veintiséis.
+
+VISTO:
+En estos autos sobre juicio ejecutivo, tramitado ante el Décimo Quinto Juzgado Civil de Santiago, bajo el rol N° C-11.313-2020, caratulado “Tanner Servicios Financieros S.A. con Ilustre Municipalidad de Maipú”, por sentencia de diecinueve de agosto de dos mil veintidós, rectificada por la de tres de noviembre del mismo año, el tribunal de primer grado rechazó las excepciones opuestas por la ejecutada y, en consecuencia, dispuso seguir adelante la ejecución, con costas.
+
+Apelado dicho fallo por la ejecutada, una sala de la Corte de Apelaciones de Santiago, por decisión de ocho de abril de dos mil veinticinco, confirmó la de primer grado.
+
+Contra este último pronunciamiento, la misma parte dedujo recurso de casación en el fondo.
+
+Declarado admisible el mencionado arbitrio, se trajeron los autos en relación.
+
+CONSIDERANDO:
+PRIMERO: Que, el recurso de casación en el fondo entablado en representación de la ejecutada denuncia la transgresión de diversas normas jurídicas. En un primer capítulo estima que se han conculcados los artículos 1° y 3° inciso tercero de la Ley N° 19.983, ya que la sentencia recurrida desconoce la definición legal de la factura que recoge el carácter causado o concreto de ese instrumento mercantil, dado que se expresa en su texto la relación jurídica, operación o contrato que le ha dado origen, de manera que si el título de valor no posee un negocio causal, la obligación es inexistente o invalida absolutamente.
+
+Por lo anterior, se incurre en error de derecho por el tribunal de primera instancia al rechazar de plano la excepción del artículo 464 N° 7 del estatuto procesal civil, en condiciones que justamente lo alegado tiene relación con la inexistencia del acto jurídico causal que supuestamente habría dado origen a la demanda.
+
+Expone que se transgrede el artículo 3° inciso tercero de la Ley N° 19.983, dado que la alegación de falta de negocio causal e inexistencia de la obligación, son excepciones de carácter real, por lo que el tribunal de primer grado debió pronunciarse sobre ella.
+
+Agrega que de los contratos acompañados en autos queda en evidencia que la emisión de la factura electrónica discutida en autos, en ningún caso pudo haber sido emitida por Confecciones Cubillos SpA a la ejecutada atendido que le estaba prohibido, toda vez que la prestación de servicios derivó del contrato celebrado entre Procard y la Ilustre Municipalidad de Maipú.
+
+En un segundo acápite de invalidación sustancial, el recurrente sostiene que se desconocen los artículos 1445, 1467, 1681, 1682 y 1698 del Código Civil, dado que al momento de oponerse la excepción de nulidad de la obligación, se alegó que la factura emitida el 7 de noviembre de 2019, carecía de causa y de voluntad para que la Municipalidad de Maipú, se obligara a su pago, por cuanto no existe ningún negocio causal que diera origen a ella, haciéndose presente al efecto circunstancias relativas a la suscripción de un contrato de compraventa y contratación de servicios por parte de la ejecutada y la Comercializadora J & M SpA (Procard) quien a su vez había celebrado un convenio paralelo y posterior con Confecciones Cubillos SpA, lo que no fue ponderado por los sentenciadores. Estima que al rechazarse la excepción de nulidad se dota de validez a un título de valor que no había nacido de una relación jurídica que obligara a la Municipalidad de Maipú a su posterior pago, con lo que se han violentados las normas relativas a la nulidad de los artículos 1681 inciso primero y 1682 del estatuto civil. Atendido que el ejecutante no tenía ningún tipo de obligación respecto a la ejecutada, en virtud a que jamás se obligó con ella, es que la sentencia recurrida, sin considerar que la obligación emanada de la factura era nula, dado que la que se intenta cobrar es inexistente y, por ende, absolutamente nula, por lo que, al desestimar la reseñada oposición, es un grave error de derecho. Por otra parte, advierte que se ha ignorado la norma reguladora de la prueba del artículo 1698 del estatuto civil, dado que impone la carga de probar la inexistencia del negocio causal que supuestamente habría dado origen a la factura y que, supuestamente ligaría a Confecciones Cubillos SpA con la Municipalidad de Maipú, imponiéndole probar en juicio un hecho negativo.
+
+En otro capítulo de nulidad, se denuncia la vulneración, por no aplicación, de los numerales cuarto, séptimo y noveno del artículo 464 del Código adjetivo civil, reiterando sus argumentos respecto de las dos primeras oposiciones, agregando que al rechazar la excepción de pago se desconoce que respecto del documento mercantil presentado se pagó el monto de lo acordado conforme al Acuerdo Complementario N° 74/2020 a la empresa J & M SPA, el que fue pagado el 10 de agosto de 2020, siendo esa empresa el responsable de pagar a Confecciones Cubillos por los uniformes entregados, sin que la ejecutada adeude alguna de dinero.
+
+Finalmente, el compareciente estima que se desconozcan los artículos 751 y 752 del estatuto adjetivo civil, dado que la decisión objetada ordena continuar la ejecución en virtud de lo dispuesto en normas jurídicas que dicen relación con una condena al Fisco de Chile, lo que no es aplicable a los hechos ventilados en el presente juicio.
+
+Insta que esta Corte invalide el fallo y en su reemplazo dicte uno que acoja las excepciones a la ejecución deducida por la ejecutante, disponiendo que se rechaza la ejecución entablada en su contra, con costas.
+
+SEGUNDO: Que, la sentencia de primer grado, ratificada en todas sus partes por el pronunciamiento objetado, estableció en su basamento Undécimo que el convenio y acuerdo que la ejecutada señala como causa de la obligación contenida en la factura, tiene su origen en un proceso de compra que, según da cuenta el numeral 3° del Decreto Alcaldicio N° 1029 de 27 de marzo de 2020, fue publicado el 11 de febrero de 2020, proceso al que se presentó una oferta, la que correspondió al proponente Comercializadora J & M SpA, siendo aprobada esta oferta por el Consejo Municipal de Maipú el 5 de marzo de 2020.
+
+TERCERO: Que por sentencia de diecinueve de agosto de dos mil veintidós el tribunal de primera instancia rechazó las excepciones a la ejecución presentadas por la Municipalidad ejecutada. La del numeral séptimo del artículo 464 del estatuto procesal civil porque los argumentos expuestos resultan ajenos al instrumento cuyo cobro se persigue en autos; mientras que la nulidad del numerando 14 de la señalada disposición legal, fue denegada dado que no es posible atribuir la causa de la obligación contenida en la factura de autos, puesto que esta, fue emitida en una fecha anterior a la publicación del proceso. A la oposición relacionada con el pago, no le dio lugar, atendido que los documentos acompañados al efecto, no se pueden imputar a la factura electrónica N° 63247, sino más bien al proceso de compra realizado con posterioridad.
+
+Dichas decisiones, fueron confirmadas por la Corte de Apelaciones de Santiago, por pronunciamiento de ocho de abril de dos mil veinticinco.
+
+CUARTO: Que, desde luego, conviene precisar que de acuerdo a los artículos 1° y 4° de la Ley N° 19.983, la factura es un título causado, en que el derecho del cesionario del crédito no es uno nuevo, distinto del que tenía el cedente, sino que, el mismo derecho que emana del negocio jurídico que le dio origen de manera que al establecerse en el inciso final de la ley en comento que serán inoponibles a los cesionarios de una factura irrevocablemente aceptada, las excepciones personales que hubieren podido oponerse a los cedentes de la misma, las condiciones fácticas anotadas anteriormente están ligadas a la obligación misma, de manera que como lo que plantea el recurrente, las irregularidades cometidas por quien emitió las facturas no configura una excepción personal sino muy por el contrario, tales hechos configuran una excepción real, porque se vinculan con la obligación misma que se plasma en la factura.
+
+QUINTO: Que, respecto de la excepción de nulidad de la obligación opuesta, cabe recordar que el artículo 1° de la Ley N° 19.983 expresa que “en toda operación de compraventa, de prestación de servicios o en aquellas que la ley asimile a tales operaciones, en que el vendedor o prestador del servicio esté sujeto a la obligación de emitir factura, deberá emitir una copia, sin valor tributario, de la factura original, para los efectos de su transferencia a terceros o cobro ejecutivo, según lo dispuesto en esta ley”.
+
+De lo reseñado resulta evidente que en este caso, en ausencia del motivo que respalda el cobro de las facturas, sólo puede concluirse que las obligaciones contenidas en ellas carecen de causa, al haberse emitido sin que existiera una operación de compraventa o prestación de servicios, que haya justificado su emisión.
+
+SEXTO: Que, conforme al hecho asentado en el proceso, la obligación que consta en la factura que sirve de sustento a la presente acción ejecutiva, carece de causa, en razón de la comprobación que no existe un vínculo que ligue a la emisora de las facturas con la ejecutada pues la empresa que entregó las mercaderías solo actuó como intermediaria en el contexto del acuerdo existente entre Procard y la indicada Municipalidad, incurriéndose, en consecuencia, en un motivo de nulidad absoluta previsto en los artículos 1681 y 1682 del Código Civil.
+
+En efecto, de los documentos aparejados a la causa aparece que no existe un vínculo jurídico entre la sociedad emisora de la factura electrónica y el ayuntamiento ejecutado, el que se relaciona respecto a la confección de uniforme para la temporada primavera/verano del año 2020 para sus empleados, únicamente con la empresa Comercializadora J & M SpA y es esta la que celebra un contrato con Confecciones Cubillos SpA, sin que por esta razón se pueda considerar que la Municipalidad de Maipú es deudora de Confecciones Cubillos SpA.
+
+De esta manera, la obligación carece de causa, por lo que es nula y como consecuencia de ello, el título no puede tener mérito ejecutivo al no dar cuenta de una obligación que sea exigible.
+
+SÉPTIMO: Que, por otra parte, se debe tomar en consideración que a pesar que las facturas no fueron devueltas ni reclamadas de acuerdo al artículo 3 ya mencionado como tampoco se impugnaron por alguna de las hipótesis del artículo 5° letra d) del mencionado cuerpo legal en la etapa preparatoria de notificación judicial, ello no constituye un impedimento para que, en esta sede, esto es, en el juicio ejecutivo, la ejecutada opusiera las excepciones correspondientes, mediante las cuales cuestione el título.
+
+En efecto, como ha resuelto reiteradamente esta Corte, la Ley N° 19.983 otorga al deudor de una factura distintas alternativas para oponerse o reclamar de ella y ninguna de éstas, cierra el paso a las demás, aun cuando habrá de ejercitarse llegado el momento oportuno, según el procedimiento que se haya incoado en su contra.
+
+OCTAVO: Que, como conclusión de lo razonado, surge prístino que la obligación al cobro de factura deducida en estos autos, en tanto -como se dijo- encuentra asidero en una hipótesis de nulidad conforme a los artículos 1681 y 1682 del Código Civil, por lo que debió -necesariamente- ser acogida por los sentenciadores del mérito.
+
+NOVENO: Que, en consecuencia, los jueces han incurrido en un error de derecho al rechazar la excepción del artículo 464 N° 14 del estatuto adjetivo civil, lo que debe ser enmendado privando de valor a la sentencia que lo contiene, la que tampoco puede ser mantenida si se tiene en cuenta todavía que de tal infracción ha seguido una decisión necesariamente diversa a la que habría debido arribar en caso contrario, con lo que se satisface el requisito de que el yerro tenga influencia decisiva en lo resuelto, de manera que corresponde acceder al arbitrio de nulidad sustantivo que ha sido planteado por la demandada de autos.
+
+Por estas consideraciones y visto además lo dispuesto en los artículos 764, 765, 767 y 785 del Código de Procedimiento Civil, se acoge, sin costas, el recurso de casación en el fondo deducido por el abogado Felipe Ortega San Martín, en representación de la ejecutada, en contra de la sentencia dictada por la Corte de Apelaciones de Santiago, de ocho de abril de dos mil veinticinco, la que se invalida y se reemplaza por la que se dicta separadamente y a continuación, sin nueva vista.
+
+Acordado con el voto en contra del Ministro (S) señor Zepeda, quien estuvo por rechazar el recurso deducido, por las siguientes consideraciones:
+1°) Que del tenor del arbitrio de nulidad queda en evidencia que, pese al esfuerzo argumentativo de la parte impugnante, su recurso no ha sido encaminado como debió serlo, abarcando los fundamentos jurídicos que en propiedad e ineludiblemente resultaban ser pertinentes y de rigor. Esto es así, pues la preceptiva legal aludida en el arbitrio de nulidad en estudio y que constituye aquella en que se asila la estructura normativa sobre la cual viene construido el alegato de casación de fondo, no es la idónea para abordar el examen de la resolución de la controversia de la forma en que se hizo por los juzgadores y conforme a la acción interpuesta, al no venir denunciada la conculcación de las normas decisorias litis fundamentales, en particular, los artículos 4°, 5° y 9° de la Ley N° 19.983, los que son imprescindibles para acoger la acción que reclama.
+
+2°) Que, en esas condiciones, al no venir censurado en el libelo de casación el quebrantamiento de la preceptiva sustantiva básica en comento, su vigor se ve radicalmente menguado.
+
+En este punto de la reflexión vale poner de relieve que el objetivo directo del recurso de casación en el fondo, y que le da su singularidad, consiste en permitir la invalidación de determinadas sentencias que hayan sido pronunciadas con infracción de ley, siempre que esta haya tenido influencia sustancial en su parte resolutiva o decisoria.
+
+La característica esencial de este medio de impugnación se encuentra claramente establecida en el artículo 767 del Código de Procedimiento Civil, que lo instituye dentro de nuestro ordenamiento positivo y se traduce en que no cualquier transgresión de ley resulta idónea para provocar la nulidad de la sentencia impugnada, la que no se configura en el mero interés de la ley, sino sólo aquella que haya tenido incidencia determinante en lo resuelto, esto es, la que recaiga sobre alguna ley que en el caso concreto ostente la condición de ser decisoria litis.
+
+En tal sentido, esta Corte ha dicho que para que pueda prosperar un recurso de casación en el fondo las normas infringidas en el fallo impugnado han de ser tanto las que el fallador invocó en su sentencia para resolver la cuestión controvertida, como aquellas que dejó de aplicar y que tienen el carácter de normas decisoria litis, puesto que en caso contrario esta Corte no podría dictar sentencia de reemplazo, dado el hecho que se trata de un recurso de derecho estricto (Revista de Derecho y Jurisprudencia, Tomo LXXXIX, secc. 1ª, página 188).
+
+3°) Que, de los razonamientos anteriores, se desprende, en su concepto, que el recurso de casación en el fondo analizado adolece de graves imperfecciones, lo que determina su defectuosa formulación y que, por ende, conduce a su rechazo.
+
+Regístrese.
+
+Redacción a cargo de la Ministra señora María Angélica Repetto García y el voto en contra, su autor.
+
+Rol N° 15.364-2025.
+Pronunciado por la Primera Sala de la Corte Suprema integrada por los Ministros señora María Angélica Repetto G., señor Mario Carroza E., señora María Soledad Melo L., señor Jorge Zepeda A. (S) y el Abogado integrante señor Álvaro Vidal O.
+
+No obstante, haber concurrido a la vista de la causa y al acuerdo, no firma la Ministra señora Repetto, por estar con feriado legal y el Abogado integrante señor Vidal, por ausencia.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Corte Suprema ▼
+Santiago, cinco de marzo de dos mil veintiséis.
+
+VISTO:
+En estos autos sobre juicio ejecutivo, tramitado ante el Décimo Quinto Juzgado Civil de Santiago, bajo el rol N° C-11.313-2020, caratulado “Tanner Servicios Financieros S.A. con Ilustre Municipalidad de Maipú”, por sentencia de diecinueve de agosto de dos mil veintidós, rectificada por la de tres de noviembre del mismo año, el tribunal de primer grado rechazó las excepciones opuestas por la ejecutada y, en consecuencia, dispuso seguir adelante la ejecución, con costas.
+
+Apelado dicho fallo por la ejecutada, una sala de la Corte de Apelaciones de Santiago, por decisión de ocho de abril de dos mil veinticinco, confirmó la de primer grado.
+
+Contra este último pronunciamiento, la misma parte dedujo recurso de casación en el fondo.
+
+Declarado admisible el mencionado arbitrio, se trajeron los autos en relación.
+
+CONSIDERANDO:
+PRIMERO: Que, el recurso de casación en el fondo entablado en representación de la ejecutada denuncia la transgresión de diversas normas jurídicas. En un primer capítulo estima que se han conculcados los artículos 1° y 3° inciso tercero de la Ley N° 19.983, ya que la sentencia recurrida desconoce la definición legal de la factura que recoge el carácter causado o concreto de ese instrumento mercantil, dado que se expresa en su texto la relación jurídica, operación o contrato que le ha dado origen, de manera que si el título de valor no posee un negocio causal, la obligación es inexistente o invalida absolutamente.
+
+Por lo anterior, se incurre en error de derecho por el tribunal de primera instancia al rechazar de plano la excepción del artículo 464 N° 7 del estatuto procesal civil, en condiciones que justamente lo alegado tiene relación con la inexistencia del acto jurídico causal que supuestamente habría dado origen a la demanda.
+
+Expone que se transgrede el artículo 3° inciso tercero de la Ley N° 19.983, dado que la alegación de falta de negocio causal e inexistencia de la obligación, son excepciones de carácter real, por lo que el tribunal de primer grado debió pronunciarse sobre ella.
+
+Agrega que de los contratos acompañados en autos queda en evidencia que la emisión de la factura electrónica discutida en autos, en ningún caso pudo haber sido emitida por Confecciones Cubillos SpA a la ejecutada atendido que le estaba prohibido, toda vez que la prestación de servicios derivó del contrato celebrado entre Procard y la Ilustre Municipalidad de Maipú.
+
+En un segundo acápite de invalidación sustancial, el recurrente sostiene que se desconocen los artículos 1445, 1467, 1681, 1682 y 1698 del Código Civil, dado que al momento de oponerse la excepción de nulidad de la obligación, se alegó que la factura emitida el 7 de noviembre de 2019, carecía de causa y de voluntad para que la Municipalidad de Maipú, se obligara a su pago, por cuanto no existe ningún negocio causal que diera origen a ella, haciéndose presente al efecto circunstancias relativas a la suscripción de un contrato de compraventa y contratación de servicios por parte de la ejecutada y la Comercializadora J & M SpA (Procard) quien a su vez había celebrado un convenio paralelo y posterior con Confecciones Cubillos SpA, lo que no fue ponderado por los sentenciadores. Estima que al rechazarse la excepción de nulidad se dota de validez a un título de valor que no había nacido de una relación jurídica que obligara a la Municipalidad de Maipú a su posterior pago, con lo que se han violentados las normas relativas a la nulidad de los artículos 1681 inciso primero y 1682 del estatuto civil. Atendido que el ejecutante no tenía ningún tipo de obligación respecto a la ejecutada, en virtud a que jamás se obligó con ella, es que la sentencia recurrida, sin considerar que la obligación emanada de la factura era nula, dado que la que se intenta cobrar es inexistente y, por ende, absolutamente nula, por lo que, al desestimar la reseñada oposición, es un grave error de derecho. Por otra parte, advierte que se ha ignorado la norma reguladora de la prueba del artículo 1698 del estatuto civil, dado que impone la carga de probar la inexistencia del negocio causal que supuestamente habría dado origen a la factura y que, supuestamente ligaría a Confecciones Cubillos SpA con la Municipalidad de Maipú, imponiéndole probar en juicio un hecho negativo.
+
+En otro capítulo de nulidad, se denuncia la vulneración, por no aplicación, de los numerales cuarto, séptimo y noveno del artículo 464 del Código adjetivo civil, reiterando sus argumentos respecto de las dos primeras oposiciones, agregando que al rechazar la excepción de pago se desconoce que respecto del documento mercantil presentado se pagó el monto de lo acordado conforme al Acuerdo Complementario N° 74/2020 a la empresa J & M SPA, el que fue pagado el 10 de agosto de 2020, siendo esa empresa el responsable de pagar a Confecciones Cubillos por los uniformes entregados, sin que la ejecutada adeude alguna de dinero.
+
+Finalmente, el compareciente estima que se desconozcan los artículos 751 y 752 del estatuto adjetivo civil, dado que la decisión objetada ordena continuar la ejecución en virtud de lo dispuesto en normas jurídicas que dicen relación con una condena al Fisco de Chile, lo que no es aplicable a los hechos ventilados en el presente juicio.
+
+Insta que esta Corte invalide el fallo y en su reemplazo dicte uno que acoja las excepciones a la ejecución deducida por la ejecutante, disponiendo que se rechaza la ejecución entablada en su contra, con costas.
+
+SEGUNDO: Que, la sentencia de primer grado, ratificada en todas sus partes por el pronunciamiento objetado, estableció en su basamento Undécimo que el convenio y acuerdo que la ejecutada señala como causa de la obligación contenida en la factura, tiene su origen en un proceso de compra que, según da cuenta el numeral 3° del Decreto Alcaldicio N° 1029 de 27 de marzo de 2020, fue publicado el 11 de febrero de 2020, proceso al que se presentó una oferta, la que correspondió al proponente Comercializadora J & M SpA, siendo aprobada esta oferta por el Consejo Municipal de Maipú el 5 de marzo de 2020.
+
+TERCERO: Que por sentencia de diecinueve de agosto de dos mil veintidós el tribunal de primera instancia rechazó las excepciones a la ejecución presentadas por la Municipalidad ejecutada. La del numeral séptimo del artículo 464 del estatuto procesal civil porque los argumentos expuestos resultan ajenos al instrumento cuyo cobro se persigue en autos; mientras que la nulidad del numerando 14 de la señalada disposición legal, fue denegada dado que no es posible atribuir la causa de la obligación contenida en la factura de autos, puesto que esta, fue emitida en una fecha anterior a la publicación del proceso. A la oposición relacionada con el pago, no le dio lugar, atendido que los documentos acompañados al efecto, no se pueden imputar a la factura electrónica N° 63247, sino más bien al proceso de compra realizado con posterioridad.
+
+Dichas decisiones, fueron confirmadas por la Corte de Apelaciones de Santiago, por pronunciamiento de ocho de abril de dos mil veinticinco.
+
+CUARTO: Que, desde luego, conviene precisar que de acuerdo a los artículos 1° y 4° de la Ley N° 19.983, la factura es un título causado, en que el derecho del cesionario del crédito no es uno nuevo, distinto del que tenía el cedente, sino que, el mismo derecho que emana del negocio jurídico que le dio origen de manera que al establecerse en el inciso final de la ley en comento que serán inoponibles a los cesionarios de una factura irrevocablemente aceptada, las excepciones personales que hubieren podido oponerse a los cedentes de la misma, las condiciones fácticas anotadas anteriormente están ligadas a la obligación misma, de manera que como lo que plantea el recurrente, las irregularidades cometidas por quien emitió las facturas no configura una excepción personal sino muy por el contrario, tales hechos configuran una excepción real, porque se vinculan con la obligación misma que se plasma en la factura.
+
+QUINTO: Que, respecto de la excepción de nulidad de la obligación opuesta, cabe recordar que el artículo 1° de la Ley N° 19.983 expresa que “en toda operación de compraventa, de prestación de servicios o en aquellas que la ley asimile a tales operaciones, en que el vendedor o prestador del servicio esté sujeto a la obligación de emitir factura, deberá emitir una copia, sin valor tributario, de la factura original, para los efectos de su transferencia a terceros o cobro ejecutivo, según lo dispuesto en esta ley”.
+
+De lo reseñado resulta evidente que en este caso, en ausencia del motivo que respalda el cobro de las facturas, sólo puede concluirse que las obligaciones contenidas en ellas carecen de causa, al haberse emitido sin que existiera una operación de compraventa o prestación de servicios, que haya justificado su emisión.
+
+SEXTO: Que, conforme al hecho asentado en el proceso, la obligación que consta en la factura que sirve de sustento a la presente acción ejecutiva, carece de causa, en razón de la comprobación que no existe un vínculo que ligue a la emisora de las facturas con la ejecutada pues la empresa que entregó las mercaderías solo actuó como intermediaria en el contexto del acuerdo existente entre Procard y la indicada Municipalidad, incurriéndose, en consecuencia, en un motivo de nulidad absoluta previsto en los artículos 1681 y 1682 del Código Civil.
+
+En efecto, de los documentos aparejados a la causa aparece que no existe un vínculo jurídico entre la sociedad emisora de la factura electrónica y el ayuntamiento ejecutado, el que se relaciona respecto a la confección de uniforme para la temporada primavera/verano del año 2020 para sus empleados, únicamente con la empresa Comercializadora J & M SpA y es esta la que celebra un contrato con Confecciones Cubillos SpA, sin que por esta razón se pueda considerar que la Municipalidad de Maipú es deudora de Confecciones Cubillos SpA.
+
+De esta manera, la obligación carece de causa, por lo que es nula y como consecuencia de ello, el título no puede tener mérito ejecutivo al no dar cuenta de una obligación que sea exigible.
+
+SÉPTIMO: Que, por otra parte, se debe tomar en consideración que a pesar que las facturas no fueron devueltas ni reclamadas de acuerdo al artículo 3 ya mencionado como tampoco se impugnaron por alguna de las hipótesis del artículo 5° letra d) del mencionado cuerpo legal en la etapa preparatoria de notificación judicial, ello no constituye un impedimento para que, en esta sede, esto es, en el juicio ejecutivo, la ejecutada opusiera las excepciones correspondientes, mediante las cuales cuestione el título.
+
+En efecto, como ha resuelto reiteradamente esta Corte, la Ley N° 19.983 otorga al deudor de una factura distintas alternativas para oponerse o reclamar de ella y ninguna de éstas, cierra el paso a las demás, aun cuando habrá de ejercitarse llegado el momento oportuno, según el procedimiento que se haya incoado en su contra.
+
+OCTAVO: Que, como conclusión de lo razonado, surge prístino que la obligación al cobro de factura deducida en estos autos, en tanto -como se dijo- encuentra asidero en una hipótesis de nulidad conforme a los artículos 1681 y 1682 del Código Civil, por lo que debió -necesariamente- ser acogida por los sentenciadores del mérito.
+
+NOVENO: Que, en consecuencia, los jueces han incurrido en un error de derecho al rechazar la excepción del artículo 464 N° 14 del estatuto adjetivo civil, lo que debe ser enmendado privando de valor a la sentencia que lo contiene, la que tampoco puede ser mantenida si se tiene en cuenta todavía que de tal infracción ha seguido una decisión necesariamente diversa a la que habría debido arribar en caso contrario, con lo que se satisface el requisito de que el yerro tenga influencia decisiva en lo resuelto, de manera que corresponde acceder al arbitrio de nulidad sustantivo que ha sido planteado por la demandada de autos.
+
+Por estas consideraciones y visto además lo dispuesto en los artículos 764, 765, 767 y 785 del Código de Procedimiento Civil, se acoge, sin costas, el recurso de casación en el fondo deducido por el abogado Felipe Ortega San Martín, en representación de la ejecutada, en contra de la sentencia dictada por la Corte de Apelaciones de Santiago, de ocho de abril de dos mil veinticinco, la que se invalida y se reemplaza por la que se dicta separadamente y a continuación, sin nueva vista.
+
+Acordado con el voto en contra del Ministro (S) señor Zepeda, quien estuvo por rechazar el recurso deducido, por las siguientes consideraciones:
+1°) Que del tenor del arbitrio de nulidad queda en evidencia que, pese al esfuerzo argumentativo de la parte impugnante, su recurso no ha sido encaminado como debió serlo, abarcando los fundamentos jurídicos que en propiedad e ineludiblemente resultaban ser pertinentes y de rigor. Esto es así, pues la preceptiva legal aludida en el arbitrio de nulidad en estudio y que constituye aquella en que se asila la estructura normativa sobre la cual viene construido el alegato de casación de fondo, no es la idónea para abordar el examen de la resolución de la controversia de la forma en que se hizo por los juzgadores y conforme a la acción interpuesta, al no venir denunciada la conculcación de las normas decisorias litis fundamentales, en particular, los artículos 4°, 5° y 9° de la Ley N° 19.983, los que son imprescindibles para acoger la acción que reclama.
+
+2°) Que, en esas condiciones, al no venir censurado en el libelo de casación el quebrantamiento de la preceptiva sustantiva básica en comento, su vigor se ve radicalmente menguado.
+
+En este punto de la reflexión vale poner de relieve que el objetivo directo del recurso de casación en el fondo, y que le da su singularidad, consiste en permitir la invalidación de determinadas sentencias que hayan sido pronunciadas con infracción de ley, siempre que esta haya tenido influencia sustancial en su parte resolutiva o decisoria.
+
+La característica esencial de este medio de impugnación se encuentra claramente establecida en el artículo 767 del Código de Procedimiento Civil, que lo instituye dentro de nuestro ordenamiento positivo y se traduce en que no cualquier transgresión de ley resulta idónea para provocar la nulidad de la sentencia impugnada, la que no se configura en el mero interés de la ley, sino sólo aquella que haya tenido incidencia determinante en lo resuelto, esto es, la que recaiga sobre alguna ley que en el caso concreto ostente la condición de ser decisoria litis.
+
+En tal sentido, esta Corte ha dicho que para que pueda prosperar un recurso de casación en el fondo las normas infringidas en el fallo impugnado han de ser tanto las que el fallador invocó en su sentencia para resolver la cuestión controvertida, como aquellas que dejó de aplicar y que tienen el carácter de normas decisoria litis, puesto que en caso contrario esta Corte no podría dictar sentencia de reemplazo, dado el hecho que se trata de un recurso de derecho estricto (Revista de Derecho y Jurisprudencia, Tomo LXXXIX, secc. 1ª, página 188).
+
+3°) Que, de los razonamientos anteriores, se desprende, en su concepto, que el recurso de casación en el fondo analizado adolece de graves imperfecciones, lo que determina su defectuosa formulación y que, por ende, conduce a su rechazo.
+
+Regístrese.
+
+Redacción a cargo de la Ministra señora María Angélica Repetto García y el voto en contra, su autor.
+
+Rol N° 15.364-2025.
+Pronunciado por la Primera Sala de la Corte Suprema integrada por los Ministros señora María Angélica Repetto G., señor Mario Carroza E., señora María Soledad Melo L., señor Jorge Zepeda A. (S) y el Abogado integrante señor Álvaro Vidal O.
+
+No obstante, haber concurrido a la vista de la causa y al acuerdo, no firma la Ministra señora Repetto, por estar con feriado legal y el Abogado integrante señor Vidal, por ausencia.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Corte Suprema ▼
+Santiago, cinco de marzo de dos mil veintiséis.
+
+VISTO:
+En estos autos sobre juicio ejecutivo, tramitado ante el Décimo Quinto Juzgado Civil de Santiago, bajo el rol N° C-11.313-2020, caratulado “Tanner Servicios Financieros S.A. con Ilustre Municipalidad de Maipú”, por sentencia de diecinueve de agosto de dos mil veintidós, rectificada por la de tres de noviembre del mismo año, el tribunal de primer grado rechazó las excepciones opuestas por la ejecutada y, en consecuencia, dispuso seguir adelante la ejecución, con costas.
+
+Apelado dicho fallo por la ejecutada, una sala de la Corte de Apelaciones de Santiago, por decisión de ocho de abril de dos mil veinticinco, confirmó la de primer grado.
+
+Contra este último pronunciamiento, la misma parte dedujo recurso de casación en el fondo.
+
+Declarado admisible el mencionado arbitrio, se trajeron los autos en relación.
+
+CONSIDERANDO:
+PRIMERO: Que, el recurso de casación en el fondo entablado en representación de la ejecutada denuncia la transgresión de diversas normas jurídicas. En un primer capítulo estima que se han conculcados los artículos 1° y 3° inciso tercero de la Ley N° 19.983, ya que la sentencia recurrida desconoce la definición legal de la factura que recoge el carácter causado o concreto de ese instrumento mercantil, dado que se expresa en su texto la relación jurídica, operación o contrato que le ha dado origen, de manera que si el título de valor no posee un negocio causal, la obligación es inexistente o invalida absolutamente.
+
+Por lo anterior, se incurre en error de derecho por el tribunal de primera instancia al rechazar de plano la excepción del artículo 464 N° 7 del estatuto procesal civil, en condiciones que justamente lo alegado tiene relación con la inexistencia del acto jurídico causal que supuestamente habría dado origen a la demanda.
+
+Expone que se transgrede el artículo 3° inciso tercero de la Ley N° 19.983, dado que la alegación de falta de negocio causal e inexistencia de la obligación, son excepciones de carácter real, por lo que el tribunal de primer grado debió pronunciarse sobre ella.
+
+Agrega que de los contratos acompañados en autos queda en evidencia que la emisión de la factura electrónica discutida en autos, en ningún caso pudo haber sido emitida por Confecciones Cubillos SpA a la ejecutada atendido que le estaba prohibido, toda vez que la prestación de servicios derivó del contrato celebrado entre Procard y la Ilustre Municipalidad de Maipú.
+
+En un segundo acápite de invalidación sustancial, el recurrente sostiene que se desconocen los artículos 1445, 1467, 1681, 1682 y 1698 del Código Civil, dado que al momento de oponerse la excepción de nulidad de la obligación, se alegó que la factura emitida el 7 de noviembre de 2019, carecía de causa y de voluntad para que la Municipalidad de Maipú, se obligara a su pago, por cuanto no existe ningún negocio causal que diera origen a ella, haciéndose presente al efecto circunstancias relativas a la suscripción de un contrato de compraventa y contratación de servicios por parte de la ejecutada y la Comercializadora J & M SpA (Procard) quien a su vez había celebrado un convenio paralelo y posterior con Confecciones Cubillos SpA, lo que no fue ponderado por los sentenciadores. Estima que al rechazarse la excepción de nulidad se dota de validez a un título de valor que no había nacido de una relación jurídica que obligara a la Municipalidad de Maipú a su posterior pago, con lo que se han violentados las normas relativas a la nulidad de los artículos 1681 inciso primero y 1682 del estatuto civil. Atendido que el ejecutante no tenía ningún tipo de obligación respecto a la ejecutada, en virtud a que jamás se obligó con ella, es que la sentencia recurrida, sin considerar que la obligación emanada de la factura era nula, dado que la que se intenta cobrar es inexistente y, por ende, absolutamente nula, por lo que, al desestimar la reseñada oposición, es un grave error de derecho. Por otra parte, advierte que se ha ignorado la norma reguladora de la prueba del artículo 1698 del estatuto civil, dado que impone la carga de probar la inexistencia del negocio causal que supuestamente habría dado origen a la factura y que, supuestamente ligaría a Confecciones Cubillos SpA con la Municipalidad de Maipú, imponiéndole probar en juicio un hecho negativo.
+
+En otro capítulo de nulidad, se denuncia la vulneración, por no aplicación, de los numerales cuarto, séptimo y noveno del artículo 464 del Código adjetivo civil, reiterando sus argumentos respecto de las dos primeras oposiciones, agregando que al rechazar la excepción de pago se desconoce que respecto del documento mercantil presentado se pagó el monto de lo acordado conforme al Acuerdo Complementario N° 74/2020 a la empresa J & M SPA, el que fue pagado el 10 de agosto de 2020, siendo esa empresa el responsable de pagar a Confecciones Cubillos por los uniformes entregados, sin que la ejecutada adeude alguna de dinero.
+
+Finalmente, el compareciente estima que se desconozcan los artículos 751 y 752 del estatuto adjetivo civil, dado que la decisión objetada ordena continuar la ejecución en virtud de lo dispuesto en normas jurídicas que dicen relación con una condena al Fisco de Chile, lo que no es aplicable a los hechos ventilados en el presente juicio.
+
+Insta que esta Corte invalide el fallo y en su reemplazo dicte uno que acoja las excepciones a la ejecución deducida por la ejecutante, disponiendo que se rechaza la ejecución entablada en su contra, con costas.
+
+SEGUNDO: Que, la sentencia de primer grado, ratificada en todas sus partes por el pronunciamiento objetado, estableció en su basamento Undécimo que el convenio y acuerdo que la ejecutada señala como causa de la obligación contenida en la factura, tiene su origen en un proceso de compra que, según da cuenta el numeral 3° del Decreto Alcaldicio N° 1029 de 27 de marzo de 2020, fue publicado el 11 de febrero de 2020, proceso al que se presentó una oferta, la que correspondió al proponente Comercializadora J & M SpA, siendo aprobada esta oferta por el Consejo Municipal de Maipú el 5 de marzo de 2020.
+
+TERCERO: Que por sentencia de diecinueve de agosto de dos mil veintidós el tribunal de primera instancia rechazó las excepciones a la ejecución presentadas por la Municipalidad ejecutada. La del numeral séptimo del artículo 464 del estatuto procesal civil porque los argumentos expuestos resultan ajenos al instrumento cuyo cobro se persigue en autos; mientras que la nulidad del numerando 14 de la señalada disposición legal, fue denegada dado que no es posible atribuir la causa de la obligación contenida en la factura de autos, puesto que esta, fue emitida en una fecha anterior a la publicación del proceso. A la oposición relacionada con el pago, no le dio lugar, atendido que los documentos acompañados al efecto, no se pueden imputar a la factura electrónica N° 63247, sino más bien al proceso de compra realizado con posterioridad.
+
+Dichas decisiones, fueron confirmadas por la Corte de Apelaciones de Santiago, por pronunciamiento de ocho de abril de dos mil veinticinco.
+
+CUARTO: Que, desde luego, conviene precisar que de acuerdo a los artículos 1° y 4° de la Ley N° 19.983, la factura es un título causado, en que el derecho del cesionario del crédito no es uno nuevo, distinto del que tenía el cedente, sino que, el mismo derecho que emana del negocio jurídico que le dio origen de manera que al establecerse en el inciso final de la ley en comento que serán inoponibles a los cesionarios de una factura irrevocablemente aceptada, las excepciones personales que hubieren podido oponerse a los cedentes de la misma, las condiciones fácticas anotadas anteriormente están ligadas a la obligación misma, de manera que como lo que plantea el recurrente, las irregularidades cometidas por quien emitió las facturas no configura una excepción personal sino muy por el contrario, tales hechos configuran una excepción real, porque se vinculan con la obligación misma que se plasma en la factura.
+
+QUINTO: Que, respecto de la excepción de nulidad de la obligación opuesta, cabe recordar que el artículo 1° de la Ley N° 19.983 expresa que “en toda operación de compraventa, de prestación de servicios o en aquellas que la ley asimile a tales operaciones, en que el vendedor o prestador del servicio esté sujeto a la obligación de emitir factura, deberá emitir una copia, sin valor tributario, de la factura original, para los efectos de su transferencia a terceros o cobro ejecutivo, según lo dispuesto en esta ley”.
+
+De lo reseñado resulta evidente que en este caso, en ausencia del motivo que respalda el cobro de las facturas, sólo puede concluirse que las obligaciones contenidas en ellas carecen de causa, al haberse emitido sin que existiera una operación de compraventa o prestación de servicios, que haya justificado su emisión.
+
+SEXTO: Que, conforme al hecho asentado en el proceso, la obligación que consta en la factura que sirve de sustento a la presente acción ejecutiva, carece de causa, en razón de la comprobación que no existe un vínculo que ligue a la emisora de las facturas con la ejecutada pues la empresa que entregó las mercaderías solo actuó como intermediaria en el contexto del acuerdo existente entre Procard y la indicada Municipalidad, incurriéndose, en consecuencia, en un motivo de nulidad absoluta previsto en los artículos 1681 y 1682 del Código Civil.
+
+En efecto, de los documentos aparejados a la causa aparece que no existe un vínculo jurídico entre la sociedad emisora de la factura electrónica y el ayuntamiento ejecutado, el que se relaciona respecto a la confección de uniforme para la temporada primavera/verano del año 2020 para sus empleados, únicamente con la empresa Comercializadora J & M SpA y es esta la que celebra un contrato con Confecciones Cubillos SpA, sin que por esta razón se pueda considerar que la Municipalidad de Maipú es deudora de Confecciones Cubillos SpA.
+
+De esta manera, la obligación carece de causa, por lo que es nula y como consecuencia de ello, el título no puede tener mérito ejecutivo al no dar cuenta de una obligación que sea exigible.
+
+SÉPTIMO: Que, por otra parte, se debe tomar en consideración que a pesar que las facturas no fueron devueltas ni reclamadas de acuerdo al artículo 3 ya mencionado como tampoco se impugnaron por alguna de las hipótesis del artículo 5° letra d) del mencionado cuerpo legal en la etapa preparatoria de notificación judicial, ello no constituye un impedimento para que, en esta sede, esto es, en el juicio ejecutivo, la ejecutada opusiera las excepciones correspondientes, mediante las cuales cuestione el título.
+
+En efecto, como ha resuelto reiteradamente esta Corte, la Ley N° 19.983 otorga al deudor de una factura distintas alternativas para oponerse o reclamar de ella y ninguna de éstas, cierra el paso a las demás, aun cuando habrá de ejercitarse llegado el momento oportuno, según el procedimiento que se haya incoado en su contra.
+
+OCTAVO: Que, como conclusión de lo razonado, surge prístino que la obligación al cobro de factura deducida en estos autos, en tanto -como se dijo- encuentra asidero en una hipótesis de nulidad conforme a los artículos 1681 y 1682 del Código Civil, por lo que debió -necesariamente- ser acogida por los sentenciadores del mérito.
+
+NOVENO: Que, en consecuencia, los jueces han incurrido en un error de derecho al rechazar la excepción del artículo 464 N° 14 del estatuto adjetivo civil, lo que debe ser enmendado privando de valor a la sentencia que lo contiene, la que tampoco puede ser mantenida si se tiene en cuenta todavía que de tal infracción ha seguido una decisión necesariamente diversa a la que habría debido arribar en caso contrario, con lo que se satisface el requisito de que el yerro tenga influencia decisiva en lo resuelto, de manera que corresponde acceder al arbitrio de nulidad sustantivo que ha sido planteado por la demandada de autos.
+
+Por estas consideraciones y visto además lo dispuesto en los artículos 764, 765, 767 y 785 del Código de Procedimiento Civil, se acoge, sin costas, el recurso de casación en el fondo deducido por el abogado Felipe Ortega San Martín, en representación de la ejecutada, en contra de la sentencia dictada por la Corte de Apelaciones de Santiago, de ocho de abril de dos mil veinticinco, la que se invalida y se reemplaza por la que se dicta separadamente y a continuación, sin nueva vista.
+
+Acordado con el voto en contra del Ministro (S) señor Zepeda, quien estuvo por rechazar el recurso deducido, por las siguientes consideraciones:
+1°) Que del tenor del arbitrio de nulidad queda en evidencia que, pese al esfuerzo argumentativo de la parte impugnante, su recurso no ha sido encaminado como debió serlo, abarcando los fundamentos jurídicos que en propiedad e ineludiblemente resultaban ser pertinentes y de rigor. Esto es así, pues la preceptiva legal aludida en el arbitrio de nulidad en estudio y que constituye aquella en que se asila la estructura normativa sobre la cual viene construido el alegato de casación de fondo, no es la idónea para abordar el examen de la resolución de la controversia de la forma en que se hizo por los juzgadores y conforme a la acción interpuesta, al no venir denunciada la conculcación de las normas decisorias litis fundamentales, en particular, los artículos 4°, 5° y 9° de la Ley N° 19.983, los que son imprescindibles para acoger la acción que reclama.
+
+2°) Que, en esas condiciones, al no venir censurado en el libelo de casación el quebrantamiento de la preceptiva sustantiva básica en comento, su vigor se ve radicalmente menguado.
+
+En este punto de la reflexión vale poner de relieve que el objetivo directo del recurso de casación en el fondo, y que le da su singularidad, consiste en permitir la invalidación de determinadas sentencias que hayan sido pronunciadas con infracción de ley, siempre que esta haya tenido influencia sustancial en su parte resolutiva o decisoria.
+
+La característica esencial de este medio de impugnación se encuentra claramente establecida en el artículo 767 del Código de Procedimiento Civil, que lo instituye dentro de nuestro ordenamiento positivo y se traduce en que no cualquier transgresión de ley resulta idónea para provocar la nulidad de la sentencia impugnada, la que no se configura en el mero interés de la ley, sino sólo aquella que haya tenido incidencia determinante en lo resuelto, esto es, la que recaiga sobre alguna ley que en el caso concreto ostente la condición de ser decisoria litis.
+
+En tal sentido, esta Corte ha dicho que para que pueda prosperar un recurso de casación en el fondo las normas infringidas en el fallo impugnado han de ser tanto las que el fallador invocó en su sentencia para resolver la cuestión controvertida, como aquellas que dejó de aplicar y que tienen el carácter de normas decisoria litis, puesto que en caso contrario esta Corte no podría dictar sentencia de reemplazo, dado el hecho que se trata de un recurso de derecho estricto (Revista de Derecho y Jurisprudencia, Tomo LXXXIX, secc. 1ª, página 188).
+
+3°) Que, de los razonamientos anteriores, se desprende, en su concepto, que el recurso de casación en el fondo analizado adolece de graves imperfecciones, lo que determina su defectuosa formulación y que, por ende, conduce a su rechazo.
+
+Regístrese.
+
+Redacción a cargo de la Ministra señora María Angélica Repetto García y el voto en contra, su autor.
+
+Rol N° 15.364-2025.
+Pronunciado por la Primera Sala de la Corte Suprema integrada por los Ministros señora María Angélica Repetto G., señor Mario Carroza E., señora María Soledad Melo L., señor Jorge Zepeda A. (S) y el Abogado integrante señor Álvaro Vidal O.
+
+No obstante, haber concurrido a la vista de la causa y al acuerdo, no firma la Ministra señora Repetto, por estar con feriado legal y el Abogado integrante señor Vidal, por ausencia.

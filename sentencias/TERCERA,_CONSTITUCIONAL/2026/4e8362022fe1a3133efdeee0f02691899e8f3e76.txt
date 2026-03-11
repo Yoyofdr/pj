@@ -1,0 +1,113 @@
+METADATA
+
+case_id: 4e8362022fe1a3133efdeee0f02691899e8f3e76
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8051220
+
+rol: 6707-2026
+
+fecha_sentencia: 2026-03-05
+
+caratulado: VELEZ/SERVICIO NACIONAL DE MIGRACIONES DE CHILE
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: ▪ Reclamo de expulsión de extranjeros
+
+recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, cinco de marzo de dos mil veintiséis.
+VISTO Y TENIENDO PRESENTE:
+PRIMERO: Que en este procedimiento ejecutivo, seguido ante el Vigésimo segundo Juzgado de Letras de Santiago, bajo el rol C-21.146-2009, caratulado “Banco Estado con Ceballos”, se ha ordenado dar cuenta de la admisibilidad del recurso de casación en el fondo deducido por la parte ejecutante, en contra de la sentencia de la Corte de Apelaciones de Santiago de seis de enero del año dos mil veintiséis, que confirmó la de primer grado, que acogió el incidente de abandono del procedimiento promovido por la parte ejecutada.
+
+SEGUNDO: Que el recurso lo sustenta en la infracción a los artículos 152 y 153 del Código de Procedimiento Civil. Expresa que el Tribunal incurre en infracción a las normas citadas al no considerar como gestiones útiles las solicitudes de desarchivo de 2018 – 2019 pese a que estas permiten continuar la tramitación y, que realizó diligencias útiles posteriores al 18 de diciembre de 2019.
+
+Solicita que se invalide la sentencia recurrida y, acto continuo y sin nueva vista, pero separadamente, se proceda a dictar sentencia de reemplazo revocando y rechazando el incidente de abandono de procedimiento deducido por la parte demandada, con costas.
+TERCERO: Que del análisis de los argumentos de las partes y, en especial, de aquellos invocados por los jueces del fondo, se concluye que los sentenciadores han hecho un acertado análisis de las situaciones fácticas pertinentes a la controversia objeto del incidente, para proceder, a continuación, a efectuar una correcta aplicación de la normativa atingente al caso de que se trata, toda vez que la reiterada jurisprudencia de esta Corte ha sostenido que el abandono del procedimiento es una institución de carácter procesal que constituye una sanción para el litigante que, por su negligencia, inercia o inactividad, detiene el curso del pleito, impidiendo con su paralización que este tenga la pronta y eficaz resolución que le corresponde.
+
+En el contexto de estos autos, la situación de derecho está circunscrita a lo que dispone el legislador en atención al tipo de procedimiento en el artículo 153 inciso 2 del Código de Procedimiento Civil, en orden a que: “En los procedimientos ejecutivos el ejecutado podrá, además, solicitar el abandono del procedimiento, después de ejecutoriada la sentencia definitiva o en el caso del artículo 472. En estos casos, el plazo para declarar el abandono del procedimiento será de tres años contados desde la fecha de la última gestión útil, hecha en el procedimiento de apremio, destinado a obtener el cumplimiento forzado de la obligación, luego de ejecutoriada la sentencia definitiva...En el evento que la última diligencia útil sea de fecha anterior, el plazo se contará desde la fecha en que quedó ejecutoriada la sentencia definitiva o venció el plazo para oponer excepciones…”.
+
+CUARTO: Que, consta que la última resolución recaída en gestión útil en el cuaderno de apremio fue la resolución que designó perito el 18 de agosto de 2016 y la solicitud de la ejecutante de dar curso progresivo resuelta por el A quo con fecha 18 de diciembre de 2019, esto es, habiendo transcurrido con creces el plazo de 3 años, en los períodos indicados, a la fecha de presentación del incidente el 22 de septiembre de 2023.
+
+QUINTO: Que, de acuerdo con lo razonado, se advierte la evidente falta de interés de la parte demandante con su deber de colaborar con el avance del proceso, de manera que, tal como resolvieron los jueces de fondo, el incidente de abandono procesal correspondía que fuera acogido, tal como sucedió, motivo por el cual el recurso en estudio no podrá prosperar por adolecer de manifiesta falta de fundamento.
+
+Por estas consideraciones y de conformidad, además, con lo dispuesto en el artículo 772, 778 y 782 del Código de Procedimiento Civil, se rechaza el recurso de casación en el fondo interpuesto por el abogado Luis Navarro Egaña, en representación de la parte ejecutante, en contra de sentencia de seis de enero de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago.
+
+Regístrese y devuélvase.
+
+Rol N° 5282-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Santiago
+Santiago, seis de enero de dos mil veintiséis.
+A los folios N° 27 y 28: a todo, téngase presente.
+
+Vistos:
+
+Atendido el mérito de los antecedentes, se confirma, en lo apelado, la sentencia interlocutoria de veintinueve de septiembre de dos mil veintitrés, dictada por el Vigésimo Segundo Juzgado Civil de Santiago, en causa Rol N° C-21146-2009.
+Comuníquese.
+N°Civil-18544-2023.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+NOMENCLATURA : (40) Sentencia
+JUZGADO : 22° Juzgado Civil de Santiago
+ROL : C-21146-2009
+CARATULADO : BANCO DEL ESTADO DE CHILE / CEBALLOS
+
+Santiago, veintiuno de noviembre de dos mil trece.
+VISTOS Y TENIENDO PRESENTE:
+Don MARCELO DAVICO RAMÍREZ, abogado, en representación judicial del BANCO DEL ESTADO DE CHILE, institución autónoma de créditos del Estado, representada legalmente por su gerente general don PABLO BERNARDINO PIÑERA ECHEÑIQUE, ingeniero comercial, todos domiciliados en Avenida Libertador Bernardo O’Higgins Nº 1111, comuna de Santiago, Región Metropolitana, acciona en procedimiento ejecutivo en contra de doña MARCIA ERIKA CEBALLOS RETAMAL, ignora profesión u oficio, domiciliada en Avenida San Carlos Nº 1304, Plaza Magna, Puente Alto y/o Santa Paula Nº 2273, Puente Alto y/o Avenida Concha y Toro Nº 2727, Puente Alto, a fin que en definitiva se ordene seguir adelante ejecución en su contra, para que pague la suma de 1.860,831158 UF y costas referencialmente equivalente al día 02 de marzo de 2009 a la suma de $39.192.305.- pagaderas según valor de la Unidad de Fomento a la fecha del pago, más intereses y costas de la causa.
+I. En cuanto a la demanda. Se funda en que por escritura pública de fecha 31 de agosto de 2006, otorgada ante el Notario Público de Santiago Juan Ricardo San Martín Urrejola, el Banco del Estado de Chile dio en préstamo a la ejecutada la cantidad de 1.836 UF por su equivalencia en pesos moneda legal a la fecha de la referida escritura de mutuo, declarando el deudor haber recibido el importe de dicho mutuo, declarando el deudor haber recibido el importe de dicho mutuo a su entera y total satisfacción y conformidad.
+Señala que el deudor se habría obligado a pagar la expresada cantidad en el plazo de 360 meses, contados desde el día primero del mes siguiente al de la fecha de la escritura, por medio de dividendos vencidos, mensuales y sucesivos, calculados en la forma establecida en el mutuo, comprendiéndose en ellos la amortización y los intereses. La tasa de interés real, anual y vencida que se devenga desde el día en que comenzó a regir esta obligación y hasta el mes sexagésimo, inclusive, contado desde el día primero del mes en que se devengó el primer dividendo, es del 4,8% anual.
+Agrega que se estipuló un interés penal igual al máximo que la ley permita para operaciones de crédito de dinero reajustables en caso de mora o simple retardo, además de pactarse la indivisibilidad de las obligaciones que emanan del contrato referido.
+Señala que para garantizar las obligaciones contenidas en la escritura de mutuo, el deudor constituyó primera y segunda hipoteca en favor del Banco del Estado de Chile sobre el inmueble ubicado en Avenida San Carlos Nº 1304, correspondiente al loteo Nº 8 de la manzana A del Conjunto Habitacional Plaza Magna, de la comuna de Puente Alto, inscrito a fs. 13721 vta., Nº 10423, del Registro de Propiedad del año 2006, del Conservador de Bienes Raíces de Puente Alto, inscribiéndose la hipoteca a fs. 13192, Nº 9489 del Registro de Hipotecas y Gravámenes del mismo año y Conservador.
+Expresa que el deudor no ha dado cumplimiento a las obligaciones emanadas de la referida escritura de mutuo, por cuanto no pagó los dividendos devengados a partir del día 10 de julio de 2008, adeudando la cantidad de 98,918978 Unidades de Fomento que corresponde a 9 dividendos impagos, haciéndose exigible el saldo insoluto de capital por la suma de 1.761,912180 Unidades de Fomento.
+De acuerdo a lo establecido en la escritura la deuda se considera de plazo vencido y puede exigir el Banco el inmediato pago de la suma a que esté reducida ésta si se retarda en el pago de cualquier dividendo más de 10 días.
+Finaliza indicando que en la especie se ha configurado la señalada causal y se ha hecho exigible el total adeudado, que asciende al 02 de marzo de 2009 a la cantidad de 1.860,831158 UF equivalentes a la misma fecha a la suma de $39.192.305, siendo la deuda líquida, actualmente exigible, no prescrita y constando en título ejecutivo, por lo que interpone la presente demanda.
+II. En cuanto a las excepciones del ejecutado. En lo principal de foja 68, el ejecutado, opone la excepción del artículo 464 N° 17, 6 y 7 del Código de Procedimiento Civil, con costas.
+A fojas 128 se tiene por evacuado el traslado del demandante.
+III. En cuanto a la recepción de la causa a prueba. En foja 135, se declararon admisibles las excepciones opuestas recibiéndose la causa a prueba.
+IV. En cuanto a la citación a oír sentencia. En foja 140, se citó a las partes a oír sentencia.
+C O N S I D E R A N D O:
+PRIMERO: Que don Marcelo Davico Ramírez, en representación judicial del BANCO DEL ESTADO DE CHILE, representada legalmente por su gerente general don Pablo Bernardino Piñera Echeñique, acciona en procedimiento ejecutivo en contra de doña MARCIA ERIKA CEBALLOS RETAMAL, todos ya individualizados, conforme a los fundamentos expuestos y peticiones formuladas, en la primera parte de esta sentencia, que se dan por reproducidos.
+SEGUNDO: Que, requerido judicialmente de pago, el ejecutado opuso a la ejecución las excepciones de los artículos 464 N° 17, 6 y 7 del Código de Procedimiento Civil, por los fundamentos que pasan a indicarse:
+a) La primera excepción es la del 464 N° 17, esto es la prescripción de la deuda o sólo de la acción ejecutiva, por cuanto señala que independiente de lo que haya expresado el pagaré, a partir del día 2 de marzo de 2009 la deuda perseguida por el Banco fue acelerada por este para convertirla en una obligación de plazo vencido, empezando a correr desde ese día la prescripción de la acción cambiaria.
+Sería del caso que la demanda ejecutiva debe entenderse notificada por el acto en que el ejecutado se notifica expresamente, como constaría en el cargo del timbre del tribunal, es decir, en el mismo escrito que opone excepciones, de fecha 09 de julio de 2013, vencido con creces el plazo de un año que la ley 18.092 confiere al acreedor para ejercer las acciones cambiarias de cobro, sin que se haya interrumpido la prescripción por parte del ejecutante.
+b) La segunda excepción es la del 464 Nº 6 del Código de Procedimiento Civil, esto, es, la falsedad del título, por cuanto el pagaré que debía ser suscrito ante Notario, de acuerdo a lo dispuesto en el artículo 425 y 401 del Código Orgánico de Tribunales, fue firmado en la práctica frente a un ejecutivo de cuentas, en dependencias del Banco, no concurriendo jamás a una Notaría, no encontrándose tampoco el Notario autorizante en el momento de la suscripción del pagaré.
+Por ello, el título sería falso en cuanto no pudo ser autorizado debidamente por un Notario, toda vez que este no cumplió con los requisitos establecidos por el mencionado artículo 425 del Código Orgánico de Tribunales, estando la certificación notarial hecha en contravención a la norma legal citada, lo que supone una intervención irregular de este funcionario público.
+c) La tercera excepción es la del 464 Nº 7 del Código de Procedimiento Civil, esto es, la falta de alguno de los requisitos o condiciones establecidos por las leyes para que dicho título tenga fuerza ejecutiva, ya que por no haberse firmado el título ante Notario Público- de acuerdo a los argumentos planteados en la excepción precedente y que se signa con la letra b) de este considerando segundo- carecería de asidero jurídico la demanda impetrada, por no encontrarnos frente a un título ejecutivo que cumpla con los requisitos del artículo 434 Nº 4 del Código de Procedimiento Civil, además de encontrarse el título prescrito de acuerdo a lo expresado en la primera excepción, signada con la letra a) de este segundo considerando.
+TERCERO: Que para acreditar los fundamentos de su pretensión, el actor acompañó, en lo que dice relación con esta litis, los siguientes instrumentos:
+1.- A fojas 1 y 19, copia simple de Certificado de Deuda emitido por BancoEstado con fecha 2 de marzo de 2009, a nombre de Marcia Erika Ceballos Retamal, sin timbre ni firma.
+2.- A fojas 2 y 20, copia autorizada de “Contrato de Compraventa y Mutuo Tasa Variable” de Marcia Erika Ceballos Retamal a Inmobiliaria Ebro S.A. y Banco del Estado de Chile, de fecha 31 de agosto de 2006, suscrito ante Notario Público Juan Ricardo San Martín Urrejola, de la Cuadragésima Tercera Notaría de Santiago, Repertorio Nº 19442/2006.
+CUARTO: Que para acreditar los fundamentos de su pretensión el ejecutado, en lo principal de la Litis, no acompañó ningún medio probatorio.
+QUINTO: Que en relación a la excepción de prescripción opuesta por el ejecutado, como consta en la letra a) del considerando segundo de esta sentencia, se puede tener por establecido, como consta a fojas 1 y 19, que con fecha 2 de marzo de 2009 la deuda perseguida por el Banco fue acelerada por este para convertirla en una obligación de plazo vencido, corriendo desde ese momento el plazo de prescripción señalado en el artículo 98 de la Ley Nº 18.092.
+Que es también un hecho que la interrupción de la prescripción derivada de la obligación contenida en el mutuo de fojas 2 y 20 se produjo con la notificación de esta demanda, lo que acontece el día 9 de julio de 2013, con el acto de la demandada de tenerse por notificada personalmente.
+No obstante lo anterior, se deberá tener presente lo planteado por la ejecutante, quien evacua traslado a fojas 128 allanándose parcialmente a la pretensión de la ejecutada, pero sólo respecto de los dividendos vencidos y efectivamente prescritos, que en la especie corresponden a los Nº 22 al 48, de fechas 1 de mayo de 2008 al 1º de julio de 2010.
+Respecto de esto, este tribunal habrá de razonar en el sentido de entender que ambas alegaciones plantean que existe una prescripción, pero no están de acuerdo en su cómputo, y por ello, corresponderá señalar que respecto a este tipo de obligaciones que se devengan sucesivamente, con vencimientos mensuales que se van ejerciendo a lo largo del tiempo, hasta el pago total de las cuotas pactadas, se debe entender que no existe un único plazo de prescripción, sino que tantos como vencimientos de sus respectivas cuotas existan. Por ello, si bien es cierto que se intentó cobrar las cuotas hasta el día 2 de marzo de 2009, nada puede hacer presumir a este tribunal que el contrato celebrado entre las partes haya quedado sin efecto, por lo que, aun vigente, las obligaciones siguen devengándose mes a mes hasta su total cumplimiento, no importando para estos efectos que se haya acelerado la obligación, adeudándose consecutivamente los dividendos posteriores, los que van prescribiendo sucesivamente a partir de cada uno de los vencimientos mensuales de los dividendos.
+Siendo así las cosas, deberá entender este tribunal que cada uno de los términos de prescripción deberán contarse desde el vencimiento de cada uno de los dividendos y hasta el último de ellos –pactado hasta el año 2036- los que sólo se interrumpieron con la notificación de esta demanda.
+Por todo lo anterior, en principio este tribunal deberá declarar prescritos, en consonancia con el artículo 98 de la Ley Nº 18.092, los dividendos hasta un año antes de la notificación de la presente demanda, es decir solo hasta el mes de Julio de 2012. Por esto, se declarará la prescripción de todos los dividendos hasta esa fecha.
+Respecto de los dividendos correspondientes al mes de Agosto de 2012 en adelante, se entenderá que se encuentran plenamente vigentes, procediendo en consonancia y respecto de ellos las acciones que intenta la ejecutante deducir.
+SEXTO: Respecto de la segunda excepción opuesta por la ejecutada, esto es la falsedad del título, se tendrá presente, en primer lugar, que el título con el que se intenta accionar, como consta a fojas 2 y 20, es la copia autorizada de escritura pública, del artículo 434 Nº 2 del Código de Procedimiento Civil, y no del 434 Nº 4 del mismo cuerpo legal, lo que derechamente haría improcedente la excepción impetrada.
+En segundo lugar, y no obstante lo anterior, aun cuando señale que el Notario no habría dado cumplimiento a las obligaciones señaladas en el artículo 401 y 425 del Código Orgánico de Tribunales, se debe tener presente que dicho Auxiliar de la Administración de Justicia es un Ministro de Fe, y sus actuaciones están revestidas de una presunción de veracidad respecto de las cuáles el ejecutado debe ejercer alguna mínima actividad probatoria, constando en definitiva que no lo hizo.
+Así, resulta imposible declarar lo que plantea la ejecutada, tanto por una improcedencia relacionada a los requisitos del título mismo, como por su nula actividad probatoria en orden a establecer que la actuación del Ministro de fe no se realizó.
+Por esto, se rechazará la excepción de falsedad del título impetrada por la ejecutada.
+SÉPTIMO: En cuanto a la tercera excepción impetrada, esto es la falta de alguno de los requisitos o condiciones establecidos por las leyes para que dicho título tenga fuerza ejecutiva, dados los argumentos consignados en los considerandos quinto y sexto, que declaran que el título no está prescrito en su totalidad y que tiene todos los requisitos para ser ejecutivo, es que se deberá desestimar lo señalado por la demandada respecto de los dividendos que se encuentran vigentes y no prescritos. Por lo demás, y habiéndose declarado previamente que el título que se impetra es la copia autorizada de escritura pública, que contiene en sí obligaciones (dividendos) que devengan y vencen mes a mes, y habiéndose establecido que los correspondientes al mes de Agosto de 2012 en adelante se encuentran plenamente vigentes, es que se deberá rechazar esta excepción, en cuanto ni cumple con los requisitos de procedencia, ni tampoco ha sido debidamente probada por la ejecutada.
+Y, considerando, además, lo dispuesto en el artículo 1698 del Código Civil, artículos 139, 140, 144, 170, 434 N° 2, 459 y siguientes, 464 N°17, 6 y 7, 465, 466 y 471 del Código de Procedimiento Civil; Ley Nº 18.098 sobre Letras de Cambio y Pagarés y demás normas pertinentes, se resuelve:
+I-. Se ACOGE parcialmente la excepción de prescripción opuesta por doña Marcia Erika Ceballos Retamal en contra del Banco del Estado de Chile, y se declara:
+a) La prescripción de los dividendos que constan en el “Contrato de Compraventa y Mutuo Tasa Variable” de Marcia Erika Ceballos Retamal a Inmobiliaria Ebro S.A. y Banco del Estado de Chile, de fecha 31 de agosto de 2006, suscrito ante Notario Público Juan Ricardo San Martín Urrejola, de la Cuadragésima Tercera Notaría de Santiago, Repertorio Nº 19442/2006, hasta el mes de Julio de 2012;
+b) Que los dividendos adeudados por la ejecutada desde Agosto de 2012 hasta la fecha se encuentran plenamente vigentes;
+c) Que se siga adelante la ejecución hasta el entero y cumplido pago de lo adeudado en contra del ejecutado por los dividendos pendientes.
+II.- Que se RECHAZA la excepción de la falsedad del título consagrada en el artículo 464 Nº 6 del Código de Procedimiento Civil;
+III.- Que se RECHAZA la excepción de la falta de alguno de los requisitos o condiciones establecidos por las leyes para que dicho título tenga fuerza ejecutiva consagrada en el artículo 464 Nº 7 del Código de Procedimiento Civil;
+II.- Cada parte pagará sus costas.-
+Regístrese.
+
+PRONUNCIADA POR PEDRO ENRIQUE GARCÍA MUÑOZ, JUEZ TITULAR.
+
+AUTORIZADA POR DON SALVADOR MOYA GONZALEZ. SECRETARIO SUPLENTE. Anotada con el Nº..................... en el Libro Índice Estadístico de Sentencias. CONFORME. CONFORME. Se deja constancia que se dio cumplimiento a lo dispuesto en el inciso final del artículo 162 del C.P.C. en Santiago, a veintiuno de noviembre de dos mil trece.

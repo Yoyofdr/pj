@@ -1,0 +1,808 @@
+METADATA
+
+case_id: 08f68624e20c88080fa571de6f65a6019ab7b5cf
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8051223
+
+rol: 7727-2026
+
+fecha_sentencia: 2026-03-05
+
+caratulado: POLANCO/SERVICIO NACIONAL DE MIGRACIONES DE CHILE
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+
+recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, cinco de marzo de dos mil veintiséis.
+
+VISTO Y TENIENDO PRESENTE:
+1°.- Que, en este juicio ejecutivo, se ordenó dar cuenta de la admisibilidad de los recursos de casación en la forma y en el fondo interpuestos por el ejecutado, en contra de la sentencia de la Corte de Apelaciones de Santiago que confirmó la resolución de primer grado de veinte de enero de 2016 que teniendo presente lo dispuesto en los artículos 1 y 2 de la Ley 18.120, no dió lugar a tener por constituido mandato judicial y por ratificada la firma por parte de don Raimundo Cristi Saavedra tanto en su calidad de representante legal de la sociedad demandada, así como también, en su calidad de persona natural demandada, todo esto en conformidad a las actuaciones realizadas ante ministro de fe de vuestro tribunal, que constan a folio 39 y 42 de autos, respectivamente, no dándose lugar, a los recursos de reposición y de apelación en subsidio, deducidos por la ejecutante con fecha 1 de febrero del año 2024, y por ende, no haciéndose efectivo el apercibimiento de tener por presentadas las excepciones sólo respecto de Constructora Cristi Limitada.
+
+2°.- Que, el artículo 766 del Código de Procedimiento Civil establece que el recurso de casación en la forma procede contra las sentencias definitivas, contra las interlocutorias cuando ponen término al juicio o hacen imposible su continuación y, excepcionalmente, contra las sentencias interlocutorias dictadas en segunda instancia sin previo emplazamiento de la parte agraviada, o sin señalar el día de la vista de la causa.
+3°.- Que, por su parte, el artículo 767 del mismo texto legal dispone que se admite el recurso de casación en el fondo contra sentencias definitivas inapelables y contra sentencias interlocutorias inapelables cuando ponen término al juicio o hacen imposible su continuación, dictadas -en lo que interesa para el presente caso- por Cortes de Apelaciones, siempre que se hayan pronunciado con infracción de ley y esta infracción haya influido substancialmente en lo dispositivo de la sentencia.
+
+4°.- Que, la resolución impugnada por esta vía no presenta las características de aquellas aludidas en los motivos anteriores, toda vez que no ha puesto fin a la instancia, ni ha concluido el juicio o ha hecho imposible su prosecución, como tampoco se encuentra en la situación excepcional prevista en la primera de las normas citadas, razón por la cual los recursos de nulidad intentados en autos no serán admitidos a tramitación.
+
+Por estas consideraciones y de conformidad, además, con lo dispuesto en los artículos 766, 767, 781 y 782 del Código de Procedimiento Civil, se declaran inadmisibles los recursos de casación en la forma y en el fondo, interpuestos por el abogado Felipe Andrés Celis González, en representación de la ejecutada, en contra de la sentencia de dictada por la Corte de Apelaciones de Santiago, de fecha veinte de enero de dos mil veintiséis.
+
+Regístrese y devuélvase.
+
+Rol N° 7494-2026
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Santiago
+Santiago, veinte de enero de dos mil veintiséis.
+
+VISTO:
+
+Atendido el mérito de los antecedentes, es dable señalar que los argumentos de hecho y de derecho que constituyen las alegaciones que se esgrimen en sustento del arbitrio en análisis, no logran desvirtuar, en concepto de estos jueces, los fundamentos tenidos en consideración por el tribunal a quo para resolver de la forma en que lo hizo, los que, consecuentemente, se comparten.
+
+Por estas consideraciones, normas legales citadas y atendido además lo dispuesto en los artículos 186 y siguientes del Código de Procedimiento Civil, se confirman las resoluciones apeladas de fecha quince de febrero de dos mil veinticuatro, correspondiente al N° de Ingreso Corte N° 3305-2025, y de fecha siete de marzo de dos mil veinticuatro, correspondiente al N° de Ingreso Corte 6841-2024, ambas dictadas dictada en los autos rol N° C-13354-2023, seguidos ante el Décimo Tercer Juzgado Civil de Santiago.
+
+Devuélvase la competencia.
+
+N°Civil-3305-2024 (Acumulada a N° Civil 6841-2024)
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+NOMENCLATURA : 1. [40]Sentencia
+
+JUZGADO : 13º Juzgado Civil de Santiago
+
+CAUSA ROL : C-13354-2023
+
+CARATULADO : ASEGURADORA PORVENIR S.A./CRISTI
+
+Santiago, quince de noviembre de dos mil veinticuatro
+
+Vistos:
+
+A folio 1, con fecha 4 de agosto de 2023, comparecen en autos Sebastián
+
+Louis Pizarro Klein y José Miguel Delpin Piffaut, abogados, en representación
+
+convencional de Aseguradora Porvenir S.A. en adelante “ASPOR”, rol único
+
+tributario N° 76.598.625-7, sociedad del giro de su denominación, representado
+
+legalmente por María De La Luz Berg Rojas, abogada, y por Juan Paulo Edwards
+
+Smith, ingeniero civil, todos con domicilio para estos efectos en calle Monjitas N°
+
+392 piso 20, comuna de Santiago, quienes interponen demanda en juicio ejecutivo
+
+en contra de Constructora Cristi Limitada, sociedad del giro de su
+
+denominación, Rut N° 78.424.040-1, representada por Raimundo Del Sagrado
+
+Corazón Cristi Saavedra, ignoran profesión u oficio, como deudor principal y en
+
+contra de Raimundo Del Sagrado Corazón Cristi Saavedra, en calidad de aval,
+
+fiador y codeudor solidario, ya individualizado, todos domiciliados en calle 12 de
+
+octubre N° 731, ciudad y comuna de Coyhaique, Región de Aysén, en atención a
+
+los fundamentos de hecho y de derecho que se exponen a continuación.
+
+Fundan su demanda en que su representada es dueña del pagaré suscrito
+
+a la orden de la ejecutante con fecha 24 de julio de 2023, por María de la Luz Berg
+
+Rojas y Juan Paulo Edwards Smith, ambos en representación de ASPOR, y esta,
+
+a su vez, en representación de la ejecutada y de los avales, fiadores y codeudores
+
+solidarios, en uso de las facultades que los ejecutados confirieron a la ejecutante
+
+en el documento denominado “Contrafianza de Seguro de Garantía”, suscrito con
+
+fecha 3 de agosto del 2021.
+
+Exponen que en la cláusula quinta del contrato de contrafianza los
+
+ejecutados otorgaron un mandato especial en favor de ASPOR S.A. con el
+
+propósito de que la ejecutante suscribiera uno o más pagarés por los montos
+
+adeudados, además de llenar espacios: “…correspondientes a la fecha de
+
+vencimiento, lugar de pago, y al monto, tanto en número como letras, y hasta por
+
+el equivalente en moneda en curso legal a la cantidad que adeudare el afianzado,
+
+expresada en Unidades de Fomento ( o en la unidad reajustable que la reemplace
+
+legalmente), como también la facultad de completar lo relativo a la fecha y lugar
+
+de emisión, y en general, todas las menciones exigidas por la ley, incluidas
+
+aquellas que no siendo esenciales la ley permite incorporarles, en todos y cada
+
+Código: HFEFXRXCXCD
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+uno de los pagarés que Aseguradora Porvenir S.A suscriba en representación
+
+de(los) mandante(s)”.
+
+Así las cosas, puntualizan que el pagaré fue suscrito por la suma de UF
+
+7.311,38, equivalentes al día de interposición de la presente demanda a la suma
+
+de $263.500.161 por concepto de capital, más intereses, en una sola cuota con
+
+vencimiento el día 25 de julio del 2023, pago que no ocurrió.
+
+Precisan que en el mismo pagaré se pactó que, en caso de mora o simple
+
+retardo, en el pago de todo o parte del capital, se devengará, por todo el lapso que
+
+dure la mora o retardo, hasta la fecha de pago efectivo y total de lo adeudado, un
+
+interés penal igual al máximo convencional que sea permitido estipular para
+
+operaciones en moneda nacional reajustables, que se encuentre vigente a la fecha
+
+en que se produzca la mora o simple retardo.
+
+Adicionalmente, se estableció que todas las obligaciones que emanan del
+
+pagaré suscrito serán solidarias e indivisibles para ambos suscriptores y demás
+
+obligados al pago y se estipuló que los suscriptores renunciaron a toda diligencia,
+
+presentación, protesto y aviso de no pago en relación con el pagaré, quedando el
+
+tenedor liberado de la obligación de protesto.
+
+Hacen presente que el pagaré dispone que los deudores se someten a la
+
+jurisdicción de los tribunales de la ciudad de Santiago.
+
+Para finalizar explican que la firma de ambos suscriptores y deudores
+
+solidarios se encuentran autorizadas ante notario, por lo que el título goza de
+
+mérito ejecutivo conforme dispone el numeral cuarto del inciso 2º del artículo 434
+
+del Código de Procedimiento Civil. De manera que la deuda es líquida,
+
+actualmente exigible y su acción no se encuentra prescrita.
+
+Previas citas legales, solicitan tener por interpuesta demanda ejecutiva en
+
+contra de Constructora Cristi Limitada en su calidad de suscriptor y deudor
+
+principal del pagaré y en contra de Raimundo Del Sagrado Corazón Cristi
+
+Saavedra en calidad de aval, fiador y codeudor solidario, todos ya
+
+individualizados, y con su mérito, despachar mandamiento de ejecución y
+
+embargo en su contra por la cantidad de UF 7.311,38, equivalentes al día de
+
+interposición de la demanda a la suma de $263.500.161, más intereses, y seguir
+
+adelante con la ejecución hasta hacer a su representado entero y cumplido pago
+
+de las sumas adeudadas, con costas.
+
+A folio 35, con fecha 19 de diciembre de 2023, se llevó a efecto la
+
+notificación de la demanda a la parte ejecutada de conformidad a lo dispuesto en
+
+el artículo 44 del Código de Procedimiento Civil.
+
+A folio 34, con fecha 20 de diciembre de 2023, consta el requerimiento de
+
+pago a la parte ejecutada.
+
+Código: HFEFXRXCXCD
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+A folio29, mediante presentación de fecha 30 de diciembre de 2023, la
+
+parte ejecutada opuso las siguientes excepciones contempladas en el artículo 464
+
+del Código de Procedimiento Civil:
+
+1.- La del N° 1, esto es, “La incompetencia del tribunal ante quien se
+
+haya presentado la demanda”; en atención a que en el contrato de “contrafianza
+
+de seguro de garantía” suscrito entre las partes, con fecha 3 de agosto de 2021,
+
+no se estableció expresamente la prórroga de la competencia a los tribunales de
+
+Santiago, por lo que son aplicables las reglas generales contempladas en el
+
+Código Civil, Código de Procedimiento Civil y Código Orgánico de Tribunales, por
+
+lo que la presente demanda, se debió haber interpuesto ante el juez de letras cuya
+
+competencia se encuentre dentro del domicilio de la parte ejecutada.
+
+Por otro lado, explica que el pagaré emitido por la ejecutante no logra
+
+salvaguardar el vicio que configura la incompetencia, toda vez que resultaba
+
+esencial que -previamente- se hubiese establecido expresamente que se otorgaba
+
+la facultad de determinar la competencia del tribunal al ejecutante, por lo que se
+
+configura una extralimitación respecto de las facultades se otorgaban.
+
+2.- La del N° 4, esto es, “La ineptitud del libelo por falta de algún
+
+requisito legal en el modo de formular la demanda, en conformidad a lo
+
+dispuesto en el artículo 254”, al respecto señala que la demanda debe contener
+
+la exposición clara de los hechos y fundamentos de derecho en que se apoya,
+
+cuestión que no cumple el libelo de autos, pues se omite la exposición detallada
+
+de las motivaciones que respaldan el monto que se pretende cobrar, para lo que
+
+resulta insuficiente la existencia del contrato de “contrafianza de seguro de
+
+garantía”, pues no se logra establecer la deuda, causa y procedencia, lo que le
+
+impide formular una defensa efectiva respecto de un pagaré a cuya suscripción no
+
+ha concurrido personalmente.
+
+3.- La del N° 6, esto es, “La falsedad del título”, fundada en que el pagaré
+
+carente de realidad por cuanto no existe una obligación indubitada, ni tampoco,
+
+fundamento alguno que permita determinar la efectividad del monto que se
+
+pretende cobrar, de manera que no existe la obligación que supuestamente
+
+representa.
+
+Así las cosas, la ejecutante invoca un contrato que contiene un mandato
+
+especial para el llenado del pagaré, el que no resulta suficiente, ni plausible para
+
+justificar la existencia y cobro ejecutivo de un pagaré que su parte jamás ha visto y
+
+tampoco concurrió a suscribirlo personalmente, por lo que el título ejecutivo resulta
+
+se carente de realidad y falso.
+
+4.- La del N° 7, esto es, “La falta de alguno de los requisitos o
+
+condiciones establecidos por las leyes para que dicho título tenga fuerza
+
+Código: HFEFXRXCXCD
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+ejecutiva, sea absolutamente, sea con relación al demandado”; en atención a
+
+que la ejecutante no ha aportado antecedente alguno que permita determinar que
+
+su representado hubiese incumplido alguna obligación establecida en la póliza de
+
+caución.
+
+A mayor abundamiento, sostiene que resulta necesario que previamente se
+
+pueda acreditar en un procedimiento ordinario de lato conocimiento, la efectividad
+
+que Constructora Cristi Limitada hubiese incurrido en algún incumplimiento a sus
+
+obligaciones contractuales, así como también, la procedencia del monto que
+
+pretende cobrar.
+
+Añade que tratándose de un incumplimiento contractual resulta imperativo
+
+determinar primero la existencia de dicho incumplimiento, previo a la suscripción
+
+del pagaré, en consecuencia, la obligación no es actualmente exigible.
+
+5.- La del N° 14, esto es, “La nulidad de la obligación”, atendido que la
+
+ejecutante no dio cumplimiento a sus obligaciones, por lo que la presente carece
+
+de causa real.
+
+Indica que el pagaré que se pretende cobrar encuentra su causa en el
+
+contrato “contrafianza de seguro de garantía”, el que no resulta suficiente para
+
+justificar los incumplimientos que dieron derecho a la ejecutante para emitir el
+
+instrumento mercantil que pretende cobrar, puesto que su monto, oportunidad y
+
+cantidad resultan ser una imposición carente de causa, unilateral e injustificada, lo
+
+que conlleva a la nulidad absoluta del mismo, por carecer de causa real.
+
+A folio 59, mediante presentación de fecha 29 de febrero de 2024, la parte
+
+ejecutante evacuó el traslado conferido solicitando el rechazo de las excepciones,
+
+con costas, en atención a los siguientes fundamentos:
+
+En cuanto a la excepción del N° 1, sostiene que de la revisión del pagaré
+
+de autos es posible constatar que expresamente se prorrogó la competencia a la
+
+ciudad de Santiago, por lo que de acuerdo a lo dispuesto en el artículo 139 del
+
+Código Orgánico de Tribunales, el tribunal goza de la competencia necesaria para
+
+resolver este asunto y que conformee ha resuelto la Corte Suprema, la cláusula de
+
+domicilio es de aquellas de naturaleza accidental, pero pueden ser incorporadas
+
+por las partes.
+
+En cuanto a la del N° 4, expresa que de la propia formulación de las
+
+excepciones, se desprende que la ejecutada ha entendido perfectamente que lo
+
+que discute en autos es el cobro de un pagaré válidamente suscrito por su parte y
+
+que de ser inepto el libelo no podría oponer las excepciones de fondo como lo ha
+
+hecho.
+
+En cuanto a las del N° 6, aduce la existencia de un error conceptual de la
+
+parte ejecutada, toda vez que la excepción alegada se debe invocar cuando existe
+
+Código: HFEFXRXCXCD
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+una adulteración o falsificación material del mismo y lo sostenido obedece más
+
+bien a la falta de causa, cuestión que de todos modos deberá probar.
+
+En cuanto a la excepción del N° 7, advierte que el ejecutado confunde el
+
+título ejecutivo, a saber, el pagaré, con el contrato de contrafianza.
+
+Añade que el pagaré cuenta con firma autorizada ante notario, de los
+
+representantes legales de la compañía Aseguradora Porvenir S.A., quienes, por
+
+mandato conferido por el ejecutado, cuya firma también fue autorizada ante
+
+notario y tampoco fue objetado, otorgaron las facultades a los representantes de
+
+Aseguradora Porvenir S.A. para suscribirlo.
+
+Asimismo, el pagaré también cumple con los requisitos establecidos en el
+
+artículo 102 de la ley 18.092 y resulta irrelevante para los efectos de la causal
+
+invocada las alegaciones referentes al contrato, puesto que en nada se relacionan
+
+con los requisitos o condiciones establecidos por la ley para dar valor ejecutivo al
+
+pagaré invocado en autos.
+
+En cuanto a la excepción del N° 14, argumenta que el pagaré refleja la
+
+existencia de una deuda contraída producto de la ejecución de una póliza de
+
+garantía a primer requerimiento contratada por la ejecutada.
+
+Da cuenta que la póliza en cuestión es la N° 01-23-025154, cuyo asegurado
+
+es Inmobiliaria Sur Diecinueve Spa, y fue tomada para cubrir los riesgos por
+
+Correcta inversión de anticipos a primer requerimiento y de ejecución inmediata
+
+(POL120210167). En razón de dicha póliza y por la denuncia del siniestro 01-23-
+
+001067 efectuado por la asegurada Inmobiliaria Sur Diecinueve SpA, la compañía
+
+Aseguradora Porvenir S.A. debió pagar la suma de UF 7311,38. Dicha operación
+
+consta en escritura pública otorgada en la Notaría de Alberto Mozo Aguilar, con
+
+fecha 29 de junio del año 2023.
+
+Expone que conforme lo establecido en el artículo 582 del Código de
+
+Comercio, respecto a los seguros de caución, el asegurador se obliga a
+
+indemnizar al asegurado los daños patrimoniales sufridos en caso de
+
+incumplimiento por el tomador o afianzado, tanto de obligaciones legales o
+
+contractuales. A su vez, la misma disposición establece un derecho de reembolso
+
+en favor de la Aseguradora, que expresamente establece que todo pago hecho
+
+por el asegurador deberá serle reembolsado por el tomador del seguro, sin
+
+importar las alegaciones, excepciones o defensas que interponga el tomador para
+
+alegar la inexistencia de un incumplimiento.
+
+Así, la ejecutante se encuentra ejerciendo su derecho a reembolso como
+
+dispone el mandato que cuestiona, por lo que constando la existencia del pago
+
+que debió realizar Aseguradora Porvenir S.A. al asegurado motivo del siniestro N°
+
+01-23-001067, cuyo antecedente consta en escritura pública, será prueba del
+
+Código: HFEFXRXCXCD
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+ejecutado establecer la nulidad de la obligación, y probar la falta de causa de la
+
+obligación, conforme a los requisitos establecidos en los artículos 1681 y
+
+siguientes del Código Civil.
+
+A folio 60, por resolución de fecha 7 de marzo de 2024, se declaró
+
+admisibles las excepciones opuestas y se las recibió a prueba por el término legal,
+
+resolución que fue notificada a ambas partes, según consta en el expediente
+
+electrónico a folio 65.
+
+A folio 95, por resolución de fecha 1 de octubre de 2024, encontrándose la
+
+causa en estado, se citó a las partes para oír sentencia.
+
+Con lo relacionado y considerando:
+
+Primero: Que, a fin de acreditar sus pretensiones, la ejecutante acompañó
+
+la siguiente prueba instrumental:
+
+A folio 1:
+
+1. Pagaré suscrito por la ejecutada a la orden de Asrguradora Porvenir S.A.,
+
+con fecha 24 de julio del 2023, que corre custodido bajo el N° 8426-2023.
+
+2. “Contrafianza de Seguro de Garantía”, de fecha 3 de agosto del 2021,
+
+cuyas firmas fueron autorizadas ante el notario de Coyhaique, Darwin Contreras
+
+Piderit.
+
+Segundo: Que, a fin de probar las excepciones opuestas, la parte
+
+ejecutada no allegó prueba alguna.
+
+Tercero: Resulta oportuno destacar que, el juicio ejecutivo es un
+
+procedimiento contencioso especial que tiene por objeto obtener, por vía de
+
+apremio, el cumplimiento de una obligación convenida o declarada
+
+fehacientemente, que el deudor no cumplió en su oportunidad". (Raúl Espinosa
+
+Fuentes, "Manual de Procedimiento Civil", "El Juicio Ejecutivo", Actualizado por
+
+Cristián Maturana Miquel, Editorial Jurídica, 2003, pág. 7).
+
+El título ejecutivo presenta una naturaleza análoga a la de una prueba
+
+privilegiada en términos tales que el acreedor dotado de él goza de la garantía
+
+jurisdiccional de solicitar el embargo de bienes suficientes del deudor y todo el
+
+peso de la prueba recae sobre el último. Este debe desvanecer la presunción de
+
+autenticidad y de veracidad que el título supone. “Concluyese de aquí que si el
+
+ejecutado no rinde probanza alguna en apoyo de sus pretensiones, sus
+
+excepciones no pueden prosperar y ellas deben ser rechazadas” (Corte de
+
+Apelaciones de Concepción, 14 de julio de 1967. R., t. 64, sec. 2ª, pág. 33).
+
+Cuarto: Que, la primera excepción que corresponde analizar es “La
+
+incompetencia del tribunal ante quien se haya presentado la demanda”, al
+
+respecto es menester señalar que los planteamientos formulados por la parte
+
+ejecutada son erróneos, toda vez que, de la simple lectura del pagaré fundante de
+
+Código: HFEFXRXCXCD
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+la acción de autos se puede desprender que la competencia está expresamente
+
+entregada a los Tribunales de Santiago, en efecto, el instrumento mercantil en su
+
+tenor literal expone: “Para los efectos legales derivados del presente pagaré los
+
+suscriptores constituyen domicilio especial en la ciudad de Santiago y se somete a
+
+la competencia de sus Tribunales de Justicia.”, lo que nos lleva a concluir
+
+inequívocamente que la competencia fue entregada expresamente en dicho
+
+instrumento en la forma transcrita, por lo que la excepción en análisis no podrá
+
+prosperar.
+
+A mayor abundamiento, se ha de hacer presente que las cláusulas de
+
+relativas a la competencia constituyen cláusulas accidentales, por lo que no
+
+habiéndose incorporado expresamente la prohibición de prorrogar la competencia,
+
+los pagarés que la contienen son válidos, en consecuencia, la excepción habrá de
+
+ser desestimada.
+
+Quinto: En cuanto a la segunda excepción en estudio, saber, “La ineptitud
+
+del libelo por falta de algún requisito legal en el modo de formular la
+
+demanda, en conformidad a lo dispuesto en el artículo 254”, cabe precisar
+
+que la dilatoria en análisis tiene como objetivo esencial el evitar dificultades en
+
+cuanto a la identificación de las partes entre quienes se traba la Litis, como
+
+asimismo, evitar la falta de claridad en la exposición de los hechos que impida o
+
+haga difícil la contestación por parte de la ejecutada, y de los argumentos
+
+esgrimidos por este último, no se configura ninguna de las circunstancias
+
+descritas, toda vez, que se encuentra claramente establecida la persona contra
+
+quién se dirige la ejecución, y en la calidad en que es requerida, y asimismo, ha
+
+identificado plenamente a la demandante y la obligación perseguida, junto con los
+
+hechos y fundamentos de derecho en que la acción se apoya. Por tanto, no ha
+
+existido un impedimento para que ésta comprenda claramente los términos del
+
+libelo y presente sus alegaciones y defensas, por lo que la excepción deberá ser
+
+desestimada.
+
+Corrobora lo precedentemente expuesto, el hecho de que la parte
+
+demandada ha concurrido en autos y ha formulado de manera oportuna sus
+
+defensas.
+
+Sexto: Que, la tercera excepción en estudio corresponde a “La falsedad
+
+del título”, acerca de la que conviene recordar que un título es falso cuando no es
+
+auténtico, esto es, cuando no ha sido realmente otorgado y autorizado por las
+
+personas y de la manera que en el título se expresa, por lo que para que pueda
+
+calificarse de falso un título, se hace necesario que haya habido suplantación de
+
+personas o que se hayan hecho adulteraciones que hagan cambiar su naturaleza.
+
+Código: HFEFXRXCXCD
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+En la especie, del examen del pagaré que sirve de fundamento a la
+
+ejecución se observa que fue suscrito a la orden de la ejecutante, con fecha 24 de
+
+julio de 2023, por la suma de 7.311,38 UF, por concepto de capital, pagadero en
+
+una sola cuota el 25 de julio de 2023. Asimismo, se observa que consta de tres
+
+hojas, conformando un solo documento, que cuenta con autorización notarial y fue
+
+suscrito por los representantes de la ejecutante Aseguradora Porvenir S.A., en
+
+virtud del mandato otorgado en la cláusula quinta del contrato de “Contrafianza de
+
+seguro de garantía” (página 2), de fecha 3 de agosto de 2021, que cuenta con
+
+autorización notarial, cumpliendo ello con los requisitos para dar crédito a su
+
+autenticidad, en consecuencia, no se aprecia la falsedad referida por la sociedad
+
+ejecutada, desde que tanto en su forma como en su contenido, es decir, en su
+
+dimensión material como ideológica cumple con lo preceptuado en la señalada ley,
+
+además de no haberse acreditado por la demandada la falsedad alegada, por lo
+
+que la excepción habrá de ser desestimada.
+
+Séptimo: En cuanto a la cuarta excepción en análisis es “La falta de
+
+alguno de los requisitos o condiciones establecidos por las leyes para que
+
+dicho título tenga fuerza ejecutiva, sea absolutamente, sea con relación al
+
+demandado”; se debe consignar que para que la excepción pueda prosperar ha
+
+de sustentarse en situaciones fácticas que se orienten a mermar el valor o las
+
+propiedades del título ejecutivo, con el objeto de acreditar que aquél carece de la
+
+fuerza de la que, al menos, inicialmente aparece dotado.
+
+Luego, de la revisión del pagaré de autos es posible constatar que éste
+
+cumple a cabalidad con todas las especificaciones que establece el artículo 102 de
+
+la Ley sobre letras de cambio y pagarés, contando, además, con la autorización
+
+notarial de la firma de los suscriptores, en representación de la empresa deudora,
+
+circunstancia que, conforme lo dispuesto en el N°4 del artículo 434 del Código de
+
+Procedimiento Civil, por ese solo hecho le confiere mérito ejecutivo, resultando
+
+entonces, que la alegación de la ejecutada, en torno a la determinación de un
+
+incumplimiento contractual es insuficiente para desvirtuar la perfección del título
+
+fundante.
+
+Por otro lado, cabe agregar que como se consignara en el motivo precedente
+
+la ejecutada otro mandato en la cláusula quinta del contrato invocado en que facultó
+
+a la mandataria para que en nombre y representación del ejecutado suscribiera
+
+pagarés y reconociera deudas a favor de Aseguradora Porvenir S.A. En este
+
+sentido, la única forma de hacer efectivo el referido mandato y que este sea
+
+jurídicamente eficaz, es autorizando la firma del apoderado ante Notario Público, sin
+
+perjuicio de la alegación relativa al monto total disponible, cuestión que no ataca al
+
+Código: HFEFXRXCXCD
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+título mismo, el que como ya se dijo, cumple con todos los requisitos legales para
+
+encontrarse dotado de mérito ejecutivo por lo que la excepción no podrá prosperar.
+
+A mayor abundamiento, el ejecutado no allegó al proceso probanza alguna
+
+que permitiera desvirtuar lo antes señalado, razón por la que será desestimada la
+
+excepción en comento como se dirá en lo resolutivo.
+
+Octavo: Finalmente, en cuanto a la quinta y última excepción en estudio,
+
+“La nulidad de la obligación”, es menester señalar que ésta dice relación con el
+
+cumplimiento de los requisitos legales para que la obligación genere los efectos
+
+que le son propios, esto es, que tenga un objeto o causa lícitos, que se hayan
+
+cumplido los requisitos o formalidades que la ley prescribe para el valor de el o los
+
+títulos acompañados y que no hayan sido celebrados por personas absoluta o
+
+relativamente incapaces, y que no haya existido error, fuerza o dolo,
+
+circunstancias distintas a los hechos y peticiones efectuadas por el ejecutado.
+
+En este sentido, de conformidad a lo establecido por el artículo 1698 del
+
+Código Civil y los hechos a probar recogidos en la interlocutoria de prueba,
+
+correspondía a la parte ejecutada acreditar las fundamentos de su excepción,
+
+cuestión que de la prueba aportada no es posible colegir, toda vez que conforme
+
+se dijo en el motivo sexto, del examen del contrato de autos se observa que la
+
+ejecutada autorizó al mandatario a suscribir pagarés originados por los créditos en
+
+virtud de dicho instrumento; y que, así mismo, el mentado contrato cumple a
+
+cabalidad con los requisitos establecidos en el artículo 1445 del Código Civil.
+
+De lo anterior se desprende que no es posible verificar la existencia de
+
+vicios de nulidad, toda vez que la suscripción del pagaré por parte de la ejecutante
+
+se ciñó estrictamente a las facultades conferidas en el referido mandato, lo que
+
+lleva a descartar la trasgresión normativa que denuncia la ejecutada o la falta de
+
+requisitos legales que le resten al pagaré su mérito ejecutivo, por lo que la
+
+excepción de nulidad opuesta deberá ser desestimada.
+
+Noveno: Que, atendido lo dispuesto en el artículo 471 del Código de
+
+Procedimiento Civil, la parte ejecutada deberá ser condenada en costas, toda vez
+
+que se ordenará continuar con la ejecución.
+
+Por estas consideraciones, teniendo presente el mérito de autos, y visto
+
+además lo dispuesto en los artículos 1448, 1698 y siguientes del Código Civil,
+
+artículos 144, 170, 254 y siguientes, 434 y siguientes, 464 y siguientes, 471 del
+
+Código de Procedimiento Civil, se resuelve:
+
+I.- Que, se rechazan las excepciones interpuestas por la parte ejecutada,
+
+en la presentación de fecha 30 de diciembre de 2023, folio 29. En consecuencia,
+
+se ordena proseguir la ejecución hasta hacer al acreedor entero y cumplido pago
+
+de sus acreencias en capital e intereses.
+
+Código: HFEFXRXCXCD
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+II.- Que, se condena en costas a la parte ejecutada.
+
+Regístrese, notifíquese y archívese en su oportunidad.
+
+Rol C-13354-2023.-
+
+Pronunciada por Daniel Platt Astorga, Juez Suplente del Décimo Tercer
+
+Juzgado Civil de Santiago.
+
+Se deja constancia que se dio cumplimiento a lo dispuesto en el inciso final del art.
+
+162 del C.P.C. en Santiago, quince de noviembre de dos mil veinticuatro
+
+Código: HFEFXRXCXCD
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2024-11-15T10:05:04-0300
