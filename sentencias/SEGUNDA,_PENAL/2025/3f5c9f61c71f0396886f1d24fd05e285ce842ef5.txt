@@ -1,0 +1,87 @@
+METADATA
+
+case_id: 3f5c9f61c71f0396886f1d24fd05e285ce842ef5
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7967850
+
+rol: 55325-2025
+
+fecha_sentencia: 2025-12-22
+
+caratulado: CHAMORRO MONDRAGON YURIS YHOANA CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Corte Apelaciones ▼
+Santiago, veintidós de diciembre de dos mil veinticinco.
+
+Al escrito folio 5; téngase presente Vistos y teniendo únicamente presente:
+
+Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de cinco de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N° 4938 - 2025, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.
+
+Regístrese y devuélvase.
+
+Rol N° 55325-2025
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Punta Arenas, diez de octubre de dos mil veinticinco.
+
+VISTOS:
+
+Comparece MARYLIANA DEL CARMEN MATAMOROS JAMETT, chilena, pensionada, domiciliada en calle Bahía Harris N°1252, Punta Arenas, quien deduce recurso de protección en contra del SERVICIO DE VIVIENDA Y URBANIZACION DE LA REGION DE MAGALLANES Y ANTARTICA CHILENA, representado por su Director (S), don OMAR GONZALEZ ASENJO, o quien lo reemplace o subrogue, ambos con domicilio en calle Croacia N°722, Punta Arenas, por la omisión que estima ilegal y arbitraria consistente en la no ejecución de las obras o gestiones que impliquen solucionar los graves defectos constructivos de su inmueble, lo que a su juicio afecta sus derechos constitucionales a la vida e integridad física y psíquica y el derecho de propiedad.
+
+Relata que es propietaria del inmueble en que habita, el cual adquirió por compra que efectuó al Fisco, representado por la recurrida, en el año 1989.- En 2016 fue beneficiada con subsidios de mejoramiento de vivienda a través de la entidad patrocinante Pamela Irarrázabal y el contratista la empresa Gasalex Ltda., obras que incluyeron cambio de revestimiento exterior e interior, techumbre, reemplazo de cielo raso y mejoramiento del baño. Agrega que los trabajos quedaron a medio terminar: baño sin lavamanos, pie de ducha tipo cabina sólo con la base, goteras en cielo raso y filtraciones de agua en techumbre.
+
+Sostiene que, pese a sus múltiples reclamos ante el SERVIU, sólo se realizó una visita social (julio de 2025), sin que se adoptaran medidas efectivas.
+
+Alega que su situación de vulnerabilidad (adulto mayor, bajos ingresos, sin redes de apoyo) agrava la omisión del Estado, generando riesgo para su salud y seguridad por filtraciones eléctricas, humedad y frío.
+
+Afirma que los hechos descritos constituyen vulneración de las garantías consagradas en los numerales 1 y 24 del artículo 19 de la Constitución. En este sentido, la omisión de la recurrida ha tenido un impacto inmediato en su vida e integridad física y psíquica por cuanto la espera de años ha generado una angustia permanente respecto a si se obtendrá o no alguna solución a los graves problemas de construcción que dejaron las obras de mejoramiento subsidiadas por SERVIU, sumado ello a los problemas de salud y peligro latente a su vida debido al continuo escurrimiento de las aguas incluso sobre las lámparas y artefactos eléctricos. Además, se ve amenazado en uno de los atributos del derecho de propiedad, al no poder usar conforme a su destino el inmueble de su propiedad, por los graves vicios que le impiden servir para el fin habitacional y proteccional que trasunta un hogar.
+
+En razón de lo expuesto solicita: 1) Se ordene al Servicio recurrido que se efectúen las obras de mejoramiento de la vivienda de la recurrente, o en su caso se otorgue asignación o subsidio directo sin más trámite, o medida similar que se pueda decretar para reacondicionar el hogar de aquélla, en el plazo que se disponga; 2) Se ordene al recurrido dar cuenta sobre el resultado alcanzado, en el plazo que se disponga; 3) Se adopte todo tipo de medidas dirigidas a restablecer el imperio del Derecho y asegurar la tutela de todos los derechos fundamentales violados, poniendo fin a los actos y omisiones arbitrarios e ilegales descritos con antelación respecto de la persona afectada.
+
+Evacuó informe el recurrido SERVICIO DE VIVIENDA Y URBANIZACION REGION DE MAGALLANES Y DE LA ANTARTICA CHILENA, representado por el abogado Pablo Muñoz Muñoz, quien solicita el rechazo del recurso interpuesto, con costas.
+
+Aclara que la recurrente ha sido beneficiaria de dos proyectos de mejoramiento habitacional, uno en el año 2013, proyecto ejecutado por la Entidad Patrocinante SCAA Ltda., que incluyó cambio de cubierta y techumbre, y otro en el año 2016, proyecto gestionado por la entidad patrocinante Pamela Irarrázabal, que comprendió piso flotante y cerámicos en baño, cuyas garantías expiraron el 10.02.2017.
+
+Sostiene que las filtraciones de agua en el cielo que se alegan se relacionan con la obra de 2013, fuera de garantía; y, en cuanto al baño, el proyecto del año 2016 consideró revestimientos de muros y el cajón de ducha, por lo que las restantes alegaciones no dicen relación con las partidas efectivamente intervenidas en ese proyecto.
+
+Hace presente que el SERVIU no ejecuta materialmente las obras, sino que fiscaliza y paga conforme a la normativa. Las responsabilidades corresponden al contratista y a la entidad patrocinante.
+
+Manifiesta que no existe acción u omisión de su parte, por cuanto el SERVIU no se ha rehusado a atender los requerimientos de la recurrente, por el contrario, durante el año 2025 el Servicio ha realizado visitas técnicas (febrero y abril), informe técnico (20.03.2025) y proyecto de evaluación técnica-económica, buscando excepcionar y repostular a la recurrente al Programa de Mejoramiento del D.S. N°27 del Ministerio de Vivienda y Urbanismo.
+
+Alega la improcedente de lo solicitado por la recurrente por cuanto ello exige, por una parte, disponer que la SEREMI de Vivienda y Urbanismo de Magallanes asigne un subsidio directo (facultad propia de ese órgano y ajena al SERVIU, que no es quien asigna), y, por otra, compeler a una Entidad Patrocinante y a una constructora a ejecutar obras forzosamente, al margen del procedimiento reglado del citado D.S. N°27.
+
+Refiere que el caso de la Sra. Matamoros se suma a otros que el Servicio intenta llevar adelante mediante una Entidad Patrocinante y una empresa constructora, conforme al Programa de Mejoramiento de la Vivienda del D.S. 27 de 2016. La única estrategia en este tipo de casos es juntar varios proyectos para conformar un paquete rentable para una Entidad Patrocinante y Constructora, sin embargo, mientras no se logre ese volumen, no es posible comprometer una fecha exacta de ejecución.
+
+Se trajeron los autos en relación.
+
+CON LO RELACIONADO Y CONSIDERANDO:
+
+PRIMERO
+Que el recurso de protección ha sido instituido con el objeto de evitar las posibles consecuencias dañosas derivadas de actos u omisiones ilegales o arbitrarias que produzcan en el afectado una privación, perturbación o amenaza en el legítimo ejercicio de las garantías constitucionales que se protegen con este arbitrio jurisdiccional, a fin de restablecer el imperio del derecho y otorgar la debida protección al ofendido.
+
+SEGUNDO:
+Que el hecho que el recurrente califica de arbitrario e ilegal, lo hace consistir en la no ejecución de las obras o gestiones que impliquen solucionar los graves defectos constructivos de su inmueble, propiciados por Contratistas del Servicio recurrido, al ejecutarse el subsidio de mejoramiento de su vivienda.
+
+TERCERO: Que, atendido el mérito de los antecedentes, especialmente aquellos acompañados por el Servicio recurrido, se desprende que éste ha actuado conforme a sus facultades legales y ha dado respuesta a los requerimientos formulados por la recurrente, de manera que no se observa de manera alguna la omisión denunciada en el presente arbitrio, lo que conduce necesariamente a que el recurso deba ser desestimado.
+Por estas consideraciones y de conformidad, además, con lo prevenido en el artículo 20 de la Constitución Política de la República y Auto Acordado sobre Tramitación y Fallo de Recursos de Protección de Garantías Constitucionales de veinticuatro de junio de mil novecientos noventa y dos y sus modificaciones, SE RECHAZA el presentado por MARYLIANA DEL CARMEN MATAMOROS JAMETT en contra del SERVICIO DE VIVIENDA Y URBANIZACION DE LA REGION DE MAGALLANES Y ANTARTICA CHILENA.
+
+Cúmplase con lo dispuesto en el numeral 14 del referido Auto Acordado.
+
+Regístrese, notifíquese y archívese, en su oportunidad.
+
+Rol N°466-2025. PROTECCION.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Punta Arenas, diez de octubre de dos mil veinticinco.VISTOS:Comparece MARYLIANA DEL CARMEN MATAMOROS JAMETT, chilena, pensionada, domiciliada en calle Bahía Harris N°1252, Punta Arenas, quien deduce recurso de protección en contra del SERVICIO DE VIVIENDA Y URBANIZACION DE LA REGION DE MAGALLANES Y ANTARTICA CHILENA, representado por su Director (S), don OMAR GONZALEZ ASENJO, o quien lo reemplace o subrogue, ambos con domicilio en calle Croacia N°722, Punta Arenas, por la omisión que estima ilegal y arbitraria consistente en la no ejecución de las obras o gestiones que impliquen solucionar los graves defectos constructivos de su inmueble, lo que a su juicio afecta sus derechos constitucionales a la vida e integridad física y psíquica y el derecho de propiedad.Relata que es propietaria del inmueble en que habita, el cual adquirió por compra que efectuó al Fisco, representado por la recurrida, en el año 1989.- En 2016 fue beneficiada con subsidios de mejoramiento de vivienda a través de la entidad patrocinante Pamela Irarrázabal y el contratista la empresa Gasalex Ltda., obras que incluyeron cambio de revestimiento exterior e interior, techumbre, reemplazo de cielo raso y mejoramiento del baño. Agrega que los trabajos quedaron a medio terminar: baño sin lavamanos, pie de ducha tipo cabina sólo con la base, goteras en cielo raso y filtraciones de agua en techumbre.Sostiene que, pese a sus múltiples reclamos ante el SERVIU, sólo se realizó una visita social (julio de 2025), sin que se adoptaran medidas efectivas.Alega que su situación de vulnerabilidad (adulto mayor, bajos ingresos, sin redes de apoyo) agrava la omisión del Estado, generando riesgo para su salud y seguridad por filtraciones eléctricas, humedad y frío.Afirma que los hechos descritos constituyen vulneración de las garantías consagradas en los numerales 1 y 24 del artículo 19 de la Constitución. En este sentido, la omisión de la recurrida ha tenido un impacto inmediato en su vida e integridad física y psíquica por cuanto la espera de años ha generado una angustia permanente respecto a si se obtendrá o no alguna solución a los graves problemas de construcción que dejaron las obras de mejoramiento subsidiadas por SERVIU, sumado ello a los problemas de salud y peligro latente a su vida debido al continuo escurrimiento de las aguas incluso sobre las lámparas y artefactos eléctricos. Además, se ve amenazado en uno de los atributos del derecho de propiedad, al no poder usar conforme a su destino el inmueble de su propiedad, por los graves vicios que le impiden servir para el fin habitacional y proteccional que trasunta un hogar.En razón de lo expuesto solicita: 1) Se ordene al Servicio recurrido que se efectúen las obras de mejoramiento de la vivienda de la recurrente, o en su caso se otorgue asignación o subsidio directo sin más trámite, o medida similar que se pueda decretar para reacondicionar el hogar de aquélla, en el plazo que se disponga; 2) Se ordene al recurrido dar cuenta sobre el resultado alcanzado, en el plazo que se disponga; 3) Se adopte todo tipo de medidas dirigidas a restablecer el imperio del Derecho y asegurar la tutela de todos los derechos fundamentales violados, poniendo fin a los actos y omisiones arbitrarios e ilegales descritos con antelación respecto de la persona afectada.Evacuó informe el recurrido SERVICIO DE VIVIENDA Y URBANIZACION REGION DE MAGALLANES Y DE LA ANTARTICA CHILENA, representado por el abogado Pablo Muñoz Muñoz, quien solicita el rechazo del recurso interpuesto, con costas.Aclara que la recurrente ha sido beneficiaria de dos proyectos de mejoramiento habitacional, uno en el año 2013, proyecto ejecutado por la Entidad Patrocinante SCAA Ltda., que incluyó cambio de cubierta y techumbre, y otro en el año 2016, proyecto gestionado por la entidad patrocinante Pamela Irarrázabal, que comprendió piso flotante y cerámicos en baño, cuyas garantías expiraron el 10.02.2017.Sostiene que las filtraciones de agua en el cielo que se alegan se relacionan con la obra de 2013, fuera de garantía; y, en cuanto al baño, el proyecto del año 2016 consideró revestimientos de muros y el cajón de ducha, por lo que las restantes alegaciones no dicen relación con las partidas efectivamente intervenidas en ese proyecto.Hace presente que el SERVIU no ejecuta materialmente las obras, sino que fiscaliza y paga conforme a la normativa. Las responsabilidades corresponden al contratista y a la entidad patrocinante.Manifiesta que no existe acción u omisión de su parte, por cuanto el SERVIU no se ha rehusado a atender los requerimientos de la recurrente, por el contrario, durante el año 2025 el Servicio ha realizado visitas técnicas (febrero y abril), informe técnico (20.03.2025) y proyecto de evaluación técnica-económica, buscando excepcionar y repostular a la recurrente al Programa de Mejoramiento del D.S. N°27 del Ministerio de Vivienda y Urbanismo.Alega la improcedente de lo solicitado por la recurrente por cuanto ello exige, por una parte, disponer que la SEREMI de Vivienda y Urbanismo de Magallanes asigne un subsidio directo (facultad propia de ese órgano y ajena al SERVIU, que no es quien asigna), y, por otra, compeler a una Entidad Patrocinante y a una constructora a ejecutar obras forzosamente, al margen del procedimiento reglado del citado D.S. N°27.Refiere que el caso de la Sra. Matamoros se suma a otros que el Servicio intenta llevar adelante mediante una Entidad Patrocinante y una empresa constructora, conforme al Programa de Mejoramiento de la Vivienda del D.S. 27 de 2016. La única estrategia en este tipo de casos es juntar varios proyectos para conformar un paquete rentable para una Entidad Patrocinante y Constructora, sin embargo, mientras no se logre ese volumen, no es posible comprometer una fecha exacta de ejecución.Se trajeron los autos en relación.CON LO RELACIONADO Y CONSIDERANDO:PRIMEROQue el recurso de protección ha sido instituido con el objeto de evitar las posibles consecuencias dañosas derivadas de actos u omisiones ilegales o arbitrarias que produzcan en el afectado una privación, perturbación o amenaza en el legítimo ejercicio de las garantías constitucionales que se protegen con este arbitrio jurisdiccional, a fin de restablecer el imperio del derecho y otorgar la debida protección al ofendido.SEGUNDO:Que el hecho que el recurrente califica de arbitrario e ilegal, lo hace consistir en la no ejecución de las obras o gestiones que impliquen solucionar los graves defectos constructivos de su inmueble, propiciados por Contratistas del Servicio recurrido, al ejecutarse el subsidio de mejoramiento de su vivienda.TERCERO: Que, atendido el mérito de los antecedentes, especialmente aquellos acompañados por el Servicio recurrido, se desprende que éste ha actuado conforme a sus facultades legales y ha dado respuesta a los requerimientos formulados por la recurrente, de manera que no se observa de manera alguna la omisión denunciada en el presente arbitrio, lo que conduce necesariamente a que el recurso deba ser desestimado.Por estas consideraciones y de conformidad, además, con lo prevenido en el artículo 20 de la Constitución Política de la República y Auto Acordado sobre Tramitación y Fallo de Recursos de Protección de Garantías Constitucionales de veinticuatro de junio de mil novecientos noventa y dos y sus modificaciones, SE RECHAZA el presentado por MARYLIANA DEL CARMEN MATAMOROS JAMETT en contra del SERVICIO DE VIVIENDA Y URBANIZACION DE LA REGION DE MAGALLANES Y ANTARTICA CHILENA.Cúmplase con lo dispuesto en el numeral 14 del referido Auto Acordado.Regístrese, notifíquese y archívese, en su oportunidad.Rol N°466-2025. PROTECCION.                        ⚠                      Sin documento en esta instancia - pdf

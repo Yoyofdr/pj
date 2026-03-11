@@ -1,0 +1,881 @@
+METADATA
+
+case_id: 1fa184d50909ea8839ba6bfc4a46bf972cbea371
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7968126
+
+rol: 42600-2025
+
+fecha_sentencia: 2025-12-22
+
+caratulado: AHUMADACONTARDO ANDRÉS SEBASTIÁN/COMISIÓNADMINISTRADORA DEL SISTEMA DE CRÉDITOS PARA ESTUDIOS SUPERIORES, COMISIÓN INGRESA
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintidós de diciembre de dos mil veinticinco.
+
+VISTO Y TENIENDO PRESENTE:
+PRIMERO: Que, en esta causa sobre juicio ejecutivo, cobro de pagaré, seguido ante el Primer Juzgado Civil de Viña del Mar, bajo el Rol C-3717-2023, caratulado “Banco de Chile con Marta Alcántara Calderón”, se ha ordenado dar cuenta de la admisibilidad del recurso de casación en el fondo deducido por la parte ejecutada en contra de la sentencia dictada el nueve de octubre del año dos mil veinticinco, por la Corte de Apelaciones de Valparaíso, que confirmó la de primer grado que rechazó las excepciones a la ejecución de los numerales n° 2, 7, 11 y 14 del artículo 464 del Código de Procedimiento Civil.
+SEGUNDO: Que, el recurso de casación intentado se construye en base a tres causales, exponiendo que la primera de ellas se funda en el artículo 768 n° 5 del Código de Procedimiento Civil, la segunda en la infracción al artículo 464 n° 2 el Código de Procedimiento Civil: y la tercera, en la infracción al artículo 464 N° 14 del Código de Procedimiento Civil y los artículos 10, 1445, 1681 y 2131 del Código Civil.
+
+En relación con la primera de ellas, sostiene que la sentencia en alzada no contiene razonamiento alguno respecto de las excepciones de personería y nulidad de obligación, ni se analiza la legalidad del mandato ni la autenticidad del título. Luego, la segunda, relativa a la falta de capacidad del demandante o de personería o representación legal del que comparece a su nombre, afirma que la sentencia omite todo análisis sobre la acreditación de la representación procesal del ejecutante Banco de Chile, que comparece por intermedio de Socofin S.A., y de los abogados mandatarios judiciales que actúan a su nombre, sin que se haya acompañado documento alguno que acredite la vigencia actual ni la suficiencia de las facultades de estos representantes, infringiendo directamente las normas reguladoras de la representación judicial.
+
+Por último, respecto de la excepción del N° 14, esto es la falta de consentimiento válido, el exceso de mandato y la ilicitud del objeto del título ejecutivo, alega que de la lectura de la demanda ejecutiva consta que el título fundante es un pagaré suscrito supuestamente por la ejecutada doña Marta Cristina Alcántara Calderón, pero autorizado y firmado ante notario por un mandatario del Banco de Chile, quien además, liberó al acreedor de la obligación de protesto, lo que a su juicio excede las facultades conferidas en el mandato original, todo esto unido a que él pagaré carece de validez jurídica, al estar originada en un mandato viciado y materializada en un pagaré con objeto ilícito, careciendo el título ejecutivo de eficacia procesal.
+
+Solicita invalidar el fallo y acto seguido, se dicte sentencia que corresponda con arreglo a la ley, resolviendo que se acoge las excepciones de los numerales 2 y/o 14 o uno de estas contempladas en el artículo 464 del Código de Procedimiento Civil y que se rechace la demanda interpuesta, en todas sus partes, con costas del recurso.
+
+TERCERO: Que, del estudio del arbitrio de nulidad de fondo fluye que la primera alegación - artículo 768 n° 5 del Código de Procedimiento Civil- importa un reproche de tipo formal que no se aviene con la naturaleza del presente recurso de nulidad sustantiva, de tal suerte que la argumentación desarrollada por la recurrente no es de aquéllas que permita configurar un error sustantivo en lo decisorio del fallo impugnado, lo que no permite que pueda ser susceptible de ser revisado a través de esta vía recursiva, tal como se ha pretendido erróneamente en este caso, quedando así en evidencia que la causal intentada es una propia del recurso de casación en la forma.
+
+CUARTO: Que, en relación con los otros dos grupos de infracciones, del examen de los antecedentes se advierte que éstos se construyen sobre la base de una propuesta fáctica diversa a aquélla asentada por los sentenciadores del grado.
+
+En efecto, para el rechazo de la excepción del numeral 2 del artículo 464 del Código de Procedimiento Civil, el fallo recurrido dejó asentado que, analizados los documentos y mandatos acompañados, estos resultan suficientes para entender que la personería de los abogados ha sido extendida en la forma prescrita por el artículo 6 del Código de Procedimiento Civil.
+
+Por otra parte, al revisar la excepción del numeral 14, el tribunal tuvo en consideración que del estudio del pagaré N° 360097108382002496, se observa claramente la firma de la propia ejecutada, doña Marta Cristina Alcántara Calderón, sin mediar representación alguna en la suscripción del mismo, así como que este título consta la autorización notarial tal como lo requiere el artículo 434 N° 4 inciso 2 del Código de Procedimiento Civil
+A mayor abundamiento, para el rechazo de las excepciones, el tribunal tuvo además presente que la ejecutada no rindió prueba alguna para acreditar sus alegaciones, en conformidad a lo dispuesto en el artículo 1698 del Código Civil.
+
+QUINTO: Que, de lo que se viene analizando, se debe tener en consideración que los hechos fijados en una sentencia corresponden al resultado de la ponderación judicial de los antecedentes y prueba rendida en el juicio, actividad de análisis, examen y valoración del material probatorio que se encuentra dentro de las facultades privativas de los sentenciadores del fondo; concerniendo, por ende, a un proceso racional del tribunal, por lo que no está sujeto a control en sede de casación en el fondo, salvo que se haya denunciado de modo eficiente la vulneración de las leyes reguladoras de la prueba que hayan permitido establecer el presupuesto fáctico determinado en el fallo; cuestión que no se ha verificado en la especie.
+
+Por consiguiente, resulta necesario para el éxito de la pretensión de la recurrente, tener por acreditados hechos distintos a los ya establecidos en el fallo recurrido; no pudiendo aquello verificarse en esta sede de casación, lo que motiva que indefectiblemente el arbitrio de nulidad en estudio no puede prosperar, por adolecer de manifiesta falta de fundamento.
+
+Por estas consideraciones y de conformidad, además, con lo dispuesto en los artículos 764, 765, 767, 772 y 782 del Código de Procedimiento Civil, se rechaza el recurso de casación en el fondo interpuesto por el abogado Hugo Contreras Gómez, en representación de la parte ejecutada, contra la sentencia de nueve de octubre de dos mil veinticinco, dictada por la Corte de Apelaciones de Valparaíso.
+
+Regístrese y devuélvase.
+
+Rol N° 44.838-2025
+Pronunciado por la Primera Sala de la Corte Suprema integrada por los Ministros señor Mario Carroza E., señora Jéssica González T., señor Jorge Zepeda A. (S), señora Eliana Quezada M. (S) y señora María Catepillán L. (S).
+
+No obstante, haber concurrido a la vista de la causa y al acuerdo, no firma el Ministro señor Carroza, por estar con permiso.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Jepv.
+
+C.A. de Valparaíso
+Valparaíso, nueve de octubre de dos mil veinticinco.
+
+Visto:
+
+Atendido el mérito de los antecedentes y lo dispuesto en el artículo 186 del Código de Procedimiento Civil, se confirma la sentencia definitiva de doce de marzo de dos mil veinticuatro, dictada por el Primer Juzgado Civil de Viña del Mar.
+
+Regístrese, notifíquese y devuélvase en su oportunidad.
+N° Civil-1151-2024
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+FOJA: 35 .-
+Treinta y cinco .-
+
+NOMENCLATURA : 1. [40]Sentencia
+
+JUZGADO : 1º Juzgado Civil de Vi a del Marñ
+CAUSA ROL : C-3717-2023
+
+CARATULADO : BANCO DE CHILE/ALC NTARAÁ
+
+Vi a del Marñ , doce de Marzo de dos mil veinticuatro
+
+VISTO:
+
+Se ha iniciado este proceso Rol N°C-3717-2023, por demanda ejecutiva
+
+interpuesta por don Gaspar Cort s Moya, do a Macarena Flores Jara y doné ñ
+
+Mauricio Araneda Bunting, abogados, mandatarios judiciales de Socofin S.A.,
+
+personera jur dica del giro cobranza a terceros, representada por su gerente generalí
+
+don Mario Sandoval Hidalgo, ingeniero comercial, representante convencional del
+
+BANCO DE CHILE, sociedad an nima bancaria, del giro de su denominaci n,ó ó
+
+representada a su vez por su gerente general don Eduardo Ebensperger Orrego,
+
+ingeniero comercial, todos domiciliados para estos efectos en calle Blanco 1199,
+
+oficina 41, Valpara so en contra de do a í ñ Marta Cristina Alc ntara Calder ná ó ,
+
+ignoran profesi n u oficio, con domicilio en Las Islitas 3112, Los Pinos, Quilpu .ó é
+
+Que con fecha 25 de agosto de 2023, folio 13, se le notifica la demanda de
+
+autos a do a Marta Cristina Alc ntara Calder n por c dula en conformidad alñ á ó é
+
+art culo 44 del C digo de Procedimiento Civil en relaci n con el art culo 3 N°3í ó ó í
+
+de la ley N°21.394.
+
+Que con fecha 4 de septiembre de 2023, folio 15, la ejecutada opone las
+
+excepciones consagradas en los numerales 2, 7, 11 y 14 del art culo 464 delí
+
+C digo de Procedimiento Civil.ó
+
+Que con fecha 28 de septiembre de 2023, a folio 22, la parte demandante
+
+evacu el traslado conferido, solicitando el rechazo de las excepciones opuestas.ó
+
+Que con fecha 29 de septiembre de 2023, a folio 23, se declararon
+
+admisibles las excepciones opuestas y se recibi la causa a prueba.ó
+
+Que con fecha 11 de marzo de 2024, se cit a las partes para o r sentencia.ó í
+
+CONSIDERANDO:
+
+I. En cuanto a la objeci n de documentos:ó
+
+Código: MPTMXMEXDXH
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Primero: Que por presentaci n de fecha 4 de septiembre de 2023, folio 15,ó
+
+la parte demandada objetos los siguientes documentos: a) pagar de autos; b)é
+
+escritura p blica que da cuenta del mandato judicial otorgado a los abogados donú
+
+Gaspar Cort s Moya, do a Macarena Flores Jara y don Mauricio Araneda Buntingé ñ
+
+por ser inoponible a su parte, puesto que adolecen de una inoponibilidad de fondo
+
+consistente en la falta de consentimiento y c) las escrituras p blicas repertorioú
+
+N°6182 de 2003 de fecha 8 de marzo de 2003, escritura Repertorio N° 26898
+
+de 2016 de fecha 2 de agosto de 2016, ambas otorgadas en la Notar a de Santiagoí
+
+de don Ren Benavente Cache y escritura p blica repertorio N°793-2023 de fechaé ú
+
+20 de enero del 2023, otorgada ante don Gerardo Carvallo Castillo, por ser las 3
+
+escrituras inoponibles a su parte, puesto que adolecen de una inoponibilidad de
+
+fondo consistente en la falta de consentimiento.
+
+Segundo: Que, resolviendo la objeciones formuladas, el Tribunal no hará
+
+lugar a las mismas, dado que, no consta en autos que los documentos objetados
+
+sean falsos o incompletos, ello sin perjuicio del valor probatorio que se les otorgue
+
+en la presente sentencia.
+
+II. En cuanto al fondo:
+
+Tercero: Demanda ejecutiva. Que con fecha 10 de agosto de 2023, a
+
+folio 1, comparece don Gaspar Cort s Moya, do a Macarena Flores Jara y doné ñ
+
+Mauricio Araneda Bunting, abogados, mandatarios judiciales de Socofin S.A.,
+
+representada por su gerente general don Mario Sandoval Hidalgo, representante
+
+convencional del Banco de Chile, representada a su vez por su gerente general don
+
+Eduardo Ebensperger Orrego e interponen demanda ejecutiva en contra de do añ
+
+Marta Cristina Alc ntara Calder n.á ó
+
+Exponen que su representado, es due o y leg timo tenedor del pagar queñ í é
+
+acompa an a autos, suscrito en calidad de deudora principal por do a Martañ ñ
+
+Cristina Alc ntara Calder n.á ó
+
+Refieren que dicho pagar fue suscrito por un capital original de $9.655.750,é
+
+cantidad a la que se le debe aplicar una tasa de inter s mensual de 1.25%, seg né ú
+
+se se ala en el mismo documento.ñ
+
+Mencionan que se estipul que el capital y los intereses de esta obligaci n seó ó
+
+pagar an en 72 cuotas de acuerdo al siguiente programa de amortizaciones: 71í
+
+cuotas, mensuales, iguales y sucesivas de $212.704, cada una de ellas, venciendo la
+
+primera de ellas el 25 de febrero de 2021 y a partir de esta, las cuotas siguientes
+
+Código: MPTMXMEXDXH
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+vencer n sucesivamente con la misma periodicidad antes indicada y una ltimaá ú
+
+cuota con el vencimiento el 25 de enero de 2027 y por el monto de $212.721.
+
+Hacen presente que como se estipul en el mismo pagar , el monto de cadaó é
+
+una de las cuotas indicadas en el p rrafo anterior incluye pago de capital eá
+
+intereses.
+
+Que tambi n se estipul que se acepta que el acreedor en forma exclusiva yé ó
+
+privativa, pod a destinar en cada oportunidad el importe total de las cuotas a laí
+
+amortizaci n del capital y/o de los intereses, o de ambos a la vez, en la proporci nó ó
+
+que estime conveniente.
+
+Que se pact que el simple retardo y/o mora en el pago ntegro y oportunoó í
+
+de todo o parte de una de las cuotas, facultar a al Banco de Chile para exigir elí
+
+pago total de la deuda o del saldo a que se encontrara reducida, consider ndose ená
+
+tal evento la obligaci n como de plazo vencido, pudiendo protestar y/o presentar aó
+
+cobro este pagar . Agrega que sin perjuicio de lo anterior, a contar del simpleé
+
+retardo y/o mora y hasta el pago efectivo, la obligaci n devengar a el inter só í é
+
+m ximo convencional que la ley permite estipular para operaciones de cr dito ená é
+
+moneda nacional no reajustable, pero s lo si ste fuere superior al inter s que seó é é
+
+encontrare rigiendo para la obligaci n a la fecha de producirse el simple retardo oó
+
+mora, pues en caso contrario se continuar a devengado este ltimo.í ú
+
+Destacan que la demandada s lo pag hasta a cuota N°21, inclusive, con loó ó
+
+que amortiz el capital hasta por la cantidad de $1.705.798, habiendo dejado deó
+
+pagar la cuota N°22, con vencimiento al 25 de noviembre de 2022. Que resta en
+
+consecuencia un saldo de capital adeudado de $7.949.952, cantidad a la que se
+
+deben adicionar los intereses penales correspondiente a la fecha de su pago
+
+efectivo.
+
+Que la deudora liber al Banco de la obligaci n de Protesto.ó ó
+
+Por ltimo, expresan que la firma de do a Marta Cristina Alc ntaraú ñ á
+
+Calder n fue autorizada por notario, por lo que dicho instrumento tiene m ritoó é
+
+ejecutivo y que la obligaci n es l quida, actualmente exigible y que su acci n no seó í ó
+
+encuentra prescrita.
+
+Cuarto: Excepciones. Que con fecha 4 de septiembre de 2023, folio 15,
+
+comparece la ejecutada, oponiendo las excepciones que a continuaci n se describen:ó
+
+Código: MPTMXMEXDXH
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+1. La falta de capacidad del demandante, o de personer a oí
+
+representaci n legal del que comparece a su nombre, ó art culo 464 N°2 delí
+
+C digo de Procedimiento Civil.ó
+
+Manifiesta que la Excma. Corte Suprema de Justicia en la causa Rol
+
+N°4597-2000, caratulada “Banco Sudamericano con Renato Mu oz Moscazo”,ñ
+
+conociendo en la especie, decidi que para la interposici n de la excepci nó ó ó
+
+contemplada en el N° 2 del art 464 del C digo de Procedimiento Civil esó
+
+menester analizar si al abogado compareciente tiene o no mandato de la instituci nó
+
+financiera, para lo cual no basta con acreditar el endoso en comisi n de cobranzaó
+
+que se le ha conferido, sino adem s determinar si el endosante contaba o no con laá
+
+facultad de representar a dicha instituci n financiera y en consecuencia si seó
+
+encuentra dentro de sus facultades realizar el endoso.
+
+Alega que los abogados actuantes don Gaspar Cort s Moya, do a Macarenaé ñ
+
+Flores Jara y don Mauricio Araneda Bunting, no acreditan si el mandante don
+
+Mario Sandoval Hidalgo y/o don Eduardo Ebensperger Orrego, quien le otorgue
+
+mandato judicial, contaba o no con la facultad de representar a dicha instituci n yó
+
+en consecuencia si se encuentra dentro de sus facultades realizar el cobro.
+
+Expresa que la vinculaci n de legitimaci n que los abogados exponen, paraó ó
+
+actuar en representaci n de la demandante -persona jur dica- Banco de Chile yó í
+
+Socofin S.A. se debe estar necesariamente a la legislaci n vigente, as como a lasó í
+
+disposiciones aplicables a Sociedades An nimas.ó
+
+Menciona que la Ley N°18.040, por la que se rige el demandante en su
+
+actividad comercial, prescribe que las Sociedades An nimas, tendr n uno o m só á á
+
+Gerentes designados por el Directorio, el que les fijar atribuciones y deberes,á
+
+pudiendo sustituirlos a su arbitrio, y que adem s corresponder al Gerente oá á
+
+Gerente General, en su caso, la representaci n judicial de la sociedad, y que seó
+
+encuentra investido legalmente de las facultades establecidas en ambos incisos del
+
+art culo 7° del C digo de Procedimiento Civil, adem s de otras facultades noí ó á
+
+aplicables a este caso particular.
+
+Que a dicha persona jur dica tambi n le es aplicable lo dispuesto en elí é
+
+art culo 41 del Decreto Supremo N° 587 de fecha 13 de Noviembre de 1982,í
+
+que aprueba el Reglamento de Sociedades An nimas, el cual ordena que losó
+
+acuerdos del Directorio pueden llevarse a efecto un vez que haya sido aprobada el
+
+Acta que los contiene.
+
+Código: MPTMXMEXDXH
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Alega que en la presente demanda se invocan escrituras p blicas que hacenú
+
+referencia de un Directorio de hace veinte o siete a os atr s respectivamente, noñ á
+
+constando ni su vigencia ni actualizaci n.ó
+
+2. La falta de alguno de los requisitos o condiciones establecidos por
+
+las leyes para que el t tulo tenga fuerza ejecutiva, sea absolutamente sea ení
+
+relaci n con el demandadoó , art culo 464 Nº 7 del C digo de Procedimientoí ó
+
+Civil.
+
+Sostiene que no se ha dado cumplimiento al pago y/o exenci n del impuestoó
+
+de la ley de timbres y estampillas, por lo que el pagar carece de m rito ejecutivo,é é
+
+debiendo acogerse esta excepci n en definitiva, con costas.ó
+
+Plantea que en autos no hay certificado de exenci n alguno acompa ado nió ñ
+
+menos adosado al pagar seg n se solicita certificar y que tampoco se haé ú
+
+acreditado el pago del eventual impuesto del DL 3.475 y/o diferencial
+
+3. La concesi n de esperas o la pr rroga del plazoó ó , art culo 464 Nº 11í
+
+del C digo de Procedimiento Civil.ó
+
+Postula que su parte ha hecho una sede de gestiones tendientes a obtener un
+
+plazo para solucionar el problema que motiva esta causa, a lo que la ejecutante ha
+
+accedido y que prueba de ello, es que se han recepcionado los pagos que ya se
+
+han indicado, en la excepci n anterior con el pleno conocimiento y autorizaci n deó ó
+
+la misma.
+
+Que no obstante lo anterior, por descoordinaci n de esta con su supuestoó
+
+apoderado, de igual forma ha enderezado la presente acci n en su contra, lo que leó
+
+sorprende, toda vez que existen principios de acuerdo.
+
+4. La nulidad de la obligaci nó , art culo 464 N°14 del C digo deí ó
+
+Procedimiento Civil.
+
+Hace presente que de acuerdo al art culo 107 en relaci n con el art culo 13í ó í
+
+N°4, ambos de la Ley N°18.092, el pagar adem s de las menciones esencialesé á
+
+puede contener la cl usula sin obligaci n de protesto, con lo que queda claro queá ó
+
+se trata de una cl usula accidental y que, por tanto, requiere de menci n expresa.á ó
+
+Que, al contrario, la obligaci n de protesto por falta de pago constituye unaó
+
+obligaci n de la naturaleza del pagar , como se desprende de los art culos 59 yó é í
+
+107 de la Ley N°18.092
+
+Alega que al no constar tales modalidades de suscripci n del pagar yó é
+
+trat ndose de un mandato mercantil destinado a facilitar el cobro de deudas, resultaá
+
+Código: MPTMXMEXDXH
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+evidente que el mandatario ha excedido los t rminos del mandato, vulnerando elé
+
+art culo 2131 del C digo Civil.í ó
+
+Asegura que no consta el consentimiento otorgado por su parte para que
+
+dicha entidad, a trav s de sus representantes legales, suscribiera el pagar por elé é
+
+monto se alado, autorizando su firma ante notario y liberando al beneficiario deñ
+
+dicho documento de la obligaci n de protesto, por lo que dicho pagar no puedeó é
+
+producir efecto, debiendo declararse la nulidad de la obligaci n de que da cuenta.ó
+
+Concluye se alando que no se ha acompa ado a la demanda ning n mandatoñ ñ ú
+
+que determine o justifique la representaci n que la suscriptora del pagar seó é
+
+atribuye respecto de su parte por lo que no consta en consecuencia el
+
+consentimiento de sta en la suscripci n del t tulo ejecutivo.é ó í
+
+Quinto: Contestaci n de las excepciones. ó Que con fecha 28 de septiembre
+
+de 2023, a folio 22, el ejecutante evacu el traslado que le fuera conferido,ó
+
+solicitando el rechazo de las excepciones opuestas.
+
+Respecto a la excepci n del art culo 464 N°2 del C digo de Procedimientoó í ó
+
+civil, explica que no es efectivo que su parte haya comparecido a estos autos sin la
+
+capacidad suficiente o sin personer a, debido a que la representaci n convencionalí ó
+
+del Banco de Chile consta de la escritura p blica, repertorio N°6.182-2003 deú
+
+fecha 6 de marzo de 2003 complementada mediante escritura, repertorio
+
+N°26.698-2016 de fecha 2 de agosto de 2016, ambas otorgadas en la Notaria de
+
+Santiago de don Rene Benavente Cash, que consta por escritura p blica, repertorioú́
+
+N°793-2023 de fecha 20 de enero de 2023, respectivamente, otorgada ante don
+
+Gerardo Carvallo Castillo, Notario P blico de la 45° Notar a de Santiago. Agregaú í
+
+que dichos documentos no fueron objetados.
+
+En relaci n a la excepci n del art culo 464 N°7 del C digo deó ó í ó
+
+Procedimiento Civil, manifiesta que al final del mismo pagar N°é
+
+360097108382002496, se se ala que “ñ el impuesto de timbres y estampillas que
+
+grava a este documento se paga por ingresos mensuales en Tesorer a, seg n el DLí ú
+
+3475 art culo 15í ”.
+
+Refiere que los Bancos y Financieras, entre otros, no pagan dicho gravamen
+
+a trav s de la fijaci n de las estampillas en el cuerpo del mismo documento, sinoé ó
+
+que por un sistema sujeto a control y reglamentaci n del Servicio de Impuestosó
+
+Internos, en virtud del cual el contribuyente paga todos los tributos en un mes, en
+
+una sola declaraci n mensual. Que de esta manera, los documentos emitidos poró
+
+Código: MPTMXMEXDXH
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+dicho contribuyente, afectos a este impuesto, no muestran en su cara timbres y
+
+estampillas, efectu ndose el pago del mismo y su control subsecuente, a trav s deá é
+
+un expediente diverso.
+
+En cuanto a la excepci n del art culo 464 N°11 del C digo deó í ó
+
+Procedimiento Civil, expresa que es posible que la parte demandada se alara suñ
+
+intenci n de pago de la deuda, pero que no es efectivo que se le hayan otorgadoó
+
+prorrogas y esperas para dicho pago, y menos que se la haya concedido o
+
+prorrogado el plazo para el pago de su obligaci n con Banco de Chile, por lo queó
+
+la excepci n opuesta carecer a de fundamento.ó í
+
+A mayor abundamiento, enuncia que la concesi n de pr rrogas o plazosó ó
+
+requiere primero que todo de una convenci n entre las partes que no se haó
+
+producido, y el consentimiento expreso del acreedor. Que al no existir tal
+
+consentimiento expreso, mal pueden considerarse conversaciones como fundamento
+
+suficiente para oponer esta excepci n, lo anterior acorde lo se alado por nuestraó ñ
+
+jurisprudencia, como muestra la sentencia dictada en la causa Rol Nº293-2006, de
+
+la Corte Ilustr sima de Apelaciones de Rancagua dictada con fecha 06 de Julio deí
+
+2006.
+
+Por ltimo, en lo que dice relaci n con la excepci n del art culo 464 N°14ú ó ó í
+
+del C digo de Procedimiento Civil, afirma que el t tulo de autos cumple losó í
+
+requisitos o condiciones establecidas por las leyes para tener m rito ejecutivo.é
+
+Hace presente el contenido del inciso segundo del N°4 del art culo 434 delí
+
+C digo de Procedimiento Civil.ó
+
+Concluye, expresando que no tiene sentido exigir, que el notario d cuentaé
+
+en la misma autorizaci n de c mo le consta la autenticidad de la firma, si ya se haó ó
+
+identificado al suscriptor.
+
+Sexto: Admisibilidad de las excepciones y recepci n a pruebaó . Que con
+
+fecha 29 de septiembre de 2023, a folio 23, se tuvo por evacuado el traslado, se
+
+declar admisible la excepci n opuesta y se recibi la causa a prueba, fij ndoseó ó ó á
+
+como hechos substanciales, pertinentes y controvertidos los siguientes:
+
+1. Personer a de don Gaspar Cort s Moya, de do a Macarena Flores Jara yí é ñ
+
+de don Mauricio Araneda Bunting para representar a Socofin S.A y de don Mario
+
+Sandoval Hidalgo y/o de don Eduardo Ebensperger Orrego para representar a
+
+Banco de Chile. Circunstancias de hecho que la acrediten.
+
+Código: MPTMXMEXDXH
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2. Efectividad de faltar alg n requisito o condici n establecido por la leyú ó
+
+para que el t tulo tenga m rito ejecutivo, sea absolutamente, sea con relaci n alí é ó
+
+demandado. Hechos y circunstancias que as lo acrediten.í
+
+3. Efectividad de haber concedido el ejecutante concesiones o pr rrogas deó
+
+espera para el pago de la obligaci n que demanda.ó
+
+4. Efectividad que la obligaci n, cuyo cumplimiento se persigue en estosó
+
+autos, est afectada por un vicio que conlleva su nulidad. Hechos y circunstanciasá
+
+que as lo acrediten.í
+
+S ptimoé : Prueba del ejecutante. Que la parte demandante, fund suó
+
+pretensi n en los siguientes documentos:ó
+
+1. Pagar N°é 360097108382002496. Acompa ado a folio 1.ñ
+
+2. Certificado de vigencia de Mandato de administraci n de bienes de Bancoó
+
+de Chile a Socofin S.A., de fecha 06 de marzo de 2003, repertorio N°6182 de la
+
+Notar a de don Ren Benavente Cash. Acompa ado a folio 1í é ñ
+
+3. Certificado de vigencia de Mandato de administraci n de bienes de Bancoó
+
+de Chile a Socofin S.A., de fecha 02 de agosto de 2016, repertorio N°26698 de la
+
+Notar a de don Ren Benavente Cash. Acompa ado a folio 1í é ñ
+
+4. Copia de escritura p blica de mandato de administraci n de bienes deú ó
+
+Socofin S.A. a don Patricio Pacheco Cofre y otros, de fecha 23 de enero de 2023,
+
+repertorio N°793-2023 de la Notar a de don Gerardo Carvallo Castillo.í
+
+Acompa ado a folio 1.ñ
+
+Octavo: Prueba de la ejecutada. La demandada no rindi prueba alguna.ó
+
+Noveno: Sobre la excepci n contemplada en el numeral 2 del art culoó í
+
+464 del C digo de Procedimiento Civil.ó Que la excepci n del art culo 464 N°2ó í
+
+del C digo de Procedimiento Civil dice relaci n con la falta de capacidad deló ó
+
+demandante o de personer a o representaci n legal del que comparece a su nombre,í ó
+
+cuestiones que son diversas a la legitimaci n activa.ó
+
+La doctrina y jurisprudencia, distinguen entre la capacidad para ser parte
+
+con la capacidad procesal, que es la capacidad necesaria para actuar en juicio. As ,í
+
+tienen capacidad procesal todos los que seg n el C digo Civil son capaces deú ó
+
+ejercitar derechos por s mismos, sin el ministerio o autorizaci n de otros. Noí ó
+
+tienen, por lo tanto, capacidad procesal los dementes, los imp beres, los sordomudosú
+
+que no pueden darse a entender por escrito, los menores adultos y los disipadores
+
+que se hallen bajo interdicci n de administrar lo suyo. Por su parte, la falta deó
+
+Código: MPTMXMEXDXH
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+personer a o representaci n legal dice relaci n con la actuaci n de una persona aí ó ó ó
+
+nombre de otra en el juicio.
+
+Para efectos de resolver la excepci n planteada, se tendr presente que enó á
+
+estos autos, en representaci n del ejecutante, comparecieron los abogados donó
+
+Gaspar Cort s Moya, do a Macarena Flores Jara y don Mauricio Araneda Bunting,é ñ
+
+abogados, quienes comparecen exhibiendo mandato judicial otorgado por escritura
+
+p blica de fecha 08 de marzo de 2003, donde Banco de Chile otorga a la filialú
+
+Socofin S.A. un mandato de administraci n de bienes sobre la cartera de cr ditos,ó é
+
+para cobranza judicial y extrajudicial, complementada mediante escritura de fecha 2
+
+de agosto de 2016, ambas otorgadas en la Notaria de Santiago de don René
+
+Benavente Cash, y tambi n acompa aron copia de escritura p blica, repertorioé ñ ú
+
+N°793-2023 de fecha 20 de enero de 2023, otorgada ante don Gerardo Carvallo
+
+Castillo, Notario P blico de la 45° Notar a de Santiago, en la que constaú í
+
+expresamente en su art culo segundo que Socofin S.A. a nombre y representaci ní ó
+
+del Banco de Chile otorg mandato de administraci n de bienes a una serie deó ó
+
+abogados, dentro de los cuales, se encuentran don Gaspar Cort s Moya, do aé ñ
+
+Macarena Flores Jara y don Mauricio Araneda Bunting (los 3 abogados que
+
+comparecieron en estos autos en representaci n de la parte demandante). Asimismoó
+
+se detalla en dicho documento, que como mandatarios podr n efectuar la cobranzaá
+
+judicial y extrajudicial de cr ditos, recibir pagos totales o parciales, gestionaré
+
+prejudicialmente su cobro, entre otras facultades.
+
+Que lo anterior, resulta por si solo suficiente para entender que la personer aí
+
+de los abogado ha sido extendida en la forma prescrita por el art culo 6 delí
+
+C digo de Procedimiento Civil.ó
+
+En Raz n de lo anterior, se rechazar la excepci n opuesta.ó á ó
+
+D cimo: é Sobre la excepci n contemplada en el numeral 7 del art culoó í
+
+464 del C digo de Procedimiento Civiló . El ejecutado alega que la parte
+
+demandante incumpli el tenor literal del inciso primero del art culo 26 del Decretoó í
+
+Ley N°3.475.
+
+Que sin embargo, hay que destacar que a dicha mencionada norma se le
+
+incorpor un inciso segundo, en conformidad al art culo 3º letra e) del Decretoó í
+
+Ley N°3.581, el cual establece que lo dispuesto en el art culo 26 no ser aplicableí á
+
+respecto de los documentos cuyo impuesto se paga por ingreso en Tesorer a y queí
+
+Código: MPTMXMEXDXH
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+cumplan con los requisitos que establece esta ley y el Servicio de Impuestos
+
+Internos.
+
+Que, como se puede observar del documento singularizado con el n mero 1ú
+
+del considerando s ptimo (que corresponde al pagar N°é é 360097108382002496)
+
+aparece expresamente al final de la p ginas 1, 2 y 3 lo siguiente: “á El presente
+
+pagar se encuentra exento de impuesto de timbres y estampillas, conforme alé
+
+art culo 17 N°24 DL 3.475 respecto de aquellas cantidades que se indican comoí
+
+capital, intereses, gastos y comisiones en certificado que se adosa al mismo respecto
+
+de las cantidades no cubiertas por la exenci n indicada, el impuesto de timbres yó
+
+estampillas se paga por ingresos mensuales de dinero en Tesorer a, seg n el art culoí ú í
+
+15 N°2 del DL 3.475”.
+
+Hay que tener presente que el art culo 17 del Decreto Ley N°3.475 se alaí ñ
+
+que: “Los impuestos establecidos en esta ley se pagar n: 1.- Por ingreso en dineroá
+
+en la Tesorer a, acredit ndose el pago con el respectivo recibo, por medio de uní á
+
+timbre fijo o mediante el empleo de m quinas impresoras, yá (…)”.
+
+Por ello, en criterio de este Tribunal, el pagar acompa ado a autos, re neé ñ ú
+
+todos los requisitos necesarios para que tenga fuerza ejecutiva; adem s, que de loá
+
+obrado por el Sr. Notario, aparece tambi n cumplido lo dispuesto por los art culoé í
+
+401 N°10, 409 y 425 del C digo Org nico de Tribunales.ó á
+
+Que, con lo anteriormente razonado, es posible concluir que no se ha
+
+probado el fundamento f ctico de la excepci n opuesta y por lo expuesto, toda laá ó
+
+argumentaci n del ejecutado en tanto con ella pretende justificar el incumplimientoó
+
+de las formalidades de la ley en la suscripci n del pagar de autos no puede seró é
+
+acogida, y por lo mismo, su excepci n de faltar alg n requisito o condici n exigidaó ú ó
+
+por la ley para que el t tulo tenga fuerza ejecutiva debe desestimarse.í
+
+Und cimoé : Sobre la excepci n contemplada en el numeral 11 deló
+
+art culo 464 del C digo de Procedimiento Civilí ó . Que la parte ejecutada no
+
+present prueba alguna para acreditar esta excepci n,ó ó por lo que no es posible
+
+establecer de forma alguna que se le hayan concedido esperas ni pr rrogas.ó
+
+Duod cimo: Sobre la excepci n contemplada en el numeral 14 delé ó
+
+art culo 464 del C digo de Procedimiento Civilí ó . La ejecutada alega que el
+
+mandatario Banco de Chile, se habr a excedido en las facultades conferidas porí
+
+su representado, por haber suscrito un pagar autorizando la firma del suscriptoré
+
+Código: MPTMXMEXDXH
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+ante notario y liberando al beneficiario del pagar de la obligaci n deé ó
+
+protestarlo.
+
+Que sin embargo, del m rito del documento singularizado con el n mero 1é ú
+
+del considerando quinto, que corresponde al pagar N°360097108382002496, seé
+
+puede observar claramente la firma de la propia ejecutada, do a Marta Cristinañ
+
+Alc ntara Calder n, sin mediar representaci n alguna en la suscripci n del mismo.á ó ó ó
+
+Adem s, cabe destacar que del pagar referido, consta la autorizaci n notarial talá é ó
+
+como lo requiere el art culo 434 N°4 inciso 2 del C digo de Procedimientoí ó
+
+Civil
+
+A mayor abundamiento, se tendr presente que la ejecutada no rindiá ó
+
+prueba alguna para acreditar sus alegaciones, en conformidad a lo dispuesto en el
+
+art culo 1698 del C digo Civil.í ó
+
+Que, con lo anteriormente razonado, es posible concluir que no se ha
+
+probado el fundamento f ctico de la excepci n opuesta y por lo expuesto, todaá ó
+
+la argumentaci n de la parte ejecutada en tanto con ella pretende justificar laó
+
+nulidad de la obligaci n no puede ser acogida, y por lo mismo, su excepci nó ó
+
+debe desestimarse.
+
+Y visto, adem s, lo dispuesto en las normas citadas, los art culos 1545, 1698á í
+
+y 2514 del C digo Civil, los art culos 144, 170, 434, 464 Nó í ° 2, N°7, N°11 y
+
+N°14, 437, 466 y 471 del C digo de Procedimiento Civil, y art culo 98 y 107ó í
+
+Ley N°18.092, se declara:
+
+I. En cuanto a la objeci n de documentos:ó
+
+1. Que se rechaza la objeci n de prueba documental deducida por laó
+
+ejecutada con fecha 4 de septiembre de 2023, a folio 15.
+
+II. En cuanto al fondo:
+
+1.- Que se rechazan las excepciones contenidas en los numerales 2, 7,
+
+11 y 14 del artículo 464 del Código de Procedimiento Civil, interpuestas en
+
+escrito de fecha 4 de septiembre de 2023, al folio N°15, ordenándose proseguir
+
+con la ejecución.
+
+2.- Que, habi ndose rechazado las excepciones é se condena en costas a la
+
+parte ejecutada.
+
+Reg strese electr nicamente, y notif quese.í ó í
+
+Código: MPTMXMEXDXH
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Pronunciada por do a ñ Gabriela Guajardo Aguilera, Jueza Titular del
+
+Primer Juzgado Civil de Vi a del Mar. ñ
+
+En Vi a del Marñ , a doce de Marzo de dos mil veinticuatro, se dio
+cumplimiento con lo dispuesto en el art culo 162 del C digo de Procedimientoí ó
+Civil.
+
+Código: MPTMXMEXDXH
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2024-03-12T14:04:17-0300
