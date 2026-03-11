@@ -6,20 +6,21 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7976478
 
 rol: 52684-2025
 
-fecha_sentencia: 2025-12-29
+fecha_sentencia: 2025-12-30
 
 caratulado: GRUPO CULINARIO 19 LIMITADA/PLAZA ESTACIÓN S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: (CIVIL) APELACIÓN RECLAMACIÓN
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
+Corte Apelaciones ▼
 Santiago, treinta de diciembre de dos mil veinticinco.
 
 Vistos y teniendo únicamente presente:
@@ -38,22 +39,7 @@ Rol Nº 52.684-2025.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
-C.A. de Santiago
-cdo
-Santiago, veintiocho de octubre de dos mil veinticinco.
-
-Sin perjuicio de lo ordenado a folio 3, habiéndose notificado personalmente a la recurrida, quien da cuenta de los hechos relativos al recurso, téngase por cumplida la notificación de folio 5.
-Vistos y teniendo presente:
-
-1°) Que el recurso de protección tiene por objeto restablecer el imperio del derecho cuando éste ha sido quebrantado por actos u omisiones arbitrarias o ilegales que amenazan, perturban o privan del ejercicio legítimo de alguna de las garantías taxativamente numeradas en el artículo 20 de la Constitución Política de la República, dejando a salvo las demás acciones legales.
-
-2°) Que los hechos descritos en la presentación y las peticiones que se formulan a esta Corte exceden las materias que deben ser conocidas por el presente recurso atendida su naturaleza cautelar, por lo que no será admitido a tramitación.
-
-Y de conformidad, además, con lo dispuesto en el Auto Acordado de la Excma. Corte Suprema sobre tramitación y fallo del recurso de protección de las garantías constitucionales, se declara inadmisible el recurso de protección interpuesto al folio 1.
-
-Sin perjuicio de lo resuelto precedentemente, se hace presente al Receptor de Turno que en lo sucesivo deberá cumplir estrictamente con lo encomendado, en los mismos términos que se disponga por resolución de esta Corte. Comuníquese vía correo electrónico al Receptor señor Luis Carrasco Moreira.
-Archívese.
-N°Protección-22098-2025.
+Santiago, treinta de diciembre de dos mil veinticinco.Vistos y teniendo únicamente presente:Primero: Que en estos autos la parte recurrente ha deducido recurso de apelación en contra de la resolución dictada por la Corte de Apelaciones respectiva, por la que se declaró inadmisible, en cuenta, el recurso de protección deducido.Segundo: Que el  inciso segundo del número 2 del Auto Acordado de esta Corte sobre Tramitación del Recurso de Protección de Garantías Constitucionales dispone: ¿Presentado el recurso, el Tribunal examinará en cuenta si ha sido interpuesto en tiempo y si se mencionan hechos que puedan constituir la vulneración de garantías de las indicadas en el  artículo 20 de la Constitución Política de la República . Si su presentación es extemporánea o no se señalan hechos que puedan constituir vulneración a garantías de las mencionadas en la referida disposición constitucional, lo declarará inadmisible desde luego por resolución fundada, la que sólo será susceptible del recurso de reposición ante el mismo tribunal, el que deberá interponerse dentro de tercero día. En carácter de subsidiario de la reposición, procederá la apelación para ante la Corte Suprema, recurso que será resuelto en cuenta¿.Tercero: Que los hechos materia del presente arbitrio se vinculan con un conflicto relativo al funcionamiento, administración y decisiones de una asociación gremial, tratándose, en consecuencia, de asuntos propios de la autorregulación de la organización. Por consiguiente, dada su naturaleza urgente y cautelar, el recurso de protección no es la vía idónea para conocer del presente arbitrio.Por estas consideraciones y lo dispuesto en el  artículo 20 de la Constitución Política de la República y en el Auto Acordado de esta Corte sobre la materia, se confirma la resolución apelada, dictada por la Corte de Apelaciones de Antofagasta. Regístrese y devuélvase.Rol Nº 54.864-2025. Santiago, treinta de diciembre de dos mil veinticinco.Vistos y teniendo únicamente presente:Primero: Que en estos autos la parte recurrente ha deducido recurso de apelación en contra de la resolución dictada por la Corte de Apelaciones respectiva, por la que se declaró inadmisible, en cuenta, el recurso de protección deducido.Segundo: Que el inciso segundo del número 2 del Auto Acordado de esta Corte sobre Tramitación del Recurso de Protección de Garantías Constitucionales dispone: “Presentado el recurso, el Tribunal examinará en cuenta si ha sido interpuesto en tiempo y si se mencionan hechos que puedan constituir la vulneración de garantías de las indicadas en el artículo 20 de la Constitución Política de la República. Si su presentación es extemporánea o no se señalan hechos que puedan constituir vulneración a garantías de las mencionadas en la referida disposición constitucional, lo declarará inadmisible desde luego por resolución fundada, la que sólo será susceptible del recurso de reposición ante el mismo tribunal, el que deberá interponerse dentro de tercero día. En carácter de subsidiario de la reposición, procederá la apelación para ante la Corte Suprema, recurso que será resuelto en cuenta”.Tercero: Que los hechos materia del presente arbitrio se vinculan con un conflicto relativo al funcionamiento, administración y decisiones de una asociación gremial, tratándose, en consecuencia, de asuntos propios de la autorregulación de la organización. Por consiguiente, dada su naturaleza urgente y cautelar, el recurso de protección no es la vía idónea para conocer del presente arbitrio.Por estas consideraciones y lo dispuesto en el artículo 20 de la Constitución Política de la República y en el Auto Acordado de esta Corte sobre la materia, se confirma la resolución apelada, dictada por la Corte de Apelaciones de Antofagasta.Regístrese y devuélvase.Rol Nº 54.864-2025. Sentencia anonimizada
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------

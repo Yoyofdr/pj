@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_7977013
 
 rol: 59279-2024
 
-fecha_sentencia: 2025-12-29
+fecha_sentencia: 2025-12-30
 
 caratulado: CRISTIAN ANTONIO ALONSO ZAMORANO C/ DAVID JOSE SANCHEZ HUAMAN
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Cuasidelitos
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
 
 resultado_recurso: RECHAZA RECURSO DE NULIDAD (M)
 
