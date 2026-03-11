@@ -1,0 +1,97 @@
+METADATA
+
+case_id: a1fa6a31c486070b40c8f1f60c2f9caf8d473e2b
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046971
+
+rol: 7931-2026
+
+fecha_sentencia: 2026-03-03
+
+caratulado: MONCADA CESPEDES ROBIN ALEXIS CONTRA SALA CORTE DE APELACIONES DE TEMUCO
+
+sala: SEGUNDA, PENAL
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Corte Apelaciones ▼
+Santiago, tres de marzo de dos mil veintiséis.
+
+Vistos y teniendo únicamente presente:
+Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de diecisiete de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Valdivia, en el Ingreso Corte N° 60-2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.
+
+Acordada con el voto en contra de la Ministra Sra. Gajardo, quien estuvo por confirmar la resolución apelada en virtud de sus propios fundamentos.
+
+Regístrese y devuélvase.
+
+Rol N° 7931-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Santiago
+Santiago, veintidós de enero de dos mil veintiséis.
+
+Vistos:
+
+Primero: Que, el abogado de la empresa deudora Goico Consultores SpA , dedujo recurso de apelación en contra de la resolución dictada el 17 de enero de 2025, por la que se acogió el incidente de declaración de mala fe del deudor, deducido por el liquidador Javier Guinguis Charney, en el procedimiento concursal de liquidación voluntaria de la mencionada empresa, argumentando que a la fecha de interposición de la acción concursal, el articulo 169 A no se encontraba vigente, por lo que no se puede aplicar; que los documentos probatorios de la demandante, no tienen mérito para que prueben el ocultamiento o distracción de bienes y/o derechos del patrimonio ni el eventual perjuicio de la empresa deudora; y, que no se valora la prueba presentada por su parte.
+
+Segundo: Que, sobre la alegación de falta de vigencia de la norma aplicada, resulta necesario atender a que, tanto la solicitud como la resolución que da inicio al procedimiento de declaración voluntaria solicitado y realiza las declaraciones ordenadas a su respecto, que este caso es de 1 de septiembre de 2023, son las que fijan certeza sobre la normativa a aplicar a la empresa deudora solicitante. Será en este momento procesal en que se aplicará la normativa concursal. En efecto, puede suceder que la solicitud sea rechazada o pospuesta su iniciación, conforme se estipula en los artículos 115 y 116 de la ley 20.720.
+
+Enseguida, la agregación del articulo 169 A en la referida ley, efectivamente se realiza en virtud de la ley 21.653, publicada el 10 de mayo de 2023, la que fija como regla general del inicio de su vigencia, cumplidos tres meses desde su publicación, esto es el 11 de agosto de 2023, sin que se contenga en ella, norma que difiera la aplicación del artículo 169 A que se agrega.
+
+En sentido diverso al que pretende el impugnante, el articulo 4 transitorio, se refiere a aspectos procesales vinculados a la prevalencia de la sustanciación y ritualidades a la entrada en vigor de la ley como a los nuevos procedimientos concursales que se introducen, a saber, la liquidación y la reorganización simplificadas.
+
+Lo que, si puede vincularse, indirectamente, es lo que dispone el artículo 5 transitorio:
+
+“Las normas de los procedimientos concursales de Liquidación Simplificada y de Reorganización Simplificada, dispuestos en los Títulos 2 y 3 del Capítulo V de la ley N° 20.720, respectivamente, con las modificaciones incorporadas mediante la presente ley, sólo se aplicarán a aquellos procedimientos en que la solicitud de inicio o demanda, según corresponda, hubiere sido presentada con posterioridad a la entrada en vigor de la presente ley.
+
+Los procedimientos concursales de Liquidación de Bienes de la Persona Deudora que se hubieren iniciado con anterioridad a la entrada en vigor de la presente ley se substanciarán de acuerdo a las normas del Procedimiento Concursal de Liquidación Simplificada.”
+
+De su tenor, el primer inciso, solo determina el tipo de procedimiento a aplicar, prevaleciendo los que se establecen en su virtud.
+
+Respecto de la disposición de su inciso segundo, se fija la substanciación de un procedimiento concursal, que no afecta norma sustantiva de ningún tipo.
+
+En definitiva, la vigencia del articulo 169 A es consustancial a la vigencia de la ley, sin distinguir algún tipo de aplicación diferida.
+
+Tercero: Que, sin perjuicio de lo razonado previamente, es relevante establecer la naturaleza jurídica de esta nueva acción concursal, siendo al efecto esclarecedor lo indicado por la doctrina, en particular lo que se señala en un reciente artículo
+:
+
+“La última reforma a la ley concursal (Ley N°21.563), ha introducido diversas modificaciones, siendo uno de los cambios normativos relevantes la excepción al efecto de liberación de los saldos insolutos que quedan al término del procedimiento concursal de liquidación. Lo anterior ocurrirá en caso de que se declare la mala fe del deudor, consagrando incentivos para que éste se comporte colaborativa y lealmente con sus acreedores antes y durante el procedimiento concursal de liquidación.”
+
+A esto se agregaba el siguiente efecto negativo para los acreedores:
+
+“En esta materia, la versión original de la Ley N°20.720 contemplaba un tratamiento benévolo al deudor en el procedimiento concursal de liquidación, toda vez que, le permitía acceder al efecto liberatorio mencionado, generando un freshstart (partir de nuevo). Ese beneficio era mayor que el consagrado en la legislación anterior (Ley N°18.175), que establecía la extinción del saldo insoluto de las deudas del quebrado anteriores a la declaración de la quiebra, siempre que se decretara el sobreseimiento definitivo.
+
+A pesar de que el beneficio es el mismo, era difícil y lento obtener un sobreseimiento definitivo porque se requería que transcurrieran 2 años desde que se aprobara la cuenta definitiva del síndico sumado a la necesidad de que una sentencia penal firme calificara la quiebra como fortuita (lo que podía durar muchísimos años), y que el deudor no hubiese sido condenado por ciertos delitos. En cambio, la Ley N°20.720, produce el mismo resultado con la terminación del procedimiento, sin necesidad de esperar ningún otro proceso ni tiempo adicional.
+
+Y luego, se sintetiza el efecto negativo para los acreedores, que es el motivo más relevante para esta nueva creación:
+
+“Sin embargo, ese tratamiento propicio al deudor motivó que éstos iniciaran una gran cantidad de procedimientos concursales de liquidación a pesar de no tener bienes, transformando ese procedimiento en un mecanismo de extinción de obligaciones.”
+
+Así, la introducción de esta acción concursal, para declarar la mala fe del deudor, es una respuesta al abuso de lograr el efecto liberatorio para un deudor, si este incluso ha realizado actuaciones que van en contra de sus acreedores, como sucede en el presente caso.
+
+Cuarto: Que, en la valoración de la prueba presentada, por ambas partes, el juez a quo la realiza conforme las reglas de la sana crítica, que se ha definido como un sistema de valoración de la prueba en orden a que el juez proceda a realizar un juicio de valor sobre la eficacia o ineficacia que tienen las pruebas producidas, realizando un análisis razonado de las mismas, siguiendo las reglas de la lógica, de la experiencia, del buen sentido y el entendimiento humano. Por lo que este sistema no permite que el juzgador realice una valoración arbitraria de la prueba materializada, debiendo respetar las reglas que orientan el pensamiento humano.
+
+Con esto, estima esta Corte, que la valoración del sentenciador, satisface estas exigencias, por cuanto declara que es el liquidador, como incidentista, quien debió probar los hechos que fundarían la declaración de la mala fe de la empresa deudora, señalando que se acredita la venta de un vehículo, hecha por el representante de la empresa a sí mismo, dentro del periodo sospechoso, en detrimento de los acreedores al disminuir la masa de bienes, dando a ella un valor muy por debajo del precio de mercado, citando la documentación detallada que lo lleva a tales conclusiones, sin que se vislumbre arbitrariedad de ningún tipo.
+
+Por estas consideraciones y lo dispuesto en los artículos 186 y siguientes del Código de Procedimiento Civil, se confirma la resolución apelada de diecisiete de enero de dos mil veinticinco, que acogió el incidente de mala fe deducido por el liquidador titular don Javier Guinguis Charney dictada en los autos rol C-13377-2023 del Séptimo Juzgado Civil de Santiago, sin costas.
+
+Devuélvase.
+
+Redacción del abogado integrante señor Manuel Luna.
+
+N°Civil-3193-2025.
+
+Pronunciada por la Séptima Sala de la Iltma. Corte de Apelaciones de Santiago, presidida por el ministro señor José Pablo Rodríguez Moreno e integrada por la ministra (S) señora Paulina Roncagliolo Hantke y por el abogado integrante señor Manuel Luna Abarza. No firma la ministra (S) señora Roncagliolo por haber terminado su suplencia.
+
+� “ EL INCIDENTE DE MALA FE DEL DEUDOR ¿UN CAMBIO DE TUERCA EN LA LEGISLACIÓN CONCURSAL CHILENA?.” Nicolás Carrasco Delgado. Revista de Ciencias Sociales, Facultad de Derecho Universidad de Valparaíso, Nº 86, 30 julio 2025.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, tres de marzo de dos mil veintiséis.VISTOS Y TENIENDO PRESENTE:Primero: Que en este procedimiento de liquidación voluntaria de empresa deudora, seguido ante el Séptimo Juzgado Civil de Santiago, bajo el Rol C-13377-2023, caratulado “/Goico Consultores SpA”, se ha ordenado dar cuenta de la admisibilidad de los recursos de casación en la forma y en el fondo deducidos por la empresa deudora, contra la sentencia de la Corte de Apelaciones de esta ciudad, de veintidós de enero de dos mil veintiséis, que confirmó la resolución de primer grado, de diecisiete de enero de dos mil veinticinco, que acogió el incidente declarando la mala fe de la empresa deudora en la venta que indica, con costas.Segundo: Que la impugnante de nulidad formal sustenta su arbitrio en la causal prevista en el numeral 5° del artículo 768 del Código de Procedimiento Civil, en relación con el numeral 4° del artículo 170 del mismo cuerpo legal.Por otra parte, la recurrente funda el arbitrio de nulidad de fondo en la infracción de los artículos 5, 115, 116 y 169 A de la Ley N° 20.720, en relación con los artículos cuarto y quinto transitorios de la Ley N° 21.563, y el artículo 19 N° 3 de la Constitución Política de la República.Solicita se anule el fallo recurrido y se dicte sentencia de reemplazo que revoque la resolución de primer grado y niegue lugar a la demanda incidental.Tercero: Que el artículo 766 del Código de Procedimiento Civil dispone que se admite el recurso de casación en la forma contra sentencias definitivas y contra sentencias interlocutorias cuando ponen término al juicio o hacen imposible su continuación y, excepcionalmente, contra las sentencias interlocutorias dictadas en segunda instancia sin previo emplazamiento de la parte agraviada, o sin señalar día para la vista de la causa.A su turno, el artículo 767 del Código de Procedimiento Civil dispone que se admite el recurso de casación en el fondo contra sentencias definitivas inapelables, y sentencias interlocutorias inapelables cuando ponen término al juicio o hacen imposible su continuación, dictadas -en lo que interesa para el presente caso- por Cortes de Apelaciones, siempre que se hayan pronunciado con infracción de ley influyendo substancialmente en lo dispositivo del fallo.Cuarto: Que, como puede advertirse, la resolución impugnada por esta vía no presenta las características de aquéllas aludidas en el motivo precedente, toda vez que no es una sentencia definitiva, ni tampoco una interlocutoria que haya concluido el juicio, ni hecho imposible su prosecución; razón por la que los recursos de nulidad intentados no pueden admitirse a tramitación.Por estas consideraciones y de conformidad, además, con lo dispuesto en los artículos 764, 765, 766, 767, 768, 781 y 782 del Código de Procedimiento Civil, se declaran inadmisibles los recursos de casación en la forma y en el fondo, interpuestos por el abogado Francisco Goic González, en representación por la empresa deudora, contra la sentencia de veintidós de enero de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago.Al folio 6: a lo principal, téngase presente; al otrosí, estese al mérito de autos.Regístrese, notifíquese, comuníquese y devuélvase, vía interconexión.Rol N° 7495-2026 Santiago, tres de marzo de dos mil veintiséis.VISTOS Y TENIENDO PRESENTE:Primero: Que en este procedimiento de liquidación voluntaria de empresa deudora, seguido ante el Séptimo Juzgado Civil de Santiago, bajo el Rol C-13377-2023, caratulado “/Goico Consultores SpA”, se ha ordenado dar cuenta de la admisibilidad de los recursos de casación en la forma y en el fondo deducidos por la empresa deudora, contra la sentencia de la Corte de Apelaciones de esta ciudad, de veintidós de enero de dos mil veintiséis, que confirmó la resolución de primer grado, de diecisiete de enero de dos mil veinticinco, que acogió el incidente declarando la mala fe de la empresa deudora en la venta que indica, con costas.Segundo: Que la impugnante de nulidad formal sustenta su arbitrio en la causal prevista en el numeral 5° del artículo 768 del Código de Procedimiento Civil, en relación con el numeral 4° del artículo 170 del mismo cuerpo legal.Por otra parte, la recurrente funda el arbitrio de nulidad de fondo en la infracción de los artículos 5, 115, 116 y 169 A de la Ley N° 20.720, en relación con los artículos cuarto y quinto transitorios de la Ley N° 21.563, y el artículo 19 N° 3 de la Constitución Política de la República.Solicita se anule el fallo recurrido y se dicte sentencia de reemplazo que revoque la resolución de primer grado y niegue lugar a la demanda incidental.Tercero: Que el artículo 766 del Código de Procedimiento Civil dispone que se admite el recurso de casación en la forma contra sentencias definitivas y contra sentencias interlocutorias cuando ponen término al juicio o hacen imposible su continuación y, excepcionalmente, contra las sentencias interlocutorias dictadas en segunda instancia sin previo emplazamiento de la parte agraviada, o sin señalar día para la vista de la causa.A su turno, el artículo 767 del Código de Procedimiento Civil dispone que se admite el recurso de casación en el fondo contra sentencias definitivas inapelables, y sentencias interlocutorias inapelables cuando ponen término al juicio o hacen imposible su continuación, dictadas -en lo que interesa para el presente caso- por Cortes de Apelaciones, siempre que se hayan pronunciado con infracción de ley influyendo substancialmente en lo dispositivo del fallo.Cuarto: Que, como puede advertirse, la resolución impugnada por esta vía no presenta las características de aquéllas aludidas en el motivo precedente, toda vez que no es una sentencia definitiva, ni tampoco una interlocutoria que haya concluido el juicio, ni hecho imposible su prosecución; razón por la que los recursos de nulidad intentados no pueden admitirse a tramitación.Por estas consideraciones y de conformidad, además, con lo dispuesto en los artículos 764, 765, 766, 767, 768, 781 y 782 del Código de Procedimiento Civil, se declaran inadmisibles los recursos de casación en la forma y en el fondo, interpuestos por el abogado Francisco Goic González, en representación por la empresa deudora, contra la sentencia de veintidós de enero de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago.Al folio 6: a lo principal, téngase presente; al otrosí, estese al mérito de autos.Regístrese, notifíquese, comuníquese y devuélvase, vía interconexión.Rol N° 7495-2026 Sentencia anonimizada
