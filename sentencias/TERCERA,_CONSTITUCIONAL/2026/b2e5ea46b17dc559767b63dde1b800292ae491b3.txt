@@ -1,0 +1,261 @@
+METADATA
+
+case_id: b2e5ea46b17dc559767b63dde1b800292ae491b3
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047745
+
+rol: 6963-2026
+
+fecha_sentencia: 2026-03-04
+
+caratulado: ULLOA/ISAPRE NUEVA MASVIDA S.A.
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (CIVIL) APELACIÓN PROTECCIÓN
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Tribunales ▼
+Santiago, cuatro de marzo de dos mil veintiséis.
+
+Vistos y teniendo presente:
+1° Que de conformidad a lo dispuesto en los artículos 196 y 203 del Código de Procedimiento Civil, el recurso de hecho es un medio de impugnación que se concede para los casos en que el tribunal a-quo, resolviendo acerca de la admisibilidad de un recurso de apelación, lo conceda siendo improcedente o lo otorgue en un efecto distinto; y en el segundo caso, lo deniegue debiendo haberlo concedido.
+
+2° Que en consecuencia, el tribunal competente para conocer del recurso de hecho es el tribunal de alzada o ad-quem, ante quien la parte afectada puede concurrir dentro de plazo legal, fallándolo en cuenta.
+
+3° Que sin perjuicio que lo alegado por el recurrente no se encuentra en los presupuestos de procedencia del líbelo deducido, toda vez, que, en la especie, el recurrente de hecho impugna la decisión de la Corte de Apelaciones de Concepción que declaró inadmisible el recurso de apelación de aquella parte de la sentencia que no dio lugar a computar el plazo que la sentencia estuvo retenida al plazo de suspensión de esta.
+
+4° Que como premisa ha de asentarse que la competencia de esta Corte se encuentra establecida, fundamentalmente, en los artículos 96, 97 y 98 del Código Orgánico de Tribunales, sea instalada en salas o reunida en pleno, sin perjuicio de otras normas complementarias de dicha competencia. Entre las materias y recursos que deben ser resueltas por este Tribunal no se encuentra el recurso de hecho de que se trata, a través del cual se pretende, en la especie, corregir lo resuelto por los Ministros de la Corte de Apelaciones de Concepción, es decir, se ha planteado como una forma de velar por la aplicación del principio de la doble instancia y sabido es que esta Corte no posee la naturaleza de tribunal de grado o de instancia, excepto los casos expresamente previstos por la ley.
+
+Por estas consideraciones y normas legales citadas, se declara sin lugar el recurso de hecho interpuesto en contra de la resolución de diez de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Concepción.
+
+Regístrese, comuníquese y archívese.
+
+Rol N° 6705-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Tribunales ▼
+C.A. de Concepción
+Concepción, diez de febrero de dos mil veintiséis.
+
+Visto y teniendo presente:
+Primero: Que en la causa RIT 3442-2025, seguida ante el Juzgado de Garantía de Concepción, el abogado defensor particular don Damián Eriel Sepúlveda Muñoz, en representación del sentenciado don Alejandro Teodoro Urra Sánchez, interpuso recurso de apelación en contra de la sentencia definitiva de fecha 19 de diciembre de 2025. El recurso se dirige específicamente contra la parte que sustituyó la pena privativa de libertad de cuarenta y un días de prisión por la de reclusión parcial nocturna domiciliaria, solicitando que sea sustituida por la de remisión condicional de la pena; y, además, impugna la decisión de no abonar al cómputo de la suspensión de la licencia de conducir el tiempo que esta estuvo retenida durante la investigación.
+
+Segundo: Que, en cuanto a la pena sustitutiva, el recurrente sostiene que se cumplen los requisitos legales para la procedencia de la remisión condicional, a pesar de que el tribunal de primera instancia la denegó por considerar insuficientes los antecedentes subjetivos y por dudas sobre la vigencia de la licencia del imputado al momento de los hechos.
+
+Tercero: Que, de acuerdo con lo estipulado en el artículo 3° de la Ley N°18.216, “La remisión condicional consiste en la sustitución del cumplimiento de la pena privativa de libertad por la discreta observación y asistencia del condenado ante la autoridad administrativa durante cierto tiempo.”.
+Y de conformidad a lo prevenido en el artículo 4 de la Ley 18.216 que establece penas sustitutivas a las penas privativas o restrictivas de libertad, “La remisión condicional podrá decretarse:
+
+a) Si la pena privativa o restrictiva de libertad que impusiere la sentencia no excediere de tres años;
+
+b) Si el penado no hubiese sido condenado anteriormente por crimen o simple delito. En todo caso, no se considerarán para estos efectos las condenas cumplidas diez o cinco años antes, respectivamente, de la comisión del nuevo ilícito;
+
+c) Si los antecedentes personales del condenado, su conducta anterior y posterior al hecho punible y la naturaleza, modalidades y móviles determinantes del delito permitieren presumir que no volverá a delinquir, y
+
+d) Si las circunstancias indicadas en las letras b) y c) precedentes hicieren innecesaria una intervención o la ejecución efectiva de la pena.
+
+Con todo, no procederá la remisión condicional como pena sustitutiva si el sentenciado fuere condenado por aquellos ilícitos previstos en los artículos 15, letra b), o 15 bis, letra b), debiendo el tribunal, en estos casos, imponer la pena de reclusión parcial, libertad vigilada o libertad vigilada intensiva, si procediere”.
+
+Tales requisitos la doctrina los ha distinguido entre unos de carácter objetivo, que son los que se refieren al injusto por el cual el sujeto ha sido condenado, la penalidad impuesta y la referencia a condenas anteriores; y otros de carácter subjetivo, como son aquellos que apuntan a los antecedentes sociales y características de personalidad del condenado, su conducta anterior y posterior al hecho punible y la naturaleza, modalidades y móviles determinantes del delito.
+
+Cuarto: De los antecedentes de la causa y lo expuesto en estrados, esta Corte estima que el sentenciado cumple con las exigencias previstas en los artículos 3 y 4 de la Ley 18.216, toda vez que su conducta anterior y las circunstancias del hecho permiten concluir que una intervención mínima será suficiente para su readaptación, no existiendo impedimentos legales insalvables para otorgar dicha sustitución.
+
+Quinto: Que, respecto a la impugnación del cómputo del tiempo de suspensión de la licencia de conducir, el tribunal de primera instancia rechazó considerar el tiempo de retención previo por no constar la vigencia de la licencia en la hoja de vida del conductor al momento de los hechos. Sobre este punto, es necesario analizar la procedencia del recurso de apelación de conformidad con las reglas generales del proceso penal.
+
+Sexto: Que, de acuerdo con lo dispuesto en el artículo 370 del Código Procesal Penal, el recurso de apelación procede únicamente contra las resoluciones dictadas por el juez de garantía cuando: a) Pongan término al procedimiento, hagan imposible su prosecución o lo suspendan por más de treinta días; y b) Cuando la ley lo señale expresamente.
+
+Séptimo: Que la decisión jurisdiccional que determina la forma de cómputo de una pena, como es la suspensión de la licencia de conducir, o el abono de tiempos de retención administrativa en el marco de una sentencia definitiva en procedimiento oral simplificado, no se encuentra dentro de las hipótesis taxativas de procedencia que establece el citado artículo 370. En consecuencia, la apelación en este extremo resulta inadmisible, ya que la ley no contempla dicho recurso para impugnar la determinación específica de abonos de tiempos en penas restrictivas de derechos dentro de una sentencia condenatoria de esta naturaleza.
+
+Por estas consideraciones, y de conformidad con lo dispuesto en los artículos 1, 3, 4 y 37 de la Ley 18.216; y artículos 352, 364 y 370 del Código Procesal Penal, se resuelve:
+I.- Que, se revoca la sentencia de diecinueve de diciembre de dos mil veinticinco, dictada por el Juzgado de Garantía de Concepción, solo en cuanto impuso la pena sustitutiva de reclusión parcial nocturna domiciliaria, y en su lugar se declara que se sustituye la pena privativa de libertad de cuarenta y un días de prisión impuesta a Alejandro Teodoro Urra Sánchez por la de remisión condicional de la pena por el término de un año, debiendo quedar sujeto al control y observación del Centro de Reinserción Social respectivo, cumpliendo las condiciones legales correspondientes.
+
+II.- Que, se declara inadmisible el recurso de apelación en lo que se refiere al cómputo del tiempo que el sentenciado tuvo retenida o suspendida su licencia de conducir, por no ser la resolución apelable en dicho extremo según el artículo 370 del Código Procesal Penal.
+
+III.- Que, se confirma, en lo demás, la referida sentencia.
+
+Regístrese, comuníquese y archívese, en su oportunidad.
+
+Redacción del ministro Mauricio Silva Pizarro.
+
+Rol N°2088-2025.- Penal.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Tribunales ▼
+
+Individualización de Audiencia de procedimiento simplificado.
+
+Fecha Concepción, diecinueve de diciembre de dos mil veinticinco.
+
+Magistrado JUAN DOMINGO PINOCHET TEJOS.
+
+Fiscal ANDRES BARAHONA URZÚA.
+
+Defensor privado DAMIÁN SEPÚLVEDA MUÑOZ. – se confiere patrocinio y
+poder.
+
+Hora inicio 09:29 AM
+
+Hora término 09:56 AM
+
+Sala 4/ Carlos Cartes Torres
+
+Tribunal Juzgado de Garantía de Concepción
+
+RUC 2201212350-0
+
+RIT 3442 - 2025
+
+N° registro audio 2201212350-0-1082
+
+NOMBRE IMPUTADO RUT DIRECCION
+
+ALEJANDRO TEODORO
+URRA SÁNCHEZ.
+
+12.700.909-0 Sector Lomas de San Andrés, Calle
+Álvaro Bazán Nº 1651, Concepción.
+
+Actuaciones efectuadas
+Denuncia al Ministerio Público
+
+Ámbito afectado Detalle del Hito
+
+RELACIONES: ALEJANDRO
+TEODORO URRA
+SÁNCHEZ.
+
+Visto y teniendo presente lo dispuesto en el artículo 175
+del Código Procesal Penal, y evidentemente, existiendo la
+posibilidad de que la licencia que fue retenida no sea real,
+enviaré a los antecedentes al Ministerio Público con el
+objeto de que se inicie la investigación penal a fin de
+averiguar si la licencia que fue entregada en su
+oportunidad estaba vigente o no se encontraba vigente al
+momento de que se produjo esta detención.
+SIRVA LA PRESENTE RESOLUCIÓN DE SUFICIENTE Y
+ATENTO OFICIO REMISOR.
+
+Hechos.
+
+El día 27 de noviembre del año 2022, siendo aproximadamente las 23:25 horas, en la vía
+pública, específicamente en calle Los Lirios esquina General Gorostiaga, comuna de
+Concepción el imputado ALEJANDRO TEODORO URRA SANCHEZ condujo en estado de
+ebriedad el vehículo Marca Mazda, Modelo CX7, color plata, Placa Patente Única
+CKVP.74, colisionando y atravesando el cierre perimetral de la vivienda ubicada en el lugar
+de propiedad de GRACIELA DEL CARMEN AVENDAÑO CISTERNA, causando daños
+avaluados en $500.000. Carabineros constató el estado de ebriedad del imputado por su
+fuerte hálito alcohólico, inestabilidad al caminar, rostro congestionado e incoherencia al
+hablar. Al imputado se le practicó el examen de alcoholemia el que arrojó como resultado
+2.53 gramos por mil de alcohol en la sangre.
+
+Sentencia en procedimiento simplificado con admisión de responsabilidad.
+
+Causa: Detalle del Hito
+
+RUC 2201212350-0
+RIT 3442 - 2025
+RELACIONES: ALEJANDRO
+TEODORO URRA SÁNCHEZ.
+/Conducción en estado de ebriedad
+causando daños.
+
+Fecha de
+deliberación
+
+diecinueve de diciembre de
+dos mil veinticinco
+
+Juez redactor JUAN DOMINGO
+PINOCHET TEJOS
+
+Resultado Condenado.
+
+JUZGADO DE GARANTÍA DE CONCEPCIÓN.
+C/ ALEJANDRO TEODORO URRA SÁNCHEZ.
+Concepción, diecinueve de diciembre de dos mil veinticinco.
+
+Por las consideraciones consignadas en el registro de audio de la presente
+audiencia y visto, además, disposiciones legales citadas; artículo 388 y siguientes del
+Código Procesal Penal; SE DECLARA:
+
+Código: DENVBXMBFKF
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+I. Que se condena a don ALEJANDRO TEODORO URRA SÁNCHEZ, ya
+individualizado, R.U.N. 12.700.909-0, como autor del delito consumado de conducción en
+estado de ebriedad causando daños, figura prevista y sancionada en el artículo 110 en
+relación al artículo 196, ambos de la ley de tránsito, hecho perpetrado en esta ciudad el
+día 27 de noviembre del año 2022, a sufrir la pena de cuarenta y un días de prisión en
+su grado máximo, accesoria de suspensión de cargos y oficios públicos durante el
+tiempo de la condena, multa de una unidad tributaria mensual y a la suspensión de su
+licencia de conducir por el plazo de dos años.
+
+II. Que, no se le condena en costas al sentenciado toda vez que no fueron
+solicitadas por el Ministerio Público.
+
+III. Que la pena privativa de libertad que se le ha impuesto por esta sentencia se le
+sustituye por la RECLUSIÓN PARCIAL NOCTURNA DOMICILIARIA, esto es en el
+domicilio ubicado en calle Álvaro Bazán N° 1651 de esta ciudad, en donde deberá
+permanecer entre las 22:00 horas y las 06:00 de la mañana del día siguiente bajo la
+modalidad de monitoreo telemático, computándosele una noche por cada día de privación
+de libertad y se le contará desde cuanto el Centro de Reinserción Social correspondiente
+le provea el dispositivo electrónico correspondiente.
+
+Para dicho efecto, el Tribunal lo va a dejar citado para el día 05 de enero del año
+2026 a las 9:00 de la mañana al Centro de Reinserción Social correspondiente a fin de
+ponerse el dispositivo electrónico. Si no lo hiciere, despáchese orden de detención en su
+contra.
+
+Que para los efectos del cumplimiento de la suspensión de la licencia de conducir
+que se le ha impuesto por esta sentencia, deberá hacer entrega de ella también el mismo
+día 05 de enero del próximo año en este Tribunal. Si no lo hiciere, despáchese orden de
+detención en su contra, sin perjuicio de enviar oficios correspondientes al Registro
+Nacional de Conductores y a la Ilustre Municipalidad de Hualpén respecto de la
+suspensión de la licencia ya suspendida.
+
+IV. Que, para los efectos de la multa impuesta, deberá hacer pago una vez
+ejecutoriada el presente fallo de la multa. Si no lo hiciere, estese a lo previsto en el
+artículo 49 del Código Penal, es decir, se le convertirán por días de reclusión a razón de
+un día por cada tercio unidad tributaria mensual, la que no puede exceder en este caso de
+tres días.
+
+Ejecutoriado que sea el presente fallo, dese cumplimiento a lo previsto en el
+artículo 468 del Código Procesal Penal.
+
+REGÍSTRESE Y ARCHÍVESE EN SU OPORTUNIDAD.
+
+La presente acta sólo constituye un registro administrativo en el que se resume lo
+acontecido y decidido en la audiencia, conteniendo sólo la parte resolutiva del fallo. Los
+argumentos vertidos por las partes y la fundamentación de la resolución dictada se
+encuentran íntegramente en el registro de audio de la presente audiencia.
+
+La audiencia se encuentra respaldada en forma íntegra en el registro de audio del
+
+Tribunal.
+
+Dirigió la audiencia, resolvió y dictó sentencia don JUAN DOMINGO PINOCHET
+TEJOS, Juez de Garantía de Concepción.
+
+Encontrándose el Magistrado JUAN DOMINGO PINOCHET TEJOS haciendo uso
+
+de permiso del artículo 347 del Código Orgánico de Tribunales, firma con esta fecha y
+solo para estos efectos doña CLAUDIA ANDREA CASTILLO JIMENEZ, Juez Presidente
+del Juzgado de Garantía de Concepción.
+
+Código: DENVBXMBFKF
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2025-12-24T11:19:18-0300
