@@ -1,0 +1,27 @@
+METADATA
+
+case_id: 3120735f2746398423175e7b50c85cba54fbed6a
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8050328
+
+rol: 7449-2026
+
+fecha_sentencia: 2026-03-05
+
+caratulado: LIU XIAOGUANG CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (PENAL) NULIDAD
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+C.A. de SantiagoSantiago, treinta  de diciembre de dos mil veinticinco.Vistos:Atendido el mérito de autos, los fundamentos de la decisión en alzada, los que son compartidos por esta Corte y de conformidad con lo dispuesto en el artículo 186 del Código de Procedimiento Civil, se confirma la sentencia apelada de treinta y uno de enero de dos mil veinticinco, dictada por el 28º Juzgado Civil de Santiago, en autos Rol Nro. C-8638-2023.Regístrese y devuélvase.     Rol Corte Nro. 6024-2025 (Civil)                        ⚠                      Sin documento en esta instancia - pdf
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de SantiagoSantiago, treinta  de diciembre de dos mil veinticinco.Vistos:Atendido el mérito de autos, los fundamentos de la decisión en alzada, los que son compartidos por esta Corte y de conformidad con lo dispuesto en el artículo 186 del Código de Procedimiento Civil, se confirma la sentencia apelada de treinta y uno de enero de dos mil veinticinco, dictada por el 28º Juzgado Civil de Santiago, en autos Rol Nro. C-8638-2023.Regístrese y devuélvase.     Rol Corte Nro. 6024-2025 (Civil)
