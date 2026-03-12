@@ -4,23 +4,23 @@ case_id: 2c456eae78c40983b9c5c6839ac11620c520bdea
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049263
 
-rol: 28481-2025
+rol: 27758-2025
 
 fecha_sentencia: 2026-03-04
 
-caratulado: ANONIMIZADO
+caratulado: RIVERA MARTINEZ SILVIA ALEJANDRA/ SUSESO-COMPIN
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: (CRIMEN) HECHO
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) HECHO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
-Santiago, cuatro de marzo dos mil veintiséis.
+Santiago, cuatro de marzo de de dos mil veintiséis.
 Vistos:
 Se reproduce el fallo en alzada, con excepción de los fundamentos que razonan en el sentido de acoger la acción constitucional los que se eliminan.
 
@@ -49,12 +49,11 @@ En consecuencia, la obligación legal de emitir un pronunciamiento dentro de pla
 Octavo: Que, por lo razonado, solo cabe concluir que no existe ilegalidad o arbitrariedad en el actuar de las recurridas, que vulnere las garantías invocadas en la acción deducida, motivo por el cual esta debe ser rechazada.
 Por estas consideraciones y de conformidad, igualmente, con lo previsto en el artículo 20 de la Constitución Política de la República y el Auto Acordado de esta Corte sobre la materia, se revoca la sentencia apelada y en su lugar se declara que se rechaza la acción deducida.
 
-Acordado lo anterior con la prevención de la ministra Sra. Ravanales y la abogada integrante Sra. Benavides, quienes concurren a la decisión, teniendo únicamente presente que, para resolver, las recurridas tuvieron a la vista los antecedentes e informes médicos de la parte recurrente, en particular el que fue peritaje realizado y que afirma que ésta se encontraba en condiciones de reintegrarse a sus labores antes del inicio de las licencias impugnadas, lo que hace injustificado el reposo prescrito con posterioridad.
-
-Por lo tanto, los antecedentes resultaron suficientes para arribar a la decisión que se adoptó por el órgano contralor, por lo que mal podría estimarse que la resolución impugnada, en cuanto fundadamente desestimó el reclamo formulado por la actora, sea arbitrario por carecer de motivación.
+Acordado lo anterior con el voto en contra de la ministra Sra. Ravanales y abogada integrante Sra. Benavides, quienes fueron del parecer de confirmar el fallo en alzada y acoger la acción deducida, teniendo únicamente presente que del mérito de los antecedentes, se advierte que la conducta del organismo recurrido no se ajustó a la preceptiva que gobierna la cuestión, tanto por no especificar los fundamentos de su determinación, como al no decretar nuevos exámenes o disponer una evaluación médica con el propósito de esclarecer la condición actual de salud del recurrente.
+En atención a lo expuesto, tanto la ausencia de justificación, como la circunstancia de no haber sometido al paciente a nuevos exámenes, controles o una evaluación clínica por los servicios administrativos competentes, son componentes que debieron detallarse con mayor rigurosidad antes de resolver el asunto en sede administrativa, diligencias imprescindibles para objetivar el diagnóstico y no dejarlo sujeto a la mera discrecionalidad del ente recurrido, con la subsecuente falta de pago de la licencia médica correspondiente.
 Regístrese y devuélvase.
 
-Rol N° 27758-2025
+Rol N° 27.402-2025.
 Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sra. Adelita Ravanales A., Sr. Jean Pierre Matus A., Sr. Omar Astudillo C., Sr. Gonzalo Ruz L. y la Abogada Integrante Sra. María Angélica Benavides C. Santiago, 04 de marzo de 2026.
 
 Autoriza el Ministro de Fe de la Excma. Corte Suprema.
