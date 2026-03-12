@@ -14,7 +14,7 @@ sala: CUARTA, MIXTA
 
 materias: ▪ Admisibilidad del recurso de casación en el fondo
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: RECHAZA CASACION EN EL FONDO (M)
 

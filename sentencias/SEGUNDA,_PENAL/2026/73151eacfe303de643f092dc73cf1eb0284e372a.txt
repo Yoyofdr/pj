@@ -4,11 +4,11 @@ case_id: 73151eacfe303de643f092dc73cf1eb0284e372a
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8053618
 
-rol: 10582-2026
+rol: 8167-2026
 
-fecha_sentencia: 2026-03-09
+fecha_sentencia: 2026-03-06
 
-caratulado: CANALES JEREZ CÉSAR ANTONIO CONTRA GENDARMERÍA DE CHILE
+caratulado: ZAPATA RESTREPO JAROL MAURICIO CONTRA SERVICIO NACIONAL DE MIGRACIONES DE CHILE
 
 sala: SEGUNDA, PENAL
 
@@ -16,7 +16,7 @@ materias: ▪ Recurso de Amparo
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

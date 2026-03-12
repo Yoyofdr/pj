@@ -4,19 +4,19 @@ case_id: 55ee2fc145c23028b349e8148e73bc93a067e345
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8054214
 
-rol: 7889-2026
+rol: 10837-2024
 
-fecha_sentencia: 2026-03-09
+fecha_sentencia: 2026-03-06
 
-caratulado: MERTY ANGELO CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: SECUESTRO CALIFICADO Y OTROS DE ELVIN ALTAMIRANO MONGE
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: ▪ Crímenes y simples delitos que afectan derechos Garantizados por la Constitución
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: SENTENCIA DE REEMPLAZO (M)
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

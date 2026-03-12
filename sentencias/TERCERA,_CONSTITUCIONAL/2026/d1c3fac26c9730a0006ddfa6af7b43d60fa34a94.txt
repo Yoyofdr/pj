@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Sistema de Evaluación de impacto ambiental (SEIA)
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: INADMISIBLE CASACIÓN FORMA RECHAZADA,CASACIÓN FONDO
 
