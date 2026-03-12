@@ -1,0 +1,86 @@
+METADATA
+
+case_id: fc3792a830ef8481e3560a81f52ba1f2df219ded
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8057684
+
+rol: 8398-2026
+
+fecha_sentencia: 2026-03-11
+
+caratulado: ANONIMIZADO
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, once de marzo de dos mil veintiséis.
+Vistos:
+Se confirma la sentencia apelada de dieciséis de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Valparaíso, en el Ingreso Corte N°Amparo-485-2026.
+Acordada con el voto en contra de los Ministros Sres. Llanos y Zepeda, quienes estuvieron por revocar el fallo en alzada y, consecuencialmente, por acoger la acción constitucional intentada en autos, en virtud de los siguientes fundamentos:
+1.- Que el Decreto que ordenó la expulsión del amparado, en su parte considerativa, refiere como único fundamento de fondo para proceder de tal modo, el ingreso al país de manera irregular, evadiendo los controles fronterizos.
+2.- Que en consecuencia, los fundamentos que se han invocado por la autoridad carecen de proporcionalidad en relación con la naturaleza, gravedad y ámbito de la conducta infraccionada, y considerando la afectación que de manera irremediable produce a la libertad personal de la actora, no resulta procedente connotarle a esa acción la gravedad que se pretende, frente al arraigo familiar y laboral que registra en el país, desde que el amparado tiene una hija chilena quien detenta residencia definitiva en el país, además que el amparado mantiene un vínculo laboral estable desde abril de 2022, por el que se encuentra cotizando en el sistema previsional nacional, tornándose arbitraria la actuación de la Administración en tal sentido.
+3.- Que, por lo demás, el actuar de la recurrida atenta contra las garantías consagradas en la Convención Internacional sobre la Protección de los derechos de todos los trabajadores migratorios y de sus familiares, de 18 de diciembre de 1990, en particular, respecto de lo preceptuado en su art. 16 numeral 1, en cuanto dispone que “Los trabajadores migratorios y sus familiares tendrán derecho a la libertad y la seguridad personales”, en relación con su artículo 22 N°s 1 y 4, norma que establece que “Los trabajadores migratorios y sus familiares no podrán ser objeto de medidas de expulsión colectiva. Cada caso de expulsión será examinado y decidido individualmente” y que “Salvo cuando una autoridad judicial dicte una decisión definitiva, los interesados tendrán derecho a exponer las razones que les asistan para oponerse a su expulsión, así como a someter su caso a revisión ante la autoridad competente, a menos que razones imperiosas de seguridad nacional se opongan a ello”.
+Regístrese y devuélvase.
+Rol N°8401-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Dgm.
+
+C.A. de Valparaíso
+Valparaíso, dieciséis de febrero de dos mil veintiséis.
+
+Visto:
+
+A folio comparece Pablo Peñaloza Parra y Joaquín Contreras Roa, abogado, en favor de Rubén Alexis Silva, de nacionalidad venezolana, quienes interponen acción de amparo en contra del Servicio nacional de Migraciones, por la dictación de la Resolución Exenta N°2500100242459 de 10 de noviembre de 2025, que decretó al expulsión y prohibición de ingreso por 5 años al territorio nacional, vulnerando con ello su garantía fundamental del articulo 19 N°7 de la Constitución Política de la República.
+
+Explican que el actor, atendida la crisis económica y social de su país de origen decide emigrar a Chile para emprender su proyecto de vida, ingresando al territorio por paso no habilitado, realizando la autodenuncia ante la Policía de Investigaciones de Chile de forma voluntaria, con la finalidad de ponerse a disposición de la autoridad migratoria, así como comenzar su proceso de regularización, declarando la situación de ingreso irregular o ingreso por paso no habilitado.
+
+Agrega que, es notificado de la resolución recurrida la cual indica que uno de los motivos de procedencia (conforme la Resolución Exenta que se recurre) es justamente que no existen mecanismos para regularizar a las personas que ingresan por paso no habilitado y, por tanto, no materializar una expulsión no significa privarlos de un eventual beneficio migratorio, sin embargo el servicio recurrido yerra en la aseveración toda vez que, el amparado si no estuviera vigente la orden de expulsión podría ejercer su derecho a solicitar la regularización extraordinaria contenida en el artículo 155 N°8 y 9 de la Ley N°21.325 ante el Subsecretario del Interior.
+
+Hace presente que uno de los motivos de procedencia es justamente que no existen mecanismos para regularizar a las personas que ingresan por paso no habilitado y por tanto, no materializar una expulsión no significa privarlos de un eventual beneficio migratorio. Ahora bien, el servicio recurrido yerra en la aseveración toda vez que, la amparada si no estuviera vigente la orden de expulsión podría ejercer su derecho a solicitar la regularización extraordinaria contenida en el artículo 155 N°8 y 9 de la Ley N°21.325 ante el Subsecretario del Interior.
+
+Da cuenta que la decisión del servicio es desproporcionada, ya que no ponderó la circunstancias personales y familiares del amparado, no registra antecedentes penales en su país de origen, cuenta con oferta laboral, y posee importantes arraigos familiares como lo es su hija Anais Berenice Silva Rodríguez, de nacionalidad venezolana, quien mantiene residencia definitiva en el país, por lo que, nos permite concluir que el amparado califica para un permiso de residencia temporal bajo la subcategoría de Reunificación Familiar
+
+Solicita se deje sin efecto la resolución recurrida.
+
+A folio 4, evacua informe el Servicio Nacional de Migraciones, solicitando el rechazo del presente recurso de amparo, debido a que la Resolución Exenta que expulsa del país al extranjero recurrente impugnada ha sido dictada por la autoridad competente, con estricto apego a las normas vigentes en materia migratoria y con suficientes fundamentos.
+
+Expone que, mediante acta de notificación de 6 de enero de 2025 de la Policía de Investigaciones, se notificó de manera personal al actor, que, en virtud de la normativa vigente, se daba inicio a un proceso sancionatorio de expulsión en su contra por ingresar al país por un paso no habilitado eludiendo el control migratorio contando con el plazo de 10 días hábiles para evacuar los respectivos descargos.
+
+Agrega que, el amparado no evacuó descargos en el plazo otorgado para dichos efectos, no haciendo efectivo su derecho a ser oída por lo que se procedió a dictar la Resolución Exenta N°2500100242459 de 10 de noviembre de 2025, por el Servicio Nacional de Migraciones, que decreta la expulsión del territorio nacional de la persona extranjera de autos, por haber ingresado al territorio nacional por un paso no habilitado, eludiendo el control migratorio, vulnerando los bienes jurídicos de la protección de las fronteras y la migración segura, ordenada y regular.
+
+A folio 5, evacua informe la Policía de Investigaciones de Chile, dando cuenta que la recurrente no registra movimientos migratorios.
+
+Agrega que mediante informe policial N°13 de 6 de enero de 2025, se da cuenta de la infracción al artículo 32 N°3 en relación al artículo 127 N°1 de la Ley N°21.325 (paso no habilitado). Mediante informe policial N°108 de 28 de enero de 2026, se da cuenta de la notificación de orden de expulsión al actor, dictada mediante Resolución Exenta N°2500100242459 de 10 de noviembre de 2025.
+
+A folio 7, se ordena traer los autos en relación
+
+Con lo relacionado y considerando:
+
+Primero: Que, el recurso de amparo es un proceso de tutela urgente del derecho fundamental a la libertad personal y seguridad individual, establecido en el artículo 21 de la Constitución Política de la República, que es procedente en aquellos casos en que una persona fuere arrestada, detenida o presa con infracción a la Constitución o a las leyes o sufra cualquier otra privación, perturbación o amenaza al derecho fundamental antes aludido, fuera de los casos en que el ordenamiento jurídico lo permite.
+
+Segundo: Que, por la presente vía cautelar, se impugna la Resolución Exenta N°2500100242459 de 10 de noviembre de 2025, dictada por el Servicio Nacional de Migraciones, mediante la cual decretó la expulsión del territorio nacional del amparado y dispuso su prohibición de ingreso al país por 5 años, fundado en su ingreso por paso no habilitado.
+
+Tercero: Que, de acuerdo con lo informado por la Policía de Investigaciones de Chile y el Servicio Nacional de Migraciones, dan cuenta que el amparado ingresó al país por un paso no habilitado el 20 de noviembre de 2021, tal como lo indica el Informe Policial N°13 de 6 de enero de 2025, de la Policía de Investigaciones de Chile, encontrándose acreditada la causal de expulsión antes anotada, a saber, el ingreso clandestino, y constando la notificación personal al actor del inicio del proceso sancionatorio en su contra.
+Cuarto: Que, la recurrida informa que el actor no acompañó dentro del plazo legal antecedentes o descargos dentro del procedimiento administrativo regulado, no obstante ser notificado del inicio del procedimiento sancionatorio de expulsión. Estima así, que el amparado se encuentra en la causal dispuesta en el artículo 127 N°1, en relación con los artículos 32 N°3, todos de la Ley N°21.325, al haber ingresado por paso no habilitado al territorio nacional, lo que habilita su expulsión.
+Quinto: Que, para la resolución del asunto se debe tener presente lo dispuesto en el artículo 127 N°1 de la Ley N°21.335 dispone “Causales de expulsión en caso de permanencia transitoria. Son causales de expulsión del país para los titulares de un permiso de permanencia transitoria y para aquellos que carezcan de un permiso que los habilite para residir legalmente en el país, exceptuando los casos señalados en el inciso séptimo del artículo 131, los que se regirán por dicha norma, las siguientes: 1. Ingresar al país no obstante configurarse a su respecto una causal de prohibición de ingreso de las señaladas en el artículo 32, con excepción de lo dispuesto en el Nº 2 de dicho artículo, salvo que respecto a las primeras se hayan verificado las excepciones consignadas en el artículo 29”
+
+A su vez, el articulo 32 N°3 del mismo cuerpo legal dispone, “Prohibiciones imperativas. Se prohíbe el ingreso al país a los extranjeros que: 3. Intenten ingresar o egresar del país, o hayan ingresado o egresado, por un paso no habilitado, eludiendo el control migratorio o valiéndose de documentos falsificados, adulterados o expedidos a nombre de otra persona, en los cinco años anteriores”.
+Sexto: Que, de los antecedentes expuestos y normas antes citadas no se advierte la existencia de algún acto ilegal por parte de la autoridad recurrida que devenga en una afectación a la libertad individual de la amparada toda vez, que ha actuado dentro del ámbito de sus atribuciones y de conformidad a la normativa señalada.
+Por estas consideraciones y visto, además, lo dispuesto en el artículo 21 de la Constitución Política de la República y Auto Acordado de la Excma. Corte Suprema sobre la materia, se rechaza, sin costas la acción de amparo deducida en favor Rubén Alexis Silva en contra del Servicio Nacional de Migraciones.
+Regístrese, notifíquese, comuníquese y archívese, en su oportunidad.
+N°Amparo-485-2026.
+
+En Valparaíso, dieciséis de febrero de dos mil veintiséis, se notificó por el estado diario la resolución que antecede.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, once de marzo de dos mil veintiséis. Vistos:Se confirma la sentencia apelada de dieciséis de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Valparaíso, en el Ingreso Corte N°Amparo-485-2026.Acordada con el voto en contra de los Ministros Sres. Llanos y Zepeda, quienes estuvieron por revocar el fallo en alzada y, consecuencialmente, por acoger la acción constitucional intentada en autos, en virtud de los siguientes fundamentos:1.- Que el Decreto que ordenó la expulsión del amparado, en su parte considerativa, refiere como único fundamento de fondo para proceder de tal modo, el ingreso al país de manera irregular, evadiendo los controles fronterizos.2.- Que en consecuencia, los fundamentos que se han invocado por la autoridad carecen de proporcionalidad en relación con la naturaleza, gravedad y ámbito de la conducta infraccionada, y considerando la afectación que de manera irremediable produce a la libertad personal de la actora, no resulta procedente connotarle a esa acción la gravedad que se pretende, frente al arraigo familiar y laboral que registra en el país, desde que el amparado tiene una hija chilena quien detenta residencia definitiva en el país, además que el amparado mantiene un vínculo laboral estable desde abril de 2022, por el que se encuentra cotizando en el sistema previsional nacional, tornándose arbitraria la actuación de la Administración en tal sentido.3.- Que, por lo demás, el actuar de la recurrida atenta contra las garantías consagradas en la Convención Internacional sobre la Protección de los derechos de todos los trabajadores migratorios y de sus familiares, de 18 de diciembre de 1990, en particular, respecto de lo preceptuado en su art. 16 numeral 1, en cuanto dispone que “Los trabajadores migratorios y sus familiares tendrán derecho a la libertad y la seguridad personales”, en relación con su artículo 22 N°s 1 y 4, norma que establece que “Los trabajadores migratorios y sus familiares no podrán ser objeto de medidas de expulsión colectiva. Cada caso de expulsión será examinado y decidido individualmente” y que “Salvo cuando una autoridad judicial dicte una decisión definitiva, los interesados tendrán derecho a exponer las razones que les asistan para oponerse a su expulsión, así como a someter su caso a revisión ante la autoridad competente, a menos que razones imperiosas de seguridad nacional se opongan a ello”.Regístrese y devuélvase.Rol N°8401-2026. Santiago, once de marzo de dos mil veintiséis. Vistos:Se confirma la sentencia apelada de dieciséis de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Valparaíso, en el Ingreso Corte N°Amparo-485-2026.Acordada con el voto en contra de los Ministros Sres. Llanos y Zepeda, quienes estuvieron por revocar el fallo en alzada y, consecuencialmente, por acoger la acción constitucional intentada en autos, en virtud de los siguientes fundamentos:1.- Que el Decreto que ordenó la expulsión del amparado, en su parte considerativa, refiere como único fundamento de fondo para proceder de tal modo, el ingreso al país de manera irregular, evadiendo los controles fronterizos.2.- Que en consecuencia, los fundamentos que se han invocado por la autoridad carecen de proporcionalidad en relación con la naturaleza, gravedad y ámbito de la conducta infraccionada, y considerando la afectación que de manera irremediable produce a la libertad personal de la actora, no resulta procedente connotarle a esa acción la gravedad que se pretende, frente al arraigo familiar y laboral que registra en el país, desde que el amparado tiene una hija chilena quien detenta residencia definitiva en el país, además que el amparado mantiene un vínculo laboral estable desde abril de 2022, por el que se encuentra cotizando en el sistema previsional nacional, tornándose arbitraria la actuación de la Administración en tal sentido.3.- Que, por lo demás, el actuar de la recurrida atenta contra las garantías consagradas en la Convención Internacional sobre la Protección de los derechos de todos los trabajadores migratorios y de sus familiares, de 18 de diciembre de 1990, en particular, respecto de lo preceptuado en su art. 16 numeral 1, en cuanto dispone que “Los trabajadores migratorios y sus familiares tendrán derecho a la libertad y la seguridad personales”, en relación con su artículo 22 N°s 1 y 4, norma que establece que “Los trabajadores migratorios y sus familiares no podrán ser objeto de medidas de expulsión colectiva. Cada caso de expulsión será examinado y decidido individualmente” y que “Salvo cuando una autoridad judicial dicte una decisión definitiva, los interesados tendrán derecho a exponer las razones que les asistan para oponerse a su expulsión, así como a someter su caso a revisión ante la autoridad competente, a menos que razones imperiosas de seguridad nacional se opongan a ello”.Regístrese y devuélvase.Rol N°8401-2026. Sentencia anonimizada
