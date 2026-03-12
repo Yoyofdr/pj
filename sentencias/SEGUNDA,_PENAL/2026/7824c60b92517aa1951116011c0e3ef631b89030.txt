@@ -12,9 +12,9 @@ caratulado: PLAYONERO CUERO OSCAR EDUARDO CONTRA SERVICIO NACIONAL DE MIGRACIONE
 
 sala: SEGUNDA, PENAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
@@ -22,12 +22,31 @@ TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
 Santiago, seis de marzo de dos mil veintiséis.
 
-Visto y teniendo únicamente presente:
-Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de veinticuatro de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N° 811-2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.
+VISTO:
+En estos autos Rol Nº 41995-2925, comparece el abogado Carlos Alfonso Zambrano Jechan, en representación de Asesorías Claudia Pizarro González E.I.R.L., recurrente de queja en ingreso Rol N° 16456-2024 de la Corte de Apelaciones de Santiago, que incide en los autos Rol Nº13.131-2023 del Tercer Juzgado de esta ciudad sobre liquidación forzosa de empresa deudora, caratulada “Primus Capital S.A. con Asesorías Claudia Pizarro González EIRL”, y deduce recurso de queja en contra de los jueces de la Sala tramitadora de la Corte de Apelaciones de Santiago, Ministras Sras. (es) Tomas Gray Gariasso, Matías De la Noi y Paola Herrera Fuenzalida, por las faltas o abusos graves en que habrían incurrido al pronunciar la resolución de seis de octubre de dos mil veinticinco que resolvió rechazar la excepción de pago y confirmar la resolución que declara la liquidación forzosa de la empresa deudora.
+Evacuando el informe, los jueces recurridos señalan no haber cometido las faltas o abusos graves que en el recurso se les atribuye, en los términos a que alude el artículo 545 del Código Orgánico de Tribunales, ya que las motivaciones de la resolución impugnada recogen las razones de la decisión adoptada, y en cuanto a la excepción de pago opuesta en segunda instancia se declaró inadmisible por extemporánea, atendido que la oportunidad procesal prevista en la Ley N° 20.720 -estatuto especial que regula la reorganización y liquidación de empresas, entre otras materias-, es exclusivamente la audiencia inicial establecida en el artículo 120 de dicho cuerpo normativo, norma que, por su carácter especial, se debe aplicar con preferencia a aquella del artículo 310 del Código de Procedimiento Civil, y en cuanto al recurso de apelación, afirman que la totalidad de los fundamentos en los que la parte recurrente hace descansar su arbitrio, se dirigen a impugnar, únicamente, las decisiones y fundamentos contenidos en una resolución que no es la que viene en alzada, sino otra diversa en contra de la cual, por lo demás, no procede la apelación.
+Se ordenó traer los autos en relación.
 
+CONSIDERANDO:
+PRIMERO: Que el artículo 545 del Código Orgánico de Tribunales hace procedente el recurso de queja en contra de sentencias definitivas o interlocutorias que pongan término al juicio o hagan imposible su continuación, dictadas con falta o abuso y que no sean susceptibles de recurso ordinario o extraordinario alguno.
+
+SEGUNDO: Que para resolver se debe tener en consideración los siguientes antecedentes del proceso:
+1.- Que el tribunal de primera instancia por sentencia de quince de julio de dos mil veinticuatro rechazó la oposición promovida por el demandado de los numerales 1, 2, 6, 7 y 14 del artículo 464 del Código de Procedimiento Civil y acogió la solicitud de liquidación forzosa, disponiendo que se proceda a dictar resolución de liquidación de la empresa “Asesorías Claudia Andrea González Pizarro E.I.R.L”, una vez recibido el certificado de nominación.
+
+2.- El demandado dedujo recurso de apelación en contra de la resolución que desestimó la oposición que fuese declarada inadmisible conforme a lo dispuesto en el artículo 128 de la Ley 20.720 por la Corte de Apelaciones de esta ciudad.
+
+3.- El tribunal de primera instancia el veinticuatro de septiembre de dos mil veinticuatro pronunció la resolución de liquidación forzosa, apelada por el demandado.
+
+4.- La Corte de Apelaciones de Santiago rechazó la excepción de pago deducida por el deudor en segunda instancia y confirmó la resolución de liquidación forzosa, que fuese recurrida de queja.
+
+TERCERO: Que, de lo expuesto, se desprende que la resolución impugnada no es de aquellas que permiten la interposición de un recurso de queja en su contra, puesto que no participa de la naturaleza de las señaladas en el primer acápite, a consecuencia de lo cual sólo cabe concluir que el recurso deducido será desestimado por improcedente, considerando además que la parte recurrente impugna, únicamente, las decisiones y fundamentos contenidos en una resolución que no es la que viene recurrida y sino otra diversa que quedo firme y ejecutoriada.
+
+Por estas consideraciones y de conformidad con lo dispuesto en los artículos 545 y 549 del Código Orgánico de Tribunales, se rechaza el recurso de queja deducido por el abogado Carlos Alfonso Zambrano Jechan, por improcedente.
 Regístrese y devuélvase.
 
-Rol N° 10.499-2026.
+Redacción a cargo del Ministro (s) Sr. Zepeda
+N° 41995-2025
+Pronunciado por la Primera Sala de la Corte Suprema integrada por los Ministros señor Manuel Valderrama R., señor Leopoldo Llanos S., señor Jorge Zepeda A. (S) y los Abogados integrantes señor Raúl Patricio Fuentes M. y señor Carlos Urquieta S.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------

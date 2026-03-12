@@ -4,19 +4,19 @@ case_id: 180b7e656016a7a78f633d5015712cb5e9f5c9fe
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8051465
 
-rol: 21731-2025
+rol: 38918-2024
 
 fecha_sentencia: 2026-03-06
 
-caratulado: ANONIMIZADO
+caratulado: AVENDAÑO CON BANCO SANTANDER- CHILE
 
 sala: CUARTA, MIXTA
 
-materias: ▪ Compensación económica
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: SENTENCIA DE REEMPLAZO (M)
+resultado_recurso: DESISTIDO RECURSO DE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
