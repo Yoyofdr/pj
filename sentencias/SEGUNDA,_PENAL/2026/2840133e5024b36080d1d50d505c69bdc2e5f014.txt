@@ -1,0 +1,72 @@
+METADATA
+
+case_id: 2840133e5024b36080d1d50d505c69bdc2e5f014
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044648
+
+rol: 9958-2025
+
+fecha_sentencia: 2026-02-27
+
+caratulado: MINISTERIO PUBLICO C/ RAMON HERNAN DUARTE LOBOS
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Delitos contra la propiedad y el patrimonio
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: ACOGE RECURSO DE NULIDAD (M)
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+1
+2
+Santiago, veintisiete de febrero de dos mil veintiséis.
+
+Visto y teniendo presente:
+1° Que en este procedimiento ordinario de indemnización de perjuicios seguido ante el Décimo Juzgado Civil de Santiago, Rol C-7429-2021, caratulado “INMOBILIARIA E INVERSIONES RUCALAF LIMITADA/HADWA”, se ha ordenado dar cuenta de la admisibilidad del recurso de casación en el fondo deducido por la parte demandada en contra de la resolución de la Corte de Apelaciones de Santiago, de veinte de enero de dos mil veintiséis, que confirmó la resolución de primera instancia, que rechazó el incidente de abandono del procedimiento promovido por el recurrente.
+
+2° Que el artículo 767 del Código de Procedimiento Civil dispone que se admite el recurso de casación en el fondo contra sentencias definitivas inapelables y contra sentencias interlocutorias inapelables cuando ponen término al juicio o hacen imposible su continuación, dictadas -en lo que interesa para el presente caso- por Cortes de Apelaciones, siempre que se hayan pronunciado con infracción de ley y esta infracción haya influido sustancialmente en lo dispositivo de la sentencia.
+
+3º Que la resolución impugnada por esta vía no presenta las características de aquellas aludidas en el motivo anterior, toda vez que no ha concluido el juicio ni hecho imposible su prosecución, razón por la cual el recurso de nulidad intentado en autos no podrá ser admitido a tramitación.
+
+Por estas consideraciones y de conformidad con lo dispuesto en los artículos 767 y 782 del Código de Procedimiento Civil, se declara inadmisible el recurso de casación en el fondo interpuesto por el abogado Iván Larenas Lolas, en representación del demandado contra la sentencia de veinte de enero del año dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago.
+
+Regístrese y devuélvase.
+Rol N° 7216-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Santiago
+Santiago, veinte de enero de dos mil veintiséis.
+
+A los folios 55 y 56; a todo, téngase presente.
+Vistos:
+Se confirma la resolución de veintiocho de septiembre de dos mil veintitrés, dictada por el Décimo Juzgado Civil de Santiago en la causa Rol C-7429-2021.
+
+Acordada contra el voto del Ministro señor Balmaceda, quien fue de opinión de revocar la referida resolución y en su lugar acoger el incidente promovido y declarar el abandono del procedimiento, teniendo presente para ello las siguientes consideraciones:
+
+1°.- Que para resolver la controversia de autos debe tenerse en consideración, en primer término, que uno de los principios que informan el procedimiento civil chileno, al menos en la legislación actualmente vigente, es el de pasividad, conforme al cual los tribunales no pueden ejercer su ministerio sino a petición de parte, salvo los casos en que la ley les mande proceder de oficio o los faculte para ello. Este principio general encuentra consagración legislativa en el inciso primero del artículo 10 del Código Orgánico de Tribunales.
+
+Ahora bien, cuando se realizó la audiencia de conciliación y ésta no le logró la iniciativa para dar curso a los actos de procedimiento subsecuentes continuó siempre radicada en los litigantes conforme al precepto citado más arriba y la parte interesada debió instar para que se cumpliera por quien correspondía con el trámite que mandan las normas de procedimiento.
+
+2°.- Que, en efecto, los términos imperativos de que eventualmente se sirvan determinados preceptos del Código de Procedimiento Civil para los efectos de estimar que el impulso procesal recae en el tribunal, no obstan a la conclusión anterior, pues, como ya se expresó, el impulso procesal se halla radicado en las partes cualquiera sea la etapa en que se encuentre el proceso, en tanto las reglas de procedimiento le permitan realizar gestiones o llevar a cabo actuaciones en las diversas fases en que éste se divide.
+
+Son numerosas las disposiciones del Código de Enjuiciamiento Civil que echan mano a formas verbales imperativas y, no obstante ello, resulta indudable que la carga de instar por la prosecución de los actos de procedimiento no se traslada al tribunal. Lo anterior ocurre, precisamente, en la norma del artículo 318 del referido estatuto, conforme a la cual, en lo que interesa, concluidos los trámites que deben preceder a la prueba el tribunal examinará por sí mismo los autos y si estima que hay o puede haber controversia sobre algún hecho substancial y pertinente en el juicio, recibirá la causa a prueba. Lo mismo cabe decir, entre muchos otros casos, de la demanda una vez interpuesta -artículo 257: “Admitida la demanda, se conferirá traslado de ella al demandado para que la conteste”- y de la contestación y la réplica una vez evacuadas -artículo 311: “De la contestación se comunicará traslado al actor por el término de seis días, y de la réplica al demandado por igual término”-.
+
+Las reglas de los citados preceptos no importan traslación del impulso procesal al tribunal, sin perjuicio de las formas verbales imperativas que emplean, de modo tal que son las partes las que deben reclamar o exigir la dictación del auto de prueba o el trámite que resulte procedente de acuerdo al procedimiento de que se trate. La imperatividad del verbo que emplean las normas obedece únicamente a una cuestión de técnica legislativa necesaria para que el precepto resulte operativo, pues obviamente no aparecería lógico que el legislador consagrara como mera o simple facultad del tribunal decretar uno u otro trámite o no decretar ninguno.
+
+Entender que cada vez que la ley emplea imperativos el impulso procesal se traslada al tribunal importaría afirmar que en el juicio ejecutivo, atendida la fatalidad de los plazos, el abandono del procedimiento únicamente podría decretarse si los seis meses transcurren entre la recepción de la causa a prueba y la notificación por cédula o por medios electrónicos de esta resolución. Tal inteligencia reduciría la significancia de la institución del abandono del procedimiento a un mínimo absurdo y el principio de pasividad, consagrado legalmente como regla general, a la excepción. Si bien la oficialidad puede aparecer deseable y es efectivamente a lo que tienden las nuevas regulaciones, lo cierto es que, como se expuso más arriba, la ley procesal civil chilena no la contempla.
+
+3°.- Que la intención del legislador al consagrar la institución del abandono del procedimiento es evitar la incertidumbre que para la certeza y estabilidad de las relaciones jurídicas genera inevitablemente la existencia de un litigio, aun cuando aparezca carente de fundamento, sancionando con la pérdida de lo obrado a quien promovió su inicio y no realizó las actuaciones tendientes a ponerle término. Tal objetivo debe cumplirse en todas las etapas del procedimiento, sin importar a cuál de los actores procesales -partes o tribunal- corresponde la siguiente actuación.
+
+En el caso de autos el demandante dejó transcurrir en exceso el término de seis que la ley considera tolerable mantener inactivo un juicio, en tanto esa referida situación de incertidumbre se mantuvo entre el 16 de enero de 2023 y el 18 de julio del mismo año, de modo tal que al haberse configurado los presupuestos de hecho del artículo 152 del Código de Procedimiento Civil correspondí, en concepto del disidente, declarar el abandono del procedimiento.
+
+Comuníquese y devuélvase.
+
+Civil N°16.535-2023.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de SantiagoSantiago, veinte  de enero de dos mil veintiséis.A los folios 55 y 56; a todo, téngase presente.Vistos:Se confirma la resolución de veintiocho de septiembre de dos mil veintitrés, dictada por el Décimo Juzgado Civil de Santiago en la causa Rol C-7429-2021.Acordada contra el voto del Ministro señor Balmaceda, quien fue de opinión de revocar la referida resolución y en su lugar acoger el incidente promovido y declarar el abandono del procedimiento, teniendo presente para ello las siguientes consideraciones:1°.- Que para resolver la controversia de autos debe tenerse en consideración, en primer término, que uno de los principios que informan el procedimiento civil chileno, al menos en la legislación actualmente vigente, es el de pasividad, conforme al cual los tribunales no pueden ejercer su ministerio sino a petición de parte, salvo los casos en que la ley les mande proceder de oficio o los faculte para ello. Este principio general encuentra consagración legislativa en el inciso primero del artículo 10 del Código Orgánico de Tribunales.Ahora bien, cuando se realizó la audiencia de conciliación y ésta no le logró la iniciativa para dar curso a los actos de procedimiento subsecuentes continuó siempre radicada en los litigantes conforme al precepto citado más arriba y la parte interesada debió instar para que se cumpliera por quien correspondía con el trámite que mandan las normas de procedimiento.2°.- Que, en efecto, los términos imperativos de que eventualmente se sirvan determinados preceptos del Código de Procedimiento Civil para los efectos de estimar que el impulso procesal recae en el tribunal, no obstan a la conclusión anterior, pues, como ya se expresó, el impulso procesal se halla radicado en las partes cualquiera sea la etapa en que se encuentre el proceso, en tanto las reglas de procedimiento le permitan realizar gestiones o llevar a cabo actuaciones en las diversas fases en que éste se divide.Son numerosas las disposiciones del Código de Enjuiciamiento Civil que echan mano a formas verbales imperativas y, no obstante ello, resulta indudable que la carga de instar por la prosecución de los actos de procedimiento no se traslada al tribunal. Lo anterior ocurre, precisamente, en la norma del artículo 318 del referido estatuto, conforme a la cual, en lo que interesa, concluidos los trámites que deben preceder a la prueba el tribunal examinará por sí mismo los autos y si estima que hay o puede haber controversia sobre algún hecho substancial y pertinente en el juicio, recibirá la causa a prueba. Lo mismo cabe decir, entre muchos otros casos, de la demanda una vez interpuesta -artículo 257: “Admitida la demanda, se conferirá traslado de ella al demandado para que la conteste”- y de la contestación y la réplica una vez evacuadas -artículo 311: “De la contestación se comunicará traslado al actor por el término de seis días, y de la réplica al demandado por igual término”-.Las reglas de los citados preceptos no importan traslación del impulso procesal al tribunal, sin perjuicio de las formas verbales imperativas que emplean, de modo tal que son las partes las que deben reclamar o exigir la dictación del auto de prueba o el trámite que resulte procedente de acuerdo al procedimiento de que se trate. La imperatividad del verbo que emplean las normas obedece únicamente a una cuestión de técnica legislativa necesaria para que el precepto resulte operativo, pues obviamente no aparecería lógico que el legislador consagrara como mera o simple facultad del tribunal decretar uno u otro trámite o no decretar ninguno. Entender que cada vez que la ley emplea imperativos el impulso procesal se traslada al tribunal importaría afirmar que en el juicio ejecutivo, atendida la fatalidad de los plazos, el abandono del procedimiento únicamente podría decretarse si los seis meses transcurren entre la recepción de la causa a prueba y la notificación por cédula o por medios electrónicos de esta resolución. Tal inteligencia reduciría la significancia de la institución del abandono del procedimiento a un mínimo absurdo y el principio de pasividad, consagrado legalmente como regla general, a la excepción. Si bien la oficialidad puede aparecer deseable y es efectivamente a lo que tienden las nuevas regulaciones, lo cierto es que, como se expuso más arriba, la ley procesal civil chilena no la contempla.3°.- Que la intención del legislador al consagrar la institución del abandono del procedimiento es evitar la incertidumbre que para la certeza y estabilidad de las relaciones jurídicas genera inevitablemente la existencia de un litigio, aun cuando aparezca carente de fundamento, sancionando con la pérdida de lo obrado a quien promovió su inicio y no realizó las actuaciones tendientes a ponerle término. Tal objetivo debe cumplirse en todas las etapas del procedimiento, sin importar a cuál de los actores procesales -partes o tribunal- corresponde la siguiente actuación.En el caso de autos el demandante dejó transcurrir en exceso el término de seis que la ley considera tolerable mantener inactivo un juicio, en tanto esa referida situación de incertidumbre se mantuvo entre el 16 de enero de 2023 y el 18 de julio del mismo año, de modo tal que al haberse configurado los presupuestos de hecho del artículo 152 del Código de Procedimiento Civil correspondí, en concepto del disidente, declarar el abandono del procedimiento.Comuníquese y devuélvase.Civil N°16.535-2023.                        ⚠                      Sin documento en esta instancia - pdf
