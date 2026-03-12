@@ -1,0 +1,1384 @@
+METADATA
+
+case_id: 9b59ce934cf776c8d393d52adf86386da4eb34e2
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8056491
+
+rol: 29908-2025
+
+fecha_sentencia: 2026-03-10
+
+caratulado: ROSALES/SERVICIO NACIONAL DE MIGRACIONES DE DE MIGRACIONES
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: CONFIRMA SENTENCIA EN LO APELADO
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, diez de marzo de dos mil veintiséis.
+
+VISTO Y TENIENDO PRESENTE:
+PRIMERO: Que en este procedimiento sobre demanda de cumplimiento de contrato de arrendamiento de predio rústico, seguido ante el Primer Juzgado Civil de Concepción, bajo el Rol C-7494-2024, caratulado “Thomas Schmidt Putz con Agrobusiness Biociclo Chile SpA”, se ha ordenado dar cuenta de la admisibilidad del recurso de casación en el fondo deducido por la parte demandada en contra de la sentencia de la Corte de Apelaciones de Concepción, de diecinueve de enero del año en curso, que confirmó la de primer grado que hizo lugar a la demanda, condenando a Agrobussines Biociclo Chile Limitada a pagar la renta de arrendamiento anual correspondiente al año cinco (2024), a razón de la suma señalada en la cláusula novena del contrato de arrendamiento celebrado entre las partes, debiendo descontarse en la liquidación que se practique el abono a dicha anualidad efectuada con fecha 3 de abril de 2024 por la suma de $26.600.000; que, la suma a que se condena a la demandada, deberá pagarse debidamente reajustada conforme a la variación que experimente el Índice de Precios al Consumidor, desde el día 13 de mayo de 2020 – fecha de celebración la escritura pública de contrato de arrendamiento – y hasta que se verifique el pago de la renta adeudada, conforme lo estipulado en la cláusula novena del contrato de arrendamiento; que, la suma a que se condena a la demandada, deberá pagarse con el interés máximo convencional para operaciones reajustables entre la fecha en que debió realizarse y aquella en que efectivamente se haga, conforme lo estipulado en la cláusula vigésima del contrato de arrendamiento; y, que, no se condena en costas a la demandada por considerarse que tuvo motivo plausible para litigar.
+
+SEGUNDO: Que el recurso de casación sustantivo lo funda en la infracción a lo establecido en el artículo 6 de la Ley 18.010. Por ello solicita se invalide el fallo recurrido y se proceda a dictar la correspondiente sentencia de reemplazo, según corresponda, con arreglo a la Ley, por existir infracción y que influyó sustancialmente en lo dispositivo del fallo, a fin de que se revoque lo resuelto o en su defecto confirme con declaración, que la cantidad adeudada por rentas impagas debe ser menor, por las razones expuestas, con costas.
+
+TERCERO: Que, conforme lo previsto en el artículo 772 N° 1 del Código de Procedimiento Civil, el recurso de casación en el fondo está sujeto a un requisito indispensable para su admisibilidad, cuál es que el escrito en que se lo interpone “exprese”, es decir, explicite en qué consiste y cómo se ha producido el o los errores de derecho.
+
+CUARTO: Que, del examen de los antecedentes, consta que el arbitrio de nulidad en estudio no puede prosperar, toda vez la demandada omitió extender la infracción legal a normas sustantivas que, en la especie, tienen el carácter de decisoria de la litis, es decir, preceptos que al ser aplicados permiten resolver la cuestión controvertida, especialmente las normas relativas al contrato de arrendamiento, la renta y el pago de la misma, normas contenidas en los artículos 1489, 1545, 1915, 1916, 1917, 1942 y 1978 del Código Civil; las normas de interpretación de los contratos contenidas en el artículo 1560 y siguientes del mismo cuerpo normativo y las regulaciones pertinentes del Decreto Ley N° 993, exigencia que no se satisface únicamente con la norma citada al momento de fundamentar las infracciones legales que sustenta el recurso de nulidad sustantivo.
+
+Por estas consideraciones y de conformidad, además, con lo dispuesto en los artículos 764, 765, 767, 772 y 782 del Código de Procedimiento Civil, se rechaza el recurso de casación en el fondo interpuesto por el abogado Pablo Vallejos Sánchez, en representación de la parte demandada, contra la sentencia de diecinueve de enero del año en curso, dictada por la Corte de Apelaciones de Concepción.
+
+Regístrese y devuélvase.
+
+Rol Nº 6725 - 2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Concepción
+CCP/rtp
+Concepción, diecinueve de enero de dos mil veintiséis.
+
+VISTO:
+
+SE CONFIRMA, sin costas del recurso, la sentencia definitiva apelada de catorce de mayo de dos mil veinticinco, dictada en causa Rol C-7494-2024, del ingreso del Primer Juzgado de Letras en lo Civil de Concepción.
+
+Regístrese y devuélvase.
+
+N°Civil-1398-2025.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+RIT« »
+
+Foja: 1
+
+FOJA: 29 .- .-
+
+NOMENCLATURA : 1. [40]Sentencia
+JUZGADO : 1 Juzgado Civil de Concepci nº ó
+CAUSA ROL : C-7494-2024
+CARATULADO : SCHMIDT/AGROBUSINESS BIOCICLO CHILE
+LIMITADA
+
+Concepci nó , catorce de mayo de dos mil veinticinco
+
+VISTO:
+
+Que, en folio 1, el 15 de octubre de 2024, se presenta Gonzalo Cortez
+
+Matcovich, abogado, domiciliado en O’Higgins Nº940, Oficina 903, Concepción,
+
+en representación, de THOMAS WILHELM SCHMIDT PUTZ, médico cirujano,
+
+domiciliado en Calle Chacabuco Nº 111,departamento 2005, Concepción y éste, a
+
+su vez, por sí y en representación de ALOIS FRANZ SCHMIDT ZINGEL, jubilado,
+
+OLIDIA MARGARETHA PUTZ SCHMIDT, labores de casa, ambos domiciliados
+
+en calle Cerro Colorado Nº 6160, departamento 183, Las Condes, Región
+
+Metropolitana y de la sociedad Inversiones TSO LTDA., persona jurídica del giro
+
+de su denominación, domiciliada en Avenida Quinta Junge Nº 1451, Pedro de
+
+Valdivia, Concepción, quién deduce DEMANDA DE CUMPLIMIENTO DE
+
+CONTRATO DE ARRENDAMIENTO DE PREDIO RÚSTICO en contra de la
+
+sociedad AGROBUSSINES BIOCICLO CHILE LIMITADA, persona jurídica del
+
+giro de su denominación, representada legalmente por Alexis Rodrigo Campos
+
+Cáceres, ingeniero agrónomo, con domicilio en calle 18 de Septiembre N°246,
+
+Chillán y/o en calle Claudio Arrau 509- B, Chillán, a fin de que se resuelva según
+
+pide en la conclusión y con el mérito de los antecedentes que expone.
+
+Funda su demanda haciendo referencia al contrato y sus estipulaciones.
+
+En cuanto al objeto del contrato, indica que mediante escritura pública de
+
+13 de mayo de 2020, otorgada ante el notario de Concepción, Juan Espinosa
+
+Bancalari, su representado THOMAS WILHELM SCHMIDT PUTZ, actuando por sí
+
+y en representación de ALOISFRANZ SCHMIDT ZINGEL, OLIDIA MARGARETHA
+
+PUTZ SCHMIDT y de la sociedad Inversiones TSO LTDA., dio en arrendamiento a
+
+la demandada, sociedad AGROBUSSINES BIOCICLO CHILE LTDA. un retazo de
+
+terreno de 95 hectáreas de superficie comprendido dentro de los inmuebles
+
+singularizados en los números uno, dos, tres y cuatro de la cláusula primera del
+
+referido instrumento, con expresa exclusión delas extensiones singularizadas en la
+
+misma escritura. Las partes declararon conocer la superficie arrendada y, a mayor
+
+Código: XPFGXUVGDDX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+RIT« »
+
+Foja: 1
+abundamiento, firmaron junto a la escritura el documento denominado “Croquis
+
+número dos” que detalla la superficie, ubicación, deslindes y zonas excluidas, el
+
+que fue agregado al registro de documentos del citado notario. Asimismo, en la
+
+misma escritura, se dio en arrendamiento a la demandada los derechos de
+
+aprovechamiento de aguas singularizados en los números cinco, seis y siete de la
+
+cláusula primera del citado instrumento. La arrendataria, por su parte, declaró
+
+tomar en arrendamiento el referido retazo de terreno en referencia con las
+
+exclusiones indicadas así como los referidos derechos de aprovechamiento de
+
+agua.
+
+Refiere que de conformidad con lo establecido en la cláusula octava del
+
+citado instrumento la entrega material de los inmuebles se efectuó en la fecha de
+
+la citada escritura a entera satisfacción de la arrendataria.
+
+En cuanto a la renta pactada, indica que en la cláusula novena se estipuló
+
+que la renta de arrendamiento ascendería a la suma de $20.900.000.- pesos
+
+anuales para los primeros cuatro años de vigencia del contrato; la suma de
+
+$26.600.000.- pesos anuales para los años cinco al ocho; la suma de
+
+$36.100.000.- pesos anuales para los años nueve al doce; la suma de
+
+$38.000.000.- de pesos anuales para los años trece al quince y para los años
+
+dieciséis al veinte una suma anual no inferior a $38.000.000.- de pesos ni superior
+
+a$57.000.000.- de pesos a convenir por las partes por escrito lo más tarde en el
+
+mes de septiembre de 2034.
+
+Explica que se estableció que la renta debía ser pagada por períodos
+
+anticipados dentro de los cinco primeros días del mes de abril de cada año de
+
+arrendamiento, verificándose el pago del primer año en la fecha en que fue
+
+otorgada la escritura de arrendamiento, entregando por consiguiente el
+
+arrendatario al arrendador en ese acto la suma de$20.900.000.- pesos al contado
+
+el que fue recibido a entera satisfacción de la arrendadora.
+
+Añade que se estipuló en la cláusula novena que: “En todos y cada uno de
+
+los años de vigencia del contrato, la renta será reajustada conforme a la variación
+
+que experimente el Índice de Precios al Consumidor desde la fecha de esta
+
+escritura y hasta que se verifique el pago efectivo de la o las anualidades
+
+correspondientes”.
+
+En cuanto a la vigencia del contrato, menciona que en la cláusula sexta del
+
+contrato se pactó que el contrato arrendamiento comenzaría a regir con fecha 1 de
+
+mayo de 2020 y tendría una duración de 20 años terminando el 1 de mayo de
+
+2040, estipulándose que, previo al vencimiento del contrato y con una antelación
+
+de seis meses, las partes se reunirían al efecto de discutir una renovación y las
+
+circunstancias y condiciones respectivas.
+
+Código: XPFGXUVGDDX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+RIT« »
+
+Foja: 1
+En cuanto a la ejecución del contrato, relata que durante los primeros cuatro
+
+años de vigencia del contrato, éste fue ejecutado de acuerdo a los términos
+
+pactados, aplicándose en cada anualidad la cláusula de reajustabilidad convenida,
+
+pagándose de esta forma la suma original pactada($20.900.000.) más el
+
+incremento correspondiente al IPC calculado entre la fecha del contrato y la de
+
+pago efectivo. De esta suerte, se pagó para el primer año una renta
+
+de$20.900.000.; para el segundo año, la suma de $21.443.400 ($20.900.000.-
+
+más IPC entre la fecha del contrato y la de pago efectivo); para el tercer año, la
+
+suma de$22.779.691 ($20.900.000.- más IPC entre la fecha del contrato y la de
+
+pago efectivo) ypara el cuarto año la suma de $25.974.040 ($20.900.000.- más
+
+IPC entre la fecha del contrato y la de pago efectivo).
+
+En cuanto al incumplimiento del contrato, manifiesta que no obstante los
+
+términos pactados, llegada la anualidad correspondiente al año número cinco, que
+
+debía ser pagada dentro de los cinco primeros días del mes de abril del año en
+
+curso, la demanda se limitó a pagar la cifra nominal pactada, es decir, la suma de
+
+$26.600.000.-, vulnerándose de este modo la cláusula de reajuste pactada en la
+
+cláusula novena que obliga a reajustar la renta pactada en todos y cada uno de los
+
+años de vigencia del contrato, conforme a la variación que experimente el Índice
+
+de Precios al Consumidor desde la fecha de la escritura y hasta que se verifique el
+
+pago efectivo de la o las anualidades correspondientes.
+
+Destaca que la aplicación de la cláusula de reajustabilidad determina que
+
+para el presente año correspondía el pago de la suma total de $34.154.400.-
+
+($26.600.000.- más IPC entre la fecha del contrato y la de pago efectivo),
+
+generándose, por consiguiente, una diferenciade $7.754.400. en perjuicio de mi
+
+parte, equivalente a lo que correspondería el cumplimiento íntegro y oportuno del
+
+contrato.
+
+En cuanto a los fundamentos de derecho, expresa que de las disposiciones
+
+contendidas en los artículos 1915, 1938 y 1942 del Código Civil se desprende que
+
+el de arrendamiento es un contrato bilateral por medio del cual una de las partes,
+
+el arrendador, concede el goce de una cosa y la otra, el arrendatario, se obliga a
+
+pagar el precio o renta determinada, siendo esta última su obligación principal o
+
+esencial en los términos del artículo 1444 del cuerpo legal recién citado porque de
+
+faltar, degeneraría en un contrato diferente.
+
+Adiciona que la renta debe pagarse por todo el período de vigencia del
+
+contrato y debe ser íntegro, dado que el pago efectivo es la prestación de lo que
+
+se debe, el cual necesariamente debe ser íntegro, de modo que si no se paga la
+
+suma estipulada en el contrato no puede estimarse que el arrendatario ha dado
+
+cumplimiento a lo dispuesto en el artículo 1942 del Código Civil.
+
+Código: XPFGXUVGDDX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+RIT« »
+
+Foja: 1
+En cuanto a los intereses, precisa que en la cláusula en la cláusula
+
+vigésima del contrato se pactó que, salvo disposiciones expresas en contrario, los
+
+pagos que alguna de las partes realice con posterioridad a la fecha pactada en el
+
+presente instrumento dará derecho a la otra parte para cobrar el interés máximo
+
+que la ley permita estipular sobre el total de la obligación exigible y hasta la fecha
+
+de su pago efectivo y que igual regla se aplicará respecto de los reembolsos de
+
+cualquiera de los gastos que la arrendadora pague por cuenta de la arrendataria
+
+salvo acuerdo expreso de las partes.
+
+Afirma que en este caso, al tratarse de un pago insuficiente, se debe
+
+concluir que la demandada ha incurrido en una conducta que constituye una
+
+vulneración de las cláusulas contractuales convenidas entre las partes,
+
+particularmente aquella que regula la reajustabilidad de la renta y comporta, de su
+
+parte, un incumplimiento contractual que legitima la acción de mi representada
+
+para pedir el cumplimiento estricto del contrato en los términos pactados (art. 1489
+
+del Código Civil).
+
+Señala que en este caso, mi parte ha optado por demandar el cumplimiento
+
+de la obligación incumplida por la demandada, es decir, el pago de la diferencia
+
+entre la renta pactada y la efectivamente pagada, más el pago de los interesas
+
+convenidos, debiendo entenderse comprendida también la renta que se devengue
+
+durante la tramitación del juicio.
+
+En cuanto al procedimiento y competencia de este Tribunal, destaca que
+
+tratándose de un contrato de arrendamiento que recae sobre un predio rústico, la
+
+controversia está gobernada por las reglas contenidas en el D.L. Nº 993, que
+
+establece disposiciones especiales sobre arrendamiento de predios rústicos. De
+
+acuerdo con prevenido en el art. 2 del referido cuerpo normativo, las cuestiones o
+
+conflictos que surjan entre las partes con motivo de los contratos a que se refiere
+
+el presente decreto ley, se someterán al procedimiento establecido para el juicio
+
+sumario regulado en el Título XI del Libro III del Código de Procedimiento Civil.
+
+Asegura que de acuerdo a lo estipulado en la cláusula vigésimo cuarta del
+
+contrato, las dificultades que se susciten con motivo de la aplicación o
+
+interpretación del contrato o de las convenciones que de él se deriven ya sea que
+
+dichas dudas o dificultades se refieran a la apreciación de su existencia o
+
+inexistencia, validez, nulidad, cumplimiento o incumplimiento, aplicación,
+
+interpretación, resolución o ejecución o cualquier otra materia relacionada directa
+
+o indirectamente con ellos, serán resueltas por la justicia ordinaria prorrogando las
+
+partes competencia a los tribunales ordinarios de Justicia de la ciudad de
+
+Concepción.
+
+Código: XPFGXUVGDDX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+RIT« »
+
+Foja: 1
+Manifiesta que se convino en la cláusula vigésimo quinta del contrato que
+
+para todos los efectos legales las partes convienen en elevar a la calidad de
+
+cláusulas esenciales y determinantes todas y cada una de las cláusulas del
+
+presente contrato fijando su domicilio en la ciudad de Concepción.
+
+Concluye solicitando tener por deducida demanda en juicio sumario en
+
+contra de contra de AGROBUSSINES BIOCICLOCHILE LIMITADA, ya
+
+individualizada y en definitiva, hacer lugar a ella en todas sus partes, declarando
+
+que la demandada ha incurrido en el incumplimiento contractual referido en el
+
+cuerpo de la presente demanda, condenándose a la demandada al cumplimiento
+
+del contrato referido en el párrafo I.-, en los siguientes términos:
+
+a) Se le condene a pagar, por concepto de saldo insoluto de la renta, la
+
+suma de $7.754.400.-;
+
+b) Que la suma ordenada pagar deberá ser reajustada conforme la
+
+variación del índice de precios al consumidor entre el mes anterior a la fecha de la
+
+sentencia y el mes anterior al de pago efectivo; en subsidio, que se reajusta en la
+
+forma y/o desde y hasta las fechas que se determine conforme los antecedentes
+
+de autos;
+
+c) Que la suma ordenada pagar devengará el máximo de interés legal que
+
+sea lícito pactar, desde la fecha en que la sentencia cause ejecutoria hasta la
+
+fecha de su pago efectivo, de acuerdo a lo pactado en la cláusula vigésima del
+
+contrato; en subsidio, que se aplica el tipo de interés y/o desde y hasta las fechas
+
+que se determine según el mérito de autos
+
+d) Que se declare que, para el efecto del pago de las rentas que se
+
+devenguen en lo sucesivo durante la vigencia del contrato, la demandada deberá
+
+dar cumplimiento a la cláusula de reajustabilidad para el pago de todas y cada una
+
+de las rentas, según lo convenido en la cláusula novena del contrato;
+
+e) Que se condena a la demandada al pago de las costas de la causa.
+
+En folio 17, el 23 de diciembre de 2024, rola notificación de la demanda
+
+practicada de conformidad al artículo 44 del Código de Procedimiento Civil a
+
+Alexis Campos Cáceres en su calidad de representante legal de la demandada
+
+Agrobussines Biociclo Chile Limitada.
+
+En folio 24, el 8 de enero de 2025, se llevó a efecto la audiencia de
+
+contestación y conciliación, con la asistencia remota de los abogados de la parte
+
+demandante y demandada.
+
+En la audiencia, la parte demandante ratifica su demanda, pidiendo sea
+
+acogida en todas sus partes.
+
+El abogado Pablo Vallejos Sánchez en representación de la parte
+
+demandada contesta la demanda mediante minuta escritura de folio 20, la que se
+
+Código: XPFGXUVGDDX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+RIT« »
+
+Foja: 1
+tuvo como parte integrante de la audiencia, solicitando rechazarla con costas por
+
+los antecedentes que pasa a exponer.
+
+Funda su contestación señalando que su representada no debe el saldo de
+
+renta que se le pretende cobrar, toda vez que se han pagado todas las rentas
+
+debidamente reajustadas a la fecha, según el IPC y según la forma que se pasa a
+
+explicar más adelante.
+
+Refiere que el contrato de arrendamiento, se celebró el día 13 de mayo de
+
+2020 y según su clausula SEXTA, comenzó a regir el día 01 de mayo de 2020 y
+
+tendrá una duración de 20 años.
+
+Indica que según la cláusula NOVENA del mismo instrumento, el canon
+
+arriendo se debe pagar por anticipado, los 5 primeros días del mes de abril de
+
+cada año; y a contar del 5° año de vigencia, además del pago de la renta, el
+
+arrendatario se obliga al pago del impuesto territorial en la forma en que se
+
+establece en el mismo contrato. Los pagos se han efectuado en forma y en plazo.
+
+Explica que la renta se pactó con un sistema de reajustabilidad doble, que
+
+en la práctica responde a 5 ciclos de determinada cantidad de años, que parten
+
+con un valor piso, al que se le aplica el IPC desde la fecha de celebración y el
+
+pago efectivo. La cláusula en cuestión dice lo siguiente: “En todos y cada uno de
+
+los años de vigencia del contrato, la renta será reajustada conforme a la variación
+
+que experimente el Índice de Precios al Consumidor, desde la fecha de esta
+
+escritura y hasta que se verifique el pago efectivo de la o las anualidades
+
+correspondientes.” Lo que entendieron las partes en estos 4 años, es que se
+
+reajustaba año tras año el valor del contrato, actualizándose y respetando el valor
+
+piso de cada ciclo.
+
+Añade que la práctica al cumplirse completamente el primer ciclo, los pagos
+
+realizados por la demandada fueron del siguiente orden:
+
+- Año 2020: $ 20.900.000 (no hay reajuste)
+
+- Año 2021: $ 21.443.400 (se aplicó un reajuste de 2,6 % de interés entre
+
+mayo de 2020- marzo 2021), hay una diferencia real a pagar de $ 62.700, porque
+
+el IPC fue 2,9% y el monto que debió pagarse $ 21.506.100. Se pago finalmente
+
+esta última cifra.
+
+- Año 2022: $ 22.779.691 (8,99% de interés aplicado entre abril de 2021-
+
+marzo 2022, hay una diferencia real a pagar de $ 704.970, por que el IPC fue de
+
+9,2%) y el monto que se debió pagar $ 23.484.661. Se pago finalmente esta última
+
+cifra.
+
+- Año 2023: $ 25.974.034 (10,6% de IPC aplicado entre abril de 2022-
+
+marzo de 2023).
+
+Código: XPFGXUVGDDX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+RIT« »
+
+Foja: 1
+- Año 2024: $ 26.600.000 pagado en abril de 2024, tal como lo señala el
+
+contrato como precio base del nuevo ciclo.
+
+Señala que el valor del arriendo se fue reajustado todos los años, teniendo
+
+como base el valor real pagado en año anterior, por lo que en el fondo el valor del
+
+ultimo año pagado, es la sumatoria del valor inicial ($ 20.900.000) más los valores
+
+de reajuste según los distintos IPC anuales, por lo que la reajustabilidad se aplicó
+
+siempre, hasta el pago del valor piso del nuevo ciclo.
+
+Manifiesta que los $26.600.000 pagados como primer año del segundo
+
+ciclo, es algo menos que el valor reajustado por el IPC, si se entendiese que debe
+
+pagarse junto al valor piso de cada ciclo, por lo que su representada siente que ha
+
+cumplido lo pactado. Lo que su representada debió pagar en el año 2024, según la
+
+interpretación de la contraria, aplicando el reajuste del IPC anual de 3,7% da como
+
+valor $ 26.974.074, generándose solo una diferencia de $ 335.074, pero no los $
+
+7.754.400 que pretende la demanda.
+
+Agrega que en la demanda no se hace ningún ejercicio aritmético, que
+
+represente la actualización pretendida por la arrendadora. Los $ 26.600.000 casi
+
+coinciden con el valor actualizado año a año, si se considera el IPC, pero su
+
+representado pago el valor piso del ciclo, lo que puede ser un error, pero
+
+representa la intención y lo que han hecho las partes durante la vigencia del
+
+contrato, ya que nunca ha existido mayores diferencias en los pagos, resultando
+
+tan evidente lo planteado, que la parte contraria no demando el termino anticipado
+
+del contrato, por falta de pago.
+
+Relata que pretender se aplique el IPC acumulado en los años anteriores,
+
+cuando siempre se pagó la diferencia del valor, es llegar a una situación de
+
+anatocismo, ya que significaría cobrar por segunda vez el IPC, ya que el IPC
+
+acumulado en los 4 primeros años es de 26,4% entre los años del pago inicial en
+
+mayo de 2020 al mes de abril del 2024. Sin embargo, como ya se dijo, siempre se
+
+fue actualizando el valor del año anterior, por lo que ya el mayor valor por IPC esta
+
+subsumido en lo que efectivamente se ha pagado.
+
+Precisa que la cláusula NOVENA, resulta ser totalmente ambigua, pues no
+
+se entiende el porque existen valores de piso, por ciclo de años, sino más bien
+
+para beneficio de una de las partes, en desmedro de la otra. Es más, el último
+
+ciclo tiene asignado un valor de canon indeterminado y cito “para los años
+
+dieciséis a veinte una suma no inferior a treinta y ocho millones de pesos, ni
+
+superior a cincuenta y siete millones de pesos a convenir por las partes por
+
+escrito, lo más tarde en el mes de septiembre de dos mil treinta y cuatro. En este
+
+último caso, el desacuerdo de las partes para fijar la renta del ultimo periodo de
+
+arriendo, constituirá una causal de termino anticipado del contrato.” Lo anterior
+
+Código: XPFGXUVGDDX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+RIT« »
+
+Foja: 1
+importa un abuso que es necesario poner el relieve, porque esta demanda, ratifica
+
+de cierta manera la misma posición de quien demanda.
+
+Destaca que aquella parte de la cláusula NOVENA atenta contra la
+
+naturaleza misma del contrato, ya que en el fondo no fija un valor de renta. No
+
+puede haber un arrendamiento sin renta, existiendo una fluctuación de 19 millones
+
+de pesos entre los posibles montos a fijar, más la aplicación del IPC. Es decir, no
+
+se sabe ni remotamente el valor que se pagara.
+
+Expone que dicha cláusula resulta del todo arbitraria, ya que basta que una
+
+de las partes diga NO y el contrato se termina anticipadamente, teniendo una
+
+posición dominante el dueño del predio, pues es su representada quien realiza
+
+millonarias inversiones, cayendo toda la presión sobre ella, para acceder a un
+
+determinado monto, en cambio la arrendadora no realiza ninguna disposición
+
+patrimonial, no arriesgando nada. En esta parte la cláusula podría resultar ilegal y
+
+contraria al carácter bilateral del mismo. En este sentido debe tenerse presente
+
+que el contrato fue redactado por un abogado de confianza de quien demanda.
+
+Todo esto debe ponderarse en el juicio.
+
+Puntualiza que sin perjuicio de lo anterior, atendido a que no se esta
+
+discutiendo la continuidad del contrato, esta parte manifiesta su voluntad de
+
+modificar el mismo, para que exista una mayor claridad en cuanto el cumplimiento
+
+de las obligaciones, en particular la determinación de la renta a pagar, aun cuando
+
+su representada está en el convencimiento que ha cumplido con lo pactado.
+
+Llamadas las partes a conciliación, ésta no se produce.
+
+En folio 26, el 13 de enero de 2025, se recibió la causa a prueba,
+
+rindiéndose la que consta en autos.
+
+En folio 36, el 5 de mayo de 2025, se citó a las partes para oír sentencia.
+
+CON LO RELACIONADO Y CONSIDERANDO:
+
+1º.- Que, conforme se desprende de la parte expositiva precedente, el
+
+abogado Gonzalo Cortez Matcovich en representación de THOMAS WILHELM
+
+SCHMIDT PUTZ, y éste, a su vez, por sí y en representación de ALOIS FRANZ
+
+SCHMIDT ZINGEL, OLIDIA MARGARETHA PUTZ SCHMIDT, y de la sociedad
+
+Inversiones TSO LTDA. deduce demanda de cumplimiento de contrato de
+
+arrendamiento de predio rústico en contra de AGROBUSSINES BIOCICLO CHILE
+
+LIMITADA, solicitando que se declare que la demandada debe pagar por
+
+concepto de saldo insoluto de renta la suma de $7.754.400; con reajustes y
+
+costas; y que se declare que para el efecto del pago de las rentas que se
+
+devenguen en lo sucesivo la demandada deberá dar cumplimiento a la cláusula de
+
+reajustabilidad para el pago d todas y cada una de las rentas, según lo convenido
+
+Código: XPFGXUVGDDX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+RIT« »
+
+Foja: 1
+en la cláusula novena del contrato, y finalmente condenando a la demandada al
+
+pago de las costas.
+
+2°.- Que, legalmente notificada, la demandada contestó la acción
+
+interpuesta, solicitando su rechazo atendido que su parte ha pagado todas las
+
+rentas debidamente reajustadas a la fecha, con costas.
+
+3º.- Que, para acreditar los fundamentos de la acción impetrada, la parte
+
+demandante rindió la siguiente prueba en el proceso:
+
+a) En folio 1, copia autorizada de escritura pública de fecha 13 de mayo de
+
+2020, Repertorio Nº 2508, otorgada en la Notaría de Concepción de don
+
+Juan Espinosa Bancalari, sobre Contrato de Arrendamiento de Predios
+
+Rústicos celebrado entre Thomas Wilhelm Schmidt Putz y otro con
+
+Agrobussines Biociclo Chile Limitada.
+
+b) En folio 1, copia autorizada de escritura pública de fecha 23 de junio de
+
+2021, Repertorio Nº 3376, otorgada en la Notaría de Santiago de don
+
+Luis Rodríguez Burr, sobre poder general entregado por Alois Franz
+
+Schmidt y otra a Thomas Wilhelm Schmidt Putz.
+
+c) En folio 1, copia autorizada de escritura pública de fecha 2 de diciembre
+
+de 2019, Repertorio Nº 8.649, otorgada en la Notaría de Concepción de
+
+don Juan Espinosa Bancalari, sobre modificación de sociedad
+
+Inversiones TSO Limitada.
+
+d) En folio 29, comprobante de depósito por la suma de $26.600.000
+
+efectuado el día 3 de abril de 2024 en la cuenta corriente Nº
+
+000100983201 del Banco de Chile cuyo titular es Odilia Margaretha Putz
+
+Schmidt.
+
+4º.- Que, por su parte la demandada no rindió prueba alguna.
+
+5º.- Que, las partes no discuten la existencia del contrato de arrendamiento
+
+celebrado entre ellas, tampoco cuestionan las estipulaciones que en la demanda
+
+se citan, por lo cual –al no existir controversia sobre estos puntos– ellos pasan a
+
+ser hechos establecidos de la causa.
+
+Por lo demás dicho contrato fue acompañado a la demanda de folio 1 y de
+
+su examen aparece en lo que interesa:
+
+- Que, fue celebrado mediante escritura pública con fecha 13 de mayo de
+
+2020, apareciendo don Thomas Wilhelm Schmidt Putz, don Alois Franz Schmidt
+
+Zingel, doña Olidia Margaretha Putz Schmidt y la sociedad Inversiones TSO
+
+Limitada como ARRENDADORES y la sociedad demandada Agrobussines
+
+Biociclo Chile Limitada como ARRENDATARIA.
+
+- Que, en la cláusula primera, se estipuló que “ Declara don Thomas
+
+Wilhelm Schmidt Putz que es nudo propietario y que sus representados, don Alois
+
+Código: XPFGXUVGDDX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+RIT« »
+
+Foja: 1
+Franz Schmidt Zingel y doña Olidia Margaretha Pütz Schmidt, son usufructuarios
+
+de un retazo de terreno de noventa y cinco hectáreas que está compuesto por los
+
+siguientes bienes:
+
+Uno) Inmueble denominado Resto de Parcela número uno del Proyecto de
+
+Parcelación Pilmaiquén ubicado en la comuna de Coihueco, deslinda: Norte, con
+
+propiedad de don Carlos Contreras, Bartolo Molina, Alberto Aldea, Asentamiento
+
+La Dehesa, parte de la sucesión Aldea Mella, propiedad de Alberto Figueroa;
+
+Oriente, con propiedad de Bartolo Molina, Alberto Aldea, y Asentamiento La
+
+Dehesa; Sur, propiedad de Sótero Junemann y Alberto Aldea, Pequeños
+
+propietarios y Alberto Figueroa; y Poniente, con parcela número cuatro, camino de
+
+por medio y propiedad de Alberto Figueroa y sucesión Aldea Mella con camino de
+
+por medio, Alberto Aldea y Sótero Junemann. Tiene una superficie aproximada de
+
+cincuenta y cinco coma dos hectáreas. Se comprenden los derechos de agua o
+
+derrames que correspondan o puedan corresponderles al predio. Se excluyen los
+
+siguientes retazos: a) Seis coma veintiocho hectáreas transferidas en dominio; y
+
+b) Retazo de tres hectáreas. Nuda Propiedad inscrita a Fojas setecientos sesenta
+
+y nueve número novecientos diecisiete Registro de Propiedad del año dos mil
+
+trece y; Usufructo inscrito a Fojas trescientos veintitrés número doscientos
+
+ochenta y cinco Registro de Hipotecas del año dos mil trece, ambos llevados por
+
+el Conservador de Bienes Raices de Chillán. Rol de avalios ciento uno guión
+
+noventa y dos de la comuna de Coihueco.
+
+Dos) Inmueble denominado Resto de un retazo de terreno del Fundo Santa
+
+Teresa, ubicado en la comuna de Coihueco, retazo de terreno que, según s plano
+
+agregado al final del Registro de Propiedad bajo el número doscientos cincuenta y
+
+nueve, tiene una superficie aproximada de cuarenta y siete hectáreas y dos
+
+centésimos y deslinda: Norte, con parcela número uno del loteamiento
+
+Pilmaiquén, vendido al senor Schmidt; Sur, con estero Los Montes, que lo separa
+
+del resto del Fundo Santa Teresa; Oriente, con Alberto Aldea; y Poniente, con
+
+camino público que lo separa de Juan de Dios Arriagada. Se excluye retazo
+
+transferido en dominio de una coma dos hectáreas. Nuda Propiedad inscrita a
+
+Fojas setecientos sesenta y ocho número novecientos dieciséis Registro de
+
+Propiedad del año dos mil trece y; Usufructo inscrito a Fojas trescientos veintidós
+
+número doscientos ochenta y cuatro Registro de Hipotecas del año dos mil trece,
+
+ambos llevados por el Conservador de Bienes Raices de Chillán. Rol de avalúos
+
+ciento uno guión noventa y dos de la comuna de Coihueco. Se excluye un retazo
+
+de terreno de una extensión de cinco hectáreas ubicado en el inmueble indicado
+
+en párrafo precedente, en su límite sur, colindando con el estero El Rosario, en
+
+una extensión aproximada de setecientos metros, actualmente arrendado a la
+
+Código: XPFGXUVGDDX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+RIT« »
+
+Foja: 1
+Agricola COV SpA según inscripción de fojas seiscientos diecinueve vuelta
+
+número quinientos cuarenta y cuatro del Registro de Hipotecas del año dos mil
+
+veinte llevado por el Conservador de Bienes Raices de Chillán, asimismo, se
+
+excluye el camino perimetral y retazo colindante en el que se encuentran
+
+emplazadas las viviendas de los arrendatarios; lo anterior, conforme al
+
+documentos denominado "Croquis Número Uno" que se protocoliza al final de la
+
+presente escritura.
+
+Tres) Incluye además retazo de aproximadamente una hectárea en pleno
+
+uso y posesión material, conocido de las partes, según escritura pública otorgada
+
+en la Notaría de don Guillermo Vega de Chillán, Repertorio dos mil setecientos
+
+sesenta y seis e inscripción de dominio en trámite.
+
+Cuatro) Retazo de terreno de dos hectáreas de propiedad de la sociedad
+
+Inversiones TSO Limitada, inscrito a fojas mil cuatrocientos sesenta y dos Número
+
+quinientos cincuenta y dos del Registro de Propiedad del año dos mil cinco llevado
+
+por el Conservador de Bienes Raíces de Chillan. Rol de avalúo ciento uno guión
+
+cero tres de la Comuna de Coihueco.
+
+Cinco) Cinco regadores de agua que equivalen a cincuenta litros por
+
+segundo de los derechos de aprovechamiento de las aguas de una vertiente que
+
+nace el predio La Granja El Rosario, de la Comuna de Colhueco, para regar los
+
+predios individualizados en las letras a) y b) anteriores. Estas aguas se
+
+encuentran inscritas a nombre del nudo propietario a fojas veintidós vuelta número
+
+veinticinco del Registro de Propiedad de Aguas del Conservador de Bienes Raices
+
+de Chillán correspondiente al año dos mil trece; y a nombre de la usufructuaria a
+
+fojas siete número seis del Registro de Hipotecas de Aguas del mismo
+
+conservador y año citados. Estas aguas tendrán un derecho preferente e ilimitado
+
+de uso y aprovechamiento a la sociedad Agricola COV SpA para el riego del
+
+retazo de cinco hectáreas a que se refiere la segunda parte del número Dos)
+
+precedente.
+
+Seis) Derechos de aprovechamiento de aguas superficiales, consuntivos,
+
+permanentes y continuos, consistentes en un caudal equivalente a treinta y ocho
+
+litros por segundo, derivados del estero Talquipén o Pilmaiquén, mediante una
+
+bocatoma instalada en el alveo norte, tres Km aguas arriba desde donde este
+
+estero cruza con el camino a Coihueco a Pinto, en la propiedad o fundo La
+
+Dehesa, hoy parcelación La Dehesa, y conducido a través del canal Muñoz-
+
+Rosario. Estas aguas se encuentran inscritas a nombre del nudo propietario a
+
+fojas veintitrés número veintiséis del Registro de Propiedad de Aguas del
+
+Conservador de Bienes Raíces de Chillán correspondiente al año dos mil trece; y
+
+Código: XPFGXUVGDDX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+RIT« »
+
+Foja: 1
+a nombre de la usufructuaria a fojas ocho número siete del Registro de Hipotecas
+
+de Aguas del mismo conservador y año citados.
+
+Siete) Derecho de aprovechamiento consuntivo de aguas subterráneas de
+
+ejercicio permanente y continuo, por un caudal de veinticinco litros por segundo,
+
+en la comuna de Coihueco. Estas aguas se encuentran inscritas a nombre del
+
+nudo propietario a fojas veinticuatro número veintisiete del Registro de Propiedad
+
+del Conservador de Bienes Raices de Chillán correspondiente al año dos mil
+
+trece; y a nombre de la usufructuaria a fojas nueve, número ocho del Registro de
+
+Hipotecas de Aguas del mismo conservador y año citados. Estas aguas se
+
+encuentran actualmente arrendadas a la sociedad Agricola COV SpA según
+
+inscripción de fojas siete número seis del Registro de Hipotecas de Aguas del año
+
+dos mil veinte del Conservador de Bienes Raices de Chillán. Se protocoliza al final
+
+de esta escritura documento denominado "Croquis Nro. dos" correspondiente al
+
+levantamiento topográfico que da cuenta de la ubicación, superficie y deslindes
+
+del retazo de terreno objeto de este contrato de arrendamiento”.
+
+- En la cláusula segunda, se dejó constancia que “Por el presente
+
+instrumento, don THOMAS WILHELM SCHMIDT PUTZ, personalmente y en
+
+representación de: don Alois Franz Schmidt Zingel, de doña Olidia Margaretha
+
+Pütz Schmidt y de la sociedad Inversiones TSO Limitada, da en arrendamiento a
+
+la sociedad AGROBUSSINES BIOCICLO CHILE LIMITADA, representada
+
+legalmente por don Nelson Fabian llabaca Molina, un retazo de terreno de
+
+noventa y cinco hectáreas de superficie comprendido dentro de los inmuebles
+
+singularizados en los números Uno, Dos, Tres y Cuatro de la cláusula anterior,
+
+con expresa exclusión de las extensiones, asimismo, singularizadas
+
+precedentemente. Las partes declaran conocer la superficie arrendada y, a mayor
+
+abundamiento, firman junto a la presente escritura el documento denominado
+
+"Croquis 1 número dos" que detalla la superficie, ubicación, deslindes y zonas
+
+excluidas, el que, además, se agrega al Registro de Documentos. La Arrendataria
+
+declara tomar en arrendamiento el retazo de terreno en referencia con las
+
+exclusiones indicadas”.
+
+- En la cláusula quinta, refiere que “Los bienes arrendados deberán
+
+destinarse a siembra, plantación de frutales, y cultivos de todo tipo, incluido la
+
+siembra y producción de caña industrial, pudiendo la arrendataria realizar todas
+
+las labores y prácticas culturales que estime conveniente para estos efectos”.
+
+- En la cláusula sexta, se estipuló: “El contrato de arrendamiento
+
+comenzará a regir con fecha uno de mayo de dos mil veinte y tendrá una duración
+
+veinte años, terminando el uno de mayo de dos mil cuarenta. Previo al
+
+vencimiento del presente contrato con una antelación de seis meses las partes se
+
+Código: XPFGXUVGDDX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+RIT« »
+
+Foja: 1
+reunirán al efecto de discutir una renovación y las circunstancias y condiciones
+
+respectivas”.
+
+- En la cláusula octava, las partes acordaron: “La entrega material de los
+
+inmuebles se efectúa con la fecha del presente instrumento, desocupados en la
+
+parte que corresponda, sin trabajadores ni personal dependiente del arrendador, a
+
+entera satisfacción de la parte arrendataria”.
+
+- En la cláusula novena, convinieron: “La renta de arrendamiento es la
+
+suma de veinte millones novecientos mil pesos anuales para los primeros cuatro
+
+años de vigencia contrato, la suma de veintiséis millones seiscientos mil pesos
+
+anuales para los años cinco al ocho, la suma de treinta y seis millones cien mil
+
+pesos anuales para los años nueve al doce, la suma de treinta y ocho millones de
+
+pesos anuales para los años trece al quince y, para los años dieciséis a veinte una
+
+suma anual no inferior a treinta y ocho millones de pesos ni superior a cincuenta y
+
+siete millones de pesos a convenir por las partes por escrito, lo más tarde, en el
+
+mes de septiembre de dos mil treinta y cuatro. En este último caso, el desacuerdo
+
+de las partes para fijar la renta del último periodo de arriendo, constituirá una
+
+causal de término anticipado del contrato. La renta se pagará por períodos
+
+anticipados dentro de los cinco primeros días del mes de abril de cada año de
+
+arrendamiento. El pago del primer año se verifica en esta misma fecha,
+
+entregando el Arrendatario al Arrendador la suma de veinte millones novecientos
+
+mil pesos, al contado, el que as recibió a entera satisfacción de este último. En
+
+todos y cada uno de los años de vigencia del contrato, la renta será reajustada
+
+conforme a la variación que experimente el Índice de Precios al Consumidor,
+
+desde la fecha de esta escritura y hasta que se verifique el pago efectivo de la o
+
+las anualidades correspondientes. Todos los pagos efectuados por el Arrendatario
+
+al Arrendador, deberán serlos mediante depósito o transferencia electrónica a la
+
+cuenta corriente Bancaria de don ALOIS SCHMIDT ZINGEL cédula de identidad
+
+número doce millones ciento sesenta y dos mil cuatrocientos cuarenta y tres guión
+
+cinco del Banco Scotiabank Chile Número seis cero cero seis seis nueve siete
+
+guión cero cinco, en los plazos establecidos precedentemente. Lo anterior es sin
+
+perjuicio de la facultad de don THOMAS WILHEM SCHMIDT PUTZ para señalar
+
+por escrito otra cuenta corriente o modalidad de pago”.
+
+- En la cláusula vigésima, las partes convinieron: “Salvo disposiciones
+
+expresas en contrario, los pagos que alguna de las Partes se realice con
+
+posterioridad a la fecha pactada en el presente instrumento, dará derecho a la otra
+
+parte para cobrar el interés máximo que la ley permite estipular, sobre el total de
+
+la obligación exigibles y hasta la fecha de su pago efectivo. Igual regla se aplicará
+
+Código: XPFGXUVGDDX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+RIT« »
+
+Foja: 1
+respecto de los reembolso de cualquier gastos que la Arrendadora pague por
+
+cuenta de la Arrendataria, salvo acuerdo escrito de las Partes”.
+
+- En la cláusula vigésima cuarta, las partes acordaron: “Las dificultades
+
+que se susciten con motivo de la aplicación o interpretación del presente contrato
+
+o de las convenciones que de él se deriven, ya sea que dichas dudas o
+
+dificultades se refieran a la apreciación de su existencia o inexistencia, validez,
+
+nulidad, cumplimiento o incumplimiento, aplicación, interpretación, resolución o
+
+ejecución, o cualquiera otra materia relacionada directa o indirectamente con
+
+ellos, serán resueltas por la justicia ordinaria, prorrogando las partes competencia
+
+a los Tribunales Ordinarios de Justicia de la ciudad de Concepción”.
+
+6°.- Que, entonces, apreciadas las referidas probanzas conforme a las
+
+reglas de la sana crítica, esto es, de acuerdo a la lógica y a las máximas de la
+
+experiencia, en la especie; acreditan en forma fehaciente la existencia del contrato
+
+de arrendamiento celebrado entre las partes, el monto de la renta de
+
+arrendamiento anual por cada año de arriendo, su sistema de reajustabilidad y, en
+
+general, los términos en que se produjo la contratación.
+
+7°.- Que, acreditada como se encuentra la existencia del contrato de
+
+arrendamiento que liga a las partes, era a la sociedad demandada a quién
+
+correspondía justificar, según las reglas del onus probandi, haber cancelado y
+
+estar al día en el pago íntegro de la renta de arrendamiento anual que se le cobra.
+
+8º.- Que, la parte demandante pretende el pago de la suma de $7.754.400.-
+
+que correspondería al saldo adeudado por concepto de renta de arrendamiento
+
+anual correspondiente al año cinco (2024) atendido que la demandada se limitó a
+
+pagar la cifra nominal pactada, es decir, la suma de $26.600.000.- vulnerándose la
+
+cláusula de reajuste pactada en la cláusula novena del contrato de arrendamiento.
+
+9º.- Que, la demandada en su escrito de contestación reconoce que
+
+respecto de la renta de arrendamiento anual que se le cobra efectúo el pago de la
+
+suma de $26.600.000.- pero señala que las partes en la práctica han modificado el
+
+sistema de reajustabilidad ya que respecto de anualidades anteriores han
+
+reajustado la renta de arrendamiento anual teniendo como base la variación del
+
+Índice de Precios al Consumidor que ha experimentado al valor real pagado en el
+
+año inmediatamente anterior y no como base la variación de Índice de Precios al
+
+Consumidor desde la fecha de la escritura pública de contrato, ya que ello
+
+implicaría aplicar el IPC acumulado de los años anteriores.
+
+10º.- Que, no habiéndose rendido prueba por la parte demandada en
+
+prueba de sus alegaciones y atendido el claro tenor de la cláusula novena del
+
+contrato de arrendamiento, la cual establece que “(…) En todos y cada uno de los
+
+años de vigencia del contrato, la renta será reajustada conforme a la variación que
+
+Código: XPFGXUVGDDX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+RIT« »
+
+Foja: 1
+experimente el Índice de Precios al Consumidor, desde la fecha de esta escritura
+
+y hasta que se verifique el pago efectivo de la o las anualidades correspondientes
+
+(…)”, la renta de arrendamiento anual por el año cinco (2024) debió pagarse
+
+debidamente reajustada considerando la variación que ha experimentado el IPC
+
+desde la fecha de la escritura (13 de mayo de 2020) hasta que se verifique su
+
+pago efectivo y por el contrario sólo se encuentra acreditado que con fecha 3 de
+
+abril de 2024 la demandada efectuó el pago de la cifra nominal pactada, es decir,
+
+la suma de $26.600.000.-
+
+En este punto, cabe señalar que es la propia demandante quién reconoce el
+
+abono y además acompaña en folio 29 el comprobante de depósito respectivo, lo
+
+que permite acreditar que con fecha 3 de abril de 2024 el demandante recibió el
+
+monto consignado y que corresponde al pago de la renta de arrendamiento anual
+
+correspondiente al año cinco (2024).
+
+De esta forma, las alegaciones de la parte demandada serán desestimadas,
+
+toda vez que por una parte no acreditó el pago íntegro de la renta de
+
+arrendamiento anual correspondiente al año cinco (2024) y tampoco que las
+
+partes hayan convenido expresa o tácitamente en modificar el sistema de
+
+reajustabilidad establecido en la cláusula novena del contrato de arrendamiento.
+
+11º.- Que, por las razones expuestas se dará lugar a la pretensión de cobro
+
+de la renta de arrendamiento anual adeudada por el año cinco (2024), a razón de
+
+la suma señalada en la cláusula novena del contrato de arrendamiento celebrado
+
+entre las partes, debiendo descontarse el abono acreditado por la suma de
+
+$26.600.000 efectuado por la demandada, en los términos que se dirá en lo
+
+resolutivo.
+
+12º.- Que, en cuanto a la solicitud que la suma a que sea condenado el
+
+demandado se le apliquen intereses, habiéndose pactado en la cláusula vigésima
+
+del contrato de arrendamiento los intereses que se cobrarán por incumplimiento
+
+del contrato se estará a lo convenido por las partes.
+
+13°.- Que, en cuanto a la petición de la demandante en el sentido de
+
+declarar que las rentas que se devenguen en lo sucesivo la demandada deberá
+
+dar cumplimiento a la cláusula de reajustabilidad para el pago de todas y cada una
+
+de las rentas, este sentenciador estima que dicha declaración es inoficiosa toda
+
+vez que nos encontramos frente a un contrato de arrendamiento celebrado entre
+
+las partes cuya vigencia se ha establecido en este juicio y por ende impone las
+
+obligaciones que correspondan a cada uno de los contratantes, entre las cuales se
+
+encuentra precisamente la cláusula referida a la reajustabilidad del canon de
+
+arriendo.
+
+Código: XPFGXUVGDDX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+RIT« »
+
+Foja: 1
+14°.- Que, la restante prueba pormenorizada, pero no analizada en lo
+
+particular, en nada altera las conclusiones a las que ha arribado este sentenciador;
+
+por lo que sólo se menciona para los efectos procesales que haya lugar.
+
+Por estas consideraciones y de conformidad, además, con lo previsto en los
+
+artículos 1.437, 1.445, 1.535, 1.545, 1.546, 1.698, 1.708, 1.709, 1.915, 1.942,
+
+1.950 y 1.977 del Código Civil; artículos 144, 160, 169, 170 y 341 del Código de
+
+Procedimiento Civil; y Ley 18.101; se declara:
+
+I.- Que, HA LUGAR a la demanda de 15 de octubre de 2024, de folio 1, y
+
+en consecuencia se condena a la demandada AGROBUSSINES BIOCICLO
+
+CHILE LIMITADA a pagar a la parte demandante la renta de arrendamiento anual
+
+correspondiente al año cinco (2024), a razón de la suma señalada en la cláusula
+
+novena del contrato de arrendamiento celebrado entre las partes, debiendo
+
+descontarse en la liquidación que se practique al efecto el abono a dicha
+
+anualidad efectuada con fecha 3 de abril de 2024 por la suma de $26.600.000.
+
+II.- Que, la suma a que se condena a la demandada, deberá pagarse
+
+debidamente reajustada conforme a la variación que experimente el Índice de
+
+Precios al Consumidor, desde el día 13 de mayo de 2020 – fecha de celebración
+
+de la escritura pública de contrato de arrendamiento – y hasta que se verifique el
+
+pago de la renta adeudada, conforme lo estipulado en la cláusula novena del
+
+contrato de arrendamiento.
+
+III.- Que, la suma a que se condena a la demandada, deberá pagarse con el
+
+interés máximo convencional para operaciones reajustables entre la fecha en que
+
+debió realizarse y aquella en que efectivamente se haga, conforme lo estipulado
+
+en la cláusula vigésima del contrato de arrendamiento.
+
+IV.- Que, no se condena en costas a la demandada por considerarse que
+
+tuvo motivo plausible para litigar.
+
+Notifíquese por correo electrónico a los apoderados de ambas partes.
+
+Regístrese y archívese en su oportunidad.
+
+Rol C-7494-2024
+
+Dictada por don DENIS RODRIGO OYARCE ORREGO, Juez Suplente del
+
+Primer Juzgado Civil de Concepción.
+
+Se deja constancia que se dio cumplimiento a lo dispuesto en el inciso final del art. 162
+del C.P.C. en Concepci nó , catorce de mayo de dos mil veinticinco
+
+Código: XPFGXUVGDDX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2025-05-14T13:48:14-0400

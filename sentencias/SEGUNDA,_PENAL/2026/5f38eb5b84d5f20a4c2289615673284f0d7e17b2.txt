@@ -1,0 +1,77 @@
+METADATA
+
+case_id: 5f38eb5b84d5f20a4c2289615673284f0d7e17b2
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8055124
+
+rol: 9573-2026
+
+fecha_sentencia: 2026-03-10
+
+caratulado: D. A. C. V. CONTRA JUZGADO DE GARANTIA DE TALAGANTE
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, diez de marzo de dos mil veintiséis.
+
+Vistos:
+Atendido lo dispuesto en el artículo 21 de la Carta Fundamental, se confirma la sentencia apelada de dieciocho de febrero de dos mil veintiséis, pronunciada por la Corte de Apelaciones de Valparaíso, en el ingreso Nº466-2026.
+
+Regístrese y devuélvase.
+
+Nº8.181-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Llg
+
+C.A. de Valparaíso.
+Valparaíso, dieciocho de febrero de dos mil veintiséis.
+
+Visto:
+
+A folio 1 comparecen Pablo Peñaloza Parra y Joaquín Contreras Roa, abogados, en favor Lina Vanessa Asprilla Hurtado, de nacionalidad colombiana, quienes interponen acción de amparo en contra del Servicio Nacional de Migraciones por la dictación de la Resolución Exenta N°2500100324721 de 18 de diciembre de 2025, mediante la cual rechazó la solicitud de residencia definitiva y dispuso el abandono del país en el plazo de 15 días, vulnerando su libertad personal y seguridad individual, derechos consagrados en el artículo 19 N°7 de la Constitución Política de la República.
+
+Refiere que, la amparada, de nacionalidad colombiana, estando dentro del país cambió su condición migratoria a residente temporario por visa otorgada, posteriormente, en virtud del vencimiento de su visado con fecha 29 de junio de 2024 realizó solicitud de residencia definitiva, sin embargo el 18 de diciembre de 2025 es notificada de Resolución Exenta N°2500100324721 mediante la cual se rechaza la solicitud de residencia definitiva y se dispone orden de abandono por el no pago de la multa por residencia irregular.
+
+Agrega que, al momento de ser notificada del previo rechazo, realizó el pago correspondiente, de acuerdo al artículo 106 de la Ley N°21.325.
+
+Añade que cuenta con arraigo social y familiar ya que es madre de un hijo de nacionalidad chilena Liam Pérez Asprilla y lleva más de 4 años de residencia en el país.
+
+Solicitan se deje sin efecto la resolución recurrida y se ordenes al Servicio proceder a una nueva revisión documental, y decidir conforme a derecho su solicitud residencia definitiva.
+
+A folio 4 evacua informe el Servicio Nacional de Migraciones, solicitando el rechazo de la presente acción constitucional, ya que no se configuran los presupuestos constitucionales ni legales para su interposición.
+
+Expone que el 29 de junio de 2024, la amparada solicitó el beneficio de residencia definitiva estando su residencia anterior vencida desde el 2 de abril de 2020, por lo que postuló encontrándose irregular. Mediante comunicación electrónica de 12 de junio de 2025, se le informó que se encontraba en causal de rechazo por no remitir el pago de la multa por residencia irregular y no pagar los derechos correspondientes al beneficio que estaba postulando otorgándole un plazo de 10 días para subsanar, lo cual no realizó.
+
+Agrega que transcurrido el plazo antes indicado, y no habiendo acompañado el comprobante de pago se procede a dictar la Resolución Exenta N°2500100324721 de 18 de diciembre de 2025, que rechaza su solicitud de residencia definitiva y dispone el abandono del país en el plazo de 10 días, el motivo del rechazo es por no remitir copia de la sanción por residir en el país con el permiso de residencia vencido, y no adjunta el comprobante de pago de derechos correspondiente al beneficio que se encuentra postulando, requisito exigido para otorgar el permiso de residencia definitiva.
+
+Hace presente que el pago acompañado de 14 de junio de 2014 corresponde a proceso sancionatorio de aplicación de una sanción pecuniaria, al encontrarse en la circunstancia prevista en el artículo 106 de la Ley de Migración y Extranjería por no haber solicitado cédula de identidad en el plazo establecido en el citado artículo 43 de la Ley de Migración y de Extranjería, que no guarda relación con la sanción pecuniaria del artículo 107/119, relativa a su residencia irregular,
+
+A folio 7 se ordena traer autos en relación
+
+Con lo relacionado y considerando:
+
+Primero: Que, la acción de amparo es un proceso de tutela urgente del derecho fundamental a la libertad personal y seguridad individual, que reconoce el artículo 21de la Constitución Política de la República, procedente en aquellos casos en que una persona fuere arrestada, detenida o presa con infracción a la Constitución o a las leyes, o sufra cualquier otra privación, perturbación o amenaza al derecho fundamental antes aludido.
+
+Segundo: Que, por esta vía cautelar se cuestiona la legalidad de la Resolución Exenta N°2500100324721 de 18 de diciembre de 2025, dictada por el Servicio Nacional de Migraciones, mediante la cual se rechazó la solicitud de residencia definitiva disponiéndose el abandono del país en el plazo de 15 días, la que se funda en no haber acreditado el pago de la multa por haber residido irregularmente, de conformidad a lo dispuesto en el artículo 107 de la Ley 21.325 y no haber pagado los derechos correspondientes al beneficio que se encuentra postulando; imputación que no se encuentra controvertida por el amparado.
+
+Tercero: Que, sin perjuicio de lo anterior, para resolver el asunto planteado resulta importante tener presente que la amparada mantenía un permiso de residencia anterior cuyo vencimiento se produjo el 2 de abril de 2020, según lo informado por la recurrida, lo que acredita su larga permanencia en Chile, unido a que tiene un hijo de nacionalidad chilena nacido el 4 de abril de 2021. Tal elemento constituye un arraigo efectivo, relevante para evaluar cualquier medida que pueda afectar su permanencia en el país, antecedentes que sin embargo no fueron considerados ni ponderados en la decisión impugnada, pese a su incidencia directa en la situación personal y familiar de la amparada.
+
+Cuarto: Que, atendido a lo expuesto la medida reclamada afecta los derechos del hijo de la amparada, exponiéndolo a su separación de la madre con vulneración a los derechos establecidos en la Convención de NNA, razón por la cual, la medida adoptada por la autoridad migratoria es desproporcionada y, por lo tanto, deviene en ilegal, motivo por el cual se acogerá el presente arbitrio.
+
+Por estas consideraciones y lo dispuesto, además, en el artículo 21 de la Constitución Política de la República, se acoge, sin costas, el recurso de amparo interpuesto a favor de Lina Vanessa Asprilla Hurtado, en contra Servicio Nacional de Migraciones, y, por consiguiente, se deja sin efecto la Resolución Exenta N°2500100324721 de 18 de diciembre de 2025, debiendo la autoridad migratoria, reabrir el procedimiento administrativo, y habilitar el link respectivo, otorgándole a la amparada un plazo no inferior a 60 días para que acredite el pago de la multa aplicada como sanción por residencia irregular y el pago de derechos correspondiente a beneficio solicitado y hecho, deberá proceder como en derecho corresponda.
+Regístrese, notifíquese, comuníquese por la vía más expedita y, en su oportunidad, archívese.
+N°Amparo-466-2026.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+LlgC.A. de Valparaíso.Valparaíso, dieciocho  de febrero de dos mil veintiséis.Visto: A folio 1 comparecen Pablo Peñaloza Parra y Joaquín Contreras Roa, abogados, en favor Lina Vanessa Asprilla Hurtado, de nacionalidad colombiana, quienes interponen acción de amparo en contra del Servicio Nacional de Migraciones por la dictación de la Resolución Exenta N°2500100324721 de 18 de diciembre de 2025, mediante la cual  rechazó la solicitud de residencia definitiva y dispuso el abandono del país en el plazo de 15 días, vulnerando su libertad personal y seguridad individual, derechos consagrados en el artículo 19 N°7 de la Constitución Política de la República.Refiere que, la amparada, de nacionalidad colombiana, estando dentro del país cambió su condición migratoria a residente temporario por visa otorgada, posteriormente, en virtud del vencimiento de su visado con fecha 29 de junio de 2024 realizó solicitud de residencia definitiva, sin embargo el 18 de diciembre de 2025 es notificada de Resolución Exenta N°2500100324721 mediante la cual se rechaza la solicitud de residencia definitiva y se dispone orden de abandono por el no pago de la multa por residencia irregular.Agrega que, al momento de ser notificada del previo rechazo, realizó el pago correspondiente, de acuerdo al artículo 106 de la Ley N°21.325.Añade que cuenta con arraigo social y familiar ya que es madre de un hijo de nacionalidad chilena Liam Pérez Asprilla y lleva más de 4 años de residencia en el país.Solicitan se deje sin efecto la resolución recurrida y se ordenes al Servicio proceder a una nueva revisión documental, y decidir conforme a derecho su solicitud residencia definitiva.A folio 4 evacua informe el Servicio Nacional de Migraciones, solicitando el rechazo de la presente acción constitucional, ya que no se configuran los presupuestos constitucionales ni legales para su interposición.Expone que el 29 de junio de 2024, la amparada solicitó el beneficio de residencia definitiva estando su residencia anterior vencida desde el 2 de abril de 2020, por lo que postuló encontrándose irregular. Mediante comunicación electrónica de 12 de junio de 2025, se le informó que se encontraba en causal de rechazo por no remitir el pago de la multa por residencia irregular y no pagar los derechos correspondientes al beneficio que estaba postulando otorgándole un plazo de 10 días para subsanar, lo cual no realizó.Agrega que transcurrido el plazo antes indicado, y no habiendo acompañado el comprobante de pago se procede a dictar la Resolución Exenta N°2500100324721 de 18 de diciembre de 2025, que rechaza su solicitud de residencia definitiva y dispone el abandono del país en el plazo de 10 días, el motivo del rechazo es por no remitir copia de la sanción por residir en el país con el permiso de residencia vencido, y no adjunta el comprobante de pago de derechos correspondiente al beneficio que se encuentra postulando, requisito exigido para otorgar el permiso de residencia definitiva.Hace presente que el pago acompañado de 14 de junio de 2014 corresponde a proceso sancionatorio de aplicación de una sanción pecuniaria, al encontrarse en la circunstancia prevista en el artículo 106 de la Ley de Migración y Extranjería por no haber solicitado cédula de identidad en el plazo establecido en el citado artículo 43 de la Ley de Migración y de Extranjería, que no guarda relación con la sanción pecuniaria del artículo 107/119, relativa a su residencia irregular,A folio 7 se ordena traer autos en relaciónCon lo relacionado y considerando:Primero: Que, la acción de amparo es un proceso de tutela urgente del derecho fundamental a la libertad personal y seguridad individual, que reconoce el artículo 21de la Constitución Política de la República, procedente en aquellos casos en que una persona fuere arrestada, detenida o presa con infracción a la Constitución o a las leyes, o sufra cualquier otra privación, perturbación o amenaza al derecho fundamental antes aludido.Segundo: Que, por esta vía cautelar se cuestiona la legalidad de la Resolución Exenta N°2500100324721 de 18 de diciembre de 2025, dictada por el Servicio Nacional de Migraciones, mediante la cual se rechazó la solicitud de residencia definitiva disponiéndose el abandono del país en el plazo de 15 días, la que se funda en no haber acreditado el pago de la multa por haber residido irregularmente, de conformidad a lo dispuesto en el artículo 107 de la Ley 21.325 y no haber pagado los derechos correspondientes al beneficio que se encuentra postulando; imputación que no se encuentra controvertida por el amparado.Tercero: Que, sin perjuicio de lo anterior, para resolver el asunto planteado resulta importante tener presente que la amparada mantenía un permiso de residencia anterior cuyo vencimiento se produjo el 2 de abril de 2020, según lo informado por la recurrida, lo que acredita su larga permanencia en Chile, unido a que tiene un hijo de nacionalidad chilena nacido el 4 de abril de 2021.  Tal elemento constituye un arraigo efectivo, relevante para evaluar cualquier medida que pueda afectar su permanencia en el país, antecedentes que sin embargo no fueron considerados ni ponderados en la decisión impugnada, pese a su incidencia directa en la situación personal y familiar de la amparada.Cuarto: Que, atendido a lo expuesto la medida reclamada afecta los derechos del hijo de la amparada, exponiéndolo a su separación de la madre con vulneración a los derechos establecidos en la Convención de NNA, razón por la cual, la medida adoptada por la autoridad migratoria es desproporcionada y, por lo tanto, deviene en ilegal, motivo por el cual se acogerá el presente arbitrio.Por estas consideraciones y lo dispuesto, además, en el artículo 21 de la Constitución Política de la República, se acoge, sin costas, el recurso de amparo interpuesto a favor de Lina Vanessa Asprilla Hurtado, en contra Servicio Nacional de Migraciones, y, por consiguiente, se deja sin efecto la Resolución Exenta N°2500100324721 de 18 de diciembre de 2025, debiendo la autoridad migratoria, reabrir el procedimiento administrativo, y habilitar el link respectivo, otorgándole a la amparada un plazo no inferior a 60 días para que acredite el pago de la multa aplicada como sanción por residencia irregular y el pago de derechos correspondiente a beneficio solicitado y hecho, deberá proceder como en derecho corresponda.Regístrese, notifíquese, comuníquese por la vía más expedita y, en su oportunidad, archívese.N°Amparo-466-2026.
