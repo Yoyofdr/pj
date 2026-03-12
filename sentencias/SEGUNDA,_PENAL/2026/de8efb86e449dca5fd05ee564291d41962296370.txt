@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8054677
 
 rol: 8171-2026
 
-fecha_sentencia: 2026-03-06
+fecha_sentencia: 2026-03-09
 
 caratulado: AGRELA RAMIREZ JOSE MANUEL CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 

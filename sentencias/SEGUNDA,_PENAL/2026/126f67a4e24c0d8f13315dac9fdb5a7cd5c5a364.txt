@@ -4,37 +4,30 @@ case_id: 126f67a4e24c0d8f13315dac9fdb5a7cd5c5a364
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8053550
 
-rol: 7897-2026
+rol: 10897-2026
 
-fecha_sentencia: 2026-03-06
+fecha_sentencia: 2026-03-09
 
-caratulado: PHILIO BADETTE CONTRA SERVICIO NACIONAL DE MIGRACIONES DE CHILE
+caratulado: ARANDA GALARCE JOSÉ MIGUEL CONTRA ILUSTRÍSIMA CORTE DE APELACIONES DE SAN MIGUEL
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
 Santiago, nueve de marzo de dos mil veintiséis.
-Vistos:
-Se confirma la sentencia apelada de veinticuatro de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Valdivia, en el Ingreso Corte N°Amparo-51-2026.
-Acordada con el voto en contra del Ministro Sr. Valderrama y la Ministra Sra. Gajardo, quienes fueron del parecer de revocar la sentencia apelada y, en su lugar rechazar el recurso de amparo interpuesto, teniendo presente para ello:
-1°) Que de las alegaciones del solicitante recurrente de amparo se advierte que considera vulnerado un verdadero derecho adquirido del cual estaría en su titularidad, esto es, el derecho a la reducción de condena que se traduciría en su libertad.
-Por su parte, la recurrida señala que lo que le reprocha el amparado lo hace en virtud de disposición legal expresa atendida la penalidad asociada al delito por el cual fue condenado, y tratándose de una norma que estima es de naturaleza administrativa que, por tanto, rige in actum.
-2°) Que la ley N° 19.856 se refiere en su Título I al “beneficio de reducción de condena”, el cual se hace efectivo de conformidad al artículo 4°, en el momento en que se diere total cumplimiento a la pena impuesta, una vez aplicada la rebaja que correspondiere de acuerdo a esta ley.
-3°) Que la norma de la Ley 19.856 concede un beneficio y no establece un derecho, por lo que no cabe hablar más que de una mera expectativa sujeta al cumplimiento de los requisitos legales del caso.
-4°) Que, los requisitos legales del caso son, entre otros, los contemplados en la Ley 21.421, que no hace distinciones en cuanto al grado de desarrollo de los delitos a que se refiere, norma que es imperativa y de cumplimiento irrestricto por parte de los Organismos de la Administración del Estado, como lo es el Ministerio de Justicia y Derechos Humanos.
-5°) Que conforme a lo anterior el derecho que se estima vulnerado no es tal, sin que le sea exigible a la recurrida satisfacer una mera expectativa yendo en contra de un mandato legal expreso, de lo que se desprende que su conducta se ajusta a la legalidad vigente.
-6°) Que, además, para la acertada resolución de este recurso es útil tener presente que la ley 21.421, que modifica la ley 19.856, debe considerarse como una norma integrante del ordenamiento ejecutivo de las penas, de orden administrativo y, por ende, no queda sujeta al principio de irretroactividad de la ley penal, como lo ha planteado el recurrente.
-7°) Que, en consecuencia, la recurrida no ha incurrido en la ilegalidad que se le atribuye.
-Se previene que la ministra señora Gajardo concurre a la decisión haciendo constar que en anteriores pronunciamientos emitidos en otros procesos, estuvo por considerar que la revisión sobre el cumplimiento de los requisitos para la obtención de los beneficios debe realizarse conforme a la regulación vigente a la época de perpetración del delito. Pero un nuevo análisis del asunto lleva a reexaminar y cambiar su posición inicialmente adoptada, toda vez que el Decreto Ley N° 321, de 1925, establece un régimen de beneficios de carácter administrativo y procesal para la ejecución de una condena ya impuesta, cuyas modificaciones, como la establecida en la Ley N° 21.124, rigen in actum en concordancia con lo dispuesto en el artículo 9° del mencionado Decreto Ley.
+
+Visto y teniendo únicamente presente:
+Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de veinticinco de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N° 839 - 2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible.
+
 Regístrese y devuélvase.
-Rol N°10578-2026.
+
+Rol N° 10897 - 2026
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------

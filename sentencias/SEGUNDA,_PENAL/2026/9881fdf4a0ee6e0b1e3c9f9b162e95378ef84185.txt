@@ -4,19 +4,19 @@ case_id: 9881fdf4a0ee6e0b1e3c9f9b162e95378ef84185
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8053520
 
-rol: 10837-2024
+rol: 10578-2026
 
 fecha_sentencia: 2026-03-09
 
-caratulado: SECUESTRO CALIFICADO Y OTROS DE ELVIN ALTAMIRANO MONGE
+caratulado: MINISTERIO DE JUSTICIA CONTRA JHONATAN ISRAEL LEFIHUALA MONSALVE
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Crímenes y simples delitos que afectan derechos Garantizados por la Constitución
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: SENTENCIA DE REEMPLAZO (M)
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
