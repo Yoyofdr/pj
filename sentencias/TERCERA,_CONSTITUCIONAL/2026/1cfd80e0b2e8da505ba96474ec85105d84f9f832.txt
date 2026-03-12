@@ -1,0 +1,64 @@
+METADATA
+
+case_id: 1cfd80e0b2e8da505ba96474ec85105d84f9f832
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8057060
+
+rol: 8212-2026
+
+fecha_sentencia: 2026-03-11
+
+caratulado: COLEGIO CAPELLÁN PASCAL/SUPERINTEDENCIA DE EDUCACION ESCOLAR
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, once de marzo de dos mil veintiséis.
+Vistos:
+Se confirma la sentencia apelada de veinte de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Valparaíso, en el Ingreso Corte N°Amparo-503-2026.
+Regístrese y devuélvase.
+Rol N°8402-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Llg
+
+C.A. de Valparaíso.
+Valparaíso, veinte de febrero de dos mil veintiséis.
+Visto:
+
+A folio 1 comparece Ernesto Manríquez Mendoza, abogado, quien interpone recurso de amparo en favor de Javier Yansel Cruz Torrado, ciudadano de nacionalidad cubana, en contra del Servicio Nacional de Migraciones, solicitando se deje sin efecto la Resolución Exenta N° 2600100041192, de 21 de enero de 2026, que rechazó la solicitud de residencia definitiva del amparado, ordenó su abandono del país en 15 días e impuso una prohibición de ingreso por 5 años.
+Explica que su representado solicitó la residencia el 9 de enero de 2025 y que, si bien el Servicio Nacional de Migraciones le otorgó un plazo de 10 días para subsanar la falta de un certificado de antecedentes penales debidamente apostillado, el cumplimiento de dicha carga resultó materialmente imposible debido a un escenario de fuerza mayor.
+Sostiene que para legalizar dicho documento en Cuba se requiere un pasaporte vigente, el cual no ha podido obtener por la paralización de los servicios públicos en dicho país, la falta de insumos básicos y el desfinanciamiento de los consulados cubanos tras la crisis energética de 2026.
+Destaca que, pese a estas dificultades, el amparado obtuvo y acompañó en esta sede una certificación de antecedentes penales del Ministerio de Justicia de Cuba, emitido el 11 de marzo de 2025, que, aunque carece de la apostilla por las razones expuestas, acredita que el sujeto no posee registros penales.
+Alega que la medida de la administración es desproporcionada e ilegal, vulnerando el derecho de su representado a residir y permanecer en el país según el artículo 19 N° 7 de la Constitución Política de la República.
+
+A folio 6 informa el Servicio Nacional de Migraciones solicitando el rechazo de la acción.
+Argumenta que el acto impugnado se ajusta estrictamente a la Ley N° 21.325, específicamente al artículo 88 N° 1, por el incumplimiento de los requisitos documentales.
+Señala que el amparado fue válidamente notificado de la resolución previo rechazo el 14 de octubre de 2025 y que, al no haber acompañado el documento legalizado ni haber interpuesto recursos administrativos, la resolución se encuentra firme.
+Añade que conforme el artículo 91 de la Ley N°21.325, la orden de abandono es una consecuencia legal imperativa ante el rechazo de un permiso y que, al ser de cumplimiento voluntario, no constituye una privación de libertad personal ni una amenaza compulsiva como lo sería una expulsión.
+Finalmente, indica que el certificado acompañado en el recurso sigue sin cumplir con la formalidad legal de la apostilla.
+A folio 7 se trajeron los autos en relación.
+Con lo relacionado y considerando:
+
+Primero: Que, la acción de amparo es una tutela de urgencia destinada a restablecer el imperio del derecho cuando se ve afectada la libertad personal o seguridad individual por actos ilegales.
+Segundo: Que, el rechazo de la residencia definitiva se fundó por la falta de un certificado de antecedentes penales apostillado. En esta instancia el amparado ha invocado como impedimento, para conseguir el certificado con las formalidades exigidas, la crisis institucional de su país de origen.
+Tercero: Que, en esta sede constitucional, la parte recurrente ha acompañado una certificación de antecedentes penales expedida por el Ministerio de Justicia de Cuba fechada al 11 de marzo de 2025. Si bien es cierto que dicho documento no cuenta con la legalización o apostilla pertinente, su sola presentación en el proceso constituye un antecedente de hecho que da cuenta de la intención y voluntad del amparado de cumplir con la normativa vigente y de regularizar su situación migratoria en Chile.
+
+Cuarto: Que, el certificado aportado indica que el amparado no posee antecedentes penales hasta la fecha de su emisión. En consecuencia, la aplicación de una sanción tan gravosa como el abandono del país y la prohibición de ingreso por 5 años, sin ponderar la dificultad objetiva de obtener la apostilla en un contexto de crisis internacional, deviene en una medida que amenaza la seguridad individual y libertad de residencia del afectado al no ser proporcional a los antecedentes aportados.
+
+Quinto: Que, tratándose de procedimientos migratorios cuya decisión puede derivar en la dictación de una orden de abandono del territorio nacional -medida especialmente gravosa por sus efectos sobre la libertad ambulatoria y el proyecto de vida del solicitante- la autoridad administrativa debe aplicar el estándar reforzado derivado del principio pro homine y del deber de promover la regularidad migratoria, consagrados en los artículos 1°, 3° y 7° de la Ley N°21.325. Ello exige ponderar integralmente las circunstancias personales del extranjero y otorgar, antes de adoptar decisiones de rechazo, la posibilidad real y efectiva de subsanar los antecedentes faltantes, en los términos del artículo 31 de la Ley N°19.880, por lo que se acogerá la presente acción de amparo para que el recurrente pueda subsanar el defecto documental que se reprocha por la autoridad migratoria.
+Por estas consideraciones y visto, además, lo dispuesto en el artículo 21 de la Constitución Política de la República, se acoge, sin costas, la acción constitucional de amparo interpuesta en favor de Javier Yansel Cruz Torrado en contra del Servicio Nacional de Migraciones, y en consecuencia, se deja sin efecto la Resolución Exenta N° 2600100041192, de 21 de enero de 2026, debiendo la autoridad recurrida reabrir el procedimiento administrativo de solicitud de residencia definitiva del amparado, otorgando al amparado un plazo de noventa días para que acompañe el certificado de antecedentes penales de su país de origen debidamente legalizado o apostillado, para que una vez cumplido dicho plazo, el Servicio deberá emitir un nuevo pronunciamiento sobre la solicitud de residencia definitiva conforme a derecho.
+Regístrese, notifíquese y archívese en su oportunidad.
+N° Amparo-503-2026.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+LlgC.A. de Valparaíso.Valparaíso, veinte  de febrero de dos mil veintiséis.Visto:A folio 1 comparece Ernesto Manríquez Mendoza, abogado, quien interpone recurso de amparo en favor de Javier Yansel Cruz Torrado, ciudadano de nacionalidad cubana, en contra del Servicio Nacional de Migraciones, solicitando se deje sin efecto la Resolución Exenta N° 2600100041192, de 21 de enero de 2026, que rechazó la solicitud de residencia definitiva del amparado, ordenó su abandono del país en 15 días e impuso una prohibición de ingreso por 5 años. Explica que su representado solicitó la residencia el 9 de enero de 2025 y que, si bien el Servicio Nacional de Migraciones le otorgó un plazo de 10 días para subsanar la falta de un certificado de antecedentes penales debidamente apostillado, el cumplimiento de dicha carga resultó materialmente imposible debido a un escenario de fuerza mayor.Sostiene que para legalizar dicho documento en Cuba se requiere un pasaporte vigente, el cual no ha podido obtener por la paralización de los servicios públicos en dicho país, la falta de insumos básicos y el desfinanciamiento de los consulados cubanos tras la crisis energética de 2026. Destaca que, pese a estas dificultades, el amparado obtuvo y acompañó en esta sede una certificación de antecedentes penales del Ministerio de Justicia de Cuba, emitido el 11 de marzo de 2025, que, aunque carece de la apostilla por las razones expuestas, acredita que el sujeto no posee registros penales. Alega que la medida de la administración es desproporcionada e ilegal, vulnerando el derecho de su representado a residir y permanecer en el país según el artículo 19 N° 7 de la Constitución Política de la República.A folio 6 informa el Servicio Nacional de Migraciones solicitando el rechazo de la acción. Argumenta que el acto impugnado se ajusta estrictamente a la Ley N° 21.325, específicamente al artículo 88 N° 1, por el incumplimiento de los requisitos documentales. Señala que el amparado fue válidamente notificado de la resolución previo rechazo el 14 de octubre de 2025 y que, al no haber acompañado el documento legalizado ni haber interpuesto recursos administrativos, la resolución se encuentra firme.Añade que conforme el artículo 91 de la Ley N°21.325, la orden de abandono es una consecuencia legal imperativa ante el rechazo de un permiso y que, al ser de cumplimiento voluntario, no constituye una privación de libertad personal ni una amenaza compulsiva como lo sería una expulsión. Finalmente, indica que el certificado acompañado en el recurso sigue sin cumplir con la formalidad legal de la apostilla.A folio 7 se trajeron los autos en relación.Con lo relacionado y considerando:Primero: Que, la acción de amparo es una tutela de urgencia destinada a restablecer el imperio del derecho cuando se ve afectada la libertad personal o seguridad individual por actos ilegales.Segundo: Que, el rechazo de la residencia definitiva se fundó por la falta de un certificado de antecedentes penales apostillado. En esta instancia el amparado ha invocado como impedimento, para conseguir el certificado con las formalidades exigidas, la crisis institucional de su país de origen.Tercero: Que, en esta sede constitucional, la parte recurrente ha acompañado una certificación de antecedentes penales expedida por el Ministerio de Justicia de Cuba fechada al 11 de marzo de 2025. Si bien es cierto que dicho documento no cuenta con la legalización o apostilla pertinente, su sola presentación en el proceso constituye un antecedente de hecho que da cuenta de la intención y voluntad del amparado de cumplir con la normativa vigente y de regularizar su situación migratoria en Chile.Cuarto: Que, el certificado aportado indica que el amparado no posee antecedentes penales hasta la fecha de su emisión. En consecuencia, la aplicación de una sanción tan gravosa como el abandono del país y la prohibición de ingreso por 5 años, sin ponderar la dificultad objetiva de obtener la apostilla en un contexto de crisis internacional, deviene en una medida que amenaza la seguridad individual y libertad de residencia del afectado al no ser proporcional a los antecedentes aportados.Quinto: Que, tratándose de procedimientos migratorios cuya decisión puede derivar en la dictación de una orden de abandono del territorio nacional -medida especialmente gravosa por sus efectos sobre la libertad ambulatoria y el proyecto de vida del solicitante- la autoridad administrativa debe aplicar el estándar reforzado derivado del principio pro homine y del deber de promover la regularidad migratoria, consagrados en los artículos 1°, 3° y 7° de la Ley N°21.325. Ello exige ponderar integralmente las circunstancias personales del extranjero y otorgar, antes de adoptar decisiones de rechazo, la posibilidad real y efectiva de subsanar los antecedentes faltantes, en los términos del artículo 31 de la Ley N°19.880, por lo que se acogerá la presente acción de amparo para que el recurrente pueda subsanar el defecto documental que se reprocha por la autoridad migratoria.Por estas consideraciones y visto, además, lo dispuesto en el artículo 21 de la Constitución Política de la República, se acoge, sin costas, la acción constitucional de amparo interpuesta en favor de Javier Yansel Cruz Torrado en contra del Servicio Nacional de Migraciones, y en consecuencia, se deja sin efecto la Resolución Exenta N° 2600100041192, de 21 de enero de 2026, debiendo la autoridad recurrida reabrir el procedimiento administrativo de solicitud de residencia definitiva del amparado, otorgando al amparado un plazo de noventa días para que acompañe el certificado de antecedentes penales de su país de origen debidamente legalizado o apostillado, para que una vez cumplido dicho plazo, el Servicio deberá emitir un nuevo pronunciamiento sobre la solicitud de residencia definitiva conforme a derecho.Regístrese, notifíquese y archívese en su oportunidad. N° Amparo-503-2026.
