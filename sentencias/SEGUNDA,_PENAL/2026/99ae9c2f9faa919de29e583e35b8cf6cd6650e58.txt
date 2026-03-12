@@ -4,19 +4,19 @@ case_id: 99ae9c2f9faa919de29e583e35b8cf6cd6650e58
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046564
 
-rol: 6699-2026
+rol: 9181-2026
 
 fecha_sentencia: 2026-03-03
 
-caratulado: DUEÑAS PINCAY ANDRA AMELIA CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: HONORATO MANZANO LUSGRADIS DE LOURDES CONTRA 14º JUZGADO DE GARANTIA DE SANTIAGO
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: (CRIMEN) APELACIÓN AMPARO
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
