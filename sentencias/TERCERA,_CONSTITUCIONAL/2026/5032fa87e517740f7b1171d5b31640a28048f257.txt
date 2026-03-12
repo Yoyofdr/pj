@@ -4,19 +4,19 @@ case_id: 5032fa87e517740f7b1171d5b31640a28048f257
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8051428
 
-rol: 55162-2025
+rol: 54613-2025
 
 fecha_sentencia: 2026-03-06
 
-caratulado: ELGUETA MOLL GILDA ANDREA / SLEP AYSEN
+caratulado: ASOCIACIÓN REGIONAL DE TAEKWONDO UNIÓN CUARTA REGIÓN/FEDERACIÓN DEPORTIVA NACIONAL DE TAEKWONDO WTF
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Potestad disciplinaria
+materias: ▪ Protecciones en contra de particulares
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: CONFIRMA EN LO APELADO
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

@@ -4,15 +4,15 @@ case_id: 755303ec590c536bb98aed12b939f8632a3cdf58
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8053269
 
-rol: 41887-2025
+rol: 42132-2025
 
 fecha_sentencia: 2026-03-06
 
-caratulado: MARLY DEL PILAR MOLINA LEIVA/ILUSTRE MUNICIPALIDAD DE LOS ANGELES
+caratulado: GONZALO SOTO MUÑOZ /CONTRALORIA REGIONAL DEL BIO BIO Y OTRO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Rentas municipales
+materias: ▪ Función pública
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
