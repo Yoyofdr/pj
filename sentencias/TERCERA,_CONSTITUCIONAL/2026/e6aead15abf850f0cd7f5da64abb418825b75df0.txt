@@ -4,11 +4,11 @@ case_id: e6aead15abf850f0cd7f5da64abb418825b75df0
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8048701
 
-rol: 6853-2026
+rol: 5546-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: ESPINOZA/ISAPRE CRUZ BLANCA S.A.
+caratulado: MARTÍNEZ RODRÍGUEZ AÍDA ALEJANDRA/SUPERINTENDENCIA DE SEGURIDAD SOCIAL
 
 sala: TERCERA, CONSTITUCIONAL
 

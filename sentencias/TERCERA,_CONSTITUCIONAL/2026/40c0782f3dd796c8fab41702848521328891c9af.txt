@@ -4,11 +4,11 @@ case_id: 40c0782f3dd796c8fab41702848521328891c9af
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049249
 
-rol: 3149-2026
+rol: 6853-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: RUIZ/SERVICIO NACIONAL DE. MIGRACIONES
+caratulado: ESPINOZA/ISAPRE CRUZ BLANCA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
