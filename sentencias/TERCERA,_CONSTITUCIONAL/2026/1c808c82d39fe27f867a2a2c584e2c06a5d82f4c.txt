@@ -4,19 +4,19 @@ case_id: 1c808c82d39fe27f867a2a2c584e2c06a5d82f4c
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047755
 
-rol: 4597-2026
+rol: 6855-2026
 
-fecha_sentencia: 2026-03-03
+fecha_sentencia: 2026-03-04
 
-caratulado: ORTIZ/SUPERINTENDENCIA DE SEGURIDAD SOCIAL
+caratulado: ARAYA/ISAPRE CRUZ BLANCA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

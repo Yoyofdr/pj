@@ -4,11 +4,11 @@ case_id: 7762c11b8f258dce8050c5450239ffdad6d05a78
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049237
 
-rol: 6150-2026
+rol: 4384-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: ZUÑIGA/SUSESO-COMPIN
+caratulado: TORO BURGOS SERGIO/SUPERINTENDENCIA DE SEGURIDAD SOCIAL
 
 sala: TERCERA, CONSTITUCIONAL
 
