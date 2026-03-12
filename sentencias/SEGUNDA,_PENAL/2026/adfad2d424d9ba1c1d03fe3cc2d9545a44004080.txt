@@ -4,19 +4,19 @@ case_id: adfad2d424d9ba1c1d03fe3cc2d9545a44004080
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044721
 
-rol: 57436-2025
+rol: 6217-2026
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-02-26
 
-caratulado: C/ GLADIS IRENE BAHAMONDES VERA
+caratulado: BURTCH DALE STEPHEN CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Delitos contra la propiedad y el patrimonio
+materias: ▪ Recurso de Amparo
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: SENTENCIA DE REEMPLAZO (M)
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
