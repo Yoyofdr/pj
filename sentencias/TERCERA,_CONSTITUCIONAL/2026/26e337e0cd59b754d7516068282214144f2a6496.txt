@@ -12,9 +12,9 @@ caratulado: SAPUNAR/SCOTIABANK CHILE S.A
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: CONFIRMA RESOLUCIÓN APELADA
 
@@ -29,24 +29,24 @@ Rol N° 635-2026.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
-CH (MVT)
+C.A. de Santiago.
+Gg
 
-San Miguel, veinticuatro de diciembre del año dos mil veinticinco.
-
-A la presentación de folio 1:
+Santiago, diez de diciembre de dos mil veinticinco.
 
 Vistos y teniendo presente:
 
-Que el recurso de protección tiene por objeto restablecer el imperio del derecho cuando éste ha sido quebrantado por actos u omisiones arbitrarias o ilegales que amenazan, perturban o privan del ejercicio legítimo de alguna de las garantías taxativamente numeradas en el artículo 20 de la Constitución Política de la República, dejando a salvo las demás acciones legales.
+1°) Que el recurso de protección tiene por objeto restablecer el imperio del derecho cuando éste ha sido quebrantado por actos u omisiones arbitrarias o ilegales que amenazan, perturban o privan del ejercicio legítimo de alguna de las garantías taxativamente numeradas en el artículo 20 de la Constitución Política de la República, dejando a salvo las demás acciones legales.
+2°) Que los hechos descritos en la presentación y las peticiones que se formulan a esta Corte, exceden las materias que deben ser conocidas por el presente recurso atendida su naturaleza cautelar, y además no es la vía idónea para ello, sino el procedimiento reglado establecido en el artículo 174 y siguientes del Código Sanitario, conforme al cual puede seguirse sumario sanitario por la autoridad competente y contempla el ejercicio de medidas de tal naturaleza, por lo que no será admitida a tramitación.
 
-Que los hechos descritos y el petitorio de su presentación sobrepasan los márgenes del recurso de protección, debiendo lo planteado ser resuelto ante la sede administrativa o jurisdiccional que sea competente, lo que es incompatible con la naturaleza estrictamente cautelar de la acción incoada.
-
-Por lo que conforme a lo dispuesto en el Nº 2 inciso segundo del Auto Acordado de la Excma. Corte Suprema sobre Tramitación del Recurso de Protección de Garantías Constitucionales, se declara inadmisible el recurso de protección, sin perjuicio de otros derechos.
+Y de conformidad, además, con lo señalado en el Auto Acordado de la Excma. Corte Suprema sobre tramitación y fallo del recurso de protección de garantías constitucionales, se declara inadmisible el interpuesto al folio 1.
 
 Archívese.
 
-Ingreso N° 4959-2025 Prot.
+N°Protección-26056-2025.-crz
+
+Pronunciada por la Primera Sala de la Iltma. Corte de Apelaciones de Santiago, presidida por el Ministro señor Guillermo de la Barra Dünner e integrada por la Ministra señora Iara Barrios Melo y por el Ministro (s) señor Fernando Antonio Valderrama Martínez.
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------
-Santiago, cinco de marzo de dos mil veintiséis.Vistos:Se confirma la resolución apelada de fecha veinticuatro de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de San Miguel.Regístrese y devuélvase.Rol N° 635-2026. Santiago, cinco de marzo de dos mil veintiséis.Vistos:Se confirma la resolución apelada de fecha veinticuatro de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de San Miguel.Regístrese y devuélvase.Rol N° 635-2026. Sentencia anonimizada
+Santiago, cinco de marzo de dos mil veintiséis.Vistos:Al escrito folio N° 5: Téngase por desistida a la parte recurrente del recurso de apelación interpuesto en el escrito folio N° 4, en contra de la resolución de fecha diez de diciembre de dos mil veinticinco.Regístrese y devuélvase.Rol Nº 58.182-2025. Santiago, cinco de marzo de dos mil veintiséis.Vistos:Al escrito folio N° 5: Téngase por desistida a la parte recurrente del recurso de apelación interpuesto en el escrito folio N° 4, en contra de la resolución de fecha diez de diciembre de dos mil veinticinco.Regístrese y devuélvase.Rol Nº 58.182-2025. Sentencia anonimizada

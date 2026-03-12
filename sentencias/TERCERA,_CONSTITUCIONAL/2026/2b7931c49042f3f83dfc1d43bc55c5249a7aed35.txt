@@ -12,9 +12,9 @@ caratulado: MACARENA TAIS MIRANDA GUTIÉRREZ/BANCO DEL ESTADO ZDE CHILE
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA
 
@@ -29,7 +29,23 @@ Rol N° 635-2026.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
-Santiago, cinco de marzo de dos mil veintiséis.Vistos:Se confirma la resolución apelada de fecha veinticuatro de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de San Miguel.Regístrese y devuélvase.Rol N° 635-2026. Santiago, cinco de marzo de dos mil veintiséis.Vistos:Se confirma la resolución apelada de fecha veinticuatro de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de San Miguel.Regístrese y devuélvase.Rol N° 635-2026. Sentencia anonimizada
+CH (MVT)
+
+San Miguel, veinticuatro de diciembre del año dos mil veinticinco.
+
+A la presentación de folio 1:
+
+Vistos y teniendo presente:
+
+Que el recurso de protección tiene por objeto restablecer el imperio del derecho cuando éste ha sido quebrantado por actos u omisiones arbitrarias o ilegales que amenazan, perturban o privan del ejercicio legítimo de alguna de las garantías taxativamente numeradas en el artículo 20 de la Constitución Política de la República, dejando a salvo las demás acciones legales.
+
+Que los hechos descritos y el petitorio de su presentación sobrepasan los márgenes del recurso de protección, debiendo lo planteado ser resuelto ante la sede administrativa o jurisdiccional que sea competente, lo que es incompatible con la naturaleza estrictamente cautelar de la acción incoada.
+
+Por lo que conforme a lo dispuesto en el Nº 2 inciso segundo del Auto Acordado de la Excma. Corte Suprema sobre Tramitación del Recurso de Protección de Garantías Constitucionales, se declara inadmisible el recurso de protección, sin perjuicio de otros derechos.
+
+Archívese.
+
+Ingreso N° 4959-2025 Prot.
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------
