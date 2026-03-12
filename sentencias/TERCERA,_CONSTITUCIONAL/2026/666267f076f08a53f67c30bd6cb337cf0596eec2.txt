@@ -1,0 +1,378 @@
+METADATA
+
+case_id: 666267f076f08a53f67c30bd6cb337cf0596eec2
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047326
+
+rol: 54612-2025
+
+fecha_sentencia: 2026-03-03
+
+caratulado: ALUCEMA CASTILLO, RAMÓN DE JESÚS/INMOBILIARIA PHOENIX LIMITADA
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: ▪ Protecciones en contra de particulares
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, tres de marzo de dos mil veintiséis.
+
+Vistos y teniendo presente:
+Primero: Que, de conformidad con lo dispuesto en el inciso séptimo del artículo 483-A del Código del Trabajo, se ha ordenado dar cuenta de la admisibilidad del recurso de unificación de jurisprudencia deducido por la parte denunciante contra la sentencia dictada por la Corte de Apelaciones de Valparaíso, que rechazó la nulidad intentada contra la que rechazó la denuncia de vulneración de garantías fundamentales con ocasión del despido.
+
+Segundo: Que, según se expresa en la legislación laboral, el recurso de unificación de jurisprudencia es susceptible de ser deducido en contra de la resolución que falle el recurso de nulidad, estableciéndose su procedencia para el caso en que “respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de Tribunales Superiores de Justicia”, conforme lo explicita el artículo 483 del Código del Trabajo.
+
+Asimismo, del tenor de lo dispuesto en el artículo 483-A del cuerpo legal antes citado, aparece que esta Corte debe controlar, como requisitos para su admisibilidad, por un lado, su oportunidad; en segundo lugar, la existencia de fundamento, además de una relación precisa y circunstanciada de las distintas interpretaciones respecto de las materias de derecho objeto de la sentencia, sostenidas en diversos fallos emanados de los tribunales superiores de justicia, y finalmente, debe acompañarse copia del o los fallos que se invocan como fundamento del recurso en referencia.
+
+Tercero: Que, conforme se expresa en el recurso, la materia que se propone unificar consiste en determinar “si la existencia de una activación de fiscalización ante la Inspección del Trabajo realizada por el trabajador de forma previa a su despido constituye un indicio suficiente de vulneración a la garantía de indemnidad. Lo anterior por cuanto la sentencia impugnada califica este antecedente como insuficiente para constituir un indicio de vulneración de derechos”.
+Cuarto: Que, de la sola lectura del libelo entablado, se desprende que el pretendido tema de derecho cuya línea jurisprudencial se procura unificar, en los términos que se ha planteado, no constituye un asunto jurídico habilitante de este recurso, sino que resulta ser un cuestionamiento a la apreciación de la prueba y su insuficiencia declarada por el tribunal de la instancia, advirtiendo la Corte de Apelaciones que al efecto no se invocó la causal del artículo 478 b) del Código del Trabajo, razón por la debe ser desestimado en este estadio procesal.
+
+Por estas consideraciones y normas citadas, se declara inadmisible el recurso de unificación de jurisprudencia interpuesto contra la sentencia de quince de enero de dos mil veintiséis.
+
+Regístrese y devuélvase.
+
+Rol N°4.842-2026
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Jepv.
+
+C.A. de Valparaíso.
+Valparaíso, quince de enero de dos mil veintiséis.
+VISTO:
+
+En estos autos Rol I.C. N° 732-2025, se ha interpuesto recurso de nulidad en contra de la sentencia de dieciocho de julio de dos mil veinticinco pronunciada en los autos RIT T-297-2024 del Juzgado de Letras del Trabajo de Valparaíso, en aquella parte en que se rechazó la denuncia por tutela de derechos fundamentales con ocasión del despido interpuesta por don Alberto Rodrigo Gutiérrez Gutiérrez en contra de Corporación Educacional Instituto del Mar, acogiéndose únicamente la demanda subsidiaria por despido injustificado.
+
+El recurso lo deduce el abogado Benjamín Calidonio Lira, en representación del denunciante don Alberto Rodrigo Gutiérrez Gutiérrez, y en él solicita se anule la sentencia por la causal de la letra c) del artículo 478 del Código del Trabajo, que se interpone como principal, por ser necesaria la alteración de la calificación jurídica de los hechos sin modificar las conclusiones fácticas del tribunal inferior, y en subsidio, por infracción de ley que hubiere influido sustancialmente en lo dispositivo del fallo conforme al artículo 477 del Código del Trabajo, por infracción a los artículos 485 y 493 del mismo cuerpo legal, y se dicte una sentencia de reemplazo que acoja la denuncia de tutela con ocasión del despido, ordenando a la denunciada al pago de la indemnización establecida en el artículo 489 del Código del Trabajo, con costas.
+
+El nueve de enero pasado, se llevó a cabo la audiencia para conocer del recurso.
+
+Oídos y considerando:
+
+Primero: Que el recurrente de nulidad, esgrimiendo como causal principal aquella contemplada en el artículo 478 letra c) del Código del Trabajo, sostiene que la sentencia impugnada incurrió en el vicio de errónea calificación jurídica de los hechos establecidos en la misma, al no dar lugar a la denuncia de tutela con ocasión del despido, a pesar de haberse establecido como hechos acreditados circunstancias que, correctamente calificadas, constituirían indicios suficientes de vulneración de derechos fundamentales.
+
+Señala que la sentenciadora estableció los siguientes hechos: que el trabajador laboró casi doce años para la denunciada; que en diciembre de 2022 solicitó reparaciones en las canchas donde ejercía sus funciones; que en marzo de 2023 fue amonestado, presentó descargos conforme al Reglamento Interno y su reclamo fue acogido; que en mayo de 2023 fue consultado por el Inspector General sobre su participación en una publicación en redes sociales que denunciaba condiciones de higiene; que ese mismo día presentó denuncia ante la Inspección del Trabajo que generó fiscalización y posterior realización de reparaciones; que en diciembre de 2023 fue despedido por necesidades de la empresa; que la carta de despido era confusa y no señalaba motivos concretos; que no se acreditaron los hechos invocados en la carta; y que para el año 2024 se contrató a otro profesor de educación física.
+
+Afirma que, no obstante, lo anterior, el tribunal calificó que dichos hechos no constituían indicios suficientes de vulneración, cuando jurídicamente correspondía concluir que sí lo eran, especialmente considerando que no se acreditó justificación alguna del despido por parte de la demandada.
+
+Sostiene que lo expuesto influyó sustancialmente en lo dispositivo del fallo, ya que de haberse calificado correctamente los hechos asentados, se debió declarar que existían indicios suficientes de vulneración y, ante la falta de acreditación de la necesidad y proporcionalidad del despido por parte de la denunciada, acoger la denuncia de tutela.
+
+Finalmente solicita que se acoja el recurso de nulidad y se dicte sentencia de reemplazo que acoja la denuncia de tutela con ocasión del despido.
+
+Segundo: Que, en forma subsidiaria, el recurrente denuncia que el fallo ha infringido los artículos 485 y 493 del Código del Trabajo. Respecto del artículo 485 inciso tercero, afirma que la sentenciadora dejó de aplicar la norma legal que expresamente dispone como hipótesis de lesión de derechos las represalias ejercidas por el empleador como consecuencia de la labor fiscalizadora de la Dirección del Trabajo, al estimar que la activación de fiscalización a la denunciada generada por el trabajador que posteriormente fue despedido no constituía un indicio suficiente de vulneración.
+
+En cuanto al artículo 493 del Código del Trabajo, sostiene que la sentenciadora incurrió en una falsa aplicación de la norma al establecer que "para que concurra la vulneración de la garantía de indemnidad debe existir una clara relación causa-efecto entre el ejercicio de la acción del trabajador ya sea judicial o administrativa y la represalia por parte del empleador", imponiendo así un estándar probatorio mayor al legal, que sólo exige a la parte denunciante acreditar "indicios suficientes", privando al trabajador de la rebaja de la carga probatoria que establece la ley.
+
+Solicita que se acoja el recurso de nulidad y se anule la sentencia definitiva, dictándose sentencia de reemplazo que acoja la denuncia de tutela con ocasión del despido.
+Tercero: Que, respecto de la causal principal, la sentenciadora del grado estableció que no se tuvo por acreditado en autos que el despido del actor sea consecuencia necesaria de una represalia por parte del empleador, al haber el trabajador efectuado una denuncia ante la Inspección del Trabajo, meses antes de su despido, estableciendo tales hechos en su sentencia, concluyó en su motivo noveno que: “… lo único que puede ser considerado como indicio de vulneración es la existencia de una activación de fiscalización ante la Inspección del Trabajo, sin embargo, esto es insuficiente para calificarlo como indicio suficiente para sospechar de un modo más o menos fundado la existencia de las vulneraciones denunciadas…”, por lo que este capítulo de invalidación de la sentencia deberá ser desechado, dado que las conclusiones fácticas de los hechos acreditados y que no se alteran en este recurso, constituyen una conclusión lógica de la falta de prueba suficiente para establecer un indicio bastante de la existencia de una represalia, por cuanto los demás hechos acreditados unidos a éste no son suficientes para tal fin, tal como lo concluye la sentenciadora del grado por cuanto no se trata de una apreciación o valoración que efectúe sobre la base de normas jurídicas.
+
+Cuarto: Que, respecto de la causal subsidiaria de invalidación, esto es cuando el fallo aplica incorrectamente el derecho llamado a regir la cuestión que motiva la controversia. Ello puede tener lugar en los casos de contravención formal de la ley, o sea, aquéllos en que el fallo prescinde de la ley o falla en oposición a su texto expreso, en los casos de errónea interpretación de la ley, esto es, cuando la sentencia da al precepto legal un sentido diverso a aquel que debía haberle dado si hubiera aplicado correctamente las normas de interpretación de la ley que se establecen en los artículos 19 a 24 del Código Civil, y en los casos en que hay falsa aplicación de la ley, defecto que puede producirse cuando la ley se aplica a un caso no regulado por la norma o cuando la sentencia prescinde de la aplicación de la ley para los casos en que ella se ha dictado.
+Quinto: Que la misma causal supone por consiguiente que los hechos fijados en el fallo del tribunal a quo resultan inamovibles -salvo denuncia por infracción a las normas reguladoras de la prueba, que no viene al caso-, de modo tal que los supuestos de procedencia del recurso deberán referirse única y exclusivamente al derecho aplicable.
+Ahora bien, en el presente caso se denuncian como infringidas las normas del artículo 485 y 493 del Código del Trabajo, que se refieren a normas de procedimiento y probatorias, no son normas decisoria litis, por consiguiente, al no haberse efectuado una errónea aplicación del derecho a los hechos que asentó el tribunal y que tuvo por probados, estableciendo por otra parte, aquel que no tuvo como suficientemente probado, esto es, que el despido fuera consecuencia necesaria de una represalia para poder declararlo nulo, siendo esta una valoración de la prueba rendida en la causa privativa del tribunal a quo, no procede analizarse a través de este recurso de derecho estricto pretendiendo una nueva valoración de la misma por parte de esta Corte, por lo que deberá necesariamente rechazarse el recurso.
+Y visto, además, lo dispuesto en los artículos 481 y 482 del Código del Trabajo, se rechaza, sin costas, el recurso de nulidad deducido por el abogado Benjamín Calidonio Lira, en representación de don Alberto Rodrigo Gutiérrez Gutiérrez, contra la sentencia de dieciocho de julio de dos mil veinticinco, dictada en los autos RIT T-297-2024, RUC 24-4-0569388-3, del Juzgado de Letras del Trabajo de Valparaíso, la que no es nula.
+
+Comuníquese, regístrese y devuélvase.
+
+Redacción de la Ministra suplente Sra. Covarrubias.
+
+No firma la Fiscal Judicial Sra. Jacqueline Nash Álvarez, por encontrarse haciendo uso de su feriado legal.
+
+N°Laboral - Cobranza-732-2025.
+
+En Valparaíso, quince de enero de dos mil veintiséis, se notificó por el estado diario la resolución que antecede.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Valparaíso, dieciocho de julio de dos mil veinticinco.
+
+VISTO, OÍDO Y CONSIDERANDO
+
+PRIMERO: Que, el 08 de julio de 2015 se ha llevado a efecto audiencia de juicio en causa RIT T-297-2024 sobre denuncia por despido vulneratorio de derechos y en subsidio demanda por despido injustificado.
+
+La denuncia y demanda subsidiaria fue presentada por don Alberto Rodrigo Gutiérrez Gutiérrez, profesor de educación física, domiciliado en Avenida Diego Portales 1346, Torre 1, departamento 31 de Valparaíso, en contra de Corporación Educacional Instituto del Mar, representada legalmente por don Ángel Luis Atineos Lazarte, se ignora profesión u oficio, ambos con domicilio en Avenida España 2692, Valparaíso.
+
+SEGUNDO: Que, la parte denunciante solicita que se acoja la denuncia declarando que, con ocasión de su despido, el empleador vulneró su garantía de indemnidad y su derecho a la libertad de opinión y se le condene al pago de las siguientes indemnizaciones y prestaciones, con reajustes, intereses y costas:
+
+1.- Indemnización del artículo 489 del Código del Trabajo por $23.033.241.
+
+2.- Diferencia por concepto de indemnización por años de servicio por $1.908.683.
+
+3.- Recargo legal del 30% sobre la indemnización por años de servicio por $6.909.972.
+
+Funda su petición señalando que ingresó a prestar servicios personales para la denunciada el 05 de marzo de 2012 desempeñando funciones como profesor de educación física para los 16 cursos de la Escuela y profesor jefe del curso que le era asignado cada año, con una jornada ordinaria de 37 horas semanales distribuidas de lunes a viernes, a cambio de una remuneración mensual promedio de $2.093.931.
+
+Señala que fue despedido a partir del 29 de febrero de 2024 notificándosele el término de la relación laboral el 06 de diciembre de 2023 mediante carta que invoca la causal de necesidades de la empresa.
+
+Alega que los hechos que se invocan en la carta de despido no son reales, que la Escuela tiene el mismo número de cursos y horas de educación física y que para el año escolar 2024 se contrató a otro profesor de educación física para que realizara sus mismas funciones.
+
+Precisa que suscribió finiquito con reserva de derechos y que recibió el pago de $20.995.513 pagándosele once remuneraciones como indemnización por años de servicio según una base de cálculo de $1.908.683.
+
+Afirma que su despido obedece a una represalia de parte del empleador vulnerándose su garantía de indemnidad y se motivó por la denuncia que él efectuó ante la Inspección del Trabajo por las malas condiciones en que se encontraban las canchas del establecimiento, por haber solicitado previamente a su empleador la realización de estas reparaciones y por haber impugnado una amonestación que califica de injusta. Menciona, además, que se le atribuyó la divulgación de un video por redes sociales que denunciaba las malas condiciones de higiene del establecimiento.
+
+Agrega, además, que con ocasión de su despido se ha vulnerado su derecho a la libertad de emitir opinión.
+
+INDICIOS
+
+Como indicios de vulneración menciona los siguientes:
+
+1.- Trabajó durante casi 12 años para la denunciada.
+
+2.- El 26 de diciembre de 2022 envió un correo electrónico al Jefe del Departamento de Educación Física y a Giancarlo Grondona, el otro profesor de la asignatura, solicitando reparaciones en las canchas donde ejercía sus labores sin recibir respuesta.
+
+3.- Amonestación cursada en marzo de 2022 sin tomar en cuenta su versión de los hechos.
+
+4.- Presentó descargos conforme al Reglamento Interno, los que fueron acogidos por el administrador general de la Corporación respecto de la amonestación cursada por lo que dicha sanción fue dejada sin efecto.
+
+5.- Se interrumpió su clase para preguntarle si había participado en publicación de video en redes sociales, hecho que ocurrió el 5 de mayo de 2023.
+
+6.- Denuncia interpuesta por él ante la Inspección del Trabajo el 05 de mayo de 2023 que implicó una fiscalización a la denunciada quien debió adoptar medidas correctivas.
+
+7.- El despido por necesidades de la empresa invocando hechos que no son reales y contratando a otro profesor para cubrir su puesto.
+
+8.- Indemnizaciones pagadas por término de contrato pues pese a alegarse las necesidades de la empresa se le pagó una indemnización millonaria y se contrató a otro profesor.
+
+DEMANDA SUBSIDIARIA
+
+Para el evento de que la denuncia por vulneración de derechos no fuere acogida interpone demanda por despido injustificado dando por reproducidos los hechos ya reseñados en la denuncia formulada en lo principal solicitando que sea acogida y se condene a la demandada al pago del recargo del 30% sobre la indemnización por años de servicio por $6.909.972, con reajustes, intereses y costas.
+
+TERCERO: Que, la parte denunciada y demandada contestó solicitando el rechazo tanto de la denuncia como de la demanda subsidiaria señalando que efectivamente el demandante ingresó a prestar servicios personales para esta parte el 05 de marzo de 2012, relación laboral que se extendió hasta el 29 de febrero de 2024 cumpliendo funciones como profesor de educación física en la Escuela Industrial Superior de Valparaíso con una jornada ordinaria semanal de 37 horas.
+
+Afirma que, de acuerdo con su última liquidación de sueldo del mes de febrero de 2024 el actor tenía una remuneración imponible de $1.841.931 la que fue debidamente reajustada al momento del finiquito quedando la base de cálculo en la suma de $1.908.683.
+
+Sobre la amonestación escrita y posterior reclamación efectuada por el trabajador señala que, éste olvida que son un establecimiento de alumnos vulnerables y que mucho de ellos viven en la pobreza y ante una comunicación de apoderado en la que le señala que a su pupilo no ha podido comprarle la indumentaria deportiva y le pide excusas al docente él responde y escribe con letras gigantes varias hojas constituyendo una falta de respeto al apoderado. Se consideró esto como una falta grave.
+
+Sobre el hecho ocurrido el 5 de mayo de 2023 niega que se le haya imputado al profesor la conducta que él señala.
+
+En cuanto a la realización de denuncia ante la Inspección del Trabajo y posterior fiscalización señala que, no es efectivo que sólo gracias a la fiscalización realizada por la Inspección del Trabajo la denunciada adoptó medidas para reparar las canchas que se encontraban en malas condiciones e incluso la cancha de tierra luego fue convertida en una cancha de pasto sintético por un proyecto que ya se venía estudiando y para el cual se estaban reuniendo fondos.
+
+En cuanto al despido del actor y la carta aviso de despido señala que ella se basta a sí misma y el fundamento que justifica el término del contrato de trabajo es la reestructuración del Departamento de Educación Física en la Escuela Industrial de Valparaíso para lo cual se buscará profesionales con otro perfil de ejecución y vinculación con los estudiantes y, además, un menor costo asociado, determinándose en consecuencia, una reformulación de las labores desarrolladas por el demandante.
+
+Alega que, la racionalización del recurso humano es uno de los factores claves a la hora de administrar y es por lo que se racionalizan, por medio de la desvinculación para contratar a un profesional por más horas o con otro perfil como en este caso, también mediante la disminución o mediante la fusión o aprovechamiento de personal contratado que pueda servir para llenar cargos vacantes, donde todas las formas de administración buscan hacer eficientes los recursos.
+
+Pone énfasis en negar que el despido del actor hubiere vulnerado su garantía de indemnidad.
+
+CUARTO: Que, el llamado a conciliación no pudo prosperar por lo que se recibió la causa a prueba fijándose como hechos a probar los siguientes:
+
+1.-Si la demandada incurrió en actos vulnerarios de derechos fundamentales del actor, específicamente relacionados con la garantía de indemnidad y con el derecho a emitir opinión, fundamentos e indicios de las vulneraciones alegadas y, por otra parte, antecedentes y plausibilidad de las conductas ejecutadas por el empleador.
+
+2. Causas y circunstancias del término de los servicios, si este se produjo por las necesidades de la empresa en los términos invocados en la comunicación de despido, fundamentos de la causal.
+
+3. Monto de la última remuneración mensual y/o promedio de los últimos tres meses percibidos por el actor, ítems que componían su remuneración.
+
+QUINTO: Que, la parte demandante incorporó la siguiente prueba en la audiencia de juicio:
+Documental
+
+1. Actualización de contrato de trabajo de Alberto Gutiérrez de fecha 1 de diciembre de 2022.
+
+2. Correo electrónico enviado por Alberto Gutiérrez con fecha 26 de diciembre de 2022, con respuesta de Carlos Sepúlveda de fecha 26 de diciembre de 2022.
+
+3. Correo electrónico enviado por José Francisco González de fecha 22 de marzo de 2023, con respuesta de Alberto Gutiérrez de fecha 22 de marzo de 2023.
+
+4. Documento memorándum N°01/10 firmado por José Francisco González de fecha 23 de marzo de 2023.
+
+5. Boleta de honorarios electrónica de fecha 5 de abril de 2023.
+
+6. Constancia realizada por Alberto Gutiérrez en la página de la Dirección del Trabajo con fecha 20 de abril de 2023.
+
+7. Reglamento Interno de Orden Higiene y Seguridad Escuela Industrial Superior de Valparaíso.
+
+8. Carta de descargos de Alberto Gutiérrez de fecha 5 de mayo de 2023.
+
+9. Resolución de fecha 19 de mayo de 2023 firmada por Sergio Castro Negrón.
+
+10. Publicación de la cuenta de Instagram Alertavcosta de fecha 5 de mayo de 2023.
+
+11. Constancia realizada en la página de la Dirección del Trabajo con fecha 23 de mayo de 2023.
+
+12. Solicitud de denuncia laboral de fecha 5 de mayo de 2023.
+
+13. Informe de exposición de la inspección 0501.2023.592 emitido por Esteban Soto Sagredo, Inspector del Trabajo IPT Valparaíso.
+
+14. Carta de aviso de término de contrato de Alberto Gutiérrez, de fecha 1 de diciembre de 2023.
+
+15. Finiquito de contrato de trabajo de Alberto Gutiérrez autorizado con fecha 14 de marzo de 2024.
+
+16. Liquidaciones de remuneraciones de Alberto Gutiérrez de los meses de septiembre, octubre, noviembre y diciembre de 2023, y enero y febrero de 2024.
+
+17. Datos de la Escuela Industrial Superior de Valparaíso obtenidos de la página web del Ministerio de Educación.
+
+18. Decreto 281 del Ministerio de Educación, con fecha de publicación 7 de marzo de 2003.
+
+Testifical
+
+En calidad de testigos comparecieron don Pablo Alfredo Miranda Febre y doña Mylene Nasty De la Paz Marambio quienes previamente individualizados, juramentados y luego de las advertencias legales, declararon, en síntesis, lo siguiente:
+
+El testigo Miranda señaló conocer a las partes del juicio ya que es profesor de educación física al igual que el demandante con quien tiene una relación de amistad habiéndose sido compañeros en la Universidad y también trabajó en la Escuela Industrial realizando talleres deportivos, esto entre los años 2013 y 2019 o 2020.
+
+Dijo saber que el demandante actualmente es profesor en DUOC, en Concón y en un Club Deportivo.
+
+Sostuvo que en la Escuela Industrial los profesores de educación física nunca eran menos de dos e incluso en un período hubo tres profesores y que dicho establecimiento tiene 8 o 9 cursos por nivel y hay cuatro niveles.
+
+Sostuvo que el demandante trabajó en dicho establecimiento hasta el 2023, que empezó a tener problemas con un alumno por un equipamiento deportivo y el asunto de una comunicación y la respuesta de vuelta.
+
+Mencionó, además, que hubo un video sobre invasión de ratones que se viralizó y le atribuyeron al demandante ese video y su difusión y fueron a encararlo, esto lo hizo el inspector general.
+
+Explicó que lo declarado lo sabe por los dichos del demandante y porque él conoce las condiciones del gimnasio.
+
+En el contra examen precisó que él dejó de trabajar en la mencionada escuela el 2019 o 2020 y que el actor trabajó hasta el año 2023.
+
+La testigo De la Paz Declaró ser la cónyuge del demandante quién es profesor de educación física y entrenador de basquetbol.
+
+Señaló que él trabajó por 12 años en la Escuela Industrial de Valparaíso como profesor de educación física y también en la jefatura de curso desempeñándose hasta finales de 2023.
+
+Expresó que él tuvo una seguidilla de problemas en el colegio y que lo amonestaron de forma que no correspondía además le culparon de haber realizado una grabación de vídeo que circuló por redes sociales.
+
+Afirmó que su marido pedía que arreglaran el gimnasio sin embargo no lo tomaron en cuenta y que él realizó una denuncia ante la inspección del trabajo precisamente por esta circunstancia. Agregó que a él le culparon según le informó por esa grabación específicamente esto lo hizo el inspector general que lo interrumpió mientras estaba dando clases.
+
+Señaló que después de la denuncia hicieron los arreglos.
+
+Precisó que todos estos problemas ocurrieron en 2023 y que toda esta situación afectó el ánimo de su cónyuge quien incluso debió asistir con un psiquiatra.
+
+En el contra examen señaló no saber cuál fue la resolución mediante la cual se le cursó la amonestación sólo sabe que estuvo mal hecha y que fue por el incumplimiento del reglamento por escribir una comunicación a una apoderada con una letra más grande.
+
+SEXTO: Que, la parte denunciada y demandada aportó la siguiente prueba:
+
+Documental
+
+1.- Contrato de Trabajo Alberto Gutiérrez
+
+2. Actualización Contrato de Trabajo Alberto Gutiérrez
+
+3. Comunicación Apoderado y respuesta profesor Alberto Gutiérrez
+
+4. Reunión entre jefe UTP y docente Alberto Gutiérrez
+
+5. Carta aviso término contrato Alberto Gutiérrez
+
+6. Liquidaciones de sueldo diciembre 2023, enero 2024 y febrero 2024 Alberto Gutiérrez
+
+7.- Finiquito de Trabajo Alberto Gutiérrez
+
+Confesional
+
+En calidad de absolvente compareció el demandante quien luego de ser individualizado y juramentado declaró, en síntesis, lo siguiente:
+1.- Se le exhibe la comunicación del apoderado incorporada como prueba documental por la parte demandada y su respuesta con letra grande y lo reconoce explicando por qué fue esto y que el sentido era generar un impacto visual.
+
+2.- Que la resolución final sobre la sanción que le fue aplicada fue que no era una falta grave y que la amonestación quedaba sin efecto.
+
+Testifical
+
+En calidad de testigos comparecieron don Julio Guillermo Molina Vélez y don Carlos Benigno Sepúlveda Carrasco quienes previamente individualizados, juramentados y luego de las advertencias legales prestaron, en síntesis, las siguiente declaraciones:
+El testigo Julio Molina se identificó como profesor y dijo que tuvo en el año 2023 el cargo de Director de la Escuela Industrial de Valparaíso siendo sus funciones, en general, preocuparse por la marcha del colegio, las condiciones de los edificios para desarrollar las actividades y lo relativo al personal.
+
+Sobre la amonestación cursada al demandante declaró que ella se debió a una contestación por escrito del profesor a un apoderado porque el joven no se había presentado con el equipamiento para realizar educación física y que respondió de mala manera, con una letra muy grande, no adecuada.
+
+Precisó que cuando esto ocurrió él (testigo) fue subrogado por el jefe de UTP Francisco González y le hace llegar a una nota al profesor quien reconoce que escribió de esa forma, pero no le dio trascendencia.
+
+Sobre el despido señaló que, habitualmente se acostumbra a hacer reestructuraciones en ciertos departamentos y en este caso era necesario readecuar la planta con un profesor de otro perfil más acorde con mantener una muy buena relación con la comunidad ya que se trabaja con alumnos vulnerables y siempre están expuestos a ser sancionados por la Superintendencia.
+
+En el contra examen señaló que para el año 2024 se contrató a otro profesor, que en el año 2023 había dos profesores de educación física y que para el año 2014 también hubo dos y que, cuando se despide por necesidades de la empresa se deben pagar las remuneraciones hasta febrero del año siguiente.
+
+El testigo Sepúlveda Carrasco señaló ser profesor de la Escuela industrial y que trabajó con el demandante por más de diez años siendo su jefe directo como Inspector General.
+
+Señaló que el demandante trabajó en dicho establecimiento hasta el año 2023 y fue despedido por necesidades de la empresa.
+
+Sobre el comportamiento del demandante con la jefatura declaró que él tiene una personalidad fuerte y tiene capacidad para manifestar sus opiniones, sin embargo, en ocasiones la forma no era la más adecuada, que a veces tuvieron conversaciones tensas por diferencias de opinión. En cuanto a la relación con el Director subrogante dijo que era la relación de Director y profesor.
+
+En el contra examen señaló que él era su jefe directo y que efectivamente le fue a preguntar sobre un video que circulaba, el actor estaba en una clase y le pidió si podía atenderle, él accedió y entonces le consultó si tenía que ver con esa publicación con video, ocasión en la que fue acompañado con un paradocente.
+
+Declaró que el demandante en algún momento le comentó sobre la necesidad de reparaciones y él las hizo llegar a las autoridades.
+
+Expresó que hubo reparaciones que se hicieron en camarines, en superficie de la cancha y esto fue durante y después de la denuncia que efectuó el profesor ante la Inspección del Trabajo.
+SÉPTIMO: Que son hechos no controvertidos la existencia de la relación laboral entre las partes, la fecha de inicio y término de esta y el despido que la demandada fundó en la causal de necesidades de la empresa.
+OCTAVO: Que, de la prueba rendida, valorada en conformidad a las reglas de la sana crítica, se dan por establecidos los siguientes hechos:
+
+1.- Que, la última remuneración pactada y percibida por el actor para efectos indemnizatorios ascendió a la suma de $1.908.683.
+
+Este hecho se determinó mediante el análisis de las liquidaciones de remuneración del actor, especialmente las tres últimas percibidas por 30 días no debiendo considerarse para los efectos de la base de cálculo aquellos estipendios que no se perciben mes a mes sino de manera esporádica o una vez al año tales como bono especial, aguinaldo de navidad, bono de vacaciones, bonificación del 20% y ajuste de bonificación.
+
+2.- Que, el 26 de diciembre de 2022 el demandante dirigió un correo electrónico al Inspector General del establecimiento educacional mediante el cual le solicita conversar con el Director para que realice mantenciones en la cancha techada y en la de tierra dadas las deficiencias que presenta. De esta carta se acusó recibo.
+
+Este hecho se acreditó mediante la copia del correo mencionado.
+
+3.- Que, el actor fue citado a una reunión con la dirección de la escuela y el 23 de marzo de 2023 le fue entregada una carta suscrita por el Director donde se le expresa que la respuesta efectuada por él a dos comunicaciones enviadas por apoderados del establecimiento constituye una falta grave.
+
+Este hecho se acreditó mediante el documento que da cuenta de la citación a reunión y el memorándum que le fue remitido.
+
+4.- Que, el demandante respecto de la aludida comunicación dirigió sus descargos al Administrador General de la Corporación Educacional Instituto del Mar conforme al procedimiento previsto en el Reglamento Interno, a raíz de lo cual se resuelve que su actitud configura una inadecuada forma de comunicarse con el apoderado pero, que no reviste el carácter de falta grave sino de un comportamiento que amerita una amonestación verbal.
+
+Este hecho se acreditó mediante la copia del Reglamento Interno del establecimiento, la copia de la presentación efectuada por el actor y la resolución del Administador.
+
+5.- Que, en una publicación de alertavcosta se da cuenta de una plaga de ratones en la Escuela Industrial en la que se menciona que los alumnos informan que la situación se va agravando día a día.
+
+Este hecho consta de la impresión de pantalla que da cuenta de la publicación.
+
+6.- Que, el 05 de mayo de 2023 el profesor fue consultado por el Inspector General sobre si él había intervenido en dicha publicación. El trabajador dejó constancia de este hecho ante la Dirección del Trabajo reconociendo que se le preguntó al respecto.
+
+Este hecho se determinó mediante lo declarado por el testigo Sepúlveda en concordancia con la constancia dejada por el actor.
+
+7.- Que, mediante carta fechada el 01 de diciembre de 2023 se comunicó personalmente al actor el despido a contar del 29 de febrero de 2024 por la causal de necesidades de la empresa fundada en los siguientes hechos: revisión de los procesos y métodos de trabajo y del análisis de esos antecedentes es necesario adecuar las estructuras de la Escuela Industrial Superior de Valparaíso y además hacer una disminución o modificaciones de personal donde esto sea necesario. Se alude, además, reestructuración del Departamento de Educación Física de la Escuela Industrial de Valparaíso y se buscará profesionales con otro perfil de ejecución y vinculación con estudiantes y menos costos asociados.
+
+Este hecho se acreditó mediante la copia de la carta aviso de despido.
+
+8.- Que el 14 de marzo de 2024 el demandante suscribió y ratificó ante ministro de fe un finiquito con reserva de derechos el que da cuenta del pago de una indemnización por años de servicio de $20.995.513 sobre una base de cálculo de $1.908.683.
+
+Este hecho fue acreditado mediante el finiquito de contrato de trabajo.
+
+NOVENO: Que, en cuanto a la denuncia por vulneración de derechos con ocasión del despido se tendrá en consideración que, el actor ha sustentado su denuncia alegando que con ocasión de su despido se ha vulnerado su garantía de indemnidad y su derecho a la libertad de expresión.
+
+Al respecto es necesario tener presente que, el artículo 485 en su inciso 3° señala lo siguiente: “Se entenderá que los derechos y garantías a que se refieren los incisos anteriores resultan lesionados cuando el ejercicio de las facultades que la ley le reconoce al empleador limita el pleno ejercicio de aquéllas sin justificación suficiente, en forma arbitraria o desproporcionada, o sin respeto a su contenido esencial. En igual sentido se entenderán las represalias ejercidas en contra de trabajadores por la interposición de denuncias o por el ejercicio de acciones judiciales, por su participación en ellas como testigo o haber sido ofrecidos en tal calidad o bien como consecuencia de la labor fiscalizadora de la Dirección del Trabajo.”
+
+Sobre la libertad de expresión o de opinión cabe recordar que el artículo 19 N°12 del Código del Trabajo garantiza a todas las personas “La libertad de emitir opinión y la de informar, sin censura previa, en cualquier forma y por cualquier medio, sin perjuicio de responder de los delitos y abusos que se cometan en el ejercicio de estas libertades, en conformidad a la ley, la que deberá ser de quórum calificado.”
+
+En cuanto a la garantía de indemnidad el actor señala que efectuó una denuncia ante la Inspección del Trabajo y que esto derivó en un procedimiento de fiscalización que provocó que la demandada hiciera las reparaciones necesarias en el establecimiento educacional, hecho que sería causa de su despido a fin de año.
+
+Por otra parte, sostiene que, debido a haber manifestado sus opiniones sobre las deficiencias que presentaba su lugar de trabajo el empleador habría tenido comportamientos que demostrarían lo ilícito de su despido tales como la amonestación que se le realizó en mayo de 2022 y la circunstancia de habérsele imputado que él habría intervenido en la publicación de un video en redes sociales.
+
+De la prueba rendida ha quedado acreditado que efectivamente el mismo día cuando fue consultado acerca del mencionado video, el demandante concurrió a la Inspección del Trabajo a fin de que se fiscalizare al establecimiento en cuanto a sus condiciones de higiene y seguridad, hecho que ocurrió a comienzos del mes de mayo de 2023.
+
+Asimismo, fue acreditado que el trabajador fue amonestado por haber respondido de mala forma a apoderados del establecimiento, probándose a través de la prueba documental y confesional que efectivamente el profesor, en respuesta a una comunicación por escrito enviada por un apoderado de manera absolutamente respetuosa procedió a contestar a través de la libreta de comunicaciones de una manera inapropiada utilizando una letra enorme. En consecuencia, no ha existido una actuación arbitraria de parte de la jefatura o sin fundamento alguno. Podrá discutirse acerca de la mayor o menor gravedad del episodio, pero la medida disciplinaria no fue inventada ni obedeció a una actitud caprichosa del empleador y el trabajador tuvo la oportunidad, tal como lo hizo, de ejercer sus derechos y reclamar de tal medida conforme al procedimiento contenido en el Reglamento Interno.
+
+El hecho acreditado sobre el habérsele consultado de su participación en el video que daba cuenta de problemas de higiene y seguridad en el establecimiento no puede ser considerado tampoco como un ataque en su contra y de hecho en la constancia que dejó ante la Dirección del Trabajo producto de esta circunstancia en la que sostiene que se le dijo que se le iba a preguntar y no se le imputó que él hubiese sido ratifica lo anterior.
+
+Ahora bien, para que concurra la vulneración de la garantía de indemnidad debe existir una clara relación causa-efecto entre el ejercicio de la acción del trabajador ya sea judicial o administrativa y la represalia por parte del empleador, presupuesto que no se advierte en este caso.
+
+En lo que respecta a la libertad de opinión, de la prueba rendida no es posible concluir que los reclamos y las opiniones que hubiere realizado el actor en relación con su lugar de trabajo, los que por cierto no fueron tantos ni reiterados, hubieren motivado su despido.
+
+No pueden ser considerados como indicios de vulneración la antigüedad del trabajador, ni el correo dirigido el año 2022 para solicitar reparaciones ni la amonestación cursada en marzo de 2022 por todas las razones ya expresadas con anterioridad así como tampoco el episodio del video por los motivos ya señalados. El despido por necesidades de la empresa por sí mismo tampoco constituye un indicio de vulneración.
+
+En consecuencia, lo único que puede ser considerado como indicio de vulneración es la existencia de una activación de fiscalización ante la Inspección del Trabajo, sin embargo, esto es insuficiente para calificarlo como indicio suficiente para sospechar de un modo más o menos fundado la existencia de las vulneraciones denunciadas.
+DÉCIMO: Que, en cuanto a la petición de condena por concepto de diferencias no pagadas a la favor del actor por indemnización por años de servicio se tendrá presente que, según consta del finiquito suscrito y ratificado por el actor el empleador pagó por dicho concepto $20.995.513 que corresponde al tope de la indemnización por años de servicio, sobre la base de una remuneración mensual de $1.908.683 que es precisamente el monto que, conforme a la prueba aportada por las partes corresponde a la última remuneración del demandante para efectos del artículo 172 del Código del Trabajo, razón por la cual dicha solicitud no será acogida.
+UNDÉCIMO: Que, en cuanto a la acción por despido injustificado se tendrá presente que, el artículo 161 inciso primero del Código del Trabajo prescribe que “Sin perjuicio de lo señalado en los artículos precedentes, el empleador podrá poner término al contrato de trabajo invocando como causal las necesidades de la empresa, establecimiento o servicio, tales como las derivadas de la racionalización o modernización de los mismos, bajas en la productividad, cambios en las condiciones del mercado o de la economía, que hagan necesaria la separación de uno o más trabajadores. La eventual impugnación de las causales señaladas, se regirá por lo dispuesto en el artículo 168.”
+
+En el presente caso se ha fundado el despido en la necesidad de adecuar las estructuras de la Escuela Industrial de Valparaíso, en una disminución o modificación de personal donde esto sea necesario y en la reestructuración del departamento de educación física requiriéndose personal con otro perfil de ejecución y vinculación con estudiantes y menor costo asociado.
+
+Como se puede advertir de la lectura de la carta es bastante confuso el motivo que justifica el despido pues no se menciona cuál es la adecuación de las estructuras ni en qué consiste la reestructuración del departamento de educación física.
+
+La prueba rendida por la parte demandada tampoco permite dar cuenta de la concurrencia de los presupuestos de hecho que configuran la causal invocada, esto es, la existencia de motivos de carácter económico o bien razones de carácter tecnológico u otras similares. No se avizoran razones objetivas, graves o permanentes que justifiquen el despido del trabajador máxime cuando tal y como expresaron los testigos de la parte demandada el número de profesores de educación física se mantuvo el año 2024 lo que significa que se contrató a una nueva persona para desempeñar el cargo.
+
+Por estos motivos la demanda por despido injustificado será acogida.
+DUODÉCIMO: Que, la restante prueba no analizada en detalle en nada altera las conclusiones expresadas. En especial la prueba de testigos de la parte demandante no aporta mayores antecedentes ya que las declaraciones de ellos se fundan principalmente en los dichos del actor.
+
+Por estas consideraciones y visto lo dispuesto en los artículos 1, 7, 8, 9, 161 inciso 1°, 163, 168, 172, 173, 485 y ss. del Código del Trabajo y artículo 19 N°12 de la Constitución Política de la República,
+
+SE RESUELVE:
+
+I.- Que se rechaza la denuncia interpuesta por don Alberto Rodrigo Gutiérrez Gutiérrez, en contra de Corporación Educacional Instituto del Mar declarándose que, con ocasión de su despido el empleador no ha lesionado sus derechos fundamentales ni su garantía de indemnidad.
+
+II.- Que, se acoge la demanda interpuesta de manera subsidiaria declarándose que el despido del demandante ha sido injustificado, condenándose a la demandada al pago del recargo del 30% sobre la indemnización por años de servicio por $6.298.654.
+
+III.- Que se rechaza la petición de condena por concepto de diferencia por concepto de indemnización por años de servicio.
+IV.- Que, la suma ordenada pagar deberá ser enterada con reajustes e intereses calculados en la forma establecida en el artículo 173 del Código del Trabajo.
+
+V.- Que, no se condena en costas a la demandada por estimar que tuvo motivos plausibles para litigar y por no haber resultado totalmente vencida.
+
+Ejecutoriada que sea la presente sentencia, dese cumplimiento a lo ordenado en ella, dentro de quinto día, en caso contrario, certifíquese el incumplimiento y pasen los antecedentes al Juzgado de Cobranza Laboral y Previsional de Valparaíso.
+
+Regístrese, notifíquese y archívese en su oportunidad.
+
+RIT T-297-2024
+
+RUC: 24-4-0569388-3
+
+Dictada por doña Marlene Susana Moya Díaz, Jueza Destinada del Juzgado de Letras del Trabajo de Valparaíso.
