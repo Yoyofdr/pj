@@ -1,0 +1,54 @@
+METADATA
+
+case_id: 15d7f1de236115267af5af9ef08c63350e48f68a
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8050077
+
+rol: 150-2026
+
+fecha_sentencia: 2026-03-05
+
+caratulado: ANDRADE/VINCIT PROPIEDADES SPA
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (PENAL) NULIDAD
+
+recurso: (PENAL) NULIDAD
+
+resultado_recurso: CONFIRMA RESOLUCIÓN APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, cinco de marzo de dos mil veintiséis.
+Vistos:
+Se confirma la resolución apelada de fecha veintidós de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de San Miguel.
+Regístrese y devuélvase.
+
+Rol N° 58.414-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+CH (MVT)
+
+San Miguel, veintidós de diciembre de dos mil veinticinco.
+
+Al folio 4: A sus antecedentes certificado de la señora ministro de fe.
+
+Al resolviendo la acción intentada a folio 1:
+
+Vistos y teniendo presente:
+
+Que el recurso de protección tiene por objeto restablecer el imperio del derecho cuando éste ha sido quebrantado por actos u omisiones arbitrarias o ilegales que amenazan, perturban o privan del ejercicio legítimo de alguna de las garantías taxativamente numeradas en el artículo 20 de la Constitución Política de la República, dejando a salvo las demás acciones legales.
+
+Que los hechos descritos en su presentación y, en especial, su petitorio sobrepasa los márgenes del recurso de protección, no siendo esta la vía idónea para resolver las cuestiones planteadas al pretender un pronunciamiento de carácter declarativo lo que no es compatible con la naturaleza cautelar de la presente acción, sino que, en su caso, deben ser planteadas y resueltas ante el tribunal que resulte competente.
+
+Y de conformidad, además, con lo señalado en el Auto Acordado de la Excma. Corte Suprema sobre tramitación y fallo del recurso de protección de las garantías constitucionales, se declara inadmisible el interpuesto en lo principal de folio 1, sin perjuicio de otros derechos.
+
+Archívese.
+
+Ingreso N° 4813-2025 Prot
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, cinco de marzo de dos mil veintiséis.Vistos:Se confirma la resolución apelada de fecha veintidós de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de San Miguel.Regístrese y devuélvase.Rol N° 58.414-2025. Santiago, cinco de marzo de dos mil veintiséis.Vistos:Se confirma la resolución apelada de fecha veintidós de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de San Miguel.Regístrese y devuélvase.Rol N° 58.414-2025. Sentencia anonimizada

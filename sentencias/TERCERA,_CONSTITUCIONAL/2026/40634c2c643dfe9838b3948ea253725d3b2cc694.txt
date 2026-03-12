@@ -1,0 +1,160 @@
+METADATA
+
+case_id: 40634c2c643dfe9838b3948ea253725d3b2cc694
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049945
+
+rol: 23918-2025
+
+fecha_sentencia: 2026-03-05
+
+caratulado: BARRIOS/MINISTERIO DEL INTERIOR DE LA REPUBLICA
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (PENAL) NULIDAD
+
+recurso: (PENAL) NULIDAD
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Corte Suprema ▼
+Santiago, cinco de marzo de dos mil veintiséis.
+
+En cumplimiento a lo ordenado en el fallo precedente y lo estatuido en el artículo 785 del Código de Procedimiento Civil se pronuncia la siguiente sentencia de reemplazo.
+
+VISTO:
+Se reproduce el fallo en alzada, con excepción del fundamento Undécimo, que se elimina.
+
+Se tienen por reproducidos los motivos Cuarto a Octavo de la sentencia de casación que antecede.
+
+Y TENIENDO EN SU LUGAR Y, ADEMÁS, PRESENTE:
+1°) Que, atendido el claro tenor de las normas de la Ley Nº 19.983, especialmente de los artículos 1º y 4° letras a) y b), la factura no es un título abstracto, independiente de la relación causal que le dio origen, como ocurre con la letra de cambio y el pagaré, sino que constituye un título causado, vinculado al contrato o convención de la que ha nacido, constando fehacientemente a las partes que concurren a su celebración el negocio que le ha servido de causa. Es esta la razón que llevó al legislador a incluir en el artículo 3° de la Ley N° 19.983, la mención expresa de no ser oponibles al cesionario las excepciones personales que pudieran haberse opuesto al cedente, esto, por cierto, en la fase procesal que posibilita este trámite de defensa por parte del demandado, que no es otra que el juicio ejecutivo respectivo.
+
+2°) Que, sin embargo, las excepciones personales a que se refiere el inciso final del artículo 3º de la ley antes mencionada, corresponden a aquellas que sólo pueden oponerse respecto de determinadas personas, como ocurre con la compensación, la condonación de la deuda total o parcial. Así, no resulta posible contar, entre tales excepciones personales, las ligadas al negocio causal o convención, cuya es la situación, por ejemplo, de la nulidad de la obligación u otra que tenga estrecha relación con la obligación misma, de manera que, al tenor de lo dispuesto en el artículo 3° de la Ley N° 19.983, las excepciones que digan relación con la relación jurídica fundamental, sí pueden ser invocadas por el deudor en contra del cesionario. En consecuencia, la nulidad de la obligación, como excepción perentoria puede ser opuesta o hecha valer por el demandado, también respecto del cesionario que pretende el cobro de la factura cedida (Corte Suprema, Roles N° 53.216-22, N° 133.268-23 y N° 149.471-23).
+
+3°) Que la ejecutada a fin de fundamentar sus excepciones señaló que, la factura objeto de cobro no da cuenta de la existencia efectiva de una operación con la empresa cedente, ya que no constituye la representación y testimonio de la existencia de una compraventa de bienes ni de una prestación de servicios, de conformidad al artículo 1° de la Ley N° 19.983.
+
+En tal sentido entonces, dice la ejecutada, si no existe compraventa ni prestación de servicios, ya que su mandante nunca solicitó a aquella la prestación de bienes, no existe antecedente o motivo alguno que justifique, ni la emisión de la factura ni, consecuencialmente, el pago de la suma que se demanda, por ende, las obligaciones de que daría cuenta la factura cuyo cobro se pretende de contrario, carecen de causa, adoleciendo de nulidad absoluta, por expreso mandato del artículo 1682 del Código Civil, en relación con el artículo 1445 del mismo cuerpo legal.
+
+4°) Que, para tal efecto, la ejecutada rindió prueba documental destinada a acreditar que las facturas no han tenido su origen en una compraventa ni en una prestación de servicios y son demostrativas de la inexistencia de un acto jurídico que causalmente le diera origen.
+
+En efecto, de una lectura, análisis y ponderación de la documental rendida, es posible establecer -en el caso que nos ocupa- que la Factura Electrónica N° 63247, emitida por la sociedad Confecciones Cubilllos SpA a nombre de la ejecutada y cedidas a la ejecutante, fueron extendidas a la Ilustre Municipalidad de Maipú sin que existiera ningún tipo de contrato o vínculo jurídico que lo uniera con aquella, resultando, en este caso, que las facturas fueron extendidas sin representar, conforme se precisa en el artículo 1° de la Ley N° 19.983, la existencia de una operación de compraventa o de una prestación de servicios que haya justificado su emisión.
+
+5°) Que, de acuerdo a lo expresado precedentemente, la obligación que consta en la factura que sirve de sustento a la presente acción ejecutiva y cuyo cobro se discute, carece de causa, en razón de la comprobación de que no existe contraprestación en favor de la ejecutada, incurriéndose en un motivo de nulidad absoluta previsto en los artículos 1681 y 1682 del Código Civil.
+
+6°) Que, en las condiciones fácticas anotadas, todas ligadas a la obligación misma, no puede el cesionario asilarse en la inoponibilidad de aquellas irregularidades cometidas por quien emitió las facturas so pretexto de que sería una excepción personal, porque no lo es, sino muy por el contrario, tales hechos configuran una excepción real, porque se vinculan con la obligación misma que se plasma en la factura y no con la persona de los contratantes.
+
+7°) Que, lo razonado conduce forzosamente a acoger la excepción de nulidad de la obligación, por falta de causa, siendo innecesario pronunciarse respecto de las demás excepciones opuestas.
+
+8°) Que, conforme a lo prevenido en el artículo 471 del Código de Procedimiento Civil, el ejecutante deberá soportar las costas de la causa.
+
+Por estas consideraciones y de acuerdo, además, a lo dispuesto en los artículos 186 y siguientes; 464 N° 14 y 471 del Código de Procedimiento Civil, se revoca la resolución apelada de diecinueve de agosto de dos mil veintidós, rectificada el tres de noviembre del mismo año, solo en cuanto se acoge la excepción del artículo 464 N° 14 del Código de Procedimiento Civil y, en consecuencia, se absuelve al ejecutado de la ejecución. Con costas. En lo demás se confirma lo apelado.
+
+Acordado con el voto en contra del Ministro (S) señor Zepeda, quien estuvo por confirmar en todas sus partes la sentencia en alzada.
+
+Regístrese y devuélvase.
+
+Redacción a cargo de la Ministra señora María Angélica Repetto García y el voto en contra, su autor.
+
+Rol N° 15.364-2025.
+
+Pronunciado por la Primera Sala de la Corte Suprema integrada por los Ministros señora María Angélica Repetto G., señor Mario Carroza E., señora María Soledad Melo L., señor Jorge Zepeda A. (S) y el Abogado integrante señor Álvaro Vidal O.
+
+No obstante, haber concurrido a la vista de la causa y al acuerdo, no firma la Ministra señora Repetto, por estar con feriado legal y el Abogado integrante señor Vidal, por ausencia.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Corte Suprema ▼
+Santiago, cinco de marzo de dos mil veintiséis.
+
+En cumplimiento a lo ordenado en el fallo precedente y lo estatuido en el artículo 785 del Código de Procedimiento Civil se pronuncia la siguiente sentencia de reemplazo.
+
+VISTO:
+Se reproduce el fallo en alzada, con excepción del fundamento Undécimo, que se elimina.
+
+Se tienen por reproducidos los motivos Cuarto a Octavo de la sentencia de casación que antecede.
+
+Y TENIENDO EN SU LUGAR Y, ADEMÁS, PRESENTE:
+1°) Que, atendido el claro tenor de las normas de la Ley Nº 19.983, especialmente de los artículos 1º y 4° letras a) y b), la factura no es un título abstracto, independiente de la relación causal que le dio origen, como ocurre con la letra de cambio y el pagaré, sino que constituye un título causado, vinculado al contrato o convención de la que ha nacido, constando fehacientemente a las partes que concurren a su celebración el negocio que le ha servido de causa. Es esta la razón que llevó al legislador a incluir en el artículo 3° de la Ley N° 19.983, la mención expresa de no ser oponibles al cesionario las excepciones personales que pudieran haberse opuesto al cedente, esto, por cierto, en la fase procesal que posibilita este trámite de defensa por parte del demandado, que no es otra que el juicio ejecutivo respectivo.
+
+2°) Que, sin embargo, las excepciones personales a que se refiere el inciso final del artículo 3º de la ley antes mencionada, corresponden a aquellas que sólo pueden oponerse respecto de determinadas personas, como ocurre con la compensación, la condonación de la deuda total o parcial. Así, no resulta posible contar, entre tales excepciones personales, las ligadas al negocio causal o convención, cuya es la situación, por ejemplo, de la nulidad de la obligación u otra que tenga estrecha relación con la obligación misma, de manera que, al tenor de lo dispuesto en el artículo 3° de la Ley N° 19.983, las excepciones que digan relación con la relación jurídica fundamental, sí pueden ser invocadas por el deudor en contra del cesionario. En consecuencia, la nulidad de la obligación, como excepción perentoria puede ser opuesta o hecha valer por el demandado, también respecto del cesionario que pretende el cobro de la factura cedida (Corte Suprema, Roles N° 53.216-22, N° 133.268-23 y N° 149.471-23).
+
+3°) Que la ejecutada a fin de fundamentar sus excepciones señaló que, la factura objeto de cobro no da cuenta de la existencia efectiva de una operación con la empresa cedente, ya que no constituye la representación y testimonio de la existencia de una compraventa de bienes ni de una prestación de servicios, de conformidad al artículo 1° de la Ley N° 19.983.
+
+En tal sentido entonces, dice la ejecutada, si no existe compraventa ni prestación de servicios, ya que su mandante nunca solicitó a aquella la prestación de bienes, no existe antecedente o motivo alguno que justifique, ni la emisión de la factura ni, consecuencialmente, el pago de la suma que se demanda, por ende, las obligaciones de que daría cuenta la factura cuyo cobro se pretende de contrario, carecen de causa, adoleciendo de nulidad absoluta, por expreso mandato del artículo 1682 del Código Civil, en relación con el artículo 1445 del mismo cuerpo legal.
+
+4°) Que, para tal efecto, la ejecutada rindió prueba documental destinada a acreditar que las facturas no han tenido su origen en una compraventa ni en una prestación de servicios y son demostrativas de la inexistencia de un acto jurídico que causalmente le diera origen.
+
+En efecto, de una lectura, análisis y ponderación de la documental rendida, es posible establecer -en el caso que nos ocupa- que la Factura Electrónica N° 63247, emitida por la sociedad Confecciones Cubilllos SpA a nombre de la ejecutada y cedidas a la ejecutante, fueron extendidas a la Ilustre Municipalidad de Maipú sin que existiera ningún tipo de contrato o vínculo jurídico que lo uniera con aquella, resultando, en este caso, que las facturas fueron extendidas sin representar, conforme se precisa en el artículo 1° de la Ley N° 19.983, la existencia de una operación de compraventa o de una prestación de servicios que haya justificado su emisión.
+
+5°) Que, de acuerdo a lo expresado precedentemente, la obligación que consta en la factura que sirve de sustento a la presente acción ejecutiva y cuyo cobro se discute, carece de causa, en razón de la comprobación de que no existe contraprestación en favor de la ejecutada, incurriéndose en un motivo de nulidad absoluta previsto en los artículos 1681 y 1682 del Código Civil.
+
+6°) Que, en las condiciones fácticas anotadas, todas ligadas a la obligación misma, no puede el cesionario asilarse en la inoponibilidad de aquellas irregularidades cometidas por quien emitió las facturas so pretexto de que sería una excepción personal, porque no lo es, sino muy por el contrario, tales hechos configuran una excepción real, porque se vinculan con la obligación misma que se plasma en la factura y no con la persona de los contratantes.
+
+7°) Que, lo razonado conduce forzosamente a acoger la excepción de nulidad de la obligación, por falta de causa, siendo innecesario pronunciarse respecto de las demás excepciones opuestas.
+
+8°) Que, conforme a lo prevenido en el artículo 471 del Código de Procedimiento Civil, el ejecutante deberá soportar las costas de la causa.
+
+Por estas consideraciones y de acuerdo, además, a lo dispuesto en los artículos 186 y siguientes; 464 N° 14 y 471 del Código de Procedimiento Civil, se revoca la resolución apelada de diecinueve de agosto de dos mil veintidós, rectificada el tres de noviembre del mismo año, solo en cuanto se acoge la excepción del artículo 464 N° 14 del Código de Procedimiento Civil y, en consecuencia, se absuelve al ejecutado de la ejecución. Con costas. En lo demás se confirma lo apelado.
+
+Acordado con el voto en contra del Ministro (S) señor Zepeda, quien estuvo por confirmar en todas sus partes la sentencia en alzada.
+
+Regístrese y devuélvase.
+
+Redacción a cargo de la Ministra señora María Angélica Repetto García y el voto en contra, su autor.
+
+Rol N° 15.364-2025.
+
+Pronunciado por la Primera Sala de la Corte Suprema integrada por los Ministros señora María Angélica Repetto G., señor Mario Carroza E., señora María Soledad Melo L., señor Jorge Zepeda A. (S) y el Abogado integrante señor Álvaro Vidal O.
+
+No obstante, haber concurrido a la vista de la causa y al acuerdo, no firma la Ministra señora Repetto, por estar con feriado legal y el Abogado integrante señor Vidal, por ausencia.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Corte Suprema ▼
+Santiago, cinco de marzo de dos mil veintiséis.
+
+En cumplimiento a lo ordenado en el fallo precedente y lo estatuido en el artículo 785 del Código de Procedimiento Civil se pronuncia la siguiente sentencia de reemplazo.
+
+VISTO:
+Se reproduce el fallo en alzada, con excepción del fundamento Undécimo, que se elimina.
+
+Se tienen por reproducidos los motivos Cuarto a Octavo de la sentencia de casación que antecede.
+
+Y TENIENDO EN SU LUGAR Y, ADEMÁS, PRESENTE:
+1°) Que, atendido el claro tenor de las normas de la Ley Nº 19.983, especialmente de los artículos 1º y 4° letras a) y b), la factura no es un título abstracto, independiente de la relación causal que le dio origen, como ocurre con la letra de cambio y el pagaré, sino que constituye un título causado, vinculado al contrato o convención de la que ha nacido, constando fehacientemente a las partes que concurren a su celebración el negocio que le ha servido de causa. Es esta la razón que llevó al legislador a incluir en el artículo 3° de la Ley N° 19.983, la mención expresa de no ser oponibles al cesionario las excepciones personales que pudieran haberse opuesto al cedente, esto, por cierto, en la fase procesal que posibilita este trámite de defensa por parte del demandado, que no es otra que el juicio ejecutivo respectivo.
+
+2°) Que, sin embargo, las excepciones personales a que se refiere el inciso final del artículo 3º de la ley antes mencionada, corresponden a aquellas que sólo pueden oponerse respecto de determinadas personas, como ocurre con la compensación, la condonación de la deuda total o parcial. Así, no resulta posible contar, entre tales excepciones personales, las ligadas al negocio causal o convención, cuya es la situación, por ejemplo, de la nulidad de la obligación u otra que tenga estrecha relación con la obligación misma, de manera que, al tenor de lo dispuesto en el artículo 3° de la Ley N° 19.983, las excepciones que digan relación con la relación jurídica fundamental, sí pueden ser invocadas por el deudor en contra del cesionario. En consecuencia, la nulidad de la obligación, como excepción perentoria puede ser opuesta o hecha valer por el demandado, también respecto del cesionario que pretende el cobro de la factura cedida (Corte Suprema, Roles N° 53.216-22, N° 133.268-23 y N° 149.471-23).
+
+3°) Que la ejecutada a fin de fundamentar sus excepciones señaló que, la factura objeto de cobro no da cuenta de la existencia efectiva de una operación con la empresa cedente, ya que no constituye la representación y testimonio de la existencia de una compraventa de bienes ni de una prestación de servicios, de conformidad al artículo 1° de la Ley N° 19.983.
+
+En tal sentido entonces, dice la ejecutada, si no existe compraventa ni prestación de servicios, ya que su mandante nunca solicitó a aquella la prestación de bienes, no existe antecedente o motivo alguno que justifique, ni la emisión de la factura ni, consecuencialmente, el pago de la suma que se demanda, por ende, las obligaciones de que daría cuenta la factura cuyo cobro se pretende de contrario, carecen de causa, adoleciendo de nulidad absoluta, por expreso mandato del artículo 1682 del Código Civil, en relación con el artículo 1445 del mismo cuerpo legal.
+
+4°) Que, para tal efecto, la ejecutada rindió prueba documental destinada a acreditar que las facturas no han tenido su origen en una compraventa ni en una prestación de servicios y son demostrativas de la inexistencia de un acto jurídico que causalmente le diera origen.
+
+En efecto, de una lectura, análisis y ponderación de la documental rendida, es posible establecer -en el caso que nos ocupa- que la Factura Electrónica N° 63247, emitida por la sociedad Confecciones Cubilllos SpA a nombre de la ejecutada y cedidas a la ejecutante, fueron extendidas a la Ilustre Municipalidad de Maipú sin que existiera ningún tipo de contrato o vínculo jurídico que lo uniera con aquella, resultando, en este caso, que las facturas fueron extendidas sin representar, conforme se precisa en el artículo 1° de la Ley N° 19.983, la existencia de una operación de compraventa o de una prestación de servicios que haya justificado su emisión.
+
+5°) Que, de acuerdo a lo expresado precedentemente, la obligación que consta en la factura que sirve de sustento a la presente acción ejecutiva y cuyo cobro se discute, carece de causa, en razón de la comprobación de que no existe contraprestación en favor de la ejecutada, incurriéndose en un motivo de nulidad absoluta previsto en los artículos 1681 y 1682 del Código Civil.
+
+6°) Que, en las condiciones fácticas anotadas, todas ligadas a la obligación misma, no puede el cesionario asilarse en la inoponibilidad de aquellas irregularidades cometidas por quien emitió las facturas so pretexto de que sería una excepción personal, porque no lo es, sino muy por el contrario, tales hechos configuran una excepción real, porque se vinculan con la obligación misma que se plasma en la factura y no con la persona de los contratantes.
+
+7°) Que, lo razonado conduce forzosamente a acoger la excepción de nulidad de la obligación, por falta de causa, siendo innecesario pronunciarse respecto de las demás excepciones opuestas.
+
+8°) Que, conforme a lo prevenido en el artículo 471 del Código de Procedimiento Civil, el ejecutante deberá soportar las costas de la causa.
+
+Por estas consideraciones y de acuerdo, además, a lo dispuesto en los artículos 186 y siguientes; 464 N° 14 y 471 del Código de Procedimiento Civil, se revoca la resolución apelada de diecinueve de agosto de dos mil veintidós, rectificada el tres de noviembre del mismo año, solo en cuanto se acoge la excepción del artículo 464 N° 14 del Código de Procedimiento Civil y, en consecuencia, se absuelve al ejecutado de la ejecución. Con costas. En lo demás se confirma lo apelado.
+
+Acordado con el voto en contra del Ministro (S) señor Zepeda, quien estuvo por confirmar en todas sus partes la sentencia en alzada.
+
+Regístrese y devuélvase.
+
+Redacción a cargo de la Ministra señora María Angélica Repetto García y el voto en contra, su autor.
+
+Rol N° 15.364-2025.
+
+Pronunciado por la Primera Sala de la Corte Suprema integrada por los Ministros señora María Angélica Repetto G., señor Mario Carroza E., señora María Soledad Melo L., señor Jorge Zepeda A. (S) y el Abogado integrante señor Álvaro Vidal O.
+
+No obstante, haber concurrido a la vista de la causa y al acuerdo, no firma la Ministra señora Repetto, por estar con feriado legal y el Abogado integrante señor Vidal, por ausencia.

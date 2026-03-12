@@ -1,0 +1,94 @@
+METADATA
+
+case_id: 3d5c8f2baa9006a7d2e7b474a877b1b23a0cf18c
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8051289
+
+rol: 58414-2025
+
+fecha_sentencia: 2026-03-05
+
+caratulado: SALAMANCA/CÍRCULO DE SUBOFICIALES DE LA DEFENSA NACIONAL EN RETIRO DE PUENTE ALTO
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (PENAL) NULIDAD
+
+recurso: (PENAL) NULIDAD
+
+resultado_recurso: CONFIRMA RESOLUCIÓN APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, a cinco de marzo de dos mil veintiséis.
+
+Vistos:
+Se reproduce el fallo en alzada.
+
+Y se tiene, además, presente:
+Primero: Que se recurre de protección en favor de la parte recurrente, en contra del Servicio Nacional de Migraciones, impugnando el acto que se califica de ilegal y arbitrario consistente en dictar la resolución exenta que rechazó la solicitud de residencia definitiva, fundada en el incumplimiento de requisitos, afectándose, con dicha negativa, la garantía constitucional prevista en el artículo 19 N°2 de la Constitución Política de la República.
+Segundo: Que por sentencia dictada por la Corte de Apelaciones se acogió la acción constitucional referida, dejando sin efecto el acto recurrido y ordenando continuar con la tramitación de la solicitud, debiendo el Servicio dictar un acto terminal conforme a derecho.
+
+Tercero: Que, a efectos de dilucidar la controversia planteada, es preciso tener en consideración que, conforme al mérito de los antecedentes, la recurrida informó al recurrente que la solicitud presentada no estaba en condiciones de avanzar, pues no acompañó el certificado de antecedentes penales original y apostillado, para continuar con el trámite. Por ello, se otorgó un plazo para subsanar el defecto.
+
+Tras no cumplir el recurrente con acompañar el documento requerido, se le informó que la solicitud tenía causal de rechazo, otorgando un plazo de diez días, para realizar descargos y acompañar los documentos faltantes.
+
+Finalmente, atendido a que el requerimiento no fue subsanado, se rechazó la solicitud de permanencia definitiva.
+
+Cuarto: Que la ley N°21.325 establece en su artículo 78 inciso segundo que “La residencia definitiva sólo se podrá otorgar a los extranjeros poseedores de un permiso de residencia temporal que expresamente admita postular a ella y que cumplan con los requisitos establecidos en la presente ley, su reglamento y el decreto supremo que fija las subcategorías señalado en el artículo 70.”
+Luego, el artículo 11 del Decreto N°177 indica los documentos que deben ser acompañados en las solicitudes, indicando en su letra b) que “En el caso de los solicitantes que según la ley chilena sean mayores de edad, el certificado de antecedentes penales o documento equivalente expedido por la autoridad competente de su país de origen o de aquel en el cual hayan residido en los últimos 5 años. En caso que la residencia en un país distinto al de origen haya tenido lugar en un lapso menor a los últimos 5 años, deberá adjuntarse el certificado o documento equivalente, expedido por las autoridades competentes de los diferentes países en los que haya residido durante dicho periodo”.
+
+Finalmente, el artículo 88 inciso 1° de la Ley citada indica “Causales de rechazo. Deben rechazarse por resolución fundada las solicitudes de residencias de quienes: 1. No cumplan los requisitos de cada categoría y subcategoría migratoria fijados en el respectivo decreto, en conformidad con lo establecido en el artículo 70”.
+Quinto: Que, así las cosas, cabe concluir que la recurrida no incurrió en acto ilegal o arbitrario alguno, pues acompañar el documento solicitado y cumplir con el pago de los derechos correspondientes, son requisitos establecido en la normativa, necesarios para acceder a la solicitud de residencia definitiva. Por ello, tras constatarse su incumplimiento, se otorgaron plazos a la parte recurrente para que subsanara su error, sin que se cumpliera.
+
+Por lo tanto, no resulta posible aceptar que la acción constitucional constituya una nueva instancia para corregir una solicitud incompleta o subsanar sus defectos, ya que el procedimiento administrativo contempla con etapas idóneas para ello, como se constató respecto del actor.
+
+Por estas consideraciones y de conformidad con lo que dispone el artículo 20 de la Constitución Política de la República y el Auto Acordado de esta Corte sobre la materia, se confirma la sentencia apelada.
+
+Regístrese y devuélvase.
+
+Rol N° 37991- 2025.
+
+Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sr. Jean Pierre Matus A., Sra. María Soledad Melo L., Sr. Gonzalo Ruz L. y los Abogados Integrantes Sr. Juan Carlos Ferrada B. y Sr. José Miguel Valdivia O. Santiago, 05 de marzo de 2026.
+
+Autoriza el Ministro de Fe de la Excma. Corte Suprema.
+
+En Santiago, a cinco de marzo de dos mil veintiséis, notifiqué en Secretaría por el Estado Diario la resolución precedente.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Valparaíso
+Valparaíso, veintisiete de agosto de dos mil veinticinco.
+Vistos:
+
+Que, a folio 1 se recurrió de protección en favor de DADY SAINNE, contra el Servicio Nacional de Migraciones, por el acto ilegal y arbitrario cometido al dictar la Resolución Exenta N°25298654, de fecha 27 de mayo de 2025 que rechaza solicitud de permanencia definitiva y otorga visación de residencia temporaria, cual conculca su derecho de igualdad ante la ley establecido en los artículos 19 números 2 de la Constitución Política de la República.
+Señala que con el fin de radicarse en Chile y desenvolverse profesionalmente, presentó una solicitud de Residencia Definitiva la cual con fecha 05 de noviembre 2022.
+
+Que, mediante notificación por correo electrónico del Servicio Nacional de Migraciones el 20 de mayo de 2025 le comunicó que su solicitud de residencia sería rechazada en caso de no remitir antecedentes penales de su país de origen.
+
+Agrega que el 27 de mayo de 2025, fue notificada del rechazo de su solicitud de Residencia Definitiva, decisión que se fundó exclusivamente en la falta del certificado de antecedentes penales al momento de resolver, indica que ahora cuenta con el certificado original de antecedentes penales, cumpliendo así con los requisitos exigidos para acceder a la residencia definitiva. Es decir, el único impedimento que tuvo ha sido superado.
+
+Que, a folio 4 se evacúa el informe por el Servicio Nacional de Migraciones, solicitando el rechazo de la acción, señala que mediante Comunicación Electrónica de Notificación Previo Rechazo folio N°78968850 de fecha 20 de mayo de 2025, se indicó al extranjero, que se encontraba comprendido dentro de causal de rechazo, por no acompañar certificado de antecedentes penales del país de origen, y que contaba con un plazo de 10 días hábiles, contados desde notificación, para realizar los descargos respecto de la causal invocada, no cumpliendo con aquello en razón de lo cual emite la resolución exenta rechazando la solicitud, conforme las normas respectivas, señalando que no ha incurrido en un actuar ilegal o arbitrario.
+
+Que a folio 5, se traen los autos en relación.
+
+Con lo relacionado y considerando:
+
+Primero: Que, por la presente vía cautelar, se impugna la Resolución Exenta N°25298654 de fecha 27 de mayo de 2025 que rechazó la solicitud de residencia definitiva del recurrente, otorgándole una residencia temporal por el periodo de un año.
+Segundo: Que, el Servicio recurrido, señala que no ha actuado ilegal o arbitrariamente pues la resolución exenta alegada, fue dictada conforme a la normativa vigente, y que el rechazo se fundamenta en que la solicitante no acompañó en su oportunidad la documentación requerida consistente en el certificado de antecedentes penales del país de origen, requisitos para obtener la residencia definitiva.
+
+Tercero: Que, consta que el recurrido, al considerar que la solicitud se encontraba incompleta, concedió un plazo de 10 días para que el actor subsanara la falta, mediante comunicación electrónica folio N°78968850 de fecha 20 de mayo de 2025, lo que en definitiva no aconteció, dictándose la consecuente resolución exenta que por esta vía se impugna y que tuvo por desistida su solicitud.
+
+Cuarto: Que, de lo señalado precedentemente es posible concluir que la resolución impugnada fue dictada por autoridad competente, dentro del procedimiento establecido en la ley y se encuentra fundada, pues el actor no acompañó en su oportunidad el certificado de antecedentes penales requerido por el Servicio, de manera que no cabe calificarla de ilegal y arbitraria.
+
+Quinto: Que, a mayor abundamiento, no existe una situación grave o urgente que resolver por esta vía, ya que el actor goza de residencia temporal, sustitutiva de la orden de abandono conforme lo dispone el artículo 91 inciso 5° de la ley 21.325, y lo dispuesto en el Memorándum N°1886/2024 del 13 de mayo de 2024 de la Dirección Nacional del Servicio Nacional de Migraciones, de lo que se concluye que la estadía en el país del actor no se encuentra en riesgo.
+
+Y visto además lo dispuesto en los á artículos 19 y 20 de la Constitución Política de la República y en el Auto Acordado de la Excma. Corte Suprema sobre la materia, se rechaza, sin costas, el recurso de protección deducido en favor de DADY SAINNE contra el Servicio nacional de Migraciones.
+Regístrese, notifíquese, certifíquese una vez ejecutoriada, y en su oportunidad archívese.
+N°Protección-3208-2025.
+
+En Valparaíso, veintisiete de agosto de dos mil veinticinco, se notificó por el estado diario la resolución que antecede.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de ValparaísoValparaíso, veintisiete de agosto de dos mil veinticinco.Vistos:Que, a folio 1 se recurrió de protección en favor de DADY SAINNE, contra el Servicio Nacional de Migraciones, por el acto ilegal y arbitrario cometido al dictar la Resolución Exenta N°25298654, de fecha 27 de mayo de 2025 que rechaza solicitud de permanencia definitiva y otorga visación de residencia temporaria, cual conculca su derecho de igualdad ante la ley establecido en los artículos 19 números 2 de la Constitución Política de la República.Señala que con el fin de radicarse en Chile y desenvolverse profesionalmente, presentó una solicitud de Residencia Definitiva la cual con fecha 05 de noviembre 2022.Que, mediante notificación por correo electrónico del Servicio Nacional de Migraciones el 20 de mayo de 2025 le comunicó que su solicitud de residencia sería rechazada en caso de no remitir antecedentes penales de su país de origen.Agrega que el 27 de mayo de 2025, fue notificada del rechazo de su solicitud de Residencia Definitiva, decisión que se fundó exclusivamente en la falta del certificado de antecedentes penales al momento de resolver, indica que ahora cuenta con el certificado original de antecedentes penales, cumpliendo así con los requisitos exigidos para acceder a la residencia definitiva. Es decir, el único impedimento que tuvo ha sido superado.Que, a folio 4 se evacúa el informe por el Servicio Nacional de Migraciones, solicitando el rechazo de la acción, señala que mediante Comunicación Electrónica de Notificación Previo Rechazo folio N°78968850 de fecha 20 de mayo de 2025, se indicó al extranjero, que se encontraba comprendido dentro de causal de rechazo, por no acompañar certificado de antecedentes penales del país de origen, y que contaba con un plazo de 10 días hábiles, contados desde notificación, para realizar los descargos respecto de la causal invocada, no cumpliendo con aquello en razón de lo cual emite la resolución exenta rechazando la solicitud, conforme las normas respectivas, señalando que no ha incurrido en un actuar ilegal o arbitrario.Que a folio 5, se traen los autos en relación.Con lo relacionado y considerando:Primero: Que, por la presente vía cautelar, se impugna la Resolución Exenta N°25298654 de fecha 27 de mayo de 2025 que rechazó la solicitud de residencia definitiva del recurrente, otorgándole una residencia temporal por el periodo de un año. Segundo: Que, el Servicio recurrido, señala que no ha actuado ilegal o arbitrariamente pues la resolución exenta alegada, fue dictada conforme a la normativa vigente, y que el rechazo se fundamenta en que la solicitante no acompañó en su oportunidad la documentación requerida consistente en el certificado de antecedentes penales del país de origen, requisitos para obtener la residencia definitiva.Tercero: Que, consta que el recurrido, al considerar que la solicitud se encontraba incompleta, concedió un plazo de 10 días para que el actor subsanara la falta, mediante comunicación electrónica folio N°78968850 de fecha 20 de mayo de 2025, lo que en definitiva no aconteció, dictándose la consecuente resolución exenta que por esta vía se impugna y que tuvo por desistida su solicitud.Cuarto: Que, de lo señalado precedentemente es posible concluir que la resolución impugnada fue dictada por autoridad competente, dentro del procedimiento establecido en la ley y se encuentra fundada, pues el actor no acompañó en su oportunidad el certificado de antecedentes penales requerido por el Servicio, de manera que no cabe calificarla de ilegal y arbitraria.Quinto: Que, a mayor abundamiento, no existe una situación grave o urgente que resolver por esta vía, ya que el actor goza de residencia temporal, sustitutiva de la orden de abandono conforme lo dispone el artículo 91 inciso 5° de la ley 21.325, y lo dispuesto en el Memorándum N°1886/2024 del 13 de mayo de 2024 de la Dirección Nacional del Servicio Nacional de Migraciones, de lo que se concluye que la estadía en el país del actor no se encuentra en riesgo.Y visto además lo dispuesto en los á artículos 19 y 20 de la Constitución Política de la República y en el Auto Acordado de la Excma. Corte Suprema sobre la materia, se rechaza, sin costas, el recurso de protección deducido en favor de DADY SAINNE contra el Servicio nacional de Migraciones. Regístrese, notifíquese, certifíquese una vez ejecutoriada, y en su oportunidad archívese.N°Protección-3208-2025.En Valparaíso, veintisiete de agosto de dos mil veinticinco, se notificó por el estado diario la resolución que antecede.                        ⚠                      Sin documento en esta instancia - pdf

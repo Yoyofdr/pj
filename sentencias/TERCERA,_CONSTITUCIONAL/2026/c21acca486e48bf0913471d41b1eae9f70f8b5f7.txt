@@ -1,0 +1,50 @@
+METADATA
+
+case_id: c21acca486e48bf0913471d41b1eae9f70f8b5f7
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8050199
+
+rol: 157-2026
+
+fecha_sentencia: 2026-03-05
+
+caratulado: FLORES REBOLLEDO CRISTIAN WALTER/INMOBILIARIA LOS TRES RIOS SPA
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (PENAL) NULIDAD
+
+recurso: (PENAL) NULIDAD
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, cinco de marzo de dos mil veintiséis.
+Vistos:
+Se confirma la resolución apelada de fecha veinticuatro de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de San Miguel.
+Regístrese y devuélvase.
+
+Rol N° 150-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+CH (MVT)
+San Miguel, veinticuatro de diciembre de dos mil veinticinco.
+
+Resolviendo la acción de folio 1:
+
+Vistos y teniendo presente:
+
+Que el recurso de protección tiene por objeto restablecer el imperio del derecho cuando éste ha sido quebrantado por actos u omisiones arbitrarias o ilegales que amenazan, perturban o privan del ejercicio legítimo de alguna de las garantías taxativamente numeradas en el artículo 20 de la Constitución Política de la República, dejando a salvo las demás acciones legales.
+
+Que los hechos descritos en la presentación, en especial su petitorio, sobrepasan los márgenes del recurso de protección, toda vez que no existe un derecho indubitado susceptible de ser protegido a través de una acción estrictamente cautelar como es la incoada, debiendo el asunto ser resuelto, en su caso, ante la autoridad administrativa o jurisdiccional que sea competente.
+
+Por lo que conforme a lo dispuesto en el Nº 2 inciso segundo del Auto Acordado de la Excma. Corte Suprema sobre Tramitación del Recurso de Protección de Garantías Constitucionales, se declara inadmisible el recurso de protección, sin perjuicio de otros derechos.
+
+Archívese en su oportunidad.
+Rol N°4956-2025.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, cinco de marzo de dos mil veintiséis.Vistos:Se confirma la resolución apelada de fecha veinticuatro de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de San Miguel.Regístrese y devuélvase.Rol N° 150-2026. Santiago, cinco de marzo de dos mil veintiséis.Vistos:Se confirma la resolución apelada de fecha veinticuatro de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de San Miguel.Regístrese y devuélvase.Rol N° 150-2026. Sentencia anonimizada
