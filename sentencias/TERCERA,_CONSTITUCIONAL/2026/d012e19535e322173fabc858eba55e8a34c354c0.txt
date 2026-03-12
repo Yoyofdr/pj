@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Potestad sancionadora
 
-recurso: (FAMILIA) APELACIÓN DE AMPARO
+recurso: (CRIMEN) HECHO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

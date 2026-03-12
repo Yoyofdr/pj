@@ -4,92 +4,1841 @@ case_id: e5e50e35743cf1c09c8607dbc9ea545e2bc664bd
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047950
 
-rol: 40525-2025
+rol: 42811-2025
 
 fecha_sentencia: 2026-03-04
 
-caratulado: LINARES/NUEVA MASVIDA S.A
+caratulado: ARSEIL/SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Salud
+materias: (CRIMEN) HECHO
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CRIMEN) HECHO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
 Santiago, cuatro de marzo de dos mil veintiséis.
+Vistos y teniendo presente:
+Primero: Que, en estos autos ingreso Corte Rol Nº199-2025 caratulados “Fisco de Chile con Complejo Manufacturero de Equipos Telefónicos S.A.C.I.”, de conformidad con lo dispuesto en el artículo 782 del Código de Procedimiento Civil, se ha ordenado dar cuenta del recurso de casación en el fondo interpuesto por la demandada, en contra de la sentencia de la Corte de Apelaciones de Santiago, de fecha doce de noviembre de dos mil veinticuatro, que confirmó la de primer grado que, a su vez, acogió la demanda de cobro de pesos interpuesta.
+Segundo: Que el arbitrio anulatorio denuncia la infracción a los artículos 2494, 2503, 2514 y 2518 del Código Civil; 822 del Código de Comercio y 160 del Código de Procedimiento Civil, por cuanto asegura que la demanda deducida pretende el cobro de pesos proveniente del pago de la factura que sustenta la acción y no proviene de la transacción celebrada por las partes, por cuanto esta última sólo tuvo por objeto precaver futuros juicios de otros instrumentos no singularizados que pudieran surgir con posterioridad.
+En otras palabras, dado que la transacción no contempla pago de obligación alguna, se desprende que la acción deducida es la emanada de la factura. En consecuencia, entre la época de su emisión y hasta la notificación de la demanda – fecha de la interrupción civil – transcurrió el plazo de 5 años del artículo 2515 del Código Civil y la excepción de prescripción debió acogerse, ya sea por esta norma o por el artículo 822 del Código de Comercio, toda vez que la actora tiene la calidad de comerciante.
 
-Vistos:
-Se reproduce sólo la parte expositiva del fallo en alzada.
+Tercero: Que, además, alega la contravención de los artículos 2446 y 2462 del Código Civil, por cuanto se atribuyó a la transacción celebrada entre las partes un efecto que en realidad no tiene, considerando que en ella no se especificaron las facturas respecto de las cuales se pactaba un procedimiento de cobro como tampoco se estableció obligación alguna.
 
-Y se tiene, además, presente:
-Primero: Que se recurre de protección en favor de la parte recurrente, en contra de Isapre Nueva Masvida, impugnando el acto que se califica de ilegal y arbitrario consistente en denegar la cobertura de las prestaciones que indica, fundada en una supuesta preexistencia. Actuar que estimó, afecta las garantías constitucionales previstas en el artículo 19 de la Constitución Política de la República.
+Cuarto: Que, finalmente, refiere la vulneración del artículo 160 del Código Orgánico de Tribunales, por cuanto la sentencia no se ha dictado conforme al mérito del proceso.
 
-Segundo: Que por sentencia dictada por la Corte de Apelaciones rechazó la acción constitucional referida.
-Tercero: Que la parte recurrente dedujo recurso de apelación en contra de la sentencia referida en el considerando precedente, reiterando los argumentos señalados en su acción.
+Quinto: Que, según expresa, los yerros anteriores tuvieron influencia sustancial en lo dispositivo del fallo, en tanto llevaron a rechazar la excepción de prescripción opuesta, lo que permitió confirmar el fallo que acogió la demanda de cobro de pesos deducida.
+Sexto: Que los antecedentes dicen relación con la demanda ordinaria de cobro de pesos entablada por el Fisco de Chile en contra de Complejo Manufacturero de Equipos Telefónicos S.A.C.I. fundada en la factura emitida por un total de $39.281.754 por concepto de traslado de instalaciones y que se encontraría vinculada a un contrato de transacción celebrado entre las partes.
 
-Cuarto: Que el recurso de protección de garantías constitucionales establecido en el artículo 20 de la Constitución Política de la República, constituye jurídicamente una acción de evidente carácter cautelar, destinada a amparar el legítimo ejercicio de las garantías y derechos preexistentes que en la Carta Fundamental se contemplan, mediante la adopción de medidas de resguardo que se deben tomar ante un acto arbitrario o ilegal que impida, amague o perturbe ese ejercicio.
-Quinto: Que, en relación con el acto imputado, se tendrá presente, que, según consta de los antecedentes, se dictó sentencia por la Superintendencia de Salud, acogiendo el reclamo de la parte recurrente y ordenando otorgar la cobertura requerida.
-Sexto: Que, así las cosas, estimándose que los hechos de hechos de eventuales vulneraciones e incumplimientos cesaron, no existen actualmente medidas que esta Corte pueda adoptar, y por ello, la acción ha perdido oportunidad.
-Por estas consideraciones y de conformidad con lo que dispone el artículo 20 de la Constitución Política de la República y el Auto Acordado de esta Corte sobre la materia, se confirma la sentencia apelada.
+Séptimo: Que la demandada alegó la prescripción, en razón de lo dispuesto en el artículo 822 del Código de Comercio y 2514 del Código Civil, planteamiento que fue rechazado por la sentencia de primer grado, que estableció que, si bien el procedimiento de cobro de la factura tiene su sustento en el contrato de transacción, la acción deducida es una ordinaria declarativa de cobro de pesos, esto es, distinta e independiente de aquella derivada del cobro de dicha factura. A ello se suma que tampoco resulta aplicable el artículo 822 ya citado, el cual se refiere a contratos y obligaciones mercantiles y no al traslado de instalaciones, como es el caso.
+
+En cuanto al fondo, sin perjuicio del origen contractual de la acción de cobro de pesos, se destaca que la obligación tiene su origen en la ley, específicamente en el artículo 41 del Decreto con Fuerza de Ley N°850, del año 1997, del Ministerio de Obras Públicas y, encontrándose acreditado que se requirió el pago extrajudicial mediante oficio enviado por carta certificada el 16 de abril de 2020, corresponde el acogimiento de la demanda.
+
+Esta decisión fue confirmada por la Corte de Apelaciones de Santiago, añadiendo el fallo que la demandada dejó de cumplir lo pactado en la mencionada transacción, dejando al Fisco de Chile en condiciones de exigir el pago.
+
+Octavo: Que la recurrente centra sus esfuerzos argumentativos en afirmar que la demanda de cobro de pesos no tendría su fundamento en el contrato de transacción, puesto que este instrumento no contempló obligación alguna y, en consecuencia, debiera entenderse que el fundamento de la acción es la factura misma, emitida con fecha 26 de junio de 2015, lo cual trae consigo que la acción se encuentra prescrita.
+Noveno: Que, sin embargo, corresponde tener presente que, conforme lo dispone el inciso penúltimo del artículo 767 del Código de Procedimiento Civil, el recurso de casación en el fondo procede en contra de sentencias que se hayan pronunciado con infracción de ley, cuando esta vulneración haya influido substancialmente en lo dispositivo del fallo.
+
+Décimo: Que, dicho de otro modo, aun cuando fueran efectivos los yerros jurídicos que se denuncian en el recurso, ello no necesariamente trae consigo el acogimiento del arbitrio, por cuanto habría de concluirse que ellos no tienen influencia en lo dispositivo.
+
+En la especie, de coincidirse con la actora respecto a que la acción deducida emana directamente de la factura y no del contrato de transacción, lo cierto es que la sentencia es clara en situar el origen de la obligación directamente en la ley, específicamente en el artículo 41 del Decreto con Fuerza de Ley N°850, del año 1997, del Ministerio de Obras Públicas.
+
+Con lo anterior, encontrándose asentados como hechos de la causa que la transacción tantas veces mencionada se celebró el 27 de marzo de 2018 – una de cuyas cláusulas tuvo precisamente como objeto precaver eventuales litigios futuros relativos al cobro de facturas ya pagadas - mientras que el requerimiento extrajudicial de pago se verificó el 9 de marzo de 2020, fluye que la acción declarativa de cobro de pesos no se encuentra prescrita y así derivaría, igualmente, en el rechazo de la excepción y el consiguiente acogimiento de la demanda.
+Undécimo: Que, en consecuencia, el arbitrio no puede ser admitido a tramitación, puesto que los errores de derecho que se denuncian no tienen influencia en lo dispositivo de la sentencia impugnada.
+Duodécimo: Que, finalmente, esta Corte no puede dejar de mencionar que no es posible dilucidar algún vínculo entre el artículo 160 del Código Orgánico de Tribunales – precepto actualmente derogado – y un yerro jurídico que afecte a la sentencia impugnada.
+
+Con todo, si llegara a entenderse que la transgresión se alegó respecto del artículo 160 del Código de Procedimiento Civil, por tratarse ésta de una norma ordenatoria litis, tampoco resulta apta para sustentar la anulación del fallo, en los términos que se pretende.
+Por estas consideraciones, y de conformidad, además, con lo dispuesto en los artículos 764, 767 y 782 del Código de Procedimiento Civil, se declara inadmisible el recurso de casación en el fondo deducido en la presentación del veintinueve de noviembre del año dos mil veinticuatro, en contra de la sentencia del doce del mismo mes y año, dictada por la Corte de Apelaciones de Santiago.
+
 Regístrese y devuélvase.
-
-Rol Nº40.525 - 2025.
-
-Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sra. Adelita Ravanales A., Sr. Jean Pierre Matus A., Sr. Omar Astudillo C., Sr. Gonzalo Ruz L. y la Abogada Integrante Sra. María Angélica Benavides C. Santiago, 04 de marzo de 2026.
-
-Autoriza el Ministro de Fe de la Excma. Corte Suprema.
-
-En Santiago, a cuatro de marzo de dos mil veintiséis, notifiqué en Secretaría por el Estado Diario la resolución precedente.
+Redacción del Abogado Integrante señor Fuentes.
+Rol N°199-2025.
+Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los Ministros (as) Sr. Jean Pierre Matus A., Sra. María Soledad Melo L. y Sra. Mireya López M. y por los Abogados Integrantes Sr. Raúl Fuentes M. y Sra. Andrea Ruiz R.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
 C.A. de Santiago
-Santiago, uno de septiembre de dos mil veinticinco.
+Santiago, doce de noviembre de dos mil veinticuatro.
 
-Vistos y considerando:
-Primero: Que comparece doña Consuelo Muhe Morales, abogada, en favor de María de la Paz Linares Noguera, deduciendo recurso de protección contra Isapre Nueva Másvida S.A., por la negativa de cobertura al presupuesto N° 331340005143 para “recubrimiento conjuntival en OI” destinado a mejorar la tolerancia de prótesis ocular, acto fundado por la recurrida en supuesta preexistencia no declarada, lo que a su juicio implica una vulneración a sus garantías fundamentales consagradas en los artículos 19 N°1, 2, 9 y 24 de la Constitución Política de la República.
+VISTOS:
 
-Indica que la recurrente contrató el plan “Pleno Plan Plus (PPL24372) – Código 8624” en agosto de 2024, iniciando beneficios en octubre de 2024; que efectuó uso regular del plan; y que la Isapre rechazó la cobertura mediante comunicaciones de 24 de diciembre de 2024, 7 de abril de 2025, 8 de mayo de 2025 y 28 de mayo de 2025. La negativa se apoya en un certificado oftalmológico que menciona atresia de coanas y microftalmia.
+El abogado, Álvaro Enrique Opaso Barrientos, en representación de la demandada, en causa caratulada “Fisco de Chile con CMET S.A.C.I”, ROL Civil 31-2021, en juicio ordinario de hacienda, sobre cobro de pesos, interpuso recurso de casación en la forma en contra de la sentencia definitiva de fecha catorce de febrero de dos mil veintitrés, dictada por la Juez titular del 20° Juzgado Civil de esta ciudad, Sra. Gabriela Silva Herrera, por la que, acoge la demanda ordenando pagar al Fisco la cantidad de $39.281.754, más reajustes e intereses corrientes, con costas.
+Respecto de dicha sentencia, la empresa Complejo Manufacturero de Equipos Telefónicos S.A.C.I., en adelante CMET S.A., deduce recurso de casación en la forma y, en subsidio, recurso de apelación..
 
-Sostiene que su condición es congénita, por lo que no corresponde declararla como preexistencia; y que la Declaración Personal de Salud (DPS) se completó siguiendo indicación del ejecutivo Germán Rafael Flores Venegas, quien instruyó “No, no hay que registrar nada… Colóquenle que no a todo nomás”, configurándose justa causa de error.
+Contra la misma sentencia, en segunda instancia, opuso la excepción de transacción y prescripción.
 
-Destaca que el artículo 190 del DFL N° 1/2005 (MINSAL) define las condiciones de salud preexistentes como aquellas conocidas y diagnosticadas con anterioridad a la incorporación al contrato, de modo que sólo en ese supuesto podrían operar restricciones; agrega que el artículo 201 N° 1 del mismo DFL faculta a la isapre a negar coberturas o poner término al contrato si el afiliado falsea o no entrega fidedignamente la información en la Declaración de Salud, salvaguardando expresamente el caso de justa causa de error. Indica que, en la especie, concurre dicha justa causa, desde que la omisión reprochada obedeció a la instrucción del ejecutivo de ventas de no consignar la condición ocular, actuación que la recurrente siguió de buena fe y que impide imputarle un incumplimiento doloso o culposo de su deber de declarar.
+En estrados, el apoderado del recurrente, se desistió del recurso de apelación formulado en contra de la resolución de fecha treinta y uno de enero de dos mil veintidós -auto de prueba-, desistimiento que se tuvo por aprobado, Rol Corte N°Civil-11.409-2022.
 
-Señala que la patología que motiva el procedimiento solicitado es congénita, y que, por su naturaleza, no corresponde exigir su declaración como preexistencia. Alega, para sustentar lo anterior, la vigencia de la Circular IF N° 354 de la Superintendencia de Salud (18 de junio de 2020), que ordena eliminar de la Declaración Personal de Salud la exigencia de informar enfermedades o condiciones con que la persona nace, por su carácter discriminatorio, y cuya línea interpretativa ha sido confirmada por la Resolución Exenta IF N° 46 (3 de febrero de 2021). Refiere que dicho estándar se armoniza con el artículo 14 de las Condiciones Generales del Contrato de Salud Previsional, que reserva a la Declaración de Salud la fijación de restricciones y establece que la falta de esa declaración no invalida el contrato, pero presume de derecho que la isapre renunció a restringir coberturas o terminar la convención por una eventual omisión de preexistencias.
+CONSIDERANDO:
 
-Indica que, sobre esa base normativa, la decisión recurrida carece de sustento: si la condición es congénita y existió inducción a error por el canal comercial de la propia aseguradora, no se configura la hipótesis de preexistencia no declarada que autorice negar la cobertura, ni menos la posibilidad de afectar el goce de prestaciones ya incorporadas al patrimonio de la afiliada por virtud del contrato.
+I.- EN CUANTO A LAS EXCEPCIONES FORMULADAS EN SEGUNDA INSTANCIA, TRANSACCION Y COSA JUZGADA. Rol Corte N° 11.409-2022, a la que se acumuló la Rol Corte 4956-2023.
 
-Concluye señalando que la negativa de cobertura a la prestación presupuesto N° 331340005143 resulta ilegal por contravenir el DFL N° 1/2005, el artículo 14 de las Condiciones Generales y las instrucciones obligatorias de la autoridad de control (Circular IF N° 354 y Res. Exenta IF N° 46), y arbitraria por desatender los antecedentes clínicos y contractuales que excluyen la exigibilidad de declaración; añade que tal decisión priva y perturba el ejercicio de las garantías del artículo 19 N° 1, 2, 9 y 24 de la Constitución
+PRIMERO: La demandada Complejo Manufacturero de Equipos Telefónicos S.A.C.I., opuso ante esta Corte, las excepciones de transacción y cosa juzgada, solicitando que “sean acogidas, ambas o una de ellas, declarando que se revoca parcialmente la sentencia de primera instancia dictada en esta causa y que se rechaza, también, parcialmente, la demanda de autos, resolviendo, que respecto de la pretensión de la demandante, se encuentra únicamente obligada al pago de la suma equivalente al 20% del monto demandado, sin intereses ni reajustes, la que se pagará en 48 cuotas iguales y sucesivas equivalentes, cada una de ellas, al 0,52 por ciento del total demandado en el petitorio del libelo pretensor, devengadas a contar de la fecha que establece el Acuerdo de Reorganización de fecha 20 de diciembre de 2022, absolviéndose, asimismo, a la demandada, de la condena en costas impuesta. Todo ello con costas del recurso y/o del incidente respectivo, en caso de oposición de la contraria”.
 
-Solicita se acoja el recurso, y con ello se ordene a Isapre Nueva Másvida otorgar la cobertura íntegra del presupuesto N° 331340005143 para el recubrimiento conjuntival en OI, dejando sin efecto toda restricción por preexistencia, con costas.
+SEGUNDO: Refiere la demandada, CMET S.A.C.I., que en causa RIT C-1208-2022 del 7° Juzgado Civil de Santiago, se solicitó, por los acreedores su liquidación, en conformidad a las disposiciones de la ley 20.720.
 
-Segundo: Que informando al tenor del recurso comparece Ximena San Martín Saldías, abogada, en representación de Isapre Nueva Masvida S.A., solicitando el rechazo del recurso, con costas.
+Añade que solicitó acogerse al procedimiento de reorganización de empresa deudora, establecido en los artículos 54 y siguientes de la ley citada y que habiéndose aprobado por los acreedores, con fecha 20 de diciembre de 2022, el Acuerdo de Reorganización Concursal, por tener carácter de un equivalente jurisdiccional, conlleva, conforme lo previsto en el artículo 93 y 91 de la ley 20.720, que la acreencia cobrada en autos, -demanda del Fisco del año 2021-, por resultar anterior a la resolución de reorganización, deben sujetarse a tales disposiciones; es decir los créditos de autos se encuentran sujetos a los efectos del citado Acuerdo, siendo este el fundamento de sus excepciones.
 
-Expone que la recurrente es afiliada vigente desde octubre de 2024 al plan complementario PPL24372, y que al momento de su incorporación suscribió la Declaración de Salud N° 5000374231, en la cual negó patologías consultadas, incluida la relativa a enfermedad ocular.
+TERCERO: Las disposiciones citadas disponen:
 
-Señala que, pese a esa afirmación, constan antecedentes clínicos, consistentes en certificados del Dr. Juan Pablo Ramírez Krause de 17 de diciembre de 2024 y 10 de marzo de 2025, además de histórico de prestaciones de su anterior isapre Banmédica, que dan cuenta de uso de prótesis ocular y diagnósticos de atresia de coanas y microftalmia en el ojo izquierdo.
+Artículo 91.- “Efectos. El Acuerdo, debidamente aprobado, obliga al Deudor y a todos los acreedores de cada clase o categoría de éste, hayan o no concurrido a la Junta que lo acuerde”.
 
-Indica que la Contraloría Médica determinó que las prestaciones cotizadas mediante el presupuesto N° 331340005143 para “recubrimiento conjuntival en OI” guardan relación con patología preexistente no declarada, razón por la cual se cursaron comunicaciones de rechazo fundadas en la normativa aplicable y en los antecedentes médicos tenidos a la vista, sosteniendo que no existe acto ilegal ni arbitrario imputable a la isapre.
+Artículo 93.- “Efectos sobre los créditos. Los créditos que sean parte del Acuerdo de Reorganización Judicial se entenderán remitidos, novados o repactados, según corresponda, para todos los efectos legales”.
 
-Alega la improcedencia del recurso de protección por existir procedimiento especial ante la Superintendencia de Salud, regulado en el DFL N° 1/2005, arts. 117 y siguientes, en el que conoce el Intendente de Fondos y Seguros Previsionales de Salud como juez árbitro; agrega que el amparo constitucional es excepcional y de aplicación restringida, y que en la especie no se configuran los presupuestos del art. 20 de la Constitución.
+CUARTO: El Fisco, al evacuar el traslado, solicitó el rechazo de tales excepciones, señalando que la demandada confunde dos procedimientos, puesto que, por una parte, la discusión se desarrolla sobre un juicio ordinario, que debe terminar con una sentencia declarativa que luego de encontrase firme, pasa a un procedimiento ejecutivo y, por otro lado, se encuentra sometida al procedimiento concursal de reorganización, en otro tribunal, el que no tiene por finalidad resolver cuestiones declarativas que guarden relación con la cuantía y entidad de los créditos, sino que con la forma, plazos y proporción en que las acreencias serán satisfechas, atendiendo al tipo de crédito.
 
-Sostiene, en cuanto al fondo, que su decisión se ajusta al DFL N° 1/2005, art. 201 N° 1, esto es, la facultad de negar cobertura o poner término cuando el afiliado falsea o no entrega de manera fidedigna la información en la Declaración de Salud, salvo justa causa de error, en relación con los arts. 189 letra h) y 190 N° 6 del mismo cuerpo legal. Refiere que la propia DS advierte en su encabezado las consecuencias de no declarar una preexistencia —negación de cobertura hasta por 5 años y/o término del contrato—, destacando que la carga de declarar recae exclusivamente en el postulante y que la excusa relativa a un “ejecutivo” no sería atribuible a personal de Nueva Masvida.
+QUINTO: Es necesario precisar lo siguiente, que por lo demás no se encuentra controvertido:
 
-Manifiesta, frente a la tesis de enfermedad congénita no declarable, que la normativa reconoce una dispensa pero exige doble requisito: que la patología sea congénita y que el diagnóstico conste hasta el término del período neonatal (28 días), conforme al Compendio de Instrumentos Contractuales, Capítulo I, Título II, letra b; afirma que la actora no acompañó antecedente médico que fije ese diagnóstico
+1° El 27 de marzo de 2018 las partes de este juicio celebraron un contrato de transacción.
 
-Tercero: Que, el recurso de protección de garantías constitucionales establecido en el artículo 20 de la Constitución Política de la República, constituye jurídicamente una acción cautelar, destinadas a amparar el libre ejercicio de las garantías y derechos preexistentes, que en la misma disposición se enumeran, mediante la adopción de medidas de resguardo que se deben adoptar ante un acto arbitrario e ilegal que impida, amague a perturbe ese ejercicio.
-Cuarto: Que el acto recurrido es la negativa de la cobertura por parte de la isapre recurrida, fundado en la preexistencia conocida de una condición de salud de la actora al momento de suscribir su Declaración de Salud, la cual, según señala la recurrente no declaró ya que resulta ser una condición congénita y que, por ello, quien le vendió el plan de isapre le señaló que no requería ser declarada, por lo que no existe mala fe en su omisión.
-Quinto: Que, el Compendio de Instrumentos Contractuales, específicamente en Capítulo I, Título II, letra b —que corresponde a la Declaración de Salud del Contrato de Salud Previsional— de la Superintendencia de Salud, establece que las patologías congénitas no deben ser incluidas en la Declaración de Salud, ni pueden ser utilizadas por la isapre para limitar la cobertura o terminar el contrato, pues no se consideran preexistencias y, por tanto, no declarables.
-Sexto: Que, de acuerdo al mérito de los antecedentes, no se acreditó en autos de manera suficiente por parte de la recurrente que su condición sea de carácter congénito, por lo que a su respecto, con los antecedentes tenidos a la vista, no existe un derecho indubitado, por lo que no se observa ilegalidad ni arbitrariedad en el actuar de la recurrida, por lo que el arbitrio de marras no podrá prosperar.
-Por tales consideraciones y de acuerdo con lo dispuesto en el artículo 20 de la Constitución Política de la República y Auto Acordado de la Excma. Corte Suprema sobre Tramitación y Fallo del Recurso de protección, se resuelve, que se rechaza, sin costas, el recurso de protección interpuesto en favor de María de la Paz Linares Noguera, en contra de Isapre Nueva Másvida S.A.,
+2° El demandado, con posterioridad, se sometió al procedimiento concursal, previsto en la Ley 20.720.
 
-Regístrese, comuníquese y archívese en su oportunidad.
-N°Protección-14065-2025.
+3° El Acuerdo de Reorganización Concursal fue aprobado en los autos Rol C- 1208-2022 del 7° Juzgado Civil de Santiago, con fecha 20 de diciembre de 2022.
+
+4° En los antecedentes que se revisan se dictó sentencia el 14 de febrero del año 2023.
+
+5° El Ministerio de Obras Públicas, no tuvo injerencia alguna en la causa tramitada en 7° Juzgado Civil, no concurrió al Acuerdo y, tampoco hizo valer algun algún crédito.
+
+SEXTO: Es un hecho, que no admite discusión, que la sentencia de fecha 14 de febrero de 2023, tiene el carácter de declarativa, no constitutiva de derechos; es decir, el crédito del Fisco de Chile no tiene su causa en ella, ya que sólo declaró o reconoció derechos, pero no constituye los mismos.
+
+De modo que el Acuerdo de Reorganización Judicial, publicado en el Boletín Concursal, es anterior a la sentencia sometida al conocimiento de esta Corte, por lo que el crédito del Fisco se hará exigible una vez que esté firme y ejecutoriada, lo que aún no ha ocurrido, de lo que deriva que el crédito surgirá en esa fecha, es decir, mucho después de la aprobación del Acuerdo, por lo que debe concluirse que no resulta aplicable a la empresa demandante, debiendo desestimarse, en consecuencia, las excepciones opuestas por la demandada.
+
+SEPTIMO: Además, se debe tener presente el inciso primero del artículo 234 del Código de Procedimiento Civil, norma que exige que las excepciones se funden en hechos acaecidos con posterioridad a la sentencia de cuyo cumplimiento se trata, lo que en la especie, no ocurre, pues como ya se señalara, el Acuerdo de Reorganización Judicial se aprobó por el tribunal el 20 de diciembre de 2022 y, la sentencia del a quo es de fecha 14 de febrero de 2023, es decir con anterioridad al cumplimiento de la sentencia, por lo que no puede sino concluirse que no se cumplen los requisitos exigidos para deducir las excepciones referidas.
+
+OCTAVO: Es así que las excepciones opuestas aluden a circunstancias ocurridas con anterioridad al cumplimiento incidental de la sentencia de autos y si bien la normativa invocada contempla que el “Acuerdo” aprobado obliga a todos los acreedores y que los créditos que sean parte del Acuerdo de Reorganización Judicial se entenderán remitidos, novados o repactados, se debe considerar que el crédito del Fisco de Chile se hizo exigible en el momento en que la sentencia declaró un derecho, la que una vez firme o ejecutoriada podrá solicitarse su cumplimiento; con el Acuerdo de Reorganización pactado, los acreedores entienden renunciadas sus acciones ejecutivas.
+
+NOVENO: Para una mayor claridad, señalar, que existe en el proceso certificado extendido por el Secretario del el 7° Juzgado Civil de Santiago, dando cuenta que el Fisco de Chile no es parte en dichos antecedentes, -Rol C-1208-2022-, no concurrió al acuerdo de reorganización condicional y tampoco verificó créditos relacionados con esta causa.
+
+II.- EN CUANTO AL RECURSO DE CASACIÓN EN LA FORMA:
+
+DECIMO: El recurso de casación en la forma, se sustenta, en primer término, en la causal quinta del artículo 768 del Código de Procedimiento Civil, por haberse pronunciado la sentencia con omisión de los requisitos enumerados en el artículo 170 N° 4, del mismo cuerpo legal, por cuanto, según indica, el fallo no satisface la exigencia legal de contener todas las consideraciones de hecho y de derecho que deben de servir de fundamento a lo resuelto
+
+Al efecto, se señala que la causal invocada se configura porque la sentencia contiene “considerandos que no guardan armonía alguna, al punto que se contradicen, se anulan o destruyen entre sí, desproveyendo a la sentencia de motivación necesaria y precarizando su parte resolutiva, la cual estará erigida en una base inexistente, incompleta y, en todo caso, incomprensible”, remitiéndose a un análisis de los fundamentos que consigna.
+
+Añade, que también el fallo incurre en una manifiesta contradicción al no guardar correspondencia lógica alguna, el que se rechace una excepción de prescripción sobre una demanda notificada el 9 de agosto de 2021, mientras se asienta que el vencimiento de la obligación databa el 28 de octubre de 2015, vale decir, habiendo transcurrido latamente, cualquier plazo de prescripción extintiva.
+
+Solicita se invalide y anule la referida sentencia de primera instancia y, por cualquiera de las causales invocadas, acto continuo, dicte la correspondiente sentencia de reemplazo, por la cual, se declare que se acoge la excepción de prescripción opuesta, y, en cualquier caso, que se rechaza en todas sus partes la demanda interpuesta, estableciendo la correcta doctrina legal, con costas de la causa y del recurso.
+
+UNDECIMO: Se advierte de la lectura de la sentencia que no se configura la causal invocada. En efecto, el fallo, luego de particularizar la prueba rendida por ambas partes, procede a valorizar la documental y testimonial, luego establece los hechos de la causa, para posteriormente analizar los requisitos de procedencia de la acción entablada, concluyendo la existencia de la falta de pago de facturas que debió asumir el Fisco y se rechaza la excepción de prescripción. Por otra parte, es útil precisar, que en el motivo séptimo no se dice que se debe establecer un incumplimiento como lo asevera el recurrente, sino que se alude a su negativa de pagar, por su parte en el considerando duodécimo tiene su fundamento en el contrato de transacción, obligándose en caso de juicios futuros, a su vez, en el considerando décimo sexto, las facturas no podían especificarse, puesto que se precavió futuros juicios.
+
+DUOECIMO: En cuanto a la causal de nulidad prevista en el artículo 768 N° 7 del Código de Procedimiento Civil, esto es, “En contener decisiones contradictorias”. Se fundamenta esta causal en que resultan "contradictorias" las proposiciones de la sentenciadora en los párrafos de los considerandos indicados – séptimo, decimo, duodécimo - y parte resolutiva del fallo, ya que en uno afirma lo que niega la otra, no pudiendo ser al mismo tiempo verdaderas o falsas. De esta manera, si bien el fallo guarda la debida concordancia entre lo resolutivo y la petición concreta de la demandante no lo hace entre sus basamentos y entre éstos y lo resuelto en lo resolutivo del mismo, conteniendo decisiones opuestas.
+
+DECIMO TERCERO: La causal de contener una sentencia decisiones contradictorias se refiere a la hipotética situación de contemplar el mismo fallo impugnado dos decisiones que sean imposibles de cumplir porque una se opone a la otra. Esto es, que existan dos dictámenes o determinaciones que recíprocamente se destruyen, evento que no ocurre en la especie toda vez que existe un solo pronunciamiento en lo resolutivo del fallo en orden a acoger la acción deducida.
+
+III.- EN CUANTO AL RECURSO DE APELACIÓN:
+
+Se reproduce la sentencia en alzada.
+
+Y se tiene, además, presente:
+
+DECIMO CUARTO: Mediante el recurso de apelación la parte demanda, en su petitorio, pretende que se revoque la sentencia en referencia y en su lugar, se acoja la excepción de prescripción opuesta, o en subsidio, se rechace la demanda en todas sus partes y, en cualquier caso se le exima de las costas, con costas de la causa y el recurso.
+
+Se observa la discordancia que existe en los fundamentos del recurso y su petitorio.
+
+Para un mejor entendimiento, cabe recordar, que el Fisco de Chile, demandante, interpuso acción ordinaria de cobro de pesos en contra de CMET S.A.C.I., teniendo como motivo un eventual incumplimiento de la transacción suscrita entre las partes por escritura pública de 27 de marzo de 2018, otorgada en la Notaría de Santiago de don Francisco Javier Leiva Carvajal, en la cual el Fisco de Chile y CMET S.A.C.I., pusieron término a los juicios que se encontraban pendientes para el cobro, reintegro o reembolso de lo pagado por cambio de servicios en diferentes tribunales de la jurisdicción de Santiago en las condiciones que en ella se contienen.
+
+DECIMO QUINTO: En dicho instrumento público, Transacción, en su cláusula quinta se estipuló un Acuerdo para precaver juicios futuros de cobro por traslados anteriores documentados en facturas no individualizadas a dicha fecha y, en su cláusula séptima, sobre pago de costos de futuros traslados de instalaciones que, por circunstancias especiales, debiere asumir el Ministerio de Obras Públicas. De lo que se hizo cargo, detalladamente la sentenciadora.
+
+DECIMO SEXTO: Lo cierto es que CMET S.A.C.I. incumplió el contrato de transacción celebrado con el Fisco, al dejar de cumplir lo pactado en su cláusula quinta, ya que dejó transcurrir el plazo de 30 días hábiles acordado para verificar la realidad de la factura número 7011779 de fecha 22 de junio de 2015, su monto efectivamente pagado y contabilizado y que la acción de cobro no se encuentre prescrita al día de la expedición de la carta de requerimiento -16/4/20- e informar al Consejo de Defensa del Estado su conformidad o disconformidad. De modo que atento a la cláusula sexta de la transacción el Fisco se encontraba en condiciones de exigir el cumplimiento de lo pactado.
+
+DECIMO SEPTIMO: Consecuencia de lo razonado en primera instancia, se tiene que los argumentos del apoderado del recurrente, expuestas tanto en su escrito de apelación, como en las alegaciones efectuadas en estrados, no son suficientes para variar lo que viene decidido, razón por la cual dicho arbitrio será también desestimado.
+
+Por estas consideraciones, y visto además lo dispuesto en los artículos 186, 170, 768, y siguientes del Código de Procedimiento Civil, se declara:
+
+I.- Que se rechaza la excepción de transacción y cosa juzgada.
+
+II.- Que se rechaza el recurso de casación en la forma deducido por Complejo Manufacturero de Equipos Telefónicos S.A.C.I. en contra de la sentencia de fecha catorce de febrero de dos mil veintitrés.
+
+III.- Que se confirma en todas sus partes la referida sentencia.
+
+Regístrese y devuélvase.
+
+Redacción de la Ministra señora Barrientos Guerrero.
+
+N° Civil-11.409- 2022 (acumulada la Rol Corte N° 4.957-2023 y vista conjunta con Roles 4.844-2023 y 4.958-2023).
+
+No firma el Ministro señor Carreño Ortega, no obstante haber concurrido a la vista y al acuerdo del fallo, por estar haciendo uso del permiso del artículo 347 del Código Orgánico de Tribunales.
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------
-C.A. de SantiagoSantiago, uno de septiembre de dos mil veinticinco.Vistos y considerando:Primero: Que comparece doña Consuelo Muhe Morales, abogada, en favor de María de la Paz Linares Noguera, deduciendo recurso de protección contra Isapre Nueva Másvida S.A., por la negativa de cobertura al presupuesto N° 331340005143 para “recubrimiento conjuntival en OI” destinado a mejorar la tolerancia de prótesis ocular, acto fundado por la recurrida en supuesta preexistencia no declarada, lo que a su juicio implica una vulneración a sus garantías fundamentales consagradas en los artículos 19 N°1, 2, 9 y 24 de la Constitución Política de la República. Indica que la recurrente contrató el plan “Pleno Plan Plus (PPL24372) – Código 8624” en agosto de 2024, iniciando beneficios en octubre de 2024; que efectuó uso regular del plan; y que la Isapre rechazó la cobertura mediante comunicaciones de 24 de diciembre de 2024, 7 de abril de 2025, 8 de mayo de 2025 y 28 de mayo de 2025. La negativa se apoya en un certificado oftalmológico que menciona atresia de coanas y microftalmia. Sostiene que su condición es congénita, por lo que no corresponde declararla como preexistencia; y que la Declaración Personal de Salud (DPS) se completó siguiendo indicación del ejecutivo Germán Rafael Flores Venegas, quien instruyó “No, no hay que registrar nada… Colóquenle que no a todo nomás”, configurándose justa causa de error. Destaca que el artículo 190 del DFL N° 1/2005 (MINSAL) define las condiciones de salud preexistentes como aquellas conocidas y diagnosticadas con anterioridad a la incorporación al contrato, de modo que sólo en ese supuesto podrían operar restricciones; agrega que el artículo 201 N° 1 del mismo DFL faculta a la isapre a negar coberturas o poner término al contrato si el afiliado falsea o no entrega fidedignamente la información en la Declaración de Salud, salvaguardando expresamente el caso de justa causa de error. Indica que, en la especie, concurre dicha justa causa, desde que la omisión reprochada obedeció a la instrucción del ejecutivo de ventas de no consignar la condición ocular, actuación que la recurrente siguió de buena fe y que impide imputarle un incumplimiento doloso o culposo de su deber de declarar. Señala que la patología que motiva el procedimiento solicitado es congénita, y que, por su naturaleza, no corresponde exigir su declaración como preexistencia. Alega, para sustentar lo anterior, la vigencia de la Circular IF N° 354 de la Superintendencia de Salud (18 de junio de 2020), que ordena eliminar de la Declaración Personal de Salud la exigencia de informar enfermedades o condiciones con que la persona nace, por su carácter discriminatorio, y cuya línea interpretativa ha sido confirmada por la Resolución Exenta IF N° 46 (3 de febrero de 2021). Refiere que dicho estándar se armoniza con el artículo 14 de las Condiciones Generales del Contrato de Salud Previsional, que reserva a la Declaración de Salud la fijación de restricciones y establece que la falta de esa declaración no invalida el contrato, pero presume de derecho que la isapre renunció a restringir coberturas o terminar la convención por una eventual omisión de preexistencias. Indica que, sobre esa base normativa, la decisión recurrida carece de sustento: si la condición es congénita y existió inducción a error por el canal comercial de la propia aseguradora, no se configura la hipótesis de preexistencia no declarada que autorice negar la cobertura, ni menos la posibilidad de afectar el goce de prestaciones ya incorporadas al patrimonio de la afiliada por virtud del contrato.  Concluye señalando que la negativa de cobertura a la prestación presupuesto N° 331340005143 resulta ilegal por contravenir el DFL N° 1/2005, el artículo 14 de las Condiciones Generales y las instrucciones obligatorias de la autoridad de control (Circular IF N° 354 y Res. Exenta IF N° 46), y arbitraria por desatender los antecedentes clínicos y contractuales que excluyen la exigibilidad de declaración; añade que tal decisión priva y perturba el ejercicio de las garantías del artículo 19 N° 1, 2, 9 y 24 de la ConstituciónSolicita se acoja el recurso, y con ello se ordene a Isapre Nueva Másvida otorgar la cobertura íntegra del presupuesto N° 331340005143 para el recubrimiento conjuntival en OI, dejando sin efecto toda restricción por preexistencia, con costas.Segundo: Que informando al tenor del recurso comparece Ximena San Martín Saldías, abogada, en representación de Isapre Nueva Masvida S.A., solicitando el rechazo del recurso, con costas.Expone que la recurrente es afiliada vigente desde octubre de 2024 al plan complementario PPL24372, y que al momento de su incorporación suscribió la Declaración de Salud N° 5000374231, en la cual negó patologías consultadas, incluida la relativa a enfermedad ocular. Señala que, pese a esa afirmación, constan antecedentes clínicos, consistentes en certificados del Dr. Juan Pablo Ramírez Krause de 17 de diciembre de 2024 y 10 de marzo de 2025, además de histórico de prestaciones de su anterior isapre Banmédica, que dan cuenta de uso de prótesis ocular y diagnósticos de atresia de coanas y microftalmia en el ojo izquierdo. Indica que la Contraloría Médica determinó que las prestaciones cotizadas mediante el presupuesto N° 331340005143 para “recubrimiento conjuntival en OI” guardan relación con patología preexistente no declarada, razón por la cual se cursaron comunicaciones de rechazo fundadas en la normativa aplicable y en los antecedentes médicos tenidos a la vista, sosteniendo que no existe acto ilegal ni arbitrario imputable a la isapre.Alega la improcedencia del recurso de protección por existir procedimiento especial ante la Superintendencia de Salud, regulado en el DFL N° 1/2005, arts. 117 y siguientes, en el que conoce el Intendente de Fondos y Seguros Previsionales de Salud como juez árbitro; agrega que el amparo constitucional es excepcional y de aplicación restringida, y que en la especie no se configuran los presupuestos del art. 20 de la Constitución. Sostiene, en cuanto al fondo, que su decisión se ajusta al DFL N° 1/2005, art. 201 N° 1, esto es, la facultad de negar cobertura o poner término cuando el afiliado falsea o no entrega de manera fidedigna la información en la Declaración de Salud, salvo justa causa de error, en relación con los arts. 189 letra h) y 190 N° 6 del mismo cuerpo legal. Refiere que la propia DS advierte en su encabezado las consecuencias de no declarar una preexistencia —negación de cobertura hasta por 5 años y/o término del contrato—, destacando que la carga de declarar recae exclusivamente en el postulante y que la excusa relativa a un “ejecutivo” no sería atribuible a personal de Nueva Masvida. Manifiesta, frente a la tesis de enfermedad congénita no declarable, que la normativa reconoce una dispensa pero exige doble requisito: que la patología sea congénita y que el diagnóstico conste hasta el término del período neonatal (28 días), conforme al Compendio de Instrumentos Contractuales, Capítulo I, Título II, letra b; afirma que la actora no acompañó antecedente médico que fije ese diagnóstico Tercero: Que, el recurso de protección de garantías constitucionales establecido en el artículo 20 de la Constitución Política de la República, constituye jurídicamente una acción cautelar, destinadas a amparar el libre ejercicio de las garantías y derechos preexistentes, que en la misma disposición se enumeran, mediante la adopción de medidas de resguardo que se deben adoptar ante un acto arbitrario e ilegal que impida, amague a perturbe ese ejercicio.Cuarto: Que el acto recurrido es la negativa de la cobertura por parte de la isapre recurrida, fundado en la preexistencia conocida de una condición de salud de la actora al momento de suscribir su Declaración de Salud, la cual, según señala la recurrente no declaró ya que resulta ser una condición congénita y que, por ello, quien le vendió el plan de isapre le señaló que no requería ser declarada, por lo que no existe mala fe en su omisión.Quinto: Que, el Compendio de Instrumentos Contractuales, específicamente en Capítulo I, Título II, letra b —que corresponde a la Declaración de Salud del Contrato de Salud Previsional— de la Superintendencia de Salud, establece que las patologías congénitas no deben ser incluidas en la Declaración de Salud, ni pueden ser utilizadas por la isapre para limitar la cobertura o terminar el contrato, pues no se consideran preexistencias y, por tanto, no declarables.Sexto: Que, de acuerdo al mérito de los antecedentes, no se acreditó en autos de manera suficiente por parte de la recurrente que su condición sea de carácter congénito, por lo que a su respecto, con los antecedentes tenidos a la vista, no existe un derecho indubitado, por lo que no se observa ilegalidad ni arbitrariedad en el actuar de la recurrida, por lo que el arbitrio de marras no podrá prosperar.Por tales consideraciones y de acuerdo con lo dispuesto en el artículo 20 de la Constitución Política de la República y Auto Acordado de la Excma. Corte Suprema sobre Tramitación y Fallo del Recurso de protección, se resuelve, que se rechaza, sin costas, el recurso de protección interpuesto en favor de María de la Paz Linares Noguera, en contra de Isapre Nueva Másvida S.A.,Regístrese, comuníquese y archívese en su oportunidad.N°Protección-14065-2025.                        ⚠                      Sin documento en esta instancia - pdf
+NOMENCLATURA : 1. [40]Sentencia
+JUZGADO : 20º Juzgado Civil de Santiago
+CAUSA ROL : C-31-2021
+CARATULADO : FISCO DE CHILE / COMPLEJO MANUFACTURERO
+DE EQUIPOS TELEFÓNICOS S.A.C.I.
+
+Santiago, catorce de febrero de dos mil veintitrés.
+
+VISTOS:
+
+A folio 1, comparece Ruth Israel López, Abogado Procurador Fiscal de Santiago,
+
+del Consejo de Defensa del Estado, por el Fisco de Chile, ambos domiciliados en
+
+calle Agustinas Nº 1687, Santiago, quien viene en interponer demanda juicio
+
+ordinario de hacienda de cobro de pesos, en contra de Complejo Manufacturero
+
+de Equipos Telefónicos S.A.C.I., en adelante CMET S.A.C.I., del giro de servicios
+
+de telecomunicaciones, representada por Maureen Barra Yates, cuya profesión
+
+ignora, ambos con domicilio en avenida Walker Martínez N°911, comuna de La
+
+Florida, en atención a los fundamentos de hecho y de derecho que expone en su
+
+demanda.
+
+A folio 21, mediante exhorto diligenciado vía interconexión, se notificó a la
+
+demandada de conformidad al artículo 44 del Código de Procedimiento Civil.
+
+A folio 32, se contestó la demanda.
+
+A folio 34, se evacúo la réplica.
+
+A folio 36, se evacúo la dúplica únicamente remitiéndose a lo expresado en la
+
+contestación de la demanda, dándolos por reproducidos.
+
+A folio 40, se recibió la causa a prueba fijándose los hechos controvertidos que
+
+rolan en autos.
+
+A folio 52, se citó a las partes a oír sentencia.
+
+CONSIDERANDO:
+
+PRIMERO. Que, parte demandante relata, que por razones de interés público y
+
+urgencia, mediante Resolución Exenta DGOP Nº 4324, del 22 de noviembre de
+
+2012, el Ministerio de Obras Públicas, mandató a la Sociedad Concesionaria
+
+Costanera Norte S.A., para que, a su nombre, procediera a elaborar, desarrollar,
+
+tramitar y ejecutar los estudios, gestiones y obras de la “Etapa 1 Programa Plan de
+
+mejoramiento del Contrato de Concesión”, compuestas por las “Obras Etapa 1
+
+Programa SCO”, y los “Cambios de Servicios Etapa 2 Obras Programa SCO”.
+
+Código: EPDWXDTRZPT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+En relación con las obras de Cambios de Servicios necesarias para ejecución del
+
+Programa SCO, estas fueron descritas en el ORD. Nº 721/2012, emitido por el
+
+Inspector Fiscal de Explotación, Concesión Internacional Sistema Oriente –
+
+Poniente, el 30 de julio de 2012, lo que forma parte de la Resolución DGOP Nº
+
+4324; y complementadas en el ORD N° 1509 de fecha 28 de diciembre de 2015,
+
+referente al pronunciamiento sobre actualización de los Cambios de servicios de
+
+esta Etapa 2, son referidas a los siguientes sectores:
+
+- Modificación Lo Saldes – Rotonda Pérez Zújovic
+
+- Túnel Vespucio - Kennedy (Modificación de servicios)
+
+- Obras de Mejoramiento sector Lo Saldes - Costanera Sur (Modificación de
+
+servicios)
+
+Señala que en el sector enmarcado por las avenidas Andrés Bello, Vitacura y
+
+Riesco, en el que se destaca la presencia de la Subestación Vitacura de Chilectra,
+
+el proyecto de Mejoramiento de Costanera Norte, Etapa 2, según el ORD. 721, del
+
+30 de julio de 2012, denominado Lo Saldes – Costanera Sur, previó obras de
+
+Cambios de Servicios para el traslado de redes de las Empresas de Telefonía,
+
+ubicadas en el sector, entre las que se encuentran: ENTEL, VTR GLOBAL COM
+
+S.A., MOVISTAR S.A. y CMET. Además, se previó la construcción de un Poliducto
+
+necesario para albergar las diferentes redes de las Empresas de Telefonía
+
+mencionadas, incluyendo la modificación de ciertas cámaras de estas empresas
+
+telefónicas.
+
+Refiere que, en atención a que la sociedad demandada no hiciera el traslado de
+
+las instalaciones, y en vista de la urgencia de la obra vial, se le solicitó un
+
+presupuesto de las obras por el cambio de las instalaciones que interferían con el
+
+trazado del proyecto, en atención a que, por tratarse de instalaciones de propiedad
+
+de la demandada, ella estaba en condiciones especialmente favorables para
+
+efectuar dicho trabajo.
+
+Para estos efectos, indica que la empresa CMET S.A.C.I. presentó un
+
+presupuesto, correspondiente al traslado de sus redes al Poliducto, mediante carta
+
+CMET S/N° de fecha 27 de mayo de 2015, dirigida al Sr. Mirko Ivanovic W.,
+
+Inspector Fiscal de Explotación de Autopista Costanera Norte, por un valor de UF
+
+1322, sin incluir el IVA. Presupuesto correspondiente a la Obra Fiscal: Proyecto
+
+traslado provisorio y definitivo de redes de CMET, sector Andrés Bello- Rotonda
+
+Pérez Zujovic, lo que dio origen a la emisión de la orden de compra
+
+N°4500034423.
+
+Código: EPDWXDTRZPT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Señala que el presupuesto de las obras fue enviado por la demandada mediante
+
+carta S/N de fecha 27 de mayo de 2015 dirigida al Inspector Fiscal de Explotación
+
+de la Sociedad Concesionaria Costanera Norte, con el detalle del trabajo a
+
+ejecutar. Indica que el presupuesto se desglosa conforme el documento que
+
+adjuntó a su demanda.
+
+Explica que, en vista de la necesidad de trasladar las instalaciones para poder
+
+ejecutar la obra pública antes singularizada, se aceptó el presupuesto y,
+
+efectuados los trabajos, se procedió a efectuar su pago. De ello da cuenta la orden
+
+de compra N° 4500034423 de fecha 16 de mayo de 2015 de la empresa
+
+Concesionaria Costanera Norte S.A. a la empresa CMET S.A.C.I. por un total de
+
+1573,1800 IVA incluido y la factura electrónica de la demandada N°7011779, por
+
+$39.281.754 de fecha 22 de junio de 2015 y pagada el 9 de julio de 2015.
+
+Las nuevas inversiones, gastos y costos asociados a las obras comprendidas en
+
+la Etapa 1 y 2 del Programa Santiago Centro se contabilizaron a través de la
+
+“Cuenta de Inversión y Compensación Convenio Ad- Referéndum N°2” aprobado
+
+mediante Decreto Supremo MOP N°318.
+
+En particular, detalla que el monto de inversión señalado en la cláusula 3°,
+
+numeral 3.1.6 del Convenio Ad-Referéndum N°2, por concepto de Cambios de
+
+Servicios y Modificaciones de canales de las “Obras Etapa 1 y 2 del Programa
+
+Santiago Centro (DGOP 4324/2012), que fueron necesario efectuar, serían
+
+reconocidas por parte del MOP en función de valores proforma que resulten de los
+
+desembolsos que efectivamente efectúe la Sociedad Concesionaria y que sean
+
+acreditados al Inspector Fiscal y validados por éste último, conforme a lo señalado
+
+en la Sección 1.1.3 del Decreto Supremo MOP N°369.
+
+Por lo anterior, el detalle de todas las inversiones, gastos y costos por concepto de
+
+Cambios de Servicios fueron presentados mensualmente al Inspector Fiscal
+
+mediante el “Informe de Costos, Gastos y Desembolsos” - Anexo Certificación DS
+
+N°369, siendo aprobados mediante Oficio por esa Inspección Fiscal.
+
+Prosigue relatando que mediante escritura púbica de 27 de marzo de 2018,
+
+otorgada en la notaría de Santiago de don Francisco Javier Leiva Carvajal, el
+
+Fisco de Chile y CMET S.A.C.I., celebraron una transacción por la cual pusieron
+
+término a los juicios que se encontraban pendientes para el cobro, reintegro o
+
+reembolso de lo pagado por cambio de servicios en diferentes tribunales de la
+
+jurisdicción de Santiago.
+
+Código: EPDWXDTRZPT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+En dicho instrumento público, en su cláusula quinta y séptima respecto de cobro
+
+de traslados anteriores, documentados en facturas no individualizadas a la fecha
+
+de la transacción, se estipuló lo siguiente:
+
+“QUINTO: ACUERDO PARA PRECAVER JUICIOS FUTUROS DE COBRO POR
+
+TRASLADOS ANTERIORES DOCUMENTADOS EN FACTURAS NO
+
+INDIVIDUALIZADAS A ESTA FECHA: En el caso de otros costos de traslado e
+
+instalaciones de la empresa CMET S.A.C.I. soportados por el FISCO DE CHILE
+
+pendientes de cobro, esto es, aún no demandados pero debidamente justificados
+
+mediante facturas o pagos efectuados a CMET S.A.C.I. con anterioridad a la
+
+suscripción de este instrumento y originados en traslados de redes regidos por el
+
+Artículo cuarenta y uno inciso final del Decreto con Fuerza de Ley número
+
+ochocientos cincuenta/mil novecientos noventa y siete, las partes acuerdan que
+
+CMET S.A.C.I. procederá a su pago aplicando la misma fórmula de cálculo
+
+indicada en la cláusula Cuarta del presente instrumento. Bastará para ello que el
+
+Fisco requiera a CMET S.A.C.I. extrajudicialmente dicho pago mediante carta
+
+certificada remitida a su domicilio adjuntando los antecedentes que le permitan
+
+verificar, dentro de un plazo máximo de treinta días hábiles, la realidad de las
+
+facturas, su monto efectivamente pagado y contabilizado y que la correspondiente
+
+acción de cobro no se encontraba prescrita al día de la expedición de la carta de
+
+requerimiento. Verificado ello, CMET S.A.C.I. procederá a su pago dentro de un
+
+término máximo de treinta días hábiles contados desde que CMET S.A.C.I.
+
+comunique al Fisco la verificación y aceptación del requerimiento extrajudicial de
+
+cobro. El acuerdo de cancelación de dicho pago se tendrá como parte integrante
+
+de esta transacción y deberá documentarse en instrumento privado que se tendrá
+
+como anexo al presente instrumento. En caso de discrepancia o frente al silencio
+
+de CMET S.A.C.I. al requerimiento de pago dentro de los plazos señalados,
+
+quedará a salvo al CONSEJO DE DEFENSA DEL ESTADO, en representación
+
+del FISCO, de iniciar directamente la demanda de cobro respectiva por el valor
+
+facturado, renunciando CMET S.A.C.I. a plantear cuestiones jurídicas sobre
+
+interpretación o aplicación del Artículo cuarenta y uno inciso final del Decreto con
+
+Fuerza de Ley número ochocientos cincuenta/mil novecientos noventa y siete,
+
+resueltas por sentencias firmes y ejecutoriadas por la Excma. Corte Suprema, y a
+
+alegar la excepción de prescripción si el requerimiento extrajudicial hubiere sido
+
+expedido dentro de los cinco años siguientes a la fecha de pago de las
+
+respectivas facturas.
+
+SEPTIMO: ACUERDO SOBRE PAGO DE COSTOS DE FUTUROS TRASLADOS
+
+DE INSTALACIONES QUE, POR CIRCUNSTANCIAS ESPECIALES, DEBIERE
+
+Código: EPDWXDTRZPT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+ASUMIR EL MINISTERIO DE OBRAS PÚBLICAS: En el evento que el
+
+MINISTERIO DE OBRAS PÚBLICAS, por sí, o sus organismos o a través de la
+
+concesionaria vial encargada de la construcción de la obra pública, optare por
+
+efectuar el pago directo a la empresa CMET S.A.C.I,, para que ella o un tercero
+
+por cuenta suya ejecute los trabajos con cargo a fondos fiscales para financiar el
+
+gasto de traslado de dichas redes, en razón de la urgencia en la ejecución de la
+
+obra pública o por circunstancias presupuestarias que impidan asumirlo de
+
+inmediato por la empresa de servicios, para los efectos del reintegro total de los
+
+valores fiscales invertidos se aplicará el procedimiento de requerimiento
+
+extrajudicial señalado en la cláusula Quinta para el pago total de lo suministrado
+
+por el FISCO a CMET S.A.C.I., y si tal pago no se efectuare y debiere
+
+demandarse judicialmente el costo total soportado, la defensa de CMET S.A.C.I.
+
+estará sujeta a las limitaciones indicadas en la cláusula quinta, parte final. Del
+
+mismo modo se procederá en las situaciones a que se refiere la cláusula Sexta
+
+del presente contrato.”
+
+Advierte, que en atención a lo pactado en la transacción y en cumplimiento a lo
+
+estipulado en las cláusulas referidas, se envió por la Abogada Procuradora Fiscal
+
+de Santiago del Consejo de Defensa del Estado, oficio N° 1623, de 9 de abril de
+
+2020 a la demandada requiriéndole el pago de la factura citada. Dicho oficio fue
+
+despachado por carta certificada con fecha 16 de abril de 2020.
+
+Asegura que habiendo transcurrido con creces el plazo de 30 días hábiles para
+
+que CMET S.A.C.I. verificara la realidad de la factura, su monto efectivamente
+
+pagado y contabilizado y que la acción no se encuentra prescrita a la fecha de la
+
+expedición del requerimiento, ante el silencio de la deudora, deduce esta demanda
+
+de cobro de pesos en su contra por la suma de $39.281.754 (IVA incluido), más
+
+reajuste de acuerdo a la variación experimentada por el Índice de Precios al
+
+Consumidor a partir de la fecha de pago, vale decir, 9 de julio de 2015 y hasta la
+
+fecha de su pago efectivo, más intereses corrientes para operaciones reajustables
+
+a partir de la mora.
+
+Respecto al Derecho, cita el artículo 1545 del Código Civil dispone la
+
+obligatoriedad de dar cumplimiento a los contratos en los términos convenidos, de
+
+acuerdo al principio básico que todo contrato es una ley para los contratantes, no
+
+pudiendo ser invalidado o modificado sino por consentimiento mutuo de las partes
+
+o por causas legales.
+
+Indica que CMET S.A.C.I. ha incumplido el contrato de transacción celebrado con
+
+el Fisco, dejando de cumplir lo pactado en cláusula quinta. En efecto, dejó
+
+Código: EPDWXDTRZPT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+transcurrir el plazo de 30 días hábiles acordado para verificar la realidad de la
+
+factura N° 7011779, su monto efectivamente pagado y contabilizado y que la
+
+acción de cobro no se encuentre prescrita al día de la expedición de la carta de
+
+requerimiento (16-04-2020) e informar al Consejo de Defensa del Estado su
+
+conformidad o disconformidad.
+
+Agrega que ante el silencio de CMET S.A.C.I., la evidencia del incumplimiento de
+
+un contrato bilateral y tal como se pactó en cláusula sexta, en conformidad al
+
+artículo1545 del Código Civil y en relación con el artículo1489 del mismo cuerpo
+
+normativo, el Fisco tiene derecho a exigir el cumplimiento de lo pactado,
+
+interponiendo al efecto la demanda de cobro respectiva.
+
+Reitera que en cláusula quinta de dicho contrato, también se convino que CMET
+
+S.A.C.I. renunciaba en caso de judicializar un cobro, a plantear cuestiones
+
+jurídicas sobre interpretación o a aplicación del inciso final del artículo 41 del DFL
+
+850/97 del MOP y a alegar la excepción de prescripción si el requerimiento
+
+extrajudicial hubiere sido expedido dentro de los cinco años siguientes a la fecha
+
+de pago de la respectiva factura, como ocurrió en el presente caso.
+
+Solicita en definitiva acoger la demanda deducida, condenado a la demandada al
+
+pago de la suma ascendente a $39.281.754, más reajuste de acuerdo a la
+
+variación experimentada por el Índice de Precios al Consumidor a partir de la
+
+fecha del pago, vale decir, 9 de julio de 2015 y hasta la fecha de su pago efectivo,
+
+más intereses corrientes para operaciones reajustables, a partir de la mora, con
+
+costas.
+
+SEGUNDO. Que, contestando la demanda, la demandada solicita desde ya su
+
+rechazo en todas sus partes, con expresa condena en costas, de acuerdo a los
+
+antecedentes de hecho y fundamentos de derecho que expone a continuación:
+
+En primer lugar, hace un resumen de los fundamentos planteados por la
+
+demandante, señalando que se deduce acción de cobro de pesos en contra de su
+
+representada, a motivo de un eventual incumplimiento de la transacción suscrita
+
+entre las partes por escritura púbica de 27 de marzo de 2018, otorgada en la
+
+notaría de Santiago de don Francisco Javier Leiva Carvajal, en la cual el Fisco de
+
+Chile y CMET S.A.C.I., en la cual celebraron una transacción por la cual pusieron
+
+término a los juicios que se encontraban pendientes para el cobro, reintegro o
+
+reembolso de lo pagado por cambio de servicios en diferentes tribunales de la
+
+jurisdicción de Santiago, la cual cita en sus cláusulas quinta y séptima; resume lo
+
+Código: EPDWXDTRZPT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+planteado por la actora en la demanda y concluye que se entabla en su contra
+
+demanda de cobro de pesos en su contra por la suma de $39.281.754 (IVA
+
+incluido), más reajuste de acuerdo a la variación experimentada por el Índice de
+
+Precios al Consumidor a partir de la fecha de pago, vale decir, 9 de julio de 2015 y
+
+hasta la fecha de su pago efectivo, más intereses corrientes para operaciones
+
+reajustables a partir de la mora.
+
+En segundo lugar y contestando derechamente la demanda su parte niega los
+
+hechos de la forma planteada en la demanda, no así de la existencia de la
+
+transacción celebrada entre las partes por escritura púbica de 27 de marzo de
+
+2018, respecto de la cual, como se dirá más adelante, la demandante no solicita la
+
+declaración previa de su resolución o incumplimiento, requisito esencial previo
+
+para que prospere su petición principal.
+
+Por lo anterior, indica lo siguiente:
+
+a) Que no es efectivo que el Fisco de Chile pagó a su representada suma alguna
+
+por concepto de traslado e instalaciones o “cambio de servicios”, conforme lo
+
+señalara en su libelo. Así las cosas, la factura que la demandante aquí intenta
+
+cobrar, prescrita por lo demás, no se halla en los supuestos de la cláusula quinta
+
+de la transacción de marras, conforme lo señalado por esta, en lo pertinente que:
+
+“En el caso de otros costos de traslado e instalaciones de la empresa CMET
+
+S.A.C.I. soportados por el Fisco de Chile pendientes de cobro…”.
+
+b) Aun así, que tampoco es efectivo que la factura N° 7011779, consigne una
+
+obligación nacida a partir de traslados de redes regidos por el Artículo cuarenta y
+
+uno inciso final del Decreto con Fuerza de Ley número ochocientos cincuenta/mil
+
+novecientos noventa y siete. Más aún, a simple vista, sería una factura que cuya
+
+obligación subyacente se encuentra prescrita.
+
+c) Conforme lo dicho, tampoco es efectivo que el Fisco de Chile requirió de
+
+manera extrajudicial el pago de la factura en cuestión, la cual, tal como se señaló,
+
+no le afecta. Así también, no le consta a su parte la recepción de dicho
+
+requerimiento, principalmente por cuanto, tal como se dijo, no aconteció en los
+
+hechos, por lo que malamente puede haber empezado a correr alguno de los
+
+plazos que dispone la tantas veces citada cláusula quinta de la transacción, no
+
+procediendo, entonces, a la luz del propio contrato, que el Fisco de Chile esté
+
+solicitando el cobro de manera judicial.
+
+Código: EPDWXDTRZPT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+A continuación, expone que del análisis de la demanda de autos, salta a la vista la
+
+falta de claridad en la exposición de los fundamentos de hecho y de derecho y,
+
+sobre todo, falta de congruencia de estos con lo solicitado en el petitorio. Así las
+
+cosas, la demanda, en la forma planteada, debe rechazarse.
+
+Hace presente que la demanda, tal como fidedignamente se resumió, intenta
+
+afincar su pretensión de cobro de la suma de $39.281.754.-, con antecedente en
+
+la transacción celebrado entre las partes por escritura púbica de 27 de marzo de
+
+2018. Sobre esto, no es posible determinar, aún con un repaso minucioso de las
+
+cláusulas que tantas veces cita la demandante, la relación entre dicha suma de
+
+dinero solicitada con la transacción, primeramente, debido a que dicho
+
+instrumento, de manera inexplicable, no precisa las facturas que supuestamente
+
+pagó el Fisco de Chile y, en segundo lugar, por cuanto la cláusula quinta de la
+
+mentada transacción dispone obligaciones de diversa naturaleza a la del cobro de
+
+sumas de dinero (ej. “obligación” de no alegar la prescripción si es que se procede
+
+al cobro judicial), debiendo recordarse que dicha transacción no contempla una
+
+novación de obligaciones ni expresa ni tácita. De manera más simple, el cobro de
+
+la factura, nace de la factura, y no de la transacción. Dicho esto, señala que es
+
+improcedente que, con motivo del incumplimiento de la transacción, como lo
+
+estructura de manera inamovible la demandante, se solicite el cobro de una
+
+factura.
+
+Seguidamente, argumenta que el petitorio de la demanda derechamente solicita
+
+que se condene a su parte al pago de determinadas sumas de dinero, cuyo título
+
+jurídico es sino una factura cuya obligación subyacente está prescrita y no la
+
+transacción en cuestión, sin solicitar, aún bajo su confundido análisis, la
+
+declaración de incumplimiento respecto de la mentada transacción, motivo por el
+
+cual la demanda debe ser rechazada por un defecto insalvable y que solicita se
+
+tenga presente para dictar la sentencia definitiva.
+
+Expone que la Excma. Corte Suprema, en sentencia de 22 de septiembre de
+
+2008, recoge entre sus argumentos la misma interpretación literal del artículo
+
+1489 del Código Civil, que la propia demandante invoca, así como también
+
+respecto la aplicación del estatuto mercantil y de la Convención de Viena, pero
+
+además agrega, en su considerando séptimo, que:
+
+“Si la obligación es de hacer o no hacer y el deudor se halla constituido en mora,
+
+puede el acreedor, prescindiendo del cumplimiento de la obligación, solicitar la
+
+indemnización compensatoria, a la vez que la moratoria. El artículo 1553 del
+
+Código: EPDWXDTRZPT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Código Civil faculta expresamente al acreedor para pedir dicha indemnización
+
+compensatoria en lugar de la prestación de hacer a que el deudor estaba
+
+obligado; y en las obligaciones de no hacer, el artículo 1555 del mismo Código
+
+establece que se transforma en la de indemnizar perjuicios si el deudor
+
+contraviene. En cambio, si la obligación que se dice no cumplida es de dar, cuyo
+
+es el caso de autos, el acreedor no puede pedir la indemnización compensatoria,
+
+sino cuando el cumplimiento directo del contrato se ha hecho imposible por la
+
+pérdida de la cosa debida, cuestión que, como se dejó establecido en los
+
+fundamentos precedentes de esta sentencia, no ha ocurrido, por tratarse de una
+
+obligación de género”.
+
+De esta manera, señala que Excelentísima Corte Suprema establece que sólo
+
+tratándose de una obligación de dar la indemnización por incumplimiento sería
+
+accesoria o dependiente de los otros remedios. Añade que en el mismo sentido, el
+
+Primer Juzgado Civil de Valparaíso conociendo de una acción indemnizatoria
+
+deducida por los compradores en un contrato de compraventa de inmueble, en
+
+contra del vendedor, pues en una fecha previamente estipulada en la respectiva
+
+escritura pública, éste no hizo la entrega material del bien raíz objeto del contrato.
+
+Sin embargo, el actor de este juicio optó primeramente por ejercer una acción
+
+ejecutiva por obligación de hacer ante el Segundo Juzgado Civil de Valparaíso, rol
+
+1409-2005, en virtud de la cual obtiene la entrega solicitada. Producto de ello, el
+
+juez titular del Primer Juzgado Civil de Valparaíso señala que tal actuación
+
+“implicó una renuncia al ejercicio de la acción que ahora deduce al amparo de la
+
+norma contenida en el artículo 1489 de Código Civil”, pero además, señala en su
+
+considerando décimo noveno que “si la parte demandante se ha limitado a cobrar
+
+perjuicios, sin pedir previamente la resolución o el cumplimiento del contrato, se
+
+estaría desatendiendo lo preceptuado en el referido artículo 1489 de Código Civil,
+
+que como fundamento citan los actores”, por lo que desestima la demanda.
+
+Agrega que el citado caso fue confirmado por el tribunal ad quem, señalando -al
+
+efecto- que de la demanda entablada se desprende que el actor funda su
+
+demanda en el artículo 1489 del Código Civil y que de su simple lectura:
+
+“Se puede colegir que lo que el legislador ha establecido es una acción especial,
+
+regida por las reglas del juicio ordinario en que el acreedor puede pedir a su
+
+arbitrio el cumplimiento forzado o la resolución del contrato, ambas con
+
+indemnización de perjuicios, y como bien razona el juez del grado, una es el
+
+antecedente jurídico de la otra”.
+
+Y agrega, en su considerando sexto, que: “…la pretensión del actor ha de
+
+rechazarse, dado que como ya latamente se expuso, no es procedente intentar
+
+Código: EPDWXDTRZPT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+una acción indemnizatoria en virtud del artículo 1489 del Código Civil, aislada de
+
+su antecedente jurídico que la sustente, ya que ello contraviene los principios de
+
+la buena fe, equidad y economía procesal e incluso puede entenderse como una
+
+especie de abuso del derecho, al tratar de interpretar una norma en forma
+
+completamente distinta al espíritu de ella, en pos de darle una más favorable”.
+
+En ese orden de ideas, insiste que un lectura adecuada del artículo 1489 del
+
+Código Civil dice necesariamente que el incumplimiento sería el fundamento o
+
+antecedente jurídico de la resolución y del cumplimiento forzado y éstos, a su vez,
+
+la causa o motivo de la indemnización de perjuicios, en este caso del cobro de
+
+pesos a motivo del eventual incumplimiento de la transacción suscrita entre las
+
+partes por escritura púbica de 27 de marzo de 2018, configurándose una
+
+verdadera cadena de nexos causales fundantes. Así, se vuelve necesaria la
+
+declaración de incumplimiento, luego el remedio de cumplimiento forzado. Sin
+
+perjuicio de lo anterior, y tal como lo fija de manera inamovible la propia
+
+demandante, esta busca dar cumplimiento forzado a la transacción y no el cobro
+
+de la factura.
+
+Por último, alega que la deuda que se pretende cobrar se encuentra prescrita.
+
+Como cuestión preliminar, reafirma que la demanda incurre en una notable
+
+confusión al disponer que la suma que pretende cobrar tiene como antecedente
+
+jurídico la transacción de marras, de la cual ni siquiera solicita la declaración de
+
+incumplimiento, en circunstancias que el antecedente es la factura que,
+
+supuestamente, consigna una obligación contra mi representada.
+
+Señala que su representada es una sociedad anónima, y por disposición expresa
+
+del artículo 1 inc. 2 de la Ley 18.046 de Sociedades Anónimas, es siempre
+
+mercantil, a razón de lo anterior, las operaciones que efectúa tienen el carácter
+
+referido. En ese sentido, hace presente que la factura aquí cobrada, según el
+
+propio detalle, consigna una obligación de carácter mercantil.
+
+Siguiendo lo anterior, de conformidad a lo preceptuado en el artículo 882 del
+
+Código de Comercio, las obligaciones de carácter mercantil prescriben en el plazo
+
+de cuatro años, contados desde que la obligación se hizo exigible.
+
+Advierte que de un análisis simple y somero de la factura en cuestión, así como
+
+de los hechos que la propia demandante afirma, especialmente la fecha en que se
+
+hizo exigible la obligación, salta a la vista que ha transcurrido con creces el plazo
+
+Código: EPDWXDTRZPT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+de 4 años a que hace referencia la norma citada precedentemente y aplicable en
+
+autos, motivo por el cual, la demanda debe rechazarse.
+
+Indica que sentado el hecho que la acción cuyo cobro se pretende se encuentra
+
+prescrita, es probable que la demandante intente asistirse y hacer hincapié en la
+
+renuncia a alegar la excepción de prescripción que pesaría sobre esta parte
+
+conforme a la cláusula quinta de la transacción, en relación a la cláusula séptima,
+
+y que tantas veces refiere. Sobre esto, señala que tal obstáculo no tiene asidero
+
+jurídico, conforme lo que sigue:
+
+a) La primera cuestión refiere a que la demandante, tal como se advirtió en el
+
+capítulo anterior, si bien de manera francamente confusa, busca a dar
+
+cumplimiento a una obligación consignada en una factura que consigna una
+
+obligación exigible al 9 de julio 2015, y no busca exigir el cumplimiento de la
+
+transacción en cuestión. Lo anterior, por cuanto la obligación de pagar
+
+$39.281.754.- se encuentra en el primer documento nombrado y no en la
+
+transacción. Esta última, solo contempla una, jurídicamente improcedente,
+
+renuncia general del derecho de alegar la prescripción que refiere a,
+
+precisamente, una generalidad de obligaciones nacidas de facturas, en tanto falla
+
+en la necesaria especificación de las mismas. En ese sentido, además de fallar a
+
+la coherencia jurídica al pretender que la obligación de pagar $39.281.754.- nace
+
+de la transacción en cuestión, estima que la demandante, falla irremediablemente
+
+a su propio supuesto interés, al no solicitar a este tribunal que se dé cumplimiento
+
+a lo previsto en la transacción (ej. solicitar ante este tribunal que, literalmente, su
+
+parte se abstenga de alegar la prescripción; solicitar ante este tribunal que se
+
+resuelva por incumplimiento la transacción), sin perjuicio de que las cláusulas y
+
+disposiciones de la transacción, las obligaciones si nacidas de la transacción no
+
+pueden “ejecutarse forzadamente” por cuanto no producen efecto jurídico alguno,
+
+como se verá a continuación.
+
+b) La segunda cuestión refiere a que, los efectos jurídicos de la transacción y que
+
+la demandante intenta reafirmar en forma contumaz, finalmente no serán los que
+
+intenta, debiendo acogerse la excepción de prescripción por el solo mérito de la
+
+fecha de la factura de marras, por cuanto:
+
+b.1.) Importan una renuncia genérica o indeterminada del derecho que le asiste a
+
+su representada de alegar la excepción de prescripción extintiva. En ese sentido,
+
+la imprecisa cláusula transacción no señala o designa, debidamente, la o las
+
+facturas “soportadas” por el Fisco de Chile, referencia necesaria e imprescindible
+
+para que produzca efectos contra esta parte.
+
+Código: EPDWXDTRZPT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Expone que una renuncia de derechos es un acto unilateral de disposición por
+
+parte de su titular, y fluye de nuestro Código Civil que los actos de disposición
+
+deben ser determinados, precisados y específicos.
+
+Así las cosas, el artículo 1811 del Código Civil, sobre el contrato de compraventa,
+
+prescribe que:
+
+“Es nula la venta de todos los bienes presentes o futuros o de unos y otros, ya se
+
+venda el total o una cuota; pero será válida la venta de todas las especies,
+
+géneros y cantidades, que se designen por escritura pública, aunque se extienda
+
+a cuanto el vendedor posea o espere adquirir, con tal que no comprenda objetos
+
+ilícitos”
+
+En ese mismo sentido, y sobre el contrato de sociedad, el artículo 2056 incisos 1°
+
+y 3° del Código de Bello, contempla que:
+
+“Se prohíbe toda sociedad a título universal, sea de bienes presentes y venideros,
+
+o de unos u otros.
+
+Podrán con todo ponerse en sociedad cuantos bienes se quiera, especificándolos”
+
+En la exacta línea argumental, se refiere al mentado contrato de transacción,
+
+disponiéndose en los artículos 2448 y 2462 de la misma codificación que:
+
+“Todo mandatario necesitará de poder especial para transigir.
+
+En este poder se especificarán los bienes, derechos y acciones sobre que se
+
+quiera transigir.”
+
+“Si la transacción recae sobre uno o más objetos específicos, la renuncia general
+
+de todo derecho, acción o pretensión deberá sólo entenderse de los derechos,
+
+acciones o pretensiones relativas al objeto u objetos sobre que se transige”.
+
+Por lo anterior, forzoso es concluir que la cláusula quinta de la transacción, por
+
+faltar la debida especificidad, no produce efecto alguno.
+
+b.2.) Sin perjuicio de lo anterior, también importan una improcedente renuncia
+
+anticipada del derecho que le asiste a su representada de alegar la excepción de
+
+prescripción extintiva, motivo por el cual no tiene valor jurídico alguno.
+
+Agrega que, teniendo en cuenta que la renuncia de derechos es un acto unilateral,
+
+cita el artículo 2494 inc. 1° del Código Civil, el cual es enfático y meridianamente
+
+claro al disponer que: “La prescripción puede ser renunciada expresa o
+
+tácitamente; pero sólo después de cumplida”. Concurriendo a dicha disposición,
+
+Código: EPDWXDTRZPT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+viene el artículo 12 de la misma codificación, el cual dispone que: “podrán
+
+renunciarse los derechos conferidos por las leyes, con tal que sólo miren al interés
+
+individual del renunciante, y que no esté prohibida su renuncia”.
+
+En ese sentido, antes de cumplida la prescripción, el legislador ve un interés
+
+general o público que impide la renuncia de la misma por parte del deudor.
+
+Además, hace presente que en estos autos la demandante solicita en su petitorio
+
+únicamente el cobro de una suma de dinero y no somete a su decisión más
+
+peticiones concretas.
+
+b.3.) Conforme a lo anterior, especialmente lo dispuesto en el artículo 2448 del
+
+Código Civil, y la falta de especificidad analizada en el punto b.1., asegura que la
+
+transacción resulta, en todo y cualquier caso, inoponible a su parte, en tanto la
+
+persona que comparece a su nombre en dicho instrumento, no estaba habilitada,
+
+primeramente, más allá de los poderes vigentes a la época de la suscripción del
+
+instrumento, y, en segundo lugar, más allá del marco legal, como lo es, por
+
+ejemplo, la renuncia anticipada a la prescripción.
+
+Por último, también hace presente lo peligroso que constituye la práctica jurídica
+
+como la dispuesta en la cláusula quinta de la transacción, en relación a su
+
+cláusula séptima, más aún si ya advirtió que falta a la especificidad necesaria y
+
+que importa un intento jurídicamente improcedente de renuncia anticipada a la
+
+prescripción, deviniendo entonces, en cláusulas ambiguas, en el mejor de los
+
+casos, y contrarias al orden público, en el peor, en tanto, el intérprete encontrará
+
+todas las dificultades para darle un sentido que permita que produzca algún
+
+efecto.
+
+Así las cosas, las cláusulas quinta y séptima de la transacción, deben
+
+necesariamente interpretarse en favor del deudor u obligado, esto es, todo lo
+
+anterior en conformidad a lo preceptuado en el artículo 1566 del Código Civil.
+
+TERCERO. Que, evacuando la réplica, la parte demandante señala
+
+preliminarmente que la demandada pretende confundir al tribunal en lo que se
+
+refiere a la transacción celebrada por las partes con fecha de 27 de marzo de
+
+2018.
+
+Aclara que el verdadero objetivo de dicha transacción fue fijar los procedimientos a
+
+seguir para el cobro de las facturas emitidas por CMET, acorde a las
+
+circunstancias que podrían darse con el paso del tiempo. Ello, por cuanto la misma
+
+se puso en la hipótesis de facturas que ya estaban judicializadas, y otras que se
+
+Código: EPDWXDTRZPT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+iban a judicializar, y respecto de cada una de estas hipótesis se estableció un
+
+procedimiento para el cobro de las mismas.
+
+Señala entonces, atendido que la transacción estableció un procedimiento
+
+extrajudicial que se efectuó, pero que la demandada se negó a cumplir, su parte
+
+debió demandar en sede judicial para exigir el pago de la factura.
+
+1.- En cuanto al origen del crédito cuyo cobro se demanda.
+
+Refiere que la contraparte se equivoca en este punto al sostener que se estaría
+
+invocando como título de la deuda la transacción en lugar de la factura, que es lo
+
+que efectivamente procedería.
+
+Lo cierto es que la transacción celebrada entre las partes de autos, operó como un
+
+equivalente jurisdiccional destinado a zanjar anticipadamente cualquier disputa o
+
+controversia referida a las facturas, reconociéndose a éstas la calidad de
+
+documento justificativo para proceder a su cobro, primero por una vía
+
+administrativa, y en caso de no ser pagada, por la vía judicial, que es la que se
+
+está usando en este caso.
+
+2.- En cuanto a la necesidad previa de declaración de incumplimiento
+
+Indica que no es efectivo que en la especie hubiese sido necesaria una
+
+declaración previa de incumplimiento del contrato de transacción.
+
+Ello, por cuanto no nos encontramos en el ámbito de la responsabilidad
+
+extracontractual, en donde se enfrentan el demandante y el demandado sin
+
+mediar entre ellos ningún vínculo obligacional previo.
+
+Por el contrario, en este caso, las relaciones jurídicas entre el Fisco y CMET
+
+fueron objeto de un ordenamiento racional consensuado, que se materializó en la
+
+aludida transacción que tiene la naturaleza jurídica de un contrato, esto es, una
+
+acuerdo de voluntades vinculante que es ley para las partes, de conformidad al
+
+artículo 1545 del Código Civil.
+
+Por consiguiente, indica que resulta absurdo exigir que, como cuestión previa al
+
+cobro de la acreencia, deba existir una declaración formal relativa al
+
+incumplimiento.
+
+Si la demandada considera que la obligación ha sido cumplida, simplemente le
+
+corresponde formular una alegación en tal sentido y acreditarla por los medios de
+
+prueba legalmente admitidos.
+
+3.- En cuanto a la prescripción alegada
+
+Código: EPDWXDTRZPT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Expone que contrariamente a lo que señala CMET, en la transacción la empresa
+
+demandada expresamente se obligó a pagar el importe que es objeto de la
+
+demanda, definiéndose en dicho texto el procedimiento que habría de seguirse
+
+para el cobro del crédito, previamente reconocido a favor del Fisco.
+
+Por consiguiente, cualquier plazo de prescripción debe evidentemente computarse
+
+a partir de la fecha de la aludida escritura, es decir, 27 de marzo de 2018, de
+
+modo tal que la notificación de la demanda en el presente año 2021 ocurrió antes
+
+de completar cualquier plazo extintivo, incluso aquel del Código de Comercio que,
+
+equivocadamente, alega la demandada.
+
+CUARTO. Que, para acreditar sus dichos, la parte demandante acompañó en
+
+autos las siguientes probanzas:
+
+Documental:
+
+A folio 1, acompaña a) Carta S/N de fecha 27 de mayo de 2015; b) Copia de la
+
+Factura emitida por CMET S.A.C.I. N°7011779, por la suma de $39.281.754
+
+emitida el 22 de junio de 2015; c) Copia del oficio Nº 721, de 30 de julio de 2012,
+
+emitido por el Inspector Fiscal de Explotación, Concesión Internacional Sistema
+
+Oriente donde se informa acerca de modificaciones a las características de las
+
+obras y servicios del contrato de concesión; d) Copia de la escritura pública de
+
+transacción celebrada entre el Fisco de Chile y S.A.C.I., de fecha 27 de marzo de
+
+2018, otorgada en notaría de Santiago de don Francisco Javier Leiva Carvajal; e)
+
+Copia de Oficio N° 1623, de 9 de abril de 2020 de la Abogada Procuradora Fiscal
+
+del Consejo de Defensa del Estado dirigido al Gerente General de CMET S.A.C.I.,
+
+requiriendo el pago de la suma indicada en el cuerpo de este escrito; f) Copia
+
+comprobante de la empresa de Correo de Chile, de despacho de carta certificada
+
+con fecha 16 de abril de 2020.
+
+QUINTO. Que, la parte demandada no aportó en autos probanza alguna para
+
+acreditar sus dichos.
+
+SEXTO. Que, ya sea por no encontrarse controvertidos o por haberse reconocido
+
+expresamente por las partes, pueden darse como hechos acreditados en estos
+
+autos los siguientes:
+
+Código: EPDWXDTRZPT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+- Que por escritura pública de fecha 27 de marzo de 2018 se celebró un contrato
+
+de transacción entre las partes, con el objeto, conforme a su cláusula segunda, de
+
+“Uno) Poner fin, en virtud de un pago, determinado mediante una fórmula de
+
+cálculo, a todos los juicios actualmente pendientes cualquiera sea su estado
+
+procesal, y que el Fisco mantiene con CMET S.A.C.I. aun lo que están en fase de
+
+ejecución pendiente de sentencia condenatoria en contra de la empresa de
+
+servicios, consistiendo tal fórmula aun los que están en fase de ejecución
+
+pendiente de sentencia condenatoria en contra de la empresa de servicios,
+
+consistiendo tal fórmula en el pago de un porcentaje del ochenta por ciento
+
+aplicado sobre un valor base que se indicará; Dos) Precaver eventuales litigios
+
+futuros relativos al cobro de facturas ya pagadas por el Ministerio de Obras
+
+Públicas, sus organismos o la concesionaria vial por cuenta suya, pero aún no
+
+cobradas judicialmente en las condiciones y bajo los procedimientos que se
+
+indicarán; Tres) Precaver juicios por costos pagados y documentados en otras
+
+facturas, desconocidas por ahora, que igualmente correspondan a traslados
+
+anteriores y que el Fisco haya pagado y no cobrado, en las condiciones y
+
+mediante los procedimientos que se determinarán y; finalmente, Cuatro) Evitar, en
+
+lo sucesivo, todo juicio futuro en relación a la interpretación y aplicación del
+
+Artículo Cuarenta y uno inciso final del Decreto con Fuerza de Ley número
+
+ochocientos cincuenta/mil novecientos noventa y siete, asumiendo la empresa de
+
+servicios el costo total que irrogue el traslado de sus instalaciones emplazadas en
+
+caminos públicos. Para tales efectos y sin que ello implique reconocimiento de la
+
+posición contraria, pactan la presente transacción, mediante las concesiones
+
+recíprocas que se contienen en las cláusulas que siguen.”
+
+Conforme a la cláusula Quinta, se estableció: “QUINTO: ACUERDO PARA
+
+PRECAVER JUICIOS FUTUROS DE COBRO POR TRASLADOS ANTERIORES
+
+DOCUMENTADOS EN FACTURAS NO INDIVIDUALIZADAS A ESTA FECHA: En
+
+el caso de otros costos de traslado e instalaciones de la empresa CMET S.A.C.L
+
+soportados por el FISCO DE CHILE pendientes de cobro, esto es, aún no
+
+demandados pero debidamente justificados mediante facturas o pagos efectuados
+
+a CMET S.A.C.L con anterioridad a la suscripción de este instrumento y originados
+
+en traslados de redes regidos por el Artículo cuarenta y uno inciso final del
+
+Decreto con Fuerza de Ley número ochocientos cincuenta/mil novecientos
+
+noventa y siete, las partes acuerdan que CMET S.A.C.L procederá a su pago
+
+aplicando la misma fórmula de cálculo indicada en la cláusula Cuarta del presente
+
+instrumento. Bastará para ello que el Fisco requiera a CMET S.A.C.L
+
+extrajudicialmente dicho pago mediante carta certificada remitida a su domicilio
+
+adjuntando los antecedentes que le permitan verificar, dentro de un plazo máximo
+
+Código: EPDWXDTRZPT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+de treinta días hábiles, la realidad de las facturas, su monto efectivamente pagado
+
+y contabilizado y que la correspondiente acción de cobro no se encontraba
+
+prescrita al día de la expedición de la carta de requerimiento. Verificado ello,
+
+CMET S.A.C.I. procederá a su pago dentro de un término máximo de treinta días
+
+hábiles contados desde que CMET S.A.C.I. comunique al Fisco la verificación y
+
+aceptación del requerimiento extrajudicial de cobro. El acuerdo de cancelación de
+
+dicho pago se tendrá como parte integrante de esta transacción y deberá
+
+documentarse en instrumento privado que se tendrá como anexo al presente
+
+instrumento. En caso de discrepancia o frente al silencio de CMET S.A.C.I. al
+
+requerimiento de pago dentro de los plazos señalados, quedará a salvo al
+
+CONSEJO DE DEFENSA DEL ESTADO, en representación del FISCO, de iniciar
+
+directamente la demanda de cobro respectiva por el valor facturado, renunciando
+
+CMET S.A.C.I. a plantear cuestiones jurídicas sobre interpretación o aplicación del
+
+Artículo cuarenta y uno inciso final del Decreto con Fuerza de Ley número
+
+ochocientos cincuenta/mil novecientos noventa y siete, resueltas por sentencias
+
+firmes y ejecutoriadas por la Excma. Corte Suprema, y a alegar la excepción de
+
+prescripción si el requerimiento extrajudicial hubiere sido expedido dentro de los
+
+cinco años siguientes a la fecha de pago de las respectivas facturas.”
+
+- Que, conforme al Oficio Ordinario N° 1623 de fecha 09 de marzo de 2020, el
+
+Consejo de Defensa del Estado expidió requerimiento de cobro extrajudicial
+
+dirigido a CMET S.A.C.I entre las que se contabiliza la Factura N° 7011779 de
+
+fecha 26 de junio de 2015 por la suma de 1.322 Unidades de Fomento,
+
+equivalentes a $39.281.754.-
+
+- Que, conforme a la carta de fecha 27 de mayo de 2015 enviada al Inspector
+
+Fiscal de Explotación, Contrato Concesión Sistema Poniente-Oriente, CMET envió
+
+un presupuesto definitivo por traslado de redes existentes, correspondiente a la
+
+ejecución de Proyecto “Ensanche Av. Andrés Bello, comuna de Las Condes.”
+
+SÉPTIMO. Que, para que prospere la acción de cobro de pesos es necesaria la
+
+concurrencia de dos presupuestos, esto es, la existencia de vínculo jurídico entre
+
+las partes, en virtud del cual el actor resulte acreedor de una suma de dinero que
+
+deba pagar el demandado, en su calidad de deudor; y, el incumplimiento del
+
+demandado de la obligación de pagar dicha suma de dinero a la demandante.
+
+Respecto al primero de los presupuestos, este se encuentra acreditado en
+
+atención a lo ya señalado en el considerando sexto, en cuanto ambas partes
+
+reconocieron la celebración del contrato de transacción ahí detallado.
+
+Código: EPDWXDTRZPT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+OCTAVO. Que, conforme a las alegaciones de las partes, el objeto de la Litis se
+
+centra principalmente en determinar si la actora ha demostrado tener la acreencia
+
+que alega en contra de la demanda y en consecuencia, si el cobro que pretende
+
+se ajustó al marco contractual y legal que regía entre las partes. Así, para
+
+determinar la procedencia, monto y forma de cobro de las sumas que ha hecho
+
+valer como acreencia la parte demandante, habrá que analizar tanto el contenido
+
+del contrato, como de toda la legislación que lo rige de forma principal o supletoria.
+
+NOVENO. Que conforme los antecedentes de autos, la demandada alegó
+
+resumidamente, que el cobro pretendido en estos autos se sostiene en una factura
+
+que se encuentra sobradamente prescrita, no se encuadra dentro de lo dispuesto
+
+en el artículo 41 inciso final del DFL N° 850 de 1997 y que el Fisco no le ha
+
+efectuado ningún pago a su parte; que si la demandante pretende obtener el cobro
+
+primerio debió alegar el incumplimiento o resolución del contrato de transacción y
+
+luego la indemnización de perjuicios, y como consecuencia el petitorio de la
+
+demanda se contradice con los hechos señalados; alegó la prescripción de la
+
+deuda y que no le consta que el Fisco lo haya requerido extrajudicialmente.
+
+EN CUANTO A LA EXCEPCIÓN DE PRESCRIPCIÓN.
+
+DÉCIMO. Que, la parte demandada alegó que el cobro que pretende el
+
+demandante se basa en una factura que se encuentra prescrita y que, en todo
+
+caso, de conformidad a la naturaleza de CMET, siendo una Sociedades Anónima,
+
+es siempre mercantil, a razón de lo anterior, las operaciones que efectúa tienen el
+
+carácter referido, haciendo presente que la factura aquí cobrada, según el propio
+
+detalle, consigna una obligación de carácter mercantil y conforme lo preceptuado
+
+en el artículo 882 del Código de Comercio, las obligaciones de carácter mercantil
+
+prescriben en el plazo de cuatro años, contados desde que la obligación se hizo
+
+exigible.
+
+Agregó además que es jurídicamente improcedente la renuncia general del
+
+derecho de alegar la prescripción y que el contrato de transacción es inoponible a
+
+su parte, en tanto la persona que comparece a su nombre en dicho instrumento,
+
+no estaba habilitada, primeramente, más allá de los poderes vigentes a la época
+
+de la suscripción del instrumento.
+
+Código: EPDWXDTRZPT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+UNDÉCIMO. Que, la prescripción extintiva, es aquella que puede definirse, como
+
+un modo de extinguir las obligaciones y derechos ajenos, por no haberse ejercido
+
+dichas acciones y derechos durante un cierto lapso de tiempo, y concurriendo los
+
+demás requisitos legales.
+
+El artículo 2514 del Código Civil, establece que la prescripción que extingue las
+
+acciones y derechos ajenos exige solamente cierto lapso de tiempo durante el cual
+
+no se hayan ejercido dichas acciones, y este tiempo se cuenta desde que la
+
+obligación se haya hecho exigible.
+
+Además, de conformidad artículo 2497 del Código Civil, las reglas relativas a la
+
+prescripción se aplican tanto a favor como en contra del Estado.
+
+DUODÉCIMO. Que, en cuanto a la alegación de la demanda que el cobro de estos
+
+autos estaría fundamentado en una factura prescrita, cabe señalar que la acción
+
+intentada por el demandante encuentra su fundamento en el contrato de
+
+transacción, el cual tuvo por objeto a grandes rasgos, como ya se advirtió en el
+
+considerando sexto, poner fin, en virtud de un pago, determinado mediante una
+
+fórmula de cálculo, a todos los juicios actualmente pendientes; precaver
+
+eventuales litigios futuros relativos al cobro de facturas ya pagadas por el
+
+Ministerio de Obras Públicas, sus organismos o la concesionaria vial por cuenta
+
+suya; precaver juicios por costos pagados y documentados en otras facturas,
+
+desconocidas por ahora, que igualmente correspondan a traslados anteriores y
+
+que el Fisco haya pagado y no cobrado; y evitar, en lo sucesivo, todo juicio futuro
+
+en relación a la interpretación y aplicación del artículos 41 del D.F.L. N° 850 de
+
+1997 del Ministerio de Obras Públicas; estableciendo para dicho efecto un sistema
+
+de cobro de estos montos, mediante concesiones recíprocas efectuadas por las
+
+partes.
+
+Además, la cláusula quinta de la citada transacción, también referida en el
+
+considerando sexto, dispone que efectuado el requerimiento extrajudicial a CMET
+
+respecto a las facturas materia de dicho contrato, tendría el plazo de 30 días
+
+hábiles para verificar la realidad de la factura, su monto efectivamente pagado y
+
+contabilizado y que la acción no se encuentra prescrita a la fecha de la expedición
+
+del requerimiento, y ante el silencio de la deudora, se entabló la demanda de
+
+cobro de pesos.
+
+Código: EPDWXDTRZPT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Conforme lo señalado en los párrafos precedentes, la acción deducida por la
+
+actora, la cual es clara en su petitorio, corresponde a una acción ordinaria
+
+declarativa distinta e independiente de la acción derivada del cobro de facturas,
+
+por lo que la alegación de la demandada en dicho sentido será rechazada.
+
+Tampoco es procedente la alegación de la contraria en cuanto a la cita efectuada
+
+por la demandante respecto al artículo 1489 del Código Civil, debiendo primero
+
+pedir la declaración de incumplimiento o resolución del contrato para cobrar la
+
+indemnización de perjuicios, puesto como ya se dijo, que es claro su petitorio en
+
+cuanto a la acción declarativa deducida y que la transacción celebrada estableció
+
+formas de cobro de las prestaciones adeudadas, sujetándose las partes a dicho
+
+procedimiento, el cual es el perseguido en estos autos.
+
+Respecto a que la renuncia a la prescripción sería jurídicamente improcedente, y
+
+sus consecuencias, habiéndose analizado en estos autos la alegación de
+
+prescripción de la demandada, a lo cual tampoco se negó la parte demandante,
+
+resulta del todo inoficioso hacerse cargo de dicha alegación por cuanto no importa
+
+una declaración de nulidad de la transacción celebrada.
+
+Respecto a que la transacción le sería inoponible a su parte, porque el la persona
+
+que comparece a su nombre en dicho instrumento, no estaba habilitada,
+
+primeramente, más allá de los poderes vigentes a la época de la suscripción del
+
+instrumento, probanza alguna aportó la demandada a este respecto, no siendo
+
+suficientes sus sólo dichos en orden a acreditar esta situación.
+
+Y por último, en cuanto a su alegación de aplicación de lo dispuesto en el artículo
+
+882 del Código de Comercio, advirtiendo que pese a la incorrecta cita del
+
+demandado, debió referirse al artículo 822 del mismo cuerpo legal, cabe señalar
+
+que este tampoco encuentra fundamento pues dicha prescripción especial se
+
+encuentra establecida respecto de las obligaciones contenidas en el título de los
+
+contratos y obligaciones mercantiles y no al traslado de redes o instalaciones de la
+
+empresa demandada en cuanto estuvieran emplazadas en fajas fiscales de
+
+caminos públicos de competencia de la Dirección de Vialidad.
+
+De todo lo expuesto, no siendo procedentes ninguno de los plazos de prescripción
+
+que la demanda alegó en estos autos, su alegación será rechazada.
+
+EN CUANTO AL FONDO.
+
+Código: EPDWXDTRZPT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+DÉCIMO TERCERO. Que, no se ha discutido en autos acerca de que mediante
+
+Oficio Ordinario N° 721/2012, de 30 de julio de 2012, el Inspector Fiscal de
+
+Explotación Concesión Internacional Sistema Oriente-Poniente dirigido al Gerente
+
+General de la Sociedad Concesionaria Costanera Norte S.A. dispuso por interés
+
+público y urgencia modificar las características de las obras y servicios del
+
+contrato de concesión denominado “Concesión Internacional Sistema Oriente-
+
+Poniente”. En el cual, en su punto 4, establece la obligación de la concesionaria,
+
+actuando bajo mandato y en representación del MOP, de tramitar y coordinar los
+
+cambios de servicios existentes, efectuando los pagos a los propietarios
+
+concesionarios de dichos servicios y en este caso, el MOP tendrá derechos a
+
+ejercer las acciones respectivas tendientes a obtener los reembolsos de parte de
+
+dichas empresas.
+
+Por su parte, conforme al presupuesto agregado a folio 1, legalmente acompañado
+
+y no objetado por la contraria, la empresa CMET remitió al Inspector Fiscal de
+
+Explotación del contrato de Concesión Sistema Poniente-Oriente señalando que
+
+se ejecutaron en su totalidad las obras de traslado de redes de fibra óptica a
+
+nuevo poliducto, con un total del proyecto neto por traslado de redes en sector
+
+avenida Andrés Bello-Rotonda Pérez Zujovic por la suma de 1.322 Unidades de
+
+Fomento.
+
+Asimismo, habrá de tenerse presente el documento agregado a folio 1, legalmente
+
+acompañado y no objetado, consistente en factura N° 7011779 emitida por CMET
+
+a nombre de Sociedad Concesionaria Costanera Norte S.A. con fecha 22 de junio
+
+de 2015, por la suma total de $39.281.754.- pagada con fecha 09 de julio de 2015,
+
+en cuyo detalle se lee “Traslado Definitivo de Redes CMET en poliducto sector
+
+Andrés Bello Plan Santiago Centro Oriente”.
+
+DECIMO CUARTO. Que, el artículo 41 del Decreto con Fuerza de Ley N°850 del
+
+año 1997, del Ministerio de Obras Públicas, dispone que: “La Dirección de
+
+Vialidad, mediante resolución fundada, podrá ordenar el retiro de toda instalación
+
+que no cumpla los requisitos exigidos en el presente artículo, previa restitución de
+
+los derechos pagados, en proporción al tiempo que reste para que la autorización
+
+a que se refiere el inciso tercero, llegue a su término.
+
+En caso de que por cualquier motivo sea necesario cambiar la ubicación de estas
+
+instalaciones del lugar en que fueron autorizadas, este traslado será hecho por
+
+cuenta exclusiva del respectivo propietario o en las condiciones que se hayan
+
+fijado al otorgar el permiso o contrato de concesión respectivo”.
+
+Código: EPDWXDTRZPT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+DÉCIMO QUINTO: Que, en este tipo de materias cobra absoluta importancia lo
+
+dispuesto en los artículos 1545, 1546, 1551 y 1559 del Código Civil, relativos a
+
+que todo contrato constituye una ley para los contratantes, los que deben sujetar
+
+su cumplimiento a sus disposiciones y a las cosas que emanan precisamente de la
+
+naturaleza de la obligación, o que por la ley o la costumbre pertenecen a ella; en el
+
+caso de obligaciones de pagar una cantidad de dinero, se sujetan a las reglas
+
+señaladas en la última de las disposiciones citadas.
+
+Sin perjuicio de lo señalado en el párrafo precedente, y de lo particularmente
+
+expuesto en el considerando undécimo, cabe señalar que sin perjuicio del origen
+
+contractual de la acción de cobro de pesos, cabe hacer presente que la obligación
+
+que se cobra en estos autos es una obligación legal, vale decir, que tiene su
+
+fuente directa en la ley, y cuyo sujeto pasivo o deudor es el propietario de las
+
+instalaciones, quien queda sujeto a la prestación de ejecutar las obras de traslado,
+
+mientras que el acreedor es el Ministerio de Obras Públicas como órgano de la
+
+Administración del Estado que, a través de la Dirección de Vialidad, tiene
+
+competencia sobre los caminos públicos.
+
+DÉCIMO SEXTO. Que, respecto a la alegación de la demandada no encontrarse
+
+las facturas detalladas en la transacción, dicha alegación no es procedente,
+
+puesto que el propio instrumento establece, con concesiones recíprocas, un
+
+acuerdo para dar termino a litigios actuales y precaver litigios futuros relativos al
+
+cobro de facturas que no precisaban estar documentadas, puesto que su detalle
+
+sería informado a la contraria en el requerimiento extrajudicial establecido en la
+
+cláusula quinta.
+
+Igualmente, su alegación de no corresponder los cobros a lo estipulado en el
+
+artículo 41 inciso final del DFL N° 850 de 1997 del Ministerio de Obras Públicas,
+
+tampoco está sustentada por probanza alguna, debiendo ser también rechazada
+
+considerando además lo ya zanjado en el considerando décimo.
+
+Respecto a que no le consta que el Fisco lo haya requerido extrajudicialmente de
+
+conformidad a lo estipulado en la cláusula quinta de la transacción, habiéndose
+
+acompañado legalmente el Oficio Ordinario N° 1623 de fecha 09 de abril de 2020,
+
+enviado por carta certificada con fecha 16 de abril del mismo año a la
+
+demandante, tampoco serán suficientes sus solos dicho para desvirtuar dicho
+
+requerimiento.
+
+Código: EPDWXDTRZPT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+DÉCIMO SÉPTIMO. Que, con el mérito de todo lo anteriormente razonado es que
+
+habrá de acogerse la acción intentada por el Fisco de Chile en cuando se condena
+
+la CMTE al pago de $39.281.754.- (IVA incluido), la cual se reajustará conforme la
+
+variación de índice de precios al consumidor ocurrido entre el 9 de julio de 2015 y
+
+el pago efectivo del mismo; y devengará intereses corrientes desde que la
+
+sentencia se encuentre ejecutoriada y se produzca el pago efectivo.
+
+DECIMO OCTAVO. Que, atendido lo dispuesto en el artículo 144 del Código de
+
+Procedimiento Civil, la demandada será condenada en costas.
+
+Y Vistos además lo dispuesto en los artículos 41 y 51 del D.F.L. N° 850 de 1997
+
+del Ministerio de Obras Públicas, y 1437, 1545, 1546, 1551, 1559 del Código Civil,
+
+artículo 822 del Código de Comercio y 170 y 140 el Código de Procedimiento Civil,
+
+y demás normativa pertinente, se declara:
+
+I.- Que, se RECHAZA la excepción de prescripción deducida por la demanda, así
+
+como sus alegaciones subsidiarias.
+
+II.- Que, se ACOGE la demanda interpuesta por Fisco de Chile, representado por
+
+el Consejo de Defensa del Estado en contra de CMET Compañía de Teléfonos,
+
+debiendo la demanda pagar la suma de $39.281.754.- ( IVA incluido), más
+
+reajustes e intereses conforme lo dispuesto en el considerando décimo séptimo.
+
+III.- Que, se condena en costas a la demandada.
+
+Notifíquese, regístrese y archívese en su oportunidad.
+
+DESE COPIA A LAS PARTES SIN COSTO ALGUNO PARA ELLAS.
+
+DICTADA POR DOÑA GABRIELA SILVA HERRERA. JUEZ TITULAR.
+
+Se deja constancia que se dio cumplimiento a lo dispuesto en el inciso final del art.
+162 del C.P.C. en Santiago, catorce de febrero de dos mil veintitrés.-
+
+Código: EPDWXDTRZPT
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2023-02-14T19:18:54-0300
