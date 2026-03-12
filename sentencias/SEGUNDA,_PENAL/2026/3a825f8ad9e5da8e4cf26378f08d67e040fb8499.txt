@@ -4,82 +4,34 @@ case_id: 3a825f8ad9e5da8e4cf26378f08d67e040fb8499
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047235
 
-rol: 246264-2023
+rol: 9178-2026
 
 fecha_sentencia: 2026-03-03
 
-caratulado: STEVEN AGUAYO SANHUEZA
+caratulado: POLANCO JIMÉNEZ JOSÉ ALEJANDRO CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Admisibilidad del recurso de casación en el fondo
+materias: (CRIMEN) APELACIÓN AMPARO
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: RECHAZA CASACION EN EL FONDO (M)
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
-Santiago, cinco de febrero de dos mil veintiséis.
+Santiago, tres de marzo de dos mil veintiséis.
 
-Vistos:
-Se reproduce lo expositivo de la sentencia en alzada, con excepción de los fundamentos que condujeron a su rechazo, que se eliminan.
+Vistos y teniendo únicamente presente:
+Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de catorce de enero de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N° 188 - 2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.
 
-Y se tiene en su lugar y, además, presente:
-Primero: Que, cabe tener presente que “la pena es la sanción legal establecida como consecuencia de la perpetración de un delito, que consiste en la privación o restricción de bienes jurídicos del delincuente, impuesta por sentencia judicial ejecutoriada, luego de un debido proceso, y cuya ejecución queda entregada desde el punto de vista de su forma, a la ley.” (Ortiz-Arévalo, “Las consecuencias jurídicas del delito”, Edit. Jdca., 2013, p.17.)
-Segundo: Que, de acuerdo con conocidas reglas constitucionales y legales, la pena con que un delito ha de ser castigado debe estar establecida en una ley con anterioridad a la perpetración del hecho, sin perjuicio de las alteraciones favorables o beneficiosas para el responsable, fruto de leyes posteriores.
+Regístrese y devuélvase.
 
-Tercero: Que, en la especie, la comisión del delito tuvo lugar bajo el imperio del Decreto Ley 321 en su redacción anterior a las reformas introducidas por la Ley N° 21.483, por lo que le es aplicable al amparado el estatuto legal anterior a dicha reforma, la que no tiene efecto retroactivo conforme al principio general del derecho penal de irretroactividad de sus normas, salvo cuando sean favorables al imputado o condenado; principio que aparece recogido, a vía ejemplar, en los artículos 9 de la Convención Americana de Derechos Humanos, 19 N° 3 inciso 8° de la Constitución Política de la República y 18 del Código Penal;
-Cuarto: Que, así las cosas, Gendarmería de Chile, no observó el principio de irretroactividad de la ley penal desfavorable, consagrado en los artículos 6°, 7° y 19 N° 3 de la Constitución Política de la República, lo que indudablemente importa –a su vez- una vulneración de la libertad personal del amparado.
-
-Por estas consideraciones, se revoca la sentencia apelada de dieciocho de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de La Serena en el Ingreso Corte N° 98-2026, y en su lugar se resuelve que, se acoge la acción de amparo incoada en favor de José Alejandro Parra Faúndez, por lo que, Gendarmería de Chile deberá examinar el cumplimiento del requisito relacionado con la conducta, a la luz del Decreto Ley N° 321, sin las modificaciones introducidas por la Ley N° 21.627.
-Acordada con el voto en contra de los Ministros Sr. Valderrama y Sra. Gajardo, quienes estuvieron por confirmar la sentencia apelada en virtud de sus propios fundamentos.
-
-Regístrese, comuníquese y devuélvase.
-
-Rol N° 9108-2026.
+Rol N° 9178 - 2026
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
-Parra Fáundez, José Alejandro
-
-Gendarmería de Chile
-
-Recurso de amparo
-
-Rol N°98-2026.-
-La Serena, dieciocho de febrero de dos mil veintiséis.
-
-VISTO Y CONSIDERANDO:
-
-PRIMERO: Que, comparece Constanza Barrueto Bravo, abogada, interponiendo acción constitucional de amparo en favor de José Alejandro Parra Faúndez, actualmente privado de libertad en el Centro Penitenciario de La Serena, y en contra de la Gendarmería de Chile, por exigir al actor un calificación de conducta ‘Muy Buena’ durante los seis últimos bimestres para efectos de postular a la libertad condicional, haciendo aplicables a su situación normas legales dictadas con posterioridad a la ejecución de los hechos por los cuales cumple condena.
-
-Expone que el actor se encuentra purgando sanciones como autor de delitos de robo con violencia, robo con intimidación, porte ilegal de arma de fuego, receptación, amenazas, y robo en bienes nacionales de uso público, todos los cuales fueron cometidos durante los años 2007 y 2008. Indica que a pesar de reunir el tiempo mínimo de cumplimiento de condena y registrar conducta ‘Muy Buena’ los últimos 4 bimestres, Gendarmería de Chile no lo incluyó en la postulación al beneficio de libertad condicional correspondiente al primer semestre del año dos mil veintiséis. Sobre el particular, manifiesta que el motivo esgrimido por la recurrida para excluir al amparado de la postulación radica en que éste se encuentra privado de libertad por delitos enumerados en el artículo 3 inciso tercero del Decreto Ley N°321, norma que fue modificada por Ley N°21.627 y, en cuya virtud, actualmente son exigibles 6 bimestres de conducta muy buena para optar a la libertad condicional. Argumenta que Gendarmería de Chile actúa en forma ilegal y arbitraria al hacer aplicables al actor disposiciones legales dictadas con posterioridad a la perpetración del hecho por el cual cumple sanción, infringiendo, de ese modo, el principio de irretroactividad de la ley penal desfavorable y amagando su derecho a la libertad personal al extender en forma ilegítima el tiempo de condena.
-
-Previas citas de derecho solicita acoger la acción intentada y, en definitiva, ordenar a Gendarmería de Chile postular al amparado al proceso de libertad condicional conforme a la normativa vigente a la época de comisión del ilícito.
-
-SEGUNDO: Que, evacuó informe Gendarmería de Chile solicitando el rechazo del recurso.
-
-Manifiesta que efectivamente el actor cumple condena por los ilícitos referidos en su recurso y su conducta ha calificada como ‘muy buena’ en los últimos 4 bimestres.
-
-Por otra parte, sostiene que de conformidad a lo previsto en el artículo 3 inciso tercero del Decreto Ley 321 en relación con lo prescrito en el artículo 9 del mismo cuerpo legal, para optar al proceso de libertad condicional el amparado debe registrar 6 bimestres consecutivos de conducta ‘Muy Buena’, por lo que en el presente caso no ha existido algún acto ilegal o arbitrario al excluirlo de la nómina de postulantes.
-
-Finalmente, aduce que el petitorio del recurso escapa a la naturaleza y fines de la acción constitucional de amparo, por lo que éste debiese ser rechazado.
-
-TERCERO: Que la acción constitucional de amparo garantiza a toda persona que ilegalmente sufra cualquiera privación, perturbación o amenaza en su derecho a la libertad personal y seguridad individual, la posibilidad de recurrir ante la respectiva magistratura, para que dicte en tal caso las providencias necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado.
-
-CUARTO: Que, conforme el mérito de los antecedentes, por esta vía se impugna la negativa de la recurrida a postular al interno al proceso de libertad condicional del primer semestre del año en curso, exigiendo requisitos adicionales, según lo previsto en la modificación al artículo 3° Decreto Ley 321 por la Ley 21.627, publicada el 9 de noviembre de 2023, la que impuso la exigencia de contar con seis bimestres de buena conducta respecto de determinados delitos, en circunstancias que ésta es posterior a la fecha de comisión del delito y la sentencia que lo sancionó, lo que en definitiva implicaría una aplicación retroactiva de ley penal desfavorable.
-
-QUINTO: Que, para la resolución del asunto, se debe tener presente que inciso 3° del artículo 3° el Decreto Ley N°321 dispone: “Asimismo, las personas condenadas por los delitos de parricidio, femicidio, homicidio simple, homicidio calificado, robo con homicidio, robo con violación, violación con homicidio, violación, infanticidio, y por los delitos contemplados en el número 2° del artículo 365 bis, en los incisos tercero, cuarto y quinto del artículo 141, en el número 1 del inciso primero y en el inciso segundo del artículo 142 y en los artículos 363, 365 bis, 366 incisos primero y segundo, 366 bis, 367, 367 ter, 367 quáter, 367 septies, 411 quáter, 436, 440 y 474, todos del Código Penal, en los artículos 281 bis, 281 ter, 281 quáter, 416, 416 bis N°1 y 2, y 416 ter del Código de Justicia Militar; en los artículos 17, 17 bis N° 1 y 2, y 17 ter de la ley orgánica de la Policía de Investigaciones de Chile; en los artículos 15 A, 15 B N°1 y 2, y 15 C de la ley orgánica de Gendarmería de Chile, y homicidio de integrantes del Cuerpo de Bomberos de Chile, de integrantes de las Fuerzas Armadas y servicios bajo su dependencia, en el ejercicio de sus funciones, y el de elaboración o tráfico de estupefacientes, sólo podrán postular a este beneficio cuando hubieren cumplido dos tercios de la pena. Para los casos establecidos en el presente inciso y en los incisos primero y segundo de este artículo, se considerará como conducta intachable haber obtenido nota "muy buena" durante los seis bimestres anteriores a su postulación”.
-
-SEXTO: Que, la discusión jurídica planteada por la recurrente ha sido resuelta por el legislador al establecer en el artículo 9 del Decreto Ley N°321 que “para los efectos del presente decreto ley, se entenderá que los requisitos para la obtención del beneficio de la libertad condicional son aquellos que se exigen al momento de la postulación”, resultando aplicable esa disposición a la situación del amparado, quien, a mayor abundamiento, tampoco tendría garantizada la concesión de los beneficios que pretende, pues ellos suponen el cumplimiento de requisitos adicionales al tiempo mínimo de condena y observancia de una conducta ‘muy buena’ durante su reclusión, descansado su otorgamiento, además, de la decisión que sobre el particular deben adoptar los organismos competentes, dentro de la esfera de sus atribuciones.
-SÉPTIMO: Que, lo expresado en el motivo precedente, lleva a sostener que la actuación realizada por Gendarmería de Chile, en cuanto no postular al interno a dicho proceso, se ha ajustado a la legalidad, sin que sea posible entender transgredidos los artículos 19 N°3 de la Constitución Política de la República ni el artículo 18 del Código Penal, ya que en la especie, no ha existido una aplicación retroactiva de una norma penal sustantiva, sino de los requisitos para acceder a una especial forma de cumplimiento de ésta, todo lo que lleva al rechazo del arbitrio según se dirá a continuación.
-
-Por los motivos expuestos, y teniendo presente lo dispuesto en el artículo 21 de la Constitución Política de la República y el Auto Acordado sobre Tramitación del Recurso de Amparo, SE RECHAZA el recurso de amparo interpuesto en favor de José Alejandro Parra Faúndez en contra de Gendarmería de Chile.
-
-Regístrese, comuníquese y archívese, en su oportunidad.
-
-Rol N°98-2026 (Amparo).-
+Santiago, cinco de febrero de dos mil veintiséis.Vistos:Se reproduce lo expositivo de la sentencia en alzada, con excepción de los fundamentos que condujeron a su rechazo, que se eliminan.Y se tiene en su lugar y, además, presente:Primero: Que, cabe tener presente que “la pena es la sanción legal establecida como consecuencia de la perpetración de un delito, que consiste en la privación o restricción de bienes jurídicos del delincuente, impuesta por sentencia judicial ejecutoriada, luego de un debido proceso, y cuya ejecución queda entregada desde el punto de vista de su forma, a la ley.” (Ortiz-Arévalo, “Las consecuencias jurídicas del delito”, Edit. Jdca., 2013, p.17.)Segundo: Que, de acuerdo con conocidas reglas constitucionales y legales, la pena con que un delito ha de ser castigado debe estar establecida en una ley con anterioridad a la perpetración del hecho, sin perjuicio de las alteraciones favorables o beneficiosas para el responsable, fruto de leyes posteriores.Tercero: Que, en la especie, la comisión del delito tuvo lugar bajo el imperio del Decreto Ley 321 en su redacción anterior a las reformas introducidas por la Ley N° 21.483, por lo que le es aplicable al amparado el estatuto legal anterior a dicha reforma, la que no tiene efecto retroactivo conforme al principio general del derecho penal de irretroactividad de sus normas, salvo cuando sean favorables al imputado o condenado; principio que aparece recogido, a vía ejemplar, en los artículos 9 de la Convención Americana de Derechos Humanos, 19 N° 3 inciso 8° de la Constitución Política de la República y 18 del Código Penal;Cuarto: Que, así las cosas, Gendarmería de Chile, no observó el principio de irretroactividad de la ley penal desfavorable, consagrado en los artículos 6°, 7° y 19 N° 3 de la Constitución Política de la República, lo que indudablemente importa –a su vez- una vulneración de la libertad personal del amparado.Por estas consideraciones, se revoca la sentencia apelada de dieciocho de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de La Serena en el Ingreso Corte N° 98-2026, y en su lugar se resuelve que, se acoge la acción de amparo incoada en favor de José Alejandro Parra Faúndez, por lo que, Gendarmería de Chile deberá examinar el cumplimiento del requisito relacionado con la conducta, a la luz del Decreto Ley N° 321, sin las modificaciones introducidas por la Ley N° 21.627.Acordada con el voto en contra de los Ministros Sr. Valderrama y Sra. Gajardo, quienes estuvieron por confirmar la sentencia apelada en virtud de sus propios fundamentos.Regístrese, comuníquese y devuélvase.Rol N° 9108-2026. Santiago, cinco de febrero de dos mil veintiséis.Vistos:Se reproduce lo expositivo de la sentencia en alzada, con excepción de los fundamentos que condujeron a su rechazo, que se eliminan.Y se tiene en su lugar y, además, presente:Primero: Que, cabe tener presente que “la pena es la sanción legal establecida como consecuencia de la perpetración de un delito, que consiste en la privación o restricción de bienes jurídicos del delincuente, impuesta por sentencia judicial ejecutoriada, luego de un debido proceso, y cuya ejecución queda entregada desde el punto de vista de su forma, a la ley.” (Ortiz-Arévalo, “Las consecuencias jurídicas del delito”, Edit. Jdca., 2013, p.17.)Segundo: Que, de acuerdo con conocidas reglas constitucionales y legales, la pena con que un delito ha de ser castigado debe estar establecida en una ley con anterioridad a la perpetración del hecho, sin perjuicio de las alteraciones favorables o beneficiosas para el responsable, fruto de leyes posteriores.Tercero: Que, en la especie, la comisión del delito tuvo lugar bajo el imperio del Decreto Ley 321 en su redacción anterior a las reformas introducidas por la Ley N° 21.483, por lo que le es aplicable al amparado el estatuto legal anterior a dicha reforma, la que no tiene efecto retroactivo conforme al principio general del derecho penal de irretroactividad de sus normas, salvo cuando sean favorables al imputado o condenado; principio que aparece recogido, a vía ejemplar, en los artículos 9 de la Convención Americana de Derechos Humanos, 19 N° 3 inciso 8° de la Constitución Política de la República y 18 del Código Penal;Cuarto: Que, así las cosas, Gendarmería de Chile, no observó el principio de irretroactividad de la ley penal desfavorable, consagrado en los artículos 6°, 7° y 19 N° 3 de la Constitución Política de la República, lo que indudablemente importa –a su vez- una vulneración de la libertad personal del amparado.Por estas consideraciones, se revoca la sentencia apelada de dieciocho de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de La Serena en el Ingreso Corte N° 98-2026, y en su lugar se resuelve que, se acoge la acción de amparo incoada en favor de José Alejandro Parra Faúndez, por lo que, Gendarmería de Chile deberá examinar el cumplimiento del requisito relacionado con la conducta, a la luz del Decreto Ley N° 321, sin las modificaciones introducidas por la Ley N° 21.627.Acordada con el voto en contra de los Ministros Sr. Valderrama y Sra. Gajardo, quienes estuvieron por confirmar la sentencia apelada en virtud de sus propios fundamentos.Regístrese, comuníquese y devuélvase.Rol N° 9108-2026. Sentencia anonimizada
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------
