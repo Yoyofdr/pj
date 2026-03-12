@@ -4,15 +4,15 @@ case_id: 95efb7e8b22230cfb0fb3f06dc3b3b8bb1955a85
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8054622
 
-rol: 17158-2025
+rol: 57220-2025
 
 fecha_sentencia: 2026-03-09
 
-caratulado: VALENCIA/CLÍNICA AVANSALUD SPA
+caratulado: ANONIMIZADO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Bancos, Instituciones Financieras y otros
+materias: ▪ Potestad disciplinaria
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
