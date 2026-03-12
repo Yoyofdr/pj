@@ -4,19 +4,19 @@ case_id: c505a878e2148b402ba7c492ede1fc9598b42db0
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046758
 
-rol: 7167-2026
+rol: 246264-2023
 
 fecha_sentencia: 2026-03-03
 
-caratulado: APHENSTON JOSEPH CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: STEVEN AGUAYO SANHUEZA
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: ▪ Admisibilidad del recurso de casación en el fondo
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: RECHAZA CASACION EN EL FONDO (M)
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
