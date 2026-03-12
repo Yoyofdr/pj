@@ -4,17 +4,17 @@ case_id: c78bbac3326e86ebef48230f5e89905afd436f51
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8051472
 
-rol: 55196-2025
+rol: 55551-2025
 
-fecha_sentencia: 2026-03-06
+fecha_sentencia: 2026-03-05
 
-caratulado: CABEZAS SALAMANCA PABLO ALEJANDRO/MUNICIPALIDAD CURACAUTIN
+caratulado: QUILODRÁN MORALES FRANCISCO JAVIER/CUERPO DE BOMBEROS COLLIPULLI
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Ordenanza municipal
+materias: ▪ Bomberos
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) CASACIÓN FORMA Y FONDO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

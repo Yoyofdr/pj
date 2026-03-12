@@ -4,17 +4,17 @@ case_id: adfbc6907caae191f8c07da364ab3930e0899b17
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8052751
 
-rol: 7714-2026
+rol: 10670-2026
 
-fecha_sentencia: 2026-03-06
+fecha_sentencia: 2026-03-05
 
-caratulado: ESPINOZA ARCE JIMMY ALEXANDER CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: CUENU SINISTERRA MARIA EUFEMIA CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: (CIVIL) CASACIÓN FORMA Y FONDO
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) CASACIÓN FORMA Y FONDO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
