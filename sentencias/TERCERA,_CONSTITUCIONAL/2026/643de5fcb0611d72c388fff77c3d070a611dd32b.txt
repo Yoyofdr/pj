@@ -4,15 +4,15 @@ case_id: 643de5fcb0611d72c388fff77c3d070a611dd32b
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8051558
 
-rol: 41915-2025
+rol: 42151-2025
 
 fecha_sentencia: 2026-03-06
 
-caratulado: DÍAZ/DIVISIÓN DE PERSONAL DEL EJERCITO DE CHILE
+caratulado: OLGUÍN/CORPORACIÓN ADMINISTRATIVA DEL PODER JUDICIAL
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Acto administrativo
+materias: ▪ Función pública
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 

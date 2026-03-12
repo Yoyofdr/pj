@@ -4,19 +4,19 @@ case_id: 46e1c4131043c4812e199b85713fc7ee8bad03fe
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8053283
 
-rol: 10578-2026
+rol: 10504-2026
 
 fecha_sentencia: 2026-03-06
 
-caratulado: MINISTERIO DE JUSTICIA CONTRA JHONATAN ISRAEL LEFIHUALA MONSALVE
+caratulado: ACOSTA SIVIRA ÁNGEL JOSÉ CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
