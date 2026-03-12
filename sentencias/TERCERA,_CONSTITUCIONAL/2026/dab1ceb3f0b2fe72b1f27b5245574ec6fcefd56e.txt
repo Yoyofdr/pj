@@ -1,0 +1,56 @@
+METADATA
+
+case_id: dab1ceb3f0b2fe72b1f27b5245574ec6fcefd56e
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8039391
+
+rol: 5939-2026
+
+fecha_sentencia: 2026-02-25
+
+caratulado: RIVAS/ISAPRE VIDA TRES S.A.
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (CIVIL) APELACIÓN PROTECCIÓN
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veinticinco de febrero de dos mil veintiséis.
+
+Vistos y teniendo presente:
+1° Que de conformidad a lo dispuesto en los artículos 196 y 203 del Código de Procedimiento Civil, el recurso de hecho es un medio de impugnación que se concede para los casos en que el tribunal a-quo, resolviendo acerca de la admisibilidad de un recurso de apelación, lo conceda siendo improcedente o lo otorgue en un efecto distinto; y en el segundo caso, lo deniegue debiendo haberlo concedido.
+
+2° Que, en consecuencia, el tribunal competente para conocer del recurso de hecho es el tribunal de alzada o ad-quem, ante quien la parte afectada puede concurrir dentro de plazo legal, fallándolo en cuenta.
+
+3° Que sin perjuicio que lo alegado por el recurrente no se encuentra en los presupuestos de procedencia del líbelo deducido, toda vez, que, en la especie, el recurrente de hecho impugna la decisión de la Corte de Apelaciones de Antofagasta, que declaró inadmisible la apelación interpuesta en causa de Policía Local.
+
+4° Que como premisa ha de asentarse que la competencia de esta Corte se encuentra establecida, fundamentalmente, en los artículos 96, 97 y 98 del Código Orgánico de Tribunales, sea instalada en salas o reunida en pleno, sin perjuicio de otras normas complementarias de dicha competencia. Entre las materias y recursos que deben ser resueltas por este Tribunal no se encuentra el recurso de hecho de que se trata, a través del cual se pretende, en la especie, corregir lo resuelto por los Ministros de la Corte de Apelaciones de Antofagasta - es decir, se ha planteado como una forma de velar por la aplicación del principio de la doble instancia y sabido es que esta Corte no posee la naturaleza de tribunal de grado o de instancia, excepto los casos expresamente previstos por la ley. Por estas consideraciones y normas legales citadas, se declara sin lugar el recurso de hecho interpuesto en contra de la resolución de cinco de febrero de los corrientes, dictada por la Corte de Apelaciones de Antofagasta.
+
+Regístrese, comuníquese y archívese.
+
+Rol N° 5803-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+psm/mpj
+
+Antofagasta, a cinco de febrero de dos mil veintiséis.
+
+VISTOS:
+
+Conforme a lo dispuesto en el artículo 5 de la Ley 20.009 y en el procedimiento regulado en el Título IV de la Ley 19.496, especialmente lo preceptuado en el artículo 50 H del referido cuerpo legal, se debe tener presente que, advirtiéndose que la cuantía de los presentes autos no excede de veinticinco unidades tributarias mensuales, su tramitación corresponde en única instancia, siendo inapelables todas las resoluciones que en ellas se dicten.
+
+Por las razones expuestas y visto, además, lo dispuesto en los artículos 5 y 5 bis de la Ley 20.009, artículo 50 H de la Ley 19.496 y artículo 213 del Código de Procedimiento Civil, se declara INADMISIBLE el recurso de apelación interpuesto en contra de la sentencia definitiva dictada con fecha treinta de julio de dos mil veinticinco por el por Juzgado de Policía Local de Calama, en autos Rol 51.003-2024.
+
+Regístrese y comuníquese.
+
+Rol 17-2026 (Policía Local)
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, veinticinco de febrero de dos mil veintiséis.Vistos y teniendo presente:1° Que de conformidad a lo dispuesto en los artículos 196 y 203 del Código de Procedimiento Civil, el recurso de hecho es un medio de impugnación que se concede para los casos en que el tribunal a-quo, resolviendo acerca de la admisibilidad de un recurso de apelación, lo conceda siendo improcedente o lo otorgue en un efecto distinto; y en el segundo caso, lo deniegue debiendo haberlo concedido.2° Que, en consecuencia, el tribunal competente para conocer del recurso de hecho es el tribunal de alzada o ad-quem, ante quien la parte afectada puede concurrir dentro de plazo legal, fallándolo en cuenta.3° Que sin perjuicio que lo alegado por el recurrente no se encuentra en los presupuestos de procedencia del líbelo deducido, toda vez, que, en la especie, el recurrente de hecho impugna la decisión de la Corte de Apelaciones de Antofagasta, que declaró inadmisible la apelación interpuesta en causa de Policía Local.4° Que como premisa ha de asentarse que la competencia de esta Corte se encuentra establecida, fundamentalmente, en los artículos 96, 97 y 98 del Código Orgánico de Tribunales, sea instalada en salas o reunida en pleno, sin perjuicio de otras normas complementarias de dicha competencia. Entre las materias y recursos que deben ser resueltas por este Tribunal no se encuentra el recurso de hecho de que se trata, a través del cual se pretende, en la especie, corregir lo resuelto por los Ministros de la Corte de Apelaciones de Antofagasta - es decir, se ha planteado como una forma de velar por la aplicación del principio de la doble instancia y sabido es que esta Corte no posee la naturaleza de tribunal de grado o de instancia, excepto los casos expresamente previstos por la ley. Por estas consideraciones y normas legales citadas, se declara sin lugar el recurso de hecho interpuesto en contra de la resolución de cinco de febrero de los corrientes, dictada por la Corte de Apelaciones de Antofagasta.Regístrese, comuníquese y archívese.Rol N° 5803-2026. Santiago, veinticinco de febrero de dos mil veintiséis.Vistos y teniendo presente:1° Que de conformidad a lo dispuesto en los artículos 196 y 203 del Código de Procedimiento Civil, el recurso de hecho es un medio de impugnación que se concede para los casos en que el tribunal a-quo, resolviendo acerca de la admisibilidad de un recurso de apelación, lo conceda siendo improcedente o lo otorgue en un efecto distinto; y en el segundo caso, lo deniegue debiendo haberlo concedido.2° Que, en consecuencia, el tribunal competente para conocer del recurso de hecho es el tribunal de alzada o ad-quem, ante quien la parte afectada puede concurrir dentro de plazo legal, fallándolo en cuenta.3° Que sin perjuicio que lo alegado por el recurrente no se encuentra en los presupuestos de procedencia del líbelo deducido, toda vez, que, en la especie, el recurrente de hecho impugna la decisión de la Corte de Apelaciones de Antofagasta, que declaró inadmisible la apelación interpuesta en causa de Policía Local.4° Que como premisa ha de asentarse que la competencia de esta Corte se encuentra establecida, fundamentalmente, en los artículos 96, 97 y 98 del Código Orgánico de Tribunales, sea instalada en salas o reunida en pleno, sin perjuicio de otras normas complementarias de dicha competencia. Entre las materias y recursos que deben ser resueltas por este Tribunal no se encuentra el recurso de hecho de que se trata, a través del cual se pretende, en la especie, corregir lo resuelto por los Ministros de la Corte de Apelaciones de Antofagasta - es decir, se ha planteado como una forma de velar por la aplicación del principio de la doble instancia y sabido es que esta Corte no posee la naturaleza de tribunal de grado o de instancia, excepto los casos expresamente previstos por la ley. Por estas consideraciones y normas legales citadas, se declara sin lugar el recurso de hecho interpuesto en contra de la resolución de cinco de febrero de los corrientes, dictada por la Corte de Apelaciones de Antofagasta.Regístrese, comuníquese y archívese.Rol N° 5803-2026. Sentencia anonimizada
