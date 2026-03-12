@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045989
 
 rol: 53198-2024
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-03-02
 
 caratulado: PROMERCO S.A. CON RENEE PIZARRO SEPULVEDA Y OTRO (O)
 
@@ -14,7 +14,7 @@ sala: PRIMERA, CIVIL
 
 materias: ▪ Responsabilidad civil
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
 
 resultado_recurso: RECHAZA CASACION EN EL FONDO (M)
 
