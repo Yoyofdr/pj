@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044493
 
 rol: 58238-2025
 
-fecha_sentencia: 2026-02-26
+fecha_sentencia: 2026-02-27
 
 caratulado: ISLA/SAN FELIPE S.A.
 
@@ -14,7 +14,7 @@ sala: CUARTA, MIXTA
 
 materias: ▪ Recurso de unificación de jurisprudencia
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: INADMISIBLE UNIFICACIÓN DE JURISPRUDENCIA
 

@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044637
 
 rol: 7518-2026
 
-fecha_sentencia: 2026-02-26
+fecha_sentencia: 2026-02-27
 
 caratulado: TORO ARAYA MATÍAS ALBERTO CONTRA NOVENO JUZGADO DE GARANTÍA DE SANTIAGO
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
