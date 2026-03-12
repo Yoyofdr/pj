@@ -4,19 +4,19 @@ case_id: bed2d6f14283abb3b1b4c93950c6cafc0d385794
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8043926
 
-rol: 8704-2025
+rol: 6051-2026
 
-fecha_sentencia: 2026-02-26
+fecha_sentencia: 2026-02-27
 
-caratulado: VARAS/- FISCO DE CHILE
+caratulado: ARISTIGUETA RUIZ JOSÉ MIGUEL CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Declaración previa de existencia de error judicial
+materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: ACOGE SOLICITUD DE DECLARACIÓN PREVIA DE ERROR J (M)
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

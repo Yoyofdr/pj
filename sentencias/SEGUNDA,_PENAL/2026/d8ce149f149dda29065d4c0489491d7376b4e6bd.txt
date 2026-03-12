@@ -4,19 +4,19 @@ case_id: d8ce149f149dda29065d4c0489491d7376b4e6bd
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044529
 
-rol: 6215-2026
+rol: 8704-2025
 
-fecha_sentencia: 2026-02-26
+fecha_sentencia: 2026-02-27
 
-caratulado: VARGAS NOVA SARLY PIEDAD CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: VARAS/- FISCO DE CHILE
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: ▪ Declaración previa de existencia de error judicial
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: ACOGE SOLICITUD DE DECLARACIÓN PREVIA DE ERROR J (M)
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
