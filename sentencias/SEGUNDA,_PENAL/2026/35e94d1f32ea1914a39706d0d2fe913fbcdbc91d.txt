@@ -4,23 +4,22 @@ case_id: 35e94d1f32ea1914a39706d0d2fe913fbcdbc91d
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046646
 
-rol: 7936-2026
+rol: 8209-2026
 
-fecha_sentencia: 2026-03-03
+fecha_sentencia: 2026-03-02
 
-caratulado: MONDACA BARRA GABRIEL ADOLFO CONTRA GENDARMERIA DE CHILE
+caratulado: GAMARRA SOTO NATHALY MARIA CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: (CIVIL) APELACIÓN RECLAMACIÓN
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
-Corte Apelaciones ▼
 Santiago, tres de marzo de dos mil veintiséis.
 
 Vistos y teniendo únicamente presente:

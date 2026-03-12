@@ -4,17 +4,17 @@ case_id: d9928bf49f473b6257240d341e45c9b1e48d952a
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044954
 
-rol: 6221-2026
+rol: 7940-2026
 
 fecha_sentencia: 2026-03-02
 
-caratulado: SERRANO RONDONJOSE DANIEL CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: IBAÑEZ GAITAN JUAN JULIO CONTRA MINISTRO EXCELENTÍSIMA CORTE SUPREMA
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: (CIVIL) APELACIÓN RECLAMACIÓN
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 

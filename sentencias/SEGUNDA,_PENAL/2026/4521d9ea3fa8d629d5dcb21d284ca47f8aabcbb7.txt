@@ -4,17 +4,17 @@ case_id: 4521d9ea3fa8d629d5dcb21d284ca47f8aabcbb7
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047311
 
-rol: 8202-2026
+rol: 8246-2026
 
-fecha_sentencia: 2026-03-03
+fecha_sentencia: 2026-03-02
 
-caratulado: MÜLLER SONIA ELIZABETH CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: VILLALOBOS OLAVE JAIME EUGENIO Y OTRO CONTRA ILUSTRÍSIMA CORTE DE APELACIONES DE SANTIAGO
 
 sala: SEGUNDA, PENAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Recurso de Amparo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
@@ -24,14 +24,15 @@ Corte Apelaciones ▼
 Santiago, tres de marzo de dos mil veintiséis.
 
 Vistos y teniendo únicamente presente:
-Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de diecisiete de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N° 709-2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.
+Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de dieciséis de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N° 693 - 2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.
 
 Regístrese y devuélvase.
 
-Rol N° 8202-2026.
+Rol N° 8209 - 2026
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
+Corte Apelaciones ▼
 C.A. de Santiago
 Santiago, dieciséis de febrero de dos mil veintiséis.
 
