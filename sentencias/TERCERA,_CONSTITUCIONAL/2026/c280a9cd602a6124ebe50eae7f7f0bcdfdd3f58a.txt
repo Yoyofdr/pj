@@ -1,0 +1,134 @@
+METADATA
+
+case_id: c280a9cd602a6124ebe50eae7f7f0bcdfdd3f58a
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8058181
+
+rol: 3799-2026
+
+fecha_sentencia: 2026-03-11
+
+caratulado: VIDAL/SERVICIO NACIONAL DE MIGRACIONES
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (CIVIL) APELACIÓN PROTECCIÓN
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+1
+Santiago, once de marzo de dos mil veintiséis.
+Vistos:
+Se confirma la sentencia apelada.
+
+Acordada con el voto en contra del Ministro Sr. Matus, quien estuvo por rechazar el recurso de protección interpuesto, teniendo presente:
+1. Que la recurrente alega como fundamento de su acción la supuesta falta de tramitación u omisión ilegal o arbitraria de la recurrida por la tardanza de más de seis meses en dar respuesta a su solicitud, de conformidad con lo previsto en el artículo 27 de la Ley N.° 19.880.
+
+2. Que, sin embargo, dicha demora no puede calificarse de ilegal, pues como se ha dicho reiteradamente por esta Corte ya desde la sentencia de 21 de octubre de 2012, Rol 4817-2012 y en las sentencias Rol N.° 6661-2014 y 97686-2016, el plazo de seis meses establecido por el artículo 27 de la Ley N.° 19.880 no constituye uno de carácter fatal. En el mismo sentido se ha pronunciado reiteradamente la Contraloría General de la República, como se señala en el Dictamen E81089N21, de 26 de febrero de 2021. Ello se justifica por cuanto, salvo excepciones legales determinadas, el principio de celeridad y la existencia de plazos para las actuaciones o el ejercicio de las facultades propias de la administración no puede llevar a su supresión fáctica por el solo hecho del transcurso del tiempo. En efecto, tales actuaciones dependen de los recursos humanos y materiales disponibles en relación con el número y complejidad de los procedimientos que se trate, así como a las actuaciones de los propios administrados, factores todos ajenos a la voluntad de quienes han de decidir en cada caso. Estas son, por otra parte, las mismas razones que se invocan para sostener que —salvo expresas excepciones legales— los plazos previstos para las actuaciones judiciales tampoco tienen el carácter de fatales.
+
+3. Que tampoco cabe calificar dicha tardanza de arbitraria, pues el mismo texto legal en que se funda la solicitud señala que es posible ampliar el plazo por razones de fuerza mayor o caso fortuito, como pueden ser los hechos públicos y notorios que constituyen la pandemia del COVID 19 y la masificación de la migración regular e irregular en los últimos años, fundamentos de hecho invocados por la recurrida al informar.
+
+Por otra parte, no existe indicio alguno de que la recurrente haya sido discriminada o su petición haya dejado de resolverse por el mero capricho, abuso o desviación de poder de la recurrida.
+
+Atendido lo anterior, tampoco parece que el tiempo de tramitación de la solicitud del recurrente pueda considerarse una infracción a la garantía del plazo razonable del artículo 8.1 de la Convención Americana sobre Derechos Humanos.
+
+4. Que, por otra parte, la presente acción constitucional no tiene por objeto acelerar, corregir o sustituir procedimientos administrativos en curso, de los que no se ha derivado ningún pronunciamiento o acto terminal que pueda calificarse de ilegal o arbitrario, por más que la recurrente esté disconforme con el modo en que se tramita.
+
+Lo anterior, por cuanto la propia la Ley N° 19.880, para evitar la indefensión de los administrados ante una eventual demora injustificada en el pronunciamiento de la autoridad, establece un mecanismo especial para hacer efectivo el principio de celeridad que contempla, el cual no es otro que el llamado silencio administrativo, en su dos modalidades: positivo y negativo, según se contempla en sus artículos 64 y 65. En consecuencia, solo tras la certificación del transcurso del plazo y el requerimiento de hacer valer el silencio administrativo los tribunales podrán apreciar la legalidad o arbitrariedad del acto administrativo que sea consecuencia de haber ejercido la vía que la ley ha dispuesto para que el administrado haga realidad el principio de celeridad y no el recurso de protección durante su tramitación que, como se ha dicho, no puede para constituirse en una vía paralela de tramitación de solicitudes cuyo resultado es incierto.
+
+5. Que, en consecuencia, aun en el evento que se estimase la tardanza en resolver la solicitud del recurrente una omisión pudiese estimarse infundada o arbitraria, con ello no se configuran todos los requisitos para conceder la protección requerida, desde que es un hecho no discutido en esta causa que mientras dure la tramitación de su solicitud, la recurrente se encuentra en situación migratoria regular, por lo que no se constata una eventual privación, perturbación o amenaza a alguno de los derechos constitucionales que ampara la acción constitucional del artículo 20 de la Carta Magna, recurrible por esta vía.
+
+6. Que, finalmente, este disidente no puede dejar de advertir que, de acogerse requerimientos como los del recurrente en autos y ordenarse la aceleración del proceso administrativo en curso por esta vía, ello pudiere eventualmente significar una vulneración del principio de igualdad ante la ley, que consagra el artículo 19 N.° 2 de la Carta Fundamental, respecto de aquellos que verían demoradas las respuestas a sus pretensiones, frente a quienes, de contrario, a través de esta vía, obtendrían que la autoridad administrativa se abocase con prioridad y preferencia al análisis y a la resolución de sus requerimientos.”
+Acordada, asimismo, con el voto en contra del Ministro Sr. Ruz, quien, con un mejor estudio de los antecedentes, es del parecer de revocar la sentencia en alzada y rechazar la acción deducida, teniendo presente que:
+1. No existe indicio alguno de que la recurrente haya sido discriminada o su petición haya dejado de resolverse por el mero capricho, abuso o desviación de poder de la recurrida.
+
+Atendido lo anterior, tampoco parece que el tiempo de tramitación de la solicitud del recurrente pueda considerarse una infracción a la garantía del plazo razonable del artículo 8.1 de la Convención Americana sobre Derechos Humanos.
+
+2. Que, por otra parte, la presente acción constitucional no tiene por objeto acelerar, corregir o sustituir procedimientos administrativos en curso, de los que no se ha derivado ningún pronunciamiento o acto terminal que pueda calificarse de ilegal o arbitrario, por más que la recurrente esté disconforme con el modo en que se tramita.
+
+3. Que, en consecuencia, aun en el evento que se estimase la tardanza en resolver la solicitud del recurrente una omisión pudiese estimarse infundada o arbitraria, con ello no se configuran todos los requisitos para conceder la protección requerida, desde que es un hecho no discutido en esta causa que mientras dure la tramitación de su solicitud, la recurrente se encuentra en situación migratoria regular, por lo que no se constata una eventual privación, perturbación o amenaza a alguno de los derechos constitucionales que ampara la acción constitucional del artículo 20 de la Carta Magna, recurrible por esta vía.
+
+Regístrese y devuélvase.
+
+Rol N° 3.996-2026.
+Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sra. Adelita Ravanales A., Sr. Jean Pierre Matus A., Sr. Omar Astudillo C., Sr. Gonzalo Ruz L. y el Abogado Integrante Sr. Eduardo Gandulfo R. Santiago, 11 de marzo de 2026.
+
+Autoriza el Ministro de Fe de la Excma. Corte Suprema.
+
+En Santiago, a once de marzo de dos mil veintiséis, notifiqué en Secretaría por el Estado Diario la resolución precedente.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Santiago.
+
+Santiago, veintitrés de diciembre de dos mil veinticinco.
+
+Vistos y considerando:
+
+Primero: Que comparecen los abogados Alejandro Espinoza Espinoza y Francisca Chacón Miranda, en favor de Alberto Jose Soto Añez, de nacionalidad venezolana, y deducen acción de protección en contra del Ministerio del Interior y del Servicio Nacional de Migraciones, por lo que estiman constituye un actuar ilegal y arbitrario, a no dar respuesta a su solicitud de carta de nacionalización.
+
+Exponen que después de cumplir con los requisitos y plazos correspondientes, y habiendo obtenido la residencia definitiva, el recurrente inició el trámite de carta de nacionalización el 31 de julio de 2024, sin embargo, desde la fecha de esa presentación, no ha obtenido información ni notificación sobre el estado de ese trámite, lo que estiman constituye una vulneración a las garantías constitucionales de los numerales 2° y 3° del artículo 19 de la Constitución Política de la República.
+
+Solicitan se ordene a la parte recurrida a resolver la petición de nacionalización del actor, o bien se adopten las medidas que se estimen pertinentes para restablecer el imperio del derecho y proteger debidamente sus derechos fundamentales.
+
+Segundo: Que informando el Servicio Nacional de Migraciones, en lo atingente al recurso, señala que es efectivo que se solicitó por la parte recurrente la carta de nacionalización el 31 de julio de 2024, y que actualmente se encuentra en la etapa de “primer análisis”.
+
+Sostiene que el estado de pendencia de la solicitud de carta de nacionalización no conlleva perjuicio alguno a su estatus migratorio, como tampoco al ejercicio de sus derechos o el desenvolvimiento natural del extranjero en el territorio nacional.
+
+Precisa que la labor del Servicio Nacional de Migraciones en la tramitación de las solicitudes de carta de nacionalización termina con la remisión, mediante oficio, de la calificación favorable o desfavorable de dicha solicitud analizada, junto con todos los demás antecedentes aportados, al Gabinete de la Subsecretaría del Interior, para que se otorgue o no la nacionalización, la cual constituye una gracia.
+
+En razón de lo anterior, solicita que se rechace en todas sus partes la acción.
+
+Tercero: Que informando el Ministerio del Interior y a la Subsecretaría del Interior exponen, en primer lugar, que corresponde al Servicio Nacional de Migraciones tramitar las solicitudes de carta de nacionalización para su posterior resolución por parte del Ministerio.
+
+Luego, indican que los antecedentes en cuestión se encuentran actualmente en estado de tramitación ante el Servicio Nacional de Migraciones, como una etapa previa a la entrega de los antecedentes a dicha cartera de Estado para su posterior resolución.
+
+Al respecto, refieren que las solicitudes de nacionalización son sometidas a un análisis exhaustivo por parte de la autoridad, lo que implica una extensa tramitación; por otro lado, señalan que la carta de nacionalización corresponde a una expresión del derecho a petición consagrado en el artículo 19 N°14 de la Constitución Política de la República y agregan que sólo entre enero y marzo de 2024 se han presentado más de 3.400 solicitudes mensuales de otorgamiento de carta de nacionalización.
+
+Por tales razones, explican que la no dictación del acto respectivo no es producto de un mero capricho, sino de la verificación de un procedimiento reglado, cuya aplicación se ha visto exponencialmente incrementada en los últimos años.
+
+Sostienen que el plazo previsto por el artículo 27 de la Ley N°19.880 no constituye uno de carácter fatal para la administración y que no es posible concluir que la sola demora en la tramitación supone una vulneración en los derechos que la Constitución Política de la República establece.
+
+Finalmente, mencionan que de acogerse la acción existe un riesgo de potencial vulneración de los derechos respecto de los demás interesados que se encuentran en similar situación a la de la recurrente y que la acción de protección no constituye la vía idónea para obtener la aceleración de la tramitación de esa clase de procedimientos.
+
+Así las cosas, solicitan el rechazo de la acción, con costas, por carecer de motivos plausibles para litigar.
+
+Cuarto: Que el recurso de protección tiene por objeto restablecer el imperio del derecho cuando éste ha sido quebrantado por actos u omisiones arbitrarios o ilegales que amenazan, perturban o privan del ejercicio legítimo de alguna de las garantías numeradas en el artículo 20 de la Constitución Política de la República.
+
+Quinto: Que, conforme a lo dispuesto en el artículo 20 de la Carta Fundamental, la denominada acción o recurso de protección requiere para su acogida la concurrencia copulativa de los siguientes presupuestos:
+
+a) Una conducta por acción u omisión ilegal o arbitraria;
+
+b) La afectación, expresada en privación, perturbación o amenaza, del legítimo ejercicio referido a determinados derechos esenciales garantizados en la misma Constitución y que se indican en el mencionado precepto;
+
+c) Relación de causalidad entre el comportamiento antijurídico y el agravio a la garantía constitucional; y
+
+d) Posibilidad del órgano jurisdiccional ante el cual se plantea de adoptar medidas de protección o cautela adecuadas, para resguardar el legítimo ejercicio del derecho afectado.
+
+Sexto: Que, respecto del fondo, para resolver se debe acudir a lo estatuido en la Ley N°19.880, atendido que, en su carácter de ley de bases, tiene aplicación supletoria de los procedimientos administrativos.
+
+En este sentido resulta útil destacar el principio de celeridad, previsto en su artículo 7°, conforme al cual la autoridad debe impulsar de oficio, en todos sus trámites, el procedimiento administrativo, debiendo actuar por propia iniciativa, haciendo expeditos los trámites que debe cumplir el expediente y removiendo todo obstáculo que pudiere afectar a su pronta y debida decisión.
+
+Lo anterior resulta congruente con el principio conclusivo, consagrado en el artículo 8°, que determina la necesidad de término del procedimiento con un acto decisorio que se pronuncie sobre la cuestión de fondo, así como con el principio de economía procedimental, del artículo 9°, que manda a la Administración responder con eficacia, evitando trámites dilatorios.
+
+Por último, el artículo 14 define el principio de inexcusabilidad señalando que la Administración está obligada a dictar resolución expresa en todos los procedimientos y a notificarla, cualquiera que sea su forma de iniciación.
+
+Séptimo: Que, de acuerdo con lo informado por las autoridades recurridas, se advierte que el Servicio Nacional de Migraciones ha desconocido la aplicación de los principios de celeridad, conclusivo, de economía procedimental e inexcusabilidad, pues a su respecto, la solicitud de la parte recurrente aún figura en etapa de “primer análisis”.
+
+Octavo: Que, por tanto, la dilación del recurrido -Servicio Nacional de Migraciones- en la tramitación de la solicitud, en este caso particular, debe ser calificada de ilegal y arbitraria porque vulnera la garantía de igualdad ante la ley consagrada en el artículo 19 N°2 de la Carta Fundamental, en tanto importa una discriminación en contra de la parte recurrente en relación con el trato dispensado a otros interesados que, en situación jurídica equivalente, han podido tramitar debidamente sus solicitudes con una respuesta formal y oportuna en la que se contengan las razones conforme a las cuales la autoridad ha adoptado la decisión terminal pertinente.
+
+Por estas consideraciones y de conformidad, además, con lo preceptuado en los artículos 19 y 20 de la Constitución Política de la República y Auto Acordado sobre Tramitación del Recurso de Protección, se decide que se acoge, sin costas, la acción de protección deducida en favor de Alberto Jose Soto Añez, sólo en cuanto se ordena al Servicio Nacional de Migraciones, como medida para restablecer el imperio del derecho, dar curso progresivo a la tramitación de la solicitud de carta de nacionalización de la parte recurrente, ello dentro del plazo de sesenta días hábiles contados desde que el presente fallo quede firme y ejecutoriado.
+
+Acordada la decisión anterior con el voto en contra del abogado integrante señor Jorge Benítez Urrutia, quien estuvo por rechazar la acción constitucional de protección, teniendo presente que el término de seis meses consagrado en el artículo 27 de la Ley N°19.880, no tiene un carácter fatal, no es un plazo de caducidad y puede sobrepasarse por caso de fuerza mayor, como lo es el hecho público y notorio del creciente aumento de los flujos migratorios, por lo que una demora en la tramitación de la solicitud por parte de la autoridad recurrida, no da cuenta de un acto ilegal o arbitrario que lesione o perturbe la garantía constitucional de igualdad ante la ley invocada por la parte recurrente.
+
+Regístrese, comuníquese y archívese, en su oportunidad.
+
+N° Protección-16595-2025.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de Santiago.Santiago, veintitrés de diciembre de dos mil veinticinco. Vistos y considerando:  Primero: Que comparecen los abogados Alejandro Espinoza Espinoza y Francisca Chacón Miranda, en favor de Alberto Jose Soto Añez, de nacionalidad venezolana, y deducen acción de protección en contra del Ministerio del Interior y del Servicio Nacional de Migraciones, por lo que estiman constituye un actuar ilegal y arbitrario, a no dar respuesta a su solicitud de carta de nacionalización.Exponen que después de cumplir con los requisitos y plazos correspondientes, y habiendo obtenido la residencia definitiva, el recurrente inició el trámite de carta de nacionalización el 31 de julio de 2024, sin embargo, desde la fecha de esa presentación, no ha obtenido información ni notificación sobre el estado de ese trámite, lo que estiman constituye una vulneración a las garantías constitucionales de los numerales 2° y 3° del artículo 19 de la Constitución Política de la República.Solicitan se ordene a la parte recurrida a resolver la petición de nacionalización del actor, o bien se adopten las medidas que se estimen pertinentes para restablecer el imperio del derecho y proteger debidamente sus derechos fundamentales.Segundo: Que informando el Servicio Nacional de Migraciones, en lo atingente al recurso, señala que es efectivo que se solicitó por la parte recurrente la carta de nacionalización el 31 de julio de 2024, y que actualmente se encuentra en la etapa de “primer análisis”.Sostiene que el estado de pendencia de la solicitud de carta de nacionalización no conlleva perjuicio alguno a su estatus migratorio, como tampoco al ejercicio de sus derechos o el desenvolvimiento natural del extranjero en el territorio nacional.Precisa que la labor del Servicio Nacional de Migraciones en la tramitación de las solicitudes de carta de nacionalización termina con la remisión, mediante oficio, de la calificación favorable o desfavorable de dicha solicitud analizada, junto con todos los demás antecedentes aportados, al Gabinete de la Subsecretaría del Interior, para que se otorgue o no la nacionalización, la cual constituye una gracia.En razón de lo anterior, solicita que se rechace en todas sus partes la acción.Tercero: Que informando el Ministerio del Interior y a la Subsecretaría del Interior exponen, en primer lugar, que corresponde al Servicio Nacional de Migraciones tramitar las solicitudes de carta de nacionalización para su posterior resolución por parte del Ministerio.Luego, indican que los antecedentes en cuestión se encuentran actualmente en estado de tramitación ante el Servicio Nacional de Migraciones, como una etapa previa a la entrega de los antecedentes a dicha cartera de Estado para su posterior resolución. Al respecto, refieren que las solicitudes de nacionalización son sometidas a un análisis exhaustivo por parte de la autoridad, lo que implica una extensa tramitación; por otro lado, señalan que la carta de nacionalización corresponde a una expresión del derecho a petición consagrado en el artículo 19 N°14 de la Constitución Política de la República y agregan que sólo entre enero y marzo de 2024 se han presentado más de 3.400 solicitudes mensuales de otorgamiento de carta de nacionalización.Por tales razones, explican que la no dictación del acto respectivo no es producto de un mero capricho, sino de la verificación de un procedimiento reglado, cuya aplicación se ha visto exponencialmente incrementada en los últimos años.Sostienen que el plazo previsto por el artículo 27 de la Ley N°19.880 no constituye uno de carácter fatal para la administración y que no es posible concluir que la sola demora en la tramitación supone una vulneración en los derechos que la Constitución Política de la República establece.Finalmente, mencionan que de acogerse la acción existe un riesgo de potencial vulneración de los derechos respecto de los demás interesados que se encuentran en similar situación a la de la recurrente y que la acción de protección no constituye la vía idónea para obtener la aceleración de la tramitación de esa clase de procedimientos.Así las cosas, solicitan el rechazo de la acción, con costas, por carecer de motivos plausibles para litigar.Cuarto: Que el recurso de protección tiene por objeto restablecer el imperio del derecho cuando éste ha sido quebrantado por actos u omisiones arbitrarios o ilegales que amenazan, perturban o privan del ejercicio legítimo de alguna de las garantías numeradas en el artículo 20 de la Constitución Política de la República.Quinto: Que, conforme a lo dispuesto en el artículo 20 de la Carta Fundamental, la denominada acción o recurso de protección requiere para su acogida la concurrencia copulativa de los siguientes presupuestos:a) Una conducta por acción u omisión ilegal o arbitraria;b) La afectación, expresada en privación, perturbación o amenaza, del legítimo ejercicio referido a determinados derechos esenciales garantizados en la misma Constitución y que se indican en el mencionado precepto;c) Relación de causalidad entre el comportamiento antijurídico y el agravio a la garantía constitucional; yd) Posibilidad del órgano jurisdiccional ante el cual se plantea de adoptar medidas de protección o cautela adecuadas, para resguardar el legítimo ejercicio del derecho afectado.Sexto: Que, respecto del fondo, para resolver se debe acudir a lo estatuido en la Ley N°19.880, atendido que, en su carácter de ley de bases, tiene aplicación supletoria de los procedimientos administrativos.En este sentido resulta útil destacar el principio de celeridad, previsto en su artículo 7°, conforme al cual la autoridad debe impulsar de oficio, en todos sus trámites, el procedimiento administrativo, debiendo actuar por propia iniciativa, haciendo expeditos los trámites que debe cumplir el expediente y removiendo todo obstáculo que pudiere afectar a su pronta y debida decisión.Lo anterior resulta congruente con el principio conclusivo, consagrado en el artículo 8°, que determina la necesidad de término del procedimiento con un acto decisorio que se pronuncie sobre la cuestión de fondo, así como con el principio de economía procedimental, del artículo 9°, que manda a la Administración responder con eficacia, evitando trámites dilatorios.Por último, el artículo 14 define el principio de inexcusabilidad señalando que la Administración está obligada a dictar resolución expresa en todos los procedimientos y a notificarla, cualquiera que sea su forma de iniciación.Séptimo: Que, de acuerdo con lo informado por las autoridades recurridas, se advierte que el Servicio Nacional de Migraciones ha desconocido la aplicación de los principios de celeridad, conclusivo, de economía procedimental e inexcusabilidad, pues a su respecto, la solicitud de la parte recurrente aún figura en etapa de “primer análisis”.Octavo: Que, por tanto, la dilación del recurrido -Servicio Nacional de Migraciones- en la tramitación de la solicitud, en este caso particular, debe ser calificada de ilegal y arbitraria porque vulnera la garantía de igualdad ante la ley consagrada en el artículo 19 N°2 de la Carta Fundamental, en tanto importa una discriminación en contra de la parte recurrente en relación con el trato dispensado a otros interesados que, en situación jurídica equivalente, han podido tramitar debidamente sus solicitudes con una respuesta formal y oportuna en la que se contengan las razones conforme a las cuales la autoridad ha adoptado la decisión terminal pertinente.Por estas consideraciones y de conformidad, además, con lo preceptuado en los artículos 19 y 20 de la Constitución Política de la República y Auto Acordado sobre Tramitación del Recurso de Protección, se decide que se acoge, sin costas, la acción de protección deducida en favor de Alberto Jose Soto Añez, sólo en cuanto se ordena al Servicio Nacional de Migraciones, como medida para restablecer el imperio del derecho, dar curso progresivo a la tramitación de la solicitud de carta de nacionalización de la parte recurrente, ello dentro del plazo de sesenta días hábiles contados desde que el presente fallo quede firme y ejecutoriado.Acordada la decisión anterior con el voto en contra del abogado integrante señor Jorge Benítez Urrutia, quien estuvo por rechazar la acción constitucional de protección, teniendo presente que el término de seis meses consagrado en el artículo 27 de la Ley N°19.880, no tiene un carácter fatal, no es un plazo de caducidad y puede sobrepasarse por caso de fuerza mayor, como lo es el hecho público y notorio del creciente aumento de los flujos migratorios, por lo que una demora en la tramitación de la solicitud por parte de la autoridad recurrida, no da cuenta de un acto ilegal o arbitrario que lesione o perturbe la garantía constitucional de igualdad ante la ley invocada por la parte recurrente.Regístrese, comuníquese y archívese, en su oportunidad. N° Protección-16595-2025.                        ⚠                      Sin documento en esta instancia - pdf
