@@ -4,19 +4,19 @@ case_id: 642f71a9aab69c0b200512f7959ea7bd421bebd3
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045755
 
-rol: 114-2024
+rol: 6680-2026
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-03-02
 
-caratulado: JOSE AURELIO PONTILLO LIRA Y OTRA CON FISCO DE CHILE - CDE
+caratulado: CHARLES JAMES CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Responsabilidad extracontractual del Estado por Violaciones a los derechos humanos
+materias: ▪ Recurso de Amparo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
 
-resultado_recurso: RECHAZA CASACION EN EL FONDO (M)
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

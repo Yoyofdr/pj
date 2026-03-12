@@ -4,19 +4,19 @@ case_id: b5a9ed5021871ab9cd14ddbf482528b26363e140
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046393
 
-rol: 2951-2026
+rol: 8265-2026
 
 fecha_sentencia: 2026-03-02
 
-caratulado: INMOB. CONSTRUCTORA E INVERSIONES EL VALLE LTDA./TESORERÍA REGIONAL DEL BIOBIO
+caratulado: ORGANIZACIÓN GREMIAL GOLETA ANCUD/MUNICIPALIDAD DE ANCUD
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Tesorería General de la República
+materias: ▪ Amparo Económico
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: APROBADA SENTENCIA CONSULTADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

@@ -4,19 +4,19 @@ case_id: 909559c3a33e878624a02af908d441db97b849ad
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045059
 
-rol: 7914-2026
+rol: 6230-2026
 
 fecha_sentencia: 2026-03-02
 
-caratulado: VARGAS MORALES MARCELO CONTRA JUZGADO DE LETRAS Y GARANTIA DE FREIRINA
+caratulado: FRANTZ-CIE FLEURIDORT CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

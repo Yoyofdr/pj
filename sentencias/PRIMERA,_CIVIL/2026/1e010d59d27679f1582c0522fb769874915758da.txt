@@ -14,7 +14,7 @@ sala: PRIMERA, CIVIL
 
 materias: ▪ Precario. Comodato precario
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
 
 resultado_recurso: RECHAZA FORMA, ACOGIDA CASACIÓN FONDO, ANULADA SENTENCIA DE (M)
 

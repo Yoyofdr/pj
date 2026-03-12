@@ -4,19 +4,19 @@ case_id: c68c2d64bdaa5ee1a22d088cabefa4aa03bbc734
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045813
 
-rol: 29850-2025
+rol: 27-2026
 
 fecha_sentencia: 2026-03-02
 
-caratulado: CONSORCIO FINANCIERO S.A. CON TRIBUNAL DE DEFENSA DE LA LIBRE COMPETENCIA
+caratulado: ARIAS/SOCIEDAD CONCESIONARIA RUTA DE LA FRUTA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Colusión
+materias: ▪ Concesiones
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
 
-resultado_recurso: ACOGIDA RECURSO DE RECLAMACIÓN
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
