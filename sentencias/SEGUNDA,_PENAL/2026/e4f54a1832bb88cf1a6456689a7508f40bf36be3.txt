@@ -1,0 +1,89 @@
+METADATA
+
+case_id: e4f54a1832bb88cf1a6456689a7508f40bf36be3
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8043183
+
+rol: 6043-2026
+
+fecha_sentencia: 2026-02-26
+
+caratulado: SANDOVAL ZARATE HILARION CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintiséis de febrero de dos mil veintiséis.
+
+VISTO Y TENIENDO PRESENTE:
+1°. - Que, en este juicio arbitral, se ha ordenado dar cuenta de la admisibilidad del recurso de casación en la forma deducido por la parte demandada, en contra de la sentencia dictada por la Corte de Apelaciones de Santiago, la cual acoge el incidente de nulidad de todo lo obrado, invalidando la sentencia dictada con fecha veintiocho de junio de dos mil veintitrés y todo lo obrado desde la resolución que citó a las partes a oír sentencia hasta la certificación del señor secretario de fecha 16 de agosto de 2023, debiendo dictar el Tribunal las resoluciones que en derecho correspondan para dar curso progresivo a los autos.
+
+2°- Que, el artículo 766 del Código de Procedimiento Civil dispone que se admite el recurso de casación en la forma contra sentencias definitivas inapelables y contra sentencias interlocutorias inapelables cuando ponen término al juicio o hacen imposible su continuación, dictadas -en lo que interesa para el presente caso- por Cortes de Apelaciones, siempre que se hayan pronunciado con infracción de ley y esta infracción haya influido substancialmente en lo dispositivo de la sentencia.
+
+3º- Que la resolución impugnada por esta vía no comparte la naturaleza de aquellas aludidas en el motivo anterior, toda vez que no ha puesto fin a la instancia, no ha concluido el juicio, ni ha hecho imposible su prosecución, razón por la cual el recurso de nulidad intentado en autos no podrá ser admitido a tramitación.
+
+Por estas consideraciones y de conformidad con lo dispuesto en los artículos 766 y 781 del Código de Procedimiento Civil, se declara inadmisible el recurso de casación en la forma, deducido por el abogado Ignacio García Parraguez, en representación de la parte demandada, en contra de la sentencia pronunciada por la Corte de Apelaciones de Santiago, de fecha veintiséis de diciembre de dos mil veinticinco.
+
+Regístrese y devuélvase.
+
+Rol N° 5281 – 2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Santiago
+Santiago, veintiséis de diciembre de dos mil veinticinco.
+
+Vistos y teniendo presente:
+Primero: Que el abogado Fidel Nicolás Reyes Castillo, por la demandante Keyla Tobar, deduce recurso de apelación contra la sentencia interlocutoria de fecha 15 de noviembre de 2023, dictada por el juez árbitro Juan Pablo Appelgren Balbontín en causa “Inversiones e Inmobiliaria Alfonso Fuentes EIRL con Tobar”, Rol N° 22.126-2019, que rechazó de plano incidente de nulidad de lo obrado por falta de emplazamiento intentado por su parte.
+
+Pide que se anule todo lo obrado desde el 2 de febrero de 2023.
+
+Segundo: Que, indica que en comparendo de fecha 25 de noviembre de 2021 se acordó que las notificaciones de las resoluciones que se dictasen se efectuarían por correo electrónico, sin perjuicio de aquellas que han de notificarse por cédula como la resolución que recibe la causa a prueba, la sentencia definitiva o cualquier otra resolución que el tribunal así lo ordenase.
+
+Hace ver que el proceso se había desarrollado sin inconvenientes hasta la resolución de fecha 2 de febrero de 2023 que tuvo presente las observaciones a la prueba efectuadas por su parte toda vez que, a partir de dicha fecha, les dejan de notificar válidamente las providencias dictadas, a saber la resolución que cita a las partes a oír sentencia y la sentencia definitiva, causándoles un evidente agravio pues sostiene que se quedaron sin la posibilidad de recurrir.
+
+Asegura que su parte tomó conocimiento de ambas resoluciones recién con fecha 16 de agosto de 2023 tras la notificación por correo electrónico de la resolución que ordenó certificar que la sentencia definitiva se encontraba firme.
+
+Tercero: Que el N° 7 del artículo 795 del Código de Procedimiento Civil establece lo siguiente:
+
+“Art. 795. En general, son trámites o diligencias esenciales en la primera o en la única instancia en los juicios de mayor o de menor cuantía y en los juicios especiales: … 7°. La citación para oír sentencia definitiva, salvo que la ley no establezca este trámite.”
+
+Cuarto: Que, la cláusula novena del acta del comparendo que fijó las bases del procedimiento, fechada 25 de noviembre de 2021, reza como sigue:
+
+“Noveno: Notificaciones. Las notificaciones de las resoluciones que se dicten en este procedimiento arbitral, se efectuarán por correo electrónico dirigido a los mails o direcciones de correo que a continuación las partes entregarán para estos efectos. Las notificaciones se entenderán practicadas el día del envío del correo electrónico, lo que se dejará constancia en autos, por lo que los plazos comenzarán a correr el día siguiente hábil al envío. Se fija como correos electrónicos para estos efectos: - freyescastillo24@yahoo.cl – igarcia@paraguezpinochet.cl. El mail del tribunal es: jpappelgren@appelgren.cl. No será necesario acta o constancia alguna para que las partes se tengan por notificadas de resoluciones que se dicten en audiencias o diligencias a las cuales concurran o sean representadas a través de mandatarios. Sin embargo, la notificación para dar inicio al procedimiento se realizará por cédula. Asimismo, la resolución que recibe la causa a prueba, la sentencia definitiva o cualquier otra resolución que el tribunal así lo ordene serán practicadas por cédula, a través de notario o receptor judicial.”
+
+Quinto: Que, revisados los antecedentes, consta a fojas 8 que la demandante otorgó mandato judicial al compareciente, a efectos sólo de acreditar dicha representación, sin señalar el domicilio del mandatario designado como lugar de notificación válida.
+
+Por otra parte, las notificaciones por cédula realizadas con anterioridad a la cuestión que nos ocupa, se realizaron en el domicilio de la demandante, no en el domicilio de su mandatario judicial, como dan cuenta los estampados receptoriales que rolan a fojas 2 y 65, referidos a la notificación de la constitución del compromiso y la que recibió la causa a prueba, respectivamente.
+
+Luego, a fojas 227, por resolución de 14 de junio de 2023, consta que el Sr. Juez Árbitro citó a las partes a oír sentencia, pero en la constancia de la notificación al correo electrónico, a fojas 228, solo consta la notificación al abogado Ignacio García Parraguez y, en cambio no figura la del abogado Fidel Reyes Castillo, apoderado de la demandante.
+
+Más aún, según consta del estampado que rola a fojas 239 la notificación por cédula de la sentencia definitiva se practicó con fecha 20 de julio de 2023 en el domicilio del abogado compareciente, domicilio que en ninguna oportunidad procesal fue designado por la demandante como domicilio para efectuarle notificaciones válidas, como ya se dijo.
+
+Sexto: Que, atendido lo señalado, le asiste la razón al recurrente por cuanto efectivamente la notificación de la sentencia definitiva se practicó en un domicilio que su representada no designó a efectos de ser notificada, ni para ningún otro efecto procesal, por lo que dicha notificación resulta inválida.
+
+Séptimo: Que, por otra parte, se constata que la última resolución que se notificó válidamente a la recurrente es aquella de fecha 2 de febrero de 2023 que tuvo por efectuadas las observaciones a la prueba por su parte, notificación practicada mediante correo electrónico de esa misma fecha.
+
+Octavo: Que, en mérito de lo expuesto, durante la tramitación de la causa se ha incurrido en un vicio, pues ni la citación para oír sentencia, ni la sentencia dictada en estos autos arbitrales, fueron notificadas a la parte demandada en la forma que se acordó en la bases del procedimiento, lo que ocasiona la nulidad de sendas actuaciones y todo lo obrado a continuación, motivo por el que, actuando esta Corte de oficio, conforme a las facultades que emanan para el órgano jurisdiccional, de acuerdo a los artículos 84 y 775 del Código de Procedimiento Civil, en relación con los artículos 768 N° 9 y 795 N° 7 del mismo cuerpo normativo, invalidará lo obrado, a partir de la resolución que se indicará, debiendo retrotraerse la causa al estado que se indicará en lo resolutivo.
+
+Por lo anterior, y de conformidad, además, con lo previsto en los artículos 84, 768 N° 9, 775 y 795 N° 7 del Código de Procedimiento Civil, actuando esta Corte de oficio, se invalida la sentencia de veintiocho de junio de dos mil veintitrés, que rola desde fojas 229 a fojas 237 vta., dictada por el Sr. Juez Árbitro, don Juan Pablo Appelgren Balbontín, así como también se anula todo lo obrado en esos autos arbitrales, desde la notificación de la resolución de fojas 227, que citó a las partes a oír sentencia, cuya constancia figura a fojas 228 hasta la certificación del Sr. Secretario, de fecha 16 de agosto de 2023, a fojas 245, debiendo el tribunal dictar las resoluciones que en derecho correspondan para dar curso progresivo a los autos.
+Consecuencia de lo anterior, se omite pronunciamiento respecto de la apelación deducida por el abogado Fidel Reyes Castillo, en representación de la demandante, a fojas 254.
+
+Regístrese y devuélvase.
+
+Redacción del Abogado Integrante señor Jorge Benítez Urrutia.
+
+N°Civil-19839-2023.
+
+Pronunciada por la Séptima Sala de la Iltma. Corte de Apelaciones de Santiago, presidida por el ministro señor José Pablo Rodríguez Moreno e integrada por el ministro señor Tomás Gray Gariazzo y por el abogado integrante señor Jorge Benítez Urrutia.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de SantiagoSantiago, veintiséis de diciembre de dos mil veinticinco.Vistos y teniendo presente: Primero: Que el abogado Fidel Nicolás Reyes Castillo, por la demandante Keyla Tobar, deduce recurso de apelación contra la sentencia interlocutoria de fecha 15 de noviembre de 2023, dictada por el juez árbitro Juan Pablo Appelgren Balbontín en causa “Inversiones e Inmobiliaria Alfonso Fuentes EIRL con Tobar”, Rol N° 22.126-2019, que rechazó de plano incidente de nulidad de lo obrado por falta de emplazamiento intentado por su parte.Pide que se anule todo lo obrado desde el 2 de febrero de 2023.Segundo: Que, indica que en comparendo de fecha 25 de noviembre de 2021 se acordó que las notificaciones de las resoluciones que se dictasen se efectuarían por correo electrónico, sin perjuicio de aquellas que han de notificarse por cédula como la resolución que recibe la causa a prueba, la sentencia definitiva o cualquier otra resolución que el tribunal así lo ordenase.Hace ver que el proceso se había desarrollado sin inconvenientes hasta la resolución de fecha 2 de febrero de 2023 que tuvo presente las observaciones a la prueba efectuadas por su parte toda vez que, a partir de dicha fecha, les dejan de notificar válidamente las providencias dictadas, a saber la resolución que cita a las partes a oír sentencia y la sentencia definitiva, causándoles un evidente agravio pues sostiene que se quedaron sin la posibilidad de recurrir.Asegura que su parte tomó conocimiento de ambas resoluciones recién con fecha 16 de agosto de 2023 tras la notificación por correo electrónico de la resolución que ordenó certificar que la sentencia definitiva se encontraba firme.Tercero: Que el N° 7 del artículo 795 del Código de Procedimiento Civil establece lo siguiente: “Art. 795. En general, son trámites o diligencias esenciales en la primera o en la única instancia en los juicios de mayor o de menor cuantía y en los juicios especiales: … 7°. La citación para oír sentencia definitiva, salvo que la ley no establezca este trámite.”Cuarto: Que, la cláusula novena del acta del comparendo que fijó las bases del procedimiento, fechada 25 de noviembre de 2021, reza como sigue:“Noveno: Notificaciones. Las notificaciones de las resoluciones que se dicten en este procedimiento arbitral, se efectuarán por correo electrónico dirigido a los mails o direcciones de correo que a continuación las partes entregarán para estos efectos. Las notificaciones se entenderán practicadas el día del envío del correo electrónico, lo que se dejará constancia en autos, por lo que los plazos comenzarán a correr el día siguiente hábil al envío. Se fija como correos electrónicos para estos efectos: - freyescastillo24@yahoo.cl – igarcia@paraguezpinochet.cl. El mail del tribunal es: jpappelgren@appelgren.cl. No será necesario acta o constancia alguna para que las partes se tengan por notificadas de resoluciones que se dicten en audiencias o diligencias a las cuales concurran o sean representadas a través de mandatarios. Sin embargo, la notificación para dar inicio al procedimiento se realizará por cédula. Asimismo, la resolución que recibe la causa a prueba, la sentencia definitiva o cualquier otra resolución que el tribunal así lo ordene serán practicadas por cédula, a través de notario o receptor judicial.”Quinto: Que, revisados los antecedentes, consta a fojas 8 que la demandante otorgó mandato judicial al compareciente, a efectos sólo de acreditar dicha representación, sin señalar el domicilio del mandatario designado como lugar de notificación válida.Por otra parte, las notificaciones por cédula realizadas con anterioridad a la cuestión que nos ocupa, se realizaron en el domicilio de la demandante, no en el domicilio de su mandatario judicial, como dan cuenta los estampados receptoriales que rolan a fojas 2 y 65, referidos a la notificación de la constitución del compromiso y la que recibió la causa a prueba, respectivamente.Luego, a fojas 227, por resolución de 14 de junio de 2023, consta que el Sr. Juez Árbitro citó a las partes a oír sentencia, pero en la constancia de la notificación al correo electrónico, a fojas 228, solo consta la notificación al abogado Ignacio García Parraguez y, en cambio no figura la del abogado Fidel Reyes Castillo, apoderado de la demandante.Más aún, según consta del estampado que rola a fojas 239 la notificación por cédula de la sentencia definitiva se practicó con fecha 20 de julio de 2023 en el domicilio del abogado compareciente, domicilio que en ninguna oportunidad procesal fue designado por la demandante como domicilio para efectuarle notificaciones válidas, como ya se dijo.Sexto: Que, atendido lo señalado, le asiste la razón al recurrente por cuanto efectivamente la notificación de la sentencia definitiva se practicó en un domicilio que su representada no designó a efectos de ser notificada, ni para ningún otro efecto procesal, por lo que dicha notificación resulta inválida.Séptimo: Que, por otra parte, se constata que la última resolución que se notificó válidamente a la recurrente es aquella de fecha 2 de febrero de 2023 que tuvo por efectuadas las observaciones a la prueba por su parte, notificación practicada mediante correo electrónico de esa misma fecha.Octavo: Que, en mérito de lo expuesto, durante la tramitación de la causa se ha incurrido en un vicio, pues ni la citación para oír sentencia, ni la sentencia dictada en estos autos arbitrales, fueron notificadas a la parte demandada en la forma que se acordó en la bases del procedimiento, lo que ocasiona la nulidad de sendas actuaciones y todo lo obrado a continuación, motivo por el que, actuando esta Corte de oficio, conforme a las facultades que emanan para el órgano jurisdiccional, de acuerdo a los artículos 84 y 775 del Código de Procedimiento Civil, en relación con los artículos 768 N° 9 y 795 N° 7 del mismo cuerpo normativo, invalidará lo obrado, a partir de la resolución que se indicará, debiendo retrotraerse la causa al estado que se indicará en lo resolutivo. Por lo anterior, y de conformidad, además, con lo previsto en los artículos 84, 768 N° 9, 775 y 795 N° 7 del Código de Procedimiento Civil, actuando esta Corte de oficio, se invalida la sentencia de veintiocho de junio de dos mil veintitrés, que rola desde fojas 229 a fojas 237 vta., dictada por el Sr. Juez Árbitro, don Juan Pablo Appelgren Balbontín, así como también se anula todo lo obrado en esos autos arbitrales, desde la notificación de la resolución de fojas 227, que citó a las partes a oír sentencia, cuya constancia figura a fojas 228 hasta la certificación del Sr. Secretario, de fecha 16 de agosto de 2023, a fojas 245, debiendo el tribunal dictar las resoluciones que en derecho correspondan para dar curso progresivo a los autos.Consecuencia de lo anterior, se omite pronunciamiento respecto de la apelación deducida por el abogado Fidel Reyes Castillo, en representación de la demandante, a fojas 254.Regístrese y devuélvase.Redacción del Abogado Integrante señor Jorge Benítez Urrutia.N°Civil-19839-2023.Pronunciada por la Séptima Sala de la Iltma. Corte de Apelaciones de Santiago, presidida por el ministro señor José Pablo Rodríguez Moreno e integrada por el ministro señor Tomás Gray Gariazzo y por el abogado integrante señor Jorge Benítez Urrutia.                        ⚠                      Sin documento en esta instancia - pdf
