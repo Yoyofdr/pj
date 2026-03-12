@@ -4,19 +4,19 @@ case_id: 915d1011b7ceec6e58c17e7fecea46ff097eacbc
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8051301
 
-rol: 37953-2025
+rol: 366-2026
 
-fecha_sentencia: 2026-03-04
+fecha_sentencia: 2026-03-05
 
-caratulado: NOEL. ALOURDES /SERVICIO NACIONAL DE MIGRACIONES
+caratulado: SÁNCHEZ ARROYO EXEQUIEL SEGUNDO/GENDARMERÍA DE CHILE
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (FAMILIA) APELACIÓN DE AMPARO
+materias: ▪ Función pública
 
-recurso: (FAMILIA) APELACIÓN DE AMPARO
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

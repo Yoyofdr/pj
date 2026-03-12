@@ -8,13 +8,13 @@ rol: 9169-2026
 
 fecha_sentencia: 2026-03-05
 
-caratulado: Santiago, cinco de marzo de dos mil veintiséis.Vistos:Se confirma la sentencia apelada de fecha diez de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago.Regístrese y devuélvase.Rol N° 8.228-2026....Santiago, cinco de marzo de dos mil veintiséis.Vistos:Se confirma la sentencia apelada de fecha diez de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago.Regístrese y devuélvase.Rol N° 8.228-2026.Ver más [+]  Ver sentencia
+caratulado: Santiago, cinco de marzo de dos mil veintiséis.Vistos:Se confirma la sentencia apelada de fecha siete de agosto de dos mil veinticinco, dictada por la Corte de Apelaciones de Santiago.Regístrese y devuélvase.Rol N° 44.307-2025....Santiago, cinco de marzo de dos mil veintiséis.Vistos:Se confirma la sentencia apelada de fecha siete de agosto de dos mil veinticinco, dictada por la Corte de Apelaciones de Santiago.Regístrese y devuélvase.Rol N° 44.307-2025.Ver más [+]  Ver sentencia
 
 sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

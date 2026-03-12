@@ -1,0 +1,126 @@
+METADATA
+
+case_id: a1a9344e4d7b91e5ca064d0b70c24e81b9bac82e
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8051276
+
+rol: 9130-2026
+
+fecha_sentencia: 2026-03-05
+
+caratulado: BELTRAN/SERVICIO NACIONAL DE MIGRACIONES DE CHILE
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, a cinco de marzo de dos mil veintiséis.
+
+Vistos:
+Se reproduce el fallo en alzada.
+
+Y se tiene, además, presente:
+Primero: Que se recurre de protección en favor de la parte recurrente, en contra del Servicio Nacional de Migraciones, impugnando el acto que se califica de ilegal y arbitrario consistente en dictar la resolución exenta que rechazó la solicitud de residencia definitiva, fundada en el incumplimiento de requisitos, afectándose, con dicha negativa, la garantía constitucional prevista en el artículo 19 N°2 de la Constitución Política de la República.
+Segundo: Que por sentencia dictada por la Corte de Apelaciones se acogió la acción constitucional referida, dejando sin efecto el acto recurrido y ordenando continuar con la tramitación de la solicitud, debiendo el Servicio dictar un acto terminal conforme a derecho.
+
+Tercero: Que, a efectos de dilucidar la controversia planteada, es preciso tener en consideración que, conforme al mérito de los antecedentes, la recurrida informó al recurrente que la solicitud presentada no estaba en condiciones de avanzar, pues no acompañó el certificado de antecedentes penales original y apostillado, para continuar con el trámite. Por ello, se otorgó un plazo para subsanar el defecto.
+
+Tras no cumplir el recurrente con acompañar el documento requerido, se le informó que la solicitud tenía causal de rechazo, otorgando un plazo de diez días, para realizar descargos y acompañar los documentos faltantes.
+
+Finalmente, atendido a que el requerimiento no fue subsanado, se rechazó la solicitud de permanencia definitiva.
+
+Cuarto: Que la ley N°21.325 establece en su artículo 78 inciso segundo que “La residencia definitiva sólo se podrá otorgar a los extranjeros poseedores de un permiso de residencia temporal que expresamente admita postular a ella y que cumplan con los requisitos establecidos en la presente ley, su reglamento y el decreto supremo que fija las subcategorías señalado en el artículo 70.”
+Luego, el artículo 11 del Decreto N°177 indica los documentos que deben ser acompañados en las solicitudes, indicando en su letra b) que “En el caso de los solicitantes que según la ley chilena sean mayores de edad, el certificado de antecedentes penales o documento equivalente expedido por la autoridad competente de su país de origen o de aquel en el cual hayan residido en los últimos 5 años. En caso que la residencia en un país distinto al de origen haya tenido lugar en un lapso menor a los últimos 5 años, deberá adjuntarse el certificado o documento equivalente, expedido por las autoridades competentes de los diferentes países en los que haya residido durante dicho periodo”.
+
+Finalmente, el artículo 88 inciso 1° de la Ley citada indica “Causales de rechazo. Deben rechazarse por resolución fundada las solicitudes de residencias de quienes: 1. No cumplan los requisitos de cada categoría y subcategoría migratoria fijados en el respectivo decreto, en conformidad con lo establecido en el artículo 70”.
+Quinto: Que, así las cosas, cabe concluir que la recurrida no incurrió en acto ilegal o arbitrario alguno, pues acompañar el documento solicitado y cumplir con el pago de los derechos correspondientes, son requisitos establecido en la normativa, necesarios para acceder a la solicitud de residencia definitiva. Por ello, tras constatarse su incumplimiento, se otorgaron plazos a la parte recurrente para que subsanara su error, sin que se cumpliera.
+
+Por lo tanto, no resulta posible aceptar que la acción constitucional constituya una nueva instancia para corregir una solicitud incompleta o subsanar sus defectos, ya que el procedimiento administrativo contempla con etapas idóneas para ello, como se constató respecto del actor.
+
+Por estas consideraciones y de conformidad con lo que dispone el artículo 20 de la Constitución Política de la República y el Auto Acordado de esta Corte sobre la materia, se confirma la sentencia apelada.
+
+Regístrese y devuélvase.
+
+Rol N° 37585- 2025.
+
+Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sr. Jean Pierre Matus A., Sra. María Soledad Melo L., Sr. Gonzalo Ruz L. y los Abogados Integrantes Sr. Juan Carlos Ferrada B. y Sr. José Miguel Valdivia O. Santiago, 05 de marzo de 2026.
+
+Autoriza el Ministro de Fe de la Excma. Corte Suprema.
+
+En Santiago, a cinco de marzo de dos mil veintiséis, notifiqué en Secretaría por el Estado Diario la resolución precedente.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Concepción, veintisiete de agosto de dos mil veinticinco.
+
+VISTO:
+
+Que comparece WALTER FERNANDO HERNÁNDEZ PINTOR, casado, Cédula de Identidad Chilena Vencida N° 25.760.418-7, de nacionalidad colombiano, domiciliado para estos efectos en Pasaje José Antonio Villagrán N°417 en la ciudad y comuna de Concepción, región del Bío Bío, e interponer de Protección, en contra del Servicio Nacional de Migraciones, con domicilio en calle San Antonio N° 580, tercer piso, Santiago; Rol Único Tributario N° 60.501.000-8, organismo dependiente del Ministerio del Interior y Seguridad Pública de Chile, representado por su Director Nacional don LUIS THAYER CORREA, sociólogo, cédula nacional de identidad 12.627.882-9, del mismo domicilio.
+
+Acto recurrido: acto ilegal y arbitrario de parte del recurrido consistente en el rechazo de la solicitud de residencia definitiva del recurrente y posterior orden de expulsión del territorio nacional.
+
+Funda el recurso señalando que ingres a Chile por vía legal, a través del Aeropuerto Arturo Merino Benítez de Santiago, con la intención de establecerse de forma regular y construir un proyecto de vida en este país.
+
+Durante su permanencia en Chile, obtuvo residencia temporal otorgada por el Servicio Nacional de Migraciones, situación migratoria que mantuvo vigente mientras estuvo en curso. En el desarrollo de su vida en Chile, contrajo matrimonio, consolidando así un núcleo familiar y afectivo en este país.
+
+En cumplimiento de lo exigido por la normativa migratoria vigente, dentro del plazo correspondiente presentó una solicitud de residencia definitiva, acompañando toda la documentación requerida por el Servicio Nacional de Migraciones, entre ella, el certificado de antecedentes penales emitido por la autoridad competente de Colombia, que acredita que no tiene antecedentes penales ni causas pendientes en su país de origen, todo aquellos según se certifica en los documentos que acompañan.
+
+Sin embargo, posteriormente el Servicio le requirió un certificado de antecedentes penales “amplificado”. Tal requerimiento fue imposible de cumplir, dado que las autoridades colombianas no emiten un documento distinto al ya presentado cuando la persona no registra antecedentes penales.
+
+Informó formalmente esta situación al Servicio Nacional de Migraciones, explicando que el documento solicitado no podía ser emitido, por la sencilla razón de que no tengo antecedentes penales en mi país. Pese a ello, mediante Resolución Exenta N° 24603758, el Servicio resolvió rechazar su solicitud de residencia definitiva y ordenó mi abandono del territorio nacional, documento que se adjunta.
+
+Cita normativa y jurisprudencia.
+
+Finaliza se restablezca el imperio del derecho ordenando al Servicio Nacional de migración, seguir adelante con el proceso de residencia definitiva, revocar la orden que dispone el abandono del país y ordenar tomar las medidas necesarias para regularizar la situación migratoria del recurrente.
+
+Acompaña documentos.
+
+Informa la Policía de Investigaciones, señalando las fechas en que el recurrente ingresa al país por el Aeropuerto Internacional Arturo Merino Benítez, que no registra antecedentes policiales, ni mantiene encargo y/o ordenes pendientes.
+
+Informa la recurrida, señalando que con fecha 28 de octubre de 2020, el extranjero presentó solicitud de residencia definitiva.
+
+Que, la persona extranjera no adjunta la ampliación del certificado de antecedentes de su país de origen, requisito exigido para otorgar el permiso de residencia definitiva, siendo pertinente rechazar su solicitud en conformidad al artículo 88 N°1 de la Ley N°21.325 de Migración y Extranjería.
+
+Que, mediante notificación electrónica de fecha 09-12-2024, se comunicó a la persona extranjera respecto de las razones que sirven de fundamento al rechazo de su solicitud de acuerdo a lo previsto en el artículo 91 de la Ley N°21.325, otorgándole un plazo de 10 días para presentar antecedentes respecto de la causal de rechazo invocada por esta autoridad.
+
+Que, habiéndose cumplido el plazo de 10 días hábiles otorgados, y analizados los antecedentes acompañados por la persona extranjera en su solicitud de residencia, no ha sido posible desvirtuar los motivos que sustentan las razones invocadas por esta autoridad, siendo procedente el rechazo de la solicitud de residencia definitiva presentada por la persona extranjera.
+
+Que es facultad de este Servicio Nacional la resolución de las solicitudes de residencias definitivas que realicen los extranjeros.
+
+Que con fecha 30/12/2024, se rechazó su solicitud y se dispuso del abandono en un plazo de 15 días, por medio de Resolución Exenta N°24603758. 2
+
+Que, con fecha 8 de enero de 2025, el extranjero interpuso recurso administrativo en contra de la resolución antes mencionada, lo que hace aún más improcedente la presente acción de protección contraviniendo la normativa legal vigente.
+
+Cita normativa y jurisprudencia.
+
+Solicita el rechazo del recurso.
+
+Acompaña documentos.
+
+Se trajeron los autos en relación
+
+CONSIDERANDO:
+
+1° Que el recurso de protección de garantías constitucionales establecido en el artículo 20 de la Constitución Política de la República, constituye una acción de naturaleza cautelar, destinada a amparar el legítimo ejercicio de las garantías y derechos que en esa misma disposición se enumeran, mediante la adopción de medidas de resguardo que se deben tomar ante un acto u omisión arbitrario o ilegal que lo prive, perturbe o amenace.
+
+Por consiguiente, constituye presupuesto indispensable de la acción cautelar de protección la existencia de un acto u omisión ilegal –contrario a la ley– o arbitrario –producto del mero capricho de quienes incurren en él–, que provoque alguna de las situaciones que se han indicado y que afecte, además, una o más de las garantías constitucionales protegidas por el referido artículo 20 de la Carta Fundamental.
+
+2° Que, conforme a los antecedentes allegados, se constata que la resolución que se denuncia como arbitraria e ilegal ha sido adoptada por el órgano competente, en ejercicio de las facultades que le otorga el ordenamiento jurídico y con la debida fundamentación, al concluir que la solicitud del recurrente no cumple con las exigencias contempladas en la Ley N°21.325, esto por cuanto no adjunta la ampliación del certificado de antecedentes de su país de origen, requisito exigido para otorgar el permiso de residencia definitiva, siendo pertinente rechazar su solicitud en conformidad al artículo 88 N°1 de la Ley N°21.325 de Migración y Extranjería, por lo cual se dispuso con fecha 30/12/2024, el rechazó su solicitud y se dispuso del abandono en un plazo de 15 días, por medio de Resolución Exenta N°24603758, acto administrativo que se encuentra vigente, según se ha podido justificar, y obedece al acatamiento de la normativa que regula la materia, específicamente, el orden consecutivo legal al que debe estarse en los procedimientos administrativos que se llevan a cabo para obtener los extranjeros su estatus migratorio en nuestro país.
+
+Que, en las circunstancias reseñadas, la autoridad se encuentra en el imperativo de obrar conforme a lo que realizó, de manera que, en estas circunstancias, el presente arbitrio no puede prosperar.
+
+Por estas consideraciones y de conformidad, además, con lo previsto en el artículo 20 de la Constitución Política de la República y Auto Acordado de la Excma. Corte Suprema sobre Tramitación del Recurso de Protección de Garantías Constitucionales, SE RECHAZA, sin costas, el recurso de protección interpuesto por de WALTER FERNANDO HERNÁNDEZ PINTOR en contra del Servicio Nacional de Migraciones.
+
+Redactado por la ministra interina Claudia Vilches Toro.
+
+ROL 1914-2025 PROTECCIÓN.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, a cinco de marzo de dos mil veintiséis.Vistos:Se reproduce el fallo en alzada.Y se tiene, además, presente:Primero: Que se recurre de protección en favor de la parte recurrente, en contra del Servicio Nacional de Migraciones, impugnando el acto que se califica de ilegal y arbitrario consistente en dictar la resolución exenta que rechazó la solicitud de residencia definitiva, fundada en el incumplimiento de requisitos, afectándose, con dicha negativa, la garantía constitucional prevista en el artículo 19 N°2 de la Constitución Política de la República.Segundo: Que por sentencia dictada por la Corte de Apelaciones se acogió la acción constitucional referida, dejando sin efecto el acto recurrido y ordenando continuar con la tramitación de la solicitud, debiendo el Servicio dictar un acto terminal conforme a derecho.Tercero: Que, a efectos de dilucidar la controversia planteada, es preciso tener en consideración que, conforme al mérito de los antecedentes, la recurrida informó al recurrente que la solicitud presentada no estaba en condiciones de avanzar, pues no acompañó el certificado de antecedentes penales original y apostillado, para continuar con el trámite. Por ello, se otorgó un plazo para subsanar el defecto.Tras no cumplir el recurrente con acompañar el documento requerido, se le informó que la solicitud tenía causal de rechazo, otorgando un plazo de diez días, para realizar descargos y acompañar los documentos faltantes.Finalmente, atendido a que el requerimiento no fue subsanado, se rechazó la solicitud de permanencia definitiva.Cuarto: Que la ley N°21.325 establece en su artículo 78 inciso segundo que “La residencia definitiva sólo se podrá otorgar a los extranjeros poseedores de un permiso de residencia temporal que expresamente admita postular a ella y que cumplan con los requisitos establecidos en la presente ley, su reglamento y el decreto supremo que fija las subcategorías señalado en el artículo 70.”Luego, el artículo 11 del Decreto N°177 indica los documentos que deben ser acompañados en las solicitudes, indicando en su letra b) que “En el caso de los solicitantes que según la ley chilena sean mayores de edad, el certificado de antecedentes penales o documento equivalente expedido por la autoridad competente de su país de origen o de aquel en el cual hayan residido en los últimos 5 años. En caso que la residencia en un país distinto al de origen haya tenido lugar en un lapso menor a los últimos 5 años, deberá adjuntarse el certificado o documento equivalente, expedido por las autoridades competentes de los diferentes países en los que haya residido durante dicho periodo”.Finalmente, el artículo 88 inciso 1° de la Ley citada indica “Causales de rechazo. Deben rechazarse por resolución fundada las solicitudes de residencias de quienes: 1. No cumplan los requisitos de cada categoría y subcategoría migratoria fijados en el respectivo decreto, en conformidad con lo establecido en el artículo 70”.Quinto: Que, así las cosas, cabe concluir que la recurrida no incurrió en acto ilegal o arbitrario alguno, pues acompañar el documento solicitado y cumplir con el pago de los derechos correspondientes, son requisitos establecido en la normativa, necesarios para acceder a la solicitud de residencia definitiva. Por ello, tras constatarse su incumplimiento, se otorgaron plazos a la parte recurrente para que subsanara su error, sin que se cumpliera.Por lo tanto, no resulta posible aceptar que la acción constitucional constituya una nueva instancia para corregir una solicitud incompleta o subsanar sus defectos, ya que el procedimiento administrativo contempla con etapas idóneas para ello, como se constató respecto del actor.Por estas consideraciones y de conformidad con lo que dispone el artículo 20 de la Constitución Política de la República y el Auto Acordado de esta Corte sobre la materia, se confirma la sentencia apelada.Regístrese y devuélvase.Rol N° 37585- 2025.Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sr. Jean Pierre Matus A., Sra. María Soledad Melo L., Sr. Gonzalo Ruz L. y los Abogados Integrantes Sr. Juan Carlos Ferrada B. y Sr. José Miguel Valdivia O. Santiago, 05 de marzo de 2026.Autoriza el Ministro de Fe de la Excma. Corte Suprema.En Santiago, a cinco de marzo de dos mil veintiséis, notifiqué en Secretaría por el Estado Diario la resolución precedente. Santiago, a cinco de marzo de dos mil veintiséis.Vistos:Se reproduce el fallo en alzada.Y se tiene, además, presente:Primero: Que se recurre de protección en favor de la parte recurrente, en contra del Servicio Nacional de Migraciones, impugnando el acto que se califica de ilegal y arbitrario consistente en dictar la resolución exenta que rechazó la solicitud de residencia definitiva, fundada en el incumplimiento de requisitos, afectándose, con dicha negativa, la garantía constitucional prevista en el artículo 19 N°2 de la Constitución Política de la República.Segundo: Que por sentencia dictada por la Corte de Apelaciones se acogió la acción constitucional referida, dejando sin efecto el acto recurrido y ordenando continuar con la tramitación de la solicitud, debiendo el Servicio dictar un acto terminal conforme a derecho.Tercero: Que, a efectos de dilucidar la controversia planteada, es preciso tener en consideración que, conforme al mérito de los antecedentes, la recurrida informó al recurrente que la solicitud presentada no estaba en condiciones de avanzar, pues no acompañó el certificado de antecedentes penales original y apostillado, para continuar con el trámite. Por ello, se otorgó un plazo para subsanar el defecto.Tras no cumplir el recurrente con acompañar el documento requerido, se le informó que la solicitud tenía causal de rechazo, otorgando un plazo de diez días, para realizar descargos y acompañar los documentos faltantes.Finalmente, atendido a que el requerimiento no fue subsanado, se rechazó la solicitud de permanencia definitiva.Cuarto: Que la ley N°21.325 establece en su artículo 78 inciso segundo que “La residencia definitiva sólo se podrá otorgar a los extranjeros poseedores de un permiso de residencia temporal que expresamente admita postular a ella y que cumplan con los requisitos establecidos en la presente ley, su reglamento y el decreto supremo que fija las subcategorías señalado en el artículo 70.”Luego, el artículo 11 del Decreto N°177 indica los documentos que deben ser acompañados en las solicitudes, indicando en su letra b) que “En el caso de los solicitantes que según la ley chilena sean mayores de edad, el certificado de antecedentes penales o documento equivalente expedido por la autoridad competente de su país de origen o de aquel en el cual hayan residido en los últimos 5 años. En caso que la residencia en un país distinto al de origen haya tenido lugar en un lapso menor a los últimos 5 años, deberá adjuntarse el certificado o documento equivalente, expedido por las autoridades competentes de los diferentes países en los que haya residido durante dicho periodo”.Finalmente, el artículo 88 inciso 1° de la Ley citada indica “Causales de rechazo. Deben rechazarse por resolución fundada las solicitudes de residencias de quienes: 1. No cumplan los requisitos de cada categoría y subcategoría migratoria fijados en el respectivo decreto, en conformidad con lo establecido en el artículo 70”.Quinto: Que, así las cosas, cabe concluir que la recurrida no incurrió en acto ilegal o arbitrario alguno, pues acompañar el documento solicitado y cumplir con el pago de los derechos correspondientes, son requisitos establecido en la normativa, necesarios para acceder a la solicitud de residencia definitiva. Por ello, tras constatarse su incumplimiento, se otorgaron plazos a la parte recurrente para que subsanara su error, sin que se cumpliera.Por lo tanto, no resulta posible aceptar que la acción constitucional constituya una nueva instancia para corregir una solicitud incompleta o subsanar sus defectos, ya que el procedimiento administrativo contempla con etapas idóneas para ello, como se constató respecto del actor.Por estas consideraciones y de conformidad con lo que dispone el artículo 20 de la Constitución Política de la República y el Auto Acordado de esta Corte sobre la materia, se confirma la sentencia apelada.Regístrese y devuélvase.Rol N° 37585- 2025.Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sr. Jean Pierre Matus A., Sra. María Soledad Melo L., Sr. Gonzalo Ruz L. y los Abogados Integrantes Sr. Juan Carlos Ferrada B. y Sr. José Miguel Valdivia O. Santiago, 05 de marzo de 2026.Autoriza el Ministro de Fe de la Excma. Corte Suprema.En Santiago, a cinco de marzo de dos mil veintiséis, notifiqué en Secretaría por el Estado Diario la resolución precedente. Sentencia anonimizada

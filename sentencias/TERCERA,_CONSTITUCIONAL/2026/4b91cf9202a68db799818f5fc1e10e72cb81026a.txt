@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Aspectos procesales del recurso de protección
 
-recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: INADMISIBLE RECURSO DE APELACIÓN
 

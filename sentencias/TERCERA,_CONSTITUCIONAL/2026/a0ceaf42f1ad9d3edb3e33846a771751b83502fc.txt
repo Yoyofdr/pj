@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Derecho a la honra, a la imagen y a la vida privada, libertad de expresión
 
-recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
