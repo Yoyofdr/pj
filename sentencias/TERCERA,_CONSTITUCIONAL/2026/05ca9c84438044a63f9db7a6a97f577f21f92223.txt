@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046368
 
 rol: 58417-2025
 
-fecha_sentencia: 2026-03-02
+fecha_sentencia: 2026-02-27
 
 caratulado: ANONIMIZADO
 
@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Educación
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

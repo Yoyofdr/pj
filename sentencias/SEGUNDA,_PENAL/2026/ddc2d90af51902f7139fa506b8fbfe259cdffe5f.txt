@@ -4,19 +4,19 @@ case_id: ddc2d90af51902f7139fa506b8fbfe259cdffe5f
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045779
 
-rol: 7935-2026
+rol: 36037-2025
 
-fecha_sentencia: 2026-03-02
+fecha_sentencia: 2026-02-27
 
-caratulado: INZUNZA CARRASCO ÁNGEL ARIEL Y OTRA CONTRA JUZGADO DE LETRAS Y GARANTÍA QUELLÓN
+caratulado: C/ NICOLAS BENJAMIN CEA TAPIA
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: ▪ Delitos de narcotráfico
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: SENTENCIA DE REEMPLAZO (M)
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

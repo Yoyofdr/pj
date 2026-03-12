@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045814
 
 rol: 58410-2025
 
-fecha_sentencia: 2026-03-02
+fecha_sentencia: 2026-02-27
 
 caratulado: MUÑOZ PEÑAILILLO GIOVANY ALEJANDRO CONTRA DIRECCIÓN NACIONAL GENDARMERÍA DE CHILE
 
@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Función pública
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

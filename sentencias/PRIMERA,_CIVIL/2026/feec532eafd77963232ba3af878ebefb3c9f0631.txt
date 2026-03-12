@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045070
 
 rol: 4558-2026
 
-fecha_sentencia: 2026-03-02
+fecha_sentencia: 2026-02-27
 
 caratulado: DÍAZ CON ISAPRE CONSALUD S.A
 
@@ -14,7 +14,7 @@ sala: PRIMERA, CIVIL
 
 materias: ▪ Admisibilidad del recurso de casación en el fondo
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
 
 resultado_recurso: RECHAZA CASACION EN EL FONDO
 
