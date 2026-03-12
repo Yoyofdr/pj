@@ -4,11 +4,11 @@ case_id: 95b2ccfec0062094a3b8273a89012a56529c7e16
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049407
 
-rol: 55428-2025
+rol: 40526-2025
 
 fecha_sentencia: 2026-03-04
 
-caratulado: DE LA VEGA/ SUPERINTENDENCIA DE SEGURIDAD SOCIAL
+caratulado: ANONIMIZADO
 
 sala: TERCERA, CONSTITUCIONAL
 
