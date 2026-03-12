@@ -1,22 +1,22 @@
 METADATA
 
-case_id: 312ddf81f4b59d41ad4eaec8d957e49a24da42f5
+case_id: a8d83ce492507ae691bce31dd89ed3011ce9794e
 
-url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049084
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049376
 
-rol: 40525-2025
+rol: 4076-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: LINARES/NUEVA MASVIDA S.A
+caratulado: HERMOSILLA/LA POLAR S.A
 
-sala: TERCERA, CONSTITUCIONAL
+sala: CUARTA, MIXTA
 
-materias: ▪ Salud
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: INADMISIBLE,UNIFICACIÓN DE JURISPRUDENCIA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

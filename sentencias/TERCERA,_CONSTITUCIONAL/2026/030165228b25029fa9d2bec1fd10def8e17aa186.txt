@@ -1,14 +1,14 @@
 METADATA
 
-case_id: 4ae8eec72a0c9fbb02e8275fb5745c8ad98295e9
+case_id: 030165228b25029fa9d2bec1fd10def8e17aa186
 
-url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8051248
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8050320
 
-rol: 1331-2026
+rol: 1242-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: CORPORACION EDUCACIONAL CHRISTIAN GARDEN SCHOOL /SUPERINTEDENCIA DE EDUCACIÓN
+caratulado: URIBE/SUPERINTENDENCIA DE INSOLVENCIA Y REEMPRENDIMIENTO
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -22,23 +22,32 @@ TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
 Santiago, cinco de marzo de dos mil veintiséis.
 Vistos:
-Se confirma la resolución apelada de fecha cinco de enero de dos mil veintiséis, dictada por la Corte de Apelaciones de San Miguel.
+Se confirma la resolución apelada de fecha doce de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Talca.
 Regístrese y devuélvase.
 
-Rol N° 1.331-2026.
+Rol N° 1.242-2026.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
-CH/nbm
-San Miguel, cinco de enero de dos mil veintiséis
-Visto y teniendo presente:
-1°) Que el recurso de protección tiene por objeto restablecer el imperio del derecho cuando éste ha sido quebrantado por actos u omisiones arbitrarias o ilegales que amenazan, perturban o privan del ejercicio legítimo de alguna de las garantías taxativamente numeradas en el artículo 20 de la Constitución Política de la República, dejando a salvo las demás acciones legales.
-2°) Que los hechos descritos en la presentación sobrepasan los márgenes del recurso de protección, toda vez que corresponde al examen de mérito de cuestiones técnicas que excede la competencia tutelar de esta Corte, lo que impide que esta acción pueda ser acogida a tramitación.
-Por estas consideraciones y de conformidad con lo dispuesto en el Nº2, inciso segundo, del Auto Acordado de la Excma. Corte Suprema sobre Tramitación del Recurso de Protección de Garantías Constitucionales, se declara inadmisible el recurso de protección, sin perjuicio de otros derechos.
+C.A. de Talca
+Talca, doce de diciembre de dos mil veinticinco.
+Resolviendo a lo principal de folio 1:
 
-Archívese, en su oportunidad.
+Visto y considerando:
 
-N°15-2026 Protección
+1°) Que el recurso de protección tiene por objeto restablecer el imperio del derecho cuando éste hubiere sido quebrantado por actos u omisiones arbitrarios o ilegales que amenacen, perturben o priven del ejercicio legítimo de alguna de las garantías indicadas en el artículo 20 de la Constitución Política de la República, dejando a salvo las demás acciones legales.
+
+2°) Que, de la presentación efectuada en estos autos, se advierte que los hechos en que se funda la acción se refieren a una resolución pronunciada en un procedimiento de renegociación llevado a cabo ante el órgano competente.
+
+3°) Que, de lo anterior se deduce que cualquier petición que pretenda la recurrente, en relación con el procedimiento tramitado ante la Superintendencia de Insolvencia y Reemprendimiento, debe ser efectuada en el proceso respectivo y con los arbitrios contemplados para tal efecto.
+
+Por consiguiente, de lo razonado, no se aprecia la existencia de un acto u omisión ilegal o arbitrario ni un derecho indubitado, que sea susceptible de resguardarse por esta vía.
+
+Y de conformidad, además, a lo dispuesto en el artículo 20 de la Constitución Política de la República, se declara INADMISIBLE el recurso de protección interpuesto a folio 1.
+
+Al primer otrosí: atendido lo resuelto precedentemente, no ha lugar.
+Regístrese y archívese en su oportunidad.
+N°Protección-1687-2025.
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------
