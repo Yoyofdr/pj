@@ -4,17 +4,17 @@ case_id: 15a142a32ae621251dc0bae1f3eb8b6b6e394675
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049962
 
-rol: 350-2026
+rol: 151-2026
 
 fecha_sentencia: 2026-03-05
 
-caratulado: PÉREZ/EJERCITO DE CHILE DIVISION I
+caratulado: TATIANA INES FERNANDEZ GALLARDO /GENDARMERÍA DE CHILE (FISCO DE CHILE)
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

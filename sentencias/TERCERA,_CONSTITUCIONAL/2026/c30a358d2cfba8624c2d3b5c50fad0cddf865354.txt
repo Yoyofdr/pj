@@ -4,17 +4,17 @@ case_id: c30a358d2cfba8624c2d3b5c50fad0cddf865354
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8051226
 
-rol: 151-2026
+rol: 58309-2025
 
 fecha_sentencia: 2026-03-05
 
-caratulado: TATIANA INES FERNANDEZ GALLARDO /GENDARMERÍA DE CHILE (FISCO DE CHILE)
+caratulado: RAMÍREZ/ITURRIAGA
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

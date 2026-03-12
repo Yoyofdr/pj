@@ -4,17 +4,17 @@ case_id: 74fde27e3bf9f5185ab74caa1d17ec91043a226d
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049940
 
-rol: 306-2026
+rol: 24-2026
 
 fecha_sentencia: 2026-03-05
 
-caratulado: ANONIMIZADO
+caratulado: BARRIOS/CORPORACIÓN ADMINISTRATIVA DEL PODER JUDICIAL
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Educación
+materias: ▪ Aspectos procesales del recurso de protección
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
