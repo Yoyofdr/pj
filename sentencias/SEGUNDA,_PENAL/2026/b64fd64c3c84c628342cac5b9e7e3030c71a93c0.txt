@@ -1,0 +1,98 @@
+METADATA
+
+case_id: b64fd64c3c84c628342cac5b9e7e3030c71a93c0
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046985
+
+rol: 8248-2026
+
+fecha_sentencia: 2026-03-03
+
+caratulado: CONTRERAS ÁLVAREZ LUIS CONTRA TERCERA SALA ILTMA. CORTE DE APELACIONES DE TALCA
+
+sala: SEGUNDA, PENAL
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, tres de marzo de dos mil veintiséis.
+
+Vistos y teniendo únicamente presente:
+Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de trece de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Talca, en el Ingreso Corte N° 113 - 2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible.
+
+Atento a lo resuelto y de conformidad con lo dispuesto en el inciso 2° del artículo 66 y 216 del Código Orgánico de Tribunales, proceda la Corte de Apelaciones antes señalada, a remitir los antecedentes al subrogante legal, ello para que proceda a darle la tramitación que en derecho corresponda y pronunciarse derechamente sobre el amparo deducido.
+
+Regístrese y devuélvase.
+
+Rol N° 8248 - 2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Puerto Montt, trece de febrero de dos mil veintiséis.
+
+VISTOS:
+
+A folio 1, comparece la abogada doña Constanza Barrueto Bravo, en favor del condenado Alexander Mauricio Garrido Meneses e interpone acción constitucional de amparo del artículo 21 de la Constitución Política de la República, en contra de Gendarmería de Chile, por haber modificado el tiempo mínimo de su postulación a la libertad condicional y beneficios intrapenitenciarios, impidiendo su postulación a aquéllos.
+
+Expone que el amparado cumple condenas por delitos de asociación ilícita, lavado de dinero, tenencia de armas y municiones y tráfico de drogas, ocurridos el año 2008, a penas de 12, 7, 8 y 8 años, respectivamente. Indica que, según información de Gendarmería, mantiene fecha de inicio de condena el 21 de abril de 2008, de término de la misma el 24 de abril de 2043 y como tiempo mínimo de mitad de condena para postular a la libertad condicional, sería el 22 de febrero de 2027 y a la salida dominical el 22 de febrero de 2026. Agrega que, al consultar sobre su tiempo de postulación, se indica que se le calcula el tiempo de 2/3 del total de la condena para postular a la libertad condicional, considerando que existe sólo un delito calificado que es el tráfico de drogas, y al resto de los delitos por ley se debe calcular la mitad de la condena.
+
+Sostiene que, conforme a la regla del Decreto Ley N° 321, en el artículo 2, en relación con su artículo 3, inciso segundo, se le debe exigir dos tercios por el delito de tráfico y la mitad de la condena respecto a los otros ilícitos, y no dos tercios respecto de todos ellos, porque el carácter de calificado no transforma al resto de los delitos en dicha calidad. Agrega que, por su parte, el artículo 103 del Reglamento de Establecimientos Penitenciarios, Nº 518, es aplicable para el caso de determinar el plazo o tiempo mínimo para optar a beneficios intrapenitenciarios.
+
+Reclama que la interpretación de Gendarmería es errada, es una excepción la exigencia de dos tercios, por lo que solicita acoger la acción constitucional, disponiendo como medida que se ordene la modificación de los tiempos de postulación del amparado.
+
+A folio 6, evacua el informe de rigor la recurrida, solicitando el rechazo de la acción.
+
+Detalla que, según los antecedentes estadísticos del amparado, modificados por la sentencia dictada por esta Corte en el amparo 429-2025, registra como fecha de tiempo mínimo el 23 de febrero de 2029 y 23 de febrero de 2028 para beneficios intrapenitenciarios, que fue determinado conforme la aplicación de la versión del D.L. N° 321, vigente a la época de comisión de los delitos. Agrega que, conforme la regla del artículo 3 del D.L. N° 321, los tiempos mínimos para cada condena impuesta al amparado resultan de la siguiente manera:
+
+- Asociación ilícita ley de drogas, 12 años, cometido el año 2008, según normativa vigente corresponde el tiempo mínimo a dos tercios de su condena.
+
+- Lavado de dinero, 7 años, cometido año 2008, tiempo mínimo corresponde a la mitad de la condena.
+
+- Tenencia ilegal de armas prohibidas, 8 años, cometido el año 2008, tiempo mínimo corresponde a la mitad de la condena.
+
+- Tenencia o porte de armas, municiones y otros, 8 años, cometido el año 2011, tiempo mínimo corresponde a la mitad de la condena.
+
+- Tráfico ilícito de drogas del artículo 3 de la Ley N° 20.000, 8 años, cometido el año 2008, conforme a la normativa el tiempo mínimo es de dos tercios de su condena.
+
+Explica que, al haber dado inicio al cumplimiento de las condenas el día 26/09/2011, registrando como fecha de cumplimiento íntegro el día 25/04/2043 y registra un total de 1253 abonos a su favor, a través de una simple operación aritmética al sumar los 2/3 de la condena asociada al delito 1; más la ½ de la condena asociada al delito 2; más la ½ de condena asociada al delito 3; más la ½ condena asociada al delito 4; más los 2/3 de la condena asociada al delito 5; a eso debe restarse 1253 días de abono, lo que arroja como fecha de tiempo mínimo el día 23/02/2029.
+
+Precisa que el tiempo mínimo establecido para el cumplimiento de la pena (de conformidad a la regla establecida en el artículo 3 del D.L. N° 321 vigente a la época de la ocurrencia del delito, es efectivamente el día 23/02/2029, fecha modificada por sentencia dictada en acción constitucional de amparo 429-2025 de este Iltmo. Tribunal.
+
+Indica que la libertad condicional no constituye un derecho sino un beneficio al que se postula, por lo que no existiría vulneración de garantías constitucionales. En tal sentido, refiere que el principio de irretroactividad del artículo 19 N° 3 de la Carta Fundamental rige para leyes penales y que, tanto el D.L. N° 321, como la Ley N° 21.124, serían normas administrativas de ejecución penal, aplicables “in actum”, destacando además que el artículo 9 de la Ley N° 21.124, fija expresamente que los requisitos exigibles son los vigentes al momento de la postulación.
+
+Acompaña la ficha única del condenado.
+
+Encontrándose en estado de ver, se agregó extraordinariamente a la tabla el presente recurso.
+
+CON LO RELACIONADO Y CONSIDERANDO:
+
+Primero: Que la acción de amparo, prevista en el artículo de la Constitución Política de la República, tiene por objeto proteger las personas que ilegal o arbitrariamente sufren cualquier privación, perturbación o amenaza en su derecho a la libertad personal y/o la seguridad individual, con el objeto de que la magistratura adopte las medidas pertinentes para restablecer el imperio del derecho y asegurar la debida protección del afectado, el cual puede ser deducido por aquel o cualquier otra persona en su nombre.
+
+Segundo: Que, en este sentido, el objeto de esta acción es el restablecimiento del derecho ante un acto u omisión ilegal o arbitrario, que en este caso se traduce en la decisión adoptada por Gendarmería de Chile al modificar el tiempo mínimo de postulación del amparado al beneficio de la libertad condicional y con ello, de otros beneficios intrapenitenciarios.
+
+Tercero: Que, conforme se advierte del Certificado de Folio 2 de estos antecedentes, corroborado con lo informado por la recurrida, esta Corte el día seis de enero en curso resolvió en el recurso de amparo Rol 429-2025 lo siguiente: “...se acoge el recurso de amparo deducido por doña Constanza Barrueto Bravo, en favor del condenado Alexander Mauricio Garrido Meneses, debiendo la recurrida examinar el cumplimiento de los requisitos en torno a los beneficios intrapenitenciarios y de la libertad condicional, conforme al texto vigente al momento de comisión del delito por el que cumple condena el amparado.”.
+
+Dicho recurso fue presentado en su oportunidad por la misma abogada doña Constanza Barrueto, en favor del mismo amparado Alexander Garrido Meneses, solicitando la modificación de los tiempos de postulación del amparado, idéntico petitorio al planteado en el presente recurso.
+
+Luego, de la revisión del expediente Rol Amparo 429-2025, se advierte que se encuentra en etapa de cumplimiento, apareciendo como última gestión útil aquella del día dos de febrero en curso, que corresponde a la resolución por la cual se pide cuenta a Gendarmería acerca de cómo ha dado cumplimiento a la sentencia.
+
+Cuarto: Que, de lo expuesto, aparece que la controversia sometida a conocimiento ya ha sido resuelta por esta Corte en la causa Rol Amparo 429-2025, sentencia que fue favorable a la parte recurrente, y no corresponde sea discutida nuevamente por encontrarse además en plena etapa de cumplimiento del fallo, debiendo en definitiva la actora realizar en dicha causa las alegaciones y peticiones que sean procedentes, referidas al cumplimiento de lo ya resuelto.
+
+Por estas consideraciones y lo dispuesto en el artículo 21 de la Constitución Política de la República, se rechaza el recurso de amparo deducido por doña Constanza Barrueto Bravo, en favor del condenado Alexander Mauricio Garrido Meneses, en contra de Gendarmería de Chile.
+
+Redacción a cargo del ministro (S) don Rodrigo Loyola Brito.
+
+No firma el Ministro (S) don Rodrigo Loyola Brito, quien concurrió a la vista y acuerdo por haber cesado su cometido funcionario
+
+Regístrese, notifíquese y archívese en su oportunidad.
+
+Rol Amparo N° 53-2026.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Puerto Montt, trece de febrero de dos mil veintiséis.VISTOS:A folio 1, comparece la abogada doña Constanza Barrueto Bravo, en favor del condenado Alexander Mauricio Garrido Meneses e interpone acción constitucional de amparo del artículo 21 de la Constitución Política de la República, en contra de Gendarmería de Chile, por haber modificado el tiempo mínimo de su postulación a la libertad condicional y beneficios intrapenitenciarios, impidiendo su postulación a aquéllos.Expone que el amparado cumple condenas por delitos de asociación ilícita, lavado de dinero, tenencia de armas y municiones y tráfico de drogas, ocurridos el año 2008, a penas de 12, 7, 8 y 8 años, respectivamente. Indica que, según información de Gendarmería, mantiene fecha de inicio de condena el 21 de abril de 2008, de término de la misma el 24 de abril de 2043 y como tiempo mínimo de mitad de condena para postular a la libertad condicional, sería el 22 de febrero de 2027 y a la salida dominical el 22 de febrero de 2026. Agrega que, al consultar sobre su tiempo de postulación, se indica que se le calcula el tiempo de 2/3 del total de la condena para postular a la libertad condicional, considerando que existe sólo un delito calificado que es el tráfico de drogas, y al resto de los delitos por ley se debe calcular la mitad de la condena. Sostiene que, conforme a la regla del Decreto Ley N° 321, en el artículo 2, en relación con su artículo 3, inciso segundo, se le debe exigir dos tercios por el delito de tráfico y la mitad de la condena respecto a los otros ilícitos, y no dos tercios respecto de todos ellos, porque el carácter de calificado no transforma al resto de los delitos en dicha calidad. Agrega que, por su parte, el artículo 103 del Reglamento de Establecimientos Penitenciarios, Nº 518, es aplicable para el caso de determinar el plazo o tiempo mínimo para optar a beneficios intrapenitenciarios.Reclama que la interpretación de Gendarmería es errada, es una excepción la exigencia de dos tercios, por lo que solicita acoger la acción constitucional, disponiendo como medida que se ordene la modificación de los tiempos de postulación del amparado.A folio 6, evacua el informe de rigor la recurrida, solicitando el rechazo de la acción. Detalla que, según los antecedentes estadísticos del amparado, modificados por la sentencia dictada por esta Corte en el amparo 429-2025, registra como fecha de tiempo mínimo el 23 de febrero de 2029 y 23 de febrero de 2028 para beneficios intrapenitenciarios, que fue determinado conforme la aplicación de la versión del D.L. N° 321, vigente a la época de comisión de los delitos. Agrega que, conforme la regla del artículo 3 del D.L. N° 321, los tiempos mínimos para cada condena impuesta al amparado resultan de la siguiente manera: - Asociación ilícita ley de drogas, 12 años, cometido el año 2008, según normativa vigente corresponde el tiempo mínimo a dos tercios de su condena.- Lavado de dinero, 7 años, cometido año 2008, tiempo mínimo corresponde a la mitad de la condena.- Tenencia ilegal de armas prohibidas, 8 años, cometido el año 2008, tiempo mínimo corresponde a la mitad de la condena.- Tenencia o porte de armas, municiones y otros, 8 años, cometido el año 2011, tiempo mínimo corresponde a la mitad de la condena.- Tráfico ilícito de drogas del artículo 3 de la Ley N° 20.000, 8 años, cometido el año 2008, conforme a la normativa el tiempo mínimo es de dos tercios de su condena.Explica que, al haber dado inicio al cumplimiento de las condenas el día 26/09/2011, registrando como fecha de cumplimiento íntegro el día 25/04/2043 y registra un total de 1253 abonos a su favor, a través de una simple operación aritmética al sumar los 2/3 de la condena asociada al delito 1; más la ½ de la condena asociada al delito 2; más la ½ de condena asociada al delito 3; más la ½ condena asociada al delito 4; más los 2/3 de la condena asociada al delito 5; a eso debe restarse 1253 días de abono, lo que arroja como fecha de tiempo mínimo el día 23/02/2029.Precisa que el tiempo mínimo establecido para el cumplimiento de la pena (de conformidad a la regla establecida en el artículo 3 del D.L. N° 321 vigente a la época de la ocurrencia del delito, es efectivamente el día 23/02/2029, fecha modificada por sentencia dictada en acción constitucional de amparo 429-2025 de este Iltmo. Tribunal.Indica que la libertad condicional no constituye un derecho sino un beneficio al que se postula, por lo que no existiría vulneración de garantías constitucionales. En tal sentido, refiere que el principio de irretroactividad del artículo 19 N° 3 de la Carta Fundamental rige para leyes penales y que, tanto el D.L. N° 321, como la Ley N° 21.124, serían normas administrativas de ejecución penal, aplicables “in actum”, destacando además que el artículo 9 de la Ley N° 21.124, fija expresamente que los requisitos exigibles son los vigentes al momento de la postulación.Acompaña la ficha única del condenado.Encontrándose en estado de ver, se agregó extraordinariamente a la tabla el presente recurso. CON LO RELACIONADO Y CONSIDERANDO:Primero: Que la acción de amparo, prevista en el artículo de la Constitución Política de la República, tiene por objeto proteger las personas que ilegal o arbitrariamente sufren cualquier privación, perturbación o amenaza en su derecho a la libertad personal y/o la seguridad individual, con el objeto de que la magistratura adopte las medidas pertinentes para restablecer el imperio del derecho y asegurar la debida protección del afectado, el cual puede ser deducido por aquel o cualquier otra persona en su nombre. Segundo: Que, en este sentido, el objeto de esta acción es el restablecimiento del derecho ante un acto u omisión ilegal o arbitrario, que en este caso se traduce en la decisión adoptada por Gendarmería de Chile al modificar el tiempo mínimo de postulación del amparado al beneficio de la libertad condicional y con ello, de otros beneficios intrapenitenciarios.Tercero: Que, conforme se advierte del Certificado de Folio 2 de estos antecedentes, corroborado con lo informado por la recurrida, esta Corte el día seis de enero en curso resolvió en el recurso de amparo Rol 429-2025 lo siguiente: “...se acoge el recurso de amparo deducido por doña Constanza Barrueto Bravo, en favor del condenado Alexander Mauricio Garrido Meneses, debiendo la recurrida examinar el cumplimiento de los requisitos en torno a los beneficios intrapenitenciarios y de la libertad condicional, conforme al texto vigente al momento de comisión del delito por el que cumple condena el amparado.”.Dicho recurso fue presentado en su oportunidad por la misma abogada doña Constanza Barrueto, en favor del mismo amparado Alexander Garrido Meneses, solicitando la modificación de los tiempos de postulación del amparado, idéntico petitorio al planteado en el presente recurso.Luego, de la revisión del expediente Rol Amparo 429-2025, se advierte que se encuentra en etapa de cumplimiento, apareciendo como última gestión útil aquella del día dos de febrero en curso, que corresponde a la resolución por la cual se pide cuenta a Gendarmería acerca de cómo ha dado cumplimiento a la sentencia.Cuarto: Que, de lo expuesto, aparece que la controversia sometida a conocimiento ya ha sido resuelta por esta Corte en la causa Rol Amparo 429-2025, sentencia que fue favorable a la parte recurrente, y no corresponde sea discutida nuevamente por encontrarse además en plena etapa de cumplimiento del fallo, debiendo en definitiva la actora realizar en dicha causa las alegaciones y peticiones que sean procedentes, referidas al cumplimiento de lo ya resuelto.Por estas consideraciones y lo dispuesto en el artículo 21 de la Constitución Política de la República, se rechaza el recurso de amparo deducido por doña Constanza Barrueto Bravo, en favor del condenado Alexander Mauricio Garrido Meneses, en contra de Gendarmería de Chile. Redacción a cargo del ministro (S) don Rodrigo Loyola Brito.No firma el Ministro (S) don Rodrigo Loyola Brito, quien concurrió a la vista y acuerdo por haber  cesado su cometido funcionario Regístrese, notifíquese y archívese en su oportunidad.Rol Amparo N° 53-2026.                        ⚠                      Sin documento en esta instancia - pdf
