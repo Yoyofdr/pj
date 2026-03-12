@@ -4,19 +4,19 @@ case_id: f877fa6ecb6032f300f5565e24ea4094a527e8e7
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8048242
 
-rol: 4522-2025
+rol: 5549-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: CORTÉS PASTEN EVELYN (/CONTRALORÍA REGIONAL DEL LIBERTADOR GENERAL BERNARDO OHIGGINS)
+caratulado: LILIAN ANGELICA MARIN PIZARRO / SUPERINTENDENCIA DE SEGURIDAD SOCIAL
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Función pública
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: RECHAZADO RECURSO DE QUEJA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

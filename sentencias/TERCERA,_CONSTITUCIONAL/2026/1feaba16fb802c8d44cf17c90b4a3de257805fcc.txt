@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Admisibilidad del recurso de casación en el fondo
 
-recurso: (FAMILIA) APELACIÓN DE AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: INADMISIBLE CASACIÓN DE FONDO
 
