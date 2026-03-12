@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Delitos de narcotráfico
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
 
 resultado_recurso: ACOGE RECURSO DE NULIDAD (M)
 
