@@ -1,0 +1,93 @@
+METADATA
+
+case_id: a880c34a284576d8fac311b49f0498c5650317f1
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040857
+
+rol: 1351-2026
+
+fecha_sentencia: 2026-02-25
+
+caratulado: ORTEGA/MINISTERIO INTERIOR Y SUBSECRETARIA INTERIOR
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (CIVIL) APELACIÓN PROTECCIÓN
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+3
+Santiago, veinticinco de febrero de dos mil veintiséis.
+Vistos:
+Se reproduce el fallo en alzada, con excepción de los fundamentos que razonan en el sentido de rechazar la acción constitucional los que se eliminan.
+
+Y se tiene, en su lugar y, además, presente:
+Primero: Que, por la presente acción constitucional, se recurre, por la dilación injustificada en dar respuesta a la solicitud de nacionalización presentada, lo cual califica de ilegal y arbitrario, señalando que vulnera sus garantías fundamentales contempladas en los numerales 2 y 7 del artículo 19 de la Constitución Política de la Republica.
+
+Solicita que se ordene al recurrido acoger a trámite sin más demora su solicitud o bien adoptar las medidas que se estimen apropiadas para resguardar y restablecer el imperio del derecho.
+
+Segundo: Que, para resolver el asunto en examen, se debe acudir a lo estatuido en la Ley N° 19.880. En este sentido resulta útil destacar el principio de celeridad, previsto en su artículo 7, conforme al cual la autoridad debe impulsar de oficio, en todos sus trámites, el procedimiento administrativo, debiendo actuar por propia iniciativa, haciendo expeditos los trámites que debe cumplir el expediente y removiendo todo obstáculo que pudiere afectar a su pronta y debida decisión. Lo anterior resulta congruente con el principio conclusivo, consagrado en el artículo 8, que determina la necesidad de término del procedimiento con un acto decisorio que se pronuncie sobre la cuestión de fondo, así como con el principio de economía procedimental, del artículo 9, que manda a la Administración responder con eficacia, evitando trámites dilatorios.
+
+Por último, el artículo 14 define el principio de inexcusabilidad señalando que la Administración está obligada a dictar resolución expresa en todos los procedimientos y a notificarla, cualquiera que sea su forma de iniciación.
+
+Tercero: Que, de acuerdo con lo informado por el recurrido, queda en evidencia el incumplimiento de la normativa que regula la actividad de la Administración, toda vez que la autoridad respectiva ha desconocido la aplicación de los principios de celeridad, conclusivo, de economía procedimental e inexcusabilidad, en tanto ha dilatado la decisión respecto de la solicitud de nacionalización, excediendo el plazo establecido en el artículo 27 de la mencionada Ley N° 19.880 (SCS Rol N° 24.827-2020).
+
+Cuarto: Que, por tanto, la dilación del recurrido en el pronunciamiento sobre la mentada solicitud, en este caso particular, debe ser calificada de ilegal y arbitraria porque vulnera la garantía de igualdad ante la ley consagrada en el artículo 19 N° 2 de la Carta Fundamental, en tanto importa una discriminación en contra de la recurrente en relación con el trato dispensado a otros interesados que, en situación jurídica equivalente, han podido tramitar debidamente sus solicitud, obteniendo una respuesta formal en la que se contengan las razones conforme a las cuales la autoridad ha adoptado la decisión terminal pertinente.
+Por estas consideraciones y de conformidad, además, con lo prevenido en el artículo 20 de la Constitución Política de la República y Auto Acordado de esta Corte sobre la materia, se revoca la sentencia apelada y, en su lugar, se acoge el recurso de protección interpuesto, sólo en cuanto se dispone que la recurrida deberá emitir el pronunciamiento que en derecho corresponda respecto de la solicitud de nacionalización presentada ante ella por la parte recurrente dentro del plazo de sesenta días corridos contados desde la notificación de esta sentencia.
+Acordada con el voto en contra del Ministro señor Ruz, quien fue del parecer de confirmar el fallo en alzada, por sus propios fundamentos.
+
+Regístrese y devuélvase.
+Rol N° 1.308-2026.
+Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sr. Omar Astudillo C., Sr. Gonzalo Ruz L., la ministra suplente Sra. Eliana Quezada M. y las Abogadas Integrantes Sra. Fabiola Esther Lathrop Gómez y Sra. Andrea Paola Ruiz Rosas. Santiago, 25 de febrero de 2026.
+Autoriza el Ministro de Fe de la Excma. Corte Suprema.
+
+En Santiago, a veinticinco de febrero de dos mil veintiséis, notifiqué en Secretaría por el Estado Diario la resolución precedente.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Concepción
+
+xsr
+
+Concepción, a treinta de diciembre de dos mil veinticinco.
+
+Vistos:
+
+A folio 1, interpone recurso de protección el abogado Pablo Daniel Peñaloza Parra, en nombre y representación de Carlos Alfonso Martínez Osorio, de nacionalidad venezolana, cédula nacional de identidad para extranjeros N° 26.662.741-6, en contra del Servicio Nacional de Migraciones y el Ministerio del Interior y Seguridad Pública. El recurrente denuncia una omisión ilegal y arbitraria consistente en la demora en la emisión de la orden de giro y la no dictación del acto administrativo terminal que resuelva su solicitud de carta de nacionalización, ingresada el 01 de octubre de 2024. Alega que esta inacción vulnera su derecho de igualdad ante la ley consagrado en el artículo 19 N° 2 de la Constitución Política de la República.
+
+Indica que con fecha 01 de octubre de 2024, el recurrente ingresó su solicitud de nacionalización bajo el ID 71452881, tras haber obtenido previamente el beneficio de permanencia definitiva en Chile. Expone que, transcurrido más de un año desde el inicio del trámite, la administración no ha emitido pronunciamiento alguno, manteniéndolo en un estado de incertidumbre.
+
+Por su parte, el Servicio Nacional de Migraciones informa que la solicitud se encuentra en etapa de "Primer Análisis" con estado pendiente. Argumenta que la demora se debe al excesivo volumen de solicitudes recibidas en los últimos años, lo que ha sobrepasado la capacidad operativa del servicio, constituyendo un caso fortuito que justifica la extensión de los plazos. Asimismo, opone la excepción de cosa juzgada, señalando que existe identidad de partes, objeto y causa de pedir con el recurso Rol Protección-2776-2025, fallado por esta misma Corte y firme desde el 31 de julio de 2025.
+
+Informa el ministerio del interior y seguridad pública en los mismos términos que migraciones.
+
+CONSIDERANDO
+
+1° Que el recurso de protección es una acción cautelar destinada a amparar el ejercicio legítimo de garantías fundamentales ante actos u omisiones ilegales o arbitrarios que provoquen privación, perturbación o amenaza.
+
+2° Que, respecto a la de cosa juzgada, esta Corte la desestima por cuanto el recurso de protección busca la cautela urgente de derechos mediante medidas esencialmente provisorias y revisables. Además, al fundarse la presente acción en un nuevo periodo de inactividad de la administración posterior al fallo anterior, se configura una nueva omisión que impide la concurrencia de la triple identidad necesaria para que opere dicha excepción.
+
+3° Que, en cuanto al fondo del asunto, la solicitud de nacionalización se encuentra actualmente en etapa de análisis ante el Servicio Nacional de Migraciones, órgano al que compete la fase inicial del procedimiento según el artículo 157 N° 8 de la Ley N° 21.325.
+
+4° Que, según los antecedentes, el recurrente goza de permanencia definitiva vigente, lo que le permite residir regularmente en el país, ejercer sus derechos civiles y entrar o salir del territorio nacional sin limitaciones. En este contexto, no se observa un conflicto de orden constitucional que deba ser resuelto por esta vía cautelar, toda vez que no se ha demostrado una afectación real o amenaza a las garantías del administrado por el mero transcurso del tiempo en un procedimiento reglado.
+
+5° Que la jurisprudencia ha establecido que el plazo de seis meses contenido en el artículo 27 de la Ley N° 19.880 no constituye un plazo fatal para la administración, y su incumplimiento no conlleva por sí solo la ilegalidad del proceso, especialmente ante la justificación de la alta demanda de solicitudes que afecta al servicio. Por lo anterior, esta vía no es la idónea para agilizar pronunciamientos administrativos cuando la situación migratoria del recurrente es regular y no existe un derecho indubitado conculcado.
+
+Por estas consideraciones y lo dispuesto en los artículos 19 y 20 de la Constitución Política de la República, y el Auto Acordado de la Excma. Corte Suprema sobre la materia se resuelve que:
+
+1. SE RECHAZA la excepción de cosa juzgada.
+
+2. SE RECHAZA el recurso de protección interpuesto en favor de Carlos Alfonso Martínez Osorio, en contra del Servicio Nacional de Migraciones y del Ministerio del Interior.
+
+Regístrese, notifíquese y archívese.
+
+Redactada por la ministra suplente Claudia Andrea Vilches Toro.
+N°Protección-5061-2025.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de ConcepciónxsrConcepción, a treinta de diciembre de dos mil veinticinco.Vistos:A folio 1, interpone recurso de protección el abogado Pablo Daniel Peñaloza Parra, en nombre y representación de Carlos Alfonso Martínez Osorio, de nacionalidad venezolana, cédula nacional de identidad para extranjeros N° 26.662.741-6, en contra del Servicio Nacional de Migraciones y el Ministerio del Interior y Seguridad Pública. El recurrente denuncia una omisión ilegal y arbitraria consistente en la demora en la emisión de la orden de giro y la no dictación del acto administrativo terminal que resuelva su solicitud de carta de nacionalización, ingresada el 01 de octubre de 2024. Alega que esta inacción vulnera su derecho de igualdad ante la ley consagrado en el artículo 19 N° 2 de la Constitución Política de la República.Indica que con fecha 01 de octubre de 2024, el recurrente ingresó su solicitud de nacionalización bajo el ID 71452881, tras haber obtenido previamente el beneficio de permanencia definitiva en Chile. Expone que, transcurrido más de un año desde el inicio del trámite, la administración no ha emitido pronunciamiento alguno, manteniéndolo en un estado de incertidumbre.Por su parte, el Servicio Nacional de Migraciones informa que la solicitud se encuentra en etapa de "Primer Análisis" con estado pendiente. Argumenta que la demora se debe al excesivo volumen de solicitudes recibidas en los últimos años, lo que ha sobrepasado la capacidad operativa del servicio, constituyendo un caso fortuito que justifica la extensión de los plazos. Asimismo, opone la excepción de cosa juzgada, señalando que existe identidad de partes, objeto y causa de pedir con el recurso Rol Protección-2776-2025, fallado por esta misma Corte y firme desde el 31 de julio de 2025.Informa el ministerio del interior y seguridad pública en los mismos términos que migraciones.CONSIDERANDO1° Que el recurso de protección es una acción cautelar destinada a amparar el ejercicio legítimo de garantías fundamentales ante actos u omisiones ilegales o arbitrarios que provoquen privación, perturbación o amenaza.2° Que, respecto a la de cosa juzgada, esta Corte la desestima por cuanto el recurso de protección busca la cautela urgente de derechos mediante medidas esencialmente provisorias y revisables. Además, al fundarse la presente acción en un nuevo periodo de inactividad de la administración posterior al fallo anterior, se configura una nueva omisión que impide la concurrencia de la triple identidad necesaria para que opere dicha excepción.3° Que, en cuanto al fondo del asunto, la solicitud de nacionalización se encuentra actualmente en etapa de análisis ante el Servicio Nacional de Migraciones, órgano al que compete la fase inicial del procedimiento según el artículo 157 N° 8 de la Ley N° 21.325.4° Que, según los antecedentes, el recurrente goza de permanencia definitiva vigente, lo que le permite residir regularmente en el país, ejercer sus derechos civiles y entrar o salir del territorio nacional sin limitaciones. En este contexto, no se observa un conflicto de orden constitucional que deba ser resuelto por esta vía cautelar, toda vez que no se ha demostrado una afectación real o amenaza a las garantías del administrado por el mero transcurso del tiempo en un procedimiento reglado.5° Que la jurisprudencia ha establecido que el plazo de seis meses contenido en el artículo 27 de la Ley N° 19.880 no constituye un plazo fatal para la administración, y su incumplimiento no conlleva por sí solo la ilegalidad del proceso, especialmente ante la justificación de la alta demanda de solicitudes que afecta al servicio. Por lo anterior, esta vía no es la idónea para agilizar pronunciamientos administrativos cuando la situación migratoria del recurrente es regular y no existe un derecho indubitado conculcado.Por estas consideraciones y lo dispuesto en los artículos 19 y 20 de la Constitución Política de la República, y el Auto Acordado de la Excma. Corte Suprema sobre la materia se resuelve que:1. SE RECHAZA la excepción de cosa juzgada.2. SE RECHAZA el recurso de protección interpuesto en favor de Carlos Alfonso Martínez Osorio, en contra del Servicio Nacional de Migraciones y del Ministerio del Interior.Regístrese, notifíquese y archívese.Redactada por la ministra suplente Claudia Andrea Vilches Toro.N°Protección-5061-2025.                        ⚠                      Sin documento en esta instancia - pdf
