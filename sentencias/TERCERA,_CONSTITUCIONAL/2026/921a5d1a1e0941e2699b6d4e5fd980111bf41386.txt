@@ -4,15 +4,15 @@ case_id: 921a5d1a1e0941e2699b6d4e5fd980111bf41386
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8050293
 
-rol: 54708-2025
+rol: 5289-2026
 
-fecha_sentencia: 2026-03-05
+fecha_sentencia: 2026-03-04
 
-caratulado: CLARKE VILLOUTAE FABIÁN ANDRÉS/ROJAS SANTANDER CRISTIAN MAURICIO
+caratulado: EN FAVOR DE LUNIE MOLINE CONTRA SERVICIO NACIONAL DE MIGRACIONES DE CHILE
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Protecciones en contra de particulares
+materias: ▪ Reclamo de expulsión de extranjeros
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
@@ -20,73 +20,544 @@ resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
-Santiago, seis de marzo de dos mil veintiséis.
+Santiago, cinco de marzo de dos mil veintiséis.
 
-Vistos y teniendo además presente:
-Primero: Que, sin perjuicio de que la sanción de inhabilitación para postular a cargos gremiales fue dejada sin efecto por la Asamblea Extraordinaria, respecto de la segunda sanción de inhabilitación temporal para ejercer el cargo de dirigente de la Confedeprus, cabe tener presente que dicha sanción emana de un procedimiento tramitado conforme a la reglamentación interna, al haber sido citado a declarar ante el Comité de Disciplina (y no compareció), fue notificado de la sanción y se le concedió el plazo para apelar de la medida, además de haber concurrido a la sesión en que se dejó sin efecto la prohibición a postular a cargos gremiales y se confirmó la medida impugnada vía apelación.
+Vistos y teniendo presente:
+Primero: Que, de conformidad con lo dispuesto en el inciso séptimo del artículo 483-A del Código del Trabajo, se ha ordenado dar cuenta de la admisibilidad del recurso de unificación de jurisprudencia deducido por la demandada en contra de la sentencia dictada por la Corte de Apelaciones de Valparaíso, que rechazó el de nulidad interpuesto contra la de instancia que acogió la demanda, declaró el despido improcedente y condenó al pago de las prestaciones que señala, incluido el bono anual de permanencia por los años 2024 y 2025.
 
-Segundo: Del mismo modo, la conducta infraccional se encuentra tipificada en el Reglamento de Ética de la asociación a la que pertenece el recurrente, y la sanción adoptada está dentro del rango de tiempo de inhabilitación acorde al tipo de falta cometida, la que ha sido calificada como grave, de conformidad a lo dispuesto en los artículos 56, 58 y 61 del Reglamento, de manera tal que no ha existido ilegalidad ni arbitrariedad de parte de la recurrida al disponer la medida disciplinaria en contra del actor, lo que lleva a desestimar el arbitrio.
+Segundo: Que según se expresa en la legislación laboral, el recurso de unificación de jurisprudencia es susceptible de ser deducido en contra de la resolución que falle el recurso de nulidad, estableciéndose su procedencia para el caso en que “respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de Tribunales Superiores de Justicia”, conforme lo explicita el artículo 483 del Código del Trabajo.
 
-Por estos fundamentos, aquellos contenidos en el fallo en alzada, y de conformidad con lo dispuesto en el artículo 20 de la Constitución Política de la República y en el Auto Acordado de esta Corte sobre la materia, se confirma la sentencia de fecha dos de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Valparaíso que rechazó el recurso de protección.
+Asimismo, del tenor de lo dispuesto en el artículo 483-A del cuerpo legal antes citado, aparece que esta Corte debe controlar, como requisitos para su admisibilidad, por un lado, su oportunidad; en segundo lugar, la existencia de fundamento, además de una relación precisa y circunstanciada de las distintas interpretaciones respecto de las materias de derecho objeto de la sentencia, sostenidas en diversos fallos emanados de los tribunales superiores de justicia, y finalmente, debe acompañarse copia del o los fallos que se invocan como fundamento del recurso en referencia.
+
+Tercero: Que la materia de derecho propuesta para ser unificada consiste en “Determinar la procedencia de un bono pactado en un convenio colectivo, si debe estarse a la naturaleza de la prestación o a la cláusula del bono, que entró en vigor después del despido del trabajador, por lo que terminado el contrato individual de trabajo implicaba la perdida de beneficios del convenio colectivo”.
+Cuarto: Que la sentencia impugnada rechazó el arbitrio fundado, en lo pertinente, en las causales de los artículos 478 b) y, en subsidio, 477 del Código del Trabajo, puesto que, en cuanto a la primera, la argumentación que lo sustenta dice relación con una mera discrepancia valorativa respecto de aquello que fue decidido, de lo que existen suficientes razones acerca de las circunstancias que llevaron a declarar que el trabajador tiene derecho al denominado bono de permanencia, sin que se le pueda atribuir ninguna de las trasgresiones que genéricamente imputa el recurso.
+Respecto de la segunda, sostuvo, que todas las argumentaciones se vinculan con la vigencia de las estipulaciones del convenio colectivo, en circunstancias que la ratio decidendi se sustenta en la naturaleza de la prestación, constitutiva de un bono por término de negociación colectiva, hecho fijado en el fallo, y no de un bono por permanencia, cuyo pago se realizó en tres cuotas, incluyendo las últimas dos en el convenio, que entró en vigor después del despido. Así, ninguna de las disposiciones legales que se denuncian como vulneradas resulta aplicable y las argumentaciones contrarían las conclusiones fácticas de la sentencia revisada.
+De esta forma, no ha podido constatarse un pronunciamiento sustancial que se relacione con la materia de derecho propuesta por la demandada, por lo que el recurso intentado debe ser desestimado en esta etapa procesal.
+
+Por estas consideraciones y normas citadas, se declara inadmisible el recurso de unificación de jurisprudencia contra la sentencia seis de enero de dos mil veintiséis.
+
 Regístrese y devuélvase.
 
-Rol N° 54.708-2025.
+N°4.497-26.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
-Jepv.
+Dgm.
 
 C.A. de Valparaíso
-Valparaíso, dos de diciembre de dos mil veinticinco.
+Valparaíso, seis de enero de dos mil veintiséis.
 
-Vistos:
+VISTO:
 
-A folio 1, comparece Fabián Andrés Clarke Villouta, quien deduce acción de protección en contra de la Federación Democrática de Profesionales Universitarios de la Salud Viña del Mar Petorca, representada por su Presidente, el señor Cristian Mauricio Rojas Santander por el acto que considera ilegal y arbitrario, consistente en el procedimiento disciplinario y posterior acto sancionatorio emitido por el Comité de Disciplina de dicha Federación, lo que estima vulnera sus derechos fundamentales garantizados en el artículo 19 N°2 y 3 de la Constitución Política de la República.
+En los autos RIT 0-26-2024, tramitados ante el Juzgado de Letras del Trabajo de Valparaíso, caratulados “Muñoz con ENAP Refinería S.A., por sentencia de diecisiete de abril del año en curso, en lo que concierne a este recurso, se condenó a la demandada al pago de un bono de permanencia por los años 2024 y 2025.
 
-Expone que, en su calidad de dirigente de base y miembro del directorio de la Federación Democrática de Profesionales Universitarios de la Salud Viña del Mar Petorca, fue sujeto a un proceso disciplinario ante el Comité de Disciplina de ésta. Señala que el Comité le impuso una sanción disciplinaria que vulnera los derechos fundamentales a la igualdad ante la ley y el debido proceso. Alega que se infringió la garantía del debido proceso al utilizar el un Reglamento distinto al aprobado por la Asamblea de la organización, aplicando una sanción, consiste en la inhabilidad para postularse a un cargo de federación o base federada por un periodo de 3 años, que no se encuentra prevista en el referido instrumento, basándose en un borrador.
+En contra de este fallo, la demandada dedujo recurso de nulidad, fundado en las causales contempladas en los artículos 478 letra b) y 477 del Código del Trabajo, invocadas una en subsidio de la otra.
 
-Aduce que la sanción aplicada es antijurídica y arbitraria, y que el Reglamento, en ninguna de sus versiones, está inscrito en la Dirección del Trabajo. Agrega que el debido proceso fue infringido por la falta de citación para prestar declaración, lo que le impidió conocer de la denuncia desde el comienzo y, consecuentemente, ejercer a plenitud su derecho a defensa y recusar a los miembros del Comité. Refiere que los cargos formulados no señalaron la imputación realizada, comunicándose la denuncia y calificándola como grave, pero sin describir los hechos que daban contenido a la falta.
+Ingresada la causa a esta Corte de Apelaciones se le asignó el Rol N°408-2025 y declarado admisible el arbitrio, se procedió a la vista de la causa.
 
-Sostiene que, tampoco se le permitió conocer la prueba mediante la cual se acreditaron los cargos, negándosele acceso a la carpeta de investigación a pesar de haberla solicitado tras ser notificado de los cargos. Adiciona que la sanción fue comunicada verbalmente en Asamblea el 29 de julio de 2025, sin que fuera notificado posteriormente de una resolución escrita, justificada y fundamentada. El recurrente afirma que la permanencia de la sanción, que declaró su inhabilidad para postular a cargos, le impediría ejercer su derecho a ser elegido en las elecciones de noviembre de la base del Hospital Dr. Gustavo Fricke.
+CONSIDERANDO:
 
-Concluye solicitando que se deje sin efecto el procedimiento disciplinario llevado adelante por el Comité en su contra y la consecuente sanción aplicada, o cualquier otra medida que en derecho corresponda y que permita rija el imperio del derecho.
+I.-ASPECTOS GENERALES:
 
-A folio 6, evacúa informe la Dirección del Trabajo de Viña del Mar remitiendo los Estatutos de la Federación Democrática de Profesionales Universitarios de la Salud Viña del Mar Petorca, FEDEPRUS Viña del Mar -Petorca; registrados bajo el RAF N°85-06-0045.
+Primero: Que el recurso de nulidad laboral tiene por objeto, según sea la causal invocada, asegurar el respeto a las garantías y derechos fundamentales, o bien garantizar sentencias ajustadas a la ley, como se desprende de los artículos 477 y 478 del Código del Trabajo; todo lo cual evidencia su carácter extraordinario, el que se manifiesta por la excepcionalidad de los presupuestos que configuran cada una de las referidas causales en atención al fin perseguido por ellas, situación que igualmente determina un ámbito restringido de revisión por parte de los tribunales superiores y que, como contrapartida, impone al recurrente la obligación de precisar con rigurosidad los fundamentos de aquellas que invoca, como asimismo, de las peticiones que efectúa.
 
-A folio 8, evacúa informe Carolina Del Carmen Quilodrán Leiva, Presidenta Fedeprus Base Hospital Dr. Gustavo Fricke. Informa que el recurrente, fue elegido miembro de la directiva de la base Fedeprus del Hospital Dr. Gustavo Fricke, y que su periodo culmina en noviembre del presente año. Señala que, conforme a sus estatutos, las elecciones para renovar o reelegir a su directorio deben realizarse cada dos años, siendo la próxima en noviembre de este año.
+Igualmente, cabe tener presente que el arbitrio anulatorio en examen no constituye una instancia, de manera que las Cortes de Apelaciones no pueden ni deben revisar los hechos que conforman el conflicto jurídico de que se trata, siendo la apreciación y establecimiento de éstos una facultad exclusiva y excluyente del juez que conoció del respectivo juicio oral laboral, y, asimismo, a esta Corte le está vedado efectuar una valoración de la prueba rendida ante el Juzgado del Trabajo, lo que corresponde únicamente al juez de especialidad, el que está dotado de plena libertad para ello, con la sola limitación de no contrariar los principios de la lógica, las máximas de experiencia y los conocimientos científicamente afianzados, siendo el cumplimiento de este límite lo que corresponde controlar, cuando se invoca la correspondiente causal de nulidad.
 
-A folio 20, evacúa informe Cristian Mauricio Rojas Santander, en representación de la recurrida Federación Democrática de Profesionales Universitarios de la Salud Viña del Mar-Petorca. Argumenta que la acción de protección debe ser rechazada, aseverando que el recurrente omitió información sobre el fundamento del proceso interno en su contra, el cual se basó en la postulación a cargos federados de la Central Unitaria de Trabajadores en una lista distinta de la determinada democráticamente por la referida federación, utilizando el nombre de ésta para promover su candidatura.
+Asimismo, el de nulidad es un arbitrio de derecho estricto que requiere claridad y precisión en su fundamentación y argumentación, que debe ser compatible con la causal invocada, lo que resulta necesario toda vez que aquello da y define la competencia del Tribunal superior, el cual no puede acogerlo por motivos distintos, salvo la situación contemplada en el inciso final del artículo 479 del Código del Trabajo, y al respecto el inciso final del artículo 478 del mismo cuerpo legal impone al recurrente, si el recurso se fundare en distintas causales, la obligación de señalar si se invocan conjunta o subsidiariamente.
 
-Indica que el proceso sancionatorio se desarrolló de manera pública y los hechos resultaban de fácil acreditación. Sostiene que la sanción propuesta inicialmente, que incluía la inhabilidad para postularse a cargos por tres años, fue modificada en asamblea extraordinaria de 28 de julio de 2025, eliminándose dicha prohibición. Refiere que esta modificación fue ratificada en acta de directorio de 1 de septiembre de 2025, por lo que el recurso carecía de fundamento desde esa fecha.
+II.-HECHOS RELEVANTES ESTABLECIDOS POR EL FALLO DE PRIMER GRADO Y CONCLUSIONES QUE DE ELLOS SE DERIVAN:
 
-Niega la existencia de sanciones no previstas en el reglamento, ya que la prohibición de postularse no llegó a imponerse. Alega que la imputación de no haber sido citado es inefectiva, pues fue la primera gestión realizada, y el Comité intentó múltiples acciones para notificarlo, incluso solicitando su domicilio, aunque el recurrente optó por no responder sino hasta que se le comunicó el resultado de la investigación. Aduce que la formulación de cargos fue clara, describiéndose desde la primera notificación que consistía en no acatar el mandato democrático de la organización de no presentarse en lista paralela para la CUT provincial.
+Segundo: Que antes de entrar al examen de los motivos anulatorios propuestos por el recurrente, para mejor claridad de esta sentencia, se consignarán cuáles son los hechos que el juez laboral tuvo por acreditados, a saber:
 
-Finalmente, niega la comunicación verbal de la sanción, ya que no se le llegó a imponer sanción alguna y alega que el perjuicio reclamado es inexistente, pues la sanción votada no contempla la inhabilidad para postular a cargos, y a la fecha no se ha interpuesto sanción.
+a) El actor ingresó a prestar servicios para la demandada el 18 de octubre de 2021, en calidad de ingeniero en Medio Ambiente, percibiendo una remuneración de $3.257.778;
 
-A folio 22, se ordena traer los autos en relación.
+b) Que el actor fue despedido el 23 de octubre de 2023, invocándose la causal de necesidades de la empresa;
 
-Con lo relacionado y considerando:
+c) La demandada contrató otros ingenieros de medio ambiente luego del despido del actor;
 
-Primero: Que, la acción constitucional de protección, consagrada en el artículo 20 de la Constitución Política de la República, ha sido establecida a favor de quien, por causa de actos u omisiones arbitrarios o ilegales, sufra privación, perturbación o amenaza en el legítimo ejercicio de algunos de los derechos y garantías establecidas en el artículo 19 de la Carta Fundamental.
+d) El 18 de noviembre de 2023 se suscribió finiquito con reserva de derechos;
 
-Segundo: Que, a través de esta vía cautelar se impugna el procedimiento y posterior acto sancionatorio emitido por el Comité de Disciplina de la Federación Democrática de Profesionales Universitarios de la Salud Viña del Mar Petorca, por supuestos vicios de ilegalidad y arbitrariedad consistentes en la aplicación de un reglamento no aprobado, la imposición de una sanción no prevista en la normativa, la falta de citación a declarar, la omisión de descripción de los cargos, la negación de acceso a la carpeta de investigación y la comunicación verbal de la sanción. Por lo anterior, solicita que se deje sin efecto el procedimiento disciplinario llevado adelante por el Comité en su contra y la consecuente sanción aplicada.
+e) El trabajador era socio del Sindicato de Empresa de Profesionales de ENAP Refinerías;
 
-Tercero: Que, el recurrido informa, en síntesis, que la acción debe ser rechazada, ya que la sanción propuesta por el Comité de Disciplina, que incluía la inhabilidad para postular a cargos, fue modificada y eliminada por la Asamblea de la Federación el 28 de julio de 2025, por lo que la acción carece de fundamento al no existir tal perjuicio. Alega que se cumplieron todas las etapas del procedimiento disciplinario y que el recurrente fue debidamente notificado y citado, pero optó por no participar ni presentar descargos oportunamente.
+f) En marzo de 2023 dicho Sindicato y la demandada suscribieron un convenio colectivo con vigencia entre el 1 de diciembre de 2023 y el 30 de noviembre de 2026;
 
-Cuarto: Que atendido al mérito de lo informado y los antecedentes acompañados, se desprende que la sanción controvertida, consistente en la inhabilidad para postularse a cargos por tres años, fue dejada sin efecto por la recurrida mediante acuerdo adoptado en asamblea extraordinaria de 28 de julio de 2025, lo que fue posteriormente ratificado en acta de directorio de 1 de septiembre de 2025. Además, el propio abogado del recurrente reconoció expresamente en estrado que el actor fue reelegido como miembro de la directiva de la base Fedeprus del Hospital Dr. Gustavo Fricke, lo que confirma la cesación de los efectos de la supuesta inhabilidad y la inexistencia del perjuicio alegado. En consecuencia, el acto impugnado que motivó la presente acción ha cesado en sus efectos, desapareciendo la controversia que le dio origen.
+g) En la cláusula sexagésimo novena de dicho convenio se pactó un bono denominado bono anual de permanencia en los siguientes términos: “Si se produce la terminación del contrato de trabajo con anterioridad al 31 de diciembre de 2023 el trabajador tendrá derecho a la suma total de los bonos que le corresponderían por los años 2024 y 2025. A su vez si se produce la terminación del contrato de trabajo durante el año 2024 y con anterioridad al 31 de diciembre del mismo año, el trabajador sólo tendrá derecho al total de bono correspondiente a dicho período”.
 
-Quinto: Que, en estas circunstancias, al no existir actualmente sanción alguna que afecte los derechos del recurrente ni impedimento para postular cargos en las próximas elecciones de la organización, carece de objeto pronunciarse sobre los aspectos de fondo planteados en la acción, toda vez que la finalidad perseguida por el recurrente ya ha sido satisfecha por la propia conducta de la recurrida, sin que existan otras medidas que esta Corte pueda adoptar al respecto, motivos por los cuales la acción no podrá prosperar.
+h) Atendiendo lo declarado por el Presidente del Sindicato, se tuvo por establecido que la finalidad del bono era completar la totalidad de la asignación por término de negociación colectiva ya que, a petición de la empresa, dicha asignación se dividió en tres, para efectos de su pago: un bono de término de negociación propiamente tal y dos bonos “por permanencia”.
 
-Por estas consideraciones y de conformidad a lo dispuesto en los artículos 19 y 20 de la Constitución Política de la República y en el Auto Acordado sobre la materia, se rechaza, sin costas, la acción de protección deducida por Fabián Andrés Clarke Villouta en contra de Federación Democrática de Profesionales Universitarios de la Salud Viña del Mar Petorca.
+Tercero: Que, con el mérito de estas circunstancias fácticas, el juez del trabajo razonó que el trabajador tiene derecho al bono reclamado, porque el objetivo de tal prestación era cubrir la totalidad del bono por término de negociación colectiva, ocurrida en una época en que el actor todavía prestaba sus servicios, lo que explica que reciba prestaciones contenidas en un convenio cuya vigencia se inició con posterioridad al despido.
 
-Comuníquese. Notifíquese y regístrese, en su oportunidad.
+III.-DEL RECURSO DE NULIDAD DEL DEMANDANTE:
+Cuarto: Que el recurrente de nulidad acusa, en primer término, que la sentencia en examen incurrió en una infracción manifiesta a las normas de apreciación de la prueba conforme a la sana crítica al concluir que el actor tiene derecho a un bono establecido en un convenio colectivo que entró en vigor después del despido.
 
-Redacción de la Ministra Sra. Figueroa.
+Luego de realizar numerosas consideraciones generales sobre la sana crítica, acusa vulnerados los principios de no contradicción, de razón suficiente, de identidad y también las máximas de la experiencia. Transcribiendo algunos párrafos de la sentencia cuestionada y bajo la premisa de vulneración ya referida, se efectúan consideraciones que denotan una clara discrepancia respecto a la forma en que fue valorada la prueba, como si se tratara de un recurso de apelación. Se controvierte lo declarado por uno de los testigos en relación a la finalidad del bono de permanencia y se reitera la improcedencia de aplicar un convenio que todavía no estaba vigente cuando se terminó la relación laboral, concluyendo que “de haber valorado la prueba conforme a las mismas, se debió concluir que el actor no tiene derecho a percibir ni cobrar el bono de permanencia años 2024 y 2025”.
 
-N°Protección-5163-2025.
+Quinto: Que este primer capítulo anulatorio debe ser inmediatamente desechado, en tanto se puede advertir a simple vista que la argumentación que lo sustenta dice relación con una mera discrepancia valorativa respecto de aquello que fue decidido por el juez de especialidad, quien dio suficientes razones acerca de las circunstancias que lo llevaron a declarar que el trabajador tiene derecho al denominado bono de permanencia, sin que se le pueda atribuir ninguna de las trasgresiones que genéricamente le imputa el recurso.
 
-En Valparaíso, dos de diciembre de dos mil veinticinco, se notificó por el estado diario la resolución que antecede.
+Sexto: Que, en un segundo acápite recursivo, se afirma que el fallo examinado incurrió en una errónea interpretación del derecho que ha influido sustancialmente en lo dispositivo de la sentencia, en relación a lo dispuesto en los artículos 310, 311 y 324 del Código del Trabajo; artículos 1545, 1546, 1560 y 1561 del Código Civil, todo ello vinculado con el ya referido bono de permanencia.
+
+En síntesis y luego de transcribir las disposiciones legales en las que sustenta su reproche, el recurrente sostiene que el actor no cumple con los requisitos para obtener el bono de permanencia de los años 2024 y 2025 porque para ello se requiere que la relación estuviera vigente a diciembre de cada año, cuyo no es el caso, excediendo los márgenes de la negociación colectiva acordada por las partes.
+
+Séptimo: Que, en este punto, habrá que reiterar que la causal de infracción de ley a la que se recurre, supone, por una parte, la aceptación de los hechos establecidos por el sentenciador y, por la otra, implica que la propuesta anulatoria se satisfaga con las circunstancias fácticas fijadas en la sentencia, sin que sea posible recurrir a otras distintas a aquéllas.
+
+En el caso planteado, ninguno de los mencionados supuestos se encuentra presente.
+
+En efecto, todas las argumentaciones del recurso en este punto, dicen relación con la vigencia de las estipulaciones del convenio colectivo, en circunstancias que la ratio decidendi del fallo examinado se sustenta en la naturaleza de la prestación, constitutiva de un bono por término de negociación colectiva _hecho fijado en el fallo- y no de un bono por permanencia, cuyo pago se realizó en tres cuotas, incluyéndose las últimas dos en el convenio que entró en vigencia después del despido.
+
+Así las cosas, ninguna de las disposiciones legales que se denuncian como vulneradas resulta aplicable en este caso y además, las argumentaciones del recurso contrarían las conclusiones fácticas de la sentencia revisada, ya que dichos argumentos se organizan en torno a la idea de un bono relacionado con la permanencia de los trabajadores, y no con el pago de una deuda por bono de término de negociación colectiva, que fue lo establecido y razonado por el juez de la causa.
+
+De esta manera, el recurso debe ser rechazado en su totalidad.
+
+Por tales consideraciones y, atendido, además, lo dispuesto en los artículos 477 y 479 del Código del Trabajo, SE RECHAZA, sin costas, el recurso de nulidad deducido en contra de la sentencia definitiva de diecisiete de abril del año en curso, dictada por el Juzgado de Letras del Trabajo de Valparaíso, en los autos Rit O-26-2024.
+
+Regístrese, comuníquese y oportunamente devuélvase.
+
+Redactada por la ministra Nancy Bluck Bahamondes.
+
+N°Laboral-Cobranza-408-2025.
+
+No firma la Ministra, Sra. Figueroa, quien no obstante haber concurrido a la vista y acuerdo de la presente causa, se encuentra haciendo uso de feriado legal.
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------
-Jepv.C.A. de ValparaísoValparaíso, dos de diciembre de dos mil veinticinco.Vistos:A folio 1, comparece Fabián Andrés Clarke Villouta, quien deduce acción de protección en contra de la Federación Democrática de Profesionales Universitarios de la Salud Viña del Mar Petorca, representada por su Presidente, el señor Cristian Mauricio Rojas Santander por el acto que considera ilegal y arbitrario, consistente en el procedimiento disciplinario y posterior acto sancionatorio emitido por el Comité de Disciplina de dicha Federación, lo que estima vulnera sus derechos fundamentales garantizados en el artículo 19 N°2 y 3 de la Constitución Política de la República.Expone que, en su calidad de dirigente de base y miembro del directorio de la Federación Democrática de Profesionales Universitarios de la Salud Viña del Mar Petorca, fue sujeto a un proceso disciplinario ante el Comité de Disciplina de ésta. Señala que el Comité le impuso una sanción disciplinaria que vulnera los derechos fundamentales a la igualdad ante la ley y el debido proceso. Alega que se infringió la garantía del debido proceso al utilizar el un Reglamento distinto al aprobado por la Asamblea de la organización, aplicando una sanción, consiste en la inhabilidad para postularse a un cargo de federación o base federada por un periodo de 3 años, que no se encuentra prevista en el referido instrumento, basándose en un borrador.Aduce que la sanción aplicada es antijurídica y arbitraria, y que el Reglamento, en ninguna de sus versiones, está inscrito en la Dirección del Trabajo. Agrega que el debido proceso fue infringido por la falta de citación para prestar declaración, lo que le impidió conocer de la denuncia desde el comienzo y, consecuentemente, ejercer a plenitud su derecho a defensa y recusar a los miembros del Comité. Refiere que los cargos formulados no señalaron la imputación realizada, comunicándose la denuncia y calificándola como grave, pero sin describir los hechos que daban contenido a la falta.Sostiene que, tampoco se le permitió conocer la prueba mediante la cual se acreditaron los cargos, negándosele acceso a la carpeta de investigación a pesar de haberla solicitado tras ser notificado de los cargos. Adiciona que la sanción fue comunicada verbalmente en Asamblea el 29 de julio de 2025, sin que fuera notificado posteriormente de una resolución escrita, justificada y fundamentada. El recurrente afirma que la permanencia de la sanción, que declaró su inhabilidad para postular a cargos, le impediría ejercer su derecho a ser elegido en las elecciones de noviembre de la base del Hospital Dr. Gustavo Fricke.Concluye solicitando que se deje sin efecto el procedimiento disciplinario llevado adelante por el Comité en su contra y la consecuente sanción aplicada, o cualquier otra medida que en derecho corresponda y que permita rija el imperio del derecho.A folio 6, evacúa informe la Dirección del Trabajo de Viña del Mar remitiendo los Estatutos de la Federación Democrática de Profesionales Universitarios de la Salud Viña del Mar Petorca, FEDEPRUS Viña del Mar -Petorca; registrados bajo el RAF N°85-06-0045.A folio 8, evacúa informe Carolina Del Carmen Quilodrán Leiva, Presidenta Fedeprus Base Hospital Dr. Gustavo Fricke. Informa que el recurrente, fue elegido miembro de la directiva de la base Fedeprus del Hospital Dr. Gustavo Fricke, y que su periodo culmina en noviembre del presente año. Señala que, conforme a sus estatutos, las elecciones para renovar o reelegir a su directorio deben realizarse cada dos años, siendo la próxima en noviembre de este año.A folio 20, evacúa informe Cristian Mauricio Rojas Santander, en representación de la recurrida Federación Democrática de Profesionales Universitarios de la Salud Viña del Mar-Petorca. Argumenta que la acción de protección debe ser rechazada, aseverando que el recurrente omitió información sobre el fundamento del proceso interno en su contra, el cual se basó en la postulación a cargos federados de la Central Unitaria de Trabajadores en una lista distinta de la determinada democráticamente por la referida federación, utilizando el nombre de ésta para promover su candidatura.Indica que el proceso sancionatorio se desarrolló de manera pública y los hechos resultaban de fácil acreditación. Sostiene que la sanción propuesta inicialmente, que incluía la inhabilidad para postularse a cargos por tres años, fue modificada en asamblea extraordinaria de 28 de julio de 2025, eliminándose dicha prohibición. Refiere que esta modificación fue ratificada en acta de directorio de 1 de septiembre de 2025, por lo que el recurso carecía de fundamento desde esa fecha.Niega la existencia de sanciones no previstas en el reglamento, ya que la prohibición de postularse no llegó a imponerse. Alega que la imputación de no haber sido citado es inefectiva, pues fue la primera gestión realizada, y el Comité intentó múltiples acciones para notificarlo, incluso solicitando su domicilio, aunque el recurrente optó por no responder sino hasta que se le comunicó el resultado de la investigación. Aduce que la formulación de cargos fue clara, describiéndose desde la primera notificación que consistía en no acatar el mandato democrático de la organización de no presentarse en lista paralela para la CUT provincial.Finalmente, niega la comunicación verbal de la sanción, ya que no se le llegó a imponer sanción alguna y alega que el perjuicio reclamado es inexistente, pues la sanción votada no contempla la inhabilidad para postular a cargos, y a la fecha no se ha interpuesto sanción.A folio 22, se ordena traer los autos en relación.Con lo relacionado y considerando:Primero: Que, la acción constitucional de protección, consagrada en el artículo 20 de la Constitución Política de la República, ha sido establecida a favor de quien, por causa de actos u omisiones arbitrarios o ilegales, sufra privación, perturbación o amenaza en el legítimo ejercicio de algunos de los derechos y garantías establecidas en el artículo 19 de la Carta Fundamental.Segundo: Que, a través de esta vía cautelar se impugna el procedimiento y posterior acto sancionatorio emitido por el Comité de Disciplina de la Federación Democrática de Profesionales Universitarios de la Salud Viña del Mar Petorca, por supuestos vicios de ilegalidad y arbitrariedad consistentes en la aplicación de un reglamento no aprobado, la imposición de una sanción no prevista en la normativa, la falta de citación a declarar, la omisión de descripción de los cargos, la negación de acceso a la carpeta de investigación y la comunicación verbal de la sanción. Por lo anterior, solicita que se deje sin efecto el procedimiento disciplinario llevado adelante por el Comité en su contra y la consecuente sanción aplicada.Tercero: Que, el recurrido informa, en síntesis, que la acción debe ser rechazada, ya que la sanción propuesta por el Comité de Disciplina, que incluía la inhabilidad para postular a cargos, fue modificada y eliminada por la Asamblea de la Federación el 28 de julio de 2025, por lo que la acción carece de fundamento al no existir tal perjuicio. Alega que se cumplieron todas las etapas del procedimiento disciplinario y que el recurrente fue debidamente notificado y citado, pero optó por no participar ni presentar descargos oportunamente.Cuarto: Que atendido al mérito de lo informado y los antecedentes acompañados, se desprende que la sanción controvertida, consistente en la inhabilidad para postularse a cargos por tres años, fue dejada sin efecto por la recurrida mediante acuerdo adoptado en asamblea extraordinaria de 28 de julio de 2025, lo que fue posteriormente ratificado en acta de directorio de 1 de septiembre de 2025. Además, el propio abogado del recurrente reconoció expresamente en estrado que el actor fue reelegido como miembro de la directiva de la base Fedeprus del Hospital Dr. Gustavo Fricke, lo que confirma la cesación de los efectos de la supuesta inhabilidad y la inexistencia del perjuicio alegado. En consecuencia, el acto impugnado que motivó la presente acción ha cesado en sus efectos, desapareciendo la controversia que le dio origen.Quinto: Que, en estas circunstancias, al no existir actualmente sanción alguna que afecte los derechos del recurrente ni impedimento para postular  cargos en las próximas elecciones de la organización, carece de objeto pronunciarse sobre los aspectos de fondo planteados en la acción, toda vez que la finalidad perseguida por el recurrente ya ha sido satisfecha por la propia conducta de la recurrida, sin que existan otras medidas que esta Corte pueda adoptar al respecto, motivos por los cuales la acción no podrá prosperar.Por estas consideraciones y de conformidad a lo dispuesto en los artículos 19 y 20 de la Constitución Política de la República y en el Auto Acordado sobre la materia, se rechaza, sin costas, la acción de protección deducida por Fabián Andrés Clarke Villouta en contra de Federación Democrática de Profesionales Universitarios de la Salud Viña del Mar Petorca.Comuníquese. Notifíquese y regístrese, en su oportunidad.Redacción de la Ministra Sra. Figueroa.N°Protección-5163-2025.En Valparaíso, dos de diciembre de dos mil veinticinco, se notificó por el estado diario la resolución que antecede.                        ⚠                      Sin documento en esta instancia - pdf
+Valparaíso, diecisiete de abril de dos mil veinticinco.
+
+VISTO, OÍDO Y CONSIDERANDO
+
+PRIMERO: Que, el 26 de marzo de 2025 se ha llevado a efecto audiencia de juicio en causa RIT O-26-2024 sobre despido injustificado y cobro de prestaciones.
+
+La demanda fue interpuesta por don José Fabián Muñoz Guaico, ingeniero en medio ambiente, domiciliado en Av. O’Higgins N°601, Casablanca, en contra de ENAP REFINERÍAS S.A., representada por don Edmundo Piraíno Suez, se ignora profesión u oficio, ambos domiciliados en Avenida Borgoño N°25777, comuna de Concón.
+
+SEGUNDO: Que, la parte demandante solicita que se acoja la demanda declarando que su despido ha sido injustificado y condenando a la demandada al pago de las siguientes indemnizaciones y prestaciones por las sumas que indica o las que el tribunal determine, todo con reajustes, intereses y costas:
+
+1.- Incremento del 30% sobre la indemnización por años de servicio por $1.954.667.
+
+2.- Devolución del aporte del empleador a la cuenta de seguro de cesantía por $1.084.473.
+
+3.- Bono anual de permanencia por los años 2024 y 2025 por $11.130.506.
+
+4.- Acuerdo de paro por $108.593.
+
+5.- Beca por hijo por la suma de $310.000.
+
+6.- 96 horas extraordinarias adeudadas por $1.737.482.
+
+Funda la demanda señalando que ingresó a prestar servicios para la demandada el 18 de octubre de 2021, relación laboral que se mantuvo ininterrumpidamente hasta el 23 de octubre de 2023, fecha en que la demandada puso término al contrato de trabajo por la causal del artículo 161 inciso primero del Código del Trabajo.
+
+Expresa que, desempeñaba labores como ingeniero en medio ambiente en el Departamento de Medio Ambiente de la empresa demandada con una jornada laboral distribuida de lunes a viernes, siendo su última remuneración la suma de $3.257.778.
+
+Transcribe en su demanda los hechos señalados en la carta aviso de despido para justificar la causal invocada.
+
+Señala que lo expuesto en dicha carta es falso y su despido arbitrario ya que no existe y no existió a esa fecha un proceso de reestructuración que se esté llevando a cabo en la empresa y, de hecho, no se indica cuál es la supuesta reestructuración y menos se indica de qué manera su despido contribuye a mejorar la supuesta competitividad en el negocio. Agrega que, es ridículo que su solo despido vaya a contribuir a mejorar esa competitividad en el mercado.
+
+Menciona que tampoco es real que sus funciones hayan sido absorbidas por otros trabajadores del área por cuanto meses antes se le empezó a privar de sus labores incorporando a otros actores en el departamento para asumir sus funciones, es decir, se incorporó gente antes a efectos de preparar un despido que carece absolutamente de fundamentos reales.
+
+Afirma que, el despido es ilegal, pues no se da ninguno de los supuestos que la ley prevé para hacer procedente la supuesta necesidad de la empresa.
+
+Alega que no existe fundamento alguno para el despido del que ha sido objeto por cuanto la necesidad de la empresa, de la manera que se invoca no existe. Agrega que la necesidad es inexistente y no existe proporcionalidad entre la medida ilegal y arbitraria de su despido con la supuesta necesidad.
+
+Hace presente que, firmó finiquito con reserva de derechos que le habilitan para ejercer las acciones de este procedimiento.
+
+PRESTACIONES QUE QUEDARON ADEUDÁNDOSE AL TÉRMINO DE LA RELACION LABORAL
+
+Al respecto señala lo siguiente:
+
+1.- Bono anual de permanencia.
+
+Señala que el 20 de marzo de 2023 se suscribió convenio colectivo de trabajo entre la empresa demandada y el sindicato de profesionales al que pertenecía, con vigencia entre el 01 de diciembre de 2023 y el 30 de noviembre de 2026 y en él se pactó el denominado bono anual de permanencia en los términos que se expresan en la cláusula sexagésimo novena, la que transcribe.
+
+Explica que este bono nació entre las prestaciones a pagar a los trabajadores como consecuencia del término de las negociaciones colectivas, debiendo pagarse en los meses de diciembre de cada año previsto en la cláusula, es decir, diciembre de 2024 y diciembre de 2025. Agrega que fue parte de los trabajadores beneficiarios de las prestaciones del convenio colectivo, así consta en el anexo respectivo en el cual aparece como socio del Sindicato de Profesionales de Enap Refinería y parte del Convenio Colectivo suscrito y si la empresa no le hubiera despedido injustificadamente habría cumplido con los requisitos para el pago y habría tenido derecho a esos beneficios legítimamente.
+
+Afirma que, no existe duda alguna de que fue parte del Convenio Colectivo suscrito y tampoco existe duda de que la cláusula respectiva en su número tres contempla la situación de pago del bono respecto de trabajadores despedidos antes del mes de diciembre de 2023, caso en el cual expresamente se prevé el pago del bono correspondiente a los años 2024 y 2025.
+
+Señala que, el actuar de la empresa le ha privado de varios beneficios a los que naturalmente tendría que haber accedido por ser parte de la nómina de trabajadores afectos al convenio colectivo.
+
+Lo demandado asciende a $5.565.523 correspondiente al año 2024 y $5.565.253 al año 2025 lo que hace un total de $11.130.506.
+
+2.- Acuerdo de paro.
+
+Sobre esta prestación señala que, tradicionalmente para atender a las mantenciones anuales de la refinería, se suscribían acuerdos de paro que contemplaban pagos especiales por estas situaciones y que la empresa le quedó adeudando un día por este concepto ascendente a $108.593.
+
+3.- Becas por hijos.
+
+En relación con esta petición señala que, de acuerdo con lo previsto en el contrato colectivo vigente al momento de su despido le correspondía el beneficio referido a la educación denominado beca por hijo señalando que, durante el año 2023 su hijo de cinco años de edad cursaba kínder en el establecimiento que señala por el cual debía pagar una mensualidad de $31.000, los que fueron pagados desde marzo a diciembre de 2023.
+
+4.- Horas extraordinarias.
+
+Expresa que habitualmente le solicitaban extender su jornada más allá de la hora de término por lo que se fueron generando horas extraordinarias las cuales no fueron pagadas en su totalidad y sólo se le pagaban algunas, adeudándole en los últimos seis meses de vigencia de su contrato de trabajo, 96 horas extraordinarias por un total de $1.737.482.
+
+TERCERO: Que, la parte demandada solicita el rechazo de la demanda en todas sus partes, con costas.
+
+Reconoce los siguientes hechos:
+
+a) La relación laboral se extendió desde el 18 de octubre de 2021 hasta el 23 de octubre de 2023, teniendo el contrato de trabajo a la fecha del despido el carácter de indefinido. –
+
+b) Que su remuneración mensual ascendía a la suma de $3.257.778.
+
+c) El día 23 de octubre de 2023 se despidió a don José Fabian Muñoz Guaico, por la causal establecida en el artículo 161 inciso 1º del código del trabajo, esto es, "necesidad de la empresa, establecimiento o servicio".
+
+Sostiene que el despido del actor se encuentra justificado de acuerdo con lo señalado en la carta aviso de despido procediendo a transcribirla agregando que ella cumple con todos los requisitos señalados en el artículo 162 del Código del Trabajo conteniendo elementos objetivos de justificación de la causal invocada para el despido, no siendo vaga ni difusa pues se esgrime con claridad que la empresa se encuentra en el marco de reestructuración de áreas de trabajo, en el caso del actor, del área de medio ambiente.
+
+Arguye que, de la carta de despido se colige prístinamente que los fundamentos fácticos del despido dicen relación con un proceso de reestructuración y de racionalización de la empresa, la que se fundamenta en la situación actual del mercado y lograr una mayor competitividad en el negocio, siendo necesario un funcionamiento más eficiente de la empresa, todo lo que se justifica a la luz de la causal del artículo 161 del Código del Trabajo.
+
+Agrega que, no sólo la disminución de la dotación del personal fue una de las decisiones adoptadas por la empresa, sino que, además, se han adoptado una serie de medidas dentro de las cuales destacan:
+
+· Reducción de inversiones.
+
+· Detención en la perforación de pozos.
+
+· Renegociación de costos de contratos.
+
+· Adopción de una estricta política de austeridad, eliminando todo tipo de gastos que no sean estrictamente necesarios.
+
+· Ajuste en la estrategia de compra de crudo para reducir el costo de la canasta.
+
+SOBRE LAS PRESTACIONES DEMANDADAS SEÑALA LO SIGUIENTE:
+
+1.- Incremento del 30% por despido injustificado. No procede porque la causal de despido invocada por el empleador es procedente, debida y justificada.
+
+2.- Devolución del descuento del aporte del empleador al seguro de cesantía. No procede por la causal invocada toda vez que este descuento corresponde de acuerdo con lo señalado en el artículo 13 de la ley 19.728.
+
+3.- Bono anual de permanencia de los años 2024 y 2025. Este rubro es improcedente ya que se refiere a un convenio colectivo que no estaba en vigencia a la fecha del término de la relación laboral. Agrega que, el contrato colectivo al que alude el demandante no aplica en modo alguno a él quien no puede pretender verse beneficiado por un convenio colectivo que no se encontraba vigente al momento de desempeñar las funciones ni tampoco estaba vigente a la fecha de término de la relación laboral.
+
+Destaca que, el término de la relación laboral del actor se verificó el 23 de octubre de 2023 y el convenio colectivo al que alude el demandante entró en vigencia el 1 de diciembre de 2023 hasta el 30 de noviembre de 2026 y, por consiguiente, no aplica al demandante de autos el referido bono.
+
+Afirma que el demandante carece de legitimación activa para invocar tales derechos.
+
+Hace presente que el demandante no cumple con los requisitos que él mismo indica.
+
+Sostiene que, tampoco resulta aplicable la situación excepcional contemplada en el punto 3 de la aludida cláusula del convenio colectivo referida a casos de terminación del contrato de trabajo con anterioridad al 31 de diciembre de 2023 pues para que se aplique dicha normativa del convenio el despido debió haberse producido entre el 01 de diciembre de 2023 y antes del 31 de diciembre de 2023 y lo anterior es así pues el convenio colectivo entró en vigor el 01 de diciembre de 2023, época en que el actor ya había sido despedido.
+
+Pone énfasis en que no es efectivo lo que afirma el actor en cuanto a que se contemple la situación de pago del bono respecto a trabajadores despedidos antes del mes de diciembre de 2023 pues el tenor de lo señalado en el convenio es totalmente claro y refiere a trabajadores despedidos antes del 31 de diciembre de 2023 aludiendo claramente al período de entrada en vigencia del convenio del 01 de diciembre de 2023 pues no deben regular situaciones anteriores a su entrada en vigencia y que, a mayor abundamiento, estaban regulados por un contrato colectivo anterior.
+
+Al respecto invoca el artículo 324 del Código del Trabajo.
+
+4.- Acuerdo paro. Este rubro es improcedente siendo, por lo demás, una prestación formulada en forma imprecisa y vaga por cuanto no se indica fecha, motivo ni procedencia del acuerdo paro demandado y en el que supuestamente intervino el actor.
+
+Señala que un acuerdo de pago corresponde a una situación que se produce en la empresa conforme a los planes de mantenimiento, que periódicamente es necesario ejecutar en las plantas de la Refinería Aconcagua por razones de confiabilidad y seguridad y, por esto, debe realizarse un paro de obras para realizar estas mantenciones y para estos efectos se entiende por paro de plantas aquel mantenimiento mayor preventivo.
+
+Explica que, la necesidad de ejecutar Paros de Planta conlleva que la Gerencia Mantención Mayor de Plantas e Instalaciones, junto con parte del Departamento de Mantención de Refinería Aconcagua, así como otras áreas a las que se le solicite específicamente, a través de un documento formal denominado “Memorándum de Paro”, deben enfocar al personal incluido en el documento ya referido, en labores directas, adicionales o complementarias propias de un paro de planta.
+
+Menciona que, para estos efectos, la Empresa emitirá, por cada Paro de Plantas un memorándum denominado “Memorándum de Paro” en que señalará el personal que prestará funciones durante el respectivo periodo de Paro de Plantas.
+
+Por consiguiente, los funcionarios que se encuentran en esa nómina de memorándum de paro son quienes tienen derecho a un pago por acuerdo paro, pero quienes no están incluidos en ese memorándum de paro, no tienen derecho a dicho bono. Es del caso, que el Sr. Muñoz Guaico, no estaba incluido en ningún acuerdo paro cuyo pago este pendiente o no se haya verificado por la empresa, por lo que no procede el rubro demandado en autos, debiendo este ser rechazado completamente.
+
+5.- Becas por hijo. Si bien la empresa mantiene un beneficio de becas por hijo conforme al contrato colectivo, en virtud del cual la empresa otorga un beneficio en razón, de los hijos reconocidos como carga familiar por la institución de previsión hasta los 24 años de edad lo cierto es que, en virtud de este beneficio se reembolsa al trabajador el gasto efectivo realizado, conforme a los porcentajes y topes descritos en el contrato colectivo.
+
+Para obtener este beneficio, es necesario que: a) El trabajador haya solicitado cada año el beneficio al Departamento de Compensaciones y Gestiones de Personas y b) Que el trabajador presente las boletas de certificado de cobro o que acrediten el pago de la colegiatura, especificando si se trata de matricula o mensualidad.
+
+Expresa que, si no se dan dichos supuestos no resulta procedente el bono por hijos.
+
+Señala que el actor, en tanto tenía su calidad de trabajador, no realizó las gestiones necesarias para obtener pago de los rubros que demanda, por lo que no podría hacerlo ahora, en circunstancias que no tiene la calidad de trabajador de Enap Refinerías S.A. por lo que ha caducado su derecho, no reconociéndose por la empresa deuda alguna ni procedencia del rubro demandado.
+
+Destaca que el beneficio consistente en un reembolso, por lo que demás, debía acreditarse el pago previo por parte del trabajador, circunstancia que tampoco ocurrió y como este beneficio se otorga a los trabajadores de la empresa el actor, carece de tal calidad a la fecha de interposición de la demanda, motivo por el cual ha caducado el derecho a exigir dicho reembolso.
+
+Afirma que tampoco solicitó el beneficio ni acreditó haber realizado pago que hiciera procedente reembolso. Por lo anterior, deberá ser rechazado el rubro demandado.
+
+6.- Horas extraordinarias. No se reconoce adeudar dicha prestación demandada. Esta parte niega adeudar horas extraordinarias al demandante de autos.
+
+Agrega que, en todo caso, deberá acreditar el demandante la procedencia de dicha prestación demandada.
+
+Hace presente que la pretensión de pago de horas extraordinarias formulada por el actor es vaga e imprecisa, no señala los meses en que supuestamente se habrían producido esas horas extraordinarias ni cuales sería las horas extraordinarias en cada uno de los últimos seis meses. En suma, no señala nada, por lo que deberá ser rechazada dicha pretensión.
+
+CUARTO: Que, el llamado a conciliación no prosperó por lo que se recibió la causa a prueba, fijándose como hechos a probar los siguientes:
+
+1.- Circunstancias del término de la relación de trabajo entre las partes. Efectividad de haberse producido los hechos contenidos en la carta de despido y de configurar la causal invocada por el empleador.
+
+2. Circunstancia de haberse devengado en favor del trabajador bono anual de permanencia año 2024 y 2025. Montos a pagar por este concepto.
+
+3. Circunstancia de haberse realizado por parte del trabajador horas extraordinarias, cantidad de las mismas y fechas en que se ejecutaron. Montos a pagar por este concepto.
+
+4. Circunstancia de adeudarse al trabajador por parte del empleador $108.593.- por concepto de día de acuerdo de paro adeudado.
+
+5. Circunstancia de adeudarse al trabajador beca por hijo ascendente a $310.000.-
+
+QUINTO: Que, la parte demandada incorporó la siguiente prueba en la audiencia de juicio:
+
+Documental
+
+1.- Carta de aviso de despido de fecha 23 de octubre del año 2023.
+
+2. Comprobante de envío de carta de aviso de despido a Dirección del Trabajo de fecha 23 de octubre de 2023.
+
+3. Finiquito del trabajador de fecha 2 de noviembre de 2023, otorgado por notario público de Reñaca, Viña del Mar, de don Marcos Díaz León.
+
+4. Liquidaciones de remuneraciones del actor.
+
+5. Copia de Convenio Colectivo suscrito por Enap Refinerías S.A con Sindicato de Empresa de Profesionales de Enap Refinería S.A. Aconcagua vigente entre el 1 de diciembre de 2020 al 30 de noviembre de 2023.
+
+6. Copia de Convenio Colectivo vigente, suscrito por Enap Refinerías S.A con Sindicato de Empresa de Profesionales de Enap Refinería S.A. Aconcagua de fecha 1 de diciembre de 2023 al 30 de noviembre de 2026.
+
+7. Acuerdo de fecha 17 de abril de 2023, celebrado entre Enap Refinería S.A. con Sindicato de Trabajadores del Petróleo Enap Refinerías S.A. Aconcagua; Sindicato de Empresa de Profesionales de Enap Refinería S.A. Aconcagua y Sindicato de Turnos de Enap Refinería S.A. sobre pago de remuneraciones parada de planta Refinería Aconcagua.
+
+8. Memorándum 24/2023, de fecha 2 de noviembre de 2023 emitido por la Gerencia de Mantenimiento Mayor de Plantas e Instalaciones de Enap Refinerías S.A para Según Distribución, sobre Formación equipos de trabajo paro.
+
+9. Adenda N°1, Memorándum 24/2023. De fecha 2 de noviembre de 2023 emitido por la Gerencia de Mantenimiento Mayor de Plantas e Instalaciones de Enap Refinerías S.A para Según Distribución, sobre Adenda N°1, Memorándum 24/2023, Gerencia de Mantenimiento Mayor de Plantas e Instalaciones.
+
+10. Organigrama de jerarquización correspondiente al Departamento de Medio Ambiente de fecha 1 de octubre de 2023.
+
+11. Organigrama de jerarquización correspondiente al Departamento de Medio Ambiente de fecha 1 marzo de 2024.
+
+12. Certificado de saldo de aporte empleador al seguro de cesantía para imputar a indemnización, conforme al artículo 13 de la Ley Nº19.728 del año 2001, emitido por AFC.
+
+Confesional
+
+En calidad de absolvente compareció el demandante quien previamente individualizado y juramentado, declaró, en síntesis, lo siguiente:
+
+1.- Que, prestó servicios para Enap por dos años.
+
+2.- Que al 01 de diciembre de 2023 no era trabajador de la empresa.
+
+3.- Que fue despedido el 23 de octubre de 2023.
+
+4.- Que no presentó todas las boletas de pago del establecimiento educacional del hijo.
+
+5.- Que participó en el proceso que dio lugar al convenio colectivo que entró en vigencia en diciembre de 2023 y que recibió beneficios tanto del anterior como del nuevo convenio.
+
+6.- Que, el último de los convenios entró en vigor el 01 de diciembre de 2023 pero él recibió beneficios desde que terminó el conflicto.
+
+7.-Que él participó en ambos procesos de paro en marzo y en octubre.
+
+Testifical
+
+En calidad de testigos comparecieron don Jorge Antonio Vargas Torres y doña Susana Del Carmen Muñoz Mercado quienes previamente individualizados, juramentados y luego de las advertencias legales, prestaron las declaraciones contenidas en el registro de audio, las que, en síntesis, consistieron en las siguientes:
+
+El testigo Vargas se identificó como jefe de compensaciones y gestión de personas de la Refinería Aconcagua y, por lo tanto, conocer a las partes del juicio.
+
+Declaró que, como empresa se está revisando la factibilidad de mejoras y de reestructuraciones.
+
+Sobre el bono anual de permanencia señaló que está establecido en distintos contratos colectivos y que es un bono que se paga dentro de la vigencia del convenio y depende de la permanencia del trabajador en la empresa.
+
+Dijo que, para ser beneficiario se debe estar en período de vigencia del convenio colectivo y aplica según la causal del despido.
+
+Expresó que al demandante no se le pagó porque el convenio empezaba a regir el 01 de diciembre de 2023.
+
+Se le exhibió el convenio incorporado como prueba documental por la demandada señalando que si el despido es por la causal del artículo 161 inciso primero del Código del Trabajo se pagan los bonos anuales de permanencia de todo el período, pero para esto se requiere que estuviere vigente el convenio.
+
+Explicó que, en la cláusula sexagésimo novena se refiere al caso de haberse iniciado la vigencia del instrumento y que si se efectúa el despido entre el 01 y el 31 de diciembre corresponde el pago de los bonos anuales de 2023 y 2024.
+
+Sobre el bono de escolaridad señaló que, según el convenio colectivo el requisito es que el trabajador realice la gestión de reembolso y que en este caso el demandante no solicitó dicho reembolso ni durante ni después de la relación laboral.
+
+Sobre el bono por paro expresó que en la Refinería de Aconcagua hay paros por mantenimiento, se trabaja con equipos, se firmó acuerdo con organizaciones en virtud del cual se otorgan incentivos por trabajadores que estén incluidos en un memo.
+
+Señaló que, en el caso del demandante no operó el bono porque se requiere que exista una cantidad mínima de sobretiempo en el período y además se determina una proporción de acuerdo con el tiempo que estuvo el trabajador en el paro, con respecto al total. La finalidad es pagar el esfuerzo adicional y el actor no tenía dicho sobretiempo en ese período.
+
+Explicó que, si bien el actor estaba indicado en el memorándum, luego y producto de su despido él no continuó en las tareas en el paro de octubre de 2023. Agregó que tampoco aplicaba un pago proporcional porque no tenía horas mínimas.
+
+En el contra examen señaló que el actor fue despedido por la causal del artículo 161 inciso primero y que su cargo era de ingeniero en medio ambiente en el departamento de medio ambiente de la Refinería de Aconcagua.
+
+Señaló que se efectuaron concursos para llenar cargos en el departamento, le parece que fueron dos cargos que quedaron vacantes.
+
+No recuerda despidos de otros trabajadores en el departamento.
+
+Sabe que, a mediados de 2024 ingresaron ingenieros senior de medio ambiente que cumplieron otras funciones distintas de las del demandante.
+
+Sobre el bono de permanencia señaló que él (testigo) participó dentro de la mesa negociadora, que el convenio colectivo se firmó a principios de 2023 y empezó a regir el 1 de diciembre de 2023 y que antes se pagó el bono de término de negociación dentro de la mitad del año y hubo otro beneficio que fue un préstamo contemplado en el nuevo convenio que se anticipó y se acordó que las cuotas se iban a descontar después del 01 de diciembre de 2023. El préstamo se otorgó meses antes, lo que es excepcional porque fue un error que quedó en el convenio pasado.
+
+Afirmó que el demandante era parte del grupo negociador y recibió el bono de término de conflicto y el préstamo.
+
+Sostuvo que la cláusula del convenio sobre el bono de permanencia se refiere a los trabajadores despedidos antes del 31 de diciembre, sin embargo, para que esto aplique debe estar vigente el convenio.
+
+La testigo Muñoz señaló ser jefe del departamento de medio ambiente de la Refinería Aconcagua y conocer a las partes del juicio.
+
+Precisó que el demandante ingresó el año 2022 le parece y que cuando él ingresó ella era funcionaria del departamento de medio ambiente y en octubre de 2022 o principios de 2023 asumió la jefatura.
+
+Señaló que el demandante fue despedido porque hubo una reestructuración del departamento de medio ambiente para el logro de ciertos objetivos y esto implicó movimiento dentro de las funciones y aquellas que realizaba el actor se distribuyeron entre el resto de los funcionarios.
+
+Afirmó que era necesaria la reestructuración porque había objetivos a cumplir y se necesitaban ajustes y también hubo un proceso de “apretón” económico.
+
+Declaró que, después del despido se contrató a una persona por seis meses para apoyar las funciones del paro y a finales de 2024 o mediados de ese año se mejoraron los perfiles del cargo y competencias y se crearon vacantes nuevas con perfil de ingeniero senior que no era el perfil del actor.
+
+En el contra examen señalo que a través de una empresa de servicios transitorios se contrató a una trabajadora de nombre Valeria Rozas que actualmente no está prestando servicios porque ella los prestó en apoyo al paro y después se incorporó a una empresa contratista.
+
+Señaló que, después del despido del demandante hubo un llamado a concurso para el departamento de medio ambiente, a principios del año 2024 para llenar vacante para el sistema de emisiones atmosféricas que es ingeniero senior y después hubo otro concurso para ingeniero por renuncia de un funcionario que dejó vacante el cargo.
+
+SEXTO: Que, la parte demandante aportó la siguiente prueba:
+
+Documental
+
+1.-Copia de contrato de trabajo celebrado con la demandada con fecha 18 de octubre de 2018.
+
+2. Modificación de contrato de trabajo firmado entre las partes con fecha 16 de abril de 2022.
+
+3. Carta de aviso de término de contrato enviada por la demandada con fecha 23 de octubre de 2023.
+
+4. Finiquito de fecha 2 de noviembre de 2023, firmado entre las partes, con reserva de derechos, el 8 de noviembre de 2023.
+
+5. Cadena de seis correos electrónicos, con asunto ajuste en participación MA en equipos núcleo, de fechas 19 de abril, 12 de julio, 7 de agosto, 31 de agosto, 7 de noviembre y 14 de noviembre todos de 2023, enviados por Claudia Arancibia Fuenzalida, jefa de gestión ambiental del Departamento de Medio Ambiente de la empresa demandada.
+
+6. Correo electrónico de fecha 17 de enero de 2024 sobre proceso de selección cargo Ingeniero Senior Medioambiente.
+
+7. Documento adjunto al correo anterior con convocatoria a concurso para el cargo Ingeniero Senior Medioambiente con fecha de vencimiento 31 de enero de 2024.
+
+8. Convocatoria a concurso Ingeniero Medioambiente con fecha de vencimiento el 21 de febrero de 2024.
+
+9. Información del proceso de selección del cargo Ingeniero Medioambiente con fecha de vencimiento el 21 de febrero de 2024.
+
+10. Convenio colectivo suscrito con fecha 20 de marzo de 2023 entre la empresa demandada y el Sindicato de Profesionales de Refinería Aconcagua.
+
+Testifical
+
+En calidad de testigo comparece don Cristian Gabriel Rubia Urria, quien previamente individualizado, juramentado y luego de las advertencias legales, declaró, en síntesis, lo siguiente:
+
+Señaló conocer al actor porque él trabajó en Enap y fue socio del sindicato del cual él es presidente que es el Sindicato de Profesionales.
+
+Precisó que el demandante dejó de trabajar en octubre de 2023 ya que fue despedido por necesidades de la empresa, aun cuando no conoce detalles.
+
+Señaló que él era ingeniero de medio ambiente del departamento de medio ambiente y después de su término se ha llamado a concursos y entraron nuevos ingenieros, un senior de medio ambiente y otro ingeniero de medio ambiente. Agregó que, hay cuatro personas más en medio ambiente, las que singulariza.
+
+Expresó que, actualmente el convenio que rige es el convenio colectivo cuya vigencia es entre diciembre de 2023 y noviembre de 2026 y se firmó durante el primer semestre de 2023.
+
+Se refirió a beneficios que se aplicaron antes de la vigencia del convenio tales como un préstamo especial que se pagó en el primer semestre de 2023 y un bono de término de negociación que se pagó después del fin de las negociaciones.
+
+Sobre el bono de permanencia señaló que se originó después de que la administración solicitó dividir el bono de término de negociación en tres partes, una primera parte como bono de término de negociación las otras dos partes como bono de permanencia. En este caso, el resto del bono se dividió en pagos a realizar a fines de 2024 y 2025 y si la persona era despedida antes del 31 de diciembre se pagaba el bono en su totalidad.
+
+En el contra examen señalo que el último convenio colectivo entró en vigor el 01 de diciembre de 2023 y que el trabajador fue despedido en octubre de 2023.
+
+Sobre el préstamo y bono de conflicto señaló que se paga antes de la entrada en vigencia del convenio, lo que está reconocido expresamente en el instrumento.
+
+En cuanto a los nuevos contratados después del despido del actor señaló que uno de ellos se produjo por renuncia de un ingeniero de medio ambiente.
+
+Exhibición de documentos:
+
+La parte demandante solicita la exhibición de los siguientes documentos:
+
+1.- Registros de asistencia del demandante correspondientes a los meses de marzo a octubre de 2023.
+
+2. Liquidaciones de remuneraciones del demandante correspondientes a los meses de marzo a octubre de 2023.
+
+3. Contrato de trabajo de doña Valeria Mildred Rosas Monsalvez, RUT 12.822.122-0.
+
+La parte demanda exhibe los documentos singularizados en los números 1 y 2.
+
+SÉPTIMO: Que se fijaron los siguientes hechos no controvertidos:
+
+1. Que existió relación laboral bajo vínculo de subordinación y dependencia entre, José Fabián Muñoz Guaico y ENAP Refinerías S.A., desde el día 18 de octubre del año 2021, en calidad de Ingeniero en Medio Ambiente en el Departamento de medio ambiente de la empresa demandada, con una jornada de lunes a jueves de 08:00 a 17:00 horas; viernes de 08:00 a 15:45 horas y con una última remuneración de $3.257.778.
+
+2. Que la relación laboral termina el día 23 de octubre del año 2023, invocándose la causal del artículo 161 inciso primero del Código del Trabajo, en virtud de carta de despido con copia a la Inspección del Trabajo, fundada en la causal indicada y en los hechos desarrollados en la respectiva carta de despido.
+
+3. Que el día 8 de noviembre del 2023, las partes firman finiquito en el cual se paga al trabajador los siguientes conceptos: a) Indemnización por años de servicio $6.515.556 b) Indemnización sustitutiva de aviso previo $3.257.778. c) Remuneración de octubre de 2023: $760.188. d) Compensación feriados (24 días): $2.606.222.Realizándose los siguientes descuentos: a) AFC: $1.084.473. b) Préstamo especial: $5.593.900.c) Provisión Gastos Médicos: $500.000.d) Descuentos legales: $163.892. Lo que otorga líquido a pagar $5.797.479 habiendo el trabajador reservado derechos en los términos que constan en el finiquito.
+
+Sin perjuicio de ser hechos pacíficos de todas formas ellos resultaron corroborados mediante los documentos consistentes en contrato de trabajo y su respectiva modificación de contrato, carta de aviso de despido de fecha 23 de octubre del año 2023 con su comprobante de envío, finiquito suscrito y ratificado por el trabajador con reserva de derechos, y liquidaciones de remuneraciones del actor.
+
+OCTAVO: Que, de la prueba rendida, valorada en conformidad a las reglas de la sana crítica, se dan por establecidos los siguientes hechos:
+
+1.- Que, luego del despido del demandante la empresa demandada invitó a participar en procesos de selección para concursos mixtos en el cargo de ingeniero senior de medioambiente e ingeniero de medio ambiente, en ambos casos para desempeñarse en el departamento de medio ambiente donde prestaba servicios el actor, además, inmediatamente de despedido el actor se contrató de manera transitoria a una ingeniera en medio ambiente por la vía de una empresa de servicios transitorios.
+
+Este hecho se acreditó mediante los documentos que dan cuenta de los llamados a concurso, en concordancia con lo declarado por los testigos tanto de la parte demandante como de la demandada que depusieron en el juicio y que estuvieron contestes en el hecho de que luego de la separación del trabajador hubo otros profesionales de la misma especialidad que se incorporaron a la Refinería de Aconcagua.
+
+2.- Que, el trabajador era socio del Sindicato de Empresa de Profesionales de Enap Refinerías S.A. y se encontraba incorporado en la lista de profesionales con contrato indefinido que negociaron colectivamente.
+
+Este hecho se acreditó mediante lo declarado por el testigo Rubia que es el Presidente de dicho Sindicato, en concordancia con el anexo 1 del último convenio colectivo suscrito por dicho Sindicato en el que se consigna el nombre del demandante así como también en el anexo con nómina de trabajadores con derecho a anticipo de bono de 2025 el 2024.
+
+3.- Que, en el mes de marzo de 2023 ente Enap Refinerías S.A. y el Sindicato de Empresa de Profesionales de Enap Refinerías S.A. se suscribió un convenio colectivo con vigencia entre el 01 de diciembre de 2023 y el 30 de noviembre de 2026 en cuya cláusula sexagésimo novena se pactó un bono denominado bono anual de permanencia a pagarse a fines de los años 2024 y 2025 y para el caso de terminación de contrato de trabajo se pactó lo siguiente: “Si se produce la terminación del contrato de trabajo con anterioridad al 31 de diciembre de 2023 el trabajador tendrá derecho a la suma total de los bonos que le corresponderían por los años 2024 y 2025. A su vez si se produce la terminación del contrato de trabajo durante el año 2024 y con anterioridad al 31 de diciembre del mismo año, el trabajador sólo tendrá derecho al total de bono correspondiente a dicho período.
+
+Este hecho se determinó mediante el análisis del aludido convenio colectivo.
+
+NOVENO: Que, en cuanto a la acción por despido injustificado se tendrá presente que la causal invocada por el empleador para poner término al contrato de trabajo del actor es la del artículo 161 inciso primero que prescribe:
+
+“Sin perjuicio de lo señalado en los incisos precedente, el empleador podrá poner término al contrato de trabajo invocando como causal las necesidades de la empresa, establecimiento o servicio, tales como las derivadas de la racionalización o modernización de los mismos, bajas en la productividad, cambios en las condiciones de mercado o de la economía, que hagan necesaria la separación de uno o más trabajadores. La eventual impugnación de las causales señaladas, se regirá por lo dispuesto en el artículo 168.”
+
+A partir del enunciado normativo se concluye que, para que se configure la causal se requiere, por una parte, que la empresa tenga la necesidad ineludible de despedir al trabajador ya sea por razones técnicas o bien por motivos económicos pero que no dependan de la mera voluntad del empleador sino que se funden en circunstancias objetivas y ajenas que generen tal necesidad.
+
+En el asunto sometido a la decisión del tribunal si se analiza en detalle la carta aviso de despido se advierte que, en ella se mencionan cambios en el mercado laboral y la necesidad de asegurar la competitividad del negocio que son afirmaciones genéricas que no explican esto en el caso concreto.
+
+En la carta se expresa que se han tomado medidas como reestructuración de ciertas áreas para realizar ajustes destinados a productividad, modernización y funcionamiento eficiente, sin explicarse cuáles son aquellas medidas específicas que den cuenta del porqué era necesario el despido del trabajador.
+
+Se menciona en la carta que en el departamento de medio ambiente donde desarrollaba sus funciones el demandante las tareas que él desarrollaba serían absorbidas por otros trabajadores.
+
+Ahora bien, de la prueba rendida no es posible arribar a la conclusión acerca de las necesidades de la empresa en los términos que expresa la norma invocada para la separación del trabajador pues ni de la prueba documental ni de la testifical es posible dar por acreditado que hubo motivos económicos o de tipo técnicos que hicieron estrictamente necesario el despido. Los testigos que depusieron por la parte demandante prestaron declaraciones genéricas que no lograron formar convicción al respecto y sobre las condiciones económicas de la empresa no existe prueba alguna.
+
+Por otra parte, de la prueba aportada ha quedado establecido que, en relación con el mismo departamento de medio ambiente donde el actor prestaba sus servicios, fueron contratados otros ingenieros en medio ambiente, al menos dos, uno de ellos ingeniero senior y otro de la misma calidad que el actor ingeniero en medio ambiente e incluso, inmediatamente de despedido el actor se contrató de manera transitoria a una ingeniera en medio ambiente por la vía de una empresa de servicios transitorios.
+
+Por todas las razones señaladas se arriba a la conclusión de que el empleador no logró acreditar los fundamentos de la causal invocada por lo que el despido del actor ha de ser calificado como injustificado dándose lugar al recargo del 30% sobre la indemnización por años de servicio.
+
+DÉCIMO: Que, en cuanto a la petición de devolución de lo descontado por concepto de aporte del empleador a la cuenta individual de seguro de cesantía del actor se tendrá en consideración que, el artículo 13 de la ley N°19.728 permite al empleador descontar de la indemnización por años de servicio el aporte que él ha realizado a la cuenta individual de seguro de cesantía del trabajador cuando la causal de despido es la del artículo 161 y, en el caso sometido a la decisión de este tribunal se realizó tal descuento en el finiquito del actor por un monto de $1.084.473.
+
+Para que tenga aplicación tal descuento es requisito necesario el que el contrato de trabajo hubiere efectivamente concluido por alguna de las causales que contempla el referido artículo 161 del Código del Trabajo pues al declararse el despido como injustificado esto importa que la causal que se invocó no procede lo que trae consigo que tampoco sea procedente la prerrogativa que se contempla en el citado artículo 13.
+
+Por estas razones, la petición de restitución de lo descontado por dicho concepto será acogida.
+
+UNDÉCIMO: Que, en cuanto al cobro de la prestación de bono anual de permanencia por los años 2024 y 2025 por $11.130.506 es necesario tener presente que el actor demanda su pago sosteniendo que habiendo concluido su contrato antes del 31 de diciembre de 2023 le corresponden los bonos de ambos años.
+
+Para resolver sobre esta petición es necesario tener presente que, el demandante pertenecía al Sindicato de Empresa de Profesionales de Enap Refinerías S.A. y que entre Enap Refinerías y dicho Sindicato se acordó un convenio colectivo suscrito en marzo de 2023 con vigencia entre el 01 de diciembre de 2023 y el 30 de noviembre de 2026 en el que se pactó en la cláusula sexagésimo novena un bono anual de permanencia por los años 2024 y 2025 en la medida que el trabajador permanezca con contrato vigente en la empresa en diciembre de cada uno de dichos años.
+
+No obstante lo anterior, en la cláusula aludida se contempló el caso de terminación del contrato con anterioridad al 31 de diciembre de 2023, evento en el cual el trabajador tendrá derecho a la suma total de los bonos que le corresponderían por los años 2024 y 2025. A su vez si se produce la terminación del contrato de trabajo durante el año 2024 y con anterioridad al 31 de diciembre del mismo año, el trabajador tendrá derecho al total del bono correspondiente a ese período.
+
+El bono no procede en el caso de término de la relación laboral por renuncia, por vencimiento del plazo o por alguna de las causales del artículo 160 del Código del Trabajo ya que en tales casos sólo tendrá derecho a la proporción que corresponda por el año en que se puso término al contrato.
+
+Sobre la mentada cláusula existen dos interpretaciones diversas y contradictorias que son las sostenidas por las partes del juicio debiendo, en consecuencia, determinarse cuál es la que ha de ser aplicada.
+
+La interpretación sostenida por la empresa es que dado que, a la fecha del despido del trabajador la vigencia del convenio colectivo aún no iniciaba pues entró en vigor el 01 de diciembre de 2023 no resulta aplicable dicha cláusula al actor.
+
+La parte demandante, en cambio, sostiene que el beneficio contenido en dicha cláusula sí es aplicable al trabajador por cuanto es un beneficio que se pactó como una forma de pagar a los trabajadores lo referido al término de negociación colectiva y que se iba pagar los meses de diciembre de ambos años, es decir, diciembre de 2024 y diciembre de 2025.
+
+El testigo que depuso por la parte demandante y que se identificó como Presidente del Sindicato al que pertenecía el actor sostuvo que ese bono de permanencia se originó después de que la administración solicitó dividir el bono de término de negociación en tres partes, una primera parte como bono de término de negociación propiamente tal y las otras dos partes como bono de permanencia.
+
+Del examen del convenio colectivo que comenzó a regir en diciembre de 2023 se advierte que se pactó un bono por término de conflicto en la cláusula sexagésimo sexta que se pactó en los siguientes términos:
+
+“La Empresa pagará, por única vez y sólo por motivo de la firma del instrumento colectivo, un bono de término de negociación colectiva, ascendente a la suma única y total de 9 millones quinientos mil pesos brutos, a cada trabajador afecto a este instrumento colectivo, detallados en el Anexo N°1, 2 y 3.
+
+El bono se pagará el 31 de marzo de 2023, y se liquidará en conjunto con las remuneraciones del mismo mes.”
+
+El bono anual de permanencia, en cambio, se pactó en la cláusula sexagésimo novena acordándose que el trabajador tendrá derecho a un bono anual de permanencia, por los años 2024 y 2025. El bono se devengará por el año calendario respectivo y su pago se efectuará conjuntamente con la remuneración mensual del mes de diciembre de cada año calendario.
+
+Se pactó, además, que, si se produce la terminación del contrato de trabajo con anterioridad al 31 de diciembre de 2023 el trabajador tendrá derecho a la suma total de los bonos que le corresponderían por los años 2024 y 2025.
+
+A la fecha de término de la relación laboral del demandante el convenio que se encontraba vigente era el del período 01 de diciembre de 2020 al 30 de noviembre de 2023 que también contemplaba un bono de término de conflicto y un bono de permanencia por los años 2021 y 2022.
+
+La regla general es que las cláusulas de un convenio colectivo sólo rijan después de la entrada en vigor de dicho instrumento, tal y como se desprende del artículo 324 del Código del Trabajo que estipula que la vigencia de los contratos colectivos se contará a partir del día siguiente al de la fecha de vencimiento del contrato colectivo o fallo arbitral anterior cuando estos existen como en el caso sometido a la decisión del tribunal.
+
+En este caso, el contrato colectivo anterior tenía vigencia hasta el 30 de noviembre de 2023 por lo que el nuevo convenio empezaba a regir a partir del 01 de diciembre de 2023 tal y como consta en su cláusula sobre vigencia.
+
+Sin perjuicio de lo señalado, excepcionalmente las partes podrían convenir que ciertos y determinados beneficios tuvieren aplicación antes de la entrada en vigor del convenio como ocurrió en el presente caso en relación con un préstamo especial en relación con el cual se acordó su entrega el 01 de junio de 2023 o el pago del bono por término de negociación que se pactó cuyo pago se fijó para el 31 de marzo de 2023 por lo que no hay obstáculo para entender que también la cláusula sobre bono de permanencia tuviere aplicación fuera del marco del lapso de vigencia del convenio. En síntesis, la regla de que el convenio rige sólo en el período de vigencia de éste no es absoluta y admite excepciones.
+
+Si el bono de permanencia estuviere relacionado con la circunstancia de permanecer el trabajador en la empresa el respectivo año, no tendría sentido que se hubiere estipulado expresamente que si se ponía término al contrato antes del 31 de diciembre de 2023 de todas maneras tendría derecho al bono fijado para los años 2024 y 2025.
+
+Así entonces, la explicación que dio el Presidente del Sindicato en orden a que la finalidad del bono era completar la totalidad de una asignación por concepto de término de las negociaciones parece del todo coherente y no así las afirmaciones del testigo Vargas que señaló que el bono dependía de la permanencia del trabajador en la empresa, lo que no explica entonces su otorgamiento a aquellos trabajadores cuyo término se produjere antes del 31 de diciembre de 2023 a quienes se les concede el bono de los años 2024 y 2025.
+
+Para determinar la interpretación correcta de la cláusula ha de tenerse presente que sin desatender el tenor literal de la cláusula no es posible desconocer la finalidad perseguida por las partes al pactarla y que frente a varias interpretaciones posibles la estipulación se debe inteligir acorde a la interpretación que más se ajuste a la intención de las partes y sea más favorable al trabajador.
+
+Por estas razones se concluye que, se ha devengado el derecho del demandante a percibir los bonos que corresponden a los años 2024 y 2025.
+
+DUODÉCIMO: Que, en cuanto al cobro de acuerdo de paro por $108.593 se tendrá presente que de la prueba rendida no es posible determinar que efectivamente se hubiere devengado a favor del demandante el derecho a obtener la suma que demanda por tal concepto por lo que no se accederá a la petición de condena al respecto.
+
+DÉCIMO TERCERO: Que en cuanto a la petición de condena por horas extraordinarias se tendrá presente que, de la prueba rendida no es posible establecer de un modo fehaciente que el actor hubiere laborado las horas en exceso de su jornada ordinaria que señala en su demanda por lo que la solicitud formulada al respecto será rechazada.
+
+DÉCIMO CUARTO: Que, en cuanto a la petición de condena a la suma de $310.000 por concepto de beca por hijo se tendrá presente que ha resultado acreditado, y en todo caso no ha sido controvertido, que este beneficio se encuentra establecido en el convenio colectivo que regía al actor y que se pactó para ayudar a solventar los gastos de matrícula y mensualidad por estudios regulares desde prekinder hasta educación superior cuyo monto depende del nivel de estudios con un tope de reembolso anual.
+
+Sin embargo, para acceder al beneficio, que tiene la calidad de un reembolso, era menester que el trabajador lo solicitare por cada año al Departamento de Compensaciones y Gestión de Personas presentando para ello las boletas de cobro o certificado que acreditare el pago de la colegiatura.
+
+En consecuencia, no se trata de un pago a todo evento sino que, se requiere la acreditación de los requisitos de procedencia para obtener dicho beneficio y de acuerdo a la prueba rendida, en especial lo confesado por el actor en concordancia con lo declarado por el testigo Vargas que depuso por la demandada el demandante no acompañó la documentación necesaria para acceder dicha prestación.
+
+En sede judicial tampoco se han aportado antecedentes que permitan concluir que el actor era beneficiario de la beca cuyo pago demanda.
+
+Por estos motivos la petición formulada al respecto por el demandante será rechazada.
+
+DÉCIMO QUINTO: Que, la restante prueba no analizada en detalle en nada altera las conclusiones expresadas.
+
+Por estas consideraciones y visto lo dispuesto en los artículos 1, 63, 161 inciso primero, 163, 168, 172, 173, 320 y ss. y 446 y ss. del Código del Trabajo y principio pro operario,
+
+SE RESUELVE:
+
+I.- Que se acoge la demanda interpuesta por don José Fabián Muñoz Guaico, en contra de ENAP REFINERÍAS S.A. en cuanto se declara que su despido ha sido injustificado y se condena a dicha demandada al pago de las siguientes prestaciones:
+
+a.- Recargo del 30% sobre la indemnización por años de servicio por la suma de $1.954.667.
+b.- Devolución de lo descontado por concepto de aporte del empleador a la cuenta individual de seguro de cesantía por $1.084.473.
+
+c.- Bono anual de permanencia por los años 2024 y 2025 por $11.130.506.
+II.- Que las sumas ordenadas pagar deberán ser enteradas con los reajustes e intereses calculados en la forma establecida en los artículos 63 y 173 del Código del Trabajo.
+
+III.- Que se rechaza la petición de condena por los otros rubros demandados.
+
+IV.- Que no se condena en costas a la demandada por no haber resultado totalmente vencida y por tener motivos plausibles para litigar.
+
+Ejecutoriada que sea la presente sentencia, dese cumplimiento a lo ordenado en ella, dentro de quinto día, en caso contrario, pasen los antecedentes al Juzgado de Cobranza Laboral y Previsional de Valparaíso.
+
+Regístrese, notifíquese y archívese en su oportunidad.
+
+RIT O-26-2024
+
+RUC: 24-4-0540276-5
+
+Dictada por doña Marlene Susana Moya Díaz, Jueza Destinada del Juzgado de Letras del Trabajo de Valparaíso.

@@ -4,19 +4,19 @@ case_id: e915dd2d30219883b5aefae5c219131a21fcfa2d
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8051265
 
-rol: 1161-2026
+rol: 41405-2025
 
-fecha_sentencia: 2026-03-05
+fecha_sentencia: 2026-03-04
 
-caratulado: VÍCTOR HUGO GONZÁLEZ ALVARADO/COMISIÓN DE SANIDAD DEL EJÉRCITO
+caratulado: MARCO ANTONIO COCA PEREZ/SERVICIO NACIONAL DE MIGRACIONES Y OTRO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+materias: ▪ Migración y Extranjería
 
-recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
