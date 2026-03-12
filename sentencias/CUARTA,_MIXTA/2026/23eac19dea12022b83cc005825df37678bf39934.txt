@@ -1,0 +1,499 @@
+METADATA
+
+case_id: 23eac19dea12022b83cc005825df37678bf39934
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044726
+
+rol: 2961-2026
+
+fecha_sentencia: 2026-02-26
+
+caratulado: VERGARA CON CLINICA REÑACA S.A.
+
+sala: CUARTA, MIXTA
+
+materias: ▪ Recurso de unificación de jurisprudencia
+
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+
+resultado_recurso: INADMISIBLE UNIFICACIÓN DE JURISPRUDENCIA, MATERIA UNIFICADA O SIN DISPERSIÓN
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintisiete de febrero de dos mil veintiséis.
+
+Vistos y teniendo presente:
+Primero: Que, de conformidad con lo dispuesto en el inciso séptimo del artículo 483-A del Código del Trabajo, se ha ordenado dar cuenta de la admisibilidad del recurso de unificación de jurisprudencia deducido por el demandante en contra de la sentencia dictada por la Corte de Apelaciones de Santiago, que rechazó el de nulidad interpuesto contra la de instancia que acogió parcialmente la demanda, declaró el despido indirecto justificado, condenó al empleador al pago de las prestaciones que señala y desestimó declarar la existencia de un régimen de subcontratación.
+
+Segundo: Que según se expresa en la legislación laboral, el recurso de unificación de jurisprudencia es susceptible de ser deducido en contra de la resolución que falle el recurso de nulidad, estableciéndose su procedencia para el caso en que “respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de Tribunales Superiores de Justicia”, conforme lo explicita el artículo 483 del Código del Trabajo.
+
+Asimismo, del tenor de lo dispuesto en el artículo 483-A del cuerpo legal antes citado, aparece que esta Corte debe controlar, como requisitos para su admisibilidad, por un lado, su oportunidad; en segundo lugar, la existencia de fundamento, además de una relación precisa y circunstanciada de las distintas interpretaciones respecto de las materias de derecho objeto de la sentencia, sostenidas en diversos fallos emanados de los tribunales superiores de justicia, y finalmente, debe acompañarse copia del o los fallos que se invocan como fundamento del recurso en referencia.
+
+Tercero: Que la materia de derecho propuesta para ser unificada consiste en “Determinar si al demandado subsidiario, Fisco- Ministerio de Obras Públicas, se le puede atribuir la calidad de dueño o mandante de la obra, para los efectos de lo dispuesto en los artículos 183-A y siguientes del Código del Trabajo”.
+
+Cuarto: Que la sentencia impugnada rechazó el arbitrio, en lo pertinente, fundado en las causales de nulidad dispuestas en los artículos 478 e) y, en subsidio, 477 del Código del Trabajo, dado que, con relación a la primera, lo que el recurrente aspira es a que se realice un nuevo examen íntegro de las evidencias, en la forma que pretende, y que se acoja su tesis, en circunstancias que fue desestimada por insuficiencia de probanzas.
+En lo relativo a la segunda, sostuvo que no se encuentran acreditados los requisitos que exige el régimen de subcontratación, por lo que, de acuerdo con las alegaciones que invoca el impugnante, habría que incorporar nuevos presupuestos fácticos, lo que la causal impetrada impide.
+De esta forma, no ha podido constatarse un pronunciamiento sustancial que se relacione con la materia de derecho propuesta por el demandante, por lo que el recurso intentado debe ser desestimado en esta etapa procesal.
+
+Por estas consideraciones y normas citadas, se declara inadmisible el recurso de unificación de jurisprudencia interpuesto contra la sentencia de catorce de octubre de dos mil veinticinco.
+
+Regístrese y devuélvase.
+
+Rol N°58.238-2025.-
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+15
+
+Santiago, catorce de octubre de dos mil veinticinco.
+
+VISTOS:
+
+Por sentencia de diez de julio de dos mil veinticuatro, dictada por el Segundo Juzgado de Letras del Trabajo de Santiago, en los autos RIT O-8083-2023, se acogió parcialmente la demanda de despido indirecto, nulidad del despido y cobro de prestaciones laborales, condenando al pago de las prestaciones que constan en lo resolutivo del fallo y se rechazó, en lo que interesa, respecto la solicitud de declaración de responsabilidad solidaria o subsidiaria del Fisco de Chile.
+
+La parte demandante recurrió de nulidad en contra de dicho fallo invocando la causal prevista en el artículo 478 letra e) en relación con el artículo 459 N°4 del Código del Trabajo, por omisión del análisis de toda la prueba rendida, de los hechos que se estimaron probados y el razonamiento que condujo a esa estimación y, en subsidio, invocó la causal del artículo 477 del Código del Trabajo, por infracción del artículo 183 A del Código del Trabajo que influyó sustancialmente en lo dispositivo del fallo.
+
+Pide, acoja el recurso de nulidad y otorgue lo correspondiente en razón de la acción de despido indirecto acogida, dictando la correspondiente sentencia de reemplazo que condene a la demandada Fisco de Chile -Ministerio de Obras Públicas-, por su responsabilidad solidaria o subsidiaria, respecto de las prestaciones e indemnizaciones a que ha sido condenada la empresa constructora San Felipe S.A., por haber prestado esa parte servicios en régimen de subcontratación a su favor desde el 6 de noviembre de 2019 al 18 de noviembre de 2023, siéndole además aplicable en razón de lo expuesto la sanción de nulidad del despido, sin perjuicio de las causales que el tribunal ad quem advierta y declare, en ejercicio de las facultades para obrar de oficio que le confiere el inciso 2º del artículo 479 del Código del Trabajo.
+
+Declarado admisible el recurso, se procedió a su conocimiento en la audiencia respectiva, oportunidad en que alegaron los abogados de ambas partes.
+
+Considerando:
+Primero: Que, como primer motivo de nulidad, la recurrente plantea aquel previsto en el artículo 478 letra e) en relación con el artículo 459 N°4 del Código del Trabajo, por omisión del análisis de toda la prueba rendida.
+
+En particular, alega el recurrente que el fallo impugnado no analizó toda la prueba rendida en el proceso, lo que lo llevó a concluir erróneamente, en su considerando décimo tercero, que no existía trabajo en régimen de subcontratación por no haberse probado que el Fisco de Chile era dueño de las obras en que prestó servicios.
+
+Profundizando esta idea, menciona que el sentenciador omitió considerar 11 documentos incorporados por esa parte, a saber:
+
+1.- Contrato de trabajo de fecha 6 de noviembre de 2019, en el cual consta que el actor prestó servicio en “Camino Básico Conservación Cruce Ruta 7 (Villa Santa Lucia)-Palena- Carrelenfu, Rol 235-ch. Km 59.970 al Km 64,000. Comuna de Palena, Provincia de Palena”.
+
+2.- Anexos de contrato de trabajo de 30 de noviembre de 2019; 31 de enero de 2020; 2 de mayo de 2020; 14 de enero de 2022 y 1° de diciembre de 2022, en los que figura la prestación de servicios para las demás obras indicadas en la demanda (Conservación de Caminos de la Provincia de Palena, Sector Comunas de Chaitén, Futaleufú y Palena, Etapa II, Región de Los Lagos, mayo de 2020 - diciembre 2021; Mejoramiento Ruta 235- CH, sector Villa Santa Lucía-Puerto Ramírez, Provincia de Palena. Tramo DM 16.830,320 al DM 33.180,000, enero de 2022 - noviembre 2022.; Conservación Red Vial, Conservación Periódica Ruta 15 CH, Km 96 al km 144, por Sectores Comuna de Huara y Colchane, Provincia del Tamarugal, Región de Tarapacá, 2° Llamado, Código SAFI 359548).
+
+3.- Resolución DV Tarapacá N°12, de 11 de octubre de 2022, que adjudica a la empresa constructora San Felipe S. A. una de las obras mencionadas precedentemente.
+
+4.- Resolución DV Tarapacá N°664, de 8 de junio de 2022, que aprueba anexo complementario que indica.
+
+5.- Resolución DV Tarapacá N°1447 de fecha 20 de octubre de 2023, que regulariza y aprueba convenio que indica, relativo al aumento de plazo de la misma obra.
+
+6.- Resolución DV Tarapacá N°1628, de 21 de noviembre de 2023, que dispone pago por subrogación de remuneraciones de los meses de agosto y septiembre de 2023, adeudadas a los trabajadores de la empresa San Felipe, poniendo término anticipado al contrato adjudicado mediante el instrumento del N° 1.
+
+7.- Certificado de cumplimiento de obligaciones laborales y previsionales, periodo noviembre 2022 a julio 2023, donde consta que la empresa principal es la Dirección de Vialidad, del Ministerio de Obras Públicas, y el actor figura dentro de los trabajadores informados.
+
+8.- Oficio Ord. N°1478, de fecha 29 de diciembre de 2023, que comunica término anticipado contrato referido en el N° 1.
+
+9.- Oficio Ord. N°89, de 24 de enero de 2024, que remite resoluciones que indica a CGR, también relativo a dicho término anticipado.
+
+10.- Contrato “Mejoramiento Ruta 235-ch, sector villa Santa Lucía – puerto Ramírez, provincia de Palena, tramo DM. 16.830,320 AL DM 33.180,000.” Y los Certificado de cumplimiento de obligaciones laborales y previsionales de dicha obra, en que actor figura dentro de los trabajadores informados.
+
+11.- Órdenes de Pago referidos a obra “Camino Básico Conservación Cruce Ruta 7 (Villa Santa Lucia)- Palena- Carrelenfu, Rol 235-ch. Km 59.970 al Km 64,000. Comuna de Palena, Provincia de Palena”, en beneficio del ex - empleador del actor.
+
+Plantea que estos medios de prueba daban cuenta de que efectivamente la obras en cuestión son de propiedad del Fisco de Chile, quien adjudicó su ejecución a empresa constructora San Felipe S.A, siendo la primera quien fiscalizó y supervigiló el cumplimiento de las mismas, aprobó aumentos de plazo solicitados por la última, y quien, ante el incumplimiento de lo pactado por parte de la constructora respecto de la última obra, dispuso su término e inclusive se subrogó en pago de las obligaciones laborales y previsionales pendientes sobre sus trabajadores.
+
+Concluye, que con el mérito de dichos antecedentes se debiese haber tenido por establecido que los servicios prestados por el demandante para la demandadá principal San Felipe S.A se hizo en régimen de subcontratación para MOP-Fisco de Chile, el que de conformidad con el artículo 183-B del Código del Trabajo, es en principio responsable solidario de las obligaciones laborales y previsionales de dar adeudadas por el contratista a favor de sus trabajadores, salvo que acreditare que hizo uso de los derechos de información y de retención que establece la normativa laboral, lo que transforma su responsabilidad en subsidiaria.
+Segundo: Que, en subsidio, la recurrente ha esgrimido la causal establecida en el artículo 477 del Código del Trabajo, por infracción del artículo 183-A del código laboral que influyó sustancialmente en lo dispositivo del fallo.
+
+Alega que dicha infracción consiste en la errónea interpretación de la norma, que llevó al sentenciador a dejar de aplicarla al caso de autos, pese a que la situación de marras se encontraba regida por dicha disposición, al determinar incorrectamente, en el considerando décimo tercero del fallo, que el Ministerio de Obras Públicas no detentaba la calidad de dueño de tales obras y tampoco se beneficiaba de las mismas.
+
+Cita jurisprudencia de la Excma. Corte Suprema, acorde con la cual el vocablo “empresa” utilizado por el precepto en examen, ligado al concepto de dueño de la obra, no excluye en ningún caso ciertas personas naturales o jurídicas, sean públicas o privadas, puesto que la ley no prescribe otra limitación que aquella referida a la persona natural que encarga la construcción de una edificación por un precio único prefijado, según se dice en el inciso final del artículo 183-B del Código del ramo.
+
+Indica que, entonces, y pese a que el Fisco de Chile - Ministerio de Obras Públicas encargó y encomendó al contratista San Felipe S.A., bajo su cuenta y riesgo, la ejecución de obras de conservación de caminos y rutas en diversas regiones en las que el demandante prestó servicios para beneficio de la primera, la magistratura estimó que la dueña de esas obras sería el Ministerio de Bienes Nacionales, sin mayor antecedente, reconociendo en todo caso que el Fisco de Chile tenía la legitimización activa para adjudicarle responsabilidad, como mandante y dueña de la obra, en régimen de subcontratación.
+
+Concluye que, de haberse fallado conforme a derecho, se habría establecido que el demandante prestó servicios en régimen de subcontratación para el Fisco de Chile - Ministerio de Obras Públicas, lo que hubiese resultado en su condena a lo menos de manera subsidiaria a prestaciones e indemnizaciones laborales, así como también al pago de las cotizaciones previsionales y la sanción de nulidad del despido, por haber prestado el trabajador servicios en régimen de subcontratación.
+Tercero: Que, el recurso de nulidad laboral tiene por objeto, según sea la causal invocada, asegurar el respeto a las garantías y derechos fundamentales, o bien, conseguir sentencias ajustadas a la ley, como se desprende de los artículos 477 y 478 del Código del Trabajo, todo lo cual evidencia su carácter extraordinario que se manifiesta por la excepcionalidad de los presupuestos que configuran cada una de las referidas causales en atención al fin perseguido por ellas, situación que igualmente determina un ámbito restringido de revisión por parte de los tribunales superiores y que, como contrapartida, impone al recurrente la obligación de precisar con rigurosidad los fundamentos de aquellas que invoca, como, asimismo, de las peticiones que efectúa.
+
+Igualmente, cabe tener presente que el recurso de nulidad no constituye una instancia, de manera que estos sentenciadores no pueden ni deben revisar los hechos que conforman el conflicto jurídico de que se trata, siendo la apreciación y establecimiento de éstos una facultad exclusiva y excluyente del juez que conoció del respectivo juicio, y, asimismo, a esta Corte le está vedado efectuar una valoración de la prueba rendida ante el Juzgado del Trabajo, lo que corresponde únicamente a éste, el cual está dotado de plena libertad para ello, con la sola limitación de no contrariar los principios de la lógica, las máximas de experiencia y los conocimientos científicamente afianzados.
+
+El recurso de nulidad, finalmente, es un arbitrio de derecho estricto que requiere claridad y precisión en su fundamentación lo que resulta necesario toda vez que aquello da y define la competencia del Tribunal superior, el que no puede acogerlo por otros motivos, salvo la situación contemplada en el inciso final del artículo 479 del Código del Trabajo.
+Cuarto: Que respecto de la causal interpuesta en lo principal establecida en el artículo 478 e) en relación con el artículo 459 N° 4, es necesario tener en cuenta que el artículo 478 letra e) del Código del Trabajo prescribe: “El recurso de nulidad procederá, además:
+e) Cuando la sentencia se hubiere dictado con omisión de cualquiera de los requisitos establecidos en los artículos 459, 495 ó 501, inciso final, de este Código, según corresponda; contuviese decisiones contradictorias; otorgare más allá de lo pedido por las partes, o se extendiere a puntos no sometidos a la decisión del tribunal, sin perjuicio de las facultades para fallar de oficio que la ley expresamente otorgue”;
+
+El artículo 459 del Código del Trabajo, a su turno, indica que: “La sentencia definitiva deberá contener:
+N° 4.- El análisis de toda la prueba rendida, los hechos que estime probados y el razonamiento que conduce a esta estimación;” conceptualización que da cuenta que ella está prevista para velar por la forma de las sentencias, imponiendo al tribunal -en lo pertinente al recurso- la carga de analizar toda la prueba rendida, consignar los hechos que se consideran demostrados y las consideraciones jurídicas en las que el fallo se funda.
+Que, la causal invocada requiere, para ser acogida, los siguientes requisitos: a) que el recurrente singularice cuales fueron los medios de prueba omitidos; b) que el sentenciador efectivamente haya omitido el análisis de determinados medios de prueba en su sentencia; y c) que esa omisión influya sustancialmente en lo dispositivo del fallo.
+
+Quinto: Al efecto, cabe señalar que el considerando décimo tercero, párrafo tercero, en relación al régimen de subcontratación, establece: “Que la prueba aportada por el demandante no logra suficiencia para demostrar el régimen que alega, toda vez que no se acreditan los requisitos para la existencia de tal régimen, específicamente el referido a que la empresa principal sea dueña de la obra, empresa o faena en que se desarrollan los servicios o se ejecutan las obras objeto de subcontratación, desde el momento que el Ministerio de Obras Públicas no detenta calidad de dueño de tales obras y tampoco se beneficie de las mismas, sino que se trata de obras de conservación básicamente de caminos y rutas, que aparentemente serían bienes nacionales de uso público, que es patrimonio fiscal, a cargo del Ministerio de Bienes Nacionales, por ende al no acreditarse uno de los requisitos principales del régimen de subcontratación, esto es, que a quien se demanda como empresa principal, sea la dueña de la obra, empresa o faena en que se desarrollan los servicios o se ejecutan las obras, deberá rechazarse la demanda en este acápite.” Agrega en el párrafo siguiente: “Que lo anterior se ve ratificado por la confesional ficta del demandante, respecto de la cual se hace efectivo el apercibimiento solicitado por la demandada solidaria/subsidiaria, del artículo 454 N° 3 inciso 1 del Código del Trabajo, y se presume como efectiva, en relación al hecho a probar cuarto de la audiencia preparatoria, -En su caso, efectividad que el trabajador demandante desempeñó servicios para San Felipe S.A., bajo régimen de subcontratación respecto del Ministerio de Obras Públicas, en su caso, periodo de extensión de dicho régimen y circunstancias en que fue desarrollado el mismo- la alegación formulada por la demandada en su contestación, en cuanto a la inexistencia de régimen de subcontratación a su respecto.”
+
+Sexto: Que contrario a lo que sostiene la recurrente, los documentos incorporados por la demandante y demandada solidaria fueron singularizados en los considerando quinto y sexto, respectivamente, distinto es que la jueza no los haya reproducido al analizarlos -considerando Décimo Tercero- pero forzosamente tuvo que haberlos tenido en consideración al momento de pronunciarse acerca de la insuficiencia probatoria para acreditar la existencia de un régimen de subcontratación.
+
+Séptimo: Además, cabe señalar que en el motivo Décimo Cuarto de la sentencia se consigna: “Que la prueba rendida ha sido apreciada de acuerdo a las reglas de la sana crítica y la demás prueba no analizada expresamente en nada altera las conclusiones a que se ha arribado en la sentencia, por ser reiteración de lo ya examinado o no aportar nuevos antecedentes.”
+
+En conclusión, la juez de la instancia en ejercicio de sus atribuciones ponderó la prueba y de los fundamentos de la causal se evidencia que el recurrente aspira a que esta Corte realice un examen íntegro de las evidencias en la forma que pretende y de ese modo se acoja la tesis que plantea, en circunstancias que ésta fue desestimada por insuficiencia de evidencias, por lo que corresponde desestimar la causal impetrada.
+
+Octavo: Que, subsidiariamente invocó la causal establecida en el artículo 477 del Código del Trabajo, sobre infracción de ley, que tiene como finalidad velar por una correcta aplicación del derecho a los hechos o al caso concreto determinado en la sentencia. En otras palabras, su propósito esencial está en fijar el significado, alcance y sentido de las normas, en función de los hechos tenidos por probados. Dicha hipótesis resulta procedente en el evento que el fallo aplique incorrectamente el derecho llamado a regir la cuestión que motiva la controversia, lo que puede tener lugar en los casos de contravención formal de la ley -aquéllos en que la sentencia prescinde de la ley o falla en oposición a su texto expreso-; en los de errónea interpretación de la ley -cuando la sentencia da al precepto legal un sentido o alcance distinto a aquel que debió haberle dado si hubiera aplicado correctamente las normas de interpretación; y si existiere una falsa aplicación de la ley -defecto que puede producirse cuando la ley se aplica a un caso no regulado por la norma o la sentencia prescinde de la aplicación de la ley para los casos en que ella se ha dictado-, siempre que cualquiera de estas hipótesis que se presente influya sustancialmente en lo dispositivo del fallo.
+
+Noveno: Que, esta causal, en su segunda hipótesis, supone la aceptación de los hechos establecidos en la sentencia, debiendo el recurrente indicar qué modalidad de infracción de ley es la que concurre en la especie: contravención formal de la norma, falta de aplicación de esta, aplicación indebida o errada interpretación de la ley.
+
+Por último, es necesario tener presente también que las normas que se denuncian como infringidas deben tener influencia en lo dispositivo del fallo, esto es, deben revestir el carácter de ser decisoria litis.
+Décimo: Que el fundamento del arbitrio consiste en una errónea interpretación de la norma, -artículo 183 A del Código del Trabajo- que llevó al sentenciador a dejar de aplicarla al caso de autos.
+
+Undécimo: Que de acuerdo con los hechos que se tuvieron por establecidos en el motivo Décimo Tercero, párrafo tercero, no se encuentran acreditados los requisitos que exige el régimen de subcontratación, de conformidad a la norma antes citada, por lo que de acuerdo con las alegaciones que invoca el recurrente habría que incorporar nuevos presupuestos fácticos, lo que la causal impetrada impide, por lo que necesariamente el arbitrio debe ser desestimado.
+Por las razones anteriores, más lo dispuesto en los artículos 477, 478 letras b), c) y e), 479, 481 y 482 del Código del Trabajo, se rechaza sin costas, el recurso de nulidad deducido por la demandante en contra de la sentencia de once de julio de veinticuatro, dictada por el Segundo Juzgado de Letras del Trabajo de Santiago, en los autos RIT O-8083-2023, sentencia que, en consecuencia, no es nula.
+
+Se previene que el ministro Mario D. Rojas G. estuvo por imponer el pago de las costas del recurso a la parte recurrente.
+Regístrese y comuníquese.
+
+Redacción de la Fiscal Judicial Ana María Hernández Medina.
+Laboral-Cobranza Nº 2642-2024.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, diez de julio de dos mil veinticuatro.
+
+VISTOS Y CONSIDERANDO:
+
+PRIMERO: Que comparece don FELIPE ALEXI ISLA ALEGRIA, cédula nacional de la identidad N°15.233.785-K, desempleado; domiciliado para estos efectos en Sergio Fresard # 612 Curacautin, Región de la Araucanía, quien interponer demanda laboral en procedimiento de aplicación general por despido indirecto, nulidad del despido y cobro de prestaciones laborales adeudadas en contra de su ex empleador SAN FELIPE S.A., representada legalmente por don Winston Walton Villanueva, Cédula de identidad 3.641.431-6, ignora profesión u oficio, ambos domiciliados en Cerro Los Cóndores, N°121, Quilicura, Región Metropolitana por su responsabilidad directa; y además solidariamente en contra del FISCO DE CHILE - MINISTERIO DE OBRAS PÚBLICAS, RUT: 61.202.000-0, órgano centralizado de la administración del estado, del giro actividades de la administración pública en general, representado por su Secretario don Daniel Olhabé Espinosa, C.I. 14.625581-7, ambos domiciliados en O’Higgins 451, Piso 5, Puerto Montt, representado judicialmente por el CONSEJO DE DEFENSA DEL ESTADO, RUT 61.006.000-5, por medio de su abogado procurador doña Virginia Andrea Vega Diaz, con domicilio en Agustinas N°1225, piso 2, Santiago, ésta última demandada en su calidad de solidaria o, en su caso, subsidiariamente responsable de las obligaciones de dar que afecten a la primera con sus trabajadores, de conformidad a lo dispuesto en los artículo 183-A y siguientes del Código del Trabajo, en base a los fundamentos siguientes.
+
+Expone que comenzó a prestar servicios a SAN FELIPE S.A, con fecha 06 de noviembre del año 2019, cumpliendo siempre funciones como “Administrativo” en diversas obras para las cuales era destinado por su empleador; que su remuneración bruta, pactada actual y vigente a la fecha de hoy fue de la suma de $1.891.208; que su jornada de trabajo era de lunes a Viernes en un horario de 08:00 a 12:00 am horas. y de 14:00 a 18:00 horas, con colación entre las 12:00 hrs. A 14:00 hrs. no imputables a la jornada, y sábado desde 08:00 a 13:00 Hrs. Siendo una jornada laboral de 45 hrs semanales.
+
+Indica que se encontraba sujeto a subordinación y dependencia, con supervisión jerárquica desde el inicio de su relación laboral, para con su ex empleador, cumpliendo siempre de la manera encomendada sus funciones. La duración del contrato de trabajo era indefinida. Que las obras para las cuales se desempeñó, todas sin solución de continuidad para la mandante Ministerio De Obras Públicas, fueron:
+
+1.- "Camino Básico Conservación Cruce Ruta 7 (Villa Santa Lucia)-Palena- Carrelenfu, Rol 235-ch. Km 59.970 al Km 64,000. Comuna de Palena, Provincia de Palena", desde noviembre de 2019 a abril 2020.
+
+2.-Conservación Global Mixto, por nivel de servicio y por serie de precios unitario de caminos de la provincia de Palena, Sector comunas ce Chaiten, Futaleufu y Palena, Etapa II, Región De Los Lagos", de mayo de 2020 - diciembre 2021.
+
+3.-Mejoramiento ruta 235- CH, sector Villa Santa Lucía-Puerto Ramírez, Provincia de Palena. Tramo DM 16.830,320 al DM 33.180,000", de enero de 2022 - noviembre 2022.
+
+4.- Conservación Red Vial, Conservación Periódica Ruta 15 CH, Km 96 al km 144, Por Sectores Comuna de Huara y Colchane, Provincia del Tamarugal, Región de Tarapacá, 2° Llamado, Código SAFI 359548": de diciembre de 2022 hasta el despido indirecto.
+
+Sostiene que, al día de hoy, su empleador SAN FELIPE S.A, no ha dado cumplimiento en el pago de forma íntegra, completa y de conformidad a la ley, las cotizaciones de seguridad social, en AFP PROVIDA, AFC CHILE Y FONASA pues según consta en certificados de cotizaciones se le adeudan las siguientes cotizaciones y en los siguientes periodos:
+
+a. Respecto de AFP PROVIDA: agosto, septiembre, octubre de 2023.
+
+b. Respecto de AFC: agosto, septiembre, octubre de 2023.
+
+c. Respecto de FONASA: agosto, septiembre, octubre de 2023.
+
+Todo lo que ha generado un grave deterioro en sus ahorros provisionales, no pudiendo a acceder a beneficios propios de esas asignaciones previsionales, generando lagunas en sus fondos por lo demás.
+
+Agrega que no se ha hecho pago de sus remuneraciones correspondientes al mes de agosto, septiembre y octubre de 2023; que no se le otorgó trabajo convenido conforme el contrato de trabajo desde el día 02 de octubre del 2023, encontrándose abandonadas las obras en que se desempeñaba para su empleador: “Conservación Red Vial, Conservación Periódica Ruta 15 CH, Km 96 al km 144, Por Sectores Comuna de Huara y Colchane, Provincia del Tamarugal, Región de Tarapacá, 2° Llamado, Código SAFI 359548”, no teniendo respuesta alguna sobre su situación como trabajador, generando incertidumbre y preocupación respecto a su única fuente de sustento. Que, al no obtener respuesta alguna, tomando conocimiento que su ex empleador solicitó el proceso de Reorganización Judicial con fecha 30 de octubre del 2023, en virtud de la ley 20.720, presentó su carta autodespido con fecha 16 de noviembre del año 2023 dirigiendo carta al efecto a su ex empleador, por la causal siguiente, concurriendo antecedentes suficientes de ella:
+
+Vulneración del artículo 160 N°7, esto es, “Incumplimiento grave de las obligaciones que impone el contrato”, esto por:
+
+- No enterar de forma íntegra, completa y en conformidad a lo que la ley indica, cotizaciones previsionales, por los periodos ya señalados;
+
+- No otorgamiento de trabajo convenido por los periodos ya señalados.
+
+- No pago de remuneraciones por los periodos ya indicados.
+
+RESPECTO A RÉGIMEN DE SUBCONTRATACIÓN:
+
+Explica que la empresa San Felipe S.A. es una constructora de obras viales de importante presencia en el mercado, desde hace más de 40 años, actualmente con ocho grandes obras en las regiones de Arica y Parinacota, Tarapacá y Los Lagos. Que, en su caso, las obras para las cuales prestó servicios fueron solicitadas a su ex empleador por la mandante Ministerio Obras Públicas y su Dirección de Vialidad, en concreto, las ya referidas de: "Camino Básico Conservación Cruce Ruta 7 (Villa Santa Lucia)-Palena- Carrelenfu, Rol 235-ch. Km 59.970 al Km 64,000. Comuna de Palena, Provincia de Palena; Conservación Global Mixto, por nivel de servicio y por serie de precios unitario de caminos de la provincia de Palena, sector comunas de Chaiten, Futaleufu y Palena, Etapa II, Región De Los Lagos" mayo de 2020. 3.-Mejoramiento ruta 235- CH, sector Villa Santa Lucía-Puerto Ramírez, Provincia de Palena. Tramo DM 16.830,320 al DM 33.180,000". Enero de 2022. 4.- Conservación Red Vial, Conservación Periódica Ruta 15 CH, Km 96 al km 144, Por Sectores Comuna de Huara y Colchane, Provincia del Tamarugal, Región de Tarapacá, 2° Llamado, Código SAFI 359548" diciembre de 2022.
+
+Cita el derecho aplicable, además de jurisprudencia.
+
+Concluye que las prestaciones reclamadas son las siguientes:
+
+Remuneraciones adeudadas de los meses de septiembre, octubre y noviembre de 2023, por un total de $6.682.268, considerando su remuneración de
+
+$1 .891.208.
+
+Indemnización por años de servicio, la suma de $7.564.832, más recargo legal del 50% sobre la misma de acuerdo con lo dispuesto en el artículo 171 del Código del Trabajo, recargo que asciende a $3.782.416, dando un total $11.347.248
+
+Indemnización por mes de aviso, la suma de $1.891.208.
+
+Feriado legal o proporcional, equivalente a 36 días, la suma de $2.269.450.
+
+Añade que su ex empleador le adeuda cotizaciones de seguridad social por los periodos siguientes: en AFP PROVIDA, FONASA y AFC, de los meses de agosto, septiembre y octubre de 2023. Y de acuerdo al artículo 162 del Código del Trabajo, en sus incisos 1º y 5º, que transcribe, se infiere que para poner término al contrato de por alguna de las causas señaladas, el empleador deberá ́ comunicarlo por escrito al trabajador personalmente o por carta certificada, dejando constancia en la referida comunicación de la o las causales invocadas, los hechos en que se funda y el estado de pago de las cotizaciones previsionales devengadas hasta el último día del mes anterior al del despido, acompañando los respectivo comprobantes de pago que acrediten tal circunstancia. Y al no cumplir con ello, la relación laboral se mantiene vigente para efectos remuneratorios en las condiciones que se consignan en el inciso 7° del aludido artículo 162 precitado. Cita jurisprudencia y dictámenes de la Dirección del Trabajo.
+
+Alude a la compatibilidad de la acción de despido indirecto o autodespido y nulidad del despido, conforme se ha fallado en jurisprudencia que cita, en especial en Sentencia de Unificación de Jurisprudencia, ROL: 40.689 – 2016, de fecha 07 de diciembre del año 2016, de la Excma. Corte Suprema, que transcribe en lo pertinente.
+
+Indica que MINISTERIO DE OBRAS PUBLICAS es responsable respecto del pago de las prestaciones que se le adeudan y la sanción derivada respecto de la acción tutelar de derechos interpuesta, transcribe al respecto el artículo 183-A del Código del Trabajo; por su parte, el artículo 183- B del mismo cuerpo legal señala que “la empresa principal será solidariamente responsable de las obligaciones laborales y previsionales de dar que afecten a los contratistas en favor de los trabajadores de éstos, incluidas las eventuales indemnizaciones legales que correspondan por término de la relación laboral”. Agrega dicha norma que la responsabilidad estará limitada al tiempo o periodo durante el cual el o los trabajadores prestaron servicios bajo régimen de subcontratación para la empresa principal. Previene en su inciso cuarto el artículo 183 B que el trabajador, al entablar la demanda en contra de su empleador directo, podrá hacerlo en contra de todos aquellos que puedan responder de sus derechos, en conformidad a las normas de ese párrafo. Luego se refiere a los artículos 183 C y D, que regulan tres derechos para la empresa principal, cuales son el de ser informada por el contratista sobre el e el monto y estado de cumplimiento de las obligaciones laborales respecto de sus trabajadores, el derecho de retener de las obligaciones que tenga en favor de aquel los montos de que sea responsable cuando no se acredite oportunamente el cumplimento de las obligaciones laborales y previsionales; finalmente puede pagar por subrogación al trabajador o institución previsional acreedora. Cita jurisprudencia.
+
+Concluye que al MINISTERIO DE OBRAS PUBLICAS le asiste responsabilidad solidaria o subsidiaria respecto del pago de las prestaciones que se le adeudan. Cita jurisprudencia, y señala que siendo la demandada MINISTERIO DE OBRAS PÚBLICAS DIRECCION DE VIALIDAD solidariamente responsable de acuerdo a los que disponen los artículos 183 A y siguientes del Código del Trabajo dado que los servicios que prestó para SAN FELIPE S.A para la ejecución de la obras o faenas precedentemente pormenorizadas, todas las cuales fueron encargadas por MINISTERIO DE OBRAS PÚBLICAS DIRECCION DE VIALIDAD a su empleador, razón por la cual debe también responder al cumplimiento de sus prestaciones laborales adeudadas y aviso previo. Argumenta al efecto y reitera que no hay duda de que se está en un trabajo en régimen de subcontratación y que a MINISTERIO DE OBRAS PÚBLICAS DIRECCION DE VIALIDAD- le asiste responsabilidad solidaria o subsidiaria en el cumplimiento de sus obligaciones laborales y previsionales, cuestión que se extrae de las siguientes circunstancias:
+
+a.- Que, la obra o faena, en concreto, a desarrollarse en la comuna de Huara y Colchane (la última como referencia), siendo encargadas por MINISTERIO DE OBRAS PÚBLICAS DIRECCION DE VIALIDAD-, a su empleador SAN FELIPE S.A. existiendo, por lo tanto, un vínculo contractual entre ambos, siendo esa entidad quien adjudica, supervisa y liquida la obra en cuestión.
+
+b.- Que, la obra o faena en cuestión se ejecutaron por cuenta y riesgo de su ex empleador y con trabajadores bajo su dependencia, entre los que se encuentran quien comparece en esta demanda.
+
+c.- Que, por tanto, entre MINISTERIO DE OBRAS PÚBLICAS DIRECCION DE VIALIDAD, y SAN FELIPE S.A. S.A., existe un vínculo contractual por el cual este último se encarga de llevar a cabo las diversas obras propuestas.
+
+d.- Que MINISTERIO DE OBRAS PÚBLICAS DIRECCION DE VIALIDAD- puede y debe ser considerado como dueña de la obra o faena en la que se desempeñaba, donde trabajaba al momento de su despido.
+
+Sostiene que, por tanto, la demandada MINISTERIO DE OBRAS PÚBLICAS DIRECCION DE VIALIDAD- es solidariamente responsable respecto de las prestaciones que se le adeudan, de la indemnización por lucro cesante (sic) según se determine de acuerdo al mérito del proceso, siendo demandada solidariamente responsable de acuerdo a los que disponen los Artículos 183 A y siguientes del Código del Trabajo dado que el servicio prestado, en - las obras ya indicadas - fueron encomendadas por MINISTERIO DE OBRAS PÚBLICAS DIRECCION DE VIALIDAD- a su empleador, razón por la cual debe también responder al cumplimiento de todo lo demandado en la presentación.
+
+Solicita tener por interpuesta la demanda en contra de las demandadas ya individualizadas, acogerla a tramitación y en definitiva declarar, en las sumas indicadas o en las sumas mayores o menores que se determine conforme al mérito del proceso:
+
+1. Que la demandada ha incurrido en las causales de incumplimiento grave de las obligaciones que impone el contrato del artículo 160 Nº7 del Código del Trabajo, a su respecto, según lo ya expuesto en el cuerpo de la demanda, declarándose y dándose lugar a su despido indirecto con fecha 16 de noviembre de 2023 o de la forma y fecha que se determine conforme al mérito del proceso.
+
+2. Declarar que trabajó bajo régimen de subcontratación y que el MINISTERIO DE OBRAS PUBLICAS es solidariamente responsables de todo lo demandado, o en la forma que se estime ajustada a derecho.
+
+3. Declare que se adeudan cotizaciones previsionales de FONASA, AFP y AFC por los periodos de agosto, septiembre y octubre de 2023, y condene al pago de estas y, por consiguiente, declare el despido como nulo o las que se determine conforme al mérito del proceso.
+
+4. Que, se declare que su despido es NULO, porque a esa fecha no se encontraban pagadas sus cotizaciones previsionales, existiendo remuneraciones pendientes y, por consiguiente, según lo dispuesto en el artículo 162 del Código del Trabajo, la o las demandadas tienen la obligación de seguir pagando sus remuneraciones hasta que se convalide el despido, obligando a las demandadas al pago de las remuneraciones hasta la convalidación por los montos de sus remuneraciones: $1.891.208.
+
+5. Que condene a las demandadas al pago de las remuneraciones pendientes, de los meses de agosto, septiembre, octubre y noviembre de 2023, equivalentes a la suma de $6.682.268.-
+
+6. Que condene a la o las demandadas al pago:
+
+indemnización sustitutiva de aviso previo, por $1.891.208;
+
+indemnización por años de servicio, la suma de $7.564.832;
+
+recargo legal sobre la anterior, la suma de $3.782.416
+
+7. Condene a la o las demandadas al pago del feriado legal o proporcional, equivalente a la suma de $ 2.269.450 (36 días)
+
+8. Que todas las sumas anteriores o las mayores o las menores deben pagarse con los reajustes e intereses que en derecho correspondan calculados desde la fecha del despido hasta el día de su pago efectivo, y; 9. Las costas de la causa.
+
+SEGUNDO: Que notificadas legalmente las demandadas contestan dentro de plazo en los siguientes términos:
+
+A.- DEMANDADA PRINCIPAL SAN FELIPE S.A.:
+Comparece don Edgard Rudolph Pereira, abogado, en representación de la demandada SAN FELIPE S.A., quien contesta la demanda interpuesta en contra de su representada, solicitando desde ya su rechazo, con costas, por las consideraciones siguientes.
+
+Niega y controvierte todos y cada uno de los hechos en los que se funda la demanda y que no sean reconocidos expresamente en la presente contestación, sin perjuicio de señalar que es de cargo del demandante la acreditación de todos los antecedentes de hecho respecto de los cuales fundamenta su pretensión, todo ello acorde a lo dispuesto en el artículo 1698 del Código Civil.
+
+Opone excepción de prescripción respecto de la acción de cobro de prestaciones relativas al feriado legal superior a los 30 días hábiles, o más de dos periodos anuales., por cuanto el artículo 510 del Código del Trabajo dispone que “Los derechos regidos por este Código prescribirán en el plazo de dos años contados desde la fecha en que se hicieron exigibles”. Y, por otro lado, el artículo 67 del mismo Código establece que “Los trabajadores con más de un año de servicio tendrán derecho a un feriado anual de quince días hábiles, con remuneración íntegra que se otorgará de acuerdo con las formalidades que establezca el reglamento”. Por su parte, el artículo 2514 del Código Civil dispone que “La prescripción que extingue las acciones y derechos ajenos exige solamente cierto lapso de tiempo, durante el cual no se hayan ejercido dichas acciones” y el artículo 2523 del Código Civil, en su numeral 2, dispone que la prescripción se interrumpe, desde que interviene requerimiento, esto es, desde que se notifica legalmente la demanda. Cita jurisprudencia, y señala que, en el caso del demandante, éste tuvo una relación laboral con su representada por más de dos años, y solicita el pago de un feriado anual y proporcional superior a 30 días (equivalente a dos periodos anuales de 15 días), teniendo únicamente derecho a demandar un máximo de treinta días de feriado, debiendo rechazarse la demanda por el exceso de 30 días.
+
+Indica que, por lo expuesto, alega formalmente la prescripción del feriado demandado, en aquella parte que supere los 30 días. En consecuencia, en razón de lo expuesto, y las normas que cita, es procedente que se acoja la excepción de prescripción y se declare, en consecuencia, que el derecho a cobro del feriado legal demandado por don Felipe Alexi Isla Alegría, en aquella parte que supera los 30 días, se encuentra prescrito.
+
+Opone también, excepción de pago parcial, de conformidad a las normas que indica, ya que tanto las cotizaciones previsionales como las remuneraciones de los meses de agosto y septiembre de 2023, meses anteriores al despido indirecto, se encuentran todas pagadas a la fecha. En efecto, tanto las remuneraciones como las cotizaciones previsionales mencionadas fueron pagadas con fecha 6 de diciembre de 2023. Por lo que, encontrándose pagadas parcialmente las obligaciones fundamento de las cartas de aviso, y las prestaciones demandadas en autos, solicita tener por interpuesta excepción de pago parcial de la deuda, y, en definitiva, acogerla, y rechazar la demanda en aquella parte en que el pago se haya verificado.
+
+Contestando la demanda, expone que el actor comenzó a prestar servicios a su representada con fecha 3 de noviembre de 2021, en calidad de medioambientalista. Durante la relación laboral, se desempeñó en diversas obras de su representada. Por lo que controvierte expresamente la fecha de inicio del contrato señalada por el actor en su demanda, y todas las prestaciones e indemnizaciones derivadas de ello, en especial, aquellas relacionadas con la indemnización por años de servicio demandada. También controvierte expresamente la remuneración indicada por el actor en su demanda.
+
+Respecto al término de la relación laboral, señala que el actor indica haber enviado a su representada, a mediados del mes de noviembre de 2023, una carta de aviso en la que comunicó su despido indirecto, invocando la causal del artículo 160 N°7 del Código del Trabajo, basado, principalmente en el no pago de la remuneración y las cotizaciones de seguridad social de los meses de agosto, septiembre y octubre de 2023, además no otorgar el trabajo convenido.
+
+Refiere que, conforme los artículos 162, 171 y 454 N°1 del Código del Trabajo, no hay motivo para asegurar que la carta de despido indirecto no deba cumplir con las mismas formalidades que debe cumplir la carta de despido directo, por cuanto la carta de despido, tanto directo como indirecto, debe precisar los hechos en que se funda, sin que se puedan agregar nuevos, para asegurar el derecho a defensa de los demandados; además, deberá acreditar el actor que ha cumplido con todas las formalidades de la carta de aviso, entre ellas, haber remitido copia de la misma a la Inspección del Trabajo.
+
+Respecto al fondo, controvierte y rechaza tajantemente cada una de las afirmaciones contenidas en la carta, debiendo el actor acreditarlas en la oportunidad procesal respectiva. En especial, deberá el actor acreditar el incumplimiento grave de las obligaciones que impone el contrato, imputado en su carta. Asimismo, en cuanto al fondo, la mayoría de las prestaciones demandadas como pendientes, se encuentran pagadas a la fecha, por lo que el despido indirecto ha quedado sin fundamento y, en su caso, debe entenderse convalidado cualquier despido.
+
+Puntualiza la delicada situación económica por la que atraviesa la empresa, cuyo origen se encuentra en la ausencia de llamados a licitación de la principal mandante de San Felipe S.A., a saber, el Ministerio de Obras Públicas –como es público y notorio si se revisa el Diario Oficial desde el mes de enero de 2022 a la fecha-, por lo que, la consecuente falta de liquidez de su representada, causada por el retraso en los pagos de las licitaciones vigentes, y la magnitud de la remuneración de cada uno de los actores, mantienen complicadas las opciones de cumplimiento de sus obligaciones para su representada.
+
+Añade que tal es la complejidad de la situación económica de la empresa que, con fecha 28 de septiembre de 2023, y luego de varios meses de intentar soportar la exigua condición económica, su representada, tal como lo indica la propia demanda, solicitó la apertura de un Procedimiento de Acuerdo de Reorganización Judicial. Así, con fecha 30 de octubre de 2023, el 20° Juzgado Civil de Santiago, en la causa rol C-16807-2023 dictó la resolución de reorganización, entrando su representada en Protección Financiera Concursal. Asimismo, con fecha 11 de enero de 2024, dicho tribunal acogió la solicitud de prórroga de la protección financiera concursal, por un periodo de 60 días hábiles adicionales.
+
+Finalmente, respecto de las peticiones concretas de la demanda, señala que:
+
+a) Controvierte y rechaza tajantemente las imputaciones contenidas en la demanda.
+
+b) Por lo anterior, no se adeuda concepto alguno al actor. En específico, no se adeuda monto alguno por concepto de indemnización sustitutiva del aviso previo, indemnización por años de servicio, ni por recargos legales, ni por feriado legal ni proporcional, ni por aguinaldo, ni por remuneraciones adeudadas, ni por asignaciones ni por reembolsos, ni por rendiciones, ni por costas, y, en especial, tampoco se adeuda monto alguno por concepto de remuneraciones devengadas desde la fecha del auto despido.
+
+c) En consecuencia, debe rechazarse la demanda de despido indirecto, nulidad del despido y de cobro de indemnizaciones y prestaciones.
+
+d) No existe deuda alguna a la cual aplicar reajustes e intereses.
+
+Solicita tener por contestada la demanda, y en mérito de lo expuesto, rechazarla en todas sus partes, con costas.
+
+B.- DEMANDADA SOLIDARIA MINISTERIO DE OBRAS PÚBLICAS:
+
+Comparece don Marcelo Eduardo Chandía Peña, Abogado Procurador Fiscal de Santiago, del Consejo de Defensa del Estado, por el FISCO DE CHILE, MINISTERIO DE OBRAS PÚBLICAS o MOP, quien contesta la demanda y solicita se rechace en todas sus partes, por no ser efectivos los hechos que se invocan, todo con expresa condena en costas, según los siguientes antecedentes.
+
+Alega la inexistencia de régimen de subcontratación, por cuanto señala que no resulta posible aplicar tal régimen como pretende el demandante, toda vez que el MOP no puede ser considerado como “empresa principal” y, en consecuencia, no se cumplen los presupuestos fácticos exigidos por el artículo 183-A del Código del Trabajo.
+
+Niega y controvierte cada uno de los hechos indicados en la demanda, en especial que su representada tenga la calidad de empresa principal o de dueño de la obra, empresa o faena; que entre el MOP y la demandada principal haya existido un régimen de subcontratación laboral, por no verificarse los presupuestos para su procedencia; que entre el demandante y la empresa demandada principal exista una relación laboral, bajo las condiciones establecidas en la demanda, por no constar a su parte, en particular la fecha de inicio de la relación y la naturaleza de la duración, entre otros.
+
+También señala que, en el caso improbable de que se estime la existencia de régimen de subcontratación, se controvierte que el Fisco de Chile deba responder por las prestaciones demandadas; a contrario sensu, durante el periodo de prestación efectiva de servicios para la obra se ejerció el derecho de información.
+
+Señala que la demanda presenta un vicio insalvable, cual es que no se solicita que se declare la procedencia del despido indirecto dando por acreditado los hechos que sustentan el supuesto incumplimiento del empleador, es decir, no solicita que su despido indirecto se declare como justificado; y si ello se declara por el Tribunal, incurriría en el vicio de extrapetita, pues no existe ninguna solicitud por parte del demandante tendiente a que se verifique el cumplimiento de los requisitos de la institución regulada en el art 171 del Código del Trabajo.
+
+Expone que mediante Resolución (TR) DRVT N°12 de fecha 11 de octubre de 2022, tramitada con fecha 04 de noviembre de 2022, se acepta la oferta técnica y económica de empresa SAN FELIPE S.A. y se adjudica la ejecución del contrato “CONSERVACIÓN RED VIAL, CONSERVACIÓN PERIÓDICA RUTA 15-CH KM. 96 AL KM. 144 POR SECTORES, COMUNAS DE HUARA Y COLCHANE, PROVINCIA DEL TAMARUGAL, REGIÓN DE TARAPACÁ, 2º LLAMADO”. El referido contrato contempló inicialmente un plazo de duración de 180 días corridos, conforme al art. 160 RCOP; teniendo en principio su fecha de término el 03 de mayo de 2023. Luego, mediante Resolución Exenta DV N°1240, de fecha 07 de septiembre de 2023, se regulariza y aprueba Convenio Ad-Referéndum Nº 1 por Orden de Ejecución Inmediata (O.E.I.) del 03 de marzo de 2023, el cual incorpora aumentos de obra a precio convenido y aumenta el plazo en 90 días corridos, siendo la nueva fecha de término el 01 de agosto de 2023. Posterior a ello, por medio de Resolución Exenta DRVT Nº 1447, de fecha 20 de octubre de 2023, se regulariza y aprueba Convenio Ad-Referéndum Nº 2 de fecha 28 de Julio de 2023, por aumento de plazo en 90 días corridos, teniendo como nueva fecha de término el 30 de octubre de 2023.
+
+Añade que, con fecha 22 de septiembre del corriente, la Empresa SAN FELIPE S.A. hace abandono de las Obras, lo cual es consignado en el Folio Nº 107 del Libro de Obras Digital. Por lo anterior, en minuta de Inspector Fiscal, de fecha 04 de octubre de 2023, se consigna como fecha de término del contrato el 30 de septiembre de 2023, para lo cual se determina el término anticipado con cargo, basado en los artículos 151 y 161 del RCOP.
+
+Señala que resulta imposible aplicar el régimen de subcontratación como pretende el demandante. En efecto, el artículo 183-A del Código del Trabajo, en su inciso primero, dispone que: “es trabajo en régimen de subcontratación, aquél realizado en virtud de un contrato de trabajo por un trabajador para un empleador, denominado contratista o subcontratista, cuando éste, en razón de un acuerdo contractual, se encarga de ejecutar obras o servicios, por su cuenta y riesgo y con trabajadores bajo su dependencia, para un tercera persona natural o jurídica dueña de la obra, empresa o faena, denominada la empresa principal, en la que se desarrollan los servicios o ejecutan las obras contratadas”. El MOP no es dueño de la obra, empresa o faena en la que se desarrollaron los servicios o ejecutaron las obras contratadas. El Estado, por expreso mandato constitucional, no puede ejecutar emprendimientos que por ley corresponden a los particulares, sino a través de los mecanismos legales del trato directo. De hecho, por prohibición constitucional y en virtud del principio de subsidiariedad, es dudoso que el Estado pudiese siquiera participar en forma aún indirecta en la prestación del servicio que legalmente importa una actividad realizada bajo una estructura empresarial vedada al Estado de acuerdo con lo prescrito por el artículo 19 N°21 inciso segundo de la Constitución Política de la República.
+
+Añade que el artículo 183 B, inciso primero, del Código del Trabajo, fija el alcance de la responsabilidad solidaria o subsidiaria de la empresa principal en el ámbito sustantivo y temporal, al señalar que “La empresa principal será solidariamente responsable de las obligaciones laborales y previsionales de dar que afecten a los contratistas a favor de los trabajadores de éstos, incluidas las eventuales indemnizaciones legales que correspondan por término de la relación laboral. Tal responsabilidad estará limitada al tiempo o período durante el cual el o los trabajadores prestaron servicios en régimen de subcontratación”. En el mismo contexto, el artículo 183 D del citado Código, al indicar que: “Si la empresa principal hiciera efectivo el derecho a ser informada…, responderá subsidiariamente de aquellas obligaciones laborales y previsionales que afecten al contratista y subcontratista a favor de los trabajadores de éstos, incluidas las indemnizaciones legales que correspondan por término de la relación laboral. Tal responsabilidad estará limitada al tiempo o período durante el cual el o los trabajadores del contratista prestaron servicios en régimen de subcontratación para el dueño de la obra, empresa o faena.”.
+
+Indica que esas disposiciones legales establecen categóricamente que la responsabilidad del dueño de la obra se extiende exclusivamente a las obligaciones laborales y previsionales y a las indemnizaciones legales por término de relación laboral (límite sustantivo), como también que esa responsabilidad se circunscribe a las prestaciones generadas durante el tiempo en que se prestó servicios en subcontratación para la empresa principal (límite temporal). Luego, cualquier responsabilidad que se pretenda tener por establecida respecto del MOP, ante el supuesto incumplimiento de las obligaciones laborales de la demandada principal con relación al demandante, debe entenderse circunscrita solamente a las obligaciones laborales de dar y al tiempo efectivamente trabajado en subcontratación por el demandante. Al respecto expone:
+
+1. Que, respecto de los servicios prestados por el demandante, en el contexto de la licitación de servicios, de acuerdo a los antecedentes que se manejan, habría comenzado en el mes de noviembre de 2022 hasta el mes de agosto de 2023, fecha en la cual deja de prestar servicios.
+
+2. Aun cuando, improbablemente, se estableciera que se ha configurado un régimen de subcontratación laboral entre su representado, la empresa empleadora y el trabajador, habría que concluir que éste se limita, en primer lugar, al periodo que efectivamente prestaron servicios bajo régimen de subcontratación, esto es, desde noviembre de 2022 a agosto de 2023, más aún cuando el término anticipado del contrato es de fecha el 30 de septiembre de 2023. Así, cualquier responsabilidad y obligaciones surgidas por hechos ocurridos fuera de la vigencia de la licitación son inoponibles a su representado, ya que es un tercero ajeno que no tendría ninguna participación en la celebración del mismo ni se ha beneficiado de modo alguno.
+
+Agrega que debe tenerse en cuenta que la circunstancia de que los servicios sean efectivamente prestados, resultando beneficiado quien encarga dichas prestaciones, es esencial para que ese tercero que no ha participado en el contrato de trabajo resulte obligado. Además, si los servicios no se prestan, la empresa principal no sólo no obtiene beneficio alguno, sino que tampoco tiene la posibilidad de controlar que el empleador cumpla con sus obligaciones laborales y previsionales, no puede hacer uso de los derechos de información y retención que establece el artículo 183-D del Código del Trabajo, con lo cual se desnaturalizaría la institución de la subcontratación. Cita jurisprudencia.
+
+Conjuntamente, solicita que la condena sea solo en carácter subsidiario, cita y transcribe el artículo 183-C del Código del Trabajo, y expresa que, en los contratos adjudicados a la empresa Constructora San Felipe S.A., el Inspector Fiscal ha cumplido con solicitar los respectivos certificados de cumplimiento de obligaciones laborales y previsionales, con el fin de dar cumplimiento a la legislación laboral en la materia, regulado expresamente en el Reglamento para Contratación de Trabajos de Obra (Decreto N°75 de 2004 del Ministerio de Obras Públicas), en los artículos 131 y 132 del respectivo reglamento, y en la legislación general.
+
+También señala que, en cuanto al derecho de retención, el MOP realizó pagos por subrogación de las prestaciones de los meses de agosto y septiembre de 2023, lo anterior mediante Resolución Exenta DRVT Nº1628, de fecha 21 de noviembre de 2023, figurando en los listados el actor. Por ende, atendido los antecedentes que se acompañarán en la etapa procesal correspondiente, es posible señalar fehacientemente que el Ministerio de Obras Públicas ha dado cumplimiento al derecho de información y de retención contemplados en la legislación laboral.
+
+Controvierte cada una de las prestaciones demandadas, sus montos y fundamentos, debiendo rechazar la demanda en todas sus partes, negando lugar a cada una de esas prestaciones, toda vez que en autos no ha existido un despido indirecto justificado.
+
+Alega la improcedencia de indemnización sustitutiva de aviso previo, años de servicio, recargo legal, feriado legal y proporcional y remuneraciones impagas, ya que su representada, no se encontraba vinculada bajo régimen de subcontratación respecto de la demandada principal. Sin perjuicio de lo anterior, y en el improbable caso de que se considerase que se está frente a un régimen de subcontratación, y de acuerdo con el art. 183-B y 183- D del Código del Trabajo, el Fisco de Chile debe responder de las obligaciones laborales y previsionales de dar que afecten a los contratistas en favor de los trabajadores de éstos, pero dicha responsabilidad está limitada al tiempo o periodo durante el cual el trabajador efectivamente prestó servicios en régimen de subcontratación para la empresa principal.
+
+Agrega que, además, y respecto de las remuneraciones reclamadas, fueron pagadas por su parte mediante el pago por subrogación, tal como será acreditado en la oportunidad procesal correspondiente.
+
+Respecto a la aplicación de la sanción de los incisos 5º y 7º del artículo 162 del Código del Trabajo y pago de cotizaciones laborales durante la relación laboral, hace presente que tal prestación no procede respecto a la supuesta responsabilidad solidaria o subsidiaria que se le atribuye al Fisco de Chile, en el caso que considere el tribunal que su parte tiene alguna de dichas responsabilidades, debiendo rechazarse tal pretensión, atendido la temporalidad de la responsabilidad de subcontratación; el carácter especial de la sanción y su falta de incorporación a la normativa que regula el trabajo bajo subcontratación; y su relación especial con el descuento de las cotizaciones. Cita jurisprudencia.
+
+Por último, señala también que no sería procedente la condena por nulidad del despido en atención al pago por subrogación realizado por MOP, con el que se pagó las remuneraciones de agosto a septiembre de 2023, y las cotizaciones de seguridad social de los mismos meses, encontrándose convalidado el mismo.
+
+En lo referido al descuento de cotizaciones, es de toda lógica jurídica que, si el mandante de la obra, quien no tiene obligación legal de retener parte de las remuneraciones del actor y enterarlas en las respectivas institucionales previsionales a su nombre, en caso que dichos haberes no sean pagados por su empleador directo (quien sí tiene la obligación legal de retención y pago de las mismas), se le sancione conforme lo pedido, de acuerdo con los incisos 5º y 7º del artículo 162 ya mencionado, pues es un tercero ajeno que no es empleador, máxime si su parte ha cumplido con el deber de información y retención que existe a su respecto con relación al pago de las cotizaciones del demandante.
+
+Finalmente, en cuanto a reajustes e intereses sólo podrán devengarse desde que la sentencia condenatoria se encuentre firme o ejecutoriada. Y respecto de las costas, en el evento que se resuelva que su parte es vencida total o parcialmente, solicita se le exima del pago de las costas de la causa, por estimar que tuvo motivo plausible para litigar, conforme a los argumentos esgrimidos en esta defensa
+
+Solicita tener por contestada la demanda de autos, rechazándola en todas sus partes, con costas.
+
+TERCERO: Que, con antelación a la audiencia preparatoria, se certifica por ministro de fe, que conforme las publicaciones en el Boletín Concursal de la Superintendencia de Insolvencia y Reemprendimiento, la empresa San Felipe S.A., Rut 89.126.400-3, se encuentra en un Procedimiento de Reorganización de la Empresa Deudora, conforme a la resolución judicial de fecha 30 de octubre de 2023, dictada por el 20º Juzgado Civil de Santiago en causa ROL C-16807-2023. Asimismo, el veedor titular de la referida sociedad corresponde a don(a) Nicolas Mena Letelier, lo que consta a folio 46 de la causa, con fecha 14 de febrero de 2024.
+
+Que, con posterior a la audiencia preparatoria y a la de juicio, se certifica por ministro de fe del Tribunal que, revisadas las publicaciones en el Boletín Concursal de la Superintendencia de Insolvencia y Reemprendimiento, la empresa SAN FELIPE S.A., Rut 89.126.400-3, tiene la calidad de deudor en un procedimiento de liquidación refleja, conforme a la resolución judicial de fecha 16 de abril de 2024, dictada por el 20º Juzgado Civil de Santiago en causa ROL C-16807-2023. Asimismo, el liquidador titular de la referida sociedad corresponde a don(a) Francisco Javier Cuadrado Sepúlveda, quien registra domicilio en Santa Beatriz N° 100, oficina Providencia y cuyo correo electrónico es: fcuadrado@cyhabogados.cl. Lo que consta a folio 74.
+
+Que en virtud de la certificación anterior se ordena notificar al liquidador concursal el estado de la causa, notificación que consta a folio 75.
+
+CUARTO: Que a la audiencia preparatoria comparecen las partes, y se deja constancia que la demandada principal se encuentra en reorganización concursal. Se confiere traslado a la demandante de las excepciones de prescripción y de pago opuestas por la demandada principal, evacuado el cual, el Tribunal acoge en todas sus partes la excepción de pago de las cotizaciones y remuneraciones de agosto y septiembre de 2023, dejando constancia que efectivamente fueron enteradas ambas prestaciones con fecha 06 de diciembre de 2023 para efectos de fundar el auto despido en la sentencia definitiva. En cuanto a la excepción de prescripción, se rechaza en todas sus partes, conforme consta en registro de audio. Luego se realiza el llamado a conciliación, no prosperando acuerdo entre las partes, se fijan como hechos pacíficos, conforme consta del reconocimiento en los escritos de contestación, los siguientes: (1) Existencia del vínculo laboral entre el trabajador demandante y la demandada San Felipe S.A., hasta el día 16 de noviembre de 2023, quedando discutida la fecha de ingreso. (2) Que el trabajador demandante fue contratado por la demandada San Felipe S.A. en virtud de diversos contratos por obra para desempeñar la función de administrativo en cada uno de ellos. (3) Que la empresa demandada San Felipe S.A., se encuentra sometida a un procedimiento de reorganización concursal tramitado ante el 20 Juzgado Civil de Santiago, bajo el rol C-16.807-2023, en virtud de resolución dictada de fecha 30 de octubre de 2023. (4) Que la demandada San Felipe S.A. pagó la remuneración correspondiente al monto líquido de los meses de agosto y septiembre de 2023 al trabajador demandante, mediante transferencia electrónica de fecha 06 de diciembre de 2023, enterando con igual fecha las cotizaciones de seguridad social correspondiente al trabajador demandante por los mismos periodos. (5) Que la demandada San Felipe S.A. adeuda aún al trabajador demandante las remuneraciones correspondientes a los días trabajados en los meses de octubre y noviembre de 2023 y las cotizaciones de seguridad social correspondiente a dicho periodo. (6) Que el trabajador demandante con fecha 16 de noviembre de 2023 hizo uso de la facultad de autodespedirse contemplada en el artículo 171 del Código del Trabajo, fundando su decisión en la causal contemplada en el artículo 160 N°7 del Código del Trabajo, cumpliendo con la remisión de las comunicaciones legales.
+
+Fijándose como hechos a probar los siguientes: (1) Fecha en que efectivamente el trabajador demandante ingresó a prestar servicio para la empresa San Felipe S.A., naturaleza jurídica de la contratación. (2) Remuneración percibida por el trabajador demandante a la época de terminación de sus servicios para efectos indemnizatorios. (3) En su caso, efectividad que el trabajador demandante hizo uso del feriado legal y/o proporcional reclamado en el libelo, correspondiente a 36 días. En la afirmativa, periodos en que efectivamente hizo uso de dichos descansos y/o montos compensados por dichos conceptos por la demandada San Felipe S.A., fecha de pago en su caso. (4) En su caso, efectividad que el trabajador demandante desempeñó servicios para San Felipe S.A., bajo régimen de subcontratación respecto del Ministerio de Obras Públicas, en su caso, periodo de extensión de dicho régimen y circunstancias en que fue desarrollado el mismo.
+
+Posteriormente se realiza el ofrecimiento de pruebas para su control de admisibilidad y pertinencia, efectuado el cual, se fija día y hora para la audiencia de juicio.
+
+QUINTO: Que en la audiencia de juicio, a la que asisten las partes, incorpora en primer término su prueba la parte demandante y que consistió en lo siguiente
+
+Documental consistente en:
+
+1) Contrato de trabajo de fecha 06 de noviembre de 2019.
+
+2) Anexos de contrato de trabajo de fechas: 30 de noviembre de 2019; 31 de enero de 2020; 02 de mayo de 2020; 14 de enero de 2022 y 01 de diciembre de 2022.
+
+3) Liquidaciones de remuneración de los meses de mayo a agosto 2023.
+
+4) Certificado de cotizaciones previsionales PREVIRED fechado 14/11/2023, periodos años 2019 al 2023.
+
+5) Carta de autodespido y Boucher de envío de la misma, ambas fechadas 16/11/2023.
+
+Solicitó la confesional de la demandada principal, a través de su representante legal don Winston Walton Villanueva, quien, llamado en la antesala del Tribunal, por tres veces consecutivas, a viva voz, no comparece, por lo que solicita hacer efectivo el apercibimiento legal, lo que se deja para definitiva.
+
+Solicitó y obtuvo la confesional de la demandada solidaria, y comparece don ERNESTO RAMÓN BARRERA GAJARDO, en calidad de representante legal Fisco de Chile, conforme consta en el registro de audio, quien señala que es ingeniero civil, concurre en calidad de absolvente, nominado por el director de Servicio de la Dirección de Vialidad, y su cargo en el Ministerio de Obras Públicas, en particular en la Dirección de Vialidad es ser jefe del departamento de conservación nacional. Hay contratos entre el Ministerio de Obras Públicas y la empresa San Felipe S.A., y muchas otras empresas más. En particular con la empresa San Felipe S.A., lo que pasa es que son varios contratos, y en particular un contrato de Tarapacá, la relación contractual fue hasta septiembre que abandonó la obra y luego se puso término anticipado en forma reglamentaria. San Felipe ha trabajado desde hace muchos años con el Ministerio de Obras Públicas, no conoce todas las obras, pero si hay contratos de conservación global, hay en Palena, tiene contratos globales también en Arica; tiene o tuvo diferentes contratos de conservación, de mejoramiento, de reposiciones de infraestructura, es una empresa de muy largo aliento que ha trabajado con el Ministerio. No sabe precisamente cuál es la última obra que se le encomendó, pero si tiene varias como decía, contratos globales en Arica, contrato en Tarapacá, contratos en la Región de Los Lagos, pero, así como la última específicamente no lo tiene tan claro. De esas obras hay algunas que están vigentes, por lo menos el conocimiento que tiene que hay dos contratos globales de Arica, que están vigentes y terminan a mediados de este año, y en general todos los otros demás contratos ya han tenido término anticipado.
+
+Además, en cuantos a Exhibición de documentos de los siguientes documentos por las demandadas:
+
+Demandada FISCO exhibe:
+
+1) En particular todos los contratos civiles, comerciales, administrativos de prestación de servicios o de cualquier otra índole firmados entre ellas, y certificados de cumplimiento de obligaciones laborales y previsionales entregados, en especial, respecto de las obras:
+
+a. "Camino Básico Conservación Cruce Ruta 7 (Villa Santa Lucia)-Palena- Carrelenfu, Rol 235-ch. Km 59.970 al Km 64,000. Comuna de Palena, Provincia de Palena". Noviembre de 2019 -abril 2020
+
+b. Conservación Global Mixto, por nivel de servicio y por serie de precios unitario de caminos de la Provincia de Palena, Sector comunas de Chaiten, Futaleufu Y Palena, Etapa II, Región De Los Lagos", mayo de 2020 - diciembre 2021.
+
+c. Mejoramiento ruta 235- CH, sector Villa Santa Lucia-Puerto Ramírez, Provincia de Palena. Tramo DM 16.830,320 al DM ́ 33.180,000". Enero de 2022 - noviembre 2022.
+
+d. Conservación Red Vial, Conservación Periódica Ruta 15 CH, Km 96 al km 144, Por Sectores Comuna de Huara y Colchane, Provincia del Tamarugal, Región de Tarapacá, 2° Llamado, Código SAFI 359548" diciembre de 2022 hasta el despido indirecto.
+
+Demandada principal San Felipe S.A.:
+
+1) Liquidaciones de remuneraciones del año 2023 y sus correspondientes comprobantes de pago del actor de enero a octubre de 2023.
+
+2) Contratos de trabajo y anexos de contratos del actor.
+
+3) Comprobantes de otorgamiento de feriado del actor.
+
+4) Registro o Libro de asistencia de entrada y salida del trabajador de las obras o faenas señaladas precedentemente, durante todo el periodo trabajado.
+
+La parte demandante no da por cumplida la prueba Exhibición respecto de los documentos N°3 y N°4 solicitados exhibir a la demandada principal y solicita se haga efectivo el apercibimiento legal, lo que se deja para definitiva.
+
+SEXTO: Que las demandadas, por su parte incorporan:
+
+DEMANDADA PRINCIPAL SAN FELIPE S.A: solo documental consistente en:
+
+1) Copia de contrato de trabajo entre el actor y San Felipe S.A., de fecha 3 de noviembre de 2021.
+
+2) Nómina de pago a trabajadores de San Felipe, correspondientes a las remuneraciones de los meses de agosto y septiembre de 2023, N°955952, emitida por Banco Estado, de fecha 6 de diciembre de 2023.
+
+3) Certificado de pago de cotizaciones previsionales del actor, emitido por Previred, de fecha 2 de febrero de 2024.
+
+4) Dos liquidaciones de remuneraciones del actor, correspondientes a los meses de agosto y septiembre de 2023.
+
+5) Copia de dos finiquitos de trabajo, entre el actor y San Felipe S.A., de fechas 24 de octubre de 2020 y 25 de octubre de 2021.
+
+6) Copia de la solicitud de reorganización concursal solicitada por San Felipe S.A., y antecedentes aportados a la misma, publicada en el Boletín Concursal con fecha 3 de noviembre de 2023 (código de verificación en el Boletín Concursal: CACD-AAC-ACGDHEJ).
+
+7) Copia de la resolución de reorganización concursal dictada por el 20° Juzgado Civil de Santiago, en causa rol C-16807-2023, de fecha 30 de octubre de 2023, publicada en el Boletín Concursal con fecha 3 de noviembre de 2023 (código de verificación en el Boletín Concursal: CACD-AAC-ACGDHEI).
+
+8) Copia de la solicitud de prórroga de la protección financiera concursal solicitada por el veedor de San Felipe S.A., cartas de apoyo a la misma, y resolución de fecha 11 de enero de 2024, dictada por el 20° Juzgado Civil de Santiago, causa rol C-16807-2023, publicado todo en el Boletín Concursal con fecha 12 de enero de 2024 (código de verificación en el Boletín Concursal: CACE-AAC-AABACAE).
+DEMANDADA SOLIDARIA: MOP-FISCO DE CHILE:
+
+Documental consistente en:
+
+1) Resolución DV Tarapacá N°12 de fecha 11 de octubre de 2022, que adjudica licitación.
+
+2) Resolución DV Tarapacá N°664 de fecha 8 de junio de 2022 que aprueba anexo complementario que indica.
+
+3) Resolución DV Tarapacá N°1447 de fecha 20 de octubre de 2023, que regulariza y aprueba convenio que indica.
+
+4) Certificado de cumplimiento de obligaciones laborales y previsionales, periodo noviembre 2022 a julio 2023.
+
+5) Resolución DV Tarapacá N°1628, de fecha 21 de noviembre de 2023, que dispone pago por subrogación.
+
+6) Oficio Ord. N°1478, de fecha 29 de diciembre de 2023, que comunica termino anticipado contrato que indica.
+
+7) Oficio ord. N°89, de fecha 24 de enero de 2024, que remite resoluciones que indica a CGR.
+
+Solicita la confesional del demandante, don Felipe Alexi Isla Alegría, quien citado legalmente no comparece a la audiencia por lo que la demandada solicita se haga efectivo el apercibimiento legal, lo que se deja para definitiva, según los antecedentes que constan en el registro de audio.
+
+SÉPTIMO: Que en la audiencia preparatoria se fijaron como hechos no discutidos, conforme los escritos de demanda y contestación, sin oposición de las partes, los siguientes: la existencia del vínculo laboral entre el trabajador demandante y la demandada San Felipe S.A., hasta el día 16 de noviembre de 2023; que el trabajador demandante fue contratado por la demandada San Felipe S.A. en virtud de diversos contratos por obra para desempeñar la función de administrativo en cada uno de ellos; que la empresa demandada San Felipe S.A., se encuentra sometida a un procedimiento de reorganización concursal tramitado ante el 20 Juzgado Civil de Santiago, bajo el rol C-16.807-2023, en virtud de resolución dictada de fecha 30 de octubre de 2023; que la demandada San Felipe S.A. pagó la remuneración correspondiente al monto líquido de los meses de agosto y septiembre de 2023 al trabajador demandante, mediante transferencia electrónica de fecha 06 de diciembre de 2023, enterando con igual fecha las cotizaciones de seguridad social correspondiente al trabajador demandante por los mismos periodos; que la demandada San Felipe S.A. adeuda aún al trabajador demandante las remuneraciones correspondientes a los días trabajados en los meses de octubre y noviembre de 2023 y las cotizaciones de seguridad social correspondiente a dicho periodo; que el trabajador demandante con fecha 16 de noviembre de 2023 hizo uso de la facultad de autodespedirse contemplada en el artículo 171 del Código del Trabajo, fundando su decisión en la causal contemplada en el artículo 160 N°7 del Código del Trabajo, cumpliendo con la remisión de las comunicaciones legales, por lo que tales hechos se tienen por plenamente establecidos.
+
+OCTAVO: Que el primer hecho a probar dice relación con la fecha de inicio de la relación laboral del demandante y la naturaleza jurídica de su contratación, que al efecto el demandante aporta contrato de trabajo y anexos, no objetados de contrario, en los cuales consta que con fecha 6 de noviembre de 2019 entre el actor y la demandada SAN FELIPE S.A., se suscribió contrato de trabajo con vigencia hasta el 30 de noviembre de dicho mes, por el cual el demandante se comprometió a desempeñar funciones de administrativo; posteriormente, el 30 de noviembre de 2019, se suscribe anexo de contrato de trabajo, por el cual los servicios se prorrogan hasta el 30 de enero de 2020; y el 31 de enero de 2020 suscriben nuevo anexo de contrato de trabajo, por el cual se establece que la duración del contrato es de carácter indefinido; posteriormente, suscriben anexos de contrato de trabajo de fechas 2 de mayo de 2020; 14 de enero de 2022 y 01 de diciembre de 2022, en los cuales se modifica el lugar de prestación de servicios. Que, por lo expuesto, se acredita que la fecha de inicio de la relación laboral entre las partes fue el 6 de noviembre de 2019, desempeñándose el demandante en forma ininterrumpida para la demandada principal, hasta el 16 de noviembre de 2023.
+
+Que no es óbice para lo anterior, los finiquitos aportados por la demandada principal, toda vez que, de un lado, no opuso excepción de finiquito que sustente tales documentos, y de otro, en los mismos sólo se da cuenta de pago de remuneración del demandante, pero no que el vínculo laboral haya concluido, dando cuenta de la continuidad de los servicios desde el 6 de noviembre de 2019 la documental aportada por la demandante, en especial los anexos de contrato de trabajo.
+
+NOVENO: Que establecida la fecha de inicio de la relación laboral entre las partes, así como su fecha de término y la causal de ello, debe determinarse si corresponden las indemnizaciones reclamadas por el demandante, al tenor del hecho a probar 2 de la interlocutoria de prueba, dado que expresamente no se fijó el hecho a probar sobre la veracidad de los hechos invocados para el autodespido, pero si se dejó asentado como hecho no discutido que el término de los servicios fue por autodespido del actor que justificó en la causal de caducidad del contrato de trabajo establecida en el numeral 7 del artículo 160 del Código del Trabajo, y como hecho a probar la base de cálculo para efectos indemnizatorios, y al efecto debe tenerse presente que la demandada principal controvirtió expresamente los hechos señalados en la carta de autodespido.
+
+Que de acuerdo a lo anterior, y conforme al artículo 171 del Código del Trabajo, el cual prescribe en su inciso 1° que “Si quien incurriere en las causales de los números 1, 5 o 7 del artículo 160 fuere el empleador, el trabajador podrá poner término al contrato y recurrir al juzgado respectivo, dentro del plazo de sesenta días hábiles, contado desde la terminación, para que éste ordene el pago de las indemnizaciones establecidas en el inciso cuarto del artículo 162, y en los incisos primero o segundo del artículo 163, según corresponda, aumentada en un cincuenta por ciento en el caso de la causal del número 7; en el caso de las causales de los números 1 y 5, la indemnización podrá ser aumentada hasta en un ochenta por ciento”; para posteriormente, señalar en su inciso 5° “Si el Tribunal rechazare el reclamo del trabajador, se entenderá que el contrato ha terminado por renuncia de éste”; debe analizarse el reclamo del demandante que conforme a la carta de autodespido aportada -y respecto de la cual también quedo asentado como hecho no discutido el cumplimiento de las formalidades legales en los términos del inciso 4° del artículo 171 precitado en concordancia con el artículo 162 del citado cuerpo legal-, la cual señala como causal de término la contemplada en el artículo 160 N° 7 del código laboral, esto es, “incumplimiento grave de las obligaciones que impone el contrato”, fundado en los siguientes hechos:
+
+“1. Que al día de hoy, mi empleador SAN FELIPE S.A., RUT 89.126-400-3, no ha dado cumplimiento en el pago de forma íntegra, completa y de conformidad a la ley de cotizaciones de seguridad social, AFP PROVIDA, AFC CHILE y FONASA pues según en certificados de cotizaciones se me adeudan las siguientes cotizaciones:
+
+a.- Respecto de AFP PROVIDA: agosto, septiembre, octubre de 2023.
+
+b.- Respecto de AFC: agosto, septiembre, octubre de 2023.
+
+c.- Respecto de FONASA: agosto, septiembre, octubre de 2023.
+
+Todo esto ha generado un grave deterioro en mis ahorros previsionales, no pudiendo acceder a beneficios propios de estas asignaciones previsionales, generando lagunas en mis fondos por lo demás.
+
+2. Que, no se ha hecho pago de mis remuneraciones correspondientes al mes de agosto, septiembre y octubre de 2023.
+
+3. Que, por lo demás no se me otorgó trabajo convenido conforme al contrato de trabajo desde el día 02 de octubre de 2023, encontrándose abandonadas las obras en que me desempeñaba para mi empleador: “Conservación Red Vial, Conservación Periódica Ruta 15 CH, Km 96 al km 144, Por Sectores Comuna de Huara y Colchane, Provincia del Tamarugal, Región de Tarapacá, 2° Llamado, Código SAFI 359548”, no teniendo respuesta alguna sobre mi situación como trabajador, generando incertidumbre y preocupación respecto a mi única fuente de sustento”.
+
+Que la demandada principal, al contestar la demanda reconoce tácitamente el incumplimiento contractual, al oponer excepción de pago, señalando que “tanto las cotizaciones previsionales como las remuneraciones de los meses de agosto y septiembre de 2023, meses anteriores al despido indirecto, se encuentran todas pagadas a la fecha”, pago que se realizó con fecha 6 de diciembre de 2023, esto es, posterior a que el demandante comunicará a la demandada principal el autodespido, conforme consta del comprobante de carta certificada remitida a dicha demandada con fecha 16 de noviembre de 2023. Que, por ende, se configuró el incumplimiento contractual, toda vez que, de acuerdo a lo prescrito en el artículo 55, inciso 1° del Código del Trabajo, las remuneraciones se pagarán con la periodicidad establecida en el contrato de trabajo, pero tales períodos no podrán exceder de un mes, y resulta que el empleador no pagó en tiempo la remuneración del mes de agosto, tampoco la de septiembre, y sólo en diciembre, esto es, prácticamente cuatro meses después de haberse devengado la remuneración del trabajador, realizó su pago, y lo mismo acaeció con las cotizaciones previsionales y de seguridad social de tales meses, las que de acuerdo al artículo 58 del citado cuerpo legal y Decreto Ley 3.501, son parte de la remuneración. Que, en consecuencia el reclamo del demandante resulta justificado, toda vez que la demandada principal incurrió en la causal de caducidad del contrato de trabajo consistente en el incumplimiento grave de las obligaciones que impone el contrato, las que de acuerdo al artículo 7° del código laboral, consisten respecto al empleador en su obligación recíproca de pagar por los servicios personales bajo subordinación y dependencia del trabajador UNA REMUNERACIÓN DETERMINADA, en la forma y tiempo estipulada en el contrato de trabajo, que no puede exceder de un mes, y que en este caso no se realizó la correspondiente a los meses de agosto a octubre de 2023, por lo que el trabajador se vio compelido a autodespedirse toda vez que la remuneración es precisamente la retribución por sus servicios y su medio de sustento, lo que no se cumplió por el empleador por hasta tres meses seguidos, situación que resultaba insostenible para el trabajador, que hizo uso de la facultad del artículo 171 del Código del Trabajo, y posterior a que la demandada empleadora toma conocimiento de la decisión del trabajador, recién en diciembre de 2023 se realiza el pago de la remuneración y cotizaciones previsionales de los meses de agosto y septiembre de 2023, adeudándose aún la remuneración de octubre de 2023 y las cotizaciones previsionales y de seguridad social del mes de octubre de 2023, toda vez que el certificado de cotizaciones aportado por la demandada principal, de fecha 2 de febrero de 2024, emitido por PREVIRED, solo da cuenta del pago de tales cotizaciones hasta septiembre de 2023, y el cual da cuenta que las de agosto y septiembre se pagaron el 6 de diciembre de 2023. Que siendo justificado el reclamo del demandante, corresponde hacer lugar al cobro de la indemnización sustitutiva del aviso previo y la correspondiente a años de servicios, esta última con el recargo del 50% atendido lo establecido en el artículo 171 inciso 1° del Código del Trabajo, condenándose al pago de las mismas a la demandada principal.
+
+DÉCIMO: Que para determinar la remuneración pactada y percibida por el demandante, se aportan liquidaciones de remuneraciones del período mayo a agosto de 2023, por el demandante, en las cuales aparecen los conceptos de sueldo base por $690.000, gratificación de $174.167, bono de $250.000, colación de $250.000, movilización de $170.000 y gastos de alojamiento de $190.000, y en las liquidaciones de agosto y septiembre de 2023, aportadas por la demandada, aparecen los mismos conceptos y montos, que son periódicos, razón por la cual, se establece como remuneración para efectos del artículo 172 del Código del Trabajo, la suma de $1.724.167.
+
+UNDÉCIMO: Que el demandante reclama el pago de las remuneraciones de los meses de agosto, septiembre, octubre y noviembre de 2023, además de feriado legal o proporcional de 36 días. Que al efecto la demandada opuso excepción de pago por las remuneraciones de los meses de agosto y septiembre de 2023, la que afuera acogida por el tribunal, por lo que tales acreencias ya se encuentran solucionadas; en lo que respecta al mes de octubre de 2023 y 16 días de noviembre de 2023, la demandada principal no aportó antecedente alguno que diera cuenta del pago o solución de tales acreencias, y lo mismo en lo que se refiere al feriado demandado, sin aportar los comprobantes que dieran cuenta del uso de los mismos, o de su compensación o pago, razón por la cual se accede a su cobro, determinándose lo adeudado en lo resolutivo de la sentencia, conforme la remuneración establecida en el motivo que antecede.
+
+Que, además, la demandante alega que se le adeudan las cotizaciones previsionales de FONASA, AFP y AFC por los periodos de agosto, septiembre y octubre de 2023, solicitando su pago, que efectivamente a la fecha del autodespido la demandada principal adeudaba tales cotizaciones, empero en juicio demostró que solucionó las correspondientes a los meses de agosto y septiembre de 2023, conforme consta del respectivo certificado de cotizaciones previsionales de fecha 2 de febrero de 2024, emitido por PREVIRED, por lo que tales imposiciones se encuentran solucionada. En lo que respecta a las del mes de octubre de 2023, no consta por medio alguno el pago de las cotizaciones en FONASA, AFC y AFP, por lo que se hace lugar a su cobro, debiendo oficiarse al efecto a los organismos a los cuales se encuentra afiliado el actor, esto es, AFP PROVIDA, FONASA y AFC, a fin que insten al pago compulsivo de tales cotizaciones, oficiándose al efecto.
+
+DUODÉCIMO: Que se solicita por el demandante que se declare la sanción de nulidad establecida en el artículo 162 inciso 5° a 7° del Código del Trabajo, toda vez que, a la fecha del auto despido, esto es, 16 de noviembre de 2023, no se encontraban pagadas sus cotizaciones previsionales en forma íntegra, al adeudarse las correspondientes a los meses de agosto, septiembre y octubre de 2023.
+
+Que, conforme se analizó en el motivo octavo de esta sentencia, efectivamente a la fecha del término de la relación laboral por auto despido del trabajador demandante, esto es, 16 de noviembre de 2023, no se encontraban íntegramente pagadas sus cotizaciones previsionales y de seguridad social del mes anterior al autodespido, específicamente del período agosto a octubre de 2023; que dicha sanción que es plenamente procedente en el caso que sea el trabajador quien ponga término a los servicios en uso de la facultad del artículo 171 del Código del Trabajo, por cuanto lo que se regula en dicha norma es precisamente el caso en que el empleador incurra en una causal de caducidad del contrato de trabajo, que sea tan grave que no deje otra opción al trabajador que proceder al autodespido, pero por una conducta producida por su empleador, y en este caso es claro que éste no efectúo el pago de cotizaciones previsionales de su dependiente en los períodos referidos precedentemente, lo que provocó que finalmente y de forma absolutamente justificada que éste pusiera fin a tal situación haciendo uso de la facultad establecida en el artículo 171 del cuerpo legal precitado, motivos por los cuales deberá acogerse su petición y declararse que es procedente la sanción establecida en el artículo 162 del Código del Trabajo, y se condena a la demandada al pago de las remuneraciones y demás prestaciones consignadas en el contrato de trabajo, desde la fecha de término de los servicios, esto es, 16 de noviembre de 2023, hasta la fecha de declaración de liquidación concursal de la demandada principal, esto es, 16 de abril de 2023, conforme consta en el motivo segundo de esta sentencia, y ello de acuerdo a lo dispuesto en el artículo 163 bis, numeral 1, inciso final del Código del Trabajo, considerando al efecto una remuneración mensual de $1.724,167.
+
+Que se debe dejar asentado que el pago acreditado por la demandada principal de las cotizaciones previsionales y de seguridad social del demandante efectuado el 6 de diciembre de 2023, no constituye convalidación del autodespido, toda vez que dicho pago no es íntegro, por cuanto solo comprende los meses de agosto y septiembre de 2023, adeudándose aún el mes de octubre de 2023.
+
+DÉCIMO TERCERO: Que se demanda la responsabilidad solidaria o subsidiaria de la demandada MINISTERIO DE OBRAS PÚBLICAS (MOP)-FISCO DE CHILE, por cuanto señala la parte demandante haber prestado servicios en régimen de subcontratación para aquella durante todo el período que prestó servicios para la demandada principal, lo que es negado por dicha demandada, quien señala que a su respecto no se cumplen los requisitos para estimar que se está en presencia de un régimen de subcontratación.
+
+Que siendo el demandante quien alega la existencia del régimen de subcontratación para con la demandada Ministerio de Obras Públicas, le corresponde acreditar que sus servicios fueron prestados en los términos del artículo 183-A del Código del Trabajo, esto es, “aquél realizado en virtud de un contrato de trabajo por un trabajador para un empleador, denominado contratista o subcontratista, cuando éste, en razón de un acuerdo contractual, se encarga de ejecutar obras o servicios, por su cuenta y riesgo y con trabajadores bajo su dependencia, para una tercera persona natural o jurídica dueña de la obra, empresa o faena, denominada la empresa principal, en la que se desarrollan los servicios o ejecutan las obras contratadas. Con todo, no quedarán sujetos a las normas de este Párrafo las obras o los servicios que se ejecutan o prestan de manera discontinua o esporádica”.
+
+Que la prueba aportada por el demandante no logra suficiencia para demostrar el régimen que alega, toda vez que no se acreditan los requisitos para la existencia de tal régimen, a específicamente el referido a que la empresa principal sea dueña de la obra, empresa o faena en que se desarrollan los servicios o se ejecutan las obras objeto de subcontratación, desde el momento que el Ministerio de Obras Públicas no detenta calidad de dueño de tales obras y tampoco se beneficie de las mismas, sino que se trata de obras de conservación básicamente de caminos y rutas, que aparentemente serían bienes nacionales de uso público, que es patrimonio fiscal, a cargo del Ministerio de Bienes Nacionales, por ende al no acreditarse uno de los requisitos principales del régimen de subcontratación, esto es, que a quien se demanda como empresa principal, sea la dueña de la obra, empresa o faena en que se desarrollan los servicios o se ejecutan las obras, deberá rechazarse la demanda en este acápite.
+
+Que lo anterior se ve ratificado por la confesional ficta del demandante, respecto de la cual se hace efectivo el apercibimiento solicitado por la demandada solidaria/subsidiaria, del artículo 454° N°3 inciso 1° del Código del Trabajo, y se presume como efectiva, en relación al hecho a probar cuarto de la audiencia preparatoria, la alegación formulada por la demandada en su contestación, en cuanto a la inexistencia de régimen de subcontratación a su respecto.
+
+DÉCIMO CUARTO: Que la prueba rendida ha sido apreciada de acuerdo a las reglas de la sana crítica y la demás prueba no analizada expresamente en nada altera las conclusiones a que se ha arribado en la sentencia, por ser reiteración de lo ya examinado o no aportar nuevos antecedentes.
+
+Por estas consideraciones y lo dispuesto en los artículos 1, 3, 7, 10, 11, 41, 42, 55, 58, 63, 67, 73, 160 N°7, 162, 163, 163 bis, 168, 171, 172, 173, 183-A, 420, 423, 425 a 432, 434 a 438, 440 a 462, todos del Código del Trabajo, se resuelve:
+
+I.- Que SE HACE LUGAR a la demanda interpuesta por don FELIPE ALEXI ISLA ALEGRIA, en contra de su ex empleador SAN FELIPE S.A., en liquidación concursal, representada legalmente por el liquidador señor Francisco Cuadrado Sepúlveda, sólo en cuanto se resuelve que dicha demandada incurrió en la causal de caducidad del contrato de trabajo del artículo 160 N° 7 del Código del Trabajo, esto es, incumplimiento grave de las obligaciones que impone el contrato, y además procede la sanción del inciso 5° del artículo 162 del Código del Trabajo, y, en consecuencia, se la condena a pagar al demandante las siguientes prestaciones:
+
+a.- Las remuneraciones y demás prestaciones que se devenguen desde la fecha del autodespido, esto es, 16 de noviembre de 2023, y hasta la fecha de declaración de liquidación concursal, esto es, 16 de abril de 2024, considerando al efecto una remuneración mensual de $1.724,167.
+
+b.- $1.724,167, por indemnización sustitutiva del aviso previo.
+
+c.- $6.896.668, por indemnización por años de servicios.
+
+d.- $3.448.334, por recargo legal del 50% sobre indemnización anterior, de acuerdo al artículo 171 del Código del Trabajo.
+
+e.- $2.643.723, por remuneraciones adeudadas de octubre y 16 días de noviembre de 2023.
+
+f.- $2.069.000, por feriado legal y proporcional.
+
+g.- Cotizaciones previsionales adeudadas a enterar en AFP PROVIDA, FONASA y AFC CHILE, del mes de octubre de 2023, oficiándose al efecto.
+
+II.- Que, las sumas ordenadas pagar deberán serlo con más reajustes e intereses conforme a lo prescrito en los artículos 63 y 173 del Código del Trabajo.
+
+III.- Que SE RECHAZA, en todo lo demás, la demanda de autos
+
+IV.- Que cada parte pagará sus costas.
+
+Ejecutoriada que sea la presente sentencia, cúmplase lo dispuesto en ella, dentro de quinto día, previa certificación, y dese copia autorizada de la misma a la parte demandante a fin de presentarlo en el Tribunal donde se lleva el procedimiento de Liquidación Concursal de la demandada principal, conforme a lo dispuesto en el artículo 462 del Código del Trabajo.
+
+Asimismo, una vez ejecutoriada la sentencia, devuélvase a las partes los documentos incorporados por ellas y a sola petición verbal.
+
+Regístrese y notifíquese. Archívese en su oportunidad.
+
+RIT: O-8083-2023
+
+RUC: 23-4-0530553-4
+
+Dictada por doña Lorena Renate Flores Canevaro, Juez Titular del Segundo Juzgado de Letras del Trabajo de Santiago.

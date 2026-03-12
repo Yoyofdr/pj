@@ -1,0 +1,361 @@
+METADATA
+
+case_id: bdbd4fe63678af4e09b8f08e4681cfcb553f30da
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8043962
+
+rol: 6052-2026
+
+fecha_sentencia: 2026-02-26
+
+caratulado: MALVOISIN EVENS CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintisiete de febrero de dos mil veintiséis.
+Vistos y teniendo presente:
+Primero: Que, de conformidad con lo dispuesto en el inciso séptimo del artículo 483-A del Código del Trabajo, se ha ordenado dar cuenta de la admisibilidad del recurso de unificación de jurisprudencia deducido por la demandada contra la sentencia dictada por la Corte de Apelaciones de Chillán, que rechazó el de nulidad interpuesto contra la de instancia que acogió la demanda, declaró un único empleador, el despido improcedente y nulo, y condenó al pago solidario de las prestaciones que señala.
+
+Segundo: Que según se expresa en la legislación laboral, el recurso de unificación de jurisprudencia es susceptible de ser deducido en contra de la resolución que falle el recurso de nulidad, estableciéndose su procedencia para el caso en que “respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de Tribunales Superiores de Justicia”, conforme lo explicita el artículo 483 del Código del Trabajo.
+
+Asimismo, del tenor de lo dispuesto en el artículo 483-A del cuerpo legal antes citado, aparece que esta Corte debe controlar, como requisitos para su admisibilidad, por un lado, su oportunidad; en segundo lugar, la existencia de fundamento, además de una relación precisa y circunstanciada de las distintas interpretaciones respecto de las materias de derecho objeto de la sentencia, sostenidas en diversos fallos emanados de los tribunales superiores de justicia, y finalmente, debe acompañarse copia del o los fallos que se invocan como fundamento del recurso en referencia.
+
+Tercero: Que la materia de derecho propuesta para ser unificada consiste en “Determinar la correcta interpretación de la causal de necesidades de la empresa, prevista en el artículo 161 inciso primero del Código del Trabajo, esto es, si es procedente la exigencia de que las circunstancias económicas que la motivan deban calificarse necesariamente como externas a la organización empresarial, cuando el texto legal no contempla expresamente tal distinción”.
+Cuarto: Que, con relación al tema jurídico planteado para ser uniformado, se ofreció a modo de contraste, las sentencias dictadas por la Corte de Apelaciones de San Miguel, en la causa Rol N°716-2024, y por la Corte de Apelaciones de Rancagua, en la causa Rol N°226-2024.
+
+La primera, sostuvo que este motivo de despido supone la presencia de elementos técnicos o económicos que permitan calificarla de objetiva y que demuestren que su empleo no se puede fundar en la sola voluntad del empleador, de modo que sólo puede concurrir en casos graves en los que ha resultado imperativo modernizar o racionalizar el funcionamiento de la empresa, establecimiento o servicio, todo ello en el contexto de circunstancias financieras adversas representadas por bajas en la productividad o cambios en las condiciones del mercado y que, en este caso, la demandada enfrentó un escenario económico adverso cuyas causas son ajenas al empleador y que una empresa de su envergadura no tiene posibilidad alguna de incidir en los resultados del aumento o la disminución de la demanda en el mercado inmobiliario.
+La segunda, señaló que la causal de necesidades de la empresa, no implica la obligación de presentar resultados ecuacionales, ni existe norma alguna que explique qué se entiende por objetividad, así, no es necesario demostrar una certeza matemática, en el sentido que deban presentarse antecedentes que calculen una razón única y necesaria, lo que no es una exigencia legal, sino que de lo que se trata es de que exista un antecedente, razón y justificación, que vaya más allá del mero capricho o voluntad del empleador.
+Quinto: Que, por su parte, la sentencia impugnada rechazó el arbitrio, en lo pertinente, fundado en la causal de nulidad dispuesta en el artículo 477 del Código del Trabajo, dado que la causal de necesidades de la empresa constituye una causal objetiva, a partir de factores económicos externos y ajenos a la voluntad del empleador, sin que resulte procedente cuando emana de una reestructuración originada en su mera voluntad. Por lo tanto, para determinar si la causal es o no procedente, se requería de prueba que acreditara cuál es el origen, causa o motivo del mal estado de los negocios del empleador, esto es, si la mera voluntad del empleador o factores económicos externos ajenos a su voluntad, lo que no aconteció, y por eso se rechazó la causal y declaró injustificado el despido.
+
+Así, indicó, no hay una errónea aplicación del derecho en la forma en que se interpretó la causal del artículo 161 inciso primero del Código del Trabajo, ya que la exigencia de acreditar el origen, la causa o el motivo del mal estado de los negocios de la demandada no es un requisito adicional del tipo, sino que su correcta interpretación.
+Sexto: Que, como se señaló, para la procedencia del recurso en análisis es requisito esencial que existan distintas interpretaciones respecto de una determinada materia de derecho, es decir, que, frente a hechos, fundamentos o pretensiones sustancialmente iguales u homologables, se arribe a concepciones o planteamientos jurídicos disímiles que denoten una divergencia que deba ser uniformada.
+
+Así, la labor que corresponde a esta Corte se vincula con el esclarecimiento del sentido y alcance que tiene la norma que regla la controversia al ser enfrentada con una situación equivalente resuelta en un fallo anterior en sentido diverso, para lo cual es menester partir de presupuestos fácticos análogos entre el impugnado y los traídos como criterios de referencia.
+
+Séptimo: Que a la luz de lo expuesto y realizado el examen descrito con relación a la materia para unificación, tal exigencia no aparece observada, desde que las sentencias de contraste exigen igualmente que, en la causal de despido de necesidades de la empresa, que es de carácter objetiva, se demuestre el fundamento técnico de la reestructuración de los negocios, de modo que no dependa de la sola voluntad del empleador, lo mismo que exige la impugnada.
+
+Así, debe ser decretada la inadmisibilidad del recurso interpuesto por la parte demandada, puesto que la necesidad de uniformar la materia propuesta y la disparidad de decisiones respecto de la misma, que la ley exige y que se proponen como argumento para sostenerlo, no se advierte concurrente, teniendo además presente, el carácter excepcional y especial de este arbitrio, reconocido expresamente por el artículo 483 del Código del Trabajo.
+
+Por estas consideraciones y normas citadas, se declara inadmisible el recurso de unificación de jurisprudencia interpuesto contra la sentencia de once de diciembre de dos mil veinticinco.
+
+Regístrese y devuélvase.
+
+Rol N°207-2026.-
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Chillán, once de diciembre de dos mil veinticinco.
+
+VISTO:
+
+Que en esta causa RUC: 24-4-0631259-K, RIT: O-73-2024, por sentencia de veintiséis de junio de dos mil veinticinco, dictada por don IVAN SANTIBAÑEZ TORRES, Juez Destinado del Juzgado de Letras y Garantía de Bulnes, se resolvió:
+
+“I.- Que ha lugar a la demanda interpuesta, sólo en cuanto se declara que el despido del que fueron objeto la demandante, ya individualizada, con fecha 5 de noviembre de 2024, por la causal del artículo 161 inciso 1º del Código del Trabajo, necesidades de la empresa, invocada por su ex empleador Forestal Perales Limitada, es improcedente y nulo. II.- Que las demandadas Sociedad Forestal Perales Limitada y Maderas BSC Limitada, ya individualizadas, deberán considerarse como un solo empleador, al tenor del artículo 3 del Código del Trabajo. III.- Que en consecuencia, las demandadas, Maderas BSC Limitada y Sociedad Forestal Perales Limitada, deberán pagar a la demandante, de manera solidaria, las siguientes prestaciones: Indemnización sustitutiva del mes de aviso por $763.170. Indemnización por años de servicios por la suma de $8.394.870.- $2.518.461.- por el recargo del 30% de los años de servicios. Vacaciones pendientes por la suma de total de $669.853.- IV.- Que las demandadas deberán pagar a la demandante, las remuneraciones y demás prestaciones de seguridad social desde el 5 de Noviembre de 2024 a la fecha de convalidación mediante el pago, de las cotizaciones adeudadas.- V.- Las sumas antes señaladas deben pagarse con los intereses y reajustes de los artículos 63 y 173 del Código del ramo. VI- Que no se condena en costas a las demandadas, por no haber resultado totalmente vencidas.”
+
+En contra de dicha sentencia, la abogada doña Fabiola Gianina Lorenzini Barrios, por las partes demandadas (SOCIEDAD FORESTAL PERALES LIMITADA y MADERAS BSC LIMITADA), interpuso recurso de nulidad parcial, fundado en la causal establecida en el artículo 477 del Código del Trabajo.
+
+Se procedió a la vista del recurso en la audiencia de once de noviembre de dos mil veinticinco, asistiendo los abogados de ambas partes, quienes alegaron lo pertinente en defensa de sus derechos.
+
+CONSIDERANDO:
+
+Primero: Que el abogado de la parte recurrente invoca la causal de nulidad contemplada en el artículo 477 del Código del Trabajo, esto es, por haberse dictado la sentencia definitiva impugnada con infracción de ley que influyó sustancialmente en lo dispositivo del fallo.
+
+Manifiesta que el tribunal a quo, en la dictación de la sentencia recurrida, infringe el artículo 161 inciso primero del Código del Trabajo, ya que el sentenciador efectúa una incorrecta aplicación de esa norma al establecer requisitos no exigidos en la normativa para el despido por necesidades de la empresa. Asimismo, sostiene que se infringen los artículos 13 y 54 de la Ley N.º 19.728, al no aplicar estas normas, las que permiten al empleador descontar de la indemnización por años de servicios el aporte efectuado al seguro de cesantía.
+
+Expresa que el artículo 161 faculta al empleador a despedir a un trabajador "por necesidades de la empresa", siendo una causal que solo depende de que existan tales necesidades, sin que se pueda exigir otro requisito adicional, como lo hace la sentencia de autos. Indica que el artículo 161 establece ejemplos no taxativos para configurar la causal, como "racionalización o modernización", "bajas en la productividad", o "cambio en las condiciones del mercado o de la economía". Argumenta que el nivel de exigencia no es de la intensidad o gravedad para otras causales, como por ejemplo, para el caso del incumplimiento grave, hipótesis en la que el legislador no solo exige un incumplimiento, sino que además la gravedad de la conducta.
+
+Manifiesta la letrada que sí existen hechos graves como fundamento de los despidos, los cuales son reconocidos en la propia sentencia, como es precisamente el cierre total de la empresa y el despido de todos los trabajadores, lo que se probó con los balances generales de 2022 y 2023 de Maderas BSC Limitada.
+
+Sostiene además que, no obstante la claridad de los hechos, el tribunal en el considerando sexto agrega un "nuevo requisito" no contemplado en la norma, al indicar que se debe demostrar que la crisis económica y el cierre se debieron a un caso fortuito o fuerza mayor. Argumenta que el artículo 161 habla de reestructuración y racionalización, y no indica ni señala que ese proceso deba justificarse en dicho caso fortuito o fuerza mayor. Al exigir ese requisito, el tribunal confunde las causales de término de la relación laboral del artículo 159 Nº6 y 161 del Código del Trabajo.
+
+Expresa que la causal se fundó en el despido de todo el personal debido a la mala situación financiera de la empresa, lo cual está permitido por el artículo 161 del Código del Trabajo. El tema del despido no es un traspaso del riesgo del empleador, sino una causal contemplada para los procesos de racionalización, siendo procedente cuando la empresa se cierra por completo. Argumenta que el juez vulnera el artículo 161 inciso primero del referido Código al establecer que el origen o motivos de la crisis económica deben ser un caso fortuito o fuerza mayor.
+
+Asimismo, sostiene que la causa del mal estado financiero no influye en el resultado, ya que las necesidades fueron acreditadas por pérdidas millonarias que hacen imposible seguir dando trabajo. Indica el recurrente que el sentenciador establece exigencias que van más allá de lo dispuesto en el inciso primero del artículo 161 del Código del Trabajo, toda vez que exige probar el motivo de por qué se llegó a esa mala situación financiera, exigiendo que ello haya sido por caso fortuito y fuerza mayor.
+
+Argumenta la abogada que el artículo 161 inciso primero establece un estándar que se le debe exigir al empleador, al indicar mediante los ejemplos qué hechos pueden constituir una necesidad, sin exigir que sea una reestructuración profunda o bajas de productividad considerables. No existe norma jurídica que diga que, si el origen o el mal estado financiero que origina la racionalización es causado por malas decisiones del empleador, la causal se torne injustificada. El artículo 161 no establece ningún elemento para que el juez pondere y determine la profundidad o gravedad de la necesidad. Para el artículo 161 inciso primero lo importante es la existencia o no de la racionalización debido a las condiciones de la empresa, para justificar la causal, siendo indiferente el origen del mal estado financiero.
+
+En cuanto a la infracción de los artículos 13 y 54 de la Ley N.º 19.728, el recurrente manifiesta que el artículo 54 establece que las prestaciones de cargo del empleador al seguro de cesantía tienen la calidad jurídica de indemnización por años de servicio, y el artículo 13 otorga el derecho al empleador a descontar el aporte efectuado al seguro de cesantía, solo para el caso que el contrato termine por la causal del artículo 161 inciso primero.
+
+Agrega que el tribunal crea una sanción al no permitir el descuento del aporte del empleador al seguro de cesantía, fundado en que el despido sería injustificado, siendo que la única sanción para el despido improcedente es el recargo del 30% del artículo 168 letra a).
+
+Manifiesta la recurrente que, al establecer una sanción no contemplada en la ley, el tribunal vulnera los principios constitucionales de tipicidad, proporcionalidad e irretroactividad de la sanción.
+
+Finalmente solicita que se acoja el recurso de nulidad, invalidando parcialmente la sentencia en cuanto declara improcedente y nulo el despido, señalando que el despido es procedente o justificado, y que en la sentencia de reemplazo se rechace el pago del recargo del 30% y se permita descontar el aporte del empleador a la AFC del monto a pagar por años de servicios.
+
+Segundo: Que el artículo 477 del Código del Trabajo, establece que, tratándose de las sentencias definitivas, sólo será procedente el recurso de nulidad, cuando en la tramitación del procedimiento o en la dictación de la sentencia definitiva se hubieren infringido sustancialmente derechos o garantías constitucionales, o aquella se hubiere dictado con infracción de ley que hubiere influido sustancialmente en lo dispositivo del fallo.
+
+En cuanto a la causal de infracción de ley contenida en el artículo 477 del Código del Trabajo, es conveniente recordar que, según la doctrina -desarrollada a partir del recurso de casación en el fondo- ella debe discurrir sobre cuestiones exclusivamente de derecho sustantivo erróneamente aplicado en la sentencia, debiendo expresarse las normas legales que se estiman infringidas, la forma en que se produjo la infracción, de qué manera debieron aplicarse, como se configura el error en su aplicación en cada una de las decisiones del fallo y la influencia que tiene el error en lo dispositivo del fallo.
+
+Asimismo, para que proceda esta causal, es necesario mantener inamovibles los hechos establecidos en la sentencia, restringiendo la crítica a la aplicación de determinadas normas jurídicas. En específico, la infracción de ley puede traducirse en una contravención formal, en una falsa aplicación de la ley o en la interpretación errónea de esta.
+
+Tercero: Que, en relación a la primera infracción denunciada consistente en la errónea aplicación del artículo 161 inciso primero del Código del Trabajo, el recurrente alega que el tribunal a quo agregó un requisito no contemplado en la norma al exigir que se probara la causa o motivo del mal estado de los negocios.
+
+Sin embargo, esta alegación deberá ser rechazada por cuanto ha sido la propia Excma. Corte Suprema quien ha determinado cuál es el verdadero sentido y alcance de la causal de necesidades de la empresa, señalando en recurso de unificación de jurisprudencia que: “...para dilucidar lo anterior, se debe tener presente que esta Corte ya se ha pronunciado sobre el asunto, inclinándose de manera consistente por la postura expresada en los fallos propuestos para su contraste, en particular, en el más reciente, correspondiente al rol N°35.742 2017, por cuanto la interpretación de la norma en examen, a la luz de los principios que informan el Derecho del Trabajo y de la historia del mensaje de la ley que la introdujo en la legislación y la respectiva discusión parlamentaria, conduce a concluir que el empleador sólo puede invocar la causal de que se trata aludiendo a aspectos de carácter técnico o económico referidos a la empresa, establecimiento o servicio, y es una de tipo objetiva, por ende, no se relaciona con la conducta desplegada por el trabajador, y excede la mera voluntad del empleador; razón por la que debe probar los supuestos de hecho que den cuenta de la configuración de aquellas situaciones que lo forzaron a adoptar procesos de modernización o racionalización en el funcionamiento de la empresa, o de eventos económicos, como son las bajas en la productividad o cambio en las condiciones de mercado, señalados, a título ejemplar”. (Unificación de Jurisprudencia Corte Suprema, Rol 141286-2022, de 12/01/2024, considerando Sexto).
+
+Cuarto: Que, en consecuencia, la causal de necesidades de la empresa, según la actual interpretación de la Excma. Corte Suprema, constituye una causal objetiva, a partir de factores económicos externos ajenos a la voluntad del empleador, sin que resulte procedente cuando emana de una reestructuración originada en su mera voluntad. Por lo tanto, para determinar si la causal es o no procedente, se requería de prueba que acreditara cuál es el origen, causa o motivo del mal estado de los negocios del empleador, esto es, si la mera voluntad del empleador o factores económicos externos ajenos a su voluntad, lo que no aconteció en autos, y por eso el tribunal a quo rechazó la causal y declaró injustificado el despido.
+
+Quinto: Que, en razón de lo analizado sobre la causal de necesidades de la empresa, no hay una errónea aplicación del derecho en la forma en que el sentenciador interpretó la causal del artículo 161 inciso primero del Código del Trabajo, ya que la exigencia de acreditar el origen, causa o motivo del mal estado de los negocios respecto de la parte demandada no es un requisito adicional incorporado por el tribunal, sino que la correcta interpretación que el juez del trabajo dio a aquella, siguiendo los lineamientos del Máximo Tribunal, por lo que en consecuencia, la causal de nulidad invocada debe ser rechazada tratándose de la aplicación de la norma en comento.
+
+Sexto: Que, en cuanto a la supuesta infracción de los artículos 13 y 54 de la ley N°19.728 en relación con el seguro de cesantía en favor de los trabajadores cuyos contratos de trabajo terminan por las causales establecidas en el Código del Trabajo, y que la demandada alega debió ser descontada de la indemnización a la actora, es necesario precisar que, de acuerdo a lo preceptuado en el artículo 13 de la ley 19.728 que establece un seguro de desempleo, en los casos en que el trabajador tenga derecho al pago de la respectiva indemnización por años de servicio, por habérsele puesto término al contrato por las causales previstas en el artículo 161 del Código del Trabajo, “se imputará a esta prestación la parte del saldo de la cuenta individual de cesantía constituida por las cotizaciones efectuadas por el empleador más su rentabilidad, deducidos los costos de administración que correspondan, con cargo a las cuales el asegurado pueda hacer retiros en la forma que señala el artículo 15. En ningún caso se podrá tomar en cuenta el monto constituido por los aportes del trabajador, para los efectos de la imputación a que se refiere el inciso anterior”.
+
+Séptimo: Que, tal como lo ha señalado la reiterada jurisprudencia de esta Corte en las causas 104-2014, 38-2016,103-2016 , 110-2016, 94-2017 , 68-2018,123- 2019, 281-2019, 40-2020, 127-2020 y 41-2021, siendo la primera objeto de Recurso de Unificación de Jurisprudencia, el que fue rechazado por la Excma. Corte Suprema, (Rol 2778-2015), se estableció que el requisito esencial para proceder al descuento es que la relación laboral haya terminado por necesidades de la empresa, es decir, el despido debe ser procedente, lo que no ocurre en la especie, tal como concluyó el juez a quo en la sentencia recurrida, ya que no se probaron las necesidades de la empresa, siendo declarado el despido como injustificado. Por esta razón, al no existir necesidades de la empresa, no puede ser aplicado el artículo 13 de la Ley 19.728, no pudiendo entonces, descontarse a la indemnización a que tiene derecho el trabajador, el saldo aporte del empleador al seguro de cesantía.
+
+Octavo: Que, adicionalmente, en el recurso de unificación de jurisprudencia, rol N° 2778-2015, se señaló por la Excma. Corte Suprema que la tesis del recurrente, “significaría que un despido injustificado, en razón de una causal impropia, produciría efectos, a pesar que la sentencia declara la causal improcedente e injustificada. De ahí que deba entenderse que la sentencia que declara injustificado el despido por necesidades de la empresa priva de base a la aplicación del inciso segundo del artículo 13 de la ley ya tantas veces citadas. Todavía cabría tener presente que, si la causal fue declarada injustificada, siendo la imputación válida de acuerdo a esa precisa causal, corresponde aplicar el aforismo que lo accesorio sigue la suerte de lo principal. Mal podría validarse la imputación a la indemnización si lo que justifica ese efecto ha sido declarado injustificado. Entenderlo como lo hace el recurrente tendría como consecuencia que declarada injustificada la causa de la imputación, se le otorgara validez al efecto, logrando así una inconsistencia, pues el despido sería injustificado, pero la imputación, consecuencia del término por necesidades de la empresa, mantendría su eficacia”.
+
+Noveno: Que, así, por lo demás, ha sido unificada la jurisprudencia por la Excma. Corte Suprema, cuyo criterio asentado desde el año 2015 fue refrendado por rechazos de recurso de unificación de jurisprudencia en las sentencias del 13 de abril del año 2022 (Rol 66281-2021), de 8 de mayo de 2023 (Rol 4657-2022) y de 20 de julio de 2023 (Rol 62280-2023), que mantienen el criterio antes descrito.
+
+Décimo: Que, de acuerdo con lo analizado precedentemente, esta Corte comparte el razonamiento del tribunal a quo en cuanto a que no es procedente el descuento del seguro de cesantía a favor del empleador, por los fundamentos ya indicados, por lo que, se estima que no existe el error de derecho denunciado, razón por la cual no podrá acogerse la causal de nulidad invocada.
+
+En suma, el recurso de nulidad no podrá ser acogido por las razones antes señaladas.
+
+Por estas consideraciones y lo dispuesto en los artículos 474, 477, 478, 480, 481 y 482 del Código del Trabajo, SE RECHAZA, sin costas, el recurso de nulidad interpuesto por la abogada Fabiola Lorenzini Barrios, en representación de SOCIEDAD FORESTAL PERALES LIMITADA y MADERAS BSC LIMITADA, en contra de la sentencia definitiva de veintiséis de junio de dos mil veinticinco, dictada por don Iván Santibáñez Torres, Juez Destinado del Juzgado de Letras y Garantía de Bulnes, la que, en consecuencia, no es nula.
+
+Regístrese y comuníquese.
+
+Redacción del abogado integrante Sr. Fabián Huepe Artigas.
+
+Rol 219-2025 Reforma Laboral.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Bulnes, veintiséis de junio de dos mil veinticinco.-
+PRIMERO: Que, SERGIO ZUÑIGA GALDAMES, abogado, con domicilio en Chillán, calle Bulnes nro. 832, oficina nro. 25, en representación de GISELA YASMÍN NUÑEZ SUAZO, trabajadora, Run16.993.191-7, con domicilio en calle Estación nro. 31, Santa Clara, comuna de Bulnes, interpone demanda en procedimiento de aplicación general de nulidad del despido, cobro de indemnizaciones por término de contrato, aumentos legales, cotizaciones previsionales, y de salud y declaración de único empleador, en contra de SOCIEDAD FORESTAL PERALES LIMITADA, persona jurídica de derecho privado de su giro, representada por don Gunther Wolff Gopfert y en contra de MADERAS BSC LIMITADA, persona jurídica de derecho privado, de su giro, representada legalmente por don Gunther Wolff Gopfert, Gerente.
+
+Comenzó a trabajar el 15 de abril del año 2014 para SOCIEDAD FORESTAL PERALES LIMITADA para desempeñar la labor de operaria auxiliar hasta la fecha de su despido el día 5 de noviembre de 2024. La remuneración mensual estaba constituida entre otros, por sueldo, base, bono nocturno, bono de producción gratificación legal pagada mensualmente, siendo el promedio de las tres últimas remuneraciones mensuales devengadas la suma $ 763.170. La jornada de trabajo se distribuía de lunes a jueves de 7.00 horas a 17 horas, con una hora para colación y el viernes de 7 horas a 11 horas. Contrato de trabajo indefinido.
+
+Alega estaba ampara por fuero maternal y el día 5 de noviembre de 2024 se puso término al contrato de trabajo, por la causal de necesidades de la empresa, mediante la carta de aviso de despido que señalaba “Como se espera sea de su conocimiento, fecha 21 de marzo de 2024 pasado, nuestra empresa debió tomar la triste decisión de proceder al cese y del cierre completo de todas sus operaciones y en consecuencia, disponer el cierre total y definitivo de nuestra única planta y en consecuencia proceder al despido de todos y cada uno de los trabajadores que en ella laboraban.
+
+Esta dolorosa decisión se debió a que no obstante todos los esfuerzos que hicimos, no nos fue posible revertir la deficiente situación económica en la que se encontraba nuestra empresa y que por lo demás igual afectaba y afecta en general a toda la industria maderera de nuestro País a la fecha.
+
+Este escenario ya descrito no nos permitió seguir adelante y por lo mismo, sólo nos restó proceder al cierre total y completo de operaciones, debiendo, como ya se dijo, proceder al despido de todos y cada uno de los trabajadores de nuestra empresa, única forma en la que se esperaba podíamos cumplir con nuestras obligaciones comerciales y principalmente laborales para con nuestros trabajadores, algo que a la fecha sigue en curso y no exento de dificultades
+
+Por su parte y dado que Ud. gozaba a esa fecha con fuero maternal mismo que ha concluido solo en fecha reciente, es con esta fecha puede procederse a su despido como aquí se le comunica
+
+Se le adeuda: 10 días de feriado anual periodo 2022-2023: $254.560 y 15 días feriado anual periodo abril 2023-abril 2024: $534.576. y Feriado proporcional abril 2024 hasta la fecha de despido:
+
+$311.836. COTIZACIONES DE SALUD ADEUDADAS en FONASA y correspondientes a los siguientes periodos: 01-2014 a 02-2016
+
+Solicita se le pague 1. Indemnización sustitutiva del aviso previo: $763.170. 2. Indemnización por años de servicios 10 años seis meses (11) años): $ 8.374.970. 3. Aumento del 30 por ciento de la indemnizaciones por años de servicios: $2.518.461 4. 10 días de feriado anual periodo 2022-2023: $254.560. 5. 15 días feriado anual periodo abril 2023-abril 2024: $534.576. 6. Feriado proporcional abril 2024 hasta la fecha de despido: $311.836. 7. Cotizaciones de salud correspondientes a los periodos 01- 2014 a 02-2016 todos los meses incluidos en esos periodos las que deben ser pagadas en FONASA-8. Las remuneraciones que se devenguen desde la fecha del despido hasta la convalidación del mismo mediante el pago de las cotizaciones de salud adeudadas
+Alega que, la demandada Forestal Perales Limitada ha hecho respecto de la demandante, una aplicación improcedente de la causal de terminación del contrato de trabajo contemplada en el inciso primero del artículo 161 del Código del Trabajo, esto es necesidades de la empresa, establecimiento o servicio, quien ha fundado la causal en la carta de aviso de despido, en hechos. que no son objetivos:
+Estima que los hechos descritos en la carta de aviso de despido y que sirven de fundamento a la desvinculación, no permiten configurar la causal de despido invocada, los cuales deben fundarse en hechos objetivos, que no dependan de la mera voluntad del empleador, de trascendencia y prolongados en el tiempo y, si son motivos económicos que hagan inviable la empresa y justifiquen la desvinculación de los trabajadores, lo que en nuestro concepto no ocurre, por cuanto lo que se avizora por nuestra parte es solo una maniobra de Maderas Bsc Limitada para desvincular a trabajadores más antiguos y eventualmente mantener el funcionamiento de la planta para o continuar operando con trabajadores de menor costo, sin organizaciones sindicales o en su defecto vender la planta con los trabajadores finiquitados, pagándosele sumas ínfimas en relación a lo que en derecho les corresponde, como ha ocurrido con una gran cantidad de trabajadores de la empresa, quienes han optado poner término a sus contratos de trabajo por la causal del número 1 del artículo 159 del Código del Trabajo, esto es mutuo acuerdo de las partes por sumas que ni siquiera alcanzan a un tercio de las indemnizaciones legales por termino de contrato que les correspondería legalmente conforme a las normas pertinentes del Código del Trabajo y por otra parte, considera que los hechos invocados en la carta de aviso de despido no podrán ser acreditados por la partes demandadas, y aun que los lograran acreditar, estos no permiten configurar la causal de terminación del contrato de trabajo invocada por lo que corresponde declarar improcedente la aplicación de la causal invocada y condenar a la demandada Sociedad Forestal Perales Limitada y Maderas Bsc Limitada y a la si son considerados como un solo empleador o sólo a Forestal Perales Limitada si no son considerados como un solo empleador, al pago de las indemnizaciones legales por termino de contrato que correspondan y el aumento del 30 por ciento de la indemnización por años de servicios conforme lo dispuesto en la letra a del articulo 168 letra a del Código del Trabajo, más los otros conceptos que se señalan en la parte petitoria de esta demanda.
+
+De los certificados de cotizaciones de salud emitidos por el Fondo Nacional de Salud no se acreditó el pago de las cotizaciones de salud correspondientes a los periodos enero de 2014 hasta el mes de febrero de 2016, infringe así la exigencia contemplada en el inciso quinto, sexto y séptimo del artículo 162 del Código del Trabajo
+
+Corresponde se declare la nulidad del despido en la sentencia que dicte y que las demandadas SOCIEDAD FORESTAL PERALES LIMITADA y MADERAS BSC LIMITADA sean condenadas solidariamente si son declaradas como un sólo empleador en la sentencia que se dicta o solo Forestal Perales Limitada si no se efectúa esa declaración, al pago de las remuneraciones que se devenguen desde la fecha del despido hasta que la demandada acredite el pago de las cotizaciones de salud adeudadas en los referidos periodos en el FONDO NACIONAL DE SALUD.
+
+Alega que, las empresas actúan como un solo empleador en los términos del artículo 3 inciso 4to. del Código del Trabajo, y en consecuencia, en la sentencia que se dicte deberían ser consideradas como un solo empleador para efectos laborales y previsionales.
+
+En efecto ambas empresas comparten dos controladores comunes que son los hermanos Gunther Wolff Gopfert y Jurgen Wolff Gopfert, quienes actúan en los hechos como gestores y administradores de ambas empresas, con mayor presencia del primero de los nombrados, pero ambos ejercen en las demandadas los poderes de mando y dirección propias del empleador: dan las ordenes, toman decisiones, firman finiquitos, cartas de aviso de despido, deciden la contratación y despido de trabajadores, etc.
+
+Por otra parte, ambas empresas comparten un domicilio común, esto es Parcela nro. 128, Calle Larga Santa, Clara, comuna de Bulnes
+
+Además, las demandadas tienen giros similares y complementarios, como lo son los servicios forestales, el giro maderero y el arriendo de maquinarias para la explotación de la madera, así, por una parte SOCIEDAD FORESTAL PERALES LIMITADA se dedica a la producción de madera aserrada y el arriendo de sus maquinarias para que otros productores procesen sus maderas y MADERAS BSC LIMITADA, se dedica a las maderas elaboradas, como lo es la re manufactura de maderas, incluso con materias primas que le vende su empresa relacionada SOCIEDAD FORESTAL PERALES LIMITADA, además que también arrienda maquinarias para el tratamiento de maderas por parte de otros productores e incluso compartiendo personal para labores de mantención de maquinarias, tal como quedará demostrado en este juicio y ya fue declarado en causas que cita.
+SEGUNDO: Comparece contestando la demanda, doña Fabiola Gianina Lorenzini Barrios, abogado, por las demandadas, Forestal Perales y MADERAS BSC LTDA solicita se rechace en todas sus partes fundado en lo siguiente:
+
+Que, respecto a la trabajadora, reconoce existencia de relación laboral pero desde el 12 de abril de 2014, las labores y funciones desempeñadas, refiere la fecha de inicio y término de las labores contratadas, aceptando la base de cálculo de la remuneración percibida, por los tres últimos meses, totalmente trabajados, en cuanto al feriado sólo reconoce la suma de $671.014. como feriado adeudado.
+
+Respecto a la unidad de empresas , refiere que el año 1983 Eugenio Blanco y Günther Wolf constituyeron la sociedad “Barraca Santa Clara Ltda.” con el objeto de dedicarse a la explotación de barracas de maderas. Posteriormente, esta sociedad cambió su razón social a Maderas BSC Ltda.
+Después de varias modificaciones sociales, incluso luego de la muerte de uno de sus socios, el 11 de octubre de 2016, los haberes y derechos de los socios quedaron en un 30% para don Günther Wolff Göpfert y un 70% para Inversiones Redwood Limitada”.
+
+Cabe señalar que Maderas BSC Ltda. es una empresa cuyo giro principal era la remanufactura de madera que compra, esto es, vendía el producto terminado, como molduras, blocks, etc.
+
+Por su parte, Forestal Perales Ltda. fue constituida mediante escritura pública de fecha 28 de octubre de 1971, por don Eugenio Blanco, don Günther Wolff Schäufler y la sociedad Maderas y Materiales de Construcción Los Ángeles Compañía Limitada.
+
+La sociedad Forestal Perales Ltda. tenía como giro principal funcionar como aserradero, donde entran trozos y su producto terminado es: “madera no remanufacturada”. Si bien los establecimientos de ambas sociedades tienen un ingreso común, por calle Larga Nº128, Santa Clara, comuna de Bulnes, se trabajaba de manera separada y cada empresa tenía sus propios trabajadores y sindicatos separados por cada una de las empresas.
+
+La existencia de dos empresas se debió solo a una decisión de carácter comercial, toda vez que Forestal era un aserradero y Maderas BSC remanufacturaba la madera, la cual la podía comprar tanto a Forestal Los Perales, como a otros proveedores, lo que de hecho ocurría en principal medida.
+
+Debido a una fuerte crisis financiera que ha afectado en general a todas las empresas del rubro maderero, ambas sociedades Forestal Ltda. y Maderas BSC han tenido graves pérdidas económicas, que finalmente hicieron inviable sus operaciones, lo que conllevó al despido de todos sus trabajadores.
+
+Como se podrá observar, la existencia de dos sociedades obedeció desde su constitución a razones de carácter comercial, sin que existiera por parte de mis representadas la intención de eludir obligaciones laborales.
+
+Por otra parte, mientras funcionaron ambas empresas, en Maderas BSC Ltda. existía el Sindicato de Empresa Maderas BSC Ltda. RSU 08020234 y en la sociedad Forestal Perales Ltda. existía el Sindicato de Empresa Forestal Perales RSU: 08020259.
+
+Esto es, cada empresa tenía sus propios trabajadores y sus propias organizaciones sindicales. Tanto es así, que era justamente los sindicatos que impedían que cualquiera de sus afiliados pudiera prestar labores para la otra empresa, salvo que se firmara un anexo o nuevo contrato con la otra empresa reconociéndose antigüedad laboral, como expresamente ocurrió en el caso del demandante Oscar Rene Figueroa Urtubia.
+
+Concluye que, los demandados tuvieron giros diversos y que la creación de dos empresas obedeció exclusivamente a fines comerciales, no de elusión de obligaciones.
+
+Respecto al despido, explica que, toda empresa, quiere tener éxito comercial y de ventas, para salir adelante y así mantener los puestos de trabajos que se otorgan y el emprendimiento realizado. Lamentablemente, eso no ocurrió ni respecto de Maderas BSC Ltda., ni de la Sociedad Forestal Perales Ltda.
+
+Ambas empresas, cerraron sus operaciones el día 21 de marzo de 2024. Lo que implicó que desde ese día ninguna de las dos empresas ejerce operación o producción alguna.
+
+Es por ello que, el día 21 de marzo de 2024, se procede al despido de todos los trabajadores (salvo de la señora Núñez dado que se encontraba con fuero maternal). Ese día se citó a todos los trabajadores y se le explicó la situación de ambas empresas y que finalmente no existían recursos para mantener la operación de la empresa y se les ofreció un finiquito por mutuo acuerdo, con el pago de una indemnización voluntaria, explicando la situación económica de la empresa.
+
+Del total de trabajadores, 39 firmaron un finiquito por mutuo acuerdo por Maderas BSC Ltda. y 12 firmaron un finiquito por mutuo acuerdo con Sociedad Forestal Perales Ltda.
+
+Al resto de trabajadores, que no tomó esa opción se le entregó y se les envió por correo certificado (cuando no firmaban su recepción), la correspondiente carta de despido.
+
+La carta de despido fue por la causal del artículo 161 inciso primero del Código del Trabajo, esto es, necesidades de la empresa.
+
+La carta textualmente señalaba los siguientes hechos:
+
+Como se espera sea de su conocimiento, con fecha 21 de marzo de 2024 pasado, nuestra empresa debió tomar la triste decisión de proceder al cese y cierre completo de todas sus operaciones y en consecuencia, dispuso el cierre total y definitivo de nuestra única planta y en consecuencia procedió al despido de todos y cada uno de los trabajadores que en ella laboraban.
+
+Esta dolorosa decisión se debió a que no obstante todos los esfuerzos que hicimos, no nos fue posible revertir la deficiente situación económica en la que se encontraba nuestra empresa y que por lo demás igual afectaba y afecta en general a toda la industria maderera de nuestro Pais hasta la fecha.
+
+El escenario ya descrito no nos permitió seguir adelante y por lo mismo, solo nos restó proceder al cierre total y completo de operaciones, debiendo como ya se dijo, proceder al despido de todos y cada uno de los trabajadores de nuestra empresa, única forma en la que se esperaba podíamos llegar a cumplir con nuestras obligaciones comerciales y principalmente laborales para con nuestros trabajadores, algo que a la fecha sigue en curso y no exento de dificultades.
+
+Por su parte y dado que Ud. gozaba a esa fecha con fuero maternal, mismo que ha concluido solo en fecha reciente, es con esta fecha puede procederse a su despido como aqui se le comunica
+
+En cuanto al derecho, el artículo 161 del Código del Trabajo es la norma que faculta al empleador a despedir a un trabajador “por necesidades de la empresa”, es decir, es una causal que a diferencia de las establecidas en el artículo 159 del Código del Trabajo, en que la relación laboral termina o por voluntad del trabajador o por una causa ajena a la relación laboral (como por ejemplo el término del plazo, o un caso de fuerza mayor) y en el artículo 160 donde se establece la posibilidad para el empleador a despedir por un hecho imputable al trabajador; el artículo 161 otorga la posibilidad al empleador de despedir a un trabajador, que haya ejecutado sus obligaciones y cumplido fielmente el contrato de trabajo, cuando exista una necesidad de la empresa.
+
+De esta forma la causal del artículo 161 solo depende de que existan necesidades de la empresa, sin que se puede reprochar, la unilateralidad de la decisión de poner término a la relación laboral.
+
+El artículo 161 al regular la causal de necesidades de la empresa establece ejemplos no taxativos que pueden configurar esta causal, toda vez que el artículo 161 inciso primero establece el vocablo “tales como”. ¿Cuáles son los ejemplos que el artículo 161 establece de necesidades de la empresa? cito textual: “las derivadas de la racionalización o modernización de los mismos”, “bajas en la productividad”, “cambio en las condiciones del mercado o de la economía”, que hagan necesaria la separación de uno o más trabajadores.
+
+Si se analizan los ejemplos de necesidades de la empresa que da la norma se puede concluir que el nivel de exigencia no es de la intensidad o gravedad establecida para otras causales, como por ejemplo el incumplimiento grave, donde el legislador no solo exige un incumplimiento sino además la gravedad de la conducta.
+
+En el artículo 161 del Código del Trabajo, el legislador establece supuestos que le pueden ocurrir, durante la marcha normal de una empresa, sin que la norma exija que dichos supuestos sean de carácter grave.
+
+No obstante lo cual, en el caso particular que nos encontramos y dado que ambas empresas demandadas han cerrado sus operaciones, las necesidades de la empresa son aún más evidentes, toda vez que la crisis es tal, que las demandadas dejaron de operar.
+
+Es decir, la empleadora (Maderas BSC Ltda.) invocó la causal de necesidades de la empresa por una situación grave y permanente. Por mucho tiempo, se evitó el cierre y se trató de seguir adelante, pero finalmente ello no fue posible. Lo mismo ocurrió con sociedad Forestal Los Perales S.A., ambas empresas están actualmente cerradas.
+
+La doctrina señala que la necesidad debe ser grave o de envergadura y permanente. “¿Qué debemos entender por grave? Una situación de tal envergadura que ponga en peligro la subsistencia de la empresa y no meramente una rebaja en sus ganancias” (GAMONAL, S. GUIDI, C, Manual del Contrato de Trabajo, p.388), justamente es esa la situación que ocurre en este caso.
+
+En cuanto a la nulidad del despido, la estima una sanción y si bien, durante la vigencia de la relación laboral, debido a la crisis económica, que después derivó en el cierre de la empresa Maderas BSC Ltda., muchas veces no se pagaron las cotizaciones dentro del plazo legal. Al momento del despido, se procedió al pago de todas las cotizaciones adeudadas. Tanto es así que la misma carta de despido señala que las cotizaciones se encuentran al día y que se adjunta comprobante. Motivo por el cual no procede la aplicación de la sanción de nulidad de despido.
+
+Respecto a cotizaciones de Fonasa, ellas están pagadas, pero por temas de esa entidad no ha entregado los certificados correspondientes, tan es así que en juicios ejecutivos seguidos ante este mismo tribunal, causas rit P-208-2024, P-207-2024, P-206-2024, P-205-2024, P-202-2024, P-201-2024 y P- 301-2017, se ha opuesto excepción de pago, las que fueron acogidas.
+
+Para el pago del feriado pendiente no se utiliza como base de cálculo la última remuneración mensual contemplado en el artículo 172 del Código del Trabajo, toda vez que dicho concepto solo se usa paras las indemnizaciones por mes de aviso y años de servicios.
+
+Sin embargo, para el cálculo del feriado legal al momento del término del contrato de trabajo considera solo las remuneraciones imponibles excluida la gratificación pagada, conforme lo ha señalado expresamente la Dirección del trabajo en Ord. 0836/46 de 24 de febrero de 2004, que indica lo siguiente: “En consecuencia, sobre la base de las disposiciones legales transcritas y consideraciones formuladas, cúmpleme informar a Uds. que para los efectos de calcular la indemnización por concepto de feriado proporcional a que se refiere el inciso 3º del artículo 73 del Código del Trabajo, no resulta jurídicamente procedente incluir la gratificación legal que se paga mensualmente a los trabajadores por haberse convenido así en los respectivos contratos de trabajo, cualquiera que sea el sistema remuneracional a que se encuentran afectos, sin perjuicio del derecho que les asiste para percibir la cuota de dicho beneficio correspondiente al mes en que se pone término a la relación laboral”.
+
+Estima procedente el descuento del aporte del empleador del seguro de cesantía. El artículo 54 de la ley 19.728 es claro en indicar que: “Las prestaciones establecidas en esta ley de cargo de los empleadores a favor de los trabajadores afiliados al Seguro, tendrán la calidad jurídica de indemnizaciones por años de servicio, para todos los efectos legales, y gozarán del privilegio establecido en el Nº 8º del artículo 2472 del Código Civil”.
+
+Por su parte, dado que las únicas causales de término de contrato que dan derecho al pago de la indemnización por años de servicios en el Código del Trabajo son las del artículo 161 del Código del Trabajo y es por ese motivo que el artículo 13 del mismo cuerpo legal, establece un derecho a favor del empleador de poder descontar del pago de las indemnizaciones por años de servicios, el aporte que el empleador ha efectuado al seguro de cesantía del trabajador.
+
+En efecto, el artículo 13, dispone expresamente que: “ Si el contrato terminare por las causales previstas en el artículo 161 del Código del Trabajo, el afiliado tendrá derecho a la indemnización por años de servicios prevista en el inciso segundo del artículo 163 del mismo cuerpo legal, calculada sobre la última remuneración mensual definida en el artículo 172 del mismo, con un límite máximo de trescientos treinta días de remuneración, a menos que se haya pactado, individual o colectivamente, una superior, caso en el cual se aplicará esta última. Se imputará a esta prestación la parte del saldo de la Cuenta Individual por Cesantía constituida por las cotizaciones efectuadas por el empleador más su rentabilidad, deducidos los costos de administración que correspondan”.
+
+De esta forma los montos a pagar por Forestal Perales Ltda., por indemnización por años de servicios se le debe descontar los aportes efectuados por el empleador a la AFC, por los montos que indica
+
+En cuanto a las prestaciones demandadas a Maderas Bsc Ltda. No se reconoce adeudar nada toda vez que no existió relación laboral entre los demandantes y esta sociedad.
+
+Solicita el rechazo de la demanda en todas sus partes, salvo lo expresamente reconocido en este libelo
+
+TERCERO: Que se fijaron como hechos pacíficos:
+
+1. Monto de la remuneración $763.170.-
+
+2. Fecha de inicio y termino de la relación laboral.
+
+3. Labores otorgadas y desempeñadas por la trabajadora.
+
+Los hechos a probar son los siguientes:
+
+1. Efectividad de constituir las demandadas un solo empleador. Forma y circunstancias en que ello se produce.
+
+2. Efectividad de haber cumplido la demandada con los requisitos establecidos en el artículo 162 del código del trabajo. En la afirmativa, efectividad de los hechos contenidos en la carta.
+
+3. Estado de pago de las cotizaciones de seguridad social al momento del despido. Efectividad de ser procedente la nulidad del mismo, en atención al no pago de las cotizaciones de seguridad social, en este caso, de FONASA.
+
+4. Efectividad de adeudarse feriado legal y proporcional demandado.
+
+CUARTO: Que en la audiencia de juicio se incorporó la prueba ofrecida por las parte
+
+La parte demandada
+
+1. PRUEBA DOCUMENTAL:
+
+1. Carta de despido de fecha 5 de noviembre de 2024 y comprobante correo certificado. 2. Comprobante aviso carta despido Dirección del Trabajo. 3. Informe ficha de vacaciones al 28 de mayo de 2023 y comprobantes de feriado de 21 de febrero de 2019, 22 de marzo de 2019, 17 diciembre de 2019, 3 de junio de 2019, 24 de marzo de 2020, 11 de agosto de 2020, 6 de enero de 2022, nuevamente de 6 de enero de 2022, 5 de sept. de 2022, informe ficha vacaciones de 4 de nov. de 2022. 4. Certificado aporte empleador AFC de 18 de marzo de 2025. 5. 69 Comprobantes de carta de aviso de término registrados en la Dirección del Trabajo respecto de Maderas BSC Limitada. 6. 25 Comprobantes de carta de aviso de término registrados en la Dirección del Trabajo respecto de la Sociedad Forestal Perales Limitada. 7. Contrato Colectivo 2022-2024 entre Maderas BSC Limitada y Sindicato de Trabajadores Maderas BSC N 1. ° 8. Contrato Colectivo entre la Sociedad Forestal Perales Limitada y sindicato de Empresa N 1 Sociedad Forestal Perales Limitada. ° 9. Balance General del año 2022 de Maderas BSC Limitada. 10. Balance General del añoo 2023 de Maderas BSC Limitada.
+
+PRUEBA CONFESIONAL:
+
+Absuelve posiciones doña GISELA YASMÏN NUÑEZ SUAZO, quien a las preguntas de la parte demandada, refiere que vive en Santa Clara cerca de la planta, no la ha visto funcionar. Sabe que al momento de cerrar funcionó como un mes dos meses, no tengo certeza. Desde 2023, ya que estuve con maternal, trabajé inmediatamente anterior, yo en el momento que trabajé hasta ese momento lo veía bien o sea no veía mayores carencias. Ignoro que paso con los demás trabajadores.
+
+Prueba de la parte demandante
+
+Prueba Documental:
+
+1.-Carta aviso de despido de fecha 5 de noviembre de 2024. 2.-Certificado de cotizaciones de Salud de fecha 22 de noviembre de 2024 emitido por FONASA. 3.- Reincorporación y permiso con goce de remuneraciones de fecha 02 de abril de 2024. 4.-Informe de fiscalización singularizado como Región 8, Inspección 0802 a o 2018, número fiscalización 792, emitido por el fiscalizador Sergio Hernán Älvarez Gebauer el 12 septiembre añ 2018.
+
+Absuelve posiciones el representante de las demandadas Maderas BSC Limitada y Sociedad Forestal Perales Limitada don GUNTHER WOLFF GOPFERT, quien a las preguntas de la parte demandante, señala que la demandante fue despedida por la causal necesidad de la empresa la fecha no recuerdo Exactamente estaba con licencia el momento el cierre de la planta y fue creo que fue en julio, pero no lo sé el momento que dejó de presentar licencias , y se le notificó el despido aviso despido de sociedad forestal. En el caso de la demandante la carta hizo la firma Maderas BSC.- Respecto de finiquito de la demandante, se llegó a acuerdo con algunos., no recuerdo el número, pero no a todos se les pago el 100% .Esto ocurrió en el mes de marzo verdad mayoritariamente fue el mes de marzo cuando se produce el despido de esta gran cantidad de trabajadores la empresa no continúo operando, sólo había saldos, y se contrato guardias para el resguardo de la empresa. Así es se tuvo varios meses hasta que no pudimos seguir pagando ese servicio y se suspendió pero era una empresa externa. La gerencia de la sociedad forestal, era Rodrigo Moya era el gerente de producción, compartía la administración .La encargada de recursos humanos o asesores recursos humanos era Ana Lilia Retamales . Las labores adminstrtativas el cargo de jefa de personal sociedad forestal de personal administrativo a Jocelyn Casanova tenía igual función en madera bsc. Tenían el mismo domicilio, ambas empresas comparten el mismo acceso y negociaciones colectivas participaban las mismas personas en una y otra empresa. Actualmente la empresa no está operativa, está cerrada, no ha sido no ha sido disuelta jurídicamente
+Respuesta de Oficios:
+
+1. OFICIO N 348/2025 a la INSPECCION DEL TRABAJO ÑUBLE CHILLAN . Folios 50, 51, 61, 62 y 63.
+
+2.- OFICIO N 349/2025 al FONDO DE NACIONAL DE SALUD– CHILLAN . Folio 65
+
+Otros medios de prueba
+
+a) Se tenga a la vista causa causas laborales roles 0-26-2024, 0-27-2024 y 0-33- 2024 de ingreso del Tribunal
+
+QUINTO: Que, respecto a las circunstancias del despido, según la cartas de aviso incorporada, estos se efectuó el 5 de noviembre de 2024, cumpliendo los requisitos formales, mediante carta de despido, sin que exista reparos en cuanto al cumplimiento de los requisitos formales.
+
+Que, en relación a la casual, en conformidad con lo establecido en el numeral 1 del artículo 454 del Código del Trabajo, corresponde al demandado acreditar la veracidad de los hechos imputados en las comunicaciones a que se refieren los incisos primero y cuarto del artículo 162 del Código del Trabajo, sin que se puedan alegar hechos distintos como justificativos del despido. Así es el empleador quien debe demostrar los hechos que justificaron el despido por la causal invocada, y ello, conforme al citado artículo 162, debe estar contenido en la carta de despido. En el caso de análisis, los trabajadores fueron despedidos por la causal contenida en el inciso primero de artículo 161 del Código del Trabajo, necesidad de la empresa, derivada de la “deficiente situación económica en la que se encuentra no sólo nuestra empresa sino además y en general, toda la industria maderera de nuestro país….” Por lo que “solo nos resta determinar el cierre total y completo de operaciones, debiendo proceder al despido de todos y cada uno de los trabajadores de nuestra empresa…”. Asimismo, conforme los comprobantes de envío de carta de aviso para terminación de contrato de trabajo acompañadas por la demandada Forestal Perales de otros trabajadores de la empresa Maderas BSC Limitada se señala como motivo por los que se fundamenta el despido indica Crisis económica de la empresa y como monto a pagar por concepto de indemnizaciones $0 por años de servicio.
+
+A fin de acreditar el fundamento de la causal invocada, la parte demandada rindió prueba documental consistente en 69 comprobantes de carta de aviso de término de contrato remitidos a la Inspección del Trabajo de cuyo contenido es del mismo tenor y 25 comprobantes de aviso de término de contrato respecto de Sociedad Forestal Perales Limitada. Asimismo, acompañó Balance General del año 2022 y 2023 de Maderas BSC Limitada;
+
+Por otra parte, de la confesional del trabajador, se concluye que luego del despido no hubo actividad por parte de la empresa ya que cerró y que en esa oportunidad se despidió a todos los trabajadores.-
+
+Que si bien, de los elementos incorporados, efectivamente se acredita el cese de las actividades por parte de la empresa y la imposibilidad de generar nuevos recursos, la causal invocada, debe fundarse en hechos objetivos y no que obedezca a una decisión unilateral del empleador hechos objetivos que impongan forzosamente al empleador el despido como una forma de hacer frente a la racionalización o modernización de las faenas o servicios, a las bajas de productividad o a los cambios en las condiciones del mercado o de la economía.
+
+En este punto si bien la empresa acusa como un hecho público o notorio, el mal momento económico del sector maderero, ello debe ser acreditado, sin que se rindiera, en la especie, elementos que den cuenta de bajas de producción o ventas o que condiciones del mercado o de la economía en el área maderera, determinaran la existencia de pérdidas, como la entrada de un competidor al mercado con condiciones inmejorables, el encarecimiento de insumos, la perdida de algún cliente importante u otro factor objetivos y externos a ella, que le impuso como única medida el despido, aludiendo en general a una crisis económica de la empresa y en general de toda la industria maderera en el país.
+
+SEXTO: Que, tal como se ha fallado por le Excma Corte Suprema en recurso de Unificación de Jurisprudencia rol 1073-2018 de fecha 20.03.2019, en sus considerando tercero y cuarto “Tercero: Que, en forma previa, se debe tener presente que uno de los principios del Derecho del Trabajo es el de protección del trabajador, que en la legislación positiva y en lo concerniente al derecho individual del trabajo, se exterioriza a través del establecimiento de un estatuto protector, con normas de orden público que establecen mínimos irrenunciables en materia de remuneraciones, descansos y feriados, entre otras, también que reglamentan la forma de término del contrato de trabajo. En doctrina, en lo que interesa, se sostiene que una manifestación concreta de dicho principio es el de la continuidad o estabilidad laboral, que en la relación contractual se proyecta en una de carácter indefinida y en la consagración de causales específicas para poder finiquitarla, por lo tanto, la sola voluntad del empleador manifestada en ese sentido es excepcional.
+
+Pues bien, el artículo 161 del Código del Trabajo autoriza al empleador a poner término al contrato de trabajo invocando la causal de necesidades de la empresa, establecimiento o servicio, originadas por las circunstancias que indica a modo ejemplar, a saber, las derivadas de la racionalización o modernización de los mismos, bajas en la productividad, cambios en las condiciones del mercado o de la economía, que hagan necesaria la separación de uno o más trabajadores.
+
+Respecto de dicha causal, la doctrina afirma, considerando los términos del mensaje de la ley que la introdujo en la legislación y la pertinente discusión parlamentaria, que la razón del despido debe centrarse en necesidades de carácter económico o tecnológico, esto es, que autoriza al empleador a despedir cuando no puede mantener la fuente laboral por motivos de naturaleza objetiva; en razón de lo anterior, los hechos que la constituyen deben ser ajenos a la voluntad de las partes, pues apunta a que el trabajador sea desvinculado por mociones objetivas. (Lanata F., Gabriela, “Contrato individual de trabajo”, 4° ed. actualizada, Santiago, Chile, Legal Publishing, 2010, p. 283)
+
+También, que la causal se coliga con impulsos de índole económico, tecnológico o estructural, no relacionados a la persona del trabajador, por lo mismo, con su capacidad, ergo, son causas relacionados con el funcionamiento de la empresa, derivadas de un excedente de mano de obra o la reducción de los puestos de trabajo por razones económicas o técnicas. (Lizama Portal, Luis, Derecho del Trabajo, Lexis Nexis, Santiago, Chile, 2005, p.184-185)
+
+Asimismo, que debe tratarse de una situación objetiva que afecta a la empresa establecimiento o servicio, por ende, no puede invocarse por simple arbitrio del empleador o por capricho, caso en el que operaría como un despido libre o desahucio; la necesidad tiene que ser grave o de envergadura, por lo que debe tratarse de una situación de tal amplitud que ponga en peligro la subsistencia de la empresa y no meramente una rebaja en sus ganancias, y permanente, entonces, si es transitoria o puede recurrirse a otros medios o medidas que permitan alcanzar el mismo objetivo sin despedir trabajadores, no aplica la causal; y ha de haber relación de causalidad entre las necesidades y el despido, porque es la situación de la empresa la que hace necesaria la separación de uno o más trabajadores. (Gamonal, Sergio y Guidi Caterina, Manual del contrato de trabajo, 4° edición revisada, Santiago, Chile, Thomson Reuters, 2015 (p.387-388)
+
+Del mismo modo, que las necesidades de la empresa que explican el despido pueden ser de índole económica y tecnológica, también una combinación de ambos factores, entendidos de modo amplio, y siempre deben tener alguna gravedad; en tal sentido se ha entendido que un pasajero mal estado económico es riesgo del empresario y no configura la causal, y que entre las necesidades económicas o tecnológicas, por una parte, y el despido, por la otra, debía mediar una relación de causalidad. (Thayer, William y Novoa, Patricio, Manual de Derecho del Trabajo, Tomo IV, 5° edición actualizada, Santiago, Chile, Editorial Jurídica, 2010, p. 47- 48);
+
+Cuarto: Que, entonces, atendido los términos de la norma citada, interpretada a la luz de los principios señalados en el motivo 3°, el empleador sólo puede invocar la causal de que se trata aludiendo a aspectos de carácter técnico o económico referidos a la empresa, establecimiento o servicio, y es una de tipo objetiva, por ende, no se relaciona con la conducta desplegada por el trabajador, y excede la mera voluntad del empleador; razón por la que debe probar los supuestos de hecho que den cuenta de la configuración de aquellas situaciones que lo forzaron a adoptar procesos de modernización o racionalización en el funcionamiento de la empresa, o de eventos económicos, como son las bajas en la productividad o cambio en las condiciones de mercado, señalados, como se dijo, a titulo ejemplar”
+
+La paralización de las actividades de la empresa por “crisis económica” o administración deficiente o cambios en la economía o en el mercado, son riesgos consustanciales al empresario y debe absorberlos a menos que pruebe que ellos son motivados por caso fortuito o fuerza mayor, por cuanto no se puede privar de indemnización a los trabajadores víctimas de la pérdida de sus empleos, por hechos que no les son imputables.
+
+Así las cosas, el despido es injustificado, por cuanto no se ha acreditado la causal por ser insuficiente la prueba rendida por la demandada, ya que sólo se ha limitado, tal como lo expresan los balances acompañados, a acreditar un situación deficitaria, o mala situación económica, lo que por si sólo, no justifica la casual.
+
+SEPTIMO: En cuanto al descuento previsto en el artículo 13 inciso 2° de la Ley N° 19.728, éste tuvo por objetivo favorecer al empleador enfrentado a problemas en relación con la subsistencia de la empresa, como una suerte de beneficio cuando debe responder de las indemnizaciones legales pertinentes. Pues bien, tratándose de una prerrogativa, ha de ser considerada como una excepción, por lo tanto, su aplicación tiene que hacerse en forma restrictiva, lo que lleva a concluir que solo procede cuando se configuran los presupuestos del artículo 161 del Código del Trabajo, esto es, cuando el despido del trabajador se debe a necesidades de la empresa que hacen necesaria la separación de uno o más trabajadores, de manera que cuando se declara que tal despido es injustificado, como sucede en el presente caso, no es posible que se autorice al empleador para imputar a la indemnización por años de servicio, lo aportado por concepto de seguro de cesantía, máxime cuando en el caso ni siquiera se han pagado los finiquitos a los trabajadores
+
+OCTAVO; Que, respecto al monto de la remuneración, resulta pacífico la suma de $671.014.-
+NOVENO: En cuanto a la nulidad de despido, conforme la prueba documental rendida consistente en oficio remitido por Fonasa, el empleador mantenía deuda , desde el inicio relación laboral hasta febrero de 2016 y con posterioridad, registra lagunas, lo que de por sí, amerita, acoger la demanda de nulidad del despido contra la demandadas, como se dirá en lo resolutivo.
+
+DECIMO: En cuanto a feriado legal y proporcional , de la prueba documental incorporada por la demandada consistente, en los respectivos comprobante de otorgamiento de feriados suscritos por la actora, efectivamente tiene un saldo feriado adeudados: de 30.83 días, ya que de la ficha de vacaciones suscrita por la actora, al 28 de mayo de 2023 hizo uso de 15 días y quedó saldo 0, Entre el 28 de mayo de 2023 a la fecha de despido corresponden a 1 año 6 meses y 8 días, lo que implica que las vacaciones pendientes al momento del despido eran las siguientes: Feriado Al 28 de mayo de 2023= 0 Periodo 28 de mayo de 2023 a 28 de mayo de 2024 días 15 Periodo 28 de mayo de 2024 a 28 de octubre de 2024 7,5 y Periodo 28 de octubre a 5 de noviembre de 2024= 0,33 Total días hábiles pendientes 22,83 Días sábado domingo y festivos desde el despido 8 Total días de feriado 30,83, por lo que adeuda $671.014.-
+UNDECIMO: Respecto a la declaración de único empleador, acorde al mérito de la prueba aportada por la demandante, en especial lo informado por la Inspección del Trabajo, se tendrá por probado el hecho que las demandadas, Forestal Perales y Maderas BSC , constituyen una sola empresa y serán considerados como un solo empleador para estos efectos, debiendo por ello responder solidariamente en el cumplimiento de las obligaciones laborales respecto de los actores, por cuanto, a juicio del Tribunal, concurren a su respecto los presupuestos del artículo 3 del Código del Trabajo, que en lo pertinente, señala que “Dos o más empresas serán consideradas como un solo empleador para efectos laborales y previsionales, cuando tengan una dirección laboral común, y concurran a su respecto condiciones tales como la similitud o necesaria complementariedad de los productos o servicios que elaboren o presten, o la existencia entre ellas de un controlador común.”
+
+Que de este modo, no obstante las distintas denominaciones, nombres o razones y sociales y Roles Únicos Tributarios, las empresas referidas conforman una unidad económica ya que explotan y desarrollan un mismo giro comercial, al estar coordinadas para realizar actividades vinculadas a un aserradero (procesamiento de madera) y elaboración de la misma, las que además, se desarrollan en un mismo domicilio al que incluso se ingresa por un único acceso común, esto se deriva de las explicaciones relativas a las labores y cadenas de producción de cada empresa y la colaboración para el giro, que se realiza a través de actividades complementarias, expuestas tanto por los testigos, trabajadores y dirigentes sindicales de Maderas BSC y por el propio representante legal, que de acuerdo a lo que informa la Inspección del Trabajo, es común para ambas demandadas, Gunther Wolff Gopfert, quien además realiza acciones de dirección y mando, como empleador, en ambas demandadas.
+
+Que a ello debe sumarse, la existencia de quien se sindica como representante de las demandadas por el absolvente, su propio hermano Jurgen Wolff, confundiéndose en aquellos las funciones principales de dirección y administración, lo que da cuenta de la existencia de un controlador común, mismas circunstancias que son corroboradas por el testigo. Que ello también se confirma, con las afirmaciones relativas a que existe personal común, en áreas como recursos humanos y contabilidad, así como también funciones de supervisión realizadas por trabajadores comunes, existiendo firma de documentos relevantes para el desarrollo de las funciones de los trabajadores como para efectos de su organización, como lo son los contratos, cartas de aviso de término de la relación laboral y contratos colectivos, los que son suscritos indistintamente, por estos funcionarios comunes y quienes representan al empleador, para ambas demandadas.
+
+DECIMO SEGUNDO: Que de este modo, se concluye que las demandadas conforman una unidad económica o empresarial, cuestión que no ha sido probatoriamente desvirtuada por éstas, debiendo ser consideradas, en consecuencia, para efectos laborales como una sola empresa, es decir, como un solo empleador.-
+
+DECIMO TERCERO: Que el resto de la prueba no analizada, en nada desvirtúa lo razonado y resuelto en el presente fallo.
+
+Por estas consideraciones y visto lo dispuesto en los artículos 1, 3, 7, 10, 63, 66 y siguientes, 161, 162, 168, 173, 420, 423, 425 y siguientes, 446 y siguientes, 454, 456, 457, 458, 459, 510 del Código del Trabajo; Ley N° 19.728, se resuelve:
+
+I.- Que ha lugar a la demanda interpuesta, sólo en cuanto se declara que el despido del que fueron objeto la demandante, ya individualizada, con fecha 5 de noviembre de 2024, por la causal del artículo 161 inciso 1° del Código del Trabajo, necesidades de la empresa, invocada por su ex empleador Forestal Perales Limitada, es improcedente y nulo.
+
+II.- Que las demandadas Sociedad Forestal Perales Limitada y Maderas BSC Limitada, ya individualizadas, deberán considerarse como un solo empleador, al tenor del artículo 3 del Código del Trabajo.
+
+III.- Que en consecuencia, las demandadas, Maderas BSC Limitada y Sociedad Forestal Perales Limitada, deberán pagar a la demandante, de manera solidaria, las siguientes prestaciones:
+
+· Indemnización sustitutiva del mes de aviso por $763.170. .
+
+· Indemnización por años de servicios por la suma de $8.394.870.-
+
+· $2.518.461.- por el recargo del 30% de los años de servicios.
+· Vacaciones pendientes por la suma de total de $669.853.-
+IV.- Que las demandadas deberán pagar a la demandante, las remuneraciones y demás prestaciones de seguridad social desde el 5 de Noviembre de 2024 a la fecha de convalidación mediante el pago, de las cotizaciones adeudadas.-
+
+V.- Las sumas antes señaladas deben pagarse con los intereses y reajustes de los artículos 63 y 173 del Código del ramo.
+
+VI- Que no se condena en costas a las demandadas, por no haber resultado totalmente vencidas.
+
+RIT O-73-2024
+
+RUC 24- 4-0631259-K
+
+Dictada por don IVAN SANTIBAÑEZ TORRES, Juez Destinado del Juzgado de Letras y Garantía de Bulnes.
