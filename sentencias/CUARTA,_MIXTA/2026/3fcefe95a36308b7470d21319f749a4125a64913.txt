@@ -14,7 +14,7 @@ sala: CUARTA, MIXTA
 
 materias: ▪ Compensación económica
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: ACOGIDA CASACIÓN FONDO, ANULADA SENTENCIA DE (M)
 

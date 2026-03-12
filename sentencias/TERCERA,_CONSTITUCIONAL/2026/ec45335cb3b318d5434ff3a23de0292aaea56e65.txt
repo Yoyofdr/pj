@@ -4,19 +4,19 @@ case_id: ec45335cb3b318d5434ff3a23de0292aaea56e65
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8051436
 
-rol: 42151-2025
+rol: 55196-2025
 
 fecha_sentencia: 2026-03-06
 
-caratulado: OLGUÍN/CORPORACIÓN ADMINISTRATIVA DEL PODER JUDICIAL
+caratulado: CABEZAS SALAMANCA PABLO ALEJANDRO/MUNICIPALIDAD CURACAUTIN
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Función pública
+materias: ▪ Ordenanza municipal
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
