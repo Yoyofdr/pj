@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Falta de servicio/responsabilidad extracontractual
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: RECHAZA CASACION EN EL FONDO
 

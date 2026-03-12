@@ -1,0 +1,90 @@
+METADATA
+
+case_id: 4c489739b318d2433a210acaf13b3aa2e8f504a8
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8055183
+
+rol: 10508-2026
+
+fecha_sentencia: 2026-03-10
+
+caratulado: NITSCHKE RAMÍREZ SEGUNDO ARTURO CONTRA SEGUNDO JUZGADO DE GARANTÍA DE SANTIAGO
+
+sala: SEGUNDA, PENAL
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, diez de marzo de dos mil veintiséis.
+
+Vistos:
+Se reproduce la sentencia en alzada, con excepción de sus fundamentos quinto al décimo, que se eliminan.
+
+Y teniendo en su lugar y además presente:
+Primero: Que la acción de amparo encuentra su fundamento en la dictación de la Resolución exenta N°2500100322922 de fecha 17 de diciembre de 2025 que rechazó su solicitud de residencia y dispuso el abandono del país en un plazo de 15 días.
+
+Segundo: Que el fundamento que tuvo en consideración la Administración para rechazar la petición, según se lee de la referida resolución, lo constituye el hecho de no haber acompañado dentro de plazo el comprobante del pago de una multa por residencia irregular anterior.
+
+Tercero: Que el artículo 3, inciso 1°, de la Ley 21.325 dispone que “El Estado deberá proteger y respetar los derechos humanos de las personas extranjeras que se encuentren en Chile, sin importar su condición migratoria”, agregando su inciso 3°, que “A todo extranjero que solicite el ingreso o un permiso de residencia en el país se asegurará la aplicación de un procedimiento racional y justo para la aprobación o rechazo de su solicitud, el que se efectuará bajo criterios de admisión no discriminatoria”.
+Por su parte, el artículo 7 señala que “El Estado promoverá que los extranjeros cuenten con las autorizaciones y permisos de residencia o permanencia necesarios para su estadía en el país, y para el desarrollo de sus actividades y el ejercicio de sus derechos, de conformidad con la Constitución Política de la República, la ley y los tratados internacionales ratificados por Chile que se encuentren vigentes”.
+Cuarto: Que, se incumple por la Administración dicha obligación de protección y respeto del derecho a un procedimiento racional y justo, así como de promoción de la obtención de las autorizaciones y permisos de residencia o permanencia, al rechazar la solicitud del amparado y ordenar su abandono del país, y ordenar su abandono del país por no presentar dentro de plazo los documentos requeridos, sin adoptar antes las medidas conducentes y razonables para permitir subsanar dicha circunstancia.
+
+Quinto: Que, no puede dejar de considerarse, además, como factor de importancia para la decisión, la existencia del sólido arraigo familiar, social y laboral de que dan cuenta los documentos allegados a su presentación, lo que lleva a concluir que los fundamentos esgrimidos por la autoridad carecen de razonabilidad y proporcionalidad frente a las circunstancias ya anotadas y, sopesando la afectación que ello genera en el derecho a la libertad personal del amparado, garantizado por la Constitución Política de la República, es motivo suficiente para acoger la acción intentada.
+
+Por estas consideraciones y lo dispuesto, además, en el artículo 21 de la Constitución Política de la República, se revoca la sentencia de veintitrés de enero del año en curso, pronunciada por la Corte de Apelaciones de Santiago, en el ingreso N°5.375-2025, en cuanto rechaza el recurso de amparo interpuesto y, en su lugar, se declara se acoge la acción de amparo deducida en favor de la ciudadana colombiana María Fernanda Calvo Bejarano, dejándose sin efecto el acto administrativo impugnado, así como la orden de abandono, debiendo la repartición pública recurrida otorgar un nuevo plazo de a lo menos 30 a días a la actora, para que presente los documentos que resulten idóneos para acreditar y justificar los presupuestos de su solicitud, luego de lo cual deberá emitir un nuevo pronunciamiento al tenor de la solicitud del amparado.
+
+Regístrese, comuníquese por la vía más expedita y, una vez hecho, devuélvase.
+
+N°3.640-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Corte Suprema ▼
+Corte Apelaciones ▼
+C.A. de Santiago
+Santiago, dos de enero de dos mil veintiséis.
+
+Al folio N°1: a lo principal, aténgase a lo que se resolverá. Al primer otrosí, a sus antecedentes. Al segundo otrosí, téngase presente.
+
+Vistos y teniendo presente:
+
+1°) Que, según se colige de lo establecido en los artículos 21 de la Carta Fundamental y 7.6 de la Convención Americana de Derechos Humanos, la acción constitucional de amparo tiene como finalidad esencial controlar la “legalidad” de eventuales afectaciones o amenazas a la libertad personal y seguridad individual, en términos de verificar que, de mediar, se ajusten a la Constitución y a las leyes;
+
+2°) Que, los antecedentes expuestos en el recurso no dan cuenta de hechos que, según el artículo 21 de la Constitución Política de la República, correspondan a aquellos susceptibles de la cautela impetrada por esta vía, al no vulnerar o amenazar la libertad personal y la seguridad individual, entendida esta última como la garantía de que la libertad personal no pueda ser afectada sino en los casos previstos por la ley, máxime si, de lo expuesto, se advierte que el ordenamiento jurídico concede y reconoce al recurrente el remedio idóneo para poner término a la situación descrita en el libelo, ejerciendo su derecho de defensa a través de la vía del recurso de protección.
+
+Por estas consideraciones, y lo dispuesto por el artículo 21 de la Constitución Política de la República, se declara inadmisible el recurso deducido en estos autos.
+
+Archívese en su oportunidad.
+
+N°Amparo-5375-2025.imm
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Corte Suprema ▼
+Corte Apelaciones ▼
+Santiago, diez de marzo de dos mil veintiséis.
+
+Vistos:
+Se reproduce la sentencia en alzada, con excepción de sus fundamentos quinto al décimo, que se eliminan.
+
+Y teniendo en su lugar y además presente:
+Primero: Que la acción de amparo encuentra su fundamento en la dictación de la Resolución exenta N°2500100322922 de fecha 17 de diciembre de 2025 que rechazó su solicitud de residencia y dispuso el abandono del país en un plazo de 15 días.
+
+Segundo: Que el fundamento que tuvo en consideración la Administración para rechazar la petición, según se lee de la referida resolución, lo constituye el hecho de no haber acompañado dentro de plazo el comprobante del pago de una multa por residencia irregular anterior.
+
+Tercero: Que el artículo 3, inciso 1°, de la Ley 21.325 dispone que “El Estado deberá proteger y respetar los derechos humanos de las personas extranjeras que se encuentren en Chile, sin importar su condición migratoria”, agregando su inciso 3°, que “A todo extranjero que solicite el ingreso o un permiso de residencia en el país se asegurará la aplicación de un procedimiento racional y justo para la aprobación o rechazo de su solicitud, el que se efectuará bajo criterios de admisión no discriminatoria”.
+Por su parte, el artículo 7 señala que “El Estado promoverá que los extranjeros cuenten con las autorizaciones y permisos de residencia o permanencia necesarios para su estadía en el país, y para el desarrollo de sus actividades y el ejercicio de sus derechos, de conformidad con la Constitución Política de la República, la ley y los tratados internacionales ratificados por Chile que se encuentren vigentes”.
+Cuarto: Que, se incumple por la Administración dicha obligación de protección y respeto del derecho a un procedimiento racional y justo, así como de promoción de la obtención de las autorizaciones y permisos de residencia o permanencia, al rechazar la solicitud del amparado y ordenar su abandono del país, y ordenar su abandono del país por no presentar dentro de plazo los documentos requeridos, sin adoptar antes las medidas conducentes y razonables para permitir subsanar dicha circunstancia.
+
+Quinto: Que, no puede dejar de considerarse, además, como factor de importancia para la decisión, la existencia del sólido arraigo familiar, social y laboral de que dan cuenta los documentos allegados a su presentación, lo que lleva a concluir que los fundamentos esgrimidos por la autoridad carecen de razonabilidad y proporcionalidad frente a las circunstancias ya anotadas y, sopesando la afectación que ello genera en el derecho a la libertad personal del amparado, garantizado por la Constitución Política de la República, es motivo suficiente para acoger la acción intentada.
+
+Por estas consideraciones y lo dispuesto, además, en el artículo 21 de la Constitución Política de la República, se revoca la sentencia de veintitrés de enero del año en curso, pronunciada por la Corte de Apelaciones de Santiago, en el ingreso N°5.375-2025, en cuanto rechaza el recurso de amparo interpuesto y, en su lugar, se declara se acoge la acción de amparo deducida en favor de la ciudadana colombiana María Fernanda Calvo Bejarano, dejándose sin efecto el acto administrativo impugnado, así como la orden de abandono, debiendo la repartición pública recurrida otorgar un nuevo plazo de a lo menos 30 a días a la actora, para que presente los documentos que resulten idóneos para acreditar y justificar los presupuestos de su solicitud, luego de lo cual deberá emitir un nuevo pronunciamiento al tenor de la solicitud del amparado.
+
+Regístrese, comuníquese por la vía más expedita y, una vez hecho, devuélvase.
+
+N°3.640-2026.
