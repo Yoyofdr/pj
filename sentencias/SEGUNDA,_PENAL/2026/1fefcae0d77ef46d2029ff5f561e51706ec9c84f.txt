@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de nulidad
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (PENAL) NULIDAD
 
 resultado_recurso: DECLARA INADMISIBLE RECURSO DE NULIDAD, REMITE (M)
 

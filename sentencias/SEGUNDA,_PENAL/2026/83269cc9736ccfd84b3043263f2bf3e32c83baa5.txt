@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (PENAL) NULIDAD
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
