@@ -6,15 +6,15 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8051580
 
 rol: 10690-2026
 
-fecha_sentencia: 2026-03-05
+fecha_sentencia: 2026-03-06
 
 caratulado: CIRO CÁRCAMO GONZALO IGNACIO CONTRA COMISIÓN DE LIBERTAD CONDICIONAL
 
 sala: SEGUNDA, PENAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
