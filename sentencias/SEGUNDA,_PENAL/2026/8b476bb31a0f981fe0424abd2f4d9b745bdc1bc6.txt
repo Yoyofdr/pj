@@ -4,15 +4,15 @@ case_id: 8b476bb31a0f981fe0424abd2f4d9b745bdc1bc6
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8054594
 
-rol: 10883-2026
+rol: 10864-2026
 
 fecha_sentencia: 2026-03-09
 
-caratulado: BENITES GONZALES ENRIQUE ARTURO CONTRA MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS (C.R.C.)
+caratulado: SKOG BENÍTEZ, CRISTIAN ANDRÉS CONTRA ICA VALPARAISO
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 

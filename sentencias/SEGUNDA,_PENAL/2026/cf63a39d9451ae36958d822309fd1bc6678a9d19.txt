@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8054601
 
 rol: 10893-2026
 
-fecha_sentencia: 2026-03-06
+fecha_sentencia: 2026-03-09
 
 caratulado: ZAMORA SÁEZ ROBERTO JONATHAN CONTRA DIRECCION REGIONAL METROPOLITANA GENDARMERIA DE CHILE (NP)
 

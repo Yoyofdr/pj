@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8054760
 
 rol: 57252-2025
 
-fecha_sentencia: 2026-03-06
+fecha_sentencia: 2026-03-09
 
 caratulado: ORALDO BUSTOS AGUILAR/MUNICIPALIDAD DE CALERA DE TANGO
 
