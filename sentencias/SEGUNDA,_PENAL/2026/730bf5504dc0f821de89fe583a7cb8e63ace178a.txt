@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8043535
 
 rol: 6214-2026
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-02-26
 
 caratulado: CUTIPA MAMANI SALOMÉ CONTRA SERVICIO NACIONAL DE MIGRACIONES
 

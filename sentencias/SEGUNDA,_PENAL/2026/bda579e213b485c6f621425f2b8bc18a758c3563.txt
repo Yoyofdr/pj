@@ -4,17 +4,17 @@ case_id: bda579e213b485c6f621425f2b8bc18a758c3563
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044684
 
-rol: 7517-2026
+rol: 6083-2026
 
 fecha_sentencia: 2026-02-26
 
-caratulado: VALDIVIA JAQUE CARLOS EDUARDO CONTRA SÉPTIMO JUZGADO DE GARANTÍA DE SANTIAGO
+caratulado: BUSTAMANTE NIBELSI CONTRA SERVICIO NACIONAL DE MIGRACION
 
 sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
