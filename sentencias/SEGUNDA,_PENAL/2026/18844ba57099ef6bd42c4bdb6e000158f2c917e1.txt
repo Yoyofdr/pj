@@ -4,19 +4,19 @@ case_id: 18844ba57099ef6bd42c4bdb6e000158f2c917e1
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8056447
 
-rol: 10508-2026
+rol: 8177-2026
 
 fecha_sentencia: 2026-03-10
 
-caratulado: NITSCHKE RAMÍREZ SEGUNDO ARTURO CONTRA SEGUNDO JUZGADO DE GARANTÍA DE SANTIAGO
+caratulado: OMAÑA GARCÍA GUILLERMO CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: (CIVIL) CASACIÓN FONDO
+materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

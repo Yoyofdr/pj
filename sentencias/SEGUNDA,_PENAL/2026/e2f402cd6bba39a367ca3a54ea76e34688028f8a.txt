@@ -1,14 +1,14 @@
 METADATA
 
-case_id: ab3e13708207f9f273fdc53cb4d486809f122bda
+case_id: e2f402cd6bba39a367ca3a54ea76e34688028f8a
 
-url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8056426
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8055360
 
-rol: 10207-2026
+rol: 9572-2026
 
 fecha_sentencia: 2026-03-10
 
-caratulado: HERMAN JEREZ GUILLERMO CONTRA JUZGADO DE GARANTIA DE VALPARAISO
+caratulado: CONTRERAS MATERNO FREDERY CONTRA JUZGADO DE GARANTÍA DE MELIPILLA
 
 sala: SEGUNDA, PENAL
 
