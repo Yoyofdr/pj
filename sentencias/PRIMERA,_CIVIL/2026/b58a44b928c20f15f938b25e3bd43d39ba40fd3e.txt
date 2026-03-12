@@ -1,0 +1,502 @@
+METADATA
+
+case_id: b58a44b928c20f15f938b25e3bd43d39ba40fd3e
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8043899
+
+rol: 4541-2026
+
+fecha_sentencia: 2026-02-26
+
+caratulado: NETMAN INTEGRAL SERVICIO DE PERSONAL Y TRANS LTDA/ITAUCORPBANCA - (ACUM. IC N° 1519-2024) - (CASACION Y APELACION)
+
+sala: PRIMERA, CIVIL
+
+materias: ▪ Admisibilidad del recurso de casación en el fondo
+
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+
+resultado_recurso: INADMISIBLES RECURSOS DE CASACIÓN FORMA Y FONDO
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintisiete de febrero de dos mil veintiséis.
+
+Vistos y teniendo presente:
+Primero: Que, de conformidad con lo dispuesto en el inciso séptimo del artículo 483-A del Código del Trabajo, se ha ordenado dar cuenta de la admisibilidad del recurso de unificación de jurisprudencia deducido por la demandante en contra de la sentencia dictada por la Corte de Apelaciones de Talca, que rechazó el de nulidad interpuesto contra la de instancia que desestimó la demanda de despido indebido.
+
+Segundo: Que según se expresa en la legislación laboral, el recurso de unificación de jurisprudencia es susceptible de ser deducido en contra de la resolución que falle el recurso de nulidad, estableciéndose su procedencia para el caso en que “respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de Tribunales Superiores de Justicia”, conforme lo explicita el artículo 483 del Código del Trabajo.
+
+Asimismo, del tenor de lo dispuesto en el artículo 483-A del cuerpo legal antes citado, aparece que esta Corte debe controlar, como requisitos para su admisibilidad, por un lado, su oportunidad; en segundo lugar, la existencia de fundamento, además de una relación precisa y circunstanciada de las distintas interpretaciones respecto de las materias de derecho objeto de la sentencia, sostenidas en diversos fallos emanados de los tribunales superiores de justicia, y finalmente, debe acompañarse copia del o los fallos que se invocan como fundamento del recurso en referencia.
+
+Tercero: Que la materia de derecho propuesta para ser unificada consiste en “Determinar si la carta de despido debe bastarse a sí misma, a efectos de cumplir con los requisitos que exigen los artículos 160 N°7, con relación al 162 del Código del Trabajo, en cuanto a contener la mención expresa de la norma contractual que se habría infringido por el trabajador y que justifica su despido”.
+Cuarto: Que la sentencia impugnada rechazó el arbitrio fundado en las causales de nulidad dispuestas en los artículos 477 y, en subsidio, 478 b) del Código del Trabajo, dado que, con relación a la primera, lo que la recurrente pretende es impugnar la sentencia en tópicos respecto de los cuales no se puede incidir so pena de actuar fuera del ámbito de las posibilidades de revisión que permite la causal de nulidad. El recurso encubre una apelación, objeta la preponderancia o diversa valoración que se dio a la prueba y lo pretendido es su revalorización, en circunstancias que se llegó a la convicción de rechazar la demanda, conclusión que, evidentemente, puede no compartir la agraviada, pero que adquiere legitimación al hacer posible su reproducción por un tercero objetivo, ajeno a la contienda judicial de que se trate.
+
+Referente a la segunda, sostuvo que de la lectura del fallo impugnado no se advierte la infracción a los principios de la lógica, pues se da un razonamiento que se aviene a las normas del Código y las reglas de la sana crítica. Por lo que, siendo el presente recurso de derecho estricto, no puede atacarse la sentencia del modo que lo hace la recurrente.
+
+Agregó que la errónea forma en que se plantearon las causales del recurso hace que sea imposible que prospere la segunda, puesto que al invocar como principal la del artículo 477, se dan por asentados los hechos, que quedan inamovibles.
+De esta forma, no ha podido constatarse un pronunciamiento sustancial que se relacione con la materia de derecho propuesta por la demandante, por lo que el recurso intentado debe ser desestimado en esta etapa procesal.
+
+Por estas consideraciones y normas citadas, se declara inadmisible el recurso de unificación de jurisprudencia interpuesto contra la sentencia de veintitrés de diciembre de dos mil veinticinco.
+
+Regístrese y devuélvase.
+
+Rol N° 2.839-2026.-
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Talca, veintitres de diciembre dos mil veinticinco.
+
+VISTO, OÍDOS LOS INTERVINIENTES, Y CONSIDERANDO:
+
+1) Que comparece CRISTIAN CABELLO CELIS, abogado, por la parte demandante, en autos laborales sobre despido injustificado caratulados “SOTO GUTIERREZ con FUNDACIÓN EDUCACIONAL COLEGIO PROVIDENCIA DE LINARES”, RIT O-40-2022, en recurso de nulidad interpuesto en contra de la sentencia de 26 de abril de 2024, pronunciada por el juez Alejandro Sumonte Verdejo, titular del Primer Juzgado de Letras de Linares, que rechazó íntegramente la demanda. Solicita se acoja el recurso en todas sus partes, se anule el fallo y se dicte la correspondiente sentencia de reemplazo por medio de la cual se acoja la demanda en todas sus partes.
+
+2) Que la recurrente invocó como causales de nulidad las recogidas en los artículos 477 (infracción de ley que hubiere influido sustancialmente en lo dispositivo del fallo) y 478 b) del Código del Trabajo, esto es, “Cuando haya sido pronunciada con infracción manifiesta de las normas sobre la apreciación de la prueba conforme a las reglas de la sana crítica”. Respecto de la segunda causal, hace referencia al razonamiento de valoración recogido en el artículo 456 del citado Código, y señala que, en la especie, se configura una infracción a las reglas de la lógica, concretamente al principio de razón suficiente.
+
+3) Que, al hilo de lo que se recoge en el motivo séptimo del fallo, se recoge: “Concurrencia de hechos, la causal invocada por la demandada para poner término al contrato. De acuerdo a la carta de despido incorporada a juicio, la actora fue desvinculada por la demandada, con fecha 19 de abril de 2022, por aplicación de la causal prevista en el artículo 160 N°7 del Código del Trabajo, esto es, incumplimiento grave de las obligaciones que impone el contrato de trabajo, señalando el empleador que dicha decisión se fundamenta en hechos acaecidos el día 11 de abril de 2022 y que consisten en: encontrándose usted en una reunión de coordinación académica…, en una conducta que ya se ha reiterado anteriormente de su parte, comienza a gritar destempladamente, dirigiéndose a la Directora doña Ema Benítez, señalando que no es escuchada, que hasta cuando va a seguir con ese mismo cuento, que los Planes no sirven para nada, que la responsable de todo esto es la Directora; haciendo aspavientos con sus manos, los demás asistentes a la reunión tratan de calmarla, que se serene y repentinamente usted se levanta de su asiento, toma un cuaderno y lo lanza encima de la mesa de trabajo, en una clara falta y acción de amenaza a los presentes, continuando con los gritos, moviendo los brazos y apuntando el dedo contra la Directora, amenazándola. Además, los gritos y malos tratos, también fueron dirigidos hacia doña Ana María Muñoz, increpándola, ofuscada y señalándole con el dedo como responsable que no es escuchada…, tratándola en forma. Además, transcurrida una hora de los hechos relatados…, usted va a la oficina de la Directora y nuevamente, delante de la Inspectora General…comienza a gritarle, señalando que no la quiere oír…, imputándole que no le hace caso a ella, ni las cuestiones que le plantea, amenazándola con sus brazos y actitudes…, indicando que nadie la hace callar y continua con su inapropiada actitud, señalándola con el dedo, que estos hechos los comunicaría su tía Ana, para finalmente retirarse gritando…”.
+
+4) Que respecto a la causal principal, el recurrente aduce que el sentenciador al no analizar ni considerar que la carta de despido no señala cual es la obligación contractual supuestamente infringida, en circunstancias que la causal de despido invocada es el incumplimiento grave de obligaciones contractuales, infringe los artículos 152, 160 N°7, 162 y 453 N°1 inciso segundo, del Código del Trabajo. Plantea consideraciones respecto de las pruebas allegadas al juicio que, a su juicio, descartan que pueda considerarse como “grave” la conducta imputada a la demandante. Asimismo, reprocha que el juez haga referencia al denominado contenido ético del contrato de trabajo, señalando que la carta de despido debe bastarse a si misma. También reprocha que el juez califique la conducta como reiterada.
+
+5) Que siendo éste un recurso extraordinario, de derecho estricto y excepcional, la forma de planteamiento de las causales es de suma relevancia. Es, a estas alturas, pacífico, que el planteamiento de la causal en comento, de modo principal, implica dar por asentados los hechos del juicio, que permanecen inamovibles.
+
+Por lo tanto, la única pregunta que cabe hacerse, dice relación con la correcta o incorrecta aplicación de la normativa en juego. Es claro que a los hechos asentados en la causa, se aplicó la normativa que correspondía. Es en función de los hechos establecidos que el juez decide el asunto, estimando que se trata de una conducta grave, por lo que no cabe reproche en este punto, máxime cuando el recurso no señala, tampoco, cómo se infracciona las normas que consigna, y menos señala cómo dicha supuesta infracción ha influido en lo dispositivo del fallo.
+
+De otro lado, si el recurrente pretendía alterar la calificación jurídica, la causal de nulidad a impetrar debió ser otra.
+
+6) Que respecto de la causal planteada en subsidio, vuelve sobre los mismos reproches que a su juicio, deben llevar a descartar la gravedad de la conducta de la demandante.
+
+7) Que en realidad lo que el recurrente pretende es impugnar la sentencia en tópicos respecto de los cuales esta Corte no puede incidir so pena de actuar fuera del ámbito de las posibilidades de revisión que permite la causal de nulidad impetrada. El recurso, encubriendo una apelación, objeta la preponderancia o diversa valoración que el juzgador da a la prueba practicada en autos.
+
+8) Que lo pretendido es una revalorización de la prueba, en circunstancias que la juez de la instancia, por medio del razonamiento que hace respecto de la misma, cuyos parámetros la ley le fija, llegó a la convicción de rechazar la demanda, conclusión que, evidentemente, puede no compartir el agraviado con ella, pero que adquiere legitimación al hacer posible su reproducción por un tercero objetivo, ajeno a la contienda judicial de que se trate.
+
+9) Que de la simple lectura de la sentencia, en especial el motivo séptimo, no se desprende la concurrencia de la causal invocada, ni la infracción a principios de la lógica. La juez da razón fundada de sus conclusiones y dicho razonamiento se aviene a las normas del Código y las reglas de la sana crítica, por cuanto hay razón y análisis suficiente para la conclusión del fallo y siendo el presente recurso de derecho estricto, no puede atacarse la sentencia del modo que lo ha hecho el recurrente. Razones hay, contundentes, para concluir lo que se concluye en lo resolutivo de la sentencia y el ejercicio de valoración de la Juez es fruto de una reflexión fundada.
+
+10) Que, además, la errónea forma en que ha planteado las causales de su recurso, hace que sea imposible que prospere la segunda, puesto que al invocar como principal la del artículo 477, el recurrente da por asentados los hechos, que quedan inamovibles.
+
+11) Que al hilo de lo precedentemente señalado, se rechazará el recurso de nulidad intentado.
+
+Conforme a lo razonado, disposiciones legales citadas y lo dispuesto en el artículo 482 del Código del Trabajo, SE RECHAZA, sin costas, el recurso de nulidad interpuesto por el abogado CRISTIAN CABELLO CELIS, por la parte demandante, en contra de la sentencia de 26 de abril de 2024, pronunciada por el juez Alejandro Sumonte Verdejo, titular del Primer Juzgado de Letras de Linares, que rechazó íntegramente la demanda. No se condena en costas, por estimarse que existieron motivos plausibles para alzarse.
+Redacción del Abogado Integrante, Diego Palomo Vélez.
+
+Regístrese y devuélvase.
+
+Rol Corte Núm. 292-2024/ Laboral.
+
+Se deja constancia que no firma el abogado integrante don Diego Palomo Vélez, sin perjuicio de haber concurrido a la vista y acuerdo de la causa, por encontrarse ausente.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Linares, veintiséis de abril de dos mil veinticuatro
+CAUSA
+RUC 22-4-0415753-5
+RIT O-40-2022
+
+MATERIA
+Despido Injustificado
+Código L032
+
+PROCEDIMIENTO
+Aplicación General
+
+DEMANDANTE
+ANDREA CRISTINA SOTO GUTIÉRREZ
+RUN 15.942.923-7
+
+ABOGADO
+CRISTIAN LEONARDO CABELLO CELIS
+RUN 9.638.458-0
+
+DEMANDADO
+FUNDACIÓN EDUCACIONAL COLEGIO LA PROVIDENCIA DE LINARES
+RUT 65.084.484-K
+
+ABOGADO
+ÍTALO ARSENIO RÓMULO ANTONUCCI MARABOLÍ
+RUN 8.004.042-3
+
+INGRESO
+15/07/2022
+
+AUDIENCIA DE JUICIO
+10/01/2023, 24/04/2023 ; 16/11/2023 y 28/02/2024
+
+VISTO, OÍDO Y CONSIDERANDO.
+
+Primero: Partes del juicio. Que son partes en este juicio laboral, sobre despido injustificado, doña ANDREA CRISTINA SOTO GUTIÉRREZ, chilena, Educadora de Párvulos, cédula nacional de identidad N° 15.942.923-7, domiciliada en Rengo 149, Linares, como demandante; y FUNDACIÓN EDUCACIONAL COLEGIO PROVIDENCIA DE LINARES, persona jurídica del giro de su denominación, rol único tributario número 65.084.484-K, representada por MARIA JULIA SANZANA ALVARADO, religiosa, cédula de identidad N° 5.596.352-6, ambos domiciliados en Lautaro 645, Comuna y Ciudad de Linares, como demandado.
+
+Segundo: Demanda. En escrito de folio 1, comparece ANDREA CRISTINA SOTO GUTIÉRREZ, ya individualizado, quien de conformidad a lo dispuesto en los artículos 168, 446 y demás disposiciones pertinentes del Código del Trabajo, viene en deducir demanda en Procedimiento de Aplicación General Laboral por Despido Injustificado, Improcedente o Indebido y Cobro de Prestaciones Laborales Adeudadas, en contra de su ex empleador, la FUNDACIÓN EDUCACIONAL COLEGIO PROVIDENCIA DE LINARES, ya individualizada, en mérito de las razones de hecho y fundamentos de derecho que a continuación expone:
+
+I. PLAZO Y FORMA DE INTERPOSICIÓN DE LA DEMANDA.
+La demanda de autos se encuentra interpuesta en tiempo y forma, toda vez que el despido, cuya declaratoria como injustificado se solicita, fue realizado con fecha 18 de abril de 2022, y luego, con fecha 19 de abril de 2022 fue presentado un reclamo administrativo ante la Inspección del Trabajo, lo que suspendió el plazo para la interposición de la demanda en los términos del artículo 168 del Código del Trabajo.
+
+II. ANTECEDENTES DE HECHO.
+1. Antecedentes de la relación laboral.
+
+Ingresó a prestar servicios en calidad de trabajadora dependiente y subordinada, el 01 de marzo del año 2019, para la Fundación Educacional Colegio Providencia de Linares, fundación que administra el Colegio La Providencia de Linares.
+
+Sus funciones para el año 2019 fueron las de Apoyo Docente 1° Básico.
+
+Atendido el buen desempeño, para el año 2020, se le promovió al cargo de Educadora de Párvulos, y para el año 2021 al cargo de Coordinadora de Educación Pre-Básica, Educadora de Párvulos y Jefatura de curso Kinder “A”, cargo que se mantuvo el año 2022.
+
+Su última remuneración completa fue de $1.834.345.- que corresponde al mes de Febrero de 2022.
+
+2. Desarrollo de la relación laboral.
+
+Durante los 3 años continuos que trabajó en el Colegio La Providencia siempre fue muy bien evaluada en su desempeño como docente, tanto por los alumnos como por los superiores, motivo por el cual se le fue promoviendo año a año, otorgándo mayores responsabilidades.
+
+El trato entre colegas y con los superiores fue siempre cordial y ameno, y no era poco frecuente que se compartiera en los ratos libres o después de la jornada.
+
+Sin embargo, esto fue cambiando drásticamente a contar de marzo de 2022, principalmente debido a la llegada de un Jefe de UTP (Unidad Técnico Pedagógica). Esto, debido a que las jefas académicas del Colegio no estaban acostumbradas a ser dirigidas en cuanto a los contenidos y forma de hacer su trabajo. Por el contrario, quienes realizaban labores docentes y habían trabajado en otros Colegios, si estában acostumbradas a trabajar bajo ese modelo, y seguir las directrices del Ministerio de Educación en cuanto a temas metodológicos y de contenidos.
+
+Este cambio generó diversos roces entre las jefas académicas y el nuevo jefe de UTP, a quién simplemente no se le dejaba hacer su trabajo, dándose siempre una respuesta negativa a cualquier propuesta que éste realizara, y buscando siempre mantener la forma de hacer las cosas de la misma forma que se venían haciendo en el tiempo.
+
+Lo anterior fue generando un ambiente enrarecido de trabajo, en el que la respuesta a todo era “porque si”, o “porque así lo hacemos”.
+
+3. Término de la relación laboral
+
+El día 11 de abril del presente año se realizó una reunión del equipo de coordinación académica al cual pertenecía, en la que se informó sobre las capacitaciones para la aplicación del “Método Singapur” para matemáticas.
+
+En esa reunión se produjo un intercambio de opiniones ante una consulta de su parte sobre la razón de usar ese método y no el método aprobado por el Ministerio de Educación. La Administradora, la Madre María Julia Sanzana Alvarado, dijo que ella había llevado el método al colegio la vez anterior que había estado y que era bueno, y que “con gente ignorante y porfiada no seguía” para luego retirarse abruptamente de la reunión.
+
+Ante ello, Ana María Muñoz, Coordinadora SEP, respondió, irónicamente, que enseñar el método del Ministerio era lo que entregaba “platita”. Intentando cerrar el tema, la Directora, doña Ema Benítez Valdivieso, señala de mala manera que “el Singapur ya está” y que el método del Ministerio hay que hacerlo y que no es su culpa que la madre responda así, a lo que le manifestó que no esa no es la forma adecuada de responder. La Directora dio por finalizada la reunión por lo que se retiró de la sala, pero una vez que salió ella continuó de igual forma con la reunión.
+
+Indica que en ningún momento se manifestó en contra o a favor del “método Singapur”, sino que solamente pregunté la razón de enseñar don métodos.
+
+Posteriormente fue a la oficina de la Directora, ya que necesitaba pedir un permiso para ir al médico al día siguiente (la semana anterior había estado difónica, con dolor de garganta y fiebre, ya que sufre de fibromialgia). Ante la petición de permiso, la Directora responde de forma irónica y condescendiente “qué bueno que vaya al doctor porque fue tu culpa que no funcionara la reunión”, (insinuando algún tipo de problema mental, en circunstancias que ella tiene pleno conocimiento que sufro de fibromialgia), para luego de ello volver a tocar el tema de la reunión de coordinación, a lo que manifestó que estaba siendo mal interpretada y que no tenía problemas por capacitarme en un método que el establecimiento tenga implementado ya que es parte de mi trabajo y de mis labores. Mis dudas iban enfocadas en otra área y nunca se han aclarado ya que siempre la respuesta era “porque sí”.
+
+Posteriormente, el día 18 de abril, se le cita a la oficina de la Directora, y se le hace entrega de la carta de despido.
+
+4.- La Carta de Despido
+
+La carta de despido contiene una serie de exageraciones, tergiversaciones y acusaciones totalmente falsas hacia su persona y que lindan en las injurias y calumnias, acciones respecto de las cuales hace expresa reserva para concurrir a los Tribunales de Justicia competentes, de considerarlo oportuno.
+
+a) Acusaciones falsas
+
+Así, la carta sostiene que la demandante habría tenido conductas derechamente agresivas hacia la Directora, con gritos, gestos, aspavientos y amenazas pero sin indicar cuáles serían tales amenazas; se le acusa, asimismo de que comunicaría todo esto a su “tía Ana”.
+
+Lo anterior es completamente falso, ya que en primer lugar nunca profirió amenaza alguna, ni gritos ni aspavientos, y en segundo lugar porque su “tía Ana” (esto hace referencia a su prima, Ana Rozas Gutiérrez, a quien siempre ha llamado “Any” y no “Ana”) ya no trabajaba para la Administración de la Fundación a la fecha en que sucedieron estos hechos, por lo que no tenía sentido invocarla para ningún efecto, información que al parecer era desconocida por quien redacto la carta, y devela la mala intención de su ex empleadora al pretender vincular a su familia en esta situación, por motivos que desconoce.
+
+Además de estas falsedades, la carta señala: “Las apreciaciones que usted expresó en contra del Método Singapur, es una muestra más de su conducta frecuente de no aplicar los planes que deben ejecutarse en el aula, lo que ha conllevado a que su trabajo sea deficiente”
+
+De estas expresiones podemos extraer lo siguiente:
+
+i. “Apreciaciones” sobre el Método Singapur: en primer lugar, no realizó ninguna “apreciación” ni positiva ni negativa respecto a este método, simplemente preguntó por las razones de su aplicación en desmedro del método aprobado por el Ministerio de Educación. Tampoco se señala en la carta de despido cuáles serían estas “apreciaciones”, lo que la deja en una posición de desventaja al no poder rebatir estas acusaciones del ex empleador.
+
+ii. Supuesta “conducta frecuente de no aplicar los planes y programas que deben aplicarse en el aula”: Esta acusación cae por su propio peso, ya que, si esta hubiera sido realmente una “conducta frecuente”, debería haber al menos alguna amonestación previa, y no la hay. Debería haber alguna denuncia o constancia de esta falta disciplinaria, y no la hay, porque simplemente nunca existió.
+
+iii. Que su trabajo era “deficiente”: Si el trabajo hubiera sido “deficiente” como se pretende en la carta de despido, no se le habría ido ascendiendo sistemáticamente de posición en el tiempo de trabajo en el Colegio. El año 2019 ingresa como Asistente de Docencia para 1° básico (cargo en que, como su nombre lo indica, “asistía” a otra docente), en 2020 se desempeñó como Educadora de Párvulos (ya con autonomía frente a un curso), y en 2021 y 2022 como Coordinadora de Educación Pre-Básica, Educadora de Párvulos y Jefatura de Curso de Kinder “A”, con todas las responsabilidades que implica la labor de Coordinación de Pre-Básica. Resulta evidente la contradicción entre esta “conducta frecuente de no aplicar los planes y programas” sumado a un “trabajo deficiente”, con haber sido promovida y asignadas mayores responsabilidades en mi labor. Además, no se acompaña ningún antecedente que respalde esta acusación, no hay evaluaciones que cataloguen como “deficiente” su trabajo.
+
+Lo anterior no hace más que dejar en evidencia la falsedad e inconsistencia de las acusaciones contenidas en la carta de despido, así como la animadversión de las autoridades del Colegio hacia su persona, y que son las verdaderas razones detrás del despido,
+
+A su vez, la carta de despido adolece de vicios formales que la privan de valor a la hora de poner término en forma legal al contrato de trabajo:
+
+b) Falta de invocación de causal legal y del contenido del contrato de trabajo que fundarían el despido
+
+En efecto, la carta de despido hace una alusión genérica a que los hechos allí descritos, que como ya se ha señalado son exagerados, tergiversados o derechamente falsos, constituirían incumplimientos graves de las obligaciones que impone el contrato de trabajo, pero sin especificar la causal legal a la que correspondería tal afirmación, y, lo que es más grave, sin indicar cuales serían esas obligaciones contractuales que se habrían vulnerado, dejando a esta parte en absoluta indefensión ante tales acusaciones.
+
+c) Incumplimiento de las normas del Reglamento de Orden, Higiene y Seguridad.
+
+En efecto, se le pretende aplicar sanciones contenidas en el Reglamento de Orden, Higiene y Seguridad del Colegio, y por otro lado, no fueron aplicadas las normas que establece el mismo reglamento respecto al procedimiento de despido, lo que constituye una contradicción evidente por parte de las autoridades del Colegio.
+
+d) No cumplimiento de protocolos contenidos en los Reglamentos de Convivencia Escolar, y falencias en el Reglamento Interno de Orden Higiene y Seguridad que se pretende aplicar.
+
+A su vez, el procedimiento mediante el cual se llevó a cabo el despido no siguió las pautas establecidas en el protocolo de Convivencia Escolar del Colegio, y que se encuentra publicado en la página web del Colegio.
+
+En resumen, la carta de despido contiene una serie de acusaciones falsas, y además, no cumple con las formalidades establecidas en la ley, toda vez que no señala causal legal para el despido (la norma legal en que se fundamenta), sino que indica genéricamente que habría un incumplimiento grave de las obligaciones que impone el contrato de trabajo, pero no señala tampoco cuáles serían esas obligaciones contractuales incumplidas, y nuevamente acude a generalidades, sumado al incumplimiento de normas del Reglamento de Orden, Higiene y Seguridad, y a no seguir tampoco las normas del Manual de Convivencia Escolar al respecto.
+
+De esta forma, la demandada ha puesto término en forma injustificada a su contrato de trabajo después de 3 años de servicio continuo, adeudándole las indemnizaciones por el periodo trabajado y las demás que en derecho corresponden.
+
+III. CONSIDERACIONES DE DERECHO.
+En cuanto al despido injustificado y la causal invocada.
+
+Como se ha explicado en la primera sección de la presente demanda, la carta de despido contiene una serie de falsedades e imprecisiones, además de no haber sido fundamentada conforme exige la ley.
+
+De esta forma, el despido no cumplió con las formalidades establecidas en la ley para poner término a una relación laboral de carácter indefinido como era la que la ligaba a su ex empleador.
+
+Así las cosas, la omisión de la causal legal de despido en la Carta de Término de los Servicios o Carta de Despido en que incurrió la empleadora, ha vulnerado la disposición normativa de los incisos 1° y 5° del artículo 162° del Código del Trabajo, toda vez que no indicó por escrito cuáles fueron los fundamentos de hecho y de derecho para tomar la drástica decisión de despedirme, con lo cual, la ha dejado en la más completa indefensión, otorgándole al despido, por esa sola omisión, la categoría de despido injustificado, indebido o improcedente.
+
+Los Tribunales de Justicia han establecido una doctrina unánime y uniforme en orden de proteger los derechos del trabajador cuando el empleador no expone consistentemente los hechos que motivaron la terminación de la relación laboral en la carta de despido; esto debido a LA INDEFENSIÓN ABSOLUTA EN QUE HA DEJADO A LA PARTE DEMANDANTE.
+
+Cita el fallo de Corte de Apelaciones de Santiago 22.03.04, Rol N° 2772-03 (33).
+
+Asimismo, al no contenerse la referencia a la causal legal del despido, y no señalarse cuáles serían los incumplimientos contractuales que fundarían el despido, éste deviene en incausado. En efecto, queda de manifiesto que se ha pretendido basar el despido en un supuesto incumplimiento de obligaciones contractuales, pero sin indicar cuáles serían éstas, y sin indicar la norma en la que basa esta causal, máxime si consideramos que también se pretende aplicar un Reglamento de Orden, Higiene y Seguridad en circunstancias que tampoco se siguieron los procedimientos indicados en dicho instrumento para realizar el despido.
+
+Asimismo, el empleador tampoco cumplió con los procedimientos establecidos en el Manual de Convivencia Escolar, lo que vicia también el acto del despido.
+
+De esta forma, todas y cada una de estas falencias, tanto en su conjunto como individualmente consideradas, vician irremediablemente el acto del despido, transformándolo en injustificado, indebido e improcedente.
+
+Indemnización del artículo 87 del Estatuto Docente.
+
+Atendido que el despido sub lite devino en injustificado atendida la falta de causal legal, y desempeño funciones como docente de aula, tiene aplicación la norma del artículo 87 del Estatuto Docente.
+
+En efecto, el artículo 87 del Estatuto Docente establece que: "Si el empleador pusiere término al contrato de trabajo de un profesor por cualquiera de las causales señaladas en el artículo 161 del Código del Trabajo, deberá pagarle, además, de la indemnización por años de servicios a que se refiere el artículo 163 de ese mismo Código, otra adicional equivalente al total de las remuneraciones que habría tenido derecho a percibir si dicho contrato hubiese durado hasta el término del año laboral en curso. "Esta indemnización adicional será incompatible con el derecho establecido en el artículo 75 del Código del Trabajo. "El empleador podrá poner término al contrato por la causal señalada en el inciso primero, sin incurrir en la obligación precedente, siempre que la terminación de los servicios se haga efectiva el día anterior al primero del mes en que se inician las clases en el año escolar siguiente y el aviso de tal desahucio haya sido otorgado con no menos de sesenta días de anticipación a esta misma fecha. De no ser así, tal desahucio no producirá efecto alguno y el contrato continuará vigente".
+De esta forma, y siguiendo el criterio jurisprudencial vertido por la Excma. Corte Suprema en cuya virtud se ha estimado que la indemnización consagrada en el artículo 87 de la Ley N°19.070 es un beneficio de índole laboral, corresponde aplicarlo también en caso de un despido incausado (Corte Suprema, Rol N° 9009-2013).
+
+IV. PETICIONES CONCRETAS
+En razón de los argumentos y fundamentos de derecho expuestos, solicita se declare:
+
+a) En virtud del inciso 4° del artículo 162° del Código del Trabajo, la sustitutiva de aviso previo por la siguiente cantidad: $ 1.834.345.-
+
+b) En virtud del inciso 2o del artículo 163 del Código del Trabajo, la indemnización por años de servicios correspondientes a 3 años: $5.503.035.-
+
+c) En virtud de la letra b) del artículo 168° del Código del Trabajo, el recargo del 50% de las indemnizaciones por años de servicio ascendentes a $2.751.518.-
+
+d) El feriado proporcional, ascendente a la suma de $122.294.- correspondiente a 2 días.
+
+e) Indemnización del artículo 87 del Estatuto Docente, es decir, el equivalente a las remuneraciones que correspondía recibir al docente hasta el término del año escolar en curso, por la cantidad de $20.177.795.-
+
+concluye solicitando tener por interpuesta demanda en Procedimiento de Aplicación General Laboral por Despido Injustificado, Improcedente o Indebido y Cobro de Prestaciones Laborales Adeudadas en contra de la Fundación Educacional La Providencia de Linares, representado por la señora MARIA JULIA SANZANA ALVARADO, todos ya individualizados, a efectos de que el tribunal declare que fue víctima de despido injustificado, indebido o improcedente, y que, por ende, se le adeudan las prestaciones indicadas precedentemente, condenando a la demandada a que pague las sumas señalas en el cuerpo de este escrito o los montos que correspondan de acuerdo al mérito del proceso, todo lo anterior con los reajustes e intereses que por ley corresponda, con las costas de la causa.
+
+Tercero: Contestación de la demandada. A folio 14 comparece don ITALO ANTONUCCI MARABOLI, abogado por la demandada, quien viene en contestar la demanda de despido injustificado deducida solicitando su total rechazo, en virtud de las siguientes consideraciones de hecho y derecho:
+
+I.-NEGACION DE HECHOS:
+
+No son efectivos ninguno de los hechos invocados por la demandante como fundantes de su acción, de tal modo que controvierte toda la relación de hechos entregada por la actora en su libelo.
+
+De tal modo que en virtud de lo dispuesto en el artículo 452 inciso 2° del Código del Trabajo, esta defensa niega, en forma expresa y concreta, los hechos contenidos en la demanda, a saber:
+
+1) Que el dia 11 de Abril del año 2022, en la reunión del equipo de coordinación académica ante una consulta que realizara la actora respecto a las razones de la utilización del método Singapur para la asignatura de matemáticas, se hubiera producido un intercambio de opiniones y la Madre María Julia Sanzana Alvarado, habría señalado que ella había llevado el método al colegio la vez anterior que había estado y que era bueno, y que “con gente ignorante y porfiada no seguía”, para luego retirarse abruptamente.
+
+2) Que la Coordinadora SEP hubiera respondido irónicamente, que enseñar el método del Ministerio era lo que entregaba “platita”. Y que intentando cerrar el tema, la Directora, doña Ema Benítez Valdivieso, señalara de mala manera que “el Singapur ya está” y que el método del Ministerio hay que hacerlo y que no es su culpa que la madre responda así, habiendo la actora manifestado que esa no es la forma adecuada de responder, terminando la reunión.
+
+3) Que la actora en ningún momento se manifestara en contra o a favor del “método Singapur’’, sino que solamente realizara una pregunta respecto a la razón de enseñar ese método.
+
+4) Que posteriormente la demandante fuera a la oficina de la Directora, por un permiso para ir al médico al día siguiente, y ante la petición la Directora le respondiera de forma irónica y condescendiente ``que bueno que vaya al doctor porque fue tu culpa que no funcionara la reunión’’, insinuando algún tipo de problema mental, en circunstancias que se tendría pleno conocimiento que sufría de fibromialgia, para luego de ello volver a tocar el tema de la reunión de coordinación, manifestando la acora que estaba siendo mal interpretada y que no tenía problemas por capacitarme en un método que el establecimiento tenga implementado ya que es parte de su trabajo y labores.
+
+5) Que la carta de despido contenga una serie de exageraciones, tergiversaciones y acusaciones totalmente falsas que lindan en las injurias y calumnias.
+
+6) Que la carta de despido, infringiera el artículo 162 del Código del Trabajo, que no se indicara causa legal y que el despido carece de justificación, porque no expresa hechos que lo sustenten.
+
+7) Que durante el tiempo que trabajó en el Colegio, la demandante fuera muy bien evaluada, por los alumnos y superiores.
+
+8) Que el trato con sus colegas y superiores haya sido siempre cordial y ameno.
+
+9) Que al nuevo jefe de UTP, no se le dejara hacer su trabajo.
+
+10) Que nunca la actora haya proferido amenazas, ni gritos, ni aspavientos.
+
+11) Que la carta de despido contenga hechos falsos, ni cumple con las formalidades legales y que haya hecho imputaciones genéricas.
+
+HECHOS RECONOCIDOS
+
+1) Que con fecha 1° de Marzo del año 2019, la actora ingresó a prestar servicios, desempeñándose a la fecha del término de la relación laboral como Coordinadora de Educación Pre-Básica y Educadora de Párvulos, del Kinder A, en el establecimiento educacional La Providencia de Linares de la demandada.
+
+2) Que su remuneración ascendía a la suma de $ 1.834.345.
+
+3) Que la actora fue despedida a partir del 19 de Abril del año 2022.
+
+II.- ALEGACIONES Y DEFENSAS.
+
+EN CUANTO AL DESPIDO
+
+1) Niega en forma categórica la afirmación que la demandante que su despido sea injustificado, basado en hechos falsos y exagerados y no ajustado a la realidad.
+
+2) En efecto en relación al despido señalo que el 19 de Abril del presente año, la actora fue desvinculada, conforme carta de despido, que se le entregara cumpliendo las formalidades legales, por la causal del Nº 7 del artículo 160 del Código del Trabajo, esto es incumplimiento grave de las obligaciones que le impone el contrato.
+
+Los fundamentos, de la causal invocada, tal como se expresó en la carta de despido, consisten en los hechos acontecidos el día 11 de Abril del año 2022, en donde la actora se encontraba en una reunión de Coordinación Académica, con el Equipo de Gestión del Colegio, encontrándose presente Madre María Julia Sanzana, Administradora, Ema Benítez, Directora, Jaime Gatica Jefe Técnico, Ana María Muñoz, Coordinadora Primer Ciclo y ante las explicaciones que se le dieron, respecto del Método Singapur, que se implementó en el Colegio desde al año 2016, en una conducta que ya se ha reiterado anteriormente de su parte, comienza a gritar destempladamente, dirigiéndose a la Directora doña Ema Benítez, señalando que no es escuchada, que hasta cuándo va a seguir con ese mismo cuento, que los Planes no sirven para nada, que la responsable de todo eso es la Directora; haciendo aspavientos con sus manos y golpeando la mesa. Los demás asistentes a la reunión tratan de calmarla, que se serene y repentinamente la actora se levanta de su asiento, toma un cuaderno y lo lanza encima de la mesa de trabajo, en una clara falta de respeto y acción de amenaza a los presentes, continuando con los gritos, moviendo los brazos y apuntando el dedo contra la Directora, amenazándola.
+
+Los gritos y malos tratos, también fueron dirigidos hacia doña Ana María Muñoz, increpándola, ofuscada y señalándola con el dedo cómo responsable que no es escuchada, que no se le toma en cuenta, tratándola en forma inadecuada.
+
+Entre aquellas cosas que señaló la actora en esa reunión, se encuentran expresiones dirigidas a la directora del Colegio Ema Benítez, como “…tú Ema siempre defiendes a la Ana María, quien siempre ha querido tu cargo, es una hueona mala y tú no te dai cuenta, ella te quiere cagar con el puesto, eres una tonta, que te dejas manipular y no sabes con el tipo de gente que trabajas, tú sabes por qué mi tío Jaime está aquí, él va a escalar muy alto, porque tú no haces las cosas bien y la gente no te quiere, date cuenta que mi tío viene a escalar alto. Asimismo la actora, empuña su mano dejando levantando el dedo del medio y se lo muestra a doña Ema Benítez, entre diversos garabatos como hueona, en un tono más elevado de voz.
+
+Además transcurrida una hora de los hechos relatados en el párrafo anterior, la actora va a la oficina de la Directora y nuevamente, delante de la Inspectora General y Coordinadora de Enseñanza Media, comienza a gritarle, señalado que no la quiere oír, que en realidad no ha gritado, imputándole que no le hace caso a ella, ni a las cuestiones que le plantea, amenazándola con sus brazos y actitudes, y no obstante señalársele que se calmara, la actora persiste en su actitud, indicando, que nadie la hace callar y continúa con su inapropiada actitud, elevando aún más su tono de voz, exagerando todas sus expresiones diciendo “..puta la wea, ustedes no me entienden”, señalándola con el dedo, para finalmente retirarse gritando.
+
+Agrega la carta de despido que las apreciaciones que la demandante expresó en contra del Método Singapur, es una muestra más de su conducta frecuente de no aplicar los planes que deben ejecutarse en el aula, lo que ha conllevado a que su trabajo sea deficiente.
+
+La actitud de la demandante de tratar destempladamente y amenazar a sus colegas y superiores en el Colegio y de dirigirse a ellas, no era nueva, sino una actitud permanente de su parte, como referirse respecto de Madre María Julia (la Administradora del Colegio), diciendo “Esta monja hueona, por qué no se va luego… esta no va a durar, porque está muy enferma” y además le hacía constantes morisquetas y comentarios despectivos a los colegas, sobre Madre María Julia. Señalando a una docente del colegio que “…el próximo año no seguirás de educadora, porque no eres capaz de sobrellevar el curso”, “No tienes las capacidades para desempeñar el rol de educadora”, “ya tengo elegida a la persona que tendrá el cargo de educadora el próximo año”, “volverás a ser técnico pues no te la puedes como educadora”, “te puedo ofrecer otro puesto en la básica o puedes renunciar”, trato despectivo, autoritario y conflictivo, generando que sus comentarios lastimaran a algunas educadoras hasta llegar al llanto, y su trato entre pares, era con gritos y vocabulario soez.
+
+Los hechos antes descritos, configuran un incumplimiento grave de las obligaciones a su contrato de trabajo y asimismo las obligaciones de respeto y consideración, en el trato que deben dispensarse quienes son trabajadores y autoridades del Colegio y finalmente un trato desconsiderado hacia sus colegas, viola asimismo su conducta el contenido ético del contrato de trabajo.
+
+Además dichos hechos importan una infracción al Reglamento Interno de Orden Higiene y seguridad del Colegio, en particular del Nº 11, 12, 14 del artículo 147, Nº 3, 12, 13 del artículo 148 y del Reglamento de Higiene y Seguridad Nº 12 del artículo 217.
+
+Finalmente se le informó a la actora, en dicha carta de despido, que conforme a lo dispuesto en el inciso 5° del artículo 162 del Código del Trabajo, sus cotizaciones previsionales se encuentran al día y han sido íntegra y oportunamente enteradas en las instituciones previsionales que corresponden, adjuntándole los certificados en el que consta el pago de sus cotizaciones previsionales durante el tiempo que prestó sus servicios en la institución. Finalmente se le indicó que el finiquito estaría a su disposición para su firma el 25 de Abril del año 2022.
+
+De este modo a la trabajadora se le han imputado hechos relativos a la conducta consistente en gritos, malos tratos, y amenazas sostenida a los participantes a la reunión de Coordinación Académica, Equipo de Gestión del Colegio, realizada el 11 de Abril del año 2022, en donde se trató el método Singapur.
+
+Situación que por su parte se repite nuevamente, transcurrida una hora, en la oficina de la Directora, persistiendo en su actitud. Existiendo además una conducta frecuente de no aplicar los planes que deben ejecutarse en el aula, por lo que su trabajo era deficiente.
+
+Los hechos que configuran un incumplimiento grave de las obligaciones a su contrato de trabajo, cláusula segunda, que dispone que la trabajadora “se obliga a cumplir las normas e instrucciones de carácter técnico pedagógico y administrativo que imparta la dirección del establecimiento, debiendo desarrollar sus actividades de acuerdo a los planes y programas aprobados por el Ministerio de Educación, asimismo se obliga a cumplir los principios y valores propios del establecimiento educacional, lo dispuesto en su proyecto educatico, en los estatutos y reglamentos.”, y en Anexos de contratto de trabajo, de fecha 1° de Marzo del año 2021 y 2022, cláusula Quinta, “Será obligación esencial e irrenunciable dar estricto cumplimiento al reglamento interno de orden higene y seguridad, al reglamento de convivencia escolar y a toda normativa vigente, documentos que la trabajadora declara conocer y que se entienden incorporados al presente contrato, en especial: 1)Concurrir todos los dias a sus labores; 2)Desempeñar las labores contratadas en forma fiel y eficiente; 3)Usar siempre y en todo lugar los implementos de seguridad que corresponda según la naturaleza del trabajo que este desempeñando; 4)Laborar sin tomas las medidas de seguridad correspondientes o sin utilizar los elementos de seguridad adecuados, sera considerado incumplimiento grave de las obligaciones de las obligaciones que impone el contrato; 5)Anteponer a su interés personal el interés y bienestar de la empresa y sus trabajadores.”
+
+Además la conducta de la actora importa una infracción al Reglamento Interno de Orden Higiene y seguridad del Colegio, en particular del Nº 11º, 12º, 14º, del artículo 147, Nº 3º, 12º, 13º del artículo 148 y del Reglamento de Higiene y Seguridad Nº 12 del artículo 217.
+
+De este modo se logra establecer la existencia de una norma contractual y normas reglamentarias, cuyo incumplimiento se imputa a la trabajadora en la carta de despido, y que en definitiva tienen por objeto resguardar de respeto y consideración, en el trato que deben dispensarse quienes son trabajadores y autoridades del Colegio.
+
+El artículo 160 del Código del Trabajo faculta al empleador para poner término al contrato, cuando éste incurre en alguna de las causales que el propio precepto establece.
+
+Todas ellas constituyen hipótesis de mala conducta del trabajador, es decir, importan una inobservancia de sus obligaciones contractuales o de la buena fe contractual. Al ser causales subjetivas, no basta que el trabajador incurra objetivamente en el comportamiento descrito en la causal, sino que, además, dicho incumplimiento debe ser susceptible de imputación subjetiva, esto es, atribuible a dolo o malicia del trabajador o, en su caso, a culpa o negligencia del mismo.
+
+Esta causal de despido exige la concurrencia de dos elementos copulativos para despedir justificadamente al trabajador, que son: a) el incumplimiento de una obligación contractual por parte del trabajador y b) que el incumplimiento contractual sea grave, es decir, de una magnitud o entidad tal que determine necesariamente el quiebre de la relación laboral.
+
+Para determinar la gravedad del incumplimiento, se ponderan, de acuerdo a las reglas de la sana crítica, circunstancias como el carácter ocasional o permanente de la infracción, particularmente en relación con los años de servicio del trabajador, la conexión del deber infringido con las funciones propias del cargo que desempeñe el trabajador y su incidencia en la marcha normal de la empresa, el perjuicio que la falta ocasiona a la contraparte y si ésta, al percibir tal perjuicio reacciona con el grado de inmediatez que su entidad amerita, etc.
+
+En lo referente a la gravedad esta causal, se vincula con el desempeño del trabajador y el contexto de la relación del trabajo, de la situación del trabajador en la empresa, el cargo y naturaleza de las funciones que desempeñaba y la mayor o menor responsabilidad en la imputación formulada.
+
+La gravedad de la conducta de la demandante, deja en evidencia su falta de serenidad, autocontrol y equilibrio para desarrollar su labor, especialmente cuando ella trabaja con menores de edad y personal a cargo.
+
+En dicho sentido, debe considerarse que el incumplimiento cometido por parte de la demandante indudablemente es una conducta que pone en entredicho la confianza que debe existir entre las personas y la institución.
+
+Conducta que además es grave ya que no tiene un carácter ocasional, sino permanente y continua para con sus pares y superiores y ha provocado una incidencia en la marcha normal del colegio, por alterar gravemente el clima laboral del Colegio,
+
+Así las cosas, debe tenerse en consideración que en la especie, la demandante corresponde a una trabajadora con tres años de antigüedad en la institución, con un cargo que se enmarca dentro de la dirección, y que consiste en acompañar el proceso de toma de decisiones pedagógicas, por lo mismo, el vínculo de confianza existente entre ésta y mi representada es mucho más fuerte.
+
+La conducta de la trabajadora constituye un impedimento para que continúe en el colegio, puesto que pone en peligro el equilibrio de intereses jurídicos establecidos a través del contrato de trabajo.
+
+En efecto los actos acontecidos el día 11 de Abril del año 2022, constituyen por sí sólo, hechos de la entidad suficiente para ser considerados grave, atendido en la existencia de perjuicios al afectar a otros trabajadores, existiendo una infracción a los deberes de buena fe y de lealtad de parte del trabajador.
+
+El trabajador tiene la obligación de guardar fidelidad a su empleador para no defraudar la confianza depositada a su respecto. De ello se sigue que al infringirse este deber no es la cuantía del daño que pudo existir lo que caracteriza o agrava la falta puesto que no cabe distinguir grados de pérdida de confianza. En consecuencia, para la determinación de la gravedad, no cabe aplicar una valoración gradualista del incumplimiento, pues la confianza no admite grados ni matices.
+
+La actuación señalada de la actora, en su contexto general, y obvio es un incumplimiento grave de las obligaciones que el contrato de trabajo imponía a la demandante, donde transgredió deberes básicos y esenciales que impone toda obligación de índole laboral, transgrediendo deberes de conducta, agrediendo verbalmente a compañeros de trabajo y jefaturas, con una actitud violenta, poniendo en peligro la seguridad e integridad de los trabajadores y del colegio.
+
+Lo que indiscutiblemente hace perder la confianza tanto en su persona como, en su calidad de trabajadora, siendo imposible mantener el vínculo laboral con alguien que realiza dicho tipo de conductas, que controvierte las obligaciones de respeto y consideración, en el trato que deben dispensarse quienes son trabajadores del Colegio, viola finalmente su conducta el contenido ético del contrato de trabajo.
+
+Así las cosas ha existido un incumplimiento en este caso que reviste la gravedad exigida por la ley para la configuración de la causal del artículo 160 Nº7 del Código del Trabajo.
+
+2) EN CUANTO A LAS PRESTACIONES DEMANDADAS:
+
+1) Indemnización sustitutiva de aviso previo, conforme con lo expuesto, desde el momento que el despido de la actora es plenamente justificado y ajustado a derecho, no corresponde el pago de dicha prestación.
+
+2) Indemnización por 3 años de servicios, de acuerdo con lo expuesto nada se adeuda por este concepto desde el momento que el despido de la actora es plenamente justificado y ajustado a derecho.
+
+3) Recargo legal establecido en la letra b) del artículo 168 del Código del Trabajo, conforme lo dicho, este es improcedente, desde el momento que el despido de la actora es plenamente justificado y ajustado a derecho.
+
+4) Indemnización del artículo 87 del estatuto Docente, atendido que el despido de la actora es justificado y se ha ajustado a derecho no tiene aplicación la norma señalada.
+
+5) Feriado legal proporcional, no procede.
+
+En efecto, el artículo 80 del D.F.L N° 1, de 1996, del Ministerio de Educación, que Fija texto refundido, coordinado y sistematizado de la ley N°19.070 que aprobó el estatuto de los profesionales de la educación y de las leyes que la complementan y modifican, dispone en su inciso final que el personal docente hará uso de su feriado legal de acuerdo a las normas establecidas en el artículo 41 de la presente ley.
+
+El artículo 41 del mismo cuerpo legal señala el feriado de los profesionales de la educación que se desempeñen en establecimientos educacionales, será el período de interrupción de las actividades escolares en los meses de enero a febrero o el que medie entre el término del año escolar y el comienzo del siguiente, según corresponda.
+
+El artículo 23 del Decreto N° 453, de 1991, del Ministerio de Educación Pública, que Aprueba Reglamento de la Ley N°19.070, señala que por año escolar, se entiende el período fijado de acuerdo a las normas que rigen el calendario escolar y que por regla general, abarca el período comprendido entre el 1° de marzo y el 31 de diciembre de cada año.
+
+Así los docentes tienen feriado sólo en los términos establecidos en la referida norma, o sea en el período fijado por ella, y la propia ley no señala no ha previsto que el docente pueda hacer uso de ese beneficio en cualquier otra oportunidad del año.
+
+Además no tiene aplicación supletoria el Código del Trabajo, en materia del feriado proporcional, ya que el inciso 1 del artículo 78 del D.F.L. N°1, de 1996, dispone que el Código del Trabajo, puede aplicarse a las relaciones laborales entre profesionales de la educación y los empleadores del sector particular, en todo aquello que no esté expresamente establecido en el Título de esa ley, en que está inserto el referido artículo 78, ya que existe un precepto que regula la materia al establecer con precisión cuál es el período de sus feriados o vacaciones.
+
+Así lo ha sostenido la Dirección del Trabajo, en dictamen Ord. 4665/291 de 8 de Septiembre del año 1993, N° 2577/143 de 17 de Mayo del año 1999, Ord. N° 1802 de 4 de Abril del año 2016 y Ord. N° 147 de 10 de Enero del año 2018.
+
+6) Respecto a los intereses, reajustes, y costas, se rechaza esta pretensión.
+
+Así las cosas la demandada nada adeuda a la trabajadora y solicita se rechace la demanda en todas sus partes.
+
+Concluye solicitando tener por contestada la demanda de despido injustificado, en los términos precedentemente expuestos, declarar que el mismo es procedente, ajustado a derecho y justificado y solicito rechazar la demanda en todas sus partes, porque el despido de la actora fue justificado, con expresa condenación en costas.
+
+Cuarto: Actuaciones procesales. Con fecha 8 de noviembre de 2022 se realizó audiencia preparatoria, en dicha oportunidad se llamó a las partes a conciliación, la que no se produce.
+
+Acto seguido se recibió la causa a prueba fijándose los hechos a probar:
+
+1. Existencia de relación laboral entre las partes. Estipulaciones del contrato de trabajo, vigencia del mismo y última remuneración.
+
+2. Causal de término del contrato de trabajo, contenido de la carta de despido. Actos y Hechos en los que se funda. Procedencia legal de la misma y cumplimiento de formalidades legales.
+
+3. Prestaciones adeudas al trabajador al término de la relación laboral. Naturaleza y monto de las mismas.
+
+La audiencia de juicio se realizó en sesiones los días 10/01/2023, 24/04/2023; 16/11/2023 y 28/02/2024, incorporándose la prueba rendida por las partes, quedando la causa en estado de fallo.
+
+Se fijó el día de 16 de marzo de 2024 para la actuación de notificación de la sentencia.
+
+Quinto: Prueba de la parte demandada. Que la parte demandada en la audiencia de juicio, a fin de acreditar sus alegaciones y defensas incorporó los siguientes medios de prueba:
+
+Prueba documental.
+
+1. Contrato de trabajo entre las partes de 1 de marzo ° del año 2019 y anexos de 1° de abril del año 2019, 30 de junio del año 2020, 1° octubre del año 2020 y 1° de marzo del año 2022.
+
+2. Carta aviso despido de 19 de abril del año 2022, firmada como Recepcionada por la demandante.
+
+3. Comprobante de aviso de termino de contrato de la Demandante, ingresado al portal de la dirección del trabajo El 19 de abril del año 2022, n° folio 0703/2022/12924.
+
+4. Carta a inspección del trabajo, comunicando el termino de Contrato de la demandante, ingresada el 19 de abril del año 2022, n° expediente e79512/2022, a la que se adjunta la copia de la Carta de despido firmada por la demandante.
+
+5. Reglamento interno de la demandada.
+
+Prueba Testimonial:
+
+a.- Comparece a declarar doña MARÍA CAROLINA YÁÑEZ CASTILLO, RUT 14.022.407-3, quien debidamente juramentada indica que conoce a las partes de este juicio, porque la demandante fue su colega en el colegio Providencia, ella fue coordinadora de pre-básica, llegó como co- docente después como coordinadora y ahí la conoció. La testigo es Inspectora General. En el comienzo la demandante acompañaba a la profesora titular en primero y segundo básico, en su segundo año tomó el rol de educadora de un curso y el tercer año fue coordinadora del ciclo pre- básica, también realizaba labores en aula. Fue despedida en 2022, el día 19 de abril, por incumplimiento de sus funciones, por una falta de respeto hacia sus pares y hacia la directora y las autoridades del colegio. Estas actitudes se produjeron desde que ella llegó, al comienzo no tenía una buena relación con algunas personas, era una persona que se exaltaba y enojaba fácilmente, pero el hecho principal que ocurrió, indica “Yo estaba en la inspectoría y ella llegó a la Inspectoría, muy enojada, de una reunión, venía molesta, el día 11 de abril de 2022, yo estaba en la inspectoría con unas estudiantes y yo le pedí a las niñas que salieran y le pregunté Andrea, qué te pasó, me dijo ´dejé la cagá en la reunión de coordinación académica, porque no quieren entender que el método Singapur no sirve para nada´ y le preguntó dónde estaba a lo que respondió que era una reunión, en donde estaba la directora, estaba la monja y estaba su tío Jaime, ellos no quieren entender que implementar el método Singapur es que el colegio pierda plata, pero la Ema sigue defendiendo a la Ana María, no quiere hacerle caso a mi tío Jaime. Y la Ana María es una maricona que lo único que quiere es quitarle su puesto y si no quiere hacer caso le van a quitar el puesto, porque mi tío Jaime quiere ser director y viene a escalar lejos. Entonces le preguntó qué fue lo que pasó, y dijo “ellos quieren seguir con el Singapur, yo no quiero y la Ema sigue defendiendo a la Ana María. La monja se fue, ellas se quedaron ahí, yo estaba enojada”, entonces ella le dijo a Andrea que se fuera a su casa, que cuando estuviera más tranquila volviera a hablar con la directora, “están tus hijos en el colegio, no es bueno que te vean así, vuelve al parvulario y después vienes a conversar con ella”, le dijo que no, que ella iba a volver porque quería aclarar la situación con la directora. En ese momento ella se fue al parvulario. Concluyó la reunión y la directora y la coordinadora académica de enseñanza media bajaron a la oficina y ella también entró. En ese momento Andrea vuelve, se asoma en la puerta y le pide permiso a la directora para ir al médico y la directora le dijo que bueno que vaya al doctor. Ahí ingresó al a oficina y le dice a la directora “Ema, hasta cuándo defiendes a la Ana María, ella te quiere cagar, cómo tan weona que no entiende, que ella quiere puro dejar la cagá en el colegio”. La testigo le pide que se calme, que ya le dieron permiso para salir al doctor, y en ese momento ella se cambia de lugar en la oficina, se pone frente al escritorio y nuevamente la increpa, que no siga defendiendo a Ana María, que su tía Any se lo había dicho muchas veces, que la Ana María la quería cagar con el puesto y que ella no le hacía caso y que era una tonta, después le levanta el dedo de al medio, y sale de la oficina. Explica que doña Ema es la directora del colegio, Ema Benítez Valdivieso, Ana María Muñoz Quezada, es la coordinadora del primer ciclo. Ana María no estuvo presente en la segunda oportunidad, en donde Andrea entra a la oficina de dirección, estaban la directora Ema Benítez, Bárbara Barros Benítez que es la coordinadora de enseñanza media y ella, inspectora. Estaban todas en una mesa que hay en la oficina, que está cerca de la puerta y al fondo de la oficina está el escritorio de la directora.
+
+Indica que no era la primera vez que se dirigía con estas malas palabras respecto de la “monja”. Especialmente desde que llegó su tío a trabajar al colegio. El gesto con el dedo iba dirigido a la directora del colegio, la Sra. Ema. Indica que el cambio de educadora a coordinadora, se debe a una solicitud que hizo su tía, que era la antigua administradora, a la directora. La tía se llama Ana Rosa Gutiérrez, fue administradora hasta el año 2020. Preguntada sobre repercusiones en la directora del colegio respecto de la actitud de la demandante, indica que “La Señora Ema no dijo nada, solo la quedó mirando y no le dijo nada, durante todo el tiempo que Andrea se dirigió a ella, la Señora Ema no le dijo nada”. Cuando salió quedaron muy impactadas, porque en los 15 años que lleva trabajando en el colegio, es la primera vez que ve estas actitudes de parte de una colega, contra las colegas o contra un directivo del colegio o hacia cualquier integrante de la comunidad educativa del colegio, porque el ambiente laboral que hay en el colegio siempre ha sido reconocido por todos los que trabajamos en el colegio. Por eso le llamó la atención, porque estas conductas no son normales, no están acostumbrados a escuchar garabatos, groserías, ni gestos con las manos, nunca había visto una situación así en los 15 años que lleva en el colegio. Dice que la Sra. Ema quedó afectada, que el problema venía hace tiempo pero no pensó que Andrea iba a llegar a tanto, y que en los 35 años que lleva de servicio en el colegio nunca nadie la había tratado así, ese día ellas tenían Consejo, y lo suspendieron, porque la directora no fue capaz de subir al Consejo con los profesores, y se retiraron todos del establecimiento.
+
+Contrainterrogada indica que fue nombrada coordinadora, por la directora del colegio, en diciembre del año 2020, indica que es por solicitud de su tía. No existieron amonestaciones respecto de Andrea, pero si hay registros de lo que informaron las educadoras respecto de los malos tratos que recibían de Andrea, que usaba mal lenguaje, que las citaba fuera del horario del trabajo, una educadora salió con licencia y otra renunció al colegio, por los malos tratos que recibía de Andrea. Respecto del reglamento interno, se conversó con ella, se levantaron acta y hubo compromisos en que dijo que las situaciones no se iban a repetir. Indica que no se efectuaba evaluación docente.
+
+b. Comparece doña BÁRBARA MARÍA JOSÉ BARROS BENÍTEZ, RUT 13.790.595-7, quien previamente juramentada indica que conoce a la demandante porque fueron colegas en el colegio La Providencia, en donde se desempeña como coordinadora académica de enseñanza media y profesora de Filosofía. La demandante ingresó en 2019 como asistente de aula, luego tomó un curso como educadora de párvulos y, al jubilar la colega titular que coordinaba en pre-básica, Andrea asumió ese rol. Andrea no sigue trabajando en el colegio porque fue despedida en abril de 2022. Indica que el despido se relaciona con una reunión de fecha 11 de abril, que era del Jefe de UTP de ese tiempo, Jaime Gatica, con las coordinadoras de primer y segundo ciclo, la directora y la sostenedora que es madre María Julia, en esa reunión habían puntos a tratar. “Yo tenía que atender a otra gente que venía de la universidad, así que llegué tarde a la reunión” y cuando llega habían acontecido todos los hechos. Ella no presenció, pero se informó cuando llegó a la reunión que se había tocado el tema sobre una asesoría del método Singapur, donde Andrea estaba muy molesta, se paró, golpeó la mesa, se fue antes, cuando la testigo llega a la reunión estaban “todos con las caras super extrañas”. El mismo día pero en la tarde, estaban en dirección entregando unos documentos, ella, doña María Carolina y la Sra. Ema, y llega Andrea, todavía exaltada, muy enojada con la directora, comienza a tratarla a garabatos “hasta cuando vas a aguantar estas webadas, esta gente lo único que quiere es perjudicarte” se refiere a Ana María, otra colega que también estaba en la reunión. “La Ana María lo único que quiere es cagarte” La Sra. Ema le decía “baje las revoluciones, cálmese” y Andrea informa que va a ir al médico, entonces la directora le dice que vaya, que le va a hacer bien, que sus niños están afuera, que los tome, y los lleve para la casa, que no es bueno que la vean así, y esto lo tomó peor, siguió con el tema de los garabatos, y terminó levantando el dedo del medio y dando un portazo. Para la comunidad escolar, sus conductas están contra todo el ambiente de respecto que mantienen, entonces considera que esa es la razón principal por la que fue despedida la demandante, falta de respeto hacia la dirección del colegio, en la reunión contra la Madre sostenedora, y también contra los colegas. Le decía a la directora que no fuera weona. En la reunión de la tarde todas las expresiones eran en contra de la directora. Indica que la directora siempre mantuvo una actitud conciliadora, intentando bajarle el perfil y que ella se calmara, pero cuando se fue y les levantó el dedo, quedó perpleja, no tuvo opción de reaccionar. La Sra. Ema quedó impactada, luego triste, y asombrada, lo que ve indica por su expresión facial cuando Andrea sale de la oficina, no podía hablar.
+
+Señala que existieron actitudes anteriores, por ejemplo “una colega que trabajaba con ella, de pre básica, trabajaba con la demandante directamente, en tiempo de pandemia habían reuniones en línea en donde utilizaba el mismo lenguaje, no respectaba los horarios. La colega manifestó que recibía maltrato directo de parte de la Sra. Andrea, ofendiéndola constantemente, minimizando y desvalorizando el trabajo que ella efectuaba”. Lo sabe porque la colega Marión Espinoza lo informó a dirección, en el año 2022.
+
+El cambio de educadora de párvulos a coordinadora de pre básica, tiene relación con su relación directa con la sostenedora de ese momento, la Madre Ana Rosas, que es su tía materna.
+
+Contrainterrogada indica que desconoce si hubo amonestaciones respecto de Andrea. Tampoco sabe si se activaron los protocolos del reglamento interno. Indica que a los docentes si se les hace evaluación, al término del semestre.
+
+c.- Comparece a declarar doña ANA MARÍA MUÑOZ QUEZADA, C.I. 12.492.736-6, quien previamente juramentada indica que conoce a Andrea Soto porque fue su colega en el colegio providencia, donde trabajaban. Ella ingresó como co- docente, asistente de aula, la testigo es coordinadora académica del primer ciclo, desde primero básico hasta 4to básico, está a cargo de la parte académica, curricular del ciclo. Andra entró en el 2019 como asistente de aula, al primer ciclo. Le ayudaba a la profesora titular. Mantuvo su relación laboral hasta el año 2022. Un año estuvo como asistente de aula, luego pasó a ser educadora de párvulos en 2020, en 2021 y 2022 asumió como coordinadora académica de párvulos, y también ejercía como educadora de uno de los cursos de pre básica. “Pasa que ella es sobrina de una madre del colegio, de una de las hermanas, que fue coordinadora y sostenedora durante algunos años, cuando estuvo en mi ciclo (primer ciclo) siempre atribuía sus actitudes poco éticas a que tenía la protección de su tía, la madre Any”. Cuando dejó de ser asistente de aula, fue educadora y luego coordinadora, porque su tía la dejó en ese cargo. Ejerció estas funciones hasta abril o mayo de 2022, dejando de trabajar porque fue desvinculada, despedida, porque el 11 de abril de 2022 tuvieron una reunión académica, a las 4 de la tarde, de los ciclos, para ver y analizar unas asesorías y capacitaciones que se estaban realizando en sus ciclos pre básica hasta cuarto básico, en ese reunión estaba el jefe de UTP, quien es tío de Andrea, y también fue nombrado por la madre Ana, y la directora y la madre María Julia que era la sostenedora en ese año. Se estaba conversando sobre la asesoría y capacitación del método Singapur, que lleva muchos años en el colegio, y es para enseñanza de matemáticas, desde prekinder hasta cuarto básico, con las profesoras, las estudiantes y mucho material disponible para las niñas, y Andrea de forma inesperada quería sacarlo. No le pareció que continuaran con el proyecto y de una manera muy irreverente, irrespetuosa, se expresó contra todos, atacándolos. En medio de la reunión cuando la testigo argumenta por qué era necesario mantener el método Singapur, la demandante comienza a decir que no le parece, que no está de acuerdo y que no va a permitir que sus profesoras continúen con el proyecto. La madre María Julia, que en ese momento era la sostenedora y había informado que se iba a retirar a un reunión en el obispado, le aclara que el proyecto va a continuar porque están todos los fondos destinados a ese proyecto y por la continuidad que tiene. Madre María Julia se para de la sala de reuniones, le dice eso, y va saliendo en la puerta, cuando Andrea dice “a mí no me importa lo que diga esta monja” entonces con la directora quedamos impactadas, la directora le dice “Andrea, por favor, mida sus palabras, cómo se refiere así a la madre sostenedora” y Andrea, de manera abrupta, le dice “Yo ya te dije que no voy a aceptar que se de el método Singapur en mi ciclo, porque no estábamos de acuerdo” (aludiendo a su tío, el Jefe de UTP) y lanza el cuaderno, tira la silla hacia atrás, golpea la mesa y dice “la que se retira de esta reunión soy yo”. Se para y va hacia donde la directora, que estaba en una esquina, la directora le dice que se calme, pero ella va físicamente, se acerca y le dice “estoy aburrida que tu no me hagas caso” y va hacia la directora, la empieza a apuntar con el dedo, “yo estaba al lado, entonces tomo a la directora del brazo y la corro para atrás porque nos sentimos muy intimidadas por la actitud” … “ella se tiró contra nosotros, yo sentí esa sensación de que nos iba a atacar, además que ella es grande y llegó muy cerca de nosotras” y empezó a gritar “Me tienen aburrida, tú le haces caso a esta weona (refiriéndose a mi)”. La testigo se queda todo el rato muda, estupefacta con la directora, Andrea sale y da un portazo, “nos sentamos y tiritábamos, las dos”, la directora dice “no puedo creer lo que aquí pasó”, el jefe de UTP dice que él le encuentra razón, porque no la dejaron hablar, y en ese momento entra Bárbara, que es la coordinadora de enseñanza media, y pregunta qué pasó, y le cuentan la situación. Estaban conversando lo que había pasado, indica que le expresó al tío de la demandante “Jaime, yo llevo 27 años trabajando en La Providencia, tú también conoces cómo es el funcionamiento del colegio y nunca habíamos visto esta situación, menos expresarse tan vulgarmente frente a las autoridades del colegio”, le contaron la situación a Bárbara, que venía incorporándose y la directora dice que no soporta más, y esperaron unos 10 minutos para que Andrea pudiera alejarse. Fueron con Bárbara a dejar a la directora a su oficina, ahí estaba Pabla y la inspectora, y la testigo se retira a su oficina, y luego se retira del colegio. Indica que llegó muy mal a su casa, que le contó a su esposo y había decidido en ese momento hizo una carta que le iba a presentar a las 8 de la mañana a la Madre María Julia y a la directora, para expresarles que ella no quería reunirse nunca más con Andrea, ni con Jaime Gatica, en ninguna reunión académica ni de directivos, que les solicitaba eso, porque no quería exponerse nuevamente a las situaciones vividas, no se iba exponer nuevamente a las faltas de respeto. Esa reunión fue el día siguiente a las 8 am, y la directora cita a todo el equipo de gestión, a la inspectora, las coordinadoras de educación básica y media y a la encargada de convivencia escolar y le cuentan la situación que se vivió en la tarde, cuando Andrea llega a pedirle permiso a la directora para ir al médico y vuelve a tratarla a garabatos. Estos hechos se los contó la directora. Cuando Andrea fue asistente de aula, la profesora a la que tenía que acompañar, Claudia Molina, renunció porque Andrea la hostigaba y la trataba vulgarmente, hablando a garabatos con groserías. Y hay actas de esto, donde Andrea decía que a ella nadie le decía nada porque su tía era la sostenedora y, efectivamente, Claudia estaba muy angustiada y era una angustia permanente porque no se le podía decir nada. La tía era Ana Rosas Gutiérrez, quien estuvo hasta el 2021.
+
+Se hacen evaluaciones en el colegio de los profesores, excepto en el periodo de pandemia, los años 2020 y 2021.
+
+Contrainterrogada indica que trabaja en el colegio desde 1996, y que respecto de las actas efectuadas por las situaciones vividas en la época en que era co docente, se le comunicaron a la directora. Los hechos ocurrieron en el año 2019. Esa información consta en el cuaderno de coordinación de la testigo. Indica que esas actas están en las actas de coordinación académicas, y luego, en la reunión de equipo de gestión socializa estas situaciones vividas y ahí a directora toma decisiones sobre cómo abordar la situación. Formalmente si, se abordó, se citó a conversar, se firmó y se dejó registro en el cuaderno de coordinación académica. Indica que el reglamento de convivencia escolar es para las estudiantes. Las evaluaciones si se registraron, se informaban en papel, evaluaban incluso las alumnas a los docentes.
+
+Sexto: Prueba de la parte demandante. Que la parte demandante en la audiencia de juicio incorporó en forma legal los siguientes medios de prueba:
+
+Prueba Documental:
+
+1) Carta de despido de fecha 19 de Abril de 2022.
+
+2) Anexo de Contrato de Trabajo de fecha 01 de Marzo de 2022.
+
+3) Reclamo ante la Inspección del Trabajo de fecha 19 de Abril de 2022.
+
+4) Liquidaciones de sueldo de Diciembre 2021, Enero 2022, Febrero 2022 y Marzo 2022.
+
+Prueba confesional
+
+Comparece a declarar, en representación de la demandada, doña Ema Benítez Valdivieso, C.I. 8.974.404-0, quien señala que conoce la carta de despido que se remitió a doña Andrea Soto, quien llegó al colegio el año 2019, después de haber sido despedida anteriormente, volvió al colegio. El trabajo fue deficiente porque tuvieron muchos reclamos de parte de las educadoras, por el trato, las citaba en horas que no correspondía, les decía garabatos, las tenía hasta las 11 de la noche en reunión. De dichas situaciones solo se efectuaron conversaciones verbales con Andrea, eso fue porque en ese tiempo la administradora del colegio era su tía, entonces era muy difícil cursarle algún amonestación porque su tía era la jefa. Indica que antiguamente existía un sistema de evaluación de los profesores, que se eliminó cuando estuvo la tía y durante el periodo de pandemia, pero se retomó el año 2023. A Andrea no se le hizo ningún tipo de evaluación, pero si se le expresaron estas cosas en conversaciones que doña Ema tuvo con la demandante. Los hechos fueron por una reunión de coordinación académica, que citó Jaime Gatica. Estas reuniones eran frecuentes, casi todos los lunes. Indica que en estas reuniones se podía no estar de acuerdo con los colegas, tener diferencias de opiniones, pero nunca al punto en que se llegó en esa reunión, en los 35 años que lleva en el colegio, nunca nadie había actuado como actuó la Sra. Andrea. En otra ocasión ocurrió lo mismo “Ella muy molesta levantó la voz, levantaba las manos, pero las colegas que estaban sentadas al lado de ella, la calmaron”.
+
+Prueba testimonial.
+
+1.- Comparece a declarar don JAIME ADRIÁN GATICA JORQUERA, RUT 10.215.387-1, quien indica que conoce a las partes de este juicio y que entiende que el juicio es porque la dirección del colegio acusó a Andrea de haber faltado el respeto lo que llevó a su despido. Respecto del despido sabe que todo se inició en una reunión, que citó el, como Jefe de UTP del colegio, en dicha reunión participó la dirección del colegio, la administradora, la inspectora general, las jefas de las unidades técnico pedagógicas de básica, media y párvulos, porque la idea era que le entregaran información sobre cómo iban avanzando en el proceso Técnico Pedagógico, las reuniones tenían un tenor “violento” en donde costaba darse a entender, porque todas las personas hablaban a la vez. Era el primer año en que el trabajaba como Jefe de UTP. La directora, que era quien tenía más autoridad en la reunión no actuaba como moderadora en la reunión y permitía que las personas cruzaran información y era difícil darse a entender o que escucharan lo que se estaba diciendo en ese momento, porque cada persona buscaba hacerse escuchar y eso obligaba a que empezaran a levantar la voz. En ese ambiente de reunión que había, salió el tema de los programas que se estaban trabajando en el establecimiento, y especialmente le interesaba saber por qué estaban trabajando con más de un programa, y estos programas se sobreponían. Ahí intervino Andrea, como coordinadora del ciclo, quien opinó que sobraba trabajar con un programa sobre otro y que ella encontraba que el programa ministerial era bueno para trabajar y que el otro programa producía confusión en los alumnos, esto no le pareció a la religiosa, administradora. Entonces le dijo que “ella no quería trabajar con el lineamiento que llevaba el colegio y de lo que se trataba era de ver cuáles eran los aspectos positivos y negativos, la trató de burra”, lo que lo impresionó porque no era el lenguaje que se acostumbra a tratar con los docentes. De ahí surgió el problema porque Andrea le respondió, y le dijo que ella estaba dando su opinión. Indica que no vio a Andrea emitir amenazas en esa reunión. Después de eso Andrea abandonó la reunión. Él no sabe qué pasó después porque siguió haciendo la reunión que había citado. No conoce ningún problema con otros colegas, porque encontraba que ella se llevaba muy bien con los otros colegas. En el tiempo que estuvo trabajando encontraba que era una persona que aportaba bastante.
+
+Contrainterrogado indica que trabajó en el colegio entre 1997 y 2010, y luego ingresó en 2021 y renunció en junio de dicho año. Indica que la demandante es sobrina de su señora.
+
+2. CRISTINA INÉS ROSAS GUTIERREZ, RUT 11.441.383-6, quien indica que conoce a las partes de este juicio, porque trabajó entre 1992 y 2023 en el colegio y Andrea Soto es su sobrina. Indica que hubo una reunión de los coordinadores académicos con los coordinadores, en las que hubo una discusión. Las reuniones que había eran terribles, ganaba el que gritaba más, la directora era muy autoritaria, no permitía que las personas expresaran sus ideas. En esa reunión, en la que ella no estuvo, se fueron acalorando los ánimos porque Andrea dio su opinión y nos les pareció, eso fue porque usaban unos libros que se compraban y no los del ministerio. En esa reunión los ánimos estuvieron demasiado alterados. Andrea ingresó al establecimiento en 2019, como co- docente, acompañando a las profesoras en aula. Cuando la despidieron era coordinadora del nivel de párvulos. El colegio realizaba evaluación a los profesores, pero mucho tiempo atrás, las evaluaron las estudiantes, los colegas, etc., y se notificaron los resultados evaluación, pero últimamente no había evaluación, cuando había dificultad la encargada de convivencia no tomaba acta. Indica que no conoció alguna conducta de su sobrina que provocara algún problema con las colegas. Que Andrea es muy capaz y “las niñas cuando llegó Andrea, florecieron”.
+
+Contrainterrogada indica que ya no trabaja en el colegio, desde 26 de diciembre de 2023, que le entregaron sobre cerrado con carta de despido y causales de necesidades de la empresa. El contrato terminaba el día 28 de febrero de 2024. Andrea Soto es hija de su tía, sería su prima. Por parte de la dirección no se efectuaron evaluaciones a Andrea Soto. Indica que desde que Andrea fue despedida, ella fue sacada del equipo de gestión, así que no sabe si hubo investigación.
+
+Exhibición de documentos.
+
+Se tiene por exhibido el contrato de trabajo y sus anexos.
+
+En cuanto a los documentos indicados en los números 2, 3,4 y 5, la parte demandada indica que no existen, por lo que no pueden ser exhibidos. Indica que su inexistencia se debe a que no existió calificación de desempeño de la demandante, sanciones o amonestaciones durante la relación laboral. Como tampoco ha existido un proceso sancionatorio, por lo que no existe ninguno de los documentos.
+
+La demandante solicita se hagan efectivos los apercibimientos legales, por cuanto deberían existir, atendido lo que dispone expresamente el reglamento interno de la institución y a que se ha despedido a su representada aduciendo un mal desempeño, que entonces no tendría ningún criterio objetivo para calificar su desempeño.
+
+Séptimo: Concurrencia de hechos, la causal invocada por la demandada para poner término al contrato. De acuerdo a la carta de despido incorporada a juicio, la actora fue desvinculada por la demandada, con fecha 19 de abril de 2022, por aplicación de la causal prevista en el artículo 160 N°7 del Código del Trabajo, esto es, incumplimiento grave de las obligaciones que impone el contrato de trabajo, señalando el empleador que dicha decisión se fundamenta en hechos acaecidos el día 11 de abril de 2022 y que consisten en: “…, encontrándose usted en una reunión de coordinación académica, …, en una conducta que ya se ha reiterado anteriormente de su parte, comienza a gritar destempladamente, dirigiéndose a la Directora doña Ema Benitez, señalando que no es escuchada, que hasta cuándo va a seguir con ese mismo cuento, que los Planes no sirven para nada, que la responsable de todo esto es la Directora; haciendo aspavientos con sus manos, los demás asistentes a la reunión tratan de calmarla, que se serene y repentinamente usted se levanta de su asiento, toma un cuaderno y lo lanza encima de la mesa de trabajo, en una clara falta y acción de amenaza a los presentes, continuando con los gritos, moviendo los brazos y apuntando el dedo contra la Directora, amenazándola. Además los gritos y malos tratos, también fueron dirigidos hacia doña Ana María Muñoz, increpándola, ofuscada y señalándole con el dedo como responsable que no es escuchada,…, tratándola en forma inadecuada.
+
+Además transcurrida una hora de los hechos relatados…, usted va a la oficina de la Directora y nuevamente, delante de la Inspectora General…, comienza a gritarle, señalando que no la quiere oír, …, imputándole que no le hace caso a ella, ni las cuestiones que le plantea, amenazándola con sus brazos y actitudes, …, indicando que nadie la hace callar y continua con su inapropiada actitud, señalándola con el dedo, que estos hechos los comunicará a su tía Ana, para finalmente retirarse gritando…”
+
+Análisis de la causal: Para efectos de una acertada inteligencia y posibilitar que el trabajador pueda controvertir, si lo estima, los hechos en los que se funda la decisión de desvinculación, se requiere que en la carta de despido, junto con el cumplimiento de las formalidades legales, se expresen pormenorizadamente los hechos en que se funda la decisión, estimándose que a este respecto, el contenido fáctico de la comunicación de desvinculación sí cumple con este especial requisito, ya que se pormenorizan hechos del día 11 de abril de 2022 lo suficientemente específicos como para posibilitar su desacreditación, si se estima, por parte de la trabajadora aludida.
+
+Ahora bien, siendo este un caso de despido, toca a la parte demandada acreditar la concurrencia de los hechos invocados en la carta de despido, cosa que efectivamente se cumplió con la declaración de los testigos presenciales de los hechos y funcionarios del establecimiento demandado.
+
+A estos efectos doña MARÍA CAROLINA YÁÑEZ CASTILLO, Inspectora General del establecimiento demandado, indicó que el día 11 de abril de 2022, estando en inspectoría conversó con la demandante quien le dijo dejé la cagá en la reunión de coordinación académica, porque no quieren entender que el método Singapur no sirve para nada, estando la directora. Indicándole además que doña Ana María es una maricona que lo único que quiere es quitarle su puesto. Que al preguntarle qué fue lo que pasó, dijo “ellos quieren seguir con el Singapur, yo no quiero y la Ema sigue defendiendo a la Ana María. La monja se fue, ellas se quedaron ahí, yo estaba enojada”. Que luego la demandante se fue al parvulario, concluyó la reunión y la directora y la coordinadora académica de enseñanza media bajaron a la oficina y lugar al que la actora también entró. Luego presencia el ingreso de la demandante a la oficina y le dice a la directora “Ema, hasta cuándo defiendes a la Ana María, ella te quiere cagar, cómo tan weona que no entiende, que ella quiere puro dejar la cagá en el colegio”, pidiéndole la testigo que se calme cosa que no fue posible ya que se pone frente al escritorio y nuevamente la increpa, que no siga defendiendo a Ana María, que su tía Any se lo había dicho muchas veces, que la Ana María la quería cagar con el puesto y que ella no le hacía caso y que era una tonta, después le levanta el dedo de al medio, y sale de la oficina.
+
+En estos mismos términos se manifiesta el testigo BÁRBARA MARÍA JOSÉ BARROS BENÍTEZ, coordinadora académica de enseñanza media y profesora de Filosofía, quien afirma que la demandante fue despedida por lo ocurrido en una reunión de fecha 11 de abril, a la cual se tuvo que incorporar tardíamente, y se le informa que cuando se había tocado el tema sobre una asesoría del método Singapur, doña Andrea se molestó, se paró, golpeó la mesa y se fue antes. Agrega que el mismo día, en la tarde, estaban en dirección entregando unos documentos, ella, doña María Carolina y la Sra. Ema, y llega Andrea, todavía exaltada, muy enojada con la directora, comienza a tratarla a garabatos “hasta cuando vas a aguantar estas webadas, esta gente lo único que quiere es perjudicarte” refiriéndose a Ana María, otra colega que también estaba en la reunión, expresando: “La Ana María lo único que quiere es cagarte” La Sra. Ema le decía “baje las revoluciones, cálmese” y Andrea informa que va a ir al médico, entonces la directora le dice que vaya, que le va a hacer bien, que sus niños están afuera, que los tome, y los lleve para la casa, que no es bueno que la vean así, y esto lo tomó peor, siguió con el tema de los garabatos, y terminó levantando el dedo del medio y dando un portazo.
+A su turno la aludida testigo ANA MARÍA MUÑOZ QUEZADA, Coordinadora Académica del primer ciclo, indica que la demandante fue desvinculada, porque el 11 de abril de 2022 tuvieron una reunión académica, para ver y analizar unas asesorías y capacitaciones que se estaban realizando en sus ciclos pre básica hasta cuarto básico, que en dicha reunión estaba el jefe de UTP, quien es tío de la actora, la directora y la madre María Julia que era la sostenedora en ese año. Se estaba conversando sobre la asesoría y capacitación del método Singapur, y Andrea de forma inesperada quería sacarlo. No le pareció que continuaran con el proyecto y de una manera muy irreverente, irrespetuosa, se expresó contra todos, atacándolos. Agrega que en medio de la reunión, al ser contraargumentada, la demandante comienza a decir que no le parece, que no está de acuerdo y que no va a permitir que sus profesoras continúen con el proyecto. La madre María Julia, que en ese momento era la sostenedora y había informado que se iba a retirar a un reunión en el obispado, le aclara que el proyecto va a continuar porque están todos los fondos destinados a ese proyecto y por la continuidad que tiene, señalando la actora “a mí no me importa lo que diga esta monja”, entonces con la directora quedamos impactadas, la directora le dice “Andrea, por favor, mida sus palabras, cómo se refiere así a la madre sostenedora” y Andrea, de manera abrupta, le dice “Yo ya te dije que no voy a aceptar que se de el método Singapur en mi ciclo, porque no estábamos de acuerdo” (aludiendo a su tío, el Jefe de UTP) y lanza el cuaderno, tira la silla hacia atrás, golpea la mesa y dice “la que se retira de esta reunión soy yo”. Se para y va hacia donde la directora, que estaba en una esquina, la directora le dice que se calme, pero ella va físicamente, se acerca y le dice “estoy aburrida que tu no me hagas caso” y va hacia la directora, la empieza a apuntar con el dedo, “yo estaba al lado, entonces tomo a la directora del brazo y la corro para atrás porque nos sentimos muy intimidadas por la actitud” … “ella se tiró contra nosotros, yo sentí esa sensación de que nos iba a atacar, además que ella es grande y llegó muy cerca de nosotras” y empezó a gritar “Me tienen aburrida, tú le haces caso a esta weona (refiriéndose a mi)”, quedando estupefactas con la Directora.
+De este modo los testigos presentados a juicio, legalmente examinados y contrainterrogados, estuvieron absolutamente contestes en las conductas desplegadas por la trabajadora el día de los hechos, sin demostrar ninguna clase de contradicciones tanto en los hechos como en las circunstancias que lo rodearon, apreciándose verosímiles y desde luego acreditativas de la propuesta fáctica contenida en la carta de despido.
+
+En cuanto al aspecto jurídico, nos encontramos claramente a lo que en doctrina se denomina un despido de carácter disciplinario el cual puede justificarse en el incumplimiento de aquellas obligaciones que emanan del contenido ético del contrato de trabajo, más allá de si se señalan expresamente y que emanan principalmente de los deberes de conducta. Sobre el punto la doctrina laboral entiende que el contenido ético jurídico no es sino el conjunto de derechos y obligaciones correlativas que regulan la relación entre trabajador y empleador, con el objeto de proteger ciertos bienes jurídicos de carácter ético, tales como la vida y el respeto recíproco, el cual está compuesto por a) deber de respeto; b) deber de cuidado; c) deber de diligencia; d) deber de fidelidad; e) deber de probidad, los que justifican su existencia jurídica en el artículo 1546 del Código Civil, en cuanto prescribe que los contratos deben ejecutarse de buena fe, y por consiguiente obligan no solo a lo que en ellos se expresa, sino a todas las cosas que emanan precisamente de la naturaleza de la obligación, o que por la ley o la costumbre pertenecen a ella. Estos deberes se ven naturalmente reforzados en materia laboral en especial respecto del empleador, pero así también resulta innegable la existencia de un deber de corrección social respecto del trabajador, que suponen que ninguna de las partes del contrato ha de incurrir en comportamientos determinados, en detrimento de la otra, con fundamento en la necesidad de posibilitar la pacífica coexistencia, procurando un uso amplio y provechoso de la regla de la buena fe, y tendiendo a precaver el riesgo de que la actividad o negligencia de un sujeto provoque perjuicios en la otra.
+Así las cosas, no puede sino apreciarse como una violación grave a su deber de correcta conducta, los hechos en que incurrió la trabajadora demandante el día 11 de abril de 2022, los que desde luego que tuvieron la virtud de quebrar la más mínima relación de confianza que debe existir en materia contractual, implicando con ello una necesidad de desvinculación, justificada fácticamente y proporcionada a la gravedad de los hechos imputados, razones por las cuales se desechará la demanda, según se dirá.
+
+Octavo: Apercibimientos. Atendido lo razonado precedentemente resulta irrelevante aplicar apercibimiento legal probatorio respecto de las exhibiciones documentales solicitadas en sede de juicio por la demandante, ya que su mérito dice relación más bien con hechos que habrían acontecido con anterioridad a los que se relatan en la respectiva carta de despido, impertinentes por tanto, de manera tal que el Tribunal no aplicará, a este respecto apercibimientos, siendo además, su aplicación una facultad del Tribunal.
+Que el resto de la prueba rendida en juicio en nada altera lo ya razonado ya que no se aprecia contradictoria con lo observado, razonado y establecido en los considerandos previos, sin perjuicio de haber sido valorada conforme a derecho. De este modo, se desestima la testimonial rendida por la demandante, compuesta por la declaración de tíos de la actora, ya que no contradicen de manera categórica los hechos de la carta y por ser sospechosa de beneficio parcial a la demandante.
+
+Y teniendo además presente lo dispuesto en los artículos 73, 161 inciso primero, 162, 163, 172, 173, 445, 446, 452, 453, 454, 456 y 459 del Código del Trabajo, se declara:
+
+I.- Que SE RECHAZA íntegramente, la demanda deducida por doña ANDREA CRISTINA SOTO GUTIÉRREZ en contra de FUNDACIÓN EDUCACIONAL COLEGIO PROVIDENCIA DE LINARES.
+II.- Que se exime a la parte demandante de la condena en costas, por concurrir a su respecto motivo plausible para litigar.
+
+Las partes quedan válidamente notificadas de la sentencia en la actuación decretada para el día de hoy.
+
+Regístrese y en su oportunidad archívese.
+
+RIT O-40-2022
+
+RUC 22-4-0415753-5
+Dictó, don ALEJANDRO ANTONIO SUMONTE VERDEJO, Juez Titular del 1° Juzgado de Letras de Linares.
+
+En Linares a veintiséis de abril de dos mil veinticuatro, se notificó por el estado diario la resolución precedente.
