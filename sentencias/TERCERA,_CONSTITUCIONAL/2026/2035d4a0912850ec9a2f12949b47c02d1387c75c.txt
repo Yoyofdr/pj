@@ -6,15 +6,15 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8051227
 
 rol: 243-2026
 
-fecha_sentencia: 2026-03-04
+fecha_sentencia: 2026-03-05
 
 caratulado: SÁNCHEZ/SERVIU XII REGION
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (FAMILIA) APELACIÓN DE AMPARO
+materias: (CIVIL) CASACIÓN FORMA Y FONDO
 
-recurso: (FAMILIA) APELACIÓN DE AMPARO
+recurso: (CIVIL) CASACIÓN FORMA Y FONDO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

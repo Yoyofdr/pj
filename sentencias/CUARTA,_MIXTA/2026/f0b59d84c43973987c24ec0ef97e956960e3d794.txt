@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8050316
 
 rol: 4684-2026
 
-fecha_sentencia: 2026-03-04
+fecha_sentencia: 2026-03-05
 
 caratulado: ANONIMIZADO
 
@@ -14,7 +14,7 @@ sala: CUARTA, MIXTA
 
 materias: ▪ Recurso de unificación de jurisprudencia
 
-recurso: (FAMILIA) APELACIÓN DE AMPARO
+recurso: (CIVIL) CASACIÓN FORMA Y FONDO
 
 resultado_recurso: INADMISIBLE UNIFICACIÓN DE JURISPRUDENCIA, MATERIA UNIFICADA O SIN DISPERSIÓN
 

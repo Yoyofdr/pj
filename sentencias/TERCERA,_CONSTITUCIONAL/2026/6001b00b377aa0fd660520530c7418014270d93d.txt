@@ -4,17 +4,17 @@ case_id: 6001b00b377aa0fd660520530c7418014270d93d
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049975
 
-rol: 27205-2025
+rol: 55162-2025
 
 fecha_sentencia: 2026-03-05
 
-caratulado: CORPORACIÓN MUNICIPAL VIÑA DEL MAR/SUPERINTENDENCIA DE EDUCACIÓN ESCOLAR
+caratulado: ELGUETA MOLL GILDA ANDREA / SLEP AYSEN
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Potestad sancionadora
+materias: ▪ Potestad disciplinaria
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) CASACIÓN FORMA Y FONDO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
