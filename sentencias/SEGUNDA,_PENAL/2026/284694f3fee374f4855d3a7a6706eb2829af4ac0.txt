@@ -1,0 +1,492 @@
+METADATA
+
+case_id: 284694f3fee374f4855d3a7a6706eb2829af4ac0
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044637
+
+rol: 7518-2026
+
+fecha_sentencia: 2026-02-26
+
+caratulado: TORO ARAYA MATÍAS ALBERTO CONTRA NOVENO JUZGADO DE GARANTÍA DE SANTIAGO
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintisiete de febrero de dos mil veintiséis.
+
+VISTOS Y TENIENDO PRESENTE:
+Primero: Que en este procedimiento sumario especial tramitado bajo el Rol C-1905-2024, ante el Segundo Juzgado de Letras de Quilpué, caratulado “Sergio Calvo Muñoz con Mónica Lepe Ampuero”, se ha ordenado dar cuenta de la admisibilidad del recurso de casación en el fondo deducido por la demandada en contra de la sentencia de la Corte de Apelaciones de Valparaíso, que confirmó el fallo de primer grado que acogió la demanda y declaró terminado el contrato de arrendamiento, condenó al pago de las rentas adeudadas más reajustes y de los gastos por consumos de servicios básicos, además, ordenó la restitución del inmueble, todo ello con costas.
+
+Segundo: Que el recurrente fundamenta su solicitud de nulidad sustancial expresando que en el fallo cuestionado se infringe el artículo 1698 del Código Civil, puesto que le correspondía al demandante acreditar la existencia de un contrato de arrendamiento con la demandada, lo que no se cumplió, ya que al acreditarse que esta última es hija de la arrendataria fallecida, y la ocupación actual del inmueble a través la presunción de domicilio establecido en el artículo 8 N° 2 de la Ley N° 18.101, al tenor del estampe receptorial el que da cuenta de la notificación de la demanda, da por establecido que dicho contrato de arrendamiento ha continuado con doña Mónica Marlene Ampuero Lepe, al tenor de lo previsto en el artículo 1097 del Código Civil. Agrega, que el actor carece de legitimación activa, hecho que el tribunal no tuvo en consideración vulnerando un presupuesto y norma esencial al momento de dictar sentencia, generando un grave perjuicio reparable sólo con la invalidación de la misma.
+
+Tercero: Que, para un adecuado examen de admisibilidad del recurso resulta necesario apuntar que, al desarrollar sus alegaciones, el recurrente postula una línea argumentativa que no planteó durante la etapa de discusión, en la cual se mantuvo en rebeldía. Solo en la etapa de impugnación y en el recurso que ahora se revisa es que cuestiona la legitimación activa del actor y reclama que no se ha acreditado la existencia de un contrato de arrendamiento que la vincule jurídicamente con el demandante.
+
+Cuarto: Que lo anterior cobra relevancia, desde que no procede fundar una infracción de derecho en postulados que exceden abiertamente los términos en que se fijó la litis, ni denunciar la transgresión de disposiciones legales, a las que se les entregó un alcance distinto, dado que no es posible analizar la vulneración de preceptos en base a argumentos que no fueron materia de la controversia sometida a conocimiento del tribunal, pues de aceptarse, se atentaría contra el principio de bilateralidad de la audiencia.
+
+Quinto: Que, a mayor abundamiento, el recurrente omitió extender la infracción legal a las normas sustantivas que tienen en la especie el carácter de decisoria de la litis, esto es, preceptos que, al ser aplicados, permiten resolver la cuestión controvertida, tales como los artículos 1, 7 y 8 de la Ley 18.101 y, artículos 1097 y 1915 y siguientes del Código Civil. Siendo ello así, al no denunciarse éstas como infringidas por el recurrente, se produce un vacío que esta Corte no puede subsanar, atendida la naturaleza de derecho estricto que reviste el recurso de nulidad en estudio; motivo por el cual no puede ser admitido a tramitación.
+
+Por estas consideraciones y de conformidad además con lo dispuesto en los artículos 772 y 782 del Código de Procedimiento Civil, se rechaza el recurso de casación en el fondo interpuesto por el abogado Enrique Jofré Parra, en representación de la demandada, contra la sentencia de veintidós de enero de dos mil veintiséis, pronunciada por la Corte de Apelaciones de Valparaíso.
+
+Regístrese y devuélvase.
+
+Rol Nº 6710-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Valparaíso
+ahd
+Valparaíso, veintidós de enero de dos mil veintiséis.
+
+Visto:
+Previa eliminación, en la decisión tercera de la parte resolutiva, del vocablo “no” que ostensiblemente constituye un error de transcripción, atendido el mérito de los antecedentes, en virtud de sus propios fundamentos y teniendo, además, presente lo dispuesto en el artículo 186 del Código de Procedimiento Civil, se confirma la sentencia definitiva apelada dictada el veintiocho de septiembre de dos mil veinticuatro por el Segundo Juzgado de Letras de Quilpué, en autos Rol C-2262-2020.
+
+Regístrese, notifíquese y devuélvase.
+
+N°Civil-3287-2024.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+NOMENCLATURA : 1. [40]Sentencia
+
+JUZGADO : 2º Juzgado de Letras de Quilpue
+
+CAUSA ROL : C-1905-2024
+
+CARATULADO : CALVO/LEPE
+
+Quilpue, veintiocho de septiembre de dos mil veinticuatro
+VISTOS:
+
+A folio 1, comparece don SERGIO MARIO CALVO MUÑOZ, chileno,
+
+pensionado, cédula de identidad N° 4.123.218-8, con domicilio en calle Muñoz
+
+Gamero N°345, Quilpué, quien deduce demanda de Término de Contrato de
+
+Arriendo por no pago de rentas, servicios básicos y restitución inmediata, respecto
+
+del inmueble ubicado en calle Belgrano N°905, casa 3, Belloto, Quilpué, en contra
+
+de doña MÓNICA MERLENE LEPE AMPUERO, cédula de identidad N°
+
+14.555.124-2, ignora profesión u oficio, domiciliada en calle Belgrano N°905, casa
+
+3, Belloto Norte, Quilpué.
+
+Funda su demanda en que, con fecha 22 de noviembre de 2005, celebró
+
+con doña BENEDICTA EUJENIA AMPUERO ÁLVAREZ, madre de la demandada,
+
+Contrato de Arrendamiento, por escrito, con firmas autorizadas ante notario
+
+público de Quilpué Carlos Swett Muñoz, recaído sobre el inmueble de su
+
+propiedad ubicado en calle Belgrano N°905, casa 3, Belloto Norte, comuna de
+
+Quilpué, donde actualmente le sirve de domicilio a la demandada, pues esta vivía
+
+con la arrendataria fallecida y a la fecha continúa viviendo en dicho lugar.
+
+Señala que la arrendataria, madre de la demandada, falleció con fecha 4 de
+
+julio de 2024 y, en atención a que el contrato de arrendamiento es de aquellos
+
+contratos que no terminan con la muerte de sus contratantes, subsiste en
+
+consecuencia el derecho a usar la propiedad, pero también subsisten sus
+
+obligaciones de pago razón por la cual, al existir rentas y servicios impagos, le
+
+asiste solicitar el término de dicho contrato de arrendamiento y la consecuente
+
+restitución material de la propiedad.
+
+Explica que, dicho contrato se pactó una renta mensual equivalente a la
+
+suma de $70.000.-, reajustable por IPC anualmente. El contrato tiene el carácter
+
+de ser a plazo fijo, por un año prorrogable, y comenzó a regir desde el 2 de
+
+noviembre de 2005, hasta el 2 de noviembre de 2006, en su primer año, y se ha
+
+prorrogado anualidad tras anualidad hasta la fecha.
+
+Hace presente que, conforme al reajuste anual pactado en el contrato, la
+
+renta actual de arrendamiento asciende a la suma de $147.070.- Asimismo, afirma
+
+que actualmente la demandada se encuentra en mora en el pago de las rentas y
+
+Código: KYLDXQXBKSE
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+de los servicios básicos. En efecto, por concepto de rentas impagas que adeuda la
+
+suma de $3.529.680.-, pues desde el mes de agosto de 2022 hasta la fecha actual
+
+que no paga arriendo, por tanto, a la fecha debe por este concepto la suma de
+
+$3.529.680.-
+
+Agrega que, por deudas de servicios básicos debe la suma de $686.890.-,
+
+por concepto de agua. En consecuencia, la demandada arrastra una deuda total
+
+de $4.216.570.-, por concepto de rentas y servicios básicos impagos.
+
+Previas citas legales de los artículos 1945, 1947 y demás aplicables del
+
+Código Civil, 254 y siguientes del Código de Procedimiento Civil, normas
+
+aplicables de la ley 18.101 sobre arrendamiento de predios urbanos; solicita tener
+
+por interpuesta demanda terminación del contrato de arrendamiento por no pago
+
+de rentas, servicios básicos y restitución inmediata del inmueble, en contra de
+
+doña MÓNICA MERLENE LEPE AMPUERO, ya individualizada, ordenar que se
+
+practiquen las reconvenciones legales, por las sumas indicadas en el cuerpo de
+
+este escrito; la primera, al notificarle la demanda; y la segunda, en la audiencia de
+
+estilo; y en definitiva, acoger ésta y declarar:
+
+1.- La terminación del contrato de arrendamiento entre las partes ya
+
+individualizadas por incumplimiento de las obligaciones emanadas del mismo
+
+contrato, en especial por el no pago de las rentas convenidas y consumos
+
+domiciliarios.
+
+2.- Que, se condene a la demandada a pagar la suma total de $4.216.570.-,
+
+por concepto de rentas y servicios básicos impagos, más todas las que se
+
+devenguen durante la secuela del juicio y hasta la restitución material del
+
+inmueble, todo debidamente reajustado como ordena la ley 18.101, o la suma y
+
+reajuste que se fijen de acuerdo con el mérito del proceso.
+
+3.- Que, debe restituirle la propiedad dada en arrendamiento, dentro de
+
+tercero día desde que el fallo cause ejecutoria, bajo apercibimiento de lanzamiento
+
+con la fuerza pública, o en el plazo que se sirva determinar.
+
+4.- Que, se condena expresamente en costas a la demandada.
+
+En subsidio, interpone demanda de desahucio del contrato de
+
+arrendamiento.
+
+A folio 8, se notificó de conformidad a lo dispuesto en el artículo 44 del
+
+Código de Procedimiento Civil la demanda de autos a doña Mónica Merlene Lepe
+
+Ampuero y como no se pudo reconvenir de pago personalmente, quedó citada
+
+para concurrir a la oficina del receptor judicial el día 26 de agosto de 2024, no
+
+Código: KYLDXQXBKSE
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+concurriendo al lugar practicándose la primera reconvención de pago en rebeldía,
+
+según consta a folio 9.
+
+A folio 11, se llevó a cabo el comparendo de estilo, con la comparecencia de
+
+la parte demandante asistida por su abogada y en rebeldía de la parte
+
+demandada. El demandante ratificó su demanda en todas sus partes. Además, el
+
+Tribunal tuvo por contestada la demanda en rebeldía de la demandada y practicó
+
+la segunda reconvención de pago, la que no se efectuó dada la inasistencia ya
+
+anotada. Llamadas las partes a conciliación ésta no se produjo y se recibió la
+
+causa a prueba por el término legal.
+
+A folio 13, quedando la causa en estado, se citó a las partes a oír sentencia.
+
+CON LO RELACIONADO Y CONSIDERANDO:
+
+PRIMERO: Que, no habiéndose contestado la demanda por parte de la
+
+demandada, se encuentran controvertidos todos los hechos en que el libelo de
+
+autos se fundamenta.
+
+En consecuencia, la controversia a resolver en el presente juicio radica en
+
+determinar si entre las partes se celebró contrato de arrendamiento, respecto del
+
+inmueble ubicado calle Belgrano N°905, casa 3, Belloto Norte, comuna de
+
+Quilpué. Si así resultara acreditado, establecer si efectivamente la parte
+
+demandada ha incurrido en el no pago de las rentas y servicios básicos en
+
+términos de hacer procedente la terminación de aquel contrato, a fin de ordenar la
+
+restitución del inmueble que se ha solicitado y disponer el pago de dichas rentas y
+
+servicios básicos. Para el caso de ser rechazada la acción principal, determinar la
+
+procedencia del desahucio demandado.
+
+SEGUNDO: Que, a fin de acreditar sus pretensiones, la parte demandante
+
+rindió prueba documental consistente en:
+
+Digitalizados a folio 1.
+
+1. Contrato de Arrendamiento celebrado entre las partes e inventario de la
+
+propiedad, con firmas autorizadas, ante el Notario Público de Quilpué, don
+
+Carlos Swett Muñoz.
+
+2. Reporte de facturación emanado de Esval S.A. que da cuenta de la deuda
+
+por concepto de agua, ascendente a la fecha de su emisión a la suma de
+
+$686.890.-
+
+3. Certificado de nacimiento de doña MÓNICA MERLENE LEPE AMPUERO.
+
+Código: KYLDXQXBKSE
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+4. Certificado de defunción de doña BENEDICTA EUJENIA AMPUERO
+
+ÁLVAREZ.
+
+TERCERO: Que, la parte demandada no allegó a los autos prueba alguna,
+
+encontrándose en rebeldía durante toda la instancia.
+
+CUARTO: Que, con el mérito del contrato de arrendamiento agregado a los
+
+autos, no objetado, individualizado en el considerando segundo que antecede, se
+
+acreditó en autos la efectividad de los siguientes hechos:
+
+a) Que, con fecha 22 de noviembre de 2005, el demandante don SERGIO
+
+MARIO CALVO MUÑOZ, celebró un contrato de arrendamiento con doña
+
+BENEDICTA EUJENIA AMPUERO ALVAREZ (Q.E.P.D), por medio del cual dio en
+
+arrendamiento a esta última el inmueble ubicado en calle Belgrano N° 905, casa 3,
+
+Belloto, Quilpué, para uso exclusivo habitacional.
+
+b) Que, las partes pactaron que el contrato comenzó a regir el 2 de
+
+noviembre del año 2005 hasta el 2 de noviembre del año 2006. Y, que se
+
+entenderá prorrogado por igual período, si ninguna de las partes manifiesta su
+
+voluntad de ponerle término mediante aviso por carta certificada notarial,
+
+notificación judicial o por cualquier otra forma fehaciente con una anticipación
+
+mínima de dos meses antes del término del plazo de vigencia.
+
+c) Que, según constan en las cláusulas tercera y cuarta, se pactó que el
+
+monto de la renta mensual sería de $70.000.- reajustados de acuerdo con el I.P.C,
+
+de forma ANUAL, entre la fecha de inicio del arrendamiento y la fecha de la
+
+prórroga y, que se pagará dentro de los primeros 15 días de cada mes, en el
+
+domicilio del arrendador.
+
+d) Que, en la cláusula sexta, se evidencia que, la arrendataria se
+
+comprometió también a pagar mensualmente las cuentas de luz eléctrica, gas,
+
+agua potable, extracción de basura, etc., debiendo exhibir los recibos
+
+correspondientes si así lo exigiera el arrendador.
+
+e) Que, por último, se estableció en la cláusula octava que: “El no
+
+cumplimiento de cualquiera de las cláusulas del presente contrato dará derecho al
+
+arrendador para poner término inmediato al arriendo por incumplimiento grave de
+
+las obligaciones, en conformidad a la Ley”.
+
+Para lo anterior se aprecia este instrumento conforme las reglas de la sana
+
+crítica y en consideración a que los hechos que del mismo se desprenden no han
+
+sido contradichos por otra prueba.
+
+Código: KYLDXQXBKSE
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+QUINTO: Que, además, con los certificados acompañados en autos, se
+
+logra acreditar lo relatado por el demandante, a saber, que la demandada doña
+
+MÓNICA MERLENE LEPE AMPUERO, era hija de doña BENEDICTA EUJENIA
+
+AMPUERO ÁLVAREZ (Q.E.P.D), quien falleció el día 4 de julio del presente año.
+
+Conforme la ocupación actual del inmueble por su parte (que puede
+
+presumirse al tenor del estampe receptorial, que da cuenta de la notificación de la
+
+demandada), es posible establecer que dicho contrato ha continuado con esta
+
+demandada, al tenor de lo previsto en el artículo 1097 del Código Civil.
+
+SEXTO: Que, de este modo, el artículo 1977 del Código Civil dispone que
+
+la mora de un periodo entero en el pago de la renta, dará derecho al arrendador,
+
+después de dos reconvenciones, entre las cuales medien a lo menos cuatro días,
+
+para hacer cesar inmediatamente el arriendo, si no se presta seguridad
+
+competente de que se verificará el pago dentro de un plazo razonable, que no
+
+bajará de treinta días, razón por la cual no habiéndose acreditado por la parte
+
+demandada el pago de las rentas, como fue de su cargo conforme lo previsto en el
+
+artículo 1698 del mismo cuerpo legal, deberá necesariamente darse lugar a la
+
+demanda de terminación de contrato de arrendamiento por no pago de las rentas,
+
+según se resolverá en lo resolutivo de la sentencia.
+
+Asimismo, se ordenará el pago de las rentas de arrendamiento adeudadas
+
+y las que se devenguen hasta la restitución de la propiedad, por el monto mensual
+
+acordado de $147.070.- (monto reajustado de la renta pactada inicialmente en el
+
+contrato de arrendamiento celebrado entre las partes por el IPC anual al mes de
+
+presentada la demanda de autos).
+
+SÉPTIMO: Que, el inciso 1° del artículo 6° de la Ley 18.101, señala que
+
+“cuando el arrendamiento termine por expiración del tiempo estipulado para su
+
+duración, por la extinción del derecho del arrendador o por cualquier otra causa, el
+
+arrendatario continuará obligado a pagar la renta de arrendamiento y los gastos
+
+por servicios comunes que sean de su cargo, hasta que efectúe la restitución del
+
+inmueble”. Así se dispondrá en lo dispositivo.
+
+OCTAVO: Que, por haberse anunciado que se acogerá la demanda
+
+principal interpuesta en autos, se omitirá pronunciamiento respecto a la demanda
+
+de desahucio, por haberse presentado de manera subsidiaria.
+
+Por estas consideraciones y visto, además, lo dispuesto en los artículos
+
+144, 160, 170, 254, 342 y siguientes, del Código de Procedimiento Civil, 1698,
+
+1977, 1545 del Código Civil y 1, 7 8, 15, 17 de la Ley 18.101, modificada por la
+
+Ley 19.866, se declara:
+
+Código: KYLDXQXBKSE
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+I. Que, se acoge la demanda principal interpuesta en autos, y se
+
+declara terminado el contrato de arrendamiento en relación al inmueble sub lite,
+
+debiendo la parte demandada, doña MÓNICA MERLENE LEPE AMPUERO,
+
+restituir la propiedad dentro de décimo día desde que la presente sentencia cause
+
+ejecutoria bajo apercibimiento de lanzamiento con auxilio de la fuerza pública,
+
+para el caso que no lo hiciere y, a pagar al demandante don SERGIO MARIO
+
+CALVO MUÑOZ, las rentas de arrendamiento adeudadas, correspondientes desde
+
+el mes de agosto de 2022 hasta el mes de agosto de 2024, por la suma total de
+
+$3.529.680.- y las que se devenguen hasta la restitución del inmueble, por la suma
+
+mensual de $147.070.-, con los reajustes indicados en el artículo 21 de la Ley
+
+18.101, todo acorde a la liquidación que en su oportunidad practique la señora
+
+Secretaria del Tribunal;
+
+II. Que, se condena a la demandada al pago de los gastos de
+
+consumos por servicios básicos del inmueble que se encuentren insolutos, en la
+
+forma establecida en el fundamento séptimo, con los reajustes del artículo 21 de la
+
+Ley N° 18.101, más aquellas que se devenguen en lo sucesivo hasta la fecha de
+
+su restitución, y por los montos que se determinen durante la ejecución del fallo;
+
+III. Que, no se emite pronunciamiento sobre la demanda subsidiaria de
+
+desahucio, por haberse acogido la principal, y;
+
+IV. Que, se condena a la demandada al pago de las costas, por haber
+
+resultado completamente vencida.
+
+Regístrese, notifíquese y archívese en su oportunidad.
+
+C-1905-2024
+
+Dictada por Néstor Valdés Sepúlveda, Juez Titular.
+
+En Quilpue, a veintiocho de septiembre de dos mil veinticuatro , se
+
+notific por el estado diario, la resoluci n precedente.ó ó
+
+Código: KYLDXQXBKSE
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2024-09-28T11:41:24-0300

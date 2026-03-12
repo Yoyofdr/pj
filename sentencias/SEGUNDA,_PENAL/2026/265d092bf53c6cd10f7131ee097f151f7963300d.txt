@@ -1,0 +1,622 @@
+METADATA
+
+case_id: 265d092bf53c6cd10f7131ee097f151f7963300d
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044717
+
+rol: 6049-2026
+
+fecha_sentencia: 2026-02-26
+
+caratulado: PÉREZ FIGUEROA JHOANNS CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintisiete de febrero de dos mil veintiséis.
+
+Vistos y teniendo presente:
+Primero: Que, de conformidad con lo dispuesto en el inciso séptimo del artículo 483-A del Código del Trabajo, se ha ordenado dar cuenta de la admisibilidad del recurso de unificación de jurisprudencia deducido por la demandada en contra de la sentencia dictada por la Corte de Apelaciones de Valparaíso, que rechazó el de nulidad interpuesto contra la de instancia que acogió la demanda, declaró injustificados los despidos y ordenó el pago de las prestaciones que señala.
+
+Segundo: Que según se expresa en la legislación laboral, el recurso de unificación de jurisprudencia es susceptible de ser deducido en contra de la resolución que falle el recurso de nulidad, estableciéndose su procedencia para el caso en que “respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de Tribunales Superiores de Justicia”, conforme lo explicita el artículo 483 del Código del Trabajo.
+
+Asimismo, del tenor de lo dispuesto en el artículo 483-A del cuerpo legal antes citado, aparece que esta Corte debe controlar, como requisitos para su admisibilidad, por un lado, su oportunidad; en segundo lugar, la existencia de fundamento, además de una relación precisa y circunstanciada de las distintas interpretaciones respecto de las materias de derecho objeto de la sentencia, sostenidas en diversos fallos emanados de los tribunales superiores de justicia, y finalmente, debe acompañarse copia del o los fallos que se invocan como fundamento del recurso en referencia.
+
+Tercero: Que la materia de derecho propuesta para ser unificada consiste en “Determinar la correcta interpretación y alcance del concepto de “irresistibilidad” en la causal de caso fortuito o fuerza mayor, prevista en el artículo 159 N°6 del Código del Trabajo, en relación con el artículo 45 del Código Civil, particularmente cuando ocurre un incendio que destruye sustancialmente las instalaciones de la empresa y si el concepto de irresistibilidad debe ser total o parcial”.
+Cuarto: Que la sentencia impugnada rechazó el arbitrio, en lo pertinente, fundado en la causal de nulidad dispuesta en el artículo 478 b) del Código del Trabajo, dado que se llevó a cabo el análisis de las pruebas rendidas conforme a los principios y parámetros de la lógica, las máximas de la experiencia y los conocimientos científicamente afianzados, en particular, se consideró que no era suficiente para tener por configurados todos y cada uno de los requisitos constitutivos de fuerza mayor o de caso fortuito.
+De esta forma, no ha podido constatarse un pronunciamiento sustancial que se relacione con la materia de derecho propuesta por la demandada, por lo que el recurso intentado debe ser desestimado en esta etapa procesal.
+
+Por estas consideraciones y normas citadas, se declara inadmisible el recurso de unificación de jurisprudencia interpuesto contra la sentencia de veintisiete de noviembre de dos mil veinticinco.
+
+Regístrese y devuélvase.
+
+Rol N°57.912-2025.-
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Jfah.-
+C.A. de Valparaíso
+Valparaíso, veintisiete de noviembre de dos mil veinticinco.
+Visto:
+
+Que, en estos autos, RIT O-229-2024, RUC 24-4-0552364-3, Rol IC 570-2025, don Paolo Lubiano Rodríguez, en representación de la parte demandada, en estos autos de aplicación general sobre despido injustificado y cobro de prestaciones, deduce recurso de nulidad en contra de la sentencia definitiva dictada el tres de junio de dos mil veinticinco, por el Juzgado de Letras del Trabajo de Valparaíso, que acogió la demanda respecto de los tres actores de autos, declarando que el despido fue injustificado, ordenó pagar las sumas que indica por concepto de indemnización sustitutiva de aviso previo; por años de servicio, con recargo legal del 50%; prestaciones adeudadas a cada uno de ellos a título de indemnización compensatoria de feriados anuales y proporcionales, todo ello con los intereses y reajustes establecidos en los artículos 63 y 173 del Código del Trabajo.
+Funda el recurso en la causal de nulidad contenida en el artículo 478, letra b), del Código del Trabajo, al haber sido pronunciada con infracción manifiesta a las reglas de la sana crítica, que ha influido sustancialmente en lo dispositivo del fallo.
+
+Con lo relacionado y considerando:
+Primero: Que, la recurrente funda su arbitrio, en que, a su juicio, la sentenciadora no habría analizado adecuadamente la prueba aportada por su parte, citando al efecto considerando noveno. Explica que el fallo establece como un hecho no controvertido que el local comercial del establecimiento de Arlegui, lugar en que se desempeñaban los demandantes y operaba su representada, fue afectado por un incendio el 1 de enero de 2024. Sin embargo, agrega, el considerando noveno prosigue de la siguiente manera, que reproduce: “Respecto de las consecuencias, más allá de lo evidente, y especialmente en lo relativo a la afectación patrimonial que debió soportar la empresa a consecuencia del siniestro aludido, el empleador se valió principalmente de tres documentos y atestados de sus testigos en estrado. Respecto de los documentos, es preciso señalar que estos consisten en una carta dirigida a la empresa por Bacigalupo Demoliciones en la que precisa que la demolición del local siniestrado tiene un valor de $19.500.000 más IVA y detalle el procedimiento para realizar la demolición. El segundo es un resumen ejecutivo de gastos referidos a retiro y disposición final de mercadería y escombros, desarme de estructuras, otros varios, e incluye el costo de demolición ya mencionado. El tercer último documento es el detalle de los costos anteriores y también fue elaborado por la demandada. Ninguno de estos costos mencionados en los documentos ha sido apoyado con documentos que, como facturas que se mencionan en el detalle aludido, demuestren la efectividad de haberse incurrido en ellos. En efecto, si bien, como se ha aludido en el tercer documento revisado se menciona la existencia de facturas que demostrarían su pago, por cada uno de los ítems que se mencionan, dichas facturas, como si hubieran sido pagadas, no fueron acompañadas a la causa. A estos gastos y valores se refieren también los testigos, quienes, siendo dependientes de la demandada, respecto de la repercusión financiera del siniestro para la empresa, refieren que el local quemado habría sido el de mayor venta de todos los que se encuentran emplazados en diferentes ciudades, Viña del Mar, Valparaíso y otras ciudades del interior de la región de Valparaíso, mencionando que el siniestro le ha privado a la empresa de estos ingresos y por ello se ha desmejorado la situación financiera de la misma. Sin embargo, tampoco se ha allegado a la causa información precisa sobre esta situación, es decir, no hay antecedentes que avalen ni el monto al que ascendían las ventas del local quemado, ni otros que permitan al tribunal concluir en qué situación financiera ha quedado la demandada luego de la pérdida de este local. Lo que, además, agregan los testigos de la demandada y a ello se refieren también los de la demandante, es que la empresa ha realizado esfuerzos hasta la fecha, para rehabilitar el local siniestrado y que se encuentra en sus planes que éste vuelva a funcionar, aunque a la fecha de la audiencia de juicio ello aún no ocurre. Los demás locales, en total 7 que posee la empresa, de acuerdo con estas declaraciones, se encuentran funcionando con normalidad, también refiriendo los testigos de la demandada, que, dado que en el rubro la rotación de trabajadores es alta pues, entre otras razones, se verifican renuncias, en el periodo 2024 y hasta la fecha, han contratado personal.
+Enseguida, de la prueba rendida en estos autos, de la carta de despido, específicamente, es posible concluir que, a la fecha de los despidos, esto es, el 08 de enero de 2024, no había conclusiones acerca del lugar en que estuvo el foco del siniestro y aunque los testigos en estrado refieren que éste habría estado en una bodega de cartones vecina del supermercado ubicada en un pasaje colindante, no existe, en esta causa, prueba concluyente al respecto. Adicionalmente, acerca de la suerte que corrieron los restantes trabajadores del local, solo se cuenta con declaraciones de testigos y absolución de posiciones, pudiéndose concluir de estos antecedentes, que solo algunos, en número indeterminado, fueron reubicados en otros supermercados de la empresa, algunos, también, en número indeterminados, aceptaron el término de contrato por acuerdo mutuo. Sin contar con antecedentes precisos del número de trabajadores de la empresa que prestaban servicios en el local, el único dato objetivo con el que cuenta el tribunal es que, además de la presente causa, en la que demandan tres trabajadores despedidos por caso fortuito, el empleador despidió por la misma causal a otros cuatro que han demandado despido injustificado en la causa O-225-2024 de este mismo tribunal”.
+Explica la recurrente que en la valoración de la prueba no se cumpliría con los principios de la lógica, especialmente con las máximas de la experiencia que debió tener presente el sentenciador, en cuanto a que en ningún caso debió supeditar la acreditación de los hechos controvertidos en la causa, o minimizarlos de acuerdo con su ponderación, en orden a que su representada haya aportado documentos “insuficientes”, puesto que, como reconoció en el considerando noveno efectivamente su parte sufrió un incendio con resultado de pérdida total del establecimiento ubicado en calle Arlegui de Viña del Mar, y que el mismo, de acuerdo a la prueba testimonial rendida, resultaba ser el de mayor ventas de su representada, lo que se traducía en aproximadamente un veinte por ciento de total de ventas, reuniéndose los requisitos para configurar la causal de fuerza mayor, conforme a lo dispuesto en el artículo 159, Nº6, del Código del Trabajo, en relación al artículo 45 del Código Civil, lo que habría quedado corroborado especialmente por la prueba testimonial en comento.
+
+Concluye señalando que la infracción se produce al no aplicar debidamente las reglas de la sana critica al momento de ponderar las pruebas, pues si se hubieran aplicado correctamente, la jueza debió ponderar razonablemente las pruebas y llegar lógicamente a la conclusión de que el despido efectuado por su representada se ajustó a derecho, y contrariamente a ello, el juez del fondo considera irrelevante las pruebas aportadas al proceso, particularmente la prueba testimonial y confesional de la demandada.
+
+Segundo: Que, el recurso de nulidad laboral constituye un medio de impugnación extraordinario de las decisiones judiciales y, como tal, de derecho estricto. En esa línea, es del caso que, de una atenta lectura al recurso deducido, se advierte que su contenido dice relación con una valoración de la prueba rendida distinta a la efectuada por la sentencia, con la sola finalidad de revertir la decisión del sentenciador, lo que no es propio de un recurso de nulidad. En efecto, si bien el recurrente expone latamente su argumentación, no identifica con claridad en qué consistiría la infracción a los principios que presiden el sistema de apreciación de la prueba de acuerdo a la sana crítica; así, no se indica de qué forma la sentenciadora contraviene alguna regla de la lógica o las máximas de la experiencia. Se debe recordar que el artículo 456 del Código del Trabajo, establece que el tribunal deberá expresar las razones jurídicas y las simplemente lógicas, científicas, técnicas o de experiencia, en cuya virtud asigne valor o desestime las pruebas, la norma adiciona que, en general, tomará en especial consideración la multiplicidad, gravedad, precisión, concordancia y conexión de las pruebas o antecedentes del proceso que utilice, de manera que el examen conduzca lógicamente a la conclusión que convence al sentenciador.
+Como afirma Maturana, “asociado al control de esta sana crítica por medio de la fundamentación de la sentencia, se señala en el artículo 459 número 4°, que la sentencia definitiva debe contener, el análisis de toda la prueba rendida respecto de los hechos que estime probados y el razonamiento que conduce a dicha estimación. Con ello, se está demostrando que nos encontramos ante un sistema racional, porque se obliga a los jueces a analizar toda la prueba, estableciendo cuál va a descartar y cuál va a utilizar, en donde tiene que contener no sólo una ponderación de carácter individual, sino que una valoración conjunta de la prueba rendida para los efectos de poder llegar a establecer un hecho” (Maturana, Cristian, “Aspectos probatorios de los procedimientos laborales”, 2018, p. 6).
+Tercero: Que, en efecto, de la sentencia recurrida, en particular, los razonamientos contenidos en los considerandos noveno, décimo y undécimo, se desprende que se llevó a cabo el análisis de las pruebas rendidas conforme a los principios y parámetros de la lógica, las máximas de la experiencia y los conocimientos científicamente afianzados, en particular, la sentenciadora considera que la prueba no es suficiente para acreditar la configuración de todos y cada uno de los requisitos constitutivos de la fuerza mayor o caso fortuito como causal de despido invocada por la demandada. Así, la sentenciadora, en el considerando undécimo, expresa: “Resulta, entonces, en el ámbito laboral, necesario que, los hechos en que se hace consistir el caso fortuito impidan al empleador continuar ejerciendo su actividad habitual, pero no aisladamente, si no que, en forma definitiva, y en el caso que nos ocupa, lo cierto es que no se ha demostrado, pues ello no ocurrió, que, los hechos en que se hizo consistir la causal hubieran tenido los efectos permanentes en el giro de la demandada. Lo cierto es lo contrario, la empresa no ha detenido su giro, el resto de sus locales continúa funcionando con normalidad, se han tomado medidas encaminadas a reiniciar, incluso, actividades en el mismo lugar. Además, y tal como se ha referido, no todos los trabajadores de la empresa demandada, ni siquiera del local siniestrado, fueron despedidos por esta causa, algunos fueron reubicados, incluso.
+Ciertamente, el empleador pudo tomar otras decisiones respecto a los contratos de los trabajadores, previo a proceder a su despido, y en caso de despedirlos, debió hacerlo por una causal que se ajustara a la realidad, no invocar un caso fortuito o fuerza mayor, sin cumplirse los requisitos para ello, del modo que se ha referido en los párrafos anteriores, pues los efectos del ya tantas veces mencionado incendio, en estas condiciones, no eran irresistibles para el empleador, no son efectos permanentes, y además el empleador pudo tomar otro tipo de decisiones distintas al despido de los trabajadores, como lo hizo respecto de algunos de ellos”. Por consiguiente, el recurso de nulidad no puede prosperar.
+Por estas consideraciones y visto, además, lo dispuesto en los artículos 474, 477 y 482 del Código del Trabajo, se rechaza el recurso de nulidad interpuesto por el abogado, don Paolo Lubiano Rodríguez y, en consecuencia, se declara que la sentencia definitiva dictada el tres de junio de dos mil veinticinco, por el Juzgado de Letras del Trabajo de Valparaíso, no es nula.
+
+Regístrese, notifíquese, comuníquese por la vía más expedita y devuélvase, en su oportunidad.
+Redacción de la Abogada Integrante Sra. Pamela Prado López.
+
+N°Laboral - Cobranza-570-2025.
+
+No firma el Fiscal Judicial Sr. Mario Fuentes Melo, no obstante haber concurrido a la vista de la causa y al acuerdo, por no integrar Sala el día de hoy, autorizado de conformidad a lo dispuesto en el artículo 347 del Código Orgánico de Tribunales.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Valparaíso, tres de junio de dos mil veinticinco.
+
+VISTO, OIDO Y CONSIDERANDO:
+
+PRIMERO: Que, ALEJANDRO GUILLERMO
+KIMER BAHAMONDES, actualmente cesante, domiciliado en pasaje 20 N° 88, Valparaíso, MARIA ANGELICA POBLETE VALDEBENITO, actualmente cesante, domiciliada en Ampliación, Juan Hamilton N°12, Viña del Mar, y NORMA ALEJANDRA URRA VILLARROEL, actualmente cesante, domiciliada en Pasaje Crepusculario Nº 32, Las Azucenas, Viña del Mar, interpone demanda conforme al procedimiento de aplicación general, por despido incausado, en subsidio, por despido injustificado, y cobro de prestaciones laborales, en contra de la Sociedad Distribuidora y Comercial Provimarket Limitada, empresa del giro de supermercados, representada por doña Fabiola Barrientos Campillo, factor de comercio, ambos con domicilio para estos efectos en Montaña 800, Viña del Mar, solicitando al tribunal acogerla a tramitación y en definitiva dar lugar a ella declarando:
+
+1.- Que, el despido del que fueron objeto es carente de causa legal, o en subsidio injustificado.
+
+2.- Que se condene a la demandada al pago de las indemnizaciones contenidas en los artículos 162 y 163 del código del trabajo, conforme a lo que a continuación se detalla:
+
+A.
+Indemnización sustitutiva del aviso previo:
+
+-
+equivalente a la suma de $685.611.- pesos, en el caso del demandante Alejandro Kimer Bahamondes, o lo que se estime pertinente.
+
+-
+equivalente a la suma de $677.857.- pesos, en el caso de la demandante María Angelica Poblete, o lo que se estime pertinente.
+
+-
+equivalente a la suma de $644.362.- pesos, en el caso de la demandante Norma Urra Villarroel, o lo que se estime pertinente.
+
+B.
+Indemnización por años de servicio,
+
+-
+correspondiente a 10 años de trabajo, equivalente a la suma de $6.856.110.- pesos en el caso del demandante Alejandro Guillermo Kimer Bahamondes, o la suma que se estime pertinente.
+
+-
+correspondiente a 09 años de trabajo, equivalente a la suma de $6.100.713.- pesos en el caso de la demandante Maria Angelica Poblete Valdebenito, o la suma que se estime pertinente.
+
+-
+correspondiente a 01 años de trabajo, equivalente a la suma de $644.362.- pesos en el caso de la demandante Norma Urra Villarroel, o la suma que se estime pertinente.
+
+3.- que conforme al artículo 168 inciso tercero del código del trabajo, se condene a la demandada a pagar el recargo legal del 50% por sobre la indemnización de años de servicio, correspondiente a las siguientes sumas:
+
+-
+la suma de $3.428.055.- pesos, en el caso del demandante Alejandro Guillermo Kimer Bahamondes, o la suma que se estime pertinente.
+
+-
+la suma de $3.050.357.- pesos, en el caso de la demandante Maria Angelica Poblete Valdebenito, o la suma que estime pertinente.
+
+-
+la suma de $322.181.- pesos, en el caso de la demandante Norma Urra Villarroel, o la suma que se estime pertinente.
+
+4.- que se adeudan las siguientes sumas en dinero, por concepto de feriado legal, según el siguiente detalle:
+
+-
+$342.806.-, correspondiente al periodo abril 2022 - abril 2023, en el caso del demandante Alejandro Kimer Bahamondes, o lo que se estime pertinente.
+
+-
+$338.929.-, correspondiente al periodo diciembre 2022 diciembre 2023, en el caso de la demandante María Angelica Poblete, o lo que se estime pertinente.
+
+-
+$322.181.-, correspondiente al periodo julio 2022 - julio 2023, en el caso de la demandante Norma Urra Villarroel, o lo que estime pertinente.
+
+5.- que se adeudan las siguientes sumas, por concepto de feriado proporcional, según el siguiente detalle:
+
+-
+$347.376.-, equivalente a 09 meses de trabajo (15,2 días hábiles) en el caso del demandante Alejandro Kimer Bahamondes, o lo que se estime pertinente.
+
+-
+$28.244.-, equivalente a 01 mes de trabajo (1,2 día hábil) en el caso de la demandante María Angelica Poblete, o lo que se estime pertinente.
+
+-
+$195.459.-, equivalente a 05 meses y 20 días de trabajo (9,1 días hábiles) en el caso de la demandante Norma Urra Villarroel, o lo que se estime pertinente.
+
+6.- que las prestaciones anteriores, sean pagadas con máximos reajustes e intereses legales correspondientes y;
+
+7.- Costas.
+
+SEGUNDO: Que, como fundamentos de la acción interpuesta, los actores, sostienen, en síntesis:
+
+A)
+antecedentes de la relación laboral:
+
+1.- Fueron contratados por la demandada en virtud de un contrato de trabajo a plazo fijo, sin embargo, al continuar prestando servicios para la demandada, este pasó a tener el carácter de indefinido. El inicio de la relación laboral corresponde a las siguientes fechas:
+
+-
+Alejandro Guillermo Kimer Bahamondes, el 01 de abril de 2014.
+
+-
+María Angelica Poblete Valdebenito, el 01 diciembre de 2014.
+
+-
+Norma Alejandra Urra Villarroel, el 11 de julio de 2022.
+
+2.- las labores para la cual fueron contratados, era para prestar servicios en calidad de “bodeguero” en el caso de Alejandro Kimer, de “cajera” en el caso de María Angelica Poblete, y de “multifuncional de perecibles” en el caso de la demandante Norma Urra, en uno de los locales que posee la cadena de supermercado Provimarket, específicamente el que se encuentra ubicado en Arlegui N° 1102, Viña del Mar.
+
+3- en cuanto a la jornada de trabajo: 45 horas semanales de trabajo efectivo, con una distribución de lunes a sábados, y/o domingos y festivos, dependiendo del horario de cada sucursal.
+
+4.- remuneración mensual era fija y estaba compuesta por sueldo base, gratificaciones legales convencionales de acuerdo con lo establecido en el artículo 50 del código del trabajo y bonos de colación y movilización. Para efectos del artículo 172 del código del trabajo, la base remuneracional corresponde a la siguiente:
+
+-
+$685.611.- pesos, en el caso de Alejandro Kimer B.
+
+-
+$677.857.- pesos, en el caso de María Angelica P.
+
+-
+$644.362.- pesos, en el caso de Norma Urra V.
+
+5.- Se caracterizaron por ser trabajadores con buen desempeño laboral, con conducta intachable, conocedores de todos los procesos al interior del supermercado en nuestras respectivas áreas, y con una buena disposición a cooperar con nuestros colegas de menor experiencia.
+
+B)
+antecedentes del término de la relación laboral.
+
+6.- El 01 de enero 2024, en el local del supermercado Provimarket ubicado en Arlegui 1102 de la Viña del Mar lugar donde prestaban servicios, resultó siniestrado producto de un incendio.
+
+7.- Debido a lo anterior, personal de gerencia de recursos humanos se comunica con ellos ese mismo día, en horario de noche, citándoles a una reunión al día siguiente, específicamente en un templo colindante al local siniestrado, a eso de las 11 hrs. de la mañana, tal como se ilustra a continuación:
+
+8.- al comparecer en dicha reunión, y preocupados por lo que pueda ocurrir con su trabajo, les recibe el gerente de recursos humanos, Pablo Bernal Allendes, el gerente de control y gestión Rony Espinosa Guerra, Elena Montalba Ulloa, Administradora del local Arlegui, y don Alberto Salinas, quien es subadministrador del mismo local, lugar donde se les explica que producto del lamentable incendio que afectó a la sucursal este no iba a poder seguir en funcionamiento por un tiempo indeterminado, pero que sin embargo, no debían preocuparse toda vez que el supermercado ya tenía en vista dos nuevos posibles lugares para que vuelva a funcionar a la brevedad posible, y que además, serían reubicados durante el tiempo intermedio, situación que en ese momento honestamente les tranquilizó.
+
+9.- El 03 de enero de 2024, reciben correo electrónico de don Víctor Ballavares Ramírez, quien es asistente de recursos humanos, indicando la decisión unilateral, de la empresa en otorgarles vacaciones extraordinarias, esto, supuestamente, a contar del 02 de enero hasta el 15 de enero de 2024.
+
+10.- Al pasar los días y sin tener mayores respuestas, el 09 de enero de 2024, se comunica directamente por teléfono con ellos, el gerente de recursos humanos sr Pablo Bernal Allendes, citándoles para el 10 de enero de 2024, pero esta vez, en las oficinas centrales del supermercado, Montaña 800, Viña Del Mar.
+
+11.- En la reunión el discurso de la gerencia había cambiado por completo, ahora se indica que el supermercado “no estaba en condiciones de seguir dándoles trabajo” por lo que serían despedidos por motivo del incendio ocurrido y peor aún, sin ninguna indemnización del despido, y que la única forma de recuperar parte de sus indemnizaciones, era a través de la firma documento de finiquito ante notario, por la causal de “mutuo acuerdo entre las partes” en la que el supermercado ofrecía el pago de la mitad de la indemnización de años de servicio, cuestión que les tomó de sorpresa, y que rechazaron toda vez que se les había prometido que serían reubicados en la reunión anterior. Acto seguido, se mencionó que de todas maneras ya estaban despedidos y que se había mandado la correspondiente carta de despido a sus domicilios.
+
+12.- Ante tal apremiante situación, que en la práctica significaba la pérdida de su empleo, por una parte, pero por otra parte aceptar una indemnización muy por debajo de lo legal, le preguntan al gerente de RRHH don Pablo Bernal, la verdadera razón del porque habían sido citado sólo algunos y no todo el personal del local, y cuáles habían sido los criterios para determinar quienes iban a poder continuar con sus trabajos siendo reubicados en otros locales, y quienes iban a ser despedidos, cuestión que se dijo que los criterios son privados del supermercado y que no se podían comentar.
+
+13.- Debido a lo anterior, realmente no entendían cómo un gran supermercado que cuenta con muchas otras sucursales en toda región (10 contando las oficinas centrales), y que posee una excelente situación económica, no podía hacer el esfuerzo del resguardar su empleo, y en el peor de los casos, despedirles por la causal de necesidades de la empresa para que se pueda pagar las indemnizaciones del despido. Por otra parte, sabían que Provimarket sigue contratando personal nuevo en el resto de sus locales, tanto en los locales ubicados en Limache, Casablanca, Quilpué, Valparaíso, o incluso en el segundo local que posee el supermercado en la misma comuna de viña del mar y que se encuentra ubicado en calle Quillota.
+
+C)
+incumplimiento de las formalidades del despido, despido carente de causa legal e impugnación subsidiaria de la causal invocada.
+
+14.- Al mismo día de la desafortunada reunión.
+
+Al día inmediatamente siguiente), reciben en sus domicilios una comunicación del despido, en la que se indica como causal “caso fortuito o fuerza mayor”, contemplada en el artículo 159 número 6 del código del trabajo. Es decir, cuando asisten a la reunión en las oficinas de la gerencia, el despido ya se había producido tiempo atrás, y el intento de negociar un “mutuo acuerdo” era solo una forma de subsanar un despido a todas luces mal realizado.
+
+15.- en efecto, en tal misiva la demandada en términos generales fundamenta la causal invocada en razón a lo siguiente:
+
+“(...)Los hechos en que se fundan tal decisión, se deben a que, como ha sido público y notorio, con fecha 1 de enero del 2024, a contar de las 18.30 horas aproximadamente, se incendió con pérdida total, el establecimiento de la empresa ubicada en calle Arlegui nº1102, comuna de viña del mar, donde usted prestaba servicios como cajero, reponedor y/o custodia (en el caso del demandante Alejandro k).
+
+Siendo este lamentable incendio un hecho fortuito, de fuerza mayor, inimputable al empleador y cuyo foco aún es objeto de investigación por las autoridades competentes y que al mismo tiempo afecta de manera significativa al patrimonio de la empresa de forma permanente, con pérdidas millonarias lo que hace imposible, que usted continúe, cumpliendo sus labores habituales según el contrato de trabajo celebrado entre la empresa y usted.
+
+En consecuencia, es que, por este medio, comunicamos formalmente a usted, que se puso término a su contrato de trabajo a contar del día 8 de enero de 2024 y que en el finiquito se incluyen los siguientes conceptos (...)”
+16.- en primer término, controvierten la circunstancia de que el despido haya ocurrido el 08 de enero de 2024, ello según se indica en la carta del despido, ya que según como verdaderamente ocurrieron los hechos, la separación de sus funciones ocurrió con fecha 01 de enero de 2024, esto a consecuencia del propio incendio que afectó su lugar de trabajo, por lo que no es efectivo que el despido ocurriera el 08 de enero, sino que el término de la relación laboral más bien se produjo, el 01 de enero de 2024.
+
+17.- Más allá de la fecha que se determine cuando se produce el despido (01 o 08 enero), lo cierto es que la demandada de todas formas no cumplió con las formalidades del despido según lo establecido en el artículo 162 del código del trabajo.
+
+18.- en efecto, el artículo 162 del código del trabajo, establece:
+
+“art. 162. Si el contrato de trabajo termina de acuerdo con los números 4, 5 ó 6 del artículo 159, o si el empleador le pusiere término por aplicación de una o más de las causales señaladas en el artículo 160, deberá comunicarlo por escrito al trabajador, personalmente o por carta certificada enviada al domicilio señalado en el contrato, expresando la o las causales invocadas y los hechos en que se funda.
+
+Esta comunicación se entregará o deberá enviarse, dentro de los tres días hábiles siguientes al de la separación del trabajador. Si se tratare de la causal señalada en el número 6 del artículo 159, el plazo será de seis días hábiles.
+
+Deberá enviarse copia del aviso mencionado en el inciso anterior a la respectiva inspección del trabajo, dentro del mismo plazo.”
+
+19.- pues bien, según se constató en el propio comparendo de conciliación celebrado ante la inspección del trabajo (en la que Provimarket extrañamente no asiste) la copia del aviso del despido a la inspección del trabajo fue remitida fuera de plazo legal, específicamente, se recepcionó por parte de la inspección el 25 de enero de 2024 (en relación a los demandantes María Angelica Poblete y Norma Urra) y el 26 de enero de 2024 (en relación al demandante Alejandro Kimer), es decir, la carta de despido fue enviada al día número 21 y 22 hábil respectivamente de ocurrido el despido. Por otra parte, desconocen el cumplimiento del resto de las formalidades legales, cuestión que le corresponderá a la demandada acreditar su cumplimiento.
+
+20.- en consecuencia, no hubo carta de despido en la forma y plazo previsto en el artículo 162 del código del trabajo, por lo que esta sola circunstancia torna el despido como carente de causa legal.
+
+21.- sin perjuicio de lo anterior, y en el hipotético caso que se determine que se han cumplido con las formalidades legales, en subsidio, alegan haber sido objeto de un despido injustificado, toda vez que no es efectivo que se haya producido un caso fortuito o fuerza mayor, y en consecuencia, sus despidos es injustificado para todos los efectos legales, habida consideración que no se cumplen en la especie la totalidad de los requisitos exigidos por el legislador para la procedencia de la causal de despido aplicada a esta parte.
+
+22.- de la sola lectura de la carta se puede colegir que no se dan los supuestos de hechos para la procedencia de este tipo de causal, veamos:
+
+Señala la carta: “(...)Siendo este lamentable incendio un hecho fortuito, de fuerza mayor, inimputable al empleador y cuyo foco aún es objeto de investigación por las autoridades competentes y que al mismo tiempo afecta de manera significativa al patrimonio de la empresa de forma permanente, con pérdidas millonarias lo que hace imposible, que usted continúe, cumpliendo sus labores habituales según el contrato de trabajo celebrado entre la empresa y usted”
+
+Un primer elemento a determinar en relación a la causal de caso fortuito y fuerza mayor, es que el hecho o suceso que se invoca como constitutivo del caso fortuito o fuerza mayor sea inimputable, esto es, que provenga de una causa enteramente ajena a la voluntad de las partes, en el sentido que éstas no hayan contribuido en forma alguna a su ocurrencia (cuestión que se desconoce), y un segundo elemento, dice relación con qué con que el hecho o suceso en cuestión no sea previsible, sin embargo, la carta es clara en indicar que “el foco aún es objeto de investigación por las autoridades competentes”, por lo que aún no se puede determinar a ciencia exacta si Provimarket Ltda. tuvo alguna responsabilidad directa o indirecta en el origen del incendio, ni tampoco es posible saber con exactitud si este pudo ser previsible.
+
+Por otra parte, la carta agrega otra razón diversa del despido, la cual sería una razón económica, indicando: “y que al mismo tiempo afecta de manera significativa al patrimonio de la empresa de forma permanente, con pérdidas millonarias”, y como sabemos, en materia laboral el despido por razones económicas puede dar origen a otra causal de despido, (como la del artículo 161 inciso primero, por ejemplo), más no a la invocada.
+
+Pero lo más importante es que en relación a la causal invocada tampoco se cumple con el elemento de irresistibilidad que debe existir en este tipo de causal, vale decir, que "no pueda oponerse el agente, que no puede ser contrariada o rechazada por éste", pero a un modo tal que: "importa la nula posibilidad de mantener el puesto de trabajo de los dependientes y, por ende, de cumplir una de las principales obligaciones contractuales de la parte patronal, tornándose inviable la mantención del vínculo e inevitable el término del mismo” sin embargo, supermercado Provimarket cuenta con muchos otros locales en la región, tanto en la ciudad de villa alemana, Quilpué, Casablanca, Viña del Mar y Valparaíso, resultando perfectamente posible su reubicación en otros locales, cuestión que justamente se nos comunicó al día siguiente de la ocurrencia del incendio por parte de sus propios superiores directos, en la que se nos informó que serían reubicados mientras encontraban un nuevo local para funcionar.
+
+23.- tanto es así que el propio subadministrador del local Provimarket Arlegui de Viña del Mar, sr Alberto Salinas, en una entrevista realizada el 05 de enero de 2024 al diario -la estrella de Valparaíso-, falta a la verdad públicamente, indicando expresamente lo siguiente: “la gente (trabajadores) quedo con su trabajo asegurado, están reubicados en los diferentes locales de la compañía”.
+
+24.- lo cierto es que su actividad en la empresa siempre fue constante, responsable y comprometida, la empresa debía hacer todo lo posible para evitar el término de su relación laboral, cuestión que además de no hacerlo, simplemente les engaña, sobre todo considerando que corresponde a una gran empresa, que cuenta con varios locales en la región, y que el incendio no afecta para nada el funcionamiento de la misma, o en el peor de los casos, optar por la suspensión de las principales obligaciones que emanan del contrato, en el caso de efectivamente ocurrir un caso fortuito o fuerza mayor (ord. N°569/6 dirección del trabajo), sin embargo, derechamente decide aprovechar la oportunidad de despedir trabajadores, muchos de ellos sindicalizados y con varios años de servicio, sin sus indemnizaciones legales.
+
+25.- así las cosas, es posible apreciar que el despido del cual fueron objeto, no se ajustó a derecho, y se materializó de forma indebida e injustificada, por lo que, corresponde acoger la acción de despido injustificado, en subsidio de la acción por despido incausado, declarando dicha circunstancia y condene a la demandada a la totalidad de las indemnizaciones y prestaciones que más adelante se indican.
+
+Fundamentos de derecho
+
+Conforme a los hechos narrados, las pretensiones alegadas y demandadas se sustentan en los siguientes puntos de derecho, a saber:
+
+A.
+En cuanto al despido carente de causa legal.
+
+1.- el artículo 168 del código del trabajo. Lo trascribe.
+
+2.- el artículo 162 del código del trabajo. Lo trascribe.
+
+3.- según lo relatado no hubo carta de despido en la forma y plazo previsto en el artículo 162 del código del trabajo, por lo que nos encontramos ante una carta sin el señalamiento de causa legal y sin el aviso – en forma y plazo – ya que esta comunicación no se entregó en su momento, desconocen si se envió a sus domicilios dentro de los 6 días siguientes a la separación, y al no haber enviado copia del aviso a la inspección dentro del mismo plazo legal, les lleva a sostener que estamos ante un despido sin señalamiento de hechos al efecto, y sin causal invocada. No hay carta de aviso en la forma y plazo establecido por la ley y por ende no hay hechos explícitamente imputados.
+
+B.
+En cuanto a la acción subsidiaria de despido injustificado.
+
+4.- el artículo 45 del código civil. Lo trascribe.
+
+En materia laboral, el empleador para poner término al contrato de trabajo de sus empleados, frente a la contingencia, no debió estar en condiciones de enfrentar la nueva realidad, de un modo tal que es imposible mantener los puestos de trabajo, por lo que el término de la relación laboral es una consecuencia inevitable. De esta forma, si existe la posibilidad de cumplir con el compromiso laboral, aunque sea con dificultades, no procede la causal consistente en la fuerza mayor o caso fortuito.
+
+5.- el fundamento del caso fortuito como causa de terminación del contrato de trabajo se basa en la imposibilidad de ejecución del mismo contrato. Por consiguiente, como ha señalado la jurisprudencia “no constituye caso fortuito la ocurrencia de un hecho que hace más gravoso para el empleador el cumplimiento del contrato de trabajo. Así, si solo se daña el establecimiento, pero de todas maneras se puede cumplir con la obligación de proporcionar trabajo, aunque sea más oneroso, el empleador no queda excusado de dicha obligación, por lo que la terminación del contrato de trabajo en virtud de dicho supuesto es injustificado; por lo que procede el pago de la indemnización por falta de aviso y años de servicios”. (derecho del trabajo. Derecho individual del trabajo. Irene Rojas Miño. Pp 408. 2015 legal publishing chile.)
+
+Por su parte, la jurisprudencia administrativa emanada de la dirección del trabajo, aplicando los conceptos del derecho común ha sido constante en determinar los siguientes requisitos para la procedencia de la causal de caso fortuito o fuerza mayor (dictámenes nºs 1.412/21 de 2010 y 1.922/34 de 2015).
+
+La causal de despido antes indicada se debe aplicar en casos excepcionales, de manera restrictiva y cumpliéndose ciertos requisitos copulativos, como ser en el caso de incendios:
+
+A)
+que los daños ocurridos en las instalaciones de la empresa se deban causalmente a la verificación de los incendios,
+
+B)
+que el empleador que invoque esta causal no puede haber contribuido, por acción u omisión, al acaecimiento del incendio o a sus efectos lesivos.
+
+C)
+que el incendio no se haya podido prever dentro de cálculos ordinarios o corrientes, y
+
+D)
+que el incendio y sus efectos directos sean irresistibles, esto es, que suponga la nula posibilidad de mantener el puesto de trabajo de los trabajadores y, por ende, de cumplir con las obligaciones contractuales de la parte empleadora.
+
+En lo concerniente al requisito d), esto es, a la irresistibilidad, se ha señalado que, como también lo ha sostenido la jurisprudencia de los tribunales, frente a la contingencia "no pueda oponerse el agente, que no puede ser contrariada o rechazada por éste", pero a un modo tal que "importa la nula posibilidad de mantener el puesto de trabajo de los dependientes y, por ende, de cumplir una de las principales obligaciones contractuales de la parte patronal, tornándose inviable la mantención del vínculo e inevitable el término del mismo." agrega que por eso, se comparte el criterio jurisprudencial, según el cual "el examen de (la) imposibilidad de resistir las consecuencias de un siniestro, obliga a revisar aspectos concretos de la faena en cuestión, el proceso productivo que importa, las características de las dependencias en que éste se desarrolla y el papel o labor de los dependientes exonerados en ella."
+
+De esta manera, si existe la posibilidad de cumplir con la obligación, aunque sea con dificultades, no procede que opere como modo de extinguir las obligaciones, el caso fortuito o fuerza mayor, pues no aparecerá como completamente irresistible por ejemplo el terremoto y sus efectos directos, como sería el caso en que un empleador que hubiere sufrido la destrucción completa de sus instalaciones en una ciudad determinada, pero que tuviere otra u otras instalaciones a las cuales pudiere trasladar a quienes laboraban allí;
+
+De los hechos narrados es claro que no se configura el caso fortuito al faltar el elemento de la irresistibilidad; ya que éste es concebido por la doctrina en términos absolutos, como sinónimo de imposibilidad de superar el obstáculo provocado por el caso fortuito.
+
+Así, sería irresistible aquello que es inevitable tanto para el deudor como para cualquier persona colocada en esa situación. Se ha resuelto que un incendio de un solo local en la empresa no constituye un caso fortuito para configurar la causal de terminación del contrato del número 6 del artículo 159 del código del trabajo, dado que sólo provoca una suspensión transitoria del servicio en un lugar determinado y el perjuicio económico provocado al empresario no fue de tal entidad que le provocará de manera permanente proseguir con su actividad habitual.
+
+TERCERO: Que, Distribuidora Y Comercial Provimarket Ltda., ya individualizada, contesta la demanda solicitando se rechace en todas sus partes con costas, en mérito de las alegaciones, consideraciones y defensas, siguientes:
+
+I.- Negación de hechos.
+
+En virtud de lo dispuesto en el artículo 452 inciso segundo del código del trabajo, niega en forma expresa y concreta todos los hechos afirmados en la demanda que no sean expresamente reconocidos en la contestación. Especialmente, señala que el despido de los demandantes ha sido ajustado a derecho, siendo procedente y justificado, por lo que no se adeuda ninguna indemnización sustitutiva del aviso previo, años de servicio, recargo legal demandado, feriado y, menos aún, cualquier descuento indebido, ni las costas reclamadas.
+
+El libelo carece de fundamentos efectivos. Resulta evidente, y así quedará acreditado en este juicio, los actores intentan obtener un rédito por esta vía, invocando y relatando una serie de conductas alejadas de la realidad, que supuestamente fueron desplegadas por mi representada y sus jefaturas, presentando como efectivos hechos inexistentes y falsos, que obedecen únicamente a una elaboración acomodaticia de un relato que no da cuenta de la realidad, sino de una mera invención, adecuando la demanda a una pretensión infundada.
+
+Contesta derechamente la demanda.
+
+1.
+En
+cuanto
+a
+la
+relación
+laboral
+de
+los actores con distribuidora y comercial provimarket limitada.
+
+María Angelica Poblete Valdebenito, prestó servicios como “cajero, reponerdor y/o custodia”, en el establecimiento de Arlegui n°1102, desde el 01 de diciembre del 2014, hasta el 08 de enero de 2024, fecha en que se pone término a los servicios de la actora por la causal contemplada en el artículo 159 N.º 6 del código del trabajo, caso fortuito o fuerza mayor, cumpliendo las formalidades que la ley establece, extendiendo finiquito y recibiendo la sumas legalmente correspondientes, de acuerdo a la normativa laboral, por concepto de feriado proporcional.
+
+Norma Alejandra Urra Villarroel, prestó servicios como “multifuncional de perecibles”, en el mismo establecimiento desde el 11 de julio del 2022, hasta el 08 de enero de 2024, cuando se pone término a los servicios de la actora por la misma causal y cumpliéndose iguales formalidades que en el caso anterior. Por último, Don Alejandro Guillermo Kimer Bahamondes, prestó servicios para provimarket, como “bodeguero o peoneta y/o reponedor”, en el establecimiento referido desde el 01 de abril de 2014, hasta el 08 de enero de 2024, oportunidad en la que se le despide por igual causa y cumplimiento de las formalidades legales al igual que en los casos anteriores.
+
+2.- de la justificación del despido de los actores.
+
+El despido de los actores se ajustó plenamente a derecho y se llevó a cabo, cumpliendo a cabalidad las formalidades exigidas por la ley.
+
+Conforme las cartas de aviso, el término de los contratos de los actores se funda en la causal del artículo 159 n°6 del código del trabajo, caso fortuito o fuerza mayor, fundándose éste en los hechos debidamente descritos en la referida carta, a saber:
+
+- caso fortuito o fuerza mayor.
+
+“los hechos que fundan tal decisión se deben a que como ha sido público y notorio, con fecha 1° de enero de 2024, a contar de las 18:30 horas aproximadamente, se incendió con pérdida total, el establecimiento de la empresa ubicado en calle Arlegui n.º 1102, comuna de viña del mar. Siendo este lamentable incendio un hecho fortuito, de fuerza mayor, inimputable al empleador y cuyo foco aun es objeto de investigación por las autoridades competentes y que al mismo tiempo afecta de manera significativa el patrimonio de toda la empresa de forma permanente, con pérdidas millonarias, que no solo han afectado el funcionamiento del local de calle Arlegui, sino que toda la estructura operativa y financiera de la sociedad, se hace imposible que usted continúe cumpliendo sus labores habituales de xxx según el contrato de trabajo celebrado entre la empresa y usted.”
+
+En este punto hace presente, que, en el ámbito del derecho del trabajo, no existe un concepto de caso fortuito o fuerza mayor, lo que nos obliga a recurrir al derecho común, a fin de delinear sus requisitos.
+
+Así, de acuerdo con lo que señala el artículo 45 del código civil, caso fortuito o fuerza mayor es “el imprevisto a que no es posible resistir, como un naufragio, un terremoto, el apresamiento de enemigos, los actos de autoridad ejercidos por un funcionario público, etc.”
+
+Es así como la jurisprudencia ha sostenido que la disposición citada para su cumplimiento debe cumplir con los siguientes requisitos copulativos:
+
+Inimputabilidad: es decir, que el hecho o suceso que se invoca como fuerza mayor, debe provenir de una causa enteramente ajena a la voluntad de las partes, es decir, que ninguno de ellos haya contribuido en forma alguna a su ocurrencia. Así lo ha señalado claramente la dirección del trabajo.
+
+En el caso de marras, claramente no existe la voluntad de la parte demandante en incumplir las funciones para las cuales fue contratado, ya que en ese caso estaríamos frente a otra causal de despido. De la misma forma, las circunstancias en que se funda la causal de despido, tampoco han provenido de un hecho o culpa de esta parte, el empleador o del hecho o culpa de las personas por quien responde. Por ende, resulta indubitado el cumplimiento de este requisito.
+
+Imprevisibilidad: es decir, que no se haya podido prever dentro de los cálculos ordinarios o corrientes. Que no se haya podido anticipar vinculado a las probabilidades.
+
+En palabras de don René Abeliuk, debe tratarse de un hecho que las partes no han podido prever al momento de celebrar el acto o contrato. Al respecto, cita una sentencia de la corte suprema que señala que “el hecho es imprevisto cuando no hay razón especial para creer en su realización, y ni el agente ni persona alguna colocada en sus mismas circunstancias habría podido evitar sus consecuencias” (abeliuk manasevich, rene. “las obligaciones”. Tomo ii.)
+
+En el ámbito laboral y atendido a que la forma de iniciar el vínculo laboral es mediante la celebración de un contrato de trabajo, es necesario adecuar la definición a la posibilidad de representarse -al momento de la celebración del contrato- la ocurrencia de algún hecho que excepcionalmente puede ocurrir.
+
+En la especie, a la fecha de celebración del contrato de trabajo, nadie podía presagiar que se produciría un incendio masivo, de las características del que afectó en enero de este año al local de calle Arlegui, ni los efectos y repercusiones que éste tendría para la empresa.
+
+Irresistible: en términos generales significa que el deudor no haya podido evitar sus consecuencias, es decir, impide al deudor, bajo todo respecto o circunstancia, poder cumplir.
+
+Es así como diversas sentencias de la Corte Suprema han sostenido que un hecho es irresistible cuando no es posible evitar sus consecuencias, en términos que ni el agente ni ninguna otra persona colocada en las mismas circunstancias habría podido preverlo ni evitarlo.
+
+Por su parte, Rene Abeliuk señala que “lo que caracteriza al caso fortuito es la imposibilidad total, absoluta; nadie, ni el deudor ni persona alguna en sus circunstancias, habría podido impedirlo”
+
+La aplicación de la causal del artículo 159 n°6 del código del trabajo en el caso de marras, se ajusta a derecho y se encuentra plenamente justificada. Se basa en hechos objetivos, públicos y notorios, lo que será debidamente acreditado en juicio, y además, sus consecuencias han sido de tal relevancia que le han obligado a invocarla, y ha sido la raíz causal del despido cuestionado. En este caso, se vio en la necesidad de invocar la causal de caso fortuito o fuerza mayor, y no sólo en el despido del los demandantes, sino en numerosos otros casos, debido a que el siniestro que afectó las instalaciones referidas fue de enormes proporciones, no parcial o circunscrito a una parte de las instalaciones afectadas, sino con pérdida total de éstas, así como de los productos, mercaderías, maquinarias, oficinas, etc, y con graves consecuencias para el normal curso de la actividad económica de Provimarket, ello por cuanto el establecimiento afectado por el siniestro, no se trata simplemente de un local más de la empresa, sino del principal local de la compañía, el que registraba las mayores ventas y afluencia de clientes, muy por sobre los demás locales, lo que ha implicado un impacto económico gravísimo e inmediato, pues no sólo se ha visto impactado el patrimonio e inventario de la empresa, sino fundamentalmente su flujo de caja, esto es la capacidad para generar el flujo de dinero que le permita cubrir sus obligaciones, por lo que las definitivas consecuencias de lo ocurrido no es un tema aun resuelto, pues un evento de la gravedad del siniestro que afectó a mi representada, pone en riesgo incluso la continuidad de la operación de la compañía.
+
+En este sentido, tal y como se señala en la carta de aviso de término de contrato, el siniestro ocurrido en el local referido, ha sido un hecho de tal gravedad y envergadura, que ha afectado gravemente el patrimonio y los flujos de la empresa, de forma inmediata y permanente, con pérdidas millonarias, que no se han limitado al local, sino que han impactado a toda la estructura operativa y financiera de esta parte, por lo que la continuidad laboral no solo de los extrabajadores demandantes, sino de numerosos otros trabajadores, devino en imposible como consecuencia del acaso ocurrido.
+
+En atención a ello precisamente, no es efectivo lo afirmado en la demanda, en cuanto a que el contrato de trabajo de los actores fue concluido sin justificación; ha ocurrido precisamente lo contrario, tal como lo precisa la respectiva carta de término de contrato de trabajo, que explica pormenorizadamente los fundamentos de la decisión tomada, por lo que no se ha puesto término al contrato por una decisión antojadiza, sino que por los graves hechos descritos en la carta de despido, lo que determina la procedencia de la aplicación de la causal de término de contrato de trabajo prevista en el artículo 159 n°6 del código del trabajo, como se acreditará en las audiencias correspondientes.
+
+Asimismo, al tenor de lo señalado esta parte reitera que no son efectivos los hechos, conductas e imputaciones que se contienen en la demanda de autos.
+
+Los demandantes hacen en su demanda un extenso e intrincado relato en el que intenta atribuir una serie de conductas, con el fin de distraer el fondo del asunto, que el despido se encuentra justificado y ajustado a derecho por la causal invocada. Sin embargo, resulta evidente que tergiversan los hechos, a objeto de adecuar su retórica al objetivo que persigue.
+
+En consecuencia, los despidos están indisolublemente asociados a las circunstancias señaladas en la carta de término de contrato, las que son estrictamente objetivas y no obedecen a ningún otro tipo de circunstancia. En efecto, los despidos de los demandantes se producen exclusivamente debido a la causal de caso fortuito o fuerza mayor, y no por el mero arbitrio de mi representada, como pretende el demandante en su relación de hechos, fundamentada en situaciones de hecho precisas y determinadas ya explicadas en la carta respectiva.
+
+3.- en cuanto a las prestaciones demandadas:
+
+Al tenor de lo expuesto resulta improcedente la pretensión de los pagos por conceptos supuestos de indemnizaciones y descuentos indebidos, toda vez que esta parte ha sido patrimonialmente afectada, de manera grave, respecto del establecimiento siniestrado, cuya ubicación se encontraba donde prestaban sus labores los demandantes, existiendo por tanto una acreditable y objetiva relación de causalidad entre el lamentable hecho ocurrido (incendio) y los despidos realizados, toda vez que esta circunstancia se encuentra particularmente contemplada en nuestro ordenamiento jurídico, en circunstancias que el propio legislador reconoció su eventualidad y procedencia en el código del trabajo ¿cómo puede pretenderse injustificado un despido por la causal de caso fortuito o fuerza mayor aun mediando un siniestro de incendio de por medio?
+
+1)
+así es, como la decisión extintiva del contrato de trabajo del denunciante, adoptada por mi representada, se ha enmarcado estrictamente en la facultad que le confiere el artículo 159, número 6° del código del trabajo y no como una “oportunidad” o “ventaja”, como se intenta hacer creer en la demanda. Se ha invocado en la carta de despido la circunstancia propia del “caso fortuito o fuerza mayor” y se han explicitado, tanto en la carta de despido como en los párrafos precedentes, todos y cada uno de los fundamentos de hecho de la causa legal de despido, invocándose hechos que serán acreditados y que en el extremo improbable para la demandada, en caso de no resultar probados, darán lugar a la sanción prevista en el artículo 168 del código del trabajo, al tratarse, en ese evento, de un despido improcedente.
+
+En efecto, el despido de los demandantes se produjo exclusivamente debido a la causal de caso fortuito o fuerza mayor, fundamentada en situaciones de hecho muy precisas, pormenorizadas en la carta respectiva, que han afectado a todas las áreas de funcionamiento de la empresa.
+
+2)
+Entienden y con profundidad, el malestar que le produce a todo trabajador, la circunstancia de ver su contrato de trabajo terminado. Sin embargo, en la especie, por una parte, tal terminación obedece al legítimo ejercicio de facultades constitucionales y legales de que es titular la empresa y por otra, tal afectación no constituye una necesaria afectación de los derechos laborales, ni sus formalidades, invocados por los demandantes.
+
+Por tanto, en atención a lo expuesto y según lo dispuesto por las normas legales citadas, especialmente los artículos 159 y siguientes del código del trabajo, artículos 466 y demás pertinentes del código del trabajo y otras disposiciones legales que resulten aplicables; solicita en definitiva, rechazarla en todas sus partes, por no haber incurrido en un despido carente de causa legal y rechazar las restantes indemnizaciones y prestaciones demandadas por improcedentes, todo ello con costas, atendida su manifiesta falta de fundamento.
+
+Igualmente, y desde ya, solicita sea rechazada en todas sus partes, con expresa condenación en costas, en virtud de los argumentos expresado, que por razones de economía procesal solicita dar por expresamente reproducidos para todos los efectos legales, declarando que el despido de los actores es procedente y conforme a derecho, con costas.
+
+CUARTO: Que, en la audiencia preparatoria, luego de fracasar el llamado a conciliación, el Juez dejó constancia sobre los siguientes hechos pacíficos:
+
+Que la relación laboral que vinculó como empleadora a la sociedad demandada, con Alejandro Guillermo Kimer Bahamondes; inició el 01 de abril de 2014, respecto de María Angélica Poblete Valdebenito, el 01 de diciembre 2014 y respecto de Norma Alejandra Urra Villarroel el 11 de julio del año 2022, que Todos los demandantes prestaban sus servicios en local ubicado en Calle Arlegui n°1102 de Viña del Mar.
+
+Enseguida recibió la causa a prueba fijando los siguientes hechos a probar:
+
+1. Fecha de término de la relación laboral, causal por la que se puso término y cumplimiento de las formalidades legales del mismo.
+
+2. Remuneración pactada y efectivamente percibida por los trabajadores, rubros que la componen.
+
+3. Efectividad de que al término de la relación laboral a los trabajadores se le compensó económicamente por el feriado legal y proporcional o que hicieron uso de dicho derecho.
+
+QUINTO: Que, en la audiencia de juicio, se incorporó por las partes, la siguiente prueba:
+
+DEMANDADA.
+
+DOCUMENTAL:
+
+1. Contrato de trabajo de fecha 01 de diciembre de 2014, anexo 01 de febrero de 2015, anexo 01 de Mayo de 2015, anexo 01 de julio de 2015, anexo 01 de octubre de 2015, anexo 01 de diciembre de 2015, anexo 01 de febrero de 2016, anexo 01 de febrero de 2017, anexo 01 de febrero de
+
+2018, anexo 01 de marzo de 2018, anexo 15 de febrero de 2018, anexo 01 de marzo de 2019, Anexo 01 de marzo de 2020, anexo 01 de enero de 2021, anexo 01 de enero de 2022, anexo 01 de Agosto de 2022, anexo 01 de enero de 2023, anexo 01 de septiembre de 2023, anexo 01 de enero de 2024 , todos de la ex trabajadora doña María Angélica Poblete Valdebenito.
+
+2. Contrato de trabajo de fecha 11 de julio de 2022, anexo 01 de agosto de 2022, anexo 01 de Septiembre de 2022, anexo 01 de diciembre de 2022, anexo 01 de diciembre de 2022, anexo 01 de enero de 2023, anexo 01 de septiembre de 2023, anexo 01 de enero de 2024, todos de la ex trabajadora doña Norma Alejandra Urra Villarroel.
+
+3. Contrato de trabajo de fecha 01 de abril de 2014, anexo 01 de mayo de 2014, anexo 01 de junio de 2014, anexo 01 de julio de 2014, anexo 01 de septiembre de 2014, anexo 01 de octubre de 2014, anexo 01 de abril de 2015, anexo 01 de julio de 2015, anexo 01 de octubre de 2015, anexo 01 de febrero de 2016, anexo 01 de abril de 2016, anexo 01 de febrero de 2017, anexo 01 de Febrero de 2018, anexo 15 de febrero de 2018, anexo 01 de marzo de 2018, anexo 31 de julio de 2018, anexo 01 de marzo de 2019, anexo 01 de marzo de 2020, anexo 01 de marzo de 2020, Anexo 01 de noviembre de 2020, anexo 01 de enero de 2021, anexo 23 de noviembre de 2021, Anexo 01 de enero de 2022, anexo 01 de agosto de 2022, anexo 01 de septiembre de 2023, anexo 01 de enero de 2024, todos del ex trabajador don Alejandro Guillermo Kimer Bahamondes.
+
+4. Carta aviso de término de trabajo, carta certificada y comprobante envío dirección del trabajo, de fecha 08 de enero de 2024 - Alejandro Guillermo Kimer Bahamondes.
+
+5. Proyecto de finiquito y comprobante de pago, de fecha 15 de enero de 2024 – Alejandro Guillermo Kimer Bahamondes.
+
+6. Carta aviso de término de trabajo, carta certificada y comprobante envío dirección del trabajo, de fecha 08 de enero de 2024 – María Angelica Poblete Valdebenito.
+
+7. Proyecto de finiquito y comprobante de pago, de fecha 16 de enero de 2 024 – María Angélica Poblete Valdebenito.
+
+8. Carta aviso de término de trabajo y comprobante envío dirección del trabajo, de fecha 08 de Enero de 2024 – Norma Alejandra Urra Villarroel.
+
+9. Proyecto de finiquito y comprobante de pago, de fecha 15 de enero de 2024 – Norma Alejandra Urra Villarroel.
+
+10. Constancia parte policial de Carabineros De Chile, prefectura viña del mar, de la primera Comisaria de viña del mar, presentada por don Hernán Guillermo Garrido Gaillard, de 02 de enero de 2024 n°0000004/2024.
+
+11. Certificado n°9, n°10 y n°11, emitido por el cuartel general del cuerpo de bomberos de viña Del mar, con fecha 04 de enero de 2024.
+
+12. Presupuesto de demolición de supermercado Provimarket siniestrado, ubicado en calle Arlegui N°1102 al 1112, esquina calle crucero, ciudad de viña del mar, emitido por Bacigalupo Demoliciones, de fecha 08 de marzo de 2024.
+
+13. Detalle y descripción del proceso de i) retiro y disposición final de mercaderías y escombros, ii) Desarme de estructura y iii) otros, por la suma ascendente de $35.406.895.
+
+14. Catastro de gastos de organización y puesta en marcha post siniestro, siniestro n°sin5489- 2024, liquidador Charles Taylor, aseguradora Contempora, por la suma ascendente a $49.278.186.
+
+15. Set de 7 captura de pantalla referentes a distintos medios electrónicos de comunicación – Cobertura incendio local calle Arlegui n°1102, viña del mar Provimarket.
+
+CONFESIONAL:
+
+Previo juramento de rigor procede a absolver posiciones los actores.
+
+TESTIMONIAL:
+
+Previo juramento de rigor presta declaración:
+
+1. Pablo Javier Bernal Allendes, Sub. Gerente de recursos Humanos, domiciliados para estos efectos en montaña n°800 viña del mar.
+
+1. Rony Alexis Espinosa Guerra, gerente de negocio, mismo domicilio.
+
+DEMANDANTE.
+
+DOCUMENTAL:
+
+1. Carta de despido del demandante Alejandro Guillermo Kimer Bahamondes.
+
+2. Liquidación de remuneración de Alejandro Guillermo Kimer Bahamondes correspondiente a diciembre de 2023.
+
+3. Acta de comparendo de conciliación de Alejandro Guillermo Kimer Bahamondes.
+
+4. Carta de despido de la demandante María Angélica Poblete Valdebenito.
+
+5. Comprobante de carta de aviso de término de contrato emitido por la dirección del trabajo, de María Angélica Poblete Valdebenito.
+
+6. Contrato de trabajo de María Angélica Poblete Valdebenito.
+
+7. Liquidación de remuneración de María Angélica Poblete Valdebenito, correspondiente a octubre, noviembre y diciembre de 2023.
+
+8. Acta de comparendo de conciliación María Angélica Poblete Valdebenito.
+
+9. Comprobante de carta de aviso de término de contrato emitido por la dirección del trabajo, de Norma Alejandra Urra Villarroel.
+
+10. Liquidación de remuneración de Norma Alejandra Urra Villarroel. Correspondiente a septiembre, octubre y diciembre de2023.
+
+11. Acta de comparendo de conciliación de Norma Alejandra Urra Villarroel.
+
+12. Capturas de pantallas del perfil “supermercado Provimarket” en la red social facebook, sobre Oferta de trabajos, correspondientes a las siguientes fechas: 29 de abril 2024 16, 20, 22 y 27 de Mayo de 2024 04 y 21 de junio de 2024.
+
+13. Publicación del diario la estrella de Valparaíso, con fecha 05 de enero de 2024, en la que se Entrevista al Sr Alberto Salinas, subadministrador de local Provimarket Calle Quillota, viña del mar.
+
+14. Dos fotografías correspondientes a un nuevo local en calle Quillota, Viña Del Mar. La primera de enero de 2024, y la segunda en abril de 2024.
+
+15. Dos fotografías, correspondientes a la reconstrucción del local siniestrado en calle Arlegui Nº1112, de julio de 2024.
+
+16. Certificado emitido por la dirección de obras de la ilustre municipalidad de viña del mar, de 26 de abril de 2024, en la que se otorga certificado de regulación (permiso y recepción Definitiva) de la edificación destinada al nuevo y futuro local comercial Provimarket ubicado en Arlegui 1112, Viña del Mar.
+
+CONFESIONAL:
+
+Previo juramento de rigor procede a absolver posiciones Manuel José Aliaga García.
+
+TESTIMONIAL:
+
+Previo juramento de rigor presta declaración:
+
+1. CELIA FABIOLA RIVILLO GONZALEZ, domiciliada en Avenida Frei n°3625 Miraflores, Viña Del Mar.
+
+2. JUAN AMADOR NEIRA ROMO, domiciliado en Tomas Edison N° 380, Quilpué.
+
+OTROS MEDIOS DE PRUEBA.
+
+EXHIBICIÓN DE DOCUMENTOS:
+
+La parte demandada exhibe los siguientes documentos:
+
+1. Carta de despido de todos los demandantes, con su respectivo comprobante de envío por carta certificada, y respectivo comprobante de envío a la dirección del trabajo.
+
+2. Liquidaciones de remuneraciones de los demandantes, correspondiente a los tres meses completos trabajados previos al despido.
+
+SEXTO: Que, como se dejó constancia en la audiencia preparatoria, las partes entre sí no han planteado debate acerca de la fecha de ingreso a prestar servicios de cada uno de los actores, lo que por lo demás, se desprende de los contratos de trabajo que han sido agregados como medios de prueba. De estos mismos medios de prueba se concluye que las labores contratadas por la empresa respecto de cada uno de los demandantes son las que éstos afirman en su libelo.
+
+SEPTIMO: Que, respecto de la fecha en la que se produjo el despido de los demandantes, el tribunal ha llegado a la conclusión que éstos se produjeron el 8 de enero de 2024. En efecto, si bien, de la prueba rendida es posible concluir que las partes han demostrado, especialmente con la testifical y confesional de ambas partes, que a partir del 1 de enero de 2024, fecha en la que indiscutiblemente se produjo un siniestro que destruyó el local comercial en el que trabajaban todos los actores, el que fue consumido por un incendio, como por lo demás es un hecho público y notorio, se desarrollaron encuentros entre trabajadores y personeros de la demandada, celebradas tanto en las dependencias de una iglesia aledaña al supermercado y local quemado y también en la casa matriz de la demandada, en las que se trataron temas referidos a las consecuencias y destino de los trabajadores que se desempeñaban allí, incluso, es posible concluir de estos antecedentes y declaraciones que, especialmente, en la segunda de estas reuniones, efectivamente se planteó a los actores poner término al contrato de trabajo por acuerdo mutuo de las partes, lo que éstos no aceptaron, no es menos cierto que solo el 9 de enero de 2024, como se demuestra documentalmente, se enviaron a los actores las cartas certificadas respectivas y a sus domicilios señalados en sus contratos, comunicando a cada uno de ellos que la relación laboral concluía a partir del 8 de enero y por la causal establecida en el numeral 6° del artículo 159 del código del ramo. La circunstancia de no haberse cumplido con el envío de la comunicación a la dirección del trabajo, sino muchos días después, como lo demuestran los documentos, también aportados a la causa, no invalida la decisión de poner término a los contratos en la fecha indicada que es aquella en la que se comunicó a los trabajadores del modo ya señalado.
+
+En consecuencia, el despido de los actores ocurrió el 8 de enero de 2024 y tuvo lugar tras haber el empleador invocado respecto de cada uno de ellos la causal prevista en el artículo 159 numeral 6° esto es, caso fortuito o fuerza mayor.
+
+OCTAVO: Que, como se puede verificar de la lectura de todas las cartas de despido allegadas a la causa y que corresponden a los actores, en cuanto a los fundamentos de la separación de éstos, esgrimen:
+
+“(...)Los hechos en que se fundan tal decisión, se deben a que, como ha sido público y notorio, con fecha 1 de enero del 2024, a contar de las 18.30 horas aproximadamente, se incendió con pérdida total, el establecimiento de la empresa ubicada en calle Arlegui nº1102, comuna de viña del mar, donde usted prestaba servicios como cajero, reponedor y/o custodia (en el caso del demandante Alejandro k).
+
+Siendo este lamentable incendio un hecho fortuito, de fuerza mayor, inimputable al empleador y cuyo foco aún es objeto de investigación por las autoridades competentes y que al mismo tiempo afecta de manera significativa al patrimonio de la empresa de forma permanente, con pérdidas millonarias lo que hace imposible, que usted continúe, cumpliendo sus labores habituales según el contrato de trabajo celebrado entre la empresa y usted.
+
+En consecuencia, es que, por este medio, comunicamos formalmente a usted, que se puso término a su contrato de trabajo a contar del día 8 de enero de 2024 y que en el finiquito se incluyen los siguientes conceptos (...)”
+
+NOVENO: Que, como ya se ha dicho en esta misma sentencia, resulta efectivo que el local en el que los tres actores prestaban sus servicios, fue afectado por un incendio el 1 de enero de 2024, lo que es un hecho público y notorio que, por lo demás, ninguna de las partes discute. Ahora bien, como se desprende de la prueba rendida, especialmente de los certificados de bomberos de Viña del Mar agregados a la causa, dicho incendio destruyó el 100 por ciento del mencionado local comercial.
+
+Respecto de las consecuencias, más allá de lo evidente, y especialmente en lo relativo a la afectación patrimonial que debió soportar la empresa a consecuencia del siniestro aludido, el empleador se valió principalmente de tres documentos y atestados de sus testigos en estrados. Respecto de los documentos, es preciso señalar que estos consisten en una carta dirigida a la empresa por Bacigalupo Demoliciones en la que precisa que la demolición del local siniestrado tiene un valor de $19.500.000 más IVA y detalla el procedimiento para realizar la demolición. El segundo es un resumen ejecutivo de gastos referidos a retiro y disposición final de mercadería y escombros, desarme de estructuras, otros varios, e incluye el costo de demolición ya mencionado. El tercer y último documento es el detalle de los costos anteriores y también fue elaborado por la demandada. Ninguno de estos costos mencionados en los documentos ha sido apoyado con documentos que, como facturas que se mencionan en el detalle aludido, demuestren la efectividad de haberse incurrido en ellos. En efecto, si bien, como se ha dicho, en el tercer documento revisado se menciona la existencia de facturas que demostrarían su pago, por cada uno de los ítems que se mencionan, dichas facturas, como si hubieran sido pagadas, no fueron acompañadas a la causa. A estos gastos y valores se refieren también los testigos, quienes, siendo dependientes de la demandada, respecto de la repercusión financiera del siniestro para la empresa, refieren que el local quemado habría sido el de mayor venta de todos los que se encuentran emplazados en diferentes ciudades, Viña del Mar, Valparaíso y otras ciudades del interior de la región de Valparaíso, mencionando que el siniestro le ha privado a la empresa de estos ingresos y por ello se ha desmejorado la situación financiera de la misma. Sin embargo, tampoco se ha allegado a la causa información precisa sobre esta situación, es decir, no hay antecedentes que avalen ni el monto al que ascendían las ventas del local quemado, ni otros que permitan al tribunal concluir en qué situación financiera ha quedado la demandada luego de la pérdida de este local. Lo que, además, agregan los testigos de la demandada y a ello se refieren también los de la demandante, es que la empresa ha realizado esfuerzos hasta la fecha, para rehabilitar el local siniestrado y que se encuentra en sus planes que éste vuelva a funcionar, aunque a la fecha de la audiencia de juicio ello aún no ocurre. Los demás locales, en total 7 que posee la empresa, de acuerdo con estas declaraciones, se encuentran funcionando con normalidad, también refiriendo los testigos de la demandada, que, dado que en el rubro la rotación de trabajadores es alta pues, entre otras razones, se verifican renuncias, en el periodo 2024 y hasta la fecha, han contratado personal.
+
+Enseguida, de la prueba rendida en estos autos, de la carta de despido, específicamente, es posible concluir que, a la fecha de los despidos, esto es, el 08 de enero de 2024, no había conclusiones acerca del lugar en que estuvo el foco del siniestro y aunque los testigos en estrados refieren que éste habría estado en una bodega de cartones vecina del supermercado ubicada en un pasaje colindante, no existe, en esta causa, prueba concluyente al respecto.
+
+Adicionalmente, acerca de la suerte que corrieron los restantes trabajadores del local, solo se cuenta con declaraciones de testigos y absolución de posiciones, pudiéndose concluir de estos antecedentes, que solo algunos, en número indeterminado, fueron reubicados en otros supermercados de la empresa, algunos, también, en número indeterminados, aceptaron el término de contrato por acuerdo mutuo. Sin contar con antecedentes precisos del número de trabajadores de la empresa que prestaban servicios en el local, el único dato objetivo con el que cuenta el tribunal es que, además de la presente causa, en la que demandan tres trabajadores despedidos por caso fortuito, el empleador despidió por la misma causal a otros cuatro que han demandado despido injustificado en la causa O-225-2024 de este mismo tribunal.
+
+DECIMO: Que, respecto al fondo del asunto sometido a la decisión del tribunal, es necesario referirse en primer lugar a si el despido de los actores, por la causal CASO FORTUITO O FUERZA MAYOR, establecida en el artículo 159 Nº 6 del Código del Trabajo, normativa que indica: El contrato de trabajo terminará en los siguientes casos: Nº 6. Caso fortuito o fuerza mayor, se encuentra ajustados a derecho, o es injustificado, tal como lo señalan los actores.
+
+Como es sabido, el legislador laboral no define o entrega pautas de cuando un empleador puede utilizar esta causal. La legislación civil, de conformidad con lo dispuesto en el artículo 45 del Código Civil define y dice que se llama fuerza mayor o caso fortuito el imprevisto a que no es posible resistir como un naufragio, un terremoto, los actos de autoridad ejercidos por funcionarios públicos, etc.
+
+De esta manera, de acuerdo con el ordenamiento jurídico, el caso fortuito o fuerza mayor debe ser inimputable, vale decir, que provenga de una causa enteramente ajena a la voluntad de las partes; imprevisible, esto es, que no se haya podido prever dentro de los cálculos ordinarios y corrientes; e irresistible, es decir, que no se haya podido evitar, ni aun en el evento de oponerse las defensas idóneas para lograr tal objetivo.
+
+Los requisitos, entonces, para proceder a un despido de uno o más trabajadores por esta causa, han de ser:
+
+1.- Que el hecho que lo provoca sea inimputable al empleador o empresa, que la causa sea exterior a éste, que provenga de una causa enteramente ajena a la voluntad de las partes, en el sentido que éstas no hay contribuido en forma alguna a su ocurrencia.
+
+2.- Que sea imprevisible, que tanto para el empleador, la empresa, el rubro o giro al que se dedica pudieron estimar que ocurriría, que no se haya podido prever dentro de los cálculos ordinarios o corrientes.
+
+3.- Que sea irresistible. Que fue imposible evitar el evento, que haya sido absolutamente imposible evitar el hecho o suceso aludido, no obstante, los medios de defensa empleados para superarlo.
+
+UNDECIMO: Que, el Tribunal diciente de la calificación que de estos hechos hace la demandada en su carta de despido, pues tal como ha señalado la Ilustre Corte de Apelaciones de Santiago en Causa Rol 4.456-2005:
+
+“b)… el caso fortuito a que se refiere el artículo 159 Nº 6 del Código del Trabajo ha de entenderse no como un acontecimiento aislado y concluyente que por sí mismo autorice al empleador para poner fin a los contratos de trabajo. Se requiere algo más que eso. En este caso, ha sido necesario que el empleador dueño del local acreditara cómo el siniestro afectó de modo efectivo su patrimonio, demostrado en estados financieros o flujos de gastos no recuperados y, en fin, en un descalabro económico que de modo permanente le haya impedido proseguir con su actividad habitual y ejercicio de su comercio, extremos no acreditados en autos;”
+
+Resulta, entonces, en el ámbito laboral, necesario que, los hechos en que se hace consistir el caso fortuito impidan al empleador continuar ejerciendo su actividad habitual, pero no aisladamente, si no que, en forma definitiva, y en el caso que nos ocupa, lo cierto es que no se ha demostrado, pues ello no ocurrió, que, los hechos en que se hizo consistir la causal hubieran tenido los efectos permanentes en el giro de la demandada. Lo cierto es lo contrario, la empresa no ha detenido su giro, el resto de sus locales continúa funcionando con normalidad, se han tomado medidas encaminadas a reiniciar, incluso, actividades en el mismo lugar. Además, y tal como se ha referido, no todos los trabajadores de la empresa demandada, ni siquiera del local siniestrado, fueron despedidos por esta causa, algunos fueron reubicados, incluso.
+
+Ciertamente, el empleador pudo tomar otras decisiones respecto a los contratos de los trabajadores, previo a proceder a su despido, y en caso de despedirlos, debió hacerlo por una causal que se ajustara a la realidad, no invocar un caso fortuito o fuerza mayor, sin cumplirse los requisitos para ello, del modo que se ha referido en los párrafos anteriores, pues los efectos del ya tantas veces mencionado incendio, en estas condiciones, no eran irresistibles para el empleador, no son efectos permanentes, y además el empleador pudo tomar otro tipo de decisiones distintas al despido de los trabajadores, como lo hizo respecto de algunos de ellos.
+
+Así las cosas, el despido de los actores ha sido injustificado por lo que se accederá a la demanda en este punto, así se dirá en lo resolutivo de esta sentencia.
+
+DUODECIMO: Que, en lo que dice relación a la remuneración de los actores, con cargo a la que ordenará, de acuerdo con el artículo 172 del estatuto del trabajo, pagar indemnizaciones y recargos, el tribunal cuenta con sendas liquidaciones de remuneraciones de éstos que permiten su determinación.
+
+Así:
+
+Alejandro Kimer Bahamondes: $672.902.
+
+María Angélica Poblete Valdebenito: $677.853.
+
+Norma Urra Villarroel: $644.362.
+
+DECIMO TERCERO: Que, debiendo, ninguna prueba allegó el demandado respecto al ejercicio del derecho a feriado de los actores por los periodos demandados, limitándose, exclusivamente a acompañar en estos autos como medio de prueba sendos finiquitos de los trabajadores en los que reconoce adeudar sumas a título de indemnización compensatoria de feriado a cada uno de ellos, sumas que solo demostró, sin objeción de contrario, haber solucionado vía transferencia electrónica a los actores Kimer y Urra, no así a la demandante Sra. Poblete.
+
+Así las cosas, y de conformidad a lo dispuesto por los artículos 66 y siguientes, especialmente 73 del estatuto del trabajo, no habiéndose demostrado por el demandado haber otorgado los feriados por los que instan compensación económica los demandantes, teniendo para ello presente que es deber del empleador compensar en dinero el beneficio en estudio al término de la relación laboral cuando no lo hubiera otorgado y se encuentre pendiente, cualquiera que sea la causa por la que se ponga término a la relación y habida consideración que éste deber se encuentra solo parcialmente satisfecho respecto de dos de los tres demandantes, el tribunal accederá a la demanda y ordenará el pago de lo demandado, descontando de aquello, las sumas acreditadas pagadas, solo respecto de Kimer y Urra. Así se dirá en lo resolutivo del fallo.
+
+DECIMO CUARTO: Que, la prueba que no se analiza pormenorizadamente en esta sentencia nada agrega a las conclusiones obtenidas, en todo caso, se encuentra íntegramente respaldada en el registro de la carpeta virtual de la causa, de acuerdo con su naturaleza.
+
+Y, visto, además, lo dispuesto en los artículos 1, 7, 41 y siguientes, 63, 66 y siguientes, especialmente 73, 159 Número 6, 161, 162, 163, 168, 172, 173, 446 y siguientes, todos del código del trabajo, se declara:
+
+I.- Que, el despido del que se hizo objeto a los actores tuvo lugar el 8 de enero de 2024 y el empleador utilizó al efecto la causal prevista en el artículo 159 Numeral 6° del estatuto del trabajo, esto es, caso fortuito o fuerza mayor.
+
+II.- Que, el despido de los actores es injustificado, en consecuencia, el demandado es condenado al pago de las siguientes indemnizaciones y recargos:
+
+A.
+Indemnización sustitutiva del aviso previo:
+
+-
+$672.902.- Alejandro Kimer Bahamondes,
+
+-
+$677.853.- María Angelica Poblete.
+
+-
+$644.362.-, Norma Urra Villarroel.
+
+B.
+Indemnización por años de servicio:
+
+-
+10 años de servicio, $6.729.020.- Alejandro Guillermo Kimer Bahamondes.
+
+-
+09 años de servicio, $ 6.100.677, María Angelica Poblete Valdebenito.
+
+-
+01 años de servicio, $644.362, Norma Urra Villarroel.
+
+C.- recargo legal del 50% por sobre la indemnización de años de servicio:
+
+-
+$3.364.510, Alejandro Guillermo Kimer Bahamondes.
+
+-
+$3.050.339, María Angelica Poblete Valdebenito.
+
+-
+$322.181, Norma Urra Villarroel.
+
+III.- Que, se hace lugar a la demanda de prestaciones laborales adeudadas a título de indemnización compensatoria de feriados anuales y proporcionales, debiendo la demandada pagar a los actores, las siguientes sumas a estos títulos:
+
+-
+$425.302, Alejandro Kimer Bahamondes.
+
+-
+$661.109.-, María Angelica Poblete.
+
+-
+$239.580.-, Norma Urra Villarroel.
+
+IV.- Las sumas ordenadas pagar por esta sentencia deberán serlo con más intereses y reajustes conforme artículos 63 y 173 del estatuto del trabajo, según corresponda.
+
+V.- Que, tras haber sido totalmente vencida la demandada, se la condena al pago de las costas regulándose las personales en el 10% de las sumas ordenadas pagar por esta sentencia, una vez practicada la liquidación.
+
+VI.- Cúmplase con lo ordenado por esta sentencia dentro de quinto día desde que la misma adquiera el carácter de ejecutoriada, en caso contrario, certifíquese esta circunstancia y pasen los antecedentes al Juzgado de Cobranza Laboral y Previsional.
+
+Notifíquese, regístrese y archívese, en su oportunidad.
+RIT O-229-2024
+
+RUC 24- 4-0552364-3
+Pronunciada por XIMENA ADRIANA CARCAMO ZAMORA, Jueza Titular del Juzgado de Letras del Trabajo de Valparaíso.
