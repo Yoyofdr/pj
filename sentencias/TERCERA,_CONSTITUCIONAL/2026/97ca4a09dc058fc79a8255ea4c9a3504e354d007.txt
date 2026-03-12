@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8056504
 
 rol: 55559-2025
 
-fecha_sentencia: 2026-03-10
+fecha_sentencia: 2026-03-09
 
 caratulado: ZAMORA/MUNICIPALIDAD DE TORRES DEL PAINE
 
@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Potestad disciplinaria
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

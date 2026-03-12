@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8055206
 
 rol: 10660-2026
 
-fecha_sentencia: 2026-03-10
+fecha_sentencia: 2026-03-09
 
 caratulado: CASTILLO MUÑOZ PEDRO PABLO CONTRA DIRECCION REGIONAL METROPOLITANA DE GENDARMERIA DE CHILE
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

@@ -1,0 +1,89 @@
+METADATA
+
+case_id: 4b2273aa1d55de2590da20cae8671650198a4439
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8055166
+
+rol: 8182-2026
+
+fecha_sentencia: 2026-03-09
+
+caratulado: POZO HUACACOLQUE INDIRA KATHERINE CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, diez de marzo de dos mil veintiséis.
+Visto:
+Se confirma la sentencia apelada de veinticuatro de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N°Amparo-683-2026.
+Regístrese y devuélvase.
+Rol N°10660-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Santiago
+Santiago, veinticuatro de febrero de dos mil veintiséis.
+
+A los folios 16 y 17; a todo, téngase presente.
+VISTOS Y TENIENDO PRESENTE:
+
+PRIMERO: Que, doña Silvia de las Mercedes Vidal Ibarra, Presidenta de la ONG CONFAPRECO, interpone recurso de amparo constitucional en favor de don PEDRO PABLO CASTILLO MUÑOZ, actualmente privado de libertad en el Centro de Cumplimiento Penitenciario Colina I, en contra de la DIRECCIÓN NACIONAL DE GENDARMERÍA DE CHILE por mantener al amparado privado de libertad de forma ilegal, vulnerando el artículo 19 N°7 de la Constitución Política de la República.
+
+Sostiene que esta Iltma. Corte, mediante sentencia de fecha 26 de septiembre de 2025 dictada en los autos Rol Amparo N° 3341-2025, acogió una acción de amparo anterior ordenando a Gendarmería adecuar el cálculo de las penas, estableciendo que las sanciones que cumplía al momento de otorgarse la libertad condicional en el año 2016 quedaron fijadas en veinte años.
+
+Argumenta que, dado que el amparado lleva 31 años de cumplimiento efectivo (desde 1988/1994 más el tiempo reciente), la pena de 20 años fijada judicialmente estaría extinta por cumplimiento total.
+
+Denuncia que Gendarmería no ha dado cumplimiento a dicho fallo, manteniendo al amparado recluido bajo un cómputo erróneo que proyecta el término de condena para el año 2999, desconociendo el efecto de cosa juzgada de la sentencia mencionada.
+
+Solicita se declare ilegal la privación de libertad y se ordene su libertad inmediata.
+
+SEGUNDO: Que, informando al tenor del recurso a folio 14, la Dirección Regional Metropolitana de Gendarmería de Chile, representada por la abogada doña Alejandra Tabilo Hormazábal, solicita el rechazo de la acción.
+
+La institución recurrida expone que ha dado estricto cumplimiento a lo ordenado en la causa Rol amparo-3341-2025, situación que fue ratificada por la propia Corte en resolución de 15 de octubre de 2025, que tuvo por cumplido lo ordenado.
+
+Explica que el amparado reingresó al sistema penitenciario el 20 de julio de 2016 tras la comisión de nuevos delitos (tráfico ilícito de drogas, tenencia ilegal de armas y municiones, receptación) y la revocación de su libertad condicional.
+
+Señala que el cómputo actual se rige por la normativa vigente, aplicándose los dos tercios para los nuevos delitos y la regla del saldo de la revocación para la pena de presidio perpetuo simple original. Aclara que la fecha "31/12/2999" en la Ficha Única es una nomenclatura del sistema informático para referirse a penas perpetuas y no una fecha literal.
+
+Asimismo, hace presente que la pretensión de libertad inmediata basada en la interpretación del fallo Rol 3341-2025 ya fue discutida y rechazada en un recurso de amparo posterior, el Rol N° 4014-2025, cuya sentencia fue confirmada por la Excelentísima Corte Suprema en causa Rol N° 52.243-2025 el 4 de diciembre de 2025.
+
+TERCERO: Que, la acción de amparo consagrada en el artículo 21 de la Carta Fundamental constituye un remedio de urgencia destinado a restablecer el imperio del derecho y asegurar la debida protección del afectado cuando este se hallare arrestado, detenido o preso con infracción de lo dispuesto en la Constitución o en las leyes, o cuando sufra cualquier otra privación, perturbación o amenaza en su derecho a la libertad personal y seguridad individual.
+
+CUARTO: Que la controversia sometida al conocimiento de esta Corte radica en determinar si la actual privación de libertad de don Pedro Pablo Castillo Muñoz deviene en ilegal por un supuesto incumplimiento de Gendarmería de Chile respecto de lo resuelto en los autos Rol N° 3341-2025, y si, como consecuencia de dicho fallo, la pena del amparado debe entenderse extinta.
+
+QUINTO: Que, del mérito de los antecedentes agregados al expediente, y en especial de la revisión de las causas anteriores tenidas a la vista, se establecen los siguientes hechos procesales indubitados:
+
+1. En los autos Rol Amparo N° 3341-2025, esta Corte acogió el recurso solo en cuanto ordenó a Gendarmería adecuar el cálculo considerando que la pena base al momento de la libertad condicional de 2016 quedó fijada en 20 años conforme a la ley antigua.
+
+2. En la etapa de cumplimiento de dicho fallo, la defensa solicitó la libertad inmediata alegando la extinción de la pena. Sin embargo, por resolución de fecha 15 de octubre de 2025, la Séptima Sala de esta Corte resolvió expresamente "no ha lugar" a dicha solicitud y tuvo por cumplido lo ordenado con el informe de Gendarmería.
+
+3. Posteriormente, la defensa interpuso un nuevo recurso de amparo, Rol N°4014-2025, fundado en los mismos argumentos que el presente libelo (extinción de pena por efecto del fallo amp-3341-2025). Dicho recurso fue rechazado por sentencia de 19 de noviembre de 2025, confirmada por la Corte Suprema el 4 de diciembre de 2025 (Rol CS N° 52.243-2025).
+
+SEXTO: Que, tal como se desprende de los considerandos del fallo ejecutoriado en la causa Rol N° 4014-2025, la situación jurídica del amparado respecto al cómputo de sus condenas y la interpretación de la "fijación de 20 años" ya ha sido resuelta por los tribunales superiores de justicia.
+
+En efecto, el fallo confirmado por el Máximo Tribunal estableció que la fijación de la pena en 20 años —para efectos de la libertad condicional concedida en 2016— no implica la extinción automática de la responsabilidad penal ni borra los efectos de la revocación del beneficio por la comisión de nuevos delitos. El amparado, tras obtener su libertad, cometió nuevos ilícitos tráfico, armas, receptación, generando nuevas condenas que deben cumplirse sucesiva y/o conjuntamente con el saldo de la pena anterior revocada, conforme a las reglas del Decreto Ley N° 321.
+
+SÉPTIMO: Que, pretender revivir una discusión jurídica zanjada mediante una nueva acción de amparo, basada en los mismos hechos y fundamentos de derecho que fueron desestimados hace menos de tres meses por la Corte Suprema, atenta contra el principio de seguridad jurídica y la institución de la cosa juzgada, o al menos, contra la preclusión de las etapas procesales si se mira como un incidente de cumplimiento de sentencia.
+
+La interpretación que la recurrente hace del fallo Rol 3341-2025 sosteniendo que "fijar la pena" equivale a darla por "cumplida" retroactivamente ignorando el quebrantamiento y los nuevos delitos fue explícitamente descartada por la judicatura en las instancias pertinentes.
+
+OCTAVO: Que, en lo que respecta al actuar de Gendarmería de Chile, no se advierte ilegalidad alguna. La autoridad penitenciaria se ha limitado a dar cumplimiento a las sentencias judiciales y aplicar la normativa penitenciaria vigente para el cálculo de tiempos de un condenado reincidente y con beneficio revocado. El cómputo actual, que refleja una pena de presidio perpetuo simple (por la revocación) más las penas adicionales por los delitos cometidos en 2016 y 2018, se ajusta a la legalidad y a lo resuelto en las causas previas.
+
+NOVENO: Que, a mayor abundamiento, la alegación sobre la fecha "2999" carece de trascendencia sustantiva para la libertad actual del amparado, toda vez que es un hecho no controvertido que dicha cifra es una convención administrativa de los sistemas informáticos para denotar la naturaleza perpetua o indeterminada de una condena hasta que se cumplan los requisitos de postulación, y no una condena efectiva de milenios que vulnere la dignidad humana, habiéndose informado claramente que el tiempo mínimo para postulación a libertad condicional está fijado para el año 2041.
+
+Por estas consideraciones, y de conformidad, además, con lo dispuesto en el artículo 21 de la Constitución Política de la República y el Auto Acordado de la Excelentísima Corte Suprema sobre Tramitación y Fallo del Recurso de Amparo, SE RECHAZA el recurso de amparo interpuesto, en favor de PEDRO PABLO CASTILLO MUÑOZ, en contra de la Dirección Nacional de Gendarmería de Chile.
+
+Regístrese, comuníquese y archívese en su oportunidad.
+
+Amparo N°683-2026.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de SantiagoSantiago, veinticuatro de febrero de dos mil veintiséis.A los folios 16 y 17; a todo, téngase presente.VISTOS Y TENIENDO PRESENTE:PRIMERO: Que, doña Silvia de las Mercedes Vidal Ibarra, Presidenta de la ONG CONFAPRECO, interpone recurso de amparo constitucional en favor de don PEDRO PABLO CASTILLO MUÑOZ, actualmente privado de libertad en el Centro de Cumplimiento Penitenciario Colina I, en contra de la DIRECCIÓN NACIONAL DE GENDARMERÍA DE CHILE por mantener al amparado privado de libertad de forma ilegal, vulnerando el artículo 19 N°7 de la Constitución Política de la República. Sostiene que esta Iltma. Corte, mediante sentencia de fecha 26 de septiembre de 2025 dictada en los autos Rol Amparo N° 3341-2025, acogió una acción de amparo anterior ordenando a Gendarmería adecuar el cálculo de las penas, estableciendo que las sanciones que cumplía al momento de otorgarse la libertad condicional en el año 2016 quedaron fijadas en veinte años. Argumenta que, dado que el amparado lleva 31 años de cumplimiento efectivo (desde 1988/1994 más el tiempo reciente), la pena de 20 años fijada judicialmente estaría extinta por cumplimiento total. Denuncia que Gendarmería no ha dado cumplimiento a dicho fallo, manteniendo al amparado recluido bajo un cómputo erróneo que proyecta el término de condena para el año 2999, desconociendo el efecto de cosa juzgada de la sentencia mencionada. Solicita se declare ilegal la privación de libertad y se ordene su libertad inmediata.SEGUNDO: Que, informando al tenor del recurso a folio 14, la Dirección Regional Metropolitana de Gendarmería de Chile, representada por la abogada doña Alejandra Tabilo Hormazábal, solicita el rechazo de la acción.La institución recurrida expone que ha dado estricto cumplimiento a lo ordenado en la causa Rol amparo-3341-2025, situación que fue ratificada por la propia Corte en resolución de 15 de octubre de 2025, que tuvo por cumplido lo ordenado. Explica que el amparado reingresó al sistema penitenciario el 20 de julio de 2016 tras la comisión de nuevos delitos (tráfico ilícito de drogas, tenencia ilegal de armas y municiones, receptación) y la revocación de su libertad condicional. Señala que el cómputo actual se rige por la normativa vigente, aplicándose los dos tercios para los nuevos delitos y la regla del saldo de la revocación para la pena de presidio perpetuo simple original. Aclara que la fecha "31/12/2999" en la Ficha Única es una nomenclatura del sistema informático para referirse a penas perpetuas y no una fecha literal.Asimismo, hace presente que la pretensión de libertad inmediata basada en la interpretación del fallo Rol 3341-2025 ya fue discutida y rechazada en un recurso de amparo posterior, el Rol N° 4014-2025, cuya sentencia fue confirmada por la Excelentísima Corte Suprema en causa Rol N° 52.243-2025 el 4 de diciembre de 2025.TERCERO: Que, la acción de amparo consagrada en el artículo 21 de la Carta Fundamental constituye un remedio de urgencia destinado a restablecer el imperio del derecho y asegurar la debida protección del afectado cuando este se hallare arrestado, detenido o preso con infracción de lo dispuesto en la Constitución o en las leyes, o cuando sufra cualquier otra privación, perturbación o amenaza en su derecho a la libertad personal y seguridad individual.CUARTO: Que la controversia sometida al conocimiento de esta Corte radica en determinar si la actual privación de libertad de don Pedro Pablo Castillo Muñoz deviene en ilegal por un supuesto incumplimiento de Gendarmería de Chile respecto de lo resuelto en los autos Rol N° 3341-2025, y si, como consecuencia de dicho fallo, la pena del amparado debe entenderse extinta.QUINTO: Que, del mérito de los antecedentes agregados al expediente, y en especial de la revisión de las causas anteriores tenidas a la vista, se establecen los siguientes hechos procesales indubitados:1.  En los autos Rol Amparo N° 3341-2025, esta Corte acogió el recurso solo en cuanto ordenó a Gendarmería adecuar el cálculo considerando que la pena base al momento de la libertad condicional de 2016 quedó fijada en 20 años conforme a la ley antigua.2.  En la etapa de cumplimiento de dicho fallo, la defensa solicitó la libertad inmediata alegando la extinción de la pena. Sin embargo, por resolución de fecha 15 de octubre de 2025, la Séptima Sala de esta Corte resolvió expresamente "no ha lugar" a dicha solicitud y tuvo por cumplido lo ordenado con el informe de Gendarmería.3.  Posteriormente, la defensa interpuso un nuevo recurso de amparo, Rol N°4014-2025, fundado en los mismos argumentos que el presente libelo (extinción de pena por efecto del fallo amp-3341-2025). Dicho recurso fue rechazado por sentencia de 19 de noviembre de 2025, confirmada por la Corte Suprema el 4 de diciembre de 2025 (Rol CS N° 52.243-2025).SEXTO: Que, tal como se desprende de los considerandos del fallo ejecutoriado en la causa Rol N° 4014-2025, la situación jurídica del amparado respecto al cómputo de sus condenas y la interpretación de la "fijación de 20 años" ya ha sido resuelta por los tribunales superiores de justicia.En efecto, el fallo confirmado por el Máximo Tribunal estableció que la fijación de la pena en 20 años —para efectos de la libertad condicional concedida en 2016— no implica la extinción automática de la responsabilidad penal ni borra los efectos de la revocación del beneficio por la comisión de nuevos delitos. El amparado, tras obtener su libertad, cometió nuevos ilícitos tráfico, armas, receptación, generando nuevas condenas que deben cumplirse sucesiva y/o conjuntamente con el saldo de la pena anterior revocada, conforme a las reglas del Decreto Ley N° 321.SÉPTIMO: Que, pretender revivir una discusión jurídica zanjada mediante una nueva acción de amparo, basada en los mismos hechos y fundamentos de derecho que fueron desestimados hace menos de tres meses por la Corte Suprema, atenta contra el principio de seguridad jurídica y la institución de la cosa juzgada, o al menos, contra la preclusión de las etapas procesales si se mira como un incidente de cumplimiento de sentencia.La interpretación que la recurrente hace del fallo Rol 3341-2025 sosteniendo que "fijar la pena" equivale a darla por "cumplida" retroactivamente ignorando el quebrantamiento y los nuevos delitos fue explícitamente descartada por la judicatura en las instancias pertinentes.OCTAVO: Que, en lo que respecta al actuar de Gendarmería de Chile, no se advierte ilegalidad alguna. La autoridad penitenciaria se ha limitado a dar cumplimiento a las sentencias judiciales y aplicar la normativa penitenciaria vigente para el cálculo de tiempos de un condenado reincidente y con beneficio revocado. El cómputo actual, que refleja una pena de presidio perpetuo simple (por la revocación) más las penas adicionales por los delitos cometidos en 2016 y 2018, se ajusta a la legalidad y a lo resuelto en las causas previas.NOVENO: Que, a mayor abundamiento, la alegación sobre la fecha "2999" carece de trascendencia sustantiva para la libertad actual del amparado, toda vez que es un hecho no controvertido que dicha cifra es una convención administrativa de los sistemas informáticos para denotar la naturaleza perpetua o indeterminada de una condena hasta que se cumplan los requisitos de postulación, y no una condena efectiva de milenios que vulnere la dignidad humana, habiéndose informado claramente que el tiempo mínimo para postulación a libertad condicional está fijado para el año 2041.Por estas consideraciones, y de conformidad, además, con lo dispuesto en el artículo 21 de la Constitución Política de la República y el Auto Acordado de la Excelentísima Corte Suprema sobre Tramitación y Fallo del Recurso de Amparo, SE RECHAZA el recurso de amparo interpuesto, en favor de PEDRO PABLO CASTILLO MUÑOZ, en contra de la Dirección Nacional de Gendarmería de Chile.Regístrese, comuníquese y archívese en su oportunidad.Amparo N°683-2026.

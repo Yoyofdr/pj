@@ -4,19 +4,19 @@ case_id: 0583ee0ea57fb9534b32e4ec4679d3ab9b8bef80
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8056493
 
-rol: 8189-2026
+rol: 8194-2026
 
-fecha_sentencia: 2026-03-10
+fecha_sentencia: 2026-03-09
 
-caratulado: ROMERO MEDINA YINDETH JONAS CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: MARQUEZ PAREJO DIANITH ESTHER CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
