@@ -20,14 +20,14 @@ resultado_recurso: CONFIRMA RESOLUCIÓN APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
-Santiago, veintiséis de febrero de dos mil veintiséis
+Santiago, veintiséis de febrero de dos mil veintiséis.
 A los alegatos solicitados, no ha lugar.
 
 Vistos:
-Se confirma la resolución apelada de fecha dieciséis de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Talca.
+Se confirma la resolución apelada de fecha diecisiete de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Talca.
 Regístrese y devuélvase.
 
-Rol N° 57.490-2025.
+Rol N° 57.493-2025.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
