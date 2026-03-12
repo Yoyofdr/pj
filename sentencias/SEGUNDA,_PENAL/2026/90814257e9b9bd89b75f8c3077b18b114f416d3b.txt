@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Contienda de competencia
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) HECHO
 
 resultado_recurso: DIRIMIDA CONTIENDA COMPETENCIA, REMÍTANSE AUTOS AL
 
