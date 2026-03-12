@@ -1,0 +1,538 @@
+METADATA
+
+case_id: 9ad6b90956511d3a87c5c636a35012b0cc8d3803
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8058829
+
+rol: 8392-2026
+
+fecha_sentencia: 2026-03-11
+
+caratulado: JEREZ JEREZ AIXA GABRIELA CONTRA SERVICIO NACIONAL DE MIGRACIONES DE CHILE
+
+sala: SEGUNDA, PENAL
+
+materias: (CIVIL) APELACIÓN PROTECCIÓN
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, once de marzo de dos mil veinticinco.
+
+Vistos y teniendo presente:
+Primero: Que, de conformidad con lo dispuesto en el artículo 782 del Código de Procedimiento Civil, se ordenó dar cuenta del recurso de casación en el fondo deducido por la ejecutante en contra de la sentencia dictada por la Corte de Apelaciones de Valdivia, que confirmó la de primera instancia que acogió la excepción de prescripción de la acción.
+
+Segundo: Que la recurrente denuncia vulnerados los artículos 31 bis de la Ley N°17.322 y 1698 del Código Civil, dado que no existió un medio de prueba idóneo que permita tener por probado el término de la relación laboral, en los términos exigidos por el ordenamiento jurídico. Dicho hecho jurídico no puede estimarse probado únicamente mediante antecedentes previsionales, tales como las cartolas históricas de cotizaciones del trabajador, por cuanto no dan cuenta del término de la relación laboral y, al atribuirle la aptitud jurídica para acreditarlo, la sentencia rebaja el estándar legal exigido, sustituyendo la exigencia de un hecho jurídico cierto por una inferencia construida sobre antecedentes que no cumplen dicha función en el sistema jurídico.
+Solicita se acoja el recurso de casación en el fondo, se invalide la sentencia recurrida y se dicte la de reemplazo que describe.
+
+Tercero: Que la sentencia impugnada estableció los siguientes hechos:
+1. La Resolución N°05-99-1756977 señala que el demandado adeuda cotizaciones previsionales del trabajador, don Jaime García Valdebenito, por la suma de $846, correspondientes al mes de septiembre de 1995, más intereses, reajustes y costas.
+2. El trabajador prestó servicios para la ejecutada hasta el mes de septiembre de 1995 y, a contar del mes de octubre del mismo año, para un nuevo empleador.
+3. La demanda ejecutiva fue interpuesta el día 4 de enero de 2013 y fue notificada el 12 de mayo de 2025.
+Sobre estos presupuestos fácticos concluyó que, desde la fecha del término de los servicios y hasta la de notificación de la demanda, transcurrió con creces el plazo de prescripción establecido en el artículo 31 bis de la Ley N°17.322.
+Cuarto: Que, como se advierte, se impugna la valoración dada a un medio de prueba aportado por la parte ejecutada para acreditar la fecha de cesación de los servicios de la trabajadora; sin embargo, como el proceso intelectual de apreciación de los medios probatorios es una facultad propia y privativa de los tribunales de instancia que escapa del control de casación, el recurso de casación que se examina debe ser desestimado en esta etapa de su tramitación, por adolecer de manifiesta falta de fundamento.
+Por estas consideraciones y normas citadas, se rechaza el recurso de casación en el fondo deducido en contra de la sentencia de quince de enero de dos mil veintiséis.
+
+Regístrese y devuélvase.
+
+Nº4.921-2026.-
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Valdivia, quince de enero de dos mil veintiséis.
+Vistos:
+
+Se CONFIRMA la sentencia apelada de veinticuatro de octubre de dos mil veinticinco.
+
+Regístrese y comuníquese.
+
+Rol 386 – 2025 Laboral.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Osorno, veinticuatro de octubre de dos mil veinticinco.
+
+VISTOS Y CONSIDERANDO:
+
+PRIMERO: Don Raúl Troncoso del Piano, abogado, en representación de
+
+Administradora de Fondos de Pensiones Hábitat S.A, Entidad de Previsión Social,
+
+domiciliada en Avenida Providencia N° 1909, Santiago, de acuerdo con la Resolución
+
+que se acompaña, dictada en uso de la facultad que le confiere el Art. 19 del Decreto Ley
+
+3.500 de 1980, en relación con el Art. 2° de la Ley 17.322, interpone demanda ejecutiva
+
+en contra de don Marcelo David Fontealba Vargas, CI 10.165.144-4, ignora profesión,
+
+con domicilio en Llanquihue 586, Osorno, quien adeuda la suma en capital de $846 por
+
+cotizaciones previsionales morosas del trabajador individualizado en ella y
+
+correspondientes a cada uno de los meses y montos que se indican a continuación:
+
+- Resolución N°05-99-1756977 por $846, periodo Septiembre 1995.
+
+Indica que de acuerdo con la Ley 17.322 la resolución señalada tiene mérito
+
+ejecutivo y a su monto debe agregarse el reajuste, el interés penal y el recargo que ordena
+
+el Art. 19, Inc. 8°, 9° y 10° del Decreto Ley 3.500.
+
+POR TANTO, SOLICITA: Tener por interpuesta demanda ejecutiva acogerla en
+
+todas sus partes y ordenar despachar en su contra mandamiento de ejecución y embargo
+
+por la suma $846-, más los reajustes, intereses, recargos y costas que se determinen al
+
+momento del pago efectivo, disponiendo seguir adelante la ejecución hasta el íntegro
+
+pago de lo adeudado, todo con costas.
+
+SEGUNDO: Doña CAROLINA ANDREA ARAYA CAROCCA, Abogada, Cédula de
+
+Identidad Nº 16.968-510-K, en representación convencional del demandado de autos don
+
+Marcelo Fontealba Vargas, como se acreditará en esta presentación, trabajador, Cédula de
+
+Identidad Nº10.165.144-4, ambos con domicilio en Llanquihue Nº586, ciudad de Osorno,
+
+opone las excepciones que se indicarán a continuación:
+
+I. EXCEPCIÓN ESPECIAL DEL ARTÍCULO 5 Nº 1 DE LA LEY Nº 17.322:
+
+INEXISTENCIA DE LA PRESTACIÓN DE LOS SERVICIOS, RESPECTO DE LA
+
+COTIZACIÓN QUE SE COBRA CORRESPONDIENTE AL MES DE SEPTIEMBRE
+
+DE 1995, CONJUNTAMENTE CON SUS REAJUSTES, INTERESES Y RECARGOS.
+
+Fundamentos:
+
+Código: NGXKBGNTJXP
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+a) En la demanda de autos consta que la AFP HABITAT S.A exige que su representado
+
+pague la cotización supuestamente adeudada del mes de septiembre de 1995
+
+correspondiente a don Jaime García Valdebenito, Cédula de Identidad Nº11.250.359-7.
+
+b) La cotización demandada en su cobro y supuestamente adeudada por su mandante,
+
+carece de causa y/o exigibilidad. En efecto, es improcedente el título ejecutivo que se
+
+hace valer en estos autos, puesto que en el mes de septiembre de 1995 no existía vínculo
+
+laboral contractual entre don Marcelo Fontealba y don Juan García Valdebenito, razón
+
+por la que el primero no tuvo la obligación legal de efectuar pago de la cotización
+
+previsional en la fecha mencionada y en por lo mismo, la obligación que se alega en este
+
+proceso judicial es inexistente
+
+c) Como se acreditará en estos autos, entre su representado y don Juan Garcia
+
+Valdebenito si existió una relación de tipo laboral y con un corto período de duración, no
+
+obstante, termina de manera efectiva en el mes de julio de 1995 en razón del cambio de
+
+domicilio del trabajador, quién no otorga explicación alguna a su representado y
+
+simplemente no vuelve a prestar servicios, sin tener conocimiento de su paradero y sin
+
+tener más noticias de don Juan Garcia.
+
+d) Por lo anterior, la relación laboral culmina y en la fecha en que se exige el pago de
+
+cotización previsional, esto es, mes de septiembre de 1995, no existía dicha obligación a
+
+su representado y se debe dar lugar a la excepción de INEXISTENCIA DE LA
+
+PRESTACIÓN DE LOS SERVICIOS, respecto de las cotizaciones que se cobran de
+
+índole previsional del referido ex trabajador, conjuntamente con sus intereses, reajustes, y
+
+demás recargos.
+
+II. Sin perjuicio de la excepción anterior, se opone Excepción del Artículo 5 Nº 5 de la
+
+Ley Nº 17.322 en relación con el numeral 17 del artículo 464 del Código de
+
+Procedimiento Civil: EXCEPCIÓN DE PRESCRIPCIÓN DE LA COTIZACIÓN QUE
+
+SE COBRA POR DEUDA PREVISIONAL, TAMBIÉN SUS INTERESES, MULTAS,
+
+REAJUSTES Y RECARGOS y tal, conforme lo expuesto en el artículo 31 bis de la Ley
+
+17.322, conforme los argumentos que se exponen:
+
+a) Conforme lo regulado en la Ley 17322 en su artículo 31 bis, las acciones de cobro de
+
+las cotizaciones de seguridad social, multas, reajustes e intereses, prescribe o se extingue
+
+en un plazo de 5 años, que se cuenta desde el término de los servicios respectivos.
+
+Código: NGXKBGNTJXP
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+b) En este proceso judicial se le requiere de cobro a su mandante de cotización previsional
+
+adeudada del mes de septiembre del año 1995 respecto de don Jaime Garcia Valdebenito,
+
+lo que considera multas, intereses, reajustes y recargos.
+
+c) Como se acreditará entre las partes no existe un vínculo jurídico contractual con su
+
+representado desde el mes de julio del año 1995, razón por la que toda obligación de
+
+índole previsional a la fecha no es objeto de cobro, toda vez que la acción ha prescrito, no
+
+siendo procedente que el acreedor, esto es AFP HABITAT S.A, pueda exigir por la vía
+
+del procedimiento ejecutivo su cobro.
+
+d) Consta que esta acción se interpone el día 4 de enero de 2013, es decir, 18 años
+
+posterior a que la obligación se hizo supuestamente exigible, existiendo en dicha época
+
+una acción prescrita bajo la lógica de la normativa antes mencionada. Posteriormente se
+
+notifica a su representado con fecha 12 de mayo de 2025, es decir, 30 años contados
+
+desde que el trabajador que generó la cotización adeudada en AFP HABITAT dejó de
+
+prestar servicios.
+
+e) Por su parte, hay que tener en consideración que el plazo de prescripción regulado en el
+
+artículo 31 bis citado, continúa transcurriendo aun cuando se hubiere interpuesto la acción
+
+y hasta que se notifique de manera efectiva la demanda, que es la única vía que permite
+
+interrumpir la prescripción de la acción. Igualmente se destaca que en el caso de marras
+
+tanto la acción como la notificación de la demanda ejecutiva tuvieron lugar habiendo
+
+transcurrido con creces el plazo de prescripción de la acción.
+
+f) Así las cosas y teniendo en consideración el período de cotización previsional que se
+
+cobra, segun da cuenta el libelo de demanda, y la fecha de término de los servicios, esto
+
+es, agosto de 1995, resulta claro y sin lugar a dudas, que la cotización previsional que se
+
+pretende cobrar, más intereses, reajustes y recargos, se encuentra absolutamente prescrita
+
+su acción de cobro al tiempo de interposición de la misma y, ello, conforme los hechos
+
+que fueron descritos precedentemente y lo regulado en el artículo 31 bis de la Ley
+
+Nº17.322, pues han transcurrido más de 30 años desde el día que el trabajador dejó de
+
+prestar servicios para su mandante.
+
+g) Por lo expresado, procede que se declare la prescripción de todas y cada una de las
+
+cotizaciones previsionales que se pretenden cobrar en estos autos o, de la deuda
+
+previsional que se cobra, también sus intereses, reajustes, recargos legales y, todo ello,
+
+conforme a los hechos antes descritos y principalmente lo prescrito en el artículo 31 bis
+
+Código: NGXKBGNTJXP
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+de la Ley 17322, relacionadas con las normas pertinentes en la materia de prescripción de
+
+las acciones judiciales que rigen en el artículo 2314 y siguientes del Código Civil.
+
+POR TANTO, de acuerdo a lo expuesto, el mérito de los autos y las normas
+
+contempladas en el artículo 5 Nº 1 y 5 , Artículo 3º bis de la Ley 17.322, en relación con
+
+lo que rige en el artículo 463 y siguientes del Código del Trabajo y artículos 464 y
+
+siguientes del Código de Procedimiento Civil, SOLICITA tener por opuestas excepciones
+
+a esta ejecución, acogerlas a tramitación y, en su caso si fuera procedente, declararlas
+
+admisibles y, en definitiva, acoger y/o dar lugar a las mismas, negando esta ejecución en
+
+todas sus partes, con expresa condena en costas.
+
+TERCERO: La ejecutante evacúa traslado, respecto de la excepción del numeral 1 del
+
+artículo 5º de la Ley 17.322, esto es, la inexistencia de la prestación de servicios, señala
+
+que la parte demandada sostiene que no existió vínculo laboral con el trabajador don
+
+Jaime García Valdebenito durante el mes de septiembre de 1995. No obstante, resulta
+
+ilustrativo tener presente que, según lo dispuesto en el artículo 17 del Decreto Ley Nº
+
+3.500, los trabajadores están obligados a cotizar en su cuenta de capitalización individual
+
+el diez por ciento de sus remuneraciones y rentas imponibles. Seguidamente, en el
+
+artículo 19 del mismo cuerpo normativo el legislador estipula que las cotizaciones
+
+previsionales deberán ser declaradas y pagadas por el empleador en la Administradora de
+
+Fondos de Pensiones a que se encuentre afiliado el trabajador. Ahora bien, como bien
+
+conoce, nuestro ordenamiento jurídico permite al empleador declarar las cotizaciones
+
+previsionales de sus trabajadores sin pagarlas ante el ente previsional respectivo hasta en
+
+un plazo de 180 días, haciendo un reconocimiento de la deuda previsional a través de un
+
+formulario de Declaración y No Pago (DNP). En efecto, si un empleador no paga las
+
+cotizaciones de sus trabajadores estará obligado a declararlas, quedando sujeto a pagar
+
+dichas cotizaciones en el plazo referido y considerando sus debidos recargos e intereses.
+
+Destaca que la acción de cobranza de estos autos encuentra su origen en una planilla de
+
+Declaración y No Pago efectuada por el propio empleador, don MARCELO DAVID
+
+FONTEALBA VARGAS, quien declaró –y no pagó– el periodo 09/1995, antecedente
+
+que desacredita su argumento de no existir un vínculo laboral en esa época con nuestro
+
+afiliado. Así las cosas, la excepción de inexistencia de la prestación de servicios deberá
+
+ser rechazada en su totalidad, toda vez que, como se adelantó en los párrafos anteriores, la
+
+resolución que emitió la Administradora de Fondos de Pensiones para los efectos de
+
+Código: NGXKBGNTJXP
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+perseguir el cobro de cotizaciones previsionales tienen su origen en declaraciones y no
+
+pagos efectuadas por el empleador, de acuerdo a lo estipulado en los incisos 3º y 4º del
+
+artículo 19 del D.L. 3.500.- En esta DNP fue el propio empleador el que señaló el
+
+trabajador por el cual se debió efectuar el pago de las cotizaciones previsionales y la
+
+remuneración en base a las cual ésta se debe calcular. Lo anterior, se acreditará con el
+
+documento aludido acompañado en un otrosí de esta presentación.
+
+Con respecto a la excepción del numeral 5 del artículo 5° de la Ley 17.322, con
+
+relación al artículo 464 N°17 del Código de Procedimiento Civil, esto es la prescripción
+
+de la deuda o solo de la acción ejecutiva, señala que la Ley número 17.322 sobre Normas
+
+para la Cobranza Judicial de Cotizaciones, Aportes y Multas de las Instituciones de
+
+Seguridad Social, establece en su artículo 31 BIS que la prescripción que extingue las
+
+acciones de cobro de las cotizaciones de seguridad social, multas, reajustes e intereses,
+
+será de cinco años y se contará desde el término de los respectivos servicios. Lo anterior
+
+implica que la prueba de la parte ejecutada deberá enfocarse en la acreditación del
+
+término de los servicios y en la determinación de la fecha en que esto se produjo. Además
+
+indica la forma de valoración de la prueba, que deben existir medios de prueba idóneos
+
+para acreditar la fecha de término de la relación laboral, establecer la fecha precisa de
+
+término de los servicios, y que ésta no puede presumirse.
+
+POR TANTO, en mérito de lo expuesto y, de conformidad a las disposiciones
+
+legales aplicables de la Ley 17.322, del Decreto Ley 3.500 y demás normas legales
+
+citadas y aplicables; SOLICITA tener por evacuado el traslado conferido respecto de las
+
+excepciones de inexistencia y prescripción opuestas por el demandado de autos,
+
+solicitando que éstas sean rechazadas o declaradas inadmisibles, conforme al mérito de
+
+los antecedentes, con costas.
+
+CUARTO: Que la ejecutada acompañó prueba documental consistente en:
+
+1.- Copia de pantalla correspondiente a la consulta de afiliación a AFP del trabajador don
+
+JAIME ABELARDO GARCIA VALDEBENITO, RUT N° 11250358-7, de fecha 6 de
+
+junio de 2025.
+
+2.- Certificado de cotizaciones de AFP Plan Vital del trabajador don JAIME
+
+ABELARDO GARCIA VALDEBENITO, RUT N° 11250358-7 (oficio).
+
+Además, rindió prueba testimonial consistente en la declaración de:
+
+Código: NGXKBGNTJXP
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+1. Nancy Marcela Asenjo Soto C.I.: 11.594.942k, domiciliada en calle Llanquihue 586
+
+Rahue Bajo, Osorno (minuto 02:35)
+
+2. Nancy Erica Soto Kramm, C.I.: 6.905.7616, domiciliada en calle Llanquihue 586
+
+Rahue Bajo, Osorno. (minuto 11:35)
+
+QUINTO: La parte ejecutante, acompañó la siguiente prueba documental:
+
+- Planilla de declaración y no pago de cotizaciones previsionales (DNP), suscrita
+
+por el empleador don Marcelo Fontealba Vargas, correspondiente al mes de
+
+septiembre de 1995 sobre el trabajador Jaime García Valdebenito.
+
+SEXTO: En cuanto a la inexistencia de los servicios, dicha excepción será rechazada
+
+toda vez que sin perjuicio de lo declarado por los testigos y lo expuesto por la ejecutada al
+
+oponer la excepción lo cierto es que la relación laboral a esa fecha se encontraba vigente
+
+tal se acredita con la documental que acompaña el ejecutante que da cuenta que es el
+
+propio ejecutado quien declara y no paga la cotización de su trabajador en el mes de
+
+septiembre de 1995, lo que es coherente con la información remitida en el oficio.
+
+SEPTIMO: En cuanto a la excepción de prescripción, el artículo 2492 del Código Civil
+
+establece: La prescripción es un modo de adquirir las cosas ajenas, o de extinguir las
+
+acciones y derechos ajenos, por haberse poseído las cosas o no haberse ejercido dichas
+
+acciones y derechos durante cierto lapso de tiempo, y concurriendo los demás requisitos
+
+legales. Una acción o derecho se dice prescribir cuando se extingue por la prescripción. El
+
+artículo 2514 del Código Civil establece: “La prescripción que extingue las acciones y
+
+derechos ajenos exige solamente cierto lapso de tiempo, durante el cual no se hayan
+
+ejercido dichas acciones. Se cuenta este tiempo desde que la obligación se haya hecho
+
+exigible.”
+
+A su vez el artículo 5° de la Ley N°17.322 sobre “Normas para la Cobranza
+
+Judicial de Cotizaciones, Aportes y Multas de las Instituciones de Seguridad Social”,
+
+establece que la oposición que formule el ejecutado en el procedimiento sólo será
+
+admisible cuando se funde en alguna de las excepciones que allí se indican, entre las que
+
+figura en su numeral 5° la establecida en el N°17 del artículo 464 del Código de
+
+Procedimiento Civil, esto es, la prescripción de la deuda o de la acción ejecutiva. Refiere
+
+también la mencionada ley en su artículo 31 Bis, que la prescripción que extingue las
+
+acciones para el cobro de las cotizaciones de seguridad social, multas, reajustes e
+
+intereses, será de cinco años y se contará desde el término de los respectivos servicios. En
+
+Código: NGXKBGNTJXP
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+el mismo sentido lo establece el inciso décimo del artículo 11 de la Ley N°19.728 que
+
+establece un Seguro de Desempleo: “La prescripción que extingue las acciones para el
+
+cobro de estas cotizaciones, reajustes e intereses, será de cinco años y se contará desde el
+
+término de los respectivos servicios”.
+
+Consta del título ejecutivo (resolución) que se cobran cotizaciones respecto del
+
+trabajador Jaime García Valdevenito del mes de septiembre de 1995.
+
+Consta del oficio remitido por AFP Plan Vital que dicho trabajador prestó
+
+servicios para la ejecutada hasta el mes de septiembre de 1995, toda vez que a contar del
+
+mes de octubre de 1995 en adelante aparece un nuevo empleador pagador que no
+
+corresponde a la ejecutada; y que la demanda ejecutiva fue interpuesta el día 4 de enero
+
+de 2013, siendo notificada el día 12 de mayo de 2025.
+
+Que por tanto y habiéndose acreditado que desde la fecha del término de los
+
+servicios, por lo menos desde octubre de 1995, hasta la fecha de notificación de la
+
+demanda de cobro, ha transcurrido con creces el plazo de prescripción establecido en el
+
+artículos 31 Bis de la Ley N°17.322, se acogerá la excepción opuesta y se rechazará la
+
+acción de cobro de cotizaciones deducida.
+
+Por estas consideraciones y visto además lo dispuesto en los artículos 1, 2, 3, 4, 5,
+
+5 bis, 6, 7, 19, 31 bis de la ley 17.322; artículo 464 del Código de Procedimiento Civil,
+
+artículo 473 del Código del Trabajo y demás normas pertinentes, se declara:
+
+I.- Que se rechaza la excepción de inexistencia de los servicios.
+
+II.- Que SE ACOGE la excepción de prescripción de la acción, y en consecuencia SE
+
+RECHAZA, en todas sus partes, la demanda interpuesta.
+
+III.- Que cada parte soportará sus costas.
+
+RIT: P-28-2013
+
+RUC: 13-3-0001897-6
+
+Proveyó el(la) Juez(a) del Juzgado de Letras del Trabajo de Osorno, quien
+
+suscribe con firma electrónica avanzada.
+
+En Osorno a veinticuatro de octubre de dos mil veinticinco, se notificó por el
+
+estado diario la resolución precedente.
+
+Código: NGXKBGNTJXP
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Código: NGXKBGNTJXP
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2025-10-24T11:22:06-0300

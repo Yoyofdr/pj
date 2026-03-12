@@ -1,0 +1,562 @@
+METADATA
+
+case_id: 4845dcde54dd8402365929bb791514505e9f8e6f
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8058921
+
+rol: 8393-2026
+
+fecha_sentencia: 2026-03-11
+
+caratulado: BEUVE SOPHIA VINCENT CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: (CIVIL) APELACIÓN PROTECCIÓN
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Tribunales ▼
+Santiago, once de marzo de dos mil veintiséis.
+
+Vistos y teniendo presente:
+1° Que el recurso de queja tiene, por exclusiva finalidad, corregir las faltas o abusos graves cometidos en la dictación de resoluciones de carácter jurisdiccional.
+
+2° Que por medio del recurso interpuesto, se impugna la resolución dictada por la Corte de Apelaciones de San Miguel, pero solo en cuanto a la conducta ministerial de la Ministra Sra. Liliana Mera Muñoz, al no haberse inhabilitado en esta causa, o por lo menos consignar su posible inhabilidad con el Ministerio Público, como si lo señaló en otras causas; lo que no encuentra sustento, desde que aquello no es de conocimiento de este arbitrio, máxime cuando aquello carece de transcendencia teniendo a la vista los antecedentes agregados al sistema y a esta causa en particular, por lo que no existe una infracción que pueda ser materia de conocimiento a través de este arbitrio de carácter disciplinario, lo que conlleva que aquel sea desestimado de plano.
+
+De conformidad, además, con lo dispuesto en el Nº 19 del Auto Acordado de esta Corte Suprema sobre Tramitación y Fallo de Recurso de Queja y letra a) del artículo 549 del Código Orgánico de Tribunales, se desestima de plano el recurso de queja interpuesto en lo principal por don Vicente Marchant Vera por Gonzalo Vega Marchant.
+
+Al primer y tercer otrosí: estese a lo decidido; al segundo otrosí: a sus antecedentes; y al cuarto otrosí: téngase presente.
+
+Se deja constancia, que la Ministra Señora Gajardo, sin perjuicio de concurrir al rechazo del recurso de queja deducido, estuvo por ordenar la remisión de los antecedentes al pleno de la Corte de Apelaciones de San Miguel, para los fines a los que hubiese lugar.
+
+Al escrito folio 8, a sus antecedentes.
+
+Al escrito folio 13, téngase presente, y estese a lo decidido.
+
+Regístrese y archívese.
+
+Rol Nº 9091-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Tribunales ▼
+San Miguel, dieciocho de febrero de dos mil veintiséis
+
+Sala: Segunda Sala
+
+Rol Corte: 2489-2025-PENAL
+
+Ruc: 2300210877-1
+
+Rit: 296-2024
+
+11°JUZGADO DE GARANTÍA DE SANTIAGO
+
+Ministro de fe: Javiera González Arenas
+
+Tipo de Recurso: Apelación sentencia
+
+Escritos proveídos en audiencia: Folios 69, 70 y 71
+
+San Miguel, dieciocho de febrero de dos mil veintiséis
+
+Vistos:
+
+Primero: Que en lo que dice relación con la rebaja de las multas impuestas, solicitadas por la defensa de Gonzalo Vega Marchant en virtud de lo dispuesto en el artículo 70 del Código Penal, cabe señalar que en autos no existen antecedentes calificados que permitan tal rebaja al tenor de lo dispuesto en dicha norma, resultando insuficiente el informe social a que se hizo referencia en estrados, también invocado en primera instancia, dado que sólo da cuenta de que la madre del sentenciado se trasladó a vivir con él.
+
+Segundo: Que, en lo que dice relación con la multa impuesta como consecuencia de haber sido condenado como autor del delito contemplado en el artículo 470 del Código Penal, en su numeral 8°, es el inciso final de dicha norma que expresamente indica que en ese caso se impondrá además una multa ascendente a la mitad de la defraudación, que en este caso fue de $23.654.068, de manera que la multa de $ 11.827.034 resulta ajustada a derecho. Tal como se sostuvo en estrados por el Ministerio Público y la parte querellante, el monto de la multa no se calcula en base a la ganancia obtenida por el autor como consecuencia de la perpetración del ilícito, sino en base al monto de lo defraudado.
+
+Tercero: Que, en lo que dice relación con el comiso del vehículo marca Chery, modelo “Tiggo 2”, año 2022, de propiedad del sentenciado, cabe señalar que de los antecedentes indicados en la audiencia aparece, con meridiana claridad, que éste fue adquirido en el mes de noviembre del año 2021, año en que, según se acreditó con los documentos acompañados por la defensa del sentenciado en la audiencia del juicio abreviado, éste no tuvo ingresos superiores a $800.000 líquidos mensuales, lo que impide presumir siquiera que dicho vehículo fuera adquirido con ingresos provenientes de alguna actividad lícita. En efecto, el automóvil se adquirió pagando Gonzalo Vega Marchant un pie al contado de $2.000.000, sin demostrar la capacidad económica para ello, a fines del año 2021, en circunstancias que los subsidios fraudulentos que percibió lo fueron por licencias médicas otorgadas entre los meses de enero a diciembre de ese año, lo que permite tener por establecido que lo adquirió con las ganancias obtenidas por el delito de fraude de subvenciones, de manera que, de acuerdo a lo dispuesto en el artículo 31 del Código Penal, vigente a la época de ocurrencia de los hechos, hoy 31 ter del mismo cuerpo legal, procede el comiso decretado.
+
+Y, visto además lo dispuesto en los artículos 370 y 414 del Código Procesal Penal, se confirma en lo apelado, la sentencia de veintidós de julio pasado dictada por el 11° Juzgado de Garantía de Santiago en causa RIT 296-2024.
+
+Regístrese y devuélvase vía interconexión.
+
+N° 2489-2025-PENAL
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Tribunales ▼
+
+RESUMEN:
+
+R.U.C. : 2300210877-1
+
+R.I.T. : 296 - 2024
+
+DELITOS : ASOCIACION ILICITA
+
+OBTENCION FRAUDULENTA DE SUBVENCIÓN DEL
+
+ESTADO
+
+EMISION DE LICENCIA MEDICA FALSA
+
+NOMBRE IMPUTADO : STEFANY ANDREINA ROMERO HERNANDEZ
+
+CÉDULA DE IDENTIDAD : 0027082132-4
+
+DOMICILIO : PASAJE ALMADA Nº 2243, PUENTE ALTO
+
+NOMBRE IMPUTADO : JAIRO SEGUNDO PERDOMO CHICA
+
+CÉDULA DE IDENTIDAD : 0026432009-7
+
+DOMICILIO : LOS JARDINES 65 DPTO Nº 2002, ÑUÑOA
+
+NOMBRE IMPUTADO : JUAN JOSÉ VILLARROEL GIL
+
+CÉDULA DE IDENTIDAD : 0007515478-K
+
+DOMICILIO : QUILLAY N° 2526 DPTO Nº 41, PROVIDENCIA
+
+NOMBRE IMPUTADO : YEALFRED EMILIANO ESPINOZA ALMEIDA
+
+CÉDULA DE IDENTIDAD : 0027358499-4
+
+DOMICILIO : MANUEL RODRÍGUEZ 694 DPTO Nº 1210, SANTIAGO
+
+FISCAL : ALVARO PEREZ}
+
+AB QUERELLANTE : PIA CORBALAN
+
+AB QUERELLANTE : CARLOS LOPEZ
+
+DEFENSOR PRIVADO : LUCAS CANTILLANA
+
+DEFENSOR PRIVADO : SANTIAGO CORREA
+
+DEFENSOR PRIVADO : KAREN ESPINDOLA
+
+DEFENSOR PRIVADO : LINDA CATALAN
+
+TRIBUNAL : 11° JUZGADO DE GARANTÍA SANTIAGO
+
+TIPO DE RESOLUCIÓN : TRANSCRIPCIÓN DE PARTE RESOLUTIVA DE
+
+SENTENCIA DICTADA EN PROCEDIMIENTO ABREVIADO.
+
+Hechos acreditados: Desde el mes de febrero de 2023 se inició una investigación, a
+
+partir de oficios de La Superintendencia de Seguridad Social que ponía en
+
+conocimiento de la Fiscalía Informes de Auditoría Interna de la Caja de
+
+Compensación Los Héroes, con relación a tres empresas: Asesoría Seguridad SSP
+
+Chile Ltda, Rut N° 76.675.967-K, Seguridad Privada Express Security Ltda, Rut
+
+76.342.229-1 y Transportes de Pasajeros y de Carga Verónica Ltda, Rut N°
+
+Código: FXUNXPFTEXH
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+76.294.117-1. Dichas auditorias determinaron una serie de factores comunes: la
+
+presentación de licencias médicas repetitivas y continuas por parte de los
+
+trabajadores de las sociedades, altas y similares rentas imponibles de cada uno de
+
+ellos, alto porcentaje de trabajadores con licencias médicas y con menos de 6
+
+meses de antigüedad laboral, parentesco entre los trabajadores de las diferentes
+
+sociedades, médicos y diagnósticos que se repiten en la emisión de las licencias y
+
+trabajadores que figuran contratados en al menos 2 de las 3 empresas
+
+denunciadas. Asimismo, de acuerdo con los antecedentes aportados, todos los
+
+contratos de trabajo presentados son de carácter indefinido, lo cual resulta
+
+relevante respecto de los requisitos que se deben cumplir para tener el derecho a
+
+subsidio por incapacidad laboral -6 meses de afiliación y 3 meses de cotizaciones
+
+pagadas dentro de los 6 meses anteriores al inicio de la licencia médica-. En este
+
+punto es importante destacar, respecto de los médicos emisores, la coincidencia de
+
+varios de estos médicos imputados en la causa 2200768225-9, seguida ante el 14°
+
+Juzgado de Garantía, tales como los médicos imputados Samir Rivaldo Hernández
+
+y la imputada Yesica Donado Alvis, dueños de una gran asociación de emisión de
+
+Licencias Falsas compuestas por Centro Medico Doctor Mitite, Provimec y
+
+Sermidec, con domicilios en Lago Pirihueico 6502, depto 1408, comuna La Florida,
+
+además de los médicos José Gnecco Cervantes y Obed José Urrea Pérez, María
+
+Auxiliadora Yarzagaray Roa, Yohossira Pertuz Manga, Libardo Pulgarin Méndez y
+
+Yuranis Yepes Trespalacios y los imputados Jhon Jairo Marañon Manotas, Paola
+
+Corbacho Vargas, Sergio Diavanera Castro y Yenifer Rubiano Santander.
+
+Es así como desde el año 2020 y hasta la fecha, las sociedades indicadas cuentan
+
+con un porcentaje de trabajadores con licencias médicas superior al 80 por ciento
+
+de los trabajadores registrados por dichas sociedades en La Caja de Compensación
+
+Los Héroes.
+
+La investigación en su devenir, fue derivando a la existencia de una asociación de
+
+personas, vinculadas en la cúspide, fundamentalmente por relaciones de
+
+parentesco y amistad, en donde la persona cabecilla está representada por el
+
+imputado Juan Jaime Quilodrán Neira, quien junto su hermana Solange Quilodrán
+
+Neira, su padre Jaime Quilodran Mallea, su ex pareja Fernanda Villarroel Morales,
+
+además de Wladimir Calfucura Escobar, su pareja Jaqueline Figueroa Arriagada y
+
+Miguel Ángel Espinoza Bravo se hicieron del control directo e indirecto de las
+
+sociedades referidas, dos de seguridad y una de transporte conforme sus giros,
+
+utilizan dichas estructuras no para los fines del giro que le son propios, más bien
+
+como plataformas para la contratación de “supuestos trabajadores”, que cotizando
+
+Código: FXUNXPFTEXH
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+por el periodo mínimo requerido, obtienen de médicos dedicados al otorgamiento de
+
+licencias médicas falsas o sin justa causa médica, licencias médicas que les
+
+permiten obtener los subsidios de incapacidad laboral respectivos, supuestos
+
+trabajadores quienes una vez cobrados los mismos en las entidad finalmente
+
+pagadoras, para el caso, Caja de Compensación los Héroes, retornan dichos fondos
+
+a los estructuras, esta vez como ganancias ilícitas y luego mediante inversiones de
+
+los cabecillas incorporarlas al mercado.
+
+Mediante la aplicación de diversas técnicas investigativas, tales como
+
+interceptaciones telefónicas, vaciados telefónicos, seguimientos y vigilancias, entre
+
+otros se logró establecer que desde un tiempo indeterminado pero al menos desde
+
+el año 2020 hasta la época de sus detenciones, los imputados: Juan Jaime
+
+Quilodrán Neira, CI N° 13293387-1; Fernanda Hellen Villarroel Morales, C I
+
+N°15429878-9; Jaime Quilodrán Mallea, C I N°6346156-3; Guillermina del Carmen
+
+Neira Muñoz, C I N°7358509-0; Wladimir Darwin Calfucura Escobar, C I
+
+N°14517131-8; Jaqueline del Carmen Figueroa Arriagada, C I N°14065929-0;
+
+Bryan Alexander Quilodrán Rojas, C I N°19498312-3; Fabián Eduardo Quilodrán
+
+Rojas, C I N°19985586-7; Solange del Carmen Quilodrán Neira, C I N°16043748-0
+
+y Miguel Ángel Espinoza Bravo, C I N°15585861-3, todos ellos en la línea de mando
+
+y dirección, además de Carlos Manuel Feliú Quintanilla, C I N°8963629-9;
+
+Leonardo Andrés Núñez Miranda, C I N°15421115-2; María José Bórquez Palma, C
+
+I N°15709405-K; Jorge Antonio López Torres, C I N°13273777-0; Nicol Alejandra
+
+Deluca Ferreira, C I N°18241236-8; 1; Nancy Cristina Tapia Fuentealba, C I
+
+N°8664985-3; Carolina Durán Morales, C I N°16072497-8; Félix Mauricio Donoso
+
+Hernández, C I N°15435889-7; Luis Orlando Roa Castro, C I N°16029267-9; José
+
+Eduardo Parada Esparza, C I N°16 345 308-8, esto últimos en un nivel de
+
+colaboradores y brazos operativos, forman parte de una asociación permanente en
+
+el tiempo y con estructura jerarquizada, dedicada a la obtención y tramitación de
+
+licencias médicas falsas, mediante la contratación de supuestos trabajadores,
+
+falsos trabajadores, que contando con el mínimo de seis meses de afiliación y de
+
+tres meses de cotización anteriores a la fecha de la licencia médica respectiva,
+
+obtienen fraudulentamente, prestaciones improcedentes, consistentes en el
+
+Subsidio por Incapacidad Laboral con fondos del Fondo Nacional de Salud, Fonasa,
+
+pagados por la Caja de Compensación Los Héroes directamente a los trabajadores
+
+supuestos, quienes luego mediante dineros en efectivo e incluso transferencias,
+
+retornan a la organización los dineros o fondos. Para los efectos, se valen de las
+
+sociedades Asesoría Seguridad SSP Chile Ltda, Rut N° 76.675.967-K, Seguridad
+
+Código: FXUNXPFTEXH
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Privada Express Security Ltda, Rut 76.342.229-1 y Transportes de Pasajeros y de
+
+Carga Verónica Ltda, Rut N° 76.294.117-1, empresas del giro de seguridad las dos
+
+primeras y de transporte la última, que no desarrollan actividades propias del giro
+
+y que sirven solo y únicamente como el soporte jurídico, para justificar la
+
+contratación y liquidación de sueldos y remuneraciones, de los trabajadores
+
+supuestos, antecedentes que presentados en la Caja de Compensación Los Héroes,
+
+permiten la Obtención del Subsidio de incapacidad Laboral otorgado por Fonasa.
+
+Mediante este mecanismo, esta organización delictual hasta noviembre del año
+
+2023, ha defraudado al Estado en un total de $5.350.000.000.-, a través de los
+
+pagos de subsidios por incapacidad laboral que han debido ser pagados a los
+
+trabajadores ficticios de estas empresas fachadas por enfermedades inexistentes.
+
+Como se indicó, esta empresa criminal se estructura en base a. 1.- La
+
+Organización, con su líder, colaboradores y brazos operativos; 2.- trabajadores
+
+supuestos o pacientes ficticios y 3.- médicos emisores de licencias médicas
+
+falsificadas.
+
+Médicos emisores de licencias médicas falsificadas: También, en un nivel
+
+secundario dentro de la asociación ilícita, a sabiendas y voluntariamente, se
+
+encuentran los Profesionales de la salud que emiten licencias médicas falsas a
+
+cambio de un monto de dinero variable dependiendo de los días de licencia
+
+solicitados, siendo la mayoría de las licencias por diagnóstico de salud mental, lo
+
+que dificulta la labor fiscalizadora y faculta la posibilidad de alargar la extensión
+
+del reposo, y, por tanto, mayor es el subsidio que se obtiene. No realizan
+
+atenciones médicas reales.
+
+Durante esta investigación se detectó un gran número de médicos que emitían
+
+licencias a los “trabajadores” de las empresas que son parte de la organización
+
+criminal, por lo que se determinó un listado con los médicos que más licencias
+
+emitieron para la organización, destacándose los siguientes imputados STEFANY
+
+ANDREINA ROMERO HERNANDEZ venezolana, medico, cédula de identidad N°
+
+27082132-4 quien entre el 20 de septiembre de 2021 y el 06 de diciembre de 2022
+
+emitido 280 licencias médicas fraudulentas para los miembros de la organización
+
+delictual, todas con diagnóstico de salud mental por 21 días lo que significó un
+
+perjuicio a FONASA de $377.487.603 en subsidios por incapacidad laboral,
+
+YEALFRED EMILIANO ESPINOZA ALMEIDA, venezolano, médico general, cédula
+
+de identidad N° 27358499-4, quien entre el 09 de marzo de 2022 y el 30 de agosto
+
+de 2022, emitió 130 licencias médicas fraudulentas para los miembros de la
+
+organización delictual, todas con diagnóstico de salud mental por 21 días lo que
+
+Código: FXUNXPFTEXH
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+significó un perjuicio a FONASA de $176.410.177 en subsidios por incapacidad
+
+laboral, JUAN JOSÉ VILLARROEL GIL, boliviano, médico general, cédula de
+
+identidad N° 7.515.478-K, quien entre el 27 de diciembre de 2022 y el 25 de mayo
+
+de 2023, emitió 119 licencias médicas fraudulentas para los miembros de la
+
+organización delictual, todas con diagnóstico de salud mental por 30 días lo que
+
+significó un perjuicio a FONASA de $240.323.760 en subsidios por incapacidad
+
+laboral, y respecto de JAIRO SEGUNDO PERDOMO CHICA, colombiano, médico
+
+general, cédula de identidad N° 26.432.009-7, quien entre el 09 de junio de 2021 y
+
+el 06 de diciembre de 2022, emitió 82 licencias médicas fraudulentas para los
+
+miembros de la organización delictual, 5 con diagnostico traumatológico y todas
+
+las demás con diagnóstico de salud mental por 21 o 30 días lo que significó un
+
+perjuicio a FONASA de $158.558.251 en subsidios por incapacidad laboral.
+
+Circunstancias modificatorias de responsabilidad penal:
+
+Circunstancias Atenuantes: Para todos los imputados concurren aminorantes del
+
+artículo 11° 6 y 9 del Código Penal
+
+Circunstancias Agravantes: no concurren
+
+Santiago, uno de agosto de dos mil veinticuatro
+
+SE DECLARA:
+
+I.- Que, se condena a JAIRO SEGUNDO PERDOMO CHICA, JUAN JOSÉ
+
+VILLARROEL GIL, STEFANY ANDREINA ROMERO HERNANDEZ y YEALFRED
+
+EMILIANO ESPINOZA ALMEIDA, por su responsabilidad en calidad de autor, de los
+
+delitos de otorgamiento de licencias falsas previsto y sancionado en el artículo 202
+
+del Código Penal, por el ilícito de fraude de subvenciones del artículo 470 N° 8 del
+
+Código Penal y por el delito de asociación ilícita del artículo 294 en relación al
+
+artículo 292 del Código Penal, todos en grado de desarrollo consumado, ocurridos en
+
+territorio jurisdiccional de este Juzgado de Garantía desde el año 2020 al año 2023; a
+
+sufrir por el primer delito la pena de SEISCIENTOS SESENTA Y OCHO DIAS DE
+
+PRESIDIO MENOR EN SU GRADO MEDIO, a la accesoria de suspensión para cargo u
+
+oficio público durante el tiempo de la condena, INHABILITACIÓN PARA EMITIR
+
+LICENCIAS MÉDICAS durante el tiempo de la condena, y multa de CINCUENTA
+
+UNIDADES TRIBUTARIAS MENSUALES, por el segundo ilícito la pena de TRES
+
+AÑOS Y UN DÍA DE PRESIDIO MENOR EN SU GRADO MAXIMO, accesorias de
+
+inhabilitación absoluta perpetua para derechos políticos e inhabilitación absoluta para
+
+cargos y oficios púbicos durante el tiempo de la condena, y multa de CIEN UNIDADES
+
+TRIBUTARIAS MENSUALES, y finalmente por el tercer ilícito a la pena de SESENTA
+
+Código: FXUNXPFTEXH
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Y UN DÍA DE PRESIDIO MENOR EN SU GRADO MINIMO, a la accesoria de
+
+suspensión para cargo u oficio público durante el tiempo de la condena.
+
+II.- Que, reuniéndose en concepto de este Juez, los presupuestos que establece
+
+el artículo 14 y siguientes de la Ley 18.216, el tribunal va a conceder respecto de todos
+
+los sentenciados la pena sustitutiva de LIBERTAD VIGILADA INTENSIVA, por el
+
+mismo lapso de las penas corporales impuestas esto es CINCO AÑOS, debiendo
+
+quedar sometido a la vigilancia y observación de la autoridad de Gendarmería de Chile
+
+que corresponda de acuerdo a su domicilio, debiendo para tal efecto presentarse al
+
+centro de reinserción respectivo dentro del plazo de 10 días desde que quede
+
+ejecutoriada la presente sentencia, bajo apercibimiento de despacharse orden de
+
+detención en su contra.
+
+Debiendo cumplir con el plan de intervención individual que se apruebe en su
+
+oportunidad, y con las condiciones del artículo 17 de la ley 18.216, según lo indicado
+
+por Gendarmería de Chile. En especial artículo 17 ter de la ley 18.216 en su letra D,
+
+esto es programa formativo de educación cívica a cargo del delegado de libertad
+
+vigilada intensiva.
+
+En el evento de que la pena sustitutiva le fuere revocado o quebrantada se
+
+entiende que los sentenciados deberán ingresar a cumplir la pena privativa de libertad
+
+en forma real y efectiva sirviéndole de abono el tiempo de cumplimiento de la pena
+
+sustitutiva, y los días que se mantuvieron privados de libertad con motivo de esta
+
+causa; esto es, respecto de la sentenciada Stefany Andreina Romero Hernández,
+
+desde el día 28 de noviembre de 2023 a la fecha, 247 días de abono, respecto del
+
+imputado Yealfred Emiliano Espinoza Almeida, el día 28 de noviembre de 2023 a la
+
+fecha, 247 días de abono, respecto de Jairo Segundo Perdomo Chica, desde el día
+
+28 de noviembre de 2023 al 14 de marzo de 2024, 107 días de abono, y respecto del
+
+sentenciado Juan José Villarroel Gil, desde el día 28 de noviembre de 2023 a la
+
+fecha, 247 días de abono.
+
+III.- Que, respecto de las penas de multa se autoriza, a todos los sentenciados,
+
+el pago de la multa en 10 parcialidades iguales, mensuales, y sucesivas, debiendo
+
+acreditar dentro de los últimos 10 días del mes siguiente a que quede ejecutoriada el
+
+presente fallo. El no pago de una sola de las parcialidades, hará exigible el total de la
+
+multa adeudada.
+
+Una vez ejecutoriado el fallo, cúmplase con lo dispuesto en el artículo 468 del
+
+Código Procesal Penal.
+
+Código: FXUNXPFTEXH
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Sentencia dictada verbalmente en audiencia por don RODRIGO ALBERTO
+
+CAYO ARDILES, Juez del 11° Juzgado de Garantía de Santiago.
+
+Sin renuncia de plazos
+
+Se fija audiencia de aprobación de plan intervención de individual para el
+
+día 23 de septiembre de 2024 a las 10:00 horas, sala 503 de este Tribunal.
+
+Código: FXUNXPFTEXH
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2024-08-08T14:21:13-0400
