@@ -1,0 +1,70 @@
+METADATA
+
+case_id: f0e326b551fb6891cd86df8c4ff694fdcfd81e83
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047001
+
+rol: 9201-2026
+
+fecha_sentencia: 2026-03-03
+
+caratulado: PARRA BUTIERREZ FRANCISCO ANDRES CONTRA COMISIÓN DE LIBERTAD CONDICIONAL (CLC)
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Corte Apelaciones ▼
+Santiago,
+tres de marzo de dos mil veintiséis.
+
+Vistos:
+Se reproduce lo expositivo de la sentencia en alzada, con excepción de los fundamentos que sirven para rechazar la acción presentada.
+
+Y se tiene en su lugar y, además, presente:
+1° Que, atendido lo expuesto en las presentaciones de los litigantes, la discusión radica en determinar cuándo amparado cumple el tiempo mínimo de condena para acceder los beneficios intrapenitenciarios, teniendo en consideración que cumple actualmente diversas condenas y de distinta naturaleza entre sí.
+
+2° Que, en este escenario, cabe mencionar que la obtención de los beneficios penitenciarios forma parte de un proceso en el que debe ser respetado el principio de legalidad penal y existe, también, una necesidad de conciliar aquello con la ley penitenciaria y las repercusiones que sus posteriores modificaciones llevan en el acceso a tales beneficios.
+
+3° Que, en la especie, pese a que concurre una condena para cuya postulación al beneficio de la libertad condicional se requiere el cumplimiento de los dos tercios de esta, conforme a lo que establece la Ley 21.124, aquella no resulta aplicable puesto que no tiene efecto retroactivo conforme al principio general del derecho penal de irretroactividad de sus normas, salvo cuando sean favorables al imputado o condenado; principio que aparece recogido, a vía ejemplar, en los artículos 9 de la Convención Americana de Derechos Humanos, 19 N° 3 inciso 8° de la Constitución Política de la República y 18 del Código Penal.
+4° Que, conforme a lo indicado previamente, el tiempo mínimo de la pena para postular a los diversos beneficios, debe determinarse conforme a la ley vigente al momento de comisión de los hechos y de manera individual, aplicando a cada una de las penas impuestas, la proporción que debe cumplir según el delito cometido, para luego, y una vez que se ha establecido cada uno de los tiempos mínimos, se determine el tiempo mínimo global, tras la sumatoria de las primeras.
+
+5° Que, una interpretación en contrario, corresponde a un acto ilegal y arbitrario, que, además, amenaza la libertad personal del recurrente, desde que conculca, en su oportunidad, la posibilidad que le asiste de postular al beneficio de libertad condicional, razón por la que se acogerá el recurso intentado, en la forma que se dirá en lo resolutivo del fallo, sin perjuicio de las consideraciones que corresponda efectuar a la autoridad administrativa para los efectos de la concesión de algún beneficio intrapenitenciario, dentro del ejercicio de sus atribuciones
+Por estas consideraciones, se revoca la sentencia apelada de diecinueve de febrero de dos mil veinticinco, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N° 339-2026, y en su lugar se resuelve que se acoge la acción de amparo incoada en favor de Carlos Jacinto Neira Yáñez, por lo que, Gendarmería de Chile deberá calcular el tiempo mínimo de postulación para los beneficios intrepenitenciarios, conforme a la ley vigente al momento de comisión de los ilícitos, aplicando a cada una de las penas impuestas, la proporción que debe cumplir según el ilícito de que se trate.
+
+Acordada con el voto en contra del Ministro Sr. Valderrama quien estuvo por confirmar la sentencia apelada en virtud de sus propios fundamentos.
+
+Regístrese, comuníquese y devuélvase.
+
+Rol N° 9153-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Corte Apelaciones ▼
+C.A. de Santiago
+Santiago, veintitrés de enero de dos mil veintiséis.
+
+Atendida la discordancia entre la suma y el cuerpo del escrito, se provee al cuerpo del escrito.
+
+Al folio N°1; a lo principal y otrosí, aténgase a lo que se resolverá.
+
+Vistos y teniendo presente:
+
+1°) Que, según se colige de lo establecido en los artículos 21 de la Carta Fundamental y 7.6 de la Convención Americana de Derechos Humanos, la acción constitucional de amparo tiene como finalidad esencial controlar la “legalidad” de eventuales afectaciones o amenazas a la libertad personal y seguridad individual, en términos de verificar que, de mediar, se ajusten a la Constitución y a las leyes;
+
+2°) Que, los antecedentes expuestos en el recurso no constituyen una denuncia de hechos que correspondan a aquellos que, según el artículo 21 de la Constitución Política de la República, deban ser conocidos en esta clase de acciones, máxime si, de lo expuesto, se advierte que los mismos se encuentran sometidos al imperio del derecho, bajo a la tutela jurisdiccional de un Juzgado de Garantía que, en virtud de lo dispuesto en el artículo 14 letra f) del Código Orgánico de Tribunales es el órgano competente para hacer ejecutar las condenas criminales, resolver las solicitudes y reclamos relativos a dicha ejecución; por lo cual, la acción deducida no puede ser acogida a tramitación.
+
+Por estas consideraciones, y lo dispuesto por el artículo 21 de la Constitución Política de la República, se declara inadmisible el recurso deducido en estos autos.
+
+Archívese en su oportunidad
+N°Amparo-339-2026.jzc
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago,tres de marzo de dos mil veintiséis.Vistos:Se reproduce lo expositivo de la sentencia en alzada, con excepción de los fundamentos que sirven para rechazar la acción presentada.Y se tiene en su lugar y, además, presente:1° Que, atendido lo expuesto en las presentaciones de los litigantes, la discusión radica en determinar cuándo amparado cumple el tiempo mínimo de condena para acceder los beneficios intrapenitenciarios, teniendo en consideración que cumple actualmente diversas condenas y de distinta naturaleza entre sí.2° Que, en este escenario, cabe mencionar que la obtención de los beneficios penitenciarios forma parte de un proceso en el que debe ser respetado el principio de legalidad penal y existe, también, una necesidad de conciliar aquello con la ley penitenciaria y las repercusiones que sus posteriores modificaciones llevan en el acceso a tales beneficios.3° Que, en la especie, pese a que concurre una condena para cuya postulación al beneficio de la libertad condicional se requiere el cumplimiento de los dos tercios de esta, conforme a lo que establece la Ley 21.124, aquella no resulta aplicable puesto que no tiene efecto retroactivo conforme al principio general del derecho penal de irretroactividad de sus normas, salvo cuando sean favorables al imputado o condenado; principio que aparece recogido, a vía ejemplar, en los artículos 9 de la Convención Americana de Derechos Humanos, 19 N° 3 inciso 8° de la Constitución Política de la República y 18 del Código Penal.4° Que, conforme a lo indicado previamente, el tiempo mínimo de la pena para postular a los diversos beneficios, debe determinarse conforme a la ley vigente al momento de comisión de los hechos y de manera individual, aplicando a cada una de las penas impuestas, la proporción que debe cumplir según el delito cometido, para luego, y una vez que se ha establecido cada uno de los tiempos mínimos, se determine el tiempo mínimo global, tras la sumatoria de las primeras.5° Que, una interpretación en contrario, corresponde a un acto ilegal y arbitrario, que, además, amenaza la libertad personal del recurrente, desde que conculca, en su oportunidad, la posibilidad que le asiste de postular al beneficio de libertad condicional, razón por la que se acogerá el recurso intentado, en la forma que se dirá en lo resolutivo del fallo, sin perjuicio de las consideraciones que corresponda efectuar a la autoridad administrativa para los efectos de la concesión de algún beneficio intrapenitenciario, dentro del ejercicio de sus atribucionesPor estas consideraciones, se revoca la sentencia apelada de diecinueve de febrero de dos mil veinticinco, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N° 339-2026, y en su lugar se resuelve que se acoge la acción de amparo incoada en favor de Carlos Jacinto Neira Yáñez, por lo que, Gendarmería de Chile deberá calcular el tiempo mínimo de postulación para los beneficios intrepenitenciarios, conforme a la ley vigente al momento de comisión de los ilícitos, aplicando a cada una de las penas impuestas, la proporción que debe cumplir según el ilícito de que se trate.Acordada con el voto en contra del Ministro Sr. Valderrama quien estuvo por confirmar la sentencia apelada en virtud de sus propios fundamentos.Regístrese, comuníquese y devuélvase.Rol N° 9153-2026. Santiago,tres de marzo de dos mil veintiséis.Vistos:Se reproduce lo expositivo de la sentencia en alzada, con excepción de los fundamentos que sirven para rechazar la acción presentada.Y se tiene en su lugar y, además, presente:1° Que, atendido lo expuesto en las presentaciones de los litigantes, la discusión radica en determinar cuándo amparado cumple el tiempo mínimo de condena para acceder los beneficios intrapenitenciarios, teniendo en consideración que cumple actualmente diversas condenas y de distinta naturaleza entre sí.2° Que, en este escenario, cabe mencionar que la obtención de los beneficios penitenciarios forma parte de un proceso en el que debe ser respetado el principio de legalidad penal y existe, también, una necesidad de conciliar aquello con la ley penitenciaria y las repercusiones que sus posteriores modificaciones llevan en el acceso a tales beneficios.3° Que, en la especie, pese a que concurre una condena para cuya postulación al beneficio de la libertad condicional se requiere el cumplimiento de los dos tercios de esta, conforme a lo que establece la Ley 21.124, aquella no resulta aplicable puesto que no tiene efecto retroactivo conforme al principio general del derecho penal de irretroactividad de sus normas, salvo cuando sean favorables al imputado o condenado; principio que aparece recogido, a vía ejemplar, en los artículos 9 de la Convención Americana de Derechos Humanos, 19 N° 3 inciso 8° de la Constitución Política de la República y 18 del Código Penal.4° Que, conforme a lo indicado previamente, el tiempo mínimo de la pena para postular a los diversos beneficios, debe determinarse conforme a la ley vigente al momento de comisión de los hechos y de manera individual, aplicando a cada una de las penas impuestas, la proporción que debe cumplir según el delito cometido, para luego, y una vez que se ha establecido cada uno de los tiempos mínimos, se determine el tiempo mínimo global, tras la sumatoria de las primeras.5° Que, una interpretación en contrario, corresponde a un acto ilegal y arbitrario, que, además, amenaza la libertad personal del recurrente, desde que conculca, en su oportunidad, la posibilidad que le asiste de postular al beneficio de libertad condicional, razón por la que se acogerá el recurso intentado, en la forma que se dirá en lo resolutivo del fallo, sin perjuicio de las consideraciones que corresponda efectuar a la autoridad administrativa para los efectos de la concesión de algún beneficio intrapenitenciario, dentro del ejercicio de sus atribucionesPor estas consideraciones, se revoca la sentencia apelada de diecinueve de febrero de dos mil veinticinco, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N° 339-2026, y en su lugar se resuelve que se acoge la acción de amparo incoada en favor de Carlos Jacinto Neira Yáñez, por lo que, Gendarmería de Chile deberá calcular el tiempo mínimo de postulación para los beneficios intrepenitenciarios, conforme a la ley vigente al momento de comisión de los ilícitos, aplicando a cada una de las penas impuestas, la proporción que debe cumplir según el ilícito de que se trate.Acordada con el voto en contra del Ministro Sr. Valderrama quien estuvo por confirmar la sentencia apelada en virtud de sus propios fundamentos.Regístrese, comuníquese y devuélvase.Rol N° 9153-2026. Sentencia anonimizada
