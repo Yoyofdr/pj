@@ -4,17 +4,17 @@ case_id: bf4c1adec0f2b167dea65e6257c49e66b9604d75
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041556
 
-rol: 43069-2025
+rol: 48915-2025
 
-fecha_sentencia: 2026-02-26
+fecha_sentencia: 2026-02-25
 
-caratulado: PAUL PHILIP ROSSEL CISTERNAS /PREFECTO DE LA PREFECTURA DE CARABINEROS BÍO BÍO, CORONEL MARCELO SALAS CARVACHO
+caratulado: OYANEDER/FLORES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Función pública
+materias: ▪ Derecho a la honra, a la imagen y a la vida privada, libertad de expresión
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: REVOCADA SENTENCIA APELADA
 

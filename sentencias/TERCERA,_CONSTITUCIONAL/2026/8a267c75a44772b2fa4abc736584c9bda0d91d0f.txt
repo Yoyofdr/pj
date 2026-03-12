@@ -4,19 +4,19 @@ case_id: 8a267c75a44772b2fa4abc736584c9bda0d91d0f
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041866
 
-rol: 57062-2025
+rol: 358-2026
 
-fecha_sentencia: 2026-02-26
+fecha_sentencia: 2026-02-25
 
-caratulado: ANONIMIZADO
+caratulado: MAURICIO ANDRÉS ÁVALOS MILLALONCO/ISAPRE CRUZ BLANCA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Potestad disciplinaria
+materias: ▪ Salud
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
