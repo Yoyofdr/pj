@@ -1,0 +1,337 @@
+METADATA
+
+case_id: 06d974cbdc5dd6289cc6bdfa9b1eec100ecaa2c1
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8043905
+
+rol: 3485-2026
+
+fecha_sentencia: 2026-02-26
+
+caratulado: FORESTAL ARAUCO S.A/BANCO DE CRÉDITO E INVERSIONES
+
+sala: PRIMERA, CIVIL
+
+materias: ▪ Admisibilidad del recurso de casación en el fondo
+
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+
+resultado_recurso: INADMISIBLE CASACIÓN FORMA RECHAZADA,CASACIÓN F(M)
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintisiete de febrero de dos mil veintiséis.
+Vistos y teniendo presente:
+Primero: Que, de conformidad con lo dispuesto en el inciso séptimo del artículo 483-A del Código del Trabajo, se ha ordenado dar cuenta de la admisibilidad del recurso de unificación de jurisprudencia deducido por la demandada en contra de la sentencia dictada por la Corte de Apelaciones de Chillán, que rechazó el de nulidad interpuesto contra la de instancia que acogió la demanda, declaró el despido improcedente y ordenó la devolución del aporte del empleador a la cuenta individual de cesantía del trabajador.
+
+Segundo: Que según se expresa en la legislación laboral, el recurso de unificación de jurisprudencia es susceptible de ser deducido en contra de la resolución que falle el recurso de nulidad, estableciéndose su procedencia para el caso en que “respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de Tribunales Superiores de Justicia”, conforme lo explicita el artículo 483 del Código del Trabajo.
+
+Asimismo, del tenor de lo dispuesto en el artículo 483-A del cuerpo legal antes citado, aparece que esta Corte debe controlar, como requisitos para su admisibilidad, por un lado, su oportunidad; en segundo lugar, la existencia de fundamento, además de una relación precisa y circunstanciada de las distintas interpretaciones respecto de las materias de derecho objeto de la sentencia, sostenidas en diversos fallos emanados de los tribunales superiores de justicia, y finalmente, debe acompañarse copia del o los fallos que se invocan como fundamento del recurso en referencia.
+
+Tercero: Que las materias de derecho propuestas para ser unificadas consisten en determinar:
+1. “Si corresponde a la Corte hacer una valoración probatoria directa y basada en los hechos que importen un reexamen de la prueba, que permita sustituir o reemplazar la valoración probatoria del juez del fondo y;
+2. la posibilidad del empleador de descontar de las indemnizaciones por años de servicios los aportes que efectuara al Fondo de Cesantía, cuando el despido ha sido declarado injustificado”.
+
+Cuarto: Que, con relación al primer tema de derecho cuya línea jurisprudencial se procura unificar por la demandada, esto es, la valoración de la prueba y la causal de nulidad del artículo 478 b) del Código del Trabajo, no constituye un asunto jurídico habilitante de este arbitrio, por cuanto no dice relación con la discusión de fondo entre las partes, sino la forma cómo se argumentó para rechazar el recurso; razón que permite desestimarlo, en esta parte, en esta etapa procesal.
+Quinto: Que, con relación a la segunda materia que se pretende unificar, la sentencia impugnada rechazó el arbitrio fundado en la causal de nulidad dispuesta en el artículo 478 b) del Código del Trabajo, dado que, si bien la recurrente enuncia como infringido el principio de la lógica de la razón suficiente, lo cierto es que en el desarrollo de sus fundamentos queda de manifiesto que lo que reprocha es la valoración de los distintos medios de prueba en el juicio y lo que pretende es una nueva ponderación, acorde a lo sostenido por su parte, lo que no se aviene con la naturaleza y finalidad del recurso de nulidad. Además, sostuvo, que no se aprecia una vulneración manifiesta de las máximas de la experiencia, de los conocimientos científicamente afianzados, ni de alguno de los principios que forman parte de la lógica. Por el contrario, el fallo cumple con las exigencias legales de fundamentación y razonabilidad, pues se realiza un proceso de análisis de la prueba, en que las conclusiones que se vierten permiten reproducir el razonamiento utilizado para alcanzarlas.
+De esta forma, no ha podido constatarse un pronunciamiento sustancial que se relacione con la segunda materia de derecho propuesta por la demandada, por lo que el recurso intentado debe ser desestimado en esta etapa procesal.
+
+Por estas consideraciones y normas citadas, se declara inadmisible el recurso de unificación de jurisprudencia interpuesto contra la sentencia de dieciséis de diciembre de dos mil veinticinco.
+
+Regístrese y devuélvase.
+
+Rol N°208-2026.-
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Chillán, dieciséis de diciembre de dos mil veinticinco.
+
+VISTO:
+
+En esta causa RUC 24-4-0610551-9, RIT O-476-2024 del Juzgado de Letras de Chillán, por sentencia de nueve de julio de dos mil veinticinco, dictada por la jueza destinada Vilma Aravena Abarzúa, se resolvió: “I - Que se acoge la demanda interpuesta por don ALEXI BORIS SOTO PINO, don PABLO JAVIER MONSALVE PESO, y don PATRICIO ANTONIO RIVAS LOZANO, en contra de EMPRESAS LA POLAR S.A, todos ya individualizados. En consecuencia, el despido del que fueron objeto es improcedente.
+
+II.-Que la demandada deber pagar a:
+
+ALEXI BORIS SOTO PINO: a) $3.961.009.- por concepto del recargo del 30 % a la indemnización por años de servicio, según lo dispuesto en la letra a del artículo 168 del Código del Trabajo. b) $850.302.-, por concepto de restitución del descuento del aporte al Seguro de Cesantía.
+
+PABLO JAVIER MONSALVE PEZO: a) $3.326.402.- por concepto del recargo del 30 % a la indemnización por años de servicio, según lo dispuesto en la letra a del artículo 168 del Código del Trabajo. b) $873.499.-, por concepto de restitución del descuento del aporte al Seguro de Cesantía.
+
+PATRICIO ANTONIO RIVAS LOZANO: a) $5.170.393.- por concepto del recargo del 30% a la indemnización por años de servicio, según lo dispuesto en la letra a del artículo 168 del Código del Trabajo. b) $1.524.179.-, por concepto de restitución del descuento del aporte al Seguro de Cesantía.
+
+III.- Que las sumas ordenadas pagar mediante la presente resolución deberán serlo, con los reajustes e intereses que establecen el artículo 173 del Código del Trabajo, según corresponda.
+
+IV.- Ejecutoriada la presente sentencia, cúmplase con lo dispuesto en el artículo 462 el Código del Trabajo.
+
+V.- Que cada parte pagará sus costas.”
+
+En contra de dicha sentencia la parte demandante interpuso recurso de nulidad, fundado en la causal del artículo 478 letra b) del Código del Trabajo.
+
+Se procedió a la vista del recurso en la audiencia del día primero de diciembre del año en curso, asistiendo los abogados de ambas partes, quienes alegaron lo pertinente en defensa de sus derechos.
+
+CONSIDERANDO:
+
+Primero: Que la recurrente primeramente relata que los demandantes interpusieron demanda por despido injustificado y cobro de prestaciones e indemnizaciones laborales, indicando que se desempeñaban como vendedores multifuncionales en la tienda de empresas La Polar S.A. ubicada en la ciudad de Chillán, bajo contratos de trabajo de duración indefinida. Señalan que fueron desvinculados invocándose la causal prevista en el artículo 161 inciso primero del Código del Trabajo, esto es, necesidades de la empresa, establecimiento o servicio, la que según ellos no se configuraba en la especie.
+
+Señala que, al contestar la demanda, empresas La Polar S.A. expuso que la compañía se había visto severamente afectada por una profunda desaceleración de la economía y del consumo, por el mal comportamiento del comercio y por cambios determinantes en las condiciones del mercado, lo que se tradujo en una reducción significativa de ingresos que impactó gravemente en el patrimonio de la empresa, obligándola al cierre de tiendas y a efectuar numerosas desvinculaciones. Para acreditar lo anterior, la demandada acompañó antecedentes financieros y análisis razonados correspondientes a distintos períodos, los que, a su juicio, daban cuenta del grave y deteriorado estado financiero que atravesaba la compañía. En mérito de dichos antecedentes, solicitó el rechazo íntegro de la demanda, con expresa condena en costas.
+
+La sentencia impugnada resolvió acoger la demanda, declarando improcedente el despido de los actores y condenando a la demandada al pago del recargo del 30% sobre la indemnización por años de servicio y a la restitución de los montos descontados por concepto de aporte al Seguro de Cesantía, con los reajustes e intereses legales correspondientes, disponiendo además que cada parte soportara sus propias costas.
+
+Segundo: Que la recurrente invoca la causal de nulidad contemplada en el artículo 478 letra b) del Código del Trabajo, esto es, cuando la sentencia haya sido pronunciada con infracción manifiesta de las normas sobre apreciación de la prueba, conforme a las reglas de la sana crítica.
+
+Sostiene que la sentenciadora vulneró el artículo 456 del Código del Trabajo, norma reguladora de la prueba, al acoger la demanda pese a que la prueba rendida por la demandada, apreciada conforme a la sana crítica, permitía tener por plenamente configurada la causal de necesidades de la empresa invocada en las cartas de despido.
+
+Desarrolla extensamente el concepto y alcance del sistema de sana crítica, precisando que este no equivale a un sistema de libre convicción, sino que constituye un modelo de valoración racional de la prueba, sujeto a las reglas de la lógica, las máximas de la experiencia y los conocimientos científicos, exigiendo una motivación suficiente, coherente y razonada de las decisiones judiciales. Cita doctrina y jurisprudencia de la Corte Suprema para sostener que una sentencia que no respeta dichas reglas carece de fundamentación válida.
+
+Afirma que la sentencia impugnada infringe el principio de razón suficiente, pues no se hace cargo de manera racional y lógica de los antecedentes probatorios rendidos por la demandada, en especial de los análisis razonados de empresas La Polar S.A. correspondientes a los años 2022, 2023 y 2024, los cuales daban cuenta de cuantiosas pérdidas económicas, disminución sostenida del patrimonio, caída relevante de ingresos y un contexto macroeconómico adverso, circunstancias que, a juicio de la recurrente, acreditaban suficientemente la procedencia de la causal de despido aplicada.
+
+Reprocha que la sentenciadora haya desestimado dichos antecedentes sin explicitar las razones lógicas, técnicas o de experiencia que justificaran tal decisión, vulnerando con ello las reglas de la sana crítica y, en particular, el principio de la razón suficiente, al arribar a conclusiones que resultarían ilógicas, contradictorias y carentes de sustento racional.
+
+Finalmente, sostiene que la infracción denunciada influyó de manera sustancial en lo dispositivo del fallo, pues de haberse apreciado correctamente la prueba conforme a la sana crítica, la demanda debió ser rechazada íntegramente.
+
+En mérito de lo anterior, la recurrente solicita que se acoja el recurso de nulidad, se anule la sentencia de fecha 9 de julio de 2025 y se dicte sentencia de reemplazo que rechace en todas sus partes la demanda interpuesta, con expresa condena en costas.
+
+Tercero: Que, el artículo 478 letra b) del Código del Trabajo, señala que el recurso de nulidad procederá, cuando la sentencia haya sido pronunciada con infracción manifiesta de las normas sobre la apreciación de la prueba conforme a las reglas de la sana crítica.
+
+Por su parte el artículo 456 del citado cuerpo legal establece que al apreciar la prueba conforme a las reglas de la sana crítica, el tribunal debe expresar las razones jurídicas y simplemente lógicas, científicas, técnicas o de experiencia, en cuya virtud les asigne valor o las desestime; y agrega que en general, tomará en especial consideración la multiplicidad, gravedad, precisión, concordancia y conexión de las pruebas o antecedentes del proceso que utilice, de manera que el examen conduzca lógicamente a la conclusión que convence al sentenciador.
+
+Cuarto: Que, la citada causal busca controlar el razonamiento probatorio contenido en la sentencia, con miras a verificar que en esa actividad no se hayan contrariado o vulnerado los parámetros de la lógica, de la técnica, de los conocimientos científicos o de las reglas de experiencia. Para ese fin, el recurrente ha de ser capaz de demostrar el error, precisando en su impugnación cuáles hechos estarían incorrectamente fijados en el fallo y, sobre todo, la causa de ese error, indicando –y luego explicando- cuál sería la regla de la sana crítica que se ha visto transgredida.
+
+Asimismo, para que prospere la causal alegada por quien recurre, es menester que la infracción de las normas sobre valoración de la prueba conforme a las reglas de la sana crítica sea manifiesta, esto es evidente, notoria, posible de ser advertida a simple vista.
+
+Esta hipótesis de invalidación requiere, además, que la contravención denunciada tenga influencia en lo dispositivo del fallo; esto significa que el yerro sea determinante para la solución de la controversia, permitiendo definirla en un sentido distinto a aquél que ha sido concluido en el pronunciamiento cuestionado.
+
+Quinto: Que, del análisis del fallo de primer grado, aparece que en el considerando tercero la jueza precisa los hechos pacíficos y aquellos a probar y dentro de éstos, las circunstancias del término de la relación laboral, causal invocada, fundamentos y procedencia. Luego, en los basamentos cuarto y quinto enumera y describe la prueba rendida por la demandada y la demandante, respectivamente.
+
+A continuación, en el considerando sexto se consignan los hechos contenidos en la comunicación de despido efectuada a los demandantes; en el séptimo se analiza la carta de despido y se consigna que ésta contiene circunstancias de carácter muy general, refiriéndose en específico a los documentos denominados “análisis razonados” que la parte demandada menciona en su recurso y explicando claramente por qué estos no son suficientes para dar por acreditada la causal de necesidades de la empresa invocada para poner término a los contratos de los actores.
+
+Así, sobre el particular el fallo indica: “Ahora bien, los documentos denominados “Análisis razonado EMPRESAS LA POLAR S.A.” incorporados en juicio, tampoco podrían abonar la testimonial, acorde las imprecisiones y omisiones ya mencionadas, y a mayor abundamiento, dichas probanzas fueron confeccionadas por la propia demandada, no existiendo respaldo probatorio tal como un peritaje, o inclusive la propia declaración de sus autores; más aún, estos análisis carecen de antecedentes pormenorizados acerca de las diferentes partidas.
+
+Se advierte que, habiendo sido el despido de los actores en agosto de 2024, debió haberse incluido en la prueba de la demandada, los análisis correspondientes al tiempo inmediatamente anterior esto es el segundo trimestre de 2024, cuestión que en la especie no ocurrió.”
+
+Luego, en el considerando octavo, la sentenciadora enfatiza que la causal de necesidades de la empresa tiene un carácter objetivo, concluyendo en el noveno lo siguiente: “Que, como se dijo, el tenor de la comunicación de despido, resulta ser inespecífica, genérica y no entrega antecedentes a fin de que los demandantes, comprendiesen a cabalidad las reales motivaciones de la decisión de la parte empleadora.
+
+Sin perjuicio de aquello, tampoco ha sido posible tener por acreditado, que los genéricos fundamentos aludidos sean efectivos, habida consideración además que la principal referencia de la carta, es en síntesis, a la rentabilidad de la empresa, y en este sentido ha de tenerse en consideración que nuestros tribunales superiores han sostenido como exigencia de la causal en comento y aquella situación de la rentabilidad, que se trate de períodos sostenidos en el tiempo de pérdidas, debiendo en consecuencia la terminación de los servicios, ser contemporánea a la existencia de los desequilibrios, y de esta manera corregirlos.
+
+En este sentido, desconociendo el tribunal del estado financiero de la demandada en el tiempo inmediatamente anterior a la época del despido y únicamente teniendo la información que la tienda en qué se desempeñaba los demandantes fue cerrada en marzo de 2025, tampoco se cumple esta exigencia toda vez que no hay una lógica relación temporal de la decisión adoptada.”
+
+Sexto: Que, conforme a las constataciones precedentes, se aprecia que, habiéndose establecido como uno de los puntos controvertidos el fundamento y procedencia de la causal de despido invocada, esto es, las necesidades de la empresa, la jueza parte su razonamiento refiriéndose a los hechos detallados en la propia carta de despido, los que analiza en cuanto a su contenido y luego de frente a las pruebas rendidas, concluyendo que no se acreditó la causal de necesidades de la empresa, destacando que ésta es una causal objetiva y que no depende de la voluntad del empleador.
+
+Séptimo: Que si bien el recurrente enuncia como infringido el principio de la lógica de razón suficiente, lo cierto es que en el desarrollo de sus fundamentos queda de manifiesto que lo que reprocha es la valoración que la sentenciadora efectuó de los distintos medios de prueba en el juicio, pretendiendo que esta Corte haga una nueva ponderación de éstos, acorde a lo sostenido por su parte en el pleito, lo que no se aviene con la naturaleza y finalidad del recurso de nulidad.
+
+Octavo: Que, en definitiva, de la lectura y revisión de la sentencia, no se aprecia vulneración manifiesta de las máximas de la experiencia, de los conocimientos científicamente afianzados ni de alguno de los principios que forman parte de la lógica. Por el contrario, se puede afirmar que el fallo cumple con las exigencias legales de fundamentación y razonabilidad, pues en ella se realiza un proceso de análisis de la prueba, en que las conclusiones que se vierten permiten reproducir el razonamiento utilizado para alcanzarlas.
+
+En consecuencia, el presente arbitrio no puede prosperar.
+
+Por estas consideraciones y lo dispuesto en los artículos 477, 478, 480, 481 y 482 del Código del Trabajo, se rechaza, sin costas, el recurso de nulidad interpuesto por la abogada Francesca Vicencio Lobos en representación de la demandada, en contra de la sentencia definitiva de nueve de julio de dos mil veinticinco, del Juzgado de Letras del Trabajo de Chillán, la que, en consecuencia, no es nula.
+
+Regístrese y comuníquese.
+
+Redacción de la Ministra señora Érica Pezoa Gallegos.
+
+Rol 241-2025 Laboral-Cobranza.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+ACTA DE AUDIENCIA DE JUICIO / SENTENCIA
+
+FECHA
+Nueve de julio de dos mil veinticinco
+
+RUC
+24-4-0610551-9
+
+RIT
+O-476-2024
+
+MAGISTRADO
+VILMA VALENTINA ARAVENA ABARZÚA
+
+ADMINISTRATIVO DE ACTAS
+Ilse Winser Winser
+
+SALA
+4
+
+HORA DE INICIO
+11:32
+
+HORA DE TÉRMINO
+12:51
+
+Nº REGISTRO DE AUDIO
+2440610551-9-1342
+
+PARTE DEMANDANTE
+
+Comparecen
+ALEXI BORIS SOTO PINO
+
+PABLO JAVIER MONSALVE PEZO
+
+PATRICIO ANTONIO RIVAS LOZANO
+
+ABOGADO DEMANDANTE
+
+Comparece
+Claudio Garrido Coloma, con domicilio y forma de notificación ya registrada en el tribunal.
+
+PARTE DEMANDADA
+EMPRESAS LA POLAR S.A.
+
+ABOGADO DEMANDADO
+
+Comparece
+Francesca Vicencio Lobos , Constanza Sáez Flores con domicilio y forma de notificación ya registrada en el tribunal.
+
+ACTUACIONES EFECTUADAS:
+SI
+NO
+
+· PRUEBA PARTE DEMANDADA
+X
+
+· PRUEBA PARTE DEMANDANTE
+X
+
+· OBSERVACIONES A LA PRUEBA
+X
+
+· CITA NOTIFICACIÓN DE SENTENCIA
+X
+
+Se tiene presente la delegación de poder en la abogada de la parte demandada Constanza Sáez Flores.
+
+I.-PRUEBA INCORPORADA PARTE DEMANDADA
+
+DOCUMENTAL
+
+3.- Carta de Aviso de Término de Contrato dirigida a don Alexi Boris Soto Pino, de fecha 9 de agosto del año 2024.
+
+4.- Comprobante de carta de aviso para terminación del contrato de trabajo, Número Folio Región Inspección 1601, Año 2024, Correlativo 30845, emitido por la Dirección del Trabajo de fecha 8 de agosto del año 2024.
+
+5.- Certificado de Saldo Aporte del Empleador al Seguro de Cesantía para Imputar a
+
+Indemnización de don Alexi Boris Soto Pino realizada por DIN S.A., emitido por AFC Chile S.A., de fecha 1 de agosto del año 2024.
+
+6.- Certificado de Saldo Aporte del Empleador al Seguro de Cesantía para Imputar a Indemnización de don Alexi Boris Soto Pino realizada por EMPRESAS LA POLAR S.A., emitido por AFC Chile S.A., de fecha 1 de agosto del año 2024.
+
+7.- Finiquito de Contrato de Trabajo, suscrito entre don Alexi Boris Soto Pino y Empresas La Polar S.A., de fecha 14 de agosto del año 2024 ante Notario Público don Luis Eduardo Solar Bach.
+
+10.- Carta de Aviso de Término de Contrato dirigida a don Pablo Javier Monsalve Pezo, de fecha 9 de agosto del año 2024.
+
+11.- Comprobante de carta de aviso para terminación del contrato de trabajo, Número Folio Región Inspección 1601, Año 2024, Correlativo 30847, emitido por la Dirección del Trabajo de fecha 8 de agosto del año 2024.
+
+12.- Certificado de Saldo Aporte del Empleador al Seguro de Cesantía para Imputar a Indemnización de don Pablo Javier Monsalve Pezo realizada por DIN S.A., emitido por AFC Chile S.A., de fecha 1 de agosto del año 2024.
+
+13.- Certificado de Saldo Aporte del Empleador al Seguro de Cesantía para Imputar a Indemnización de don Pablo Javier Monsalve Pezo realizada por EMPRESAS LA POLAR S.A., emitido por AFC Chile S.A., de fecha 1 de agosto del año 2024.
+
+14.- Finiquito de Contrato de Trabajo, suscrito entre don Pablo Javier Monsalve Pezo y Empresas La Polar S.A., de fecha 14 de agosto del año 2024 ante Notario Público don Luis Eduardo Solar Bach.
+
+17.- Carta de Aviso de Término de Contrato dirigida a don Patricio Antonio Rivas Lozano, de fecha 9 de agosto del año 2024.
+
+18.- Comprobante de carta de aviso para terminación del contrato de trabajo, Número Folio Región Inspección 1601, Año 2024, Correlativo 30848, emitido por la Dirección del Trabajo de fecha 8 de agosto del año 2024 respecto de don Patricio Antonio Rivas Lozano.
+
+19.- Certificado de Saldo Aporte del Empleador al Seguro de Cesantía para Imputar a Indemnización de don Patricio Antonio Rivas Lozano realizada por DIN S.A., emitido por AFC Chile S.A., de fecha 1 de agosto del año 2024.
+
+20.- Certificado de Saldo Aporte del Empleador al Seguro de Cesantía para Imputar a Indemnización de don Patricio Antonio Rivas Lozano realizada por EMPRESAS LA POLAR S.A., emitido por AFC Chile S.A., de fecha 1 de agosto del año 2024.
+
+21.- Finiquito de Contrato de Trabajo, suscrito entre don Patricio Antonio Rivas Lozano y Empresas La Polar S.A., de fecha 14 de agosto del año 2024 ante Notario Público don Luis Eduardo Solar Bach.
+
+22.- Formulario de Admisión de envío de Correos de Chile respecto de Patricio Antonio Rivas Lozano, Alexi Boris Soto Pino y Pablo Javier Monsalve Pezo.
+
+23.- Análisis Razonado de Empresas La Polar S.A., correspondiente al cuarto trimestre del año 2022.
+
+24.- Análisis Razonado de Empresas La Polar S.A., correspondiente al cuarto trimestre del año 2023.
+
+25.- Análisis Razonado de Empresas La Polar S.A., correspondiente al primer trimestre del año 2024.
+
+26.- Comprobante de Cumplimiento de Declaración Libro de Remuneraciones Electrónico de Empresas La Polar, de fecha 14 de febrero del año 2022.
+
+27.- Comprobante de Cumplimiento de Declaración Libro de Remuneraciones Electrónico de Empresas La Polar, de fecha 11 de abril del año 2023.
+
+28.- Comprobante de Cumplimiento de Declaración Libro de Remuneraciones Electrónico de Empresas La Polar, de fecha 15 de febrero del año 2024.
+
+Se hace presente que no se incorporan los documentos 1,2,8,9,15,16 por haber sido excluidos y se desistió la parte demandante en Audiencia Preparatoria.
+
+CONFESIONAL: Se desiste
+
+TESTIMONIAL : Declaró el siguiente testigo:
+
+1.- Humberto Remigio Fuentes Pérez, cédula de identidad N°17.062.932-3, Gestor de
+
+Personas, domiciliado en Nueva de Lyon número 72, piso 6, comuna de Providencia, Región Metropolitana.
+
+II.-PRUEBA INCORPORADA PARTE DEMANDANTE
+
+DOCUMENTAL
+
+1.- Carta de despido de Alexi Soto Pino, fecha 9 de agosto de 2024.
+
+2.- Carta de despido de Pablo Monsalve Pezo, fecha 9 de agosto de 2024.
+
+3.- Carta de despido de Patricio Rivas Lozano, fecha 9 de agosto de 2024.
+
+4.- Finiquito de don Alexi Pino Soto, firmado ante notario con fecha 22 de agosto de 2024.
+
+5.- Finiquito de don Pablo Monsalve Pezo, firmado ante notario con fecha 22 de agosto de 2024.
+
+6.- Finiquito de don Patricio Rivas Lozano, firmado ante notario con fecha 22 de agosto de 2024.
+
+CONFESIONAL: Se desiste
+
+III.- OBSERVACIONES A LA PRUEBA: Las partes realizan las observaciones a la prueba, el Tribunal procede a realizar un receso y dictar sentencia inmediata.
+
+DICTACIÓN DE SENTENCIA.
+
+RIT: O-476-2024
+
+RUC: 24-4-0610551-9
+
+MATERIA: Despido Injustificado
+
+CARATULADO: RIVAS C0N EMPRESAS LA POLAR S.A
+
+En Chillán, nueve de julio de dos mil veinticinco.
+
+En atención a lo dispuesto en el artículo 62 inciso 3° del Auto Acordado N°71-
+
+2016 de la Excelentísima Corte Suprema, sólo se trascribirá la parte resolutiva del fallo. (Argumentos íntegros en audio.)
+Y visto además, lo dispuesto en los artículos 1, 7, 8, 9, 161 inciso 1, 162, 168, 172, 446 y siguientes del Código del Trabajo, SE DECLARA:
+
+I - Que se acoge la demanda interpuesta por don ALEXI BORIS SOTO PINO, don PABLO JAVIER MONSALVE PESO, y don PATRICIO ANTONIO RIVAS LOZANO, en contra de EMPRESAS LA POLAR S.A, todos ya individualizados. En consecuencia, el despido del que fueron objeto es improcedente.
+
+II.-Que la demandada deber pagar a:
+
+ALEXI BORIS SOTO PINO
+
+a) $3.961.009.- por concepto del recargo del 30 % a la indemnización por años de servicio, según lo dispuesto en la letra a del artículo 168 del Código del Trabajo.
+
+b) $850.302.-, por concepto de restitución del descuento del aporte al Seguro de Cesantía.
+
+PABLO JAVIER MONSALVE PEZO
+
+a) $3.326.402.- por concepto del recargo del 30 % a la indemnización por años de servicio, según lo dispuesto en la letra a del artículo 168 del Código del Trabajo.
+
+b) $873.499.-, por concepto de restitución del descuento del aporte al Seguro de Cesantía.
+
+PATRICIO ANTONIO RIVAS LOZANO
+
+a) $5.170.393.- por concepto del recargo del 30% a la indemnización por años de servicio, según lo dispuesto en la letra a del artículo 168 del Código del Trabajo.
+
+b) $1.524.179.-, por concepto de restitución del descuento del aporte al Seguro de Cesantía.
+
+III.- Que las sumas ordenadas pagar mediante la presente resolución deberán serlo, con los reajustes e intereses que establece el artículo 173 del Código del Trabajo, según corresponda.
+
+IV.- Ejecutoriada la presente sentencia, cúmplase con lo dispuesto en el artículo 462 el Código del Trabajo.
+
+V.- Que cada parte pagará sus costas.
+Regístrese y archívese.
+RIT: O-476-2024
+
+RUC: 24-4-0610551-9
+
+Téngase a las partes por notificadas por correo electrónico de todas las resoluciones dictadas en audiencia.
+
+Dirigió y resolvió doña VILMA VALENTINA ARAVENA ABARZÚA, Jueza Destinada del Juzgado de Letras del Trabajo de Chillán.
+
+Se deja constancia que el registro oficial de la presente audiencia, se encuentra grabado en el audio y a disposición de los intervinientes.
