@@ -1,0 +1,619 @@
+METADATA
+
+case_id: dbdc0d41f314eebbb2caf9afb47a3c32808d4111
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047336
+
+rol: 7159-2026
+
+fecha_sentencia: 2026-03-03
+
+caratulado: HUANCA ALVARADO DANIEL GONZALO CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, tres de marzo de dos mil veintiséis.
+
+Vistos y teniendo presente:
+Primero: Que, de conformidad con lo dispuesto en el inciso séptimo del artículo 483-A del Código del Trabajo, se ha ordenado dar cuenta de la admisibilidad del recurso de unificación de jurisprudencia deducido por la parte demandante contra la sentencia dictada por la Corte de Apelaciones de Santiago, que rechazó el de nulidad intentado contra la que desestimó la denuncia de vulneración de garantías fundamentales y despido injustificado.
+
+Segundo: Que, según se expresa en la legislación laboral, el recurso de unificación de jurisprudencia es susceptible de ser deducido en contra de la resolución que falle el recurso de nulidad, estableciéndose su procedencia para el caso en que “respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de Tribunales Superiores de Justicia”, conforme lo explicita el artículo 483 del Código del Trabajo.
+
+Asimismo, del tenor de lo dispuesto en el artículo 483-A del cuerpo legal antes citado, aparece que esta Corte debe controlar, como requisitos para su admisibilidad, por un lado, su oportunidad; en segundo lugar, la existencia de fundamento, además de una relación precisa y circunstanciada de las distintas interpretaciones respecto de las materias de derecho objeto de la sentencia, sostenidas en diversos fallos emanados de los tribunales superiores de justicia, y finalmente, debe acompañarse copia del o los fallos que se invocan como fundamento del recurso en referencia.
+
+Tercero: Que, conforme se expresa en el recurso, la materia que se propone unificar consiste en “determinar la correcta interpretación que debe darse al artículo 162, incisos primero del Código del Trabajo, en el sentido si el juez puede entender cumplidas las formalidades del despido cuando la comunicación se produce de forma verbal y sin expresión de causa a la trabajadora, previo a recibir la comunicación enviada al domicilio de la misma, la que habría sido enviada el mismo día en que se comunica verbalmente y sin causal el despido”.
+
+Cuarto: Que el fallo impugnado desestimó el arbitrio de nulidad de la parte demandante que invocó los motivos del artículo 478 e), 477 y 478 c) del Código del Trabajo, atendido, en primer lugar “(…) la falta de influencia que tal conclusión tendría en lo que ha sido resuelto respecto de la acción de tutela, al no haberse probado los indicios invocados ni ningún otro antecedente que diera cuenta de una vulneración de los derechos fundamentales invocados por la denunciante.”
+Agregó que “(…) el denuncio formulado pugna con los hechos asentados en el fallo impugnado en cuanto el mismo concluye que hubo un despido formal que cumplió con los requisitos legales, al haberse comunicado el término de la relación a la actora, por la causal del artículo 161 inciso primero del Código del Trabajo, el mismo día que se hizo también en forma verbal; lo que resulta contrario al motivo de nulidad de que se trata que impone el respeto irrestricto al sustrato fáctico determinado.”
+Y, finalmente, concluyó que (…) Tampoco existe error en cuanto a la consideración que se contiene en la sentencia en orden a que la acción por despido injustificado tiene como fundamento únicamente una desvinculación verbal y sin causal pues ello se advierte que es así del libelo de demanda.”
+De esta forma, no ha podido constatarse un pronunciamiento sustancial que se relacione con la materia de derecho propuesta, por lo que el arbitrio intentado debe ser desestimado en esta etapa procesal.
+Por estas consideraciones y normas citadas, se declara inadmisible el recurso de unificación de jurisprudencia interpuesto contra la sentencia de treinta y uno de diciembre de dos mil veinticinco.
+
+Regístrese y devuélvase.
+
+N°5.464-26.-
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Santiago, treinta y uno de diciembre de dos mil veinticinco.
+
+Vistos:
+
+Por sentencia de dieciocho de marzo de dos mil veinticinco, en causa RIT T-106-2024, seguida ante el 1° Juzgado de Letras del Trabajo de Santiago, se rechazó la acción principal de tutela por vulneración de derechos fundamentales y se acogió la subsidiaria de despido injustificado, indebido o improcedente, nulidad del despido y cobro de prestaciones, deducida por Angélica León López en contra de la empresa ARTL Chile Auditores Ltda. sólo en cuanto condena a la demanda a pagar la suma de $6.433.845 por concepto de feriados, con reajustes e intereses que indica, sin costas.
+
+Contra dicha sentencia recurrió de nulidad la parte denunciante y demandante, esgrimiendo, las causales de los artículos 478 letra e), en relación con el numeral 4° del artículo 459, 477 y 478 letra c), todos del Código del Trabajo, en subsidio una de la otra.
+
+Declarado admisible el recurso, se procedió a su conocimiento en audiencia, oportunidad en que alegaron los abogados de ambas partes.
+
+Considerando:
+
+Primero: Que la recurrente, doña Angélica León López, interpone recurso de nulidad fundado en la causal del artículo 478 letra e) del Código del Trabajo, esto es, cuando la sentencia se hubiere dictado con omisión del requisito establecido en el artículo 459 N°4 del Código del Trabajo, al no contener un análisis de toda la prueba rendida, los hechos que se estiman probados y el razonamiento que conduce a esta estimación. Sostiene que el fallo omitió pronunciamiento sobre la denuncia por vulneración de derechos fundamentales con ocasión del despido, prescindiendo completamente de los hechos denunciados, los indicios ofrecidos como sustento de la vulneración y los medios de prueba rendidos, limitándose a concluir que el despido fue “causado” por haberse enviado carta de término. Indica que esta omisión influyó sustancialmente en lo resolutivo, toda vez que impidió un pronunciamiento de fondo sobre los hechos que podrían configurar una vulneración de derechos fundamentales.
+
+Segundo: Que, de forma subsidiaria, se invoca la causal del artículo 477 del Código del Trabajo, al haber sido dictada la sentencia con infracción de ley que influyó sustancialmente en lo dispositivo del fallo. En particular, se denuncia la errónea aplicación del artículo 162 del Código del Trabajo, al dar por cumplidas las formalidades del despido para rechazar la denuncia de tutela, lo cual resulta jurídicamente improcedente, en tanto las acciones de tutela por vulneración de derechos fundamentales no se subordinan al cumplimiento o no de dichas formalidades. Asimismo, se acusa infracción a los artículos 485, 489 y 493 del Código del Trabajo, por cuanto el tribunal omitió el análisis y valoración de los hechos constitutivos de acoso laboral y vulneración de derechos fundamentales, además de eximir injustificadamente a la parte demandada de su deber de justificar la razonabilidad y proporcionalidad de las medidas adoptadas, conforme exige el artículo 493 del Código del Trabajo.
+
+Tercero: Que, en subsidio de las dos causales anteriores, se invocó la causal del artículo 478 letra c) del Código del Trabajo, por haberse incurrido en una errónea calificación jurídica de los hechos, al considerar que la acción subsidiaria de despido injustificado no podía prosperar, en atención a que la empleadora habría cumplido con las formalidades del despido. Señala la recurrente que el tribunal reconoció que existió aviso verbal del término del vínculo y que posteriormente se remitió carta, sin embargo, concluye que ello basta para tener por configurado un despido justificado sin efectuar análisis alguno respecto de la falta de expresión de causa ni la efectiva justificación del despido.
+
+Por lo anterior, solicita se invalide la sentencia por errónea calificación jurídica de los hechos, y se dicte sentencia de reemplazo que acoja la denuncia de vulneración de derechos fundamentales o en subsidio declare que el despido de la actora fue injustificado.
+
+Cuarto: Que la causal principal de nulidad, se encuentra contemplada en la letra e) del artículo 478 del Código del Trabajo de la siguiente manera: “El recurso de nulidad procederá, además: e) cuando la sentencia se hubiere dictado con omisión de cualquiera de los requisitos establecidos en los artículos 459, 495 ó 501, inciso final, de este Código, según corresponda; contuviese decisiones contradictorias; otorgare más allá de lo pedido por las partes, o se extendiere a puntos no sometidos a la decisión del tribunal, sin perjuicio de las facultades para fallar de oficio que la ley expresamente otorgue”, la que debe relacionarse, según el recurrente, con el N° 4 del artículo 459 del Código del Trabajo, esto es, aquella norma que señala que la sentencia definitiva debe contener “El análisis de toda la prueba rendida, los hechos que estime probados y el razonamiento que conduce a esta estimación”.
+
+Quinto: Que el legislador exige del sentenciador –conforme a la hipótesis de invalidación en estudio- que éste exponga en el fallo, luego de analizar las pruebas rendidas en el juicio, las razones que, en definitiva, lo llevaron a una determinada conclusión. Se trata de exteriorizar el proceso interno que hace el fallador, en forma razonada y coherente, lo que resulta necesario pues permite el control de las decisiones judiciales dentro del proceso.
+
+Como indispensable correlato de lo anterior, la causal invocada requiere, para ser acogida, los siguientes requisitos copulativos: a) que el recurrente singularice cuáles fueron los medios de prueba omitidos; b) que el sentenciador efectivamente haya omitido el análisis de determinados medios de prueba en su sentencia; y c) que esa omisión influya sustancialmente en lo dispositivo del fallo.
+
+Sexto: Que la impugnante, al desarrollar el arbitrio, sostiene que el fallo atacado no cumple con la exigencia legal en comento, pues no contiene el análisis de la totalidad de la prueba rendida, así como los hechos probados y sus razonamientos, respecto de los indicios invocados por su parte como fundamento de la acción de tutela por vulneración de derechos fundamentales deducida.
+
+Señala que el juzgador justifica tal proceder en que al haberse sustentado las demandas impetradas en un despido incausado y habiéndose probado que se habría cumplido con la formalidad del artículo 162 del Código del Trabajo, no pueden prosperar la acción de tutela y la subsidiaria de despido injustificado; en circunstancias que la denuncia formulada por despido vulneratorio de derechos fundamentales, con ocasión del despido, es independiente de la acción por despido injustificado, indebido o improcedente, lo que llevó erradamente al tribunal a quo a no valorar ni asentar los razonamientos y conclusiones probatorias de la primera, omitiendo valorar, la prueba confesional, testimonial y documental de acuerdo con la cual, se habrían acreditado los indicios probatorios invocados.
+
+Séptimo: Que, como todo vicio o falta que haga procedente la nulidad, éste debe responder a la exigencia de relevancia o trascendencia para tener acogida, lo que se traduce en concreto en la influencia que el mismo debe tener en lo dispositivo del fallo impugnado, esto es, en lo que ha sido resuelto, de manera que su constatación, lleve a cambiar la determinación a la que en virtud de su existencia se arribó.
+
+En esta perspectiva, cabe considerar que los 16 indicios que la recurrente refiere que no fueron considerados ni analizados por el sentenciador de base, corresponden a los antecedentes genéricos de la vulneración, que indica en su denuncio, a saber:
+
+“i. Durante 12 años ejecuté labores de socia de auditoría y también labores propias de administración, finanzas, contabilidad interna, cobranza, adquisiciones, mantenimiento de oficina, tecnología y recursos humanos.
+
+ii. En junio de 2022, fue contratado un Director Financiero, Sr. Christian Paredes, siendo excluida y apartada por mi empleador de todas mis funciones como encargada de administración de la sociedad, después de 12 años de ejecutarlas.
+
+iii. A partir de diciembre de 2022, el Sr. Christian Paredes retrasó indebidamente el pago de mis remuneraciones y créditos que la empresa mantiene conmigo y/o se me pagaba menor remuneración, a petición expresa del Sr. Luis Landa.
+
+iv. El Sr. Fernando Landa -también socio de ARTL- manifestaba una profunda enemistad conmigo desde el día en que debí cobrarle el préstamo que la compañía le había otorgado, solicitándome expresamente que no le hablara más, denostándome frente a otros trabajadores del ARTL.
+
+v. Reiteradamente, entre diciembre 2022 y junio 2023 debí rogar a mi empleador el pago de mi remuneración y créditos en tiempo y forma, siendo objeto de reiterada humillación.
+
+vi. Los pagos se efectuaban sólo una vez que Luis Landa autorizaba efectuar mis pagos desde una cuenta bancaria diferente a la de todos los demás socios (Banco Estado), en época distintas a las pactadas, intentando demostrar que yo dejaba sin flujo a la sociedad, y hasta sin ahorros.
+
+vii. Existieron reiteradas conductas, actos y comentarios de desacreditación y denostación profesional por parte del Sr. Luis Landa y su hijo Sr. Fernando Landa, invocando mi falta de profesionalismo, mi bajo desempeño, baja productividad, mala administración, frente a los demás socios, e incluso, frente a otros trabajadores de ARTL.
+
+viii. Durante el año 2023 el Sr. Luis Landa y Fernando Landa, iniciaron una persecución en mi contra, acusándome que la contabilidad de los años anteriores realizada y dirigida por mí estaba mal realizada, lo que habría implicado contingencias tributarias para la sociedad.
+
+ix. Entre abril y septiembre de 2023, Luis Landa ejecutó actos de acoso laboral en contra del Gerente de Auditoría, con quien debía trabajar directamente, forzando su renuncia para perjudicar mi trabajo.
+
+x. En la Asamblea de Socios de abril de 2023, fui presionada por el Sr. Luis Landa frente a los demás socios, para aprobar los estados financieros, bajo amenaza que él dejaría caer la compañía, con las respectivas consecuencias que ello implicaría. xi. Todo lo anterior, con el objeto de presionarme para que presentara mi renuncia a ARTL y a mi participación social.
+
+xii. El proceso de acoso del que fui objeto, que ya se venía configurando por los antecedentes latamente expuestos supra, concluye el 31 de octubre de 2023, cuando fui informada verbalmente que el Sr. Luis Landa me había desvinculado, sin causa ni hechos que lo justificaran.
+
+xiii. El día 2 de noviembre recibí un correo electrónico del Sr. Christian Paredes quien me informaba que, atendida mi desvinculación, el día siguiente sería dado de baja mi correo electrónico, privándome de cualquier acceso a mis clientes, archivos y a ejecutar mi trabajo.
+
+xiv. Este despido fue el desenlace de una serie de acontecimientos de hostigamiento hacia mí, que terminaron, por cierto, con mi desvinculación verbal y sin causal.
+
+xv. El hecho que. Luis Landa llamara al Presidente de la Comisión de Normas de Auditoría don Jesús Riveros e informara a la CMF de mi desvinculación, denostándome y desacreditándome profesionalmente frente a colegas y entidades de mi área.
+
+xvi. Todo lo anterior, demuestra una serie de conductas reiteradas y sistemáticas, que han afectado no sólo mi salud psíquica, sino que también mi salud física, siendo objeto de constantes actos de hostigamiento por parte de mi superior, Sr. Luis Landa y su hijo Sr. Fernando Landa, lo que causa mi menoscabo, humillación, merma y amenaza en mi empleabilidad”.
+
+Hace presente que, sin perjuicio que estos actos no fueron simultáneos al despido, se entienden como parte del contexto inmediato anterior al mismo, en tanto el período entre junio de 2022 y octubre de 2023, resultan indudablemente parte del proceso de despido y, por ello, una vulneración de derechos fundamentales ejecutada con ocasión del mismo, ya que la referida conculcación adquirió el carácter de continua y reiterada en el tiempo y concluyó con el quiebre de la relación laboral. De manera que no sólo se denuncia el hecho aislado del despido, sino que la cadena sucesiva en el tiempo iniciada desde junio de 2022, con la llegada del Director Financiero.
+
+Octavo: Que la vulneración de garantías fundamentales hace exigible la acreditación de -a lo menos- indicios respecto de la existencia de motivaciones antijurídicas, persecutorias o espurias, o bien la existencia de una especial intención de dañar o lesionar al trabajador como ciudadano, lo que supone una conducta del empleador que vulnere intereses cautelados por la ley laboral. Ello encuentra su justificación en la circunstancia que este procedimiento tiene por objeto proteger a los trabajadores de los hechos o conductas que puedan ser calificadas como abusivos, vulneratorios, o peyorativos y graves que causen un perjuicio a la víctima.
+
+Noveno: Que al respecto, cabe tener presente que en el ámbito probatorio, el artículo 493 del Código Laboral valida la prueba indiciaria al establecer que “Cuando de los antecedentes aportados por la parte denunciante resulten indicios suficientes de que se ha producido la vulneración de derechos fundamentales, corresponderá al denunciado explicar los fundamentos de las medidas adoptadas y su proporcionalidad”.
+
+En esta perspectiva, preciso es tener en consideración que, si bien puede considerarse que la prueba por indicios que rige en los procedimientos de tutela conlleva un aligeramiento probatorio, lo cierto es que ello no significa que no deban acreditarse los hechos constitutivos y las lesiones a los bienes jurídicos tutelados.
+
+Décimo: Que en el caso sub lite, el fallo atacado menciona la prueba rendida, la que valoriza en su conjunto, pero descarta erróneamente avocarse al estudio sobre la configuración de los elementos de la tutela deducida, por la razón que expresa en su fundamento décimo cuarto, esto es, que dicha “acción principal se justificó únicamente en la existencia de un despido incausado y no sobre el carácter vulneratorio del mismo”. Si bien el sentenciador del grado -por las consideraciones indicadas- ha dejado de referirse a la acción de tutela y de analizar particularmente las probanzas que la denunciante y recurrente indica en su arbitrio, como fundamentales para la determinación de su procedencia, esto es, el testimonio de Miguel Rivera, la absolución de posiciones del representante de la demandada y correos electrónicos, corresponde analizar el contenido y mérito de dichas probanzas y determinar si de acuerdo a estos, es posible modificar lo que ha sido resuelto, en relación a la procedencia de la denuncia por afectación de derechos fundamentales.
+
+Undécimo: Que, en esta perspectiva, cabe consignar que el señor Miguel Rivera, cónyuge de la demandante y con juicio pendiente a la época de prestar testimonio en este, en contra de la demandada de autos, fue el único testigo de los cuatro que presentó dicha parte, que refirió la existencia de hostigamiento hacia ella, consistente en denostaciones y críticas en reuniones, haciéndole saber que era una mala trabajadora, atrasos y desfaces en el pago de sus remuneraciones. Como se indicó, los dichos de este testigo, no son corroborados por lo otros que también declararon en la causa, presentados por la actora: Marco Bórquez, José Navarrete y Claudio Valenzuela, quienes no reconocen la existencia de malos tratos, sino que una relación seria entre los involucrados en las reuniones que se realizaban y algunos problemas en el pago de las remuneraciones. Lo que tampoco es corroborado por los tres testigos que presentó la demandada, quienes refirieron problemas de administración y financieros, únicamente.
+
+En cuanto a los correos electrónicos que no habrían sido examinados, cabe destacar que la recurrente no indica a cuáles se refiere, pero en todo caso de la lectura de los que menciona en su libelo y el resto de los allegados al proceso, sólo es posible constar la existencia de comunicaciones por retrasos en el pago de parte de las remuneraciones de la actora.
+
+Tampoco la absolución de posiciones rendida por el representante legal de la denunciada y demandada, contiene el reconocimiento de hechos que permitan concluir la existencia de actos o conductas vulneratorias.
+
+En consecuencia, del análisis de la prueba preterida por el juzgador de base, no se advierten actos de la naturaleza y entidad que se requieren para configurar las afectaciones que se han denunciado, como la vida, la honra y la integridad física y psíquica de la trabajadora. Por su parte, los hechos indiciarios que se han invocado, tampoco han sido demostrados desde la óptica vulneratoria que se requiere para los efectos que pretende la recurrente, al no haberse acreditado el tratamiento denigrante, persecutorio o de hostigamiento que se denuncian; todo lo cual determina que la eventual falta o yerro del juzgador carece de la influencia necesaria para acoger la nulidad impetrada, ya que no existe mérito para acoger el denuncio formulado.
+
+Duodécimo: Que respecto del segundo motivo de nulidad denunciado, esto es, el previsto en el artículo 477 del Código del Trabajo, sobre infracción de ley, cabe señalar que el mismo tiene como finalidad velar por una correcta aplicación del derecho a los hechos o al caso concreto determinado en la sentencia. En otras palabras, su propósito esencial está en fijar el significado, alcance y sentido de las normas, en función de los hechos tenidos por probados.
+Por lo mismo, esta causal, en su segunda hipótesis, supone la aceptación de los hechos establecidos en la sentencia, por lo que la fundamentación y sustento del recurso por este motivo debe ser coincidente con ese propósito.
+
+Del mismo modo, no es factible en este motivo impugnar el raciocinio valorativo que ha efectuado la sentencia de los medios de prueba aportados en el juicio, desde que esta apreciación incide en la determinación de los hechos de la causa, lo que –como ya se dijo- es ajeno al objetivo de la infracción de ley.
+
+Por último, es necesario tener presente también que las normas que se denuncian como infringidas deben tener influencia en lo dispositivo del fallo, esto es, deben revestir el carácter de ser decisoria litis.
+
+Décimo tercero: Que, como se dijo precedentemente, para que pueda prosperar la causal alegada, el recurrente debe respetar el sustrato fáctico que ha establecido el sentenciador en el fallo impugnado, toda vez que esa premisa es inamovible en esta sede jurisdiccional. Sin embargo, de las alegaciones formuladas por la recurrente, se desprende que las mismas no encuentran fundamento en el sustrato fáctico asentado en el fallo atacado, requiriendo de la adición de hechos -acordes a la vulneración de derechos fundamentales- que no han sido establecidos por el juzgador de base, de modo que el recurso no puede tener éxito.
+
+Además, el recurso cuestiona la valoración o falta de valoración efectuada ella, sin que sea esto procedente de acuerdo a la naturaleza del motivo de nulidad invocado.
+
+Asimismo, de acuerdo a lo señalado a propósito de la causal principal, lo cierto es que el yerro denunciado tampoco tendría la influencia necesaria para invalidar el fallo atacado, ya que de acuerdo a lo indicado la prueba rendida por la denunciante y los indicios invocados no dan cuenta de hechos de la naturaleza y entidad acordes con la conculcación de garantías fundamentales denunciadas.
+
+Décimo cuarto: Que por la última causal de nulidad deducida, se sostiene una errada calificación de la acción de tutela y de la de despido injustificado, al haber considerado el juzgador que se sustentaron únicamente en una desvinculación incausada.
+
+Respecto de lo primero, ya se ha indicado la falta de influencia que tal conclusión tendría en lo que ha sido resuelto respecto de la acción de tutela, al no haberse probado los indicios invocados ni ningún otro antecedente que diera cuenta de una vulneración de los derechos fundamentales invocados por la denunciante.
+
+En cuanto a la demanda subsidiaria por despido injustificado, cabe señalar que el denuncio formulado pugna con los hechos asentados en el fallo impugnado en cuanto el mismo concluye que hubo un despido formal que cumplió con los requisitos legales, al haberse comunicado el término de la relación a la actora, por la causal del artículo 161 inciso primero del Código del Trabajo, el mismo día que se hizo también en forma verbal; lo que resulta contrario al motivo de nulidad de que se trata que impone el respeto irrestricto al sustrato fáctico determinado.
+
+Tampoco existe error en cuanto a la consideración que se contiene en la sentencia en orden a que la acción por despido injustificado tiene como fundamento únicamente una desvinculación verbal y sin causal pues ello se advierte que es así del libelo de demanda.
+
+Décimo quinto: Que, conforme a lo señalado, el recurso de nulidad será desestimado.
+
+Por las razones anteriores, y lo dispuesto en los artículos 477, 479, 481 y 482 del Código del Trabajo, se rechaza, sin costas, el recurso de nulidad deducido por la denunciante y demandante contra la sentencia de dieciocho de marzo de dos mil veinticinco dictada por el Primer Juzgado de Letras del Trabajo de Santiago, en los autos RIT T-106-2024, caratulados “León/ARTL Chile Auditores Limitada”, la que en consecuencia, no es nula.
+
+Regístrese y comuníquese.
+
+Redactor ministra Carolina Brengi Zunino.
+
+No firma el ministro (s) señor Pablo Toledo, no obstante concurrir a la vista de la causa y del acuerdo, por cesar funciones de suplencia en esta Corte.
+
+Ingreso Corte Rol N°1213-2025 Laboral-Cobranza.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, dieciocho de marzo de dos mil veinticinco.
+
+Vistos y teniendo presente:
+
+Primero: Que mediante presentación de fecha 12 de enero de 2024 comparece la señora Angélica León López, domicilia en avenida El Golf 40, oficina 701, comuna de Las Condes, quien deduce demanda en contra la empresa ARTL Chile Auditores Ltda., representada legalmente por el señor Luis Landa Tobar, ambos domiciliados en avenida El Golf 40, oficina 703, comuna de Las Condes.
+
+Funda su pretensión señalando que la empresa demandada se constituyó en el año 2009, encontrándose dentro de sus socios constituyentes su parte y el actual representante legal de la demandada, quien ostenta el 50,91%. Explica que su parte sin perjuicio de tener participación en la empresa hasta el mes de noviembre de 2023, estaba sujeto a una relación de subordinación y dependencia de acuerdo al contrato suscrito con ella el 4 de enero de 2010, utilizando un cargo denominado socia, labor que implicaba dedicación exclusiva en materias de asesorías, auditorías y administración de empresas, por lo que no solamente ejecutó funciones de socia de auditoría y como directiva de la sociedad, realizando labores de administración, finanzas, contabilidad interna, cobranza, adquisiciones, mantenimiento de oficina, tecnología y recursos humanos.
+
+Hace presente, que como socia de auditoría se desempeñaba realizando auditorías a los estados financieros de su cartera de clientes, dirigiendo el trabajo de auditoría a través de un equipo de profesionales compuesto por un gerente de auditoría, un senior y staff de auditores, quienes en conjunto con su parte debían llevar a cabo la auditoría del cliente concluyendo con el Informe del Auditor. En esta cartera de clientes estaba a cargo de sociedades reguladas por la CMF, fondos de inversiones públicos y privados, corredores de bolsa y sociedades anónimas reguladas, y consecuentemente, desarrollaba la capacitación y estudios que ello demandaba. Adicionalmente ejercía la labor de ventas captando más clientes para la empresa; participaba en la Comisión de Normas de Auditoría; participaba en el Comité de Ética e Independencia de ARTL para efectos de la Comisión para el Mercado Financiero (CMF) y NEXIA; y estaba desarrollando nuevos proyectos para llevar contabilidades de fondos de inversiones y administradores de fondos y comprar cartera de contabilidades, con el objeto de hacer crecer la compañía.
+
+Por otra parte, a cargo del área de administración administraba las cuentas corrientes bancarias y autorizaba las transacciones en los bancos; llevaba la contabilidad de ARTL, preparaba sus balances e informes financieros para los distintos organismos reguladores, y efectuaba los pagos de impuestos mensuales y anuales de ARTL, sus sociedades relacionadas y sus socios; preparaba los presupuestos, realizaba informes de gestión para evaluación de su cumplimiento y gestión de la firma en el Comité de Socios; era la responsable de la contratación de profesionales, validación de sus credenciales y elaboración de contratos de trabajo, finiquitos y del pago de sus cotizaciones previsionales e impuestos, tanto de tales trabajadores, como de los demás socios; velaba por el cumplimiento de la información del servidor, efectuaba los respaldos de la información de los clientes y revisaba los cumplimientos de los sistemas externalizados, programaba las compras de equipos y su adecuada mantención; velaba por el cumplimiento de la cobranza para el pago de las obligaciones con proveedores, efectuaba las compras de los materiales para oficina, elementos para los trabajadores, mantención de impresoras y equipos, y compra de insumos básicos de alimentación y limpieza. Para ello, tenía un equipo de trabajo de aproximadamente 7 personas, consistente en un gerente de administración y finanzas, una contadora, un analista contable, un jefe de cobranza, un junior, una recepcionista, un jefe de recursos humanos y un encargado de tecnología y esporádicamente a cargo de marketing.
+
+Expone que su remuneración mensual ascendía a la suma de $8.182.08, siendo para efectos del artículo 172 del Código Laboral de $3.274.926.
+
+Indica que desde el segundo semestre del año 2021 la demandada sufrió un fuerte déficit de caja, producto de diversos préstamos de la empresa a los socios Landa, que son padre e hijo, el retiro en exceso de utilidades, lo que puso en conocimiento de Luis Landa en su calidad de socia y encargada de administración, cuestión que produjo el quiebre con este, quien le acusó de llevar mal la economía de la empresa y exigirle no cobrarle a su hijo el préstamos que la empresa le había otorgado a corto tiempo, el que finalmente no fue devuelto, y que significó que además su hijo se molestara con ella y le pidiese no hablarle más. Lo anterior motivó que tuviese que garantizar con su patrimonio personal deudas de la demandada.
+
+Sostiene que lo expuesto comprometió su salud física, provocándole colon irritable, pérdida de memoria en razón del estrés y la difícil situación, lo que generó que en el mes de febrero de 2022 su parte ofreciera su renuncia voluntaria, lo que nunca se concretó.
+
+Relata que luego de que durante varios meses el señor Luis Landa persistiese en atribuirle responsabilidad por la mala economía de la empresa, en el mes de junio de 2022 contrató a un director financiero, Christian Paredes, ya que desconfiaba de su administración, la acusaba de no trabajar en pro de la empresa o que todo lo hacía mal, siendo removida de sus labores como encargada del área de administración de la empresa, ordenándole aumentar las ventas o cartera de cliente. A partir de dicho momento dejó de tener acceso a las operaciones bancarias, el señor Luis Landa era el único que podía firmar, a menos que actuase como socio, pese a que durante 11 años lo pudo hacer de manera independiente.
+
+Indica que desde ese momento fue objeto de constantes agresiones verbales por el señor Luis Landa, quien denostaba y denigraba su trabajo como auditora, se le acusó de no tener las capacidades profesionales y comentaba que ni siquiera rentalizaba para pagarle su remuneración. En el año 2023 comenzó a presionar su renuncia, le pedía que se fuera, que su trabajo no era necesario, que no tenía para pagarle su sueldo y que era una carga en la empresa, debiendo darle paso a los socios más jóvenes, como su hijo, haciendo presente que la cartera que tenía la pudo obtener a pesar de las labores paralelas que realizaba, a diferencia que lo que ocurría con el resto de los socios.
+
+Agrega, que en los meses siguientes de junio de 2023 el señor Landa continuó intentando forzar su renuncia, la amenazó con exponer y hacer efectiva la carta de renuncia de febrero de 2022, sufriendo a esas alturas una profunda angustia, incertidumbre profesional y preocupación por su futuro en la compañía. Producto de su negativa, el director financiero dejó de pagarle en las fechas que correspondía, no se le pagó el préstamo que había adquirido con el banco a favor de la empresa y que garantizaba personalmente o se le pagaba un monto menor, debiendo incluso rogar por el pago en ocasiones, cuestión que ocurrió entre los meses de enero a junio de 2023, sintiéndose humillada, impidiendo cumplir con sus obligaciones personales, remitiéndole correos al señor Landa manifestándole la situación, como el 17 de marzo de 2023 y junio del mismo año, obteniendo como respuesta por parte del señor Luis Landa que “dile a Roxana que yo te autoricé para que pague de Banco Estado”, cuenta destinada al ahorro de la sociedad y pese a que los pagos debían ser cubierto de fondos de otra cuenta bancaria destinada para tal fin.
+
+Señala que las situaciones expuestas permitieron al actor presentarla frente a los demás socios como una persona conflictiva, a quien se le debía pagar de los ahorros sociales, aun cuando no era productiva, no traía clientes, no hacía su trabajo, no estaba capacitada, entre otras denostaciones.
+
+Refiere que el 6 de junio de 2023 se encontraba cerrando la auditoría de un cliente importante, enterándose que despedirían al gerente de auditorías, señor Miguel Orellana, con quien trabajaba directamente, pidiéndole al señor Landa que debido al período de cierre con el cliente la decisión fuese postergada para no perjudicar el proceso de cumplimiento y compromiso con ellos, entendiendo que se tomó una decisión por parte el señor Landa sin ser consultada y sabiendo que el gerente era quien trabajaba de manera directa con ella, con la finalidad de perjudicar su trabajo, siendo denostada profesionalmente y objeto de amenazas.
+
+Asimismo, en un comité en junio de 2023 en una reunión de comité en donde participaban el señor Luis Landa, su parte, Fernando Landa y el director financiero, los señores Landa, la acusaron que la contabilidad de los años anteriores realizada y dirigida por su parte estaba mal hecha, lo que habría generado contingencias tributarias a la empresa, lo que motivó frente a las acusaciones realizadas que su parte contratase a un abogado especialista tributario con la finalidad que realizase una auditoría tributaria, el que concluyó que las contingencias no existían, salvo en lo relativo a la falta de documentación de los reconocimientos de deudas de cada socio y de su sociedad de inversiones, entendiendo que ello tenía por objeto que presentase su renuncia y dejase su participación en la sociedad, haciendo presente que se le acusaba de llevar a la empresa a problemas económicos, cuando en los hechos estaba marginada de las decisiones de la demandada, las que solo pasaban por los señores Landa. Incluso en la reunión del mes de abril de 2023 su parte decidió no aprobar los estados financieros por la falta de reconocimiento de los sueldos que se le adeudaban y el no pago del préstamo de la empresa, frente a lo cual el señor Luis la amenazó de manera ofuscada y alterado frente al reto de los socios y el abogado Francisco Palma, diciendo que si no los aprobaba iba a dejar caer la compañía, llevando a gastos el juicio que está activado y todas las cuentas por cobrar no son cobrables y con ello el patrimonio puede ser negativo, emplazándola a aprobarlos, indicando que si no los aprobaba él tampoco y se acabaría la compañía, por lo que debió aprobar la misma a viva voz, sin suscribir el acta, debido que no estaba clara el reparto de dividendos. Incluso el señor Landa llamó al presidente de la Comisión de Normas de Auditoría, el señor Jesús Rivero, donde cumplía un rol técnico de apoyo a la profesión, informando que la demandante dejó de prestar servicios el 31 de octubre y que mandaría a otro socio en su reemplazo, el señor Luis Muñoz, como también informó a la CMF, con la finalidad de denostarle profesionalmente.
+
+En cuanto al término de la relación laboral, manifiesta que el 31 de octubre de 2023, a las 18:00 horas aproximadamente, el señor Luis Landa se comunicó telefónicamente con el socio Miguel Ángel Rivera indicándole que estaba despedida desde esa fecha, pidiéndole que le informara y que ayudara en el proceso, siendo comunicada verbalmente de tal situación, sin recibir carta de despido. Manifiesta que el 2 de noviembre de 2023, en horas de la tarde, recibió un correo electrónico a través el cual se le informó que a partir del 3 de noviembre a las 18:00 horas se deshabilitaría su correo electrónico por estar desvinculada de la empresa, sin cumplirse con las formalidades legales, privándola de contactar a sus clientes y viceversa, de poder desarrollar su trabajo de manera normal y profesional, no le permitieron guardar o respaldar sus archivos, enterándose con posterioridad que el señor Landa seguía denostándola, acusándolo frente a los otros trabajadores y demás personas del rubro que habría sido desvinculada producto de su mal desempeño, baja productividad, mala administración e incluso acusando problemas de salud, lo que sería expuesto también en la asamblea de socios de noviembre de 2023.
+
+Explica que solo una semana después llegó a su domicilio carta de despido de 31 de octubre de 2023, a través del cual se le informó el término por la causal contenida en el inciso segundo del artículo 161 del Código del Trabajo, suscribiendo finiquito con reserva de derechos.
+
+Manifiesta como elementos de vulneración el hecho que durante 12 años ejecutó labores como socia auditora y labores propia de administración, finanzas, contabilidad interna, cobranza, adquisiciones, mantenimiento de oficina, tecnología y recursos humanos; en junio de 2022 fue contratada un director financiero, siendo excluida y apartada de sus funciones como encargada de administración de la sociedad; a partir de diciembre de 2022 el señor Paredes comenzó a retrasar indebidamente el pago de sus remuneraciones y créditos que la empresa mantenía, se le pagaba una menor remuneración; el señor Fernando Landa manifestaba una profunda enemistad con ella desde el día que debió cobrarle el préstamo que la compañía le había otorgado, solicitándole que no le hablara más, denostándola frente a otros trabajadores; constantes rogativas entre diciembre de 2022 y junio de 2022 a su empleador para el pago de sus remuneraciones y créditos en tiempo y forma, siendo objeto de manera reiteradas de humillaciones; los pagos se efectuaban una vez que el señor Luis Landa autorizaba desde una cuenta bancaria distinta a la del resto de los socios, en épocas distintas a las pactadas, intentando demostrar que dejaba sin flujo a la empresa y sin ahorros; constantes conductas, actos y comentarios de desacreditación, denostación profesional por parte de los señores Landa, invocando falta de profesionalismo, bajo desempeño, baja productividad, mala administración, invocando falta de profesionalismo, frente al resto de los socios y trabajadores; el inicio de una persecución a partir del año 2023 en su contra, acusándola que la contabilidad de los años anteriores realizaba y dirigida por ella estaba mal realizada; entre abril y septiembre de 2023, Luis Landa ejecutó actos de acoso laboral en contra del Gerente de Auditoría, con quien debía trabajar directamente, forzando su renuncia para perjudicar mi trabajo; en la Asamblea de Socios de abril de 2023, fue presionada por Luis Landa frente a los demás socios, para aprobar los estados financieros, bajo amenaza que él dejaría caer la compañía, con las respectivas consecuencias que ello implicaría con el objeto de presionarla a su renuncia a la demandada y a su participación social; el despido verbal de 31 de octubre de 2023; el correo electrónico recibido el 2 de noviembre de 2023; los llamados realizados por el señor Luis Landa Presidente de la Comisión de Normas de Auditoría y el informe realizado a la CMF, entendiendo que fue objeto de una serie de hechos vulneratorios de carácter continúa y reiterada en el tiempo que concluyó con el despido.
+
+Entiende que de lo expuesto se aprecia que su parte fue víctima de acoso laboral o mobbing, existiendo una vulneración de la demandada al no garantizar un ambienta laboral respetuoso y digno, afectando la garantía constitucional contemplada en el N° 1 del artículo 19 de la Carta Fundamental, infringiendo la obligación contenida en el artículo 184 del Código Laboral. También se transgredió el N° 4 del artículo 19 de la Carta Fundamental, en su faceta profesional, toda vez que los señores Landa se dedicaban reiteradamente a criticar su trabajo frente a su equipo y demás socios para desacreditarlo profesionalmente, informando al despido en la comisión y a la CMF, sufriendo de descrédito ante colegas, socios e instituciones que han afectado su reputación, sufriendo un daño moral que debe ser resarcido.
+
+Asimismo, estima que procede la restitución de lo descontado por concepto de aporte efectuado por el empleador al fondo de cesantía.
+
+Explica que, además, a la fecha de término de la relación laboral se le adeuda un total de 30 días hábiles de feriado legal, correspondiente a los períodos devengados en los años 2021 y 2022, y 12,58 días de feriado proporcional, lo que da un total de 65,59 días, a lo que se le debe restar lo reconocido por la empresa, correspondiente a 23,59 días por el monto de $6.433.845.
+
+En otro orden de ideas, explica que la empresa le adeuda las cotizaciones de seguridad social de los meses de enero, febrero y abril de 2010, siendo aplicable la sanción contenida en el inciso quinto y siguientes del artículo 162 del Código del Trabajo.
+
+Termina solicitando que se acoja la demanda y se declare:
+
+1.- Que ha existido lesión a sus garantías constitucionales con ocasión al despido.
+
+2.- Que se condene a la empresa al pago de las siguientes prestaciones:
+
+a) Indemnización contenida en el artículo 489 del Código del Trabajo, por $36.024.186;
+
+b) Reintegro del descuento de AFC, por $6.168.283;
+
+c) Recargo legal contemplado en la letra b) del artículo 168 del Código del Trabajo, adeudándose la suma de $18.012.095;
+
+d) Diferencias de feriado legal y proporcional, por $6.433.845;
+
+d) Daño moral, por $30.000.0000.
+
+O los montos que el tribunal determine.
+
+3.- Se declare la nulidad del despido y se aplique la sanción contemplada en el inciso quinto y siguientes del artículo 162 del Código del Trabajo.
+
+Con reajustes, intereses y costas.
+
+En subsidio, deduce acción de despido injustificado por los mismos hechos, insistiendo en el despido verbal reclamado, solicitando las mismas prestaciones, a excepción de la indemnización contenida en el artículo 489 del Código del Trabajo y el daño moral.
+
+Segundo: Que comparece el señor Gonzalo Arriagada Silva, en representación de la demandada, solicitando el rechazo de la acción promovida.
+
+Opone excepción de falta de legitimación activa, pasiva, incompetencia del tribunal, litispendencia “e improcedencia por incompatibilidad”, por cuanto la actora era socia y dueña de la demandada. Manifiesta que el 20 de mayo de 2010 se incorporó la demandada a la empresa, oportunidad en que, además, se modificó su razón social a RSM Auditores Ltda. participando en la administración y uso de la razón social, realizando la actora un aporte que equivalía al 27,5% de participación en relación a los dos socios restantes, el señor Hans Caro Larsen, con un 27,5% y el señor Luis Landa con un 55%. Por otra parte, en escritura de 29 de noviembre de 2023, por escritura de Remoción, disminución de Capital y Modificaciones de Estatutos, se consigna que el capital de la empresa es de $489.731.434, aportando la denunciante $131.174.564,6 entre los 8 socios que actualmente lo conforman, teniendo una participación de 26,785, siendo la segunda socia con mayor participación.
+
+Respecto del contrato de trabajo de la actora, de 4 de enero de 2010, ocurre al momento de incorporarse en calidad de socia.
+
+Manifiesta que de lo expuesto fluye la inexistencia de la relación laboral, debido a su calidad de socia, faltando el elemento propio del contrato de trabajo, la subordinación y dependencia, estimando que dentro de la descripción de funciones realizada por esta no se advierte elementos que den cuenta de ello, como el cumplimiento de un horario, supervigilancia en el desempeño de sus funciones, el ceñirse a instrucciones, la obligación de mantenerse a disposición del empleador, lo que la calidad de socia no cumple, manteniendo siempre facultades de administración y representación, teniendo un amplio equipo de trabajo a disposición, que dependía directamente de ella, prestando servicios a la empresa en su calidad de social, tratándose de una empresa de responsabilidad limitada, en donde el principal elemento es el affectio societatis y el trabajo colaborativo.
+
+Manifiesta que lo anterior se manifiesta en la historia registral de las inscripciones societarias, existiendo conflictos entre los socios, tales como declaraciones de disolución, retractadas, medidas precautorias y alzamiento de las mismas por resolución en causa arbitral del Centro de Arbitraje y Mediación de la Cámara de Comercio, rol CAM N° 3.5712018.
+
+Por otra parte, el 17 de noviembre de 2023 la demandante fue removida de la sociedad, discusión que fue judicializada en recurso de protección que interpuso el 15 de diciembre de 2023, promovido con anterioridad a la presentación del libelo, en los autos Ingreso Corte N° 16.900-2023, ante la Iltma. Corte de Apelaciones de Santiago, el que fue declarado inadmisible.
+
+Por lo demás, en razón de lo dispuesto en el artículo 13° de los estatutos de la sociedad, que contienen una cláusula compromisoria, la recurrente impugnó la decisión, cuya tramitación se encontraba pendiente ante la Excma. Corte Suprema, en causa Ingreso N° 38.100-2024, recurso que en definitiva se justifica en los mismos hechos.
+
+En ese contexto expone que concurren las excepciones de falta de legitimación activa y pasiva, entendiendo que no existe relación laboral, que la realidad jurídica de lo que se pretende calificar como tal es lo que se denomina sueldo patronal o empresarial, facultad contemplada en el artículo 31 de la Ley de Rentas. Así, en razón de la participación propietaria de la demandante se escrituró un contrato para utilizar dicho beneficio tributario para asignarle ese ingreso a la socia porque trabajaba efectivamente en la empresa y lo que se considera como rentas de acuerdo al N° 1 del artículo 42 de la Ley de Impuesto a la Renta, gravándose con impuesto único de segunda categoría, pero que no incide en forma alguna en la aplicación de la legislación laboral, tratándose de un beneficio tributario utilizado por los demás socios, tratándose de una situación común para todos ellos, destacando que ambos socios minoritarios a la fecha de la transformación tenían idénticos porcentajes de participación, conservaban facultades de administración, pudiendo administrar sin la participación del socio mayoritario.
+
+Estima que excluye el hecho de la existencia de la relación laboral las siguientes circunstancias: que la demandante es una socia de una sociedad de responsabilidad limitada, que posee el 26,785% de los derechos y tenía poder de decisión suficiente; que la demandante tenía facultades de administración, la que ejercía activamente, con amplias facultades, estando precisamente a cargo de la supervisión y fiscalización, tal como lo reconoce, de un equipo de trabajo que disponía de un gerente de administración y finanzas, teniendo pleno control y libertad; además, ella reconoce haber avalado y garantizado con su patrimonio personal deudas de la demandada.
+
+Por otra parte, el tribunal es incompetente para conocer de la materia, por ponerse en conocimiento del mismo un conflicto entre socios de una empresa de responsabilidad limitada, la que no tiene carácter laboral, siendo socia y la escrituración del contrato de trabajo describe un cargo de socia, calidad que siempre tuvo desde su incorporación, vulnerando la teoría de los actos propios la conducta de la demandante, debiendo conocerse los asuntos por tribunal arbitral, su propio ingreso a la sociedad predata accede a predatar la escrituración de contrato, da cuenta de comprender que los acuerdos y modificaciones se materializan con posterioridad a las manifestaciones de voluntad, para luego pretender aprovecharse de su propio dolo argumentando una supuesta nulidad por no pago de cotizaciones previsionales; omite que su remoción de la calidad de socia ha sido dispuesta y avaluada, estando correctamente compensados la participación que le corresponde según sus derechos societarios, lo que no menciona; omite en su relato una serie de circunstancias que concluyen con una renuncia informal en febrero de 2023; y hace propia una contextualización falsa de hechos tanto de su persona como de su desempeño en la Sociedad, lo que se procederá en detalle a describir al contestar su denuncia, pero que en definitiva, tiene relación con su verdadera situación patrimonial y las afecciones laborales que cometió para con otros trabajadores, estando en presencia de un conflicto civil o comercial, debiendo estarse a lo dispuesto en la cláusula décimo tercera de los estatutos de la sociedad.
+
+Respecto a la litispendencia e incompatibilidad de acciones, de acuerdo a lo previsto en el inciso final del artículo 485 del Código del Trabajo, sostiene que el recurso de protección promovido se justifica en los mismos hechos, haciendo presente que no se puede comprender que la remoción de una sociedad limitada no sea poniendo fin a sus vínculos y ficciones de un beneficio tributario, añadiendo que también concurren los requisitos de la litispendencia, ya que la acción promovida a través del recurso de protección se inició contra la decisión de remoción de la calidad de socia, versando en los mismos hechos, siendo las partes las mismas y ejerciendo idénticas acciones, siendo la causa de pedir y objeto pedido el mismo.
+
+Opone, además, excepción de caducidad parcial, por justificarse en circunstancias que datan entre los meses de enero y junio de 2023, respecto de los cuales estima que ha operado la sanción reclamada, debiendo computarse el lapso desde la fecha en que se ejecutaron los hechos denunciados.
+
+Por otra parte, controvierte los hechos que sirven de sustento al libelo, insistiendo en la calidad de socia de la demandante, no existiendo un despido verbal, conociendo la demandante las circunstancias de su remoción como socia y las formalidades del despido utilizadas.
+
+Hace presente, que existen una serie de circunstancias que dan cuenta de la falta de asimetría en las relaciones existentes con su parte, toda vez que el avalúo fiscal de los bienes inmuebles y vehículos de la demandante ascienden a $789.212.633, teniendo 6 inmuebles en la ciudad de Santiago, tiene participación en 6 sociedades, entre ellas Inversiones LLC Ltda.
+
+Reconoce la suscripción de un contrato denominado de trabajo el 4 de enero de 2010, en el que voluntariamente las partes predataron, siendo contratada para prestar servicios de socia, lo que es relevante porque la supuesta deuda previsional reclamada tiene su origen en su propio conocimiento e intención de escriturarlo en dicha fecha, sin perjuicio de haberse efectuado todos los pagos. Asimismo, en anexo de 1 de octubre de 2019 se dispuso debido a que el contrato de trabajo corresponde a una ficción tributaria de sueldo empresarial una remuneración de $8.000.000 como sueldo base, agregándose una gratificación legal y asignaciones de colación y movilización de $200.000 cada una, efectuándose ante Tesorería General de la República desembolsos y pagos de convenios, comportándose siempre como socia, participando en las ganancias, reparto de utilidades y beneficios obtenidos por la demandada.
+
+Sostiene que la demandada atribuye a su parte no dar cumplimiento a la obligación de cuidado, en circunstancia que el núcleo familiar de ella forma parte de la empresa, sin perjuicio que la demandante ejercía controles, supervisiones y gestión con el personal, incluso el despido de trabajadores, muchas veces los reclamos y demandas se materializaron en su contra e incluso se ejercieron acciones en contra la demandada en la que se singularizaba a la demandante como la causante de los conflictos, especialmente ex trabajadores como Jennifer Rojas, Gonzalo Ayala, Claudio Campos, Gabriela Yáñez, Francisca Galaz y Lissette Fuentes, quienes se vieron afectados en el año 2018 al eliminar el área advisory, lo que era el área de principales ingresos, decisión que tomó ella con el otro socio administrador y que garantizaba no tener que rebajar los sueldos y retiro de los socios de su parte, lo que terminó con el despido de un equipo completo, y que impusieron al señor Luis Landa al ser minoría en la decisión, quien sugirió rebajar los retiros en un 30% por actuar conjuntamente la denunciante junto al otro socio y que motivó que el hijo del señor Luis Landa renunciara y se retirara de la empresa, remitiendo en correo electrónico de 20 de septiembre de 2023 el señor Luis Landa a la demandante consultándose por distintos temas que le preocupaban sobre la gestión de la cartera de la demandante en su calidad de socia, cuestiones que no solo se exponían en las reuniones de socios y gerentes de la empresa, sino en distintas comunicaciones por correo electrónico para mejorar la administración y gestión, especialmente con el señor Cristián Paredes Henríquez, haciendo presente que los peores índices en gestión se concentraba en la demandante. Y cuyo detrimento de su aporte industrial hacía inviable conservar su vínculo con la demanda, existiendo una enorme diferencia entre el valor facturado y el valor del costo de ejecución, que ha representado pérdidas para la empresa.
+
+Sostiene que los correos que menciona la parte demandante tienen una contrapartida en el cual se le indican los errores de análisis y cálculos pretendiendo siempre que le prioricen sus pagos, sin entender que su rol en la administración consistía en determinar si podían o no mantenerse los costos de la misma. Por otra parte, en el uso de la tarjeta de crédito de la empresa, a nombre de la titular denunciante, se efectuaban compras en situaciones en qué precisamente se debían cuidar financieramente y sin embargo efectuó con fecha 29 de mayo de 2023 una compra por la suma de $1.299.990 consistente en un computador, que efectúo en 3 cuotas para intentar que no fuera detectado por otros socios, gerentes ni directores, teniendo precisamente presente que no cumplía con la política interna de compras de la empresa, impuesta conjuntamente por ella misma en su calidad de socia a los demás, equipo que luego no devolvió como tampoco el equipo de su línea telefónica asociada a su parte y que también es posible afirmar que utilizó el mismo medio de pago para la compra de pasajes personales, como también llama la atención que ha dejado los enseres en su oficina privando del uso de la misma.
+
+Manifiesta los hechos que relata la demandante como malos tratos son solo críticas racionales y ajustadas a lo técnico y profesional que refieren un bajo desempeño conforme a lo vendido, lo facturado y lo cobrado. Por otra parte, fue el propio señor Landa quien realizó las gestiones con el objeto de incorporar a la demandante a la Comisión de Normas, pero su participación no tuvo los beneficios que se esperaban, debido que nunca impartió charlas internas a los profesionales de la empresa, debiendo ser informada su remoción a la CMF y a la Red Internacional de Reconocimiento en razón del deber que tenía de informar.
+
+En otro orden de ideas, expone que en definitiva la demandada no estaba logrando la rentabilidad y calidad requerida desde antes del año 2023, ya que sus clientes no pagaban las facturas y en el mes de noviembre de 2023 no había cumplido el proceso de cierre de las auditorías, con molestias de muchos de ellos y que ponía en riesgo la continuidad de los servicios.
+
+En otro orden de ideas indica, que la parte demandante ejerce la acción del artículo 489 del Código del Trabajo, en circunstancias que se invocan hechos que no guardan relación con el despido.
+
+Explica que el 31 de octubre de 2023 se entregó carta de término por la causal contemplada en el inciso segundo del artículo 161 del Código del Trabajo, cumpliéndose con las formalidades legales.
+
+En cuanto a la denuncia promovida, controvierte cada uno de los hechos mencionados, haciendo presente que con todo lo que existió fue un problema entre socios.
+
+En otro orden de ideas, entiende que la parte demandante no aportó indicios de vulneración.
+
+En cuanto al daño moral, controvierte su existencia y el monto.
+
+En cuanto a los reajustes e intereses, refiere que no son procedentes, debiendo computarse desde la fecha en que la sentencia se encuentre ejecutoriada.
+
+Alega la improcedencia de la restitución de lo descontado por concepto de AFC, estimando el mismo procedente de acuerdo a lo consignado en el artículo 13 de la ley 19.728, el que procede aun cuando se declare improcedente el despido.
+
+También controvierte las diferencias de feriado, recibiendo la demandante la suma de $11.200.000, no existiendo deuda alguna al respecto, promoviendo excepción de pago y prescripción de pretensiones anteriores al plazo de 2 contados hacia atrás de acuerdo el artículo 510 del Código del Trabajo, haciendo presente que se trataba de una prerrogativa en su calidad de socia que no requería la emisión de comprobantes y autorización de nadie.
+
+Respecto a la nulidad del despido por falta de cotizaciones de seguridad social, señala la inexistencia de la deuda y con todo estima que la aplicación de la sanción constituiría un enriquecimiento sin causa, actuando de buena fe y conforme a lo previsto en el contrato de trabajo, sin perjuicio que cualquier error en los pagos es imputable a la propia actora en su calidad de socia, ya que ella debía hacerse cargo de ellos.
+
+En cuanto a la acción de despido injustificado pide el rechazo, añadiendo que de acuerdo a la causal invocada el término se encuentra ajustado a derecho, tratándose de un cargo de exclusiva confianza procediendo a la desvinculación de la demandante para proceder a su remoción en calidad de ex socia.
+
+Tercero: Que con fecha 28 de febrero de 2024 se llevó a cabo la audiencia preparatoria, dándose traslado de las excepciones opuestas, dejándose la resolución de estas para definitiva. Se efectuó el llamado a conciliación, el que no prosperó, fijándose los siguientes hechos controvertidos:
+
+1.- Existencia de relación laboral.
+
+2.- Fecha de inicio y término.
+
+3.- Efectividad que la demandante fue despedida verbalmente o, en su caso, circunstancias que rodearon el despido, o en su defecto, cumplimiento de formalidades legales y justificación del mismo.
+
+4.- Efectividad que la demandada vulneró las garantías fundamentales de la denunciante, en relación al artículo 2 inciso 2° del Código del Trabajo, artículo 19 N° 1 y 4 de la Constitución Política de la República, indicios que así lo demuestren.
+
+5.- Efectividad que la denunciante sufrió un daño moral, causas y circunstancias que lo acreditan.
+
+6.- Efectividad que se adeude diferencias de feriado legal y proporcional a la demandante.
+
+7.- Estado de pago de las cotizaciones de seguridad social de los meses de enero, febrero y abril de 2010.
+
+8.- Remuneración de la trabajadora.
+
+Cuarto: Que con fecha 14 de noviembre de 2024 y 14 de enero de 2025 se celebró la audiencia de juicio, oportunidad en que la parte demandante incorporó los siguientes elementos de convicción:
+
+Documental.
+
+1.- Contrato de trabajo de Angélica León con RSM (hoy ARTL) de fecha 4 de enero de 2010 y anexo de fecha 1 de octubre de 2019.
+
+2.- Liquidaciones de sueldo de Angélica León de los meses agosto, septiembre y octubre de 2023.
+
+3.- Finiquito de trabajo de Angélica León, con reserva de derechos, ratificado ante ministro de fe con fecha 30 de noviembre de 2023.
+
+4.- Certificado de pagos de cotizaciones previsionales de Angélica León desde marzo 2010 a octubre 2023.
+
+5.- Acta de Comparendo de conciliación en la DT entre las partes de fecha 20 de diciembre de 2023.
+
+6.- Cadena de dos correos electrónicos entre Roxana Pavez, Luis Landa y Angélica León de fecha 30 de diciembre de 2022, asunto “Autorización pago remuneraciones socios”.
+
+7.- Cadena de cinco correos electrónicos entre Angélica León, Christian Paredes y Luis Landa entre 6 y 10 de febrero de 2023, asunto “Créditos”.
+
+8.- Cadena de tres correos electrónicos entre Luis Landa y Angélica León de fecha 17 de marzo de 2023, asunto “RE: Sueldo y Crédito ALL”.
+
+9.- Cadena de cinco correos electrónicos entre Angélica León, Christian Paredes y Luis Landa de fecha 5 de abril de 2023, asunto “Pago de crédito”.
+
+10.- Cadena de dos correos electrónicos entre Luis Landa y Angélica León entre el 23 de mayo y 1 de junio de 2023, asunto “Fwd: Remuneración y Devolución de préstamos pendientes”.
+
+11.- Correo electrónico enviado por Angélica León a Luis Landa de fecha 26 de mayo de 2023, asunto “Solicitud”.
+
+12.- Comunicado de Prensa de CMF de fecha 24 de marzo de 2023, acerca de suspensión actividades de STF Capital Corredores de Bolsa SpA.
+
+13.- Resolución exenta N°8551 del 16 de noviembre de 2023 de la CMF.
+
+14.- Carta de ARTL a Presidente del Consejo de la CMF de fecha 29 de noviembre de 2023.
+
+15.- Querella penal interpuesta contra Luis Landa Escalona ante el 7° Juzgado de Garantía, certificado de envío y con los documentos acompañados: dos comprobantes de transferencia de agosto de 2021 e Ebook causa rol C799-2024 del 5° Juzgado Civil de Santiago.
+
+Confesional.
+
+Declaró el representante legal de la demandada, quien señaló: que celebró contrato de trabajo con la demandante, pero en la práctica es un contrato que se ocupa para el sueldo patronal, los socios acuerdan tener un contrato para acceder a los beneficios previsionales e impuestos, ya que la demandante era socia; se comunicó el despido por correo debido que la demandante no iba a la oficina, habló también con su esposo para que ayudara a contenerla; entiende que se había despachado la carta de término; se refiere a la carta de 31 de octubre de 2023; entiende que se le despidió por ser un requisito sin perjuicio del motivo que se suscribió el contrato, los asesores legales informaron, como cualquier proceso que se realiza a algún trabajador; se suscribió finiquito de término de la relación laboral; entiende que las cotizaciones se encontraban pagadas; Angélica León era su socio y trabajó con ella hace 20 años y era de máxima confianza; la conversación con su esposo fue el mismo día de la fecha de la carta, fue el 30 o 31; no sabe cuándo le llegó a la demandante; el despido tiene su origen en que la compañía tenía ingresos menores a los que debía enfrentar y la demandante había manifestado también su intención de retirarse el día 30 de abril y tenía un rendimiento decreciente; semanalmente se reúnen los socios y gerentes y se revisan los ingresos de la compañía socio por socio, es una información disponible semanalmente, se reúnen los martes en la mañana; no le habría dicho a la demandante legal que tenía un crecimiento deficiente, al contrario la demandante le señaló.
+
+Testimonial.
+1° testigo Miguel Rivera, el que señaló: que conoce a las partes del juicio, la demandante es su señora y trabajaron juntos y el representante legal de la demandada; la demandante veía la parte administrativa y la auditoría interna; la demandante era subordinada, daba la instrucciones el señor Landa, existiendo además una administración de comité y auditoría donde esta él y su hijo; la actora era administraba la compañía, cobranza, personal, bajo la supervisión del actor, de todas formas el siempre señalaba que las cosas se hacían de acuerdo a sus instrucciones; la demandante fue desvinculada por una llamada telefónica en donde se le informó que se le desvinculaba, fue el 31 de octubre; el llamado fue a él y le pidió que la ayudara en el proceso; a las 2 semanas después le llegó una carta desvinculándola; el despido se debe a un mal uso del señor Landa con su hijo de los dineros de la compañía donde la demandante era aval de los créditos que se pedían en la sociedad y para el uso de las platas del señor Landa, además la sociedad aportó dineros para una propiedad del demandante y la demandante le facilitó dineros para ello, ello fue en el año 2021 y comenzaron una serie de hostigamientos que fueron escalando en los años, se comenzó a sacarla de sus funciones, comenzó a ser criticada y denostada en las reuniones y hacía saber que era una mal funcionaria, también a los clientes, comenzó a perjudicar su funcionamiento y que era una mala trabajadora; ello comenzó en el segundo semestre del año 2021, aumentó con la llegada de Cristián Paredes y desde que la demandante dejó de ser aval comenzó el acoso y la persecución en su contra; en esa época los pagos de su remuneración se comenzaron atrasar, se pagaba de manera desfasada y pocos montos con la finalidad de perjudicarla y se pagaba en una cuenta corriente en donde se acusaba que la actora era responsable del endeudamiento de la compañía.
+
+Contrainterrogado por la demandada señaló: la función de la demandante era dirigir un equipo de administración, cobranza, los estados financieros para reportárselo al señor Landa; La demandante estaba preocupada por la facturación; el testigo fue desvinculado más menos en los mismos términos que su cónyuge; tuvo participación en la empresa, también fue un socio empleado, se denomina de nombre socio pero es una figura que representa a la CMF para tener un prestigio en el cliente, pero quien tiene las facultades legales es el señor Landa.
+
+Interrogado por el tribunal respondió: aclara que es el cónyuge de la demandante; tiene un juicio pendiente con la demandada, es tutela por acoso laboral; el abogado que lo representa es el abogado de su cónyuge; tiene fecha pendiente de preparatoria; los contratos de trabajo quien firman era Luis Landa y la demandante; quien firmaba los créditos en representación de la empresa era Luis Landa y la demandante; los malos tratos los vio personalmente, puede precisar a fines del año 2023 un episodio de maltrato donde el señor Landa gritaba frente a los que estaba presente que si la demandante no firmaba los estados financieros se iría de la empresa.
+
+2° testigo Marco Borquez, el que expresó: que conoce a las partes del juicio, la demandante fue auditora externa en la empresa en que trabajaba anteriormente, el año pasado quedó el testigo sin trabajo y le ofreció una vacante en la demandada y lo contactó con el socio y empezó a trabajar, trabaja actualmente en ella; trabajó en conjunto con la actora, participaron en reuniones telemáticas la demandante trabajaba para la demandada; era del área de auditoría; el señor Landa es el jefe principal y se rinde cuenta a él, supervisa y controla su trabajo, todos rendían al señor Landa; la demandante fue despedida y en virtud de ello se acercó al actor indicando que el tomaría la cuenta y que dependería de él; por rumores y conocimientos sabe que tenía problemas con el señor Landa, no conoce cuál es el origen de los mismos pero se sentía acosada y varias veces se iba a trabajar a su oficina; no sabe qué tipo de acoso era pero se veía afectada; solo se les informó del despido, no recuerda que se haya explicado las razones.
+
+Contrainterrogado por la demandada señaló: que el contrato de trabajo del actor está firmado por el señor Landa; que tiene entendido que hay personas que administran la empresa y dentro de ello ve a Cristián Paredes que es el administrador financiero y don Luis el administrador general; la demandante firmaba como socio de auditoria firmaba los estados financieros.
+
+Interrogado por el tribunal señaló: que nunca vio una conducta de malos tratos; nunca participó en reuniones donde estaba la demandante con el señor Landa.
+
+3° testigo José Navarrete el que depuso: que conoce a las partes del juicio de hace unos 10 años, era una de las socias principales en la constitución de la demandada; la demandante cumplía dos funciones era parte de los socios líderes, participaba en el comité y ejercía el rol de socio técnico; su participación no era socia solamente como accionista sino como trabajadora, lo sabe porque tienen el mismo régimen, cumplían la misma función, además se le veía trabajando, ejecutaba las órdenes y el comité y defendía a la compañía; la jefatura era Luis Landa; el testigo es socio minoritario de la empresa, participando en las reuniones de comité de la firma; desde que la conoce la demandante estuvo a cargo de las finanzas y liberaba esa función, siempre lo ejecutó bien, habían inconvenientes pero había reconocimiento de los empleados acerca de esa función; la demandante tenía como jefatura al señor Landa; la relación siempre fue buena hasta cierta época, la compañía comenzó a tener estrechez financiera por compromisos, también se retiraron otros socios, la compañía comenzó a sufrir por problemas de caja; a la demandante se le exigía más de lo que podía dar, se le asignaba la responsabilidad y la caja no permitía responder; la demandante siempre se hizo respetar y si algún momento pudo haber faltas de respeto ello no lo permitía; hace presente que la situación financiera generó rencillas personales porque si bien el señor Luis Landa tomaba las decisiones financieras muchas veces la actora no estuvo de acuerdo; no recuerda un caso específico de maltrato, pero la relación dejó de ser cordial y con eso la demandante se fue desmotivando en la función; desconoce por qué terminó el contrato, pero se rumoreaba que no se llevaban bien porque ella y el señor Luis dirigían la firma.
+
+Contrainterrogado por la demandada: el comité se constituye por las personas que tienen la mayor participación en la firma, imparten las directrices, los presupuestos, análisis financieros, diseñaban las políticas; los principales inconvenientes que se produjeron en la empresa era la falta de caja y la imposibilidad de cumplir las obligaciones financieras; la demandante tenía poderes y autorizaciones bancarias, pero las decisiones eran tomadas en conjunto con don Luis.
+
+Interrogado por el tribunal refirió: que participó en las reuniones con el demandante y don Luis solo vio un trato serio entre ellos esas reuniones se hacían todos los martes y siempre hacen y participa en ellas desde el 2017 o 2018, después de la pandemia ya no participó en las reuniones de los días martes pero se reunía con don Luis y la demandante.
+
+4° testigo Claudio Valenzuela la que señaló: que conoce a las partes, trabaja en la demandada como consultor en la empresa hasta la fecha; la demandante era socia y veía auditoría y administración, la parte financiera; ella es socio mayoritaria, pero hay una jefatura de nombre Luis Landa; no conoce la relación entre la demandante y el actor porque trabajan en lugares distintos, trabajaba en otra sucursal, pero entiende que tuvieron desavenencias, no saben si se llevaban mal; entiende que las decisiones más importantes las tomaba el señor Landa; actualmente no trabaja en la empresa, llegó un mal indicando que había sido desvinculada, entiende que fue porque tuvo problemas con los socios.
+
+Interrogado por la demandada indicó: aclara que la demandante veía todo los que es banco, cuentas bancarias, cobranza también.
+
+Exhibición de documentos.
+
+1.- Finiquito de Trabajo de don Miguel Orellana del año 2023.
+
+2.- Contrato de Trabajo de Christian Parada.
+
+3.- Carta de despido enviada por correo certificado al domicilio de doña Angélica León, ubicada en Colina Miravalle 9884, Las Condes.
+
+4.- Comprobante de vacaciones de períodos 2021, 2022 y 2023 de Angélica León.
+
+Atendido que la demandada no aportó el documento N° 4 la parte demandante pidió al tribunal hacer efectivo el apercibimiento contenido en el N° 5° del artículo 453 del Código del Trabajo.
+
+Quinto: Que, por su parte, la demandada aportó los siguientes antecedentes probatorios:
+
+Documental.
+
+1.- Contrato de sueldo empresarial denominado “De Trabajo” de fecha 4 de enero de 2010, suscrito entre la RSM Auditores Ltda y doña Angélica León López, en adelante “la denunciante”.
+
+2.- Cláusula anexa de contrato de trabajo de fecha 1° de octubre de 2019, entre ARTL Chile Auditores Ltda. y la denunciante.
+
+3.- Carta de Renuncia a Voluntaria de fecha 7 de febrero de 2023, entre las mismas partes que cuenta con la firma manuscrita de la denunciante.
+
+4.- Carta de Despido notificada por carta certificada a la denunciante, de fecha 31 de octubre de 2023, en que se constata la causal invocada del inciso 2° art. 161 del Código del Trabajo, incluidos sus comprobantes de despacho y de Carta de Aviso para Terminación del Contrato de Trabajo Folio N°1322-2023-181211, de fecha 31 de octubre del 2023, emitido por la Dirección del Trabajo.
+
+5.- Finiquito de Contrato de Trabajo, entre las mismas partes de fecha 8 de junio de 2023, debidamente firmado y autorizado, con reserva de acciones, ante la Notario Público don Luis Ignacio Manquehual Mery, con fecha 19 de junio de 2023.
+
+6.- Tres últimas Liquidaciones de la trabajadora entre los meses de agosto y octubre 2023. 7. Anexo de comprobante de Feriado de fecha 7 de septiembre de 2023, firmado por la denunciante por sí y en representación de la empresa. 8. Certificados y Detalle de Pago Cotizaciones de la trabajadora, de fechas 13 de noviembre de 2023, por el período de marzo 2010 a octubre 2023.
+
+9.- Solicitudes de Certificado y Certificado de cotizaciones previsionales pagadas folios de Certificación N°s: 0614-4912-4673-0080-5 y 7428-1727- 1488-6894-4, original Administradora y copia del Empleador, y 1183-2064- 4734-6723-1, ambos de fecha 8 de enero de 2024 por el período de cotizaciones del 1° de enero de 2010 al 30 de abril de 2010, todos firmados electrónicamente por la Gerenta de Servicio Clientes doña Andrea Núñez Montoya.
+
+10.- Acta de Comparendo de Conciliación ante la Dirección del Trabajo en el Centro de Conciliación y Mediación DRT Metropolitano Oriente realizado el día 20 de diciembre de 2023, entre las partes debidamente representadas y ante la Inspectora Conciliadora doña Carmen Julieta Cárdenas López.
+
+11.- Contrato de arrendamiento de fecha 1° de septiembre de 2012 entre el arrendador Inversiones LLC Ltda. y RSAM Chile Auditores Ltda., autocontratado entre los mismos representantes legales, por el inmueble ubicado en la oficina comercial N° 703, piso 7, de Av. El Golf N°40 “Edificio El Golf 2001”.
+
+12.- Copia autorizada del Acta de Asamblea de Socios, de fecha 21 de noviembre de 2023, celebrada con la asistencia de la Notario Público Titular de la Décimo Octava Notaría 2 de Santiago, doña María Pilar Gutiérrez Rivera, en que asiste en representación de la denunciante don Álvaro Moraga Fritz.
+
+13.- Copia electrónica autorizada de la Escritura pública de fecha 29 de noviembre de 2023, bajo el Repertorio N° 144.995, otorgada en la Décimo Octava Notaría de Santiago ante la Notario Titular doña María Pilar Gutiérrez Rivera.
+
+14.- Copia electrónica autorizada de la Protocolización de fecha 4 de diciembre de 2023, bajo el Repertorio N° 17.858, efectuada en la Décimo Octava Notaría de Santiago ante el Notario Titular doña María Pilar Gutiérrez Rivera, se extracta, pública e inscribe la escritura antes mencionada.
+
+15.- Copia electrónica autorizada de la Escritura pública de fecha 6 de enero de 2024, bajo el Repertorio N° 330, otorgada en la Trigésima Cuarta Notaría de Santiago ante el Notario Titular don Eduardo Diez Morello.
+
+16.- Certificado de Envío y Expediente Electrónico del recurso de protección interpuesto ante la Iltma. Corte de Apelaciones en la causa rol de Ingreso N° 16.900-2023, caratulado León con ARTL Chile Auditores SpA, declarada inadmisible con fecha 29 de diciembre de 2023.
+
+17.- Todas las piezas de la causa de apelación de la resolución antes mencionada remitida a la Excma. Corte Suprema en la causa rol de ingreso N° 1.810-2024, caratulada León con ARTL Chile Auditores SpA, la que con fecha 18 de enero de 2024 se encuentra pendiente de dar cuenta de la apelación concedida en la Tercera Sala, en forma preferente.
+
+18.- Informes Patrimoniales emitidos por el proveedor de servicios DealerNet en respuesta a la consulta de fecha 19 de enero de 2024 sobre la información económica de la denunciante y de la denunciada.
+
+19.- Piezas relevantes folios 40, 44, 48, 49 y 54, de la causa civil rol C31.879-2018 seguida ante el 25° Juzgado Civil de Santiago, caratulada “Macroconsultores S.A: con RSM Chile Auditores Ltda.”
+
+20.- Contrato de Trabajo de fecha 26 de septiembre de 2016 entre RSM Chile Auditores Ltda. y don Miguel Ángel Rivera León, y sus cláusulas anexas de fechas 31 de octubre de 2017, 2 de mayo de 2019 y 1° de junio de 2022.
+
+21.- Correos electrónicos de fecha 25 de julio de 2023 entre las casillas de correo electrónico de don Christian Paredes (christian.paredes@artl.cl) y la denunciante (angelica.leon@artil.cl).
+
+22.- Correos electrónicos de fecha 3 de agosto de 2023 entre las casillas de correo electrónico de don Christian Paredes, doña Roxana Pavez (roxana.pavez@artl.cl) y la denunciante.
+
+23.- Correo electrónico de fecha 18 de agosto de 2023 entre las casillas de correo electrónico de don Christian Paredes y la denunciante.
+
+24.- Correos electrónicos de fecha 25 de julio de 2023 entre las casillas de correo electrónico de don Christian Paredes, doña Roxana Pavez, don Luis Landa (luis.landa@artl.cl) y la denunciante (angelica.leon@artil.cl).
+
+25.- Correo electrónico de fecha 23 de agosto de 2023 entre las casillas de correo electrónico de don Christian Paredes, doña Margarita Maldonado Galaz (margarita.maldonado@artchile.onmicrosoft.com) y la denunciante.
+
+26.- Correos electrónicos de fecha 12 de septiembre de 2023 entre las casillas de correo electrónico de don Christian Paredes, don Luis Landa, don Fernando Landa (fernando.landa@artl.cl), don Vicente Castillo (vicente.castillo@artl.cl) y la denunciante (angelica.leon@artil.cl).
+
+27.- Correo electrónico de fecha 20 de septiembre de 2023 entre las casillas de correo electrónico de don Luis Landa y la denunciante.
+
+28.- Cadena de correos electrónicos entre las fechas 21 y 25 de septiembre de 2023 entre las casillas de don Christian Paredes, doña Margarita Maldonado, don Luis Landa y la denunciante.
+
+29.- Correo electrónico de fecha 17 de octubre de 2023 entre las casillas de correo electrónico de don Luis Landa y don Jorge Lembeye (jlembeye@lembeye.cl).
+
+30.- Correo electrónico de fecha 20 de octubre de 2023 entre las casillas de correo electrónico de don Vicente Castillo, don Christian Paredes, doña Roxana Pavez y la denunciante, y el archivo adjunto contenido en este.
+
+31.- Correo electrónico de fecha 3 de noviembre de 2023 entre las casillas de correo electrónico de don Christian Paredes y la denunciante.
+
+32.- Copia autorizada de la escritura de Constitución de la sociedad Landa Auditores S.A. de fecha 15 de septiembre de 2009, bajo el Repertorio N° 18.415, otorgada en la Cuadragésima Primera Notaría de Santiago ante el Notario Titular don Felix Jara Cadot.
+
+33.- Copia electrónica autorizada de la escritura pública de fecha 29 de julio de 2023, bajo el Repertorio N° 16.248, otorgada en la Trigésima Sexta Notaría de Santiago ante el Notario Titular don Andrés Felipe Rieutord Alvarado.
+
+34.- Copia electrónica autorizada de la escritura pública de fecha 25 de julio de 2022, bajo el Repertorio N° 9002, otorgada en la Décima Notaría de Santiago ante la Notario Titular doña Valeria Ronchera Flores.
+
+35.- Inscripción con vigencia de la constitución social y sus anotaciones marginales inscrita a Fojas 46.064 N° 31.857 del Registro de Comercio del Conservador de Bienes Raíces de Santiago del año 2009.
+
+36.- Tabla Resumen datos de Cobranza de enero a noviembre de 2023 de la denunciante.
+
+37.- Tabla Resumen de retiros y pagos efectuados a la denunciante en los años 2023 y 2022.
+
+38.- Sentencia de fecha 4 de marzo de 2024 dictada por Tercera Sala de la Excma. Corte Suprema en la causa rol 1.810-2024 en qué se confirma la resolución de primera instancia apelada dictada por la Iltma. Corte de Apelaciones de Santiago que con fecha 29 de diciembre de 2023 tuvo por declarar inadmisible el recurso de protección interpuesto por la demandante de autos en contra de la demandada.
+
+Confesional.
+
+Declaró la demandante la que manifestó: que en la empresa tenía dos cargos, de administración y socio de auditoría que es un cargo profesional que se relaciona con la experiencia que tiene como auditor; dentro de las funciones de administración veía contabilidad, finanza, cobranza, remuneraciones, recepción y veía la parte administrativa de la compañía; que desde que ingresó comenzó a tener ambas funciones; en el 2022 fue removida de sus funciones por Cristián Paredes y lo dejó en el cargo de socia de auditoría, le pidió que llevare clientes a la compañía y se enfocara en la función ya indicada, se vio obligado a aumentar la cartera; como socia de capital tenía un 26,75%; Luis Landa tenía un 50,1%, Fernando Landa un 9% y fracción y un conjunto de personas que individualiza; tiene participación e Inversiones NSE que es una sociedad inmobiliaria que es dueña de una oficina donde se ejercen las funciones, son empresas relacionadas, así la inmobiliaria como oficina tuvo que prestar dinero a la auditora; dentro de los poderes que tenía en la empresa 2 de tres socios podían firmar, ello fue desde el inicio de la compañía y siempre firmaba con don Luis hasta que se cambió los poderes en el año 2022, donde quedó como socio A y el resto como socio B, y a partir de ahí comenzó a firmar solo; desde que fue removida de sus funciones; formó parte del comité de administración hasta su desvinculación.
+
+Interrogada por el tribunal refirió: que desde el inicio de la relación laboral realizó labores de administración financiera hasta junio de 2022; que en el período que estuvo a cargo de la administración era resorte de ella el pago de las cotizaciones de seguridad social de la empresa, así si bien se requería autorización conjunta, se delegó ella el pago de las mismas y en la práctica se preocupaba de ellos.
+
+Testimonial.
+
+1° testigo Cristián Paredes el que indicó: que es director de finanza de operaciones, dentro de sus funciones se encuentra garantizar la continuidad de la firma a nivel financiero, control tecnológico, operacionales, gestión, está a cargo del equipo de contabilidad, finanza, cobranza, tesorería, facturación y las áreas de back office que dan soporte al negocio; trabajaba en la demandada desde junio de 2022; conoce a la demandante, la vio en la oficina de la empresa en su primer día de trabajo, lo presentó Roberto Muñoz que es un antiguo socio de la firma, hubo un cambio de palabras muy corta; al llegar a la empresa dentro de sus principales actividades tuvo que revisar los aspectos de control, posición financiera de la empresa, parte del equipo de profesionales que formaba el área tuvo que solicitar información, se le entregaron los antecedentes y al poco tiempo notó que hubo falta de control formal sistémico de la carga de horas; conoció del despido de la demandante tomó conocimiento por las cartas formales que se enviaron, le consta porque quienes hace la gestión dependen de él; Angélica León era socia a cargo de la administración hasta su llegada y luego hubo un proceso de transición donde los primeros dos meses trabajaron en conjunto para ver cómo se avanzaban los temas; era una empresa que tenía ciertos problemas financieros que tenía una deuda alta, existieron faltas de control de las firmas auditoras que se debían llevar, con controles y buenas prácticas; los socios tenían carpeta de personal; participó en diversas reuniones con el señor Landa y la demandante y otras personas, en todas ellas vio cordialidad, buen trato e incluso participo en cafés para tratarse reuniones importantes donde estaban los dos y no vio una conducta de maltrato y agresividad.
+
+Contrainterrogado por la demandante expresó: que quien contrató al testigo fue la firma, su contrato fue firmado por el representante legal, actualmente son Luis y Femando Landa; su jefe directo es Luis Landa; la señora León le indicó que no podía tomar esa decisión de aumento de sueldo de Margarita León, dejó supeditado la decisión al nuevo responsable de la dirección de administración; cuando llegó el testigo la demandante estaba a cargo de toda la administración; tiene contrato de trabajo con la demandada; es un contrato laboral; no tiene la calidad de socio en la empresa.
+
+2° testigo José Muñoz, el que manifestó: que es socio de auditoría en ART, conoce a la demandante, la conoció como subordinada y posteriormente como socio; socio es quien administra una cartera de clientes; era socio de auditoría y además estaba encargada de la administración; estaba a cargo de flujo de caja, contratación de personal, temas administrativo varios; había diferencias con la calidad de socio que tenía, hay socios A y B, los socios A se caracterizan por tener facultades de administración y por tanto estaban en una situación distinta, además de su sueldo ellos tienen retiros anticipados, que es un complemento, no se sabía en ese momento la utilidad de la empresa pero si retiraban de más se quedaban con ese momento, también tenían estacionamientos, los equipos de teléfonos celulares los compraban ellas, tenían tarjetas de crédito; la salida de la demandante fue larga, hubo procesos anteriores que quería salir pero no se concretó, siempre había intenciones de querer salir, el último período fue de 18 meses; la demandante fue socia fundadora, en el 2018 se fueron unos socios, tuvieron una relación de par en materia de responsabilidad, ella veía siempre la parte administrativa y nunca vio un trato distinto con ella e n relación al resto de los socios.
+
+Contrainterrogado por la demandante señaló: que la diferenciación de socios no estaba establecido en ninguna parte, era en la práctica; tiene contrato de trabajo el testigo como socio; quien eran su jefes era Angélica y Luis; la demandante fue despedida en octubre de 2023, entiende que hubieron varios acercamientos, pero al final no había una intención real pero todos los socios quisieron que se retirara por los costos, fue una decisión tomada por todos los socios; en cuanto al despido entiende que se le hizo entrega de una carta de despido en un viaje porque no hubo forma de contactarla antes; se envió carta acá y personalmente se le entregó en Argentina, ello ocurrió la primera semana de noviembre.
+
+3° testigo Margarita Maldonado la que manifestó: que trabaja en la demandada, se desempeña en cobranza y facturación desde el año 2012: conoce a la demandante era la socia de administración, era una jefatura; la demandante era muy rígida, tuvo en una oportunidad conflicto por un tema de contrato de trabajo con ella, porque en pandemia tenían un horario de 9 a 6 y cuando volvieron se estableció uno de 8 a 7 y el sábado salir antes, la demandante le objetaba siempre el horario; tuvo conflicto con otros compañeros, vio en dos oportunidades a un compañero llorando quiso hacer una denuncia y no lo hizo; siempre fue una buen relación entre la actora y don Luis, desayunaban o almorzaban juntos, siempre se buscaban mutuamente; nunca vio un conflicto entre los 2.
+
+Oficios.
+
+1.- Banco de Crédito e Inversiones.
+
+2.- AFP Capital.
+
+3.- Isapre Banmédica.
+
+4.- AFC Chile S.A.
+
+5.- Comisión para el Mercado Financiero.
+Sexto: Que de las circunstancias señaladas en el libelo, contestación y la prueba aportada por las partes, analizadas de conformidad a las reglas de la sana crítica, permiten concluir:
+
+1.- Que con fecha 25 de septiembre de 2009 el señor Luis Landa constituyó junto con otras 3 personas la sociedad Landa Auditores S.A., empresa a la que se incorporó como socia la demandante de autos el día 20 de mayo de 2010, transformándose la empresa a una de responsabilidad limitada, componiéndose la empresa con 3 socios, el actual representante legal de la empresa, la actora y el señor Hans Caro, siendo el objeto de la empresa la prestación de servicios de auditorías y asesorías en materia de impuestos y toda actividad relacionada, directa o indirectamente, cuestión que consta del registro de inscripción de la empresa y la modificaciones que constan en las continuaciones de notas marginales.
+
+2.- Que con fecha 4 de enero de 2010 las partes suscribieron contrato de trabajo, a través del cual se contrató a la actora como socia, con dedicación exclusiva en materias de su competencia en el establecimiento de asesoría, auditorías y administración de empresas, lo que se advierte del contrato de trabajo incorporado por ambas partes.
+
+3.- Que se estableció como contraprestación pecuniaria a la demandante un monto fijo, compuesto por un denominado sueldo base de $8.000.000, una gratificación de $174.167, una asignación de movilización y colación, cada una por la suma de $200.000, lo que fluye de las liquidaciones aportadas por ambas partes.
+
+4.- Que en el mes de septiembre de 2012 la actora conjuntamente con otros socios, en representación de la empresa Inversiones LLC Ltda., y, a su vez, también con otros socios, en representación de la demandada de autos concurrió a la celebración de un contrato de arrendamiento a través de la cual la primera le entregaba a la segunda un inmueble ubicado en la comuna de Las Condes, cuestión que aparece del contrato de arredramiento celebrado.
+
+5.- Que con fecha 7 de febrero de 2022, la demandada presentó una carta a través de la cual manifestada su decisión de renunciar a la firma a partir del 30 de abril de 2023, en su calidad de empleada, dejando pendiente el término como socia, cuestión que se advierte de la carta de renuncia aportada por la empresa.
+
+6.- Que la demandante desde el 13 de julio de 2015 forma parte del Comité de Socios, cuestión que consta de la anotación marginal de la inscripción societaria.
+
+7.- Que con fecha 1 de julio de 2022 la empresa demandada contrató los servicios del señor Christian Paredes Rodríguez, el que fue contratado para desempeñar el cargo de director de operaciones y finanzas, lo que fluye del contrato de trabajo de dicha persona.
+
+8.- Que la demandada puso término a la relación laboral por la causal contemplada en el inciso segundo del artículo 161 del Código del Trabajo, con fecha 31 de octubre de 2023, remitiendo carta certificada de término el mismo día al domicilio de la demandante consignado en el contrato de trabajo, Colinas del Sur N° 9704, comuna de Las Condes, y al domicilio señalado por la actora en el acta de comparendo celebrado ante la Inspección del Trabajo, Colina Miravalle 9884, misma comuna, como carta a la autoridad administrativa respectiva, lo que se aprecia de la carta de término, el comprobante de envío registrado emitido por Correos de Chile y el comprobante de carta de aviso para la terminación de contrato de trabajo emitido por la Dirección del Trabajo, de misma fecha, cuestión que además fue ratificado por en el finiquito suscrito entre las partes.
+
+9.- Que las partes suscribieron finiquito de término de la relación laboral, oportunidad en que se le reconoció a la demandada un indemnización por años de servicios, por $36.024.189, vacaciones por $11.200.000, descontándosele por concepto de aporte efectuado por el empleador al fondo de cesantía de la trabajadora el monto de $6.168.283
+
+10.- Que las imposiciones previsionales, salud y cesantía de los meses de enero, febrero y abril de 2010 se encuentran pagadas, lo que se aprecia del certificado emitido por AFP Capital y las respuesta de oficio otorgados por Isapre Banmedica y AFC, los que informan el pago efectuado por la empresa a la trabajadora.
+
+11.- Que al 21 de noviembre de 2023 la demandante mantenía una participación en la sociedad demandada correspondiente al 26,785%, lo que se tendrá por cierto del acta de asamblea de socios celebrado en la fecha indicada, en el que se informó la participación que cada uno de los socios de la empresa tenía a esa fecha.
+
+12.- Que con fecha 21 de noviembre de 2023 se celebró acta de asamblea de socios, oportunidad en que se acordó la exclusión de la demandante como socia en razón de la intención manifestada por la demandante de retirarse de la misma, el hecho de haber invocado problemas de salud y circunstancias que daban cuenta de la baja de productividad de la demandante, concretándose el mismo en escritura de 29 de noviembre del mismo año, lo que se colige del acta de asamblea y escritura aportadas.
+
+13.- Que el día 15 de diciembre de 2023 la actora presentó recurso de protección en contra de la demandada de autos, impugnando la decisión de la empresa de removerla en su calidad de socia, estimando que tal decisión afectaría las garantías constitucionales contempladas en los numerales 3° y 4° del artículo 19 de la Carta Fundamental, presentación que fue declarada inadmisible por resolución de 29 de diciembre de 2023, decisión que fue confirmada por la Excma. Corte Suprema por resolución de fecha de 4 de marzo de 2024, lo que consta de las piezas del expediente electrónico Rol Ingreso Corte N° 16.900-2023, seguidos ante la Iltma. Corte de Apelaciones de Santiago y la resolución dictada en autos Ingreso Excma. Corte Suprema N° 1.8010-2024.
+
+14.- Que el 29 de noviembre de 2023 se modificó la sociedad, quedando como socio una serie de personas que se individualizan en ella, dentro del cual no se encuentra el demandante, revocándose los poderes que tenía esta por escritura de 22 de diciembre del mismo año, lo que consta del certificado de inscripción que da cuenta de ello.
+
+15.- Que el 29 de noviembre de 2023 la demandada informó a la Comisión de Mercado Financiero la decisión de la demandada de remover como socia a la demandante, lo anterior a petición del organismo fiscalizador, lo que da cuenta el documento llamado hecho relevante de fecha indicada como la respuesta al oficio solicitado por la respectiva institución.
+
+16.- Que la demandante al ingresar a la sociedad tuvo calidad de representante, modificándola la misma por escritura de 25 de julio de 2022, oportunidad en que se estableció como apoderado de clase A al señor Luis Landa y como apoderada B a la demandada, entre otros, y a través del cual los apoderados clase A puede actuar como representante por sí solo, y los apoderados clase B conjuntamente con el apoderado clase A, cuestión que se advierte de las escrituras aportadas, especialmente la de fecha indicada.
+
+Séptimo: Que en primer lugar corresponde hacerse cargo de la excepción de incompetencia promovida en razón de la materia por la demandada, la que se justificó en la inexistencia de la relación laboral entre las partes, estimando la empresa que el vínculo existente con la actora tiene carácter civil o comercial.
+
+En ese sentido, la excepción deberá ser desestimada, toda vez que estamos precisamente en la hipótesis de competencia contenida en la letra a) del artículo 420 del Código del Trabajo, siendo el tribunal llamado a dilucidar la controversia planteada, la inexistencia o no del vínculo laboral reclamando, este órgano jurisdiccional. Cuestión diversa es si, en los hechos, estamos en presencia del mismo, lo que no atañe a la facultad del tribunal para conocer del mismo, tratándose más bien de una cuestión de fondo, debiendo necesariamente pronunciarse sobre ello.
+
+Octavo: Que en lo tocante a la excepción de litispendencia deducida en relación al recurso de protección deducido por la trabajadora, debe precisarse que su configuración requiere la concurrencia de tres elementos: a) identidad de personas, esto es, debe tratarse del mismo demandante y demandado, refiriéndose a la identidad legal y no física, extendiéndose a los causahabientes de una persona y representante de los mismos; b) identidad de la cosa pedida, vale decir, el objeto o beneficio jurídico que se solicita; c) identidad de la causa de pedir, lo que constituye el hecho jurídico o material que sirve de fundamento al derecho reclamado.
+
+A juicio del tribunal, si bien concurre el primer elemento no se da el resto. Malamente puede entenderse que existe una identidad de la cosa pedida, toda vez que en la presente causa se dedujeron una multiplicidad de acciones que tienen por objeto declarar el supuesto despido de la demandante como vulneratorio a las garantías constitucionales indicadas en el libelo, de manera subsidiaria obtener la declaración del mismo como injustificado, como también la persecución de una serie de prestaciones de carácter laboral y la sanción prevista en el inciso quinto y siguientes del artículo 162 del Código del Trabajo, mientras que a través de la acción de protección se perseguía dejar sin efecto el acuerdo de remoción de la calidad de socia de la demandante adoptado por la empresa, siendo el despido y la remoción de la calidad de socio actos independientes, diversos, que se concretan de manera independiente y con consecuencias totalmente diversa, siendo perfectamente plausible que se mantenga un socio que haya tenido un vínculo de subordinación y dependencia con su empresa en dicha calidad, pese a cesar la relación laboral y viceversa, concretándose ambas decisiones a través de vías diversas. Por otra parte, las garantías constitucionales señaladas como infringidas son distintas, ya que por una pare se invocan aquellas previstas en el N° 3° y 24° del artículo 19 de la Carta Fundamental y en la presente causa las mencionadas en los numerales 1° y 4° del artículo 19 del mismo cuerpo normativo.
+
+Tampoco es posible sostener que exista una identidad de causa de pedir, por cuanto a través de la acción seguida ante la Iltma. Corte de Apelaciones de Santiago el hecho que sirve de sustento a la misma dice relación con la calidad de socia y la decisión de la demandada, que la recurrente estima ilegal y arbitraria, de poner término a la misma, mientras que en la presente sede es la supuesta calidad de trabajadora de la empresa, las situaciones que en dicha calidad vivió al interior de aquella y las acreencias a su favor en virtud de dicha condición.
+
+Lo expuesto conllevará a rechazar la excepción promovida.
+
+Noveno: Que previo a pronunciarse sobre la excepción de incompatibilidad de la acción de tutela, en razón de haberse presentado la acción de protección, debe el tribunal pronunciarse sobre el primer punto de prueba establecido, que corresponde al vínculo de subordinación y dependencia reclamado en autos, el que fue controvertido por la parte demandada, la que manifestó que entre las partes solo existió un vínculo civil o comercial.
+
+En ese sentido, el tribunal entiende que resulta procedente que un socio de una sociedad de personas sea, a la vez, dependiente de la misma, en la medida que concurran los elementos del contrato de trabajo.
+
+Así, el artículo 7° del Código del Trabajo señala: “Contrato individual de trabajo es una convención por la cual el empleador y el trabajador se obligan recíprocamente, éste a prestar servicios personales bajo dependencia y subordinación del primero, y aquél a pagar por estos servicios una remuneración determinada”.
+
+Son elementos de este: la prestación de servicios personales, una remuneración por tales servicios, un vínculo de subordinación y dependencia respecto de quien se obliga a prestar servicios.
+
+Por su parte, el vínculo de subordinación y dependencia es una cuestión fáctica que se manifiesta en una serie de elemento tales como, a título meramente ejemplar, la obligación del trabajador de dedicar a la faena convenida un espacio de tiempo significativo, el cumplimiento de un horario diario y semanal, trabajo realizado bajo pautas de dirección y organización del trabajo realizado, la supervigilancia de éste, la continuidad o permanencia de los servicios prestados, rendición de cuentas de la labor efectuada, cumplimiento de carga diaria, control por parte del empleador de la faena convenida, ajenidad en la prestación de servicios.
+
+En la especie, estamos inequívocamente ante una prestación de servicios personales y a través del cual la demandante participa en el objeto de la sociedad, vale decir la prestación de servicios de auditorías y asesorías, recibiendo por ella una contraprestación pecuniaria, como se indicó en el numeral 3° del considerando sexto, debiendo dilucidarse si estamos ante elementos que den cuenta de la subordinación y dependencia reclamada para efectos de determinar si en los hechos existió un vínculo laboral o de otra índole.
+
+Décimo: Que, a juicio del tribunal, existen una serie de elementos que dan cuenta de la subordinación y dependencia reclamada por la actora. En ese sentido, de los correos electrónicos acompañados por ambas partes se advierte que existe al menos una supervigilancia por parte de la misma empresa ante la cual se le solicita a la trabajadora dar cuenta de una serie de servicios a clientes a que tenía la empresa. Lo anterior por ejemplo se demuestra en el hecho que el señor Christian Paredes, quien reconoció en su declaración que no tiene la calidad de socio de la empresa y que meramente tiene un contrato laboral con la misma, le pide cuenta acerca de diversos contratos que tenían pendiente facturación, de fecha 18, 23 de agosto, 12 de septiembre, ambas de 2023, que corresponde a la cartera de clientes que tenía la actora, toda vez que las facturas entregadas por la demandante eran diversas a las que le correspondían a ella, se le pide gestionar con el cliente para llegar a las metas de cobranza mensual y en otras se rechaza la cuenta al no tener registradas las horas cargadas, vale decir se le indica la forma que debe efectuar la prestación de servicios y que va más allá de la actividad liberal de la trabajadora, operando en definitiva como el superior jerárquico de la actora en su actividad. Lo anterior es del todo relevante, por cuanto malamente podría entenderse como una relación entre socios, toda vez que estamos en presencia de una persona que no tiene dicha calidad y que representa los intereses de la demandada, no siendo un par de ella.
+
+En otro orden de ideas, la propia demandante para la obtención de su remuneración y devolución del préstamo que garantizó la demandante, cuestión que se demuestra también a través de los diferentes correos electrónicos aportados por ambas partes y que se refieren a ello, no podía acceder por sí sola, sino que los fondos eran manejados también por el señor Paredes, quien daba las instrucciones para efectos de proceder al pago de ellos.
+
+Los elementos expuestos permiten al tribunal concluir que no se da, como pretende la parte demandada, tratándose de la demandante, la confusión de voluntades en su calidad de socia y trabajadora, teniendo esta si bien una participación de importancia, no mayoritaria. Por lo demás, desde el año 2022 la actora no tenía facultades para representar por si sola a la empresa, al tener la calidad de apoderada clase B, debiendo concurrir con el único apoderado clase A, el señor Luis Landa, para representar a la demandada, cuestión que se corrobora con el correo a través del cual la parte demandante solicita que no sea despedido el gerente de operaciones con el que trabajaba, lo que demuestra que tampoco la decisión de contratación de personal o mantención de vínculos laborales se encontraba supeditado, aunque sea en parte, a su voluntad en su calidad de socia o propietaria parcial de la empresa.
+
+Undécimo: Que por las razones expuestas se tendrá por cierto el vínculo de subordinación y dependencia reclamado en autos, debiendo desestimarse las excepciones de falta de legitimación activa y pasiva promovidas.
+
+Duodécimo: Que establecido el vínculo de subordinación y dependencia, corresponde resolver la excepción de incompatibilidad de la acción principal, en los términos dispuestos en el inciso final del artículo 485 del Código del Trabajo, esto es, en razón de la interposición del recurso de protección promovida por la trabajadora.
+
+La norma citada señala: “Interpuesta la acción de protección a que se refiere el artículo 20 de la Constitución Política, en los casos que proceda, no se podrá efectuar una denuncia de conformidad a las normas de este Párrafo, que se refiera a los mismos hechos”. Ello tiene por objeto evitar que dos órganos jurisdiccionales distintos conozcan de los mismos hechos, a fin de evitar decisiones contradictoras, atendido a la naturaleza cautelar de la acción de protección y la contenida en los artículos 485 y 489 del Código del Trabajo.
+
+En ese sentido, para que sea procedente la excepción resulta necesario que las acciones sean las mismas, tengan el mismo fundamento y objeto, cuestión que no se produce en la especie por las razones expuestas en el considerando octavo, lo que conllevará a desestimar la excepción.
+
+Décimo tercero: Que para efectos de resolver la acción de tutela por vulneración de derechos fundamentales con ocasión al despido deducida y la acción subsidiaria de despido injustificado, debe tenerse presente que uno de los principios a los cuales debe sujetarse el tribunal es el de congruencia, el que exige que debe existir una coherencia entre lo pedido y lo resuelto por el tribunal, siendo en definitiva lo pedido por la parte lo que circunscribe la controversia que debe ser sometido a conocimiento del tribunal. En ese sentido, la trabajadora para justificar las acciones ya indicadas la sustenta en un despido incausado, sin cumplirse con las formalidades legales, perpetrado el día 31 de octubre de 2023, debiendo el tribunal determinar si estamos en presencia de ello o no.
+
+Tal como se consignó en el numeral 8° del considerando sexto, se encuentra establecido que sin perjuicio del aviso verbal que habría recibido la demandante del término de la relación laboral, la empresa remitió carta de término al domicilio de la demandante, justificándolo en la causal contemplada en el inciso segundo del artículo 162 del Código del Trabajo, dando cumplimiento a las formalidades legales contenidas en los incisos primero, segundo y tercero del artículo 162 del Código del Trabajo, remitiendo carta de término el mismo día que se habría concretado la misma.
+
+En ese sentido, la parte demandante pretende establecer que el término fue sin cumplirse con ellas por el solo hecho que le habría llegado la carta de término, supuestamente, semanas después del despido, obviando que la formalidad y el perfeccionamiento del mismo se cumple con el envío de la misiva y no con su recepción, ejerciendo la empleadora su potestad dentro del plazo dispuesto por la normativa para ello.
+
+En consecuencia, se tendrá que la empresa cumplió con la normativa legal, poniendo término al vínculo contractual por la causal prevista en el inciso segundo del artículo 161 del Código del Trabajo.
+
+Décimo cuarto: Que habiéndose justificado las acciones principal y subsidiaria en la existencia del despido incausado, demostrándose que el término del contrato ocurrió cumpliendo la demandada con las formalidades legales y no habiendo petición subsidiaria tendiente a pronunciarse sobre el carácter vulneratorio o improcedente de dicho término, las acciones indicadas no pueden prosperar, como tampoco la petición de restitución de lo descontado por concepto de aporte efectuado por el empleador al fondo de cesantía de la trabajadora, debido que su devolución se encuentra supeditada a la declaración del despido injustificado, la que, como ya se indicó, respecto del cual el tribunal no puede emitir pronunciamiento.
+
+Teniendo el daño moral fundamento en la acción de tutela, la misma también deberá ser desestimada.
+
+Debido a las razones expuestas, el tribunal tampoco puede pronunciarse sobre los hechos vulneratorios reclamados en la acción principal, por lo que se omitirá pronunciamiento sobre la excepción de caducidad deducida.
+
+Décimo quinto: Que en cuanto a la acción de nulidad del despido la misma no puede prosperar, habiéndose demostrado que las imposiciones de seguridad social por los períodos indicadas en el libelo se encuentran solucionadas y con anterioridad a la fecha del término de la relación laboral, en el mismo año 2010. En ese sentido cabe consignar que si bien en el certificado de AFC no se precisa la fecha en que fueron pagadas las cotizaciones de cesantía, el hecho que las imposiciones de salud y previsionales se hayan pagado en períodos inmediatamente anteriores a la fecha de sus respectivos devengos, permiten presumir al tribunal, presunciones que constituyen un medio de prueba, que estas también fueron solucionadas antes del despido, no existiendo antecedentes alguno en el proceso que demuestre que se hayan pagado con posterioridad al término del contrato de trabajo.
+
+Con todo, a mayor abundamiento, cabe consignar que es la propia trabajadora en la diligencia de absolución de posiciones quien reconoció que ella dentro del marco de la relación laboral que tenía con la demandada era la encargada de enterar en las respectivas instituciones de seguridad social las respectivas cotizaciones, razón por la cual en el evento de existir cualquier deuda previsional tiene su origen en la propia conducta de la demandada, lo que impide dar aplicación a la sanción reclamada, por cuanto uno de los principios que rigen el ordenamiento jurídico nacional es el de buena fe, lo que implica que las partes en la ejecución del contrato de contrato deben actuar correctamente en sus respectivas calidades, como trabajador o empleador, y que implican entender que si la propia empresa le otorga a su trabajadora las funciones o atribuciones de proceder a pagar sus cotizaciones, en la medida que existan fondos para ello, esta lo realizaría. Luego, el hecho que la trabajadora no haya cumplido con ello implica derechamente un actuar de mala fe por parte de ella con la finalidad de pretender un beneficio otorgado en razón de la sanción prevista en caso de no pago de ellas y, en definitiva, el aprovechamiento por parte de la trabajadora de su propio dolo o culpa –la que solo podría ser calificada como grave- provocándose la sanción por un hecho imputable a la demandante.
+
+Décimo sexto: Que, finalmente, en lo tocante al feriado legal solicitado, la empresa promovió excepción de prescripción y pago del mismo.
+
+Décimo séptimo: Que en lo tocante a la excepción de prescripción cabe consignar que en la especie lo que se pretende por la parte demandante es la compensación monetaria del respectivo descanso anual, como también del denominado feriado proporcional, vale decir el monto en dinero que el empleador debe pagar como compensación al trabajador cuando este en el respectivo período, por cualquier motivo, concluye su contrato de trabajo sin alcanzar la respectiva anualidad.
+
+En ese sentido el inciso primero del artículo 510 del Código del Trabajo prescribe: “Los derechos regidos por este Código prescribirán en el plazo de dos años contados desde la fecha en que se hicieron exigibles”.
+
+Relacionado con ello se encuentra el inciso primero del artículo 73 del mismo cuerpo normativo, que señala: “El feriado establecido en el artículo 67 no podrá compensarse en dinero”.
+
+Del tenor de las normas citadas se advierte que al pretenderse la compensación en dinero del respectivo descanso anual y no el ejercicio del mismo, debido que la relación laboral concluyó, y que el aludido resarcimiento solo puede exigirse al cese del vínculo laboral, debiendo computarse el plazo de prescripción desde la fecha del despido. Luego, produciéndose el término el día 31 de octubre de 2023 y habiéndose notificado la demanda el 18 de enero de 2024 no ha transcurrido el lapso invocado por la empresa, por lo que se rechazará la excepción.
+
+Décimo octavo: Que cabe consignar que la empresa acompañó únicamente un comprobante de feriado legal, el que en ningún caso logra acreditar que la demandante haya hecho uso de los mismos por la totalidad de los períodos reclamados. Así, la demandada justifica la ausencia de los mismos en el hecho que la demandante solo si tenía voluntad para ello procedía a la suscripción de los respectivos comprobantes, pudiendo hacer uso de ellas cuando lo estimase pertinente; sin embargo, no se incorporó prueba de ello. Luego, no existiendo constancia del uso de los períodos reclamados, se advierte que efectivamente existe una diferencia que corresponde solucionar, razón por la cual se ordenará el pago $6.433.845 por dicho conceptos, rechazándose con ello la excepción de pago.
+
+Décimo noveno: Que el resto de la prueba rendida en autos, analizada de conformidad a las reglas de la sana crítica, en nada alteran o modifican lo razonado en los considerandos precedentes.
+
+Vigésimo: Que no se condena en costas a la demandada por no ser totalmente vencida y estimar que tuvo motivos plausibles para litigar.
+
+Por estas consideraciones, y visto, además, lo dispuesto en los artículos, 1, 3, 5 y siguientes, 7 y siguientes, 63, 68 y siguientes, 73, 161, 162, 163, 172, 173, 425 y siguientes, 485 y siguientes del Código del Trabajo; 1698 del Código Civil, y demás disposiciones legales aplicables, se declara:
+
+I.- Que se omite pronunciamiento sobre la excepción de caducidad de la acción principal.
+
+II.- Que se rechaza la excepción de litispendencia.
+
+III.- Que se rechaza la excepción de incompetencia.
+
+IV.- Que se rechaza la excepción de incompatibilidad de la acción de tutela en los términos prevenidos en el inciso final del artículo 485 del Código del Trabajo.
+
+V.- Que se rechaza la excepción de prescripción deducida respecto al feriado legal.
+
+VI.- Que se rechaza la acción principal.
+
+VII.- Que se acoge la acción subsidiaria promovida por la señora Angélica León López en contra de la empresa ARTL Chile Auditores Ltda., solo en cuanto se declara que la demandada deberá pagar la suma de $6.433.845 por concepto de feriados.
+
+VIII.- Que la suma señalada en el numeral precedente se reajustará y devengará intereses de acuerdo a lo consignado en el artículo 63 del Código del Trabajo.
+
+IX.- Que cada parte pagará sus costas.
+
+X.- Ejecutoriada la decisión, cúmplase esta dentro de quinto día; en caso contrario, certifíquese dicha circunstancia por el Ministro de Fe respectivo y pasen los antecedentes al Juzgado de Cobranza Laboral y Previsional de Santiago.
+
+Regístrese, notifíquese y archívese los antecedentes en su oportunidad.
+
+RIT T-106-2024.
+
+RUC 24- 4-0541837-8.
+
+Dictada por don Mauricio Guajardo Espinoza, Juez Titular del Primer Juzgado de Letras del Trabajo de Santiago.
