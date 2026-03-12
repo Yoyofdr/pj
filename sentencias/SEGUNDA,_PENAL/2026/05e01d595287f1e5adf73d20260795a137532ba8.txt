@@ -1,0 +1,112 @@
+METADATA
+
+case_id: 05e01d595287f1e5adf73d20260795a137532ba8
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8043213
+
+rol: 5667-2026
+
+fecha_sentencia: 2026-02-25
+
+caratulado: PUCHA SÁNCHEZ STEVEN OSVALDO CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintiséis de febrero de dos mil veintiséis.
+
+VISTO Y TENIENDO PRESENTE:
+PRIMERO: Que, en este juicio ordinario de indemnización de perjuicios, seguido ante el Vigésimo Juzgado Civil de Santiago, bajo el Rol C-68-2019, caratulado “Agrícola e Inmobiliaria Arellano con Banco Chile”, se ha ordenado dar cuenta de la admisibilidad del recurso de casación en el fondo deducido por la parte demandante contra la sentencia de la Corte de Apelaciones de Santiago de once de diciembre de dos mil veinticinco, que confirmó con costas del recurso, la sentencia de primera instancia que acogió la excepción dilatoria de falta de legitimación activa de la actora, rechazando la demanda con costas.
+
+SEGUNDO: Que, funda su recurso de casación en la infracción al artículo 148 del Código de Procedimiento Civil; a los artículos 267, 174, 175, 176, 177, todas del Código Procedimiento Civil, artículos 1698, 1700, 1702 y 12 del Código Civil, y por último a los artículos 2116, 2129 y 1547 Código Civil.
+
+La acción de nulidad considera en síntesis, se aplicó incorrectamente el artículo 148 del Código de Procedimiento Civil y las normas relativas a la cosa juzgada, por cuanto la demanda fue retirada antes de su notificación, de manera que no se renunció a la acción que provenía de ella, teniendo su representada plena legitimidad incurriendo el demandado, Banco Chile, en un incumplimiento contractual, por no cumplir las normas del mandato.
+
+Pide se invalide el fallo recurrido y dicte, acto continuo y sin nueva vista, la correspondiente sentencia de reemplazo que revoque la sentencia apelada; rechace las excepciones de falta de legitimación activa y cosa juzgada, declarando que, conforme al art. 148 del CPC, la renuncia de 31 de julio de 2018 no extinguió una acción previamente retirada y no comprendida en el avenimiento (art. 267 CPC), y, acoja la demanda de indemnización, condenando a la demandada al pago de $541.828.729 a título de daño emergente, más reajustes e intereses, deje sin efecto la orden de remisión al ministerio público, por carecer de fundamento la imputación de mala fe, con costas.
+
+TERCERO: Que, conforme lo previsto en el artículo 772 N° 1 del Código de Procedimiento Civil, el recurso de casación en el fondo está sujeto a un requisito indispensable para su admisibilidad, cuál es que el escrito en que se lo interpone “exprese”, es decir, explicite en qué consiste y cómo se ha producido el o los errores de derecho.
+
+CUARTO: Que, del examen de los antecedentes, consta que el arbitrio de nulidad en estudio no puede prosperar, toda vez que la demandada omitió extender la infracción legal a normas sustantivas que, en la especie, tienen el carácter de decisoria de la litis, es decir, preceptos que al ser aplicados permiten resolver la cuestión controvertida, especialmente los artículos 1553 y 1556, los artículos 1911 y siguientes relativos a derechos litigiosos, todos del Código Civil, normas que regulan la materia en discusión y que fueron invocadas por el tribunal como fundamento para rechazar la pretensión, tal como se lee en los considerandos tercero a octavo de la sentencia de alzada, exigencia que no se satisface con las menciones del escrito al momento de fundamentar las infracciones legales que sustentan el recurso de nulidad sustantivo.
+
+Siendo ello así, las normas mencionadas en el recurso no constituyen fundamento plausible para dar acogida a la casación en el fondo.
+
+Por estas consideraciones y de conformidad, además, con lo dispuesto en los artículos 764, 765, 767, 772 y 782 del Código de Procedimiento Civil, se rechaza el recurso de casación en el fondo interpuesto por la abogada Juan Pablo Lorenzini Paci, en representación de la parte demandante contra la sentencia de once de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Santiago.
+
+Regístrese y devuélvase.
+
+Rol Nº 5278-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Santiago, once de diciembre de dos mil veinticinco.
+
+Vistos:
+
+Se reproduce la sentencia en alzada, con excepción de sus considerandos duodécimo a décimo cuarto, que se eliminan.
+
+Y se tiene en su lugar y, además, presente:
+
+1° Que, en estos antecedentes, compareció Agrícola e Inmobiliaria Arellano Spa, deduciendo acción de indemnización de perjuicios contra el Banco de Chile S.A. Sostiene su legitimidad activa en haber suscrito el 27 de julio de 2018, con Inmobiliaria e Inversiones Santa Leticia Limitada, un contrato de cesión de acciones civiles, por el cual la primera le vendió, cedió y transfirió todas las acciones civiles relativas a la indemnización de perjuicios que podía interponer en contra del Banco de Chile S.A., por hechos o circunstancias relacionadas con la operación de mutuo que describe.
+
+Los hechos latamente descritos, dicen relación con el otorgamiento de un mutuo el 26 de octubre del 2012 a la cedente y que quien sirvió como aval y codeudor solidario falleció el 21 de marzo de 2013, advirtiéndose posteriormente que el banco demandado no cumplió con tomar el seguro de desgravamen acordado respecto de esa persona y a cuyo fin se había entregado una suma de dinero determinada; omisión que solo habrían conocido cuando el banco demandó a la cedente.
+
+Ese juicio se inició ante el Juzgado de Letras de Cauquenes, bajo el rol: C-427-2016 en el cual la cedente contestó la acción y dedujo demanda reconvencional fundada en el incumplimiento descrito. Pero, el 31 de julio de 2018, se desistió de esa acción reconvencional, renunciando a toda clase de acciones, especialmente la de indemnización de perjuicios materiales y/o morales, lo que el tribunal tuvo presente.
+
+2° Que la primera alegación de la demandada fue la falta de legitimidad activa de la empresa demandante, argumentando que no se trataría de una cesión de derechos porque se refiere a una mera eventualidad y hace presente que en el artículo 1911 y siguientes del mismo código, se regla la posibilidad de ceder el evento incierto de una litis, que es lo pretendido por la actora, precisando que un derecho se entiende litigioso desde que se notifica judicialmente la demanda. Empero, tampoco se configura este caso, ya que para la época de la cesión no existía demanda notificada que pudiera motivarla.
+
+Por otra parte, alegó que la norma dispone que la cesión no tendrá efecto entre el cedente y el cesionario sino en virtud de la entrega del título y no produce efecto contra el deudor ni contra terceros, mientras no ha sido notificada por el cesionario al deudor o aceptada por éste, gestión que no fue cumplida en la especie, ya que solo se supo de ella el 15 de enero de 2020, cuando se dictó resolución a folio 17 de la carpeta electrónica de este juicio, donde se tuvo por acompañado el título.
+
+3° Que, analizada la prueba rendida en autos, es posible tener por ciertos los siguientes hitos de relevancia para efectos de resolver la cuestión planteada.
+
+a.- El 27 de septiembre de 2017, el Banco de Chile inició cobranza ante el Juzgado de Letras de Cauquenes, bajo el rol C-427-2016, contra Inmobiliaria e Inversiones Santa Leticia Limitada.
+
+b.- El 25 de julio de 2018, el tribunal de Cauquenes tuvo presente que la demanda reconvencional deducida por Santa Leticia (por los mismos hechos de la presente acción), no había sido notificada, razón por la cual y conforme lo dispuesto en el artículo 148 del Código de Procedimiento Civil, la tuvo por retirada.
+
+c.- El 27 de julio de 2018, la ejecutada Santa Leticia Limitada celebró contrato de cesión de acciones civiles con la actual demandante, cuyo contenido ya ha sido detallado.
+
+d.- El 31 de julio de 2018, Santa Leticia se desistió de la demanda reconvencional que había iniciado contra el banco, en el mismo procedimiento de cobranza, renunciando, entre otras, a la de indemnización de perjuicios (lo que se habría cumplido como parte de un acuerdo de pago y venta de inmueble con el banco).
+
+e.- El contrato de cesión de acciones civiles -como se le denominó- no fue notificado al Banco de Chile.
+
+4° Que, acorde a lo expresado, es necesario precisar que lo cedido no fueron derechos litigiosos, desde que, tal como se establece en el artículo 1911 del Código Civil, “Se cede un derecho litigioso cuando el objeto directo de la cesión es el evento incierto de la litis, del que no se hace responsable el cedente.” A lo que se añade que “Se entiende litigioso un derecho… desde que se notifica judicialmente la demanda.”
+En el contrato que se analiza, no se consigna dato alguno de proceso vigente a la época de la referida cesión y, por el contrario, consta del proceso en que se había presentado la primitiva demanda de indemnización, que fue retirada sin notificarla, de modo que no se trata de un derecho litigioso.
+
+5° Que, atento su tenor, el contrato se corresponde con una cesión de derechos de aquella que regla el Código Civil, en el artículo 1901 y siguientes, lo que se corrobora con lo dicho en la cláusula tercera de tal convención, en cuanto a que “El cedente se hace responsable de la existencia de las acciones civiles objeto de este contrato”, típica cláusula de los contratos de esta naturaleza, ordenada en el artículo 1907 del código citado, cuando se trata de un contrato oneroso, cuyo es precisamente el caso.
+
+En este escenario, tiene también aplicación lo prevenido en los artículos 1902 y 1905 del código de Bello, en el sentido que: “La cesión no produce efecto contra el deudor ni contra terceros, mientras no ha sido notificada por el cesionario al deudor o aceptada por éste”; y, que “No interviniendo la notificación o aceptación sobredichas, podrá el deudor pagar al cedente, o embargarse el crédito por acreedores del cedente; y en general, se considerará existir el crédito en manos del cedente respecto del deudor y terceros.”
+6° Que, como corolario de lo analizado, hechos establecidos y normas citadas, ocurre que el contrato de cesión de derechos suscrito entre la deudora directa del Banco y la actual demandante no produjo ningún efecto contra el banco demandado atenta la omisión de notificación; y que, además, lo actuado en el tribunal de Cauquenes tiene pleno valor, esto es, la acción de indemnización de perjuicios fundada en los mismos hechos que aquí se arguyen, fue retirada por la cedente sin notificar y, además, se desistió de toda acción, renunciando a cualquier derecho en relación con los hechos y perjuicios pretendidos, lo que tuvo valor respecto del banco, precisamente porque ignoraba la existencia de la cesión.
+
+Como necesario efecto de lo dicho, corresponde acoger la excepción de falta de legitimación activa opuesta por la demandada.
+
+7° Que, sin perjuicio de lo señalado, es posible aún agregar que el contrato de cesión carece de objeto, atento precisamente la renuncia antes descrita.
+
+8° Que la demandante acompañó en esta instancia, el certificado de defunción de don Francisco Arellano Yensen; una liquidación de préstamo de crédito del Banco de Chile, otorgamiento 9252-crédito comercial en cuotas a Inmobiliaria e Inversiones Santa Leticia, otorgado el 26 de octubre de 2012, con detalle de un descuento por concepto de seguro de desgravamen por $7.161.721; y, cuadro de pago de crédito en cuotas comercial, con otorgamiento original y última renovación con fecha 26 de octubre de 2012.
+
+Estos documentos en nada alteran lo que se ha decidido y, por el contrario, dan cuenta de hechos que eran ya sabidos en el proceso de primera instancia.
+
+9° Que en atención a lo señalado y teniendo presente la mala fe que se advierte en las conductas conocidas en autos, especialmente el hecho de haberse tratado de sustraer al acuerdo de pago que se lee en el proceso civil seguido ante el juez de Cauquenes y fundamentalmente, lo consignado en el documento sobre instrucciones notariales de 30 de julio de 2018, al que concurrió la actual demandante Agrícola e Inmobiliaria Arellano SpA, se la condena a pagar las costas del proceso.
+
+Por estas consideraciones y de acuerdo, además, a lo prevenido en el artículo 186 y siguientes del Código de Procedimiento Civil, se confirma, con costas del recurso, la sentencia apelada de seis de enero de dos mil veintitrés, pronunciada por el 20º Juzgado Civil de Santiago.
+
+Remítanse los antecedentes al conocimiento del Ministerio Público, por estimar que pudiera existir en ellos, un evento de carácter delictivo.
+
+Regístrese y devuélvase.
+
+Redactó la ministra Carolina Vásquez Acevedo.
+
+Rol N° 2496-2023 Civil.
+
+Pronunciada por la Décima Tercera Sala de la Corte de Apelaciones de Santiago integrada con los ministros Carolina Vásquez Acevedo, Patricio Martínez Benavides y Claudia Lazen Manzur.
+
+No firma la ministra Carolina Vásquez Acevedo por encontrarse ausente.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, once de diciembre de dos mil veinticinco.Vistos:Se reproduce la sentencia en alzada, con excepción de sus considerandos duodécimo a décimo cuarto, que se eliminan.Y se tiene en su lugar y, además, presente:1° Que, en estos antecedentes, compareció Agrícola e Inmobiliaria Arellano Spa, deduciendo acción de indemnización de perjuicios contra el Banco de Chile S.A. Sostiene su legitimidad activa en haber suscrito el 27 de julio de 2018, con Inmobiliaria e Inversiones Santa Leticia Limitada, un contrato de cesión de acciones civiles, por el cual la primera le vendió, cedió y transfirió todas las acciones civiles relativas a la indemnización de perjuicios que podía interponer en contra del Banco de Chile S.A., por hechos o circunstancias relacionadas con la operación de mutuo que describe.Los hechos latamente descritos, dicen relación con el otorgamiento de un mutuo el 26 de octubre del 2012 a la cedente y que quien sirvió como aval y codeudor solidario falleció el 21 de marzo de 2013, advirtiéndose posteriormente que el banco demandado no cumplió con tomar el seguro de desgravamen acordado respecto de esa persona y a cuyo fin se había entregado una suma de dinero determinada; omisión que solo habrían conocido cuando el banco demandó a la cedente.Ese juicio se inició ante el Juzgado de Letras de Cauquenes, bajo el rol: C-427-2016 en el cual la cedente contestó la acción y dedujo demanda reconvencional fundada en el incumplimiento descrito. Pero, el 31 de julio de 2018, se desistió de esa acción reconvencional, renunciando a toda clase de acciones, especialmente la de indemnización de perjuicios materiales y/o morales, lo que el tribunal tuvo presente.2° Que la primera alegación de la demandada fue la falta de legitimidad activa de la empresa demandante, argumentando que no se trataría de una cesión de derechos porque se refiere a una mera eventualidad y hace presente que en el artículo 1911 y siguientes del mismo código, se regla la posibilidad de ceder el evento incierto de una litis, que es lo pretendido por la actora, precisando que un derecho se entiende litigioso desde que se notifica judicialmente la demanda. Empero, tampoco se configura este caso, ya que para la época de la cesión no existía demanda notificada que pudiera motivarla.Por otra parte, alegó que la norma dispone que la cesión no tendrá efecto entre el cedente y el cesionario sino en virtud de la entrega del título y no produce efecto contra el deudor ni contra terceros, mientras no ha sido notificada por el cesionario al deudor o aceptada por éste, gestión que no fue cumplida en la especie, ya que solo se supo de ella el 15 de enero de 2020, cuando se dictó resolución a folio 17 de la carpeta electrónica de este juicio, donde se tuvo por acompañado el título.3° Que, analizada la prueba rendida en autos, es posible tener por ciertos los siguientes hitos de relevancia para efectos de resolver la cuestión planteada.a.- El 27 de septiembre de 2017, el Banco de Chile inició cobranza ante el Juzgado de Letras de Cauquenes, bajo el rol C-427-2016, contra Inmobiliaria e Inversiones Santa Leticia Limitada.b.- El 25 de julio de 2018, el tribunal de Cauquenes tuvo presente que la demanda reconvencional deducida por Santa Leticia (por los mismos hechos de la presente acción), no había sido notificada, razón por la cual y conforme lo dispuesto en el artículo 148 del Código de Procedimiento Civil, la tuvo por retirada. c.- El 27 de julio de 2018, la ejecutada Santa Leticia Limitada celebró contrato de cesión de acciones civiles con la actual demandante, cuyo contenido ya ha sido detallado.d.- El 31 de julio de 2018, Santa Leticia se desistió de la demanda reconvencional que había iniciado contra el banco, en el mismo procedimiento de cobranza, renunciando, entre otras, a la de indemnización de perjuicios (lo que se habría cumplido como parte de un acuerdo de pago y venta de inmueble con el banco).e.- El contrato de cesión de acciones civiles -como se le denominó- no fue notificado al Banco de Chile.4° Que, acorde a lo expresado, es necesario precisar que lo cedido no fueron derechos litigiosos, desde que, tal como se establece en el artículo 1911 del Código Civil, “Se cede un derecho litigioso cuando el objeto directo de la cesión es el evento incierto de la litis, del que no se hace responsable el cedente.” A lo que se añade que “Se entiende litigioso un derecho… desde que se notifica judicialmente la demanda.”En el contrato que se analiza, no se consigna dato alguno de proceso vigente a la época de la referida cesión y, por el contrario, consta del proceso en que se había presentado la primitiva demanda de indemnización, que fue retirada sin notificarla, de modo que no se trata de un derecho litigioso.5° Que, atento su tenor, el contrato se corresponde con una cesión de derechos de aquella que regla el Código Civil, en el artículo 1901 y siguientes, lo que se corrobora con lo dicho en la cláusula tercera de tal convención, en cuanto a que “El cedente se hace responsable de la existencia de las acciones civiles objeto de este contrato”, típica cláusula de los contratos de esta naturaleza, ordenada en el artículo 1907 del código citado, cuando se trata de un contrato oneroso, cuyo es precisamente el caso.En este escenario, tiene también aplicación lo prevenido en los artículos 1902 y 1905 del código de Bello, en el sentido que: “La cesión no produce efecto contra el deudor ni contra terceros, mientras no ha sido notificada por el cesionario al deudor o aceptada por éste”; y, que “No interviniendo la notificación o aceptación sobredichas, podrá el deudor pagar al cedente, o embargarse el crédito por acreedores del cedente; y en general, se considerará existir el crédito en manos del cedente respecto del deudor y terceros.”6° Que, como corolario de lo analizado, hechos establecidos y normas citadas, ocurre que el contrato de cesión de derechos suscrito entre la deudora directa del Banco y la actual demandante no produjo ningún efecto contra el banco demandado atenta la omisión de notificación; y que, además, lo actuado en el tribunal de Cauquenes tiene pleno valor, esto es, la acción de indemnización de perjuicios fundada en los mismos hechos que aquí se arguyen, fue retirada por la cedente sin notificar y, además, se desistió de toda acción, renunciando a cualquier derecho en relación con los hechos y perjuicios pretendidos, lo que tuvo valor respecto del banco, precisamente porque ignoraba la existencia de la cesión.Como necesario efecto de lo dicho, corresponde acoger la excepción de falta de legitimación activa opuesta por la demandada.7° Que, sin perjuicio de lo señalado, es posible aún agregar que el contrato de cesión carece de objeto, atento precisamente la renuncia antes descrita.8° Que la demandante acompañó en esta instancia, el certificado de defunción de don Francisco Arellano Yensen; una liquidación de préstamo de crédito del Banco de Chile, otorgamiento 9252-crédito comercial en cuotas a Inmobiliaria e Inversiones Santa Leticia, otorgado el 26 de octubre de 2012, con detalle de un descuento por concepto de seguro de desgravamen por $7.161.721; y, cuadro de pago de crédito en cuotas comercial, con otorgamiento original y última renovación con fecha 26 de octubre de 2012.Estos documentos en nada alteran lo que se ha decidido y, por el contrario, dan cuenta de hechos que eran ya sabidos en el proceso de primera instancia.9° Que en atención a lo señalado y teniendo presente la mala fe que se advierte en las conductas conocidas en autos, especialmente el hecho de haberse tratado de sustraer al acuerdo de pago que se lee en el proceso civil seguido ante el juez de Cauquenes y fundamentalmente, lo consignado en el documento sobre instrucciones notariales de 30 de julio de 2018, al que concurrió la actual demandante Agrícola e Inmobiliaria Arellano SpA, se la condena a pagar las costas del proceso.Por estas consideraciones y de acuerdo, además, a lo prevenido en el artículo 186 y siguientes del Código de Procedimiento Civil, se confirma, con costas del recurso, la sentencia apelada de seis de enero de dos mil veintitrés, pronunciada por el 20º Juzgado Civil de Santiago.Remítanse los antecedentes al conocimiento del Ministerio Público, por estimar que pudiera existir en ellos, un evento de carácter delictivo.Regístrese y devuélvase.Redactó la ministra Carolina Vásquez Acevedo.Rol N° 2496-2023 Civil.Pronunciada por la Décima Tercera  Sala de la Corte de Apelaciones de Santiago integrada con los ministros Carolina Vásquez Acevedo, Patricio Martínez Benavides y Claudia Lazen Manzur.No firma la ministra Carolina Vásquez Acevedo por encontrarse ausente.                        ⚠                      Sin documento en esta instancia - pdf

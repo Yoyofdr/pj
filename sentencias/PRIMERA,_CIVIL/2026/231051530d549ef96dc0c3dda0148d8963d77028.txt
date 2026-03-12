@@ -4,19 +4,19 @@ case_id: 231051530d549ef96dc0c3dda0148d8963d77028
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8043196
 
-rol: 6090-2026
+rol: 5508-2026
 
-fecha_sentencia: 2026-02-26
+fecha_sentencia: 2026-02-25
 
-caratulado: CAROLINA DUARTE ARAYA/VÍCTOR RAMÍREZ CALDERÓN
+caratulado: INDUSTRIAL PROEX LIMITADA CON MIRANDA
 
 sala: PRIMERA, CIVIL
 
 materias: ▪ Admisibilidad del recurso de casación en el fondo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: RECHAZA CASACION EN EL FONDO
+resultado_recurso: INADMISIBLE CASACIÓN DE FONDO
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
