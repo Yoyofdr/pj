@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8053290
 
 rol: 10666-2026
 
-fecha_sentencia: 2026-03-05
+fecha_sentencia: 2026-03-06
 
 caratulado: ORELLANA MARTINEZ SEBASTIAN ERASMO CONTRA DIRECCION REGIONAL METROPOLITANA DE GENDARMERIA DE CHILE (NP)
 

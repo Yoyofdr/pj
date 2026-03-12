@@ -4,11 +4,11 @@ case_id: 2e23723334dcad73bebb2aef50d9790a7c19464a
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8053551
 
-rol: 8164-2026
+rol: 10582-2026
 
-fecha_sentencia: 2026-03-09
+fecha_sentencia: 2026-03-06
 
-caratulado: FLORES AMACHUY CARMEN LIDIA CONTRA SERVICIO NACIONAL DE MIGRACIONES DE CHILE
+caratulado: CANALES JEREZ CÉSAR ANTONIO CONTRA GENDARMERÍA DE CHILE
 
 sala: SEGUNDA, PENAL
 

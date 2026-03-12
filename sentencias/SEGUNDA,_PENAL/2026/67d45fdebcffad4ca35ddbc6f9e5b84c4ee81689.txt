@@ -4,30 +4,46 @@ case_id: 67d45fdebcffad4ca35ddbc6f9e5b84c4ee81689
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8053402
 
-rol: 10213-2026
+rol: 10635-2026
 
 fecha_sentencia: 2026-03-06
 
-caratulado: ST CHARLES VLADIMIR-ANDRE CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: VALLEJOS SOTO JOSÉ MANUEL CONTRA GENDARMERÍA DE CHILE
 
 sala: SEGUNDA, PENAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Recurso de Amparo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
 Santiago, seis de marzo de dos mil veintiséis.
-
-Visto y teniendo únicamente presente:
-Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de veinte de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N° 761-2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.
-
+Vistos:
+Se reproduce la sentencia en alzada, con excepción de sus motivos tercero a noveno, que se eliminan.
+Y se tiene, en su lugar, y, además, presente:
+Primero: Que se dedujo recurso de protección en favor de doña Karina Paola castillo Morales y del niño de iniciales MEDC, en contra de la División de Personal del Ejército de Chile, por el acto que consideran ilegal y arbitrario consistente en la dictación de la Resolución Exenta DIVPER AS JUR (R) N° 1595/6575/17149, de 24 de diciembre de 2024, que rechazó el recurso de reposición que fuera interpuesto en contra de un acto previo, que en el contexto de una investigación sumaria administrativa sustanciada a propósito del fallecimiento del conviviente de hecho y padre de los protegidos respectivamente, determinó que su deceso no ocurrió en acto de servicio ni accidente de trayecto, vulnerando de este modo la garantía que la Constitución Política de la República les asegura en su artículo 19 N° 2.
+Requirieron que el recurso fuera acogido, y se ordenase la adopción de las siguientes medidas:
+“(i.) anular o dejar sin efecto el acto atacado mediante este recurso de protección, ya especificado en el cuerpo de este escrito, retrotrayendo el proceso al estado previo a su decisión, para que una instancia revisora jerárquica no inhabilitada conozca y resuelva el recurso de reposición planteado por nuestra representación en el mentado procedimiento administrativo con pleno respeto, por parte de la recurrida, a ponderar legal y racionalmente los medios de prueba aportados y que se realicen las diligencias concretas solicitadas; (ii.) que asimismo, se pide que durante la sustanciación de este proceso, y sin perjuicio de la decisión de fondo del asunto, a propósito del objeto de la investigación sumaria incoada, lo que ha dañado a mi hijo y a mí, como se aprecia en los informes allegados, se obligue al Ejército a proporcionarnos el tratamiento médico y psicológico pertinente, tanto a mi hijo Martín Díaz Castillo como a mí, necesario para nuestra rehabilitación (iii.) toda otra medida que V.S. Iltma. estime como justa y necesaria, para el debido restablecimiento del Derecho y la protección de quienes recurrimos de protección, todo ello, con costas.”
+Segundo: Que, en su informe, la recurrida expuso los antecedentes de la investigación sumaria administrativa que derivó en la dictación del acto impugnado, y de los fundamentos que tuvo lo autoridad a la vista para ese propósito, descartando haber incurrido en un acto ilegal o arbitrario.
+Además, observó que el recurso de autos promueve una discusión respecto de la interpretación de una norma jurídica, es decir, una discusión de fondo, sin que concurra una falta de fundamentos como asevera, sino que no comparte la decisión adoptada, de modo que los protegidos carecen de un derecho indubitado. Junto con ello, apunta que el recurso de protección resulta inidóneo para resolver sus alegaciones, pues la controversia no reviste urgencia, en tanto existen otros mecanismos para hacer valer los derechos que se consideran lesionados, tales como la revisión de legalidad que el ente contralor debe efectuar sobre estos asuntos.
+Tercero: Que, el Recurso de Protección de Garantías Constitucionales, establecido en el artículo 20 de la Constitución Política de Chile, constituye jurídicamente una acción de naturaleza cautelar, destinada a amparar el legítimo ejercicio de las garantías y derechos preexistentes que en esa misma disposición se enumeran, mediante la adopción de medidas de resguardo que se deben tomar ante un acto u omisión arbitrario o ilegal que impida, amague o moleste ese ejercicio, resultando, entonces, requisito indispensable de la acción, un acto u omisión ilegal esto es, contrario a la ley, o arbitrario –producto del mero capricho de quién incurre en él- y que provoque algunas de las situaciones o efectos que se han indicado, afectando a una o más de las garantías protegidas.
+Cuarto: Que, para resolver el asunto sometido a conocimiento de esta Corte, cabe tener presente que los administrados se encuentran facultados para solicitar la revisión de los actos emanados de los órganos del Estado mediante los denominados recursos administrativos, pero también a través del denominado control jurisdiccional, asunto que queda radicado en los tribunales ordinarios, salvo en aquellos casos que la legislación establezca un mecanismo específico de impugnación ante un tribunal especial.
+Quinto: Que, el libelo asevera que el acto impugnado es arbitrario, por carecer de fundamentos y no valorar adecuadamente la prueba presentada; y, a su vez, resulta ilegal por infringir los artículos 3 y 41 de la ley N°19.880, lo que engarza con una vulneración de los principios de imparcialidad y objetividad, tanto en la dictación de las resoluciones como en el desarrollo del procedimiento, enfatizando que se denegó la realización de diversas diligencias e incorporación de pruebas documentales. De lo anterior colige una afectación al debido proceso, tachando la investigación como incompleta.
+Por su parte, lo pedido, en suma, corresponde a la declaración de nulidad del acto impugnado, retrotrayendo el procedimiento administrativo, para un nuevo pronunciamiento, junto con proporcionar a los protegidos tratamiento médico y psicológico.
+Sexto: Que, sobre el particular, y en relación a la petición de la parte recurrente de anular la resolución impugnada, cabe señalar que esta acción de protección de garantías constitucionales no es la vía para solicitar la revisión del mérito de un procedimiento administrativo reglado, pues ésta es una acción cautelar de protección y no de revisión administrativa, dado que el control que se ejerce por la presente vía no se encuentra naturalmente destinado a evaluar aspectos aquellos de las actuaciones cumplidas en un sumario administrativo.
+Así las cosas, no es pertinente intentar que, por esta vía constitucional de emergencia, se revise la investigación y la decisión a que se arriba sobre la base del merecimiento establecido por el funcionario a cargo de aquella, en la vista o dictamen evacuado a su término; y finalmente la medida terminal adoptada.
+Séptimo: Que la naturaleza propia de la acción constitucional en examen, y el procedimiento dispuesto para su tramitación, determinan entonces que no sea procedente este arbitrio para discutir y resolver materias propias de un procedimiento declarativo o de lato conocimiento que supone el caso de autos, lo que se refleja en el mismo petitorio de la acción, en cuanto solicita que esta Corte califique el mérito de la investigación realizada y de su resultado, declarando la nulidad de la decisión de la autoridad competente.
+En consecuencia, el asunto recurrido no es una materia que corresponda ser dilucidada por este medio, puesto que no puede utilizarse como una nueva o distinta instancia de impugnación en un procedimiento reglado.
+Octavo: Que, por su parte, en lo relativo a la imposición a la recurrida de la obligación de satisfacer prestaciones de atención de salud, se debe advertir que la dicha declaración de derechos colisiona también con el carácter cautelar y urgente de la acción intentada, que supone la prexistencia de un derecho amparado por este mecanismo, de modo que la petición en análisis ha sido promovida en una sede que no resulta idónea para su conocimiento y resolución.
+Noveno: Que, en virtud de lo indicado, el recurso de protección deducido no puede prosperar, dejándose a salvo los derechos que pueda hacer valer la recurrente conforme a los procedimientos administrativos pertinentes, o a través del ejercicio de las acciones ordinarias que le asistan.
+Por estos fundamentos y lo dispuesto por el artículo 20 de la Constitución Política de la República y Auto Acordado de esta Corte sobre la materia, se revoca la sentencia apelada de fecha veintidós de septiembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Santiago, y en su lugar se declara que se rechaza el recurso de protección.
+Redacción a cargo del Ministro (s) Sr. Contreras.
 Regístrese y devuélvase.
-
-Rol N° 10.213-2026.
+Rol N° 41.915-2025.
+Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los Ministros (as) Sr. Gonzalo Ruz L., Sra. Eliana Quezada M. (s), Sr. Roberto Contreras O. (s) y Sra. Dobra Lusic N. (s) y por la Abogada Integrante Sra. María Angélica Benavides C. No firman, no obstante haber concurrido a la vista y al acuerdo de la causa, las Ministras Sra. Quezada por no encontrarse disponible su dispositivo electrónico de firma y Sra. Lusic por haber cesado en funciones.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------

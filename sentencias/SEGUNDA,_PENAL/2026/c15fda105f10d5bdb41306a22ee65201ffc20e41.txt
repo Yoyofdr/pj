@@ -4,11 +4,11 @@ case_id: c15fda105f10d5bdb41306a22ee65201ffc20e41
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8053593
 
-rol: 10635-2026
+rol: 10459-2026
 
-fecha_sentencia: 2026-03-09
+fecha_sentencia: 2026-03-06
 
-caratulado: VALLEJOS SOTO JOSÉ MANUEL CONTRA GENDARMERÍA DE CHILE
+caratulado: MENESES GONZÁLEZ EMANUEL CONTRA GENDARMERÍA DE CHILE
 
 sala: SEGUNDA, PENAL
 
@@ -16,7 +16,7 @@ materias: ▪ Recurso de Amparo
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
