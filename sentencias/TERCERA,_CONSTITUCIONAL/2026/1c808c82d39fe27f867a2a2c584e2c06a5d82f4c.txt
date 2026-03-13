@@ -4,11 +4,11 @@ case_id: 1c808c82d39fe27f867a2a2c584e2c06a5d82f4c
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047755
 
-rol: 6855-2026
+rol: 6599-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: ARAYA/ISAPRE CRUZ BLANCA S.A.
+caratulado: JORGE ALEX HANEWALD MUÑOZ /SUPERINTENDENCIA DE SEGURIDAD SOCIAL
 
 sala: TERCERA, CONSTITUCIONAL
 
