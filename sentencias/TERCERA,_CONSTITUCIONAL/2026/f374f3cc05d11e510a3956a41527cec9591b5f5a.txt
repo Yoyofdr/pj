@@ -4,15 +4,15 @@ case_id: f374f3cc05d11e510a3956a41527cec9591b5f5a
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047706
 
-rol: 48598-2025
+rol: 34810-2025
 
 fecha_sentencia: 2026-03-04
 
-caratulado: GONZALEZ FERRER / SERVICIO NACIONAL DE MIGRACIONES
+caratulado: ANONIMIZADO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Migración y Extranjería
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
