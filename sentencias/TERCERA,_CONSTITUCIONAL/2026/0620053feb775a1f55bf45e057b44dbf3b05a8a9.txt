@@ -4,11 +4,11 @@ case_id: 0620053feb775a1f55bf45e057b44dbf3b05a8a9
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041256
 
-rol: 5952-2026
+rol: 138-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: PARDO/ISAPRE VIDA TRES S.A.
+caratulado: JOSEPH ELISEMENE JEAN/SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
