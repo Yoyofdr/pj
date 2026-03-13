@@ -8,7 +8,7 @@ rol: 4238-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: RANGEL/ELIZALDE
+caratulado: RODRIGUEZ/ELIZALDE
 
 sala: TERCERA, CONSTITUCIONAL
 
