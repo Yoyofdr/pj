@@ -4,19 +4,19 @@ case_id: 74912feefe5ea5d289bd74bb342c0e68823a2e58
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044527
 
-rol: 3556-2025
+rol: 32789-2025
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-02-26
 
-caratulado: SERVICIO DE SALUD OSORNO C/ ERNESTO LÓPEZ CASTRO Y OTROS
+caratulado: PEREZ OJEDA PABLO/CONTRALORÍA GENERAL DE LA REPÚBLICA
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Admisibilidad del recurso de casación en el fondo
+materias: ▪ Becas
 
-recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: RECHAZA CASACION EN EL FONDO
+resultado_recurso: REVOCADA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

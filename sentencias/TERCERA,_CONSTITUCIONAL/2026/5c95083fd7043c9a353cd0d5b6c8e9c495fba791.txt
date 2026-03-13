@@ -4,17 +4,17 @@ case_id: 5c95083fd7043c9a353cd0d5b6c8e9c495fba791
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044665
 
-rol: 46560-2025
+rol: 56833-2025
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-02-26
 
-caratulado: ROMERO MORALES OSCAR ERNESTO CONTRA SERVICIO DE SALUD TARAPACÁ Y OTRO
+caratulado: MONTIEL VADE, ASTRID ALEJANDRA/PHILLIPS REYNOLD, STEVEN
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Función pública
+materias: ▪ Educación
 
-recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

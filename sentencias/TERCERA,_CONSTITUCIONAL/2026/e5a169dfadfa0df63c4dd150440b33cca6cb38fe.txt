@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044585
 
 rol: 57038-2025
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-02-26
 
 caratulado: ILUSTRE MUNICIPALIDAD DE FUTRONO C/ PATRICIA DEL PILAR FERNANDEZ CATALAN
 

@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044581
 
 rol: 7523-2026
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-02-26
 
 caratulado: OROSTEGUI CAMUS DAYANA ESTEFANIA CONTRA ILTMA. CORTE DE APELACIONES DE SAN MIGUEL
 
