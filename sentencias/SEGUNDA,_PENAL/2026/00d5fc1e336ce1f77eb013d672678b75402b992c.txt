@@ -4,19 +4,19 @@ case_id: 00d5fc1e336ce1f77eb013d672678b75402b992c
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8043202
 
-rol: 5666-2026
+rol: 6046-2026
 
 fecha_sentencia: 2026-02-26
 
-caratulado: MONTERO SAAVEDRA MAYGER RENE CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: KENTIA COMPERE CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) RECLAMO NACIONALIDAD
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

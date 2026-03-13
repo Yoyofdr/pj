@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8043209
 
 rol: 5281-2026
 
-fecha_sentencia: 2026-02-25
+fecha_sentencia: 2026-02-26
 
 caratulado: TOBAR MEZA KEYLA ANDREA / ALONSO FUENTES INVERSIONES E INMOBILIARIA ALFONSO FUENTES E.I.R.L
 
@@ -14,7 +14,7 @@ sala: PRIMERA, CIVIL
 
 materias: ▪ Admisibilidad del recurso de casación en la forma
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) RECLAMO NACIONALIDAD
 
 resultado_recurso: INADMISIBLE CASACIÓN FORMA
 

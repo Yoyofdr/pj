@@ -4,19 +4,19 @@ case_id: a50a139e6c4976ab70c3cf6ffa5acd82df86cee2
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8042447
 
-rol: 58006-2025
+rol: 53011-2025
 
 fecha_sentencia: 2026-02-26
 
-caratulado: CORPORACIÓN EDUCACIONAL NUEVA AURORA DE CHILE/I. MUNICIPALIDAD DE RECOLETA
+caratulado: CORREA/SERVICIO NACIONAL DE. MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: (CIVIL) RECLAMO NACIONALIDAD
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) RECLAMO NACIONALIDAD
 
-resultado_recurso: REVOCADA SENTENCIA APELADA
+resultado_recurso: DESISTIDO RECURSO
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

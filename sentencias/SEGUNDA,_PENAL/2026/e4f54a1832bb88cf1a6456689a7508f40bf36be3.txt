@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8043183
 
 rol: 6043-2026
 
-fecha_sentencia: 2026-02-25
+fecha_sentencia: 2026-02-26
 
 caratulado: SANDOVAL ZARATE HILARION CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) RECLAMO NACIONALIDAD
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

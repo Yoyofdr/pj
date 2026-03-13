@@ -14,7 +14,7 @@ sala: CUARTA, MIXTA
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) RECLAMO NACIONALIDAD
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
