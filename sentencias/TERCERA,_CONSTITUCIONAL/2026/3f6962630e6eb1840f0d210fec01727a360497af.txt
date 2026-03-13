@@ -4,17 +4,17 @@ case_id: 3f6962630e6eb1840f0d210fec01727a360497af
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8048772
 
-rol: 57430-2025
+rol: 50791-2025
 
 fecha_sentencia: 2026-03-04
 
-caratulado: LEIGH/SERVICIO NACIONAL DE MIGRACIONES
+caratulado: MIGUEL ANDRES BRITO UGARTE CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: (PENAL) NULIDAD
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (PENAL) NULIDAD
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 

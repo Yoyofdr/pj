@@ -4,17 +4,17 @@ case_id: 0cbd3621c58eb29be836c37a847b89c12dc5a732
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049013
 
-rol: 43057-2025
+rol: 39962-2025
 
 fecha_sentencia: 2026-03-04
 
-caratulado: CLAUDIA CAROLINA MEDINA UZCATEGUI/SERVICIO DE MIGRACIONES
+caratulado: SÁNCHEZ CHOQUE FRANCLER CONYTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: ▪ Migración y Extranjería
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (PENAL) NULIDAD
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

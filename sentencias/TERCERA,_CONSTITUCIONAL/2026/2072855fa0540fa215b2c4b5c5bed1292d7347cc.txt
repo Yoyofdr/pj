@@ -4,17 +4,17 @@ case_id: 2072855fa0540fa215b2c4b5c5bed1292d7347cc
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049339
 
-rol: 3756-2026
+rol: 3379-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: FUENTES LARA JORGE LUIS/SUSESO-COMPIN
+caratulado: BASTIDAS/SERVICIO DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) HECHO
+materias: (PENAL) NULIDAD
 
-recurso: (CRIMEN) HECHO
+recurso: (PENAL) NULIDAD
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
