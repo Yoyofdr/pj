@@ -4,15 +4,15 @@ case_id: 46dfd87456b7a01b01a39e479076249722dfae18
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040418
 
-rol: 7770-2026
+rol: 48930-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: YISSEL DEL VALLE GRANADO GIL/ADMINISTRADORA DE FONDOS DE PENSIONES MODELO S.A.
+caratulado: BOSCAN/RAMOS
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Previsional
+materias: ▪ Migración y Extranjería
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 

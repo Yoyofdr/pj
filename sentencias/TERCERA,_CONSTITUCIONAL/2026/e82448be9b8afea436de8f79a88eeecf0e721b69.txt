@@ -4,11 +4,11 @@ case_id: e82448be9b8afea436de8f79a88eeecf0e721b69
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8039951
 
-rol: 5423-2026
+rol: 5952-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: DE MICHELI VERÓNICA EMMA /ISAPRE CRUZ BLANCA S.A.
+caratulado: PARDO/ISAPRE VIDA TRES S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
