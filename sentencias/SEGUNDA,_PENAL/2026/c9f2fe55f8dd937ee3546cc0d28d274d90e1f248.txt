@@ -4,11 +4,11 @@ case_id: c9f2fe55f8dd937ee3546cc0d28d274d90e1f248
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046549
 
-rol: 7944-2026
+rol: 7206-2026
 
 fecha_sentencia: 2026-03-03
 
-caratulado: BARRIOS CABEZA ALEJANDRO CONTRA COMISIÓN DE LIBERTAD CONDICIONAL
+caratulado: CASTILLO POBLETE LUIS EULOGIO CONTRA GENDARMERIA DE CHILE
 
 sala: SEGUNDA, PENAL
 

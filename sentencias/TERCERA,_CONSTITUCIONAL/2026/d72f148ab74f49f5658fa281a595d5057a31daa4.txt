@@ -4,19 +4,19 @@ case_id: d72f148ab74f49f5658fa281a595d5057a31daa4
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046754
 
-rol: 54129-2025
+rol: 54442-2025
 
 fecha_sentencia: 2026-03-03
 
-caratulado: MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES/MUNICIPALIDAD DE TEMUCO
+caratulado: SERVICIO DE VIVIENDA Y URBANIZACIÓN BIOBIO EN FAVOR DE RICARDO ESTEBAN Y OTROS/RENÉ ALEJANDRO ESCALONA ISLA
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Bienes nacionales de uso público, bienes fiscales y municipales
+materias: ▪ Derecho a la honra, a la imagen y a la vida privada, libertad de expresión
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA EN LO APELADO
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
