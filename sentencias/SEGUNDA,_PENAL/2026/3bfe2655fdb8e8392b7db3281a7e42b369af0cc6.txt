@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045140
 
 rol: 6219-2026
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-03-02
 
 caratulado: LOPEZ RIOS YERSON ANTONIO CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

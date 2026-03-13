@@ -4,19 +4,19 @@ case_id: c402e1a205a9411de6a771bee1a1188eaffd28cb
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045803
 
-rol: 6227-2026
+rol: 6230-2026
 
 fecha_sentencia: 2026-03-02
 
-caratulado: FENISE FELE CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: FRANTZ-CIE FLEURIDORT CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

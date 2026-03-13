@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045126
 
 rol: 3463-2026
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-03-02
 
 caratulado: MINERA LAS CENIZAS S.A./DE LA BARRERA LAISELLE, OSCAR GUILLERMO Y OTRO
 
@@ -14,7 +14,7 @@ sala: PRIMERA, CIVIL
 
 materias: ▪ Admisibilidad del recurso de casación en el fondo
 
-recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: INADMISIBLE CASACIÓN FORMA RECHAZADA, CASACIÓN FON
 
