@@ -4,17 +4,17 @@ case_id: c110156f61c666ef341a856f23a8f4ae18905bae
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049434
 
-rol: 27336-2025
+rol: 37931-2025
 
 fecha_sentencia: 2026-03-04
 
-caratulado: CHIRINOS/SERVICIO NACIONAL DE MIGRACIONES ONES
+caratulado: SERGIO CABRERA PLACENCIA EN FAVOR DE J.D.C.L. /SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) HECHO
+materias: ▪ Migración y Extranjería
 
-recurso: (CRIMEN) HECHO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 

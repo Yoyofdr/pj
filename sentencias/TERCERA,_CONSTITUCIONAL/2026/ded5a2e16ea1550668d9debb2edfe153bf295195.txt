@@ -4,17 +4,17 @@ case_id: ded5a2e16ea1550668d9debb2edfe153bf295195
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049001
 
-rol: 55428-2025
+rol: 43930-2025
 
 fecha_sentencia: 2026-03-04
 
-caratulado: DE LA VEGA/ SUPERINTENDENCIA DE SEGURIDAD SOCIAL
+caratulado: MIGUEL ANDRÉS SÁEZ SALINAS/ISAPRE NUEVA MASVIDA S.A
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) HECHO
+materias: ▪ Salud
 
-recurso: (CRIMEN) HECHO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

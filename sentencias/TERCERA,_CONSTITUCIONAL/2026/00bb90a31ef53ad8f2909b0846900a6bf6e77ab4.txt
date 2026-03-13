@@ -4,19 +4,19 @@ case_id: 00bb90a31ef53ad8f2909b0846900a6bf6e77ab4
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049421
 
-rol: 46511-2025
+rol: 27336-2025
 
 fecha_sentencia: 2026-03-04
 
-caratulado: MOYA/MINISTERIO DEL INTERIOR Y DE LA SUBSECRETARÍA DEL INTERIOR
+caratulado: CHIRINOS/SERVICIO NACIONAL DE MIGRACIONES ONES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) HECHO
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) HECHO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

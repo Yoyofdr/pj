@@ -4,19 +4,19 @@ case_id: fd087be83d6495ed7f980b386c7b4b65fe7372ac
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049406
 
-rol: 33976-2025
+rol: 23579-2025
 
 fecha_sentencia: 2026-03-04
 
-caratulado: FRAUENBERG/ISAPRE ESENCIAL S.A.
+caratulado: DIAZ TORRES / SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Salud
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

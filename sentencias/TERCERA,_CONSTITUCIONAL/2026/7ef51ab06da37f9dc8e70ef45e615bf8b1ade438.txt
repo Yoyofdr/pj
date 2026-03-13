@@ -4,19 +4,19 @@ case_id: 7ef51ab06da37f9dc8e70ef45e615bf8b1ade438
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049396
 
-rol: 43930-2025
+rol: 27327-2025
 
 fecha_sentencia: 2026-03-04
 
-caratulado: MIGUEL ANDRÉS SÁEZ SALINAS/ISAPRE NUEVA MASVIDA S.A
+caratulado: DUQUE/SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Salud
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) HECHO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

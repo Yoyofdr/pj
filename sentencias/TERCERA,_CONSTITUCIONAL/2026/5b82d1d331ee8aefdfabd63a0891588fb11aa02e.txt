@@ -4,19 +4,19 @@ case_id: 5b82d1d331ee8aefdfabd63a0891588fb11aa02e
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8048833
 
-rol: 27402-2025
+rol: 46511-2025
 
 fecha_sentencia: 2026-03-04
 
-caratulado: FELIPE ANDRES VARGAS MARTINEZ/ SUPERINTENDENCIA DE SEGURIDAD SOCIAL
+caratulado: MOYA/MINISTERIO DEL INTERIOR Y DE LA SUBSECRETARÍA DEL INTERIOR
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) HECHO
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) HECHO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

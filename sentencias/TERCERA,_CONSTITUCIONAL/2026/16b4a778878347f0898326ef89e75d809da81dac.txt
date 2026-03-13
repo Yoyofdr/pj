@@ -4,15 +4,15 @@ case_id: 16b4a778878347f0898326ef89e75d809da81dac
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049335
 
-rol: 39962-2025
+rol: 35998-2025
 
 fecha_sentencia: 2026-03-04
 
-caratulado: SÁNCHEZ CHOQUE FRANCLER CONYTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: EFFER ROLDÁN BRIAN ALEXANDER/MINISTERIO DEL INTERIOR Y OTRO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Migración y Extranjería
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
