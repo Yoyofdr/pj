@@ -4,19 +4,19 @@ case_id: 9d7bb97a92a7bd42865935496873954156fc4740
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040766
 
-rol: 17938-2024
+rol: 35497-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: IMELSA S.A. CON DIRECTOR EJECUTIVO DEL SERVICIO DE EVALUACION AMBIENTAL
+caratulado: ANONIMIZADO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Sistema de Evaluación de impacto ambiental (SEIA)
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: SENTENCIA DE REEMPLAZO
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
