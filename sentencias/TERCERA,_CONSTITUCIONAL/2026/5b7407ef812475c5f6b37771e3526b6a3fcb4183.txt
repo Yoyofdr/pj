@@ -4,17 +4,17 @@ case_id: 5b7407ef812475c5f6b37771e3526b6a3fcb4183
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040755
 
-rol: 36552-2025
+rol: 38184-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: PEREZ/DIRECCIÓN GENERAL DE ASUNTOS CONSULARES, MINISTERIO DE RELACIONES EXTERIORES
+caratulado: RAMIREZ NAVARRO ORNELIS DEL VALLE / SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Migración y Extranjería
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

@@ -4,19 +4,19 @@ case_id: fe894da4b2f9b10a84bd479953556dfeaf22adb9
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040964
 
-rol: 35497-2025
+rol: 58460-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: ANONIMIZADO
+caratulado: GUILLEN/SUBSECRETARÍA DEL INTERIOR MINISTERIO DEL INTERIOR
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
