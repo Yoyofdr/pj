@@ -1,0 +1,2579 @@
+METADATA
+
+case_id: 09d53167e09e3a3586443d9a092a343de374a932
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8061289
+
+rol: 6210-2026
+
+fecha_sentencia: 2026-03-12
+
+caratulado: JESSICA ALEJANDRA JARAMILLO CUEVAS/FISCO DE CHILE
+
+sala: CUARTA, MIXTA
+
+materias: (CIVIL) CASACIÓN FONDO
+
+recurso: (CIVIL) CASACIÓN FONDO
+
+resultado_recurso: INADMISIBLE,UNIFICACIÓN DE JURISPRUDENCIA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+PAGE
+Santiago, doce de marzo de dos mil veintiséis.
+
+Vistos y teniendo presente:
+Primero: Que, en estos autos Rol Corte Suprema N°1386-2026, caratulados “Ready Mix Hormigones Limitada con Fisco de Chile”, procedimiento de reclamo regulado por el artículo 171 del Código Sanitario, se ha ordenado dar cuenta, de conformidad con lo dispuesto por el artículo 782 del Código de Procedimiento Civil, del recurso de casación en el fondo deducido por la parte reclamante, en contra de la sentencia de la Corte de Apelaciones de Antofagasta que confirmó la de primera instancia, que rechazó la reclamación.
+
+Segundo: Que el recurso denuncia la infracción del artículo 184 del Código del Trabajo, en cuanto el fallo impugnado concluye que no existieron medidas preventivas que impidieran el desenlace fatal, no obstante los protocolos, inducciones, charlas y monitoreo que la empresa implementó. En este sentido, se interpretó el deber de seguridad como un régimen de responsabilidad objetiva y una obligación de resultado, en circunstancias que consta en autos que la actora contaba con estándares de seguridad para suprimir los factores de riesgo, todos los cuales detalla en su libelo.
+
+Tercero: Que culmina señalando que el yerro anterior tuvo influencia sustancial en lo dispositivo del fallo, por cuanto se le atribuyó responsabilidad por la sola ocurrencia del accidente del trabajo, aun cuando implementó medidas eficaces para que el hecho no se verificara.
+
+Cuarto: Que los antecedentes versan sobre el reclamo que, al amparo del artículo 171 del Código Sanitario, dedujo Ready Mix Hormigones Limitada, en contra de la Secretaría Regional Ministerial de Salud de Antofagasta, por la dictación de la Resolución N°2202679 de 3 de agosto del año 2022, que le cursó una multa de 300 Unidades Tributarias Mensuales, en razón de infracciones a la normativa de seguridad laboral, en el contexto de un accidente fatal ocurrido el día 23 de noviembre de 2021.
+
+Quinto: Que la sentencia de primer grado, confirmada sin modificaciones por el fallo impugnado, concluye que la actora incurrió en una serie de omisiones en cuanto a la implementación de medidas de prevención y capacitación respecto de los riesgos asociados a la conducción de camiones en rutas de alta peligrosidad, estableciéndose así las infracciones normativas, que fueron constatadas a través del procedimiento sancionatorio, circunstancia que condujo a la aplicación de sanciones dentro de los límites legales y que se ajustan a la entidad de aquéllas.
+
+En este sentido, se razona que la resolución impugnada es resultado de un sumario legalmente tramitado, en el cual hubo oportunidad de defensa y rendición de prueba, que resultó insuficiente para desvirtuar las imputaciones, todo lo cual motiva el rechazo, tanto de la demanda principal como de la solicitud subsidiaria de rebaja.
+
+Sexto: Que el recurso de casación en estudio centra sus esfuerzos argumentativos en señalar que la empresa habría acreditado la implementación de medidas preventivas que resultaban aptas y eficaces para evitar el accidente ocurrido, a pesar de lo cual la autoridad administrativa y luego el fallo impugnado, interpretan el deber de seguridad como un régimen de responsabilidad objetiva y la sancionan igualmente, por la sola ocurrencia de los hechos, a pesar de los estándares de seguridad que cumplió para suprimir los factores de riesgo.
+
+Séptimo: Que, sin embargo, la adopción de tales medidas de seguridad no resultó un hecho establecido en la causa; por el contrario, el fallo es claro en concluir una serie de omisiones en su implementación.
+
+Se advierte, de este modo, que el recurso de casación en el fondo intenta variar los hechos del proceso, proponiendo otros que a juicio de la parte actora estarían acreditados y que no fueron asentados por el fallo impugnado, cuestión que es ajena a un arbitrio de esta especie, destinado a invalidar una sentencia en los casos expresamente establecidos por la ley. En efecto, a través del recurso de casación se analiza la legalidad de una sentencia, lo que significa que se realiza un escrutinio respecto de la aplicación correcta de la ley y el derecho, pero los hechos, como los han dado por probados o sentados los jueces del fondo no pueden modificarse por esta Corte, a menos que se haya denunciado y comprobado la efectiva infracción de normas reguladoras del valor legal de la prueba, cuyo no es el caso de autos.
+
+Lo anterior provoca que los hechos asentados en la sentencia recurrida resulten inamovibles para este Tribunal de Casación, de modo que el recurso en estudio, en tanto se construye contra ellos, no puede prosperar.
+
+Octavo: Que, en consecuencia, el arbitrio anulatorio no podrá ser acogido, atendida su manifiesta falta de fundamento.
+Por estas consideraciones y de conformidad, además, con lo prevenido en los artículos 764, 767, 772 y 782, todos del Código de Procedimiento Civil, se rechaza el recurso de casación en el fondo interpuesto por la parte reclamante, en contra de la sentencia de fecha cinco de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Antofagasta.
+Regístrese y devuélvase.
+
+Rol N°1.386-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+/jvz
+
+Antofagasta, cinco de diciembre de dos mil veinticinco.
+
+VISTOS:
+
+Atendido el mérito de los antecedentes y visto lo dispuesto en los artículos 186 y siguientes del Código de Procedimiento Civil, SE CONFIRMA, sin costas la resolución apelada de fecha siete de enero de dos mil veinticinco, dictada en causa Rol C-2213-2022 por el Segundo Juzgado de Letras Civil de Antofagasta.
+
+Regístrese y comuníquese.
+
+Rol 350-2025 (Civil)
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+NOMENCLATURA : 1. [40]SENTENCIA.
+
+JUZGADO : 2º JUZGADO DE LETRAS CIVIL DE
+
+ANTOFAGASTA.
+
+ROL : C-2213-2022
+
+CARATULADO : READY MIX HORMIGONES LIMITADA/FISCO DE
+
+CHILE- SEREMI SALUD DE ANTOFAGASTA
+
+En Antofagasta, a siete de enero del año dos mil veinticinco.
+
+VISTOS:
+
+A folio 1 comparece Luis Alfredo Navarro Egaña, abogado,
+
+cédula nacional de identidad N°4.774.062-2, mandatario
+
+judicial de READY MIX HORMIGONES LIMITADA, sociedad del giro
+
+de su denominación, RUT N°87.580.800-1, todos con domicilio
+
+para estos efectos en Panamericana Norte 1352, sector La
+
+Negra, comuna de Antofagasta, quien de conformidad a lo
+
+dispuesto en el artículo 171 del Código de Procedimiento
+
+Civil, deduce reclamación judicial en contra de la multa
+
+administrativa sanitaria cursada por la SECRETARÍA REGIONAL
+
+MINISTERIAL DE SALUD DE LA REGIÓN ANTOFAGASTA, representada
+
+legalmente por doña Jéssica Andrea Bravo Rodríguez, aplicada
+
+por medio de resolución N°2202679, de fecha 3 de agosto de
+
+2022, notificada el 9 de agosto del mismo año, la cual se
+
+originó por infracciones relacionadas con un accidente fatal
+
+ocurrido en noviembre de 2021 en la ruta 23, donde falleció
+
+el trabajador José Antonio Cifuentes Castillo, quien operaba
+
+un camión mixer de la empresa, y solicita que se deje sin
+
+efecto la multa aplicada o, en su defecto, se reduzca el
+
+monto de la multa, con costas.
+
+Relata que los hechos que motivaron la multa se
+
+originaron por un accidente fatal ocurrido el 23 de noviembre
+
+de 2021 en la ruta 23, donde falleció José Antonio Cifuentes
+
+Castillo, operador de camión mixer de la empresa que
+
+representa.
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Explica que durante una inspección realizada el 18 de
+
+febrero de 2022, la autoridad sanitaria levantó un acta
+
+señalando deficiencias relacionadas con infracciones
+
+sanitarias. Entre las deficiencias mencionadas se identificó
+
+la falta de análisis de riesgos y charlas de seguridad,
+
+además de la ausencia de un procedimiento que detallara los
+
+pasos a seguir en actividades como la conducción en ruta y
+
+las medidas preventivas para evitar accidentes. También
+
+indica que se constató un control deficiente de las
+
+actividades realizadas por los conductores, a pesar de contar
+
+con una plataforma tecnológica de monitoreo. Asimismo, se
+
+indicó que no se entregaron procedimientos ni evaluaciones
+
+prácticas al trabajador fallecido.
+
+Manifiesta que, según el acta inspectiva, la
+
+documentación presentada por la empresa evidenció que los
+
+riesgos evaluados en su matriz eran generales y no
+
+específicos para la actividad de traslado de hormigón fresco,
+
+lo que implicó en que la autoridad administrativa considera
+
+que existe una infracción a normas sanitarias y laborales,
+
+derivando en la imposición de una multa de 300 UTM.
+
+Explica que, pese a los descargos realizados el 31 de
+
+marzo de 2022, la autoridad concluyó que los factores de
+
+riesgo involucrados en la operación no habían sido
+
+subsanados, destacó la falta de procedimientos y controles,
+
+así como la ausencia de capacitación en relación con los
+
+riesgos inherentes a la actividad del trabajador afectado.
+
+Finalmente, indica que los hechos descritos fueron
+
+considerados infracciones a los artículos 3, 36, 37 y 53 del
+
+Decreto Supremo N°594 de 1999 del Ministerio de Salud y al
+
+artículo 21 del Decreto Supremo N°40 de 1969 del Ministerio
+
+de Trabajo y Previsión Social.
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Enseguida, alega la prescripción de la multa, señalando
+
+que ésta fue notificada el 09 de agosto de 2022, más de seis
+
+meses después de los hechos que la motivaron, lo que excede
+
+el plazo de prescripción aplicable conforme al artículo 94
+
+del Código Penal, e indica que la Contraloría General de la
+
+República ha sostenido que, en ausencia de una norma
+
+específica, debe aplicarse el plazo establecido en el Derecho
+
+Penal para las faltas.
+
+Además, expone que la resolución sancionatoria carece de
+
+motivación, infringiendo lo establecido en los artículos 8,
+
+11, 16 y 41 de la Ley N°19.880 y el artículo 19 N°3 de la
+
+Constitución. Argumenta que la resolución no explica cómo los
+
+hechos descritos configuran infracciones a las normas citadas
+
+ni analiza la prueba presentada, limitándose a imputaciones
+
+genéricas que vulneran el principio de legalidad y el derecho
+
+a defensa. Critica que la resolución omite antecedentes
+
+aportados por la empresa, como charlas de seguridad,
+
+documentación sobre rutas críticas y medidas preventivas.
+
+Por su parte, arguye la inexistencia de las infracciones
+
+imputadas, señalando que la empresa cumple con altos
+
+estándares de seguridad y capacitación. Detalla que el
+
+trabajador participó en un programa de inducción que incluyó
+
+acompañamiento en rutas, sesiones específicas sobre
+
+seguridad, y una charla el día del accidente. Además, indica
+
+que la empresa dispone de un procedimiento denominado
+
+“Instructivo para Operación de Camión Mixer” y de una
+
+plataforma tecnológica para monitorear eventos de conducción
+
+en tiempo real.
+
+Con relación a la matriz de riesgos, sostiene que esta
+
+incluye tareas asociadas al transporte de hormigón fresco,
+
+con riesgos evaluados y medidas de control. Rechaza la
+
+afirmación de la autoridad de que no se implementaron medidas
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+preventivas y critica la falta de una inspección física por
+
+parte de la SEREMI para fundamentar sus imputaciones.
+
+Finalmente, en subsidio, solicita la rebaja de la multa
+
+por considerar excesivo el monto de 300 UTM. Invoca
+
+jurisprudencia que respalda la facultad de los tribunales
+
+para modificar sanciones, señalando que las infracciones
+
+descritas en la resolución corresponden a un mismo hecho y
+
+vulneran el principio del non bis in ídem, al sancionar una
+
+misma hipótesis fáctica bajo diferentes imputaciones.
+
+Concluye solicitando además la declaración de ilegalidad de
+
+la resolución o, en caso subsidiario, la reducción de la
+
+multa impuesta.
+
+Por tanto, solicita tener por interpuesta la reclamación
+
+de multa administrativa en contra de la resolución dictada
+
+por la Secretaría Regional Ministerial de Salud de la Región
+
+de Antofagasta en resolución N°2202679 de fecha 03 de agosto
+
+de 2022, admitirlo a tramitación, solicitando en definitiva
+
+que se acoja el presente reclamo, declarando la prescripción
+
+de la multa aplicada en dicho acto, con expresa condenación
+
+en costas
+
+En subsidio de lo anterior, solicita que se acoja el
+
+presente reclamo, dejando sin efecto la multa aplicada por
+
+resolución N°2202679 de fecha 03 de agosto de 2022, por no
+
+ser procedente la misma, en atención a los argumentos de
+
+hecho y de derecho expuestos, con expresa condenación en
+
+costas.
+
+Finalmente, y en subsidio de lo anterior, solicita que
+
+se rebaje prudencialmente la multa cursada al mínimo legal
+
+señalado en el artículo 174 inciso primero del Código
+
+Sanitario, esto es un décimo de unidad tributaria mensual, o
+
+bien, aquel monto que se establezca discrecionalmente por
+
+este Tribunal considerando para ello los argumentos de hecho
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+y de derecho que sirvan como atenuantes, anteriormente
+
+expuestos.
+
+Consta que a folio 13 se llevó a efecto el comparendo de
+
+estilo, con la asistencia de la parte demandante, Ready Mix
+
+Hormigones Limitada, representado por el abogado Luis Alfredo
+
+Navarro Egaña y el apoderado Matías Moreno Serón, asimismo
+
+comparece la parte demandada, Fisco de Chile (Seremi de Salud
+
+de Antofagasta), representado por la apoderada María Rebeca
+
+Vergara Olivares. El Tribunal hace una breve relación de la
+
+demanda; la parte demandante ratifica la demanda, el Fisco de
+
+Chile, contesta la demanda mediante minuta escrita, y
+
+llamadas las partes a conciliación, ésta no se produjo.
+
+Consta que a folio 9 comparece María Rebeca Vergara
+
+Olivares, egresada de derecho, en representación de la
+
+SECRETARÍA REGIONAL MINISTERIAL DE SALUD DE LA REGIÓN
+
+ANTOFAGASTA, quien contesta la demanda mediante minuta
+
+escrita.
+
+En primer lugar, realiza un breve resumen de la
+
+reclamación deducida. Luego, alega la inexistencia de
+
+elementos que permitan declarar que la acción administrativa
+
+se encuentre prescrita. Sostiene que la reclamante confunde
+
+la inacción de la administración frente al hecho con la
+
+tramitación del procedimiento administrativo, afirmando que
+
+la prescripción operaría desde la fecha del hecho hasta la
+
+notificación de la resolución.
+
+Indica que la reclamante basa su posición en que el
+
+accidente del señor José Antonio Cifuentes Castillo ocurrió
+
+el 23 de noviembre de 2021, mientras que la resolución fue
+
+notificada el 9 de agosto de 2022, lo que superaría el plazo
+
+de seis meses. No obstante, dicha interpretación desconoce el
+
+tenor literal del artículo 2514 del Código Civil, que exige
+
+inactividad para configurar la prescripción extintiva.
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Argumenta que la fecha relevante no es la del accidente, sino
+
+el inicio del procedimiento administrativo, ocurrido el 18 de
+
+febrero de 2022 con el levantamiento del Acta de Inspección
+
+N°17403. Además, subraya que los actos procesales continuaron
+
+de manera constante, concluyendo con la Resolución Exenta
+
+N°2202679 dictada el 3 de agosto de 2022. Por consiguiente,
+
+sostiene que no ha existido inactividad ni ha transcurrido el
+
+plazo de prescripción invocado.
+
+En segundo lugar, argumenta que la excepción de
+
+prescripción ha precluido, ya que debió plantearse durante la
+
+tramitación del sumario sanitario, específicamente al
+
+contestar los cargos, lo que no ocurrió. En virtud del
+
+artículo 171 del Código Sanitario, aclara que el
+
+procedimiento de reclamación corresponde a un recurso de
+
+ilegalidad y no a una apelación, lo que limita al juez a
+
+revisar únicamente el actuar de la administración y no los
+
+hechos o fundamentos jurídicos en su totalidad. Además,
+
+sostiene que la preclusión implica la imposibilidad de
+
+realizar actos procesales fuera de los límites legales, por
+
+tanto, la reclamante perdió su derecho a alegar la
+
+prescripción.
+
+En subsidio, para el caso de que el tribunal considere
+
+que no ha operado la preclusión, sostiene que la excepción de
+
+prescripción debe igualmente ser rechazada, al no cumplirse
+
+los requisitos legales para su procedencia. Argumenta que la
+
+reclamante aplica erróneamente las normas penales de
+
+prescripción a un asunto contencioso administrativo, cuando
+
+corresponde aplicar las disposiciones del Código Civil.
+
+Además, destaca que la Secretaría Regional Ministerial de
+
+Salud tomó conocimiento del accidente el 23 de noviembre de
+
+2021 y que, posteriormente, el 18 de febrero de 2022, los
+
+fiscalizadores se constituyeron en el sitio del accidente. En
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+consecuencia, la administración actuó de manera diligente y
+
+constante, por lo que no corresponde acoger la prescripción.
+
+Por otro lado, afirma que la resolución impugnada se
+
+ajusta a derecho, ya que la sanción impuesta deriva de la
+
+correcta aplicación de las normas del Código Sanitario. En
+
+virtud del artículo 166, basta con el testimonio de dos
+
+personas o con el acta de constatación levantada por un
+
+funcionario para probar una infracción. Asimismo, el artículo
+
+171 exige que se cumplan tres elementos para rechazar una
+
+reclamación: que los hechos estén comprobados en el sumario,
+
+que constituyan infracciones, y que la sanción sea
+
+proporcional a la infracción.
+
+Sostiene que se constató que la reclamante incumplió
+
+diversas obligaciones relacionadas con la prevención de
+
+riesgos laborales, entre ellas: La ausencia de análisis de
+
+riesgos específicos y charlas de seguridad, la falta de un
+
+procedimiento detallado para la actividad realizada, el
+
+control deficiente de las actividades del conductor, el
+
+incumplimiento en la entrega de información completa sobre
+
+riesgos y medidas preventivas, la limitación de registros de
+
+inducción a aspectos generales, y la insuficiencia del
+
+documento "Matriz Ready Mix 2021", que no evaluó
+
+adecuadamente los riesgos. Afirma que estos incumplimientos
+
+configuran infracciones a los artículos 3, 36, 37 y 53 del
+
+Decreto Supremo N°594 y al artículo 21 del Reglamento sobre
+
+Prevención de Riesgos Profesionales.
+
+Finalmente, aclara que el tribunal carece de facultades
+
+para rebajar la multa impuesta, dado el carácter especial del
+
+procedimiento administrativo contemplado en el artículo 171
+
+del Código Sanitario. Argumenta que la gravedad del
+
+accidente, que resultó en la muerte de un trabajador,
+
+evidencia que la reclamante no adoptó las medidas necesarias
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+para proteger la vida y salud de sus trabajadores,
+
+incumpliendo así el Decreto Supremo N°594 y el Código del
+
+Trabajo. En conclusión, sostiene que la reclamación carece de
+
+sustento fáctico y jurídico y que la resolución debe
+
+mantenerse en todos sus términos, ya que cumple con los
+
+requisitos de fundamentación establecidos en la Ley N°19.880.
+
+Por todo, solicita que se sirva tener por contestada la
+
+reclamación mediante el presente escrito que solicita se
+
+tenga como parte integrante del comparendo decretado por el
+
+tribunal, y, en definitiva, conforme a los antecedentes de
+
+hecho y derecho analizados en él, rechazar la reclamación
+
+formulada contra la Resolución Exenta Resolución Exenta
+
+N°2202679, de 3 de agosto de 2022, de la SECRETARÍA REGIONAL
+
+MINISTERIAL DE SALUD DE ANTOFAGASTA, notificada a la
+
+reclamante con fecha 9 de agosto de 2022, conforme a la que
+
+se impuso a la reclamante una multa administrativa a 300 UTM,
+
+en todas sus partes, con costas.
+
+Consta que a folio 14 se recibió la causa a prueba,
+
+fijando los hechos sustanciales pertinentes y controvertidos,
+
+rindiéndose la que consta en autos. Y a folio 65 se citó a
+
+las partes a oír sentencia.
+
+CON LO RELACIONADO Y CONSIDERANDO:
+
+PRIMERO: En autos comparece don Luis Alfredo Navarro
+
+Egaña, abogado, en representación de READY MIX HORMIGONES
+
+LIMITADA, y conforme a lo preceptuado por el artículo 171 del
+
+Código Sanitario, interpuso reclamo judicial de la sanción
+
+administrativa impuesta por la SECRETARÍA REGIONAL
+
+MINISTERIAL DE SALUD DE ANTOFAGASTA, por el hecho de que se
+
+impusiera a su representada una multa mediante la Resolución
+
+N°2202679, de fecha 3 de agosto de 2022, notificada con fecha
+
+9 de agosto del mismo año, y solicita que se declare la
+
+prescripción de la misma. En subsidio, pide que se declare la
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+ilegalidad del acto administrativo por carecer de motivación,
+
+que se deje sin efecto por la inexistencia de las
+
+infracciones, y que se vulneró el principio de non bis in
+
+ídem, en su defecto, solicita que se reduzca prudencialmente
+
+su monto al mínimo legal permitido, con expresa condenación
+
+en costas.
+
+SEGUNDO: Por su parte, comparece doña María Rebeca
+
+Vergara Olivares, egresada de derecho, en representación de
+
+la SECRETARÍA REGIONAL MINISTERIAL DE SALUD DE ANTOFAGASTA,
+
+quien contestó la reclamación judicial interpuesta contra la
+
+Resolución Exenta N°2202679, y solicita el rechazo del
+
+reclamo, argumentando que los fundamentos presentados carecen
+
+de sustento jurídico. Alegó la inexistencia de elementos que
+
+permitan declarar prescrita la acción administrativa.
+
+Asimismo, destacó que la excepción de prescripción debió
+
+plantearse durante la tramitación del sumario sanitario, y al
+
+no haberse ejercido en el momento procesal oportuno, dicho
+
+derecho precluyó. Argumentó que el artículo 171 del Código
+
+Sanitario limita la reclamación a un recurso de ilegalidad,
+
+excluyendo la posibilidad de revisión íntegra de los hechos y
+
+fundamentos del procedimiento administrativo. En cuanto al
+
+fondo, manifestó que la resolución impugnada se ajusta a
+
+derecho, ya que se acreditaron las infracciones sanitarias,
+
+por lo que solicita que se rechace en todas sus partes la
+
+reclamación interpuesta contra la Resolución Exenta
+
+N°2202679, de fecha 3 de agosto de 2022, manteniéndola
+
+íntegramente, con costas.
+
+TERCERO: La parte reclamante, con el objeto de acreditar
+
+sus asertos, rindió los siguientes medios de prueba:
+
+I.- Documental:
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+1. Resolución N°2202679, de fecha 3 de agosto de 2022,
+
+pronunciada por Jéssica Andrea Bravo Rodríguez,
+
+Secretaria Regional Ministerial de Salud.
+
+2. Print de pantalla de página correos.cl, seguimiento
+
+N°888008429458.
+
+3. Copia del anverso y del reverso de la carta certificada
+
+de notificación.
+
+4. Contrato de trabajo suscrito entre Ready Mix Hormigones
+
+Limitada y don José Antonio Cifuentes Castillo, de fecha
+
+3 de noviembre de 2021.
+
+5. Denuncia individual de accidente del trabajo ante la
+
+Asociación Chilena de Seguridad, N°9000093234, de fecha
+
+24 de noviembre de 2021.
+
+6. Certificado de revisión técnica y certificado de
+
+emisiones contaminantes N°A0223000000023493, de fecha 10
+
+de agosto de 2021, correspondiente al vehículo placa
+
+patente GKWK26.
+
+7. Orden de mantenimiento N°50730409 CN 1663, de fecha 7 de
+
+mayo de 2021.
+
+8. Copia de orden de mantenimiento N°50745387 CN 1663,
+
+ejecutada con fecha 16 de julio de 2021.
+
+9. Orden de mantenimiento N°50761682, de fecha 24 de
+
+septiembre de 2021.
+
+10.Permiso de circulación del año 2021, emitido por la
+
+Ilustre Municipalidad de Mejillones, correspondiente al
+
+vehículo placa patente GKWK26.
+
+11. Seguro obligatorio de accidentes personales del año
+
+2021, emitido por Liberty Seguros, correspondiente al
+
+vehículo placa patente GKWK26.
+
+12. Licencia de conducir de don José Antonio Cifuentes
+
+Castillo, emitida por la Ilustre Municipalidad de Lo
+
+Espejo, de fecha 6 de febrero de 2017.
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+13. Inspección diaria a camión mixer, correspondiente
+
+al vehículo placa patente GKWK26, de fecha 23 de
+
+noviembre de 2021.
+
+14.Documento denominado “Instrucciones de seguridad para
+
+trabajo en terreno operador camión mixer”.
+
+15. Documento denominado “Webfleet Telemetría”.
+
+16. Documento denominado “rutas Críticas Planta Calama”
+
+17. Registro de inducción, obligación de informar
+
+riesgos laborales y medidas de prevención, de fecha 4 de
+
+noviembre de 2021, efectuado a don José Antonio
+
+Cifuentes Castillo.
+
+18. Formulario 01, denominado “Declaración de Evento”,
+
+correspondiente a declaración de don Alejandro Castillo.
+
+19. Formulario 01, denominado “Declaración de Evento
+
+Edgardo Menay”.
+
+20.Informe denominado “Evidencia de medidas preliminares
+
+inmediatas tomadas por la empresa a raíz del evento”,
+
+con sus anexos.
+
+21. Examen psicosensotécnico riguroso practicado a don
+
+José Antonio Cifuentes Castillo, de fecha 29 de octubre
+
+de 2021.
+
+22. Recepción de Reglamento Interno de Orden, Higiene y
+
+Seguridad y de Código de Ética de Ready Mix, firmados
+
+por don José Antonio Cifuentes Castillo, de fechas 3 y 8
+
+de noviembre de 2021, respectivamente.
+
+23. Currículum vitae de don José Antonio Cifuentes
+
+Castillo.
+
+24.Guía de despacho de Cementos Bío Bío S.A. N°002974503,
+
+de fecha 23 de noviembre de 2021.
+
+25. Documento denominado “Obligación de informar
+
+riesgos laborales operador camión mixer”.
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+26. Mapa de coordenadas de ubicación del accidente,
+
+correspondiente al vehículo placa patente GKWK26, de
+
+fecha 23 de noviembre de 2021, emitido por Webfleet.
+
+27. Correo electrónico enviado por don Esteban
+
+Fernández Pinilla, de fecha 22 de noviembre de 2021, a
+
+las 15:09 horas, con asunto “Logueo 3ra semana noviembre
+
+2021”.
+
+28.Correo electrónico enviado por don Esteban Fernández
+
+Pinilla, de fecha 22 de noviembre de 2021, a las 15:31
+
+horas, con asunto “KPI de la calidad conducción mixer”.
+
+29. Carta enviada a la Asociación Chilena de Seguridad,
+
+de fecha 19 de febrero de 2021, donde se remite copia de
+
+actualización del Reglamento Interno.
+
+30. Resolución de calificación de accidente sufrido por
+
+don José Antonio Cifuentes Castillo, N°000720895-0003,
+
+de fecha 6 de diciembre de 2021.
+
+31. Denuncia efectuada a la Fiscalía de Calama, de
+
+fecha 23 de noviembre de 2022, a las 12:10 horas.
+
+32.Documento denominado “Descripción de mantenimiento
+
+preventivo”, del mes de noviembre de 2021.
+
+33. Hoja de vida del conductor, don José Antonio
+
+Cifuentes Castillo, emitida por el Registro Civil, con
+
+fecha 27 de octubre de 2021.
+
+34. Acta de charla de seguridad, de fecha 10 de
+
+noviembre de 2021, en que consta la asistencia de don
+
+José Antonio Cifuentes Castillo.
+
+35. Acta de charla de seguridad, de fecha 23 de
+
+noviembre de 2021, en que consta la asistencia de don
+
+José Antonio Cifuentes Castillo.
+
+36.Documento denominado “Ingreso Operador Mixer Nuevo con
+
+Experiencia (OMNCE)”.
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+37. Matriz de riesgos, subproceso carga mixer y
+
+transporte.
+
+38. Registro GPS Webfleet, correspondiente al vehículo
+
+placa patente GKWK26, del día 23 de noviembre de 2021.
+
+39. Documento denominado “Estándares de Prevención de
+
+Fatalidades”.
+
+II.- Testimonial:
+
+Consta que a folio 40 comparece, María Loreto Atallah
+
+Leiva, y en cuanto al punto de prueba N°3, relata que la
+
+empresa Ready Mix implementó un sistema integral de seguridad
+
+que incluye la identificación de los procesos, peligros y
+
+evaluación de riesgos. Además, señala que realizamos la
+
+difusión correspondiente de estas medidas entre los
+
+trabajadores, el acompañamiento a los mismos, la
+
+implementación de controles, indicadores de cumplimiento y la
+
+gestión de consecuencias asociadas. Refiere que cuentan con
+
+una herramienta de identificación de peligros y evaluación de
+
+riesgos llamada Matriz HIPPER, que implementamos en todas las
+
+plantas de Ready Mix y personalizamos para cada una de ellas.
+
+En el caso específico de la planta Calama, construimos esta
+
+matriz junto con el jefe de planta, abordando todos los
+
+riesgos relacionados con los procesos realizados allí. La
+
+matriz es parte fundamental de la inducción inicial (ODI),
+
+que entregamos a todos los trabajadores nuevos y reforzamos
+
+de forma periódica a través de charlas y reuniones de
+
+seguridad. Estas charlas, denominadas "reuniones de
+
+seguridad", nos permiten fortalecer las medidas preventivas y
+
+recordar instrucciones. A partir de esta matriz, hemos
+
+desarrollado un manual o libro de instrucciones para la
+
+operación segura de camiones mixer. Este documento detalla
+
+desde la asignación de la guía de despacho, las rutas a
+
+seguir, hasta el procedimiento de carga, transporte y entrega
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+del hormigón fresco en la obra, incluyendo también las normas
+
+de seguridad, limpieza y retorno a la planta. Las reuniones
+
+de seguridad no solo refuerzan estas medidas, sino que
+
+también abarcan temas de los programas nacionales de salud
+
+ocupacional y las normas de seguridad interna.
+
+En la planta Calama, contamos con un Panel de Seguridad
+
+a la vista de los operadores de camiones mixer, donde
+
+publicamos actualizaciones sobre el estado de las rutas, en
+
+particular la ruta Calama-San Pedro de Atacama, conocida como
+
+crítica. Este panel incluye información detallada de los
+
+puntos de riesgo en la ruta, identificados por colores.
+
+Además, implementamos acompañamientos en ruta realizados por
+
+el jefe de planta o el prevencionista de riesgos. Para los
+
+operadores nuevos, asignamos conductores con mayor
+
+experiencia como copilotos, ayudándolos a familiarizarse con
+
+las rutas y condiciones locales. Desde mi rol, administro la
+
+gestión de seguridad y salud ocupacional en todas las razones
+
+sociales del grupo Cementos Bío Bío, entre las cuales se
+
+encuentra Ready Mix. Mi función abarca la implementación,
+
+supervisión y mejora continua de estas medidas en todas las
+
+plantas.
+
+Repreguntada para que diga la testigo, ¿qué riesgos se
+
+evalúan en la matriz de riesgos en relación a la conducción?
+
+Responde: La matriz de riesgos de Ready Mix evalúa diversos
+
+aspectos de la operación, comenzando con el ingreso y egreso
+
+del operador al camión mixer, asegurando que utilice los tres
+
+puntos de apoyo para evitar caídas. En cuanto a la conducción
+
+en ruta, evaluamos el cumplimiento de las velocidades máximas
+
+permitidas, el uso obligatorio de elementos de protección
+
+personal y la conducción a la defensiva, considerando las
+
+condiciones climáticas y de la ruta. En la obra, consideramos
+
+el posicionamiento del camión, las maniobras necesarias para
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+la entrega del hormigón y los riesgos asociados a la descarga
+
+del material. Finalmente, abordamos los riesgos específicos
+
+del trayecto de retorno, diferenciando entre camión con carga
+
+viva y sin ella, ya que el comportamiento del vehículo varía
+
+considerablemente.
+
+Repreguntada para que diga la testigo si la empresa
+
+realiza control de las actividades que realiza el conductor
+
+en ruta. Responde: Sí, la empresa cuenta con un sistema
+
+implementado desde 2017-2018 llamado Webfleet, que permite
+
+monitorear en tiempo real las actividades del conductor. Este
+
+sistema registra la velocidad, frenadas, giros bruscos,
+
+tiempos de carga, mezcla, descarga y traslado. Además, hemos
+
+establecido geocercas y alertas sonoras dentro de la cabina
+
+que advierten al operador sobre maniobras peligrosas o
+
+excesos de velocidad. Los datos recopilados se utilizan para
+
+proporcionar retroalimentación personalizada a los
+
+conductores, mejorando así su desempeño y seguridad en la
+
+operación.
+
+Repreguntada para que diga la testigo si conoce si el
+
+trabajador accidentado participó en charlas de seguridad.
+
+Responde: Sí, el trabajador recibió la inducción inicial en
+
+su primer día de trabajo, incluyendo información sobre los
+
+riesgos inherentes a su puesto. Posteriormente, participó
+
+como copiloto en varias ocasiones, realizando recorridos por
+
+las rutas principales de la planta Calama, incluida la ruta
+
+donde ocurrió el accidente. También asistió a las charlas
+
+diarias realizadas al inicio de cada jornada, donde
+
+reforzamos aspectos de seguridad y conducción responsable.
+
+Repreguntada para que diga la testigo si conoce si el
+
+trabajador accidentado participó en una charla de seguridad
+
+el 23 de noviembre, día del accidente. Responde: Sí, el 23 de
+
+noviembre realizamos una charla integral sobre conducción
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+responsable, como parte de una iniciativa corporativa. Esta
+
+charla abordó los indicadores de operación segura, el
+
+cumplimiento de velocidades y el reconocimiento de puntos
+
+críticos en las rutas, con énfasis en la ruta Calama-San
+
+Pedro de Atacama.
+
+Repreguntada para que diga la testigo, ¿qué documentos o
+
+instructivos de seguridad le fueron entregados al
+
+accidentado? Responde: Al trabajador le entregamos elementos
+
+de protección personal con indicaciones de uso, cuidado y
+
+almacenamiento, además del libro de operación segura de
+
+camiones mixer. Este manual, de 35 páginas, detalla todas las
+
+normas de seguridad aplicables antes, durante y después de la
+
+conducción del camión. También le proporcionamos trípticos
+
+con información sobre los programas nacionales de salud y las
+
+rutas críticas.
+
+Repreguntada para que diga la testigo, ¿cómo es efectivo
+
+que existe procedimiento de trabajo específico para la
+
+actividad que se estaba realizando al momento del accidente?
+
+Responde: En el libro de operación segura de camiones mixer
+
+hay un apartado específico sobre conducción, que establece
+
+normas claras para el transporte de carga viva (hormigón
+
+fresco en movimiento), incluyendo el respeto a velocidades y
+
+procedimientos seguros durante el trayecto y entrega.
+
+Repreguntada para que diga la testigo, ¿en cuántas
+
+ocasiones el trabajador accidentado realizó el reconocimiento
+
+de la ruta San Pedro-Calama? Responde: El trabajador realizó
+
+al menos un recorrido completo, acompañando como copiloto a
+
+un conductor con mayor experiencia, lo que incluyó el
+
+trayecto de ida, la entrega del hormigón y el retorno a la
+
+planta.
+
+Enseguida, comparece Edgardo Antonio Menay Urquieta, y
+
+en cuanto al punto de prueba número 3, expone: he trabajado
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+como jefe de planta de hormigones de Cementos Bío Bío durante
+
+ocho años. En mi calidad de jefe, tengo la responsabilidad de
+
+proporcionar las charlas de ingreso al personal que llega a
+
+la planta, así como de registrar dichas actividades. Precisa
+
+que, en este caso particular, informé al trabajador
+
+accidentado sobre temas de seguridad, la normativa del Comité
+
+Paritario y la ley de accidentes del trabajo. Detalla que el
+
+trabajador afectado es don José Cifuentes, quien sufrió el
+
+accidente en cuestión. En este contexto, como jefe de planta,
+
+ejerzo mis funciones en la planta de hormigones de Calama.
+
+Repreguntado para que diga el testigo, ¿cuántas charlas
+
+de seguridad realizó en las que participó el trabajador
+
+accidentado? Responde: En total, registré tres charlas de
+
+seguridad en las que participó el trabajador accidentado. La
+
+primera fue su charla de ingreso, en la que le expliqué el
+
+reglamento interno de higiene y seguridad, la ley de
+
+accidentes del trabajo (Ley 16.744), y el funcionamiento del
+
+Comité Paritario conforme al Decreto Supremo N°54. También lo
+
+instruí sobre los fundamentos de la prevención de riesgos y,
+
+específicamente, sobre la conducción con carga viva en los
+
+camiones mixers. Aunque los operadores cuentan con
+
+experiencia, siempre recalco la importancia de esta formación
+
+debido a los riesgos asociados al transporte de hormigón
+
+fresco. En la segunda charla, abordamos procedimientos
+
+operacionales relacionados con la carga en planta, el
+
+trayecto hacia las obras y aspectos técnicos del
+
+funcionamiento de los camiones mixers, como la activación del
+
+producto. La última charla, realizada justo antes del
+
+accidente, fue más extensa y detallada. En ella tratamos
+
+temas sobre riesgos en la conducción, como respetar
+
+señaléticas dentro de la planta, en las rutas de vialidad
+
+pública y en las obras. También discutimos casos específicos
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+de accidentes, incluido uno en el proyecto Mina Chuqui
+
+Subterráneo, en el que un camión aljibe perdió el control,
+
+resultando en la muerte del operador. Enfatizamos que ningún
+
+trabajador debe realizar tareas para las que no se sienta
+
+preparado, teniendo siempre el derecho a rechazar cualquier
+
+actividad que implique riesgos que no pueda manejar.
+
+Repreguntado para que diga el testigo si ¿recuerda las
+
+fechas de la última charla de seguridad en la que participó
+
+el trabajador accidentado? Responde: Sí, fue el 23 de
+
+noviembre de 2021, el día del accidente. Esa charla duró
+
+aproximadamente 90 minutos y abordó temas de conducción
+
+responsable, señaléticas de seguridad y experiencias previas
+
+de accidentes.
+
+Repreguntado para que diga el testigo, ¿quién realizó
+
+esas charlas de seguridad? Responde: Yo, en mi calidad de
+
+jefe de planta y representante de la compañía, soy el
+
+encargado de impartir tanto las charlas de seguridad como las
+
+charlas técnicas al personal.
+
+Repreguntado para que diga el testigo si el registro de
+
+asistencia consta en algún documento. Responde: Sí, contamos
+
+con un formato estándar que incluye los temas tratados, los
+
+puntos clave y un registro de asistencia firmado por los
+
+participantes.
+
+Repreguntado para que diga el testigo si el trabajador
+
+accidentado asistió a estas charlas de seguridad y si quedó
+
+registro de ello. Responde: Sí, don José Cifuentes asistió a
+
+las charlas y quedó constancia de su participación mediante
+
+su firma en el registro de asistencia.
+
+Repreguntado para que diga el testigo si la empresa
+
+realiza control de las actividades que realiza el conductor
+
+en ruta. Responde: Por supuesto, utilizamos la plataforma
+
+Webfleet, que monitorea diversos aspectos de la conducción,
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+como velocidades, frenadas bruscas y giros abruptos. Cada
+
+evento queda registrado y se utiliza para generar indicadores
+
+de desempeño (KPI), que reviso con los operadores para
+
+reforzar buenas prácticas o corregir conductas riesgosas.
+
+Repreguntado para que diga el testigo si ese sistema
+
+registra minuto a minuto la velocidad de los conductores.
+
+Responde: Correcto, Webfleet monitorea en tiempo real la
+
+conducción, emitiendo alertas al operador ante eventos como
+
+exceso de velocidad, giros bruscos o frenadas violentas.
+
+Estas alertas se muestran en una tablet instalada en la
+
+cabina del camión.
+
+Repreguntado para que diga el testigo si el trabajador
+
+accidentado realizó reconocimiento de la ruta en la que
+
+ocurrió el accidente. Responde: Sí, el trabajador realizó el
+
+reconocimiento de la ruta en tres ocasiones, acompañando a un
+
+operador con experiencia. Este acompañamiento práctico es
+
+parte de nuestro protocolo para familiarizar a los nuevos
+
+trabajadores con las características y riesgos de rutas
+
+críticas como la 23, que conecta Calama con San Pedro de
+
+Atacama.
+
+Repreguntado para que diga el testigo si la empresa
+
+comunica las rutas críticas a los conductores y si se le
+
+informó al trabajador sobre la ruta San Pedro-Calama.
+
+Responde: Sí, la compañía tiene una política específica para
+
+comunicar rutas críticas a los operadores. En el caso de la
+
+planta Calama, esta incluye la ruta San Pedro-Calama y la
+
+ruta hacia María Elena. Estas rutas las explicamos teórica y
+
+prácticamente, asegurándonos de que los trabajadores las
+
+recorran con operadores experimentados antes de conducirlas
+
+solos.
+
+Repreguntado para que diga el testigo si la empresa
+
+cuenta con una matriz de riesgos. Responde: Sí, contamos con
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+una matriz de riesgos desarrollada con el área de prevención
+
+de riesgos y operaciones. Esta matriz detalla las actividades
+
+específicas de carga, transporte y descarga de hormigón, y se
+
+utiliza como base para documentos de seguridad, charlas y el
+
+libro de Operador Mixer.
+
+Repreguntado para que diga el testigo si se evalúan los
+
+riesgos de conducción en la matriz de riesgos. Responde: Sí,
+
+consideramos riesgos asociados a pendientes, caminos no
+
+pavimentados y condiciones propias de rutas mineras. Estos
+
+riesgos están detallados en la matriz y el libro de Operador
+
+Mixer.
+
+Repreguntado para que precise el testigo si trabaja en
+
+la misma empresa que el trabajador accidentado. Responde: Sí,
+
+ambos trabajamos en hormigones Ready Mix, parte de Cementos
+
+Bío Bío.
+
+Repreguntado para que diga el testigo si en las charlas
+
+se trataron temas específicos de conducción y velocidades
+
+máximas. Responde: Sí, estas charlas incluyeron temas sobre
+
+conducción segura, límites de velocidad y el uso de
+
+herramientas tecnológicas como Webfleet y Beetrack para
+
+monitorear el desempeño de los conductores.
+
+Repreguntado para que diga el testigo si el trabajador
+
+accidentado superaba el límite de velocidad al momento del
+
+accidente. Responde: Sí, según los registros de Webfleet, el
+
+trabajador excedió el límite de 40 km/h en una zona de
+
+pendientes y curvas. Este exceso de velocidad fue un factor
+
+determinante en el accidente.
+
+III.- Oficio:
+
+1. Informe especializado de la sección de investigación de
+
+accidentes de tránsito (SIAT) de Carabineros de Chile,
+
+realizado en causa RUC 2101060888-8., el cual costa en
+
+el folio 61 del expediente digital.
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+CUARTO: Por su parte, la reclamada acompañó la siguiente
+
+prueba documental: Expediente N°222EXP92, sumario sanitario
+
+iniciado por SECRETARIA REGIONAL MINISTERIAL DE SALUD, en
+
+contra de READY MIX HORMIGONES.
+
+I.- EN CUANTO A LA EXCEPCIÓN DE PRESCRIPCIÓN:
+
+QUINTO: En primer lugar, la parte reclamante, Ready Mix
+
+Hormigones Limitada, alegó la excepción de prescripción de la
+
+multa impuesta mediante la Resolución Exenta N°2202679, de
+
+fecha 03 de agosto de 2022, argumentando que el plazo de
+
+prescripción para sanciones administrativas debe equipararse
+
+al de las faltas penales (seis meses). Señala que los hechos
+
+ocurrieron el 23 de noviembre de 2021, pero la resolución fue
+
+notificada el 9 de agosto de 2022, excediendo dicho plazo.
+
+SEXTO: En relación con lo planteado respecto de la
+
+prescripción de la acción persecutoria de la Secretaría
+
+Regional Ministerial de Salud de la Región de Antofagasta,
+
+conforme a lo dispuesto en los artículos 94 y 97 del Código
+
+Penal, cabe señalar que, como ha sido reconocido ampliamente
+
+por la jurisprudencia de la Excelentísima Corte Suprema: “No
+
+parece procedente aplicar la prescripción de seis meses que
+
+para las faltas contempla el artículo 97 del Código Penal,
+
+como pretende la recurrente, ya que la sola circunstancia que
+
+la infracción conlleve una sanción pecuniaria no transforma
+
+ese ilícito en una falta penal y tampoco puede reputársele
+
+como tal. Además, si bien la potestad sancionadora de la
+
+Administración forma parte del denominado ius puniendi del
+
+Estado, se trata, en la especie, de una sanción
+
+administrativa, independiente de la criminal, sin que
+
+aparezca razonable que la prescripción se rija por las reglas
+
+aplicables a las faltas, en la medida que una prescripción
+
+tan breve como la que pretende quien recurre permitiría
+
+eludir las finalidades de la sanción, tanto en su carácter de
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+efectiva represión de los ilícitos, cuanto en su dimensión
+
+preventiva general. (…) En tales condiciones, la omisión
+
+normativa de un lapso razonable y prudente de prescripción en
+
+el Código Sanitario ha de ser solucionada acudiendo a las
+
+reglas generales del derecho común, aplicando el sistema
+
+desarrollado en los artículos 2514 y siguientes del Código
+
+Civil, en virtud del mandato expreso del artículo 2497 de ese
+
+cuerpo normativo, en cuanto dispone que las reglas relativas
+
+a la prescripción se aplican igualmente a favor y en contra
+
+del Estado, de las iglesias, de las municipalidades, de los
+
+establecimientos y corporaciones nacionales y de los
+
+individuos particulares que tienen la libre administración de
+
+lo suyo.” (Excelentísima Corte Suprema, ROL 19.399-2019).
+
+SÉPTIMO: Conforme a lo establecido en el artículo 2497
+
+del Código Civil, las reglas relativas a la prescripción
+
+extintiva son aplicables también a favor y en contra del
+
+Estado, de las municipalidades y de los particulares con
+
+libre administración de lo suyo. De este modo, ante la
+
+ausencia de un plazo específico en el Código Sanitario para
+
+la prescripción de infracciones administrativas, se debe
+
+acudir a la normativa general contenida en los artículos 2514
+
+y 2515 del Código Civil, que establece un plazo de cinco años
+
+para la prescripción extintiva de acciones civiles. En el
+
+presente caso, dicho plazo no ha transcurrido desde la fecha
+
+en que se verificaron los hechos (23 de noviembre de 2021)
+
+hasta la notificación de la Resolución Exenta N°2202679 (9 de
+
+agosto de 2022), considerando además que el procedimiento
+
+sancionatorio se inició con la visita inspectiva del 18 de
+
+febrero de 2022.
+
+OCTAVO: Adicionalmente, la prescripción extintiva
+
+requiere, como presupuesto esencial, la inactividad del
+
+titular de la acción durante el período previsto por la ley.
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+En este caso, no se verifica tal inactividad, pues la
+
+autoridad sanitaria adoptó medidas concretas dentro de los
+
+plazos legales, comenzando con el levantamiento del acta de
+
+inspección N°17403 en febrero de 2022 y concluyendo con la
+
+emisión de la resolución sancionatoria en agosto del mismo
+
+año. Por consiguiente, la alegación de prescripción será
+
+desestimada.
+
+II.- EN CUANTO A LA ALEGACIÓN DE FALTA DE MOTIVACIÓN DEL
+
+ACTO ADMINISTRATIVO:
+
+NOVENO: Establecido lo anterior, corresponde efectuar un
+
+análisis respecto de lo afirmado por la parte reclamante en
+
+relación con la falta de motivación del acto administrativo.
+
+Cabe hacer presente que la falta de motivación del acto
+
+administrativo constituye una infracción al principio de
+
+legalidad y juridicidad, conforme lo disponen el artículo 7
+
+de la Constitución Política de la República y el artículo 2
+
+de la Ley N°18.575, Orgánica Constitucional de Bases
+
+Generales de la Administración del Estado. En términos
+
+generales, el principio de motivación obliga a la
+
+Administración a justificar los fundamentos fácticos y
+
+jurídicos que dan sustento a la decisión adoptada,
+
+garantizando con ello la transparencia y racionalidad en su
+
+actuar.
+
+Explica el profesor Bermúdez Soto que la motivación del
+
+acto administrativo consiste en exponer las razones y
+
+fundamentos del mismo, lo que permite un control de su
+
+legalidad y evita decisiones arbitrarias o carentes de
+
+sustento. La falta de motivación, en consecuencia, afecta la
+
+validez del acto, tornándolo susceptible de ser declarado
+
+nulo por los tribunales de justicia.
+
+En este sentido, la ausencia de motivación vulnera el
+
+derecho de los administrados a conocer las razones por las
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+cuales se dicta un acto que afecta sus intereses, además de
+
+privarlos de la posibilidad de ejercer una adecuada defensa
+
+mediante los recursos administrativos y judiciales. Así, el
+
+incumplimiento de esta exigencia no solo conlleva la
+
+transgresión de garantías fundamentales como el debido
+
+proceso, sino que también puede configurar una falta de
+
+servicio en los términos del artículo 4º de la Ley N°18.575.
+
+DÉCIMO: En el presente caso, al analizar la Resolución
+
+Exenta N°2202679, de fecha 03 de agosto de 2022, dictada por
+
+la Secretaría Regional Ministerial de Salud de la Región de
+
+Antofagasta, se advierte que dicha resolución cumple con el
+
+requisito de motivación ilustrado en el motivo anterior.
+
+En primer lugar, la resolución contiene una detallada
+
+descripción de los hechos que dieron origen al procedimiento
+
+sancionatorio, en particular, el accidente fatal ocurrido el
+
+23 de noviembre de 2021, en el cual falleció el trabajador
+
+José Antonio Cifuentes Castillo, operador de un camión mixer
+
+de la empresa Ready Mix Hormigones Limitada. Asimismo, se
+
+señalan las deficiencias constatadas durante la visita
+
+inspectiva del 18 de febrero de 2022, debidamente
+
+documentadas en el acta levantada por el ente fiscalizador,
+
+las cuales incluyen: la falta de un análisis de riesgos
+
+específico, la ausencia de procedimientos de trabajo claros y
+
+documentados, el control deficiente de las actividades del
+
+conductor y, especialmente, la falta de información y
+
+capacitación específicas sobre los riesgos inherentes al
+
+traslado de hormigón fresco en el camión mixer y en rutas
+
+críticas como la ruta 23.
+
+Además, la resolución expone con claridad los
+
+fundamentos jurídicos en que se sustenta la sanción aplicada,
+
+citando expresamente los artículos 3, 36, 37 y 53 del Decreto
+
+Supremo N°594, del Ministerio de Salud, que establecen las
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+obligaciones del empleador respecto a la prevención de
+
+riesgos laborales y la protección de la salud de los
+
+trabajadores. Asimismo, se invoca el artículo 21 del Decreto
+
+Supremo N°40, del Ministerio del Trabajo, que dispone la
+
+obligación de informar a los trabajadores sobre los riesgos
+
+laborales y las medidas preventivas.
+
+Asimismo, la autoridad sanitaria, además de describir
+
+los hechos y las disposiciones legales infringidas, realiza
+
+un análisis razonado que permite establecer un nexo causal
+
+entre las deficiencias constatadas y el accidente ocurrido.
+
+Se explica que la falta de procedimientos específicos, la
+
+insuficiencia de medidas preventivas y la ausencia de control
+
+sobre la actividad del trabajador constituyeron factores que
+
+incidieron directamente en la ocurrencia del accidente.
+
+Por otro lado, en cuanto a la prueba aportada por la
+
+empresa sumariada durante el procedimiento administrativo, la
+
+resolución analiza y pondera los antecedentes acompañados,
+
+concluyendo que estos resultan insuficientes para desvirtuar
+
+las infracciones constatadas. En particular, se hace
+
+referencia a las charlas de seguridad y al procedimiento de
+
+operación del camión mixer, señalando que dichas medidas son
+
+generales y no específicas respecto de los riesgos inherentes
+
+a la tarea de traslado de hormigón fresco en rutas críticas,
+
+lo que evidencia una omisión grave en la gestión de
+
+prevención de riesgos asociados a esta actividad.
+
+Finalmente, y en virtud de lo expuesto, se concluye que
+
+la Resolución Exenta N°2202679 está debidamente motivada, en
+
+tanto contiene una descripción clara y precisa de los hechos
+
+constatados, así como una adecuada fundamentación jurídica
+
+que permite comprender las razones que justificaron la
+
+imposición de la multa. En consecuencia, no se configura el
+
+vicio alegado por la parte reclamante, por cuanto el acto
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+administrativo cumple con las exigencias formales y
+
+sustantivas. Por tanto, se rechazará la alegación relativa a
+
+que el acto administrativo no se encuentra motivado, y con
+
+ello la solicitud de declarar la ilegalidad del acto
+
+administrativo.
+
+III.- EN CUANTO A LA ALEGACIÓN DE VULNERACIÓN DEL
+
+PRINCIPIO NON BIS IN ÍDEM:
+
+DÉCIMO PRIMERO: El principio non bis in ídem establece
+
+que una persona o entidad no puede ser sancionada o juzgada
+
+más de una vez por los mismos hechos, siempre que se cumplan
+
+las condiciones de triple identidad, esto es, identidad de
+
+sujeto, de hechos y de bien jurídico protegido o fundamento
+
+normativo. Este principio tiene por objeto garantizar la
+
+seguridad jurídica y evitar que las potestades sancionadoras
+
+se ejerzan de forma arbitraria o reiterada sobre los mismos
+
+hechos.
+
+En el presente caso, de acuerdo con la Resolución
+
+N°2202679 dictada por la SEREMI de Salud de Antofagasta, se
+
+aplicó una única sanción administrativa a la empresa Ready
+
+Mix Hormigones Limitada consistente en una multa de 300 UTM,
+
+derivada del incumplimiento de normas relativas a condiciones
+
+sanitarias en los lugares de trabajo, conforme a lo dispuesto
+
+en los artículos 3, 36, 37 y 53 del Decreto Supremo N°594 del
+
+Ministerio de Salud. En virtud de aquello, no se observa ni
+
+se configura una vulneración al principio non bis in ídem, ya
+
+que no existen múltiples sanciones derivadas de los mismos
+
+hechos, sino que una única sanción impuesta por la SEREMI de
+
+Salud por la suma de 300 UTM. Por lo cual, se concluye que
+
+no se existe una duplicidad de medidas sancionatorias, por lo
+
+que se rechazará la alegación en este punto.
+
+IV.- EN CUANTO AL FONDO DE LA ACCIÓN DEDUCIDA:
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+DÉCIMO SEGUNDO: El artículo 171 del Código Sanitario
+
+establece que: “De las sanciones aplicadas por el Servicio
+
+Nacional de Salud podrá reclamarse ante la justicia ordinaria
+
+civil, dentro de los cinco días hábiles siguientes a la
+
+notificación de la sentencia, reclamo que tramitará en forma
+
+breve y sumaria.
+
+El tribunal desechará la reclamación si los hechos que
+
+hayan motivado la sanción se encuentren comprobados en el
+
+sumario sanitario de acuerdo a las normas del presente
+
+Código, si tales hechos constituyen efectivamente una
+
+infracción a las leyes o reglamentos sanitarios y si la
+
+sanción aplicada es la que corresponde a la infracción
+
+cometida.”
+
+Por su parte, el artículo 166 del Código Sanitario
+
+estatuye: "Bastará para dar por establecido la existencia de
+
+una infracción a las leyes y reglamentos sanitarios el
+
+testimonio de dos personas contestes en el hecho y en sus
+
+circunstancias esenciales; o el acta, que levante el
+
+funcionario del Servicio al comprobarla." Es decir, el
+
+legislador ha conferido al acta inspectiva, el mérito
+
+suficiente para dar por establecidos los hechos que en ella
+
+se contienen.
+
+Igualmente, el artículo 174 del Código Sanitario señala
+
+que: “La infracción de cualquiera de las disposiciones de
+
+este Código o de sus reglamentos y de las resoluciones que
+
+dicten los Directores de los Servicios de Salud o el Director
+
+del Instituto de Salud Pública de Chile, según sea el caso,
+
+salvo las disposiciones que tengan una sanción especial, será
+
+castigada con multa de un décimo de unidad tributaria mensual
+
+hasta mil unidades tributarias mensuales. Las reincidencias
+
+podrán ser sancionadas hasta con el doble de la multa
+
+original.
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Las infracciones antes señaladas podrán ser sancionadas,
+
+además, con la clausura de establecimientos, recintos,
+
+edificios, casas, locales o lugares de trabajo donde se
+
+cometiere la infracción; con la cancelación de la
+
+autorización de funcionamiento o de los permisos concedidos;
+
+con la paralización de obras o faenas; con la suspensión de
+
+la distribución y uso de los productos de que se trate, y con
+
+el retiro, decomiso, destrucción o desnaturalización de los
+
+mismos, cuando proceda.
+
+Lo anterior es sin perjuicio de hacer efectivas las
+
+responsabilidades que establezcan otros cuerpos legales
+
+respecto de los hechos”.
+
+DÉCIMO TERCERO: En este orden de ideas, para resolver,
+
+el Tribunal debe limitarse a la competencia que le otorga el
+
+artículo 171 del Código Sanitario, a saber, determinar si los
+
+hechos que motivaron la sanción se encuentran comprobados en
+
+el sumario sanitario de acuerdo con las normas del Código
+
+Sanitario; si tales hechos constituyen efectivamente una
+
+infracción a las leyes o reglamentos sanitarios; y si la
+
+sanción aplicada es la que corresponde a la infracción
+
+cometida.
+
+DÉCIMO CUARTO: Por su parte, nuestro ordenamiento
+
+jurídico le otorga a la Seremi de Salud la facultad de
+
+atender todas las cuestiones que digan relación con la
+
+protección de la salud, y en cuanto a los lugares de trabajo,
+
+se dispone que el reglamento, que en la especie no puede ser
+
+otro que el contenido en el Decreto Supremo N°594, contendrá
+
+las normas sobre condiciones de saneamiento y seguridad.
+
+Dicho reglamento en su artículo 3, obliga a la empresa a
+
+mantener en los lugares de trabajo las condiciones sanitarias
+
+y ambientales necesarias para proteger eficazmente la vida y
+
+la salud de los trabajadores que en ellos se desempeñan, sean
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+estos dependientes directos suyos o lo sean de terceros
+
+contratistas que realizan actividades para ella.
+
+Igualmente, el artículo 184 del Código del Trabajo,
+
+dispone que el empleador estará obligado a tomar todas las
+
+medidas necesarias para proteger eficazmente la vida y salud
+
+de los trabajadores, informando de los posibles riesgos y
+
+manteniendo las condiciones adecuadas de higiene y seguridad
+
+en las faenas, como también los implementos necesarios para
+
+prevenir accidentes y enfermedades profesionales.
+
+DÉCIMO QUINTO: Se tendrá por acreditado, por no
+
+encontrarse discutido en estos autos, que el día 23 de
+
+noviembre de 2021 ocurrió un accidente fatal en la ruta 23,
+
+donde falleció el trabajador José Antonio Cifuentes Castillo,
+
+quien operaba un camión mixer de la empresa Ready Mix
+
+Hormigones Limitada.
+
+Igualmente, es un hecho no controvertido, que la
+
+Secretaría Regional Ministerial de Salud de la Región de
+
+Antofagasta emitió la Resolución Exenta N°2202679, de fecha
+
+03 de agosto de 2022, mediante la cual se impuso a Ready Mix
+
+Hormigones Limitada una multa administrativa de 300 UTM, y
+
+que dicha resolución fue notificada el 09 de agosto de 2022.
+
+Asimismo, está acreditado que el procedimiento
+
+sancionatorio se inició con la visita inspectiva realizada el
+
+18 de febrero de 2022, durante la cual se levantó un acta de
+
+fiscalización.
+
+DÉCIMO SEXTO: Enseguida, corresponde efectuar un
+
+análisis de la Resolución Exenta N°2202679, de fecha 03 de
+
+agosto de 2022, dictada por la Secretaría Regional
+
+Ministerial de Salud de la Región de Antofagasta, la cual
+
+evidencia graves incumplimientos en la implementación de
+
+medidas de seguridad y prevención por parte de Ready Mix
+
+Hormigones Limitada, especialmente en relación con el Decreto
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Supremo N°594 y el Código del Trabajo, respecto al transporte
+
+de hormigón fresco en camión mixer.
+
+Se constató en dicha resolución que la empresa no
+
+informó los riesgos específicos para esta actividad,
+
+considerando las condiciones de la ruta 23, lugar del
+
+accidente fatal del trabajador, lo que vulnera el artículo 3
+
+del Decreto Supremo N°594. Además, se razona que el "Libro de
+
+Operación Segura de Camiones Mixer" no incluye directrices
+
+específicas para las características críticas de la ruta,
+
+como curvas cerradas, pendientes y condiciones climáticas
+
+adversas, contraviniendo el artículo 37 del mismo decreto. Se
+
+resuelve que, aunque se realizaron charlas de seguridad,
+
+estas abordaron aspectos generales y omitieron información
+
+sobre los riesgos específicos del transporte de hormigón
+
+fresco, como el comportamiento dinámico del camión bajo carga
+
+viva, en infracción al artículo 21 del Decreto Supremo N°40.
+
+Asimismo, se analiza que la plataforma de monitoreo
+
+"WEBFLEET" evidenció excesos de velocidad sin que se
+
+adoptaran medidas preventivas efectivas, limitándose la
+
+empresa a emitir amonestaciones verbales. Así, la matriz de
+
+riesgos presentada incluyó solo evaluaciones generales,
+
+omitiendo los riesgos específicos del transporte en rutas
+
+complejas como la ruta 23, incumpliendo los artículos 3 y 53
+
+del Decreto Supremo N°594.
+
+Se concluye que las deficiencias en la gestión de
+
+seguridad y prevención de riesgos por parte de Ready Mix
+
+Hormigones Limitada contribuyeron directamente al accidente
+
+fatal del trabajador, configurando infracciones a la
+
+normativa sanitaria y laboral, lo que fundamentó la
+
+aplicación de la multa de 300 UTM establecida en la
+
+resolución.
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+DÉCIMO SÉPTIMO: Del análisis de los antecedentes
+
+acompañados en autos, particularmente el documento titulado
+
+"Instrucciones de seguridad para trabajo en terreno operador
+
+camión mixer" y el "Documento de rutas Críticas Planta
+
+Calama", se advierte que dichos instrumentos proporcionan
+
+directrices generales sobre la operación de camiones y
+
+medidas de seguridad. Se observa que éstos carecen de
+
+especificidad respecto de los riesgos críticos asociados al
+
+trayecto realizado en la ruta 23, lugar donde ocurrió el
+
+accidente que resultó en el fallecimiento del trabajador José
+
+Antonio Cifuentes Castillo. En particular, se advierte que no
+
+se incluyen protocolos detallados sobre maniobras en
+
+pendientes pronunciadas, curvas cerradas o tramos estrechos
+
+característicos de la mencionada ruta, ni tampoco
+
+procedimientos de emergencia para mitigar situaciones de
+
+inestabilidad del camión bajo carga viva, contraviniendo lo
+
+dispuesto en los artículos 3, 36 y 53 del Decreto Supremo
+
+N°594 del Ministerio de Salud.
+
+Además, los registros del sistema de monitoreo Webfleet
+
+incorporados al proceso demuestran que, al momento del
+
+accidente, el trabajador superó los límites de velocidad
+
+establecidos, lo cual constituye un factor determinante en la
+
+ocurrencia del siniestro, tal como lo señaló el testigo de la
+
+parte demandante, don Edgardo Antonio Menay Urquieta. Esta
+
+situación refleja que existe una insuficiencia en la
+
+implementación de medidas preventivas efectivas por parte de
+
+la empresa reclamante, la cual no adoptó acciones concretas
+
+frente a las alertas emitidas por dicho sistema, limitándose
+
+a aplicar amonestaciones verbales y sin instaurar medidas
+
+inmediatas a fin de garantizar la seguridad de los operadores
+
+en rutas de alta complejidad.
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+DÉCIMO OCTAVO: Respecto de la prueba testimonial rendida
+
+en autos, consta en el proceso comparecieron los testigos
+
+María Loreto Atallah Leiva y Edgardo Antonio Menay Urquieta,
+
+quienes expusieron detalles sobre la implementación de
+
+medidas de seguridad en Ready Mix Hormigones Limitada. La
+
+primera de ellas relató la existencia de un sistema de
+
+seguridad que incluye una matriz de riesgos denominada
+
+HIPPER, charlas periódicas de seguridad y el uso de
+
+herramientas tecnológicas como Webfleet para el monitoreo de
+
+las actividades de los conductores. Por su parte, el segundo
+
+testigo, jefe de planta, detalló las actividades de
+
+capacitación realizadas con el trabajador accidentado,
+
+mencionando que este asistió a charlas de ingreso y
+
+seguridad, así como a un reconocimiento previo de la ruta
+
+crítica donde ocurrió el accidente.
+
+La testimonial aportada por la empresa no acredita de
+
+manera fehaciente que se haya proporcionado al trabajador
+
+accidentado una inducción exhaustiva sobre el comportamiento
+
+de la carga viva, como el hormigón fresco en movimiento, en
+
+rutas críticas tales como la ruta 23. Si bien se mencionó que
+
+el trabajador participó en charlas y acompañamientos
+
+prácticos, no se acredita que estas actividades abordaran con
+
+suficiente detalle los riesgos en cuanto a maniobras en
+
+pendientes pronunciadas, curvas cerradas y tramos estrechos.
+
+En cuanto a la matriz de riesgos HIPPER y el sistema
+
+Webfleet, no se acredita que hayan sido utilizadas para
+
+prevenir el accidente en cuestión. En particular, se destaca
+
+que, conforme al registro de Webfleet, el trabajador
+
+accidentado excedió los límites de velocidad establecidos
+
+para la zona de pendientes y curvas donde ocurrió el
+
+siniestro, sin que se adoptaran medidas correctivas que
+
+garantizaran el respeto de dichas limitaciones, situación que
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+evidencia la falta de protocolos rigurosos por la empresa
+
+reclamante.
+
+DÉCIMO NOVENO: Finalmente, y del análisis del informe
+
+técnico N°111-A-2021 emitido por la Sección de Investigación
+
+de Accidentes de Tránsito (SIAT) de Carabineros de Chile, se
+
+establece que el accidente ocurrido el 23 de noviembre de
+
+2021, en la ruta 23, se originó debido a una conducción a una
+
+velocidad no razonable, en consideración al diseño geométrico
+
+de la vía, que incluía una curva hacia la derecha con
+
+pendiente descendente del 8%. Según lo señalado en dicho
+
+informe, el conductor activó el sistema de frenos de manera
+
+excesiva y prolongada, lo que disminuyó su eficiencia,
+
+generando la pérdida de control y maniobrabilidad del camión,
+
+lo que derivó en el volcamiento del vehículo.
+
+Igualmente, el informe confeccionado por la SIAT
+
+descarta factores externos como causa de accidente, como el
+
+mal estado de la vía o la participación de otro vehículo,
+
+destacando que las condiciones meteorológicas, la visibilidad
+
+y la iluminación eran óptimas al momento del accidente, lo
+
+cual atribuye la causa basal exclusivamente al participante,
+
+identificado como José Antonio Cifuentes Castillo, quien
+
+conducía el móvil con placa patente única GKWK-26, propiedad
+
+de Ready Mix Hormigones Limitada. Adicionalmente, el informe
+
+detalla que la pista de emergencia emplazada en el lugar
+
+cumplía con los estándares de conservación y señalización
+
+requeridos, y una superficie de gravilla suelta diseñada para
+
+detener vehículos fuera de control.
+
+Respecto del comportamiento del conductor, se precisa
+
+que no respetó los parámetros de velocidad razonables ni los
+
+procedimientos para operar con carga viva, lo que contraviene
+
+las directrices de conducción segura que debieron haberse
+
+impartido como parte de las capacitaciones e inducciones
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+obligatorias. En este contexto, el informe técnico no
+
+acredita que las medidas preventivas adoptadas por la empresa
+
+hayan sido íntegras para evitar este tipo de accidentes. En
+
+particular, no se evidencia un acompañamiento práctico
+
+suficiente ni una capacitación específica sobre la operación
+
+en zonas críticas como la ruta 23, lo que pone de manifiesto
+
+deficiencias en la gestión de riesgos inherentes al
+
+transporte de carga viva en rutas con alto grado de
+
+peligrosidad. Por tanto, se concluye que la empresa
+
+reclamante no adoptó medidas necesarias para garantizar la
+
+seguridad de sus trabajadores, lo que confirma la procedencia
+
+de la multa aplicada por la autoridad administrativa.
+
+VIGÉSIMO: Del análisis realizado en los motivos
+
+anteriores, consistente en prueba documental, testimoniales y
+
+del oficio allegado en autos, se concluye que Ready Mix
+
+Hormigones Limitada incurrió en omisiones en cuanto a la
+
+implementación de medidas de prevención y capacitación
+
+respecto de los riesgos asociados a la conducción de camiones
+
+mixer con carga viva en rutas de alta peligrosidad, como la
+
+ruta 23, tantas veces indicada, y a pesar de contar con
+
+herramientas como la matriz HIPPER y el sistema Webfleet, el
+
+cual permite contar con un monitoreo en tiempo real de
+
+variables críticas como la velocidad, las frenadas bruscas y
+
+los giros abruptos, no fue utilizado a fin de prevenir el
+
+accidente ocurrido. Asimismo, no se acreditó que las
+
+capacitaciones realizadas fueran suficientes para abordar los
+
+riesgos inherentes a maniobras en pendientes y curvas
+
+cerradas. En consecuencia, los hechos acreditados evidencian
+
+una falta de cumplimiento de las obligaciones de seguridad,
+
+conforme a los Decretos Supremos N°594 y N°40, y del artículo
+
+184 Código del Trabajo, justificándose, en consecuencia, la
+
+sanción impuesta por la Secretaría Regional Ministerial de
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Salud de la Región de Antofagasta, a la empresa reclamante,
+
+Ready Mix Hormigones LImitada, en atención a la gravedad de
+
+las infracciones y las consecuencias derivadas del accidente
+
+ocurrido. En consecuencia, se concluye que la Secretaría
+
+Regional Ministerial de Salud dio cumplimiento a las normas
+
+contenidas en los artículos 166, 171 y 174 del Código
+
+Sanitario, toda vez que las infracciones fueron constatadas
+
+mediante un procedimiento sancionatorio, que tales hechos
+
+constituyen efectivamente infracciones a las leyes y
+
+reglamentos, que las sanciones aplicadas se encuentran dentro
+
+de los límites legales y éstas se ajustan a la gravedad de
+
+las infracciones cometidas.
+
+VIGÉSIMO PRIMERO: De lo concluido, se rechazará la
+
+reclamación interpuesta por la empresa Ready Mix Hormigones
+
+Limitada, por estimar que la Resolución Exenta N°2202679,
+
+dictada con fecha 3 de agosto de 2022, se ajustó a derecho.
+
+Dicha resolución es el resultado de un sumario sanitario
+
+legalmente tramitado, en el cual la reclamante tuvo
+
+oportunidad de efectuar sus descargos y rendir prueba, los
+
+cuales resultaron insuficientes para desvirtuar las
+
+infracciones que le fueron imputadas en el sumario y que han
+
+quedado demostradas. Estas infracciones se fundamentan en lo
+
+dispuesto en los artículos 3, 36, 37 y 53 del Decreto Supremo
+
+N°594 del Ministerio de Salud, el artículo 21 del Decreto
+
+Supremo N°40 del Ministerio del Trabajo, y el artículo 184
+
+del Código del Trabajo.
+
+IV.- EN CUANTO A LA SOLICITUD DE REBAJA DE LA MULTA
+
+IMPUESTA:
+
+VIGÉSIMO SEGUNDO: En cuanto a la solicitud de rebaja de
+
+la multa impuesta, atendidas especialmente las consecuencias
+
+del accidente, esto es, el fallecimiento del trabajador don
+
+José Antonio Cifuentes Castillo, operador de un camión mixer,
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+la constatación de los hechos y lo dispuesto en los artículos
+
+3 y 53 del Decreto Supremo N°594 y en el artículo 174 del
+
+Código Sanitario, se rechazará la solicitud, ya que las
+
+medidas adoptadas por la empresa reclamante no desvirtúan las
+
+graves deficiencias constatadas con respecto al traslado de
+
+hormigón fresco en rutas críticas como la ruta 23.
+
+VIGÉSIMO TERCERO: El resto de la prueba rendida y no
+
+pormenorizada en lo que antecede, en nada altera lo resuelto
+
+precedentemente.
+
+Por estas consideraciones y visto, además, lo dispuesto
+
+en los artículos 1, 9, 82, 156, 161 y siguientes, 171, 174
+
+del Código Sanitario, 1698, 1702 del Código Civil, 160, 170,
+
+341, 342, 358 y 384 del Código de Procedimiento Civil,
+
+artículo 184 del Código del Trabajo, ley 19.880 y Decreto
+
+Supremo N°594 del Ministerio de Salud; se declara que:
+
+Se rechazan, con costas, la solicitud de declaración de
+
+prescripción, la solicitud de invalidación del acto
+
+administrativo por falta de motivación basada en la
+
+inexistencia de infracciones, la alegación de vulneración del
+
+principio de non bis in ídem, y la solicitud de reducción del
+
+monto de la multa. En consecuencia, se desestima la
+
+reclamación de multa interpuesta por el abogado Luis Alfredo
+
+Navarro Egaña, en representación de READY MIX HORMIGONES
+
+LIMITADA, en contra de la SECRETARÍA REGIONAL MINISTERIAL DE
+
+SALUD DE ANTOFAGASTA.
+
+Regístrese, notifíquese y archívese en su oportunidad.
+
+Rol C-2213-2022
+
+Dictada por Andrea Przybyszewski Jopia, Jueza Suplente.
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+En Antofagasta, a siete de enero del año dos mil
+
+veinticinco, se anotó el presente fallo en el estado diario,
+
+de conformidad con lo prevenido en el artículo 162 inciso
+
+final del Código de Procedimiento Civil.
+
+Código: BWYZXSXMVTB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2025-01-07T13:09:04-0300
