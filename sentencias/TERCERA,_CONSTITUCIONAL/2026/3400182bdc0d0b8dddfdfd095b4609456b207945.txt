@@ -4,17 +4,17 @@ case_id: 3400182bdc0d0b8dddfdfd095b4609456b207945
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040903
 
-rol: 708-2026
+rol: 137-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: QUINTERO MORALES / SERVICIO NACIONAL DE MIGRACIONES
+caratulado: MIRA/MINISTERIO DEL INTERIOR Y OTRO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
