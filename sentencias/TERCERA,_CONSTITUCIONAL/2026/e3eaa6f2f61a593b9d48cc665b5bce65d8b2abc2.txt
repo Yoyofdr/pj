@@ -4,15 +4,15 @@ case_id: e3eaa6f2f61a593b9d48cc665b5bce65d8b2abc2
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8058610
 
-rol: 9351-2026
+rol: 8474-2026
 
 fecha_sentencia: 2026-03-11
 
-caratulado: LAVIERA GONZALEZ EDUARDO ENRIQUE /ADMINISTRADORA DE FONDOS DE PENSIONES MODELO S.A.
+caratulado: LOPEZ CADENA FRANCISCO/ADMINISTRADORA DE FONDOS DE PENSIONES PROVIDA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Previsional
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 

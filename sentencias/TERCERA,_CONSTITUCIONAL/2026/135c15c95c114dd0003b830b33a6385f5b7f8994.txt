@@ -4,17 +4,17 @@ case_id: 135c15c95c114dd0003b830b33a6385f5b7f8994
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8058190
 
-rol: 8474-2026
+rol: 6964-2026
 
 fecha_sentencia: 2026-03-11
 
-caratulado: LOPEZ CADENA FRANCISCO/ADMINISTRADORA DE FONDOS DE PENSIONES PROVIDA S.A.
+caratulado: MONTT/ISAPRE VIDA TRES S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

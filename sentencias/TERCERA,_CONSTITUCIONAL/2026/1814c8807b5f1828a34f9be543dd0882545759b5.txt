@@ -12,9 +12,9 @@ caratulado: BUSTAMANTE/RAMOS
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
@@ -31,7 +31,7 @@ Tercero: Que del mérito de los antecedentes aparece de manifiesto que en el lib
 
 Por estas consideraciones y lo dispuesto en el artículo 20 de la Constitución Política de la República y en el Auto Acordado de esta Corte sobre la materia, se revoca la resolución apelada, y en su lugar se declara que el recurso de protección deducido es admisible, debiendo dársele la tramitación correspondiente.
 Regístrese y devuélvase.
-Rol N° 4.455-2026.
+Rol N° 4.481-2026.
 Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sra. Adelita Ravanales A., Sr. Jean Pierre Matus A., Sr. Omar Astudillo C., Sr. Gonzalo Ruz L. y el Abogado Integrante Sr. Eduardo Gandulfo R. Santiago, 11 de marzo de 2026.
 
 Autoriza el Ministro de Fe de la Excma. Corte Suprema.

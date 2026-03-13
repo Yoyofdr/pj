@@ -4,17 +4,17 @@ case_id: 4c5e423bac6da2ed31e7fdbd45cc13c7223dfe50
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8058869
 
-rol: 6964-2026
+rol: 9587-2026
 
 fecha_sentencia: 2026-03-11
 
-caratulado: MONTT/ISAPRE VIDA TRES S.A.
+caratulado: SÁNCHEZ SÁNCHEZ PAOLA VALENTINA/ASEGURADORA DE FONDOS DE PENSIONES UNO S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: ▪ Previsional
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
