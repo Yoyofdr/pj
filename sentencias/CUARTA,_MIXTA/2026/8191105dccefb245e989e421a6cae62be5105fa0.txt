@@ -1,0 +1,86 @@
+METADATA
+
+case_id: 8191105dccefb245e989e421a6cae62be5105fa0
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8059529
+
+rol: 10249-2026
+
+fecha_sentencia: 2026-03-12
+
+caratulado: COMPAÑIA PUERTO DE CORONEL S.A. CON INSPECCION COMUNAL DEL TRABAJO DE CORONEL
+
+sala: CUARTA, MIXTA
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: INADMISIBLE,UNIFICACIÓN DE JURISPRUDENCIA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, doce de marzo de dos mil veintiséis.
+A los alegatos solicitados en los escritos folios 5 y 7: atento a lo dispuesto por el Auto Acordado sobre la forma de conocimiento del recurso de Apelación de los Recursos de Amparo ante esta Corte Suprema, registrado en el Acta N° 105-2024 de esta Excma. Corte Suprema, publicado con fecha 17 de mayo de 2024, y no habiéndose justificado suficientemente la necesidad de escuchar alegatos en atención al derecho invocado, no ha lugar.
+Vistos:
+Previa eliminación de su considerando sexto, se confirma la sentencia apelada de veintiséis de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Iquique, en el Ingreso Corte N°Amparo-63-2026.
+Regístrese y devuélvase.
+Rol N°10629-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Iquique, veintiséis de febrero de dos mil veintiséis.
+
+VISTO:
+
+Comparece Ingrid Yáñez Bolvarán, defensora penal pública penitenciaria, a favor de Maykol Andrés Esquivel Martínez, actualmente privado de libertad en el Complejo Penitenciario de Alto Hospicio, por quien deduce acción de amparo constitucional en contra de la resolución dictada el 26 de diciembre de 2025, en causa RIT 6391-2022 RUC 2200615490-9 del Juzgado de Garantía de Iquique, en virtud de la cual rechazó la solicitud de unificación de penas solicitadas en beneficio del amparado.
+
+Refiere que el tribunal fundo su decisión en que los delitos por los cuales fue condenado, no se pueden unificar debido a que seguiría siendo la misma pena en caso de haberse conocido y juzgado conjuntamente las causas, por ende, no podría aplicarse lo preceptuado en el artículo 164 del Código Orgánico de Tribunales y artículo 351 del Código de Procedimiento Penal.
+
+Expone que amparado cumple condena en dos causas, RIT 6391-2022 por cuatro delitos de robo con intimidación, con pena de 8 años de presidio mayor en su grado mínimo, y RIT 4686-2022 por robo con intimidación, con pena de 5 años y un día de presidio mayor en su grado mínimo. Considera que atendida la fecha de comisión de los hechos y de sus sentencias y además son de la misma especie la defensora estimó procedente la unificación de penas conforme al artículo 164 del COT, en relación con el artículo 351 del CPP, solicitando fijar una pena única de 10 años y 1 día de presidio mayor en su grado medio, o la que el tribunal determine en derecho. Sin embargo, la jueza rechazó la solicitud argumentando que la sumatoria de penas no excedería la pena que habría correspondido en un juzgamiento conjunto.
+
+Estima que dicha decisión priva ilegalmente al condenado de una rebaja de pena y prolonga indebidamente su privación de libertad, vulnerando la libertad personal y seguridad individual garantizadas por el artículo 19 N°7 de la Constitución, por lo que solicita acoger el amparo y disponer la unificación de penas fijando una pena única conforme a derecho, ordenando además el nuevo cómputo penitenciario. Acompaña documentos.
+
+Evacúa informe don Diego Reyes López juez de garantía de Iquique, en calidad de juez de apoyo por cuanto la magistrada Verónica Opazo Miranda, quien dicto la resolución impugnada, se encuentra haciendo uso de feriado legal.
+Señala que consta en el sistema del Juzgado de Garantía que el amparado cumple pena efectiva en dos causas: la RIT 4.686-2022 RUC 2200888593-5, con condena de 5 años y 1 día por robo con intimidación, impuesta por sentencia del TOP de Iquique de 15 de abril de 2024; y la RIT 6.391-2022 RUC 2200615490-9, con pena única de 8 años por cuatro delitos de robo con intimidación, impuesta por sentencia del Juzgado de Garantía de Iquique de 15 de mayo de 2024. Según Gendarmería, comenzó a cumplir condena el 11 de julio de 2023 y su fecha de término prevista es el 07 de abril de 2036.
+
+Señala que el 10 de diciembre de 2025 en la causa donde se pronunció la última sentencia, esto es la RIT 6.391-2022, RUC 2200615490-9, del Juzgado de Garantía de Iquique, la defensa solicitó unificar condenas alegando que los delitos pudieron juzgarse conjuntamente por tratarse de ilícitos de la misma especie. Sin embargo, en audiencia de 26 de diciembre de 2025, luego de oír la pretensión de la defensa penitenciaria y la oposición del Ministerio Público, la jueza rechazó la petición estimando que, aun cuando en un juzgamiento conjunto la pena partiría en 10 años y un día, la suma de 13 años y un día resulta razonable frente a cinco delitos de robo con intimidación, manteniéndose la sentencia originalmente dictada en la causa RIT 6.391-2022, RUC 2200615490-9. Acompaña antecedentes.
+Se trajeron los autos en relación.
+
+CON LO RELACIONADO Y CONSIDERANDO:
+
+PRIMERO: El artículo 21 de la Constitución Política de la República prevé que todo individuo que se hallare arrestado, detenido o preso con infracción de lo dispuesto en la Constitución o en las leyes, podrá ocurrir por sí, por cualquiera a su nombre, a la magistratura que señale la ley, a fin de que ésta ordene se guarden las formalidades legales y adopte de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado. Y agrega que el mismo recurso podrá ser deducido a favor de toda persona que ilegalmente sufra cualquiera otra privación, perturbación o amenaza en su derecho a la libertad personal y seguridad individual.
+
+SEGUNDO: Que comparece la defensa del amparado deduciendo recurso de amparo en contra de una sala del Tribunal de Juicio Oral en lo Penal de Iquique, alegando que lo privó de libertad de forma ilegal por un tiempo mayor al que corresponde, al no considerar en la especie la aplicación de la unificación de penas, cuestión que pudo significar una sanción de menor cuantía a la impuesta.
+
+TERCERO: El artículo 164 del Código Orgánico de Tribunales dispone: “Cuando se dictaren distintas sentencias condenatorias en contra de un mismo imputado, los tribunales que dictaren los fallos posteriores al primero no podrán considerar circunstancias modificatorias que de haberse acumulado los procesos no se hubieren podido tomar en cuenta. Deberán, asimismo, regular la pena de modo tal que el conjunto de penas no pueda exceder de aquella que hubiere correspondido de haberse juzgado conjuntamente los delitos.
+
+En los casos del inciso anterior, el tribunal que dictare el fallo posterior deberá modificarlo, de oficio o a petición del afectado, a objeto de adecuarlo a lo allí dispuesto”.
+
+CUARTO: Que, por otro lado, el artículo 351 del Código Procesal Penal establece: “Reiteración de crímenes o simples delitos de una misma especie. En los casos de reiteración de crímenes o simples delitos de una misma especie se impondrá la pena correspondiente a las diversas infracciones, estimadas como un solo delito, aumentándola en uno o dos grados.
+
+Si, por la naturaleza de las diversas infracciones, éstas no pudieren estimarse como un solo delito, el tribunal aplicará la pena señalada a aquella que, considerada aisladamente, con las circunstancias del caso, tuviere asignada una pena mayor, aumentándola en uno o dos grados, según fuere el número de los delitos.
+
+Podrá, con todo, aplicarse las penas en la forma establecida en el artículo 74 del Código Penal si, de seguirse este procedimiento, hubiere de corresponder al condenado una pena menor.
+
+Para los efectos de este artículo, se considerará delitos de una misma especie aquellos que afectaren al mismo bien jurídico”.
+
+QUINTO: Que de la relación de las normas transcritas se colige que la defensa estima que la aplicación de la regla del inciso primero del artículo 351 del Código Procesal Penal, en caso de haberse juzgado de forma conjunta todos los delitos por los cuales fue condenado el amparado, hubiera implicado una pena inferior a la impuesta en definitiva, de modo tal que debe declararse la unificación de las penas y establecer en este caso, por la comisión de cinco delitos de robo un intimidación una pena de 10 años y un día o la que determine esta Corte en conformidad a derecho.
+
+SEXTO: En este contexto, atendido los antecedentes y las sentencias acompañadas, particularmente la sentencia en procedimiento abreviado del Juzgado de Garantía de Iquique de Iquique en causa RIT N°6391-2022 de 15 de mayo de 2024 y, por otro lado, la sentencia del Tribunal Oral en lo Penal en causa RIT N°858-2023 de 15 de abril de 2024, dan cuenta que no se pueden unificar las condenas por cuanto en la primera de las sentencias referidas el Ministerio Público rebajó la pena solicitada en la acusación fiscal, a fin de tramitarla conforme al procedimiento abreviado, lo que supone acuerdo respecto de diversas circunstancias, en especial la cuantía de la pena y reconocimiento de circunstancias atenuantes, y en consecuencia anuencia para proceder por esa vía especial, de manera que hoy resulta imposible valorar los hechos juzgados para los efectos de aplicar los artículos 351 del Código Procesal Penal y 164 del Código Orgánico de Tribunales.
+
+SÉPTIMO: Que, por otro lado, para que pueda prosperar una acción cautelar como la impetrada, la perturbación o amenaza a la libertad personal que se denuncia debe ser ilegal, lo que en la especie no ocurre, desde que el juez recurrido obró dentro de la esfera de sus facultades y atribuciones, en un procedimiento legalmente tramitado, con fundamentos plausibles y razonables que descartan a su vez la arbitrariedad, no existiendo por ende vulneración de la garantía constitucional señalada en el recurso.
+
+OCTAVO: A mayor abundamiento, en el mismo sentido de la fundamentación de la resolución impugnada, la pena asociada al delito de robo con intimidación en virtud del artículo 436 del Código Penal, corresponde a la de presidio mayor en sus grados mínimo a máximo, cualquiera que sea el valor de las especies sustraídas. De tal forma, que la aplicación de la regla de reiteración de crímenes de la misma especie, habría permitido al tribunal establecer una pena superior a la que en definitiva el condenado se encuentra cumpliendo, de tal modo que la petición de la defensa carece de fundamento.
+
+NOVENO: Que, finalmente, la decisión del tribunal del grado no afecta la libertad del amparado ilegalmente, desde que aquel se encuentra cumpliendo condenas establecidas por sentencias firmes y ejecutoriadas, habiéndose rechazado la unificación de penas, además, por un tribunal competente y de manera fundada.
+
+Por estas consideraciones y de conformidad, además, con lo prevenido en el artículo 21 de la Constitución Política de la República y Auto Acordado de la Excelentísima Corte Suprema de Justicia sobre la materia, SE RECHAZA la acción constitucional de amparo deducida a favor de Maykol Andrés Esquivel Martínez.
+
+Regístrese, comuníquese y en su oportunidad, archívese.
+
+Rol N°63-2026 Amparo.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, doce de marzo de dos mil veintiséis. A los alegatos solicitados en los escritos folios 5 y 7: atento a lo dispuesto por el Auto Acordado sobre la forma de conocimiento del recurso de Apelación de los Recursos de Amparo ante esta Corte Suprema, registrado en el Acta N° 105-2024 de esta Excma. Corte Suprema, publicado con fecha 17 de mayo de 2024, y no habiéndose justificado suficientemente la necesidad de escuchar alegatos en atención al derecho invocado, no ha lugar.Vistos:Previa eliminación de su considerando sexto, se confirma la sentencia apelada de veintiséis de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Iquique, en el Ingreso Corte N°Amparo-63-2026.Regístrese y devuélvase.Rol N°10629-2026. Santiago, doce de marzo de dos mil veintiséis. A los alegatos solicitados en los escritos folios 5 y 7: atento a lo dispuesto por el Auto Acordado sobre la forma de conocimiento del recurso de Apelación de los Recursos de Amparo ante esta Corte Suprema, registrado en el Acta N° 105-2024 de esta Excma. Corte Suprema, publicado con fecha 17 de mayo de 2024, y no habiéndose justificado suficientemente la necesidad de escuchar alegatos en atención al derecho invocado, no ha lugar.Vistos:Previa eliminación de su considerando sexto, se confirma la sentencia apelada de veintiséis de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Iquique, en el Ingreso Corte N°Amparo-63-2026.Regístrese y devuélvase.Rol N°10629-2026. Sentencia anonimizada

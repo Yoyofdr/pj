@@ -1,0 +1,449 @@
+METADATA
+
+case_id: 8e90a46b4e05d761443de9e24271e4eda5703589
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8059927
+
+rol: 10695-2026
+
+fecha_sentencia: 2026-03-12
+
+caratulado: MAMANI/SERVICIO NACIONAL DE MIGRACIONES DE CHILE
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, doce de marzo de dos mil veintiséis.
+
+VISTOS Y TENIENDO PRESENTE:
+1°.- Que, en este juicio ejecutivo, se ha ordenado dar cuenta de la admisibilidad del recurso de casación en el fondo deducido por la parte ejecutante, en contra de la sentencia dictada por la Corte de Apelaciones de Santiago, la cual confirmó el fallo de primera instancia de veintidós de junio de dos mil veintitrés, que acogió la excepción 17ª del artículo 464 del Código de Procedimiento Civil, poniendo fin a la ejecución.
+
+2°.- Que, en concepto del recurrente, la sentencia impugnada ha incurrido en los siguientes errores de derecho: a) infringió el inciso segundo del artículo 13 de la Ley N° 20.027 y los artículos 13, 22 y 24 del Código Civil, por cuanto restringió la imprescriptibilidad a las cuotas y no a la totalidad de la deuda, en circunstancias que la ley obliga al Estado a perseguir su cobro hasta la total extinción de la deuda; b) se han infringido, también, los incisos primero, segundo y tercero del artículo 18 bis de la Ley N° 20.027, en relación con el artículo 41 de su Reglamento, y el artículo 1610 N°3 del Código Civil, toda vez que se acreditó el pago efectuado por el Fisco y, con ello, la subrogación legal en favor de éste; c) se han infringido, además, los artículos 1699 y 1700 del Código Civil, por cuanto la Resolución Exenta N° 26/2021 constituye plena prueba de haberse hecho efectiva la garantía estatal; d) se ha contravenido, asimismo, el artículo 1545 del Código Civil, por cuanto las Bases de Licitación, su Reglamento, el Contrato para el Financiamiento de la Educación Superior con Aval del Estado y sus Anexos constituyen la ley del contrato; y e) se ha infringido, por último, el artículo 464 N°17 del Código de Procedimiento Civil, toda vez que debió rechazarse la excepción de prescripción.
+
+3°.- Que, de la lectura del libelo que contiene el recurso de casación en estudio, es posible constatar que la parte recurrente omitió extender la infracción legal denunciada a normas que, en la especie, tienen el carácter de decisorias de la litis, esto es, a preceptos que, al ser aplicados, permiten resolver la cuestión controvertida, tales como los artículos 2514 y 2515 del Código Civil y los artículos 98, 100 y 107 de la Ley N° 18.092; exigencia que no se satisface con la sola mención al momento de fundamentar las infracciones legales que sustenta el recurso de nulidad sustantivo.
+
+Siendo ello así, las normas indicadas en el recurso como infringidas no constituyen motivo plausible para dar acogida a la casación en el fondo que las contiene, por lo que cabe concluir que el recurso interpuesto adolece de manifiesta falta de fundamento.
+
+Por estas consideraciones y de conformidad además con lo dispuesto en los artículos 767, 772 y 782 del Código de Procedimiento Civil, se rechaza el recurso de casación en el fondo interpuesto por el abogado Felipe Frías Jones, en representación de la parte ejecutante, en contra de la sentencia dictada por la Corte de Apelaciones de Santiago, de fecha veintidós de enero de dos mil veintiséis.
+
+Regístrese y devuélvase.
+
+Rol Nº 8.215 - 2026
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Santiago
+Santiago, veintidós de enero de dos mil veintiséis.
+
+Visto:
+
+Se reproduce la sentencia en alzada.
+
+Y se tiene, además, presente:
+
+Primero: Que en cuanto a la alegación de imprescriptibilidad esgrimida por la parte ejecutante, corresponde reiterar lo señalado por esta Corte en pronunciamientos similares, en orden que el inciso segundo del artículo 13 de la Ley N°20.027, que establece Normas para el Financiamiento de Estudios de Educación Superior, dispone que “las cuotas impagas del deudor, sea por cesantía o cualquier otra causal, no prescribirán, debiendo el Estado proceder al cobro de las mismas hasta la total extinción de la deuda, utilizando para ello los mecanismos establecidos en el Título V”, esto es, establece como supuesto de hecho de aplicación que el pago del crédito se haya dividido en cuotas, cuestión que no acontece en el caso de la especie, en que la obligación de que se trata, en los títulos cuyo cobro se persigue, se pactó en un pago único y a un día fijo y determinado.
+
+Segundo: Que, la imprescriptibilidad a que se refiere esta norma únicamente resulta aplicable a los casos en que el pago de las deudas por financiamiento de estudios de educación superior ha sido pactado en cuotas, para impedir la extinción por prescripción, precisamente, de aquellas que de manera sucesiva se vayan devengando y provocar que el plazo de este modo de extinguir las obligaciones comience a computarse sólo cuando se venza la última cuota. No ha consagrado la citada Ley N° 20.027 una imprescriptibilidad total de las obligaciones a que ella se refiere, sino únicamente de las cuotas -como lo señala de modo explícito- en que se divida el pago.
+
+Tercero: Que, debido a lo anterior, configurándose lo supuestos de la prescripción extintiva alegada, corresponde que la excepción del N° 17 del artículo 464 del Código de Procedimiento Civil opuesta por la parte ejecutada sea acogida.
+
+Cuarto: Que la circunstancia que en esta instancia haya comparecido la Tesorería General de la República dando cuenta que pagó parte del crédito cobrado en este juicio no modifica lo resuelto, ya que de conformidad con lo dispuesto en el artículo 13 de la Ley N° 20.087, el ente público no fue quien ejerció la acción ejecutiva, en tanto que tampoco hizo uso del procedimiento que esa norma establece.
+
+Por estas consideraciones y visto, además, lo dispuesto en las normas legales citadas y en los artículos 186 y siguientes del Código de Procedimiento Civil, se confirma la sentencia de veintidós de junio de dos mil veintitrés, dictada por el Vigésimo Juzgado Civil de Santiago en la causa Rol N° 9.822-21.
+
+Regístrese y devuélvase.
+
+Redacción del ministro señor Rodríguez Moreno.
+
+N°Civil-11743-2023.
+
+Pronunciada por la Séptima Sala de la Iltma. Corte de Apelaciones de Santiago, presidida por el ministro señor José Pablo Rodríguez Moreno e integrada por la ministra (S) señora Paulina Roncagliolo Hantke y por el abogado integrante señor Manuel Luna Abarza. No firma la ministra (S) señora Roncagliolo por haber terminado su suplencia.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+NOMENCLATURA : 1. [40]Sentencia
+
+JUZGADO : 20º Juzgado Civil de Santiago
+
+CAUSA ROL : C-9822-2021
+
+CARATULADO : ITAU CORPBANCA S.A./GÁLVEZ
+
+Santiago, veintidós de junio de dos mil veintitrés.
+
+VISTOS:
+
+Al folio 1, comparece don Felipe Hernán Frías Jones, abogado, mandatario
+
+judicial del BANCO ITAÚ CORPBANCA, sociedad anónima bancaria, continuador legal
+
+de Banco Corpbanca, cuyo representante legal es el gerente general don Gabriel Amado
+
+De Moura, ingeniero comercial, todos con domicilio en Agustinas 1291, Piso 6, Oficina G,
+
+comuna de Santiago; interponiendo demanda ejecutiva en contra de don SAUL NICOLAS
+
+GALVEZ OLATE, ignora profesión u oficio, domiciliado en Wagner 82, Condeores de
+
+Chile, El Bosque, Santiago.
+
+Funda su demanda señalando que el demandado es deudor vencido de los
+
+siguientes pagarés:
+
+i) Pagaré de monto capital equivalente a 20,4519 Unidades de Fomento, suscrito
+
+con fecha 12 de octubre de 2021, y con vencimiento para el día 10 de noviembre de 2021
+
+y;
+
+ii) Pagaré de monto capital equivalente a 184,0673 Unidades de Fomento, suscrito
+
+con fecha 12 de octubre de 2021, y con vencimiento para el día 10 de noviembre de 2021.
+
+Señala que dichos pagarés están suscritos por el representante del Banco, en
+
+virtud de la cláusula decimoquinta, numerales uno, dos y tres del Contrato de Apertura
+
+que acompaña a su demanda, a la orden de Corpbanca, hoy denominado Itau Corpbanca.
+
+Indica que la sumatoria de ambos montos de capital ya referidos, y por el cual se
+
+solicita se despache mandamiento de ejecución y embargo, asciende a la cantidad de UF
+
+204,5192.
+
+Menciona que en los documentos antes referidos se estipuló que el capital
+
+adeudado devengará a contar del 10 de noviembre de 2021, y hasta la fecha de su pago
+
+efectivo, intereses a la tasa de interés máxima convencional vigente para operaciones de
+
+crédito de dinero reajustables en moneda nacional.
+
+Agrega que además se estipuló que, en caso de mora o simple retardo en el pago
+
+del capital adeudado, se devengará un interés penal igual al interés máximo convencional
+
+que sea permitido estipular para operaciones en moneda nacional reajustables, que se
+
+encuentre vigente a la fecha en que se produzca la mora o simple retardo o la que se
+
+encuentre vigente al momento del pago de la obligación adeudada en virtud de estos
+
+Código: GDXCXFMYGKZ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+pagarés. El interés penal se calculará sobre el capital adeudado y comenzará a regir
+
+desde la mora o simple retardo hasta la fecha de pago efectivo de lo adeudado.
+
+Asegura que los documentos que por este acto se cobran se aceleran en virtud de
+
+la cláusula decimosexta del Contrato de Apertura de Línea de Crédito para Estudiantes de
+
+Educación Superior, con Garantía Estatal, según Ley Nº 20.027, que suscribió el
+
+demandado de autos con su representada y cuyas firmas fueron autorizadas ante notario
+
+público.
+
+Detalla que el suscriptor liberó a la acreedora de la obligación de protesto.
+
+Sostiene que la firma del suscriptor en los referidos pagarés se encuentra
+
+autorizada ante Notario; y cuya delegación para suscribir y llenar los pagarés se
+
+perfeccionó en forma consensual sin mayores formalidades, en virtud de la cláusula
+
+decima quinta, numerales uno, dos y tres del referido contrato, por lo que el título goza de
+
+mérito ejecutivo; la deuda es líquida, actualmente exigible, y su acción no se encuentra
+
+prescrita.
+
+Previas citas legales, solicita tener por deducida demanda en juicio ejecutivo en
+
+contra de la parte demandada, ya individualizada, admitirla a tramitación y ordenar se
+
+despache mandamiento de ejecución y embargo en su contra por la cantidad que indica,
+
+pagadera según valor de la unidad de fomento al día del pago, por concepto de capital,
+
+más los intereses pactados, devengados y los que se devenguen hasta el día del exacto e
+
+íntegro pago de la obligación, requerir de pago al deudor y disponer se siga adelante esta
+
+ejecución hasta que a su representada se le haga entero y cumplido pago de lo
+
+adeudado, con expresa condena en costas.
+
+Al folio 24, comparece el demandado, debidamente representado, oponiendo la
+
+excepción contemplada en el número 17 del artículo 464 del Código de Procedimiento
+
+Civil, esto es, la prescripción de la deuda o sólo de la acción ejecutiva, y solicita tenerse
+
+por expresamente notificado y requerido de pago, a lo que el tribunal accede y se le tiene
+
+por notificado y requerido de pago a contar del 29 de mayo de 2023.
+
+Señala que, de acuerdo a los dichos del ejecutante, los pagarés son a plazo y el
+
+artículo 49 de la Ley N° 18.092 sobre letra de cambio y pagaré es aplicable en la especie
+
+en virtud de lo previsto en el artículo 107 del mismo cuerpo legal.
+
+Expone que la fecha de vencimiento de los pagarés es el 10 de noviembre de
+
+2021, fecha en que no se notificó la demanda ni se realizó el requerimiento de pago,
+
+transcurriendo con creces el plazo de prescripción de un año contemplado en el artículo
+
+98 de la ley 18.092 para las acciones cambiarias emanadas de los documentos
+
+mercantiles, por lo que las acciones derivadas de los pagarés de autos, se encuentran
+
+total e indudablemente prescritas.
+
+Código: GDXCXFMYGKZ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Señala que tanto la entrada en vigencia de la ley N° 21.226 y la Ley N° 21.379, no
+
+afectan el computo del plazo para determinar la prescripción de los pagarés, pues no se
+
+han cumplido alguna de las condiciones señaladas por el legislador en estas normas de
+
+excepción, beneficiando al deudor para liberarse por medio de la prescripción de la acción
+
+cambiaria.
+
+Concluye, solicitando tener por opuesta la excepción, declararla admisible; y, en
+
+definitiva, negar lugar la ejecución de autos, con expresa condenación en costas.
+
+Al folio 28, la ejecutante evacua el traslado conferido y solicita que la excepción
+
+de prescripción sea rechazada en todas sus partes.
+
+Señala que la deuda cobrada en este proceso no se encuentra prescrita, pues este
+
+tipo de obligaciones cuentan con el beneficio legal de imprescriptibilidad.
+
+Agrega que consta de los estampados receptoriales, que, la parte demandada no
+
+logró ser notificada, por cuanto no fue posible su ubicación en el domicilio señalado en
+
+autos, para efectos de su emplazamiento. A consecuencia de lo anterior, la garantía
+
+estatal que caucionaba la obligación se hizo efectiva, procediéndose a su cobro en
+
+conformidad a la Ley, hecho del cual se dio cuenta en autos el 21 de julio de 2022.
+
+Señala que ya cobrada la garantía, tiempo después la parte demandada ha
+
+comparecido en el juicio dándose por notificada y por requerida de pago, oponiendo la
+
+excepción prescripción de los pagarés objeto de la demanda ejecutiva, desatendiendo
+
+abiertamente la calidad de imprescriptible de que gozan estas obligaciones por expreso
+
+mandato legal, según el inciso segundo del art. 13 de la Ley N° 20.027, en cuya virtud, a
+
+las obligaciones contraídas al amparo de dicha ley no les son aplicables las normas de la
+
+prescripción liberatoria y, en consecuencia, la parte demandada mal puede pretender
+
+eximirse del pago de las obligaciones por la vía de la excepción que nos ocupa. Cita
+
+jurisprudencia al respecto.
+
+Al folio 29, se tiene por evacuado traslado, se declara admisible la excepción de
+
+prescripción opuesta, prescindiéndose de recibir la causa a prueba y se cita a las partes a
+
+oír sentencia.
+
+CON LO RELACIONADO Y CONSIDERANDO:
+
+1°.- Que, atendida la excepción opuesta, es necesario tener en consideración el
+
+artículo 2514 del Código Civil, que dispone que la prescripción que extingue las acciones
+
+y derechos ajenos, exige sólo el transcurso de cierto lapso de tiempo en el cual no se
+
+hayan ejercido dichas acciones, y, en su inciso segundo, agrega que este lapso de tiempo
+
+se cuenta desde que la obligación se ha hecho exigible.
+
+Código: GDXCXFMYGKZ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Por otra parte, el artículo 2515 del mismo código, establece que el tiempo para que
+
+opere la extinción es, en general, de tres años para las acciones ejecutivas y de cinco
+
+años para las ordinarias.
+
+2°.- Que, tal como prescribe el artículo recién referido, el plazo previsto es en
+
+general de tres años para los juicios ejecutivos, carácter que reviste el presente litigio; no
+
+obstante, dicho plazo puede ser modificado por el legislador en virtud de disposiciones
+
+especiales, tal como ocurre en la especie, pues se persigue el cobro de un pagaré, cuya
+
+reglamentación se encuentra contenida en la Ley N° 18.092.
+
+El artículo 98 de la citada ley dispone que “el plazo de prescripción de las acciones
+
+cambiarias del portador contra los obligados al pago es de un año, contado desde el día
+
+del vencimiento del documento”, lo que hace aplicable a los pagarés en virtud de lo
+
+dispuesto en su artículo 107.
+
+3°.- Que, el vencimiento de los pagarés cuyo cobro se pretende, se produjo el día
+
+10 de noviembre de 2021, por lo que, para dilucidar la procedencia de acoger la
+
+excepción opuesta, sólo resta determinar cuándo se produjo la interrupción de la
+
+prescripción en este caso.
+
+4°.- Que, el artículo 100 de la Ley N°18.092, en relación al artículo 107 de la
+
+misma, dispone, que respecto de los pagarés “la prescripción se interrumpe sólo respecto
+
+del obligado a quien se notifique la demanda judicial de cobro”. Dicha notificación fue
+
+practicada el día 29 de mayo de 2023; por ello, el plazo de un año, previsto por el artículo
+
+98 de la ley citada, para que opere la prescripción, se encontraba vencido al momento de
+
+su interrupción, razón por la cual la excepción opuesta será acogida.
+
+5°.- Que, sin perjuicio de que los pagarés objeto de marras corresponden a unos
+
+suscritos al alero de lo dispuesto en la Ley N° 20.027, Norma Para el Financiamiento de
+
+Estudios de Educación Superior, en cuyo artículo 13 inciso 2° establece que: “En
+
+cualquier caso, las cuotas impagas del deudor, sea por cesantía o cualquier otra causal,
+
+no prescribirán, debiendo el Estado proceder al cobro de las mismas hasta la total
+
+extinción de la deuda, utilizando para ello los mecanismos establecidos en el Título V”,
+
+dicho mandato no es extensivo a la acción ejecutiva que emana del pagaré, hipótesis para
+
+la cual seguirá rigiendo la Ley N° 18.092 sobre Letra de Cambio y Pagaré; debiendo
+
+prevenirse que la garantía introducida por la Ley N° 20.027 está establecida en favor del
+
+Fisco de Chile y para obligaciones pagaderas en cuotas, presupuestos que en la especie
+
+no concurren, por lo que dicha circunstancia no altera lo razonado en esta sentencia.
+
+6°.- Que, del tenor literal de la norma señalada en el considerando anterior, fluye
+
+con claridad que el beneficio excepcionalísimo de imprescriptibilidad de la deuda, por
+
+concepto de obligaciones contraídas bajo la modalidad del llamado crédito con aval del
+
+Estado, está establecido únicamente en favor del Fisco, sin que tal beneficio alcance a la
+
+Código: GDXCXFMYGKZ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+institución bancaria mutuante, sino en la medida que cumpla con las condiciones previstas
+
+en la Ley y haya sido debidamente facultada para su cobro.
+
+Así, el alcance del artículo 13 inciso 2º de la Ley Nº20.027, en tanto norma
+
+excepcional, que afecta el régimen general de prescripción, impone a quien pretende
+
+beneficiarse de la excepcionalidad de imprescriptibilidad, deba acreditar los supuestos
+
+sustantivos que determinan esa condición y que no son sino que el crédito tenga como
+
+titular al Fisco o que a su respecto, se haya hecho efectiva la garantía.
+
+7°.- Que, se debe destacar que el Fisco, en todo caso, conserva para sí el atributo
+
+de la imprescriptibilidad del crédito previsto en el artículo 13 inciso 2° de la Ley N° 20.027,
+
+para su cobro en cualquier momento.
+
+De esta forma, no puede tener aplicación una norma excepcional como la
+
+indicada, por lo que la imprescriptibilidad no beneficia al mutuante, quien debe perseguir
+
+el cobro de lo que se le adeuda conforme a las normas generales que regulan la materia
+
+sin el beneficio indicado, razón por la que la excepción de prescripción será acogida.
+
+8°.- Que, en conformidad al artículo 471 del Código de Procedimiento Civil, se
+
+condenará en costas al ejecutante.
+
+Por estas consideraciones, y visto además lo dispuesto en los artículos 1545,
+
+1551, 1698, 2514, 2515 y siguientes del Código Civil; Ley N° 18.092; 144, 160, 170, 464
+
+N° 17, 470 y 471 del Código de Procedimiento Civil; se resuelve:
+
+I. Que, se acoge la excepción de prescripción opuesta por la parte ejecutada a
+
+folio 24, y contemplada en el número 17 del artículo 464 del Código de Procedimiento
+
+Civil, y en consecuencia se pone fin a la ejecución.
+
+II. Que, se condena en costas al ejecutante.
+
+Notifíquese, regístrese y archívese en su oportunidad.
+
+Rol: C-9822-2021
+
+Dictada por Manuel Pedreros Oñate, Juez Suplente.
+
+Se deja constancia que se dio cumplimiento a lo dispuesto en el inciso final del
+
+artículo 162 del Código de Procedimiento Civil. En Santiago, veintidós de junio de dos
+
+mil veintitrés.
+
+Código: GDXCXFMYGKZ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Código: GDXCXFMYGKZ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2023-06-22T18:24:32-0400

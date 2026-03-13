@@ -1,0 +1,82 @@
+METADATA
+
+case_id: 0df6f6cb438ac97d429e447d3646d7ee658ac9c3
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8059508
+
+rol: 10526-2026
+
+fecha_sentencia: 2026-03-12
+
+caratulado: VALDEBENITO MANRIQUEZ MARIO ALEXANDER CONTRA SEGUNDA SALA ILTMA. CORTE APELACIONES CONCEPCION
+
+sala: SEGUNDA, PENAL
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, doce de marzo de dos mil veintiséis.
+A los alegatos solicitados en escrito folio N°5: atento a lo dispuesto por el Auto Acordado sobre la forma de conocimiento del recurso de Apelación de los Recursos de Amparo ante esta Corte Suprema, registrado en el Acta N° 105-2024 de esta Excma. Corte Suprema, publicado con fecha 17 de mayo de 2024, y no habiéndose justificado suficientemente la necesidad de escuchar alegatos en atención al derecho invocado, no ha lugar.
+Vistos:
+Se confirma la sentencia apelada de veinte de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Arica, en el Ingreso Corte N°Amparo-81-2026.
+Regístrese y devuélvase.
+Rol N°10625-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Arica, veinte de febrero de dos mil veintiséis.
+
+VISTO:
+
+Comparece Alejandro Orizola Peña, abogado, por la defensa del imputado RENE ANTONIO JIMÉNEZ SERRANO y deduce acción constitucional de amparo en contra de la resolución dictada el 10 de febrero de 2026 por la Corte de Apelaciones de Iquique que confirmó la medida cautelar de prisión preventiva de su representado.
+
+Refiere que al resolver confirmar la decisión de primera instancia apelada en su considerando TERCERO, se justificó la prisión preventiva del modo siguiente: “...aún en el supuesto de no operar las normas señaladas, no se aportan ni se advierten antecedentes subjetivos de una eventual resocialización...”.
+
+Explica que la interpretación rígida del artículo 62 de la Ley 20.000 que realizó el tribunal colisiona con la Ley 18.216 (reformada por la Ley 20.603) ya que la doctrina moderna entiende que las normas de reinserción son de aplicación preferente cuando la condena anterior ha perdido vigencia como factor de peligrosidad por el transcurso del tiempo, más de cinco años.
+
+Recurre de amparo por la inversión de la carga de la prueba, ya que la recurrida exige que “aporte” antecedentes de resocialización y con ello se vulnera el principio de inocencia y el estándar de la libertad como regla general, ya que la resocialización no es un beneficio que se deba comprar con pruebas sino un fin del sistema penal que el Estado debe garantizar.
+
+Del mismo la decisión recurrida petrifica el pasado judicial al basarse en sus “anotaciones prontuariales pretéritas” que datan del año 2018 y que se encuentran cumplidas, aplicando una suerte de derecho penal de autor proscrito por la Constitución, castigando al amparado por quién fue, y no por la necesidad real de cautela del proceso actual.
+
+Pide se revoque lo resuelto y se decrete la medida de arresto domiciliario total.
+
+Informando los señores ministros recurridos don Pedro Güiza Gutiérrez, doña Mónica Olivares Ojeda y doña Marilyn Fredes Araya, expusieron que en la vista del recurso, luego de oír los alegatos de rigor y teniendo presente que la defensa discutió el presupuesto de necesidad de cautela de la prisión preventiva, cuestionando la interpretación del artículo 62 de la Ley 20.000, con relación a la Ley 18.216, estimaron que el tribunal a quo analizó adecuadamente la interpretación de las normas en comento, y en base al tenor literal de aquellas, sumado a las anotaciones prontuariales pretéritas del imputado, llevaron a concluir que aún en el supuesto de no operar las normas señaladas, no se aportan, ni se advierten antecedentes subjetivos de una eventual resocialización, rechazándose la apelación a su respecto, estimando que la aplicación de otra medida cautelar menos gravosa no se avizoraba como suficiente para proteger la seguridad de la sociedad en relación con el imputado, por lo que la prisión preventiva resultaba la medida idónea y proporcional a los fines del procedimiento.
+
+Precisan que la decisión adoptada, está relacionada con la interpretación que se efectúa al artículo 62 de la Ley 20.000 y artículo 1, inciso 5, de la Ley 18.216, que prohíbe a los condenados por el tipo de delito formalizado, obtener una pena sustitutiva.
+
+De la misma manera se razonó en la resolución sobre la ausencia de antecedentes subjetivos del amparado, que permitan concluir en esta etapa acerca de su resocialización.
+
+Estiman que la acción de amparo constitucional, más que sustentarse en la ilegalidad se sustenta en la disconformidad del recurrente con la fundamentación, en consecuencia, contrariamente a lo afirmado por el recurrente, fluye del mérito de lo resuelto, que la decisión se encuentra fundada, toda vez que se sustenta en la ponderación de los antecedentes investigativos reunidos y la normativa atingente, siendo posible establecer que en esta etapa procesal, la existencia del delito de tráfico ilícito de estupefacientes en pequeñas cantidades, previsto y sancionado en el artículo 4 en relación al 1 de la Ley 20.000, además de su participación en el mismo.
+
+Finalmente, consideran que los defectos que a juicio del recurrente pueda, eventualmente, presentar la resolución, no pueden ser discutidos mediante la presente acción de amparo, por tratarse de una vía especial y urgente, que obedece a fines diversos a los pretendidos por la defensa, en cuanto busca generar una nueva instancia de revisión más allá de las vías ordinarias establecidas al efecto.
+
+Se trajeron los autos en relación
+
+CONSIDERANDO.
+
+PRIMERO: Que el recurso de amparo se ha establecido respecto de todo individuo que se hallare arrestado, detenido o preso, con infracción a lo dispuesto en la Constitución o en las leyes, o respecto de la persona que ilegalmente sufra cualquiera otra privación, perturbación o amenaza a su derecho a la libertad personal y seguridad individual, debiéndose adoptar las medidas que se estime conducentes para restablecer el imperio del derecho y asegurar la debida protección del afectado.
+
+SEGUNDO: Que, cabe considerar que el recurso de amparo exige para su procedencia que la privación de libertad de la persona por quién se recurre, obedezca a una decisión ilegal.
+
+TERCERO: Que, de la atenta lectura del recurso, resulta claro que el objetivo final de aquel es obtener la revocación de lo decidido en primera instancia por el Juzgado de Garantía de Alto Hospicio el 10 de febrero de 2026, decisión que al confirmarse por la Corte de Apelaciones de Iquique bajo el Rol N° 75-2026 Penal se encuentra firme y ejecutoriada.
+
+CUARTO: Que, conforme se desprende del arbitrio intentado y lo informado por los recurridos, no se aprecia algún acto que pueda ser calificado como ilegal, de aquellos que habilitan la procedencia de la acción que establece el artículo 21 de la Constitución Política de la República.
+
+Ello, por cuanto la decisión de confirmar lo resuelto en primera instancia, luego del debate de rigor, fundado en los artículos 62 de la Ley N° 20.000 el inciso quinto del artículo 1 de la Ley N° 18.216, no puede ser estimada ilegal, menos si la misma obedece al ejercicio de interpretación y aplicación de normas legales vigentes, el que realizaron de acuerdo a las facultades que el ordenamiento jurídico chileno les asigna, en tanto que el debate sobre el quantum de la pena definitiva y la procedencia de las penas sustitutivas previstas en la Ley N° 18.216, corresponde determinarlas a los jueces del fondo, en su oportunidad.
+
+Por estas consideraciones, normas legales citadas, y lo dispuesto en el artículo 21 de la Constitución Política de la República y en el Auto Acordado de la Excelentísima Corte Suprema sobre Tramitación y Fallo del Recurso de Amparo, del año 1932, se declara:
+
+Que SE RECHAZA el recurso de amparo deducido en el folio 1.
+
+Regístrese, notifíquese y archívese, si no se apelare.
+
+Rol N° 81-2026 amparo.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Arica, veinte de febrero de dos mil veintiséis.VISTO:Comparece Alejandro Orizola Peña, abogado, por la defensa del imputado RENE ANTONIO JIMÉNEZ SERRANO y deduce acción constitucional de amparo en contra de la resolución dictada el 10 de febrero de 2026 por la Corte de Apelaciones de Iquique que confirmó la medida cautelar de prisión preventiva de su representado.Refiere que al resolver confirmar la decisión de primera instancia apelada en su considerando TERCERO, se justificó la prisión preventiva del modo siguiente: “...aún en el supuesto de no operar las normas señaladas, no se aportan ni se advierten antecedentes subjetivos de una eventual resocialización...”.Explica que la interpretación rígida del artículo 62 de la Ley 20.000 que realizó el tribunal colisiona con la Ley 18.216 (reformada por la Ley 20.603) ya que la doctrina moderna entiende que las normas de reinserción son de aplicación preferente cuando la condena anterior ha perdido vigencia como factor de peligrosidad por el transcurso del tiempo, más de cinco años.Recurre de amparo por la inversión de la carga de la prueba, ya que la recurrida exige que “aporte” antecedentes de resocialización y con ello se vulnera el principio de inocencia y el estándar de la libertad como regla general, ya que la resocialización no es un beneficio que se deba comprar con pruebas sino un fin del sistema penal que el Estado debe garantizar. Del mismo la decisión recurrida petrifica el pasado judicial al basarse en sus “anotaciones prontuariales pretéritas” que datan del año 2018 y que se encuentran cumplidas, aplicando una suerte de derecho penal de autor proscrito por la Constitución, castigando al amparado por quién fue, y no por la necesidad real de cautela del proceso actual.Pide se revoque lo resuelto y se decrete la medida de arresto domiciliario total.Informando los señores ministros recurridos don Pedro Güiza Gutiérrez, doña Mónica Olivares Ojeda y doña Marilyn Fredes Araya, expusieron que en la vista del recurso, luego de oír los alegatos de rigor y teniendo presente que la defensa discutió el presupuesto de necesidad de cautela de la prisión preventiva, cuestionando la interpretación del artículo 62 de la Ley 20.000, con relación a la Ley 18.216, estimaron que el tribunal a quo analizó adecuadamente la interpretación de las normas en comento, y en base al tenor literal de aquellas, sumado a las anotaciones prontuariales pretéritas del imputado, llevaron a concluir que aún en el supuesto de no operar las normas señaladas, no se aportan, ni se advierten antecedentes subjetivos de una eventual resocialización, rechazándose la apelación a su respecto, estimando que la aplicación de otra medida cautelar menos gravosa no se avizoraba como suficiente para proteger la seguridad de la sociedad en relación con el imputado, por lo que la prisión preventiva resultaba la medida idónea y proporcional a los fines del procedimiento.Precisan que la decisión adoptada, está relacionada con la interpretación que se efectúa al artículo 62 de la Ley 20.000 y artículo 1, inciso 5, de la Ley 18.216, que prohíbe a los condenados por el tipo de delito formalizado, obtener una pena sustitutiva.De la misma manera se razonó en la resolución sobre la ausencia de antecedentes subjetivos del amparado, que permitan concluir en esta etapa acerca de su resocialización.Estiman que la acción de amparo constitucional, más que sustentarse en la ilegalidad se sustenta en la disconformidad del recurrente con la fundamentación, en consecuencia, contrariamente a lo afirmado por el recurrente, fluye del mérito de lo resuelto, que la decisión se encuentra fundada, toda vez que se sustenta en la ponderación de los antecedentes investigativos reunidos y la normativa atingente, siendo posible establecer que en esta etapa procesal, la existencia del delito de tráfico ilícito de estupefacientes en pequeñas cantidades, previsto y sancionado en el artículo 4 en relación al 1 de la Ley 20.000, además de su participación en el mismo.Finalmente, consideran que los defectos que a juicio del recurrente pueda, eventualmente, presentar la resolución, no pueden ser discutidos mediante la presente acción de amparo, por tratarse de una vía especial y urgente, que obedece a fines diversos a los pretendidos por la defensa, en cuanto busca generar una nueva instancia de revisión más allá de las vías ordinarias establecidas al efecto.Se trajeron los autos en relaciónCONSIDERANDO.PRIMERO: Que el recurso de amparo se ha establecido respecto de todo individuo que se hallare arrestado, detenido o preso, con infracción a lo dispuesto en la Constitución o en las leyes, o respecto de la persona que ilegalmente sufra cualquiera otra privación, perturbación o amenaza a su derecho a la libertad personal y seguridad individual, debiéndose adoptar las medidas que se estime conducentes para restablecer el imperio del derecho y asegurar la debida protección del afectado.SEGUNDO: Que, cabe considerar que el recurso de amparo exige para su procedencia que la privación de libertad de la persona por quién se recurre, obedezca a una decisión ilegal.TERCERO: Que, de la atenta lectura del recurso, resulta claro que el objetivo final de aquel es obtener la revocación de lo decidido en primera instancia por el Juzgado de Garantía de Alto Hospicio el 10 de febrero de 2026, decisión que al confirmarse por la Corte de Apelaciones de Iquique bajo el Rol N° 75-2026 Penal se encuentra firme y ejecutoriada.CUARTO: Que, conforme se desprende del arbitrio intentado y lo informado por los recurridos, no se aprecia algún acto que pueda ser calificado como ilegal, de aquellos que habilitan la procedencia de la acción que establece el artículo 21 de la Constitución Política de la República.Ello, por cuanto la decisión de confirmar lo resuelto en primera instancia, luego del debate de rigor, fundado en los artículos 62 de la Ley N° 20.000 el inciso quinto del artículo 1 de la Ley N° 18.216, no puede ser estimada ilegal, menos si la misma obedece al ejercicio de interpretación y aplicación de normas legales vigentes, el que realizaron de acuerdo a las facultades que el ordenamiento jurídico chileno les asigna, en tanto que el debate sobre el quantum de la pena definitiva y la procedencia de las penas sustitutivas previstas en la Ley N° 18.216, corresponde determinarlas a los jueces del fondo, en su oportunidad.Por estas consideraciones, normas legales citadas, y lo dispuesto en el artículo 21 de la Constitución Política de la República y en el Auto Acordado de la Excelentísima Corte Suprema sobre Tramitación y Fallo del Recurso de Amparo, del año 1932, se declara:Que SE RECHAZA el recurso de amparo deducido en el folio 1.Regístrese, notifíquese y archívese, si no se apelare.Rol N° 81-2026 amparo.

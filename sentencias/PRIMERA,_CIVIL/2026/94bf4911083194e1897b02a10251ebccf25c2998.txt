@@ -1,0 +1,824 @@
+METADATA
+
+case_id: 94bf4911083194e1897b02a10251ebccf25c2998
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8059371
+
+rol: 9276-2026
+
+fecha_sentencia: 2026-03-12
+
+caratulado: SAMUEL MARCELO SILVA MANRIQUEZ Y COMPAÑIA/22º JUZGADO CIVIL DE SANTIAGO
+
+sala: PRIMERA, CIVIL
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: INADMISIBLE CASACIÓN DE FONDO
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, doce de marzo de dos mil veintiséis.
+
+Al escrito folio N°37: atendido el mérito de lo expuesto e importando la transacción un desistimiento del recurso, téngase a la parte recurrente por desistida del recurso de unificación de jurisprudencia interpuesto y concedido contra la sentencia de cuatro de julio de dos mil veinticuatro, dictada por la Corte de Apelaciones de Santiago.
+
+Regístrese y devuélvase.
+
+N°34.093-24.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Santiago, cuatro de julio de dos mil veinticuatro.
+Vistos:
+
+Por sentencia de once de mayo de dos mil veintitrés, dictada por el Primer Juzgado de Letras del Trabajo de Santiago, en los autos RIT O-989-2022, se resolvió acoger la demanda de despido injustificado y cobro de prestaciones, solo en cuanto declara que entre las partes existió una relación laboral entre el 20 de enero de 2015 hasta el 31 de diciembre de 2021; que el despido de 26 de noviembre de 2021 es injustificado e improcedente; y condena a la demandada a pagar una indemnización por años de servicio recargada en un 50%, feriado legal, feriado proporcional y remuneraciones adeudadas, por los montos y periodos que se detallan en el fallo, más reajustes e intereses legales; y rechazar la demanda en todo lo relacionado con el cobro de cotizaciones previsionales, nulidad del despido e indemnización sustitutiva del aviso previo.
+
+Contra este fallo, la parte demandante interpone recurso de nulidad invocando la causal del artículo 477 del Código del Trabajo, esto es, por haberse dictado sentencia con infracción de ley que influye sustancialmente en lo dispositivo del fallo, en relación con el artículo 162 del mismo cuerpo legal, los artículos 17 y 19 del Decreto Ley N°3.500, y los artículos 86 y siguientes de la Ley N°20.255. En subsidio, invoca la causal del artículo 477 del Código del Trabajo, esto es, por haberse dictado sentencia con infracción de ley que influye sustancialmente en lo dispositivo del fallo, en relación con el artículo 162 del mismo cuerpo legal, y los artículos 17, 19, 83 y 84 del Decreto Ley N°3.500.
+
+Declarado admisible el recurso se procedió a su vista, oportunidad en que alegaron los abogados de las partes.
+
+Considerando:
+
+Primero: Que, la demandante invoca la causal contenida en el artículo 477 del Código del Trabajo, toda vez que, a su juicio, es errado que el tribunal concluyera la improcedencia de la indemnización sustitutiva del aviso previo en el caso de marras, por estimar que la comunicación del término de la relación laboral se produjo con una anticipación superior a treinta días en relación con el fin del contrato de trabajo. Estima que esta conclusión es contradictoria, porque el mismo fallo razona que el despido se llevó a cabo sin que se diera cumplimiento a las solemnidades del artículo 162 del Código del Trabajo, norma que, en consecuencia, se ve infringida al ser interpretada erradamente en cuando no procedería la indemnización que esta contempla en su inciso cuarto.
+
+En otro capítulo, estima que se infringen los incisos 5°, 6° y 7° de la misma disposición legal, al no dar aplicación a la nulidad del despido por considerar que la norma está pensada para aquel empleador que retiene y no entera las cotizaciones. Alega que la norma no excluye a los órganos de la Administración del Estado de la sanción en comento, y que de su simple lectura, en armonía con los artículos 41 y 58 del Código del Trabajo, y los artículos 17 y 19 del Decreto Ley N°3.500, se desprende que la intención del legislador era dar protección a las remuneraciones. Argumenta que se debe dar aplicación a la nulidad del despido en virtud del principio de supremacía de la realidad, pues se reconoció la existencia de la relación laboral.
+
+En un tercer orden de ideas, también considera que se infringen los incisos 5°, 6° y 7° del artículo 162 del Código del Trabajo, pues atentado su tenor literal y obvio, necesariamente se debe entender procedente la sanción de nulidad del despido frente al no pago de cotizaciones, pues la norma no indica que solo sea aplicable la sanción cuando el empleador actúa de mala fe o descuente cotizaciones sin enterarlas. Argumenta que el único requisito para su procedencia es el no pago cotizaciones previsionales, lo que torna la interpretación del sentenciador en una infracción de ley.
+
+Finalmente, indica que el fallo impugnado infringe el artículo 58 del Código del Trabajo, en relación con los artículos 17 y 19 del Decreto Ley N°3.500, y los artículos 86 y siguientes de la Ley N°20.255, por falsa aplicación de ley, pues, a pesar de haberse reconocido la existencia de la relación laboral, no se condena a la demandada al pago de las cotizaciones adeudadas por todo el periodo de aquella. Argumenta que de estas normas se desprende que todo empleador está obligado a descontar y pagar las cotizaciones previsionales de sus trabajadores, y resulta inadmisible traspasar esa obligación al actor, pues se trata de un mandato legal ineludible.
+
+Afirma que cuanto denuncia influye sustancialmente en lo dispositivo del fallo porque, en primer lugar, si el tribunal de instancia hubiera aplicado e interpretado correctamente el artículo 162 del Código del Trabajo, hubiese tenido que dar lugar a la petición de pago de la indemnización sustitutiva del aviso previo. En segundo lugar, si el tribunal de instancia hubiera aplicado e interpretado correctamente el artículo 58 del Código del Trabajo, en relación con los artículos 17, 19, 83 y 84 del Decreto Ley N° 3500, hubiese acogido la demanda de cobro de prestaciones sociales, ordenando a la demandada pagar los montos correspondientes a las cotizaciones de seguridad social que se devengaron durante la relación laboral, ya que la obligación de retener y enterar los montos correspondientes a cotizaciones previsionales es de la Subsecretaria, en tanto empleador. En tercer lugar, si el tribunal de instancia hubiera aplicado e interpretado correctamente los incisos 5°, 6° y 7° del artículo 162 del Código del Trabajo, hubiese tenido que dar lugar a la petición de declaración de nulidad del despido, por no encontrarse pagadas las cotizaciones de seguridad social por el empleador a la fecha.
+
+Solicita, en concreto, que se anule el fallo impugnado y se dicte sentencia de reemplazo que, manteniendo lo decidido, también condene a la demandada al pago de una indemnización sustitutiva del aviso previo, al pago de las cotizaciones previsionales por todo el periodo trabajado y acoja la acción de nulidad del despido.
+
+Segundo: Que, en subsidio, la demandante invoca como causal de nulidad nuevamente aquella del artículo 477 del Código del Trabajo, aduciendo a exactamente los mismos fundamentos, pero referido únicamente a aquellos capítulos sobre cobro de cotizaciones previsionales por todo el periodo de la relación laboral y la procedencia de la acción de nulidad del despido, los que pide tener por expresamente reproducidos.
+
+Solicita, en concreto, que se anule el fallo impugnado y se dicte sentencia de reemplazo que, manteniendo lo decidido, también condene a la demandada al pago de las cotizaciones previsionales por todo el periodo trabajado y acoja la acción de nulidad del despido.
+Tercero: Que, respecto de las causales interpuestas en subsidio por el demandante, se sustentan en lo dispuesto en el artículo 477 del Código del Trabajo, esto es, la infracción de ley, que tiene como finalidad velar por una correcta aplicación del derecho a los hechos o al caso concreto determinado en la sentencia. En otras palabras, su propósito esencial está en fijar el significado, alcance y sentido de las normas, en función de los hechos tenidos por probados.
+
+Por lo mismo, esta causal, en su segunda hipótesis, supone la aceptación de los hechos establecidos en la sentencia, por lo que la fundamentación y sustento del recurso por este motivo debe ser coincidente con ese propósito.
+
+Del mismo modo, no es factible en esta causal impugnar el raciocinio valorativo que ha efectuado la sentencia de los medios de prueba aportados en el juicio, desde que esta apreciación incide en la determinación de los hechos de la causa, lo que –como ya se dijo-es ajeno al objetivo de la infracción de ley.
+
+Asimismo, el recurrente debe indicar que modalidad de infracción de ley es la que concurre en la especie: contravención formal de la norma, falta de aplicación de la misma, aplicación indebida o errada interpretación de la ley.
+
+Por último, es necesario tener presente también que las normas que se denuncian como infringidas deben tener influencia en lo dispositivo del fallo, esto es, deben revestir el carácter de ser decisoria litis.
+
+Cuarto: Que, respecto a la primera causal interpuesta, que dice relación respecto a las infracciones alegadas a los incisos 1° y 4 del artículo 162 del Código del trabajo, en cuanto a la indemnización sustitutiva del aviso previo, además alega en un segundo acápite dentro de esta causal infracción de ley de los incisos 5, 6 y 7 del artículo 162 del Código del Trabajo, en cuanto a la sanción de la nulidad del despido por interpretación errónea, así también señala infracción a las normas ya indicadas respecto a normas de hermenéutica. Y finalmente, alega bajo esta causal infracción de ley del artículo 58 del Código del Trabajo, en relación con los artículos 17 y 19 del Decreto Ley N° 3.500 y artículo 86 y siguientes de la ley N° 20.255, por falta aplicación de ley.
+
+A este respecto, como se dijo en el motivo anterior, para que pueda prosperar la causal alegada, el recurrente en el arbitrio debe respetar el sustrato fáctico que ha establecido el sentenciador en el fallo impugnado, toda vez que esa premisa es inamovible en esta sede jurisdiccional.
+
+Es así como respecto del primer tópico, el sentenciador en el considerando trigésimo octavo, sostiene a este respecto, que “conforme la comunicación del término de la relación laboral se produjo con una anticipación superior a 30 días no se condenará a la demandada al pago de la indemnización sustitutiva de aviso previo.”
+
+En lo que dice relación al segundo acápite de la causal en comento, cabe mencionar a su respecto se debe considerar lo establecido por el sentenciador de la instancia, que indica en lo pertinente en el considerando trigésimo sexto, que señala que “en lo que se relaciona con la procedencia de aplicar la sanción del artículo 162 del Código del Trabajo, en concepto de este sentenciador cuando la relación entre un particular y la administración de estado ha sido establecida mediante una sentencia judicial, como lo ha expresado la Excelentísima Corte Suprema, entre otros, en los autos roles 4.1500-2017; 37.339-2017; 36.601-2017 y últimamente en los Roles 28.229-2018; 4.440-2019 y N° 32.749-2018, “concurre un elemento que autoriza a diferenciar la aplicación de la punición de la nulidad del despido, esto es, que fueron suscritos al amparo de un estatuto legal determinado que, en principio, les otorgó una presunción de legalidad, lo que permite entender que no se encuentran típicamente en la hipótesis para la que se previó la figura de la nulidad del despido.”
+
+Agrega el sentenciador en el motivo trigésimo séptimo, que “como los mismos fallos precitados lo expresan “…en otra línea argumentativa, la aplicación –en estos casos-, de la institución contenida en el artículo 162 del Código del Trabajo, se desnaturaliza, por cuanto los órganos del Estado no cuentan con la capacidad de convalidar libremente el despido en la oportunidad que estimen del caso, desde que, para ello, requieren, por regla general, de un pronunciamiento judicial condenatorio, lo que grava en forma desigual al ente público, convirtiéndose en una alternativa indemnizatoria adicional para el trabajador, que incluso puede llegar a sustituir las indemnizaciones propias del despido” lo que llevará a rechazar la demanda de nulidad de despido según se dirá en lo resolutivo del a sentencia.”
+
+Finalmente respecto al tercer tópico de la primera causal, el sentenciador refiere en el considerando vigésimo noveno que en lo pertinente sostiene que “el examen de la contratación del actor, con los medios de corroboración referidos, no puede encuadrarse en ninguna de las hipótesis del artículo 11 de la Ley 18.834, se añaden elementos que dan cuenta que junto a lo dicho se presentan inequívocos elementos que cuenta de la subordinación del demandante, mediante el establecimiento de una jornada plenamente coincidente con la jornada ordinaria del Código del Trabajo, pactándose además que “Las labores señaladas precedentemente, deberá ejecutarlas conforme a la normativa vigente, considerando el Plan Anual de Fiscalización, aprobado por la Subsecretaría de Transporte, y en concordancia con la programación, diaria, semanal o mensual, definida por su supervisor o encargado” descripción que denota una supervisión directa y en periodos de día, semana o mes, desprendiéndose de dichas estipulaciones, probadas además por el testimonio rendido en juicio por xx, la subordinación y dependencia que fluye no solo del descarte de la procedencia de la contratación en virtud del artículo 11 precitado, sino especialmente de configurarse las exigencias del artículo 7 del Código del Trabajo.”
+
+A raíz de ello el sentenciador determina en el considerando de trigésimo, que “de los antecedentes razonados precedente fluyen las motivaciones que llevarán a accederé a la pretensión del actor de declarar la existencia de relación laboral desde el día 20 de enero de 2015 hasta la fecha de terminación dela relación, efecto declarativo que ha de producirse desde todas las consecuencias que ha producirse desde todas las consecuencias que ha producir la declaración jurisdiccional solo a partir de su notificación y ejecutoriedad.”
+
+Lo descrito en los párrafos precedentes configuran conclusiones fácticas de la sentencia recurrida, las que difieren ostensiblemente del enfoque en cada tópico sostenido por el arbitrio, como puede colegirse de su sola lectura.
+
+Quinto: Que, como ya se indicó, es inútil por esta causal intentar cambiar o modificar los hechos establecidos en el juicio, y en lo que se ha reproducido en el motivo anterior se puede inferir que en caso alguno existe concordancia de esos hechos con las que propone la recurrente en su arbitrio.
+
+Por el contrario, el sentenciador dio por establecido y concluyó que se rechaza la demanda en lo relacionado con la demanda de cobro de cotizaciones previsionales, nulidad de despido e indemnización sustitutiva de aviso previo, razón por la cual se rechazó la demanda interpuesta por el actor.
+
+De este modo, no puede haber infracción a las normas legales denunciadas, pues en este caso concreto el sustrato fáctico fijado en la sentencia, que no puede modificarse, debe ser respetado en la causal alegada, lo que conlleva al rechazo de la causal de nulidad, por falta de fundamento, motivo por el cual ha de ser desestimada.
+
+Sexto: Que, respecto de la segunda causal de nulidad basada en lo dispuesto en el artículo 477, esto es, infracción de ley, en relación con lo establecido en el artículo 162 inciso 5°, 6° y 7° del Código del Trabajo, así como también, respecto de lo establecido en el artículo 58 del Código del Trabajo, en relación con los artículos 17, 19, 83 y 84 del Decreto Ley N° 3500, por cuanto consideramos que no aplicar la normativa antes indica era del todo improcedente en esta causa y solo se justifica al recaer el sentenciador en una errónea interpretación de lo que establecen las normas en comento, todo lo cual sustenta bajo los mismos argumentos ya indicados en los acápites precedentes del presente fallo.
+
+Séptimo: Que, a este respecto cabe mencionar lo ya indicado en los considerandos precedentes, especialmente el motivo cuarto del presente fallo que versa sobre los mismos tópicos que sustenta la causal en comento, atendido lo anterior, no cabe sino que proceder a desestimar el presente motivo de invalidación, atendido que no expresa nuevas argumentaciones que hagan modificar o agregar algún antecedente nuevo que permita hacer variar a estos sentenciadores, lo ya expresado en el considerando cuarto del caso de marras.
+
+Octavo: Que, sin perjuicio de lo ya mencionado, y considerando que el presente recurso es de derecho estricto, por ende que es insoslayable al examinar el arbitrio, conforme lo dispone el artículo 480 inciso final del Código del Trabajo, es necesario detenerse en la petición concreta de la causal subsidiaria en análisis.
+
+En lo atinente a la petición concreta, como se ha sostenido anteriormente por esta Corte, “este requisito mira a que el pedimento del libelo recursivo sea lo suficientemente detallado y pormenorizado como para bastarse a sí mismo, pues ello implica que sea, verdaderamente, concreto. Y tal detalle tiene trascendencia, pues es el petitorio el que revela las pretensiones del recurrente, tal como debe hacerlo en la demanda o contestación, según sea el caso. Además, tiene la importancia que otorga competencia al tribunal ad quem, para que éste quede en condiciones de poder resolver de la manera que interesa a quien recurre” (Corte de Apelaciones de Santiago, sentencia 20 de diciembre de 2018, Rol 602-2018).
+
+Pues bien, la causal en este punto no satisface las exigencias antes anotadas, puesto que la recurrente se limita al fundamentar su arbitrio expresamente que “hubiese tenido que dar lugar necesariamente a la petición concreta sostenida por esta parte correspondiente a la declaración de Nulidad del Despido, esto es, el pago de todas las remuneraciones y demás prestaciones que se hayan devengado entre la fecha del despido y el de la convalidación, al no surtir efecto el despido, por no encontrarse pagadas las cotizaciones de seguridad social por el empleador a la fecha.” Todo lo anterior no se condice con el petitorio realizado ya que en lo pertinente sostiene que “se dicte una de reemplazo, que mantenga lo resuelto respecto a la declaración de relación laboral, el despido injustificado, el pago de las prestaciones que fueran concedidas, correspondientes a la indemnización por años de servicio, recargo legales, feriado legal y proporcional, y remuneración por 5 días del mes de diciembre, pero que ahora condene a la demandada a la nulidad del despido y al pago de las cotizaciones previsionales por todo el periodo trabajado.”
+En efecto, las peticiones referidas son totalmente inadecuada, pues es imprecisa y genérica, y no es coincidente con los fundamentos planteados en la casual subsidiaria, ya que en ésta última se pide la convalidación, al no surtir efecto el despido, por no encontrarse pagadas las cotizaciones de seguridad social por el empleador, y en las peticiones concretas, impetra condenar a la demandada a la nulidad del despido y al pago de las cotizaciones previsionales por todo el periodo trabajado.
+
+De esta forma, las solicitudes señaladas revelan una clara falta de prolijidad de la parte petitoria del recurso, en el cual, como antes se indicó, la precisión es de suyo relevante, pues solo así logra tener competencia este Corte para decidir lo pertinente.
+
+En consecuencia, por evidente deficiencia y falta de prolijidad en las peticiones concretas de la causal subsidiaria, ésta deberá ser desestimada.
+
+Y visto, además, lo dispuesto en los artículos, 477, 479, 481 y 482 del Código del Trabajo, se rechaza, sin costas el recurso de nulidad deducido por la demandante, en contra de la sentencia de once de mayo de dos mil veintitrés, dictada por el Primer Juzgado de Letras del Trabajo de Santiago, en la causa RIT O-989-2022, sentencia que, en consecuencia, no es nula.
+
+Regístrese y comuníquese.
+
+Redactor ministro (s) señor Sergio Guillermo Córdova Alarcón.
+N° Laboral-Cobranza-1841-2023.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+1° Juzgado de Letras del Trabajo de Santiago
+
+SANTIAGO, DOCE DE MAYO DE DOS MIL VEINTITRES.
+
+VISTOS, OIDOS Y CONSIDERANDO.
+
+PRIMERO: Comparece don PEDRO IGNACIO PEÑA SANCHEZ, chileno, casado, de profesión Abogado, cédula nacional de identidad N° 16.658.896-0, en calidad de mandatario judicial, según de don JONATHAN LUCIANO GALLARDO GARCIA, chileno, casado, mecánico automotriz, cédula de identidad Nº 15.510.542-9, ambos domiciliados para estos efectos en Avenida las Condes N° 11.380, oficina N° 91, comuna de Vitacura, Región Metropolitana, quien deduce demanda de Nulidad del Despido, Despido Injustificado y Cobro de Prestaciones Laborales Adeudadas, en contra de FISCO DE CHILE, Rol Único Tributario Nº 61.806.000-4, cuyo representante legal para estos efectos es doña RUTH ISRAEL LÓPEZ, chilena, abogada, rut 9.772.243-9, Procuradora Fiscal, ambos domiciliados para estos efectos en Agustinas n° 1225, piso 4, comuna de Santiago, Región Metropolitana, conforme a los antecedentes de hecho y fundamentos de derecho que expone:
+
+Sostiene que su representado comenzó a prestar servicios bajo subordinación y dependencia a partir del 20 de enero de 2015 a favor de la Subsecretaría de Transportes (en adelante, “la Subsecretaría”), mediante múltiples contratos de honorarios, pero que en la realidad eran contratos de trabajo.
+
+Afirma que la totalidad de labores que desempeñó durante todo el periodo laboral, fueron con constantes aumentos de sus funciones y remuneraciones, hasta el momento del despido el 31 de diciembre de 2021.
+
+Refiere que durante todo el tiempo que su representado desempeñó sus servicios a favor de la demandada, trabajó como “Inspector”, del Departamento de Fiscalización y Control de la Subsecretaría de Transportes, cargo que estima estable, permanente e indispensable en la organización jerárquica de la Subsecretaría. Durante todo el periodo fue sujeto a jornadas de trabajo claramente establecidas, al poder de mando de sus superiores y, a su vez, al deber de obediencia en el desempeño de sus funciones.
+
+Agrega que los contratos celebrados con la demandada constituyen una abierta infracción a la legislación aplicable, pues corresponden a aquellos denominados “Contrato de Honorarios”. En la especie, corresponde imputarle bajo el principio de la supremacía de la realidad la calidad de una efectiva relación laboral sujeta al vínculo de subordinación y dependencia como expone.
+
+Refiere que su representado durante todo el tiempo que trabajó a favor de la demandada, esto es 6 años y 11 meses, realizó numerosas funciones, y en virtud de éstas, es que se fueron extendiendo sus labores por un extenso periodo, como se, podría verificar mediante los contratos y demás pruebas.
+
+Menciona que la Subsecretaría de Transportes es la subsecretaría de Estado dependiente del Ministerio de Transportes y Telecomunicaciones (MTT) encargada del control y supervisión en el ejercicio del transporte en el país.
+
+Sostiene que el régimen jurídico aplicable a la relación jurídica laboral entre su representado y la Subsecretaría, como MARCO REGULATORIO, es preciso señalar qué regímenes estatutarios no fueron aplicables.
+
+Indica que el mandante nunca fue contratado como funcionario en ninguna de sus categorías conforme lo dispuesto por la Ley N° 18.834 sobre Estatuto Administrativo, debido a que no ingresó a prestar servicios en la forma que dichas normativas especiales prevén, ni en las condiciones que esa normativa establece: planta; contrata; suplente.
+
+Siendo persona natural, estima su representado tampoco estuvo sometida a un estatuto especial de aquellos que aplican en la Institución.
+
+Por lo tanto, y según los contratos celebrados por el mandante y la prueba que se rendirá en su oportunidad procesal, este prestó servicios en el Departamento de Fiscalización y Control, obligándose a desarrollar, entre otras, las siguientes funciones:
+
+Sostiene que era el encargado de fiscalizar los subsidios al transporte público, fiscalizar a través de la tecnología y los medios disponibles para ellos el cumplimiento de la normativa de tránsito y normativa terrestre, debiendo denunciar al Juzgado que corresponda las infracciones que cometan.
+
+También, la fiscalización de vehículos de transportes público y privado, como taxis en todas las modalidades, transporte de cargas, y las emisiones contaminantes de los mismos, control de evasión del pago del pasaje de transporte público.
+
+Ante emergencias o catástrofes, se solicitaba realizar la labor de contingencia, manteniendo informado a la jefatura y ministerio de lo sucedido en terreno. Además, debía atender las denuncias de los usuarios (control ciudadano) concurriendo a terreno y solucionando los problemas de forma diaria, como mal servicio de transporte en cualquier modalidad, entre otras funciones.
+
+Lo anterior, no obsta a que las funciones se fueran ampliando durante la extensión de su período laboral, puesto que sus ocupaciones fueron muchas más de las que se especifican en esta demanda, las que se podrá constatar en la etapa procesal correspondiente (¿¿¿??), con la respectiva prueba documental y testimonial.
+
+Conforme lo anterior, y a pesar de las numerosas funciones descritas en los párrafos anteriores, se le contrató bajo la norma del artículo 11 de la Ley N° 18.834, esto es, aquella que permite la contratación sobre la base de honorarios a profesionales y técnicos de educación superior o expertos en determinadas materias.
+
+Sin embargo, dicha disposición establece determinadas exigencias adicionales cuales son:
+
+a)
+Que se traten de labores accidentales;
+
+b)
+Que no sean habituales;
+
+c)
+Que se trate de cometidos específicos;
+
+En efecto las labores prestadas por su representado jamás fueron no habituales de la Institución, tampoco se trató de cometidos específicos, ni mucho menos los servicios que prestó a su ex empleadora se pueden catalogar de específicos, esto es, transitorios y temporales, puesto que como se respaldará en la etapa procesal correspondiente la relación con el empleador se llevó a cabo fuera del marco legal que establece el artículo 11 de la Ley N° 18.834, siendo aplicable en este caso la norma común y general en Derecho Laboral, y el Código del Trabajo en toda su extensión.
+
+De lo antes dicho, estima resulta claro que las funciones que desarrolló su representado a favor de su ex empleadora no reunían las exigencias que para ello establece el artículo 11 de la Ley N° 18.834, norma excepcional que por lo demás debe ser interpretada en sentido estricto y restringido, y que considera dichas exigencias sólo para aceptar la existencia de un contrato de honorarios bajo dicha preceptiva.
+
+Así entonces, no estando bajo un estatuto laboral especial conforme al artículo 1 inciso 2 del Código del Trabajo, que indica al efecto: “Estas normas no se aplicarán a los funcionarios de la Administración del Estado centralizada y descentralizada, del Congreso Nacional y del Poder Judicial, ni a los trabajadores de las empresas o instituciones del Estado o de aquéllas en que éste tenga aportes, participación o representación, siempre que dichos funcionarios o trabajadores se encuentren sometidos por ley a un estatuto especial”; y tampoco siendo aplicable a este caso el artículo 11 de la ley N° 18.834 que prescribe: ““Artículo 11°.- Podrán contratarse sobre la base de honorarios a profesionales y técnicos de educación superior o expertos en determinadas materias, cuando deban realizarse labores accidentales y que no sean las habituales de la institución; mediante resolución de la autoridad correspondiente a la especialidad que se requiera. Del mismo modo se podrá contratar, sobre la base de honorarios, a extranjeros que posean título correspondiente a la especialidad que se requiera.
+
+Además, se podrá contratar sobre la base de honorarios, la prestación de servicios para cometidos específicos, conforme a las normas generales.
+
+Las personas contratadas a honorarios se regirán por las reglas que establezca el respectivo contrato y no les serán aplicables las disposiciones de este Estatuto”.
+
+Entonces procede establecer que la condición laboral de su mandante corresponde a la regla general, esto es, una relación laboral propia de un contrato de trabajo regulado por el Código del Trabajo, al ser esta la norma genérica respecto al vínculo que une a los trabajadores con sus empleadores.
+
+Afirma que el día 31 de diciembre de 2021 la Subsecretaría despidió a su representado de manera irregular y, a su vez, como se acreditará en la etapa procesal correspondiente, faltando a todo requisito legal. En efecto, no señaló con exactitud y claridad los hechos ni las causales por el cual dio término a la relación laboral; no indicó ninguna causal legal de las contenidas en el Código del Trabajo, infringiendo el artículo 162 inciso primero del citado cuerpo legal; tampoco acreditó los pagos previsionales de todo el período de la relación laboral; entre otras irregularidades.
+
+En efecto, el 26 de noviembre del año 2021, mediante correo electrónico, RRHH y el Sr Ricardo Novoa, le informan que iban a prescindir de sus funciones a partir del 31 de diciembre de 2021, argumentando que había usado muchas licencias médicas, por lo que estaba despedido. Cabe decir que, al momento del despido, el trabajador estaba con licencia médica.
+
+En consecuencia, y conforme señala el artículo 168 inciso primero, el despido debe entenderse realizado “sin invocación de causa legal”, y por tal razón debe condenarse a la empleadora al pago de las indemnizaciones contempladas en el artículo 162 inciso cuarto y 163 inciso dos, más el recargo del artículo 168 inciso primero letra b), todas normas del Código del Trabajo.
+
+Estima indispensable para los efectos de este libelo, centrar la atención en las cuantiosas diferencias que existen entre un contrato de trabajo y uno a honorarios, toda vez que la demandada no consideró al momento de celebrar contratos de honorarios con su representado, el estatuto jurídico idóneo que resultó en su momento aplicable.
+
+En tal sentido, el empleador consideró de forma unilateral las condiciones de dicho contrato y en definitiva no reconoció que en la práctica y más allá de lo que señalen los documentos, que la relación entre el mandante y la Subsecretaría constituyó un contrato de trabajo y, por ende, se alejaron claramente de lo que contempla un contrato de honorarios. Todo lo anterior basado en las siguientes diferencias que se suscitaron entre los documentos físicos y los hechos realmente acontecidos en la realidad:
+
+El contrato de trabajo sólo puede revestir una forma, que es la que se estipula en el contrato para la prestación de servicios.
+
+El contrato a honorarios admite en la práctica dos formas; como contrato de arrendamiento para la confección de una obra material y como contrato de arrendamiento de servicios.
+
+En la especie, afirma que su representado prestó servicios a favor de la Subsecretaría como “Inspector”, del Departamento de Fiscalización y Control, obligándose a desarrollar, entre otras, las siguientes funciones:
+
+Era el encargado de fiscalizar los subsidios al transporte público, fiscalizar a través de la tecnología y los medios disponibles para ellos el cumplimiento de la normativa de tránsito y normativa terrestre, debiendo denunciar al Juzgado que corresponda las infracciones que cometan.
+
+También, la fiscalización de vehículos de transportes público y privado, como taxis en todas las modalidades, transporte de cargas, y las emisiones contaminantes de los mismos, control de evasión del pago del pasaje de transporte público.
+
+Ante emergencias o catástrofes, se solicitaba realizar la labor de contingencia, manteniendo informado a la jefatura y ministerio de lo sucedido en terreno. Además, debía atender las denuncias de los usuarios (control ciudadano) concurriendo a terreno y solucionando los problemas de forma diaria, como mal servicio de transporte en cualquier modalidad, entre otras funciones.
+
+Lo anterior, implica un cargo que figuró como habitual de la institución, y que conforme a ello no pudo adoptar la forma de un contrato de arrendamiento de obra material ni de servicios.
+
+En cuanto a la forma en que se prestan los servicios:
+
+En el contrato de trabajo, el trabajador presta sus servicios de manera permanente y que se constituyen como propios de la institución.
+
+En el contrato a honorarios el profesional presta sus servicios de forma independiente, a título de asesoría, consulta o investigación respecto de un trabajo o bien en función de una obra o proyecto determinados.
+
+El mandante prestó servicios a favor de la Subsecretaría durante 6 años y 11 meses, de forma constante, sujeto a una jornada de trabajo.
+
+Estima dable inferir que las labores las desarrolló en un contexto de permanencia y en razón a una labor intrínseca de la Subsecretaría, es decir, como funciones propias de la institución. En efecto, la labor durante el tiempo de su contrato no correspondió en la práctica a la ejecución de labores específicas como consultorías o de asesoría, siendo éstas últimas propias de la contratación a honorarios.
+
+En cuanto a las órdenes que pueda impartir el empleador:
+
+En el contrato de trabajo, el trabajador está constantemente sometido al deber de obediencia, claro índice de existir una relación de subordinación y dependencia.
+
+En el contrato a honorarios, el profesional no recibe órdenes ni instrucciones con motivo de su trabajo. Podría recibir eventuales lineamientos en cuanto a la ejecución del servicio, pero no órdenes directas de quien asume el precio del servicio.
+
+Señala que en la especie durante todo el periodo por el cual se extendió la relación laboral, el mandante fue objeto de instrucciones por parte de su ex Jefatura Directa. En la zona centro: don Iván Hernández, (Jefe Sede Centro); Felipe Valle y Claudio Salazar (Jefes Zonales). Luego, en la Sede Sur, don Ricardo Novoa (Jefe de Sede Sur); don Alfonso Hans Brauckmann y don Julio Peñaloza (Jefes zonales) y los Supervisores, don Sebastián Guerra, José Navarrete, Patricio Acevedo, Edgardo Goncalves y don Gonzalo Lagos, estando sujeto en todo momento a la observancia de estos, tanto al inicio como al término del turno de trabajo, y ejecutando en la práctica una serie de labores que tuvieron su origen en el poder de mando de su empleador y en las funciones que se consignan en los contratos celebrados.
+
+Estas instrucciones se verificaban por correo electrónico, teléfono celular y direcciones verbales en la misma oficina de la jefatura al inicio del turno para entrega de tareas y funciones, como ofrece acreditar en la oportunidad procesal correspondiente.
+
+La constante dirección de la jefatura directa no constituye un simple lineamiento, sino que un claro ejemplo de existir un vínculo de subordinación y dependencia. Las directrices fueron claras, precisas y ejercidas directamente sobre la persona del mandante, sin posibilidad alguna de negarse a la ejecución de dichas instrucciones.
+
+En cuanto a la obligación de cumplir con una jornada de trabajo y de asistir regularmente a la empresa:
+
+En el contrato de trabajo, el trabajador no solo tiene la obligación de asistir a prestar sus servicios, sino que también debe hacerlo de forma regular y periódica en las dependencias de la empresa, de manera tal que constituye una obligación el cumplir con la jornada de trabajo pactada en el contrato. Esto constituye un índice de una relación de subordinación y dependencia.
+
+En el contrato a honorarios, el profesional no está obligado a asistir regularmente a la empresa. ¨Puede ser que asista con motivo de su trabajo, pero en ningún caso de manera regular ni menos cumplir con una jornada de trabajo.
+
+En la práctica su representado cumplió con una jornada de trabajo dividida en turnos fijos de 8 horas diarias: AM de las 6:00 a las 14:30 horas y PM de las 13:30 a las 22:00 horas. Adicionalmente trabajaba al menos una vez al mes en turnos de fin de semana o festivos según necesidad del servicio, y cumplía turnos especiales (por requerimiento) de 8:00 a 17:00 horas. De hecho, debía registrar su asistencia en un registro biométrico o planilla que tenía la Subsecretaría para tales efectos.
+
+Esto no condice con las características propias de un contrato de honorarios, sino con uno de carácter subordinado y dependiente del empleador, esto es, un contrato de trabajo.
+
+En cuanto al lugar y regularidad en la prestación de servicios:
+
+En el contrato de trabajo, el trabajador presta sus servicios en las dependencias de la institución, de forma regular y continua.
+
+En el contrato a honorarios, el profesional trabaja por su cuenta y la asistencia a la empresa es esporádica, irregular y discontinua o puede ser que siquiera exista.
+
+En la especie, su representado, cumplía su jornada laboral en dependencias de la Subsecretaría, esto es, Cienfuegos nº11, Santiago. Luego, en Rupanco n° 125, comuna de La Florida, como también donde le indicaré la jefatura que debía desarrollar sus labores en terreno.
+
+Por otro lado, contaba con todos los insumos necesarios para su gestión, esto es, vehículo, celular, radio portátil, PDA (registro de control); talonario de partes manuales, ropa institucional (polera, chaqueta, jockey, pantalón, polar), credencial; zapatos de seguridad, chaleco reflectante, lentes, bloqueador solar, etc., todos suministrados por la Institución.
+
+Asimismo, los contratos suscritos por el demandado y su representado reconocen un grupo de beneficios. Por ejemplo: Feriado feriado legal, Permiso sin goce de remuneraciones, Licencias médicas, Entre otros.
+
+En cuanto al pago por los servicios prestados: En el contrato de trabajo, la retribución que obtiene el trabajador a cambio de la prestación de servicios que realiza, se denomina remuneración, en el contrato a honorarios, el pago se denomina honorario.
+
+En la práctica su representado emitió boletas de honorarios a nombre de la Subsecretaría, recibiendo la contraprestación directamente del Departamento de Recursos Humanos, por montos equivalentes y mensuales durante toda la vigencia de la relación laboral.
+
+Conforme al principio de la realidad y de acuerdo a la cotidianeidad del pago, esta constituía una forma de remuneración encubierta en un pseudo y peculiar “honorario”, el cual se pagaba y se exigía la confección de un Informe Trimestral de Gestión del cual la Subsecretaría guarda registro.
+
+En cuanto a la existencia de un vínculo de subordinación y dependencia:
+
+El contrato de trabajo es tal por existir entre el trabajador y el empleador una relación de subordinación y dependencia. Elemento propio de este tipo de contrato y que lo define.
+
+En el contrato a honorarios, no existe tal vínculo. Las partes solo se encuentran ligadas por una relación que se limita, por un lado, al cumplimiento del servicio específico respecto de la institución que lo contrata, y por otro, el prestador o profesional del servicio por la efectividad de recibir el pago u honorario.
+
+En la especie, entre el mandante y su ex empleadora existió por 6 años y 11 meses, un vínculo de subordinación y dependencia, circunstancia que ofrece acreditar en la etapa procesal que corresponda. Todo esto, conforme a las labores que desempeñaba conforme a su contrato, a las jornadas de trabajo de las que fue objeto, las órdenes impartidas por sus superiores directos, con la asistencia diaria y extensiva en el tiempo a las dependencias de la Institución y demás lugares en los cuales debía ejercer sus labores fuera de su jornada laboral, y sumado a todo lo anterior las constantes vigilancias de las que fue objeto en la prestación de sus labores.
+
+Estima que todos estos hechos serían índices de existir en la práctica una relación regida por el artículo 7° del Código del Trabajo, y que desconoció en todo momento la Institución. Cuestión precisa que su parte intenta probar, con el efecto de que se constate y declare que dichos índices, constituyeron el reconocimiento que en la práctica ha sido cuestionado por la demandada, no procediendo tal discusión, toda vez que, constatado dichos índices procede necesariamente la declaración de relación laboral en la sentencia definitiva.
+
+Como ofrece acreditar en la etapa procesal correspondiente, la remuneración de su representado al momento de ser desvinculado era por un monto de $790.202.- pesos mensuales.
+
+Expone que la demandada exigía a su mandante la confección de un informe de gestión que se adjuntaba a la boleta de honorario emitida de forma trimestral. Dicho informe daba cuenta de las funciones desarrolladas por el mandante durante el periodo correspondiente al trimestre señalado.
+
+En cuanto a la nulidad del despido y del despido injustificado, señala que por las razones explicadas, la demandada no pudo estar en condiciones de dar cumplimiento íntegro y completo a la obligación que imperativamente le impone el inciso 5° del artículo 162° del Código del Trabajo.
+
+Asimismo, la demandada hizo caso omiso de lo preceptuado en el inciso 6° del artículo 162° del Código del Trabajo, que señala: “Con todo, el empleador podrá convalidar el despido mediante pago de las imposiciones morosas del trabajador, lo que comunicará a este mediante carta certificada acompañada de la documentación emitida por las instituciones previsionales correspondientes, en que conste la recepción de dicho pago”.
+
+El incumplimiento de los deberes señalados en los incisos 5° y 6° del artículo 162° ya citado, estima lo faculta para reclamar la aplicación de la denominada “Ley Bustos”.
+
+La omisión en el envío de la Carta de Término de los Servicios o Carta de Despido en que incurrió la empleadora, ha vulnerado la disposición normativa de los incisos 1° y 5° del artículo 162° del Código del Trabajo, toda vez que no indicó por escrito cuáles fueron los fundamentos de hecho y de derecho para tomar la decisión de despedir a su representado.
+
+Como ha sido expuesto previamente en su demanda, la ex empleadora adeudaría a su representado, cotizaciones de seguridad social correspondientes a cotizaciones previsionales del Fondo de Pensiones, Fondo de Salud y del Fondo de Cesantía, por todo el período trabajado entre el día 20 de enero de 2015 hasta el 31 de diciembre de 2021. Por lo que corresponde que sea declarada la deuda de dichas cotizaciones y condenar a su pago, para lo cual se debe ordenar oficiar a las entidades previsionales respectivas a objeto que inicien los trámites de cobranza judicial.
+
+Agrega que al haber pactado contratos a honorarios impropios durante todo el período que duró la relación laboral, la institución en cuestión jamás efectuó el íntegro pago de las cotizaciones previsionales que ordena la ley respecto a las remuneraciones percibidas mensualmente, infringiendo de esta forma el artículo 58 y el inciso quinto del artículo 162, ambos del Código del Trabajo, además del artículo 19 del Decreto Ley 3.500. Tampoco la ex empleadora, al momento de comunicar la terminación del contrato, dió cuenta del estado de las cotizaciones previsionales, y según registra el Fondo de Capitalización Individual, de su representado, hasta el día de hoy éstas se encuentran en mora, de lo cual se colige que al momento de su despido también se encontraban sin ser integradas en la entidad previsional respectiva.
+
+Sobre la continuidad de las labores merece un capítulo aparte en la presente demanda, puesto que además de ser su declaración una de las peticiones concretas sometidos al Tribunal, el elemento de la continuidad es de aquellos que permite comprobar que las supuestas contrataciones a honorarios no eran tales, puesto que éste elemento de continuidad de labores en el tiempo, se opone a uno de los aspectos que configura el contrato de honorarios que establece el artículo 11 de la Ley N° 18.834, puesto que la continuidad es absolutamente contraria al aspecto temporal y específico que admite este tipo de contrataciones.
+
+Hace notar que la continuidad en los presentes autos, encuentra su comprobación en las sucesivas boletas de honorarios, emitidas por su representado a favor de la Subsecretaría por 6 años y 11 meses, teniendo el carácter de mensuales y por montos equivalentes, los cuales fueron progresivamente en aumento, y en documentos que acreditan la permanencia de mi representado desde el 20 de enero de 2015 al 31 de diciembre de 2021.
+
+A continuación refirió en extenso las normas legales, jurisprudencia y razones doctrinarias que serían aplicable en los presentes autos, además de la explicación de la irrenunciabilidad de sus derechos.
+
+De los antecedentes expuestos estima se desprende que las labores que ejecutó el trabajador, se desarrollaron bajo subordinación y dependencia, lo cual desestima las alegaciones que posiblemente argumentará la demandada, ya que invocará una contratación a honorarios conforme con el artículo 11° de la ley N° 18.834, porque esta contratación requiere que se trate de labores accidentales y no habituales de la Institución o de cometidos específicos y que las labores se realicen por profesionales, técnicos de educación superior o expertos en determinadas materias, lo que no ocurrió en el caso de marras, ya que las labores que desempeñó, por su naturaleza son habituales de la Subsecretaría, lo que se evidencia con la sola constatación de la extensión de las mismas funciones.
+
+Por consiguiente, si se trata de una persona natural que no se encuentra sometido a estatuto especial, sea porque no ingresó a prestar servicios en la forma que dicha normativa especial prevé, o porque tampoco lo hizo en las condiciones que esa normativa establece- planta, contrata, suplente-, lo que en la especie acontece, inconcuso resulta que la disyuntiva se orienta hacia la aplicación del Código del Trabajo o del Código Civil, conclusión que deriva de que en el caso se invoca el artículo 11° de la ley N° 18.834, norma que, sustrayéndose del marco jurídico estatutario que establece para los funcionarios que regula, permite contratar sobre la base de honorarios en las condiciones que allí se describen, las que, en general, se asimilan al arrendamiento de servicios personales regulado en el Código Civil y que, ausentes, excluyen de su ámbito las vinculaciones pertinentes, correspondiendo subsumirlas en la normativa del Código de Trabajo, en el evento que se presenten los rasgos característicos de este tipo de relaciones, prestación de servicios personales, bajo subordinación y dependencia y a cambio de una remuneración, según ya se dijo, no sólo porque la vigencia del Código del Trabajo constituye la regla general en el campo de las relaciones personales, sino porque no es dable admitir la informalidad laboral.
+
+Adiciona que como posiblemente propondrá la demandada, en razón de aplicar la Teoría de los Actos Propios en contra de su representado como manifestación del Principio general de Buena Fe, es necesario tener en consideración inciso 2° del artículo 5° del Código Laboral: “Los derechos establecidos por las leyes laborales son irrenunciables, mientras subsista el contrato de trabajo”.
+
+En efecto, la calificación de laboralidad de un contrato es un derecho irrenunciable por excelencia. Si se cumplen los requisitos para que una vinculación sea considerada como laboral, esa calificación debe preferirse siempre, cualquiera que sea la denominación que le hayan asignado las partes, justamente porque está involucrado un derecho indisponible. (SIERRA, Alfredo. “La Teoría de los Actos Propios en el Ámbito Laboral”. En: Cuadernos de Extensión Jurídica, Universidad de Los Andes N° 18, 2010, pp. 141 y ss.). Lo contrario, supondría aceptar que el Derecho tolera que un acuerdo de voluntades viole o infrinja la ley.
+
+Como peticiones concretas solicita lo siguiente:
+
+Existencia de relación laboral.
+
+En virtud de la calificación jurídica de la relación laboral expuesta precedentemente entre las partes, solicita se declare que entre la demandada y su representado existió relación laboral entre el día 20 de enero de 2015 hasta el día 31 de diciembre de 2021, bajo las características que se derivan de la definición de contrato de trabajo consignada en el artículo 7° del Código del Trabajo.
+
+Continuidad de los servicios.
+
+En virtud de lo expuesto solicita se declare la continuidad de los servicios prestados por el mandante a favor de la Subsecretaría desde el día 20 de enero de 2015 hasta el día 31 de diciembre de 2021.
+
+Indemnizaciones adeudadas.
+
+Con motivo del despido injustificado del que fue víctima su representado, la demandada adeuda los siguientes conceptos que se señalan:
+
+En virtud del inciso 4° del artículo 162° del Código del Trabajo, la sustitutiva de aviso previo por la siguiente cantidad: $790.202.- pesos.
+
+En virtud del inciso 2º del artículo 163 del Código del Trabajo, la indemnización por años de servicios correspondientes a 6 años y 11 meses por $5.531.414.- pesos.
+
+En virtud de la letra b) del artículo 168° del Código del Trabajo, el recargo del 50% de las indemnizaciones por años de servicio ascendentes a $2.765.707.- pesos.
+
+Compensación de Feriados.
+
+Por estos conceptos la demandada le adeudaría a su mandante la siguiente partida correspondiente a los feriados legales y proporcionales devengados, en el periodo que va desde el 20 de enero de 2015 hasta el día 31 de diciembre de 2021, correspondiente a 6 años, 11 meses y 11 días:
+
+Feriado legal: $2.397.868.- equivalente a 129 días (6 años)
+
+Feriado proporcional: $532.069.- equivalente a 20,20 días. (11 meses y 11 días).
+
+A las sumas por indemnizaciones, sus recargos y feriado legal y proporcional detalladas precedentemente, cabe agregar las que provienen de:
+
+A.
+Cotizaciones de seguridad social de AFP, SALUD y CESANTIA durante todo el periodo que duró la relación laboral, según liquidación que practique el Tribunal.
+
+B.
+Las que deriven de la aplicación de los incisos 5° y 7° del artículo 162° del Código del Trabajo, denominada “Ley Bustos”, según liquidación a practicar.
+
+C.
+Remuneración del mes de diciembre de 2021, esto es, $790.202.
+
+Por lo expuesto pide tener por interpuesta demanda en Procedimiento de Aplicación General Laboral por Nulidad del Despido, Despido Injustificado y Cobro de Prestaciones Laborales Adeudadas en contra de FISCO DE CHILE, ya individualizado, a efectos de que se declare la relación laboral, la continuidad de ésta, la nulidad del despido, que su representado fue víctima de despido injustificado, y que, por ende, se le adeudan las prestaciones indicadas precedentemente, condenando a la demandada a que pague las sumas señalas en lo precedente.
+
+SEGUNDO:
+Comparece doña RUTH ISRAEL LÓPEZ, RUN 9.772.243-9, Abogada Procurador Fiscal de Santiago, del Consejo de Defensa del Estado, en representación del FISCO DE CHILE, Corporación de Derecho Público, ambos domiciliados en calle Agustinas 1225, piso 4, comuna y ciudad de Santiago, quien contesta la demanda de NULIDAD DEL DESPIDO, DESPIDO INJUSTIFICADO Y COBRO DE PRESTACIONES LABORALES ADEUDADAS, por don Jonathan Gallardo García en contra del FISCO DE CHILE (SUBSECRETARÍA DE TRANSPORTES), solicitando su total rechazo, de conformidad con los fundamentos de hecho y de derecho que expone:
+
+Sostiene que la demanda interpuesta debe ser rechazada por los siguientes motivos:
+
+Que la relación existente entre el demandante y el servicio corresponde a una de carácter civil, esto es, convenios de honorarios a suma alzada, celebrados bajo los parámetros establecidos en el artículo 11 del Estatuto Administrativos, por lo que no corresponde que se cambie la naturaleza de la relación contractual, declarando la existencia de una relación laboral regida por el Código del Trabajo. Es más, según los convenios celebrados entre el actor y la Subsecretaría, fue contratado en su calidad de “EXPERTO”, al amparo de obligaciones como “Agente Público”, para el Programa Nacional de Fiscalización.
+
+En caso improbable que se acoja la demanda en aquella parte que solicita se declare la existencia de la relación laboral, es fundamental tener en cuenta que el servicio no estaba en posición de pagar las cotizaciones previsionales ni escriturar un contrato de trabajo conforme la normativa laboral, puesto que, en virtud del principio de legalidad competencial y presupuestaría, la administración no puede destinar dineros al pago de cotizaciones si así no lo ha autorizado la respectiva ley de presupuesto, como tampoco puede escriturar un acto para el cual no tiene autorización, u otorgar beneficios legales propiamente laborales en circunstancias que la administración está vedada para contratar bajo dicha modalidad.
+
+Con todo, según la cláusula segunda N°2 del convenio 2021, que unió al actor con la Administración y durante todo el periodo que se prestaron servicios, era una obligación para el actor, don Jonathan Gallardo García, el pago de las cotizaciones de seguridad social. En consecuencia, no podría declararse que se adeudan cotizaciones ya que era una obligación del prestador del servicio el pago directo de las cotizaciones de seguridad social. Así lo ha sostenido la Excelentísima Corte Suprema, en fallo de unificación de jurisprudencia Rol Nº 1.597-2020 de fecha 21 de julio de 2021, que cita.
+
+En relación a la nulidad del despido recamada, sin perjuicio de sostener que no procede dicha institución cuando se trata del término de un vínculo por la llegada del plazo y hay de por medio un Servicio Público, dependiente de la Administración del Estado, se debe tener presente que como se ha sostenido por la Excma. CS en el mismo considerando quinto del citado fallo de 21.07.2021, dictado en la causa Rol N1 1597-2020.
+
+Finalmente, no corresponde el cobro al Fisco de los intereses y multas por las cotizaciones previsionales ya que ello importa una sanción desproporcionada por la omisión de una conducta (retener y pagar las imposiciones) que el Fisco no estaba autorizado a realizar, ni podía modificar los contratos a honorarios a otra vinculación estatutaria, contrata o planta. Se está imponiendo sanciones al Fisco por una omisión de una omisión de una conducta que no fue de carácter voluntario, ya que el Fisco estaba legalmente impedido de efectuar retenciones y pago de cotizaciones. Sería equivalente a condenar a una persona por una conducta que es atípica.
+
+Hace presente que, además que la forma de contratación a honorarios que tiene el demandante es en calidad de “Experto”, asumiendo obligaciones de “Agente Público”, según se lee en los convenios celebrados con la Subsecretaría de Transporte.
+
+A continuación sostiene las siguientes excepciones, alegaciones y defensas.
+
+EXCEPCION DE PRESCRIPCIÓN FERIADO LEGAL
+
+Afirma que para el evento que se considere que hubo relación laboral con el demandante mientras estuvo vigente el contrato a honorarios, opone la excepción de prescripción extintiva de dos años, de aquellos periodos de feriados consecutivos acumulados, desde la fecha de término de la prestación de servicios contados hacia atrás.
+
+El demandante solicita en su petitorio que se paguen Feriado legal: $2.397.868.- equivalente a 129 días (6 años), lo que contradice lo dispuesto en los artículos 70 inciso segundo y tercero del Código del Trabajo en relación con lo también señalado en el artículo 510 del mismo cuerpo legal.
+
+Por otro, no resulta creíble en absoluto que el actor haya estado todo ese tiempo sin tomar vacaciones, por lo que corresponde descartar la alegación del demandante de que en los años de prestación servicios, no haya tenido ningún solo día de feriado.
+
+Por lo tanto, el feriado legal, por encontrarse prescrito o por haber sido utilizado, deberá ser desestimado.
+
+En cuanto al fondo del asunto controvertido, solicita tener presente que controvierte expresa y formalmente todos los hechos expuestos en la demanda, con excepción de aquellos que en el presente escrito de contestación fueren reconocidos en forma expresa.
+
+En particular, controvierte:
+
+Que entre la parte demandante y el Fisco de Chile hubiese existido una relación laboral basada en un contrato de trabajo y regida por el Código Laboral, pues las partes estuvieron vinculadas bajo un contrato de honorarios a suma alzada.
+
+Que la parte demandante haya prestado servicios para el Fisco de Chile bajo vínculo de subordinación y dependencia, entre el 20 de enero de 2016 y 31 de diciembre de 2021.
+
+Que la cesación de los servicios específicos se haya producido por despido y que este haya sido “injustificado” como pretende la parte demandante.
+
+Se controvierte la existencia y calificación de todos y cada uno de los “supuestos indicios de laboralidad” indicados en la demanda, toda vez que, cada uno de ellos fue pactado en forma específica en los respectivos convenios a honorarios celebrado entre las partes; es más, y, a contrario sensu, el Fisco de Chile, en la contratación de la parte demandante ha dado estricto cumplimiento al artículo 11 de la Ley 18.834, pues fue contratada precisamente para prestar servicios específicos en dicho organismo, según dan cuenta sus convenios a honorarios a suma alzada.
+
+Se controvierte la procedencia de las indemnizaciones y prestaciones que se reclaman, ya que éstas han sido dispuestas para quienes se encuentran regulados por el Código del Trabajo, situación que no concurre en la especie.
+
+La existencia y el monto de las pretendidas “remuneraciones” mensuales aludidas en el libelo, ya que se está en presencia del pago de una suma de dinero por concepto de honorarios, dividida en diversas cuotas y monto, conforme a cada convenio, por las que se emitió las correspondientes boletas de honorarios.
+
+Se controvierte que su representado, haya tenido título para retener y pagar cotizaciones previsionales, y, por lo tanto, que se adeuden el pago de estas, más aún, cuando el actor conoció y aceptó la obligación de enterar el pago de sus cotizaciones previsionales de seguridad social según se estipula en la cláusula segunda de sus convenios a honorarios, por tanto, el Fisco de Chile no estaba obligado a cotizar y que solo podía hacerlo si lo solicitaba por escrito, lo que en caso de marras ocurrió solo en algunos periodos.
+
+Se niega, la procedencia de la sanción de nulidad del despido, que establece el artículo 162 del Código del Trabajo, conocida como “Ley Bustos”, dada la ya señalada ausencia de título que habilite a la Administración Centralizada del Estado para pagar cotizaciones previsionales y de salud.
+
+Se niega la procedencia de intereses, reajustes y costas.
+
+En razón de lo anterior no procede la acción ni las prestaciones reclamadas en el libelo, debiendo ser rechazado en todas sus partes con costas.
+
+Sostiene que de acuerdo con lo establecido en los contratos suscritos entre don Jonathan Gallardo G. y la Subsecretaría de Transportes, la naturaleza jurídica de la relación entre las partes fue de contrato a honorarios a suma alzada.
+
+El ex - servidor prestó servicios en calidad de “EXPERTO” teniendo diversas obligaciones conforme a lo establecido en cada uno de los convenios celebrados al efecto. De la descripción de cada una de las funciones acordadas con la referida Subsecretaría, se advierte que el profesional fue contratado entre los años 2015 y 2021; para el desarrollo de diferentes funciones específicas, que debía realizar en los términos estipulados por las partes en cada ocasión en los respectivos contratos a honorarios; que no realizaba más funciones que aquellas expresamente contenidas en los contratos a honorarios; y que contaba con numeroso beneficios, como es derecho a feriado legal y días de permiso con goce de remuneraciones entre otros, conforme se acordaba en cada convenio. En este mismo contexto, las estipulaciones del convenio relacionadas con el cumplimiento de horario y supervisión sólo tenían por propósito asegurar que las labores específicas encomendadas se efectuaran en forma completa y con sujeción a las normas preestablecidas en los respectivos instrumentos, sin que de ello se derivara un vínculo de subordinación y dependencia regulado por el ordenamiento laboral común.
+
+De igual manera, la descripción de las funciones de la demandante da cuenta de que éstas fueron esencialmente específicas, en los términos del artículo 11 de la Ley N° 18.834.
+
+En resumen, el señor Gallardo y la Subsecretaría de Transportes estuvieron vinculados mediante diversos contratos a honorarios a suma alzada para prestar únicamente los servicios especializados que en cada caso se estipularon, y no otros.
+
+Esta relación contractual entre el demandante y la demandada, como ya se ha venido sosteniendo, se enmarca en las hipótesis contempladas en el artículo 11 del Estatuto Administrativo, que faculta a la Autoridad a contratar en base a honorarios para desempeñar cometidos específicos.
+
+Como corolario de lo anterior, resulta que ambas partes estaban de acuerdo al momento de suscribir los respectivos convenios, en que se trataba de un prestador de servicios independiente, y no de un trabajador sujeto a un contrato de trabajo.
+
+De lo anterior se desprendería que los contratos a honorarios que regularon los servicios de la parte demandante tenían el carácter de especiales y particulares, acorde a lo dispuesto en el citado artículo 11 del estatuto Administrativo. “Cometidos específicos”, esto es, preestablecidos o determinados, y no excluyentes.
+
+En el contexto de la relación contractual que existió entre la parte demandante y la Administración del Estado, el demandante nunca recibió una “remuneración” tal como se concibe en nuestra legislación laboral, sino que sus ingresos correspondieron al honorario que se pactó al iniciarse la prestación de servicios, que, como se señaló, corresponde a una determinada suma acorde a la prestación de servicios que haya realizado el actor, pagaderos en diversas cuotas, tal como consta en las respectivas cláusulas de los Convenios suscritos entre las partes.
+
+En conclusión y según lo expresado precedentemente, durante todo el tiempo de duración de los contratos de prestación de servicios, se hicieron aplicables para la parte demandante, el art. 11 de la Ley Nº 18.834, por expresa aplicación del contrato de prestación de servicios. En efecto, en los contratos sobre la base de honorarios celebrados entre las partes, en uso de las facultades que le confiere el artículo 11 del Estatuto Administrativo, se estableció con toda precisión lo siguiente:
+
+1.- Que se trata de un contrato a honorarios a suma alzada.
+
+2.
+- La finalidad del contrato.
+
+3.- Los cometidos específicos a realizar por la parte demandante (detallándose éstos en cada convenio, principalmente en la cláusula primera del convenio).
+
+4.- La declaración de que los servicios se contrataban sobre la base de honorarios pagaderos previa presentación de boletas de honorarios en las parcialidades acordadas.
+
+5.- El plazo de duración de los servicios.
+
+Estima importante comprender que, a diferencia de lo que ocurre con los honorarios, los cargos profesionales de planta y contrata de los servicios públicos no tienen definidas tareas específicas, sino que solamente la definición jerárquica y la asignación de un grado en la Escala Única de Sueldos (E.U.S).
+
+En definitiva, la parte demandante ha desconocido la naturaleza misma de los principios que informaron su relación con el Estado, por cuanto nunca existió el vínculo de subordinación y dependencia que pretende, el que no es aplicable a las relaciones entre el Estado y su personal, en razón que dichas relaciones se encuentran sujetas a las disposiciones del Estatuto Administrativo que hace inaplicables las normas laborales.
+
+En todo caso, La solución jurídica ante la aplicación improcedente del artículo 11 del Estatuto Administrativo es la nulidad del contrato, más no su calificación como laboral
+
+Sin perjuicio de lo expuesto, en orden a que nos encontraríamos frente a un vínculo a honorarios y no frente a un contrato de trabajo regulado por el Código del ramo, la solución o sanción al acreditarse que el acto jurídico que contempla el vínculo no reúne los requisitos del artículo 11 del Estatuto Administrativo, es el de la NULIDAD y NO la mutación a un contrato regulado por el Código del Trabajo, como erradamente entiende el actor.
+
+En efecto, destaca que, en el evento que se considere que las condiciones contractuales entre la Administración del Estado y el prestador de servicios personales excede el marco legal que establece el artículo 11 del Estatuto Administrativo, lo que procedería es solicitar la nulidad de derecho público del contrato respectivo, lo que no se ha hecho en la acción de autos y tampoco sería procedente en este escenario procesal.
+
+Afirma que nuestro ordenamiento jurídico no contempla como sanción para los actos de la Administración que no cumplan con los requisitos legales la transformación del acto en uno de distinta naturaleza y si ello fuera admitido, el acto al cual se transformaría aquel vínculo viciado debe ser jurídicamente posible y lícito, como podría ser un vínculo a “contrata”, pero nunca en un contrato de trabajo. (Así fue resuelto acertadamente en la causa “Guerrero con Sename”, rol O-981-2017 del 2º Juzgado de Letras del Trabajo de Santiago, fallo de fecha 07 de agosto de 2017 (considerando 17º): “Esta solución o hipótesis se encuadra dentro de lo que la doctrina denomina `conversión del acto nulo`, (…) sin embargo en opinión del tribunal en este caso no es posible aplicar la conversión a un contrato laboral sujeto al Código del Trabajo porque es requisito esencial para que opere la conversión que el acto administrativo antijurídico sea reemplazado por uno que se encuentre conforme a derecho”. (Contra la sentencia se dedujo recurso de nulidad, el que fue rechazado por la Iltma. Corte de Apelaciones de Santiago en sentencia de 18 de enero de 2018, en autos rol IC Nº 1794-2017).
+
+Sostener lo contrario, implica que una ilegalidad se puede solucionar cometiendo una irregularidad de la misma entidad, un acto nulo no se soluciona con otro acto nulo.
+
+Conforme a los argumentos presentados, calificar como laboral y aplicar la normativa del Código del Trabajo a la relación entre un órgano de la Administración del Estado regido por el Estatuto Administrativo, resulta ilegal e inconstitucional, aun cuando se efectúe una vez que la relación jurídica se encuentra concluida.
+
+Sobre los honorarios pactados con el actor, estima que durante el período de prestación de servicios, el actor recibió el pago de una suma de dinero por concepto de honorarios, la que se dividía en cuotas, por diferentes montos, de acuerdo con lo señalado en los convenios que se acompañarán en su oportunidad procesal, y conforme se acordó en ellos, para poder tener acceso al pago de dichos honorarios, el actor debía presentar las respectivas boletas de honorarios, con un informe trimestral del cumplimiento de sus funciones.
+
+En este contexto, como adelantó, el actor nunca recibió una “remuneración” tal como se concibe en nuestra legislación laboral, sino que sus ingresos correspondieron al honorario que se pactó en cada convenio de prestación de servicios, que, como se señaló, corresponde a una determinada suma alzada, pagada en diversas cuotas y montos, tal como consta en las respectivas cláusulas de los Convenios suscritos entre las partes.
+
+Sobre los cometidos específicos, señala que el artículo 11 del Estatuto Administrativo entre las hipótesis que contempla para la contratación de personal bajo la modalidad de honorarios establece que se trate de funciones accidentales, y no habituales o cometidos específicos. Pues bien, como hemos explicado, las funciones desarrolladas por la demandante son específicas, cumpliendo con la hipótesis de ser “cometidos específicos”. Por lo anterior, no es plausible considerar que su relación era de aquellas reguladas por el Código del Trabajo, sino que se trata de un genuino contrato de honorarios, expresamente autorizado por el ya señalado artículo 11 del Estatuto Administrativo.
+
+En definitiva, el demandante, con su pretensión, ha desconocido la naturaleza misma de los principios que informaron su relación con el Estado, por cuanto nunca existió el vínculo de subordinación y dependencia regido por el Código del Trabajo que pretende, por cuanto la contratación mediante las normas del Código del Trabajo por el Estado no se encuentra previsto por el legislador.
+
+Respecto del pago de cotizaciones previsionales, expone que es de particular relevancia - independiente a la naturaleza contractual de la relación entre el prestador y el servicio y a la falta de título para que este servicio retenga y pague las cotizaciones- que consta en cada uno de los convenios que el pago de las cotizaciones de salud es de cargo del prestador. En particular, en los convenios se indica expresamente en la cláusula SEGUNDA, que es de exclusiva responsabilidad y cargo del prestador de servicios pagar las cotizaciones previsionales y seguridad social, en conformidad a las normas legales vigentes.
+
+En efecto, las partes pactaron expresamente en los respectivos contratos a honorarios que la contratación de prestaciones de seguridad social era de exclusiva responsabilidad del “Experto”, es decir, el demandante, en su calidad de prestador de servicios independiente. Al efecto los convenios o contratos señalan:
+
+Manifiesta que este antecedente es de suma importancia, toda vez que la Excma. Corte Suprema ya se ha pronunciado recientemente en el sentido de que, si la obligación de enterar las cotizaciones por el trabajador se encontraba pactada expresamente en el convenio a honorarios, y posteriormente declara la existencia de una relación laboral, no procede establecer el pago de cotizaciones en forma retroactiva. (Excma. Corte Suprema, sentencia de reemplazo de 21 de julio de 2021, ROL 1597-2020).
+
+A mayor abundamiento, todo honorario es asimilado a una escala única de remuneración, sin embargo, en el caso de los prestadores a honorarios no se realiza descuento alguno, por lo que el prestador recibe el equivalente a un sueldo bruto de un funcionario público.
+
+Sobre la inexistencia del despido injustificado y del término del convenio a honorarios del demandante, expone que el demandante aduce un “despido injustificado”, y que, como consecuencia de lo anterior, su parte sea condenada a pagar todas aquellas prestaciones que menciona.
+
+Primeramente, debe tener en cuenta que los contratos suscritos entre la Subsecretaría de Transporte y el Sr. Gallardo contenían una cláusula que autorizaba incluso a poner término anticipado a cada convenio, no obstante ello, en el caso de marras, el vínculo con el actor concluyó por NO renovación de su convenio para el año 2022. Esto es el término del vínculo se produce por la llegada del plazo establecido para la vigencia del último convenio (31.12.2021).
+
+Es más, sin tener la obligación legal de hacerlo, se comunica al actor con la debida antelación que su convenio no será prorrogado para el año 2022.
+
+Por lo anteriormente dicho, no se puede sino sostener que en el caso de autos no procede la figura del despido injustificado alegada por el demandante en su presentación, toda vez que la hipótesis de hecho contemplada por el Código del Trabajo y que hace procedente dicha figura, no se ha verificado, ya que como se ha venido sosteniendo, la relación contractual que vinculó al Ministerio de Transporte y Telecomunicaciones, por intermedio de la Subsecretaría de la cartera con el actor de estos autos se concretó en un contrato de prestación de servicios a honorarios, con fechas de inicio y término expresamente acordado entre las partes, y no en un contrato de trabajo.
+
+Señala que, en los contratos celebrados, el demandante fue contratado en conformidad a lo previsto en el artículo 11 del Estatuto Administrativo y de acuerdo a lo autorizado por la Ley de Presupuestos del Sector Público, para prestar servicios como Agente Publico en el programa Nacional de Fiscalización.
+
+Así, anualmente se aprueban para cada Servicio, los montos máximos que se pueden emplear en honorarios; autorizando la ley de presupuestos, la contratación de personas naturales a honorarios a quienes se les otorga la calidad de agentes públicos.
+
+Que, conforme a la ley de presupuesto de cada año vigente durante la contratación del actor, el Servicio se adecuó al marco legal que el propio legislador le entregó, en cuanto a la contratación de personas naturales a honorarios a quienes se les otorga la calidad de agentes públicos, con la consecuente responsabilidad penal y administrativa, y sin perjuicio de la responsabilidad correspondiente de su superior jerárquico; adecuándose el desempeño de sus labores a dicha norma según se desprende de los contratos analizados y la testimonial rendida en juicio, siendo siempre contratado el actor con cargo a recursos asignados a un proyecto o programa específico; con derechos y obligaciones inherentes al hecho que sus decisiones eran vinculantes para el Servicio.
+
+En este contexto, los distintos contratos establecieron las condiciones propias para las cuales el actor fue contratado, tales como fecha de vigencia del convenio, beneficios y obligatoriedad de control de asistencia; honorarios acordados, forma de pago y periodicidad; emisión de boleta e informes; cometidos funcionales y comisiones de servicio, con derechos a pasajes y viáticos; derechos y beneficios pactados como feriado legal, licencias médicas, permisos especiales, permiso paternal, y maternal, sala cuna, capacitación; obligación de confidencialidad de acuerdo al estatuto administrativo; prohibición de utilizar material o información reservada o confidencial del organismo; aplicación de incompatibilidades administrativas de la Ley de Bases Generales de Administración del Estado.
+
+Agrega que el actor estima, erradamente a su juicio, que el vínculo que la une al Estado es una relación laboral bajo subordinación o dependencia, regida por el Código del Trabajo. Ello no es efectivo, por cuanto jamás ha existido relación laboral alguna entre el Sr. Gallardo y su representado, por el contrario, la vinculación se realiza bajo la figura de contratos de honorarios.
+
+La vinculación del demandante con la Administración del Estado no participa de las características propias del vínculo de subordinación y dependencia, situación que, siempre aparece como ajena a las relaciones entre el Estado y su personal. Este último elemento es el que tipifica o califica una relación de trabajo y que resulta ser propio o característico de la misma, toda vez que en cuanto al contenido de este elemento puede establecerse que, el trabajo se realiza según “las pautas de dirección y organización que imparta el empleador, estando sujeto el trabajador a dependencia técnica y administrativa”, lo que se traduce en instrucciones y controles acerca de la forma y oportunidad de la ejecución de las labores por parte del trabajador.
+
+En el caso particular de autos, hace presente que según dan cuenta los Convenios y Decretos que los autorizan, que se acompañarán en su oportunidad procesal, las labores encomendadas al actor fueron ejecutadas conforme a las funciones descritas en cada convenio. Sin considerar que los elementos de laboralidad propios de la normativa laboral común, como es el cumplir un horario, el estar sujeto a una supervisión, tener derechos a beneficio, como es el feriado o permisos, licencias médicas, también pueden ser pactadas en los convenios a honorarios.
+
+Así, es posible descartar los indicios de laboralidad señalados por la parte demandante:
+
+1.- No hay rasgos materiales ni funcionales que permitan la construcción de los elementos para tener por acreditado el vínculo de subordinación y dependencia, toda vez que, el actor no participa de un marco disciplinario específico; en este mismo sentido, el hecho de que deba emitir un informe sobre el cumplimie nto de sus funciones , es una prueba respecto a la falta de poder de dirección y subordinación en sus labores a un superior jerárquico y denota libertad en la ejecución, ya que si existiera una supervisión constante dicho informe no sería requerido o bien debería realizarse bajo las directrices de su jefatura.
+
+2.- A mayor abundamiento, refiere que fue objeto de instrucciones, sin embargo, señala genéricamente este hecho sin indicar indicios concretos de instrucciones. Las funciones y labores desempeñados por la demandante debían ser informados mediante los respectivos informes de gestión, lo que corresponde al mecanismo mediante el cual se controla la eficiencia, eficacia y correcta administración de los recursos fiscales por los cuales se contrata y financia mediante ley de presupuestos la prestación de servicios a honorarios.
+
+En el cumplimiento de los servicios el actor no estaba sujeta a instrucciones directas y permanentes de un superior inmediato, toda vez que emitía informes trimestrales; lo que en nada se contradice con la tesis fiscal, ya que la supervisión no estaba orientada al control o al mérito de sus informes, sino que al cumplimiento de las oportunidades y fechas en que debía entregarlos, cumplimiento que permitía el pago de los honorarios respectivos.
+
+Enseguida, añade que estaba obligado a cumplir jornada de trabajo, sin embargo, la jurisprudencia ha determinado que la jornada no es un indicio suficiente de acreditación de relación laboral. Es el resultado de la voluntad manifestada en cada convenio
+
+En el mismo sentido que el punto anterior al desarrollar una función pública, la autoridad debe velar por el cumplimiento de los principios señalados.
+
+El Dictamen N° 74.674 de 2015, de la Contraloría General de la República, determina que quienes se desempeñan como contratados a honorarios, no obstante no ser funcionarios públicos, tienen el carácter de servidores estatales y desarrollan una función pública, por lo que la autoridad debe velar por el cumplimiento de los principios de eficiencia, eficacia y correcta administración de los medios públicos, consagrados en los artículos 3° y 5°, de la ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, disponiendo las medidas necesarias para verificar la realización de las tareas que se detalles y recomienden en el respectivo pacto.
+
+Sin perjuicio de lo anterior, debe tenerse presente que la existencia de elementos que pudiesen ser considerados como indicios de laboralidad, no significa que los mismos no puedan estar presentes en otro tipo de contratos, ya que tales indicios no son exclusivos de los contratos de trabajo. Nada evita o impide que se pacten determinadas obligaciones para las partes en un contrato a honorarios, por ejemplo, obligación de asistencia en determinados días; emisión de informes, otorgamiento de beneficios adicionales a los honorarios como bonos de desempeño, movilización o alimentación, etc. 4.- Finalmente, refiere que gozaba de ciertos beneficios como son feriado y días administrativos entre otros. Al respecto, señala que dichos beneficios han sido entendidos por la jurisprudencia como estipulaciones que pueden pactarse en los contratos a honorarios.
+
+Releva que en los contratos a honorarios del demandante, se pactó la exclusiva responsabilidad de la persona que presta servicios de pagar cotizaciones previsionales, teniendo en especial consideración que, en los contratos a honorarios, el entero y pago de las imposiciones previsionales recae directamente en el servidor contratado.
+
+Continua enunciando los principios cuestiones relacionados con la legalidad competencial y presupuestaria que implica que la contratación a honorarios o a contrata o en cualquier otra modalidad no responde a una decisión que el Jefe Superior del organismo pueda adoptar, sino que tiene que necesariamente ajustarse y ceñirse de manera estricta a las respectivas partidas aprobadas en la LEY DE PRESUPUESTO las cuales condicionan el monto total del recurso financiero que puede destinarse a cada una de las formas de contratación que, a su turno, las normas competenciales han definido.
+
+En conclusión, no ha existido partida presupuestaria a la cual imputar una contratación bajo la forma de régimen contractual del trabajo, regulada por el Código del ramo, lo que permite reafirmar la improcedencia de la demanda.
+
+De esta manera mientras subsistió la relación bajo honorarios a suma alzada, el Fisco de Chile se encontraba fáctica y jurídicamente imposibilitado para cumplir con lo señalado en el artículo 58 del Código del Trabajo, que ordena al empleador deducir de las remuneraciones las cotizaciones de seguridad social.
+
+Los anteriores argumentos por sí solos permiten desestimar en todas y cada una de sus partes la demanda de autos, sin embargo, resulta oportuno indicar la improcedencia de las prestaciones solicitadas por la parte demandante, atendida la naturaleza jurídica de su vinculación con el Estado.
+
+a)
+Improcedencia de la indemnización por mes de aviso previo, años de servicio, feriado y recargo legal.
+
+La solicitud del pago de una indemnización por mes de aviso previo, años de servicio, recargo legal, resultan del todo inaplicables en la especie, constituyendo un intento por modificar en forma unilateral y sin que exista causa alguna que lo justifique, la naturaleza jurídica de la relación de la demandante para con el servicio demandado.
+
+Dicho, en otros términos, a través de esta petición se introducen elementos ajenos a la discusión de autos y que son enteramente inaplicables, desconociendo la realidad de un modo flagrante.
+
+Tampoco es admisible la demanda del pago del feriado legal y proporcional, no sólo porque la demanda no señala su origen, ni precisa su base de cálculo, sino porque en el derecho administrativo, el funcionario a honorarios que cesa en el cargo pierde aquellos estipendios que no hizo efectivos y en el caso de marras, el actor si hizo uso de sus feriados y permisos administrativos.
+
+La sanción de nulidad de despido prevista en el artículo 162 del Código del Trabajo es inaplicable a los organismos públicos cuando la existencia de la relación laboral solo ha sido declarada en la sentencia, tanto porque va más allá del objetivo de la ley que instauró cuanto porque atenta contra el principio de legalidad del gasto que afecta a los organismos públicos.
+
+Los argumentos para desestimar la procedencia de la Ley Bustos, cuando el empleador resulta ser un Organismo de la Administración del Estado, han sido reconocidos por la Excma. Corte Suprema en diversos fallos recientes.
+
+Como consecuencia de lo expuesto en los acápites anteriores sobre la improcedencia del pago de indemnizaciones sustitutiva del aviso previo, años de servicio, remuneraciones en conformidad al artículo 162, resultan también improcedentes los reajustes, intereses y costas solicitados en el libelo, puesto que entre su representado y la demandante jamás ha existido un contrato de trabajo ni relación laboral, y no caben dichas prestaciones, en consecuencia, nada procede salvaguardar de la desvalorización monetaria, y jamás existirá mora por su falta de cumplimiento.
+
+EN SUBSIDIO, tales reajustes sólo deberán calcularse a partir de la ejecutoriedad del fallo que declara la existencia de la relación laboral y no desde la cotización que no fue enterada por el beneficiario, como se acordó en el contrato de honorarios.
+
+Asimismo, estima tampoco procede que su parte ser condenada en costas, atendido que se ha tenido motivo plausible para litigar
+
+Por lo expuesto, pide tener por contestada la demanda de autos, en los términos precedentemente expuestos y, en su oportunidad, acoger la excepción interpuesta y rechazar la demanda en todas sus partes, con costas.
+
+TERCERO: En la audiencia preparatoria se llamó a las partes a conciliación, sin resultados y luego se fijaron como hechos a probar los siguientes:
+
+HECHOS NO CONTROVERTIDOS:
+
+1. Que entre las partes se celebraron sucesivos contratos a honorarios.
+
+2. Que al demandante se le pagaba por sus servicios previa emisión de una boleta electrónica e informe mensual.
+
+3. Que al demandante en virtud de la naturaleza del vínculo la demandada no retuvo ni entero cotizaciones previsionales.
+
+HECHOS CONTROVERTIDOS:
+
+1. Naturaleza del vínculo que unió a las partes, en su caso, fecha de inicio de la relación laboral, función desempeñada, lugar donde prestaba los servicios, jornada y remuneración pactada y percibida.
+
+2. En su caso, fecha de término de la relación laboral, hechos, motivos y circunstancias que rodean dicho término.
+
+3. Efectividad que al demandante se le adeuda feriados, en su caso, periodo y montos adeudados y remuneración correspondiente al mes de diciembre de 2021.
+
+CUARTO: La demandante incorporó al juicio los siguientes medios de prueba:
+
+DOCUMENTAL:
+
+1. Decreto exento Nº 1505, de fecha 19 de enero de 2015.
+
+2. Contrato de Prestación de Servicios a Honorarios, suscritos entre el actor, don Jonathan Luciano Gallardo Garcia y la Subsecretaría de Transportes, con fecha 31 de diciembre de 2014.
+
+3. Decreto exento TRA Nº 288/838/2016, de fecha 25 de enero de 2016.
+
+4. Contrato de Prestación de Servicios a Honorarios, suscritos entre el actor, don Jonathan Luciano Gallardo Garcia y la Subsecretaría de Transportes, con fecha 28 de diciembre de 2015.
+
+5. Decreto exento TRA Nº 288/831/2017, de fecha 26 de enero de 2017.
+
+6. Contrato de Prestación de Servicios a Honorarios, suscritos entre el actor, don Jonathan Luciano Gallardo Garcia y la Subsecretaría de Transportes, con fecha 19 de diciembre de 2016.
+
+7. Decreto exento RA Nº 288/103/2019, de fecha 21 de enero de 2019.
+
+8. Contrato de Prestación de Servicios a Honorarios, suscritos entre el actor, don Jonathan Luciano Gallardo Garcia y la Subsecretaría de Transportes, con fecha 31 de diciembre de 2018.
+
+9. Decreto exento RA Nº 288/835/2020, de fecha 24 de enero de 2020.
+
+10. Contrato de Prestación de Servicios a Honorarios, suscritos entre el actor, don Jonathan Luciano Gallardo Garcia y la Subsecretaría de Transportes, con fecha 31 de diciembre de 2019. Decreto exento RA Nº 288/346/2021, de fecha 20 de enero de 2021. 2
+
+11. Contrato de Prestación de Servicios a Honorarios, suscritos entre el actor, don Jonathan Luciano Gallardo Garcia y la Subsecretaría de Transportes, con fecha 31 de diciembre de 2020.
+
+12. Boletas de honorario electrónicas emitidas por el actor, con cargo a Finalización y control, números 4 al 14, todas correspondientes al año 2015.
+
+13. Boletas de honorario electrónicas emitidas por el actor, con cargo a Finalización y control, números 15 al 26, todas correspondientes al año 2016.
+
+14. Boletas de honorario electrónicas emitidas por el actor, con cargo a Finalización y control, números 28 al 32, 35, 36, 37, 38, 40, 41 y 43, todas correspondientes al año 2017.
+
+15. Boletas de honorario electrónicas emitidas por el actor, con cargo a Finalización y control, números 45, 47 al 56, todas correspondientes al año 2018.
+
+16. Boletas de honorario electrónicas emitidas por el actor, con cargo a Finalización y control, números 57, 58, 59, 61, 63, 66, 67, 69 al 73, todas correspondientes al año 2019.
+
+17. Boletas de honorario electrónicas emitidas por el actor, con cargo a Finalización y control, números 74 al 85, todas correspondientes al año 2020.
+
+18. Boletas de honorario electrónicas emitidas por el actor, con cargo a Finalización y control, números 86, 88, 89, 90, 91, 93 al 99, todas correspondientes al año 2021.
+
+19. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 21 de enero 2015 a 31 de marzo de 2015.
+
+20. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de abril 2015 a 30 de junio de 2015.
+
+21. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de julio 2015 a 30 de septiembre de 2015.
+
+22. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de octubre 2015 a 31 de diciembre de 2015.
+
+23. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de enero 2016 a 31 de marzo de 2016.
+
+24. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de abril 2016 a 31 de junio de 2016.
+
+25. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de julio 2016 a 30 de septiembre de 2016.
+
+26. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de enero 2017 a 31 de marzo de 2017.
+
+27. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de abril 2017 a 31 de junio de 2017.
+
+28. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de julio 2017 a 30 de septiembre de 2017.
+
+29. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de enero 2018 a 31 de marzo de 2018.
+
+30. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de abril 2018 a 31 de junio de 2018. 4
+
+31. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de julio 2018 a 30 de septiembre de 2018.
+
+32. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de abril 2019 a 31 de junio de 2019.
+
+33. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de abril 2020 a 31 de junio de 2020.
+
+34. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de abril 2021 a 31 de junio de 2021.
+
+35. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de julio 2021 a 30 de septiembre de 2021.
+
+36. Documento denominado: “LIQUIDACION DE HONORARIOS”, correspondiente a los meses junio y diciembre del año 2015. Documento denominado: “LIQUIDACION DE HONORARIOS”, correspondiente a los meses enero y diciembre del año 2016.
+
+37. Documento denominado: “LIQUIDACION DE HONORARIOS”, correspondiente a los meses enero y diciembre del año 2017.
+
+38. Documento denominado: “LIQUIDACION DE HONORARIOS”, correspondiente a los meses enero y diciembre del año 2018.
+
+39. Documento denominado: “LIQUIDACION DE HONORARIOS”, correspondiente a los meses enero y diciembre del año 2019.
+
+40. Documento denominado: “LIQUIDACION DE HONORARIOS”, correspondiente a los meses enero y diciembre del año 2020.
+
+41. Documento denominado: “LIQUIDACION DE HONORARIOS”, correspondiente a los meses enero y diciembre del año 2021.
+
+42. Captura de pantalla de correo electrónico emitido por “Personal Notifica” con cargo al actor, bajo el asunto: “proceso de evaluación contratación año 2022”. 5
+
+43. Documento denominado: “Detalle Reloj Control por Funcionario”, correspondiente a los meses de abril, mayo, junio, julio agosto, septiembre y octubre del año 2016.
+
+44. Documento denominado: “Detalle Reloj Control por Funcionario”, correspondiente a los meses de julio agosto, septiembre, octubre, noviembre y diciembre del año 2019.
+
+45. Documento denominado: “Detalle Reloj Control por Funcionario”, correspondiente a los meses de enero a diciembre del año 2020.
+
+46. Documento denominado: “Detalle Reloj Control por Funcionario”, correspondiente a los meses de enero a noviembre del año 2021.
+
+47. Documento denominado: “Licencias Médicas” emitidas por el actor entre los años 2018 y 2021.
+
+48. Documento denominado: “Vacaciones” emitidas por el actor correspondiente al año 2021. Documento denominado: “Evaluación de Desempeño”, correspondiente a los años 2018 y 2019.
+
+49. Fotografía a color de credencial institucional entregada al actor por la demandada.
+
+50. 4 fotografías a color del actor realizando funciones propias de su cargo.
+
+TESTIMONIAL:
+
+Víctor Alberto Morales Navarro. Rut Nº 18.544.714-6, quien previamente juramentado y legalmente interrogado declara, en síntesis, en los siguientes términos:
+
+Señala conocer al demandante, expone lo que serían sus funciones en el Programa de Investigación, en are vial y establecimientos. Refiere las instrucciones de sus supervisores, control de horarios, control de ingreso.
+
+CONTRAINTERROGADO.
+
+Se le consulta por los derechos que estaban considerados en el contrato.
+
+Cristian Andrés López Fuentes. Rut Nº 16.685.835-6, quien previamente juramentado y legalmente interrogado declara, en síntesis, en los siguientes términos:
+
+Expone que trabajó con el actor en la Subsecretaria de Transporte, describe la fiscalización en transporte, tarjetas bip, registro de evasión, señala los jefes que daban instrucciones, jornada, con horarios en la semana, distribución de horarios.
+
+CONRAINTERROGADO refiere algunas características de su contrato
+
+Sergio Yoao Cofré Contreras. Rut Nº 9.097.122-0, quien previamente juramentado y legalmente interrogado declara, en síntesis, en los siguientes términos:
+
+Expone que conocería al demandante, describiendo las labores del actor, instrucciones de la jefatura según pauta diaria, los nombres de los supervisores, frecuencia, diaria mensual, turno, instrucciones, pautas, forma de pago.
+
+CONTRAINTERROGADO refiere que trabaja hace 19 años para el Ministerio de Transportes, expone que ha visto los convenios y conoce los servicios del actor. Refiere que los convenios expresan las obligaciones de los contratos.
+
+QUINTO: La demandada incorporó en la audiencia de juicio las siguientes probanzas:
+
+DOCUMENTAL:
+
+1. Copia de convenios a honorarios del actor
+
+2. Copia de carta aviso no renovación y solicitud
+
+3. Copia de liquidaciones de sueldo
+
+4. Copia de solicitudes de feriados
+
+5. Copia de solicitudes de permisos con goce de remuneraciones
+
+6. Copia de solicitudes de descuentos.
+
+7. Copia de planilla de licencias médicas del actor. TESTIMONIAL:
+
+Sebastian Andrés Guerra González, Rut Nº 16.876.304-2, quien previamente juramentado y legalmente interrogado declara, en síntesis, en los siguientes términos:
+
+Señala trabaja en el Programa de fiscalización, contrato funciones y obligaciones mencionadas en el contrato, similitud del contrato del testigo con el del actor.
+
+Señala la forma de pago de sus servicios.
+
+CONTRAINTERROGADO Señala que trabaja desde el año 2013, expresa que sus funciones eran como supervisor, que entrega la planificación que llega el día anterior.
+
+Edgardo Javier Goncalves Martino, Rut Nº 12.1128.99-3, quien previamente juramentado y legalmente interrogado declara, en síntesis, en los siguientes términos:
+
+Señala ser supervisor, sus funciones consignadas en el convenio y la fecha de inicio de sus servicios.
+
+OFICIOS:
+
+AFP Modelo, que da cuenta sólo de aportes en el año 2015 por parte de la empresa Sodimac, oficio que resulta inútil para la decisión de la Litis atendido los claros términos del tercer hecho no controvertido
+
+EXHIBICIÓN DE DOCUMENTOS:
+
+1. Copia de las boletas de honorarios emitidas por el actor a la Subsecretaria de Transportes del ministerio de Transporte, durante el lapso 2015-2021 incluyendo los respectivos informes.
+
+2. Copias de las declaraciones del impuesto Global complementario correspondiente a los años 2015-2021.
+
+Se cumple en audiencia. Respecto de la documentación exhibida puede señalar que las boletas de honorarios exhibidas por el actor dan cuenta de que el actor emitió boletas no correlativas en que consta que don Jonatan Luciano Gallardo Garcia tiene registrado como giro otras actividades no clasificadas previamente y mecánica automotriz que es coincidente con los hechos no controvertidos.
+
+Respecto de las declaraciones de impuesto, dicha prueba no puede estimarse que constituya aporte epistémico a la decisión de la Litis pues da cuenta de la existencias de las declaraciones de renta, monto de impuestos pagados, retenciones y devoluciones en su caso pero no que no apoya en ningún sentido las cargas de la demandante pero tampoco ninguno de los fundamentos fácticos y jurídicos de la demandada.
+
+ANALISIS SINGULAR DE LOS MEDIOS DE PRUEBA
+
+SEXTO: Que respecto de los medios de prueba en particular, se desestimará asignarle todo mérito probatorio a la declaración de los testigos Morales, López y Cofre, por cuanto a este sentenciador no se le han presentado ning´´un elemento de corroboración para poder estimar como efectivas ninguna de sus afirmaciones, no pudiendo construirse ningún razonamiento para estimar verosímil o creíble cada testimonio, sin perjuicio de la indeterminación o inespecificidad de la información aportada, pues desde una visión no presuntivista o reduccionista respecto de la testimonial que se asume por este sentenciador, el análisis del testimonio no es posible hacerlo solo desde la postura de credibilidad o fe del Juez sino necesariamente con una mediana postura crítica respecto de la información que se proporciona en juicio, pues como lo expone el profesor Vitor de Paula Ramos “para el no presuntivismo…poseer creencias justificadas a partir del testimonio presupone no solamente que no existan razones negativas, mas también que existan razones positivas que hagan que se pueda creer justificadamente aquello que fue comunicado” (De Paula Ramos, Vitor, Prova Testemunhal, Editora Jus Podivm, 2021. pág. 130 y ss.. Traducción libre del sentenciador) y en dicho sentido carece este sentenciador de facultad suprahumana para reconocer de la sola expresión de palabras, kinesis o cualquier otra manifestación externa del testigo la efectividad de cada cuestión declarada, compartiendo del mismo modo a lo ya dicho recién, que creer un testimonio sin alguna creencia de fondo de la credibilidad o veracidad del testimonio –“some background belief in the testimony´s credibility or truth”- (Faulkner, Paul. The Social Character of testimonial knowledge, The Journal of Philosophy, Hanover, v 97, n11, p.581-601, nov 2000, citado en De Paula Ramos, op. Cit pág. 133.) es un ejercicio carente de racionalidad o justificación racional controlable por cualquier ciudadano o las propias partes.
+
+Que junto a lo recién dicho, sobre la ausencia de elemento que permita corroborar alguna de las informaciones proporcionadas por los testigos, debe relevarse que las partes del juicio sin importante dificultad probatoria pudieron ilustrar y justificar ante el Tribunal, al menos como respaldo la circunstancia de ser o haber sido uno o mas de los testigos trabajadores o prestadores de servicios de la demandada, y a partir, al menos desde dicha información respaldada, justificar al Juez los fundamentos de alguna conformidad o validez de lo declarado por el respectivo testigo.
+
+SEPTIMO: Que en lo relacionado con los testigos de la demandada, Señores Guerra y Goncalves, resultan igualmente aplicable lo razonado en el considerando anterior, desde que, ningún medio de corroboración se incorporó al juicio para hacer justificable la afirmación de ambos de ser funcionarios o agentes públicos de la demandada.
+
+OCTAVO: Que sin perjuicio de lo razonado en los dos considerandos precedentes, la decisión de no asignarle ninguna fiabilidad a los testimonios considerada la ausencia de todo medio de corroboración externo o periférico de la información aportada, en nada altera la decisión del juicio, ni en favor ni en contra de toda parte del juicio, desde que existe suficiente aportación de información de los demás medios de prueba, tales como contratos, resoluciones administrativas que evidencian la naturaleza del vínculo y obligaciones correlativas.
+
+NOVENO: Que respecto del contrato celebrado entre las partes con fecha 31 de diciembre de 2014 autorizado por resolución de 19 de marzo 2015, permite corroborar que entre las partes se celebró un contrato cuyas obligaciones o funciones del actor eran, entre otras, a) Fiscalizar el cumplimiento de las disposiciones de la Ley de Tránsito, sus reglamentos y las de transporte y tránsito terrestre que dicte el Ministerio de Transportes y Telecomunicaciones o las Municipalidades, debiendo denunciar, al Juzgado que corresponda, las infracciones o contravenciones que se cometan, b) Efectuar la fiscalización de transporte terrestre, del subsidio al transporte público y los establecimientos sujetos al control de Ministerio de Transportes y Telecomunicaciones, de acuerdo al plan anual de fiscalización. En el mismo instrumento en su cláusula décima se consigna supervisión expresa de la Secretaría Ejecutiva del Programa Nacional de Fiscalización (sic),
+
+Respecto del contrato celebrado entre las partes con fecha 28 de diciembre de 2015 aprobado por resolución de 25 de enero de 2016 tomado de razón el 26 de enero del 2016 se establecen como obligaciones del actor a) Fiscalizar el cumplimiento de las disposiciones de la Ley de Tránsito, sus reglamentos y las de transporte y tránsito terrestre que dicte el Ministerio de Transportes y Telecomunicaciones o las Municipalidades, debiendo denunciar, al Juzgado que corresponda, las infracciones o contravenciones que se cometan, b) Efectuar la fiscalización de transporte terrestre, del subsidio al transporte público y los establecimientos sujetos al control de Ministerio de Transportes y Telecomunicaciones, de acuerdo al plan anual de fiscalización.
+
+En el recién citado instrumento se consigna una jornada de 42 horas semanales, la existencia de control horario, y en la cláusula decima supervisión por la Secretaría Ejecutiva del Programa Nacional de Fiscalización (sic).
+
+DECIMO: Que en lo relacionado con el contrato aprobado por resolución de 26 de enero de 2017 de fecha 19 de diciembre de 2016 se establecen como funciones a) Fiscalizar los talleres de bombas inyectoras diésel, las Plantas de Revisión Técnica, Escuelas de Conductores, Gabinetes Psicotécnicos y demás establecimientos regulados por el Ministerio de Transportes y Telecomunicaciones; b) Fiscalizar los subsidios al transporte público; c) Fiscalizar a través de la tecnología y los medios disponibles para ello, el cumplimiento de la normativa de tránsito y transporte terrestre, debiendo denunciar al Juzgado que corresponda las infracciones que se cometan. En la cláusula décima primera contempla supervisión en los mismos términos de contratos de 2014 y 2015, control de horario y una jornada de 42 horas semanales
+
+UNDECIMO: respecto del contrato suscrito entre las partes con fecha 31 de diciembre de 2018 aprobado por resolución de 21 de enero de 2019, se establecen como funciones del demandante a) Fiscalizar el cumplimiento del Decreto con Fuerza de Ley N° 1, de 2009, del Ministerio de Justicia y de Transportes y Telecomunicaciones que fija el texto refundido, coordinado y sistematizado, de la Ley N°18.290, Ley de Tránsito, y asimismo sus reglamentos y demás normativas de transporte dictada por el Ministerio de Transportes y Telecomunicaciones o las Municipalidades, debiendo efectuar las denuncias al Juzgado de Policía Local competente, en los términos establecidos en el artículo 3° de la Ley N° 18.287, de 1984, del Ministerio de Justicia; b) Fiscalizar el cumplimiento del Decreto N° 38, de 1992, del Ministerio de Transportes y Telecomunicaciones, que reglamenta el transporte remunerado de escolares, c) Controlar los establecimientos autorizados por el Secretario Regional Ministerial de Transportes y Telecomunicaciones, como Plantas de Revisión Técnica, Gabinetes Psicotécnicos y Escuelas de Conductores, dejando constancia de las infracciones que detecte; d) Controlar para el 2019, el cumplimiento de las disposiciones contenidas en la Ley N° 20.378, que crea un subsidio nacional para el transporte público remunerado de pasajeros, para lo cual deberá levantar un acta e informar los resultados; e) Generar reportes e informes de los incumplimientos e infracciones que detecte en el ejercicio de las tareas asignadas, para su remisión al Secretario Regional Ministerial de Transportes y Telecomunicaciones u otros organismos competentes, de acuerdo a los requerimientos efectuados por la jefatura; f) Efectuar fiscalización de vehículos que prestan servicios de transporte público en la ciudad de Santiago (Transantiago) y la medición de los índices de evasión; y g) Colaborar en la generación de una base de datos recopilados durante el año que permitan determinar el origen de los incumplimientos a la normativa de transporte y con ello establecer mecanismos de fiscalización más adecuadas. Las tareas enumeradas precedentemente, junto a las demás que se le encomienden, relacionadas con las mismas, deberán ejecutarse de acuerdo a la normativa vigente, y al Plan Anual de Fiscalización, aprobado la Subsecretaría de Transportes, del cual se efectuará el respectivo seguimiento. Para el correcto cumplimiento de sus funciones, deberá utilizar los medios tecnológicos de fiscalización que le asigne el Programa, así como dar correcto uso a la vestimenta dispuesta para efectos. En el expresado contrato se pactó en clausula decima primera contempla supervisión en idénticos términos de los contratos anteriores, control biométrico y se pactan 42 horas semanales.
+
+DUODECIMO: Sobre el contrato celebrado 31 de diciembre de 2019 aprobado por resolución de 24 de enero de 2020 se pactan las siguientes funciones: Prestar Servicios en el Programa Nacional de Fiscalización, de la Subsecretaría de Transportes, en la Región Metropolitana, para el año 2020, debiendo desarrollar las siguientes labores, conforme el plan de fiscalización y su programación diaria, en el marco del cumplimiento de la normativa vigente, sus reglamentos y, disposiciones de transporte y tránsito terrestre dictadas por el Ministerio de Transportes y Telecomunicaciones o las Municipalidades: a) Controlar, durante la vigencia de su contrato, los talleres de bombas inyectoras diésel, las Plantas de Revisión Técnica, Escuelas de Conductores, Gabinetes Sicotécnicos y demás establecimientos regulados por el Ministerio de Transportes y Telecomunicaciones según la normativa vigente que regula dichas materias; b) Fiscalizar los subsidios al transporte público según las disposiciones de la Ley N° 20.378 de 2009, del Ministerio de Transportes y Telecomunicaciones; c) Fiscalizar y controlar a través de la tecnología y los medios disponibles para ello, el cumplimiento de la normativa de tránsito y transporte terrestre, debiendo denunciar al Juzgado que corresponda las infracciones que se cometan. Al igual que el contrato del año anterior, se pacta jornada de 42 horas semanales y en clausula decima primera se establece supervisión de Secretaría Ejecutiva del Programa Nacional de Fiscalización (sic).
+
+DECIMO TERCERO: Respecto del contrato de 31 de diciembre de 2021 aprobado por resolución de 20 de enero de 2021 –y último suscrito por las partes-, se pactaron como obligaciones del actor las siguientes: Fiscalizar el cumplimiento del Decreto con Fuerza de Ley N° 1, de 2009, del Ministerio de Justicia y de Transportes y Telecomunicaciones que fija el texto refundido, coordinado y sistematizado, de la Ley N° 18.290, Ley de Tránsito, y asimismo sus reglamentos y demás normativa de transporte dictada por el Ministerio de Transportes y Telecomunicaciones o las Municipalidades, debiendo efectuar las denuncias al Juzgado de Policía Local competente, en los términos establecidos en el artículo 3° de la Ley N° 18.287, de 1994, del Ministerio de Justicia, que establece procedimiento ante los Juzgados de Policía Local; b) Participar en las labores de control de las Plantas de Revisión Técnica, Escuelas de Conductores, Gabinetes Psicotécnicos y demás establecimientos regulados por el Ministerio de Transportes y Telecomunicaciones; c) Fiscalizar los subsidios al transporte público según las disposiciones de la Ley N° 20.378 de 2009, del Ministerio de Transportes y Telecomunicaciones; d) Participar en la toma de datos del registro de evasión que elabora el Programa Nacional de Fiscalización; e) Incorporar la información recopilada en las bases de datos o sistemas que dispone el Programa Nacional de Fiscalización. Las labores señaladas precedentemente, deberá ejecutarlas conforme a la normativa vigente, considerando el Plan Anual de Fiscalización, aprobado por la Subsecretaría de Transportes, y en concordancia con la programación, diaria, semanal o mensual, definida por su supervisor o encargado. Para el adecuado cumplimiento de las labores encomendadas el contratado deberá utilizar los medios tecnológicos de fiscalización que dispone el Programa, y utilizar la vestimenta dispuesta por el Programa Nacional de Fiscalización.
+
+En el citado acto se pactaron igualmente 42 horas semanales de jornada y en su cláusula decimo primera se establece supervisión de la Secretaría Ejecutiva del Programa Nacional de Fiscalización (sic).
+
+DECIMO CUARTO: Que respecto de los documentos consistentes en 12. Boletas de honorario electrónicas emitidas por el actor, con cargo a Finalización y control, números 4 al 14, todas correspondientes al año 2015, 13. Boletas de honorario electrónicas emitidas por el actor, con cargo a Finalización y control, números 15 al 26, todas correspondientes al año 2016, 14. Boletas de honorario electrónicas emitidas por el actor, con cargo a Finalización y control, números 28 al 32, 35, 36, 37, 38, 40, 41 y 43, todas correspondientes al año 2017, 15. Boletas de honorario electrónicas emitidas por el actor, con cargo a Finalización y control, números 45, 47 al 56, todas correspondientes al año 2018, 16. Boletas de honorario electrónicas emitidas por el actor, con cargo a Finalización y control, números 57, 58, 59, 61, 63, 66, 67, 69 al 73, todas correspondientes al año 2019, 17. Boletas de honorario electrónicas emitidas por el actor, con cargo a Finalización y control, números 74 al 85, todas correspondientes al año 2020, 18. Boletas de honorario electrónicas emitidas por el actor, con cargo a Finalización y control, números 86, 88, 89, 90, 91, 93 al 99, todas correspondientes al año 2021, dan cuenta de la emisión de boleta de honorarios por parte del actor en virtud de servicios prestados a la demandada, prueba que resulta irrelevante atendida la claridad del hecho no controvertido N° 1.
+
+DECIMO QUINTO: Que respecto de los documentos denominados 19. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 21 de enero 2015 a 31 de marzo de 2015. 20. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de abril 2015 a 30 de junio de 2015. 21. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de julio 2015 a 30 de septiembre de 2015. 22. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de octubre 2015 a 31 de diciembre de 2015. 23. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de enero 2016 a 31 de marzo de 2016. 24. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de abril 2016 a 31 de junio de 2016. 25. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de julio 2016 a 30 de septiembre de 2016. 26. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de enero 2017 a 31 de marzo de 2017. 27. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de abril 2017 a 31 de junio de 2017. 28. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de julio 2017 a 30 de septiembre de 2017. 29. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de enero 2018 a 31 de marzo de 2018. 30. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de abril 2018 a 31 de junio de 2018. 4 31. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de julio 2018 a 30 de septiembre de 2018. 32. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de abril 2019 a 31 de junio de 2019. 33. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de abril 2020 a 31 de junio de 2020. 34. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de abril 2021 a 31 de junio de 2021. 35. Documento denominado: “INFORME DE ACTIVIDADES HONORARIOS A SUMA ALZADA” correspondiente al periodo 01 de julio 2021 a 30 de septiembre de 2021., permiten concluir que el actor durante la vigencia de su vínculo con la demandada dio cumplimiento a su obligación de presentar informes trimestrales, prueba que resulta innecesaria o irrelevante al tenor de la claridad del primer hecho no controvertido.
+
+DECIMO SEXTO: Que respecto de los documentos denominados 36. Documento denominado: “LIQUIDACION DE HONORARIOS”, correspondiente a los meses junio y diciembre del año 2015. Documento denominado: “LIQUIDACION DE HONORARIOS”, correspondiente a los meses enero y diciembre del año 2016, 37. Documento denominado: “LIQUIDACION DE HONORARIOS”, correspondiente a los meses enero y diciembre del año 2017, 38. Documento denominado: “LIQUIDACION DE HONORARIOS”, correspondiente a los meses enero y diciembre del año 2018, 39. Documento denominado: “LIQUIDACION DE HONORARIOS”, correspondiente a los meses enero y diciembre del año 2019, 40. Documento denominado: “LIQUIDACION DE HONORARIOS”, correspondiente a los meses enero y diciembre del año 2020, 41. Documento denominado: “LIQUIDACION DE HONORARIOS”, correspondiente a los meses enero y diciembre del año 2021, permiten acreditar, en el entendido que fueron presentados por la propia demandante, reconociendo con ello la veracidad de lo consignado en los expresados documentos, que le fueron pagadas las sumas convenidas por los servicios pactados, que por demás dan cuenta del hecho de haberle sido pagados honorarios durante la vigencia del vínculo sin perjuicio de lo que se dirá más adelante sobre el mérito de la boleta correspondiente al mes de noviembre de 2021, en los mismos términos puede ser ponderado el aporte de las copias de liquidaciones incorporadas por la parte demandada.
+
+DECIMO SEPTIMO: Que respecto de los documentos denominados 42. Captura de pantalla de correo electrónico emitido por “Personal Notifica” con cargo al actor, bajo el asunto: “proceso de evaluación contratación año 2022”. 43. Documento denominado: “Detalle Reloj Control por Funcionario”, correspondiente a los meses de abril, mayo, junio, julio agosto, septiembre y octubre del año 2016, 44. Documento denominado: “Detalle Reloj Control por Funcionario”, correspondiente a los meses de julio agosto, septiembre, octubre, noviembre y diciembre del año 2019, 45. Documento denominado: “Detalle Reloj Control por Funcionario”, correspondiente a los meses de enero a diciembre del año 2020, 46. Documento denominado: “Detalle Reloj Control por Funcionario”, correspondiente a los meses de enero a noviembre del año 2021, no se les asignará ningún valor de corroboración, en consideración a que planteada la recién señalada prueba como documentos, en concreto dichas probanzas corresponderían a datos o información que tendría su origen o antecedente en un soporte o información electrónica, lo que impide a este sentenciador asignarle a los expresados medios de prueba autoría y fecha de la misma.
+
+Sobre lo anterior puede venir a colación la distinción plantada por Julio José Elias ( La prueba de documentos electrónicos en los tribunales de justicia (Valencia, Tirant lo Blanch, 2008, p. 44) quien distingue tres tipos de documento electrónico: Printout: soporte de papel impreso, generado a través de medios informáticos; Imput: documento informático electrónico creado por datos almacenados en la memoria de un ordenador, y EDI: soporte de información electrónico formado mediante el intercambio de mensajes electrónicos, estimándose que un evidencialismo robusto exige revisar, siguiendo a Xavier Abel Lluch (La prueba electrónica, Serie estudios prácticos sobre los medios de prueba , Número 5 (Barcelona, Bosch Editores), 2011, p. 110), y como ha seguido cierta doctrina española, condicionando la equivalencia funcional entre la prueba documental y la electrónica (printout en este caso) al cumplimiento de los siguientes requisitos: i. Que se pueda hacer legible mediante sistemas de hardware y software; ii. El contenido del documento emitido por el autor debe ser igual al entregado al receptor; iii. Que sea posible su conservación y recuperación; iv. Que el documento electrónico pueda traducirse al lenguaje convencional; v. Que se puedan identificar los sujetos participantes en el documento; vi. Que la autoría del mismo pueda ser atribuida a una determinada persona, y vii. Que el documento reúna las condiciones de autenticidad y fiabilidad; de manera que en la forma ingresada al juicio, ninguna de dichas exigencias epistémicas puede ser tenidas por cumplidas particularmente la posibilidad de tener por reconocida o atribuida alguna autoría, época de su creación ni que reúna condiciones de autenticidad y fiabilidad a los expresados documentos, no bastando para ello la ausencia de alegación u objeción –improcedente por demás- de la demandada.
+
+Lo anteriormente referido en nada obsta que con el mérito de los contratos celebrados e incorporados por las partes del juicio es posible extraer como información la circunstancia de haberse pactada en todos los contratos jornadas de 42 horas semanales y además de haberse incorporado por la demandada el acta por el cual se puso término al vínculo contractual existente entre las partes del juicio.
+
+DECIMO OCTAVO: Que respecto de los documentos denominados “Licencias Médicas” emitidas por el actor entre los años 2018 y 2021; Documento denominado: “Evaluación de Desempeño”, correspondiente a los años 2018 y 2019, se estará a los mismos argumentos referidos en el considerando precedente para restarle valor probatorio atendida su naturaleza y ausencia de antecedente que pueda asignarle origen o autoría, sin perjuicio de estimarse irrelevantes para cualquier efecto útil para la decisión de la Litis, en tanto, por una parte, de ser considerados fiables, darían cuenta sólo de las numerosas licencia de que hizo uso el actor (también incorporadas por la demandada en una “planilla” sin firma, constancia de autoría o explicación del origen de la información), y que no existen antecedentes de evaluación del actor, ambos irrelevantes para la decisión de la Litis.
+
+DECIMO NOVENO: Que respecto del documento denominado: “Vacaciones” emitidas por el actor (sic) correspondiente al año 2021, sin perjuicio de desconocerse su origen, fecha de elaboración y conformidad a la realidad, la circunstancia de ser el propio actor quien lo presenta al juicio, puede buenamente ser considerada en su propio perjuicio justificativo de que en caso de adeudarse algún feriado, este en caso alguno sería superior a los días que el propio documento indica, esto es, 5 días pendientes o acumulados al año 2020 y 15 días del año 2021.
+
+VIGESIMO: Que irrelevante o superflua resulta la prueba consistente en credencial del actor como fiscalizador de la Subsecretaria de transporte conforme ha resultado no controvertidas las funciones del actor lo que por lo demás constan inequívocamente en los contratos y resoluciones en su caso incorporadas por ambas partes del juicio y respecto de las que se ha razonado singularmente más arriba.
+
+VIGESIMO PRIMERO: respecto de las fotografías acompañadas, con prescindencia de que no es posible asignarle atributos relacionados con el origen de dicha prueba, no solo es desconocido el origen, fecha de su creación (fotográfica) ni menos de las personas que podrían aparecer en el señalado registro, amén de que la imagen de un grupo de personas con cierto atuendo o uniforme no se entiende en que sentido pudiera representar algún aporte epistémico, pues la imagen no permite apreciar el estatuo jurídico de los fotografiados ni menos colegir de su examen la supervisión, dependencia, actividades u otra información perseguida por alguna de las partes de cualquier juicio.
+
+VIGESIMO SEGUNDO: Que los documentos consistentes en solicitudes de permisos con goce de remuneraciones da cuenta de la efectividad de haber ejercido el derecho consignado en los contratos celebrados en las épocas que los propios documentos singularizan pero que no resultan en lo conclusivo ningún aporte epistémico para la decisión de la Litis.
+
+VIGESIMO TERCERO: Que del memorándum N° 14 de 18 de enero de 2018 es posible corroborar la efectividad de haber solicitado el actor autorización para serle descontadas por planilla cotizaciones de AFP, en la forma que consignaron los contratos suscritos entre las partes, pero que al tenor de lo que razonará más adelante resultará inútil o inconducente a los efectos de lo que se resolverá.
+
+ANALISIS DE CONJUNTO DE LA PRUEBA ANTES REFERIDA Y PONDERADA SINGULARMENTE.
+
+VIGÉSIMO CUARTO: Que del análisis de la totalidad de los contratos celebrados entre las partes del juicio a partir del año 2014 hasta el término de la relación en el mes de diciembre de 2021, es posible advertir como elementos unificadores la existencia de jornada de 42 horas semanales distribuidas de lunes a sábado en la forma que cada acto consigna, la existencia de un control biométrico de asistencia, la existencia de diversos derechos, beneficios o facultades relacionadas con el goce de permisos administrativos con goce de remuneraciones, feriados o vacaciones, licencias médicas, entre otros. Del mismo aparece como elemento común la existencia de la reconocida supervisión por parte de Secretaría Ejecutiva del Programa Nacional de Fiscalización, que ha de entenderse a la Subsecretaría de Transporte.
+
+VIGÉSIMO QUINTO: Que el examen de los contratos expresados es posible corroborar obligaciones del demandante de carácter amplio y durante el tiempo del vínculo inespecíficas, entiendo por inespecíficas por cuanto corresponden a numerosas funciones, no precisamente determinadas, las que por cierto no se advierte puedan ser referidas a necesarios conocimientos expertos del demandante, quien aparentemente sería mecánico automotriz, según el examen de las boletas de honorarios incorporadas. Sobre lo anterior bien viene recordar o citar la definición de experto, por cierto del todo cercana incluso al conocimiento vulgar que expresa que experto es “dicho de una persona práctica o experimentada en algo” o “experimentada o con grandes conocimientos en una materia” ambas acepciones que no permiten encuadran el supuesto conocimiento del demandante en una o más de las cuestiones expuestas en las funciones pactadas, sin perjuicio de cierta cercanía entre la actividad, profesión u oficio del actor –mecánico automotriz- con una o más de las funciones pactadas, pero que en modo alguno pueden ser estimadas como conocimiento o actividad con grandes conocimientos o experimentada o persona práctica en algo, no resultando probado ni aún remotamente algún conocimiento o práctica de entidad suficiente para estimar al actor experto en la o las funciones a que se obligó contractualmente con la demandada. Que sin perjuicio de lo recién afirmado, no basta para estimar el cumplimiento de la calidad de experto sino, valga la perogrullada, si dicha expertiz se vincula con la función pactada, lo que tampoco aparece acreditado en juicio.
+
+VIGÉSIMO SEXTO: Que sin perjuicio de que la demandada en su contestación afirmó como fundamento de la contratación del actor la calidad de experto, el Tribunal debe hacerse cargo de las afirmaciones del actor quien cuestiona la naturaleza del vínculo por cuanto en su concepto sus funciones no podían ser enmarcada en el artículo 11 de la Ley 18.834, estimando que las labores prestadas por su representado jamás fueron no habituales de la Institución, tampoco se trató de cometidos específicos, ni mucho menos los servicios que prestó a su ex empleadora se pueden catalogar de específicos, esto es, transitorios y temporales.
+
+VIGESIMO SEPTIMO: Que del examen de los diversos contratos incorporados por las partes del juicio es posible, en análisis de conjunto, que durante toda la vigencia de la relación jurídica entre las partes se pactó un nucleo de funciones de carácter plural, sumado a funciones que variaron entre una y otra contratación, pero apareciendo que no puede estimarse que se hayan pactado entre las partes cometidos específicos, entendido el concreto específico como “concreto”, preciso o determinado, desprendiéndose que no ha existido especificidad de las funciones contratados y por el contrario del análisis singular y de conjunto de los contratos celebrados entre las partes por el contrario aparece que las labores son generales, genéricos, comunes e inespecíficas, tanto que la lectura de uno de los contratos da cuenta de que se estipula como función del actor ”...junto a las demás que se le encomienden, relacionadas con las mismas” inespecificidad que el propio pacto confirma.
+
+VIGÉSIMO OCTAVO: Que debe ser desestimado el planteamiento dela demandada en cuanto a haber contratado al actor como experto, no especificándose ni probándose por la demandada a que naturaleza o tipo de “experto” contrató y si dicha expertís se alguna forma puede vincularse con la función pactada, solo apareciendo antecedentes periféricos de que el actor tendría algún conocimiento de mecánica, pero que en modo alguno permiten asignarle el carácter de experto en mecánica, gramática, filosofía o cualquier otra faceta del conocimiento, ciencia o técnica, no que esa “indeterminada calidad de experto pudiera vincularse en concreto con la actividad contratada.
+
+VIGÉSIMO NOVENO: Que asentado que el examen de la contratación del actor, con los medios de corroboración referidos, no puede encuadrarse en ninguna de las hipótesis del artículo 11 de la Ley 18.834, se añaden elementos que dan cuenta que junto a lo dicho se presentan inequívocos elementos que cuenta de la subordinación del demandante, mediante el establecimiento de una jornada plenamente coincidente con la jornada ordinaria del Código del Trabajo, pactándose además que “Las labores señaladas precedentemente, deberá ejecutarlas conforme a la normativa vigente, considerando el Plan Anual de Fiscalización, aprobado por la Subsecretaría de Transportes, y en concordancia con la programación, diaria, semanal o mensual, definida por su supervisor o encargado” descripción que denota una supervisión directa y en periodos de dia, semana o mes, desprendiéndose de dichas estipulaciones, probadas además por el testimonio rendido en juicio por xx, la subordinación y dependencia que fluye no solo del descarte de la procedencia de la contratación en virtud del artículo 11 precitado, sino especialmente de configurarse las exigencias del artículo 7 del Código del Trabajo.
+
+TRIGESIMO: Que de los antecedentes razonados precedente fluyen las motivaciones que llevarán a accederé a la pretensión del actor de declarar la existencia de relación laboral desde el día 20 de enero de 2015 hasta la fecha de terminación dela relación, efecto declarativo que ha de producirse desde todas las consecuencias que ha producir la declaración jurisdiccional solo a partir de su notificación y ejecutoriedad.
+
+TRIGÉSIMO PRIMERO: Que del mismo modo que se declarará la existencia de una relación de naturaleza laboral entre demandante y la demandada, se accederá a declarar que la demandada al poner término al vínculo lo ha hecho sin dar cumplimiento a las solemnidades del artículo 162 del Código del Trabajo, además de que tampoco pueden compartirse los motivos expuestos en la misiva dirigida al actor con fecha 26 de noviembre de 2021.
+
+TRIGESIMO SEGUNDO: Que conforme se declarará la existencia de relación laboral entre el actor y la Subsecretaria de Transportes, que el despido o término de la relación laboral no se ha ajustado a derecho y consecuencialmente es injustificado, se condenará a la demandante al pago de la indemnización por años de servicio y el recargo de la letra b del artículo 168, teniendo como base de cálculo para la indemnizaciones expresadas la suma de $790.202
+
+TRIGÉSIMO TERCERO: Que según lo expresado en el considerando décimo noveno, para decidir respecto de los feriados demandados, la propia documental aportada por el actor da cuenta que NO es efectivo que se le adeude feriados por 129 días, sino que sólo quedan 5 días pendientes o acumulados al año 2020 y 15 días del año 2021, por lo que se acogerá la demanda por feriado legal sólo por 20 días, destacándose que el examen de todos los antecedentes de naturaleza laboral dan cuenta de la obtención de información de feriados, licencias, evaluación de desempeño se produce entre el 29 de noviembre de 2021 y el 15 del mes de diciembre, siendo posterior a la comunicación del término de la relación entre las partes, por lo que entre el 20 de diciembre y el término del vínculo solo transcurre 1 mes y un dia, sumándose al total de días de feriado 1,292 días a los 20 obtenidos de la información aportada por el propio demandante, de manera que se condenará a la demandada al pago de la suma de $824.233 por 31,292 días corridos por feriado legal y proporcional.
+
+TRIGESIMO CUARTO: Que respecto de la excepción de prescripción de feriado, conforme solo ha resultado probado conforme lo dicho en el considerando precedente que se condenará a al pago de feriado por periodos inferiores a dos años de feriado, no se superpone en ningún sentido los plazos de una eventual prescripción con los feriados adeudados, por lo que se desestimará la excepción de prescripción según se dirá en lo resolutivo
+
+TRIGÉSIMO QUINTO: Que según la prueba aportada por el propio demandante da cuenta que NO trabajó en el mes de diciembre sino desde el 27 de diciembre, por encontrarse con licencia médica, resultando improcedente su pretensión en los términos planteados, solo accediéndose al pago de la suma de $131.700 por 5 días adeudados.
+
+TRIGESIMO SEXTO: Que en lo que se relaciona con la procedencia de aplicar la sanción del artículo 162 del Código del Trabajo, en concepto de este sentenciador cuando la relación entre un particular y la administración de estado ha sido establecida mediante una sentencia judicial, como lo ha expresado la Excelentísima Corte Suprema, entre otros, en los autos roles 4.1500-2017; 37.339-2017; 36.601-2017 y últimamente en los Roles 28.229-2018 , 4.440-2019 y N° 32.749- 2018, “concurre un elemento que autoriza a diferenciar la aplicación de la punición de la nulidad del despido, esto es, que fueron suscritos al amparo de un estatuto legal determinado que, en principio, les otorgó una presunción de legalidad, lo que permite entender que no se encuentran típicamente en la hipótesis para la que se previó la figura de la nulidad del despido”.
+
+TRIGESIMO SÉPTIMO: Que como los mismos fallos pre citados lo expresan “…en otra línea argumentativa, la aplicación -en estos casos-, de la institución contenida en el artículo 162 del Código del Trabajo, se desnaturaliza, por cuanto los órganos del Estado no cuentan con la capacidad de convalidar libremente el despido en la oportunidad que estimen del caso, desde que, para ello, requieren, por regla general, de un pronunciamiento judicial condenatorio, lo que grava en forma desigual al ente público, convirtiéndose en una alternativa indemnizatoria adicional para el trabajador, que incluso puede llegar a sustituir las indemnizaciones propias del despido” lo que llevará a rechazar la demanda de nulidad de despido según se dirá en lo resolutivo del a sentencia.
+
+TRIGESIMO OCTAVO: Que conforme la comunicación del término de la relación laboral se produjo con una anticipación superior a 30 días no se condenará a la demandada al pago de la indemnización sustitutiva de aviso previo.
+
+TRIGESIMO NOVENO: Que los medios de corroboración o prueba que no han sido referidos ni ponderados en específico no alteran las conclusiones o razonamientos probatorios que llevan a acoger parcialmente la demanda de autos.
+
+Y visto lo dispuesto por los artículo 1698 del Código Civil, articulo 11 Ley N° 18.834, 1, , 63, 161, 162, 163, 168, 173, 420, 425, 452 y siguientes del Código del Trabajo, se declara que:
+
+I.SE ACOGE LA DEMANDA de despido injustificado y cobro de prestaciones deducida por don PEDRO IGNACIO PEÑA SANCHEZ, chileno, casado, de profesión Abogado, cédula nacional de identidad N° 16.658.896-0, en calidad de mandatario judicial de don JONATHAN LUCIANO GALLARDO GARCIA, chileno, casado, mecánico automotriz, cédula de identidad Nº 15.510.542-9, ambos domiciliados para estos efectos en Avenida las Condes N° 11.380, oficina N° 91, comuna de Vitacura, Región Metropolitana, en contra de FISCO DE CHILE, Rol Único Tributario Nº 61.806.000-4, cuyo representante legal para estos efectos es doña RUTH ISRAEL LÓPEZ, chilena, abogada, rut 9.772.243-9, Procuradora Fiscal, ambos domiciliados para estos efectos en Agustinas n° 1225, piso 4, comuna de Santiago, SOLO EN CUANTO se decide que:
+
+a)Que entre la demandada y demandante existió relación laboral entre el día 20 de enero de 2015 hasta el día 31 de diciembre de 2021, bajo las características que se derivan de la definición de contrato de trabajo consignada en el artículo 7° del Código del Trabajo.
+
+b) Que el despido del actor de 26 de noviembre de 2021 es injustificado e improcedente y como consecuencia de lo anterior se adeuda los siguientes conceptos:
+
+i.Indemnización por años de servicios correspondientes a 6 años y 11 meses por $5.531.414.- pesos.
+
+ii.Recargo del 50% de las indemnizaciones por años de servicio ascendentes a $2.765.707 de acuerdo a la letra b del artículo 168 del Código del Trabajo.
+
+II.Que se acoge la demanda de cobro de prestaciones condenando a la demandada al pago a la demandante de las siguientes prestaciones:
+
+i. Feriado legal y Feriado proporcional: $824.233 por 31,292 días corridos por feriado legal y proporcional.
+
+ii.
+Remuneración por 5 días del mes de diciembre de 2021, esto es, $131.700.
+
+Las sumas ordenadas pagar en lo precedente lo serán con intereses y reajustes de los articulo 63 y 173 del Código del Trabajo según corresponda.
+
+III.Se rechaza la demanda en lo relacionado con la demanda de cobro de cotizaciones previsionales, nulidad de despido e indemnización sustitutiva de aviso previo.
+
+IV.Se rechaza la excepción de prescripción de feriado atendido lo razonado en el considerando trigésimo cuarto.
+
+Ejecutoriada que sea la presente sentencia, si no se pagaren las sumas ordenadas dentro de quinto día hábil, remítanse los antecedentes al Juzgado de Cobranza Laboral de esta jurisdicción mediante interconexión.
+
+Regístrese, notifíquese y archívense los autos en su oportunidad.
+
+RIT O-989-2022
+
+RUC : 22- 4-0385285-K
+
+Pronunciada por FELIPE ANDRES NORAMBUENA BARRALES, Juez Titular del Primer Juzgado de Letras del Trabajo de Santiago.
+En Santiago a once de mayo de dos mil veintitrés, se notificó por el estado diario la sentencia precedente.
+
+San Martín #950 Santiago – Fono 02-9157000
+
+Correo Electrónico jlabsantiago1@pjud.cl

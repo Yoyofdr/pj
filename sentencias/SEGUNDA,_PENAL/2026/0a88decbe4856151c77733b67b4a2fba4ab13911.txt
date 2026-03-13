@@ -1,0 +1,63 @@
+METADATA
+
+case_id: 0a88decbe4856151c77733b67b4a2fba4ab13911
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8059891
+
+rol: 9107-2026
+
+fecha_sentencia: 2026-03-12
+
+caratulado: RUIZ LIAS JOSÉ RAFAEL CONTRA GENDARMERIA DE CHILE
+
+sala: SEGUNDA, PENAL
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, doce de marzo de dos mil veintiséis.
+
+VISTO Y TENIENDO PRESENTE:
+1°.- Que, en este procedimiento ejecutivo, se ha ordenado dar cuenta de la admisibilidad del recurso de casación en el fondo deducido por la parte ejecutada, en contra de la sentencia dictada por la Corte de Apelaciones de Santiago, que rechazó el recurso de hecho interpuesto por esa misma parte en contra de la resolución de dieciséis de septiembre de dos mil veinticinco, que denegó la apelación subsidiaria deducida contra la resolución del día dos del mismo mes y año.
+
+2°- Que, el artículo 767 del Código de Procedimiento Civil dispone que se admite el recurso de casación en el fondo contra sentencias definitivas inapelables y contra sentencias interlocutorias inapelables cuando ponen término al juicio o hacen imposible su continuación, dictadas -en lo que interesa para el presente caso- por Cortes de Apelaciones, siempre que se hayan pronunciado con infracción de ley y esta infracción haya influido substancialmente en lo dispositivo de la sentencia.
+
+3º- Que la resolución impugnada por esta vía no comparte la naturaleza de aquellas aludidas en el motivo anterior, toda vez que no ha puesto fin a la instancia, no ha concluido el juicio, ni ha hecho imposible su prosecución, razón por la cual el recurso de nulidad intentado en autos no podrá ser admitido a tramitación.
+
+Por estas consideraciones y de conformidad con lo dispuesto en los artículos 767 y 782 del Código de Procedimiento Civil, se declara inadmisible el recurso de casación en el fondo deducido por el abogado Manuel Palma Quiroz, en representación de la parte ejecutada, en contra de la sentencia pronunciada por la Corte de Apelaciones de Santiago, de fecha tres de febrero de dos mil veintiséis.
+
+Regístrese y devuélvase.
+
+Rol N° 9.276 - 2026
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Santiago
+Santiago, tres de febrero de dos mil veintiséis.
+
+VISTOS Y CONSIDERANDO:
+PRIMERO: Que, comparece don Manuel Palma Quiroz, abogado, en representación de la parte ejecutada, deduciendo recurso de hecho en contra de la resolución de fecha 16 de septiembre de 2025, dictada por el 22º Juzgado Civil de Santiago, en los autos Rol C-2128-2021, la que denegó la apelación subsidiaria interpuesta en contra de la resolución de fecha 2 del mismo mes y año.
+SEGUNDO: Que, la resolución que se pretendió impugnar vía apelación es aquella de fecha 2 de septiembre de 2025, que acogió un recurso de reposición interpuesto por la parte ejecutante y, en consecuencia, dejó sin efecto una resolución anterior que había ordenado la reliquidación del crédito.
+
+TERCERO: Que, informando el recurso, la Juez Suplente del tribunal a quo, doña María Cecilia Morales Lacoste, señala que, de conformidad con lo dispuesto en el artículo 188 del Código de Procedimiento Civil, la apelación subsidiaria es improcedente, puesto que lo resuelto no altera la sustanciación regular del juicio, sino que, por el contrario, la corrige al dejar sin efecto una liquidación que procedía de una excepción de prescripción no opuesta en la oportunidad legal que correspondía.
+
+CUARTO: Que, para resolver el presente arbitrio, es menester atender a la naturaleza jurídica de la resolución impugnada en la instancia. Al respecto, aparece de manifiesto que la providencia de 2 de septiembre de 2025, al resolver un recurso de reposición y mantener la sustanciación del proceso corrigiendo un trámite, reviste el carácter de auto.
+
+QUINTO: Que, en este contexto, resulta plenamente aplicable lo razonado por el tribunal a quo al denegar el recurso. En efecto, aun de estimar procedente el análisis de fondo sobre la pertinencia de la reliquidación, es inadmisible la apelación subsidiaria de que se trata, atendida la naturaleza jurídica de la resolución apelada, conforme a lo prevenido en el artículo 188 del Código de Procedimiento Civil. Dicha norma establece que los autos y decretos solo son apelables cuando alteran la sustanciación regular del juicio o recaen sobre trámites no expresamente ordenados por la ley, circunstancias que no se verifican en la especie, toda vez que la resolución se limitó a fallar una reposición para ajustar el procedimiento a derecho.
+
+Por estas consideraciones y visto, además, lo dispuesto en los artículos 188, 203 y siguientes del Código de Procedimiento Civil, se declara, que SE RECHAZA el recurso de hecho deducido por la parte ejecutada en contra de la resolución de fecha 16 de septiembre de 2025, dictada por el 22º Juzgado Civil de Santiago, en los autos Rol C-2128-2021.
+
+Acordada con el voto en contra del ministro Sr. Rodríguez Moreno, quien estuvo por acoger el recurso de hecho intentado. Lo anterior por estimar que la resolución impugnada, de conformidad al artículo 158 del Código de Procedimiento Civil, tiene la naturaleza jurídica de una sentencia interlocutoria que establece derechos permanentes en favor de las partes.
+
+Comuníquese y archívese.
+
+N°Civil-16175-2025.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de SantiagoSantiago, tres de febrero de dos mil veintiséis.VISTOS Y CONSIDERANDO:PRIMERO: Que, comparece don Manuel Palma Quiroz, abogado, en representación de la parte ejecutada, deduciendo recurso de hecho en contra de la resolución de fecha 16 de septiembre de 2025, dictada por el 22º Juzgado Civil de Santiago, en los autos Rol C-2128-2021, la que denegó la apelación subsidiaria interpuesta en contra de la resolución de fecha 2 del mismo mes y año.SEGUNDO: Que, la resolución que se pretendió impugnar vía apelación es aquella de fecha 2 de septiembre de 2025, que acogió un recurso de reposición interpuesto por la parte ejecutante y, en consecuencia, dejó sin efecto una resolución anterior que había ordenado la reliquidación del crédito.TERCERO: Que, informando el recurso, la Juez Suplente del tribunal a quo, doña María Cecilia Morales Lacoste, señala que, de conformidad con lo dispuesto en el artículo 188 del Código de Procedimiento Civil, la apelación subsidiaria es improcedente, puesto que lo resuelto no altera la sustanciación regular del juicio, sino que, por el contrario, la corrige al dejar sin efecto una liquidación que procedía de una excepción de prescripción no opuesta en la oportunidad legal que correspondía.CUARTO: Que, para resolver el presente arbitrio, es menester atender a la naturaleza jurídica de la resolución impugnada en la instancia. Al respecto, aparece de manifiesto que la providencia de 2 de septiembre de 2025, al resolver un recurso de reposición y mantener la sustanciación del proceso corrigiendo un trámite, reviste el carácter de auto.QUINTO: Que, en este contexto, resulta plenamente aplicable lo razonado por el tribunal a quo al denegar el recurso. En efecto, aun de estimar procedente el análisis de fondo sobre la pertinencia de la reliquidación, es inadmisible la apelación subsidiaria de que se trata, atendida la naturaleza jurídica de la resolución apelada, conforme a lo prevenido en el artículo 188 del Código de Procedimiento Civil. Dicha norma establece que los autos y decretos solo son apelables cuando alteran la sustanciación regular del juicio o recaen sobre trámites no expresamente ordenados por la ley, circunstancias que no se verifican en la especie, toda vez que la resolución se limitó a fallar una reposición para ajustar el procedimiento a derecho.Por estas consideraciones y visto, además, lo dispuesto en los artículos 188, 203 y siguientes del Código de Procedimiento Civil, se declara, que SE RECHAZA el recurso de hecho deducido por la parte ejecutada en contra de la resolución de fecha 16 de septiembre de 2025, dictada por el 22º Juzgado Civil de Santiago, en los autos Rol C-2128-2021.Acordada con el voto en contra del ministro Sr. Rodríguez Moreno, quien estuvo por acoger el recurso de hecho intentado. Lo anterior por estimar que la resolución impugnada, de conformidad al artículo 158 del Código de Procedimiento Civil, tiene la naturaleza jurídica de una sentencia interlocutoria que establece derechos permanentes en favor de las partes.Comuníquese y archívese. N°Civil-16175-2025.
