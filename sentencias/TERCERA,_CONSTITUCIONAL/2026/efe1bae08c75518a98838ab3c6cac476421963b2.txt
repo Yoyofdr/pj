@@ -6,15 +6,15 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8058558
 
 rol: 53179-2025
 
-fecha_sentencia: 2026-03-11
+fecha_sentencia: 2026-03-10
 
 caratulado: GUERRERO/SERVICIO NACIONAL DE MIGRACIONES ONES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 

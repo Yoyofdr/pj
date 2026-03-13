@@ -14,7 +14,7 @@ sala: PRIMERA, CIVIL
 
 materias: ▪ Juicio ejecutivo. Factura
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) CASACIÓN FORMA Y FONDO
 
 resultado_recurso: SENTENCIA DE REEMPLAZO (M)
 

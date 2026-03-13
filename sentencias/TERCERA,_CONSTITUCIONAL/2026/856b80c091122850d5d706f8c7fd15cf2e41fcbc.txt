@@ -6,15 +6,15 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8058159
 
 rol: 6998-2026
 
-fecha_sentencia: 2026-03-11
+fecha_sentencia: 2026-03-10
 
 caratulado: CHAMPIGNY/ISAPRE VIDA TRES S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
