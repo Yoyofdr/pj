@@ -4,19 +4,19 @@ case_id: 53f9a885db4745af6dcf7971b9266e0b5e0db8cc
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047012
 
-rol: 7163-2026
+rol: 8259-2026
 
 fecha_sentencia: 2026-03-03
 
-caratulado: FERREIRA LLANOS MARCELINA CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: ROJAS MORAGA MARCO ANTONIO CONTRA JUZGADO DE GARANTÍA IQUIQUE
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: (CRIMEN) APELACIÓN AMPARO
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

@@ -4,17 +4,17 @@ case_id: f0eca6f53cfd2d4c4cc4ecde7e11885e0e423b77
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047291
 
-rol: 9223-2026
+rol: 9233-2026
 
 fecha_sentencia: 2026-03-02
 
-caratulado: GARCIA COVARRUBIAS JAIME GUILLERMO CONTRA DIRECCIÓN REGIONAL METROPOLITANA DE GENDARMERIA DE CHILE (NP)
+caratulado: ARANDA JAQUE DIEGO EDSON CONTRA COMISIÓN DE REDUCCIÓN DE CONDENA
 
 sala: SEGUNDA, PENAL
 
-materias: (CIVIL) APELACIÓN RECLAMACIÓN
+materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 

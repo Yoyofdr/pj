@@ -4,19 +4,19 @@ case_id: 384f648200fb8ecb106b3c751836e641eceba32e
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046568
 
-rol: 7172-2026
+rol: 8417-2026
 
 fecha_sentencia: 2026-03-02
 
-caratulado: MONTANO UCULMANA MARIELLA ELIZABETH CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: KAUR RAVINDER CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

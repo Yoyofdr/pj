@@ -4,19 +4,19 @@ case_id: 613f866afff5c987327c29941cc6d46b27dd75e5
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045812
 
-rol: 5305-2025
+rol: 8354-2025
 
 fecha_sentencia: 2026-03-02
 
-caratulado: ITAU CORPBANCA CON FISCO DE CHILE - C.D.E (E)
+caratulado: INMOBILIARIA NATALIA DEL CARMEN ROSS TAPIA E.I.R.L. CON LUIS MALLEA BAQUEDANO (S)
 
 sala: PRIMERA, CIVIL
 
-materias: ▪ Juicio ejecutivo. Factura
+materias: ▪ Precario. Comodato precario
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: RECHAZA CASACION EN EL FONDO (M)
+resultado_recurso: SENTENCIA DE REEMPLAZO (M)
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
