@@ -14,7 +14,7 @@ sala: CUARTA, MIXTA
 
 materias: ▪ Recurso de unificación de jurisprudencia
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (PENAL) NULIDAD
 
 resultado_recurso: INADMISIBLE UNIFICACIÓN DE JURISPRUDENCIA, NO ES MATERIA PROPIA DE UNIFICACION
 

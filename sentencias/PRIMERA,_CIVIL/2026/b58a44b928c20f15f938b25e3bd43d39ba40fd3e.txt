@@ -14,7 +14,7 @@ sala: PRIMERA, CIVIL
 
 materias: ▪ Admisibilidad del recurso de casación en el fondo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (PENAL) NULIDAD
 
 resultado_recurso: INADMISIBLES RECURSOS DE CASACIÓN FORMA Y FONDO
 
