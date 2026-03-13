@@ -1,0 +1,89 @@
+METADATA
+
+case_id: cac71b71d5678de6892411f3b18f789489f24e10
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041245
+
+rol: 57785-2025
+
+fecha_sentencia: 2026-02-25
+
+caratulado: ROJO/SERVICIO DE MIGRACIONES
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (CIVIL) APELACIÓN PROTECCIÓN
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veinticinco de febrero de dos mil veintiséis.
+Vistos:
+Se reproduce el fallo en alzada, con excepción de su fundamento quinto, el cual se elimina.
+Y se tiene en su lugar, presente:
+Primero: Que, debe recordarse que el Auto Acordado que regula la materia dispone que “El recuso o acción de protección se interpondrá (…) dentro del plazo fatal de treinta días corridos contados desde la ejecución del acto o la ocurrencia de la omisión o, según la naturaleza de éstos, desde que se haya tenido noticias o conocimiento cierto de los mismos, lo que se hará constar en autos”.
+Como ha sostenido invariablemente esta Corte, el plazo de 30 días para la interposición de la presente acción cautelar, debe contabilizarse desde la fecha en que quien recurre tomó conocimiento efectivo del acto que estima arbitrario e ilegal, cuestión que debe ser acreditada por quien lo sostiene.
+
+Segundo: Que, tal como lo alegó la recurrida, la presente acción se ha deducido fuera de plazo, debido a que quedó acreditado en autos que Seminario Pontificio de Santiago, envió a la recurrente correo electrónico con fecha 26 de mayo de 2025, informándole que el Seminario posee inscrita a su nombre una servidumbre de tránsito, la cual se encuentra plenamente vigente y debidamente inscrita, lo cual le permite la instalación de un portón, pudiendo dar acceso al tránsito de quienes lo soliciten y obtengan la autorización del Rector.
+
+Tercero: Que, entonces, habiéndose probado que la recurrente tuvo conocimiento de los hechos denunciados al menos desde mayo de 2025, y que ha deducido el recurso de protección el día 28 de octubre de 2025, queda establecido que el mismo se ha deducido de manera extemporánea, razón por la cual corresponde su rechazo.
+De conformidad con lo que disponen el artículo 20 de la Constitución Política de la República y Auto Acordado de esta Corte Suprema sobre la materia, se confirma la sentencia de doce de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Valparaíso, que rechaza el recurso interpuesto por extemporáneo.
+
+Regístrese y devuélvase.
+
+Rol N° 57.822-2025.
+Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los Ministros (as) Sr. Omar Astudillo C., Sr. Gonzalo Ruz L. y Sra. Eliana Quezada M. (s) y por las Abogadas Integrantes Sra. Fabiola Lathrop G. y Sra. Andrea Ruiz R.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Llg
+
+C.A. de Valparaíso.
+Valparaíso, dos de diciembre de dos mil veinticinco.
+
+Visto:
+A folio 1 Inmobiliaria El Guindo SpA., representada por don Jorge Antonio Aluanlli Anuch, interpone recurso de protección en contra de Seminario Pontificio Mayor De Santiago, denunciando lo que a su juicio constituye un acto ilegal y arbitrario consiste en la construcción de dos portones metálicos en la servidumbre de tránsito que impide el libre acceso del recurrente. El recurrente alega que el recurrido mantiene dichos portones cerrados con cadenas y candados.
+
+Argumenta que esta conducta denunciada amenaza y vulnera la garantía constitucional del derecho de propiedad en sus diversas especies sobre toda clase de bienes corporales o incorporales, tutelado en el artículo 19 N° 24 de la Constitución Política de la República. Sostiene que, aunque existe una servidumbre de paso a favor del Seminario, esta no le permite impedir la libre circulación del dueño del predio sirviente (el recurrente), afectando el desarrollo de su proyecto inmobiliario "Vista Esmeralda".
+
+Solicita se acoja el recurso y se ordene al recurrido: 1) la apertura total y absoluta y permanente de los portones; 2) el retiro de cadenas, candados y cualquier otro mecanismo que impida la libre circulación; 3) el retiro de toda construcción o aditamento que obste al libre tránsito; 4) la abstención de la ejecución de cualquier otro acto que impida el libre tránsito; y 5) la suspensión de cualquier tipo de perturbación del libre acceso y circulación, con expresa condenación en costas.
+
+A folio 5 informa la recurrida Seminario Pontificio de Santiago, solicitando el rechazo del recurso por ser extemporáneo, infundado, erróneo e improcedente.
+
+Sostiene que, es dueño del predio dominante, Hijuela Número Uno del fundo “El Guindo”, y goza de una Servidumbre de Tránsito vigente desde 1989. Dicha servidumbre fue constituida por escritura pública de Transacción y Servidumbre de Tránsito de fecha 23 de junio de 1988, celebrada con Ricardo Ariztía Ruiz, antecesor en el dominio del recurrente. El contrato de servidumbre impone al Seminario la obligación imperativa de mantener portones y levantar cierros. Además, el tránsito está permitido solo para personas que cuenten con autorización expresa del Seminario mediante una credencial otorgada por su Rector. La instalación del portón y el candado es un acto inherente al dominio y se basa en un derecho real y obligaciones contractuales, no siendo ilegal ni arbitrario.
+
+Pide el rechazo del recurso por ser extemporáneo. Argumenta que el recurso fue presentado el 30 de septiembre de 2025 ante la Corte de Apelaciones de Santiago y que la recurrente, a través de doña Roxana Silva Inostroza, tuvo conocimiento cierto del portón de acceso y candado de la servidumbre al menos desde el 26 de mayo de 2025, fecha de un correo electrónico donde se reconoce el conocimiento y se solicita la clave del portón. Por lo tanto, el recurso excede el plazo fatal de 30 días corridos establecido por el Auto Acordado sobre Tramitación y Fallo del recurso de Protección. Además, el portón y candado existen materialmente desde 1988.
+
+También solicita el rechazo del recurso por falta de derecho indubitado. Afirma que la acción de protección no es la vía idónea para dirimir conflictos civiles sobre derechos contractuales, ya que la discusión jurídica versa sobre la interpretación legal y el ejercicio de los derechos de las partes respecto de una servidumbre de tránsito.
+
+Finalmente plantea la incompetencia de esta Corte, atendido lo pactado en la escritura pública de 23 de junio de 1988, contiene una Cláusula Octava que establece que todas las dificultades que se susciten entre las partes, incluyendo la interpretación y ejecución del contrato, serán resueltas por un árbitro arbitrador.
+
+A folio 10, se trajeron los autos en relación.
+
+CONSIDERANDO:
+Primero: Que, el recurso de protección de garantías constitucionales, establecido en el artículo 20 de la Constitución Política de la República, constituye una medida cautelar que protege y ampara el legítimo ejercicio de derechos preestablecidos e indubitados que dicha norma contempla, mediante la adopción de medidas de resguardo o de protección inmediata en caso de advertirse la existencia de un acto u omisión arbitrario o ilegal que prive, perturbe o amenace tales derechos.
+Segundo: Que, la acción se funda en que el recurrido ha actuado ilegal y arbitrariamente al construir y mantener cerrados con cadenas y candados dos portones metálicos en la servidumbre de tránsito del predio sirviente, vulnerando su derecho de propiedad al impedirle el libre acceso.
+Tercero: Que, la recurrida alega la extemporaneidad de la acción, por haberse presentado fuera del plazo que establece el Auto Acordado sobre la materia.
+
+En efecto, aún de considerarse solo la comunicación, a través, de correo electrónico de 26 de mayo de 2025, en que la recurrente solicita la clave del portón, lo que implica que, a lo menos, en esa fecha tomó conocimiento del acto reclamado, al haberse interpuesto el recurso el 30 de septiembre de 2025, resulta ser extemporáneo.
+
+Cuarto: Que, sobre el fondo, la recurrida alega la inexistencia de un derecho indubitado del actor, desde que la servidumbre a que se alude está establecida en su beneficio, a través, de escritura pública de transacción y servidumbre de tránsito, otorgada por el antecesor en el dominio del recurrente el año 1988 e inscrita en 1989, en la que se estipula la obligación de mantener cerrados los accesos por dicho paso, estipulándose que está permitido únicamente a personas que cuenten con autorización y credencial del seminario, situación que se mantiene hasta el día de hoy.
+Quinto: Que, atendido lo señalado y documentación acompañada al recurso, se encuentra controvertido el derecho que se reclama lo que impide establecer que el actor tenga un derecho indubitado, requisito esencial para que esta acción pueda prosperar, no siendo esta vía constitucional la instancia para constituir y/o declarar derechos, sino para proteger aquellos no discutidos que se vean afectado por actos ilegales y/o arbitrarios, razón por la cual esta acción no puede prosperar.
+
+Sexto: Que, al haberse presentado el recurso fuera de plazo y carente de fundamento, aunada a la documentación acompañada por la recurrida, se condenará en costas al actor.
+
+Por tanto y de conformidad con lo dispuesto en el artículo 20 de la Constitución Política de la República de Chile, el Auto Acordado sobre tramitación del Recurso de Protección de Garantías Constitucionales, y los artículos 1° a 5° de los Considerandos, se declara:
+
+I.- Que, se acoge la extemporaneidad alegada.
+
+II.- Que, se rechaza, con costas, el recurso de protección deducido por Inmobiliaria El Guindo SpA en contra del Seminario Pontificio de Santiago.
+Se regulan las costas en la suma de cuatrocientos mil pesos ($400.000.-)
+Regístrese, notifíquese, comuníquese por la vía más expedita y, en su oportunidad, archívese.
+N° Protección-6848-2025.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+LlgC.A. de Valparaíso.Valparaíso, dos de diciembre de dos mil veinticinco.Visto:A folio 1 Inmobiliaria El Guindo SpA., representada por don Jorge Antonio Aluanlli Anuch, interpone recurso de protección en contra de Seminario Pontificio Mayor De Santiago, denunciando lo que a su juicio constituye un acto ilegal y arbitrario consiste en la construcción de dos portones metálicos en la servidumbre de tránsito que impide el libre acceso del recurrente. El recurrente alega que el recurrido mantiene dichos portones cerrados con cadenas y candados.Argumenta que esta conducta denunciada amenaza y vulnera la garantía constitucional del derecho de propiedad en sus diversas especies sobre toda clase de bienes corporales o incorporales, tutelado en el artículo 19 N° 24 de la Constitución Política de la República. Sostiene que, aunque existe una servidumbre de paso a favor del Seminario, esta no le permite impedir la libre circulación del dueño del predio sirviente (el recurrente), afectando el desarrollo de su proyecto inmobiliario "Vista Esmeralda".Solicita se acoja el recurso y se ordene al recurrido: 1) la apertura total y absoluta y permanente de los portones; 2) el retiro de cadenas, candados y cualquier otro mecanismo que impida la libre circulación; 3) el retiro de toda construcción o aditamento que obste al libre tránsito; 4) la abstención de la ejecución de cualquier otro acto que impida el libre tránsito; y 5) la suspensión de cualquier tipo de perturbación del libre acceso y circulación, con expresa condenación en costas.A folio 5 informa la recurrida Seminario Pontificio de Santiago, solicitando el rechazo del recurso por ser extemporáneo, infundado, erróneo e improcedente.Sostiene que, es dueño del predio dominante, Hijuela Número Uno del fundo “El Guindo”, y goza de una Servidumbre de Tránsito vigente desde 1989. Dicha servidumbre fue constituida por escritura pública de Transacción y Servidumbre de Tránsito de fecha 23 de junio de 1988, celebrada con Ricardo Ariztía Ruiz, antecesor en el dominio del recurrente. El contrato de servidumbre impone al Seminario la obligación imperativa de mantener portones y levantar cierros. Además, el tránsito está permitido solo para personas que cuenten con autorización expresa del Seminario mediante una credencial otorgada por su Rector. La instalación del portón y el candado es un acto inherente al dominio y se basa en un derecho real y obligaciones contractuales, no siendo ilegal ni arbitrario.Pide el rechazo del recurso por ser extemporáneo. Argumenta que el recurso fue presentado el 30 de septiembre de 2025 ante la Corte de Apelaciones de Santiago y que la recurrente, a través de doña Roxana Silva Inostroza, tuvo conocimiento cierto del portón de acceso y candado de la servidumbre al menos desde el 26 de mayo de 2025, fecha de un correo electrónico donde se reconoce el conocimiento y se solicita la clave del portón. Por lo tanto, el recurso excede el plazo fatal de 30 días corridos establecido por el Auto Acordado sobre Tramitación y Fallo del recurso de Protección. Además, el portón y candado existen materialmente desde 1988.También solicita el rechazo del recurso por falta de derecho indubitado. Afirma que la acción de protección no es la vía idónea para dirimir conflictos civiles sobre derechos contractuales, ya que la discusión jurídica versa sobre la interpretación legal y el ejercicio de los derechos de las partes respecto de una servidumbre de tránsito.Finalmente plantea la incompetencia de esta Corte, atendido lo pactado en  la escritura pública de 23 de junio de 1988, contiene una Cláusula Octava que establece que todas las dificultades que se susciten entre las partes, incluyendo la interpretación y ejecución del contrato, serán resueltas por un árbitro arbitrador.A folio 10, se trajeron los autos en relación.CONSIDERANDO:Primero: Que, el recurso de protección de garantías constitucionales, establecido en el artículo 20 de la Constitución Política de la República, constituye una medida cautelar que protege y ampara el legítimo ejercicio de derechos preestablecidos e indubitados que dicha norma contempla, mediante la adopción de medidas de resguardo o de protección inmediata en caso de advertirse la existencia de un acto u omisión arbitrario o ilegal que prive, perturbe o amenace tales derechos.Segundo: Que, la acción se funda en que el recurrido ha actuado ilegal y arbitrariamente al construir y mantener cerrados con cadenas y candados dos portones metálicos en la servidumbre de tránsito del predio sirviente, vulnerando su derecho de propiedad al impedirle el libre acceso.Tercero: Que, la recurrida alega la extemporaneidad de la acción, por haberse presentado fuera del plazo que establece el Auto Acordado sobre la materia. En efecto, aún de considerarse solo la comunicación, a través, de correo electrónico de 26 de mayo de 2025, en que la recurrente solicita la clave del portón, lo que implica que, a lo menos, en esa fecha tomó conocimiento del acto reclamado, al haberse interpuesto el recurso el 30 de septiembre de 2025, resulta ser extemporáneo. Cuarto: Que, sobre el fondo, la recurrida alega la inexistencia de un derecho indubitado del actor, desde que la servidumbre a que se alude está establecida en su beneficio, a través, de escritura pública de transacción y servidumbre de tránsito, otorgada por el antecesor en el dominio del recurrente el año 1988 e inscrita en 1989, en la que se estipula la obligación de mantener cerrados los accesos por dicho paso, estipulándose que está permitido únicamente a personas que cuenten con autorización y credencial del seminario, situación que se mantiene hasta el día de hoy.Quinto: Que, atendido lo señalado y documentación acompañada al recurso, se encuentra controvertido el derecho que se reclama lo que impide establecer que el actor tenga un derecho indubitado, requisito esencial para que esta acción pueda prosperar, no siendo esta vía constitucional la instancia para constituir y/o declarar derechos, sino para proteger aquellos no discutidos que se vean afectado por actos ilegales y/o arbitrarios, razón por la cual esta acción no puede prosperar.Sexto: Que, al haberse presentado el recurso fuera de plazo y carente de fundamento, aunada a la documentación acompañada por la recurrida, se condenará en costas al actor.Por tanto y de conformidad con lo dispuesto en el artículo 20 de la Constitución Política de la República de Chile, el Auto Acordado sobre tramitación del Recurso de Protección de Garantías Constitucionales, y los artículos 1° a 5° de los Considerandos, se declara:I.- Que, se acoge la extemporaneidad alegada.II.- Que, se rechaza, con costas, el recurso de protección deducido por Inmobiliaria El Guindo SpA en contra del Seminario Pontificio de Santiago.Se regulan las costas en la suma de cuatrocientos mil pesos ($400.000.-)Regístrese, notifíquese, comuníquese por la vía más expedita y, en su oportunidad, archívese.N° Protección-6848-2025.                        ⚠                      Sin documento en esta instancia - pdf
