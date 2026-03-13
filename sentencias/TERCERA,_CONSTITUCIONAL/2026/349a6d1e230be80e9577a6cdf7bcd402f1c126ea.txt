@@ -4,11 +4,11 @@ case_id: 349a6d1e230be80e9577a6cdf7bcd402f1c126ea
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049277
 
-rol: 54940-2025
+rol: 6583-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: BOBEDA/SERVICIO NACIONAL DE. MIGRACIONES
+caratulado: GONZÁLEZ TORRES SUSANA/SUPERINTENDENCIA DE SEGURIDAD SOCIAL
 
 sala: TERCERA, CONSTITUCIONAL
 
