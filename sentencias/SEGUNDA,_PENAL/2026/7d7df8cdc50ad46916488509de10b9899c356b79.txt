@@ -4,19 +4,19 @@ case_id: 7d7df8cdc50ad46916488509de10b9899c356b79
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049464
 
-rol: 7511-2026
+rol: 7441-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: MP C/ CARLA MARCELA MUNOZ BARRA
+caratulado: URDANETA ABREU EDILBETH DEL VALLE CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de nulidad
+materias: ▪ Recurso de Amparo
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: DECLARA COMPETENTE PARA CONOCER NULIDAD A LA CORTE
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

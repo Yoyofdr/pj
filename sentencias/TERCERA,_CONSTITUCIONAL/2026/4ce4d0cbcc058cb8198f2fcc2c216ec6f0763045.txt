@@ -4,11 +4,11 @@ case_id: 4ce4d0cbcc058cb8198f2fcc2c216ec6f0763045
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049192
 
-rol: 6583-2026
+rol: 6582-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: GONZÁLEZ TORRES SUSANA/SUPERINTENDENCIA DE SEGURIDAD SOCIAL
+caratulado: TORRES MIRANDA DUHANUEL ALEJANDRO/SUPERINTENDENCIA DE SEGURIDAD SOCIAL
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

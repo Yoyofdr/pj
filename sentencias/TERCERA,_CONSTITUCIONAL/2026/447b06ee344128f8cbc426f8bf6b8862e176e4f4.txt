@@ -4,19 +4,19 @@ case_id: 447b06ee344128f8cbc426f8bf6b8862e176e4f4
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049367
 
-rol: 44079-2025
+rol: 3015-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: SINISTERRA/RAMOS
+caratulado: JOSEPH/SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Migración y Extranjería
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
