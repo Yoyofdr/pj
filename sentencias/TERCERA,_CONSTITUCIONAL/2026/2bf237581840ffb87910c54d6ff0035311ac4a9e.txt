@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Reclamo de expulsión de extranjeros
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) RECLAMO NACIONALIDAD
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
