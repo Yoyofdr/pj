@@ -1,0 +1,694 @@
+METADATA
+
+case_id: 0a49ad10b6c86ce835788d4c9b1edc77abcae50a
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041262
+
+rol: 58461-2025
+
+fecha_sentencia: 2026-02-25
+
+caratulado: LISCANO/MINISTERIO DEL INTERIOR - SUBSECRETARÍA DEL INTERIOR
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (CIVIL) APELACIÓN PROTECCIÓN
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veinticinco de febrero de dos mil veintiséis.
+
+Vistos y teniendo presente:
+Primero: Que de conformidad con lo dispuesto en el artículo 781 y 782 del Código de Procedimiento Civil, se ordenó dar cuenta de los recursos de casación en la forma y en el fondo interpuesto por la demandante contra la sentencia de la Corte de Apelaciones de Santiago, que confirmó la de primera instancia, que rechazó la acción de amparo prevista en el artículo 16 de la Ley 19.628.
+
+Segundo: Que el artículo 16 letra h) de la Ley N°19.628 dispone: “Si el responsable del registro o banco de datos no se pronunciare sobre la solicitud del requirente dentro de dos días hábiles, o la denegare por una causa distinta de la seguridad de la Nación o el interés nacional, el titular de los datos tendrá derecho a recurrir al juez de letras en lo civil del domicilio del responsable, que se encuentre de turno según las reglas correspondientes, solicitando amparo a los derechos consagrados en el artículo precedente. El procedimiento se sujetará a las reglas siguientes: (…) h) El fallo que se pronuncie sobre la apelación no será susceptible de los recursos de casación.”
+Tercero: Que, la sentencia impugnada se pronunció sobre la apelación deducida contra la sentencia de primera instancia, que rechazó la solicitud de amparo, razón por la que el recurso de casación resulta improcedente.
+
+Por estas consideraciones y de conformidad, además, con lo dispuesto en los artículos 781 y 782 del Código de Procedimiento Civil, se declaran inadmisibles los recursos de casación en la forma y en el fondo interpuestos en contra de la sentencia de veintiséis de diciembre de dos mil veinticinco.
+
+Regístrese y devuélvase.
+
+Rol N°2.647- 2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Santiago
+Santiago, veintiséis de diciembre de dos mil veinticinco.
+
+Vistos:
+
+Atendido el mérito de los antecedentes, se confirma la sentencia apelada de treinta de septiembre de dos mil veinticinco, dictada por el Vigésimo Noveno Juzgado Civil de Santiago en los autos Rol C-6423-2025.
+
+Regístrese y devuélvase.
+
+N°Civil-17799-2025.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+RIT« »
+
+Foja: 1
+
+FOJA: 1 .- .-
+
+NOMENCLATURA : 1. [40]Sentencia
+JUZGADO : 29 Juzgado Civil de Santiagoº
+CAUSA ROL : C-6423-2025
+CARATULADO : LUTECKE/ABC S.A
+
+Santiago, treinta de septiembre de dos mil veinticinco
+
+VISTOS:
+
+Luis Ceferino Lutecke Oyarzo, domiciliado para estos efectos en San
+
+Antonio N° 19, oficina 2505, Santiago, dependiente (sic), deduce la reclamación
+
+prevista en el artículo 16 de la Ley N° 19.628, en contra de la empresa La Polar
+
+S.A. (ABC S.A.), persona jurídica del giro de su denominación (según indica),
+
+representada legalmente por Manuel José Severín Larraín, ignora profesión u
+
+oficio, ambos domiciliados en Nueva de Lyon N° 72, piso 6, Providencia.
+
+Expone que, con fecha 14 de noviembre de 2024, dedujo una medida
+
+prejudicial en la causa C-20095-2024 del 1° Juzgado Civil de Santiago,
+
+ordenándose posteriormente la exhibición del pagaré que habría originado la
+
+información que mediante la presente acción cuestiona. Sin embargo, transcurrido
+
+el plazo judicial, la demandada no habría exhibido los documentos que respaldan
+
+la publicación, por lo que se habría hecho efectivo el apercibimiento del artículo
+
+277 del Código de Procedimiento Civil, perdiendo la demandada el derecho a
+
+valerse de tales documentos.
+
+Pese a ello, señala que la empresa mantendría registrada una morosidad
+
+de fecha 16 de enero de 2023 por la suma de $2.219.590, asociada a un
+
+documento tipo “TC”, sin que exista título válido que justifique la publicación. Por lo
+
+anterior, sostiene que esta omisión vulnera las garantías constitucionales
+
+consagradas en el artículo 19 N° 4 de la Constitución, así como en la Ley N°
+
+19.628 sobre Protección de la Vida Privada, la cual establece que el tratamiento
+
+de datos personales debe realizarse conforme a derecho y garantizando la
+
+seguridad, confidencialidad y exactitud de los mismos.
+
+Código: XMBGBDPBDMW
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+RIT« »
+
+Foja: 1
+Considera que su acción de hábeas data constituye la vía idónea para
+
+restablecer los derechos conculcados, al tratarse de una herramienta destinada a
+
+proteger la autodeterminación informativa y evitar el uso arbitrario de datos
+
+personales.
+
+En consecuencia, solicita al Tribunal ordenar la eliminación inmediata de los
+
+antecedentes comerciales publicados en el boletín de informaciones comerciales y
+
+sus similares, por carecer de título que autorice la publicación, con costas.
+
+Con fecha 8 de septiembre de 2025 se notifica la reclamación.
+
+Con fecha 9 de septiembre de 2025 la parte reclamada solicita el rechazo
+
+íntegro del reclamo, con costas, en consideración, en síntesis, a los siguientes
+
+argumentos.
+
+Refiere que el actor mantiene una deuda vigente y morosa por $2.219.590
+
+desde el 16 de enero de 2023, derivada del uso de una tarjeta de crédito, y que en
+
+virtud de dicha obligación su representada se encuentra plenamente facultada
+
+para comunicar la información de morosidad a registros comerciales. Agrega que
+
+la acción carece de sustento, pues no se ha acreditado la extinción de la deuda ni
+
+pago alguno.
+
+Observa que la Ley N° 19.628 reconoce el principio de libertad en el
+
+tratamiento de datos personales y que el artículo 17 autoriza expresamente a
+
+entidades financieras y casas comerciales a comunicar incumplimientos de
+
+obligaciones de carácter económico o financiero, sin que sea indispensable la
+
+existencia de un pagaré. Además, sostiene que el contrato suscrito con el
+
+reclamante contiene una cláusula expresa que lo faculta a publicar los
+
+antecedentes de morosidad en caso de incumplimiento, lo que se ajusta al
+
+principio pacta sunt servanda consagrado en el artículo 1545 del Código Civil.
+
+Asimismo, que la comunicación de información comercial se enmarca en el
+
+derecho sobre la libertad económica garantizada por la Constitución, no siendo
+
+contraria a la moral, al orden público ni a la seguridad nacional. Por ello, afirma
+
+que su actuación no es arbitraria, sino legítima, tanto legal como contractualmente.
+
+En conclusión, sostiene que la deuda persiste, que se encuentra facultada
+
+para mantener publicada la morosidad hasta su pago o hasta que exista sentencia
+
+ejecutoriada que declare su prescripción y que, por lo tanto, la acción de hábeas
+
+data debe rechazarse en todas sus partes.
+
+Código: XMBGBDPBDMW
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+RIT« »
+
+Foja: 1
+Con fecha 12 de septiembre de 2025 se cita a las partes a oír sentencia.
+
+CONSIDERANDO:
+
+PRIMERO: Que, la Ley N° 19.628, en concordancia con el artículo 19 N° 4
+
+de nuestra Constitución, que garantiza el respeto y protección de la vida privada,
+
+la honra y los datos personales, regula el ejercicio del derecho de los titulares de
+
+datos a exigir del responsable de un registro o banco de datos su información,
+
+rectificación, eliminación, cancelación o bloqueo, cuando concurren las
+
+condiciones legales para ello.
+
+La ley define los datos personales como toda información relativa a
+
+personas naturales identificables y, en resguardo de la intimidad en su dimensión
+
+de autodeterminación informativa y libertad informática, otorga a sus titulares una
+
+serie de derechos, encontrándose habilitados para impetrar jurisdiccionalmente el
+
+amparo de este bien jurídico frente a cualquier persona responsable de un banco
+
+de datos, ya sea particular u organismo público, sobre quienes pesan las
+
+obligaciones que derivan del “principio de calidad de los datos” en que descansa la
+
+autorización de tratamiento de datos personales que emana del artículo 1° de la
+
+ley en comento.
+
+El tratamiento indebido de datos constituye una infracción legal, toda vez
+
+que los responsables tienen la obligación de custodiar dichos antecedentes con la
+
+debida diligencia y responder por los daños patrimoniales y morales que
+
+ocasionen, además de proceder a su corrección, bloqueo o eliminación, según lo
+
+solicite el titular o lo ordene el tribunal, conforme a lo dispuesto en los artículos 11
+
+y 23 del cuerpo legal tantas veces mencionado.
+
+SEGUNDO: Que, en fundamento de su acción, la actora acompaña los
+
+siguientes instrumentos:
+
+1. Documento denominado Informe Comercial Full, emitido por Maat el 6 de
+
+mayo de 2025, respecto a Luis Ceferino Lutecke Oyarso, quien tendría una
+
+morosidad vigente ascendente a la suma de $34.875.461, calificándolo con un
+
+riesgo crediticio crítico.
+
+2. Copia de correo electrónico de fecha 30 de abril de 2025, titulado:
+
+“Cliente Luis Ceferino Lutecke Oyarzo”, enviado a “abcdin@abcdin.cl”, no aparece
+
+el remitente, y en síntesis solicita la exclusión de los datos públicos en boletín de
+
+informaciones comerciales y/o cualquier base de datos públicas.
+
+Código: XMBGBDPBDMW
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+RIT« »
+
+Foja: 1
+TERCERO: Que, la reclamada, por su parte, acompaña la siguiente prueba:
+
+1. Copia de documento denominado: “Certificado de deuda”, emitido el
+
+martes 9 de septiembre de 2025 por Inversiones LP S.A, mediante el cual indica
+
+que Luis Lutecke Oyarzo presenta una deuda por la suma de $2.219.590,
+
+castigada por su empresa.
+
+2. Copia de estado de cuenta de crédito “La Polar”, respecto del titular Luis
+
+Lutecke Oyarzo, en que aparece un saldo adeudado final del periodo anterior de
+
+$2.048.944, con fecha de pago hasta el 5 de noviembre de 2022.
+
+3. Copia de contrato único de apertura de línea de crédito y afiliación al
+
+sistema y uso de tarjeta Blanc Visa La Polar, suscrito por Inversiones LP S.A, filial
+
+de Empresas La Polar, y Luis Ceferino Lutecke Oyarzo, de fecha 17 de junio de
+
+2017. Este último suscribe a través de firma electrónica avanzada.
+
+CUARTO: Que, si bien el artículo 16 de la Ley N° 19.628 no contempla una
+
+regla específica sobre la valoración de la prueba, del artículo 23 del mismo cuerpo
+
+legal se infiere que, tratándose de acciones derivadas de su infracción, la prueba
+
+debe ser apreciada en conciencia. Tal conclusión resulta coherente, por cuanto se
+
+encuentra en juego un bien jurídico de rango constitucional, cual es el derecho a la
+
+vida privada y a la protección de los datos personales. En este contexto y atendida
+
+la naturaleza de la acción de amparo, en que se reclama la tutela efectiva de dicho
+
+derecho, corresponde aplicar criterios más expeditos y eficaces en la formación de
+
+la convicción judicial, con el objeto de asegurar una decisión pronta y adecuada a
+
+la protección de la garantía comprometida.
+
+Esto significa que el juez no se encuentra sujeto a las reglas de la prueba
+
+legal o tasada, ni está obligado a fundar su decisión en criterios de lógica,
+
+experiencia o conocimientos científicos, como ocurre bajo el sistema de la sana
+
+crítica. Por el contrario, en este régimen de valoración, el juzgador dispone de
+
+plena libertad para ponderar los antecedentes del caso conforme a su convicción,
+
+lo que le permite formarse libremente juicio sobre la existencia de una causa
+
+legítima que justifique la procedencia o no de la acción interpuesta. La doctrina y
+
+la jurisprudencia coinciden en que la apreciación de la prueba en conciencia
+
+implica autorizar a los tribunales a efectuar una valoración racional y con recta
+
+intención, sin la obligación de sujetarse a las normas legales que regulan su
+
+ponderación. Sin embargo, dicha facultad no libera al Tribunal del cumplimiento de
+
+las demás reglas sustantivas en materia probatoria, tales como la determinación
+
+de los medios de prueba admisibles, la regulación de su ingreso al proceso y la
+
+Código: XMBGBDPBDMW
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+RIT« »
+
+Foja: 1
+distribución de la carga probatoria. De esta manera, la infracción a estos principios
+
+habilita el control de legalidad, a través del recurso extraordinario de casación,
+
+según lo ha establecido la Excma. Corte Suprema en la causa Rol N° 9.086-2015.
+
+QUINTO: Que, conforme a la valoración en conciencia a la que se ha hecho
+
+referencia, corresponde ponderar la prueba rendida en autos, consistente
+
+únicamente en documentos. De su análisis, se aprecia, en primer término, que la
+
+acción se sustenta en un documento emitido por un tercero ajeno al juicio, en el
+
+cual se consigna, entre otros antecedentes, una deuda que el actor mantendría
+
+con la reclamada por la suma de $2.219.590. Sin embargo, dicho documento
+
+carece de eficacia probatoria suficiente, toda vez que el tercero que lo emite no ha
+
+sido emplazado en esta causa ni ha reconocido su contenido, lo que impide
+
+dotarlo de veracidad y conferirle aptitud para formar convicción suficiente en este
+
+Tribunal.
+
+En segundo lugar, consta un correo electrónico remitido a la dirección
+
+“abcdin@abcdin.cl”, el cual no fue objetado por la contraria. Del mismo se
+
+desprende que, con fecha 30 de abril de 2025, el actor reclamó ante La Polar S.A.
+
+por la exclusión de sus antecedentes en el Boletín de Informaciones Comerciales
+
+y/o cualquier otra base de datos de acceso público. La ausencia de controversia
+
+en cuanto a que las sociedades La Polar y ABC Din corresponden a la misma
+
+entidad, permite a este Tribunal otorgar mérito a dicho medio, solo en cuanto
+
+demuestra la gestión realizada por el actor con miras a obtener la eliminación de
+
+sus datos personales, publicados por decisión de La Polar S.A.
+
+Respecto al denominado certificado de deuda, también acompañado por la
+
+reclamada, debe concluirse que tampoco es posible dotarlo de veracidad, pues
+
+igualmente emana de un tercero que no ha sido parte ni ha reconocido el
+
+documento en esta sede. Finalmente, el estado de cuenta acompañado y el
+
+contrato suscrito por el actor permiten establecer, con la convicción que otorga
+
+este sistema de valoración, la existencia de una relación contractual crediticia
+
+entre las partes.
+
+SEXTO: Que, en atención a la acción interpuesta y según se desprende de
+
+los artículos 12 y 16 de la Ley N° 19.628, ésta es procedente en el resguardo del
+
+derecho de acceso, ya enunciado, cuando ocurre alguna de las siguientes
+
+circunstancias:
+
+Código: XMBGBDPBDMW
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+RIT« »
+
+Foja: 1
+a) si el responsable del registro o banco de datos no se pronuncia sobre
+
+una solicitud de información, modificación, bloqueo, cancelación o eliminación de
+
+datos personales dentro de dos días hábiles;
+
+b) si el responsable del registro o banco de datos deniega una solicitud de
+
+información, modificación, bloqueo, cancelación o eliminación de datos personales
+
+por una causa distinta de la seguridad de la Nación o el interés nacional.
+
+En este contexto, cabe observar que el primer presupuesto no se encuentra
+
+acreditado en estos autos, toda vez que, como se ha señalado ut supra, la única
+
+constancia al respecto corresponde al correo electrónico enviado a la dirección
+
+“abcdin@abcdin.cl”, perteneciente a la reclamada. Sin embargo, conforme a la
+
+definición contenida en la propia ley y a los antecedentes aportados en el presente
+
+procedimiento, la parte reclamada de autos -según se analizará en profundidad
+
+más adelante- no reviste la calidad de responsable de un registro o banco de
+
+datos. En consecuencia, al no haberse efectuado la solicitud respectiva (o
+
+reclamo) ante quien detenta tal calidad, resulta improcedente exigir a este último
+
+un pronunciamiento dentro del plazo de dos días hábiles, por cuanto no se le ha
+
+comunicado requerimiento alguno en tal sentido, ya que éste no se efectuó, o al
+
+menos no se acreditó en este procedimiento.
+
+Dicha situación bastaría para rechazar la acción de autos, pues
+
+corresponde a un requisito forzoso para la procedencia de la acción.
+
+SEPTIMO: Que, en relación con lo anterior, se deberá hacer presente que
+
+la legitimación activa o pasiva es un presupuesto indispensable de la relación
+
+procesal. En efecto, la ausencia de alguna de las condiciones de fondo
+
+determinará el rechazo de la demanda en la sentencia; pero, verificada la
+
+legitimación, la acción se habrá ejercitado y producido sus efectos dentro del
+
+proceso. En consecuencia, para poder figurar y actuar eficazmente como parte, no
+
+en un proceso cualquiera, sino en uno determinado y específico, no bastará con
+
+disponer de la aptitud general o legitimatio ad processum, sino que será necesario
+
+poseer, además, una condición más precisa o legitimatio ad causam, la cual afecta
+
+al proceso no en su dimensión común, sino en lo que tiene de individual y
+
+determinado. Esta última se halla en directa relación con el objeto del litigio y, en
+
+consecuencia, su examen dice relación con el fondo del asunto discutido. En este
+
+sentido, la atribución subjetiva de los derechos y obligaciones deducidos en juicio
+
+es una cuestión que afecta el propio ejercicio de la acción y que, por lo tanto, debe
+
+ser objeto de análisis al momento de la decisión (Excma. Corte Suprema, Rol
+
+ingreso N° 64310-2016).
+
+Código: XMBGBDPBDMW
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+RIT« »
+
+Foja: 1
+Dicha legitimación se relaciona directamente con el fondo de la
+
+controversia, pues implica la atribución subjetiva de los derechos y obligaciones
+
+que se hacen valer en juicio y debe ser verificada al momento de resolver. En este
+
+sentido, se ha señalado que la legitimación procesal es “la consideración especial
+
+en que tiene la ley, dentro de cada proceso, a las personas que se hallan en una
+
+determinada relación con el objeto litigioso” (Enrique Vesconi, Teoría General del
+
+Proceso, Editorial Temis, 1986, p. 196).
+
+Por su parte, la legitimación pasiva consiste en ser la persona que conforme
+
+a la ley sustancial está legitimada para discutir u oponerse a la pretensión
+
+deducida o frente a la cual permite la ley que se declare la relación sustancial
+
+objeto de la demanda, requerimiento o reclamo; mientras que la legitimación activa
+
+recae en quien, según la ley, se encuentra facultado para formular dicha
+
+pretensión, aun cuando el derecho material no le asista o corresponda a un
+
+tercero (Jaime Guasp, Derecho Procesal Civil, Tomo I, Editorial Civitas, Madrid, p.
+
+168). En consecuencia, la sola capacidad procesal no basta para actuar en juicio,
+
+siendo indispensable esta condición específica vinculada al objeto mismo del
+
+litigio.
+
+OCTAVO: Que, consecuentemente con lo previamente asentado en torno a
+
+la legitimación pasiva y la acción ejercida, cabe tener presente que -como se ha
+
+señalado- ésta se encuentra regulada en el inciso primero del artículo 16, en
+
+relación con el artículo 12 de la Ley N° 19.628. Dichas disposiciones reconocen a
+
+toda persona el derecho a exigir del responsable de un registro o banco de datos
+
+información relativa a sus datos personales, su procedencia y destinatario, la
+
+finalidad de su almacenamiento y la individualización de quienes los reciben
+
+regularmente. Asimismo, cuando dichos datos resulten erróneos, inexactos,
+
+equívocos o incompletos y ello se acredite, el titular tiene derecho a que sean
+
+modificados, eliminados o bloqueados.
+
+De lo anterior fluye con toda claridad que la acción debe dirigirse
+
+necesariamente contra el responsable del registro o banco de datos, definido en el
+
+artículo 2 letra n) de la citada ley como la persona natural o jurídica, pública o
+
+privada, a quien compete adoptar las decisiones relativas al tratamiento de los
+
+datos de carácter personal. En tanto, el artículo 2 letra m) del mismo cuerpo
+
+normativo entiende por registro o banco de datos al conjunto organizado de datos
+
+personales, automatizado o no, que permite relacionarlos y someterlos a cualquier
+
+tipo de tratamiento.
+
+Código: XMBGBDPBDMW
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+RIT« »
+
+Foja: 1
+En la especie, no se verifica tal presupuesto, toda vez que la reclamada, La
+
+Polar S.A, no ostenta la calidad de responsable del registro o banco de datos. A lo
+
+más podría haber proporcionado información a dicho responsable, en los términos
+
+que la ley autoriza en su artículo 4°, tal como lo hacen diversas entidades en el
+
+marco de relaciones comerciales, máxime cuando es patente que la misma
+
+reclamante la autorizó en el contrato celebrado para proceder de dicho modo (en
+
+su cláusula número 11 denominada “Información” letras c) y d)). Sin embargo,
+
+quien asume la obligación legal de verificar el cumplimiento de los requisitos para
+
+la publicación de los datos, y quien debe responder a las solicitudes de
+
+información, modificación, eliminación o bloqueo, es únicamente el responsable
+
+del registro o banco de datos. En este caso, aquel rol correspondería a la empresa
+
+Maat, emisora del informe comercial acompañado en autos, que no ha sido
+
+emplazada en este juicio.
+
+En consecuencia, no resulta jurídicamente procedente ordenar a La Polar
+
+S.A. u otra sociedad o casa comercial, la eliminación o modificación del registro,
+
+por cuanto no detenta la titularidad ni ejerce las decisiones sobre la publicación
+
+cuestionada. Dicha potestad recae exclusivamente en el responsable del banco de
+
+datos que efectuó la publicación, siendo sus actos o eventuales omisiones los que
+
+pueden ser objeto de reproche en el marco de la Ley N° 19.628, pero no los de la
+
+reclamada en autos, por esta vía.
+
+NOVENO: Que, en mérito de lo razonado, resulta evidente que en la
+
+presente causa no concurre un requisito sine qua non para la procedencia de la
+
+acción de amparo interpuesta, cual es la existencia de una relación procesal válida
+
+configurada conforme a la normativa aplicable. En efecto, al no ostentar la
+
+reclamada la calidad de responsable del registro o banco de datos, carece de
+
+legitimidad pasiva para soportar la pretensión ejercida en su contra.
+
+Tal circunstancia determina, necesariamente, el impedimento de proseguir
+
+con el restante análisis de fondo de la acción deducida, por cuanto la falta de
+
+legitimación pasiva impide la conformación del presupuesto básico que habilita el
+
+pronunciamiento judicial respecto del mérito de la pretensión.
+
+En consecuencia, la acción de amparo interpuesta será rechazada en todas
+
+sus partes, atendida la ausencia de la relación procesal exigida por la Ley N°
+
+19.628, lo que conduce, de manera ineludible, al rechazo absoluto de dicho
+
+reclamo.
+
+Código: XMBGBDPBDMW
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+RIT« »
+
+Foja: 1
+DECIMO: Que, habiendo resultado totalmente vencida, se condenará en
+
+costas a la reclamante, de acuerdo con lo expresado en el artículo 144 del Código
+
+de Procedimiento Civil.
+
+Por estas consideraciones y visto, además, lo dispuesto en los artículos 19
+
+N° 4 y 21 de la Constitución Política de la República; 1, 2, 11, 12, 16, 17, 18, 19,
+
+23 de la Ley N° 19.628; 19, 20, 1968 y demás pertinentes del Código Civil; y, 144
+
+y 170 del Código de Procedimiento Civil, se declara:
+
+Que rechaza íntegramente y con costas la reclamación deducida.
+
+Regístrese, notifíquese y oportunamente archívese.
+
+C-6423-2025
+
+DICTADA POR DON MATIAS FRANULIC GOMEZ, JUEZ TITULAR DEL
+
+VIGESIMO NOVENO JUZGADO CIVIL DE SANTIAGO.
+
+Se deja constancia que se dio cumplimiento a lo dispuesto en el inciso final del art. 162
+del C.P.C. en Santiago, treinta de septiembre de dos mil veinticinco
+
+Código: XMBGBDPBDMW
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2025-09-30T15:20:47-0300

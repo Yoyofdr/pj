@@ -4,11 +4,11 @@ case_id: 2be907d986556e5c6b60476d3b19f2758defea12
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040379
 
-rol: 5908-2026
+rol: 57854-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: BERTHELON/VIDA TRES SA
+caratulado: MERO/SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
