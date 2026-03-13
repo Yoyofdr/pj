@@ -1,0 +1,84 @@
+METADATA
+
+case_id: 36a294f82d4616aaf9804e4464195d0e2d3a04c9
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8061047
+
+rol: 8213-2026
+
+fecha_sentencia: 2026-03-12
+
+caratulado: / AGROSUCCESS S.A.
+
+sala: PRIMERA, CIVIL
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: RECHAZA CASACION EN EL FONDO
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, doce de marzo de dos mil veintiséis.
+
+VISTO Y TENIENDO PRESENTE:
+1°.- Que en el cuaderno de tercería de estos autos ejecutivos, se ha ordenado dar cuenta de la admisibilidad del recurso de casación en la forma deducido por la parte ejecutante en contra de la sentencia dictada por la Corte de Apelaciones de Temuco, la cual revocó el fallo de primera instancia de veintidós de octubre de dos mil veinticinco que rechazó la demanda de tercería de prelación y de pago y en su lugar declaró que se rechaza la excepción de prescripción alegada por la parte ejecutante, debiendo el tribunal a quo proceder a resolver el fondo sobre la procedencia de la tercería de prelación alegada en lo principal, y la de pago, interpuesta en subsidio.
+
+2°.- Que la recurrente deduce casación en la forma por la causal del artículo 768 N° 9, en relación con el artículo 800 N° 4 del Código de Procedimiento Civil, sosteniendo que en segunda instancia se omitió un trámite esencial, consistente en la vista de la causa previa fijación en tabla, pues la apelación contra la sentencia definitiva del incidente fue conocida en cuenta, lo que vicia el procedimiento y le causó perjuicio al impedirle formular alegaciones.
+
+3°.- Que el recurso de casación en la forma, fundado en la causal que se invoca, deberá ser declarado inadmisible, desde que no fue preparado en los términos exigidos por el artículo 769 del mismo cuerpo legal. En efecto, consta en autos que el recurrente no reclamó oportunamente y en todos sus grados del vicio que ahora invoca, toda vez que, en contra de la resolución de 25 de noviembre de 2025, que dispuso dar cuenta de la apelación deducida por el tercerista, no formuló reclamo alguno.
+
+Por estas consideraciones y de conformidad con lo dispuesto en los artículos 766 y 781 del Código de Procedimiento Civil, se declara inadmisible el recurso de casación en la forma, deducido por la abogada Janis Ossa Riffo, en representación de la parte ejecutante, en contra de la sentencia pronunciada por la Corte de Apelaciones de Temuco, de fecha seis de febrero de dos mil veintiséis.
+
+Regístrese y devuélvase.
+
+Rol N° 8.240 - 2026
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Temuco
+Temuco, seis de febrero de dos mil veintiséis.
+
+VISTOS:
+Se reproduce la sentencia en alzada de veintidós de octubre de dos mil veinticinco, dictada por el Juzgado de Letras y Garantía de Traiguén, con excepción de sus considerandos octavo, noveno y de lo resolutivo I y II, que se eliminan.
+
+Y SE TIENE EN SU LUGAR Y ADEMÁS PRESENTE:
+
+PRIMERO: Que, la controversia se centra en determinar si procede rechazar una tercería de prelación —y subsidiariamente de pago— fundada en una hipoteca válidamente constituida, sobre la base de estimar prescrita la acción ejecutiva derivada de los pagarés garantizados, prescripción que fue alegada únicamente por la parte ejecutante y declarada de oficio por el tribunal a quo.
+
+SEGUNDO: Que, consta en autos que la tercerista EMPRESAS BIOSUR SpA es acreedora hipotecaria de la ejecutada AGRÍCOLA Y COMERCIAL LOS ARRAYANES SpA, en virtud de contrato de hipoteca con cláusula de garantía general otorgado por escritura pública de 31 de julio de 2019, debidamente inscrita en el Registro de Hipotecas y Gravámenes del Conservador de Bienes Raíces de Traiguén, con anterioridad al embargo trabado en estos autos, cumpliéndose así los presupuestos legales de los artículos 2477 y 2470 del Código Civil.
+
+TERCERO: Que, la sentencia apelada funda el rechazo de la tercería en la supuesta prescripción de la acción ejecutiva derivada de los pagarés que sirven de antecedente a la garantía hipotecaria, estimando que el plazo anual previsto en el artículo 98 de la Ley N° 18.092 se encontraría vencido.
+
+Sin embargo, dicha conclusión se construye sobre una errónea apreciación tanto de los hechos como del derecho aplicable.
+
+CUARTO: Que, en primer término, consta que con fecha 13 y 16 de agosto de 2024 la tercerista dedujo demanda ejecutiva en causa Rol C-13367-2024 del 4° Juzgado Civil de Santiago, la que fue válidamente notificada a la ejecutada, produciéndose con ello la interrupción civil de la prescripción conforme a los artículos 2503 del Código Civil y 100 de la Ley N° 18.092.
+
+El hecho de que dicho juicio haya concluido con una sentencia que acogió la excepción dilatoria de incompetencia territorial no obsta a dicho efecto interruptivo, desde que tal decisión no se pronunció sobre el fondo del derecho y no se encuentra comprendida dentro de las hipótesis que el artículo 2503 del Código Civil contempla para privar de efectos a la interrupción, criterio que ha sido sostenido reiteradamente por la jurisprudencia de los tribunales superiores de justicia.
+
+QUINTO: Que, además, no consta que la referida sentencia de incompetencia se encontrare firme y ejecutoriada a la época de interposición de la tercería, razón por la cual, aun desde esa perspectiva, no resulta posible tener por reanudado el cómputo del plazo de prescripción.
+
+SEXTO: Que, sin perjuicio de lo anterior, la prescripción extintiva es una institución que, conforme al artículo 2493 del Código Civil, debe ser alegada por quien tiene interés en aprovecharse de ella, no pudiendo ser declarada de oficio por el tribunal.
+
+En el presente caso, la excepción de prescripción no fue deducida por la ejecutada —única directamente beneficiada—, sino por la parte ejecutante, quien carece de legitimación para hacerla valer en favor del deudor, a menos que dicha prescripción hubiere sido declarada judicialmente con anterioridad, circunstancia que no concurre en la especie.
+
+SEPTIMO: Que, en consecuencia, al haberse declarado de oficio una prescripción no alegada por parte legitimada y, además, no configurada en atención a la interrupción producida, la sentencia apelada incurre en error de derecho que influye sustancialmente en lo dispositivo del fallo.
+
+OCTAVO: Que, establecido lo anterior, y encontrándose acreditada la existencia de un crédito garantizado con hipoteca válidamente inscrita con anterioridad al embargo, procede resolver la procedencia sobre las tercerías alegadas conforme a la ley, si se cumplen los requisitos establecidos en la ley.
+
+Por estas consideraciones, y visto además lo dispuesto en los artículos 186 y siguientes del Código de Procedimiento Civil, 2470, 2477, 2493 y 2503 del Código Civil, y 98 y 100 de la Ley N° 18.092, SE RESUELVE:
+I. Que, se ACOGE el recurso de apelación deducido en contra de la sentencia de veintidós de octubre de dos mil veinticinco, la que se revoca y en su lugar se decide que SE RECHAZA, la excepción de prescripción alegada por la parte demandante, ORSAN SEGUROS DE CREDITO Y GARANTIA S.A., debiendo el tribunal a quo proceder a resolver el fondo, sobre la procedencia de la tercería de prelación alegada en lo principal, y la de pago, interpuesta en subsidio.
+II. Que, cada parte pagará sus costas.
+
+Se previene que el Sr. Ministro Carlos Gutiérrez Zavala, concurre a la decisión, haciendo presente, además, que habiéndose rechazado la excepción de prescripción, corresponde que esta Corte emita pronunciamiento sobre la procedencia de las tercerías de prelación y pago, por concurrir a juicio los antecedentes suficientes para resolver la controversia.
+
+Regístrese y devuélvase.
+
+Redacción del abogado integrante, Sr. Sergio Oliva Fuentealba.
+
+N°Civil-2102-2025. (csd)
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de TemucoTemuco, seis de febrero de dos mil veintiséis.VISTOS:Se reproduce la sentencia en alzada de veintidós de octubre de dos mil veinticinco, dictada por el Juzgado de Letras y Garantía de Traiguén, con excepción de sus considerandos octavo, noveno y de lo resolutivo I y II, que se eliminan.Y SE TIENE EN SU LUGAR Y ADEMÁS PRESENTE:PRIMERO: Que, la controversia se centra en determinar si procede rechazar una tercería de prelación —y subsidiariamente de pago— fundada en una hipoteca válidamente constituida, sobre la base de estimar prescrita la acción ejecutiva derivada de los pagarés garantizados, prescripción que fue alegada únicamente por la parte ejecutante y declarada de oficio por el tribunal a quo.SEGUNDO: Que, consta en autos que la tercerista EMPRESAS BIOSUR SpA es acreedora hipotecaria de la ejecutada AGRÍCOLA Y COMERCIAL LOS ARRAYANES SpA, en virtud de contrato de hipoteca con cláusula de garantía general otorgado por escritura pública de 31 de julio de 2019, debidamente inscrita en el Registro de Hipotecas y Gravámenes del Conservador de Bienes Raíces de Traiguén, con anterioridad al embargo trabado en estos autos, cumpliéndose así los presupuestos legales de los artículos 2477 y 2470 del Código Civil.TERCERO: Que, la sentencia apelada funda el rechazo de la tercería en la supuesta prescripción de la acción ejecutiva derivada de los pagarés que sirven de antecedente a la garantía hipotecaria, estimando que el plazo anual previsto en el artículo 98 de la Ley N° 18.092 se encontraría vencido.Sin embargo, dicha conclusión se construye sobre una errónea apreciación tanto de los hechos como del derecho aplicable.CUARTO: Que, en primer término, consta que con fecha 13 y 16 de agosto de 2024 la tercerista dedujo demanda ejecutiva en causa Rol C-13367-2024 del 4° Juzgado Civil de Santiago, la que fue válidamente notificada a la ejecutada, produciéndose con ello la interrupción civil de la prescripción conforme a los artículos 2503 del Código Civil y 100 de la Ley N° 18.092.El hecho de que dicho juicio haya concluido con una sentencia que acogió la excepción dilatoria de incompetencia territorial no obsta a dicho efecto interruptivo, desde que tal decisión no se pronunció sobre el fondo del derecho y no se encuentra comprendida dentro de las hipótesis que el artículo 2503 del Código Civil contempla para privar de efectos a la interrupción, criterio que ha sido sostenido reiteradamente por la jurisprudencia de los tribunales superiores de justicia.QUINTO: Que, además, no consta que la referida sentencia de incompetencia se encontrare firme y ejecutoriada a la época de interposición de la tercería, razón por la cual, aun desde esa perspectiva, no resulta posible tener por reanudado el cómputo del plazo de prescripción.SEXTO: Que, sin perjuicio de lo anterior, la prescripción extintiva es una institución que, conforme al artículo 2493 del Código Civil, debe ser alegada por quien tiene interés en aprovecharse de ella, no pudiendo ser declarada de oficio por el tribunal.En el presente caso, la excepción de prescripción no fue deducida por la ejecutada —única directamente beneficiada—, sino por la parte ejecutante, quien carece de legitimación para hacerla valer en favor del deudor, a menos que dicha prescripción hubiere sido declarada judicialmente con anterioridad, circunstancia que no concurre en la especie.SEPTIMO: Que, en consecuencia, al haberse declarado de oficio una prescripción no alegada por parte legitimada y, además, no configurada en atención a la interrupción producida, la sentencia apelada incurre en error de derecho que influye sustancialmente en lo dispositivo del fallo.OCTAVO: Que, establecido lo anterior, y encontrándose acreditada la existencia de un crédito garantizado con hipoteca válidamente inscrita con anterioridad al embargo, procede resolver la procedencia sobre las tercerías alegadas conforme a la ley, si se cumplen los requisitos establecidos en la ley. Por estas consideraciones, y visto además lo dispuesto en los artículos 186 y siguientes del Código de Procedimiento Civil, 2470, 2477, 2493 y 2503 del Código Civil, y 98 y 100 de la Ley N° 18.092, SE RESUELVE:I. Que, se ACOGE el recurso de apelación deducido en contra de la sentencia de veintidós de octubre de dos mil veinticinco, la que se revoca y en su lugar se decide que SE RECHAZA, la excepción de prescripción alegada por la parte demandante, ORSAN SEGUROS DE CREDITO Y GARANTIA S.A., debiendo el tribunal a quo proceder a resolver el fondo, sobre la procedencia de la tercería de prelación alegada en lo principal, y la de pago, interpuesta en subsidio.II. Que, cada parte pagará sus costas.Se previene que el Sr. Ministro Carlos Gutiérrez Zavala, concurre a la decisión, haciendo presente, además, que habiéndose rechazado la excepción de prescripción, corresponde que esta Corte emita pronunciamiento sobre la procedencia de las tercerías de prelación y pago, por concurrir a juicio los antecedentes suficientes para resolver la controversia.Regístrese y devuélvase.Redacción del abogado integrante, Sr. Sergio Oliva Fuentealba.N°Civil-2102-2025. (csd)

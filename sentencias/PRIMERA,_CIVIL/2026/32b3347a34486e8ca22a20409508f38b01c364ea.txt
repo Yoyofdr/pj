@@ -1,0 +1,84 @@
+METADATA
+
+case_id: 32b3347a34486e8ca22a20409508f38b01c364ea
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8061254
+
+rol: 8240-2026
+
+fecha_sentencia: 2026-03-12
+
+caratulado: ORSAN SEGUROS S.A./LOS ARRAYANES SPA
+
+sala: PRIMERA, CIVIL
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: INADMISIBLE CASACIÓN FORMA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, doce de marzo de dos mil veintiséis.
+
+Vistos y teniendo presente:
+1° Que el recurso de queja tiene, por exclusiva finalidad, corregir las faltas o abusos graves cometidos en la dictación de resoluciones de carácter jurisdiccional.
+
+2° Que, por medio del recurso interpuesto, se impugna la sentencia que confirma la de primera instancia, sobre la base de la reiteración de las argumentaciones vertidas en las oportunidades procesales correspondientes, con lo que queda de manifiesto que el recurrente pretende discutir en sede disciplinaria un asunto ya resuelto a través de otros recursos legales, de lo que se colige que este arbitrio no aparece revestido de fundamento plausible.
+
+3° Que como se dijo, los jueces recurridos, procedieron a confirmar la de primera instancia, compartiendo las razones de hecho y jurídicas para ello; -así como dando sus propios fundamentos-, sin que en ello exista como se dijo una infracción que pueda ser materia de conocimiento a través de este arbitrio de carácter disciplinario, toda vez que no existe en ello, una falta o abuso grave que haga procedente el líbelo intentado.
+
+De conformidad, además, con lo dispuesto en el Nº 19 del Auto Acordado de esta Corte Suprema sobre Tramitación y Fallo de Recurso de Queja y letra a) del artículo 549 del Código Orgánico de Tribunales, se desestima de plano el recurso de queja interpuesto en lo principal por don José Tomás Eyzaguirre Córdova por Inmobiliaria Vega Monumental S.A y Comercializadora Vega Monumental S.A.
+
+Al primer otrosí: a sus antecedentes; al segundo, tercer y quinto otrosí: estese a lo decidido; y al cuarto otrosí: téngase presente.
+
+Al escrito folio 7, a sus antecedentes.
+
+Al escrito folio 12, téngase presente, estese a lo decidido.
+
+Regístrese y archívese.
+
+Rol Nº 9076-26.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Concepción
+rtp
+Concepción, veinte de febrero de dos mil veintiséis.
+
+VISTO:
+
+1°) Que el querellante, don José Tomás Eyzaguirre Córdova, ha interpuesto recurso de apelación en la causa RUC 2210030763-8, RIT 4734-2022, en contra de la resolución de treinta de diciembre de dos mil veinticinco, pronunciada por el Juzgado de Garantía de Concepción, que decretó el sobreseimiento total y definitivo respecto de don Benito Enrique Salazar Villagrán, doña Lissette Andrea Vega Echeverría y don Jorge Enrique Salazar Melo, imputados por los delitos de negociación incompatible, administración desleal, estafa y corrupción entre particulares, solicitando se la revoque.
+
+2°) Que esta Corte, al conocer del recurso, debe ceñirse a los agravios expuestos por el apelante, los que, en lo sustancial, denuncian error de derecho al concluir falta de tipicidad por irretroactividad; descartar la tesis de delito continuado; desechar la estafa por inexistencia de engaño típico y nexo causal; afirmar carencia de facultades de administración del señor Salazar; y estimar suficiente la investigación pese a diligencias pendientes, sosteniendo que el tribunal habría efectuado un "juicio anticipado" impropio de la etapa investigativa.
+
+3°) Que, conforme al artículo 250 letras a) y b) del Código Procesal Penal, procede el sobreseimiento definitivo, respectivamente, cuando el hecho investigado no fuere constitutivo de delito o cuando apareciere claramente establecida la inocencia del imputado. Tales causales autorizan un examen jurídico de la imputación a partir de los antecedentes reunidos, sin que ello importe convertir la audiencia en un juicio oral, pues el ordenamiento contempla esta salida cuando la hipótesis penal carece de sustento típico suficiente para justificar la prosecución del procedimiento penal.
+
+4°) Que, en lo atingente a los ilícitos vinculados a corrupción entre particulares -negociación incompatible, administración desleal y corrupción entre particulares-, la resolución apelada razona que la normativa que tipifica tales conductas entre privados entró en vigencia el 20 de noviembre de 2018, mientras que el propio querellante sitúa el inicio del iter de la imputación en el año 2012, a propósito de la suscripción del contrato. De ello concluye que, hasta antes de la entrada en vigencia del tipo, aquellas conductas no podían ser sancionadas, y descarta asimismo la tesis de delito continuado si el plan lesivo se habría iniciado cuando la conducta no se encontraba penalmente sancionada.
+
+5°) Que dicho razonamiento se asienta en el principio de legalidad e irretroactividad de la ley penal. En efecto, el agravio no logra desvirtuarlo, pues el planteamiento recursivo se limita a afirmar la existencia de efectos económicos o pagos prolongados, sin individualizar cuáles serían, con autonomía típica y ya bajo el régimen legal vigente, actos posteriores que satisfagan los elementos del tipo de los delitos invocados, diferenciándolos de la mera ejecución o consecuencias de una relación contractual originada con anterioridad.
+
+6°) Que, en cuanto al delito de estafa, la resolución impugnada concluye que no se advierte suficientemente delimitado el ardid o engaño que, en términos típicos, habría determinado el error y la ulterior disposición patrimonial. Para arribar a ello considera, entre otros antecedentes, que los pagos se verificaban desde 2012 -con anterioridad a lo que la querella sitúa como "engaño"-, que existieron prestaciones efectivamente realizadas y que se registran antecedentes de licitación, lo que torna insuficiente, en esta etapa, la afirmación de una "mise en scène" sin precisión de su entidad típica y de su nexo causal con actos concretos de disposición.
+
+7°) Que, así, el fundamento decisivo no es el monto del perjuicio ni la extensión temporal de los pagos, sino la falta de identificación suficiente de un engaño típico que, causalmente, haya generado error y, desde éste, una disposición patrimonial perjudicial; déficit que no se supera con la sola invocación de un ocultamiento o montaje, si no se precisan sus contornos típicos y su incidencia determinante en disposiciones patrimoniales específicas.
+
+8°) Que, respecto de la alegación relativa a la supuesta carencia de facultades de administración del señor Salazar, la resolución tiene presente, como antecedente ilustrativo, un pronunciamiento recaído en sede civil acompañado por la defensa. Con todo, dicho antecedente no se utiliza con valor vinculante, sino únicamente como elemento contextual, permaneciendo categórico para la decisión el análisis de tipicidad efectuado por el tribunal a quo a partir de los hechos atribuidos y del desarrollo de la investigación.
+
+9°) Que, en lo demás, el tribunal a quo pondera que los hechos investigados se remontan al año 2012, que la querella es de junio de 2022, y que, a la fecha de la audiencia de diciembre de 2025, el Ministerio Público no contaba con antecedentes para formalizar, lo cual se invoca para sostener que no existen elementos suficientes que permitan afirmar, en los términos planteados, una hipótesis penal típicamente relevante.
+
+10°) Que, en relación con el reproche por diligencias pendientes, la resolución expresa que no es necesario que la investigación se encuentre absolutamente agotada para decretar un sobreseimiento definitivo, desde que lo relevante es si las diligencias restantes son idóneas para alterar la conclusión de falta de tipicidad. En el caso, aun cuando se mencionan diligencias bancarias o periciales en curso, su eventual resultado no aparece, en lo esencial, apto para remover los fundamentos principales, esto es, la legalidad temporal de los tipos invocados y, tratándose de estafa, la ausencia de delimitación suficiente del engaño típico y del nexo causal con disposiciones patrimoniales concretas.
+
+11°) Que, en consecuencia, si el tribunal concluye que los hechos investigados no son constitutivos de delito, resulta procedente el sobreseimiento definitivo conforme al artículo 250 letra a) del Código Procesal Penal, y, además, se justifica la referencia a la letra b) en cuanto, a partir de la misma constatación de atipicidad, aparece claramente establecida la ausencia de responsabilidad penal de los imputados en relación con los hechos atribuidos, tornándose innecesario pronunciarse sobre otras causales extintivas.
+
+12°) Que, por lo expuesto, ponderados los antecedentes vertidos en audiencia y los argumentos del recurso, no se advierte error de derecho en la decisión apelada, la que se encuentra debidamente fundada y se apoya en consideraciones sustantivas suficientes para decretar el sobreseimiento definitivo por las causales del artículo 250 letras a) y b) del Código Procesal Penal.
+Por estas consideraciones, normas citadas y visto, además, lo dispuesto en los artículos 364 y siguientes del Código Procesal Penal, se CONFIRMA, sin costas, la resolución apelada de treinta de diciembre de dos mil veinticinco, dictada por el Juzgado de Garantía de Concepción, en causa RIT N° 4734-2022, RUC N°2210030763-8.
+Regístrese, comuníquese y devuélvase vía interconexión.
+
+Redactada por la ministra Antonella Farfarello Galletti.
+
+N°Penal-12-2026.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, doce de marzo de dos mil veintiséis.Vistos y teniendo presente:1° Que el recurso de queja tiene, por exclusiva finalidad, corregir las faltas o abusos graves cometidos en la dictación de resoluciones de carácter jurisdiccional.2° Que, por medio del recurso interpuesto, se impugna la sentencia que confirma la de primera instancia, sobre la base de la reiteración de las argumentaciones vertidas en las oportunidades procesales correspondientes, con lo que queda de manifiesto que el recurrente pretende discutir en sede disciplinaria un asunto ya resuelto a través de otros recursos legales, de lo que se colige que este arbitrio no aparece revestido de fundamento plausible.3° Que como se dijo, los jueces recurridos, procedieron a confirmar la de primera instancia, compartiendo las razones de hecho y jurídicas para ello; -así como dando sus propios fundamentos-, sin que en ello exista como se dijo una infracción que pueda ser materia de conocimiento a través de este arbitrio de carácter disciplinario, toda vez que no existe en ello, una falta o abuso grave que haga procedente el líbelo intentado.De conformidad, además, con lo dispuesto en el Nº 19 del Auto Acordado de esta Corte Suprema sobre Tramitación y Fallo de Recurso de Queja y letra a) del artículo 549 del Código Orgánico de Tribunales, se desestima de plano el recurso de queja interpuesto en lo principal por don José Tomás Eyzaguirre Córdova por Inmobiliaria Vega Monumental S.A y Comercializadora Vega Monumental S.A.Al primer otrosí: a sus antecedentes; al segundo, tercer y quinto otrosí: estese a lo decidido; y al cuarto otrosí: téngase presente.Al escrito folio 7, a sus antecedentes.Al escrito folio 12, téngase presente, estese a lo decidido.Regístrese y archívese.Rol Nº 9076-26. Santiago, doce de marzo de dos mil veintiséis.Vistos y teniendo presente:1° Que el recurso de queja tiene, por exclusiva finalidad, corregir las faltas o abusos graves cometidos en la dictación de resoluciones de carácter jurisdiccional.2° Que, por medio del recurso interpuesto, se impugna la sentencia que confirma la de primera instancia, sobre la base de la reiteración de las argumentaciones vertidas en las oportunidades procesales correspondientes, con lo que queda de manifiesto que el recurrente pretende discutir en sede disciplinaria un asunto ya resuelto a través de otros recursos legales, de lo que se colige que este arbitrio no aparece revestido de fundamento plausible.3° Que como se dijo, los jueces recurridos, procedieron a confirmar la de primera instancia, compartiendo las razones de hecho y jurídicas para ello; -así como dando sus propios fundamentos-, sin que en ello exista como se dijo una infracción que pueda ser materia de conocimiento a través de este arbitrio de carácter disciplinario, toda vez que no existe en ello, una falta o abuso grave que haga procedente el líbelo intentado.De conformidad, además, con lo dispuesto en el Nº 19 del Auto Acordado de esta Corte Suprema sobre Tramitación y Fallo de Recurso de Queja y letra a) del artículo 549 del Código Orgánico de Tribunales, se desestima de plano el recurso de queja interpuesto en lo principal por don José Tomás Eyzaguirre Córdova por Inmobiliaria Vega Monumental S.A y Comercializadora Vega Monumental S.A.Al primer otrosí: a sus antecedentes; al segundo, tercer y quinto otrosí: estese a lo decidido; y al cuarto otrosí: téngase presente.Al escrito folio 7, a sus antecedentes.Al escrito folio 12, téngase presente, estese a lo decidido.Regístrese y archívese.Rol Nº 9076-26. Sentencia anonimizada

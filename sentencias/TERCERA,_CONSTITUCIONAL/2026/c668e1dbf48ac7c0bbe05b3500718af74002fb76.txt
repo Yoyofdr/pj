@@ -1,0 +1,35 @@
+METADATA
+
+case_id: c668e1dbf48ac7c0bbe05b3500718af74002fb76
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8059216
+
+rol: 7904-2026
+
+fecha_sentencia: 2026-03-12
+
+caratulado: LIMA/SERVICIO NACIONAL DE MIGRACIONES DE CHILE
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, doce de marzo de dos mil veintiséis.
+Vistos:
+Se confirma la sentencia apelada de veinte de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de La Serena, en el Ingreso Corte N°Amparo-116-2026.
+Regístrese y devuélvase.
+Rol N°8448-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Santiago, doce de marzo de dos mil veintiséis. Vistos:Se confirma la sentencia apelada de veinte de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de La Serena, en el Ingreso Corte N°Amparo-116-2026.Regístrese y devuélvase.Rol N°8448-2026. Santiago, doce de marzo de dos mil veintiséis. Vistos:Se confirma la sentencia apelada de veinte de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de La Serena, en el Ingreso Corte N°Amparo-116-2026.Regístrese y devuélvase.Rol N°8448-2026. Sentencia anonimizada
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, doce de marzo de dos mil veintiséis. Vistos:Se confirma la sentencia apelada de veinte de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de La Serena, en el Ingreso Corte N°Amparo-116-2026.Regístrese y devuélvase.Rol N°8448-2026. Santiago, doce de marzo de dos mil veintiséis. Vistos:Se confirma la sentencia apelada de veinte de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de La Serena, en el Ingreso Corte N°Amparo-116-2026.Regístrese y devuélvase.Rol N°8448-2026. Sentencia anonimizada
