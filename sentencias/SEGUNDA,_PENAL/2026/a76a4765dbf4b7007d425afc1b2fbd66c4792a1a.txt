@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046552
 
 rol: 8250-2026
 
-fecha_sentencia: 2026-03-02
+fecha_sentencia: 2026-03-03
 
 caratulado: FUHRER VALENZUELA MANUEL ALEJANDRO CONTRA JUZGADO DE GARANTÍA DE PUERTO MONTT
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 

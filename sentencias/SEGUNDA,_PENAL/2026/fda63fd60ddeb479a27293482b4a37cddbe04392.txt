@@ -6,15 +6,15 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047232
 
 rol: 9102-2026
 
-fecha_sentencia: 2026-03-02
+fecha_sentencia: 2026-03-03
 
 caratulado: VIDELA GARAY ADISON EFRÉN CONTRA ILUSTRISIMA CORTE DE APELACIONES DE IQUIQUE
 
 sala: SEGUNDA, PENAL
 
-materias: (CIVIL) APELACIÓN RECLAMACIÓN
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

@@ -4,17 +4,17 @@ case_id: 519f70e6606bc7331a331e1a4391779ba01a288a
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046760
 
-rol: 8202-2026
+rol: 7940-2026
 
-fecha_sentencia: 2026-03-02
+fecha_sentencia: 2026-03-03
 
-caratulado: MÜLLER SONIA ELIZABETH CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: IBAÑEZ GAITAN JUAN JULIO CONTRA MINISTRO EXCELENTÍSIMA CORTE SUPREMA
 
 sala: SEGUNDA, PENAL
 
-materias: (CIVIL) APELACIÓN RECLAMACIÓN
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 

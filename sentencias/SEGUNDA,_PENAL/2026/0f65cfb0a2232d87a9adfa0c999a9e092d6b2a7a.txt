@@ -4,11 +4,11 @@ case_id: 0f65cfb0a2232d87a9adfa0c999a9e092d6b2a7a
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047202
 
-rol: 9233-2026
+rol: 7158-2026
 
 fecha_sentencia: 2026-03-03
 
-caratulado: ARANDA JAQUE DIEGO EDSON CONTRA COMISIÓN DE REDUCCIÓN DE CONDENA
+caratulado: MORENO RAMOS NARCISO CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
@@ -20,6 +20,7 @@ resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
+Corte Apelaciones ▼
 Santiago, tres de marzo de dos mil veintiséis.
 
 Vistos y teniendo únicamente presente:
@@ -32,6 +33,7 @@ Rol N° 9134 - 2026
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
+Corte Apelaciones ▼
 C.A. de Santiago
 Santiago, dieciséis de febrero de dos mil veintiséis.
 Al folio N° 1: a todo, aténgase a lo que se resolverá.
