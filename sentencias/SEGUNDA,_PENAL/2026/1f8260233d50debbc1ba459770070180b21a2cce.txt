@@ -4,19 +4,19 @@ case_id: 1f8260233d50debbc1ba459770070180b21a2cce
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046960
 
-rol: 49807-2024
+rol: 9523-2026
 
 fecha_sentencia: 2026-03-03
 
-caratulado: CDE- FISCO/ALCAÍNO
+caratulado: JOSEPH NADINE CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Admisibilidad del recurso de revisión
+materias: (CRIMEN) APELACIÓN AMPARO
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: ACOGE RECURSO DE REVISIÓN (M)
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
