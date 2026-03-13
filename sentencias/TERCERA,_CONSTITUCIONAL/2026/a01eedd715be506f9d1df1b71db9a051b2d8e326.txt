@@ -4,30 +4,27 @@ case_id: a01eedd715be506f9d1df1b71db9a051b2d8e326
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041558
 
-rol: 53011-2025
+rol: 57933-2025
 
-fecha_sentencia: 2026-02-26
+fecha_sentencia: 2026-02-25
 
-caratulado: CORREA/SERVICIO NACIONAL DE. MIGRACIONES
+caratulado: MENDOZA/BANCO DEL ESTADO CHILE
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: DESISTIDO RECURSO
+resultado_recurso: REVOCADA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
 Santiago, veintiséis de febrero de dos mil veintiséis.
-
 Vistos:
-Al escrito folio N° 5: Téngase por desistida a la parte recurrente del recurso de apelación interpuesto en el escrito folio N° 20, en contra de la resolución de fecha diecinueve de noviembre de dos mil veinticinco.
-
+Se confirma la sentencia apelada de seis de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Valparaíso, en el Ingreso Corte N°Amparo-317-2026, solo en cuanto aquella deja sin efecto al orden de expulsión dictada en contra del recurrente.
 Regístrese y devuélvase.
-
-Rol Nº 53.011-2025.
+Rol N°5664-2026.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------

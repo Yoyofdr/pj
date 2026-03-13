@@ -4,15 +4,15 @@ case_id: 8a267c75a44772b2fa4abc736584c9bda0d91d0f
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041866
 
-rol: 358-2026
+rol: 43069-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: MAURICIO ANDRÉS ÁVALOS MILLALONCO/ISAPRE CRUZ BLANCA S.A.
+caratulado: PAUL PHILIP ROSSEL CISTERNAS /PREFECTO DE LA PREFECTURA DE CARABINEROS BÍO BÍO, CORONEL MARCELO SALAS CARVACHO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Salud
+materias: ▪ Función pública
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
