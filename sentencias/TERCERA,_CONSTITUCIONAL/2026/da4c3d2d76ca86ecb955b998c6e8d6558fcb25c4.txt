@@ -4,11 +4,11 @@ case_id: da4c3d2d76ca86ecb955b998c6e8d6558fcb25c4
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049123
 
-rol: 3218-2026
+rol: 2207-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: RAMIREZ/MINISTERIO DEL INTERIOR Y OTRO
+caratulado: ESPAÑA RIVERA / SERVICIO NACIONAL DE MIGRACIONES Y OTROS
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
