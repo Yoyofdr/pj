@@ -4,19 +4,19 @@ case_id: 385661645c64e5951c1f670a35c45ec9401605c9
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040704
 
-rol: 58052-2025
+rol: 57853-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: AGUIRRE/MINISTERIO DEL INTERIOR-SUBSECRETARIA DEL INTERIOR
+caratulado: SANCHEZ TORRES SUGHAES DELINA Y OTRA / SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

@@ -4,19 +4,19 @@ case_id: b22053cc6be652df5edf9ebf085bf6846bb07d98
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040452
 
-rol: 58048-2025
+rol: 57828-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: ALDANA/SUBSECRETARÍA DE SEGURIDAD PUBLICA
+caratulado: DAVILA/SERVICIO NACIONAL_DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

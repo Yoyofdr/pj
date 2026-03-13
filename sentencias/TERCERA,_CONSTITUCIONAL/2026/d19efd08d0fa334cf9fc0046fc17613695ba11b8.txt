@@ -4,17 +4,17 @@ case_id: d19efd08d0fa334cf9fc0046fc17613695ba11b8
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040914
 
-rol: 58437-2025
+rol: 58452-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: CONTRERAS/ELIZALDE
+caratulado: FELIÚ/SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 

@@ -4,19 +4,19 @@ case_id: 5b4e9ff8e0326cb15903f8cf38fc3961c7a2e021
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041241
 
-rol: 57828-2025
+rol: 57701-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: DAVILA/SERVICIO NACIONAL_DE MIGRACIONES
+caratulado: MORENO BURBANO GINET ALEJANDRA CONTRA SERVICIO NACIONAL DE MIGRACIONES Y OTROS
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
