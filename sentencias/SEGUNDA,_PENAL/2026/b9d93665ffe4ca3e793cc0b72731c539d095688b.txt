@@ -1,0 +1,49 @@
+METADATA
+
+case_id: b9d93665ffe4ca3e793cc0b72731c539d095688b
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8039017
+
+rol: 7745-2026
+
+fecha_sentencia: 2026-02-24
+
+caratulado: FAITO MILLAHUAL IVÁN ISAAC CONTRA MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Corte Apelaciones ▼
+Santiago, veinticuatro de febrero de dos mil veintiséis.
+Visto y teniendo únicamente presente:
+Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de once de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Concepción, en el Ingreso Corte N° 102-2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.
+
+Acordado con el voto en contra de la Ministra Sra. Gajardo y el Ministro Suplente Sr. Mera, quienes estuvieron por confirmar el fallo en alzada, en virtud de sus propios fundamentos.
+Regístrese y devuélvase.
+
+Rol N° 7738-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Corte Apelaciones ▼
+C.A. de Concepción
+jcd
+Concepción, once de febrero de dos mil veintiséis.
+
+Al recurso folio 1:
+Visto:
+
+Atendido que la resolución objeto del recurso de amparo corresponde a una dictada por el Juzgado de Letras y Garantía de Cabrero, dentro del marco de su competencia, conforme con el procedimiento de rigor, aplicando las normas jurídicas que regulan la materia, en el que el recurrente tiene la posibilidad de hacer uso de las vías recursivas que el ordenamiento establece, por consiguiente, no resulta esta ser esta la vía idónea para obtener lo pretendido en el recurso, por encontrarse el asunto sometido al imperio del derecho, bajo la tutela jurisdiccional del Juzgado de Letras y Garantía de Cabrero, no vislumbrándose una ilegalidad manifiesta en el fallo y conforme lo dispuesto en el artículo 21 de la Constitución Política de la República, se DECLARA INADMISIBLE EL RECURSO DE AMPARO interpuesto el 10 de febrero del presente, por Ricardo Ode Galarce, en representación de Diana Gisela Suárez Paz en contra del Juzgado de Letras y Garantía de Cabrero.
+Archívese.
+N°Amparo-102-2026.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, veinticuatro de febrero de dos mil veintiséis. Visto y teniendo únicamente presente:Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de once de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Concepción, en el Ingreso Corte N° 102-2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.Acordado con el voto en contra de la Ministra Sra. Gajardo y el Ministro Suplente Sr. Mera, quienes estuvieron por confirmar el fallo en alzada, en virtud de sus propios fundamentos.Regístrese y devuélvase.Rol N° 7738-2026. Santiago, veinticuatro de febrero de dos mil veintiséis. Visto y teniendo únicamente presente:Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de once de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Concepción, en el Ingreso Corte N° 102-2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.Acordado con el voto en contra de la Ministra Sra. Gajardo y el Ministro Suplente Sr. Mera, quienes estuvieron por confirmar el fallo en alzada, en virtud de sus propios fundamentos.Regístrese y devuélvase.Rol N° 7738-2026. Sentencia anonimizada
