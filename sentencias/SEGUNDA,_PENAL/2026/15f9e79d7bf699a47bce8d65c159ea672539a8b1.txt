@@ -1,0 +1,330 @@
+METADATA
+
+case_id: 15f9e79d7bf699a47bce8d65c159ea672539a8b1
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8061188
+
+rol: 9105-2026
+
+fecha_sentencia: 2026-03-12
+
+caratulado: PACO MALDONADO ANA ROSA CONTRA SERVICIO NACIONAL DE MIGRACIONES DE CHILE
+
+sala: SEGUNDA, PENAL
+
+materias: (CIVIL) CASACIÓN FONDO
+
+recurso: (CIVIL) CASACIÓN FONDO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, doce de marzo de dos mil veintiséis.
+
+Vistos y teniendo presente:
+Primero: Que, para los efectos previstos en el inciso séptimo del artículo 483 del Código del Trabajo, se ordenó dar cuenta de la admisibilidad del recurso de unificación de jurisprudencia deducido por la parte demandada contra la sentencia dictada por la Corte de Apelaciones de Antofagasta, que rechazó el de nulidad que interpuso contra el fallo que acogió la demanda de despido injustificado, formulada en procedimiento monitorio.
+
+Segundo: Que el artículo 502 del Código del Trabajo establece que las resoluciones dictadas en el procedimiento monitorio serán susceptibles de ser impugnadas por medio de todos los recursos establecidos en el Código del Trabajo, con excepción del recurso de unificación de jurisprudencia.
+
+Tercero: Que, conforme aparece del mérito de los antecedentes, la resolución impugnada ha sido dictada en el contexto de un procedimiento monitorio y, por consiguiente, corresponde declarar inadmisible el presente recurso por no proceder legalmente.
+
+Por estas consideraciones y normas legales citadas, se declara inadmisible el recurso de unificación de jurisprudencia deducido por la demandante contra la sentencia pronunciada por la Corte de Apelaciones de Antofagasta de cinco de febrero de dos mil veintiséis.
+
+Regístrese y devuélvanse.
+
+Nº10.239-2025
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Antofagasta, a cinco de febrero de dos mil veintiséis.
+
+VISTOS:
+
+Que en esta causa rol único 25-4-0666053-5, rol interno M-162-2025 del Juzgado del Trabajo de esta ciudad y rol Corte 322-2025, por sentencia definitiva de quince de julio del año dos mil veinticinco, se acogió la demanda de despido injustificado y cobro de prestaciones condenando a la demandada al pago de las indemnizaciones y prestaciones que se señalan.
+
+En contra del referido fallo, la parte demandada principal dedujo recurso de nulidad invocando el motivo previsto en el artículo 477 del Código del Trabajo sosteniendo que la sentencia se dictó con infracción de ley que influyó sustancialmente en lo dispositivo del fallo.
+
+Debe indicarse que la demandada, además, recurrió alegando la causal del artículo 478 letra b) del Código del Trabajo, la que fue declarada inadmisible por esta Corte.
+
+El día 3 de febrero del presente año, se llevó a efecto la vista del recurso, interviniendo los abogados de las partes.
+
+CONSIDERANDO:
+
+PRIMERO: Que el abogado de la parte demandada principal dedujo recurso de nulidad invocando la causal establecida en el artículo 477 del Código del Trabajo, en relación con lo dispuesto en los artículo 172 y 41 de este cuerpo legal.
+
+Hizo referencia a fallos de la Excma. Corte Suprema, al conocer recursos de unificación de jurisprudencia, en lo que se habría resuelto que la interpretación del artículo 172 del Código del Trabajo es aquélla que lo armoniza con el artículo 41 del mismo Código, de modo tal que no procede incluir en las indemnizaciones por término de contrato los estipendios que no constituyen remuneración, de conformidad a esta última disposición.
+
+Citó diversos fallos y transcribió el artículo 172, inciso 1º del Código del Trabajo y añadió que, para los efectos de calcular la última remuneración mensual para determinar la indemnización legal por años de servicio y la sustitutiva del aviso previo, debe considerarse todo estipendio que necesariamente tenga el carácter de remuneración, por cuanto ésta constituye su base de cálculo, siempre que sea de carácter mensual, que responda específicamente a la prestación de servicios del trabajador, y que si se trata de una remuneración consistente en una regalía o en especie, se encuentre debidamente avaluada en dinero, incluyendo, finalmente, las imposiciones o cotizaciones previsionales o de seguridad social, de cargo del trabajador.
+
+Afirmó que, si bien el artículo 172 contiene una norma relativa a la base de cálculo de las indemnizaciones legales por término de contrato, precisa los requisitos que deben reunir los beneficios o estipendios que se pagan por la prestación de los servicios para integrar dicha base de cálculo, constituyendo el primer requisito o condición, que integren la última remuneración mensual, como aparece de la disposición legal.
+
+Citó el artículo 20 del Código Civil y transcribió el concepto de remuneración contenido en el artículo 41 del Código del Trabajo y sostuvo que al tenor de la disposición legal antes citada y teniendo presente que las asignaciones de colación y movilización como otros estipendios señalados en la misma no conforman el concepto legal de remuneración, resulta posible convenir que tales beneficios, al no cumplir con el primer requisito exigido por el artículo 172 del Código para considerarlos incluidos en la base de cálculo de las indemnizaciones ya mencionadas, no procede tenerlos en cuenta en la última remuneración mensual devengada para el cálculo del monto de las indemnizaciones sustitutiva de aviso previo y por años de servicios.
+
+Añadió que la primacía del artículo 172 del Código, en cuanto que para el cálculo de las indemnizaciones sustitutiva del aviso previo y por años de servicios se debe considerar en la última remuneración mensual todo lo que estuviere percibiendo el trabajador, aun cuando fuere excluido de modo expreso del concepto legal de remuneración del artículo 41 citado, no se guardaría conformidad con el artículo 22 del Código Civil, que ordena que en la interpretación de la ley, en relación a sus distintas "partes", debe haber "entre todas ellas la debida correspondencia y armonía", es decir, en el caso, la interpretación y aplicación de las disposiciones legales de los artículos 172 y 41 del Código, debe ser conjunta y complementaria, para evitar incoherencias respecto de un mismo instituto laboral como es el concepto de remuneración, ya que en el evento contrario los pagos no serían remuneración durante la vigencia y aplicación del contrato, pero sí tendrían esta naturaleza una vez terminado éste, para el pago de las indemnizaciones correspondientes.
+
+Afirmó que aún en el evento de que se estimara que el artículo 172 del Código, para los efectos que en el mismo se consigna, establece un concepto especial de remuneración, conforme al cual debe comprenderse en él "toda cantidad que estuviere percibiendo el trabajador por la prestación de sus servicios," lo que haría inaplicable el concepto de remuneración del artículo 41 citado, se arribaría siempre a similar conclusión, en orden a que las asignaciones y pagos en referencia no forman parte de la base de cálculo de las indemnizaciones por término de contrato, por cuanto ellas no tienen como causa directa la prestación de los servicios del dependiente, requisito exigido en el mismo artículo 172.
+
+Señaló que las asignaciones de colación, movilización y otros pagos aludidos en el inciso 2º del artículo 41, todos tienen por objeto compensar un gasto en que incurre el trabajador por causa del trabajo, como sería por su alimentación o traslado, entre otros, pero no obedecerían a la retribución de la prestación de los servicios por lo que señaló que debe excluirse de la base de cálculo de la indemnización decretada, la asignación de colación, por no constituir remuneración; asignación de movilización, por no constituir remuneración y la gratificación por estar expresamente excluida en conformidad al art. 172 del Código del Trabajo.
+
+SEGUNDO: Que esta Corte ha señalado reiteradamente que deduciéndose la causal de nulidad de haberse dictado la sentencia con infracción de ley que influyó sustancialmente en lo dispositivo del fallo, prevista en el artículo 477 del Código del Trabajo, la competencia de este tribunal está restringida, exclusivamente, a determinar si en la sentencia se aplicó correctamente la o las normas que se dicen vulneradas en el recurso.
+
+En otros términos, invocándose una errónea aplicación de ley, para que el recurso pueda prosperar, se requiere que exista un error en la aplicación de una norma decisoria litis, sea de naturaleza procesal o sustantiva, pudiendo consistir, como ya tradicionalmente se ha determinado, en la falta de empleo de la norma pertinente o su empleo indebido o bien, la aplicación de una norma impertinente, todo lo cual supone la mantención del establecimiento fáctico de la sentencia; en otros términos, los hechos determinados por los jueces resultan inamovibles para el tribunal que conoce del recurso, limitándose la discusión a la ley aplicable al caso y, específicamente aquella que se diga infringida en la sentencia.
+
+Se requiere, por último, que el vicio influya sustancialmente en lo dispositivo del fallo, en términos que, de no concurrir, la decisión del tribunal hubiera sido distinta.
+
+TERCERO: Que sobre esa base de inmediato debe indicarse que el recurso debe ser rechazado.
+
+En efecto, no consta en parte alguna de la sentencia que el tribunal para determinar el monto de las indemnizaciones que debe pagarse al trabajador, haya considerado asignaciones de colación y movilización y la gratificación por lo que, no contando la sentencia con la base fáctica necesaria para acoger el recurso, este debe ser rechazado.
+
+CUARTO: Que, como fuera, si se analizan las liquidaciones de remuneraciones del actor que sirvieron de base para calcular el monto indemnizatorio, las correspondientes a los meses de noviembre y diciembre del año 2024 y enero del año 2025, de inmediato se comprueba que estas no contienen pago alguno por concepto de asignación de colación y/o movilización, por lo que la alegación del recurso carece de toda base.
+
+Lo que sí contienen la tres liquidaciones, es una suma fija por concepto de gratificación.
+
+A este respecto debe señalarse que el artículo 172 del Código del Trabajo no excluye siempre y en todo caso las gratificaciones del cálculo del monto de las indemnizaciones, sino sólo cuando se pagan en forma esporádica o una sola vez al año, mas, como en este caso, en que aparece de manifiesto en las liquidaciones que el empleador optó por pagar mensualmente las gratificaciones de sus trabajadores conforme a la fórmula establecida en el artículo 50 del Código del Trabajo, necesariamente debe considerarse incluida en el concepto de toda cantidad que percibe el trabajador por las prestaciones de sus servicios y, por lo mismo, bien ha hecho el sentenciador en considerarla para el cálculo de las indemnizaciones.
+
+Por estas consideraciones y visto lo dispuesto en los artículos 474 y siguientes del Código del Trabajo, SE RECHAZA con costas, el recurso de nulidad deducido por el abogado don Dagoberto Marcelo Ramos Avendaño, en representación de la demandada, en contra de la sentencia definitiva de quince de julio del año dos mil veinticinco, la que en consecuencia no es nula.
+
+Regístrese y comuníquese.
+
+Rol 322-2025 (Laboral)
+
+Redactada por el ministro Dinko Franulic Cetinic.
+
+10
+11
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+JUZGADO DE LETRAS DEL TRABAJO DE ANTOFAGASTA
+
+AUDIENCIA UNICA DE JUICIO
+FECHA
+Antofagasta, quince de julio de dos mil veinticinco.
+
+MAGISTRADO
+ELENA DEL PILAR PEREZ CASTRO
+
+HORA DE INICIO
+12:55 horas
+
+HORA DE TERMINO
+14:31 horas
+
+ENCARGADO DE ACTA
+Tamara Arriagada Luengo
+
+SALA
+1
+
+RUC
+25-4-0666053-5
+
+RIT
+M-162-2025
+
+Registro de audio N°
+2540666053-5-1335
+
+PARTES
+INDIVIDUALIZACION y COMPARECENCIA
+SI
+NO
+
+DEMANDANTE
+LUKAS DAMIÁN FERNÁNDEZ ROJAS
+X
+
+ABOGADO DEMANDANTE
+MILLARAY XIMENA QUIROZ ARAYA
+X
+
+FORMA NOTIFICACIÓN
+contacto@consultoriolaboral.cl
+X
+
+DEMANDADA
+HUNTER SEGURIDAD SPA
+X
+
+ABOGADO DEMANDADA
+FELIPE ANDRÉS PLAZA ESCUDERO
+X
+
+FORMA NOTIFICACIÓN
+fplaza@plazaycarvajal.cl
+X
+
+ACTUACIONES EFECTUADAS
+SI
+NO
+
+· INDIVIDUALIZACION DE LAS PARTES
+X
+
+· RELACION DEMANDA
+X
+
+· TRASLADO CONTESTACION
+X
+
+· LLAMADO A CONCILICION
+X
+
+· HECHOS NO CONTROVERTIDOS
+X
+
+· HECHOS A PROBAR
+X
+
+· PRUEBA DEMANDANTE
+X
+
+· PRUEBA DEMANDA
+X
+
+· SENTENCIA INMEDIATA
+X
+
+Relación de los Hechos: El Juez hace una somera relación de la demanda y se confiere traslado a la contraparte a fin de que evacue la contestación de la misma, el que es evacuado en el acto, según consta en audio.
+
+Llamado a conciliación:
+Ésta no se produce.
+
+Sin perjuicio de lo anterior, el Tribunal fija como bases de acuerdo, el pago a la demandante de autos, de la suma de $1.490.461.- (un millón cuatrocientos noventa mil cuatrocientos sesenta y un mil pesos), que comprende los montos reconocidos en el proyecto de finiquito, la mitad de una remuneración a título de mitad de indemnización sustitutiva del aviso previo y una remuneración por la mitad de los años de servicio.
+
+Se deja constancia que la parte demandante no acepta las bases de acuerdo propuestas por el tribunal, señalando como oferta la suma de $2.000.000.- para efectos conciliatorios. En tanto, la parte demandada manifiesta su disposición a transigir por un monto de $1.000.000.-. Por lo anterior se tiene por frustrado el llamado a conciliación.
+
+Hechos no controvertidos
+
+1° La relación laboral entre las partes se inició el día 01 de febrero de 2023 y concluyó el día 03 de febrero de 2025, en virtud de la causal del articulo 160 N°7 del Código del Trabajo, es decir incumplimiento grave de las obligaciones del contrato.
+
+2° El actor se desempeñó como guardia de seguridad en las instalaciones de la empresa UPTEC-UNITED y dentro de una jornada de trabajo de 7 días de trabajo por 7 días de descanso.
+
+Hechos a probar: El Tribunal recibe la causa a prueba y fija como hechos a ser probados los siguientes:
+
+1° Hechos y circunstancias que permitan determinar la procedencia del despido del actor a propósito de la causal de despido invocada y sus hechos fundantes.
+
+2° Remuneración percibida por el demandante para efectos de lo dispuesto en el artículo 172 del Código Del Trabajo
+
+3° Procedencia de los montos cobrados a título de feriados adeudados en aquella parte no reconocida el proyecto de finiquito aportado.
+
+Ofrecimiento de prueba parte demandada:
+
+1. Documental:
+
+1.- Contrato de trabajo de don Lukas Fernández Rojas de 01 de febrero de 2023.
+
+2.- Anexo Contrato Indefinido, de fecha 03 de abril de 2023.
+
+3.- Propuesta de Finiquito de 19 de febrero de 2025.
+
+4.- Carta de despido del demandante don Lukas Fernández Rojas de fecha 03 de febrero de 2025, por incumplimiento grave de sus obligaciones contractuales.
+
+5.- Comprobante de Correos de Chile de fecha 03 de febrero de 2023, del envío de la carta de despido al demandante.
+
+6.- Fotografía del demandante Sr. Lukas Fernández Rojas durmiendo en su puesto y horario de trabajo.
+
+7.- Declaraciones juradas simples emitidas de puño y letra y fechadas de los trabajadores: Duminanda Aranda de 17 de marzo de 2025; Héctor Álvarez Villar y Herman Vidal Campos de 02 de febrero de 2025.
+
+8.- Certificado de vacaciones del demandante Sr. Lukas Fernández, por el año completo en que se prestó servicios a la empresa.
+
+9.- Certificado de cotizaciones previsionales del demandante Sr. Lukas Fernández íntegramente pagadas.
+
+10.- Liquidaciones de remuneraciones del demandante por los últimos 3 meses íntegramente trabajados, noviembre y diciembre 2024 y enero 2025.
+Ofrecimiento de prueba parte demandante:
+1. Documental:
+
+1.- Contrato de Trabajo de fecha 1° de febrero de 2023.
+
+2.- Liquidaciones de remuneraciones del actor correspondientes a los meses de noviembre y diciembre de 2024 y enero de 2025.
+
+3.- Aviso de despido de fecha 3 de febrero de 2025.
+
+4.-Constancia ingresada ante la Inspección del Trabajo con fecha 4 de febrero de 2025.
+
+5.- Presentación de Reclamo ante la Inspección del Trabajo con fecha 17 de febrero de 2025.
+
+6.- Acta de Comparendo emitida por la Inspección del Trabajo con fecha 24 de marzo de 2025.
+2. Confesional: Se solicita la declaración, bajo apercibimiento legal del artículo 454 N°3 del Código del Trabajo.
+1. Elsa Alexandra Prado Cifuentes, en representación de la demandada.
+
+3. Testimonial: Solicita la declaración de los siguientes testigos, siendo de su cargo la comparecencia:
+
+1. Daniel Ernesto Delgado Gómez, RUT 11.616.184-2, domiciliado en calle Cerro Linzor N°8824, Antofagasta
+Rendición de prueba parte demandada:
+
+1. Prueba documental: Se incorporan mediante lectura resumida los siguientes documentos ofrecidos en la audiencia preparatoria: (Acompañados a folio 8)
+
+1.- Contrato de trabajo de don Lukas Fernández Rojas de 01 de febrero de 2023.
+
+2.- Anexo Contrato Indefinido, de fecha 03 de abril de 2023.
+
+3.- Propuesta de Finiquito de 19 de febrero de 2025.
+
+4.- Carta de despido del demandante don Lukas Fernández Rojas de fecha 03 de febrero de 2025, por incumplimiento grave de sus obligaciones contractuales.
+
+5.- Comprobante de Correos de Chile de fecha 03 de febrero de 2023, del envío de la carta de despido al demandante.
+
+6.- Fotografía del demandante Sr. Lukas Fernández Rojas durmiendo en su puesto y horario de trabajo.
+
+7.- Declaraciones juradas simples emitidas de puño y letra y fechadas de los trabajadores: Duminanda Aranda de 17 de marzo de 2025; Héctor Álvarez Villar y Herman Vidal Campos de 02 de febrero de 2025.
+
+8.- Certificado de vacaciones del demandante Sr. Lukas Fernández, por el año completo en que se prestó servicios a la empresa.
+
+9.- Certificado de cotizaciones previsionales del demandante Sr. Lukas Fernández íntegramente pagadas.
+
+10.- Liquidaciones de remuneraciones del demandante por los últimos 3 meses íntegramente trabajados, noviembre y diciembre 2024 y enero 2025.
+
+Rendición de prueba parte demandante:
+1. Prueba documental: Se incorporaron mediante lectura resumida los siguientes documentos ofrecidos en la audiencia preparatoria: (Acompañados a folio 3 y 4)
+
+1.- Contrato de Trabajo de fecha 1° de febrero de 2023.
+
+2.- Liquidaciones de remuneraciones del actor correspondientes a los meses de noviembre y diciembre de 2024 y enero de 2025.
+
+3.- Aviso de despido de fecha 3 de febrero de 2025.
+
+4.-Constancia ingresada ante la Inspección del Trabajo con fecha 4 de febrero de 2025.
+
+5.- Presentación de Reclamo ante la Inspección del Trabajo con fecha 17 de febrero de 2025.
+
+6.- Acta de Comparendo emitida por la Inspección del Trabajo con fecha 24 de marzo de 2025.
+2. Confesional:
+
+No comparece el absolvente Elsa Alexandra Prado Cifuentes; se solicita se haga efectivo el apercibimiento legal contemplado en el artículo 454 N°3 del Código del Trabajo.
+El Tribunal deja su resolución para la sentencia definitiva.
+
+3. Testimonial:
+
+Compareció y declaró ante el Tribunal, previamente juramentado y bajo apercibimiento del artículo 209 del Código Penal, el siguiente testigo:
+1. Daniel Ernesto Delgado Gómez, RUT 11.616.184-2, domiciliado en calle Cerro Linzor N°8824, Antofagasta
+
+El Tribunal tiene por incorporada la prueba rendida por las partes y luego de escuchar las observaciones a la misma, se procede a dictar sentencia inmediata.
+
+Sentencia inmediata
+
+Conforme previene el artículo 62 del acta N° 71 del año 2006 de la Excelentísima Corte Suprema, intégrese en el acta de audiencia la parte resolutiva de esta sentencia y en caso de ser recurrida, practíquese integra transcripción de la misma.
+Por las consideraciones señaladas y lo dispuesto en los artículos 1, 7, 160, 162, 168, 172, 453, 454 y 500 del Código del Trabajo, se declara, que:
+
+I. Se acoge a la demanda de reclamación del despido y cobro de prestaciones, interpuesta en representación de Lucas Damián Fernández Rojas, C.I.19.710.298-5, en contra de Hunter Seguridad SpA., RUT 76.842.104-8, ambos ya individualizados y, en consecuencia, se condena esta última a pagar en su favor las siguientes sumas dinerarias:
+
+1. $726.180 (setecientos veintiséis mil ciento ochenta pesos) por concepto de indemnización sustitutiva del aviso previo
+2. $1.452.361 (un millón cuatrocientos cincuenta y dos mil trescientos sesenta y un pesos) por concepto de indemnización por años de servicio.
+3. $1.161.889. -( un millón ciento sesenta y un mil ochocientos ochenta y nueve pesos) por concepto de recargo legal del 80%
+4. $377.961.- (trescientos setenta y siete mil novecientos sesenta y un mil pesos) por concepto de feriados adeudados.
+II. Se condena en costas a la demandada, regulándose desde ya las personales, en la suma equivalente a medio (1/2) Ingreso Mínimo Mensual para Fines Remuneracionales.
+Regístrese y archívese en su oportunidad.
+Sentencia dictada por doña ELENA DEL PILAR PÉREZ CASTRO, Jueza Titular del Juzgado de Letras del Trabajo de Antofagasta.
+
+RIT M-162-2025
+
+RUC 25-4-0666053-5
+
+Téngase a las partes por notificadas personalmente de todas las resoluciones dictadas en audiencia y remítase copia de la presente acta a sus correos electrónicos.
+
+En Antofagasta, a quince de julio de dos mil veinticinco, se notificó por el estado diario la resolución precedente y se remitió correo electrónico a las partes.
+
+/tal.
+
+2
