@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040912
 
 rol: 4265-2026
 
-fecha_sentencia: 2026-02-25
+fecha_sentencia: 2026-02-24
 
 caratulado: BARROS/BANMEDICA S.A.
 
