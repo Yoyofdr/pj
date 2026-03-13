@@ -4,11 +4,11 @@ case_id: d5d80c8bca1894c194c42aad32e2c99025e81415
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044709
 
-rol: 56481-2025
+rol: 35900-2025
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-02-26
 
-caratulado: QUEZADA/MINISTERIO DE SEGURIDAD PUBLICA
+caratulado: ALAN FRANCO NAHUELPÁN MENA /ARMADA DE CHILE
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: ▪ Función pública
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
