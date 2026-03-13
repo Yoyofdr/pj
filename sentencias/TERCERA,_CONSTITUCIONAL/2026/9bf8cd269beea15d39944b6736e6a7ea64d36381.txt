@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Rentas municipales
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (PENAL) NULIDAD
 
 resultado_recurso: REVOCADA SENTENCIA APELADA
 
