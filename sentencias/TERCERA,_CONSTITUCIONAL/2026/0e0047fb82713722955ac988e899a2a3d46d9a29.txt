@@ -4,11 +4,11 @@ case_id: 0e0047fb82713722955ac988e899a2a3d46d9a29
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8048459
 
-rol: 34810-2025
+rol: 1629-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: ANONIMIZADO
+caratulado: PIMENTEL/SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

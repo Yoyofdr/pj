@@ -4,11 +4,11 @@ case_id: 505547633a4af4df266222ac4a0adb4dcbd86ba2
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049163
 
-rol: 3221-2026
+rol: 5734-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: NAVARRO/SERVICIO NACIONAL DE MIGRACIONES
+caratulado: CANCINO/CONSALUD S.A
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

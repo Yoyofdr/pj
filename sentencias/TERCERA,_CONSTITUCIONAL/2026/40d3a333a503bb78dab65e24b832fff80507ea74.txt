@@ -4,92 +4,1648 @@ case_id: 40d3a333a503bb78dab65e24b832fff80507ea74
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8048041
 
-rol: 40525-2025
+rol: 3322-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: LINARES/NUEVA MASVIDA S.A
+caratulado: FLORENCIO ROBERTO PALOMINO AVILA/SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Salud
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
 Santiago, cuatro de marzo de dos mil veintiséis.
 
-Vistos:
-Se reproduce sólo la parte expositiva del fallo en alzada.
+VISTO Y CONSIDERANDO:
+PRIMERO: Que en este proceso se conoce de una demanda en juicio ordinario de resolución de contrato, tramitada ante el Primer Juzgado de Letras de Rengo, Rol C-1587-2019, caratulado “Pino con Hernández”, en el que se ha ordenado dar cuenta para su admisibilidad de los recursos de casación en la forma y en el fondo deducidos por la parte demandante principal y demandada reconvencional en contra de la sentencia de segunda instancia de treinta de diciembre del año dos mil veinticinco, que confirmó la de primer grado que rechazó la demandada principal y condenó en costas a la demandante, por haber resultado totalmente vencida; y en cuanto a la demanda reconvencional, acogió la demanda de resolución de contrato de promesa con indemnización de perjuicios e intereses, declarándose, en consecuencia, resuelto el contrato de promesa de compraventa celebrado por las partes el 24 de octubre de 2018 en Notaría de Rengo de don Edmundo Figueroa Álvarez N° de repertorio 2.783-2018, ordenando que Luis Alberto Pino Ortiz, deberá restituir la suma de $71.000.000 entregados al momento de la celebración del contrato de promesa objeto del presente juicio, dentro de los 30 días siguientes a la fecha en que la sentencia quede firme y ejecutoriada. Asimismo, se condena a la parte demandada reconvencional al pago de la suma de $20.000.000 por concepto de indemnización por incumplimiento contractual.
 
-Y se tiene, además, presente:
-Primero: Que se recurre de protección en favor de la parte recurrente, en contra de Isapre Nueva Masvida, impugnando el acto que se califica de ilegal y arbitrario consistente en denegar la cobertura de las prestaciones que indica, fundada en una supuesta preexistencia. Actuar que estimó, afecta las garantías constitucionales previstas en el artículo 19 de la Constitución Política de la República.
+EN CUANTO AL RECURSO DE CASACIÓN EN LA FORMA:
+SEGUNDO: Que, la primera causal de nulidad formal es aquella contenida en el numeral 4 del artículo 768 del Código de Procedimiento Civil, esto es la de ultra petita, la que se sustenta en que la sentencia sanciona al demandante principal por no cumplir una obligación que nunca asumió, esto es, firmar una escritura que comprendía el total del dominio, en circunstancias que la promesa sólo obligaba respecto del 50% del inmueble. Argumenta así que, con ello, el tribunal extiende los efectos del contrato más allá de lo pactado, fallando sobre una materia no sometida a su decisión.
 
-Segundo: Que por sentencia dictada por la Corte de Apelaciones rechazó la acción constitucional referida.
-Tercero: Que la parte recurrente dedujo recurso de apelación en contra de la sentencia referida en el considerando precedente, reiterando los argumentos señalados en su acción.
+TERCERO: Que, respecto del vicio alegado, esta Corte Suprema ha precisado que el fallo incurre en ultra petita cuando, apartándose de los términos en que las partes situaron la controversia por medio de sus respectivas acciones o excepciones, se altera el contenido de éstas, cambiando su objeto o modificando su causa de pedir, pues este vicio es uno que conculca el principio de congruencia, rector de la actividad procesal, que busca vincular a las partes y al juez en el ámbito del debate. Se trata de ensamblar la pretensión, la oposición, la prueba, la sentencia y los recursos y, al mismo tiempo, cautelar la conformidad que debe existir entre todas las actuaciones que componen el proceso.
 
-Cuarto: Que el recurso de protección de garantías constitucionales establecido en el artículo 20 de la Constitución Política de la República, constituye jurídicamente una acción de evidente carácter cautelar, destinada a amparar el legítimo ejercicio de las garantías y derechos preexistentes que en la Carta Fundamental se contemplan, mediante la adopción de medidas de resguardo que se deben tomar ante un acto arbitrario o ilegal que impida, amague o perturbe ese ejercicio.
-Quinto: Que, en relación con el acto imputado, se tendrá presente, que, según consta de los antecedentes, se dictó sentencia por la Superintendencia de Salud, acogiendo el reclamo de la parte recurrente y ordenando otorgar la cobertura requerida.
-Sexto: Que, así las cosas, estimándose que los hechos de hechos de eventuales vulneraciones e incumplimientos cesaron, no existen actualmente medidas que esta Corte pueda adoptar, y por ello, la acción ha perdido oportunidad.
-Por estas consideraciones y de conformidad con lo que dispone el artículo 20 de la Constitución Política de la República y el Auto Acordado de esta Corte sobre la materia, se confirma la sentencia apelada.
+Por tanto, una sentencia deviene incongruente cuando en lo resolutivo se otorga más de lo pedido por el demandante, se excede de la oposición del demandado o se extiende a materias que no fueron sometidas a la decisión del tribunal, cuestiones que no ocurren en la sentencia que se revisa, pues basta con una lectura de ella para advertir que lo resuelto fue conforme a la discusión sostenida en el juicio.
+
+En definitiva, no son efectivos los fundamentos que sustenta la causal intentada, pues el tribunal ha fallado sobre una materia que ha sido sometida a su decisión, ya que como lo sostuvo la sentencia de la Corte de Apelaciones en su sentencia, resultó ser efectivo que en la escritura definitiva de compraventa existía un error en la singularización del inmueble en cuestión, para luego razonar que dicha circunstancia no le era imputable al promitente comprador, en términos de configurar un incumplimiento de su parte a las obligaciones que le imponía el contrato de promesa, sino que el incumplimiento era imputable al promitente vendedor, lo que determina que esta causal debe ser desestimada.
+
+CUARTO: Que, la recurrente también sustenta su recurso de nulidad formal en la causal prevista en el numeral 5° del artículo 768 del Código de Procedimiento Civil, en relación con los numerales 4° del artículo 170 del mismo cuerpo legal.
+
+En síntesis, sostiene que el tribunal no ha ponderado de manera adecuada el contrato de promesa conforme al artículo 1554 del Código Civil, desde que la escritura definitiva cuya firma se exigía comprendía la totalidad del inmueble, mientras que el contrato de promesa sólo recaía sobre una porción del terreno, y que, como se explicó por esa parte durante el desarrollo del juicio, al concurrir el demandante a firmar la escritura conforme fue programada por el abogado del demandado, quien a su vez fue el redactor de la misma, admite que la venta correspondía a toda su propiedad, lo que generó el desconcierto y posterior temor. Sostiene que el fallo impugnado no explica ni fundamenta jurídicamente cómo puede considerarse un incumplimiento imputable al demandante al rehusar firmar una escritura que alteraba sustancialmente el objeto prometido.
+
+QUINTO: Que revisados los antecedentes del proceso se desprende que el recurso formal no fue preparado en los términos que exige el artículo 769 del Código de Procedimiento Civil.
+
+En efecto, el reproche del recurrente se dirige contra el fallo de alzada que confirmó el de primer grado, reproduciendo sus fundamentos y la valoración de la prueba rendida, agregando fundamentos únicamente con la finalidad de reforzar las motivaciones del fallo en alzada, lo que determina que en lo relativo a los elementos en que se funda el recurso de casación que se analiza, es la sentencia de primera instancia la que en su concepto adolece de las anomalías denunciadas y, sin embargo, no fue objeto de la impugnación de nulidad formal que ahora se intenta.
+
+Lo anterior, deja en evidencia que no se reclamó por la parte demandada, oportunamente y en todos sus grados, de los vicios que actualmente alega, razón por la cual el recurso de nulidad formal no puede prosperar.
+
+EN CUANTO AL RECURSO DE CASACIÓN EN EL FONDO:
+SEXTO: Que funda su recurso de casación sustancial en la infracción a los artículos 1545, 1546, 1554, 1560, 1564 y 1681 del Código Civil y artículos 1700 y siguientes del Código Civil.
+
+Afirma, en síntesis, que la sentencia recurrida desconoce que el cumplimiento forzado de una promesa sólo puede recaer sobre aquello que fue objeto del contrato, esto es, el 50% de derechos del inmueble y no en su totalidad, desconociendo la fuerza obligatoria del contrato en sus términos literales, sustituyendo la voluntad expresada por las partes por una interpretación arbitraria. Agrega que, también se vulnera el principio de la buena fe contractual, al exigir al recurrente una escritura que aumenta su obligación, desnaturalizando el equilibrio del contrato prometido con el de compraventa.
+
+Sostiene que los errores de derecho llevaron al tribunal a rechazar indebidamente la demanda, a calificar erróneamente de incumplimiento una conducta legítima, condenar injustamente al demandante conforme la demanda reconvencional interpuesta, ordenando la resolución de la promesa y condenando a su representado a restituir los dineros percibidos por la suma de $71000.000 millones de pesos, más $20.000.000 por concepto de indemnización y $12.000.000 de pesos por concepto de intereses
+Pide que, se invalide el fallo y se dicte una sentencia de reemplazo que acoja la demanda de cumplimiento de promesa en los términos pactados, o rechace la condena indemnizatoria y el interés, por inexistencia de incumplimiento imputable, solicitando además que se exima a esa parte de la condena costas y, por otra parte, se condene en costas a la demandada y demandante reconvencional.
+
+SÉPTIMO: Que, de la revisión de los antecedentes, se advierte que las infracciones denunciadas se construyen sobre la base de una propuesta fáctica diversa a aquélla asentada por los sentenciadores del grado.
+
+En efecto, luego de precisar el tribunal que, si bien resultó ser efectivo que en la escritura definitiva de compraventa que estaba en la Notaría para ser firmada existía un error en la singularización del inmueble en cuestión, resolvió que dicha circunstancia no le era imputable al promitente comprador, en términos de configurar un incumplimiento de esa parte a las obligaciones que le imponía el contrato de promesa,
+El fallo recurrido dejó asentado, en cambio, que existió un incumplimiento del demandado en su calidad de promitente vendedor, pues luego de determinar que la escritura fue redactada por un tercero y no por el promitente comprador, se estableció que la demandante principal era la responsable y la que tenía la obligación de encargarse de los trámites notariales de redacción y de la escritura definitiva, por ser dichos trámites de cargo del vendedor.
+
+Asimismo, se razonó que el promitente vendedor debió resguardar las prevenciones a objeto de que el contrato definitivo que debía ser firmado por las partes, no adoleciera de errores, todo lo cual se podría haber efectuado a través de conversaciones previas como regularmente se hace en este tipo de negocios, pero que sin embargo no realizó, manifestando los sentenciadores, que habiéndose constatado que en la causa solamente existe una propuesta de escritura definitiva y que esta no ni ninguna otra fue firmada ni suscrita por el promitente vendedor, se dará por acreditado el incumplimiento de éste.
+
+OCTAVO: Que, de lo que se viene analizando, se debe tener en consideración que los hechos fijados en una sentencia corresponden al resultado de la ponderación judicial de la prueba rendida en el juicio y que esta actividad de análisis, examen y valoración del material probatorio se encuentra dentro de las facultades privativas de los sentenciadores del fondo; concerniendo, por ende, a un proceso racional del tribunal, por lo que no está sujeto a control en sede de casación en el fondo, salvo que se haya denunciado de modo eficiente la vulneración de las leyes reguladoras de la prueba que hayan permitido establecer el presupuesto fáctico determinado en el fallo; cuestión que no se ha verificado en la especie.
+
+Resulta pertinente recordar que solamente los jueces del fondo se encuentran facultados para fijar los hechos de la causa y, efectuada correctamente dicha labor en atención al mérito de las probanzas aportadas, ellos resultan inamovibles conforme a lo previsto en el artículo 785 del Código de Procedimiento Civil, no siendo posible su revisión por la vía de la nulidad que se analiza.
+
+NOVENO: Que del análisis realizado en las reflexiones que anteceden se puede concluir que los sentenciadores del grado no han incurrido en los yerros de derecho denunciados; de lo que se advierte que la recurrente está atacando la ponderación que los jueces del grado -dentro del ámbito de sus potestades- han realizado de las probanzas rendidas por las partes, circunstancias que impiden revisar la actividad desarrollada por ellos en relación a la prueba y, variar, por este Tribunal de Casación, los supuestos fácticos determinados y sobre los cuales recayó la aplicación del derecho sustantivo que se dice vulnerado, lo que determina que indefectiblemente el arbitrio de nulidad en estudio no puede prosperar, por adolecer de manifiesta falta de fundamento.
+
+DÉCIMO: Que, asimismo, para resolver se debe tener presente que conforme lo previsto en el artículo 772 N° 1 del Código de Procedimiento Civil, el recurso de casación en el fondo está sujeto a un requisito indispensable para su admisibilidad, cuál es que el escrito en que se lo interpone “exprese”, es decir, explicite en qué consiste y cómo se ha producido el o los errores de derecho.
+
+UNDÉCIMO: Que, del examen de los antecedentes, consta que en el arbitrio el recurrente omitió extender la infracción legal a normas sustantivas que fueron consideradas en la sentencia para resolver la controversia, estas son los artículos 1489 y 1824 del Código Civil.
+
+DUODÉCIMO: Que, en cuanto a la solicitud de que se absuelva de las costas a esa parte, cabe recordar que esta Corte ha resuelto reiteradamente que la decisión que recae sobre la imposición de estas no reviste el carácter de sentencia definitiva pues se trata de una medida de carácter económico, y la circunstancia de que ese pronunciamiento se contenga en una sentencia en la misma sentencia definitiva, sólo responde a un imperativo legal sin que por tal motivo participe de su naturaleza jurídica. Por consiguiente, esta impugnación debe ser desatendida por revestir las características de las resoluciones que son susceptibles del recurso
+Por estas consideraciones y de conformidad además con lo dispuesto en los artículos 768, 772, 781 y 782 del Código de Procedimiento Civil, declara inadmisible el recurso de casación en la forma y se rechaza el recurso de casación en el fondo interpuestos por la abogada Nora Acevedo Olea, en contra de la sentencia de la Corte de Apelaciones de Rancagua, de treinta de diciembre de dos mil veinticinco.
+
 Regístrese y devuélvase.
 
-Rol Nº40.525 - 2025.
+N° 3055-2026.
 
-Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sra. Adelita Ravanales A., Sr. Jean Pierre Matus A., Sr. Omar Astudillo C., Sr. Gonzalo Ruz L. y la Abogada Integrante Sra. María Angélica Benavides C. Santiago, 04 de marzo de 2026.
+Pronunciado por la Primera Sala de la Corte Suprema integrada por los Ministros señor Manuel A. Valderrama R., señor Mauricio Silva C., señora María Angélica Repetto G., señor Mario Carroza E. y señora María Soledad Melo L.
 
-Autoriza el Ministro de Fe de la Excma. Corte Suprema.
-
-En Santiago, a cuatro de marzo de dos mil veintiséis, notifiqué en Secretaría por el Estado Diario la resolución precedente.
+No obstante, haber concurrido a la cuenta de admisibilidad y al acuerdo, no firma la Ministra señora Repetto, por estar con feriado legal y el Ministro señor Carroza, por estar con permiso.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
-C.A. de Santiago
-Santiago, uno de septiembre de dos mil veinticinco.
+C.A. de Rancagua
+Rancagua, treinta de diciembre de dos mil veinticinco.
 
-Vistos y considerando:
-Primero: Que comparece doña Consuelo Muhe Morales, abogada, en favor de María de la Paz Linares Noguera, deduciendo recurso de protección contra Isapre Nueva Másvida S.A., por la negativa de cobertura al presupuesto N° 331340005143 para “recubrimiento conjuntival en OI” destinado a mejorar la tolerancia de prótesis ocular, acto fundado por la recurrida en supuesta preexistencia no declarada, lo que a su juicio implica una vulneración a sus garantías fundamentales consagradas en los artículos 19 N°1, 2, 9 y 24 de la Constitución Política de la República.
+Vistos:
 
-Indica que la recurrente contrató el plan “Pleno Plan Plus (PPL24372) – Código 8624” en agosto de 2024, iniciando beneficios en octubre de 2024; que efectuó uso regular del plan; y que la Isapre rechazó la cobertura mediante comunicaciones de 24 de diciembre de 2024, 7 de abril de 2025, 8 de mayo de 2025 y 28 de mayo de 2025. La negativa se apoya en un certificado oftalmológico que menciona atresia de coanas y microftalmia.
+Se reproduce la sentencia en alzada, y se tiene, además, presente:
 
-Sostiene que su condición es congénita, por lo que no corresponde declararla como preexistencia; y que la Declaración Personal de Salud (DPS) se completó siguiendo indicación del ejecutivo Germán Rafael Flores Venegas, quien instruyó “No, no hay que registrar nada… Colóquenle que no a todo nomás”, configurándose justa causa de error.
+Primero: Que, la parte demandante principal deduce recurso de apelación en contra de la sentencia definitiva dictada en autos, que rechazó la demanda principal de resolución de contrato con indemnización de perjuicios deducida por el actor LUIS PINO ORTÍZ en contra de LUIS FERNANDO HERNÁNDEZ LÓPEZ CONTRATISTA MANO DE OBRA AGRÍCOLA E.I.R.L., y acoge la demanda reconvencional de resolución de contrato de promesa con indemnización de perjuicios e intereses, con costas.
 
-Destaca que el artículo 190 del DFL N° 1/2005 (MINSAL) define las condiciones de salud preexistentes como aquellas conocidas y diagnosticadas con anterioridad a la incorporación al contrato, de modo que sólo en ese supuesto podrían operar restricciones; agrega que el artículo 201 N° 1 del mismo DFL faculta a la isapre a negar coberturas o poner término al contrato si el afiliado falsea o no entrega fidedignamente la información en la Declaración de Salud, salvaguardando expresamente el caso de justa causa de error. Indica que, en la especie, concurre dicha justa causa, desde que la omisión reprochada obedeció a la instrucción del ejecutivo de ventas de no consignar la condición ocular, actuación que la recurrente siguió de buena fe y que impide imputarle un incumplimiento doloso o culposo de su deber de declarar.
+Segundo: Que, en su recurso, luego de citar y transcribir el considerando noveno de la sentencia objetada, el recurrente reclama que considera errónea la apreciación y criterio empleado por el sentenciador, en cuanto a establecer que su parte no ha cumplido el requisito de “incumplimiento de la contraria”, toda vez que la demandada concurrió a firmar y que además siendo esta compraventa realizada a través de crédito hipotecario no le asistía responsabilidad en la redacción de la escritura.
 
-Señala que la patología que motiva el procedimiento solicitado es congénita, y que, por su naturaleza, no corresponde exigir su declaración como preexistencia. Alega, para sustentar lo anterior, la vigencia de la Circular IF N° 354 de la Superintendencia de Salud (18 de junio de 2020), que ordena eliminar de la Declaración Personal de Salud la exigencia de informar enfermedades o condiciones con que la persona nace, por su carácter discriminatorio, y cuya línea interpretativa ha sido confirmada por la Resolución Exenta IF N° 46 (3 de febrero de 2021). Refiere que dicho estándar se armoniza con el artículo 14 de las Condiciones Generales del Contrato de Salud Previsional, que reserva a la Declaración de Salud la fijación de restricciones y establece que la falta de esa declaración no invalida el contrato, pero presume de derecho que la isapre renunció a restringir coberturas o terminar la convención por una eventual omisión de preexistencias.
+Sostiene que por su parte sí concurre el día y hora señalado, pero que no firmó debido a que el inmueble estaba mal individualizado, indica que al llegar a realizar la venta se encontró con que no se estaba cumpliendo con la promesa en la forma que estaba establecida, pues la venta se realizaba sobre toda la propiedad y no sobre el lote resultante de la subdivisión. Agregó que nadie asumió el error en la escritura, mientras que el comprador concurrió a firmar y conociendo exactamente el contenido de la escritura firmó sin reserva alguna.
 
-Indica que, sobre esa base normativa, la decisión recurrida carece de sustento: si la condición es congénita y existió inducción a error por el canal comercial de la propia aseguradora, no se configura la hipótesis de preexistencia no declarada que autorice negar la cobertura, ni menos la posibilidad de afectar el goce de prestaciones ya incorporadas al patrimonio de la afiliada por virtud del contrato.
+Añadió que quien solicitó el crédito hipotecario fue el promitente comprador, y por ello él debía poner en conocimiento de la institución bancaria los antecedentes del inmueble cuya adquisición pretendía, siendo los abogados de estas entidades quienes redacten en beneficio de su cliente y del propio banco.
 
-Concluye señalando que la negativa de cobertura a la prestación presupuesto N° 331340005143 resulta ilegal por contravenir el DFL N° 1/2005, el artículo 14 de las Condiciones Generales y las instrucciones obligatorias de la autoridad de control (Circular IF N° 354 y Res. Exenta IF N° 46), y arbitraria por desatender los antecedentes clínicos y contractuales que excluyen la exigibilidad de declaración; añade que tal decisión priva y perturba el ejercicio de las garantías del artículo 19 N° 1, 2, 9 y 24 de la Constitución
+Luego de las citas de derecho, de los artículos 1489 y 1554 del Código Civil, solicitó que la Corte enmiende la resolución recurrida y resuelva, en definitiva, que acoge la demanda principal de resolución de contrato de promesa de compraventa y que rechace la demanda reconvencional en todas sus partes, con costas.
 
-Solicita se acoja el recurso, y con ello se ordene a Isapre Nueva Másvida otorgar la cobertura íntegra del presupuesto N° 331340005143 para el recubrimiento conjuntival en OI, dejando sin efecto toda restricción por preexistencia, con costas.
+Tercero: Que, en primer término, es del caso precisar que el contrato cuya resolución se solicita, dice relación con la promesa de compraventa otorgada el 24 de octubre de 2018, respecto de un bien raíz que formaba parte de un paño mayor, resultante de subdivisión que según se expresa en el contrato, da origen a un lote denominado lote dos cuyos deslindes se indican.
 
-Segundo: Que informando al tenor del recurso comparece Ximena San Martín Saldías, abogada, en representación de Isapre Nueva Masvida S.A., solicitando el rechazo del recurso, con costas.
+A su vez, en cuanto a la época de celebración del contrato prometido, en su cláusula sexta se estipula que: “el plazo establecido por las partes para la celebración de la compraventa definitiva será para el treinta de marzo de dos mil diecinueve.”
 
-Expone que la recurrente es afiliada vigente desde octubre de 2024 al plan complementario PPL24372, y que al momento de su incorporación suscribió la Declaración de Salud N° 5000374231, en la cual negó patologías consultadas, incluida la relativa a enfermedad ocular.
+Cuarto: Que, la promesa de compraventa no produce obligación alguna a menos que conste por escrito; el contrato prometido no sea de aquellos que las leyes declaran ineficaces; contenga un plazo o condición que fije la época de celebración del contrato prometido, el que debe especificarse de tal manera que sólo falten para que sea perfecto, la tradición de la cosa o las solemnidades que las leyes prescriban. (Artículo 1554 Código Civil)
 
-Señala que, pese a esa afirmación, constan antecedentes clínicos, consistentes en certificados del Dr. Juan Pablo Ramírez Krause de 17 de diciembre de 2024 y 10 de marzo de 2025, además de histórico de prestaciones de su anterior isapre Banmédica, que dan cuenta de uso de prótesis ocular y diagnósticos de atresia de coanas y microftalmia en el ojo izquierdo.
+Quinto: Que, es un hecho no controvertido que, al momento de interposición de la demanda principal en estos antecedentes, en el mes de julio de 2019, no se había suscrito por el promitente vendedor el contrato de compraventa, habiéndose cumplido el plazo el 30 de marzo de 2019, según ya se dijo se estipulaba en el contrato de promesa.
 
-Indica que la Contraloría Médica determinó que las prestaciones cotizadas mediante el presupuesto N° 331340005143 para “recubrimiento conjuntival en OI” guardan relación con patología preexistente no declarada, razón por la cual se cursaron comunicaciones de rechazo fundadas en la normativa aplicable y en los antecedentes médicos tenidos a la vista, sosteniendo que no existe acto ilegal ni arbitrario imputable a la isapre.
+Para mayor claridad, cabe precisar que, en estos antecedentes, demanda la resolución del contrato de promesa primeramente el promitente vendedor y el demandado -promitente comprador- demanda reconvencionalmente, igualmente solicitando la resolución del contrato con indemnizaciones. De modo entonces, que ambas partes piden la resolución del contrato de promesa.
 
-Alega la improcedencia del recurso de protección por existir procedimiento especial ante la Superintendencia de Salud, regulado en el DFL N° 1/2005, arts. 117 y siguientes, en el que conoce el Intendente de Fondos y Seguros Previsionales de Salud como juez árbitro; agrega que el amparo constitucional es excepcional y de aplicación restringida, y que en la especie no se configuran los presupuestos del art. 20 de la Constitución.
+Sexto: Que, la controversia se centra en determinar a cuál de las partes le es imputable el incumplimiento del contrato de promesa de compraventa suscrito entre las partes con fecha 24 de octubre de 2018, en especial respecto de la obligación de celebrar el contrato prometido, esto es, concurrir a firmar la escritura definitiva.
 
-Sostiene, en cuanto al fondo, que su decisión se ajusta al DFL N° 1/2005, art. 201 N° 1, esto es, la facultad de negar cobertura o poner término cuando el afiliado falsea o no entrega de manera fidedigna la información en la Declaración de Salud, salvo justa causa de error, en relación con los arts. 189 letra h) y 190 N° 6 del mismo cuerpo legal. Refiere que la propia DS advierte en su encabezado las consecuencias de no declarar una preexistencia —negación de cobertura hasta por 5 años y/o término del contrato—, destacando que la carga de declarar recae exclusivamente en el postulante y que la excusa relativa a un “ejecutivo” no sería atribuible a personal de Nueva Masvida.
+Séptimo: Que, no hay duda de que el contrato de promesa celebrado entre el demandante de resolución y el demandado (demandante reconvencional), generó obligaciones civiles en la medida que cumple con todos los requisitos establecidos en el artículo 1554. En el caso particular, como acertadamente lo razona el juez del grado en su considerando sexto y séptimo, se reúnen todos los presupuestos de la norma citada en cuanto a la validez del contrato de promesa de fecha 24 de octubre de 2018 suscrito entre las partes. De ahí que para evaluar si corresponde acoger o rechazar la demanda de resolución de contrato, deba establecerse si se verifican los presupuestos de un incumplimiento culpable por una de las partes de lo pactado, conforme con el artículo 1489 del Código Civil.
 
-Manifiesta, frente a la tesis de enfermedad congénita no declarable, que la normativa reconoce una dispensa pero exige doble requisito: que la patología sea congénita y que el diagnóstico conste hasta el término del período neonatal (28 días), conforme al Compendio de Instrumentos Contractuales, Capítulo I, Título II, letra b; afirma que la actora no acompañó antecedente médico que fije ese diagnóstico
+Octavo: Que, es del caso recordar que la obligación del contrato de promesa es distinta del contrato de compraventa, el consentimiento recae sobre objetos distintos, en la venta sobre la cosa y el precio, en la promesa de venta sobre la celebración futura de un contrato de compraventa, la causa de las obligaciones en la promesa es obligarse a celebrar un contrato dentro de cierto tiempo para que el otro contratante haga lo mismo. En la promesa la obligación es de hacer, esto es, la celebración del contrato prometido. Así en doctrina el profesor Alessandri ha expresado al referirse a la “obligación de hacer” de la promesa, afirmando que el objetivo de las partes en la promesa de venta no es adquirir la cosa o el precio sino obligar al otro contratante a que celebre la venta que creará esas obligaciones. El vendedor y comprador no son deudores de una cosa, son deudores de un hecho. Su obligación no consiste en dar sino en hacer, en celebrar el contrato prometido. (Alessandri Rodríguez, Arturo. De la Compraventa y de la Promesa de Venta. Editorial Jurídica de Chile. 2003)
 
-Tercero: Que, el recurso de protección de garantías constitucionales establecido en el artículo 20 de la Constitución Política de la República, constituye jurídicamente una acción cautelar, destinadas a amparar el libre ejercicio de las garantías y derechos preexistentes, que en la misma disposición se enumeran, mediante la adopción de medidas de resguardo que se deben adoptar ante un acto arbitrario e ilegal que impida, amague a perturbe ese ejercicio.
-Cuarto: Que el acto recurrido es la negativa de la cobertura por parte de la isapre recurrida, fundado en la preexistencia conocida de una condición de salud de la actora al momento de suscribir su Declaración de Salud, la cual, según señala la recurrente no declaró ya que resulta ser una condición congénita y que, por ello, quien le vendió el plan de isapre le señaló que no requería ser declarada, por lo que no existe mala fe en su omisión.
-Quinto: Que, el Compendio de Instrumentos Contractuales, específicamente en Capítulo I, Título II, letra b —que corresponde a la Declaración de Salud del Contrato de Salud Previsional— de la Superintendencia de Salud, establece que las patologías congénitas no deben ser incluidas en la Declaración de Salud, ni pueden ser utilizadas por la isapre para limitar la cobertura o terminar el contrato, pues no se consideran preexistencias y, por tanto, no declarables.
-Sexto: Que, de acuerdo al mérito de los antecedentes, no se acreditó en autos de manera suficiente por parte de la recurrente que su condición sea de carácter congénito, por lo que a su respecto, con los antecedentes tenidos a la vista, no existe un derecho indubitado, por lo que no se observa ilegalidad ni arbitrariedad en el actuar de la recurrida, por lo que el arbitrio de marras no podrá prosperar.
-Por tales consideraciones y de acuerdo con lo dispuesto en el artículo 20 de la Constitución Política de la República y Auto Acordado de la Excma. Corte Suprema sobre Tramitación y Fallo del Recurso de protección, se resuelve, que se rechaza, sin costas, el recurso de protección interpuesto en favor de María de la Paz Linares Noguera, en contra de Isapre Nueva Másvida S.A.,
+Por su parte, el incumplimiento se entiende como la no ejecución de la prestación debida, en el caso, la no suscripción del contrato de compraventa prometido, una vez cumplido el plazo.
 
-Regístrese, comuníquese y archívese en su oportunidad.
-N°Protección-14065-2025.
+Noveno: Que entonces para que pudiera prosperar la pretensión de quien primero acciona para la resolución del contrato de promesa, en este caso el promitente vendedor, debía acreditarse el requisito de un incumplimiento de la contraria, y haber cumplido por su parte o haber estado llano a cumplir. Requisito que es revisado y de lo que se hace cargo el juez de la instancia en el considerando noveno cuestionado por el recurrente (demandante principal y promitente vendedor).
+
+Es así que el sentenciador del grado argumenta en relación a este supuesto incumplimiento del demandado principal- promitente comprador- atribuido por el demandante principal, para estimar que no se configura aquel, precisando que si bien resultó ser efectivo que en la escritura definitiva de compraventa existía un error en la singularización del inmueble en cuestión, se razona que dicha circunstancia no le es imputable al promitente comprador, en términos de configurar un incumplimiento de su parte a las obligaciones que le imponía el contrato de promesa, concordando con ello estos sentenciadores. En efecto de la revisión del contrato de promesa no existe clausula alguna que imponga al comprador dicha obligación de verificar la correcta redacción del contrato definitivo de compraventa, aquello no quedó regulado en la promesa, como tampoco se refiere que el comprador debiera hacerse cargo de los trámites de subdivisión y asignación de roles del bien raíz en cuestión, al contrario en la cláusula cuarta de la promesa únicamente señala al respecto que: “se deja constancia que el plano de subdivisión ya se encuentra aprobado y está a la espera de asignación de roles”. Tampoco es posible inferir del solo hecho de que el comprador decidiera financiar el saldo del precio a través de un mutuo hipotecario con el banco, esta circunstancia le hiciere responsable de dichas cuestiones, y toda vez que no existe cláusula que así lo imponga, como tampoco se logra establecer de las probanzas del juicio.
+
+Entonces si bien en principio el promitente vendedor pudiera excusarse de firmar el contrato definitivo en razón de dicho defecto en la redacción, relativo al bien raíz objeto del contrato, lo cierto es que al no haberse acreditado que aquellas responsabilidades fueran de cargo del promitente comprador, resulta más bien que eran de cargo del vendedor y que le correspondía y era su obligación otorgar la información, documentación y/o efectuar los trámites previos necesarios para la correcta singularización de la especie objeto del contrato, y la adecuada redacción del documento, en términos de permitir llevar a cabo la celebración del contrato prometido en el plazo acordado, sin embargo no lo hizo, ni acredita haber procurado cumplir con aquello, desentendiéndose y atribuyéndole dicha carga al comprador, aduciendo aquel supuesto incumplimiento para justificar su negativa a suscribir el contrato definitivo. De este modo el incumplimiento por parte del vendedor de la obligación de concurrir a la celebración del contrato definitivo resulta injustificada, desde que los fundamentos que sustenta en el incumplimiento de la contraria no resultaron acreditados.
+
+Décimo: Que, de lo que se viene señalando, el demandante principal no se encuentra en posición de contratante diligente, que hubiere cumplido por su parte o se encontrare llano a cumplir, lo que se requiere para que pudiera prosperar su pretensión de resolución del contrato de promesa por incumplimiento de la contraria, concordando esta Corte con lo decidido por el Juez del grado al rechazar su demanda.
+
+Undécimo: Que, así las cosas, en cuanto a la demanda reconvencional, deducida por el promitente comprador, conforme a las probanzas incorporadas al proceso y valoradas por el juez de la instancia, permitieron tener por acreditada la concurrencia de todos los requisitos del mencionado artículo 1489 del Código Civil, sin que se pudiera configurar algún incumplimiento al contrato de promesa, imputable a su respecto.
+
+De este modo el comprador se posiciona como el contratante diligente que cumplió por su parte o a lo menos estuvo llano a cumplir, y que es la otra parte -promitente vendedor- quien no dio cumplimiento al no suscribir el contrato prometido como ya se señaló previamente.
+
+Luego, resulta adecuado referirse a la entidad de dicho incumplimiento, una vez cumplido el plazo, este incumplimiento es objetivo, y produce la insatisfacción del interés del acreedor (comprador), en este caso, el demandante reconvencional, naciendo el conjunto de remedios que prevee el legislador y que incluyen la resolución del contrato, por el que opta el actor reconvencional, lo que en este caso se estima justificado en atención a la entidad del incumplimiento de la contraria y además en razón de haberse sostenido que el bien raíz objeto del contrato prometido fue vendido a un tercero, de manera que no pareciera plausible ni ajustado a los intereses del acreedor insistir en forzar el cumplimiento del contrato. De esta manera junto con la resolución del contrato de promesa corresponderá las indemnizaciones e intereses conforme las cláusulas pertinentes, según se especificó por el juez del grado.
+
+Duodécimo: Que conforme los fundamentos expresados con anterioridad, las objeciones formuladas por el demandante principal respecto de la sentencia impugnada no pueden prosperar, conteniendo dicho dictamen todas las argumentaciones que, fundadas en la prueba aportada, conducen al rechazo de la demanda principal y al acogimiento de la reconvencional, por lo que sólo cabe confirmarla según se dirá.
+
+Por estas consideraciones y lo dispuesto, además, en los artículos 160, 186 y siguientes del Código de Procedimiento Civil, se confirma la sentencia apelada de nueve de abril de dos mil veinticuatro, dictada por el Primer Juzgado de Letras de Rengo en la causa Rol C-1587-2019.
+
+Regístrese y devuélvase.
+
+Redacción de la ministra interina Sra. Andrea Urbina Salazar.
+
+Rol I. Corte 651-2024- Civil
+Se deja constancia que esta sentencia no reúne los presupuestos del Acta 44-2022 de la Excma. Corte Suprema para ser anonimizada totalmente.
+
+No firma el Ministro Sr. Miguel Ángel Santibáñez Artigas, por no encontrarse integrando el día de hoy, sin perjuicio de haber concurrido a la vista y acuerdo de la presente causa.
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------
-C.A. de SantiagoSantiago, uno de septiembre de dos mil veinticinco.Vistos y considerando:Primero: Que comparece doña Consuelo Muhe Morales, abogada, en favor de María de la Paz Linares Noguera, deduciendo recurso de protección contra Isapre Nueva Másvida S.A., por la negativa de cobertura al presupuesto N° 331340005143 para “recubrimiento conjuntival en OI” destinado a mejorar la tolerancia de prótesis ocular, acto fundado por la recurrida en supuesta preexistencia no declarada, lo que a su juicio implica una vulneración a sus garantías fundamentales consagradas en los artículos 19 N°1, 2, 9 y 24 de la Constitución Política de la República. Indica que la recurrente contrató el plan “Pleno Plan Plus (PPL24372) – Código 8624” en agosto de 2024, iniciando beneficios en octubre de 2024; que efectuó uso regular del plan; y que la Isapre rechazó la cobertura mediante comunicaciones de 24 de diciembre de 2024, 7 de abril de 2025, 8 de mayo de 2025 y 28 de mayo de 2025. La negativa se apoya en un certificado oftalmológico que menciona atresia de coanas y microftalmia. Sostiene que su condición es congénita, por lo que no corresponde declararla como preexistencia; y que la Declaración Personal de Salud (DPS) se completó siguiendo indicación del ejecutivo Germán Rafael Flores Venegas, quien instruyó “No, no hay que registrar nada… Colóquenle que no a todo nomás”, configurándose justa causa de error. Destaca que el artículo 190 del DFL N° 1/2005 (MINSAL) define las condiciones de salud preexistentes como aquellas conocidas y diagnosticadas con anterioridad a la incorporación al contrato, de modo que sólo en ese supuesto podrían operar restricciones; agrega que el artículo 201 N° 1 del mismo DFL faculta a la isapre a negar coberturas o poner término al contrato si el afiliado falsea o no entrega fidedignamente la información en la Declaración de Salud, salvaguardando expresamente el caso de justa causa de error. Indica que, en la especie, concurre dicha justa causa, desde que la omisión reprochada obedeció a la instrucción del ejecutivo de ventas de no consignar la condición ocular, actuación que la recurrente siguió de buena fe y que impide imputarle un incumplimiento doloso o culposo de su deber de declarar. Señala que la patología que motiva el procedimiento solicitado es congénita, y que, por su naturaleza, no corresponde exigir su declaración como preexistencia. Alega, para sustentar lo anterior, la vigencia de la Circular IF N° 354 de la Superintendencia de Salud (18 de junio de 2020), que ordena eliminar de la Declaración Personal de Salud la exigencia de informar enfermedades o condiciones con que la persona nace, por su carácter discriminatorio, y cuya línea interpretativa ha sido confirmada por la Resolución Exenta IF N° 46 (3 de febrero de 2021). Refiere que dicho estándar se armoniza con el artículo 14 de las Condiciones Generales del Contrato de Salud Previsional, que reserva a la Declaración de Salud la fijación de restricciones y establece que la falta de esa declaración no invalida el contrato, pero presume de derecho que la isapre renunció a restringir coberturas o terminar la convención por una eventual omisión de preexistencias. Indica que, sobre esa base normativa, la decisión recurrida carece de sustento: si la condición es congénita y existió inducción a error por el canal comercial de la propia aseguradora, no se configura la hipótesis de preexistencia no declarada que autorice negar la cobertura, ni menos la posibilidad de afectar el goce de prestaciones ya incorporadas al patrimonio de la afiliada por virtud del contrato.  Concluye señalando que la negativa de cobertura a la prestación presupuesto N° 331340005143 resulta ilegal por contravenir el DFL N° 1/2005, el artículo 14 de las Condiciones Generales y las instrucciones obligatorias de la autoridad de control (Circular IF N° 354 y Res. Exenta IF N° 46), y arbitraria por desatender los antecedentes clínicos y contractuales que excluyen la exigibilidad de declaración; añade que tal decisión priva y perturba el ejercicio de las garantías del artículo 19 N° 1, 2, 9 y 24 de la ConstituciónSolicita se acoja el recurso, y con ello se ordene a Isapre Nueva Másvida otorgar la cobertura íntegra del presupuesto N° 331340005143 para el recubrimiento conjuntival en OI, dejando sin efecto toda restricción por preexistencia, con costas.Segundo: Que informando al tenor del recurso comparece Ximena San Martín Saldías, abogada, en representación de Isapre Nueva Masvida S.A., solicitando el rechazo del recurso, con costas.Expone que la recurrente es afiliada vigente desde octubre de 2024 al plan complementario PPL24372, y que al momento de su incorporación suscribió la Declaración de Salud N° 5000374231, en la cual negó patologías consultadas, incluida la relativa a enfermedad ocular. Señala que, pese a esa afirmación, constan antecedentes clínicos, consistentes en certificados del Dr. Juan Pablo Ramírez Krause de 17 de diciembre de 2024 y 10 de marzo de 2025, además de histórico de prestaciones de su anterior isapre Banmédica, que dan cuenta de uso de prótesis ocular y diagnósticos de atresia de coanas y microftalmia en el ojo izquierdo. Indica que la Contraloría Médica determinó que las prestaciones cotizadas mediante el presupuesto N° 331340005143 para “recubrimiento conjuntival en OI” guardan relación con patología preexistente no declarada, razón por la cual se cursaron comunicaciones de rechazo fundadas en la normativa aplicable y en los antecedentes médicos tenidos a la vista, sosteniendo que no existe acto ilegal ni arbitrario imputable a la isapre.Alega la improcedencia del recurso de protección por existir procedimiento especial ante la Superintendencia de Salud, regulado en el DFL N° 1/2005, arts. 117 y siguientes, en el que conoce el Intendente de Fondos y Seguros Previsionales de Salud como juez árbitro; agrega que el amparo constitucional es excepcional y de aplicación restringida, y que en la especie no se configuran los presupuestos del art. 20 de la Constitución. Sostiene, en cuanto al fondo, que su decisión se ajusta al DFL N° 1/2005, art. 201 N° 1, esto es, la facultad de negar cobertura o poner término cuando el afiliado falsea o no entrega de manera fidedigna la información en la Declaración de Salud, salvo justa causa de error, en relación con los arts. 189 letra h) y 190 N° 6 del mismo cuerpo legal. Refiere que la propia DS advierte en su encabezado las consecuencias de no declarar una preexistencia —negación de cobertura hasta por 5 años y/o término del contrato—, destacando que la carga de declarar recae exclusivamente en el postulante y que la excusa relativa a un “ejecutivo” no sería atribuible a personal de Nueva Masvida. Manifiesta, frente a la tesis de enfermedad congénita no declarable, que la normativa reconoce una dispensa pero exige doble requisito: que la patología sea congénita y que el diagnóstico conste hasta el término del período neonatal (28 días), conforme al Compendio de Instrumentos Contractuales, Capítulo I, Título II, letra b; afirma que la actora no acompañó antecedente médico que fije ese diagnóstico Tercero: Que, el recurso de protección de garantías constitucionales establecido en el artículo 20 de la Constitución Política de la República, constituye jurídicamente una acción cautelar, destinadas a amparar el libre ejercicio de las garantías y derechos preexistentes, que en la misma disposición se enumeran, mediante la adopción de medidas de resguardo que se deben adoptar ante un acto arbitrario e ilegal que impida, amague a perturbe ese ejercicio.Cuarto: Que el acto recurrido es la negativa de la cobertura por parte de la isapre recurrida, fundado en la preexistencia conocida de una condición de salud de la actora al momento de suscribir su Declaración de Salud, la cual, según señala la recurrente no declaró ya que resulta ser una condición congénita y que, por ello, quien le vendió el plan de isapre le señaló que no requería ser declarada, por lo que no existe mala fe en su omisión.Quinto: Que, el Compendio de Instrumentos Contractuales, específicamente en Capítulo I, Título II, letra b —que corresponde a la Declaración de Salud del Contrato de Salud Previsional— de la Superintendencia de Salud, establece que las patologías congénitas no deben ser incluidas en la Declaración de Salud, ni pueden ser utilizadas por la isapre para limitar la cobertura o terminar el contrato, pues no se consideran preexistencias y, por tanto, no declarables.Sexto: Que, de acuerdo al mérito de los antecedentes, no se acreditó en autos de manera suficiente por parte de la recurrente que su condición sea de carácter congénito, por lo que a su respecto, con los antecedentes tenidos a la vista, no existe un derecho indubitado, por lo que no se observa ilegalidad ni arbitrariedad en el actuar de la recurrida, por lo que el arbitrio de marras no podrá prosperar.Por tales consideraciones y de acuerdo con lo dispuesto en el artículo 20 de la Constitución Política de la República y Auto Acordado de la Excma. Corte Suprema sobre Tramitación y Fallo del Recurso de protección, se resuelve, que se rechaza, sin costas, el recurso de protección interpuesto en favor de María de la Paz Linares Noguera, en contra de Isapre Nueva Másvida S.A.,Regístrese, comuníquese y archívese en su oportunidad.N°Protección-14065-2025.                        ⚠                      Sin documento en esta instancia - pdf
+NOMENCLATURA : 1. [40]Sentencia
+JUZGADO : 1 Juzgado de Letras de Rengoº
+CAUSA ROL : C-1587-2019
+CARATULADO : PINO/HERN NDEZÁ
+
+Rengo, nueve de Abril de dos mil veinticuatro
+
+VISTOS:
+
+Con fecha 19 de julio de 2019, a folio 1 compareci don ó LUIS ALBERTO
+
+PINO ORTIZ, agricultor, domiciliado en Sector El Chapet n, Calle Carlos Condelló
+
+s/n de la comuna de Rengo, quien dedujo demanda en juicio ordinario de resoluci n deó
+
+contrato de promesa en contra de LUIS FERNANDO HERN NDEZ L PEZÁ Ó
+
+CONTRATISTA MANO DE OBRA AGR COLA E.I.R.L, Í persona jur dica deí
+
+derecho privado del giro de su denominaci n representada por don LUIS FERNANDOó
+
+HERN NDEZ L PEZ, apicultor, domiciliado en Pasaje Los Nogales N 364, poblaci nÁ Ó ° ó
+
+Los Olivos de la comuna de Rengo, solicitando se declare la resoluci n del contrato deó
+
+promesa que indica junto con la indemnizaci n de perjuicios e intereses pactados, conó
+
+costas.
+
+Fund su demanda se alando que, es due o de un inmueble denominadoó ñ ñ
+
+Propiedad Agr cola de una extensi n de 3,5 hect reas y que se encuentra ubicada en elí ó á
+
+sector de Los Sauces de la comuna de Rengo, cuyos deslindes especiales son: al
+
+NORTE, Valent n Nicoletti y Luis A. Rom n; al í á ORIENTE, Sucesi n Manueló
+
+Villanueva, canal San Luis de por medio y Sucesi n Mercedes Rom n; al ó á SUR, Fundo
+
+La Posada de Guillermo Lav n y al í PONIENTE, con Fundo La Posada de don
+
+Guillermo Lav n y L nea f rrea de Ferrocarriles del Estado. Que adquiri dichoí í é ó
+
+inmueble por adjudicaci n de la separaci n de bienes y liquidaci n de sociedad conyugaló ó ó
+
+habida con do a Mar a Sonia Pulgar Pulgar y que el t tulo de dominio del referidoñ í í
+
+inmueble, figura inscrito a fojas 1982 N 1697 en el Conservador de Bienes Ra ces de° í
+
+Rengo correspondiente al a o 2008.ñ
+
+Inform por otra parte, que es propietario de un derecho de aprovechamiento de aguasó
+
+superficiales, de uso constitutivo y de ejercicio permanente y continuo, por un caudal de
+
+6,7 litros por segundo del Canal Vertiente Las Araya, Provincia de Cachapoal las cuales
+
+se captan gravitacionalmente desde el Canal Vertiente Las Araya, en las coordenadas
+
+UTM (m) Norte 6.189.405 y Este 327.464 bocatoma Canal vertiente Las Araya, Datum
+
+provisorio Sudamericano de 1956 y que se utiliza en el inmueble inscrito a fojas 1982
+
+N 1697 del Registro de Propiedad de Aguas del Conservador de Bienes Ra ces de° í
+
+Rengo, correspondiente al a o 2008.ñ
+
+Hizo presente que, su propiedad fue objeto de subdivisi n dando origen a un loteó
+
+denominado Lote Dos de una superficie de 35.190 metros cuadrados el que tiene
+
+los siguientes deslindes: NORTE, 160 metros con Valent n Nicoletti y Luis A.í
+
+Código: XDYXXMWZDNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Rom n; al ORIENTE, en 253 metros den l nea quebrada con propiedad Loteá í
+
+Uno del promitente vendedor, vertiente de por medio; al SUR, en 149 metros y
+
+38 metros con Fundo La posada de Guillermo Lav n y al PONIENTE, en 401í
+
+metros con Fundo La Posada de don Guillermo Lav n y l nea f rrea deí í é
+
+Ferrocarriles del Estado.
+
+Por otra parte, manifest que en la cl usula Tercera de la promesa deó á
+
+compraventa que acompa a, el demandado se comprometi a comprar el LOTE DOSñ ó
+
+correspondiente a la subdivisi n previamente se alada, el cual se encontraba en procesoó ñ
+
+de tramitaci n y asignaci n de Rol por una persona que contrat el promitenteó ó ó
+
+comprador para la realizaci n de dicha gesti n. Asimismo, se habr a comprometido aó ó í
+
+comprar la porci n equivalente en derechos de agua que benefician a dicho inmuebleó
+
+denominado LOTE DOS.
+
+Agreg que, se estableci adem s en la promesa que, el precio de la compraventaó ó á
+
+ser a la suma de $158.355.000 el cual se pagar a de la siguiente manera:í í
+
+a).- La suma de $21.000.000 que el promitente vendedor ha recibido con anticipaci nó
+
+por parte del promitente comprador.
+
+b).- La suma de $50.000.000 que se pagan en el acto de la firma de la promesa de
+
+compraventa, mediante cheque nominativo a nombre del promitente vendedor, N de°
+
+serie HRE N 0000751 del Banco Santander.°
+
+c).- El saldo restante de $87.355.000, se pagar a en dinero efectivo y al contado alí
+
+momento de suscribirse la escritura definitiva de compraventa.
+
+Complement lo anterior, se alando que hasta la celebraci n de la compraventaó ñ ó
+
+definitiva, las partes pactaron un inter s mensual de $2.000.000, los que comenzar an aé í
+
+pagarse a contar del mes de octubre de 2018 y hasta la firma definitiva de la
+
+compraventa, estipul ndose adem s, una multa a t tulo de indemnizaci n, deá á í ó
+
+$20.000.000 para quien no cumpla o est llano a cumplir la promesa realizada, ellos iné
+
+perjuicio de otras indemnizaciones que puedan proceder conforme a derecho en la
+
+presente causa.
+
+Inform que, para efectos de la subdivisi n, fue el demandado quien contrat a laó ó ó
+
+persona a cargo de la realizaci n de la misma, descontando sus gastos de los pagos queó
+
+deb an enter rsele. De igual manera, detall que en la promesa se dej establecido queí á ó ó
+
+la firma de la compraventa definitiva se realizar a en la misma notar a en que se firm laí í ó
+
+promesa de compraventa, esto es, la Notar a de Rengo.í
+
+En otro aspecto, sostuvo que el d a 21 de febrero de 2019, lo llam el promitenteí ó
+
+comprador para informarle que estaba todo listo para la firma de la escritura, pero que
+
+deb a firmarse en Rancagua, pues el banco con el que hab a adquirido el cr dito,í í é
+
+trabajaba con la Notar a de Rancagua. De tal forma con fecha 22 de febrero de 2019,í
+
+concurri a la notar a de don Jaime Bernales Valenzuela, en la comuna de Rancagua aó í
+
+efectos de suscribir el contrato prometido percat ndose que la escritura que se leá
+
+pretend a hacer firmar, era por la venta total de la propiedad y no por el Loteí
+
+Código: XDYXXMWZDNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+prometido y adem s, por el mismo valor acordado en la promesa, raz n por la que seá ó
+
+neg a firmar, toda vez que no se respet el acuerdo asumido.ó ó
+
+Posterior al fracaso en la firma de la escritura definitiva, afirm que la contrariaó
+
+le se al que deb an inscribir el plano de subdivisi n, el cual no hab a sido ingresado alñ ó í ó í
+
+Conservador de Bienes Ra ces y le solicit m s plazo para la realizaci n de dichosí ó á ó
+
+tr mites, hasta que se percat que el plano realizado, adolec a de defectos que deb an será ó í í
+
+saneados, sin embargo, la contraria se ha negado a realizar en la actualidad la
+
+compraventa definitiva.
+
+Atendida la situaci n relatada en los p rrafos precedentes, manifest que para suó á ó
+
+parte, ya no es segura la ejecuci n de la compraventa por creer que existi mala fe eó ó
+
+intenci n de defraudarle en la escritura de compraventa que se neg a firmar por lo queó ó
+
+ya no desea continuar con la ejecuci n de la promesa de compraventa y solicita suó
+
+resoluci n indicando adem s, que el incumplimiento del comprador, le ha provocado unó á
+
+grave perjuicio toda vez que autoriz al promitente comprador a tomar posesi n deló ó
+
+inmueble y este procedi a destruir una casa modesta que exist a en el lugar, as comoó í í
+
+tambi n, el empalme el ctrico con el que contaba, dejando el cableado expuesto y coné é
+
+riesgo para quien transite por el lugar, adem s de proceder a talar una cantidad noá
+
+menor de rboles los cuales explot en su exclusivo beneficio.á ó
+
+Arguy que, en las circunstancias expuestas, concurrir a lo que en derecho seó í
+
+denomina un incumplimiento de una obligaci n contractual, en conformidad con loó
+
+dispuesto en los art culos 1545 y siguientes del C digo Civil, por lo que es procedenteí ó
+
+iniciar una acci n tendiente a obtener la resoluci n del contrato a fin de que poró ó
+
+intermedio de una sentencia, se declare la resoluci n del mismo con indemnizaci n deó ó
+
+perjuicios, as como los intereses pactados en la promesa.í
+
+En lo referente a la indemnizaci n de perjuicios que solicita, afirm que en laó ó
+
+caso de autos, se hizo una evaluaci n anticipada de los mismos en la promesa por laó
+
+suma de $20.000.000 conforme a los t rminos del art culo 1535 y siguientes del C digoé í ó
+
+Civil, en que se dej establecida un cl usula penal sin perjuicio del derecho que le asisteó á
+
+para exigir la resoluci n del contrato prometido.ó
+
+Finaliz se alando que, el demandado no ha cumplido con el pago de losó ñ
+
+intereses mensuales de $2.000.000 a que el mismo se oblig a contar del mes de octubreó
+
+de 2018, pues debe la cuota de octubre y las de marzo de 2019 a la fecha de la
+
+resoluci n del contrato prometido.ó
+
+Con fecha 28 de septiembre de 2019, seg n da cuenta estampado receptorialú
+
+rolante a folio 4, se notific la demanda personalmente al representante legal de laó
+
+empresa demandada.
+
+Con fecha 17 de octubre de 2019, a folio 6, en lo principal de su presentaci n,ó
+
+compareci don LUIS FERNANDO HERN NDEZ L PEZ, apicultor enó Á Ó
+
+representaci n de la demandada ó LUIS FERNANDO HERN NDEZ L PEZÁ Ó
+
+CONTRATISTA MANO DE OBRA AGR COLA E.I.R.LÍ , ambos domiciliados en
+
+Código: XDYXXMWZDNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Pasaje Los Nogales N 364, Poblaci n Los Espinos de la comuna de Rengo, quien° ó
+
+contest la demanda interpuesta en su contra, solicitando el rechazo de la misma conó
+
+costas, arguyendo que su parte habr a cumplido cabalmente con la promesa deí
+
+compraventa celebrada entre las partes.
+
+Expuso, en s ntesis, que no ser an efectivos los hechos planteados en la demanda,í í
+
+toda vez que su parte ha cumplido cabalmente todas y cada una de las obligaciones
+
+emanada de la promesa de compraventa de marras, agregando que no es efectivo lo
+
+se alado por el actor ya que con fecha 15 de marzo, no pudo hacer ingreso a lañ
+
+propiedad objeto de esta acci n, toda vez que se le puso otro candado, del cual no leó
+
+entregaron llaves, evitando as el ingreso a la propiedad, terminando as la posesi n deí í ó
+
+dicho inmueble.
+
+Complement lo anterior, se alando que nunca se le inform de forma algunaó ñ ó
+
+que adolec a de defectos el plano de subdivisi n objeto de la venta, de esta forma elí ó
+
+ejecutivo del Banco Santander, Marcelo Pino Plasencia, le envi una serie de correosó
+
+solicitando que le entregara la regularizaci n de los roles respecto a su inscripci n y en laó ó
+
+informaci n de la subdivisi n del predio, para poder as cerrar la escritura, cuesti n queó ó í ó
+
+nunca sucedi , toda vez que dichos antecedentes deb a proporcionarlos el vendedor,ó í
+
+dejando correr el tiempo para ganar los $2.000.000, de pesos que se pactaron por mes.
+
+En el primer otros de su presentaci n, interpuso demanda reconvencional deí ó
+
+resoluci n de contrato con indemnizaci n de perjuicios en contra de don ó ó LUIS
+
+ALBERTO PINO ORTIZ, solicitando se rescinda el contrato de promesa de
+
+compraventa de fecha 24 de octubre de 2018, la devoluci n de los dineros entregados enó
+
+la promesa se alada al promitente vendedor, equivalentes a la suma de $71.000.000ñ
+
+dentro de tercero d a y la indemnizaci n de los perjuicios avaluados de com n acuerdoí ó ú
+
+por las partes de $20.000.000, m s intereses, reajustes y costas.á
+
+Fund su demanda reconvencional, se alando que con fecha 24 de Octubre del a oó ñ ñ
+
+2018, procedi a suscribir contrato privado de Promesa de Compraventa, por escrituraó
+
+p blica con el demandado de autos don Luis Alberto Pino Ortiz, ante el se or Notarioú ñ
+
+P blico don Edmundo Antonio Figueroa lvarez, titular de la Notaria de la ciudad deú Á
+
+Rengo, y se anot bajo el repertorio n mero 2.783-18. En dicho contrato de Promesa deó ú
+
+Compraventa se estableci espec ficamente en la cl usula primera, que el demandado esó í á
+
+due o de un inmueble denominado ñ propiedad agr cola de una extensi n de tres yí ó
+
+media cuadras que se encuentran ubicada en el sector de Los Sauces, de la
+
+comuna de Rengo, provincia de Cachapoal, Regi n del Libertador Bernardoó
+
+O Higgins y que deslinda: Al Norte, Valent n Nicoletti y Luis A. Rom n.’ í á
+
+Oriente, Sucesi n Manuel Villanueva canal San Luis de por medio y Sucesi nó ó
+
+Mercedes Rom n. Sur; Fundo La Posada de Guillermo Lav n. Poniente; Fundoá í
+
+la Posada de don Guillermo Lav n y l nea f rrea de Ferrocarriles del Estado.í í é
+
+Adquiri dicho inmueble por adjudicaci n en la separaci n de bienes y liquidaci n deó ó ó ó
+
+sociedad conyugal habida con do a Mar a Sonia Pulgar Pulgar. El t tulo de dominio delñ í í
+
+Código: XDYXXMWZDNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+referido inmueble figura inscrito en el Registro de Propiedad del Conservador de Bienes
+
+Ra ces de Rengo a fojas 1982, n mero 1697 correspondiente al a o 2008, cuyo Rol deí ú ñ
+
+aval o es 207-29 de la Comuna de Rengo. Asimismo expuso que, el demandado esú
+
+propietario de un aprovechamiento de agua superficial, de uso consuntivo y de ejercicio
+
+permanente y continuo, por un caudal de 6.7 litros por segundo, del Canal Vertiente Las
+
+Araya, Provincia de Cachapoal, las cuales se captan gravitacionalmente desde el Canal
+
+Vertiente Las Araya, en las coordenadas UTM (m), Norte 6.189.405, y Este 327.464
+
+bocatoma Canal Vertiente Las Araya, Datum Provisorio Sudamericano de 1.956, y que
+
+se utiliza en el inmueble inscrito a fojas 1982 n mero 1.697 del Registro de Propiedadesú
+
+de Aguas, del a o 2008, del Conservador de Bienes Ra ces de Rengo. Indic que,ñ í ó
+
+adquiri los derechos por sentencia ejecutoriada de fecha 26 de enero del a o 2012,ó ñ
+
+confirmada por sentencia de segunda instancia dictada por la Ilustr sima Corte deí
+
+Apelaciones de Rancagua, con fecha 02 de Agosto del a o 2012, causa Rol n meroñ ú
+
+64.676 2, caratulada Pino Ortiz Luis Alberto con Empresa Nacional de Electricidad– “
+
+S.A , que rola inscrita a fojas 144 n mero 06 del Registro de propiedad de Aguas del” ú
+
+Conservador de Bienes Ra ces de Rengo del a o 2012, de la misma forma el inmuebleí ñ
+
+se alado precedentemente fue objeto de una subdivisi n dando origen a un Loteñ ó
+
+denominado Lote 2 de una superficie de 35.190 metros cuadrados, los cuales
+
+comprenden los siguientes deslindes es especiales: Al Norte; 170 metros con
+
+Valent n Nicoletti y Luis A. Rom n. í á Al Oriente; en 253 metros en l nea quebrada coní
+
+Propiedad Lote 1 del promitente vendedor, vertiente de por medio. Al Sur; en 149
+
+metros y 38 metros con Fundo la posada de Guillermo Lav n. í Al Poniente; con 401
+
+metros con fundo la posada de Guillermo Lav n y l nea f rrea de ferrocarriles delí í é
+
+Estado.
+
+Agreg que,ó en dicho acto jur dico, m s espec ficamente, el contrato de promesaí á í
+
+de compraventa celebrado entre su parte y el demandado de autos, establece en la
+
+cl usula tercera, que el demandado de autos promete vender, ceder y transferir a suá
+
+parte el inmueble singularizado anteriormente, m s el 50 % de los derechos deá
+
+aprovechamiento de agua individualizados en la clausula primera de la promesa de
+
+compraventa materia de estos autos, destinada al beneficio de la propiedad prometida
+
+anteriormente. A su vez en la cl usula quinta los comparecientes en el contratoá
+
+mencionado, acuerdan el precio de la venta definitiva que ser a la suma deí
+
+$158.355.000, desglosado de la siguiente manera: a) $148.355.000, para la propiedad
+
+indicada en la cl usula segunda del referido contrato de promesa de compraventa, y b) laá
+
+suma de $10.000.000 para los derechos de aprovechamiento de aguas indicada al final
+
+de la cl usula primera del referido contrato de promesa de compraventa.á
+
+Indic que, asimismo se estableci la forma del pago de la siguiente forma: A) Laó ó
+
+suma de $21.000.000 que su parte pag con anticipaci n a la celebraci n de la promesaó ó ó
+
+de compraventa al hoy demandado; B) La suma de $50.000.000 que su parte pag aló
+
+momento de celebrar el contrato de promesa de compraventa materia de estos autos,
+
+Código: XDYXXMWZDNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+mediante cheque y C) Respecto al saldo restante, esto es $87.355.000, se pagar an ení
+
+dinero efectivo y al momento de suscribirse la escritura definitiva de compraventa
+
+mediante vale vista endosable. Asimismo las partes estipularon un inter s mensual deé
+
+$2.000.000, los cuales empezar an a pagarse a contar del mes de octubre del a o 2018, yí ñ
+
+hasta la fecha de la firma de la escritura definitiva. En la cl usula Sexta, del referidoá
+
+contrato de promesa de compraventa, se estableci plazo de la compraventa definitiva laó
+
+cual corresponder a al d a 30 de marzo del a o 2019. Hizo presente que, el d a deí í ñ í
+
+suscripci n del contrato de promesa, se le hizo entrega material de la propiedad a suó
+
+parte con sus respectivas aguas.
+
+Siguiendo con el an lisis de la promesa de compraventa objeto de estos autos,á
+
+a adi que en su cl usula D cima, se estableci lo siguiente que el incumplimiento porñ ó á é ó
+
+parte del promitente vendedor o del promitente comprador de cual quiera de las
+
+obligaciones que impone este contrato de promesa de compraventa, as como de la faltaí
+
+de escrituraci n, har incurrir a quien corresponda, en una multa a t tulo deó á í
+
+indemnizaci n de $20.000.000, sin perjuicio de perseguir el cumplimiento del contratoó
+
+prometido o su resoluci n conforme a las reglas generales.ó
+
+Asever al respecto, que su parte cumpli fielmente con el contrato de promesaó ó
+
+de compraventa suscrito entre las partes, cuesti n muy distinta al demandado de autos,ó
+
+ya que incumpli dicho contrato en dos condiciones esenciales establecidas en laó
+
+promesa: 1).- Que con fecha 15 de marzo su parte no pudo hacer ingreso a la propiedad
+
+objeto de esta acci n, toda vez que se le puso otro candado, del cual no tiene llaves,ó
+
+solicitando con fecha 12 de Abril del a o 2019, la presencia del Notario Suplente donñ
+
+Gonzalo Bri n Vargas, el cual procedi a extender un Acta Notarial, certificando loó ó
+
+anteriormente acaecido en la propiedad, de esta manera se incumpli la cl usula s ptimaó á é
+
+de la mencionada promesa de compraventa, por parte del demandado. 2).- Con fecha 02
+
+de Abril del presente a o, el se or notario suplente, don Gonzalo Bri n Vargas, emiteñ ñ ó
+
+un certificado, estableciendo en su numeral, 3 y 4, de dicho instrumento, que no existen
+
+constancia en el periodo de fecha 24 de octubre del a o 2018, hasta el d a primero deñ í
+
+abril del a o 2019, que se haya otorgado ninguna escritura p blica ni extendido ning nñ ú ú
+
+proyecto de escritura p blica en los respectivos protocolos de instrumentos p blicos a suú ú
+
+cargo, que se refiera al cumplimiento de la promesa, asimismo se certific que tampocoó
+
+se ha recibido por parte de los funcionarios de dicha notaria alguna minuta o borrador
+
+referida a la misma.
+
+A prop sito de lo anterior, mencion que dicho plazo se encuentra vencido sinó ó
+
+haber dado cumplimiento el demandado a su compromiso de firmar el respectivo
+
+contrato definitivo de compraventa. De la misma manera hizo presente que su parte
+
+hasta el d a hoy y seg n la cl usula quinta, ha cumplido su obligaci n de pagar parte delí ú á ó
+
+precio, por el cual ha pagado al demandado, la cantidad de $71.000.000, hasta el d a deí
+
+hoy.
+
+Código: XDYXXMWZDNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Finaliz se alando que, al verse privado de la ocupaci n de la propiedad, y al noó ñ ó
+
+concurrir en la fecha estipulada a la suscripci n de la compraventa definitiva, por parteó
+
+del demandado, trat en reiteradas ocasiones de comunicarse por todos los medios con eló
+
+demandado reconvencional de autos, para as poder tener al menos alguna explicaci ní ó
+
+de su actuar, sin obtener respuesta lo que pondr a de manifiesto el claro incumplimientoí
+
+del promitente vendedor, hoy demandado de autos. Adujo adem s que, en este orden deá
+
+ideas es que el demandado ha recibido parte del precio por una propiedad que se
+
+encuentra en su poder, indicando que en la cl usula d cima, del contrato de promesa ená é
+
+cuesti n, se se ala claramente, que en el evento, de que alguna de las partesó ñ
+
+contratantes, no cumplieran con las obligaciones que impone est promesa deá
+
+compraventa, como es la falta de escrituraci n en el plazo convenido, y en otro sentidoó
+
+la falta de posesi n de la propiedad, por parte del promitente comprador, hoyó
+
+demandante. De esta manera su parte, siendo diligente, podr perseguir el cumplimientoá
+
+del contrato prometido o su resoluci n conforme a las reglas generales, adem s deó á
+
+solicitar la multa a t tulo de indemnizaci n de $20.000.000, suma que finalmente le debeí ó
+
+ser otorgada conjuntamente con la resoluci n del contrato en cuesti n y la devoluci n deó ó ó
+
+los dineros pagados al promitente vendedor incumplidor, dineros que hacienden a la
+
+suma de $ 71.000.000.
+
+Con fecha 23 de octubre de 2019, a folio 9, la parte demandante principal y
+
+demandada reconvencional evacu el tr mite de la r plica reiterando los hechos y losó á é
+
+antecedentes vertidos en su demanda. As mismo en el otros de su presentaci n, contestí í ó ó
+
+la demanda reconvencional interpuesta en su contra por LUIS FERNANDO
+
+HERN NDEZ L PEZ CONTRATISTA MANO DE OBRA AGR COLAÁ Ó Í
+
+E.I.R.L, solicitando el rechazo de la misma, con expresa condena en costas.
+
+Fund su contestaci n, se alando que los hechos descritos por el demandante noó ó ñ
+
+son efectivos toda vez que su parte desde antes de la firma del contrato de promesa, le
+
+facilito al demandado el ingreso al inmueble y lote espec ficamente que ser a objeto de laí í
+
+promesa de compraventa exigi ndole s lo como requisito los cuidados necesarios paraé ó
+
+que no se generaran destrozos en la propiedad.
+
+Indic que, el demandante reconvencional se ala que siempre habr a cumplidoó ñ í
+
+con sus obligaciones contractuales, hecho que no ser a efectivo toda vez que cay ení ó
+
+incumplimiento al no realizar el pago del inter s pactado y sugerido por el mismoé
+
+correspondiente a los $2.000.000 millones de pesos mensuales, toda vez que octubre de
+
+2018 nunca fue cancelado, a pesar de sus reiteradas solicitudes.
+
+Adicion adem s, que fue el propio demandante reconvencional quien contacto aó á
+
+la persona a cargo de la ejecuci n del plano de subdivisi n, persona que no habr aó ó í
+
+terminado bien su trabajo.
+
+Explic que, sin perjuicio de lo anterior, su parte siempre actuando de buena fe,ó
+
+le permiti al demandante reconvencional hacer uso del inmueble materia de la promesaó
+
+de compraventa, el cual fue explotado y genero da os a su parte, toda vez que exist anñ í
+
+Código: XDYXXMWZDNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+plantaciones de rboles que fueron arrancados por el demandado y que adem s destruyá á ó
+
+una casa prefabricada que exist a en el lugar y un poste de luz con su respectivoí
+
+medidor dejando los cables de electricidad expuestos a terceras personas.
+
+En cuanto a la afirmaci n de su contraparte de haberle impedido el acceso a laó
+
+propiedad, indic que dicho acontecimiento no ser a efectivo toda vez que ante laó í
+
+destrucci n y exposici n a que quedo sometido el medidor el ctrico y por precauci n suó ó é ó
+
+parte le manifest al demandado la necesidad de resguardarlo a fin de evitar que ni os oó ñ
+
+hasta los propios animales se vieran expuestos a los cables el ctricos sueltos que estabané
+
+en el lugar.
+
+Hizo presente adem s, que el demandado principal omiti mencionar que suá ó
+
+parte se present dentro del plazo pertinente a firmar la escritura definitiva deó
+
+compraventa y que esta no se firm , porque pretendi aprovecharse de su pocaó ó
+
+educaci n, haci ndolo firmar una escritura donde no vend a el lote acordado; sino todaó é í
+
+su propiedad por el mismo valor acordado en la promesa de compraventa, en
+
+circunstancias que la totalidad de la propiedad vale m s del doble de lo acordado por uná
+
+lote, constando aquello de la copia de escritura que se envi a la Notaria BERNALESó
+
+de Rancagua, y adem s, la propia escritura de Promesa estableci que la firma de laá ó
+
+misma deb a realizarse en la Notaria de Rengo, donde se hab a realizado la promesa deí í
+
+compraventa y no en otra Notar a.í
+
+Concluy indicando que, existi en consecuencia por parte del demandado yó ó
+
+demandante reconvencional un nimo de defraudar a su parte al hacerlo firmar uná
+
+documento distinto al acordado, y habiendo sido puesto en conocimiento de los vicios de
+
+que adolec a la escritura simplemente no volvi a contestar m s los requerimientos de suí ó á
+
+parte y se neg a asumir su responsabilidad frente a la promesa suscrita.ó
+
+Con fecha 2 de noviembre de 2019, a folio 11, la parte demandada principal y
+
+demandante reconvencional evacu el tr mite de la d plica principal y r plicaó á ú é
+
+reconvencional, reiterando los argumentos se alados previamente y rechazando loñ
+
+esgrimido por su contraparte.
+
+Con fecha 24 de agosto de 2020, a folio 30, se llev a cabo audiencia deó
+
+conciliaci n decretada en autos, con la asistencia de la parte demandante representadaó
+
+por su abogada do a Nora Acevedo Olea y de la parte demandada, representada por suñ
+
+abogado don Antonio Aguilar Far as. Llamadas las partes a conciliaci n, esta no seí ó
+
+produjo.
+
+Con fecha 6 de mayo de 2022, a folio 47 y posterior modificaci n de fecha 2 deó
+
+febrero de 2022, se recibi la causa a prueba, fij ndose los hechos sustanciales,ó á
+
+pertinentes y controvertidos, sobre los que esta deb a recaer.í
+
+Con fecha 24 de octubre de 2022, se cit a las partes a o r sentencia.ó í
+
+CONSIDERANDO:
+
+EN CUANTO A LA DEMANDA PRINCIPAL:
+
+Código: XDYXXMWZDNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+PRIMERO: Que, con fecha 19 de julio de 2019, a folio 1 compareci donó
+
+LUIS ALBERTO PINO ORTIZ, quien dedujo demanda en juicio ordinario de
+
+resoluci n de contrato de promesa en contra de don ó LUIS FERNANDO
+
+HERN NDEZ L PEZ CONTRATISTA MANO DE OBRA AGR COLAÁ Ó Í
+
+E.I.R.L, solicitando se declare la resoluci n del contrato que indica junto con laó
+
+indemnizaci n de perjuicios e intereses pactados, con costas, atendidos los argumentos deó
+
+hecho y derecho indicados en lo expositivo de este fallo.
+
+SEGUNDO: Que, con fecha 17 de octubre de 2019, a folio 6, en lo
+
+principal de su presentaci n, compareci don ó ó LUIS FERNANDO HERN NDEZÁ
+
+L PEZÓ , en representaci n de la demandada ó LUIS FERNANDO HERN NDEZÁ
+
+L PEZ CONTRATISTA MANO DE OBRA AGR COLA E.I.R.LÓ Í , quien
+
+contest la demanda interpuesta en su contra, solicitando el rechazo de la mismaó
+
+con costas, arguyendo que su parte habr a cumplido cabalmente con la promesa deí
+
+compraventa celebrada entre las partes y atendidas las consideraciones de hecho y
+
+de derecho vertidas en lo expositivo de la presente sentencia.
+
+TERCERO: Que, con el objeto de fundamentar su acci n la parte demandanteó
+
+principal acompa las siguientes probanzas ñó Documental: A folio 1, 1)- Copia de
+
+Contrato de promesa de compraventa celebrado con fecha 24 de octubre de 2018 en
+
+Notar a de Rengo de don Edmundo Figueroa lvarez N de repertorio 2.783-2018; 2)-í Á °
+
+Fotocopia de Contrato de Compraventa y Mutuo Hipotecario N de Repertorio 914-°
+
+2019 de fecha 22 de febrero de 2019 suscrita en la 2 Notar a de Rancagua de don° í
+
+Jaime Bernales Valenzuela, firmada s lo por la parte demandada principal.ó
+
+Testimonial: Rolante a folio 71, consistente en las declaraciones de don Victoriano
+
+Torres Flores RUT 9.827.747-1, de don Ernesto Jes s Torres Flores RUT 10.481.308-9ú
+
+y de don Jos Humberto Torres Flores RUT 11.640.402-8. é Confesional: Rolante a folio
+
+74 compareciendo a absolver posiciones el representante legal de la demandada don
+
+Luis Fernando Hern ndez L pez. á ó Oficios: Oficio solicitado a folio 57 y recibido en la
+
+causa a folio 72 emitido por do a Celeste Becerra Mar n, Notario P blico Interino de lañ í ú
+
+segunda Notar a de Rancagua de fecha 15 de julio de 2022.í
+
+CUARTO: Que, la demandada principal acompa a los autos las siguientesñó
+
+probanzas: Documental: A folio 59, 1)- Copia de Contrato de promesa de compraventa
+
+celebrado con fecha 12 de Julio de 2018 en Notar a de Rengo de don Edmundoí
+
+Figueroa lvarez N de repertorio 1.696-2018; 2)-Cadena de correos electr nicos; 3)-Á ° ó
+
+Certificado expedido por el Notario P blico suplente de la Primera Notar a de Rengoú í
+
+don Gonzalo Brion Vargas de fecha 2 de abril de 2019; 4)- Copia autorizada de
+
+inscripci n de fojas 1982 N 1697 del Registro de Propiedad del Conservador de Bienesó °
+
+Ra ces de Rengo correspondiente al a o 2008; 5)- Copia autorizada de Contrato deí ñ
+
+promesa de compraventa celebrado con fecha 24 de octubre de 2018 en Notar a deí
+
+Rengo de don Edmundo Figueroa lvarez N de repertorio 2.783-2018; 6)- ActaÁ °
+
+Notarial expedida por el Notario P blico suplente de la Primera Notar a de Rengo donú í
+
+Código: XDYXXMWZDNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Gonzalo Brion Vargas de fecha 12 de abril de 2019; 7)- Copia Vigente de inscripci n deó
+
+fojas 144 N 206 del Registro de Propiedad de Aguas del Conservador de Bienes Ra ces° í
+
+de Rengo correspondiente al a o 2012; 8)- Copia Autorizada de inscripci n de fojasñ ó
+
+3.533 N 3304 del Registro de Propiedad del Conservador de Bienes Ra ces de Rengo° í
+
+correspondiente al a o 2019.ñ Testimonial: Rolante a folio 71, consistente en las
+
+declaraciones de don Baltazar Antonio Soto Bascu n RUT 13.345.445-4 y de donñá
+
+Jaime Patricio Urra Torres RUT 12.735.453-7. Confesional: Rolante a folio 81
+
+compareciendo a absolver posiciones el demandante don Luis Alberto Pino Ortiz.
+
+QUINTO: Que, en cuanto a la acci n que se deduce en los presentes autos, laó
+
+demandante ha solicitado la resoluci n del promesa de compraventa celebrado con fechaó
+
+24 de octubre de 2018 en Notar a de Rengo de don Edmundo Figueroa lvarez N deí Á °
+
+repertorio 2.783-2018, atendidos los incumplimientos que se ala en su libelo, fundandoñ
+
+su petici n en el art culo ó í 1489 del C digo Civil. As las cosas, la acci n deducidaó í ó
+
+encontrar a su fundamento en la condici n resolutoria t cita presente como elemento deí ó á
+
+la naturaleza, de acuerdo al art culo 1489 del C digo Civil, en los contratos bilaterales,í ó
+
+el cual se ala que ñ En los contratos bilaterales va envuelta la condici n resolutoria de no“ ó
+
+cumplirse por uno de los contratantes lo pactado. Pero en tal caso podr el otroá
+
+contratante pedir a su arbitrio o la resoluci n o el cumplimiento del contrato, conó
+
+indemnizaci n de perjuicios .ó ”
+
+SEXTO: Que, para que pueda ser declarada la procedencia de la acci nó
+
+resolutoria, se requiere: 1 - Estar en presencia de un contrato bilateral; 2 - Que haya un° °
+
+incumplimiento imputable de una de las obligaciones que emanan del contrato; 3 - Que°
+
+quien interpone la acci n, haya cumplido con su obligaci n respectiva o est llano aó ó é
+
+cumplirla y 4 - Que sea declarada por sentencia judicial, requisitos copulativos que°
+
+deben ser demostrados por el solicitante.
+
+Al efecto, debe determinarse si el documento fundante de la presente demanda,
+
+esto es el contrato suscrito entre las partes del presente juicio con fecha 24 de octubre
+
+del a o 2018, reviste las caracter sticas para ser calificado como un contrato de promesañ í
+
+seg n lo dispone el art culo 1554 del C digo Civil y de ser as , determinar si procede oú í ó í
+
+no declarar su resoluci n. Eló art culo 1554 del referido cuerpo legal, se ala que í ñ “La
+
+promesa de celebrar un contrato no produce obligaci n alguna; salvo que concurran lasó
+
+circunstancias siguientes: 1) - Que la promesa conste por escrito, 2)- Que el contrato
+
+prometido no sea de aquellos que las leyes declaran ineficaces, 3)- Que la promesa
+
+contenga un plazo o condici n que fije la poca de la celebraci n del contrato y 4)- Queó é ó
+
+se especifique de tal manera el contrato prometido, que solo falten para que sea perfecto
+
+la tradici n de la cosa o las solemnidades que las leyes prescriban. De forma tal queó
+
+concurriendo tales circunstancias, se generar una obligaci n de hacer para las partes .á ó ”
+
+S PTIMO: É Que, en cuanto a la validez del contrato de promesa, corresponde
+
+analizar cada uno de los requisitos para ello, por lo que en relaci n al primero de losó
+
+requisitos se alados en el art culo 1554 del C digo Civil, fue acompa ado a los presentesñ í ó ñ
+
+Código: XDYXXMWZDNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+autos contrato de promesa de compraventa celebrado por escritura p blica con fecha 24ú
+
+de octubre de 2018 en Notar a de Rengo de don Edmundo Figueroa lvarez N deí Á °
+
+repertorio 2.783-2018, d ndose de esta manera, por acreditada su existencia en la formaá
+
+como lo exige la norma. En cuanto al segundo de los requisitos, el contrato que se
+
+celebrar a, ser a una compraventa de un inmueble, de un retazo de terreno, convenci ní í ó
+
+que en nuestra legislaci n no se encuentra prohibida, por lo que se da por satisfecho eló
+
+segundo presupuesto. En relaci n al tercer requisito, esto es, la fijaci n de la poca deó ó é
+
+celebraci n del contrato prometido, de la sola lectura y an lisis de la cl usula sexta de laó á á
+
+promesa de marras, se estableci por las partes que: ó El plazo establecido por las partes“
+
+para la celebraci n de la compraventa definitiva ser para el treinta de marzo de dos miló á
+
+diecinueve .” Se observa de esta manera que el contrato de promesa fij un plazo paraó
+
+suscribir el contrato prometido, quedando fijada de esta manera la poca en que esteé
+
+deb a llevarse a cabo, esto es al d a 30 de marzo del a o 2019. Por ltimo, en cuanto aí í ñ ú
+
+la especificidad del contrato prometido, debe entenderse que ste debe poder distinguirseé
+
+claramente, es decir, no deben existir dudas ni confusiones acerca de su naturaleza. Así
+
+las cosas, de la lectura del contrato de promesa, se desprende claramente de la cl usulaá
+
+tercera, que el contrato prometido ser a la compraventa del inmueble se alado en laí ñ
+
+cl usula segunda del instrumento, esto es el á Lote Dos de una superficie de 35.190
+
+metros cuadrados el que tiene los siguientes deslindes: NORTE, 160 metros con
+
+Valent n Nicoletti y Luis A. Rom n; al ORIENTE, en 253 metros den l neaí á í
+
+quebrada con propiedad Lote Uno del promitente vendedor, vertiente de por
+
+medio; al SUR, en 149 metros y 38 metros con Fundo La posada de Guillermo
+
+Lav n y al PONIENTE, en 401 metros con Fundo La Posada de don Guillermoí
+
+Lav n y l nea f rrea de Ferrocarriles del Estadoí í é , por el que se pagar a la sumaí
+
+definitiva de $158.355.000, cumpli ndose a juico de esta magistratura, con el requisito deé
+
+especificaci n exigido por el art culo 1554 del C digo Civil toda vez que trat ndose deó í ó á
+
+una compraventa, se individualiz a las partes, a la cosa y al precio.ó
+
+OCTAVO: Que, as las cosas, en cuanto a la concurrencia del primer requisitoí
+
+de la acci n resolutoria habi ndose acompa ado al proceso el contrato de promesa,ó é ñ
+
+siendo este eficaz de acuerdo a las razones dadas precedentemente y revistiendo la
+
+naturaleza jur dica de contrato bilateral, es que este Tribunal dar por acreditada laí á
+
+concurrencia de este primer requisito, consistente en estar en presencia de un contrato
+
+bilateral.
+
+NOVENO: Que, en lo referente al segundo requisito de la acci n resolutoria,ó
+
+esto es, el incumplimiento por uno de los contratantes del contrato de marras, la parte
+
+demandante afirm que existir a un incumplimiento por parte del promitenteó í
+
+comprador, fundada principalmente en que la escritura definitiva que deb a suscribirseí
+
+entre las partes, en la individualizaci n del inmueble que iba a ser objeto de laó
+
+compraventa, adolece de errores, no siendo el mismo inmueble que se prometi venderó
+
+Código: XDYXXMWZDNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+en la promesa. Corresponde entonces dilucidar si lo afirmado por el demandante
+
+concurre o no en la presente causa y en caso de concurrir, si dicha situaci n esó
+
+imputable o no al promitente comprador. As las cosas, de la Fotocopia de Contrato deí
+
+Compraventa y Mutuo Hipotecario N de Repertorio 914-2019 de fecha 22 de febrero°
+
+de 2019 suscrita en la 2 Notar a de Rancagua de don Jaime Bernales Valenzuela,° í
+
+acompa ada a folio 1, no objetada por el demandado, y que supuestamente vendr a añ í
+
+materializar la venta estipulada en el contrato prometido, se observa en la cl usulaá
+
+PRIMERA, que al individualizarse el inmueble objeto de la venta, este no coincide con
+
+el bien ra z individualizado en la cl usula SEGUNDA del contrato de promesa, siendoí á
+
+efectivo lo afirmado por el actor. Corresponde entonces analizar ahora, si dicha
+
+circunstancia, es imputable al promitente comprador y si constituye o no un
+
+incumplimiento de su parte. En este sentido, se observa que la escritura definitiva, fue
+
+redactada por el abogado don JORGE WILLIAMS LVAREZ-SALAMANCA y de laÁ
+
+cl usula VIG SIMPO PRIMERA. á “ É Informaci n al cliente hipotecarioó ” se aprecia que se
+
+cobra un monto de 2.75 Unidades de Fomento por parte del Banco Santander por
+
+concepto de redacci n de escritura como parte del contrato de mutuo hipotecarioó
+
+accesorio a la compraventa definitiva, desprendi ndose inequ vocamente que la escrituraé í
+
+definitiva fue redactada por un tercero y no por la parte demandada el promitente
+
+comprador. A mayor abundamiento, en ninguna de las cl usulas del contrato deá
+
+promesa de marras, se establece de qu parte ser a la responsabilidad y la obligaci n deé í ó
+
+encargarse de los tr mites notariales de redacci n y de escritura definitiva, por lo queá ó
+
+siguiendo las normas generales de la entrega en la compraventa de los art culos 1824 yí
+
+siguientes del C digo Civil, dichos tr mites son de cargo del vendedor. Finalmente, deó á
+
+una revisi n de la escritura p blica definitiva, se aprecia que solamente aparece la firmaó ú
+
+del promitente comprador junto a su huella digital, por lo que en estricto rigor, este no
+
+falt a su obligaci n de suscribir la compraventa definitiva, de manera que estaó ó
+
+Magistratura considera que no habr a un incumplimiento del contrato de promesa porí
+
+parte del promitente comprador toda vez que, como ya se dijo, el promitente vendedor
+
+debi resguardar las prevenciones a objeto de que el contrato definitivo que deb a seró í
+
+firmado por las partes, no adoleciera de errores, todo lo cual se podr a haber efectuado aí
+
+trav s de conversaciones previas como regularmente se hace en este tipo de negocios,é
+
+raz n por la que no podr darse por acreditado el segundo requisito de la acci nó á ó
+
+resolutoria.
+
+D CIMO:É Que, en consecuencia no cumpli ndose el segundo requisito de laé
+
+acci n resolutoria, consistente en que exista un incumplimiento por parte del promitenteó
+
+comprador en este caso, y trat ndose stos de requisitos copulativos, resultando inoficiosaá é
+
+la comprobaci n de los dem s supuestos de la acci n resolutoria, es que forzosamenteó á ó
+
+habr de rechazarse la demanda principal opuesta por el demandante don LUISá
+
+ALBERTO PINO ORTIZ, tal como se dir en la parte resolutiva de la presenteá
+
+sentencia.
+
+Código: XDYXXMWZDNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+EN CUANTO A LA DEMANDA RECONVENCIONAL:
+
+UND CIMO: É Que, en el primer otros de su presentaci n de fecha í ó 17 de
+
+octubre de 2019, a folio 6 compareci don ó LUIS FERNANDO HERN NDEZÁ
+
+L PEZÓ , en representaci n de ó LUIS FERNANDO HERN NDEZ L PEZÁ Ó
+
+CONTRATISTA MANO DE OBRA AGR COLA E.I.R.LÍ , quien interpuso
+
+demanda reconvencional de resoluci n de contrato con indemnizaci n de perjuiciosó ó
+
+en contra de don LUIS ALBERTO PINO ORTIZ, solicitando se rescinda el
+
+contrato de promesa de compraventa de fecha 24 de octubre de 2018, la devoluci nó
+
+de los dineros entregados en la promesa se alada al promitente vendedor,ñ
+
+equivalentes a la suma de $71.000.000 dentro de tercero d a y la indemnizaci n deí ó
+
+los perjuicios avaluados de com n acuerdo por las partes de $20.000.000, m sú á
+
+intereses, reajustes y costas, atendidas las razones de hecho y de derecho expuestos
+
+en la parte expositiva de la presente sentencia.
+
+DUOD CIMO:É Que, con fecha 23 de octubre de 2019, a folio 9, en el
+
+otros de su presentaci n, compareci don í ó ó LUIS ALBERTO PINO ORTIZ,
+
+quien contest la demanda reconvencional interpuesta en su contra por ó LUIS
+
+FERNANDO HERN NDEZ L PEZ CONTRATISTA MANO DE OBRAÁ Ó
+
+AGR COLA E.I.R.LÍ , solicitando el rechazo de la misma, con expresa condena en
+
+costas, atendidos los argumentos vertidos en lo expositivo del presente fallo.
+
+D CIMO TERCERO:É Que, en cuanto a la acci n que se deduce en losó
+
+presentes autos, el demandante reconvencional ha solicitado la resoluci n deló
+
+promesa de compraventa celebrado con fecha 24 de octubre de 2018 en Notar a deí
+
+Rengo de don Edmundo Figueroa lvarez N de repertorio 2.783-2018, atendidosÁ °
+
+los incumplimientos que se ala en su libelo, fundando su petici n en el art culoñ ó í
+
+1489 del C digo Civil. As las cosas, la acci n deducida encontrar a su fundamentoó í ó í
+
+en la condici n resolutoria t cita presente como elemento de la naturaleza, deó á
+
+acuerdo al art culo 1489 del C digo Civil, en los contratos bilaterales, el cual se alaí ó ñ
+
+que En los contratos bilaterales va envuelta la condici n resolutoria de no“ ó
+
+cumplirse por uno de los contratantes lo pactado. Pero en tal caso podr el otroá
+
+contratante pedir a su arbitrio o la resoluci n o el cumplimiento del contrato, conó
+
+indemnizaci n de perjuicios .ó ”
+
+D CIMO CUARTO: É Que, en cuanto a los requisitos de la acci n resolutoriaó
+
+como ya se dijo, estos son 1 - Estar en presencia de un contrato bilateral; 2 - Que haya° °
+
+un incumplimiento imputable de una de las obligaciones que emanan del contrato; 3 -°
+
+Que quien interpone la acci n, haya cumplido con su obligaci n respectiva o est llano aó ó é
+
+cumplirla y 4 - Que sea declarada por sentencia judicial, requisitos copulativos que°
+
+deben ser demostrados por el solicitante.
+
+Que, as las cosas, en cuanto a la concurrencia del primer requisito de la acci ní ó
+
+resolutoria, habi ndose acompa ado al proceso el contrato de promesa tal como seé ñ
+
+indic en los considerandos SEXTO y S PTIMO del presente fallo, siendo este eficazó É
+
+Código: XDYXXMWZDNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+de acuerdo a las razones dadas en dichos considerandos y revistiendo la naturaleza
+
+jur dica de contrato bilateral, es que este Tribunal dar por acreditada la concurrenciaí á
+
+del primer requisito de la acci n resolutoria, consistente en estar en presencia de unó
+
+contrato bilateral.
+
+D CIMO QUINTO: É Que, en cuanto a la concurrencia del segundo requisito
+
+de la acci n resolutoria, esto es, el incumplimiento por una de las partes del contrato deó
+
+marras, en este punto el demandante reconvencional afirm , en s ntesis, que eló í
+
+promitente vendedor habr a incumplido el contrato de promesa en dos condicionesí
+
+esenciales. En primer lugar, se ala que se habr a vulnerado la cl usula s ptima delñ í á é
+
+instrumento y no habr a dado cumplimiento a su obligaci n de suscripci n de laí ó ó
+
+escritura definitiva. En cuanto a la primera alegaci n consistente en el incumplimientoó
+
+de la cl usula s ptima antes referida, toda vez que no obstante que al d a de laá é í
+
+suscripci n del contrato se le habr a hecho entrega de la propiedad con sus respectivosó í
+
+derechos de agua, en una fecha posterior se habr a puesto un candado en el acceso de laí
+
+propiedad por parte de la promitente vendedora que no le permiti el acceso a laó
+
+propiedad de marras, infringi ndose as la cl usula s ptima. Es pertinente recordar ené í á é
+
+este punto, que dicha cl usula s ptima establece: á é Que“ estando claramente delimitada
+
+la parte del predio citado en la cl usula anterior, sobre la cual incide el presenteá
+
+contrato de compraventa, la entrega material del predio singularizado en la
+
+cl usula segunda de este instrumento y sus aguas se verifica con esta fecha,á
+
+pudiendo ser ocupado desde ya el predio objeto del presente contrato .” Atendido
+
+lo dispuesto en el art culo 1698 del C digo Civil, correspond a al demandanteí ó í
+
+reconvencional acreditar sus dichos, para lo cual acompa a los autos a folio 59, actañó
+
+Notarial expedida por el Notario P blico suplente de la Primera Notar a de Rengo donú í
+
+Gonzalo Brion Vargas de fecha 12 de abril de 2019, instrumento que no fue objetado
+
+por su contraparte, el que valorado de acuerdo al N 3 del art culo 346 del C digo de° í ó
+
+Procedimiento Civil, da cuenta de que con fecha 2 de abril de 2019, dicho funcionario
+
+p blico se constituy al t rmino del callej n Viluco en la comuna de Rengo,ú ó é ó
+
+encontr ndose una puerta compuesta de fierro y rejas y que sirve de acceso al ltimoá ú
+
+inmueble que se visualiza al termino del referido callej n. Que dicha puerta seó
+
+encontraba cerrada con dos candados, uno de ellos adem s de una cadena. Certificá ó
+
+adem s que el requirente de la diligencia, el representante legal de la demandanteá
+
+reconvencional don LUIS FERNANDO HERN NDEZ L PEZ, premunido de unÉ Ó
+
+juego de llaves, comenz a intentar abrir ambos candados, logrando abrir uno de ellos,ó
+
+el m s peque o, y sin xito el m s grande el que adem s, ten a una cadena. Acompaá ñ é á á í ñó
+
+fotograf as de la diligencia. í
+
+Que asimismo, y sobre este punto, compareci a estrados el testigo por la parteó
+
+demandante reconvencional don Baltazar Antonio Soto Bascu n, RUTñá
+
+13.345.445-4, quien consultado acerca de lo pertinente, sobre la efectividad de que la
+
+demandante principal y demandada reconvencional incumpli la promesa celebrada,ó
+
+Código: XDYXXMWZDNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+hechos y circunstancias del incumplimiento, expuso en s ntesis que esto es afirmativo queí
+
+existir a un incumplimiento y lo sabe porque trabaj ah í ó í y sab a lo que pasaba en ese“ í
+
+momento, cuando cerraron la reja y no pudimos pasar m s. Esto fue en marzo deá
+
+2019 . ” Contrainterrogado para que se alara en que habr a consistido elñ í
+
+incumplimiento, se al que ñ ó el hecho de haberle quitado la pasada al se or Hern ndez“ ñ á
+
+para adentro, eso ya es incumplimiento, de haberle cambiado candado al port n . ó ” De
+
+la misma forma compareci a declarar don ó Jaime Patricio Urra Torres RUT
+
+12.735.453-7, quien afirm en lo pertinente que ó Nosotros llamamos a don Luis“
+
+porque ten amos que sacar la le a y el me confirma que no puede entrar, porque seí ñ
+
+cambi la cadena y el candado del port n, le cerraron las puertas .ó ó ” De igual manera,
+
+testific sobre la efectividad de que la demandante principal y demandadaó
+
+reconvencional incumpli la promesa celebrada, hechos y circunstancias deló
+
+incumplimiento, en el sentido que El incumplimiento es cerrarle las puertas, para que“
+
+don Luis Hern ndez no pudiera entrar m s a la parcela. Esto lo s porque esto lo viv ,á á é í
+
+estaba ah , incluso trabaj con el se or Pino, quien de un momento a otro desapareci .í é ñ ó”
+
+Que en s ntesis, atendidas las probanzas rese adas precedentemente, y considerando queí ñ
+
+el demandado convencional no acompa medios probatorios capaces de desacreditar loñó
+
+afirmado por los testigos y por el Notario P blico suplente don Gonzalo Brion, es queú
+
+esta Magistratura ha arribado a la certeza que el acceso a la propiedad objeto de la
+
+presente causa, fue impedido por el demandado reconvencional, toda vez que haciendo
+
+uso de un candado cuyas llaves no fueron entregadas al promitente comprador, procedió
+
+a cerrar el acceso de la propiedad se alada, incumpliendo de esta forma con la cl usulañ á
+
+S PTIMA del contrato de promesa de compraventa.É
+
+D CIMO SEXTO:É Que, en cuanto al segundo incumplimiento arg ido por elü
+
+demandante reconvencional, consistente en la no suscripci n del contrato definitivo deó
+
+compraventa por parte del promitente vendedor, de la Fotocopia de Contrato de
+
+Compraventa y Mutuo Hipotecario N de Repertorio 914-2019 de fecha 22 de febrero°
+
+de 2019 suscrita en la 2 Notar a de Rancagua de don Jaime Bernales Valenzuela° í
+
+acompa ada por este ltimo, y de los propios dichos del demandado reconvencional, señ ú
+
+dar por acreditada la circunstancia de no haberse firmado por este ltimo el contratoá ú
+
+definitivo. Ahora bien, en cuanto a si dicha falta de firma constituye un incumplimiento
+
+imputable al demandado reconvencional, este Juez se remitir a lo se alado en elá ñ
+
+considerando NOVENO a prop sito de que ó el promitente vendedor debi resguardar lasó
+
+prevenciones a objeto de que el contrato definitivo que deb a ser firmado por las partes,í
+
+no adoleciera de errores, todo lo cual se podr a haber efectuado a trav s deí é
+
+conversaciones previas como regularmente se hace en este tipo de negocios, pero que sin
+
+embargo no realiz y como ya se dijo habi ndose constatado en la causa que solamenteó é
+
+existe una escritura definitiva y esta no fue firmada ni suscrita por el promitente
+
+vendedor, es que se dar por acreditado este incumplimiento.á
+
+Código: XDYXXMWZDNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+D CIMO S PTIMO:É É Que, en lo referente a la concurrencia del tercer
+
+requisito de la acci n resolutoria, ste es, que la parte que solicita la resoluci n deló é ó
+
+contrato haya cumplido o est llana a cumplir su propia obligaci n, en este puntoé ó
+
+igualmente esta Magistratura se estar a lo analizado en el considerando NOVENO yá
+
+haciendo hincapi en que sus obligaciones de subscribir el contrato de compraventaé
+
+definitiva, de recibir la cosa y de pagar el precio de la compraventa, se vieron satisfechas
+
+tal como se desprende de los medios probatorios acompa ados por su parte consistentesñ
+
+en la la Fotocopia de Contrato de Compraventa y Mutuo Hipotecario N de Repertorio°
+
+914-2019 de fecha 22 de febrero de 2019 suscrita en la 2 Notar a de Rancagua de don° í
+
+Jaime Bernales Valenzuela y del contrato de promesa de marras, toda vez que concurrió
+
+con su firma a suscribir el contrato prometido, enter parte del precio antes y aló
+
+momento de firmarse la promesa y el saldo del precio al momento de suscribirse el
+
+contrato prometido y recibi la cosa tal como se desprende de la cl usula s ptima de laó á é
+
+promesa de venta y de las declaraciones de los testigos ya se alados en el considerandoñ
+
+D CIMO QUINTO.É De esta, manera, al haber estampado el promitente comprador y
+
+demandante reconvencional su firma en la escritura definitiva; al haber entregado con
+
+anterioridad a la firma de la promesa la cantidad de $21.000.000 al promitente
+
+vendedor quien recibi este dinero; al haber entregado la cantidad de ó $50.000.000 al
+
+momento de suscribirse la promesa y al acudir a la suscripci n del documento definitivoó
+
+con el saldo del precio, cumpli a cabalidad con su obligaci n, o al menos, manifest suó ó ó
+
+intenci n de estar llano a cumplir con el contrato, debiendo necesariamente darse poró
+
+cumplido el tercer requisito de la acci n resolutoria por parte del demandanteó
+
+reconvencional.
+
+D CIMO OCTAVO: É Que, en consecuencia, habi ndose cumplido en laé
+
+presente demanda reconvencional con los requisitos de procedencia de la acci nó
+
+resolutoria, derivada del incumplimiento del contrato de promesa celebrado entre las
+
+partes con fecha 24 de octubre del a o 2018, tal como se explic y se expuso a lo largoñ ó
+
+de los considerandos anteriores, es que se gener para la empresa demandante eló
+
+derecho consagrado en el inciso 2 del art culo 1489 del C digo Civil consistente en° í ó
+
+exigir a su arbitrio o la resoluci n o el cumplimiento del contrato en ambos casos conó
+
+indemnizaci n de perjuicios, por lo que al haberse ejercido la acci n de resoluci n, noó ó ó
+
+cabe m s que acoger la demanda reconvencional, tal como se dir en lo resolutivo. Y, ená á
+
+este sentido, de conformidad con lo expuesto en el considerando D CIMO S PTIMOÉ É
+
+anterior, corresponde restituir primeramente la suma ascendente a $71.000.000.
+
+D CIMO NOVENO:É Que, asimismo, en cuanto a los perjuicios reclamados,
+
+consta de la cl usula D CIMA de la promesa de marras, que las partes establecieroná É
+
+una cl usula penal para el caso de incumplimiento la que tiene el siguiente tenor: á El“
+
+incumplimiento por parte del promitente vendedor o del promitente comprador
+
+de cualquiera de las obligaciones que impone este contrato de promesa de
+
+compraventa, as como de la falta de escrituraci n, har incurrir a quiení ó á
+
+Código: XDYXXMWZDNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+corresponda, en una multa a t tulo de indemnizaci n de VEINTE MILLONESí ó
+
+DE PESOS, sin perjuicio de perseguir el cumplimiento del contrato prometido o
+
+su resoluci n conforme a las reglas generales . ó ” En consecuencia, habi ndoseé
+
+acreditado los incumplimientos por parte del promitente vendedor, tal como ya se se alñ ó
+
+en los considerandos anteriores, es que no queda m s que acoger la demanda en esteá
+
+punto, debiendo pagar don LUIS ALBERTO PINO ORTIZ, la suma de $20.000.000
+
+a t tulo de indemnizaci n por incumplimiento contractual a LUIS FERNANDOí ó
+
+HERN NDEZ L PEZ CONTRATISTA MANO DE OBRA AGR COLA E.I.R.L, talÁ Ó Í
+
+como se dir tambi n en lo resolutivo.á é
+
+VIG SIMO:É Que, por ltimo, en cuanto a lo solicitud de pago de los intereses,ú
+
+de la cl usula QUINTA del contrato de promesa de marras, se extrae que á “las partes
+
+establecen de com n acuerdo un inter s mensual de dos millones de pesos, losú é
+
+cuales comenzar n a pagarse a contar del mes de octubre de 2018 y hasta laá
+
+fecha de la firma de la escritura definitiva”. En este sentido es importante se alarñ
+
+que la fecha m xima para el cumplimiento de la promesa y suscripci n del contratoá ó
+
+definitivo, se estableci en el mismo instrumento en la cl usula SEXTA y esta fechaó á
+
+expiraba el d a 30 de marzo de 2019. As mismo, í í de la fotocopia de Contrato de
+
+Compraventa y Mutuo Hipotecario N de Repertorio 914-2019 de fecha 22 de febrero°
+
+de 2019 suscrita en la 2 Notar a de Rancagua de don Jaime Bernales Valenzuela,° í
+
+consta que s lo la demandante reconvencional firm el contrato prometido.ó ó En
+
+consecuencia, habiendo llegado el d a 30 de marzo de 2019 sin que el promitenteí
+
+vendedor cumpliera con las obligaciones contractuales ya referidas en el presente fallo,
+
+es que habr de accederse a la demanda asimismo en este punto debiendo el demandadoá
+
+reconvencional, pagar a la actora la suma de $12.000.000 a t tulo de intereses y a raz ní ó
+
+de $2.000.000 por mes a contar del mes de octubre del a o 2018 y hasta el mes deñ
+
+marzo del a o 2019, tal como se dir adicionalmente en la parte resolutiva del fallo.ñ á
+
+VIG SIMO PRIMERO:É Que, la prueba pormenorizada y no analizada, en
+
+nada influye en las conclusiones a las cuales se ha arribado en la presente sentencia.
+
+Por estas consideraciones y visto adem s lo dispuesto en los art culos 1489, 1545, 1546,á í
+
+1554, 1698 del C digo Civil y 144,160, 170, 341, 342, 346, 384, 698 y siguientes deló
+
+C digo de Procedimiento Civil, se resuelve:ó
+
+EN CUANTO A LA DEMANDA PRINCIPAL:
+
+I.- Que SE RECHAZA la demanda principal de fecha 19 de julio de 2019
+
+interpuesta por don LUIS ALBERTO PINO ORTIZ a folio 1, en contra de LUIS
+
+FERNANDO HERN NDEZ L PEZ CONTRATISTA MANO DE OBRAÁ Ó
+
+AGR COLA E.I.R.L.Í
+
+II.- Que SE CONDENA en costas a la demandante por haber resultado
+
+totalmente vencida.
+
+EN CUANTO A LA DEMANDA RECONVENCIONAL:
+
+Código: XDYXXMWZDNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+III.- Que, SE ACOGE la demanda de resoluci n de contrato de promesa conó
+
+indemnizaci n de perjuicios e intereses interpuesta por LUIS FERNANDOó
+
+HERN NDEZ L PEZ CONTRATISTA MANO DE OBRA AGR COLA E.I.R.L.,Á Ó Í
+
+en el primer otros de su presentaci n de fecha 17 de octubre de 2019, a folio 6 ení ó
+
+contra de don LUIS ALBERTO PINO ORTIZ, declar ndose en consecuencia resueltoá
+
+el contrato de promesa de compraventa celebrado con fecha 24 de octubre de 2018 en
+
+Notar a de Rengo de don Edmundo Figueroa lvarez N de repertorio 2.783-2018. í Á °
+
+IV.- Que en consecuencia, SE ORDENA restituir por parte de don LUIS
+
+ALBERTO PINO ORTIZ, la suma de $71.000.000 entregados por la parte
+
+demandante al momento de la celebraci n del contrato de promesa objeto del presenteó
+
+juicio y resuelto por medio del presente fallo, dentro de los 30 d as siguientes a la fechaí
+
+en que la presente sentencia quede firme y ejecutoriada.
+
+V.- Que, asimismo, se condena a la parte demandada reconvencional al pago de
+
+la suma de $20.000.000 por concepto de indemnizaci n por incumplimientoó
+
+contractual.
+
+VI.- Que, finalmente, se condena al demandado reconvencional a pagar la suma
+
+de $12.000.000 a t tulo de intereses, tal como se se al detalladamente en elí ñ ó
+
+Considerando VIG SIMO.É
+
+VII.- Que SE CONDENA en costas a la demandada reconvencional por haber
+
+resultado totalmente vencida.
+
+An tese, notif quese y arch vese en su oportunidad.ó í í
+
+Rol N C-1587-2019.°
+
+Dictada por don SEBASTI N IGNACIO BRAVO IBARRAÁ , Juez Titular
+
+del Primer Juzgado de Letras de Rengo.
+
+En Rengo, a nueve de Abril de dos mil veinticuatro, se notific por el estado diario,ó
+la resoluci n precedente.ó
+
+Código: XDYXXMWZDNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2024-04-09T13:03:01-0400
