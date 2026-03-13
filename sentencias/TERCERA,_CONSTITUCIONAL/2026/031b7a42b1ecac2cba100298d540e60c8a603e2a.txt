@@ -1,0 +1,499 @@
+METADATA
+
+case_id: 031b7a42b1ecac2cba100298d540e60c8a603e2a
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8037488
+
+rol: 57242-2025
+
+fecha_sentencia: 2026-02-24
+
+caratulado: TRIVIÑO TULLERES PABLO REINALDO/LANGER LORENZO FERNANDA PAZ
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: ▪ Derecho a la honra, a la imagen y a la vida privada, libertad de expresión
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veinticuatro de febrero de dos mil veintiséis.
+Vistos:
+En estos autos RIT O-677-2022, RUC 2240448107-3, del Juzgado de Letras del Trabajo de Rancagua, por sentencia de uno de febrero de dos mil veinticuatro, se rechazó la demanda por despido injustificado y cobro de prestaciones deducida por don Hernán Alejandro Gajardo Guerrero en contra del Banco Santander Chile.
+
+El demandante presentó recurso de nulidad que fue desestimado por una sala de la Corte de Apelaciones de Rancagua, mediante sentencia de quince de julio de dos mil veinticuatro.
+
+En contra de este fallo, la misma parte interpuso recurso de unificación de jurisprudencia.
+
+Se ordenó traer los autos en relación.
+
+Considerando:
+Primero: Que de conformidad con lo dispuesto en los artículos 483 y 483-A del Código del Trabajo, el recurso de unificación procede cuando respecto de la materia de derecho objeto del juicio existen distintas interpretaciones sostenidas en una o más sentencias firmes emanadas de los tribunales superiores de justicia. La presentación debe contener fundamentos plausibles, incluir una relación precisa y circunstanciada de las divergencias jurisprudenciales, y acompañar copia del o de los fallos ejecutoriados que se invocan como criterios de referencia.
+Segundo: Que la materia de derecho propuesta consiste en determinar los “requisitos para que un trabajador posea ‘facultades generales de administración y en un cargo de exclusiva confianza’ y en consecuencia se encuentre bajo la hipótesis del artículo 161 inciso 2° del Código del Trabajo, esto es, ‘desahucio escrito del empleador”.
+
+Para el recurrente, según el tenor del fallo de contraste que acompaña, se debe discernir qué se entiende por trabajador con facultades generales de administración y de exclusiva confianza, cualidades que no concurren en el presente caso y que erróneamente le fueron asignadas; razones por las que solicita la invalidación del impugnado y se dicte el de reemplazo que indica.
+Tercero: Que, para desestimar el recurso de nulidad presentado por el demandante, fundado en la causal contenida en el artículo 477 del Código del Trabajo, por infracción a lo dispuesto en sus artículos 161 inciso segundo y 305, la Corte de Apelaciones de Rancagua constató de su tenor y lo expuesto en el fallo impugnado, que se sostiene en hechos contrarios a los que se establecieron en la instancia, ya que en tal arbitrio se indica que el recurrente carecía de poderes para representar al empleador, en circunstancias que en esa sede se estableció precisamente lo contrario, apartándose, por tanto, del límite básico del citado motivo de invalidación, conforme al cual, se debe respetar el marco fáctico asentado, agregando, en relación a la infracción a la segunda disposición citada, que por tratarse de una alegación nueva, que no se formuló en la demanda, tampoco podía prosperar, sin perjuicio de observar que dicha norma sólo impedía al actor, perteneciente a un sindicato de la empresa recurrida, negociar colectivamente, respecto de quien, según se acreditó, ejercía su representación.
+Cuarto: Que, en las condiciones descritas, el recurso de unificación que se revisa no puede prosperar, porque el fallo impugnado carece de pronunciamiento sobre la materia de derecho propuesta, por cuanto consideró errónea la presentación y fundamentación de la aludida causal de nulidad, antecedente que conduce necesariamente a su desestimación.
+Por estas consideraciones y en conformidad, además, con lo dispuesto en los artículos 483 y siguientes del Código del Trabajo, se rechaza el recurso de unificación de jurisprudencia interpuesto por el demandante contra la sentencia de quince de julio de dos mil veinticuatro, dictada por una sala de la Corte de Apelaciones de Rancagua.
+
+Redacción a cargo de la abogada integrante señora Etcheberry.
+
+Regístrese y devuélvase.
+
+Rol Nº37.445-2024.-
+Pronunciado por la Cuarta Sala de la Corte Suprema integrada por los ministros señor Ricardo Blanco H., señoras Andrea Muñoz S., Mireya López M., ministra suplente señora Rosa Herminia Aguirre C., y la abogada integrante señora Leonor Etcheberry C. No firma la ministra suplente señora Aguirre, no obstante haber concurrido a la vista del recurso y acuerdo del fallo, por haber cesado en su suplencia. Santiago, veinticuatro de febrero de dos mil veintiséis.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Rancagua, quince de julio de dos mil veinticuatro.
+
+VISTOS:
+
+En estos autos RIT O-677-2022, seguidos ante el Juzgado de Letras del Trabajo de Rancagua, caratulados “GAJARDO con BANCO SANTANDER-CHILE”, por sentencia definitiva de uno de febrero de dos mil veinticuatro, se rechazó la demanda laboral por despido injustificado, indebido o improcedente, reintegro del aporte del empleador al seguro de cesantía y cobro de prestaciones e indemnizaciones, interpuesta por don Hernán Alejandro Gajardo Guerrero en contra del Banco Santander Chile.
+
+En contra de esta decisión, el abogado Ignacio Javier Rojas Pardo, en representación de la parte demandante dedujo recurso de nulidad, fundado en la causal del artículo 478 letra b) y en subsidio la del artículo 477, ambos del Código del Trabajo.
+
+Declarado admisible, se procedió a la vista del recurso, quedando la causa en estado de acuerdo.
+
+CONSIDERANDO:
+PRIMERO: Que el recurso se sustenta, en primer lugar, en la causal prevista en el artículo 478 letra b) del Código del Trabajo, esto es, cuando la sentencia definitiva ha sido dictada con infracción manifiesta de las normas sobre la apreciación de la prueba conforme a las reglas de la sana crítica.
+
+Luego de reproducir los considerandos octavo a undécimo, el recurrente señala que dichas conclusiones han sido construidas vulnerando las normas sobre apreciación de la prueba conforme a las reglas de la sana critica, en particular, vulnerando la lógica y contraviniendo además las máximas de la experiencia, y no guarda relación con la prueba allegada en autos. Del mismo modo, el tribunal no ha tomado en consideración la multiplicidad, gravedad, precisión, concordancia y conexión de las pruebas o antecedentes del proceso.
+
+SEGUNDO: Que, en cuanto a la vulneración a las reglas de la lógica, en el recurso se afirma, en primer término, que el trabajador no tenía poder para representar al empleador ni estaba dotado de facultades generales de administración, para lo cual el recurrente analiza el contrato de trabajo de fecha 1 de octubre de 2014, en que figura que el demandante había sido contratado para dirigir y administrar una sucursal del Banco, conforme a las indicaciones e instrucciones que el empleador determinara, los dichos de la testigo María José Escobar Ramírez y el documento denominado “Poder Especial Banco Santander - Chile a Aguilera Ulloa, Paula Andrea y Otros”, de fecha 29 de mayo de 2019, del que se colige que el trabajador sólo tenía la facultad de gestionar créditos o mutuos hipotecarios y garantías, concluyendo que contaba con facultades más bien de carácter acotadas que generales, como exige la ley, las que no constituyen de modo alguno las facultades amplias o generales de un mandato mercantil, en donde un empresario otorga la representación general de su empresa y tampoco comprenden la facultad de dirección laboral, en el entendido del artículo 4° del Código del Trabajo.
+
+En segundo lugar, el recurso sostiene que el demandante era un trabajador sindicalizado y pertenecía al “Sindicato Nacional de Trabajadores del Banco Santander”, por lo que al ser parte de este sindicato, podía negociar colectivamente e incluso ejercer el derecho a huelga. Por tanto, en ningún caso podría considerarse de exclusiva confianza, ya que los trabajadores que tengan facultades de representación del empleador y que estén dotados de facultades generales de administración, están impedidos de negociar colectivamente, conforme lo dispuesto en el artículo 305 del Código del Trabajo.
+
+Por otra parte, denuncia el recurrente que el tribunal vulnera las máximas de la experiencia, por cuanto, desde la experiencia es posible inferir que el trabajador en caso alguno tenía poder para representar al empleador con facultades generales de administración y en un cargo de exclusiva confianza, ya que, de la prueba rendida por el Banco, no se pudo inferir tal hipótesis.
+
+Finalmente, se reclama que el tribunal no toma en consideración la multiplicidad, gravedad, precisión, concordancia y conexión de las pruebas o antecedentes del proceso, los que permiten concluir que el despido del trabajador sería de carácter injustificado, por la ausencia de los requisitos o presupuestos del artículo 161 inciso 2° del Código del Trabajo.
+
+TERCERO: Que, en cuanto a la causal del artículo 478 letra b) del Código de Trabajo, cabe recalcar que ésta atañe a la revisión de las razones que sustentan la motivación probatoria y la subsecuente fijación de los hechos que se han tenido por probados, cuando en esa actividad se cometen yerros que suponen contrariar los parámetros de la lógica, de la técnica, de los conocimientos científicamente afianzados o de las máximas de experiencia. Expresado, en otros términos, de lo que se trata es de fiscalizar que las razones vertidas por el sentenciador respeten esos lineamientos o directrices de la normativa aplicada.
+
+CUARTO: Que, la sentencia recurrida rechazó la demanda de despido indebido, injustificado o improcedente, por cuanto tuvo por acreditado que el actor se encontraba en la hipótesis del artículo 161 inciso segundo del Código del Trabajo, al tener la calidad de agente II de una sucursal del Banco Santander, debido a lo cual podía ser despedido mediante desahucio, el que no se exige expresar motivos de hecho que justifiquen el despido.
+
+QUINTO: Que, para llegar a dicha conclusión la sentencia analiza de manera conjunta, a partir del motivo quinto al décimo tercero, la carta de despido, el contrato de trabajo y su anexo, el poder especial de 29 de mayo de 2019, más los dichos de la testigo María José Escobar Ramírez, dando por acreditado que el demandante estaba dotado en su calidad de AGENTE (Agente II) de poderes especiales para representar al banco dentro del estricto giro que poseen estas instituciones en el uso de recursos de terceros pudiendo obligar al Banco Santander Chile en todo lo relacionado con la suscripción de escrituras de mutuo o créditos hipotecarios, prendas y todo tipo de garantías y sus cancelaciones calzando con lo indicado en el artículo 161 inciso 2° del Código del Trabajo en cuanto puede aplicarse el desahucio escrito del empleador respecto de “trabajadores que tengan poder para representar al empleador y que estén dotados de facultades generales de administración.” Agrega el fallo que el actor podía obligar al banco en cuestiones propias de su giro mediante su firma en un conjunto de operaciones comerciales que describe el poder especial y ello implica un poder para representar y con facultades en el fondo para administrar el negocio bancario. Las facultades generales de administración también se refieren a las facultades de dirección y mando que se otorgan como encargado de dirigir y controlar el personal en la gestión de negocios del giro bancario en una sucursal (ejecutivos), estando dotado de una jornada horaria del artículo 22 inciso 2° del Código del Trabajo con un grado de subordinación atenuado, en consideración de la función y el cargo de jefatura reconocido por la testigo María José Escobar.
+
+A su vez, en cuanto a ser un trabajador de exclusiva confianza, el juez también entiende que por la naturaleza de sus funciones recién descritas encuentra asilo en esta hipótesis. Añade que el empleador estimó dejarlo expresamente establecido en el contrato y el trabajador lo aceptó y no existen antecedentes que se aplique respecto de otro personal del Banco (ejecutivos, guardias, cajeros). En este sentido el trabajador desempeñaba las labores para la cual fue contratado de jefatura no existiendo una desviación de las tareas asignadas. Lo que dice el contrato es lo que ejecutaba día a día el demandante. No existe prueba en contrario que desvirtué lo anterior.
+
+Por último, en cuanto a la facultad de dirección y de despedir legalmente también la tiene por ser una presunción de derecho establecida en el artículo 4 del Código del Trabajo que señala que “…se presume de derecho que representa al empleador y que en tal carácter obliga a éste con los trabajadores, el gerente, el administrador, el capitán de barco, y en general, la persona que ejerce habitualmente funciones de dirección o administración por cuenta o representación de una persona natural o jurídica.” En definitiva, el despido se encuentra correctamente aplicado y se estimara ajustado a derecho.
+
+SEXTO: Que, de lo consignado en el motivo anterior y de los términos del recurso ya referidos, queda en evidencia que el recurrente, más que reclamar una genuina infracción a las reglas de la sana crítica, simplemente cuestiona la valoración de la prueba rendida en el juicio y las conclusiones a las que arriba el tribunal sobre la concurrencia de los requisitos del desahucio.
+Sin embargo, tales reproches no configuran la causal de nulidad invocada, contemplada en la letra b) del artículo 478 del Código del Trabajo, por cuanto la sana crítica sólo puede verse conculcada en la medida que el juez del grado incurra en una franca infracción a los principios y pautas del correcto entendimiento y de la lógica, más no cuando el reproche se sustenta en discrepancias con el proceso de apreciación de la prueba, que es lo que en realidad denuncia el recurso, el que -como se dijo- se limita a cuestionar las razones dadas por el juez de la instancia para estimar que el desahucio del actor se encuentra ajustado a derecho.
+Por lo demás, cabe recordar que dado el carácter extraordinario y de derecho estricto del recurso de nulidad, resulta indispensable que el recurrente explique, con la suficiencia necesaria, la manera en que el proceso de valoración expresado en la sentencia, infringe, en concreto, aquellas razones jurídicas, simplemente lógicas, científicas, técnicas o de experiencia que debieron considerar los sentenciadores al ponderar las probanzas de autos, único supuesto que permitiría a esta Corte avocarse a la revisión del proceso reflexivo que orientó la decisión que se ha impugnado, lo que claramente no se cumple en la especie, pues el recurrente no denuncia infracción a algún principio lógico en específico, como tampoco a alguna máxima de la experiencia asentada en la causa y que tenga dicha condición.
+SÉPTIMO: Que, con todo, de lo expresado en los considerandos quinto a décimo tercero del fallo impugnado, se constata que éste contiene una concatenación lógica y razonable de argumentos que se desarrollan de manera sucesiva, analizando los presupuestos de la relación laboral, la condición de agente del demandante y la existencia de poderes de representación, como los demás presupuestos legales del desahucio, todo lo cual permite concluir que la sentencia recurrida posee consideraciones más que bastantes para entender satisfecho del deber de fundamentación de toda sentencia judicial.
+OCTAVO: Que, por último, en cuanto al hecho de que el tribunal no consideró que el demandante era un trabajador sindicalizado, que pertenecía al “Sindicato Nacional de Trabajadores del Banco Santander”, cabe señalar que tal alegación no fue señalada como fundamento de la demanda de despido injustificado y, en consecuencia, no puede servir como sustento del recurso, pues se trata de una alegación nueva, que no fue materia del debate trabado ante al juzgado del trabajo.
+
+NOVENO: Que, el recurso se sustenta en forma subsidiaria en la causal prevista en el artículo 477 del Código del Trabajo, por haberse dictado la sentencia definitiva con infracción de ley hubiere influido sustancialmente en lo dispositivo del fallo, reclamando como infringidos los artículos 161 inciso segundo y 305 del Código del Trabajo.
+Añade que la sentencia infringe el artículo 161 inciso 2° ya citado, cuando el juez de la instancia establece que el trabajador tenía poder para representar al empleador dotado de facultades generales de administración y en un cargo de exclusiva confianza del empleador y, a su vez, vulnera el artículo 305 del Código del Trabajo, ya que un trabajador afiliado a un sindicato, no puede tener la calidad de trabajador con poder para representar al empleador dotado de facultades generales de administración y en un cargo de exclusiva confianza del empleador, todo lo cual da cuenta, en concepto del recurrente, de una aplicación indebida de la ley, toda vez que la ley es aplicada a un caso para el que no ha sido prevista.
+
+DÉCIMO: Que, al respecto, cabe recordar la causal de derecho alegada busca corregir el recto sentido, alcance y aplicación de las disposiciones legales pertinentes, que tengan el carácter de decisorio litis, por lo que su invocación exige o supone el reconocimiento y aceptación de los hechos por parte del recurrente, tal como han sido determinados en el fallo, los que, en consecuencia, no pueden ser alterados o modificados por esta Corte.
+
+Así, “si el recurso desarrolla la infracción de ley a partir de hechos que no se tuvieron por acreditados en la sentencia o en torno a hechos distintos de aquellos que se han dado por establecidos en el mismo fallo o considerando hechos que no forman parte de los fijados en la resolución impugnada, tal arbitrio estará destinado a su rechazo” (Astudillo C., Omar; “El Recurso de Nulidad Laboral”, Thomson Reuters, año 2012, pág. 77).
+
+UNDÉCIMO: Que, en la especie, del tenor del recurso y de lo expresado en la sentencia recurrida, se advierte que el recurrente sostiene la infracción del artículo 161 inciso segundo del Código del Trabajo, en basa a hechos contrarios a los que fueron establecidos en el fallo impugnado, por cuanto en el recurso se sostiene que el trabajador carecía de poderes para representar al empleador, en circunstancia que el juez de la instancia establece como hecho de la causa, precisamente lo contrario.
+Por consiguiente, dado que el recurrente no ha respetado el límite básico de la causal en comento, cual es respetar los hechos establecidos por el juez de la causa, sólo cabe concluir que el recurso no puede prosperar en cuanto a la infracción de la norma legal examinada.
+
+Por otra parte, en cuanto a la pretendida infracción del artículo 305 del Código del ramo, la misma no puede prosperar, pues la alegación de que el demandante pertenecía al “Sindicato Nacional de Trabajadores del Banco Santander”, no fue señalada como fundamento de la demanda de despido injustificado y, en consecuencia, no puede servir como sustento para invalidar la sentencia, pues se trata de una alegación nueva, que no fue materia del debate trabado ante al juzgado del trabajo. Con todo, el artículo 305 no prohíbe que los trabajadores sindicalizados puedan tener facultades de representación del empleador, sino sólo que éstos últimos no pueden negociar colectivamente con el empleador, situación que no es la que acontece en autos.
+
+DUODECIMO: Que, en consecuencia, no configurándose las causales incoadas por el vicio denunciado, forzoso es desechar en todas sus partes el recurso interpuesto.
+Por estas razones y de conformidad, además, con lo previsto en los artículos 477 a 482 del Código del Trabajo, se rechaza sin costas, el recurso de nulidad deducido por el abogado Ignacio Javier Rojas Pardo, en representación de la demandante y en contra la sentencia definitiva de uno de febrero de dos mil veinticuatro, dictada en la causa RIT O-677-2022, por el Juzgado de Letras del Trabajo de Rancagua.
+Redacción a cargo de la abogada integrante Ximena Carmona Torres.
+Regístrese y comuníquese.
+Rol Corte 94-2024 Laboral.
+
+Se deja constancia que no firma el ministro (s) Sr. Oscar Castro Allendes, no obstante haber concurrido a la vista y acuerdo de la presente causa, por haber cesado su cometido en esta Corte.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+DEMANDANTE: Hernán Alejandro Gajardo Guerrero ®
+DEMANDADO: Banco Santander Chile
+PROCEDIMIENTO: Ordinario
+MATERIA: Despido. Desahucio.
+
+RIT: O-677-2022
+
+Rancagua, uno de febrero de dos mil veinticuatro.
+
+PRIMERO: DEMANDA. Que comparece don HERNÁN ALEJANDRO GAJARDO GUERRERO, chileno, casado, ingeniero comercial, cédula nacional de identidad número 13.097.267-5, domiciliado, para estos efectos, en calle Cuevas N° 790, segundo piso, comuna de Rancagua quien interpone demanda de despido injustificado, indebido o improcedente, reintegro del aporte del empleador al seguro de cesantía, cobro de prestaciones e indemnizaciones en contra de mi ex empleador BANCO SANTANDER CHILE, Rut: 97.036.000-K, representado legalmente por MAXIMILIANO SOTO SEPÚLVEDA, cédula nacional de identidad número 14.205.926-6, ambos domiciliados en Paseo Independencia N° 511, Rancagua, ello, en atención de los fundamentos de hecho y de derecho que paso a exponer:
+
+I.- ANTECEDENTES DE LA RELACIÓN LABORAL:
+
+1.- Ingresé a prestar servicios, bajo un vínculo de dependencia y subordinación, para mi ex empleador, Banco Santander Chile, con fecha 02 de marzo de 2011 y hasta el 25 de octubre del año 2022, fecha en la cual fui despedido de manera injustificada, indebida o improcedente por la causal del artículo 161 inc. 2° del Código del Trabajo.
+
+2.- Mis principales funciones eran ejercer el cargo de “Agente II” y en la sucursal del Banco Santander ubicada en la calle Cuevas N° 577 de la comuna de Rancagua.
+
+3.- Mi última remuneración, para efectos del artículo 172 del Código del Trabajo, era la suma de $5.670.954.
+
+II.- DESPIDO INJUSTIFICADO, INDEBIDO O IMPROCEDENTE:
+
+Con fecha 25 de octubre del presente año, mi ex empleador me comunica el despido por la causal del artículo 161 inc. 2° del Código del Trabajo, al efecto señala la carta lo siguiente:
+
+“Por medio de la presente, cumplo con comunicar a Ud., la decisión de la empresa de poner término a su Contrato de Trabajo con fecha 25 de octubre de 2022, en virtud de la causa legal establecida en el artículo 161 inc. 2 del Código del Trabajo, esto es, Desahucio escrito del empleador”.
+Del tenor de la carta, se puede advertir que mi ex empleador no señala o indica cuál de las tres hipótesis del artículo 161 inc. 2 del Código del Trabajo se aplica en la terminación del contrato, a saber:
+
+1.- trabajadores de casa particular,
+
+2.- trabajadores con facultades generales de administración, o bien,
+
+3.- trabajadores de exclusiva confianza del empleador.
+
+Hay que tener presente S.S., que la causal del artículo 161 inc. 2 del Código del Trabajo no exime al empleador de la fundamentación del despido, la finalidad protectora de la legislación laboral y su proyección en la estabilidad o continuidad del contrato hace procedente establecer que la terminación del contrato por la sola voluntad del empleador es excepcional, de aplicación restrictiva.
+
+Sin perjuicio de lo anterior, cabe hacer presente S.S., que la causal invocada es injustificada, indebida o improcedente, nunca tuve facultades generales de administración ni menos mi cargo era de aquellos de exclusiva confianza del empleador, ello, considerando que:
+
+1.- no representaba al empleador en juicios y negocios de cualquier naturaleza,
+
+2.- no tenía la facultad de rendir cuentas, cobrar y percibir judicial y extrajudicialmente asuntos o negocios de la empresa,
+
+3.- no tenía facultades de firmar contratos de trabajo, anexos, cartas de despidos, finiquitos, transacciones, avenimientos,
+
+4.- no tenía facultades de comprar, vender, enajenar, permutar, arrendar y depositar bienes muebles e inmuebles, acciones, bonos, debentures y otros valores, suscribir acciones y firmar traspasos, suscribir, por instrumentos públicos y privados, toda clase de actos y contratos, revocarlos, renunciarlos, rescindirlos, resolverlos o modificarlos, fijar, pagar, cobrar y percibir precios, rentas y remuneraciones,
+
+5.- no tenía facultades de aprobar operaciones ni tampoco daba condiciones de aprobación,
+
+6.- no tenía injerencia en otras sucursales del país ni en la comuna de Rancagua, etc., en general.
+
+Sólo ejercía el cargo de “agente II” con una supervisión directa por parte de mi ex empleador, sin facultades generales de administración ni en un cargo de exclusiva confianza del empleador.
+
+III.- FINIQUITO DE CONTRATO DE TRABAJO, DESCUENTO DEL APORTE DEL EMPLEADOR AL SEGURO DE CESANTÍA.
+
+Con fecha 15 de noviembre de 2022 firmé finiquito de contrato de trabajo en la Notaría Ernesto Montoya Peredo (con reserva de derechos), en dicha instancia, mi ex empleador me hizo el pago único y total de $68.944.149, que correspondía a la indemnización legal y la convenida en el Convenio Colectivo del Sindicato Nacional de Trabajadores del Banco Santander de fecha 16 de febrero de 2021, además, del feriado proporcional.
+
+Sin embargo, en el mismo instrumento, mi ex empleador me ha efectuado el descuento del aporte que hizo en el seguro de cesantía (AFC Chile) por la suma de $9.045.328.
+
+Respecto del descuento del aporte del empleador al seguro de cesantía es una materia que ya se ha zanjado por nuestro máximo tribunal. Así, si S.S., declara que el 5 despido por la causal del artículo 161 del Código del Trabajo es injustificada, indebida o improcedente, el descuento que se ha efectuado en el finiquito no procede y el empleador debe reintegrarlo. Nuestra Excelentísima Corte Suprema en Recurso de Unificación Rol 93.342-2021.
+
+PETICION CONCRETA: Se sirva tener por interpuesta demanda de despido injustificado, indebido o improcedente, reintegro del aporte del empleador al seguro de cesantía, cobro de prestaciones e indemnizaciones en contra de mi ex empleador BANCO SANTANDER CHILE, Rut: 97.036.000-K, representado legalmente por MAXIMILIANO SOTO SEPÚLVEDA, cédula nacional de identidad número 14.205.926-6, ambos domiciliados en Paseo Independencia N° 511, Rancagua, solicitando a S.S., declare que: A.- El despido que me imputa mi ex empleador es injustificado, indebido o improcedente, y en consecuencia, se le condene al pago y reintegro de:
+
+1.- Recargo del 30% en la indemnización por años de servicio (indemnización legal de 11 años - $34.194.996 y tope legal de 90 UF: uf al 25 de octubre de 2022 - $34.540,40); por la suma de $10.258.498;
+
+2.- Reintegro del aporte del empleador al seguro de cesantía; por la suma de $9.045.328;
+
+3.- Intereses, reajustes y costas de la causa
+
+SEGUNDO: CONTESTA. Que compare don José Tomás Honour Manríquez, abogado, Cédula Nacional de Identidad N° 17.599.469-6, por la demandada Banco Santander Chile, Rol único Tributario N.º 97.036.000-K, ambos con domicilio para estos efectos en Calle Alcántara N° 200, oficina N° 1201, Las Condes, Santiago, contesto oportunamente la demanda interpuesta:
+
+I. HECHOS NO CONTROVERTIDOS.
+
+1. Es efectivo que la relación laboral que vinculaba a el actor con mi representada se extendió desde el 2 de marzo de 2011 hasta el 25 de octubre de 2022;
+
+2. Es efectivo que, al momento del despido, el actor se desempeñaba en el cargo de Agente
+
+3. Es efectivo que la causal de despido invocada corresponde a desahucio escrito del empleador.
+
+II. HECHOS CONTROVERTIDOS.
+
+1. No es efectivo que el despido sea injustificado, indebido o improcedente;
+
+2. No es efectivo que el actor estuviera desprovisto de las facultades que le hacen aplicable la causal de desahucio escrito del empleador.
+
+3. No es efectivo que el cargo de Agente no sea de exclusiva confianza del empleador.
+
+4. No es efectivo que el descuento efectuado al seguro de cesantía sea improcedente.
+
+III. ANTECEDENTES DE LA RELACION LABORAL Y FUNDAMENTO DE LOS HECHOS CONTENIDOS EN LA CARTA DE DESPIDO.
+A. Antecedentes respecto del cargo ejercido por el actor. Banco Santander Chile.
+
+Cada una de las sucursales, tiene un jefe oficina o agente de sucursal, que es la máxima autoridad de la sucursal respectiva, teniendo el equipo de ejecutivos comerciales a su cargo, como también el restante personal dependiente del Banco que presta servicios en la Sucursal a su cargo. Como bien lo reconoce el actor, era precisamente éste su cargo.
+
+El jefe de Oficina o agente, como se ha dicho, es la máxima autoridad de la sucursal que dirige, teniendo incluso poderes para representar al Banco ante sus clientes y terceros en virtud del otorgamiento de poderes para ello, teniendo incluso, facultades para comprometer el patrimonio e intereses del Banco.
+Circunstancias todas que demuestran que el Jefe de Oficina es un cargo de exclusiva confianza del empleador por su propia naturaleza Atendida la naturaleza de la actividad económica que desempeña el Banco, caracterizada por administrar y gestionar dinero de terceras personas (depósitos, cuentas corrientes), que han depositado su confianza en el Banco Santander para manejar sus recursos; y por prestar dinero a sus clientes (créditos, líneas de créditos), mi representada selecciona rigurosamente su personal, con el objeto de que puedan cumplir eficientemente sus funciones.
+
+Si bien todo contrato de trabajo es intuito personae, caracterizado por la confianza depositada por el empleador en el trabajador, la situación actual lo es aún más, habida consideración de que mi representada es una entidad bancaria. En este sentido, es menester ser enfáticos en cuanto a las funciones que desarrollaba la señora Gajardo, quien tenía a su cargo personal y estaba dotada de facultades para aprobar créditos de considerables sumas de dinero, lo que por sí es un cargo de exclusiva confianza del Banco y lo que de por sí lo compromete financieramente.
+
+De la procedencia del despido: formalidades y justificación. Las alegaciones contenidas en el libelo son del todo reiterativas y se sientan sobre la base de los mismos argumentos: “no poseía facultades generales de administración”, “no representaba al empleador” y “no era un cargo de exclusiva confianza”.
+
+En este punto, nos preguntamos ¿en qué parte exige el legislador que se especifique la hipótesis en la que se encuadra el desahucio?
+
+Ciertamente no existe dicho requerimiento, toda vez que lo único que hace el legislador es limitar las circunstancias de hecho en las que se hará aplicable este tipo de despido, pudiendo nuevamente, distinguir
+
+3: a. Para aquellos trabajadores que tengan poder para representar al empleador, dotados al menos de facultades generales de administración;
+
+b. A las trabajadoras de casa particular; y
+
+c. Para trabajadores que ocupen cargos o empleos de la exclusiva confianza del empleador, cuyo carácter de tales emane de la naturaleza de los mismos.
+
+En ese sentido, la causal de desahucio escrito del empleador se trata de una causal que atendido el cargo, labores y responsabilidades que tiene un determinado trabajador no requiere que sea fundada.
+
+Es decir, la característica esencial del desahucio del empleador constituye el hecho que no requiere ser fundada, sino que aplica a determinados cargos dentro de la estructura de una empresa, y por ello no puede legalmente ser calificada de improcedente, no originando incremento legal alguno a la indemnización por años de servicio.
+
+Las funciones que desarrollaba el demandante, esto es, “Agente II”.
+
+Dicho cargo, tal como SS podrá apreciar en la oportunidad procesal correspondiente, se trata de una actividad que está dotada de la más absoluta confianza del empleador. Así, para el caso particular, el actor debía supervisar, corregir y dirigir constantemente las funciones de cada una de las personas que tenía a su cargo, siendo la verdadera cara del empleador en la sucursal.
+
+Otro ejemplo de lo anterior es el régimen de trabajo al que estaba sometida el actor, en efecto, la señora Gajardo estaba regida por el inciso segundo del artículo 22 del Código del Trabajo, por tanto, se encontraba exenta del cumplimiento de jornada de trabajo y de fiscalización superior inmediata.
+
+Finalmente, conviene hacer alusión al contrato de trabajo suscrito por el actor, del cual se desprende la existencia de ciertos conceptos importantes:
+
+1) dirección y administración;
+
+2) control y supervisión;
+
+3) planificación estratégica de acciones comerciales;
+
+4) administración eficiente del personal o recursos humanos y financieros.
+
+La causal de despido es perfectamente aplicable, sin embargo, por si ello fuera poco, tenemos que remitirnos al descriptor de cargo contenido en el Reglamento Interno de Orden, Higiene y Seguridad:
+
+“Responsable de la Administración global de la sucursal, en términos de negocios es el encargado de lograr de manera eficiente y conforme a objetivos establecidos la correcta distribución de productos y servicios financieros que el banco tiene para los distintos segmentos de clientes objetivos en que participa. Junto con lo anterior debe mantener un buen clima laboral, estándares de calidad de servicio acordes a lo definido por el banco y manejar la sucursal dentro de parámetros de riesgo y control interno vigentes”.
+
+Aun así, el actor asegura que no poseía las facultades que su propio contrato le confiere. ¿existía entonces una discrepancia entre lo contenido en el papel y las tareas efectivamente realizadas?, ¿se trata acaso de la aplicación del principio de la primacía de la realidad? Lo negamos tajantemente, sin embargo, es importante destacar que ello no ha sido alegado en ningún momento por el actor.
+
+Cita jurisprudencia judicial que confirmaría lo indicado en los párrafos anteriores.
+
+El señor Gajardo se desempeñaba como Agente II o jefe Oficina, un cargo de exclusiva confianza de mi representada, confianza, tal como se ha señalado, ha sido corroborada por la jurisprudencia laboral. Ilustrativa es la misma sentencia en donde hace referencia a Jurisprudencia de la Corte Suprema sobre la exclusiva confianza y los requisitos contemplados en ella para poder hacer uso de la causal de desahucio:
+
+“Para determinar si la función desempeñada por el extrabajador es de exclusiva confianza del empleador, debe analizarse la naturaleza misma de la función prestada. Dicho en otros términos, para reconocer si se está o no en presencia de un cargo de exclusiva confianza del empleador, debe analizarse sus atribuciones y también el contenido del servicio prestado. No basta que se trate de un empleado que goce de toda la confianza de su empleador, sino que es necesario que ese atributo radique en el empleo mismo, que emane de su naturaleza, como dice la ley, careciendo de él quien no tiene ni jerarquía ni poder decisivo, según lo ha sostenido la Excma. Corte Suprema, conociendo de recurso de queja, en sentencia de fecha 2 de octubre de 1970. La confianza debe ser un elemento crucial y preponderante para que sea aplicable el desahucio (Revista de Derecho y Jurisprudencia, Tomo XCVI, N° 1, 1999, pág. 9). Así será de exclusiva confianza, a modo de ejemplo, cuando:
+
+a) "Sea decisivo en la marcha de la empresa;
+
+b) Tenga acceso a los secretos de la contabilidad y a los programas económicos y formas de realizarlos;
+
+c) A los secretos profesionales e industriales;
+
+d) Cuidar los bienes materiales del empleador puestos a su cuidado; y
+
+e) Realizar funciones que por su misma naturaleza no puede encomendarse a cualquier persona, sino solo en quien hace fe de su comportamiento y moralidad por el ejemplo que debe dar" (Carlos Benavides Fritis, EL DESPIDO EN LA NUEVA JUSTICIA LABORAL, Editorial Punto Lex, Año 2009, pág. 116).
+
+Todos y cada uno de los aspectos antes señalados se cumplían respecto a el actor.
+
+El cargo desempeñado por el actor al momento de su despido era “Agente II”.
+
+Más recientemente, el Juzgado de Letras del Trabajo de Temuco, en la causa RIT O-405- 2019, caratulada “Pineda con Banco Santander Chile”, señala que la desvinculación del demandante, quien ejercía el cargo de jefe Oficina II o Agente II, se ajustaba a derecho, por cuanto se encontraba dentro de las hipótesis del artículo 161 inciso 2 del Código del Trabajo. De esta forma el sentenciador, en lo pertinente, señala:
+
+“NOVENO: En relación a la primera hipótesis, es un hecho no controvertido que el actor se desempeñaba como agente del banco Santander, oficina Select, cargo que dentro de la orgánica de la empresa se asimila al de subgerente, tal como se indica en sus contratos de trabajo. La sucursal que tenía a su cargo el demandante es aquella que atiende principalmente a un segmento de los clientes de mayor renta y constituye una de las dos sucursales que tienen esta denominación en Temuco. No es relevante, para los efectos de determinar la naturaleza jurídica del contrato, el hecho que haya ejercido otras funciones antes, porque no se ha acreditado algún perjuicio económico para el demandante en cada uno de los traspasos y porque, en definitiva, cualquiera de los cargos que desempeñó puede tener la misma calidad jurídica.
+
+DÉCIMO: Desde el punto de vista formal el cargo que desempeñaba el actor, subgerente, es de aquellos mencionados expresamente en el inciso segundo del artículo 161 del código el trabajo. Sin embargo, la sola posesión del cargo de subgerente es insuficiente para estimar aplicable el desahucio, tal como lo sostenido la jurisprudencia, pues se debe estar a las facultades que en concreto tiene y la forma en que se ejercen. En este punto, el código del trabajo exige que esté dotado, a lo menos, de facultades generales de administración, siendo éstas las que reconoce el artículo 2132 del código civil, a propósito del mandato desde que el código el trabajo no establece un concepto de tales facultades. Dicha norma prescribe: “El mandato no confiere naturalmente al mandatario más que el poder efectuar los actos de administración; como son pagar las deudas y cobrar créditos demandante, perteneciendo unos y otros al giro administrativo ordinario; perseguir en juicio a los deudores, intentar las acciones posesorias e interrumpir las prescripciones, en lo tocante a dicho giro; contratar las reparaciones de las cosas que administra, y comprar los materiales necesarios para el cultivo o beneficio de las tierras, minas, fábricas, u otros objetos de industria que se le hayan encomendado. En todo lo demás los que salgan estos límites necesitará de poder especial”.
+
+DÉCIMO PRIMERO: El actor sostiene en su libelo que durante todo el tiempo que trabajó para el Banco, siempre lo hizo bajo la supervigilancia e instrucción de los respectivos Gerentes, a quien debía reportar detalladamente el avance en sus labores; no asistía a Directorios ni tomaba decisiones junto a ellos, las decisiones de direccionamiento, administración, políticas comerciales de la empresa eran tomadas en Santiago, al igual que las decisiones generales de la administración del Banco era realizada por los máximos gerentes en Santiago, y ellos se les impartían las respectivas instrucciones y políticas de la empresa; sin que estuviese dotados de facultades generales de administración; incluso más, el poder que se me había otorgado por el Banco Santander era solo “Poder Clase B”, y como consta de la documentación del banco, la facultades de los funcionarios con Poder Clase B, no tenían en verdad ninguna faculta para representar al Banco, ya que jamás podía actuar solo en su representación, incluso, ni siquiera tenía facultades, ya sea solo o en conjunto, para contratar o despedir a trabajadores.-
+
+Este planteamiento tiene tres problemas principalmente: El primero, entender que un gerente o subgerente puede disponer de cualquier bien o tomar cualquier decisión por sí solo al interior una empresa, obviando que tratándose de sociedades anónimas, como un banco, las decisiones que importan sobre el destino de la empresa las toma el directorio, quien representa la voluntad de la persona jurídica. El gerente está principalmente encomendado de gestionar las decisiones del directorio y sólo tendría las facultades de disposición en pequeñas empresas, en donde el cargo se confunde muchas veces con la propiedad de la misma. El segundo, es que confunde facultades de administración con facultades de disposición. El artículo 161 inciso segundo hace referencia sólo a facultades generales de administración y, como ya se advirtió, existe una definición de ellas en el artículo 2132 del código civil. El código no exige, ni puede, que las personas del inciso segundo tengan facultades de disposición de bienes de la empresa, porque ellas recaen en el empleador, representado por el dueño, los socios o el directorio, dependiendo de la estructura jurídica de la empresa. Finalmente, el planteamiento desconoce la estructura de una empresa de nivel nacional e internacional, como de público conocimiento lo es el banco Santander, que tiene una organización que va mucho más allá de una agencia o sucursal y en donde, tal como se puede advertir de los poderes que fueron exhibidos en esta causa, para efectos de seguridad la mayoría de las decisiones que importan algún grado de disposición son tomadas por dos o más ejecutivos. DÉCIMO CUARTO: Se ha indicado por la doctrina como características de los empleados de exclusiva confianza los siguientes: ser decisivo en la marcha de la empresa, tener acceso a los secretos de la contabilidad y los programas económicos y formas de realizarlos, a los secretos profesionales e industriales, cuidar los bienes materiales del empleador puestos a su cuidado y realizar funciones que por su misma naturaleza no pueden encomendarse a cualquier persona, sino sólo en quien hace de su comportamiento y moralidad por ejemplo que deben dar (Carlos Benavides Fritis, El despido en la nueva justicia laboral, editorial Puntolex, año 2009, página 116). Todas estas características concurren en el caso del demandante, salvo en cuanto a que la importancia de sus decisiones se reflejaba en la gestión de la sucursal y no de la empresa en su totalidad. El demandante tenía acceso a información privilegiada de la empresa, de lo contrario no se entiende la cláusula de confidencialidad de su contrato. Estaba exento de la limitación de jornada de trabajo conforme el artículo 22 inciso 2°; no estaba autorizado a negociar colectivamente; era el responsable de los bienes de la sucursal y por sus funciones, su importancia tenía una elevada renta.
+
+DÉCIMO QUINTO: Finalmente, cabe insistir en que al indicar la jurisprudencia que más allá del nombre del cargo debe estarse a la forma en que éste se ejerce y las facultades que tiene el gerente o subgerente, también es un hecho a considerar el tamaño de la empresa, su estructura jurídica y la complejidad de los procesos que ella ejecuta, cuestiones todas que permiten a este sentenciador llegar a la convicción que el demandante no sólo es un funcionario con poder para representar al empleador, sino que uno de exclusiva confianza. Restringir la facultad de representar al empleador a aquellas personas que tienen facultades de disposición y de injerencia decisiva en el curso de la empresa, limitaría la aplicación de la causal del artículo 161 inciso segundo del código del trabajo prácticamente solo al gerente general y, según el caso, ni siquiera a aquél, lo que obviamente no está dentro de la inteligencia de la norma.
+
+DÉCIMO SEXTO: De esta manera, debe concluirse que el despido del demandante se ajusta a los parámetros del inciso segundo del artículo 161 del código el trabajo, por lo que debe rechazarse la demanda.”. Como se puede apreciar, la jurisprudencia es conteste al señalar que el cargo de Agente o jefe Oficina es un cargo que cae dentro de la causal establecida en el artículo 161 inciso 2 del Código del Trabajo, esto es, desahucio escrito del empleador
+
+IV. IMPROCEDENCIA DE LAS PRESTACIONES DEMANDADAS.
+1. Del recargo legal pretendido. En este punto es necesario abordar dos situaciones diversas, en primer lugar, desde ya rechazamos la procedencia del recargo legal, toda vez que el despido se ha ajustado plenamente a derecho, siendo el actor de aquellos trabajadores que cumplen con los presupuestos necesarios para la aplicación de la causal de despido en comento. 2. Del descuento al aporte del Seguro de Cesantía. En primer lugar, debemos mencionar que el aporte de mi representada relativo al seguro de cesantía del demandante se ha descontado en virtud de lo que dispone la ley, por tanto, no se trata de un descuento ilegal como refiere el demandante. En efecto, la Ley N.º 19.728 faculta expresamente al empleador, para descontar del finiquito el aporte que éste hubiere efectuado en la cuenta del trabajador cuyo contrato de trabajo hubiere concluido por la causal del artículo 161 del Código del Trabajo. Así, señala expresamente la referida ley 19.728 en su artículo 13 “Si el contrato terminare por las causales previstas en el artículo 161 del Código del Trabajo, el afiliado tendrá derecho a la indemnización por años de Banco Santander prevista en el inciso segundo del artículo 163 del mismo cuerpo legal, calculada sobre la última remuneración mensual definida en el artículo 172 del mismo, con un límite máximo de trescientos treinta días de remuneración, a menos que se haya pactado, individual o colectivamente, una superior, caso en el cual se aplicará esta última Se imputará a esta presentación la parte del saldo de la Cuenta Individual por Cesantía constituida por las cotizaciones efectuadas por el empleador más su rentabilidad, deducidos los costos de administración que correspondan, con cargo a las cuales el asegurado pueda hacer retiros en la forma que señala el artículo 15”. En consecuencia, lo que Banco Santander plantea como descuento al actor no es otra cosa que la expresión de una facultad reconocida en la ley. Hacemos presente a SS. que el descuento anterior surte efecto incluso si se declara injustificado el despido por parte del Tribunal, pues la Ilustrísima Corte de Apelaciones de Santiago, en fallo de fecha 02 de junio de 2017, ROL 492- 2017, señaló expresamente que el referido descuento procedía incluso si el despido era posteriormente declarado injustificado. En efecto, señaló expresamente la Corte de Apelaciones de Santiago: “7.- Así, tratándose de causales de despido que de acuerdo con el Código del Trabajo no dan derecho a indemnización por años de Banco Santander, el seguro de cesantía actúa como una suerte de indemnización a todo evento, puesto que, en tales casos, con la sola presentación de los antecedentes que den cuenta del término de la relación laboral, el trabajador tiene derecho a efectuar giros mensuales con cargo al fondo formado con las cotizaciones aportadas y su rentabilidad, incluidas las que haya realizado el empleador (art culos 14, 15 y 51). En los otros casos que de suyo dan derecho a indemnización, esto es, las hipótesis del artículo 161 del Código del Trabajo-, el régimen de la ley 19.728 mantiene subsistente la responsabilidad directa del empleador, de modo que éste debe pagar la indemnización legal pertinente, pero a modo de equilibrar sus efectos-, queda obligado a enterar únicamente la diferencia que se produzca entre el monto acumulado como resultado de su aporte en la Cuenta Individual por Cesantía y el equivalente a 30 días de la última remuneración mensual devengada por cada año de Banco Santander (…). 8.- Por lo tanto, la calificación judicial de injustificado de un despido por necesidades de la empresa tiene como consecuencia económica la obligación de pagar el incremento legal respectivo (30%), única sanción y consecuencia que la ley ha previsto en la materia, pero no incide ni es obstáculo para la imputación reclamada. JUSTIFICADO O NO, lo cierto es que el contrato de trabajo terminó por la causal de necesidades de la empresa. Por consiguiente, la declaración judicial aludida no es impedimento para efectuar la imputación respectiva.” (lo destacado es nuestro) En virtud de lo expuesto, la calificación judicial de injustificado un despido por necesidades de la empresa no incide ni es obstáculo para el descuento reclamado. Justificado o no, lo cierto es que el contrato de trabajo terminó por la causal de necesidades de la empresa. Por consiguiente, los descuentos realizados por el empleador, por concepto de aporte de seguro de cesantía, han sido ajustados a derecho, siendo improcedentes las alegaciones de la demanda. Finalmente, de acuerdo a la reciente Sentencia de Unificación de Jurisprudencia, dictada por la Cuarta Sala de fecha 3 de enero de 2020, ROL 11905-2019, se concluyó categóricamente que el descuento por concepto de aporte al AFC procede aun en caso de que se determine como injustificado el despido, declarado así por nuestro máximo Tribunal de la República, según el siguiente tenor: “Cuarto: Que las sentencias acompañadas para la comparación de la materia de derecho propuesta, expresan, en síntesis, que para que proceda la imputación a la indemnización por años de Banco Santander de la parte del saldo de la Cuenta Individual por Cesantía, constituida por las cotizaciones efectuadas por el empleador, no es necesario que el despido motivado por necesidades de la empresa sea calificado como justificado por el tribunal, en otras palabras, que tal restitución procede siempre, siendo irrelevante que posteriormente la causal invocada sea o no judicialmente aceptada, pues como quiera que sea, esgrimida alguno de los motivos de despido que contempla el artículo 161 del Código del Trabajo, el contrato terminó por dicha causal y no por otra, aunque se declare improcedente su aplicación”. (lo destacado es nuestro). Por último – y siguiendo los criterios anteriores – se pronuncia un reciente fallo de la Excelentísima Corte Suprema de Justicia, mediante recurso de unificación de jurisprudencia, RIC 20854-2020, resuelto con fecha 15 de septiembre de 2021: Quinto: Que el seguro obligatorio que consagra la Ley N°19.728, persigue atenuar los efectos de la cesantía y la inestabilidad en el empleo, estableciendo un sistema de ahorro obligatorio sobre la base de la instauración de cuentas individuales -conformado por cotizaciones mensuales del empleador y del trabajador-, y la creación de un fondo solidario que opera como uno de reparto, complementario al sistema de cuentas, que se financia con una fracción que aporta el empleador y otra que es de origen estatal. Corrobora lo señalado el Mensaje que dio origen a dicha ley, que indica: “...Mediante el establecimiento del presente sistema, el trabajador logrará una mayor certeza en la percepción de los beneficios por cesantía, en el caso de las contingencias referidas. A su vez, el empleador verá transformada su actual responsabilidad única de indemnización, por otra en que se combina el pago de las cotizaciones previas con el pago directo de una prestación. De este modo, por una parte, se otorga al trabajador una mejor protección, por el mayor grado de certeza de los beneficios que percibirá y, por otra, facilita al empleador su obligación de pagar las indemnizaciones que corresponda, lo cual tiene particular trascendencia en el ámbito de la micro, pequeña y mediana empresa...” Tratándose de las causales de término del contrato de trabajo que no dan derecho a indemnización por años de servicios, tal seguro actúa como un resarcimiento a todo evento, puesto que el trabajador, con la sola presentación de los antecedentes que den cuenta de la desvinculación, efectuará giros mensuales con cargo al fondo formado con las cotizaciones aportadas y su rentabilidad, según lo disponen los artículos 14, 15 y 51 de la Ley N°19.728. Sin embargo, conforme lo prescribe su artículo 13, si la relación laboral termina por las causales previstas en el artículo 161 del Código del Trabajo, el afiliado tiene derecho a la indemnización por años de servicios prevista en el inciso segundo de su artículo 163, calculada sobre la última remuneración mensual que define el artículo 172, con un límite máximo de trescientos treinta días de remuneración, a menos que se haya pactado, individual o colectivamente, una superior, caso en el cual se aplicará esta última, a la que se debe imputar la parte del saldo de la cuenta individual constituida por las cotizaciones que efectuó́ el empleador, más su rentabilidad, deducidos los costos de administración, con cargo a las que el asegurado podrá́́ hacer retiros en la forma que señala el artículo 15 de esa ley, sin que pueda considerarse, en ningún caso, el monto constituido por los aportes del trabajador. Finalmente, se debe considerar que el inciso penúltimo del artículo 168 del Código del Trabajo, dispone que, si el juez desestima la aplicación de una o más de las causales de terminación del contrato contenidas en sus artículos 159 y 160, se debe entender que se produjo por alguna de aquellas señaladas en el artículo 161, en la fecha en que se invocó, surgiendo el derecho para que el trabajador demande los incrementos legales pertinentes. Entonces, si el despido se fundó en la causal de necesidades de la empresa, el empleador debe pagar la indemnización legal pertinente, en este caso, aumentada en un 30%, por lo que, la calificación judicial que se haga del despido, tiene como efecto económico el referido incremento, sin incidir en la imputación discutida. Sexto: Que, de lo expuesto, se debe colegir que si el contrato de trabajo terminó por la causal de necesidades de la empresa o desahucio del empleador, procede aplicar lo dispuesto en los artículos 13 y 52 de la Ley N°19.728, por tanto, la declaración judicial que se efectúe del despido no constituye un obstáculo para realizar la imputación reclamada, decisión que es además coherente con aquella que se contiene en el fallo ofrecido a modo de contraste.” (énfasis propio)
+
+V. DEFENSA NEGATIVA. Sin perjuicio de las afirmaciones vertidas en lo precedente, esta parte asume una defensa negativa en todo aquello que no haya sido reconocido expresamente en esta contestación.
+
+PETICIÓN CONCRETA: se sirva tener por contestada la demanda por despido injustificado y cobro de prestaciones interpuesta por HERNÁN GAJARDO GUERRERO en contra de mi representada BANCO SANTANDER CHILE, y se proceda a declarar lo siguiente:
+
+1. Que las funciones del actor se encuadran en la hipótesis de la causal de despido invocada.
+
+2. Que la carta de despido cumple con los requisitos formales exigidos por el artículo 162 del Código del Trabajo.
+
+3. Que el despido del actor fue justificado, debido y procedente.
+
+4. Que nada se debe por conceptos de recargo legal.
+
+5. Que el descuento al aporte del empleador en el seguro de cesantía es procedente.
+
+6. Que se condene expresamente en costas a la contraria o, en subsidio, se exima a esta parte de su pago.
+
+TERCERO: Audiencia preparatoria.
+
+Que llamados a conciliación esta no prospero.
+
+Hechos a probar:
+
+1.- Efectividad que el actor es trabajador de exclusiva confianza y/o con facultades generales de administración conforme al artículo 161 inciso segundo del Código del Trabajo. Hechos y circunstancias.
+
+2.- Términos de la carta de despido.
+
+3.- Contenido de la cláusula del convenio colectivo en relación a la solicitud de incremento de la indemnización. Hechos y circunstancias.
+
+CUARTO: Audiencia de juicio.
+
+1.- PARTE DEMANDANTE
+
+Documental:
+1. Carta de despido de fecha 25 de octubre de 2022.
+
+2. Finiquito de contrato de trabajo de fecha 15 de noviembre de 2022.
+
+3. Convenio colectivo de trabajo de 16 de febrero de 2021.
+
+Confesional:
+Atendida la incomparecencia del representante de la parte demandada, el apoderado demandante solicita se haga efectivo el apercibimiento del artículo 454 N°3 del Código del Trabajo. El Tribunal deja su resolución para definitiva.
+
+Testimonial: Previo juramento de rigor declara María José Escobar Ramírez, cédula de identidad N°10.693.542-4, domiciliada en Laguna de los Piuquenes N°960, Machalí, ingeniero comercial, cuyos dichos se encuentran grabados en la pista de audio respectiva
+
+2.- PARTE DEMANDADA
+Documental:
+1. Contrato de trabajo de fecha 01 de octubre de 2014 y sus anexos.
+
+2. Carta de despido de fecha 25 de octubre de 2022.
+
+3. Finiquito de contrato de trabajo de fecha 25 de octubre de 2022.
+
+4. Certificado de aporte empleador al seguro de cesantía.
+
+5. Liquidaciones de remuneraciones del trabajador de los meses mayo a octubre de 2022.
+
+6. Reglamento interno de orden higiene y seguridad del Banco Santander.
+
+7. Escritura de otorgamiento de poderes de fecha 05 de enero de 2015.
+
+8. Poderes especiales de Banco Santander a Aguilera Ulloa Paula Andrea y otros, de fecha 29 de mayo de 2029.
+
+9. Convenio colectivo de fecha 16 de febrero de 2021.
+
+Confesional: Atendida la incomparecencia del demandante el apoderado de la parte demandada solicita se haga efectivo el apercibimiento legal previsto en el artículo 453 N°5 en la sentencia definitiva. El Tribunal deja su resolución para definitiva.
+
+ANÁLISIS DE LA PRUEBA RENDIDA.
+
+I.- Carta de despido.
+
+QUINTO: Que se remitió carta de despido al actor con el consiguiente tenor:
+
+“Cumplo con comunicar a Ud. la decisión de la empresa de poner término a su contrato de trabajo con fecha 25 de octubre de 2022, en virtud de la causal establecido en el artículo 161 inc.2 del Código de Trabajo, esto es, DESAHUCIO ESCRITO DEL EMPLEADOR.
+
+En virtud de lo dispuesto en el artículo 162 y 163, le informo que sus haberes al término del contrato son los siguientes:
+
+a) Indemnización legal para efecto de los dispuesto en cláusula Décima letra A último párrafo del instrumento colectivo …..………….……….$33.915.648.-
+
+b) Diferencia para alcanzar el total establecido en la cláusula del instrumento colectivo.………………..……… ……………………………..$34.135.800.-
+c) Indemnización mes de aviso ……………………… ……………$ 5.670.954.-
+
+d) Indemnización feriado legal (23 días) …………………… ……$ 4.267.075.-”
+SEXTO: Que el inciso 2° del artículo 161 del Código del Trabajo prescribe en lo pertinente:
+
+“En el caso de los trabajadores que tengan poder para representar al empleador, tales como gerentes, subgerentes, AGENTES o apoderados, siempre que, en todos estos casos, estén dotados, a lo menos, de facultades generales de administración... el contrato de trabajo podrá, además, terminar por desahucio escrito del empleador, el que deberá darse con treinta días de anticipación, a lo menos, con copia a la Inspección del Trabajo respectiva. Sin embargo, no se requerirá esta anticipación cuando el empleador pagare al trabajador, al momento de la terminación, una indemnización en dinero efectivo equivalente a la última remuneración mensual devengada. Regirá también esta norma tratándose de cargos o empleos de la exclusiva confianza del empleador, cuyo carácter de tales emane de la naturaleza de los mismos.
+II.- Hipótesis de termino de relación laboral
+
+SÉPTIMO: Que el actor expresa: “Del tenor de la carta, se puede advertir que mi ex empleador no señala o indica cuál de las tres hipótesis del artículo 161 inc. 2 del Código del Trabajo se aplica en la terminación del contrato, a saber:
+
+1.- trabajadores de casa particular,
+
+2.- trabajadores que tengan poder para representar al empleador y que estén dotados de facultades generales de administración, o bien,
+
+3.- trabajadores de exclusiva confianza del empleador.”
+
+Que en relación a la interrogante que plantea el demandante claramente podemos descartar la labor de trabajador de casa particular ya que por el trabajo desempeñado no realizaba laborales al servicio de una o más personas naturales o de una familia, en trabajos de aseo y asistencia propios e inherentes al hogar. Tampoco calza la contratación con una persona que realiza labores en instituciones de beneficencia con finalidades de protección o asistencia propios de un hogar y los choferes de casa particular.
+
+Que entonces solo nos quedan las hipótesis 2 y 3 anterior. El empleador indica que son ambas, tener facultades generales de administración con poder para representar y trabajador de exclusiva confianza. No se observa en esta omisión por la naturaleza de la función para la cual fue contratado el demandante y trabajo una situación de indefensión ya que el propio contrato indica que es un trabajador de exclusiva confianza y además poseía un poder especial para representar al empleador.
+
+Es decir, la propia contratación del actor permitía comprender el motivo del despido, sin perjuicio que el trabajador no esté de acuerdo con ello.
+
+III.- Fundamentación del despido en el caso del desahucio.
+
+OCTAVO: Que el demandante señala también que el legislador “no exime al empleador de la fundamentación del despido”
+
+Que en el caso del DESAHUCIO no es necesario expresar los motivos de hecho porque se despide. Pueden ser múltiples, pero la ley no obliga a expresa que conlleva a un empleador a perder la confianza en un trabajador o despedir respecto de una persona que tengan poder para representar al empleador y que esté dotado de facultades generales de administración. Lo que caracteriza el desahucio es la facultad para despedir sin indicar el motivo o razón de porque termina el vínculo contractual de manera unilateral. Ahora si existiere una situación a juicio del trabajador que permita presumir alguna violación de derechos fundamentales y con ello un procedimiento de tutela laboral (ejemplo: un acto discriminatorio) deberá plantearse, situación que este no es el caso porque el trabajador solo lo circunscribió al asunto de las indemnizaciones tarifadas del código del trabajo y la eventual devolución del aporte del seguro de cesantía.
+
+El desahucio no requiere fundamentación en la aplicación del despido. El fundamento del desahucio (o desistimiento) se encuentra en gran medida en el mayor grado de confianza (intuito personae) derivado del elemento objetivo de las facultades asumidas. Se estima que la pérdida de confianza justificativa de esta revocación unilateral del empresario, no tiene que asociarse necesariamente a un actuar incorrecto del gerente, pues si se considerara la definición del término confianza como esperanza firme que se tiene de alguien o algo, se observa que las expectativas de confianza que puede depositar a un empresario sobre aquel cargo, puede ceñirse, tanto en la procura de una gestión recta como también al ejercicio de funciones profesionales a la altura de las circunstancia que requiere la empresa. Si la idoneidad del gerente para cumplir adecuadamente las obligaciones ligadas al contrato, no convencen finalmente al empresario – principalmente por los resultados económicos del negocio – puede decirse que se produce una pérdida de confianza en las dotes profesionales del directivo, que legitimarían, dada la envergadura de sus facultades ostentadas, dicha clase de extinción contractual. Esto permite al empresario, decidir unilateralmente sin que su ejercicio precise una justificación; ahora bien, aun cuando el desistimiento, sea una resolución que no necesita fundamentación, no quiere decir que careza de causa, pues tras dicha decisión siempre hay un motivo interno, pero dicha razón no es valorable jurídicamente, sino que es una causa interna que opera similarmente a cuando se revoca un contrato durante el periodo de prueba (del artículo 147 del Código del Trabajo). Este es uno de los aspectos diferenciadores de la relación laboral de gerentes o apoderados se refiere al cese de su relación laboral. Como se sabe, el inciso 2° del artículo 161 del Código del Trabajo, contempla como causal de término conocido como “desahució escrito del empleador” que consiste en una “mera manifestación unilateral de voluntad”, formalizado a través de un aviso o comunicación escrita, en orden a que no se desea perseverar en el contrato celebrado. No requiere de fundamentación de modo que el tribunal no puede pronunciarse sobre su justificación o injustificación.
+
+IV.- Contrato de trabajo con facultades de dirección superior, poderes especiales para representar al Banco y declaración expresa de ser personal de exclusiva confianza.
+
+NOVENO: Contrato de trabajo del actor. Que la relación laboral entre las partes comienza con fecha 02 de marzo de 2011 ya que consta en el contrato incorporado de fecha 01 de octubre de 2014 en la ciudad de Cauquenes se contrata como Agente al demandante que se obliga a prestar los servicios de jefe de Oficina III y se reconoce dicha antigüedad.
+
+1.- Cargo y funciones. El cargo implicará dirigir y administrar de forma eficiente y oportuna la oficina o sucursal, orientándola al cumplimiento de metas y demás compromisos comerciales, controlando o supervisando a aplicación de las políticas de riesgo y riesgo operacional, velando por la calidad y oportunidad del servicio hacia los clientes y mejorando permanentemente la rentabilidad de dicha unidad.
+
+En el cumplimiento de su cargo de agente será el encargado de planificar las estrategias acciones comerciales que permitan generar oportunidades de negocios con organismos públicos y privados
+
+Estableciendo objetivos y controlando el cumplimiento de los mismos respecto del personal a su cargo será responsable de la administración eficiente del personal o recursos humanos y financieros efectuando todos los controles y el seguimiento de los compromisos adquiridos con sus jefaturas superiores también deberá asegurar el correcto uso de las herramientas comerciales por parte de su personal a cargo específicamente terminal financiero browser si se va intranet blanca y gestión dirigida como de cualquier otra herramienta tecnológica que la empresa ponga a disposición de la sucursal para el desarrollo de sus funciones participar permanentemente en el comité de normalización y de crédito de riesgo con la finalidad de estar en pleno conocimiento de las operaciones que se desarrollan al interior de sus respectivas sucursal
+
+2.- Las partes declaran y ratifican que para todos los efectos legales que procedan el cargo o función que servirá el agente constituye un cargo de exclusiva confianza del empleador y en razón de las funciones de jefatura administración y responsabilidad general que la gente desempeñará para la empresa antes descritas para el cargo de jefe de oficina lo anterior dada la naturaleza de estos dentro de la organización de la empresa
+
+Anexo de contrato: Que luego se suscribe ANEXO DE CONTRATO DE TRABAJO con fecha 01 de noviembre de 2021 que señala que actualmente desempeña el cargo de AGENTE II firmando una actualización de contrato en cuanto a la remuneración:
+
+Sueldo base $3.991.281.-
+
+Gratificación legal: $997.820.-
+
+Gratificación mensual 25% sueldo base mensual determinado en conformidad al artículo 46 del Código del Trabajo.
+
+DECIMO: Poder especial para representar al banco. Que de acuerdo con documento el actor poseía un PODER ESPECIAL para representar al BANCO SANTANDER, conforme se incorporó (Repertorio N°2351-2019 de fecha 29 de mayo de 2019 suscrito ante notario Sra. Nancy de la Fuente Hernández, en Santiago de Chile). En el documento se lee que compareció don Miguel Arturo Mata Huerta, Gerente General de Banco Santander Chile quien comparece en dicha calidad, debidamente facultado para conferir mandatos y en uso de las atribuciones viene en conferir poder especial a los apoderados que se señalan a continuación entre ellos al demandante citado en página 4 (HERNAN GAJARDO GUERRERO Rut 13.922.290-9) PARA QUE ACTUANDO UNO CUALQUIERA DE ELLOS, SUSCRIBAN A FAVOR DEL BANCO SANTANDER CHILE CUALQUIER ESCRITURA O INSTRUMENTO EN EL CUAL EL BANCO SANTANDER CHILE,
+
+1.- otorgue un crédito o mutuo hipotecario de cualquier índole pudiendo:
+
+- aceptar, posponer, endosar, liberar, alzar las hipotecas y prohibiciones de gravar y enajenar constituidas en favor del banco correspondiente a estos mutuos
+
+- facultándolo para suscribir las escrituras públicas respectivas fijar las modalidades y condiciones de estas operaciones
+
+- y en general suscribir todo tipo de constancia o certificados que digan relación con dichos créditos o mutuos hipotecarios
+
+2.- Asimismo podrán recibir, aceptar, cancelar, posponer, dividir, y liberar hipotecas, prendas, fianzas y otras garantías que provengan de la contratación de todo tipo de créditos comerciales y de cualquier índole.
+
+- estando facultados también para suscribir las escrituras públicas respectivas fijar las modalidades y condiciones de estas operaciones
+
+- y en general suscribir todo tipo de constancias o certificados que digan relación con estos créditos
+
+UNDÉCIMO: Que la representación es el vínculo jurídico en virtud del cual una persona se encuentra obligada directamente respecto de un tercero, al cumplimiento de un acto celebrado en su interés por su representante. Se caracteriza la representación por la existencia de un vínculo que une directamente al representado con el tercero, desapareciendo de la vida jurídica el representante del primero, en lo que se refiere a los efectos del acto. De modo, pues, que celebrado el contrato por el representante, no es éste quien va a experimentar en su patrimonio las consecuencias beneficiosas o perjudiciales de él, sino la persona por cuya cuenta actuó.
+
+V.- Conclusión.
+
+DUODÉCIMO: Que el actor señalo en su demanda:
+
+“…nunca tuve facultades generales de administración ni menos mi cargo era de aquellos de exclusiva confianza del empleador, ello, considerando que:
+
+1.- no representaba al empleador en juicios y negocios de cualquier naturaleza,
+
+2.- no tenía la facultad de rendir cuentas, cobrar y percibir judicial y extrajudicialmente asuntos o negocios de la empresa,
+
+3.- no tenía facultades de firmar contratos de trabajo, anexos, cartas de despidos, finiquitos, transacciones, avenimientos,
+
+4.- no tenía facultades de comprar, vender, enajenar, permutar, arrendar y depositar bienes muebles e inmuebles, acciones, bonos, debentures y otros valores, suscribir acciones y firmar traspasos, suscribir, por instrumentos públicos y privados, toda clase de actos y contratos, revocarlos, renunciarlos, rescindirlos, resolverlos o modificarlos, fijar, pagar, cobrar y percibir precios, rentas y remuneraciones,
+
+5.- no tenía facultades de aprobar operaciones ni tampoco daba condiciones de aprobación,
+
+6.- no tenía injerencia en otras sucursales del país ni en la comuna de Rancagua, etc., en general.
+
+Sólo ejercía el cargo de “agente II” con una supervisión directa por parte de mi ex empleador, sin facultades generales de administración ni en un cargo de exclusiva confianza del empleador.”
+
+Que el listado que establece el demandante de facultades generales de administración la ley no fija un conjunto mínimo para estimar que si existen o no.
+
+La testigo Sra. María José Escobar (ex ejecutiva del Banco hasta 2019)da cuenta que ser AGENTE de un Banco es una carrera porque se transita por distintos cargos: “ Se llega a ser agente con una carrera buena cumpliendo los objetivos que quiere el Banco, puede ser ejecutivo de cuentas, luego ejecutivo pyme, luego si lo haces bien pueden ascender a AGENTE.” Que este relato da cuenta del cargo de jefatura que se genera en una institución Bancaria al llegar a ser AGENTE.
+
+Que se puede tener por acreditado que demandante estaba dotado en su calidad de AGENTE (Agente II) de poderes especiales para representar al banco dentro del estricto giro que poseen estas instituciones en el uso de recursos de terceros pudiendo obligar al Banco Santander Chile en todo lo relacionado con la suscripción de escrituras de mutuo o créditos hipotecarios, prendas y todo tipo de garantías y sus cancelaciones calzando con lo indicado en el artículo 161 inciso 2° del Código del Trabajo en cuanto puede aplicarse el desahucio escrito del empleador respecto de “trabajadores que tengan poder para representar al empleador y que estén dotados de facultades generales de administración.”
+El actor podía obligar al banco en cuestiones propias de su giro mediante su firma en un conjunto de operaciones comerciales que describe el poder especial y ello implica un poder para representar y con facultades en el fondo para administrar el negocio bancario.
+
+Las facultades generales de administración también se refiere a las facultades de dirección y mando que se otorgan como encargado de dirigir y controlar el personal en la gestión de negocios del giro bancario en una sucursal (ejecutivos), estando dotado de una jornada horaria del artículo 22 inciso 2° del Código del Trabajo con un grado de subordinación atenuado en consideración de la función y el cargo de jefatura reconocido por la testigo sra. María José Escobar.
+
+En cuanto a ser un trabajador de exclusiva confianza este juez también entiende que por la naturaleza de sus funciones recién descritas encuentra asilo en esta hipótesis. Al respecto el empleador estimo dejarlo expresamente establecido en el contrato y el trabajador lo acepto y no existen antecedentes que se aplique respecto de otro personal del Banco (ejecutivos, guardias, cajeros). En este sentido el trabajador desempeñaba las labores para la cual fue contratado de jefatura no existiendo una desviación de las tareas asignadas. Lo que dice el contrato es lo que ejecutaba día a día el demandante. No existe prueba en contrario que desvirtué lo anterior.
+
+En cuanto a la facultad de dirección y de despedir legalmente también la tiene por ser una presunción de derecho establecida en el artículo 4 del Código del Trabajo que señala que “…se presume de derecho que representa al empleador y que en tal carácter obliga a éste con los trabajadores, el gerente, el administrador, el capitán de barco, y en general, la persona que ejerce habitualmente funciones de dirección o administración por cuenta o representación de una persona natural o jurídica.”
+En definitiva, el despido se encuentra correctamente aplicado y se estimara ajustado a derecho.
+DECIMO TERCERO: Testigo presentada por el demandante. Que compareció doña María José Escobar Ramírez, trabajadora de Empresa Principal en Inversiones desde el año 2019. La testigo declaro sobre hechos que los conoce porque fueron compañeros de trabajo en el banco y como como se desarrolla el negocio bancario, pero su relato se encuentra desfasado en el tiempo porque los hechos que declara se relacionan a enero de 2019 hacia atrás y el actor fue despedido en octubre del año 2022. No relata el último año de prestación de servicios y sus poderes que ni siquiera conoce o nombra. La testigo no se refiere al poder especial para representar al Banco Santander que es el elemento más decidor en cuanto a considerar que tiene poder para representar al empleador y está dotado de facultades generales de administración al estar a cargo de un personal en el banco que reconoce esto último la testigo. El hecho que para colocar un crédito sea examinado por un comité de riesgo no es un antecedente para excluirlo del artículo 161 inciso 2° del Código del Trabajo considerando que es un instancia técnica del negocio bancario y el Agente participa en preparar la propuesta de crédito evaluando junto a los ejecutivos los créditos y posteriormente era quien suscribía el otorgamiento de crédito o mutuo hipotecario de cualquier índole, dando cuenta de sus facultades para suscribir las escrituras públicas, fijar las modalidades y condiciones de estas operaciones, etc.
+
+Al respecto declaro: Conozco al demandante porque trabaje en el Banco Santander cuando él trabajaba en el 2017, 2018 y parte 2019 trabajamos en la sucursal de CUEVAS. Yo renuncié. Yo era gestor de inversiones. El era agente de la Sucursal. Un agente estaba a cargo administraba un equipo de trabajo que son los ejecutivos, en el caso de Hernán eran los ejecutivos PYMES que eran 4 a 5 ejecutivos. Él dirigía este equipo de trabajo de acuerdo con las metas que el banco daba.
+
+En general una oficina de Banco se organiza de la siguiente manera: Hay un jefe de operaciones que está a cargo de la parte operativa. Luego el Agente que esta a cargo de los ejecutivos. En la sucursal cuando trabajaba ahí habían varios agentes y había un jefe de operaciones, más todos los cajeros, vigilantes, tesorero, eran 25 a 30 personas. Habían tres agentes N°1 Hernán, Agente Pyme N°2 que era Claudio y Agente Empresa Patricio, más el jefe de operaciones. Hernán no estaba a cargo mío porque mi jefe era el jefe zonal que es el mismo jefe de los agentes.
+
+Él debía lograr de manera eficiente las metas que imponía el Banco, todos trabajábamos por metas. El equipo de trabajo tiene metas de todo de consumo, de seguro, de hipotecario.
+
+Cada jefatura esta a cargo de su respectivo equipo de trabajo. El jefe zonal pertenecía a la zona territorial centro en Talca. Habían tres subgerentes y nuestro jefe eras de la zona 1.
+
+Nosotros somos amigos en común, desde que lo común y nuestras hijas estudian en el mismo colegio. Yo renuncie el 2019 ( aproximadamente) enero. Se llega a ser agente con una carrera buena cumpliendo los objetivos que quiere el Banco, puede ser ejecutivo de cuentas, luego ejecutivo pyme, luego si lo haces bien pueden ascender a AGENTE. Quien decide que si el dinero se presta a un cliente es el área de riesgo del Banco y el rol del AGENTE es preparar la propuesta. No decide si facilita un crédito, hay parámetros en el área riesgo. El AGENTE con el ejecutivo arman una propuesta y si aumenta o no lo decide el área riesgo. El AGENTE no tiene que firmar el horario de trabajo y el ejecutivo sí.
+
+CONSIDERANDOS FINALES
+
+DECIMO CUARTO: Que la demás prueba en nada altera lo resuelto por lo que será desestimada. En especial:
+
+1.- No se aplicarán los apercibimientos legales – no comparecencia del actor ni del representante del demandado - por estimar que mediante la prueba rendida es posible resolver el caso
+
+DECIMO QUINTO: Que no se condena en costas al demandante por estimar que tuvo motivo plausible para litigar
+
+Y VISTOS lo dispuesto en los artículos citados y 446 y siguientes del Código del Trabajo se resuelve que:
+
+I.- Que se RECHAZA la demanda interpuesta por don HERNÁN ALEJANDRO GAJARDO GUERRERO, chileno, cédula nacional de identidad número 13.097.267-5, por despido injustificado, indebido o improcedente, y reintegro del aporte del empleador al seguro de cesantía en contra de su ex empleador BANCO SANTANDER CHILE, Rut: 97.036.000-K, representado legalmente por MAXIMILIANO SOTO SEPÚLVEDA, cédula nacional de identidad número 14.205.926-6, declarando que el despido que sufrió el demandante se encuentra ajustado a derecho.
+
+II.- Que no se condena en costas al demandante por estimar que tuvo motivo plausible para litigar.
+
+Regístrese y notifíquese.
+
+RIT: O-677-2022
+
+Resolvió Pablo Vergara Lillo, juez de Letras del Trabajo de Rancagua.
+
+En Rancagua a uno de febrero de dos mil veinticuatro, se notificó por el estado diario la resolución precedente.
+
+� Alfredo Sierra Herrero, Aspectos laborales del gerente: representación empresarial y desahucio. Revista de Derecho de la Empresa, Editorial Legis.
+
+� Stitchkin Branover, David, El Mandato Civil, pág. 11 Editorial Jurídica de Chile.

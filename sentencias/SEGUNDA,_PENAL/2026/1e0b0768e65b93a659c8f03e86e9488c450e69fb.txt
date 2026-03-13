@@ -1,0 +1,92 @@
+METADATA
+
+case_id: 1e0b0768e65b93a659c8f03e86e9488c450e69fb
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8039002
+
+rol: 6688-2026
+
+fecha_sentencia: 2026-02-24
+
+caratulado: ARISTY OLANDIA LORENZO CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veinticuatro de febrero de dos mil veintiséis.
+
+VISTO Y TENIENDO PRESENTE:
+PRIMERO: Que en este procedimiento ejecutivo de cobro de factura, seguido ante el 12 Juzgado de Letras de Santiago, bajo el Rol C-6270-2021, caratulado “Rehau con Sociedad Constructora Telviche Ltda", se ha ordenado dar cuenta de la admisibilidad del recurso de casación en el fondo deducido por la parte ejecutante contra la sentencia de la Corte de Apelaciones de Santiago de siete de enero de dos mil veintiséis, que confirmó el fallo de primer grado que acoge la excepción de pago parcial del artículo 9 del artículo 464 del Código de Procedimiento Civil.
+SEGUNDO: Que el recurso de casación sustantivo lo funda en la infracción del artículo 1698 del Código Civil, en su carácter de norma reguladora de la prueba; y, en los artículos 1568, 1569 y 1591 del Código Civil en cuanto al pago.
+
+Solicita con su recurso que se invalide el fallo recurrido de casación y acto continuo y sin nueva vista, pero separadamente, se dicte la correspondiente sentencia de reemplazo, que acoja la demanda ejecutiva por el total de lo adeudado, esto es, $21.054.350, con expresa condena en costas.
+
+TERCERO: Que, conforme lo previsto en el artículo 772 N° 1 del Código de Procedimiento Civil, el recurso de casación en el fondo está sujeto a un requisito indispensable para su admisibilidad, cuál es que el escrito en que se lo interpone “exprese”, es decir, explicite en qué consiste y cómo se ha producido el o los errores de derecho.
+
+CUARTO: Que, del examen de los antecedentes, consta que el arbitrio de nulidad en estudio no puede prosperar, toda vez la demandante omitió extender la infracción legal a normas sustantivas que, en la especie, tienen el carácter de decisoria de la litis, es decir, preceptos que al ser aplicados permiten resolver la cuestión controvertida, especialmente el artículo 464 del Código de Procedimiento Civil, que en base a la sentencia recurrida y al petitorio del recurso puede desprenderse que es el numeral 9, exigencia que no se satisface con la menciones al momento de fundamentar las infracciones legales que sustenta el recurso de nulidad sustantivo, más si no hay certeza respecto a cuál excepción incide la infracción denunciada, pues era deber del recurrente hacerlo presente y especificarlo en el recurso, lo que no hizo.
+
+Por estas consideraciones y de conformidad, además, con lo dispuesto en los artículos 764, 765, 767, 772 y 782 del Código de Procedimiento Civil, se rechaza el recurso de casación en el fondo interpuesto por el abogado Alexander Parada Tell, en representación de la parte ejecutante, contra la sentencia de siete de enero de dos mil veintiséis (erróneamente fechada en la sentencia de alzada, siete de diciembre de dos mil veintiséis) dictada por la Corte de Apelaciones de Santiago.
+
+Regístrese y devuélvase.
+
+Rol Nº 4352-2026.-
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Santiago, siete de diciembre de dos mil veintiséis.
+
+I. Sobre el ingreso 5977-2023.
+
+Vistos:
+
+Que el punto de prueba fijado comprende de modo adecuado la excepción que se planteó y atendido además lo dispuesto en los artículos 186 y siguientes del código de procedimiento civil, se confirma la resolución apelada del veintiuno de abril de veinte mil veintidós que rechazó reponer la resolución que recibió la causa a prueba.
+
+II. Sobre el ingreso 15.339-2024.
+
+Vistos:
+
+a) Sobre el recurso de casación en la forma:
+
+1°. Que como causal de casación en la forma en la que se sustenta el presente arbitrio, el recurrente invoca el numeral 5° del artículo 768 del Código de Procedimiento Civil, esto es, “en haber sido pronunciada -la sentencia- con omisión de cualquiera de los requisitos enumerados en el artículo 170”, en relación con el numeral 4° de dicho precepto, esto es, prescindiendo de las consideraciones de hecho o de derecho que sirven de fundamento al fallo.
+Luego de transcribir las alegaciones de las partes y las razones y decisiones que permiten al tribunal acceder parcialmente a la excepción de pago que se dedujo por la ejecutada sostiene que la sentencia carece de consideraciones de hecho, puesto que omitiría el análisis de toda la prueba, las que resultaban concluyentes al menos para fundar presunciones graves, precisas y concordantes, omitiendo los deberes de ponderación y valoración de la prueba.
+
+2°. Que el propio recurso al transcribir parcialmente la sentencia hace patente la falta de fundamento del arbitrio que se intentó, aun cuando solo ejecuta el trabajo de parcial transcripción del fallo, con lo expuesto por el recurrente es posible reproducir las razones que condujeron a la jueza de la instancia a tener por parcialmente extinguidas las obligaciones de las que daba cuenta las facturas presentadas como título fundante de las obligaciones.
+
+3°. Que también se sostuvo por la ejecutante que la sentencia incurrió en el vicio de 795 N° 5 del Código de Procedimiento Civil: “En general son trámites o diligencias esenciales en la primera o en la única instancia en los juicios de mayor o de menor cuantía y en los juicios especiales: 5° La agregación de los instrumentos presentados oportunamente por las partes, con citación bajo el apercibimiento legal que corresponda respecto de aquella contra la cual se presentan” Norma que se encuentra en estricta relación con el artículo 800 N° 2 del Código de Procedimiento Civil: “En general, son trámites o diligencias esenciales en la segunda instancia de los juicios de mayor o menor cuantía y en los juicios especiales: 2° La agregación de los instrumentos presentados oportunamente por las partes, con citación o bajo el apercibimiento legal que corresponda respecto de aquélla contra la cual se presentan”. En apoyo de su posición cita jurisprudencia relativa a la forma en que se configura el vicio cuando el tribunal no agrega de modo legal los documentos al proceso.
+
+4°. Que tampoco se configura el motivo reseñado, pues además de estar agregados los documentos al proceso que presenta la ejecutada – no la parte que reclama el vicio – la recurrente tuvo incluso la oportunidad de objetarlos, lo que al tiempo de no venir reclamado como vicio de casación ni motivo de apelación, evidencia que se cumplió con la agregación de los documentos, se ponderó su valor probatorio al punto de aceptar que solo con algunos de ellos se enervaba parcialmente el cobro materia del proceso.
+
+5°. Que no concurriendo motivo de invalidación de la sentencia pues se ha revisado que la misma cumple con las exigencias legales para justificar lo que viene decidido se rechazará la casación que se ha intentado.
+b) Sobre el recurso de apelación
+
+6°. Que además se sostuvo por el apelante de modo subsidiario a sus peticiones de invalidación de la sentencia, luego de transcribir por segunda vez la prueba aportada por el ejecutado, que la sentencia debiera enmendarse ordenando seguir adelante la ejecución por la suma total de las 27 facturas que se presentaron a cobro.
+
+Reclama el apelante, tanto de la forma en que se interpuso la excepción que fue acogida, porque estima que el escrito que la contiene no es claro para alegar la extinción de la deuda por pago o compensación (lo que se deduce de la forma en que reclama como forma de defensa que emplea su contraria), como que los documentos no tienen el valor que el tribunal le otorga, pues las fechas de los supuestos pagos no se compadece con la emisión de las facturas que se prepararon y cobraron, por ello concluye que “…Tal como se expuso anteriormente, la carga de la prueba le está entregada al ejecutado, pues él desde su escrito de excepción de pago debió acompañar los documentos que dan cuenta del pago de las obligaciones que aquí se cobran y no otras. Asimismo, la carencia de razonamiento jurídico de la sentencia impide obtener una mejor comprensión de lo fallado, y por qué estimó configurada la excepción, con documentos que no coinciden con los que se cobran en estos autos”.
+
+7°. Que tal como se advierte de la presentación que la anuncia y de los documentos que en ese mismo momento se acompañan, lo reclamado fue la extinción de la deuda por el pago. Para probar el mismo, no solo se contó con los comprobantes de transferencias, sino que con un oficio remitido por el banco que reporta a favor del ejecutante incluso más pagos de los que se invocaron en el escrito de excepciones, por lo que el tribunal limitó la extinción de la deuda a lo parcialmente pedido y fundado en documentos que se ratificaron por la diligencia de prueba evacuada en tiempo y forma.
+
+8°. Que si lo anterior no fuere bastante, el ejecutante empero sus alegaciones sobre la forma de ponderar la prueba no logra articular ningún motivo para privar de valor probatorio tanto a los documentos aportados por el ejecutado, como el propio reporte del banco que da cuenta de la efectividad de los abonos. La alegación sobre la oportunidad de los pagos no resulta trascedente, compartiendo la afirmación del tribunal de que, justificados los abonos, era carga del ejecutante entregar una justificación diversa a tratarse del pago de las facturas cobradas, lo que en la especie no aconteció, motivo que se asila en lo que estimamos la correcta aplicación de la regla de la carga de la prueba.
+
+9°. Que, los fundamentos tenidos en consideración por la sentenciadora de primer grado para resolver de la forma en que lo hizo, los que esta Corte comparte.
+Por estas consideraciones, normas legales citadas y atendido además lo dispuesto en los artículos 186 y siguientes, 764, 766 y 768 del Código de Procedimiento Civil, se declara:
+I.- Se rechaza el recurso de casación en la forma deducido en la petición principal de la ejecutada.
+II.- Se confirma la sentencia apelada de veinticuatro de abril de dos mil veinticuatro, dictada por el 12° Juzgado Civil de Santiago, en los autos rol N° C -6270-2021.
+
+Redactó la fiscal judicial Troncoso Bustamante
+Regístrese y devuélvase.
+N° 5977- 2023 (Acumulada N°15.339-2024) Civil.
+
+Pronunciada por la Décima Tercera Sala de la Corte de Apelaciones de Santiago integrada con los ministros Patricio Martínez Benavides, Claudia Lazen Manzur y Fiscal Judicial Carla Troncoso Bustamante.
+
+No firma el ministro Patricio Martínez Benavides por encontrarse ausente.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, siete de diciembre de dos mil veintiséis.I. Sobre el ingreso 5977-2023.Vistos:Que el punto de prueba fijado comprende de modo adecuado la excepción que se planteó y atendido además lo dispuesto en los artículos 186 y siguientes del código de procedimiento civil, se confirma la resolución apelada del veintiuno de abril de veinte mil veintidós que rechazó reponer la resolución que recibió la causa a prueba.II. Sobre el ingreso 15.339-2024.Vistos:a) Sobre el recurso de casación en la forma: 1°. Que como causal de casación en la forma en la que se sustenta el presente arbitrio, el recurrente invoca el numeral 5° del artículo 768 del Código de Procedimiento Civil, esto es, “en haber sido pronunciada -la sentencia- con omisión de cualquiera de los requisitos enumerados en el artículo 170”, en relación con el numeral 4° de dicho precepto, esto es, prescindiendo de las consideraciones de hecho o de derecho que sirven de fundamento al fallo. Luego de transcribir las alegaciones de las partes y las razones y decisiones que permiten al tribunal acceder parcialmente a la excepción de pago que se dedujo por la ejecutada sostiene que la sentencia carece de consideraciones de hecho, puesto que omitiría el análisis de toda la prueba, las que resultaban concluyentes al menos para fundar presunciones graves, precisas y concordantes, omitiendo los deberes de ponderación y valoración de la prueba.2°. Que el propio recurso al transcribir parcialmente la sentencia hace patente la falta de fundamento del arbitrio que se intentó, aun cuando solo ejecuta el trabajo de parcial transcripción del fallo, con lo expuesto por el recurrente es posible reproducir las razones que condujeron a la jueza de la instancia a tener por parcialmente extinguidas las obligaciones de las que daba cuenta las facturas presentadas como título fundante de las obligaciones. 3°. Que también se sostuvo por la ejecutante que la sentencia incurrió en el vicio de 795 N° 5 del Código de Procedimiento Civil: “En general son trámites o diligencias esenciales en la primera o en la única instancia en los juicios de mayor o de menor cuantía y en los juicios especiales: 5° La agregación de los instrumentos presentados oportunamente por las partes, con citación bajo el apercibimiento legal que corresponda respecto de aquella contra la cual se presentan” Norma que se encuentra en estricta relación con el artículo 800 N° 2 del Código de Procedimiento Civil: “En general, son trámites o diligencias esenciales en la segunda instancia de los juicios de mayor o menor cuantía y en los juicios especiales: 2° La agregación de los instrumentos presentados oportunamente por las partes, con citación o bajo el apercibimiento legal que corresponda respecto de aquélla contra la cual se presentan”.  En apoyo de su posición cita jurisprudencia relativa a la forma en que se configura el vicio cuando el tribunal no agrega de modo legal los documentos al proceso.4°. Que tampoco se configura el motivo reseñado, pues además de estar agregados los documentos al proceso que presenta la ejecutada – no la parte que reclama el vicio – la recurrente tuvo incluso la oportunidad de objetarlos, lo que al tiempo de no venir reclamado como vicio de casación ni motivo de apelación, evidencia que se cumplió con la agregación de los documentos, se ponderó su valor probatorio al punto de aceptar que solo con algunos de ellos se enervaba parcialmente el cobro materia del proceso.5°. Que no concurriendo motivo de invalidación de la sentencia pues se ha revisado que la misma cumple con las exigencias legales para justificar lo que viene decidido se rechazará la casación que se ha intentado.b) Sobre el recurso de apelación 6°. Que además se sostuvo por el apelante de modo subsidiario a sus peticiones de invalidación de la sentencia, luego de transcribir por segunda vez la prueba aportada por el ejecutado, que la sentencia debiera enmendarse ordenando seguir adelante la ejecución por la suma total de las 27 facturas que se presentaron a cobro.Reclama el apelante, tanto de la forma en que se interpuso la excepción que fue acogida, porque estima que el escrito que la contiene no es claro para alegar la extinción de la deuda por pago o compensación (lo que se deduce de la forma en que reclama como forma de defensa que emplea su contraria), como que los documentos no tienen el valor que el tribunal le otorga, pues las fechas de los supuestos pagos no se compadece con la emisión de las facturas que se prepararon y cobraron, por ello concluye que “…Tal como se expuso anteriormente, la carga de la prueba le está entregada al ejecutado, pues él desde su escrito de excepción de pago debió acompañar los documentos que dan cuenta del pago de las obligaciones que aquí se cobran y no otras. Asimismo, la carencia de razonamiento jurídico de la sentencia impide obtener una mejor comprensión de lo fallado, y por qué estimó configurada la excepción, con documentos que no coinciden con los que se cobran en estos autos”.7°. Que tal como se advierte de la presentación que la anuncia y de los documentos que en ese mismo momento se acompañan, lo reclamado fue la extinción de la deuda por el pago. Para probar el mismo, no solo se contó con los comprobantes de transferencias, sino que con un oficio remitido por el banco que reporta a favor del ejecutante incluso más pagos de los que se invocaron en el escrito de excepciones, por lo que el tribunal limitó la extinción de la deuda a lo parcialmente pedido y fundado en documentos que se ratificaron por la diligencia de prueba evacuada en tiempo y forma.8°. Que si lo anterior no fuere bastante, el ejecutante empero sus alegaciones sobre la forma de ponderar la prueba no logra articular ningún motivo para privar de valor probatorio tanto a los documentos aportados por el ejecutado, como el propio reporte del banco que da cuenta de la efectividad de los abonos. La alegación sobre la oportunidad de los pagos no resulta trascedente, compartiendo la afirmación del tribunal de que, justificados los abonos, era carga del ejecutante entregar una justificación diversa a tratarse del pago de las facturas cobradas, lo que en la especie no aconteció, motivo que se asila en lo que estimamos la correcta aplicación de la regla de la carga de la prueba.9°. Que, los fundamentos tenidos en consideración por la sentenciadora de primer grado para resolver de la forma en que lo hizo, los que esta Corte comparte. Por estas consideraciones, normas legales citadas y atendido además lo dispuesto en los artículos 186 y siguientes, 764, 766 y 768 del Código de Procedimiento Civil, se declara: I.- Se rechaza el recurso de casación en la forma deducido en la petición principal de la ejecutada.II.- Se confirma la sentencia apelada de veinticuatro de abril de dos mil veinticuatro, dictada por el 12° Juzgado Civil de Santiago, en los autos rol N° C -6270-2021.Redactó la fiscal judicial Troncoso BustamanteRegístrese y devuélvase. N° 5977- 2023 (Acumulada N°15.339-2024) Civil.Pronunciada por la Décima Tercera  Sala de la Corte de Apelaciones de Santiago integrada con los ministros Patricio Martínez Benavides, Claudia Lazen Manzur y Fiscal Judicial Carla Troncoso Bustamante.No firma el ministro Patricio Martínez Benavides por encontrarse ausente.
