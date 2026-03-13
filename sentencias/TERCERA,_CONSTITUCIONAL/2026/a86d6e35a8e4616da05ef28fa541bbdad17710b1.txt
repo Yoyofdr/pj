@@ -4,15 +4,15 @@ case_id: a86d6e35a8e4616da05ef28fa541bbdad17710b1
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040446
 
-rol: 38184-2025
+rol: 35905-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: RAMIREZ NAVARRO ORNELIS DEL VALLE / SERVICIO NACIONAL DE MIGRACIONES
+caratulado: ENEL DISTRIBUCION CHILE S.A. CONTRA SUPERINTENDENCIA DE ELECTRICIDAD Y COMBUSTIBLES.(LTE)
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: ▪ Potestad sancionadora
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
