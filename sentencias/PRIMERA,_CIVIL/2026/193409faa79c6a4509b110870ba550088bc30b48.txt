@@ -1,22 +1,22 @@
 METADATA
 
-case_id: bbcee2aff774fa575ead8ca6e27b87fff280ea8d
+case_id: 193409faa79c6a4509b110870ba550088bc30b48
 
-url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040904
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041010
 
-rol: 533-2026
+rol: 60969-2024
 
 fecha_sentencia: 2026-02-25
 
-caratulado: ANYELO GABRIEL MARQUEZ CASTELLANO/SERVICIO NACIONAL DE MIGRACIONES
+caratulado: ILUSTRE MUNICIPALIDAD DE REQUINOA CON COMERCIAL E INDUSTRIAL COLINA VERDE LTDA. (E)
 
-sala: TERCERA, CONSTITUCIONAL
+sala: PRIMERA, CIVIL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: ▪ Rentas municipales
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: ACOGIDA CASACIÓN FONDO, ANULADA SENTENCIA DE (M)
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
