@@ -4,11 +4,11 @@ case_id: b4c373dee5df3e0c28d7190955e17f45795b6de7
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040992
 
-rol: 58039-2025
+rol: 4246-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: MONTENEGRO/SUBSECRETARÍA DEL INTERIOR MINISTERIO DEL INTERIOR
+caratulado: MARTÍNEZ/ISAPRE CRUZ BLANCA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
