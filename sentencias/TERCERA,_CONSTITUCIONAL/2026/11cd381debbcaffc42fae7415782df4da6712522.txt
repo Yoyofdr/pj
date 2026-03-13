@@ -4,19 +4,19 @@ case_id: 11cd381debbcaffc42fae7415782df4da6712522
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046821
 
-rol: 52388-2025
+rol: 54129-2025
 
 fecha_sentencia: 2026-03-03
 
-caratulado: FISCO DE CHILE/CHILQUINTA ENERGÍA S.A. (ACUMULADA 2397-2024-D)
+caratulado: MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES/MUNICIPALIDAD DE TEMUCO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Admisibilidad del recurso de casación en el fondo
+materias: ▪ Bienes nacionales de uso público, bienes fiscales y municipales
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: INADMISIBLE CASACIÓN FORMA RECHAZADA, CASACIÓN FON
+resultado_recurso: CONFIRMA SENTENCIA EN LO APELADO
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
