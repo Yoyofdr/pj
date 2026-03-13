@@ -4,19 +4,19 @@ case_id: 88fc6e287a479340c47fe4acb92d90e8848f3ca4
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046887
 
-rol: 7170-2026
+rol: 9318-2026
 
-fecha_sentencia: 2026-03-02
+fecha_sentencia: 2026-03-03
 
-caratulado: CEIDE RENALD CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: CORTIJO DIAZ MONICA MAYBEE CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

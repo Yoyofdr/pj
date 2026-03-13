@@ -4,19 +4,19 @@ case_id: c505a878e2148b402ba7c492ede1fc9598b42db0
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046758
 
-rol: 246264-2023
+rol: 6699-2026
 
 fecha_sentencia: 2026-03-03
 
-caratulado: STEVEN AGUAYO SANHUEZA
+caratulado: DUEÑAS PINCAY ANDRA AMELIA CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Admisibilidad del recurso de casación en el fondo
+materias: ▪ Recurso de Amparo
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: RECHAZA CASACION EN EL FONDO (M)
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

@@ -4,19 +4,19 @@ case_id: 2546ff1b1a260897fd140ca1074776e385d3b77e
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046744
 
-rol: 9362-2026
+rol: 7943-2026
 
 fecha_sentencia: 2026-03-03
 
-caratulado: NAVARRETE RIVAS SEBASTIÁN HERNÁN CONTRA SEGUNDA SALA CORTE DE APELACIONES DE TEMUCO
+caratulado: ACUÑA QUEZADA ALEJANDRO CLAUDIO CONTRA COMISIÓN LIBERTAD CONDICIONAL CORTE APELACIONES CONCEPCIÓN
 
 sala: SEGUNDA, PENAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Recurso de Amparo
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

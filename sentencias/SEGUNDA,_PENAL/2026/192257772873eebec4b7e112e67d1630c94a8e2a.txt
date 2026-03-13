@@ -4,11 +4,11 @@ case_id: 192257772873eebec4b7e112e67d1630c94a8e2a
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046665
 
-rol: 7206-2026
+rol: 7160-2026
 
 fecha_sentencia: 2026-03-03
 
-caratulado: CASTILLO POBLETE LUIS EULOGIO CONTRA GENDARMERIA DE CHILE
+caratulado: CASTRO LIÑAN JUAN CARLOS CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
