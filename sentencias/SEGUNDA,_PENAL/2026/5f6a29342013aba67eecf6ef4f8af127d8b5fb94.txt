@@ -20,6 +20,7 @@ resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
+Corte Apelaciones ▼
 Santiago, tres de marzo de dos mil veintiséis.
 
 Vistos y teniendo únicamente presente:
@@ -31,6 +32,7 @@ Rol N° 8200-2026.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
+Corte Apelaciones ▼
 C.A. de Santiago
 Santiago, dieciséis de febrero de dos mil veintiséis.
 

@@ -4,17 +4,17 @@ case_id: d630cb587280a574c5311b51494cb56f21a14193
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8048251
 
-rol: 5317-2026
+rol: 4881-2026
 
-fecha_sentencia: 2026-03-04
+fecha_sentencia: 2026-03-03
 
-caratulado: ARANEDA CID MARGARITA ALEJANDRA CONTRA SUSESO Y OTRO
+caratulado: MARTÍNEZ/SUPERINTENDENCIA DE SEGURIDAD SOCIAL-COMPIN
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
