@@ -4,19 +4,19 @@ case_id: e083f2be1a6a3325ac2d057ae3562b0c98cb8853
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049225
 
-rol: 3991-2026
+rol: 3753-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: AREVALO BAÑARES JUANA HELIA/ SUSESO
+caratulado: SALVATIERRA/SUPERINTENDENCIA DE SEGURIDAD SOCIAL- COMISIÓN DE MEDICINA PREVENTIVA E INVALIDEZ
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (FAMILIA) APELACIÓN DE AMPARO
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (FAMILIA) APELACIÓN DE AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

@@ -4,17 +4,17 @@ case_id: 79c9507fa0ccffa47d0c8df4b8ccf31974c1040a
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049149
 
-rol: 6179-2026
+rol: 2212-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: MOYA MADRID GABRIEL ANGEL / SUPERINTENDENCIA DE SEGURIDAD SOCIAL - COMISION DE MEDICINA PREVENTIVA E INVALIDEZ
+caratulado: ORASMA ROJAS / SERVICIO NACIONAL DE MIGRACIONES Y OTROS
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) HECHO
+materias: (PENAL) NULIDAD
 
-recurso: (CRIMEN) HECHO
+recurso: (PENAL) NULIDAD
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
