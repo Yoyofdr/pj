@@ -1,0 +1,36 @@
+METADATA
+
+case_id: 989dcfa42edf2a3d98006b46e8dd338abb126b9b
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8059714
+
+rol: 51629-2024
+
+fecha_sentencia: 2026-03-12
+
+caratulado: HERRERA RODRIGUEZ SEBASTIAN CON BECHTEL CHILE CONSTRUCCIÓN LIMITADA Y OTRO
+
+sala: CUARTA, MIXTA
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: ACOGE,UNIFICACIÓN DE JURISPRUDENCIA (M)
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, doce de marzo de dos mil veintiséis.
+Vistos:
+Se confirma la sentencia apelada de fecha diecinueve de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Valparaíso.
+Regístrese y devuélvase.
+
+Rol N° 10.795-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Santiago, doce de marzo de dos mil veintiséis.Vistos:Se confirma la sentencia apelada de fecha diecinueve de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Valparaíso.Regístrese y devuélvase.Rol N° 10.795-2026. Santiago, doce de marzo de dos mil veintiséis.Vistos:Se confirma la sentencia apelada de fecha diecinueve de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Valparaíso.Regístrese y devuélvase.Rol N° 10.795-2026. Sentencia anonimizada
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, doce de marzo de dos mil veintiséis.Vistos:Se confirma la sentencia apelada de fecha diecinueve de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Valparaíso.Regístrese y devuélvase.Rol N° 10.795-2026. Santiago, doce de marzo de dos mil veintiséis.Vistos:Se confirma la sentencia apelada de fecha diecinueve de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Valparaíso.Regístrese y devuélvase.Rol N° 10.795-2026. Sentencia anonimizada
