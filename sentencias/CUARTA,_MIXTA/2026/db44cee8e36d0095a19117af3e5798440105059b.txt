@@ -1,0 +1,4344 @@
+METADATA
+
+case_id: db44cee8e36d0095a19117af3e5798440105059b
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8059938
+
+rol: 6672-2026
+
+fecha_sentencia: 2026-03-12
+
+caratulado: CÓRDOVA/SERVICIOS GENERALES LTDA
+
+sala: CUARTA, MIXTA
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: INADMISIBLE,UNIFICACIÓN DE JURISPRUDENCIA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, doce de marzo de dos mil veintiséis.
+
+VISTOS Y TENIENDO PRESENTE:
+1°.- Que, en estos autos sobre juicio ordinario, se ordenó dar cuenta de la admisibilidad del recurso de casación en el fondo interpuesto por la parte demandante en contra de la sentencia dictada por la Corte de Apelaciones de La Serena, que confirmó el fallo de primera instancia, de catorce de diciembre de dos mil veintitrés, por el cual se rechazó en todas sus partes la demanda de nulidad absoluta de dos contratos de compraventa.
+
+2°.- Que, en concepto de la recurrente, la sentencia impugnada ha incurrido en los siguientes errores de derecho: a) Infringió el artículo 1683 del Código Civil, en relación con los artículos 19 y 24 del mismo cuerpo legal, por cuanto exigió, para configurar el interés, una insolvencia actual y efectiva del deudor y una afectación concreta del derecho de prenda general, imponiendo requisitos no contemplados por la ley para el ejercicio de la acción de nulidad absoluta; b) Se ha infringido, también, el artículo 318 del Código de Procedimiento Civil, toda vez que el fallo reprocha al actor haberse conformado con el auto de prueba tal como fue fijado por el tribunal de primera instancia, construyendo sobre esa base una insuficiencia probatoria para rechazar la demanda; c) Se ha contravenido el artículo 2465 del Código Civil, por cuanto la sentencia condiciona la procedencia de la acción de nulidad a la demostración de un estado de insolvencia, en circunstancias que dicha norma consagra que el patrimonio del deudor constituye la garantía común de sus acreedores; d) Se ha infringido, asimismo, el artículo 1698 del Código Civil, toda vez que se impuso al actor la carga de acreditar una insolvencia patrimonial actual y efectiva del deudor como consecuencia directa del acto impugnado; e) Se han trasgredido, también, los artículos 1700, 1702 y 1706 del Código Civil, por cuanto la sentencia desconoció o desvalorizó el mérito probatorio de los instrumentos acompañados por el actor, omitiendo otorgarles el valor que la ley les asigna; y f) Se ha quebrantado el artículo 144 del Código de Procedimiento Civil, en relación con el artículo 170 N°6 del mismo cuerpo legal, por cuanto la sentencia impuso al demandante principal el pago de las costas.
+3°.- Que, de la lectura del libelo que contiene el recurso de casación en estudio es posible constatar, que la recurrente omitió extender la infracción legal denunciada a normas que, en la especie, tienen el carácter de decisorias de la litis, esto es, aquellas que produzcan el efecto de resolver la cuestión controvertida al ser aplicadas, tales como los artículos 1386, 1400, 1401, 1437, 1445, 1467, 1545, 1546, 1560, 1681, 1682, 1687 y 1793 y siguientes del Código Civil.
+
+Siendo ello así, la sola mención de las normas indicadas en el recurso como infringidas no constituyen motivo plausible para dar acogida a la casación en el fondo que las contiene, por lo que cabe concluir que el recurso interpuesto adolece de manifiesta falta de fundamento.
+
+4°.- Que, finalmente, en relación con los artículos 160 y 318 del Código de Procedimiento Civil, debe tenerse presente que dichas disposiciones son ordenatoria litis, de manera que su eventual infracción no puede servir de base a un recurso de casación en el fondo, como tampoco la pretendida vulneración del artículo 144 del mismo texto legal, desde que la condena en costas no reviste el carácter de sentencia definitiva, al constituir una medida de orden económico que no forma parte del asunto controvertido y carecer, por ende, de influencia en lo dispositivo del fallo
+Por estas consideraciones y de conformidad además con lo dispuesto en los artículos 767, 772 y 782 del Código de Procedimiento Civil, se rechaza el recurso de casación en el fondo interpuesto por el abogado Pablo Arriagada Díaz en representación de la parte demandante, en contra de la sentencia dictada por la Corte de Apelaciones de La Serena, de fecha veintiséis de enero de dos mil veintiséis.
+
+Regístrese y devuélvase.
+
+Rol Nº 7.491-2026
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Baldesarri Albasini/Angelo Guiseppe
+
+Baldessari Albasini, Ricardo y otro
+
+Otras medidas Prejudiciales
+
+Rol No.133-2024 y acumulada (Rol C-956-2016 del Primer Juzgado de Letras de La Serena).
+
+La Serena, veintiséis de enero de dos mil veintiséis.
+
+Respecto de la petición de inadmisibilidad.
+
+Visto.
+
+1° Que, en cuanto a la alegación de inadmisibilidad del recurso de apelación deducida por la sociedad demandada, al respecto, se sostiene que el recurso interpuesto no cumpliría con las exigencias del artículo 189 del Código de Procedimiento Civil, específicamente en lo relativo a la exposición somera de los fundamentos de hecho y de derecho.
+
+2° Sobre el particular, esta Corte estima que el arbitrio procesal en examen satisface los requisitos legales para su admisibilidad. En efecto, de la lectura del libelo recursivo se desprende con claridad que el recurrente ha impugnado los razonamientos de la sentencia de primer grado referidos a la valoración de la prueba de la simulación y la falta de legitimación activa, señalando con precisión los agravios que la sentencia le causa y las peticiones que somete a la decisión de este tribunal.
+
+3° Cabe recordar que, según la doctrina procesal moderna y la jurisprudencia de nuestros tribunales superiores, el examen de admisibilidad no debe transformarse en un ritualismo extremo que impida el acceso a la revisión jerárquica, siempre que el escrito contenga las argumentaciones mínimas que permitan al tribunal de alzada comprender la crítica al fallo de primera instancia. En la especie, el recurrente ha planteado una discrepancia jurídica sustancial respecto a la interpretación de la simulación y la vigencia del interés para accionar, lo cual dota al recurso de fundamento suficiente para ser conocido y fallado en cuanto al fondo.
+4° Por estas consideraciones, y visto lo dispuesto en el artículo 189 del Código de Procedimiento Civil, se desestima la solicitud de inadmisibilidad, declarándose que el recurso ha sido bien concedido.
+
+Respecto de causa Rol No.133-2024:
+
+VISTO.
+Se reproduce la sentencia apelada de catorce de diciembre de dos mil veintitrés, escrita a folio 564, y SE TIENE, ADEMÁS PRESENTE:
+5° Que la sola existencia de un crédito a favor del actor en contra de uno de los contratantes, en la especie, la suma de $30.000.000.- que éste afirma haber entregado en mutuo a su padre, no basta, por sí misma, para tener por configurado el interés actual y pecuniario que exige el artículo 1683 del Código Civil para accionar la nulidad absoluta del contrato celebrado entre éste y un tercero.
+
+6° En efecto, para que ese crédito pueda servir de fundamento a la pretensión anulatoria, resulta imprescindible que el acreedor demuestre que el acto cuya nulidad persigue ha producido un despojo patrimonial relevante en el patrimonio de su deudor, de tal entidad que torne efectiva, y no meramente eventual, la dificultad o imposibilidad de satisfacer el crédito con los bienes de aquél, esto es, que el contrato impugnado afecte de modo concreto la solvencia del deudor y, por esta vía, el derecho de prenda general que el ordenamiento reconoce a todo acreedor sobre el patrimonio de su deudor, conforme al artículo 2465 del Código Civil.
+
+7° Que, en consecuencia, incumbía al actor no solo acreditar la existencia del crédito que invoca, sino además probar el nexo causal entre éste y el despojo patrimonial denunciado, esto es, que, a raíz de la compraventa de derechos que tilda de simulada, el deudor quedó en una situación patrimonial tal que impide o frustra en términos reales el cobro de la obligación; carga probatoria que, apreciada la prueba conforme a las reglas de la prueba legal tasada, no se tiene por cumplida en la especie, desde que no se rindió prueba suficiente de la efectiva insolvencia o insuficiencia patrimonial actual del deudor correlativa al acto que se pretende anular, máxime si el demandante se conformó con el auto de prueba tal como fue fijado por el tribunal de base.
+
+Y de conformidad a las consideraciones expuestas y lo que señalan los artículos 186 y siguientes, del Código de Procedimiento Civil, SE CONFIRMA en lo apelado la sentencia de catorce de febrero de dos mil veintitrés, transcrita íntegramente en la carpeta digital.
+
+Devuélvase vía interconexión.
+
+Respecto de causa Rol No.159-2024:
+
+VISTO.
+
+8° Teniendo presente que la reconvención desestimada se encontraba condicionada al resultado de la acción principal, en cuanto los perjuicios alegados surgirían en el evento de ser acogida la demanda de nulidad, lo que permite entender que, no obstante su rechazo, la actora fue totalmente vencida respecto de las peticiones sometidas a conocimiento del tribunal.
+
+9° En este contexto, y considerando que, además, se ha hecho valer un perjuicio vinculado con la dilación injustificada del juicio, privando materialmente a la persona jurídica demandada del dominio de los bienes sub lite, y visto lo dispuesto en los artículos 186, 226 y 227 del Código de Procedimiento Civil, SE REVOCA en lo apelado la sentencia sólo en cuanto dispuso que cada parte se hará cargo del pago de sus costas y, en consecuencia, se impone al demandante principal el pago de las mismas.
+Regístrese y devuélvase vía interconexión.
+
+Rol No.133-2024 y acumulada Civil.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C-956-2016
+
+NOMENCLATURA : 1. [40]Sentencia
+JUZGADO : 1 Juzgado de Letras de la Serenaº
+CAUSA ROL : C-956-2016
+CARATULADO : BALDESSARI / BALDESSARI
+
+La Serena, catorce de Diciembre de dos mil veintitrés.
+
+VISTOS:
+
+Que con fecha 13 de abril de 2016 (foja 31), comparece
+
+don Jorge Latorre O’Nell, abogado, domiciliado en Pedro Pablo
+
+Muñoz N°430, Of. 15, La Serena, en representación de don
+
+ANGELO GUISEPPE BALDESSARI ALBASINI, agricultor, domiciliado
+
+en Avenida Arauco N°4132, Villa La Florida, La Serena;
+
+deduciendo demanda en juicio ordinario, en contra de su padre
+
+don GIUSEPPE BALDESSARI LEITA, agricultor, domiciliado en
+
+Colo Colo N°4219, Villa La Florida, La Serena, en contra de
+
+su hermano don RICARDO BALDESSARI ALBASINI, agricultor,
+
+domiciliado en Fray Jorge N°1420, Altos La Florida, La
+
+Serena, y en contra de la sociedad INVERSIONES PROTAL DEL
+
+ELQUI SPA, representada legalmente por doña Daniza Carvajal
+
+Alfaro, domiciliados en Fray Jorge N°1420, Altos La Florida,
+
+La Serena, y en Terminal Agropecuario Las Palmeras, Ruta 5
+
+Norte, pasado Puente Fiscal, Local 13, La Serena.
+
+Refiere que en primer lugar, por escritura pública de
+
+fecha 25 de julio de 2014 otorgada por la Notaría de don
+
+Oscar Fernández Mora de La Serena, Repertorio N°6513-2014,
+
+don Giuseppe Baldessari Leita, ya individualizado, vendió,
+
+cedió y transfirió a don Ricardo Baldessari Albasini, también
+
+ya individualizado, el cincuenta por ciento de los derechos
+
+de dominio que recaían sobre la parcela agrícola denominada
+
+“La Polla Alta”, ubicada en la comuna de Vicuña, cuyos
+
+deslindes especiales son: AL NORTE, con el río; AL SUR, con
+
+la cumbre de los cerros inmediatos; AL ORIENTE, con Callejón
+
+Portillo; AL PONIENTE, con terrenos de La Calera de don
+
+Ernesto Peñafiel.
+
+Indica que el actor, por su parte, había adquirido dicho
+
+porcentaje por compraventas, efectuadas por medio de
+
+escritura pública de fecha 08 de febrero de 1991, otorgada
+
+por la Notaría de Vicuña servida entonces por doña Cesira
+
+Figari Rojas, título traslaticio de dominio que se inscribió
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+a fs. 166 N°147 del Registro de Propiedad correspondiente al
+
+año 1991 del Conservador de Bienes Raíces de Vicuña, y por
+
+escritura pública de fecha 11 de septiembre de 1969, otorgada
+
+por la Notaría de La Serena servida entonces por don Raúl
+
+Parga Muñoz, títulos traslaticio de dominio que se inscribió
+
+a fs. 65 N°115 del Registro de Propiedad correspondiente al
+
+año 1969 del Conservador de Bienes Raíces de La Serena.
+
+Y el comprador, por su parte, inscribió a su nombre el
+
+título traslaticio de dominio a fs. 932 N°147 del Registro de
+
+Propiedad correspondiente al año 2014 del Conservador de
+
+Bienes Raíces de Vicuña.
+
+Refiere que Ricardo Baldessari Albasini, para evitar la
+
+inscripción de una medida prejudicial precautoria decretada
+
+en su contra en este Tribunal en causa Rol N°5047-2014, por
+
+lesión enorme, días antes de ser notificado el Conservador de
+
+Bienes Raíces de Vicuña, el precitado transfirió este
+
+inmueble a la sociedad denominada AGRÍCOLA RBA Y COMPAÑÍA,
+
+sociedad colectiva civil del rubro de su denominación,
+
+representada por el mismo demandado, por medio de un aporte
+
+efectuado al constituirse la misma por escritura pública de
+
+fecha 23 de diciembre de 2014, otorgada por la Notaría de La
+
+Serena servida por don Rubén Reinoso Herrera, título
+
+traslaticio de dominio que se inscribió a su favor a fs. 18
+
+N°14 del Registro de Propiedad correspondiente al año 2015
+
+del Conservador de Bienes Raíces de Vicuña.
+
+Que al tratar de notificarse una nueva prejudicial
+
+precautoria, decretada en esta causa en contra de la sociedad
+
+AGRÍCOLA RBA Y COMPAÑÍA, el mismo demandado Sr. Ricardo
+
+Baldessari Albasini nuevamente transfirió el inmueble a la
+
+denominada sociedad INVERSIONES PORTAL DEL ELQUI SPA,
+
+representada por él mismo, con el evidente objeto de evitar
+
+la inscripción de la resolución dictada que acogió la antes
+
+mencionada prejudicial precautoria, sin alcanzar a lograr su
+
+objetivo en esta tercera oportunidad.
+
+Que, de esta forma, y a consecuencia de esta última
+
+transferencia, la parcela agrícola denominada “La Polla
+
+Alta”, ubicada en la comuna de Vicuña, se encuentra
+
+actualmente inscrita a favor de la precitada sociedad
+
+INVERSIONES PORTAL DEL ELQUI SPA, a fs. 278 N°263 en el
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+Registro de Propiedad del CBR de Vicuña, con fecha 14 de
+
+marzo de 2016.
+
+Que, en segundo lugar, por la misma escritura pública
+
+primero mencionada, don Giuseppe Baldessari Leita, ya
+
+individualizado, vendió, cedió y transfirió además, a su
+
+mismo hijo don Ricardo Baldessari Albasini, el cincuenta por
+
+ciento de los derechos de dominio que recaen sobre el derecho
+
+de aprovechamiento de aguas consistentes en el uso de veinte
+
+(20) acciones provenientes del Canal La Calera, que utiliza
+
+para su regadío el predio rústico denominado “La Polla Alta”,
+
+ubicado en la comuna de La Serena, y que por lo tanto
+
+constituyen una parte integrante o accesoria de este
+
+inmueble, por lo que tienen también la calidad de inmueble.
+
+Indica que el título que tenía el vendedor demandado
+
+sobre estos derechos de aguas corría inscrito a fs. 5 N°6
+
+correspondiente al Registro de Propiedad de Aguas de 1996 y a
+
+fs. 66 N°72 correspondientes al mismo Registro del año 1991,
+
+ambas del Conservador de Bienes Raíce de Vicuña-Elqui.
+
+El comprador demandado inscribió a su nombre el título
+
+traslaticio citado primero, a fs. 685 N°629 del Registro de
+
+Propiedad correspondiente al año 2014 del Conservador de
+
+Bienes Raíces de Vicuña.
+
+Dice que el mismo demandado nuevamente y también para
+
+evitar la inscripción de la antedicha medida prejudicial
+
+precautoria decretada en su contra en la causa antes
+
+individualizada, transfirió a la sociedad AGRÍCOLA RBA Y
+
+COMPAÑÍA, representada también por él mismo, por medio de un
+
+aporte efectuado a ésta al constituir la misma por escritura
+
+pública de fecha 23 de diciembre de 2014, otorgada por la
+
+Notaría de La Serena de don Rubén Reinoso Herrera, título
+
+traslaticio de dominio que se inscribió a fs. 10 N°10 del
+
+Registro de Propiedad de Aguas correspondiente al año 2015
+
+del Conservador de Bienes Raíces de Vicuña.
+
+Que al tratar de notificarse una nueva prejudicial
+
+precautoria decretada en autos, en contra de la sociedad
+
+denominada AGRÍCOLA RBA Y COMPAÑÍA, el mismo demandado Sr.
+
+Ricardo Baldessari Albasini una vez más transfirió este
+
+inmueble a la denominada sociedad PORTAL DEL ELQUI SPA,
+
+representada por él mismo, nuevamente con el evidente objeto
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+de evitar la inscripción de la resolución que acogió la
+
+prejudicial precautoria, sin que tampoco lograra alcanzar su
+
+objetivo en esta tercera oportunidad.
+
+Que de esta forma, y a consecuencia de esta última
+
+transferencia, el cincuenta por ciento de los derechos de
+
+dominio que recen sobre el derecho de aprovechamiento de
+
+aguas consistentes en el uso de veinte (20) acciones
+
+provenientes del Canal La Calera, que utiliza para su regadío
+
+el predio rústico denominado “La Polla Alta”, ubicado en la
+
+comuna de Vicuña, se encuentran inscritos a favor de la
+
+sociedad INVERSIONES PORTAL DEL ELQUI SPA, a fs. 121 N°118 en
+
+el Registro de Propiedad de Aguas del CBR de Vicuña con fecha
+
+14 de marzo de 2016.
+
+Explica que todas las compraventas que contiene el
+
+contrato individualizado antes citado, son simuladas, ya sea
+
+absoluta o relativamente, como se verá en lo sucesivo.
+
+Expone que los antes citados suscribieron un contrato de
+
+compraventa que recayó sobre el 50% de los derechos de
+
+dominio del inmueble y derechos de aguas mencionado, sin que
+
+hubiera por un lado la intención de vender y por otro lado la
+
+de comprar, como se aprecia de las repetidas, precisas y
+
+concordantes presunciones que emanan de los hechos que se
+
+expresarán.
+
+Manifiesta que en la primera compraventa, aparece que el
+
+precio fijado por las partes para el 50% de los derechos de
+
+dominio que recaían sobre la antes individualizada parcela
+
+agrícola denominada “La Polla Alta”, ubicada en la comuna de
+
+Vicuña, es del orden de $100.000.000 (cien millones de
+
+pesos), en circunstancias que el verdadero precio de la
+
+parcela y de todos los adherentes que le corresponden es de
+
+un valor no inferior a la suma de $1.229.814.000 (mil
+
+doscientos veintinueve millones ochocientos catorce mil
+
+pesos), según tasación que posteriormente mandó a efectuar
+
+cuando la familia y el suscrito se enteraron de la
+
+celebración del contrato y del irreal precio acordado.
+
+Así, el valor real del 50% de los derechos de dominio
+
+que recaían sobre el predio venido ascendía a la suma de
+
+$614.907.000 (seiscientos catorce millones novecientos siete
+
+mil pesos), sin embargo, el precio de la compraventa del
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+inmueble solamente se fijó en la suma de $100.000.000 (cien
+
+millones de pesos), que es menos de un sexto de dicho justo
+
+precio.
+
+Agrega que esto no es todo con lo referente al precio;
+
+los contratantes demandados pactaron además del precio irreal
+
+mencionado, que éste se pagaría en una fecha que fijaron para
+
+el lejano día 31 de diciembre del año 2021, oportunidad en la
+
+que, atendido el deteriorado estado de salud del demandado
+
+don Giuseppe Baldesari Leita, existe un alto grado de
+
+probabilidades que no se encuentre vivo a la fecha, y de
+
+donde el comprador además podrá deducir o compensar los
+
+derechos que heredará, ascendentes a un 20% de la herencia.
+
+Dice que en la segunda parte de la compraventa, aparece
+
+que el precio fijado en ella del cincuenta por ciento de los
+
+derecho de dominio que recaen sobre el derecho de
+
+aprovechamiento de aguas consistentes en el uso de veinte
+
+(20) acciones provenientes del Canal La Calera, que utiliza
+
+para su regadío el predio rústico denominado “La Polla Alta”,
+
+ubicado en la comuna de La Serena, es del orden de
+
+$18.000.000 (dieciocho millones de pesos), en circunstancias
+
+que el verdadero precio de éstos a la fecha de la compraventa
+
+ascendían según se enteró posteriormente el actor, es de un
+
+valor no inferior a la suma de $150.000.000 (ciento cincuenta
+
+millones de pesos), según tasación que también se mandó a
+
+hacer cuando se suscitaron dudas sobre el real precio de
+
+estos derechos de aprovechamiento de aguas a dicha
+
+celebración.
+
+Explica que de esta forma, el valor del 50% de los
+
+derechos de dominio que recaían sobre el predio vendido
+
+ascendían a la suma de $75.000.000 (setenta y cinco millones
+
+de pesos), sin embargo, el precio de la compraventa
+
+primeramente citada solamente se fijó en la suma de
+
+$18.000.000 (dieciocho millones de pesos), que es menos de un
+
+sexto de dicho justo precio, los contratantes demandados
+
+pactaron además del precio irreal mencionado, que éste se
+
+pagaría en una nueva fecha que fijaron para el lejano día 31
+
+de diciembre de 2021.
+
+Indica que tanto el precio del inmueble como de las
+
+aguas se pagaría sin reajuste ni intereses de ninguna
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+especie.
+
+Destaca que se aprecia del contrato denominado Cesión de
+
+Derechos en Comunidad, que se trata en el fondo de la
+
+transferencia de la totalidad de los bienes que poseía a la
+
+fecha del contrato el demandado don Giuseppe Baldessari
+
+Leita, los cuales fueron detallados uno a uno, incluso se
+
+pretendió transferir por el mismo en la cláusula undécima
+
+“los derechos emanados del contrato de compromiso de
+
+Liquidación y Partición de común acuerdo” suscrito entre el
+
+antes nombrado y su hermano don Renato Baldessari Leita, de
+
+fecha 29 de mayo de 2014, Repertorio N°4514 de la Notaría de
+
+don Oscar Fernández Mora de La Serena, cesión a la cual no
+
+fijaron precio, por lo que está irremediablemente viciada de
+
+nulidad, toda vez que al decir que en la cesión pactado en el
+
+contrato de marras se incluía la cesión antes mencionada, el
+
+irreal precio fijado ha quedado indeterminado, ya que no se
+
+sabe a cuál de los precios pactados en el contrato
+
+corresponde el de esta cesión. La indeterminación del precio
+
+acarrea irremediablemente la nulidad absoluta de la
+
+compraventa, pues no existe voluntad, de acuerdo al art. 1801
+
+hay compraventa o cesión cuando hay acuerdo entre la cosa
+
+vendida y el precio, solo en dicha ocasión hay contrato. El
+
+art. 1444 del CC contempla el caso que es nulo por haberse
+
+omitido alguno de los requisitos esenciales que le son
+
+propios, o sea, que el consentimiento prestado por las partes
+
+es incompleto o indeterminado porque no recayó sobre todos
+
+los requisitos que son indispensables según la ley. El propio
+
+art. 1809 del mismo Código señala que no hay en este caso
+
+compraventa, esto que los contratantes llaman cesión, por no
+
+existir acuerdo de voluntades destinados a fijar en forma
+
+legal dicho precio.
+
+Refiere que de esta última cuestión, además de lo irreal
+
+del precio atribuido por los contratantes tanto al 50% de los
+
+derechos de dominio que recaen sobre el inmueble sub lite,
+
+como a los derechos de aprovechamiento de aguas también
+
+mencionados, además de la fecha en que debería ser éste
+
+pagado (seis años después de realizarse el contrato); además
+
+de la intención de transferir la totalidad de los bienes que
+
+poseía el cedente o vendedor a esa fecha, el hecho de que
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+éste tenía a la fecha de la transferencia una edad de 86
+
+años, el hecho de ser esta persona de nacionalidad italiana
+
+con poco dominio del idioma hablado y casi ninguno escrito;
+
+se colige que el supuesto acuerdo sostenido entre los
+
+demandados contratantes tendía a simular un acto jurídico,
+
+que bajo el disfraz de una compraventa pretendió efectuar una
+
+donación a su hijo de todo su patrimonio a esa fecha, por el
+
+cual demostraba mayor simpatía o predilección que por el
+
+resto de sus hijos.
+
+Que, por otra parte, el demandado, su hermano, don
+
+Ricardo Baldessari Albasini, a la fecha de la celebración de
+
+la compraventa sólo era trabajador de su padre don Giuseppe
+
+Baldessari Leita, sin que contara con ingresos propios
+
+suficientes para comprar ni siquiera alguno de los bienes
+
+comprendidos en el contrato, aun teniendo en consideración el
+
+exiguo precio asignado a los bienes vendidos, para disfrazar
+
+lo que en realidad era el acto jurídico pactado, de ahí a la
+
+imposibilidad de hecho que éste hubiera pagado cualquier
+
+precio real a la fecha de celebración del acto nulo
+
+expresado, lo que evidencia la manipulación del precio de las
+
+cosas supuestamente vendidas en cuanto a rebajarlo a montos
+
+irreales y a fijar como fecha de pago en el lejano 31 de
+
+diciembre del año 2021.
+
+Dice que también es dable acotar que la edad de su padre
+
+demandado, a la fecha de celebración del contrato, era de 83
+
+años y su salud era extremadamente delicada por padecer de
+
+insuficiencia cardíaca, deterioro senil, falta de movilidad
+
+por lesión antigua en una pierna, sólo entendía a la fecha de
+
+las suscripción del contrato cosas básicas dichas en términos
+
+simples. Por lo que resulta altamente improbable que pueda
+
+ver con vida el pago del irreal precio fijado en la fecha
+
+acordada en dicho acto.
+
+Señala que don Giuseppe Baldessari Leita es un padre de
+
+familia que tiene por cónyuge a doña Elena Albasini Longhi,
+
+de su domicilio, ambos padres de quien demanda, y también del
+
+demandado don Ricardo Baldessari Albasini, de don Renzo
+
+Baldessari Albasini, de don Bruno Baldessari Albasini, de
+
+doña Rita Baldessari Albasini, y de don Angelo Baldessari
+
+Albasini, los cuales se verían burlados en la eventual
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+legítima que pudiere corresponderles en su oportunidad.
+
+Asegura que todas las situaciones expuestas constituyen
+
+presunciones que reuniendo los requisitos legales llevan a
+
+razonar con certeza que jamás existió por parte del antes
+
+citado la voluntad de efectuar venta alguna a su hijo don
+
+Ricardo Baldessari Albasini, y por parte de este último
+
+voluntad de comprar, respecto de la totalidad de los bienes
+
+incluidos en la compraventa en comento.
+
+Agrega que para que pueda existir compraventa, es
+
+necesario que haya consentimiento válido, acuerdo de
+
+voluntades respecto al precio y las cosas vendidas, y además
+
+que las partes tengan intención de producir efectos jurídicos
+
+propios de un contrato de compraventa, o sea, generar, la
+
+obligación de pagar realmente el precio pactado, que deber
+
+ser real y serio; y que la otra parte tenga la intención de
+
+entregar las cosas vendidas objeto de la compraventa. Que en
+
+la especie no hubo nunca intención de vender por una parte y
+
+por la otra intención de comprar. Que la compraventa fue una
+
+simulación completa, que bajo el manto de una compraventa
+
+estaba destinada a donarle por parte del vendedor al
+
+comprador su parte en el inmueble ya individualizado y
+
+derechos de aprovechamiento de aguas que sirven para regarlo.
+
+Indica que no hubo fuente de responsabilidad contractual
+
+al no haber consentimiento; también faltó el concurso real de
+
+voluntades que exige perentoriamente el artículo 1437 del
+
+Código Civil, y esta ausencia de consentimiento acarrea la
+
+nulidad absoluta del acto simulado, conforme a lo dispuesto
+
+en el artículo 1681 del cuerpo legal antes citado.
+
+Explica que el concepto de compraventa además adolece de
+
+causa ilícita. En nuestra legislación, la causa es el motivo
+
+sicológico que induce a contratar, es decir, el móvil que
+
+induce a contratar a las partes en este caso denunciado es la
+
+mayor simpatía que su padre demostró por un hijo, al cual le
+
+quiso donar sus bienes, bajo la simulación de una compraventa
+
+en forma exclusiva, lo que lo indujo a mejorar su situación
+
+económica por la ejecución del acto simulado, burlando sus
+
+derechos.
+
+Acepta que la mera liberalidad es causa suficiente, pero
+
+como el motivo que impulsó a su padre fue únicamente burlar
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+al demandante en los derechos que hará ver, la causa se
+
+constituye en ilícita, en otras palabras, el contrato de
+
+compraventa en comento adolece del mismo modo de causa
+
+ilícita; y en consecuencia, conforme a lo señalado en el
+
+artículo 1681 del Código Civil, debe ser declarado nulo por
+
+dicha razón legal.
+
+Dice que si se interpretaran los hechos jurídicos que
+
+contiene el contrato objetado, en el sentido que el padre de
+
+su representado no ha celebrado contrato de compraventa con
+
+su hermano, ambos demandados, porque no ha habido voluntad
+
+real de vender ni voluntad real de comprar, procede que se
+
+fije la naturaleza del acto jurídica del acto jurídico en que
+
+se convierten aquéllos, conforme a su propia naturaleza y no
+
+a los nombres que las partes les dan, la naturaleza de los
+
+hechos que comprende el contrato de cesión en comento,
+
+constituyen al no ser compraventas, un contrato denominado
+
+“donación irrevocable”, conforme al artículo 1560 del CC.
+
+Que, en efecto, el padre de su representado perseguía
+
+únicamente, por los motivos que fueran y justificados o no,
+
+dejar mejorado al demandado al haberle entrega gratuita de la
+
+totalidad de sus bienes, esto es el 50% de los derechos de
+
+dominio del inmueble en comento y sus derechos de
+
+aprovechamiento de aguas, además de la totalidad de los
+
+bienes que existían en dicha parcela y que constituían su
+
+patrimonio único y total, es decir, efectuó una donación
+
+irrevocable a su hermano de todos los citados bienes, pero la
+
+misma adolece de nulidad absoluta que debiese declararse de
+
+oficio. En nuestro derecho este tipo de donación es un acto
+
+jurídico solemne, que requiere una insinuación previa que es
+
+necesario requerir si el objeto de ella es superior a lo
+
+preceptuado en el artículo 1401 del CC, la cual no ha sido
+
+cumplida.
+
+Que, en consecuencia, para el evento que se acepte
+
+acoger la simulación relativa, la donación deberá también ser
+
+declarada nula de nulidad absoluta, porque no ha sido
+
+celebrada con las formalidades que la ley exige en
+
+consideración a la naturaleza jurídica del acto mismo y no en
+
+consideración a la calidad o estado de las partes, conforme
+
+al artículo 1682 del CC.
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+Hace presente que la actual poseedora de los bienes
+
+mencionados es la sociedad denominada INVERSIONES PORTAL DEL
+
+ELQUI SPA.
+
+Que su interés para presentar las acciones de autos es
+
+evidente si se considera que ha sido perjudicado directamente
+
+en forma pecuniaria por el acto celebrado por los demandados,
+
+al quedar sin patrimonio alguno don Giuseppe Baldessari
+
+Leita, a raíz precisamente de la celebración del mismo que lo
+
+despojó de todo su patrimonio e hizo imposible la restitución
+
+a su persona de una importante suma dada en mutuo, como se
+
+acreditará con la documentación pertinente, salvo que los
+
+bienes objeto del acto viciado se restituyan al patrimonio
+
+del antes nombrado, donde se podrán efectivamente cobrar.
+
+Finalmente, y previas citas legales, solicitó tener por
+
+interpuesta demanda ordinaria de nulidad de contrato de
+
+compraventa en contra de don GIUSEPPE BALDESSARI LEITA, de
+
+don RICARDO BALDESSARI ALBASINI, y también de la sociedad
+
+INVERSIONES PORTAL DEL ELQUI SPA, todos ya individualizados,
+
+a fin de que se declare:
+
+I. Que carecen de existencia legal la apariencia de
+
+contratos de compraventa contenidos en la escritura pública
+
+de fecha 25 de julio de 2014 otorgada por la Notaría de La
+
+Serena de don Oscar Fernández Mora, Repertorio N°6513-2014,
+
+celebrados entre el demandado don Giuseppe Baldesari Leita y
+
+el demandado don Ricardo Baldessari Albasini, conforme a los
+
+artículos 1445, 1467 y 1681 y siguientes del Código Civil.
+
+II. En subsidio de la petición precedente, que los
+
+contratos de compraventa que aparecen en la referida
+
+escritura pública son nulos, de nulidad absoluta, por carecer
+
+de consentimiento y adolecer de causa ilícita, de acuerdo a
+
+los artículos 1445, 1467 y 1681 y siguientes del Código
+
+Civil.
+
+III. En subsidio de las peticiones anteriores, que todos
+
+los actos jurídicos que constan en la escritura pública de
+
+fecha 25 de julio de 2014 otorgada por la Notaría de La
+
+Serena de don Oscar Fernández Mora, Repertorio N°6513-2014,
+
+adolecen de nulidad absoluta, dado que los actos jurídicos
+
+que contienen no son compraventas de bien raíz y sus
+
+accesorios; ni tampoco compraventa de derechos de
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+aprovechamiento de aguas, sino que deben ser calificadas como
+
+donaciones irrevocables de estos bienes, debiendo en este
+
+caso ser declaradas dichas compraventas nulas de nulidad
+
+absoluta, conforme al artículo 1682 y siguientes del Código
+
+Civil, o en subsidio, que la compraventa es válida hasta la
+
+suma en que la ley permite efectuar una donación sin
+
+insinuación.
+
+IV. Que en caso de acogerse cualquiera de las peticiones
+
+precedentes, la parte demandada de la sociedad Inversiones
+
+Portal del Elqui SpA, representada por el mismo demandado don
+
+Ricardo Baldessari Albasini, deberá restituir al patrimonio
+
+de don Giuseppe Baldessari Leita, dados los efectos erga
+
+omnes de la nulidad, los siguientes bienes, a saber:
+
+A) El cincuenta por ciento de los derechos de dominio
+
+que recaían sobre la parcela agrícola denominada “La Polla
+
+Alta”, ubicada en la comuna de Vicuña, cuyos deslindes
+
+especiales son: AL NORTE, con el río; AL SUR, con la cumbre
+
+de los cerros inmediatos; AL ORIENTE, con Callejón Portillo;
+
+AL PONIENTE, con terrenos de La Calera de don Ernesto
+
+Peñafiel, que se encuentra inscrita actualmente a favor de la
+
+sociedad INVERSIONES PORTAL DEL ELQUI SPA, representada por
+
+el antes nombrado, a fs. 278 N°263 del Reg. De Prop. del
+
+Conservador de Bienes Raíces de Vicuña con fecha 14 de marzo
+
+de 2016, con todos sus enseres y muebles, dentro del tercero
+
+día de ejecutoriada que sea esta sentencia,; y que por las
+
+razones aludidas precedentemente, debe cancelarse la
+
+inscripción antes mencionada, y declarar revalidada la
+
+inscripción anterior a nombre de don Giuseppe Baldessari
+
+Leita que corría a fs.166 N°147 del Registro de Propiedad
+
+correspondiente al año 1991 del Conservador de Bienes Raíces
+
+de Vicuña-Elqui, y de fs. 65 N°115 del Registro de Propiedad
+
+correspondiente al año 1969 del Conservador antes citado; así
+
+como los frutos de la propiedad indicada y ser responsable de
+
+las pérdidas o deterioros que ocurran, considerándosele para
+
+todos los efectos legales como poseedor de mala fe,
+
+debiéndose fijar el monto de estos frutos y responsabilidades
+
+en la ejecución del fallo, en forma incidental.
+
+B) El cincuenta por ciento de los derechos de dominio
+
+que recaen sobre el derecho de aprovechamiento de aguas
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+consistentes en el uso de veinte (20) acciones provenientes
+
+del Canal La Calera, que utiliza para su regadío el predio
+
+rústico denominado “La Polla Alta”, ubicado en la comuna de
+
+La Serena, y que por lo tanto constituyen una parte
+
+integrante o accesoria de este inmueble, por lo que tienen
+
+también la calidad de inmueble, que se encuentran actualmente
+
+inscritos a favor de la sociedad INVERSIONES PORTAL DEL ELQUI
+
+SPA, a fs. 121 N°118 en el Registro de Propiedad de Aguas del
+
+Conservador de Bienes Raíces de Vicuña con fecha 14 de marzo
+
+de 2016; y que por las razones aludidas precedentemente debe
+
+cancelarse la inscripción antes mencionada, y declarar
+
+revalidadas las inscripciones anteriores a nombre de don
+
+Giuseppe Baldessari Leita que corrían inscritas a fs. 5 N°6
+
+correspondiente al Registro de Propiedad de Aguas de 1996 y a
+
+fs. 66 N°72 correspondiente al mismo Registro del año 1991,
+
+ambas del Conservador de Bienes Raíces de Vicuña-Elqui; así
+
+como los frutos de la propiedad indicada y ser responsable de
+
+las pérdidas o deterioros que ocurran, considerándosele para
+
+todos los efectos legales como poseedor de mala fe,
+
+debiéndose fijar el monto de estos frutos y responsabilidades
+
+en la ejecución del fallo, en forma incidental.
+
+V. Que el demandado don Ricardo Baldessari Albasini, y
+
+la sociedad INVERSIONES PORTAL DEL ELQUI SPA, representada
+
+por doña Daniza Carvajal Alfaro; deben ser condenados al pago
+
+de las costas de este juicio.
+
+Que con fecha 17 de mayo de 2016 (folio 30), rola
+
+comparecencia de doña María Antonieta Medina Lebel, abogada,
+
+domiciliada en Juan de Dios Melgarejo, Coquimbo, en
+
+representación de don RICARDO BALDESSARI ALBASINI, que al
+
+contestar la demanda interpuesta en su contra, solicitó su
+
+rechazo por los argumentos que expuso.
+
+Refiere que el actor carece de legitimación activa,
+
+para impetrar la acción de nulidad absoluta por simulación de
+
+contrato.
+
+Que nuestra legislación entrega amparo jurídico sólo en
+
+aquellos casos en que el actor sea titular de un derecho
+
+adquirido, vale decir, cuando ese derecho se ha integrado al
+
+patrimonio del titular, no así en el caso de meras
+
+expectativas, ellas están fuera del ámbito de protección
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+legal.
+
+Dice que en el caso de marras, el actor don Angelo
+
+Guiseppe Baldessari Albasini, en relación con el bien
+
+inmueble materia de este pleito, no tiene derecho alguno, ya
+
+que el dominio pleno y absoluto de los derechos cedidos a don
+
+Ricardo Balessari pertenecían a su padre don Giuseppe
+
+Baldessari Leita.
+
+Que el actor sólo posee una mera expectativa de
+
+participar en el dominio de los bienes una vez que fallezca
+
+el titular, la cual, como se ha señalado, no es materia de
+
+resguardo jurídico.
+
+Señala que es importante detenerse en este punto. Para
+
+ser titular de la acción de nulidad por simulación de
+
+contrato es imperante que el actor tenga un interés
+
+patrimonial actual, vale decir, que el sustento sea un
+
+perjuicio económico presente que afecta a su patrimonio.
+
+Además, reafirmando que el peticionario no goza de la
+
+acción para demandar, está la circunstancia de que no fue
+
+parte del contrato de compraventa entre los señores Giuseppe
+
+y Ricardo, ambos Baldessari, razón por la cual, acorde con lo
+
+establecido de forma reiterada tanto por la jurisprudencia
+
+como por la doctrina, no tiene acción para litigar en esta
+
+materia.
+
+De acuerdo con lo que propone el artículo 578 del Código
+
+Civil, la acción de nulidad es personal, porque emana de un
+
+derecho también personal, o sea, de aquellos que sólo puede
+
+reclamarse a ciertas personas, como es el que tiene
+
+cualquiera de los contratantes o terceros a quienes esos
+
+contratos puedan lesionar sus derechos.
+
+Dice que sólo tienen legitimación activa:
+
+- Las partes;
+
+- Los herederos a título universal;
+
+- Los legatarios cuando se trate de el o los bienes
+
+legados; y
+
+- Los terceros, sólo, y, siempre, que como consecuencia
+
+de la celebración del contrato y con posterioridad a él, se
+
+relacionaran jurídicamente con las partes, como por ejemplo,
+
+los acreedores hipotecarios, el cesionario, etc., empero con
+
+aquellos, como es el caso, que no han tenido y no poseerán
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+vinculación jurídica alguna con las partes, ya que no tienen
+
+ni tendrán interés en establecer la veracidad o falsedad del
+
+contrato, no tienen acción.
+
+Que en su calidad de tercero ajeno al contrato, don
+
+Angelo Guiseppe Baldessari Albasini, no tiene el requisito
+
+esencial de “interés” que exige el artículo 1693 del Código
+
+Civil, consagrado dentro del Título XX, que trata De La
+
+Nulidad y La Rescisión.
+
+Manifiesta que el Código Civil no define lo que debe
+
+entenderse por “interés”, y en su silencio encontramos la
+
+respuesta en la doctrina y jurisprudencia, existiendo
+
+concordancia en que ese interés debe ser pecuniario o
+
+patrimonial, vale decir, que la finalidad u objetivo que se
+
+persigue con la acción sea remediar un perjuicio avaluable en
+
+dinero.
+
+Expone que el contrato de compraventa que el actor
+
+pretende anular mediante la acción de simulación no produce
+
+perjuicio alguno al actor, toda vez que no origina efecto
+
+pernicioso en su patrimonio.
+
+Que acorde con lo que se ha manifestado, señala que
+
+respecto del contrato de compraventa aludido, el actor no es
+
+parte, no es heredero, no es legatario, y como tercero ajeno
+
+a la convención y a sus derivaciones jurídicas, en ningún
+
+tiempo se vinculará con las partes que le han dado vida
+
+legal.
+
+Entonces, dice que la conclusión es simple, no tiene
+
+legitimación activa para accionar de nulidad absoluta por
+
+simulación de contrato.
+
+Agrega que no es efectivo que a la fecha de suscripción
+
+del contrato su padre padeciera de deterioro senil, toda vez
+
+que con posterioridad a la firma del contrato de compraventa
+
+tantas veces mencionado, don Giuseppe Baldessari Leita se
+
+encontraba en buenas condiciones mentales e intelectuales,
+
+prueba de ello es que se ha después del 2014 ha seguido
+
+celebrando actos jurídicos de diversa índole.
+
+Ahora bien, manifiesta que aunque padezca de
+
+insuficiencia cardíaca y falta de movilidad por una lesión
+
+antigua en una pierna, esto no lo priva de manera alguna de
+
+su capacidad de goce y ejercicio.
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+Luego, expone que como muestra y evidencia de que el
+
+actor Angelo Guiseppe Baldessari Albasini no es titular de
+
+derechos que lo habiliten para accionar en el presente
+
+juicio, está lo exteriorizado en el argumento de la medida
+
+limitativa de dominio, al referirse a la posterior herencia
+
+que dejará su padre y los derechos que tanto él como sus
+
+hermanos tendrán: “…los cuales se verán burlados en la
+
+eventual legítima que pudiere corresponderles en su
+
+oportunidad”.
+
+Dice que la demandante hace mucho énfasis en el precio
+
+pactado entre ambos contratantes y dicha apreciación se
+
+fundamenta en una tasación que habría hecho un profesional.
+
+Pero las tasaciones son eminentemente subjetivas y dependen
+
+de múltiples factores personales del tasador, lo que, sin
+
+duda alguna, determina el resultado final, también anímico.
+
+Que en previsión de una eventual objeción familiar al
+
+precio de la operación las partes contratantes también
+
+pidieron una avaluación de predio y derechos de
+
+aprovechamiento.
+
+Indica que en esto se tuvieron a la vista distintos
+
+factores que determinaron el precio a pagar y que el Tribunal
+
+deberá considerar al momento de fallar:
+
+i) La venta efectuada fue de derechos en una comunidad
+
+lo cual implica que la tenencia del cincuenta por ciento de
+
+los derechos debe tener un valor exclusivo. En otras
+
+palabras, un predio comunitario tiene un valor inferior a
+
+otro que tiene un dueño exclusivo;
+
+ii) Entre los propietarios (comuneros) existía una
+
+discrepancia que, años atrás, los llevó a pactar una
+
+liquidación de dicha comunidad, la que quedó expresada en un
+
+escritura pública, pero esta liquidación no tuvo buen final,
+
+porque no se pudo acreditar el dominio sobre una parte del
+
+predio comunitario, lo que impidió el archivo del plano de
+
+subdivisión. Resultado de esta fallida división los problemas
+
+entre las familias Baldessari Leita (comuneras en las tierras
+
+y aguas) los llevaron a romper relaciones de familia. Más
+
+aun, don Renato Baldessari Leita (el otro comunero
+
+propietario del 50% de los derechos), inició las gestiones
+
+para el nombramiento de partidor de la comunidad en la que
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+participa la sociedad propietaria del otro 50%. Ello implica
+
+que ese elemento de discordia y las complejidades de un
+
+proceso particional determinaron una disminución del precio
+
+de venta;
+
+iii) El 23 de septiembre de 2009, el perito don Elicio
+
+Moraga Quintana hizo llegar a los entonces comuneros, señores
+
+Renato y Giuseppe, ambos Baldessari Leita, su informe de
+
+tasación solicitado por los dos, para los efectos de la
+
+partición que estaban acordando y que después fallaría por
+
+las razones ya señaladas.
+
+Que, así, el valor de tasación de las dos hijuelas en
+
+que se subdividiría el predio fue de $484.185.000.-
+
+Dice que si a este valor, que fue aceptado por los
+
+entonces comuneros, le restan todos los inconvenientes
+
+señalados supra, en orden a hacerse cargo de las
+
+discrepancias que existían entre los comuneros, explicando
+
+con certeza el valor atribuido por los señores Giuseppe
+
+Baldessari Leita y Ricardo Baldessari Albasini, en la
+
+escritura por la cual este último adquirió los derechos que
+
+hoy se objetan; y
+
+iv) El avalúo fiscal del predio al 29 de marzo del año
+
+2016 era de $157.253.132.-
+
+Dice que es conocido el hecho que el Servicio de
+
+Impuestos Internos ha actualizado el valor de los inmuebles,
+
+concordando con su valor comercial, llegando incluso a fijar
+
+valores superiores a éste.
+
+Que resultado de todo ello es que el precio fijado por
+
+los señores Giuseppe Baldessari Leita y Ricardo Baldessari
+
+Albasini al acordar la transacción hoy objetada se ajustó a
+
+los precios reales de acuerdo a los parámetros arriba
+
+indicados, no existiendo por ello la minusvalorización que
+
+hoy se acusa.
+
+Finalmente, solicitó tener por contestada la demanda,
+
+rechazándola en todas sus partes, con expresa condenación en
+
+costas.
+
+Que con fecha 25 de enero de 2019 (folio 308), en lo
+
+principal de la presentación, comparece don Juan Enrique
+
+Prieto Urzúa, abogado, domiciliado en Calle Agustinas N°1022,
+
+Of. 201, comuna de Santiago, y para estos efectos en Calle
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+Fray Jorge N°1420, comuna de La Serena, en representación de
+
+la sociedad INVERSIONES PORTAL DEL ELQUI SPA, persona
+
+jurídica del giro de su denominación, de su mismo domicilio;
+
+quien al contestar la demanda interpuesta en contra de su
+
+parte, solicitó el rechazo de la misma, con expresa condena
+
+en costas, de conformidad a los fundamentos de hecho y de
+
+derecho que expuso.
+
+1) Falta de legitimación activa del demandante don
+
+Angelo Guiseppe Baldessari Albasini: Refiere que los señores
+
+Giuseppe Baldessari Leita y Ricardo Baldessari Albasini,
+
+convinieron en que el primero cedía sus derechos en un predio
+
+y derechos de aprovechamiento de aguas en este predio ubicado
+
+en el Valle de Elqui.
+
+Dice que los detalles del contrato han sido citados
+
+correctamente en la demanda de autos. Pero se aduce que entre
+
+los citados padre e hijo pactaron condiciones irreales en
+
+cuanto a precio y forma de pago con el propósito expreso de
+
+burlar los derechos hereditarios de los demás futuros
+
+herederos.
+
+En base a esta consideración general, discurre que está
+
+autorizado para impugnar la convención pactada entre su padre
+
+y hermano, ya que se estaría disminuyendo la legítima a
+
+percibir al fallecimiento de su padre (demandado).
+
+Estima que resulta extraño, por decir lo menos, que un hijo
+
+demande a un padre reclamando la posibilidad de recibir en
+
+herencia o parte de los bienes de éste.
+
+Sostiene que de acuerdo a la normativa legal, el
+
+demandante no tiene derecho alguno para intervenir en los
+
+bienes del padre y, menos aún, respecto de la facultad de
+
+éste para disponer de sus bienes. Para qué decir la carencia
+
+de titularidad para impugnar sus actos jurídicos alegando
+
+teóricos derechos sucesorios aún no recibidos.
+
+Indica que en términos jurídicos, Angelo Guiseppe
+
+Baldessari Albasini no tiene la “legitimación activa” para
+
+actuar en esta instancia.
+
+Refiere que prescribe el artículo 955 del Código Civil
+
+que “… La sucesión en los bienes de una persona se abre al
+
+momento de su muerte…”. En otras palabras, para poder tener
+
+acceso, a título de herencia, a los bienes de otra persona,
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+es necesario que ésta haya fallecido y que su sucesión se
+
+abra.
+
+Es necesaria una resolución judicial o administrativa,
+
+(según sea testada o no), emanada del Servicio de Registro
+
+Civil e Identificación, para reconocer el derecho de una
+
+persona para participar en los bienes dejados por un
+
+causante. En autos no se ha acreditado que don Giuseppe
+
+Baldessari Leita haya fallecido y, lo que es lógico, que se
+
+haya tramitado su posesión efectiva dando participación en la
+
+herencia a don Angelo Guiseppe Baldessari Albasini.
+
+A mayor abundamiento, el artículo 6° del Código de
+
+Procedimiento Civil obliga al que comparezca a nombre de otro
+
+a exhibir el mandato que acredita su representación.
+
+Expone que en este juicio se da el extraño caso que don
+
+Angelo Guiseppe Baldessari Albasini concurre en defensa, de
+
+su derecho sobre bienes de su padre aún vivo y en dicha
+
+defensa demanda a su padre.
+
+Asegura que las meras expectativas, como es el caso del
+
+posible interés del demandante en los bienes de su padre, no
+
+son objeto de tutela jurídica.
+
+Por aquello refiere que Angelo Guiseppe Baldessari
+
+Albasini no tiene la “legitimación activa” para concurrir a
+
+la demanda.
+
+Expresa que el actor, don Angelo Guiseppe Baldessari
+
+Albasini, alega que el valor atribuido a los derechos sobre
+
+el predio y aguas, va en perjuicio de sus posibilidades de
+
+heredar una mayor cantidad de dinero y/o bienes al
+
+fallecimiento de su padre.
+
+Dice que como se demostrará en el curso de la gestión
+
+judicial, tal aseveración no es efectiva.
+
+Dice que los derechos cedidos corresponden sólo a un 50%
+
+de un predio agrícola y sus derechos de aprovechamiento. El
+
+Tribunal debe ser informado que el predio total era de
+
+propiedad de dos hermanos Baldessari Leita y acarreaba
+
+consigo una larga disputa por los más variados temas, desde
+
+limpia de canales, sector que cada comunero quería trabajar,
+
+pago de contribuciones, percepción de dineros sobre torres de
+
+comunicaciones, accesos, etc., a los cuales se quiso poner
+
+término mediante una escritura pública de “Compromiso de
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+liquidación y partición de común acuerdo” la que, acompañada
+
+de un plano y tasación efectuada por el ingeniero agrónomo
+
+don Elicio Moraga Quintana, la que no se pudo inscribir en el
+
+Conservador de Bienes Raíces de Elqui.
+
+Para tener una referencia importante para este juicio, su
+
+representada encargó al mismo señor Moraga Quintana una
+
+tasación a julio del 2014 (que se presentará a este juicio en
+
+la oportunidad procesal pertinente).
+
+Que, hoy, al 25 de enero del año 2019, el valor del
+
+predio es superior por las mejoras que “Inversiones Portal
+
+del Elqui SpA” ha introducido en el predio y por haberse
+
+terminado relativamente, con la sequía que lo afectaba al
+
+momento de la venta, si bien es un hecho que subsiste la
+
+característica de zona de poca agua.
+
+Dice que no hay razones para estimar que estos valores
+
+han cambiado.
+
+Ese estudio o tasación refleja el valor objetivo de
+
+predio y aguas a esa fecha, meses antes del acuerdo de cesión
+
+de derechos que hoy se impugna; y dicen objetivo, porque no
+
+refleja la desvalorización real que puede sufrir ese valor,
+
+por la historia de conflictos sobre el predio a que se ha
+
+hecho referencia. En este juicio (no dudan de ello), deberá
+
+tenerse presente esta minusvalía y por qué se asignó el valor
+
+de $100.000.000 a los derechos cedidos.
+
+Desvalorización del predio: Que sin perjuicio del valor
+
+objetivo determinado en el peritaje a que se ha hecho
+
+referencia, no debe dejarse de lado el hecho de la existencia
+
+de una severa sequía que afectaba al Valle del Elqui en esa
+
+época que obligó a terminar cultivos, cortar árboles, etc.,
+
+las que son de público conocimiento, y que la recuperación
+
+relativa no motivó las mayores inversiones que normalmente
+
+habrían sucedido en la zona entera, si hubiera algún grado de
+
+seguridad sobre los mejoramientos hídricos de la zona.
+
+Pregunta si vale lo mismo un predio con aguas y en plena
+
+capacidad de producción, frente a otro con aguas restringidas
+
+y sin que se conozca si la naturaleza proveerá esas aguas a
+
+futuro. Este elemento deberá ser también considerado al
+
+evaluar el precio pagado en la cesión de derechos que hoy se
+
+discute.
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+Valor de avalúo fiscal: Que, por otra parte, el valor de
+
+avalúo fijado por el Servicio de Impuestos Internos atribuye
+
+al Rol 414-3 de Vicuña, $160.555.448 al Segundo Semestre del
+
+2016.
+
+Dice que es sobradamente conocido que dicho Servicio
+
+procedió a la retasación de los bienes raíces agrícolas
+
+señalando para ello valores comerciales (y aún superiores),
+
+que, en su oportunidad, fueron ampliamente cuestionados por
+
+su exceso.
+
+En esta circunstancia, considerando los antecedentes
+
+relatados, dice que debe estimarse que los valores señalados
+
+por los hoy demandados señores Giuseppe Baldessari Leita y
+
+Ricardo Baldessari Albasini al suscribir la escritura que se
+
+objeta se ajustaron a la realidad.
+
+Finalmente, al contestar la demanda por “Inversiones
+
+Portal del Elqui SpA”, no le cabe sino solicitar que ella sea
+
+desechada por las razones expresadas y, que sintetiza:
+
+1°.- Reitera que don Angelo Guiseppe Baldessari Albasini
+
+carece de la “legitimación activa” para obrar en esta causa,
+
+dado que no tiene el interés actual en los resultados de la
+
+venta pactada entre los señores Giuseppe Baldessari Leita y
+
+Ricardo Baldessari Albasini;
+
+2°.- Subsidiariamente, que el precio acordado en la ya
+
+citada cesión de derechos corresponde al precio justo a la
+
+época en que se pactó la citada cesión de derechos entre los
+
+indicados demandados; y
+
+3°.- Consecuencia de lo expresado, que debe condenarse
+
+en costas al demandante.
+
+A su vez, en el primer otrosí de su presentación, dedujo
+
+demanda reconvencional de indemnización de perjuicios, en
+
+contra de don ANGELO GUISEPPE BALDESSARI ALBASINI, ya
+
+individualizado en autos, por las razones de hecho y de
+
+derecho que expuso.
+
+Refiere que consta en autos que don Angelo Guiseppe
+
+Baldessari Albasini ha demandado en estos autos a su padre
+
+don Giuseppe Baldessari Leita, a don Ricardo Baldessari
+
+Albasini y a “Inversiones Portal del Elqui SpA” por una
+
+supuesta confabulación entre los dos primeros en el sentido
+
+de fijar un menor precio a derechos sobre predio y aguas de
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+propiedad del primero, beneficiando con ello al segundo.
+
+Su representada “Inversiones Portal del Elqui SpA”,
+
+actual titular del dominio de dichos derechos, ha resultado
+
+afectada ya que se ha puesto en duda la certeza de dicha
+
+propiedad razón por la cual ha sido necesaria la defensa.
+
+El demandado, don Angelo Guiseppe Baldessari Albasini ha
+
+alegado tener un interés en los resultados del juicio,
+
+constituyéndose en guardador de los derechos de su padre.
+
+Esta actitud del demandado está ocasionando dificultades
+
+entre don Ricardo Baldessari Albasini e “Inversiones Portal
+
+del Elqui SpA”, ya que, precisamente, por la incerteza en la
+
+titularidad del dominio que se le atribuye a su representada
+
+(ya que ésta depende de los resultados del juicio), ocasiona
+
+lesiones morales que, al ser rechazada la demanda,
+
+necesariamente deberán ser compensados por aquel que,
+
+artificiosamente y sin tener ningún atributo jurídico,
+
+pretende asumir derechos y representaciones que hoy no tiene.
+
+Que tal como se dijo “en lo principal” de su presentación,
+
+don Angelo Guiseppe Baldessari Albasini no tiene la
+
+“legitimación activa” para representar a su padre en esta
+
+instancia y, si la tuviera, cómo podría ser que si concurre
+
+en defensa de los intereses de su padre, a su vez, lo
+
+demanda.
+
+Asimismo, pregunta cómo se explica que el mismo abogado
+
+de don Angelo Guiseppe Baldessari Albasini haya concurrido a
+
+demandar a don Giuseppe Baldessari Leita cuando aún tiene
+
+vigente el mandato judicial otorgado por este último, por
+
+escritura pública de 19 de diciembre del 2014, otorgada ante
+
+el notario de La Serena don Rubén Reinoso Herrera.
+
+Descartada la teoría que el demandado concurre por su
+
+padre, tendríamos que deducir que lo hace en su propio
+
+interés; pero qué interés jurídico puede tener en los bienes
+
+de su padre, cuando éste aún no ha fallecido. Los tendrá una
+
+vez que se abra la sucesión, lo que aún no sucede.
+
+Ello los lleva a pensar que la acción intentada es audaz
+
+y motivada, exclusivamente, por su interés en bienes que aún
+
+no posee y que no sabe si los tendrá.
+
+Que esa actitud ha causado inquietudes en la natural
+
+tranquilidad que un propietario debe tener respecto de sus
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+bienes, entre ellos; los derechos adquiridos por “Inversiones
+
+Portal del Elqui SpA” a don Ricardo Baldessari Albasini, daño
+
+moral que deberá ser indemnizado por don Angelo Guiseppe
+
+Baldessari Albasini.
+
+Sostiene que es perjuicio, cualquier detrimento o
+
+menoscabo, dolor o molestia que sufra un individuo en su
+
+persona, bienes, libertad, honor, créditos, afectos,
+
+creencias, etc.
+
+No importa que el monto sea incierto, indeterminado o de
+
+difícil avaluación. No sólo es cierto el daño actual o
+
+presente. Puede ser cierto un daño futuro, cuando se han
+
+producido las circunstancias que lo determinarán, esto es,
+
+están sentadas las bases para la determinación anticipada
+
+como consecuencia del desarrollo de una situación ya
+
+existente.
+
+Refiere que daño moral es el dolor, la aflicción,
+
+considerada autónomamente e independiente de las
+
+consecuencias patrimoniales o materiales que ese daño moral
+
+puede haber provocado a su vez. La jurisprudencia y la
+
+doctrina aceptan la indemnización del daño moral basados en
+
+que ni el artículo 2314 ni el artículo 2329, ambos del Código
+
+Civil, distinguen la naturaleza del daño y en que muchas
+
+normas lo consagran expresamente (como la indemnización
+
+constitucional por error judicial, la ley de abusos de
+
+publicidad, la ley de accidentes del trabajo).
+
+El hecho de que la indemnización tienda por lo general a
+
+hacer desaparecer el daño, a restablecer en el patrimonio de
+
+la víctima el valor que de él se sustrajo o que se le
+
+disminuyó, lo que no puede ocurrir respecto del daño moral,
+
+dada su naturaleza, no obsta a que este daño pueda ser
+
+indemnizado.
+
+Explica que aparte de la injusticia o inconveniencia que
+
+importaría dejar sin sanción un hecho ilícito que ha inferido
+
+una molestia o dolor a otro, a pretexto de que la
+
+indemnización no equivale exactamente al daño causado, cabe
+
+recordar que la indemnización no sólo es reparadora. También
+
+puede ser compensatoria o satisfactoria y en el hecho lo es
+
+cuando el daño por su naturaleza es irremediable, cuando
+
+consiste en la destrucción de algo que no puede restablecerse
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+o rehacerse: la muerte de una persona, el dinero que el
+
+ofensor paga a la víctima no será la representación exacta
+
+del dolor que ésta experimente; pero le servirá para
+
+compensarlo procurándole los medios para aliviarse, si es
+
+físico, o de buscar otras ventajas o satisfacciones que le
+
+permitan disiparlo, o, en todo caso, atenuarlo o hacerlo más
+
+soportable.
+
+Menciona que un delito o cuasidelito puede consistir no
+
+sólo en un acto material u omisión cualquiera. Puede tratarse
+
+del ejercicio de un derecho que causa daño a otro. Hay abuso
+
+de un derecho cuando éste es ejercido prescindiendo de la
+
+finalidad social en cuyo contexto se encuentran amparados o
+
+con una motivación sicológica dolosa. Los derechos deben ser
+
+ejercidos sin malicia y con la diligencia debida.
+
+Finalmente, en esta situación, en la representación que
+
+conduce, viene en intentar demanda indemnizatoria por daño
+
+moral a don Angelo Guiseppe Baldessari Albasini, ya
+
+individualizado, solicitando que se la acoja a tramitación
+
+para, en definitiva, se le condene a pagar el daño moral que
+
+ha causado a “Inversiones Portal del Elqui SpA” la demanda de
+
+autos, pidiendo:
+
+1°.- Que se reconozca que la demanda de autos intentada
+
+por don Angelo Guiseppe Baldessari Albasini lo fue sin tener
+
+la legitimación activa necesaria para ese efecto;
+
+2°.- Que, en consecuencia, el demandado, al haber
+
+actuado con dicha ligereza, causó un daño moral a su parte;
+
+3°.- Que dicho daño moral asciende a la suma de
+
+$100.000.000 o a la que el Tribunal determine; y
+
+4°.- Que el demandado debe pagar las costas de la causa.
+
+Que con fecha 18 de febrero de 2019 (folio 313), se tuvo
+
+por contestada la demanda en rebeldía de la parte demandada
+
+don Giuseppe Baldessari Leita.
+
+Que con fecha 22 de febrero de 2019 (folio 314), el
+
+abogado de la parte demandante principal y demandada
+
+reconvencional, al evacuar el trámite de la contestación de
+
+la demanda reconvencional, solicitó su rechazo con expresa
+
+condena en costas, en razón de los siguientes argumentos:
+
+Que el demandante argumentando supuestos daños morales
+
+por la suma de $100.000.000 que recibirá si se deja sin
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+efecto por operar la nulidad pedida por su parte en autos,
+
+viene en demandar a su parte.
+
+Que en verdad, lo que consta de autos es que la sociedad
+
+que dice representar el actor reconvencional, posee la
+
+propiedad sub lite, solamente para tratar de ocultar la misma
+
+al momento de demandarse a don Ricardo Baldessari Albasini y
+
+obtenerse del Tribunal una medida prejudicial precautoria,
+
+toda vez que éste corrió a aportar la antes citada propiedad,
+
+para impedir que se trabara sobre ella la antes citada medida
+
+cautelar, a una sociedad familiar.
+
+Es decir, la sociedad que demanda a su parte es un
+
+instrumento creado por el propio demandado y compuesta por el
+
+mismo, su cónyuge e hijos.
+
+Dice que el único dolor que pueden sufrir los componentes de
+
+la sociedad, es que se obtenga por su parte una sentencia
+
+favorable por simulación de contrato y sea restituido el
+
+inmueble al patrimonio del pater familia don Guissepe
+
+Baldessari Leita, y perder un inmueble valioso que se obtuvo
+
+de una forma tan oprobiosa.
+
+En cuanto al fundamento de la demanda, saben desde ya
+
+que el dolor no lo puede sufrir una sociedad que existe solo
+
+en el papel y en sus inscripciones por lo que la demanda, por
+
+eso, fuera de no existir motivación alguna para su
+
+interposición, de todas maneras es inviable pues se está
+
+pidiendo como fundamento el sufrimiento de una persona que es
+
+una ficción legal y que carece de sentimiento y posibilidad
+
+de sufrir pena o dolor de ninguna forma.
+
+Finalmente, solicitó tener por contestada la demanda
+
+reconvencional interpuesta por el abogado don Juan Enrique
+
+Prieto, en representación de “Inversiones Portal del Elqui
+
+SpA”, y en definitiva, denegar lugar a ella por carecer de
+
+todo fundamento tanto en los hechos como en el derecho, con
+
+costas.
+
+Que con fecha 11 de marzo de 2019 (folio 320), el
+
+abogado de la parte demandante principal y demandada
+
+reconvencional, al evacuar el trámite de la réplica de la
+
+demanda principal respecto del demandado don Ricardo
+
+Baldessari Albasini, señaló que:
+
+La parte del demandado Ricardo Baldessari Albasini se ha
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+excepcionado al contestar la demanda de autos señalando que
+
+la parte actora de don Ángelo Guiseppe Baldessari Albasini
+
+carece de legitimación activa para demandar porque éste solo
+
+tiene una mera expectativa en los bienes de don Giuseppe
+
+Baldessari Leita, para el evento que éste fallezca y por lo
+
+tanto no es poseedor de una acción patrimonial actual, pues
+
+los contratos cuya nulidad demanda por simulación, no le
+
+ocasionan un perjuicio económico.
+
+Estima que la argumentación de la parte de Ricardo
+
+Baldessari Albasini carece de todo sustento.
+
+Señala que en la demanda de autos, antes de terminar su
+
+exposición y por consiguiente antes de la conclusión de
+
+aquella, antes de la frase: POR TANTO, su parte hace ver
+
+claramente cuál es el interés pecuniario que tiene para
+
+presentar la demanda de autos, el que se puede resumir en que
+
+el actor se considera perjudicado directamente por el acto
+
+celebrado por los demandados, dado que a raíz precisamente de
+
+la celebración de aquellos, su padre don Giuseppe Baldessari
+
+Leita, quedó despojado de todo su patrimonio e hizo imposible
+
+que el actor pudiera demandar a éste la restitución de un
+
+mutuo concedido a aquel de una importante suma de dinero,
+
+salvo si se declararan nulos los actos atacados por la
+
+demanda.
+
+Dice que dicho interés se acredita con los documentos
+
+acompañados bajo en numeral 9) del otrosí segundo de la
+
+demanda de autos, con citación y no objetados por la
+
+contraria, donde consta el actual crédito del actor contra su
+
+padre, don Giuseppe Baldessari Leita, por la suma de
+
+$30.000.000.
+
+Menciona que el art. 1683 del Código Civil dice que la
+
+nulidad absoluta: “puede alegarse por todo el que tenga
+
+interés en ello, excepto…”. Pues bien, la jurisprudencia está
+
+conteste en que el interés que señala la antes dicha
+
+disposición es de orden pecuniario, como el alegado por su
+
+parte.
+
+De esta forma, la excepción de carecer de interés su
+
+parte en demandar en la forma planteada por la demandada
+
+carece de todo fundamento.
+
+Finalmente, y de acuerdo a lo expuesto, solicitó tener
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+por evacuado el trámite de réplica por la parte actora
+
+respecto del demandado don Ricardo Baldessari Albasini.
+
+Que con fecha 11 de marzo de 2019 (folio 321), el
+
+abogado de la parte demandante principal y demandada
+
+reconvencional, al evacuar el trámite de la réplica de la
+
+demanda principal respecto del demandado don Guissepe
+
+Baldessari Leita, señaló que:
+
+Viene en evacuar el trámite de réplica sin aportar
+
+mayores antecedentes dado que el demandado don Giuseppe
+
+Baldessari Leita, no contestó la demanda de autos y ésta se
+
+dio por evacuada en su rebeldía.
+
+Finalmente, solicitó tener por evacuado el trámite de
+
+réplica por la parte actora respecto del demandado don
+
+Giuseppe Baldessari Leita, sin aportar mayores antecedentes
+
+atendido que éste no contestó la demanda, que se dio por
+
+evacuada en su rebeldía.
+
+Que con fecha 11 de marzo de 2019 (folio 322), el
+
+abogado de la parte demandante principal y demandada
+
+reconvencional, al evacuar el trámite de la réplica de la
+
+demanda principal respecto de la demandada Portal del Elqui
+
+SpA, señaló que:
+
+La parte demandada de la sociedad Portal del Elqui SpA.
+
+se ha excepcionado al contestar la demanda de autos señalando
+
+que la parte actora de don Ángelo Guiseppe Baldessari
+
+Albasini carece de legitimación activa para demandar porque
+
+éste solo tiene una mera expectativa en los bienes de don
+
+Giuseppe Baldessari Leita, para el evento que éste fallezca y
+
+por lo tanto no es poseedor de una acción patrimonial actual,
+
+pues los contratos cuya nulidad demanda por simulación, no le
+
+ocasiona un perjuicio económico.
+
+Dice que la argumentación de la parte de la sociedad
+
+Portal del Elqui SpA carece de todo sustento.
+
+Señala que en la demanda de autos, antes de terminar su
+
+exposición y por consiguiente antes de la conclusión de
+
+aquella, antes de la frase: POR TANTO, su parte hace ver
+
+claramente cuál es el interés pecuniario que tiene para
+
+presentar la demanda de autos, el que se puede resumir en que
+
+el actor se considera perjudicado directamente por el acto
+
+celebrado por los demandados, dado que a raíz precisamente de
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+la celebración de aquellos, su padre don Giuseppe Baldessari
+
+Leita, quedó despojado de todo su patrimonio e hizo imposible
+
+que el actor pudiera demandar a éste la restitución de un
+
+mutuo concedido a aquel de una importante suma de dinero,
+
+salvo si se declararan nulos los actos atacados por la
+
+demanda.
+
+Menciona que dicho interés se acredita con los
+
+documentos acompañados bajo en numeral 9) del otrosí segundo
+
+de la demanda de autos, con citación y no objetados por la
+
+contraria, donde consta el actual crédito del actor contra su
+
+padre, don Giuseppe Baldessari Leita, por la suma de
+
+$30.000.000.
+
+Sostiene que el art. 1683 del Código Civil dice que la
+
+nulidad absoluta: “puede alegarse por todo el que tenga
+
+interés en ello, excepto…”. Pues bien, la jurisprudencia está
+
+conteste en que el interés que señala la antes dicha
+
+disposición es de orden pecuniario, como el alegado por su
+
+parte.
+
+De esta forma, la excepción de carecer de interés su
+
+parte en demandar en la forma planteada por la demandada
+
+carece de todo fundamento.
+
+Luego, agrega que la parte demandada dijo que los bienes
+
+corresponden solo a un 50% de un predio agrícola, y sus
+
+derechos de aprovechamiento, señala que el valor del inmueble
+
+para efecto del impuesto territorial solo estaba avaluado al
+
+2do. semestre de 2016 en la suma de $160.55.448, por lo que a
+
+la fecha de suscribir la escritura por don Giuseppe
+
+Baldessari Leita con su hijo Ricardo Baldessari Albasini, que
+
+contenía los contratos cuya nulidad se pide se hallaban
+
+razonablemente dentro de ese valor y por tanto corresponden
+
+al precio justo.
+
+Expone que esto no es así, que el valor comercial del
+
+predio completo a la fecha de la celebración de los aludidos
+
+actos era en total de $1.229.814.000 y el 50% de éstos era
+
+$614.907.000, y se fijó un precio de $100.000.000; por otra
+
+parte el 50% de los derechos de aprovechamiento del aguas que
+
+riegan el predio de marras tenían un valor de $150.000.000 y
+
+se fijó un precio en la compraventa de $18.000.000.
+
+Indica que lo fijado en los contratos cuya nulidad se pide
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+sin duda son valores subestimados que trataban de encubrir la
+
+nula capacidad económica que a la sazón tenía el supuesto
+
+comprador, el demandado don Ricardo Baldessari Albasini,
+
+quien como acreditarán era empleado de su padre y percibía
+
+remuneraciones por el mínimo laboral, que le impedía a todas
+
+luces poder juntar siquiera, dado que a esa fecha ya era un
+
+hombre casado y con tres hijos, una suma mínima para poder
+
+responder al costo del pagar el precio de los contratos
+
+aludidos.
+
+Todo lo que junto a la “fecha de pago” que se pactó en
+
+los contratos, el 31 de diciembre de 2021 y considerando la
+
+avanzada edad del demandado don Giuseppe Baldessari Leita,
+
+octogenario, haría que el precio fuera totalmente irreal por
+
+la suma pactada, en definitiva nunca se pagara en la
+
+realidad.
+
+Finalmente, y de acuerdo a lo expuesto, solicitó tener
+
+por evacuado el trámite de réplica por parte del actor
+
+respecto de la contestación de la demandada, la sociedad
+
+Portal del Elqui SpA.
+
+Que con fecha 21 de marzo de 2019 (folio 324), la
+
+abogada de la parte demandada don Ricardo Baldessari
+
+Albasini, al evacuar el trámite de la dúplica de la demanda
+
+principal señala que estando dentro de plazo, no tiene nada
+
+que expresar al respecto.
+
+Y solicita tener por evacuada la dúplica de la demanda
+
+principal.
+
+Que con fecha 25 de marzo de 2019 (folio 325), se tuvo
+
+por evacuado el trámite de la dúplica de la demanda principal
+
+en rebeldía de las partes demandadas don Giuseppe Baldessari
+
+Leita e Inversiones Portal del Elqui SpA.
+
+Que con fecha 25 de marzo de 2019 (folio 326), se tuvo
+
+por evacuado el trámite de la dúplica de la demanda
+
+reconvencional en rebeldía de la parte demandada
+
+reconvencional.
+
+Que con fecha 26 de abril de 2019 (folio 334), se llevó
+
+a efecto el comparendo de conciliación con la asistencia de
+
+la parte demandante principal y demandada reconvencional,
+
+representada por su abogado don Juan Carlos Olivares Rosales,
+
+y en rebeldía de todos los demandados principales;
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+conciliación que no se produjo atendida la inasistencia
+
+señalada.
+
+Que con fecha 06 de mayo de 2019 (folio 335), se recibió
+
+la causa a prueba, la que fue modificada vía reposición con
+
+fecha 17 de mayo de 2023 (folio 496).
+
+Que con fecha 17 de febrero de 2022 (folio 419), en
+
+atención al fallecimiento de la parte demandada don Giusseppe
+
+Baldessari Leita, se decretó su sucesión procesal, en su
+
+calidad de demandado principal, únicamente respecto de sus
+
+derechos subjetivos que conforman el objeto del presente
+
+proceso, pasando a ocupar su lugar, de la forma fijada, las
+
+siguientes personas: 1) Doña Elena Albasini Longhi, cédula
+
+nacional de identidad N°4.808.883-K; 2) Don Ricardo
+
+Baldessari Albasini, cédula nacional de identidad
+
+N°7.583.031-9; 3) Don Renzo Baldessari Albasini, cédula
+
+nacional de identidad N°11.618.495-8; 4) Don Angelo Guiseppe
+
+Baldessari Albasini, cédula nacional de identidad
+
+N°11.823.249-6; 5) Doña Rita Adriana Baldessari Albasini,
+
+cédula nacional de identidad N°11.823.248-8; y 6) Don Bruno
+
+Baldessari Albasini, cédula nacional de identidad
+
+N°12.446.064-6.
+
+Que con fecha 10 de enero de 2023 (folio 469), se
+
+designó como procurador común de los demandados sucesores
+
+procesales de don Giusseppe Baldessari Leita: doña Elena
+
+Albasini Longhi, don Ricardo Baldessari Albasini, don Renzo
+
+Baldessari Albasini, don Angelo Guiseppe Baldessari Albasini,
+
+doña Rita Adriana Baldessari Albasini y don Bruno Baldessari
+
+Albasini, al abogado don Álvaro Felipe Gómez Bravo.
+
+Que con fecha 28 de julio de 2023 (folio 533), se citó a
+
+las partes a oír sentencia.
+
+CONSIDERANDO:
+
+I. EN CUANTO A LAS OBJECIONES DOCUMENTALES.
+
+PRIMERO: Que con fecha 13 de junio de 2023 (folio 520),
+
+la parte demandante principal dedujo objeción respecto de
+
+documento acompañado por la contraria.
+
+Refiere que con fecha 08 de junio de 2023, la abogada
+
+María Antonieta Medina Lebel, en representación de uno de los
+
+demandados, Ricardo Baldessari Albasini, acompañó el
+
+documento denominado “Autorización”, firmado, con fecha 30 de
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+noviembre de 2011, por Giuseppe Baldessari Leita, demandado
+
+(fallecido), ante Óscar Fernández Mora, quien fuera notario
+
+público de la comuna de La Serena.
+
+Dice que el referido documento lo acompaña bajo
+
+apercibimiento, sin mayor detalle.
+
+El documento refiere que el firmante concedió el uso, a
+
+Ricardo Baldessari Albasini, del predio de que es dueño en
+
+parte, a fin que se proceda al uso gratuito de este inmueble
+
+como de sus correspondientes derechos de aprovechamiento de
+
+aguas. Además, señala: “propiedad inscrita el año 1991 es de
+
+fs 166 N°147”.
+
+Que con fecha 09 de junio de 2023, se tuvo por
+
+acompañado el documento “bajo el apercibimiento del artículo
+
+346 N°3 del Código de Procedimiento Civil”.
+
+Dice que observado el documento, se constata que éste
+
+fue firmado por Giuseppe Baldessari Leita, demandado en
+
+autos.
+
+El instrumento en cuestión contiene, aparentemente, una
+
+especie de contrato de comodato precario, por cuanto no se
+
+señala en éste un uso específico ni plazo para la restitución
+
+(art. 2195 del Código Civil).
+
+El comodatario es Ricardo Baldessari Albasini, quien no
+
+suscribe el instrumento privado.
+
+Que como sabemos, el Código de Procedimiento Civil
+
+establece, en el artículo 346 N°3, que “Los instrumentos
+
+privados se tendrán por reconocidos: 3°. Cuando, puestos en
+
+conocimiento de la parte contraria, no se alega su falsedad o
+
+falta de integridad dentro de los seis días siguientes a su
+
+presentación, debiendo el tribunal, para este efecto,
+
+apercibir a aquella parte con el reconocimiento tácito del
+
+instrumento si nada expone dentro de dicho plazo.”
+
+Expone que no es legal hacer valer, procesalmente, un
+
+instrumento privado en contra de un tercero, sino cuando éste
+
+emana, precisamente, de la parte contra quien se pretende
+
+hacer valer. El reconocimiento de un instrumento privado sólo
+
+puede afectar a la parte de la cual emana, por lo que, si el
+
+documento nace de un tercero, no es procedente que el
+
+Tribunal lo tenga por reconocido respecto de la contraparte.
+
+Dice que de lo expuesto, se concluye que no es procedente
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+hacer valer el referido instrumento privado en contra de su
+
+parte, por cuanto no fue suscrita por ésta.
+
+Explica que si entendemos que el instrumento privado, de
+
+fecha 30 de noviembre de 2011 contiene, aparentemente, un
+
+comodato precario, entre Giuseppe Baldessari Leita y Ricardo
+
+Baldessari Albasini, éste se habría extinguido al haber
+
+-supuestamente- adquirido, por tradición, el inmueble y
+
+derechos de aprovechamiento de aguas objeto de esta litis,
+
+según da cuenta la escritura pública de Cesión de Derechos en
+
+Comunidad, de fecha 25 de julio de 2014, ya acompañada a
+
+estos autos, operando el modo de extinguir las obligaciones
+
+que, doctrinariamente, se denomina “confusión”.
+
+Por ello, no pueden hacerse valer, en contra de su parte, los
+
+derechos que emanan de dicho instrumento privado, por estar
+
+extinguidos.
+
+Afirma que es contradictorio que la parte demandada
+
+pretenda hacer valer un instrumento privado que da cuenta que
+
+el demandado detenta la mera tenencia de las cosas, a título
+
+de comodato (precario o no) y, por la otra parte, sostenga la
+
+validez del contrato de Cesión de Derechos en Comunidad, que
+
+se impugna mediante la acción de simulación interpuesta.
+
+Finalmente, haciendo uso de la citación, solicitó tener por
+
+no reconocido, respecto de su parte, el instrumento privado
+
+denominado “Autorización”, ya singularizado en esta
+
+presentación, acompañado por la abogada María Antonieta
+
+Medina Lebel, en representación de uno de los demandados,
+
+Ricardo Baldessari Albasini.
+
+SEGUNDO: Que la abogada de la parte demandada Ricardo
+
+Baldessari Albasini, al evacuar el traslado conferido,
+
+solicitó su rechazo, señalando que los fundamentos argüidos
+
+por la actora, en aquel párrafo denominado “ARGUMENTOS
+
+FORMALES” para restar valor probatorio a aquel documento
+
+conocido como “Autorización”, firmado notarialmente con fecha
+
+30 de noviembre de 2011 por don Giuseppe Baldessari Leita, en
+
+el cual le concede a don Ricardo Baldessari A. el uso del
+
+predio “La Polla Alta”, tienen por finalidad atacar la
+
+eficacia y el valor probatorio de este instrumento, facultad
+
+que es privativa del tribunal de fondo. Razón por la cual
+
+debe ser desestimada.
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+En lo tocante con lo señalado en el punto “ARGUMENTOS DE
+
+FONDO”, se señala que la introducción de tal documento, vale
+
+decir, “Autorización”, firmado notarialmente con fecha 30 de
+
+Noviembre de 2011 por don Giuseppe Baldessari Leita, en el
+
+cual le concede a don Ricardo Baldessari A. el uso del predio
+
+“La Polla Alta”, sólo tiene el propósito de hacer notar que
+
+don Giuseppe Baldessari L., desde al menos, del año 2011
+
+tenía la intención que don Ricardo Baldessari tuviese la
+
+ocupación material y agropecuaria exclusiva de parcela “La
+
+Polla Alta” y que el contrato impugnando en autos no se debe
+
+a un hecho antojadizo y sin una historia de vida de trabajo
+
+en la parcela.
+
+Dice que don Ricardo Baldessari, como quedó establecido
+
+en su prueba confesional, labora en dicho inmueble desde sus
+
+18 años de edad, codo a codo con su padre (no así sus
+
+hermanos), por lo que no es extrañar que en un principio,
+
+(año 2011), atendido el retiro de don Giuseppe de su
+
+presencialidad en la parcela, entregase a don Ricardo la
+
+autorización formal para que éste la explotase, para luego
+
+vendérsela para que éste continuase su legado.
+
+De modo, que la cesión de los derechos en “La Polla
+
+Alta” que efectuare don Giuseppe Baldessari L. a don Ricardo
+
+Baldessari A. no obedece a un antojo, capricho o humorada sin
+
+sustento en el tiempo.
+
+Explica que de modo alguno se pretende hacer valer un
+
+contrato de “comodato” como pretende la actora y menos en
+
+contraposición con el de cesión de derechos en comunidad.
+
+La finalidad es solo ilustrativa de una concatenación de
+
+hechos en el tiempo.
+
+Finalmente, solicitó tener por evacuado el traslado,
+
+desechándose la objeción en todas sus partes.
+
+TERCERO: Que el abogado de la parte demandada
+
+Inversiones Portal del Elqui SpA, al evacuar el traslado
+
+conferido, solicitó su rechazo, señalando que el documento,
+
+firmado ante Notario por don Giuseppe Baldesari, autorizando
+
+a su hijo Ricardo Baldessari para explotar la parte del
+
+predio y los derechos de agua, que correspondía a don
+
+Giuseppe Baldessari, (en la Comunidad que existía con su
+
+hermano don Renato Baldessari) tuvo en su momento la utilidad
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+de hacer pública la situación de hecho en cuanto a la
+
+realidad de que era esencialmente don Ricardo Baldessari
+
+quien desde los 18 años, trabajaba agrícolamente el predio,
+
+tal como señaló el demandado don Ricardo Baldessari en la
+
+prueba de absolución de posiciones. En su momento, el
+
+documento tuvo por finalidad informar de esa condición de don
+
+Ricardo, frente a sus familiares dueños de la otra parte del
+
+predio.
+
+Esa finalidad de entonces, explica la fórmula utilizada
+
+en el documento de marras, de ser una autorización para el
+
+uso del predio. Y hoy la parte del Sr. Ricardo Baldessari la
+
+utiliza para acreditar la verdad de ser efectiva desde mucho
+
+antes del contrato formal entre ellos, de ser la voluntad
+
+concreta del padre de los litigantes y demandado por su hijo,
+
+don Giuseppe Baldessari Leita.
+
+Que el valor probatorio de este documento es el que en
+
+uso de sus facultades privativas, le otorgue el Tribunal.
+
+CUARTO: Que el Tribunal rechazará la objeción deducida,
+
+por no coincidir las alegaciones con las causales específicas
+
+de objeción que contempla la ley al respecto, y por referirse
+
+las mismas, además, a aspectos que dicen relación con la
+
+pertinencia y valor probatorio de la prueba acompañada,
+
+materias que son privativas del análisis y decisión del
+
+Tribunal.
+
+QUINTO: Que con fecha 13 de junio de 2023 (folio 521),
+
+la parte demandante principal dedujo objeción respecto de
+
+documentos acompañados por la contraria.
+
+Respecto del documento denominado “8) Tasación del
+
+Inmueble denominado La Polla Alta de la comuna de Vicuña
+
+realizada el año 2009 por don Elicio Moraga Q.”, lo objeta
+
+por:
+
+a. Ser un instrumento privado emanado de un tercero,
+
+supuesto perito, quien no ha comparecido en autos como
+
+testigo reconociendo el informe, por lo que mal puede tener
+
+valor probatorio.
+
+b. Por no constar fidedignamente haber sido elaborado
+
+por quien se dice, esto es, el Sr. Elicio Moraga Quinta.
+
+c. Por falta de integridad, por cuanto el supuesto autor
+
+señala: “a) La escritura de compraventa no señala la
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+superficie del predio”. En este sentido, carece de toda
+
+seriedad un informe de tasación respecto de un predio que el
+
+tasador desconoce la superficie, quien sólo se guía por la
+
+superficie que -supuestamente- se encontraría en la base de
+
+datos del Servicio de Impuestos Internos.
+
+d. Por ser un documento elaborado 5 años antes a los
+
+hechos que motivaron este juicio, por lo que dista de
+
+informar acerca del precio real del predio y derechos de
+
+aprovechamiento de aguas de objeto de estos autos, a la fecha
+
+de los hechos.
+
+Respecto del documento denominado “9) Tasación del
+
+Inmueble denominado La Polla Alta de la comuna de Vicuña
+
+realizada el año 2014 por don Elicio Moraga Q.”, lo objeto
+
+por los motivos singularizados en las letras a., b. y c.
+
+precedentes.
+
+Respecto del documento denominado “10) Tasación del
+
+Inmueble denominado La Polla Alta de la comuna de Vicuña
+
+realizada el año 2014 por Aquagro”, lo objeta por los motivos
+
+singularizados en las letras a. y b. precedentes.
+
+Finalmente, solicitó que, haciendo uso de la citación
+
+conferida, tenga por objetados los documentos singularizados.
+
+SEXTO: Que la abogada de la parte demandada Ricardo
+
+Baldessari Albasini, al evacuar el traslado conferido,
+
+solicitó su rechazo, señalando que las causales de
+
+impugnación invocadas por la actora, son inconducentes y
+
+carecen de valor jurídico para impugnar instrumentos
+
+allegados al proceso con la debida citación de la contraria.
+
+Razón por la cual ella debe ser desestimada.
+
+Finalmente, solicitó tener por evacuados los traslados
+
+de objeción de documentos, desechándola en todas sus partes.
+
+SÉPTIMO: Que el abogado de la parte demandada
+
+Inversiones Portal del Elqui SpA, al evacuar el traslado
+
+conferido, solicitó su rechazo, señalando que el modo de
+
+impugnar documentos agregados por la parte con citación, no
+
+es el utilizado por la contraria para este objeto, por lo que
+
+se debiera desestimar la objeción.
+
+Que las tasaciones de don Elicio Moraga, de diversos
+
+años, fueron acompañadas con citación, y las causales de
+
+impugnación invocadas por la actora, son inconducentes y
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+carecen de valor jurídico para impugnar instrumentos
+
+allegados al proceso con la debida citación de la contraria.
+
+Fueron mal impugnadas, razón por la cual ella debe ser
+
+desestimada.
+
+OCTAVO: Que el Tribunal negará lugar a las objeciones
+
+documentales deducidas, por no haberse fundado en causal
+
+legal y por referirse a aspectos que dicen relación con la
+
+pertinencia y valor probatorio de los documentos acompañados,
+
+materias que son privativas del análisis y decisión del
+
+Tribunal.
+
+II. EN CUANTO AL FONDO.
+
+NOVENO: Que con fecha 13 de abril de 2016, se ha
+
+presentado don Jorge Latorre O’Nell, abogado, en
+
+representación de don Angelo Guiseppe Baldessari Albasini,
+
+quien, conforme los antecedentes de hecho y fundamentos de
+
+derecho que se consignaron en la parte expositiva, los que se
+
+dan por reproducidos en este considerando, solicitó tener por
+
+interpuesta demanda ordinaria de nulidad de contrato de
+
+compraventa en contra de don Giuseppe Baldessari Leita, de
+
+don Ricardo Baldessari Albasini, y también de la sociedad
+
+Inversiones Portal del Elqui SpA, todos ya individualizados,
+
+a fin de que se declare:
+
+I. Que carecen de existencia legal la apariencia de
+
+contratos de compraventa contenidos en la escritura pública
+
+de fecha 25 de julio de 2014 otorgada por la Notaría de La
+
+Serena de don Oscar Fernández Mora, Repertorio N°6513-2014,
+
+celebrados entre el demandado don Giuseppe Baldesari Leita y
+
+el demandado don Ricardo Baldessari Albasini, conforme a los
+
+artículos 1445, 1467 y 1681 y siguientes del Código Civil.
+
+II. En subsidio de la petición precedente, que los
+
+contratos de compraventa que aparecen en la referida
+
+escritura pública son nulos, de nulidad absoluta, por carecer
+
+de consentimiento y adolecer de causa ilícita, de acuerdo a
+
+los artículos 1445, 1467 y 1681 y siguientes del Código
+
+Civil.
+
+III. En subsidio de las peticiones anteriores, que todos
+
+los actos jurídicos que constan en la escritura pública de
+
+fecha 25 de julio de 2014 otorgada por la Notaría de La
+
+Serena de don Oscar Fernández Mora, Repertorio N°6513-2014,
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+adolecen de nulidad absoluta, dado que los actos jurídicos
+
+que contienen no son compraventas de bien raíz y sus
+
+accesorios; ni tampoco compraventa de derechos de
+
+aprovechamiento de aguas, sino que deben ser calificadas como
+
+donaciones irrevocables de estos bienes, debiendo en este
+
+caso ser declaradas dichas compraventas nulas de nulidad
+
+absoluta, conforme al artículo 1682 y siguientes del Código
+
+Civil, o en subsidio, que la compraventa es válida hasta la
+
+suma en que la ley permite efectuar una donación sin
+
+insinuación.
+
+IV. Que en caso de acogerse cualquiera de las peticiones
+
+precedentes, la parte demandada de la sociedad Inversiones
+
+Portal del Elqui SpA, representada por el mismo demandado don
+
+Ricardo Baldessari Albasini, deberá restituir al patrimonio
+
+de don Giuseppe Baldessari Leita, dados los efectos erga
+
+omnes de la nulidad, los siguientes bienes, a saber:
+
+A) El cincuenta por ciento de los derechos de dominio
+
+que recaían sobre la parcela agrícola denominada “La Polla
+
+Alta”, ubicada en la comuna de Vicuña, cuyos deslindes
+
+especiales son: AL NORTE, con el río; AL SUR, con la cumbre
+
+de los cerros inmediatos; AL ORIENTE, con Callejón Portillo;
+
+AL PONIENTE, con terrenos de La Calera de don Ernesto
+
+Peñafiel, que se encuentra inscrita actualmente a favor de la
+
+sociedad Inversiones Portal del Elqui SpA, representada por
+
+el antes nombrado, a fs. 278 N°263 del Reg. De Prop. del
+
+Conservador de Bienes Raíces de Vicuña con fecha 14 de marzo
+
+de 2016, con todos sus enseres y muebles, dentro del tercero
+
+día de ejecutoriada que sea esta sentencia,; y que por las
+
+razones aludidas precedentemente, debe cancelarse la
+
+inscripción antes mencionada, y declarar revalidada la
+
+inscripción anterior a nombre de don Giuseppe Baldessari
+
+Leita que corría a fs.166 N°147 del Registro de Propiedad
+
+correspondiente al año 1991 del Conservador de Bienes Raíces
+
+de Vicuña-Elqui, y de fs. 65 N°115 del Registro de Propiedad
+
+correspondiente al año 1969 del Conservador antes citado; así
+
+como los frutos de la propiedad indicada y ser responsable de
+
+las pérdidas o deterioros que ocurran, considerándosele para
+
+todos los efectos legales como poseedor de mala fe,
+
+debiéndose fijar el monto de estos frutos y responsabilidades
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+en la ejecución del fallo, en forma incidental.
+
+B) El cincuenta por ciento de los derechos de dominio
+
+que recaen sobre el derecho de aprovechamiento de aguas
+
+consistentes en el uso de veinte (20) acciones provenientes
+
+del Canal La Calera, que utiliza para su regadío el predio
+
+rústico denominado “La Polla Alta”, ubicado en la comuna de
+
+La Serena, y que por lo tanto constituyen una parte
+
+integrante o accesoria de este inmueble, por lo que tienen
+
+también la calidad de inmueble, que se encuentran actualmente
+
+inscritos a favor de la sociedad INVERSIONES PORTAL DEL ELQUI
+
+SPA, a fs. 121 N°118 en el Registro de Propiedad de Aguas del
+
+Conservador de Bienes Raíces de Vicuña con fecha 14 de marzo
+
+de 2016; y que por las razones aludidas precedentemente debe
+
+cancelarse la inscripción antes mencionada, y declarar
+
+revalidadas las inscripciones anteriores a nombre de don
+
+Giuseppe Baldessari Leita que corrían inscritas a fs. 5 N°6
+
+correspondiente al Registro de Propiedad de Aguas de 1996 y a
+
+fs. 66 N°72 correspondiente al mismo Registro del año 1991,
+
+ambas del Conservador de Bienes Raíces de Vicuña-Elqui; así
+
+como los frutos de la propiedad indicada y ser responsable de
+
+las pérdidas o deterioros que ocurran, considerándosele para
+
+todos los efectos legales como poseedor de mala fe,
+
+debiéndose fijar el monto de estos frutos y responsabilidades
+
+en la ejecución del fallo, en forma incidental.
+
+V. Que el demandado don Ricardo Baldessari Albasini, y
+
+la sociedad Inversiones Portal del Elqui SpA, representada
+
+por doña Daniza Carvajal Alfaro; deben ser condenados al pago
+
+de las costas de este juicio.
+
+DÉCIMO: Que con fecha 17 de mayo de 2016 (folio 30), el
+
+demandado principal Ricardo Baldessari Albasini, conforme a
+
+lo ya expuesto en lo enunciativo lo que se da por reproducido
+
+en este apartado, solicitó tener por contestada la demanda,
+
+rechazándola en todas sus partes, con expresa condenación en
+
+costas.
+
+UNDÉCIMO: Que con fecha 25 de enero de 2019 (folio 308),
+
+la demandada principal Inversiones Portal del Elqui SpA,
+
+conforme a lo ya expuesto en lo enunciativo lo que se da por
+
+reproducido en este apartado, solicitó se declare que:
+
+1°.- Don Angelo Guiseppe Baldessari Albasini carece de
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+la “legitimación activa” para obrar en esta causa, dado que
+
+no tiene el interés actual en los resultados de la venta
+
+pactada entre los señores Giuseppe Baldessari Leita y Ricardo
+
+Baldessari Albasini;
+
+2°.- Subsidiariamente, que el precio acordado en la ya
+
+citada cesión de derechos corresponde al precio justo a la
+
+época en que se pactó la citada cesión de derechos entre los
+
+indicados demandados; y
+
+3°.- Consecuencia de lo expresado, que debe condenarse
+
+en costas al demandante.
+
+A su vez, en el primer otrosí de su presentación, dedujo
+
+demanda reconvencional de indemnización de perjuicios, en
+
+contra de don Angelo Guiseppe Baldessari Albasini, ya
+
+individualizado en autos, por las razones de hecho y de
+
+derecho que expuso, solicitando que se la acoja a tramitación
+
+para, en definitiva, se le condene a pagar el daño moral que
+
+ha causado a “Inversiones Portal del Elqui SpA” la demanda de
+
+autos, pidiendo:
+
+1°.- Que se reconozca que la demanda de autos intentada
+
+por don Angelo Guiseppe Baldessari Albasini lo fue sin tener
+
+la legitimación activa necesaria para ese efecto;
+
+2°.- Que, en consecuencia, el demandado, al haber
+
+actuado con dicha ligereza, causó un daño moral a su parte;
+
+3°.- Que dicho daño moral asciende a la suma de
+
+$100.000.000 o a la que el Tribunal determine; y
+
+4°.- Que el demandado debe pagar las costas de la causa.
+
+DUODÉCIMO: Que con fecha 18 de febrero de 2019 (folio
+
+313), se tuvo por contestada la demanda principal en rebeldía
+
+de la parte demandada don Giuseppe Baldessari Leita.
+
+DÉCIMO TERCERO: Que con fecha 22 de febrero de 2019
+
+(folio 314), el abogado de la demandada reconvencional,
+
+conforme a lo ya expuesto en lo enunciativo lo que se da por
+
+reproducido en este apartado, solicitó el rechazo de la
+
+demanda reconvencional, con costas.
+
+DÉCIMO CUARTO: Que en sus escritos de réplica y dúplica,
+
+respecto de la demanda principal como de la reconvencional,
+
+las partes reiteraron y profundizaron los argumentos ya
+
+esgrimidos en sus escritos de la etapa de discusión.
+
+DÉCIMO QUINTO: Que, la parte demandante principal y
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+demandada reconvencional don Angelo Baldessari Abasini, con
+
+la finalidad de acreditar los fundamentos de su pretensión,
+
+acompañó a la causa la siguiente prueba:
+
+Documental, bajo apercibimiento legal, sin que fuere
+
+objetada por la contraria o cuya objeción fue rechazada,
+
+consistente en:
+
+1) Certificado de defunción de don Giuseppe Baldessari Leita,
+
+emitido por Servicio de Registro Civil e Identificación, con
+
+fecha 28 de octubre de 2019.
+
+2) Certificado de matrimonio de don Giuseppe Baldessari Leita
+
+y doña Elena Albasini Longhi, emitido por el Servicio de
+
+Registro Civil e Identificación, con fecha 29 de octubre de
+
+2019.
+
+3) Certificado de nacimiento de don Ricardo Baldessari
+
+Albasini, emitido por el Servicio de Registro Civil e
+
+Identificación, con fecha 28 de octubre de 2019.
+
+4) Certificado de nacimiento de don Renzo Baldessari
+
+Albasini, emitido por el Servicio de Registro Civil e
+
+Identificación, con fecha 28 de octubre de 2019.
+
+5) Certificado de nacimiento de don Angelo Guiseppe
+
+Baldessari Albasini, emitido por el Servicio de Registro
+
+Civil e Identificación, con fecha 28 de octubre de 2019.
+
+6) Certificado de nacimiento de doña Rita Adriana Baldessari
+
+Albasini, emitido por el Servicio de Registro Civil e
+
+Identificación, con fecha 28 de octubre de 2019.
+
+7) Certificado de nacimiento de don Bruno Baldessari
+
+Albasini, emitido por el Servicio de Registro Civil e
+
+Identificación, con fecha 28 de octubre de 2019.
+
+8) Certificado de posesión efectiva, emitido por el Servicio
+
+de Registro Civil e Identificación con fecha 06 de mayo de
+
+2020, en el cual se consigna que don Giuseppe Baldessari
+
+Leita falleció con fecha 27 de agosto de 2019.
+
+9) Certificado de defunción de don Jorge Hernando Latorre
+
+O’Nell, emitido por Servicio de Registro Civil e
+
+Identificación, con fecha 10 de marzo de 2021.
+
+10) Informe de tasación predio rústico denominado Polla Alta,
+
+sector de Marquesa, comuna de Vicuña, Rol SII 414-3, tasador
+
+doña Javiera Lora Vega, ingeniera, de fecha 30 de mayo de
+
+2021.
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+11) Copia de cédula de identidad de don Giuseppe Baldessari
+
+Leita, emitida por Servicio de Registro Civil e
+
+Identificación
+
+Custodiada bajo el N°488-2016:
+
+12) Copia autorizada de escritura pública de cesión de
+
+derechos de comunidad, de fecha 25 de julio de 2014, suscrita
+
+por don Giuseppe Baldessari Leita, como cedente, y don
+
+Ricardo Baldessari Albasini, como cesionario.
+
+13) Copia autorizada de escritura pública rectificatoria y
+
+complementaria de cesión de derechos de comunidad, de fecha
+
+17 de noviembre de 2014, suscrita por don Hernán José Aníbal
+
+Bonilla Virgilio, en representación de don Giuseppe
+
+Baldessari Leita y de don Ricardo Baldessari Albasini.
+
+14) Copia autorizada de escritura pública de constitución de
+
+sociedad colectiva civil Agrícola RBA y Compañía o Agrícola
+
+Alto Elqui y Cía., otorgada con fecha 23 de diciembre de
+
+2014, suscrita por don Ricardo Baldessari Albasini, por doña
+
+Daniza Carvajal Alfaro, y por doña Soffia Baldessari
+
+Carvajal.
+
+15) Copia autorizada de inscripción de cesión de derechos, de
+
+fojas 685 N°629, del Registro de Propiedad del año 2014, del
+
+Conservador de Bienes Raíces de Vicuña.
+
+16) Copia autorizada de inscripción de cesión de derechos, de
+
+fojas 932 N°847, del Registro de Propiedad del año 2014, del
+
+Conservador de Bienes Raíces de Vicuña.
+
+17) Copia autorizada de inscripción de aporte, de fojas 10
+
+N°10, del Registro de Propiedad del año 2015, del Conservador
+
+de Bienes Raíces de Vicuña.
+
+18) Copia autorizada de inscripción de aporte, de fojas 18
+
+N°14, del Registro de Propiedad del año 2015, del Conservador
+
+de Bienes Raíces de Vicuña.
+
+19) Informe de tasación predio denominado La Polla Alta,
+
+sector de Marquesa, comuna de Vicuña, Rol SII 414-3, tasador
+
+don Fernando Madaleno Herrera, ingeniero agrónomo, de fecha
+
+26 de diciembre de 2014.
+
+20) Informe de tasación derechos de aguas superficiales
+
+predio denominado La Polla Alta, tasador don Fernando
+
+Madaleno Herrera, ingeniero agrónomo, de fecha 31 de
+
+diciembre de 2014.
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+21) Boleta de honorarios electrónica N°7953, emitida por el
+
+Conservador de Bienes Raíces de Vicuña, de fecha 10 de
+
+diciembre de 2014.
+
+22) Copias autorizadas de piezas expediente causa Rol C-2443-
+
+2015 del Segundo Juzgado de Letras de La Serena.
+
+Custodiada bajo el N°720-2016:
+
+23) Copia autorizada de escritura pública de compraventa, de
+
+fecha 23 de febrero 2016, suscrita por don Ricardo Baldessari
+
+Albasini y por doña Daniza Carvajal Alfaro, en representación
+
+de Agrícola RBA y Compañía.
+
+Testimonial, rendida con fecha 06 de junio de 2023,
+
+consistente en las declaraciones de los testigos don Fernando
+
+Maddaleno Herrera, don Franz Mohor Pinto, y don Delfo Muñoz
+
+Rivera, debidamente juramentados, respecto de las cuales no
+
+se formuló tacha alguna, cuyas declaraciones rolan en el
+
+expediente digital a folio 506.
+
+Confesional, prestada con fecha 07 de junio de 2023, por
+
+don Ricardo Baldessari Albasini, de conformidad al pliego de
+
+posiciones rolante en autos, quien sostuvo lo que consta en
+
+el expediente digital bajo el folio 510.
+
+DÉCIMO SEXTO: Que, por su parte, la demandada principal
+
+y demandante reconvencional Inversiones Portal del Elqui SpA,
+
+con el fin de acreditar sus alegaciones, acompañó a la causa
+
+la siguiente prueba:
+
+Documental, bajo apercibimiento legal, sin que fuere
+
+objetada por la contraria, consistente en:
+
+1) Copia de escritura pública de cesión de derechos de
+
+comunidad, de fecha 25 de julio de 2014, suscrita por don
+
+Giuseppe Baldessari Leita, como cedente, y don Ricardo
+
+Baldessari Albasini, como cesionario.
+
+2) Copia de escritura pública rectificatoria y complementaria
+
+de cesión de derechos de comunidad, de fecha 17 de noviembre
+
+de 2014, suscrita por don Hernán José Aníbal Bonilla
+
+Virgilio, en representación de don Giuseppe Baldessari Leita
+
+y de don Ricardo Baldessari Albasini.
+
+DÉCIMO SÉPTIMO: Que, a su vez, el demandado principal
+
+don Ricardo Baldessari Albasini, con la finalidad de
+
+acreditar los fundamentos de su defensa, acompañó a la causa
+
+la siguiente prueba:
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+Documental, bajo apercibimiento legal, sin que fuere
+
+objetada por la contraria o cuya objeción fue rechazada,
+
+consistente en:
+
+1) Certificado de avalúo fiscal, primer semestre 2023, Rol
+
+414-003, emitido por el Servicio de Impuestos Internos.
+
+2) Certificado de avalúo fiscal de períodos anteriores,
+
+primer semestre 2023, Rol 414-003, emitido por el Servicio de
+
+Impuestos Internos.
+
+3) E-book causa Rol N°V-401-2021 del Primer Juzgado de Letras
+
+de La Serena.
+
+4) Certificado de nacimiento de don Angelo Guiseppe
+
+Baldessari Albasini, emitido por el Servicio de Registro
+
+Civil e Identificación, con fecha 08 de junio de 2023.
+
+5) Certificado de defunción de don Giuseppe Baldessari Leita,
+
+emitido por Servicio de Registro Civil e Identificación, con
+
+fecha 08 de junio de 2023.
+
+6) Informe Crisis hídrica: Un desafío de todos, emitido por
+
+el Gobierno de Chile, año 2020.
+
+7) Copia de Relación de antecedentes para subdivisión, Predio
+
+Polla Alta, suscrito por don Elicio Moraga Quintana,
+
+ingeniero agrónomo, de fecha 23 de septiembre de 2009.
+
+8) Copia de Informe de tasación comercial, Predio Polla Alta,
+
+suscrito por don Elicio Moraga Quintana, ingeniero agrónomo,
+
+de fecha junio de 2014.
+
+9) Copia de Informe de tasación agrícola, Predio Polla Alta,
+
+suscrito por don Alfonso Osorio Ulloa, ingeniero agrónomo, de
+
+fecha junio de 2014.
+
+10) Copia de autorización, suscrita ante Notario Público, por
+
+don Giuseppe Baldessari Leita, de fecha 30 de noviembre de
+
+2011.
+
+DÉCIMO OCTAVO: Que en primer término, el basamento
+
+jurídico de la demanda de nulidad absoluta deducida por el
+
+actor es la existencia de lo que en Derecho Civil se conoce
+
+como “simulación”, esto es, “la declaración de un contenido
+
+de voluntad no real, emitido conscientemente y de acuerdo
+
+entre las partes o entre el declarante y la persona a la cual
+
+va dirigida la declaración, para producir con fines de
+
+engaño, la apariencia de un acto jurídico que no existe o es
+
+distinto de aquel que realmente se ha llevado a cabo” (Curso
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+de Derecho Civil. Parte General y los Sujetos del Derecho, 1ª
+
+Parte, Arturo Alessandri Rodríguez y Manuel Somarriva
+
+Undurraga, 4ª Edición, 1971, pág. 497 y s.s.); “Negocio
+
+simulado es el que tiene una apariencia contraria a la
+
+realidad, o porque no existe en absoluto, o porque es
+
+distinto de cómo aparece. Entre la forma extrínseca y la
+
+esencia íntima hay un contraste llamativo: el negocio que,
+
+aparentemente, es serio y eficaz, es en sí mentiroso y
+
+ficticio, o constituye una máscara para ocultar un negocio
+
+distinto” (La Simulación de los Negocios Jurídicos, Francisco
+
+Ferrara, Traducida de la 5ª Edición por Rafael Atard y Juan
+
+A. De La Puente, Madrid 1931, pág. 60). Esta situación, en la
+
+que una persona de forma intencional declara lo que no
+
+quiere, se caracteriza “por el acuerdo con la parte o persona
+
+a la que se dirige la declaración” (Alessandri Rodríguez-
+
+Somarriva Undurraga, op. cit., pág. 498).
+
+La doctrina hace la distinción entre simulación absoluta
+
+y simulación relativa, concurriendo la primera cuando no
+
+existe voluntad de celebrar acto jurídico alguno y sólo en
+
+apariencia se realiza uno, que externamente tiene las
+
+apariencias de validez, pero, en realidad, no ha existido
+
+ningún acto. Se trata de un acto que, en el lenguaje de los
+
+antiguos juristas, "tiene color, pero substancia ninguna"
+
+("colorem habet, substantiam vero nullam") (Alessandri
+
+Rodríguez-Somarriva Undurraga, op. cit, pág. 500). En cambio,
+
+es relativa cuando la voluntad de las partes es celebrar un
+
+determinado acto jurídico, pero en apariencia se efectúa otro
+
+diverso, para el cual no ha habido una real voluntad. En
+
+estos casos, al decir de los antiguos juristas, "tiene color,
+
+pero la sustancia es otra" ("colorem habet, substantiam vero
+
+alteram") (Alessandri Rodríguez-Somarriva Undurraga, op.
+
+cit., pág. 500). En este supuesto hay dos actos jurídicos:
+
+uno ostensible, público, que trasciende externamente y que
+
+las partes no han querido verdaderamente realizar, siendo por
+
+ello ficticio, simulado o aparente; otro interno, oculto o
+
+disimulado, que es el que sincera y verdaderamente las partes
+
+han querido celebrar y acordado guardar en secreto.
+
+La jurisprudencia de la Excelentísima Corte Suprema ha dicho:
+
+“Hay simulación absoluta cuando se celebra un acto jurídico
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+que nada tiene de real, y que es solamente ficticio en su
+
+totalidad. La simulación relativa existe cuando se ha querido
+
+realizar un acto diferente del manifestado, sea en su
+
+totalidad (como si se disfraza de compraventa una donación),
+
+sea sólo parcialmente (como si en un contrato se inserta una
+
+cláusula diferente a la convenida en verdad o se indica un
+
+beneficio distinto del real)” (Sentencia de la Corte Suprema
+
+de 06.09.1949, Gaceta, 1949. 2º sem., Nro. 17, pág. 91; R, t.
+
+46, secc. 1ª, pág. 737).
+
+DÉCIMO NOVENO: Que es necesario señalar que la
+
+simulación puede ser lícita o ilícita y, concurre ésta última
+
+cuando los actos simulados se celebran con la intención
+
+positiva de perjudicar a terceros y, en ese sentido, los
+
+contratos simulados adolecen de causa ilícita, puesto que,
+
+siendo la causa, el motivo o móvil que induce a las partes a
+
+celebrar el acto jurídico, éste adolece entonces de nulidad
+
+absoluta.
+
+Sobre el particular, el profesor Arturo Alessandri en su
+
+obra “La Nulidad y la Recisión en el derecho Civil Chileno”,
+
+Tomo I, página 220, menciona un fallo de la Corte Suprema,
+
+publicado en el Tomo 23, 2ª parte, Sección Primera, de la
+
+Revista de Derecho y Jurisprudencia, señalando que “diversas
+
+compraventa fueron declaradas nulas, fundándose la sentencia
+
+en que carecen de causa real y lícita, porque bajo la
+
+apariencia de contratos onerosos, sólo tuvieron por fin
+
+traspasar los bienes de una sociedad conyugal a terceras
+
+personas, colocando a los llamados a suceder al cónyuge
+
+difunto, la mujer en el caso, en la imposibilidad de reclamar
+
+sus derechos hereditarios, lo que equivale a sostener que
+
+dichos contratos tienen una causa ilícita”.
+
+VIGÉSIMO: Que, a partir de lo anterior, se puede
+
+establecer que para que la acción prospere, el actor debe
+
+acreditar: a) la disconformidad entre la voluntad interna y
+
+la declarada; b) que tal disconformidad sea consciente y
+
+deliberada; c) que exista acuerdo de las partes; y d) la
+
+intención de perjudicar a terceros.
+
+En estos autos se alega una simulación ilícita, es
+
+decir, aquella que tiene por objeto engañar a terceros o el
+
+fraude a la ley, en este caso, consistente en perjudicar a la
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+sucesión de don Giuseppe Baldessari Leita, al burlar sus
+
+derechos hereditarios.
+
+VIGÉSIMO PRIMERO: Que, ahora bien, atendido el modo en
+
+que se formuló contestación de la demanda principal, en
+
+primer lugar corresponde referirse a la alegación de falta de
+
+legitimación activa interpuesta.
+
+En la especie, la parte demandada funda la excepción de
+
+falta de legitimación activa manifestando que el demandante
+
+principal no cumple con los requisitos para impetrar la
+
+acción de nulidad absoluta por simulación de contrato, toda
+
+vez que el actor carecería de interés, pues no se funda en un
+
+derecho actual y coetáneo con el acto que pretende anular, ya
+
+que únicamente detentaba una mera expectativa respecto de los
+
+bienes de su padre, tratándose, por tanto, de un interés
+
+hipotético y no real, no existiendo de este modo daño
+
+patrimonial.
+
+VIGÉSIMO SEGUNDO: Que para resolver esto resulta
+
+necesario poner primeramente de relieve lo señalado por el
+
+artículo 1683 del Código Civil: “La nulidad absoluta puede y
+
+debe ser declarada por el juez, aun sin petición de parte,
+
+cuando aparece de manifiesto en el acto o contrato; puede
+
+alegarse por todo el que tenga interés en ello (…)”.
+
+Al respecto, debe dejarse patente que el derecho tampoco
+
+tutela cualquier interés, sino que éste debe ser actual,
+
+cierto y pecuniario, descartándose las meras expectativas y
+
+los intereses puramente morales. Efectivamente, tanto la
+
+doctrina como la jurisprudencia están contestes en que el
+
+citado artículo “se refiere a las personas que tienen un
+
+interés pecuniario o patrimonial en la declaración de
+
+nulidad, o sea, la nulidad puede ser alegada por cualquiera
+
+persona a quien aproveche su declaración (…) En resumen, se
+
+tiene interés en solicitar la declaración de nulidad absoluta
+
+cuando haya de obtenerse un provecho patrimonial con la
+
+anulación del acto o contrato; por consiguiente, las meras
+
+expectativas no constituyen el interés que el artículo 1683
+
+exige para poder deducir la acción de nulidad” (ALESSANDRI
+
+BESA, Arturo; La Nulidad y la Rescisión en el Derecho Civil
+
+Chileno, Imprenta Universitaria, pág. 549-550).
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+En este sentido, cabe precisar que el interés que invoca
+
+el demandante principal para interponer la demanda es su
+
+calidad de hijo de uno de los contratantes, es decir, la
+
+calidad de legitimario, siendo asignatario forzoso, afirmando
+
+que los contratos en cuestión buscan perjudicar a los demás
+
+herederos en sus derechos hereditarios.
+
+Entonces, lo que realmente corresponde dilucidar es si
+
+es que se ha accionado de forma previa a que se encontrará
+
+abierta la sucesión de don Giuseppe Baldessari Leita,
+
+ejerciendo el actor, en este caso, la acción de iure proprio,
+
+lo que significa, en resumidas cuentas, que para que la
+
+alegación de la demandada de falta de legitimación activa
+
+tenga algún sostén jurídico debe haberse demandado en la vida
+
+del causante, pues en ese caso, claramente el actor habría
+
+tenido únicamente una mera expectativa.
+
+VIGÉSIMO TERCERO: Que, entonces, de lo asentado
+
+anteriormente, fluye claramente que el demandante sustenta su
+
+demanda en la calidad de hijo respecto de uno de los
+
+contratantes del contrato que pretende impugnar, en su
+
+calidad de legitimario y, en conclusión, asignatario forzoso,
+
+como ya se adelantó.
+
+Así, del análisis de los autos es posible concluir que
+
+al tiempo de interponer la demanda, es decir, el 13 de abril
+
+de 2016 (y al momento en que quedó trabada la litis incluso,
+
+el 18 de febrero de 2019), su interés no era actual y tampoco
+
+era cierto, dicho de otro modo, el actor no tenía un derecho
+
+consolidado sobre la legítima y las asignaciones forzosas, y
+
+sólo una mera expectativa, puesto que no había ocurrido a la
+
+fecha el fallecimiento de su padre, el causante don Giuseppe
+
+Baldessari Leita, no encontrándose, consecuencialmente,
+
+abierta la sucesión.
+
+Para llegar a tal entendimiento se debe tener en cuenta
+
+que los negocios jurídicos cuya nulidad absoluta se solicita,
+
+se celebraron cuando don Giuseppe Baldessari Leita estaba
+
+vivo, esto es, el 25 de julio de 2014, tal como se desprende
+
+del documento copia autorizada de escritura pública de cesión
+
+de derechos de comunidad, el que ha sido valorado en razón de
+
+su naturaleza como público en juicio de acuerdo al artículo
+
+342 N°3 del Código de Procedimiento Civil, y por tanto
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+apreciado conforme a la regla del artículo 1700 del Código
+
+Civil, haciendo plena prueba; habiendo el causante fallecido
+
+recién con fecha 27 de agosto de 2019, tal como da cuenta
+
+documento acompañado a la causa, consistente en certificado
+
+de defunción emitido por el Servicio de Registro Civil e
+
+Identificación con fecha 28 de octubre de 2019, valorado del
+
+mismo modo de acuerdo a artículo 342 N°2 del Código de
+
+Procedimiento Civil.
+
+Todo lo refrendado queda de manifiesto si estudiamos a
+
+contrario sensu la jurisprudencia de nuestros tribunales de
+
+justicia. Así, por ejemplo, la Corte de Apelaciones de
+
+Rancagua razonó: “El recurrente insiste en que las
+
+demandantes carecerían de legitimación activa para demandar,
+
+por cuanto los contratos impugnados fueron otorgados durante
+
+la vida del causante, por lo cual aquéllas solo tenían meras
+
+expectativas y no derechos adquiridos que las habilitara para
+
+ejercer con éxito las acciones deducidas. Sobre tal sustento,
+
+expresa que el fallo incurrió en un yerro al denegar la
+
+excepción de falta de legitimación activa, pidiendo su
+
+acogimiento por vía de esta apelación.
+
+Sobre tal particular, y sin perjuicio de compartir las
+
+motivaciones que la juez a quo expuso en esta materia para
+
+fundar el rechazo de esta excepción perentoria, estimamos
+
+oportuno recalcar que tanto la doctrina, cuanto la
+
+jurisprudencia, han reiterado que este tema nos enfrenta a un
+
+problema de certidumbre de los derechos invocados, en cuanto
+
+en un examen a priori, las demandantes habrían tenido meras
+
+expectativas, por haber estado su padre vivo, y no derechos
+
+adquiridos, en el momento en que los contratos impugnados
+
+fueron extendidos.
+
+En la especie, es importante no olvidar que las
+
+demandantes son hijas de filiación matrimonial del causante,
+
+lo que les confiere la calidad de legitimarias, por lo cual
+
+es evidente que tienen un interés cierto que las habilita
+
+para demandar la nulidad de los actos jurídicos que se
+
+estiman simulados, en cuanto es la ley la que les confiere el
+
+derecho de suceder a su padre”(Corte de Apelaciones de
+
+Rancagua, sentencia de fecha 15 de mayo del 2019, Rol 104-
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+2018, recurso de casación rechazado por la Excma. Corte
+
+Suprema, con fecha 22 de julio del 2020, Rol 18.661-2019).
+
+En sentido similar ha resuelto la Corte de Apelaciones de
+
+Santiago: “Que en este sentido, se debe tener presente que
+
+después de la muerte del causante, a los legitimarios se les
+
+reconoce la capacidad de solicitar la nulidad de actos
+
+simulados celebrados por el primero que pudieren perjudicar
+
+su legítima, habida cuenta que a diferencia de otros
+
+herederos que no pudieren tener la condición de legitimarios,
+
+estos últimos tienen una vinculación jurídica con el causante
+
+previo a su muerte, emanada de la ley, que si bien no es lo
+
+suficientemente intensa como para habilitarlos para reclamar
+
+en vida de este último la nulidad de sus actos, una vez
+
+abierta la sucesión, y añadida a su calidad de legitimario,
+
+la de heredero propiamente tal, su interés preexistente se
+
+completa, y los habilita para pedir la nulidad de actos que
+
+pudieren menoscabar su legítima”(Corte de Apelaciones de
+
+Santiago, sentencia de fecha 31 de mayo del 2016, Rol 1848-
+
+2015, recurso de casación rechazado por sentencia de 12 de
+
+diciembre del 2016, Rol 45.940-2016, dictada por la Excma.
+
+Corte Suprema).
+
+A su turno, sobre el punto nuestro Máximo Tribunal ha
+
+sentenciado: “Que, en mérito de los razonamientos que
+
+anteceden, ha de concluirse que la calidad de legitimarios
+
+que los demandantes invocan en relación con su padre y
+
+abuelo, en tanto no se produzca el fallecimiento de este
+
+último, no les confiere un legítimo interés de contenido
+
+patrimonial que los habilite para ejercer la acción de
+
+nulidad intentada, en razón de que la afectación de su
+
+legítima, mientras no se produzca la apertura de la sucesión,
+
+resulta sólo eventual y, en consecuencia, los jueces del
+
+fondo han efectuado un correcto análisis del artículo 1683
+
+del Código Civil” (Excma. Corte Suprema, sentencia de fecha
+
+10 de noviembre del 2021, Rol 40.929-21).
+
+VIGÉSIMO CUARTO: Que, en suma, al no haberse encontrado
+
+abierta la sucesión de don Giuseppe Baldessari Leita al
+
+momento de interponerse la demanda de nulidad absoluta, no
+
+cabe duda que su hijo don Angelo Baldessari Albasini, a la
+
+sazón con la expectativa de ser legitimario, carecía de un
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+interés cierto y pecuniario, como exige la norma, respecto de
+
+la anulación que solicita, lo que fuerza a acoger la defensa
+
+de falta de legitimación activa opuesta por la demandada,
+
+debiendo rechazarse la demanda principal, como se dirá en lo
+
+resolutivo de esta sentencia.
+
+VIGÉSIMO QUINTO: Que, ahora bien, en cuanto a la demanda
+
+reconvencional de indemnización de perjuicios también
+
+interpuesta en autos, es menester señalar que de la prueba
+
+rendida no resulta posible tener por ciertos los daños
+
+reclamados por la demandante reconvencional.
+
+Y, a mayor abundamiento, es dable señalar que aun cuando
+
+se entienda que los supuestos daños denunciados derivarían
+
+del accionar del actor principal, el demandante
+
+reconvencional tampoco aportó prueba alguna tendiente a
+
+acreditar la cuantía de sus perjuicios, por lo que de todas
+
+formas su demanda reconvencional debe ser rechazada.
+
+VIGÉSIMO SEXTO: Que, así, resulta innecesario
+
+pronunciarse sobre las demás excepciones y defensas
+
+planteadas, y si concurren o no los presupuestos de la acción
+
+de nulidad y de la acción de indemnización de perjuicios,
+
+impetradas en forma principal y reconvencional,
+
+respectivamente, decidiéndose rechazar, conforme a todo lo ya
+
+expuesto supra, ambas, como se indicará en lo en la parte
+
+resolutiva de este fallo.
+
+VEGÉSIMO SÉPTIMO: Que, finalmente, los demás
+
+antecedentes y pruebas existentes en autos, en nada alteran
+
+lo concluido precedentemente.
+
+Por estas consideraciones y de conformidad, además, con
+
+lo dispuesto por los artículos 1400, 1401, 1437, 1445, 1446,
+
+1451, 1458, 1467, 1681, 1682, 1683 y 1698 del Código Civil
+
+del Código Civil; y 144, 160, 170, 253, 254 y 310 y
+
+siguientes del Código de Procedimiento Civil; se resuelve:
+
+I. EN CUANTO A LAS OBJECIONES DOCUMENTALES.
+
+a) Que se rechaza, sin costas, la objeción documental
+
+deducida con fecha 13 de junio de 2023 (folio 520).
+
+b) Que se rechaza, sin costas, la objeción documental
+
+deducida por con fecha 13 de junio de 2023 (folio 521).
+
+II. EN CUANTO AL FONDO.
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+c) Que se rechaza en todas sus partes la demanda
+
+principal interpuesta con fecha 13 de abril de 2016 (foja
+
+31).
+
+d) Que se rechaza en todas sus partes la demanda
+
+reconvencional interpuesta con fecha 25 de enero de 2019
+
+(folio 308).
+
+e) Que atendido el mérito de autos, cada parte se hará
+
+cargo del pago de sus costas.
+
+Regístrese, déjese copia, notifíquese, y archívese en su
+
+oportunidad.
+
+Rol N°956-2016.
+
+Dictada por doña KARLA MALEBRÁN TORRES, Jueza Interina del
+
+Primer Juzgado de Letras de La Serena. Autoriza doña INGRID
+
+EBNER ROJAS, Secretaria Titular del Primer Juzgado de Letras
+
+de La Serena.
+
+Se deja constancia que se dio cumplimiento a lo dispuesto en el inciso final del art. 162
+del C.P.C. en La Serena, catorce de Diciembre de dos mil veintitr sé
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-956-2016
+
+Código: XWTYXKJHNJJ
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2023-12-14T14:44:48-0300
+
+2023-12-14T15:49:07-0300

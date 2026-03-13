@@ -1,0 +1,430 @@
+METADATA
+
+case_id: 0d4a3e94db1d5ef9cc269c131281bf0cadc9a574
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8061105
+
+rol: 10253-2026
+
+fecha_sentencia: 2026-03-12
+
+caratulado: LIMA/SERVICIO NACIONAL DE MIGRACIONES DE CHILE
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, doce de marzo de dos mil veintiséis.
+
+Visto y teniendo presente:
+Primero: Que, de conformidad con lo dispuesto en el inciso séptimo del artículo 483-A del Código del Trabajo, se ha ordenado dar cuenta de la admisibilidad del recurso de unificación de jurisprudencia deducido por la parte demandada contra la sentencia dictada por la Corte de Apelaciones de Valparaíso, que rechazó el de nulidad intentado contra la que acogió la demanda de despido injustificado.
+
+Segundo: Que, según se expresa en la legislación laboral, el recurso de unificación de jurisprudencia es susceptible de ser deducido en contra de la resolución que falle el recurso de nulidad, estableciéndose su procedencia para el caso en que “respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de Tribunales Superiores de Justicia”, conforme lo explicita el artículo 483 del Código del Trabajo.
+
+Asimismo, del tenor de lo dispuesto en el artículo 483-A del cuerpo legal antes citado, aparece que esta Corte debe controlar, como requisitos para su admisibilidad, por un lado, su oportunidad; en segundo lugar, la existencia de fundamento, además de una relación precisa y circunstanciada de las distintas interpretaciones respecto de las materias de derecho objeto de la sentencia, sostenidas en diversos fallos emanados de los tribunales superiores de justicia, y finalmente, debe acompañarse copia del o los fallos que se invocan como fundamento del recurso en referencia.
+
+Tercero: Que, conforme se expresa en el recurso, la materia que se propone unificar consiste en determinar “si la configuración de la causal del artículo 160 N°7 del Código del Trabajo exige, como requisito copulativo de la gravedad, la acreditación de un perjuicio efectivo, concreto o patrimonial para la empleadora; o si, por el contrario, dicha gravedad puede concurrir aun sin tal perjuicio, cuando se verifica reiteración de incumplimientos, agotamiento de medidas disciplinarias menos gravosas y afectación potencial o seria de deberes funcionales esenciales, apreciadas conforme a lo dispuesto en el artículo 456 del Código del Trabajo”.
+Cuarto: Que el fallo impugnado desestimó el arbitrio de nulidad de la parte demandada que, en lo pertinente, invocó los motivos del artículo 477 y 478 c) del Código del Trabajo, fundado en que “(…) del análisis del arbitrio aparece que la impugnación no desarrolla una infracción normativa en los términos exigidos por esta causal, pues no identifica con precisión qué disposiciones debieron aplicarse y se omitieron, cuáles se aplicaron indebidamente o qué preceptos habrían recibido una interpretación manifiestamente errónea con influencia sustancial en lo dispositivo. En rigor, bajo la forma de una infracción de ley, el recurrente cuestiona el juicio del sentenciador acerca de la suficiencia y entidad de los antecedentes acreditados y, especialmente, la conclusión fáctica relativa a que los hechos imputados no revisten la gravedad necesaria para justificar el despido, lo que no es revisable por esta vía. En consecuencia, este capítulo del recurso también será desestimado.”
+Respecto a la causal del artículo 478 c) del Código del Trabajo consideró que “La evaluación de la gravedad de la infracción, para los efectos de las causales de término del contrato previstas en el artículo 160 N.º 1 y N.º 7 del Código del Trabajo, corresponde exclusivamente al juez y no al empleador. Este último solo puede invocar la causal, pero es el tribunal quien debe determinar si los hechos acreditados revisten la entidad suficiente para justificar el despido sin derecho a indemnización, ponderando, entre otros factores, la experiencia del trabajador y el perjuicio ocasionado a la empresa, como se ha hecho en el presente caso. En consecuencia, un recurso fundado únicamente en la discrepancia con dicha valoración no puede prosperar.
+
+De esta forma, no ha podido constatarse un pronunciamiento sustancial que se relacione con la materia de derecho propuesta, por lo que el arbitrio intentado debe ser desestimado en esta etapa procesal.
+Por estas consideraciones y normas citadas, se declara inadmisible el recurso de unificación de jurisprudencia interpuesto contra la sentencia de diecinueve de enero de dos mil veintiséis.
+
+Regístrese y devuélvase.
+
+N°6.672-25.-
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Jepv.
+C.A. de Valparaíso.
+Valparaíso, diecinueve de enero de dos mil veintiséis.
+
+VISTO:
+
+En estos autos, RUC N.º 25-4-0662257-9, Rol I. C. Laboral N.º 725-2025, se ha interpuesto recurso de nulidad en contra de la sentencia de once de julio de dos mil veinticinco, dictada en los autos RIT O-54-2025 por doña María Aracely Muñoz Pastrán, jueza titular del Juzgado de Letras del Trabajo de San Felipe, que acogió la demanda deducida por doña Patricia Fresia Córdova Fernández en contra de Servicios Generales Ltda., representada legalmente por don Manuel Garrido.
+
+Dicha sentencia declaró indebido y, por tanto, injustificado el despido de la actora, ordenando a la demandada pagar las siguientes sumas por los conceptos que se indican: $1.047.927 por indemnización sustitutiva del aviso previo y $15.090.148 por indemnización por años de servicio, ya incrementada. Asimismo, dispuso que las cantidades ordenadas pagar lo sean con los reajustes e intereses previstos en los artículos 63 y 173 del Código del Trabajo, según corresponda, y que no se condena en costas a la parte demandada, por estimarse que ha tenido motivo plausible para litigar.
+
+El recurso fue deducido por el abogado don Javier Ignacio Moreno Vergara, quien solicita se invalide la sentencia impugnada por las siguientes causales, invocadas una en subsidio de la otra:
+
+1. la prevista en el artículo 478 letra b) del Código del Trabajo, esto es, infracción manifiesta de las normas sobre apreciación de la prueba conforme a las reglas de la sana crítica;
+
+2. la contemplada en el artículo 477 inciso primero del Código del Trabajo, por infracción de ley que hubiere influido sustancialmente en lo dispositivo del fallo, en relación con los artículos 7, 10, 160 N.º 7 y 456 del mismo cuerpo legal;
+
+3. la establecida en el artículo 478 letra c) del Código del Trabajo, consistente en la alteración de la calificación jurídica de los hechos, sin modificar las conclusiones fácticas del tribunal inferior; y
+
+4. la prevista en el artículo 478 letra e) del Código del Trabajo, por contener la sentencia decisiones contradictorias.
+
+La vista del recurso se llevó a efecto el trece de enero del año en curso, con la asistencia de los abogados don Javier Moreno Vergara, por el recurso de nulidad, y don Juan José Contreras González, en oposición a este, quienes expusieron oralmente sus alegaciones.
+
+CONSIDERANDO:
+Primero: Que la demandada invoca, como causal principal de invalidación, la prevista en el artículo 478 letra b) del Código del Trabajo, por estimar que la sentencia fue pronunciada con infracción manifiesta de las normas sobre apreciación de la prueba conforme a las reglas de la sana crítica.
+
+Sostiene que la sentenciadora, luego de tener por acreditado que la actora se desempeñaba como auxiliar de ventas y que, dentro de sus funciones, se encontraba la adecuada rotación de productos en sala y dependencias del supermercado, y de constatar que fue despedida por la causal del artículo 160 N.º 7 del mismo código, concluyó, sin embargo, que el despido era injustificado, al estimar que la conducta pudo sancionarse con medidas menos gravosas. Afirma que dicha conclusión se apoyó, principalmente, en que no se acreditó un perjuicio concreto para la demandada o terceros y en la extensión de la relación laboral sin reproches relevantes.
+
+Alega la recurrente que dicho razonamiento se aparta manifiestamente del estándar del artículo 456 del Código del Trabajo, pues no se expresarían razones suficientes ni se ponderaría adecuadamente la multiplicidad, gravedad, precisión, concordancia y conexión de los antecedentes rendidos, con desatención de máximas de experiencia y del principio de razón suficiente. Sostiene que su parte incorporó diversos medios para acreditar el incumplimiento grave y su reiteración, en especial cinco cartas de amonestación por la misma deficiencia en la rotación y la persistencia del comportamiento aun después de las advertencias, de modo que no sería razonable exigir nuevas sanciones intermedias cuando la potestad disciplinaria ya se habría ejercido reiteradamente. Añade que el fallo desvaloriza dichas amonestaciones y la prueba testimonial mediante consideraciones que estima conjeturales —como la falta de constancia sobre fiscalizaciones, la identificación de quienes las practicaron o la dinámica interna de cada local—, sin hacerse cargo, con un razonamiento completo y derivado, de la tesis relativa a la reiteración del incumplimiento y al agotamiento de medidas previas. Concluye que el vicio influyó sustancialmente en lo dispositivo, pues, de haberse apreciado la prueba conforme a la sana crítica, debió rechazarse la demanda y declararse justificado el despido; por ello, pide acoger la causal, anular la sentencia y dictar la correspondiente de reemplazo que rechace íntegramente la demanda, con costas.
+
+Segundo: Que, en subsidio de la causal principal, el recurrente invoca la prevista en el artículo 477 inciso primero del Código del Trabajo, por estimar que la sentencia se dictó con infracción de ley que influyó sustancialmente en lo dispositivo, en relación con los artículos 7, 10, 160 N.º 7 y 456 del mismo cuerpo legal. Sostiene, en primer término, que el artículo 7 define el contrato individual de trabajo como una convención de obligaciones recíprocas —prestación de servicios personales bajo subordinación y dependencia y pago de remuneración—, y que el artículo 10 N.º 3 exige determinar la naturaleza de los servicios, de modo que las funciones pactadas delimitan el contenido obligacional del vínculo.
+
+Sobre esa base, afirma que la propia sentencia reconoce, en su considerando séptimo, las labores de la actora —entre ellas, la adecuada rotación de productos para mantener condiciones óptimas, evitar mermas y cumplir directrices del establecimiento—, y que los hechos consignados en la carta de despido se refieren a incumplimientos reiterados por mala rotación, con productos vencidos o por vencer, frente a los cuales se cursaron amonestaciones para corregir la conducta. Sin embargo, sostiene que, al razonar en los considerandos octavo y noveno, el fallo infringe el artículo 160 N.º 7, pues, pese a tener por acreditado el contenido de las obligaciones y la reiteración de reproches disciplinarios, concluye que la causal no se encuentra justificada y que el empleador debió aplicar medidas menos gravosas, desatendiendo que tales medidas ya se habrían agotado mediante cinco amonestaciones sin corrección, quedando como alternativa la terminación del contrato.
+
+Añade que, en el mismo sentido, se vulneran los artículos 7 y 10, al desconocerse el alcance de las obligaciones contractualmente convenidas, y el artículo 456, por cuanto, aun habiéndose rendido prueba documental y testimonial para acreditar los hechos descritos en la carta de despido, el tribunal habría arribado a una conclusión contraria a la lógica y a la debida ponderación de la multiplicidad, gravedad, precisión, concordancia y conexión de las probanzas, acogiendo la demanda sin atender a tales elementos. En consecuencia, afirma que, de no mediar las infracciones denunciadas, debió rechazarse la demanda y declararse justificado el despido; por lo que solicita acoger esta causal subsidiaria, anular la sentencia y dictar sentencia de reemplazo que rechace íntegramente la demanda, con costas.
+
+Tercero: Que, en subsidio de la causal anterior, la recurrente invoca la prevista en el artículo 478 letra c) del Código del Trabajo, sosteniendo que es necesaria la alteración de la calificación jurídica de los hechos, sin modificar las conclusiones fácticas asentadas por el tribunal inferior. Expone que el fallo tuvo por acreditado, por una parte, cuáles eran las obligaciones principales de la trabajadora conforme al contrato —en especial, la realización de una adecuada rotación de productos y las tareas vinculadas al manejo y exhibición en sala, cámaras y góndolas— y, por otra, que el término del vínculo se fundó en una causal disciplinaria, esto es, el incumplimiento grave de las obligaciones que impone el contrato, prevista en el artículo 160 N.º 7 del mismo código.
+
+Sin embargo, afirma que la sentencia incurre en una calificación jurídica errónea al concluir, sobre la base de esos mismos hechos, que la causal invocada no se configura o no aparece plenamente justificada, razonando que la situación pudo sancionarse de un modo distinto al despido, atendida la falta de consecuencias acreditadas y la extensión de la relación laboral. Alega que, manteniéndose inalteradas las conclusiones fácticas, lo jurídicamente correcto era subsumir la conducta acreditada en el artículo 160 N.º 7, pues —según sostiene— se constató el incumplimiento de una obligación esencial del cargo, reiterado en el tiempo pese a las amonestaciones aplicadas en ejercicio de la potestad disciplinaria, de modo que no correspondía reducir ese comportamiento a un incumplimiento leve.
+
+Añade que el razonamiento del sentenciador no explicaría de qué manera, teniendo por establecidas las funciones y el fundamento disciplinario del despido, arriba a la conclusión de injustificación del término sin alterar el sentido y alcance de la norma aplicada. Concluye que el error de calificación influyó sustancialmente en lo dispositivo, pues, de haberse efectuado una correcta calificación jurídica de los hechos fijados, debió rechazarse la demanda y declararse ajustado a derecho el despido. En consecuencia, solicita acoger esta causal, invalidar la sentencia y dictar la correspondiente de reemplazo que rechace la demanda en todas sus partes, con costas.
+
+Cuarto: Que, en subsidio de las causales anteriores, la recurrente invoca la prevista en el artículo 478 letra e) del Código del Trabajo, por estimar que la sentencia contiene decisiones contradictorias. Sostiene que el fallo carece del razonamiento que permita entender por qué se declaró injustificado el despido, pues el análisis de la prueba incurriría en contradicciones que lo privarían de motivación y, además, construiría presupuestos fácticos a partir de una interpretación errónea e infundada de los antecedentes.
+
+En particular, afirma que el tribunal tuvo por acreditado el contenido de las funciones de la trabajadora —entre ellas, la adecuada rotación de productos en sala, cámaras, cabeceras, vitrinas y góndolas; el laminado de productos a granel y la limpieza de los espacios asignados—, pero, al mismo tiempo, concluyó que la demandante no habría incumplido sus obligaciones contractuales. Añade que, pese a ello, el propio fallo decide que el despido no estaría plenamente justificado, sobre la base de que la situación pudo sancionarse de un modo distinto al término del vínculo, aludiendo a otras medidas disciplinarias. Agrega que esa conclusión se apoya únicamente en dicha alternativa sancionatoria, aun cuando —según señala— constarían amonestaciones reiteradas impuestas precisamente para corregir el mismo incumplimiento.
+
+De este modo, alega que la decisión resultaría internamente inconciliable: por una parte, se tendrían por establecidas obligaciones específicas y reclamos por su inobservancia; y, por otra, se descartaría el incumplimiento y, simultáneamente, se restaría gravedad a los hechos por existir medidas menos gravosas. Concluye que esta fundamentación defectuosa y contradicción interna influyó sustancialmente en lo dispositivo, pues, de mediar un razonamiento coherente, no se habría acogido la demanda. Por ello, solicita que se acoja la causal, se anule la sentencia y se dicte la de reemplazo que rechace la demanda en todas sus partes, con costas.
+
+Quinto: Que conviene recordar que el recurso de nulidad laboral persigue, según la causal que se haga valer, resguardar la observancia de las garantías y derechos fundamentales o bien asegurar que las sentencias se dicten conforme a derecho, tal como se desprende de los artículos 477 y 478 del Código del Trabajo. De ello se sigue su carácter extraordinario, reflejado en la exigencia estricta y excepcional de los presupuestos que integran cada causal, en atención a los fines que estas cumplen. Esta naturaleza delimita un control acotado por parte de los tribunales superiores y, correlativamente, impone al recurrente el deber de exponer con precisión y rigor los fundamentos de las causales invocadas y las peticiones que deduce.
+
+Sexto: Que, en relación con la causal principal de invalidación, fundada en la infracción a las reglas sobre apreciación de la prueba conforme a la sana crítica, cabe tener presente que, de acuerdo con lo dispuesto en el artículo 456 del Código del Trabajo, dicho vicio se configura cuando, al valorar la prueba, no se expresan las razones jurídicas que fundamentan el fallo, se infringen las normas de la lógica, se contravienen conocimientos científicos o técnicos o se vulneran las máximas de la experiencia.
+
+La sentenciadora tuvo por acreditado que el vínculo laboral terminó mediante carta de 21 de febrero de 2025, en la que se invocó la causal del artículo 160 N.º 7 del Código del Trabajo, y razonó que correspondía al empleador acreditar hechos específicos, de entidad suficiente y proporcionados a la máxima sanción del despido.
+
+Enseguida, razonó que dicha causal no aparece plenamente justificada, por estimar que se trataba de una situación susceptible de corrección mediante medidas disciplinarias menos gravosas, atendidos dos aspectos principales: por una parte, que no se acreditó consecuencia o perjuicio efectivo para la demandada o para terceros —ni venta de productos que ocasionara daño, ni afectación de la reputación, ni alteración del vínculo con la empresa mandante—; y, por otra, el extenso tiempo de servicios de la trabajadora, de aproximadamente ocho años, sin reproches previos en la ejecución de sus funciones.
+
+Añadió que la carta de despido no individualiza un hecho concreto, sino que imputa incumplimientos y los sustenta en amonestaciones asociadas a “fiscalizaciones”; sin embargo, no se acreditó cómo se realizaron dichas fiscalizaciones, quién las efectuó ni dónde constan, ni existe antecedente alguno de descargos de la trabajadora, ni base verificable del conteo o levantamiento de los productos observados. A ello se suma que la actora se desempeñaba en diversas sucursales, bajo jefaturas externas, sin claridad respecto de la dinámica e instrucciones impartidas, y sin constancia de capacitación o de reclamos en la forma relatada.
+
+Concluyó que la prueba testimonial no logró superar tales deficiencias, por lo que, al no acreditarse la gravedad exigida —cuyo peso probatorio recaía en la demandada—, debió necesariamente declararse injustificado el despido.
+
+Para la procedencia de la causal de nulidad en análisis —la prevista en el artículo 478 letra b) del Código del Trabajo— no basta con manifestar desacuerdo con la valoración probatoria, sino que resulta exigible que el recurrente individualice la regla de la sana crítica que estima transgredida —sea una regla de la lógica, una máxima de experiencia o un conocimiento científico o técnico—, precise el pasaje del razonamiento en que se produciría la infracción y explique de qué manera tal defecto conduce a una conclusión incompatible con el mérito de la prueba.
+
+En la especie, el recurso no satisface dicho estándar, pues se limita a sostener que, pese a tenerse por acreditadas las funciones de la actora —rotación de productos— y que el despido se fundó en el artículo 160 N.º 7 del Código del Trabajo, la sentenciadora lo declaró injustificado al estimar procedentes sanciones menos gravosas, atendida la falta de perjuicio y la extensión del vínculo laboral. Únicamente alega que ello se aparta del estándar del artículo 456, por no haberse ponderado adecuadamente la prueba, en especial cinco amonestaciones por la misma conducta y la reiteración del incumplimiento.
+
+El tenor de esta impugnación deja de manifiesto que lo pretendido es revisar la ponderación efectuada por el sentenciador y sustituirla por una apreciación diversa, lo que excede el marco del recurso de nulidad. En consecuencia, no se configura el vicio denunciado, razón por la cual se desestimará este capítulo del recurso.
+
+Séptimo: Que, en relación con la causal subsidiaria de invalidación, fundada en una infracción de ley que habría influido sustancialmente en lo dispositivo del fallo, esta se configura cuando el juez vulnera la ley, ya sea al fallar contra su texto expreso, al aplicarla a un caso no previsto por ella, al prescindir de su aplicación cuando correspondía hacerlo o al otorgarle un sentido o alcance distinto del que realmente tiene, siempre que dicha infracción haya tenido un impacto directo y decisivo en el contenido de la decisión. El recurso de nulidad deducido bajo esta causal no permite modificar los hechos establecidos por el tribunal, pues su ámbito de control se limita exclusivamente a la correcta aplicación del derecho a dichos hechos.
+
+En la especie, el recurrente invoca la causal del artículo 477 inciso primero del Código del Trabajo, en relación con los artículos 7, 10, 160 N.º 7 y 456 del mismo cuerpo legal, sosteniendo, en lo esencial, que las funciones pactadas delimitan las obligaciones derivadas del vínculo laboral; que el fallo reconocería que la actora debía asegurar la adecuada rotación de los productos; y que la carta de despido imputó incumplimientos reiterados por deficiente rotación, precedidos de amonestaciones, de modo que —a su juicio— se habría vulnerado el artículo 160 N.º 7 al desestimar la causal, exigiendo sanciones menos gravosas; añadiendo, además, infracción de los artículos 7 y 10, por desconocerse el alcance de las obligaciones convenidas, y del artículo 456, por una valoración que estima ilógica de la prueba rendida.
+
+Sin embargo, del análisis del arbitrio aparece que la impugnación no desarrolla una infracción normativa en los términos exigidos por esta causal, pues no identifica con precisión qué disposiciones debieron aplicarse y se omitieron, cuáles se aplicaron indebidamente o qué preceptos habrían recibido una interpretación manifiestamente errónea con influencia sustancial en lo dispositivo. En rigor, bajo la forma de una infracción de ley, el recurrente cuestiona el juicio del sentenciador acerca de la suficiencia y entidad de los antecedentes acreditados y, especialmente, la conclusión fáctica relativa a que los hechos imputados no revisten la gravedad necesaria para justificar el despido, lo que no es revisable por esta vía. En consecuencia, este capítulo del recurso también será desestimado.
+
+Octavo: Que la segunda causal subsidiaria de nulidad también será desestimada. El recurrente invoca la prevista en el artículo 478 letra c) del Código del Trabajo, por estimar necesaria la alteración de la calificación jurídica sin modificar los hechos fijados. Señala que el fallo tuvo por acreditadas las obligaciones principales de la trabajadora —en especial, la adecuada rotación de productos y las tareas de manejo y exhibición— y que el término del vínculo se fundó en la causal disciplinaria del artículo 160 N.º 7. Con todo, sostiene que la sentencia incurre en error al concluir que dicha causal no se configura, por estimar que el hecho pudo sancionarse de otro modo, atendida la falta de consecuencias y la extensión de la relación laboral. Afirma que, manteniéndose los hechos, correspondía subsumir la conducta en el artículo 160 N.º 7, por tratarse de un incumplimiento esencial y reiterado, pese a las amonestaciones cursadas.
+
+La evaluación de la gravedad de la infracción, para los efectos de las causales de término del contrato previstas en el artículo 160 N.º 1 o N.º 7 del Código del Trabajo, corresponde exclusivamente al juez y no al empleador. Este último solo puede invocar la causal, pero es el tribunal quien debe determinar si los hechos acreditados revisten la entidad suficiente para justificar el despido sin derecho a indemnización, ponderando, entre otros factores, la experiencia del trabajador y el perjuicio ocasionado a la empresa, como se ha hecho en el presente caso. En consecuencia, un recurso fundado únicamente en la discrepancia con dicha valoración no puede prosperar.
+
+Lo anterior resulta también decisivo para el examen de la causal siguiente, en cuanto el pretendido carácter “contradictorio” de la sentencia descansa, en lo sustancial, en confundir la determinación del contenido funcional del cargo con la valoración judicial acerca de la suficiencia y entidad de los hechos imputados y su calificación como incumplimiento grave
+
+Noveno: Que, finalmente, en subsidio de las causales anteriores, la recurrente invoca la causal del artículo 478 letra e) del Código del Trabajo, al estimar que la sentencia contiene decisiones contradictorias. Señala como tales el haber tenido por acreditadas las funciones específicas de la trabajadora —incluidas la adecuada rotación de productos, el laminado y la limpieza— y, al mismo tiempo, concluir que esta no habría incumplido sus obligaciones contractuales, pese a constar amonestaciones reiteradas por el mismo incumplimiento; concluyendo que la decisión sería internamente inconciliable y que dicho vicio habría influido en lo dispositivo.
+
+Que, sin embargo, la causal en comento exige la existencia de una incompatibilidad interna real e insalvable en el razonamiento decisorio, de modo que sus conclusiones no puedan coexistir lógicamente. En el caso, tal vicio no se configura, pues la constatación del contenido de las labores o deberes asociados al cargo —en cuanto delimitan el marco funcional del servicio— no equivale a tener por establecido, sin más, que los hechos atribuidos por el empleador se encuentren suficientemente acreditados ni, menos aún, que revistan la entidad necesaria para subsumirse en el artículo 160 N.º 7 del Código del Trabajo.
+
+En efecto, según se razonó en el considerando precedente, la calificación de gravedad corresponde al tribunal, quien debe ponderar el mérito probatorio y las circunstancias del caso para determinar si lo imputado constituye un incumplimiento grave que habilite la máxima sanción del despido. Por ello, no existe contradicción por el solo hecho de identificarse las funciones del cargo y concluir, sobre la base de lo acreditado, que no se configuró con la entidad requerida la causal disciplinaria invocada. En consecuencia, la causal del artículo 478 letra e) del Código del Trabajo también será desestimada.
+
+Por estas consideraciones, disposiciones legales citadas y de conformidad con lo dispuesto en el artículo 482 del Código del Trabajo, se rechaza el recurso de nulidad deducido por el abogado don Javier Ignacio Moreno Vergara, en representación de Servicios Generales Ltda., en contra de la sentencia de once de julio de dos mil veinticinco, pronunciada por la jueza doña María Aracely Muñoz Pastrán en los autos RIT O-54-2025 del Juzgado de Letras del Trabajo de San Felipe, la que, en consecuencia, no es nula.
+
+Comuníquese, notifíquese y regístrese.
+
+Redacción del abogado integrante don Eduardo Morales Espinosa.
+
+N°Laboral - Cobranza-725-2025.
+
+En Valparaíso, diecinueve de enero de dos mil veintiséis, se notificó por el estado diario la resolución que antecede.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+San Felipe, once de julio de dos mil veinticinco
+VISTOS, OIDOS Y CONSDIERANDO:
+
+PRIMERO: Que comparece doña Patricia Fresia Córdova Fernández, chilena, soltera, auxiliar de ventas, domiciliada en el Almendral, calle el Convento s/n, comuna de San Felipe, Región de Valparaíso, quien interpone demanda en Procedimiento de Aplicación General, por despido injustificado y cobro de prestaciones laborales, en contra de SERVICIOS GENERALES LIMITADA, RUT: 78.201.300-9, representada por don Manuel Garrido, ignora Profesión u Oficio, domiciliados en calle 11 Oriente N° 1470, comuna de Talca.
+
+Señala que con fecha 03.02.2017 ingresa a trabajar para la demandada cumpliendo funciones de Auxiliar de Ventas, labor por la que se le pagaba una remuneración que en los últimos tres meses promedió la suma de $ 1.059.332.¬ Agrega que su trabajo lo desarrollaba en las ciudades de San Felipe y Los Andes, Región de Valparaíso con una jornada de 44 horas semanales que debían ser distribuidas por su empleador en 6 días de la semana, incluidos los domingos y festivos, al tratarse de funciones que eran desempeñadas en un supermercado.
+
+Expone que con fecha 21 de febrero de 2025, es despedida por su empleador, fundado en la causal contemplada en el artículo 160 N°7 del Código del Trabajo, esto es, "incumplimiento grave de las obligaciones que impone el contrato de trabajo".
+
+Transcribe carta de despido, que es del siguiente tenor:
+
+SERGEN
+
+SERVICIOS GENERALES LTDA
+
+Santiago, 21 de febrero de 2025
+
+Señorita
+
+PATRICIA FRESIA CÓRDOVA FERNÁNDEZ
+
+C.N.I. N°: 9.956.347-8
+
+Domiciliada en Almendral, Calle el Convento S/N, San Felipe.
+
+Presente.
+
+De nuestra consideración:
+
+Comunicamos a usted, que la Administración de la Empresa ha decidido poner término a su Contrato de Trabajo a partir del día 21 de febrero de 2025, en conformidad con lo señalado en el Número 7 del artículo 160 del Código del Trabajo "Incumplimiento grave de las obligaciones que impone el contrato".
+
+En primer término, sabido es que usted se desempeñaba desde el 03 febrero de 2017, como AUXILIAR DE VENTAS para SERVICIOS GENERALES LTDA, promocionando los productos que fabrica nuestro cliente Productos Fernández S.A., labor que debía ejercer en los locales comerciales de la ciudad de San Felipe/Los Andes, específicamente, en algunos supermercados de aquella zona, en una jornada ordinaria de trabajo de cuarenta y cuatro (44) horas semanales.
+
+Entre sus principales obligaciones se encontraba realizar una adecuada rotación de productos en sala, cámaras, cabeceras, vitrinas y góndolas, con el fin de mantener las condiciones óptimas de calidad y evitar las mermas de los distintos productos que se venden en los supermercados; optimizar el espacio que entrega el supermercado, de manera de lograr la mejor ubicación y exhibición de los productos y marcas, apoyándose en cartelería y flejes con el fin de beneficiar la exhibición de nuestros productos; evitar mermas de productos, mediante un control permanente de los que se encuentren bajo su cuidado, cámara de proceso, packing, góndola, cabeceras, vitrina, secciones o cualquier otro espacio dispuesto por el supermercado contractualmente para Productos Fernández S.A., a efectos que se conserven adecuadamente, y se eviten devoluciones por fecha o productos a punto de vencer.
+
+Pues bien, la causal antes indicada se fundamenta en el incumplimiento a la esencial obligación del contrato de trabaje que nos unia, este es, ejercer la función para la que ha sido contratada como Auxiliar de Ventas. Este incumplimiento se ve fundamentado en reiteradas ocasiones en que se ha podido advertir que usted no ha efectuado una adecuada rotación de los productos que nuestra empresa ofrece, ya que, en algunos casos, mantuvo productos vencidos, y en otros casos, mantuvo productos pronto a su vencimiento; hechos respecto de los cuales se le invitó a corregir su conducta mediante la aplicación de distintas cartas de amonestación, sin embargo, hasta antes de la notificación de esta carta, usted lamentablemente no corrigió.
+
+Estos incumplimientos contractuales han podido advertirse, principalmente, en los meses de abril y octubre, ambos de 2024 y enero y febrero de 2025, fechas en que fueron aplicadas las cartas de amonestación, cuyo tenor de cada una de ellas, era precisamente por haber efectuado una mala rotación de los productos, lo que demuestra su persistente actitud de incumplimientos laborales, dejando a la compañía en la constante incertidumbre de confiar que sus funciones se cumplan debidamente.
+
+Incluso es más, a pesar que el día 06 de febrero de 2025, le fue representada la última falta relacionada con el incumplimiento de sus labores, los días martes 11 y jueves 13 de febrero de 2025, a través del jefe de ventas de la zona de San Felipe de la empresa cliente Productos Fernández S.A., de iniciales C.A.P.B., hemos recibido nuevos reclamos proveniente de la administración de uno de los supermercados donde usted ejerce sus labores, esto es, SANTA ISABEL (codigo 07998060) ubicado en Merced N° 25, local 41 de la comuna de San Felipe, en el cual se logro observar que usted, nuevamente, incumplió con sus obligaciones contractuales, toda vez que en el referido lugar se encontraron productos que no estaban en óptimas condiciones de calidad, ya que éstos presentaron problemas con su sellado al vacío, lo cual, pudo haberse evitado
+
+si es que usted hubiese hecho un control permanente de los productos que se encontraban bajo su cuidado.
+
+Los reiterados incumplimientos de la forma expresada, por cierto, hacen insostenible mantener nuestra relación laboral, más aún cuando no se ve en Ud. ninguna corrección de su actitud, sino por el contrario, continúa persistiendo en sus incumplimientos de la forma antes expresada, lo cual demuestra una actitud disruptiva con nuestra relación laboral.
+
+No está demás señalarle que las anteriores situaciones descritas son de tal gravedad que ponen en riesgo la reputación de los locales, y lo que es más importante aún, al mantener a la venta los productos en las condiciones descritas ponen en riesgo la salud del consumidor final, que son las personas. Asimismo, no se puede desconocer que su descuido constituye un alto grado de negligencia, que resulta absolutamente contrario al cumplimiento de cualquiera de sus obligaciones antes descritas.
+
+Con todo, los incumplimientos; conforme su cantidad, reiteración, responsabilidad, circunstancias y hechos antes descritos, son de tal entidad que hacen insostenible mantener la relación laboral que nos unía y nos dejan en la necesidad de adoptar la presente decisión, pues se ha configurado la causal de despido establecida en el N° 7 del artículo 160 del Código del Lrabajo; es decir: "Incumplimiento grave de las obligaciones que impone el contrato".
+
+Asimismo, habiéndose configurado una causal de despido como la expuesta y siendo ésta una de las establecidas en el Artículo 160 del referido cuerpo legal, su contrato de trabajo termina sin derecho a indemnización alguna.
+
+También tiene derecho al pago por indemnización de feriado que equivale a la cantidad de $265.705.- (doscientos sesenta y cinco mil setecientos cinco pesos).
+
+Queda a su disposición en Oficina San Felipe la liquidación final de haberes y descuentos, la que deberá revisar antes de firmar el finiquito correspondiente. La fecha probable de pago del finiquito queda establecida con fecha 05 de marzo 2025 en Avenida Ciudad de Mendoza #1862, San Felipe. Le informamos a usted que el finiquito a que dé lugar este término de contrato, se otorgará y pagará de forma presencial; sin perjuicio, se hace presente que es voluntario aceptar, firmar y recibir el pago en forma electrónica y puede siempre optar por firmar y ratificar el finiquito de manera presencial ante Ministro de Fe, tal como se hará en este caso. Asimismo, se le informa que, al momento de suscribir el finiquito, si lo estima necesario, podrá formular reserva de derechos.
+
+De acuerdo a lo previsto por el artículo 1622 del Código del Trabajo, informamos que sus cotizaciones previsionales se encuentran absolutamente al día, enteradas en la AFP Próvida, Asociación Chilena de Seguridad, AFC Chile, C.C.A.F. La Araucana y su Fondo de Salud Fonasa, acompañándose documentos que certifican lo anterior.
+
+Las cotizaciones correspondientes al mes de febrero del año en curso, se pagarán el día 10 de marzo de 2025.-“
+
+Sostiene que de la lectura de la carta de despido, se desprenden errores tanto desde el punto de fáctico como de fondo. Contiene una relación de hechos que no es del todo veraz y hace referencia a conductas incurridas que no pueden circunscribirse en las causales de despido establecidas en los numerales N°7 del art. 160 del Código del Trabajo, de acuerdo a las directrices y criterios jurídicos recientes formulados por nuestra jurisprudencia y doctrina.
+
+Niega y controvierte los hechos vertidos en la carta de despido, indicando que en ningún caso son ciertos, correspondiendo a la demandada acreditar su ocurrencia, en particular a la afirmación que indica: “no ha efectuado una adecuada rotación de los productos que nuestra empresa ofrece". (SIC) Lo anterior porque SERGEN LIMITADA es una prestadora de servicios y no ofrece producto alguno, tampoco vende productos, razón por la cual, es imposible lo que se asegura en la carta de término de la relación laboral.
+
+Alega que el demandado olvida que prestaba servicios en 3 locales, a saber: Santa Isabel de calle Merced, Santa Isabel de calle Yungay y Tottus, todos de San Felipe y los hechos que se describen, son única y exclusivamente de Santa Isabel calle Merced. Agrega que al ser la empresa una prestadora de servicios, reciben ordenes de las Jefaturas de los locales en donde prestan servicios y de los compradores del cliente PF y en muchas ocasiones dichas instrucciones son contradictorias, sobre todo en lo que dice relación a lo que se indica como “rotación de productos”, que no es otra cosa que colocar atrás los productos que tienen un vencimiento posterior y adelante, los que están más próximos a vencer.
+
+Señala que esta acción siempre se ejecuta, que otra cosa es que los clientes revisen los productos y saquen los de atrás por tener un vencimiento posterior, generando un desorden que deben corregir diariamente.
+
+Argumenta que la carta no considera, que son las jefaturas de los locales quienes ordenan sacar los productos próximos a vencer, ya que como ya no se pueden mermar esos productos, tratan siempre de venderlos y esa no es una decisión que pase por un auxiliar de ventas.
+
+Arguye que el sobre stock de productos no es resorte de un auxiliar de ventas, es decir, si un vendedor de PF envía cantidades no vendibles para el local, aunque rote los productos constantemente, estos igualmente se vencerán. Agrega que le tocaba atender 3 locales en horario de 07:00 a 15:30 horas.
+
+Señala que aun cuando se estimen como efectivos los hechos descritos en la carta de despido, es indebida la causal aplicada, por cuanto la carta no indica ni especifica cuáles son las cláusulas del contrato de trabajo que fueron incumplidas haciendo referencia únicamente a amonestaciones recibidas a través de cartas enviadas en los meses de Abril, Octubre de 2024 y Enero y Febrero de 2025, en donde supuestamente habría infringido las normas del Reglamento Interno de Higiene y Seguridad del empresa y, por otra, la ausencia de gravedad respecto a los hechos y circunstancias invocados en la misma, ya que no es la actora quien realiza los pedidos.
+
+Refiere a la carta del 6 de febrero de 2025 y señala que la misma indica primero que los productos estaban en cámara, es decir no a disposición del público, enseguida próximos a vencer, para finalmente dar como fecha de vencimiento una fecha anterior a la fecha de la carta.
+
+En esta se incluyen productos que perfectamente se podrían haber señalado en la “fiscalización” que se indica en la carta de amonestación, considerando que la primera carta es del día 07.01.2025 y en esta misiva se señalan productos vencidos el día 06.01.2025 y próximos a vencer el día 18.01.2025, situación que lleva necesariamente a concluir, que la supuesta fiscalización jamás existió, que la carta y los hechos que se indican, no es más que una excusa para generar un despido sin derecho a indemnización, que no existe norma de retiro de productos que conozcan los auxiliares de venta y que sobre todo el valor de los productos vencidos son de escaso valor comercial.
+
+Alega improcedencia de las normas del Reglamento Interno para justificar el despido disciplinario fundado en el N°7 del art. 160 del Código del Trabajo. Señala que de la lectura de la carta no se indica cláusula o estipulación alguna contenida en el contrato de trabajo que hubiese sido eventualmente incumplida por la actora, únicamente, se invocan cartas de amonestación en los meses de Abril y Octubre de 2024 y Enero y Febrero de 2025, sin indicar su contenido, pero que revisadas las mismas, se señalan transgredidas normas del Reglamento Interno de Orden, Higiene y Seguridad de la empresa, concretamente, los artículos 31 N°1, letras a) b) c) y f) y Artículo 31 N° 2 letras f) y g) por lo anterior el despido es indebido, considerando que las causales de término del contrato de trabajo están expresamente establecidas por la ley, viéndose impedido el empleador (como así también cualquier otra persona o entidad) de crear a través de sus potestades reglamentarias causales de despido distintas, teniendo en vista el principio de irrenunciabilidad de los derechos laborales.
+
+Expone que de existir una eventual infracción a las normas del Reglamento Interno de Orden Higiene y Seguridad de la empresa, cabría en consecuencia, aplicar las sanciones de carácter conservativas establecidas en el mismo, conforme lo dispuesto en el N°10 del art. 154 y art. 157 del Código del Trabajo.
+
+Alega ausencia de gravedad en los hechos contenidos en la carta de despido: Expresa que ante la ausencia de una formulación legal del concepto “grave” contenido en el N°7 del art. 160 del Código del Trabajo, nuestra jurisprudencia se ha encargado de fijar criterios orientativos. De esta forma, desde el punto de vista objetivo, esto es, el impacto que la conducta del trabajador o trabajadora hubiese causado en el funcionamiento de la empresa, cabe indicar que, en su caso, la carta de despido incurre en una evidente omisión respecto a los perjuicios o daños que el aparente incumplimiento generó en la actividad de la misma.
+
+Reitera que no ha incurrido en incumplimientos que hayan provocado un entorpecimiento, afectación o perjuicio efectivo de índole económico, administrativo o de cualquier otro tipo a la empresa, teniendo en vista, que los hechos imputados, revisten para la empresa (de acuerdo con su propia declaración) un perjuicio económico de $ 30.000.- pesos.
+
+A su vez, desde un punto de vista subjetivo, esto es, aquel referido a la “conducta anterior del trabajador en la relación laboral”, indica que, previo a su despido, era un trabajador que llevaba prestando servicios en la empresa por más de 8 años, en 3 Supermercados distintos, no siendo objeto de ninguna amonestación o sanción en los otros 2 establecimientos, durante toda la vigencia de su contrato de trabajo.
+
+De este modo, los incumplimientos descritos en la carta de despido, sin perjuicio de no ser efectivos al tenor de lo expuesto en la misma, además carecen de la gravedad suficiente para la invocación justificada, debida y procedente de la causal contenida en el N°7 del art. 160 del Código del Trabajo, teniendo en vista, además, que su aplicación fue evidentemente desproporcionada, al existir sanciones disciplinarias conservativas de menor intensidad aplicables a los hechos realmente acontecidos.
+
+Alega incumplimiento al principio “Non Bis in Idem”. La carta de aviso se vale de hechos anteriores, los cuales niega categóricamente, que habrían sido sancionados (amonestados), por lo cual la utilización de esos mismos hechos constituye una doble sanción.
+
+Indica que el demandado entiende que cada uno de sus clientes es una fuente suficiente para tener por acreditado los hechos y valerse de los mismos para proceder a su despido. O sea, las facultades de dirección estaban entregadas a cada uno de los clientes a que su empleador le presta servicios. Entonces, cada una de las empresas a las cuales debía reponer estaban facultados para dirigir sus actividades y los informes de ellos son plenamente válidos, sin considerar por ejemplo la competencia que esas mismas empresas pueden tener entre sus productos, o bien por los espacios que deben utilizar en las góndolas y otros espacios del supermercado.
+
+Alude a la reserva de derecho en el respectivo finiquito, tanto en lo relativo a la improcedencia del despido, como también del descuento efectuado por concepto de aporte del empleador al seguro de cesantía y por comisiones y otras prestaciones laborales pendientes.
+
+Indica que presentó reclamo administrativo, que se fijó comparendo para el 27.03.2025 oportunidad en que concurrió su empleador y no llegaron a acuerdo porque ellos ofrecieron para "cerrar" el tema, cambiar la causal de termino por el artículo 161 y pagar una indemnización voluntaria de $ 2.000.000.-
+
+En cuanto al derecho, cita el artículo 168 del Código del Trabajo que establece que cuando el contrato de trabajo termine por aplicación de alguna de las causales del artículo 159, 160 y 161 y considere que dicha aplicación es injustificada, indebida o improcedente, o que no se haya invocado causa legal podrá recurrir al juzgado laboral a fin de que este lo declare, procediendo la indemnización de aviso previo y la de años de servicio, esta última con el incremento del 80% en caso de ser indebida.
+
+Explica que el artículo 162 del Código del Trabajo establece que el despido debe cumplir una serie de requisitos, de esta forma, en el caso de que haya terminado por los numerales 4, 5 o 6 del artículo 159 o por alguna de las causales del artículo 160, deberá comunicar al trabajador por escrito dentro del plazo de 3 días desde la separación, personalmente o por carta certificada las causales invocadas y los hechos en que se fundan. Así también, deberá enviarse copia a la Inspección del Trabajo dentro del mismo plazo.
+
+Indica que los artículos 63 y 173 del Código del Trabajo establecen que las sumas que los empleadores adeudaren a los trabajadores por concepto de remuneraciones, indemnizaciones o cualquier otro, devengadas con motivo de la prestación de servicios y las indemnizaciones a que se refieren los artículos 168 se pagarán reajustadas en el mismo porcentaje en que haya variado el Índice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas entre el mes anterior a aquel en que debió efectuarse el pago y el precedente a aquel en que efectivamente se realice.
+
+Por lo expuesto y normas legales que cita, pide se tenga por interpuesta demanda por despido injustificado y cobro de prestaciones, en contra de la empresa SERVICIOS GENERALES LTDA, RUT: 78.201.300-9, ya individualizada, admitirla a tramitación y, en definitiva, declarar:
+
+1.
+Que, el despido realizado por la denunciada con fecha 21 de febrero del 2025, es injustificado, indebido e improcedente.
+
+2.
+Que, su remuneración, para efectos indemnizatorios de acuerdo a lo establecido en el art. 172 del Código del Trabajo, asciende a la suma de $1.059.332.- o el mayor o menor monto que se determine en mérito del proceso.
+
+3.
+Que, en razón de todo lo anterior, se condene a la denunciada, al pago de las siguientes indemnizaciones y prestaciones:
+
+a)
+Indemnización por 8 años de servicio, ascendente a la suma de $ 8.474.656.- o el mayor o menor monto que se determine en mérito del proceso;
+
+b)
+Recargo legal del 80% sobre los años de servicios, equivalente a $ 6.779.725.-, por la causal que motiva el despido injustificado, indebido e improcedente, establecida N°7 del art. 160 del Código del Trabajo. o el mayor o menor monto que se determine en mérito del proceso;
+
+c)
+Indemnización sustitutiva del aviso previo, por la suma de $1.059.332.- o el mayor o menor monto que se determine en mérito del proceso;
+
+d)
+todo con reajustes, intereses y costas.
+
+SEGUNDO: Que la parte demandada contesta la demanda deducida. Realiza una síntesis de la demanda. Reconoce la época de prestación de servicios, funciones, fecha y causal de despido.
+
+Realiza una defensa negativa en aquello que no sea reconocido expresamente. Niega la remuneración de la actora señalada en la demanda la cual sostiene asciende a la suma de $1.047.927.- Señala que no es efectivo que las conductas de la actora no puedan circunscribirse en la causal de despido establecida en el numeral N°7 del art. 160 del Código del Trabajo. Niega que no sean ciertos los hechos vertidos en la carta de despido, estos no se refieren a un caso puntual, sino que fueron diversos y reiterados en el tiempo, además fueron acreditados y puestos en conocimiento tanto de su representada como de la actora a través de las diversas cartas de amonestación que se le extendieron. Niega que en la carta no se haya especificado cuales son las cláusulas del contrato de trabajo que fueron incumplidas. Niega respecto de las cartas de amonestación, que jamás haya existido una real fiscalización en ellas y que las cartas y los hechos que se indicaron no hayan sido más que una excusa para haber generado posteriormente un despido sin derecho a indemnización, que no exista “una norma de retiro de productos” y que “sobre todo el valor de los productos vencidos son de escaso valor comercial”. Señala que las cartas de amonestación evidencian una fiscalización efectiva por parte del empleador, que forma parte de sus facultades y que en los hechos dan cuenta de las faltas cometidas por la actora, en ellas se detalla la fecha en la que se tomó conocimiento de sus infracciones, las consecuencias de ellas, y se señala en que forma su accionar o actitud constituyó una infracción al Reglamento Interno de Orden, Higiene y Seguridad al cual se encontraba obligada. Señala que no es efectivo que su representada haya fundamentado el despido en infracción a las normas del Reglamento Interno de Orden, Higiene y Seguridad de la empresa, estas infracciones sustentan en las cartas de amonestación cursadas a la actora, y si bien se citan en la respectiva carta de despido, no son el motivo de fondo, sino que la constancia de que la actora reiteró la infracción por la cual se le despide, esto es “incumplimiento grave de las obligaciones que impone el contrato” en conformidad al art. 160 N°7, y que en concreto el fundamento de la carta de despido es el efectivo incumplimiento a la esencial obligación del contrato de trabajo que unía a la demandante con su representada, en conclusión, en este caso no se sustenta la aplicación de una causal de despido con fundamento en la sola voluntad de su representada en su calidad de empleador haciendo ejercicio de su potestad reglamentaria, sino que en el grave incumplimiento al contrato de trabajo al que estaba obligada, más allá de toda duda razonable el contrato es una ley para los contratantes.
+
+Niega que no exista gravedad en los hechos contenidos en la carta de despido, pues, el incumplimiento de las obligaciones y labores que tenía la demandante conforme a su cargo, no fueron una situación en particular, sino que constituye una falta reiterativa y a una actitud disruptiva por parte de la demandante, lo cual se evidencia en las distintas cartas de amonestación que le fueron cursadas, además su incumplimiento recae en la primera y principal función de su labor conforme a su contrato de trabajo.
+
+Señala que se trata de alimentos y el no dar cumplimiento en la forma que establece su contrato de trabajo a la primera de sus obligaciones la cual es el dar correcta rotación de los productos y retirarlos de ser necesario, genera el riesgo de comprometer la salud del consumidor final y de igual forma la reputación del fabricante y con ello la confianza depositada en su representada.
+
+Alega que no existe infracción al principio jurídico “Non Bis in Idem”, el cual establece la regla de que no se puede juzgar a una persona dos veces por el mismo delito o infracción, lo cual únicamente responde a una errónea apreciación por parte de la actora, toda vez que se señala en la carta de despido amonestaciones anteriores para poner en conocimiento a la actora del incumplimiento contractual reiterativo y que en sí mismo sin necesidad de hacer alusión a las cartas de amonestación anteriores constituye un incumplimiento a la principal obligación que le impone el contrato de trabajo que suscribió con su representada. El hecho de acompañar las cartas de amonestación en cuestión tiene por finalidad demostrar que, en su momento, su representada en su calidad de empleador decidió hacer uso de sus facultades conservativas y ejercicio de su poder disciplinario, precisamente con ello se esperó que la demandante enmendara su actitud, misma que se mantuvo hasta que se debió proceder con su desvinculación.
+
+Señala que no es efectivo que la actora no haya sido objeto de ninguna amonestación o sanción en un local distinto del mencionado en su demanda, toda vez que, entre las diversas amonestaciones, registra diversas amonestaciones por efectuar una mala rotación de productos en vitrina en supermercados Santa Isabel ubicado en Merced N°25, Santa Isabel ubicado en calle Yungay N°1150 y en Tottus ubicado en Av. Libertador Bernardo O'Higgins N°1150, todos estos de la ciudad de San Felipe.
+
+En cuanto al incumplimiento, señala que no se trata de una situación en particular, sino que por el contrario resulta una actitud reiterada, permanente y desidiosa de la actora en un periodo de tiempo considerable, así según se aprecia en las cartas de amonestación que se ofrecerán e incorporarán en la etapa procesal correspondiente.
+
+En cuanto a la gravedad, indica que la actora al dar incumplimiento a sus funciones en la forma que establece su contrato de trabajo unido a la reiteración de sus faltas en este sentido, compromete gravemente y pone en riesgo la reputación de los locales, y lo que es más importante aún, al mantener a la venta los productos en las condiciones descritas en la carta de despido, esto es, productos vencidos o próximos a vencer, compromete además y pone en riesgo la salud del consumidor final.
+
+De igual forma la reiteración de estas faltas demostraron el poco compromiso que tuvo para con su representada, además existe un impacto por los diversos reclamos recibidos por parte del cliente PRODUCTOS FERNANDEZ S.A., a través del jefe de ventas de la zona lo cual pone en riesgo y afecta la confianza depositada.
+
+Expone que el incumplimiento contractual de la contraria es grave y fue de tal magnitud o entidad que determinó necesariamente el quiebre de la relación laboral ante su reiteración en el tiempo.
+
+Alega que el incumplimiento de la actora además es susceptible de imputación subjetiva. En efecto, su representada al invocar la causal del art. 160 N°7 del Código del Trabajo, tuvo presente que no basta que la actora incurra objetivamente en el incumplimiento grave de sus obligaciones contractuales, sino que con ello también dicho incumplimiento debe ser susceptible de imputación subjetiva, es decir, atribuible a su dolo o malicia, o bien a su culpa o negligencia, lo cual en este caso en concreto se aprecia sin lugar a dudas una actitud disruptiva por parte de la demandante, quien ante al menos 5 cartas de amonestación, en distintos supermercados y durante un periodo de tiempo considerable no remedió su actitud desidiosa, al contrario se evidencia el carácter permanente y no ocasional de la acción o inacción de la actora al dar incumplimiento a las obligaciones que le imponía su contrato de trabajo.
+
+Alega la improcedencia de las peticiones concretas formuladas en la demanda. Señala que no procede el pago de ninguna de las prestaciones reclamadas siendo justificado el despido. Por lo expuesto y normas legales que cita, pie tener por contestada la demanda y rechazarla en todas sus partes con costas.
+
+TERCERO: Que, llamadas las partes a conciliación en la audiencia preparatoria, ésta no se produjo.
+
+CUARTO: Que en audiencia preparatoria se fijaron hechos pacíficos y hechos a probar que son los siguientes:
+
+Hechos pacíficos:
+
+1.- Que la relación laboral se extendido entre 03 de febrero de 2017 hasta el 21 de febrero de 2025.
+
+2.- Que las funciones que la actora cumplía eran las de auxiliar de ventas.
+
+3.- Que fue despedida el día 21 de febrero del año 2 025 en virtud de la causal del artículo 160 número 7 del Código del Trabajo, esto es incumplimiento grave de las obligaciones que impone el contrato.
+
+Hechos a Probar:
+
+1. Efectividad de concurrir en la especie la causal invocada por la parte demandada en su carta de despido, esto es, incumplimiento grave de las obligaciones que impone el contrato del artículo 160 numeral, 7 código del trabajo, hechos que configurarían dicha causal y cumplimiento formalidades legales para el despido.
+
+2. Remuneración de la actora.
+
+3. Efectividad de adeudarse a la actora a cada una de las prestaciones que reclama en su demanda.
+
+QUINTO: Que la parte demandada rindió las siguientes pruebas en audiencia de juicio.
+
+Otros medios de prueba:
+
+Audio correspondiente a reclamo recibido por parte de la encargada de uno de los locales en que la actora ejercía sus funciones, doña María Elena López Maldonado, el cual se puede escuchar a través del siguiente link:
+
+https://drive.google.com/drive/folders/1h7sp4zPBq6q1v3MLllnKSklzqIPr_zE 8?usp=drive_link
+
+Testigos:
+
+1. Carlos Alejandro Pezoa Bobadilla, cédula nacional de identidad Nº17.684.883-9.
+
+2. Franco David Larenas Lepe, cédula nacional de identidad Nº18.208.821-8.
+
+3. Ítalo Fernando Longhi Chávez, cédula nacional de identidad Nº13.226.097-4.
+
+Documental: (folio 27-35)
+
+1. Contrato de Trabajo y anexos suscritos entre la actora Patricia Fresia Córdova Fernández y la demandada.
+
+2. Carta de despido no firmada por la actora Patricia Fresia Córdova Fernández, con comprobante de envío mediante carta certificada.
+
+3. Comprobante de carta de aviso para terminación del contrato de trabajo de la Dirección del Trabajo.
+
+4. Finiquito suscrito entre la demandada y la actora.
+
+5. Últimas 6 liquidaciones de la actora, septiembre 2024 a febrero 2025.
+
+6. Reglamento Interno de Orden, Higiene y Seguridad de Servicios Generales Limitada.
+
+7. Acuse recibo de Reglamento Interno de Orden, Higiene y Seguridad.
+
+8. Set de correos electrónicos en los que se informa nuevo reclamo por gestión de la actora.
+
+9. Set de correos electrónicos donde se determina la desvinculación de la actora.
+
+10.Set de amonestaciones que registra dona Patricia Fresia Córdova Fernández. (folio 42)
+
+SEXTO: Que la parte demandante rindió las siguientes pruebas en la audiencia de juicio.
+
+Documental: (folio 37-40)
+
+1) Finiquito con reserva de derechos de fecha 27.02.2025.
+
+2) Liquidaciones de sueldo correspondiente a los meses de noviembre y diciembre 2024 y enero 2025.
+
+3) Acta de comparendo de conciliación dirección del trabajo APT San Felipe Aconcagua de fecha 27.03.2025.
+
+4) Contrato de Trabajo de fecha 03.02.2017.
+
+5) Carta de amonestación de fecha 06.02.2025 y 07.01.2025.
+
+Testimonial.
+
+1.- Carlos Danilo Díaz Salas, cédula nacional de identidad N°13.490.070-9.
+
+SEPTIMO: Que se tiene por acreditado que entre las partes existió una relación laboral la cual se encontró vigente desde el día 03 de febrero de 2017 hasta el día 21 de febrero de 2025, que las labores de la actora eran las de auxiliar de ventas de los productos que por convenio suscrito con el fabricante Productos Fernández S.A el empleador se ha obligado a promocionar en los establecimientos comerciales de la ciudad de San Felipe.
+
+Que, asimismo, aparece acreditado que entre las diversas funciones, se encontraba la realización de una adecuada rotación de productos en sala, cámaras, cabeceras, vitrinas y góndolas con el fin de mantener las condiciones óptimas de calidad y evitar las mermas de los distintos productos, optimizar el espacio que entrega el supermercado y lograr la mejor ubicación y exhibición de los productos, realizar el laminado de los distintos productos a granel, realizar limpieza de los espacios asignados entre otras.
+
+Que, asimismo, aparece acreditado que la actora fue despedida por una causal disciplinaria, a saber, incumplimiento grave de las obligaciones que impone el contrato.
+
+Que los hechos que fundamentan la causal están relatados en la carta de despido transcrita en el considerando primero, desprendiéndose que el incumplimiento se fundamenta en que en reiteradas ocasiones se advierte que la demandante no ha efectuado una adecuada rotación de los productos, en algunos casos -dice la carta- mantuvo productos vencidos y en otros, productos prontos a vencer. Que se le invitó a corregir la conducta mediante cartas de amonestación sin que se haya corregido la conducta.
+
+Señala la carta, que los incumplimientos se advierten principalmente en abril y octubre de 2024 y enero y febrero de 2025 en que se aplica carta de amonestación.
+
+Se señala que el 6 de febrero le fue representada la última falta, relacionada con los días martes 11 y jueves 13 de febrero por el jefe de venta de Productos Fernández. Que han recibido nuevos reclamos de la administración de uno de los supermercados, a saber, el de calle Merced correspondiente a Santa Isabel, encontrándose en ese local productos que no estaban en óptimas condiciones ya que tenían problemas con el sellado al vacío, lo que se hubiera evitado si la actora hubiera hecho control permanente de los productos que están bajo su cuidado.
+
+Agrega la carta que dichos incumplimientos hacen insostenible la relación laboral. Añade que las situaciones son de tal gravedad que pone en riesgo la reputación de los locales y la salud del consumidor y que el descuido constituye un alto grado de negligencia contrario al cumplimiento de sus obligaciones.
+
+Señala la carta que se configura la causa del artículo 160 numeral 7 del Código del Trabajo.
+
+OCTAVO: Que, como aparece acreditado, se puso término a la relación laboral, mediante carta de fecha 21 de febrero de 2025 por la causal de incumplimiento grave de las obligaciones que impone el contrato, correspondiendo al demandado acreditar cada uno de los hechos que configuran la causal invocada y sus circunstancias.
+
+Que, de otra parte, el incumplimiento a las obligaciones que se atribuyen al trabajador debe ser calificado como grave, no bastando cualquier incumplimiento, sino que debe poseer una magnitud o importancia que habilite para dar término al contrato de trabajo, sin derecho a indemnización alguna.
+
+Que, en cuanto a los requisitos para la procedencia de esta causal, aparece necesario a) que se trate de un incumplimiento de las obligaciones del contrato b) que el incumplimiento sea grave c) que el incumplimiento sea injustificado d) la decisión de despedir disciplinariamente debe ser proporcional.
+
+NOVENO: Que, en el caso de autos, la causal invocada para poner término al contrato no aparece plenamente justificada, estimándose que se trató de una situación que pudo ser sancionada de una manera distinta al término de la relación laboral, contando el empleador con otras medidas de sanción en el ejercicio de su potestad disciplinaria. Ello teniendo en consideración dos elementos primordiales, el primero que no se acredita que el actuar de la actora haya ocasionado o generado consecuencia para la demandada o un tercero y por otro, el extenso tiempo de duración de la relación laboral, sin reproche alguno en la forma de realización de sus labores.
+
+Que los testigos indican que se trata de la imagen del cliente y que la eventual venta de un producto pronto a vencer o vencido puede ocasionar un daño para la salud, lo cierto es que ello no aconteció, no existiendo antecedente alguno que indique que se haya comercializado algún producto que haya generado algún efecto negativo para la demandada o algún tercero. En este orden de ideas tampoco se aporta prueba tendiente a acreditar que se haya afectado la reputación de la empresa mandante en el posicionamiento de sus productos en los diferentes locales comerciales o que el contrato entre la empresa demandada y Productos Fernández haya terminado o modificado sus condiciones de algún modo.
+
+Que, por otra parte, la carta no refiere a algún hecho en particular, atribuye una serie de incumplimientos y luego los sustenta en el envío de cartas de amonestación.
+
+Ahora bien, existen cartas de amonestación las que refieren a una “fiscalización recientemente concluida”, representándose en ellas una mala rotación de productos que se mantenían en sala de ventas, productos próximos a vencer o vencidos. Sin embargo, no hay antecedentes de la forma de realización de esa fiscalización, quién la llevó a cabo, dónde consta, ni menos existe antecedente de algún descargo de parte de la trabajadora frente a dichas misivas, se desconoce quién hizo el conteo de esos productos o las explicaciones que pudo dar la actora en ese contexto, tampoco aparece acreditado que esas negligencias que se acusan tuvieran origen en el actuar de la trabajadora por cuanto la trabajadora laboraba en diversas sucursales, existiendo en cada una de ellas una jefatura distinta a cargo del supermercado, jefatura que es externa a la empresa demandada, y respecto de la cual no se tiene antecedente en cuanto a la dinámica de funcionamiento e instrucciones.
+Que no hay constancia que la demandada haya dejado de prestar servicios para su mandante productos Fernández, tampoco que se haya capacitado a la actora en la forma de realizar su labor, antecedentes todos que llevan a desestimar la aplicación de una sanción de suyo gravosa para poner término a la relación laboral, teniendo sobre todo en consideración que la trabajadora ha prestado servicios durante 8 años para la parte demandada, y solo durante el año 2024 a fines de dicho año se le han cursado amonestaciones, apareciendo entonces, que durante más de 7 años laboró de manera adecuada y sin inconvenientes. Que considerando lo anterior, el tiempo de servicio prestado, el espacio de tiempo transcurrido entre las amonestaciones lleva a concluir que el empleador pudo tomar otra medida menos gravosa en razón de sus facultades disciplinarias. No apareciendo justificada la causal de despido.
+
+Que la prueba testimonial no modifica lo concluido, la de la demandada refiere a los incumplimientos de la actora, a la no realización de rotación de productos y que se le encontraron productos vencidos y prontos a vencer. Señala el testigo don Franco Larenas que estuvieron trabajando y ejerciendo capacitación interna con la actora, de lo cual no existe constancia alguna. Señala que tuvo 15 o 20 reclamos respecto de los cuales tampoco existe constancia, refiere a que la actora tuvo carta de amonestación y que posteriormente vino un reclamo del mismo lugar, por producto vencido e incumplimiento de fifo que según se explica, consiste en que el primer producto que llega a sala es el primero que tiene que salir. El testigo don Carlos Pezoa señala que es jefe zonal, que recibió reclamo de una jefa de un supermercado, que no recuerda la fecha en que esto ocurrió, que cuando recibe el reclamo lo deriva a la jefatura, que le llega a él el reclamo por ser la cara visible de Productos Fernández, que trabajan alrededor de 400 o 450 productos. El testigo de la parte demandante don Carlos Diaz, señala que la actora fue despedida por tener 3 amonestaciones, que la actora tiene un supervisor quien da las directrices de lo que debe realizar, que al vencer un producto debe el reponedor avisar al jefe de sección. Indica que la actora le comentó que ella sí dio cuenta al supervisor sobre los productos a vencer. Que, entonces, las declaraciones no modifican lo resuelto, en cuanto a que no existe constancia de las fiscalizaciones a que refieren las cartas de amonestación, ni quién o quiénes las realizaron, tampoco como eran impartidas las directrices por parte de su jefatura teniendo en consideración que don Franco Larenas señaló tener entre 30 y 40 locales a su cargo. Que, además, no se modifica lo concluido en cuanto a la gravedad y el perjuicio a que refiere la carta de despido, cuestiones que no aparecen acreditadas en autos y que son el sustento del despido, ergo, tras no acreditarse, debe necesariamente declararse injustificado el despido.
+
+DECIMO: Que, entonces, no se acreditó por los medios de prueba rendidos en autos, que el término de la relación laboral existente entre las partes haya sido justificada, debida o procedente, pues el peso de la prueba era de la demandada.
+
+UNDECIMO: Que, para los efectos del pago de las indemnizaciones correspondientes se estará al monto que se señala por la parte demandada en cuanto se condice con la información contenida en las liquidaciones de remuneraciones, por lo cual su remuneración corresponde a la suma de $1.047.927. -
+
+DECIMO SEGUNDO: Que corresponde dar lugar a la indemnización por años de servicio correspondiente a 8 años conforme a la prueba rendida, esto es, que la actora ingresó a prestar servicios el 03 de febrero de 2017. Aumentada en un 80%, conforme lo dispuesto en el artículo 168 letra c) del Código del Trabajo. Que, asimismo, se dará lugar a la indemnización sustitutiva de falta de aviso previo contemplada en el artículo 162 del Código del Trabajo al haber quedado establecido que resulta procedente a la luz de los hechos que se tienen por acreditados.
+
+DECIMO TERCERO: Que toda la prueba incorporada al presente juicio ha sido analizada conforme a las reglas de la sana critica, y aquella no mencionada expresamente en nada altera lo ya concluido por este Tribunal.
+
+Por estas consideraciones y visto además lo dispuesto en los artículos 1,3, 7, 41,63, 160, 162, 168,173, 485 y siguientes y demás normas pertinentes del Código del Trabajo, se resuelve:
+
+I.- Que se acoge la demanda interpuesta por doña Patricia Fresia Córdova Fernández, en contra de SERVICIOS GENERALES LIMITADA, representada por don Manuel Garrido en cuanto se declara indebido y por tanto injustificado el despido de la actora por lo que debe responder al pago de las siguientes sumas por los conceptos que se indican:
+
+La suma $1.047.927.-, por concepto de indemnización sustitutiva de aviso previo.
+
+La suma de $15.090.148.- por indemnización por años de servicio ya incrementada.
+
+II.- Que las cantidades ordenadas pagar deberán serlo con los reajustes e intereses, que se indican en los artículos 63 y 173 del Código del Trabajo según corresponda.
+
+III.- Que no se condena en costas a la parte demandada por estimarse que ha tenido motivo plausible para litigar.
+
+IV. Dese cumplimiento por la demandada, en su caso, a lo establecido en la Ley 14.908 modificada por la Ley 21.389.-
+V.- Ejecutoriada que sea la presente sentencia, cúmplase lo resuelto en ella dentro de quinto día, en caso contrario se dará inicio a su ejecución, de acuerdo a lo establecido en el artículo 462 del Código del Trabajo.
+
+Notifíquese, regístrese y archívese en su oportunidad.
+
+RIT O-54-2025
+
+RUC 25- 4-0662257-9
+
+Dictada por MARIA ARACELY MUÑOZ PASTRAN, Juez Titular del Juzgado de Letras del Trabajo de San Felipe.
+
+En San Felipe a once de julio de dos mil veinticinco, se notificó por el estado diario la resolución precedente.
