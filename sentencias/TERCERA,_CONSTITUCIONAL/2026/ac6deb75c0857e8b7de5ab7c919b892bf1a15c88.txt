@@ -4,11 +4,11 @@ case_id: ac6deb75c0857e8b7de5ab7c919b892bf1a15c88
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047818
 
-rol: 25910-2025
+rol: 1950-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: CALDERÓN/SERVICIO NACIONAL DE MIGRACIONES
+caratulado: ITRIAGO ESPINOZA / MINISTERIO DEL INTERIOR Y SEGURIDAD PUBLICA Y OTRO
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
