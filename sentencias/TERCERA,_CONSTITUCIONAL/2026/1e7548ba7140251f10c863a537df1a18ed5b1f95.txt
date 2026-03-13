@@ -4,19 +4,19 @@ case_id: 1e7548ba7140251f10c863a537df1a18ed5b1f95
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8043539
 
-rol: 32789-2025
+rol: 46560-2025
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-02-26
 
-caratulado: PEREZ OJEDA PABLO/CONTRALORÍA GENERAL DE LA REPÚBLICA
+caratulado: ROMERO MORALES OSCAR ERNESTO CONTRA SERVICIO DE SALUD TARAPACÁ Y OTRO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Becas
+materias: ▪ Función pública
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
