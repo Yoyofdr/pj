@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040761
 
 rol: 4243-2026
 
-fecha_sentencia: 2026-02-25
+fecha_sentencia: 2026-02-24
 
 caratulado: GUERRERO/ISAPRE CRUZ BLANCA S.A.
 
