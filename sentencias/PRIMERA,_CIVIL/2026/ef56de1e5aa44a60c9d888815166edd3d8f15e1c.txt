@@ -1,22 +1,22 @@
 METADATA
 
-case_id: 7cbee6eb2bbf2026cdfa5b791ade157fbfbd904c
+case_id: ef56de1e5aa44a60c9d888815166edd3d8f15e1c
 
-url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8048403
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8048677
 
-rol: 199-2025
+rol: 41363-2024
 
 fecha_sentencia: 2026-03-04
 
-caratulado: FISCO DE CHILE/COMPLEJO MANUFACTURERO DE EQUIPOS TELEFONICOS S.A.C.I - (ACUM. I.C. N°4957-2023) - VISTA CONJUNTA CON I. C. N°4844-2023 Y 4958-2023 - VUELVE A TABLA
+caratulado: PAVEZ LEON JUAN Y OTROS CON ETEROVIC SORENSEN-NORGAARD ROLANDO Y OTROS (O)
 
-sala: TERCERA, CONSTITUCIONAL
+sala: PRIMERA, CIVIL
 
-materias: ▪ Admisibilidad del recurso de casación en el fondo
+materias: ▪ Responsabilidad civil
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: INADMISIBLE CASACIÓN DE FONDO
+resultado_recurso: SENTENCIA DE REEMPLAZO (M)
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

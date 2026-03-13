@@ -4,11 +4,11 @@ case_id: 16a37c06a3ce3e8de02a44e455534ecfbefd1c9b
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049206
 
-rol: 2603-2026
+rol: 3213-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: MARIANA JOSÉ VARELA CONTRERAS Y MARANJU ERNESTO CAMEJO ROJAS /SERVICIO NACIONAL DE MIGRACIONES
+caratulado: ANGULO CEDEÑO HENRY MOISES/MINISTERIO DEL INTERIOR Y OTRO
 
 sala: TERCERA, CONSTITUCIONAL
 

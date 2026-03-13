@@ -4,19 +4,19 @@ case_id: e5e50e35743cf1c09c8607dbc9ea545e2bc664bd
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047950
 
-rol: 42811-2025
+rol: 6134-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: ARSEIL/SERVICIO NACIONAL DE MIGRACIONES
+caratulado: NOELIA TEXIA LEDEZMA ARANCIBIA / SUPERINTENDENCIA DE SEGURIDAD SOCIAL
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) HECHO
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) HECHO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

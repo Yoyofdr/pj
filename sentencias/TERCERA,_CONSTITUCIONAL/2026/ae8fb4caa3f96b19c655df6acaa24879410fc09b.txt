@@ -4,11 +4,11 @@ case_id: ae8fb4caa3f96b19c655df6acaa24879410fc09b
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049226
 
-rol: 2827-2026
+rol: 3218-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: MATHEUS / SERVICIO NACIONAL DE MIGRACIONES
+caratulado: RAMIREZ/MINISTERIO DEL INTERIOR Y OTRO
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

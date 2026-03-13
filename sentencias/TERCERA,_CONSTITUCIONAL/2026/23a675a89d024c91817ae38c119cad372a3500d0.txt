@@ -4,11 +4,11 @@ case_id: 23a675a89d024c91817ae38c119cad372a3500d0
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049252
 
-rol: 56643-2025
+rol: 2827-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: SEVILLA GONZÁLEZ YASMIRA/SERVICIO NACIONAL DE MIGRACIONES
+caratulado: MATHEUS / SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

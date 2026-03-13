@@ -4,11 +4,11 @@ case_id: 402254b4841a29f8dbe1351fcd2930db00c567bd
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8048176
 
-rol: 56762-2025
+rol: 56643-2025
 
 fecha_sentencia: 2026-03-04
 
-caratulado: GOMEZ/SERVICIO DE MIGRACIONES
+caratulado: SEVILLA GONZÁLEZ YASMIRA/SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
