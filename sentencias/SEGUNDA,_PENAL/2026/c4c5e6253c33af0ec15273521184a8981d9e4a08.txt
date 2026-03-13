@@ -4,11 +4,11 @@ case_id: c4c5e6253c33af0ec15273521184a8981d9e4a08
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047176
 
-rol: 9156-2026
+rol: 9252-2026
 
 fecha_sentencia: 2026-03-03
 
-caratulado: QUINTEROS GARRIDO JUAN PABLO CONTRA COMISIÓN DE LIBERTAD CONDICIONAL (CLC)
+caratulado: GUERRERO BUSTAMANTE ENRIQUE CONTRA COMISIÓN LIBERTAD CONDICIONAL
 
 sala: SEGUNDA, PENAL
 

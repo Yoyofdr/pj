@@ -4,19 +4,19 @@ case_id: 0381671d41e17bfab9d95a4dfdf268528d7cda00
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046561
 
-rol: 8433-2026
+rol: 9181-2026
 
 fecha_sentencia: 2026-03-03
 
-caratulado: CABRERA JARA CARLOS ENRIQUE CONTRA COMISION LIBERTAD CONDICIONAL 2 SEMESTRE
+caratulado: HONORATO MANZANO LUSGRADIS DE LOURDES CONTRA 14º JUZGADO DE GARANTIA DE SANTIAGO
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: (CRIMEN) APELACIÓN AMPARO
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

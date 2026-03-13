@@ -4,19 +4,19 @@ case_id: 69844051c96cb8d7c185cad280f22327465acca5
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046617
 
-rol: 54184-2025
+rol: 54601-2025
 
 fecha_sentencia: 2026-03-03
 
-caratulado: ANONIMIZADO
+caratulado: PATIÑO SALDAÑA FELIPE RIGOBERTO CONTRA LIGA DEPORTIVA MAGISTERIAL DE FUTBOL DE IQUIQUE
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Resoluciones judiciales, actuaciones de Auxiliares de la Administración de Justicia, del Ministerio Público y otros
+materias: ▪ Protecciones en contra de particulares
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: CONFIRMA SENTENCIA EN LO APELADO
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

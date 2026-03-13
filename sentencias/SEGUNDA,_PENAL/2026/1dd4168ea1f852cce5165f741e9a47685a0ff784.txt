@@ -4,11 +4,11 @@ case_id: 1dd4168ea1f852cce5165f741e9a47685a0ff784
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046556
 
-rol: 8264-2026
+rol: 9156-2026
 
 fecha_sentencia: 2026-03-03
 
-caratulado: ANONIMIZADO
+caratulado: QUINTEROS GARRIDO JUAN PABLO CONTRA COMISIÓN DE LIBERTAD CONDICIONAL (CLC)
 
 sala: SEGUNDA, PENAL
 
@@ -16,7 +16,7 @@ materias: ▪ Recurso de Amparo
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
