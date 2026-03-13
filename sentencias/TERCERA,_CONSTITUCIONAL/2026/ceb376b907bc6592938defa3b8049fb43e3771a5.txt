@@ -4,19 +4,19 @@ case_id: ceb376b907bc6592938defa3b8049fb43e3771a5
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8048413
 
-rol: 28907-2025
+rol: 27758-2025
 
 fecha_sentencia: 2026-03-04
 
-caratulado: CASTRO/SUPERINTENDENCIA DE SEGURIDAD SOCIAL Y COMISION DE MEDICINA PREVENTIVA E INVALIDEZ
+caratulado: RIVERA MARTINEZ SILVIA ALEJANDRA/ SUSESO-COMPIN
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Salud
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) HECHO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

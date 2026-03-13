@@ -4,19 +4,19 @@ case_id: 5f3d1efd88698493f380e6a307550ebf613be907
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8048603
 
-rol: 43058-2025
+rol: 40431-2025
 
 fecha_sentencia: 2026-03-04
 
-caratulado: LUTFRIDO SANCHE BATISTA/SERVICIO NACIONAL DE MIGRACIONES
+caratulado: KERCY PREVIL/SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (FAMILIA) APELACIÓN DE AMPARO
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (FAMILIA) APELACIÓN DE AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

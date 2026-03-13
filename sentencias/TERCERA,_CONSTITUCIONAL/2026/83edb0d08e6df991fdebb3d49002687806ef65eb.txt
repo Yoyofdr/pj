@@ -4,19 +4,19 @@ case_id: 83edb0d08e6df991fdebb3d49002687806ef65eb
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049006
 
-rol: 41049-2025
+rol: 37459-2025
 
 fecha_sentencia: 2026-03-04
 
-caratulado: MORA/SERVICIO NACIONAL DE MIGRACIONES ONES
+caratulado: CONSEJO DE DEFENSA DEL ESTADO / INVERSIONES SIEMPRE CONSTANTELIMITADA - (LTE) - (CASACION Y APELACION) VUELVE A TABLA.-
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (FAMILIA) APELACIÓN DE AMPARO
+materias: ▪ Admisibilidad del recurso de casación en el fondo
 
-recurso: (FAMILIA) APELACIÓN DE AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: INADMISIBLE CASACIÓN FORMA RECHAZADA,CASACIÓN FONDO
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

@@ -4,19 +4,19 @@ case_id: 61c82b69031a3aeb21a4d2eadbb221b4522f42e8
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049168
 
-rol: 2429-2026
+rol: 1596-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: PINTO/SERVICIO NACIONAL DE MIGRACIONES
+caratulado: TORRES QUIROZ / MINISTERIO DEL INTERIOR Y SEGURIDAD PUBLICA Y OTRO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (FAMILIA) APELACIÓN DE AMPARO
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (FAMILIA) APELACIÓN DE AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: DESISTIDO RECURSO DE
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
