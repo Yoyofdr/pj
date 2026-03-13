@@ -1,0 +1,89 @@
+METADATA
+
+case_id: d7909d277e6b4e637f4a492684d885aa92735c2b
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040400
+
+rol: 5441-2026
+
+fecha_sentencia: 2026-02-25
+
+caratulado: GIULIANO CORREA ALFREDO SALVADOR/ISAPRE BANMÉDICA S.A.
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (CIVIL) APELACIÓN PROTECCIÓN
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veinticinco de febrero de dos mil veintiséis.
+
+VISTO Y TENIENDO PRESENTE:
+PRIMERO: Que, en este procedimiento tramitado de acuerdo con la Ley N° 18.101, en etapa de cumplimiento incidental, seguido ante el Segundo Juzgado Civil de Viña del Mar, bajo el Rol C-2746-2022, caratulado “Andreani con García”, se ha ordenado dar cuenta de la admisibilidad de los recursos de casación en la forma y en el fondo deducidos por la parte demandada, en contra de la sentencia de segunda instancia de siete de enero del año en curso, que revocó la de primer grado que rechazó la demanda incidental de determinación de perjuicios y, en su lugar, declaró que se acoge dicha demanda, ordenándose a la demandada el pago al actor de la suma de $8.873.272 (ocho millones ochocientos setenta y tres mil doscientos setenta y dos pesos), más el reajuste del IPC entre la fecha en que la sentencia quede ejecutoriada y su pago efectivo, y los intereses corrientes para operaciones reajustables, solo en caso de mora.
+
+EN CUANTO AL RECURSO DE CASACIÓN EN LA FORMA:
+SEGUNDO: Que la recurrente funda su recurso de nulidad formal en la causal prevista en el numeral 5° del artículo 768 del Código de Procedimiento Civil, en relación con el artículo 170 n° 4 del mismo cuerpo legal.
+
+Sostiene que, en el fallo recurrido, se fijó el monto de $8.873.272 de los perjuicios a pagar en base preferentemente del informe pericial rendido en el juicio principal y lo corroborado por un presupuesto; sin hacerse cargo de las objeciones planteadas por esa parte, las que eran concretas, cuantificables y decisivas. Agrega que, tratándose de un incidente de determinación de perjuicios en fase de cumplimiento, la sentencia recurrida debió explicitar el estándar jurídico que utilizó para la fijación del monto.
+
+Pide que se invalide la sentencia recurrida, dictando en su reemplazo una que se ajuste a derecho y que subsane los vicios cometidos por el fallo recurrido, rechazando, en definitiva, las excepciones opuestas a la ejecución, con costas.
+
+TERCERO: Que, del análisis de la causal de nulidad formal alegada por la parte recurrente se aprecia que esta no podrá prosperar, toda vez que el vicio denunciado no se configura en la especie.
+
+En efecto, para un correcto análisis de la anomalía formal denunciada, se debe tener presente que ésta solo aparece cuando la sentencia carece de las consideraciones de hecho y de derecho que sirven de fundamento a la decisión adoptada.
+
+Sin embargo, de una atenta lectura del fallo cuestionado, es posible constatar que –contrariamente a lo postulado por el impugnante– éste sí contiene las reflexiones tanto fácticas como jurídicas que condujeron a los sentenciadores del fondo para acoger el cumplimiento incidental y determinar los montos a indemnizar, quedando de manifiesto que la recurrente más bien discrepa de lo razonado por los jueces de la instancia y la decisión adoptada por éstos; por lo que estos reproches no ameritan la invalidación de lo resuelto por razones de tipo formal, sino eventualmente de fondo, lo que determina que el arbitrio de nulidad formal debe ser desestimado al no concurrir los defectos denunciados.
+
+EN CUANTO AL RECURSO DE CASACIÓN EN EL FONDO:
+CUARTO: Que el recurso de casación sustantivo lo funda en la infracción a los artículos 1556 y 1698 del Código Civil, señalando, en síntesis, que la sentencia recurrida fijó como daño emergente una suma líquida de $8.873.272 en fase de cumplimiento, basándose en un medio de prueba que fue objetado por su parte, por existir errores de cálculo, partidas improcedentes, supuestos no verificados, entre otros. Sostiene, asimismo, que el demandante incidental tenía la carga de acreditar el valor de las reparaciones, pero la sentencia tiene por acreditada la cuantía sin hacerse cargo de la controversia específica levantada por esa parte sobre errores aritméticos y de partidas, incluida una rebaja base propuesta de $565.000, lo que implica que la sentencia relevó al actor de demostrar la cuantía con el estándar exigido cuando el monto es discutido en forma concreta.
+
+Pide que se invalide la sentencia y conforme lo dispone el artículo 785 del Código de Procedimiento Civil, se dicte sentencia de reemplazo, confirmando la sentencia de primera instancia, con costas del recurso.
+
+QUINTO: Que, al analizar el recurso se advierte que las infracciones que denuncia el recurrente se construyen sobre la base de una propuesta fáctica diversa a aquélla asentada por los sentenciadores del grado.
+
+Resulta importante tener en consideración que el motivo principal que tuvo la sentencia de segundo grado, para revocar la sentencia de primera, fue que se presentó por la demandante antecedentes probatorios suficientes para establecer la procedencia de la determinación de los perjuicios demandados y la cuantía de los mismos.
+
+En efecto, de la lectura del fallo quedó asentado la existencia de un informe técnico pericial evacuado por la arquitecta doña Marcela Maturana Donoso, el que para el tribunal dio cuenta detallada de las modificaciones efectuadas por la demandada en la propiedad de que se trata y de las obras necesarias para restituirla a su estado original, lo que permite acreditar la existencia de un perjuicio material efectivo derivado del incumplimiento contractual de la demandada.
+
+Asimismo, la sentencia analizó la existencia de un presupuesto alternativo presentado por la parte demandada, por la suma total de $6.631.929, en el cual se afirma seguir la propia metodología del informe pericial, antecedente que, si bien constituye un reconocimiento implícito de que existen deterioros y modificaciones que requieren ser resarcidos, se corrobora para los sentenciadores la existencia de los perjuicios reclamados.
+
+Agrega luego, que fortalece la convicción del tribunal y la relevancia probatoria del informe pericial, la existencia de un segundo presupuesto aportado por la parte demandante, emitido por "CTG Ingeniería en Construcción E.I.R.L", el cual avalúo las reparaciones en la suma de $8.888.422, monto que resulta notablemente semejante al valor determinado en el peritaje técnico de $8.873.272, lo que refuerza el razonamiento sobre la cuantía de los perjuicios, al existir una clara correspondencia entre la avaluación de la perito judicial y una cotización técnica de mercado.
+
+SEXTO: Que, en base a lo que se viene razonando se debe tener presente que los hechos fijados en una sentencia corresponden al resultado de la ponderación judicial de la prueba rendida en el juicio y que esta actividad de análisis, examen y valoración del material probatorio se encuentra dentro de las facultades privativas de los sentenciadores del fondo; concerniendo, por ende, a un proceso racional del tribunal, por lo que no está sujeto a control en sede de casación en el fondo, salvo que se haya denunciado de modo eficiente la vulneración de las leyes reguladoras de la prueba que hayan permitido establecer el presupuesto fáctico determinado en el fallo, lo que no ha ocurrido en la especie; más si los cuestionamientos que se efectúan en el recurso respecto de la prueba pericial no se hacen cargo de los elementos tenidos en cuenta por el tribunal para resolver, pues de la lectura del fallo no se advierte que se hayan vulnerado las reglas de la sana crítica.
+
+Por consiguiente, siendo necesario para el éxito de la pretensión de la recurrente, modificar los hechos fijados por los jueces de la instancia; y no pudiendo aquello verificarse en esta sede de casación, indefectiblemente el arbitrio de nulidad en estudio no puede prosperar por adolecer de manifiesta falta de fundamento.
+
+Por estas consideraciones y de conformidad con lo dispuesto en los artículos 766, 767, 781 y 782 del Código de Procedimiento Civil, se declara inadmisible el recurso de casación en la forma y se rechaza el recurso de casación en el fondo interpuestos por el abogado Pablo Álvarez Hernández, en representación de la parte demandada, en contra la sentencia de siete de enero del año dos mil veintiséis, pronunciada por la Corte de Apelaciones de Valparaíso.
+
+Regístrese y devuélvase.
+
+Rol Nº 5.275-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Valparaíso
+Valparaíso, siete de enero de dos mil veintiséis.
+Vistos:
+Se reproduce la sentencia en alzada, previa eliminación de sus fundamentos 7°, 8° y 9°.
+
+Se tiene en su lugar y, además, presente:
+1° Que, la parte demandante ha deducido recurso de apelación solicitando la revocación del fallo incidental que negó lugar a la determinación de los perjuicios solicitada por el demandante arrendador, derivados del contrato de arrendamiento celebrado entre las partes, bajo el argumento de que la existencia de los mismos ya ha sido establecida por sentencia definitiva recaída en estos mismos autos, restando solo fijar su cuantía.
+2° Que, para efectos de resolver la presente controversia, se tiene en consideración la existencia de un informe técnico pericial evacuado por la arquitecta doña Marcela Maturana Donoso, el cual fue agregado en el cuaderno principal con fecha 17 de agosto de 2023. Dicho informe dio cuenta detallada de las modificaciones efectuadas por la demandada en la propiedad de que se trata y de las obras necesarias para restituirla a su estado original, acreditando así la existencia de un perjuicio material efectivo derivado del incumplimiento contractual de la demandada.
+3° Que, es pertinente recordar que, según consta en la sentencia definitiva de fecha 20 de noviembre de 2023, ya se condenó a la demandada a indemnizar el valor de las reparaciones, reservándose la determinación del monto para esta etapa de ejecución, por lo que, habiéndose acreditado ya la obligación de la demandada de indemnizar los perjuicios provocados al actor por este título, solo resta acreditar el monto de los mismos.
+4° Que, no obstante que consta en el proceso un presupuesto alternativo presentado por la propia parte demandada, por la suma total de $6.631.929, en el cual se afirma seguir la propia metodología del informe pericial, antecedente que si bien constituye un reconocimiento implícito de que existen deterioros y modificaciones que requieren ser resarcidos, corroborando la existencia de los perjuicios reclamados, habrá de preferirse la prueba pericial que determina la existencia del daño en un monto superior.
+5° Que, fortalece la convicción de este tribunal la existencia de un segundo presupuesto aportado por la parte demandante, emitido por "CTG Ingeniería en Construcción E.I.R.L", el cual asciende a la suma de $8.888.422. Lo anterior da cuenta que dicho monto resulta notablemente semejante al valor determinado en el peritaje técnico de $8.873.272, lo que refuerza el razonamiento sobre la cuantía de los perjuicios, al existir una clara correspondencia entre la avaluación de la perito judicial y una cotización técnica de mercado.
+6° Que, respecto de la prueba rendida en esta segunda instancia, constituida por la absolución de posiciones de la demandada, doña Carmen Cecilia García Draper, el pasado 5 de noviembre, si bien esta Corte resolvió no tenerla por confesa fictamente al estimar que sus respuestas no fueron evasivas, sí se valora lo que la demandada declaró en orden a haber visto el citado presupuesto para la formación de la convicción sobre el fondo del asunto.
+
+7° Que, en consecuencia, los antecedentes probatorios descritos precedentemente resultan suficientes para establecer la procedencia de la determinación de los perjuicios demandados.
+Por estas consideraciones, y visto además lo dispuesto en los artículos 186 y siguientes del Código de Procedimiento Civil, se revoca, la resolución de fecha dos de julio de dos mil veinticuatro que rechazó la demanda incidental de determinación de perjuicios y, en su lugar se declara que se acoge la demanda incidental de determinación de perjuicios, ordenándose a la demandada el pago al actor de la suma de $8.873.272 (ocho millones ochocientos setenta y tres mil doscientos setenta y dos pesos), con más el reajuste del IPC entre la fecha en que la presente sentencia quede ejecutoriada y su pago efectivo, y los intereses corrientes para operaciones reajustables, solo en caso de mora.
+Notifíquese y devuélvase.
+
+N°Civil-2059-2024.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de ValparaísoValparaíso, siete de enero de dos mil veintiséis.Vistos:Se reproduce la sentencia en alzada, previa eliminación de sus fundamentos 7°, 8° y 9°.Se tiene en su lugar y, además, presente:1° Que, la parte demandante ha deducido recurso de apelación solicitando la revocación del fallo incidental que negó lugar a la determinación de los perjuicios solicitada por el demandante arrendador, derivados del contrato de arrendamiento celebrado entre las partes, bajo el argumento de que la existencia de los mismos ya ha sido establecida por sentencia definitiva recaída en estos mismos autos, restando solo fijar su cuantía.2° Que, para efectos de resolver la presente controversia, se tiene en consideración la existencia de un informe técnico pericial evacuado por la arquitecta doña Marcela Maturana Donoso, el cual fue agregado en el cuaderno principal con fecha 17 de agosto de 2023. Dicho informe dio cuenta detallada de las modificaciones efectuadas por la demandada en la propiedad de que se trata y de las obras necesarias para restituirla a su estado original, acreditando así la existencia de un perjuicio material efectivo derivado del incumplimiento contractual de la demandada.3° Que, es pertinente recordar que, según consta en la sentencia definitiva de fecha 20 de noviembre de 2023, ya se condenó a la demandada a indemnizar el valor de las reparaciones, reservándose la determinación del monto para esta etapa de ejecución, por lo que, habiéndose acreditado ya la obligación de la demandada de indemnizar los perjuicios provocados al actor por este título, solo resta acreditar el monto de los mismos.4° Que, no obstante que consta en el proceso un presupuesto alternativo presentado por la propia parte demandada, por la suma total de $6.631.929, en el cual se afirma seguir la propia metodología del informe pericial, antecedente que si bien constituye un reconocimiento implícito de que existen deterioros y modificaciones que requieren ser resarcidos, corroborando la existencia de los perjuicios reclamados, habrá de preferirse la prueba pericial que determina la existencia del daño en un monto superior.5° Que, fortalece la convicción de este tribunal la existencia de un segundo presupuesto aportado por la parte demandante, emitido por "CTG Ingeniería en Construcción E.I.R.L", el cual asciende a la suma de $8.888.422. Lo anterior da cuenta que dicho monto resulta notablemente semejante al valor determinado en el peritaje técnico de $8.873.272, lo que refuerza el razonamiento sobre la cuantía de los perjuicios, al existir una clara correspondencia entre la avaluación de la perito judicial y una cotización técnica de mercado.6° Que, respecto de la prueba rendida en esta segunda instancia, constituida por la absolución de posiciones de la demandada, doña Carmen Cecilia García Draper, el pasado 5 de noviembre, si bien esta Corte resolvió no tenerla por confesa fictamente al estimar que sus respuestas no fueron evasivas, sí se valora lo que la demandada declaró en orden a haber visto el citado presupuesto para la formación de la convicción sobre el fondo del asunto.7° Que, en consecuencia, los antecedentes probatorios descritos precedentemente resultan suficientes para establecer la procedencia de la determinación de los perjuicios demandados.Por estas consideraciones, y visto además lo dispuesto en los artículos 186 y siguientes del Código de Procedimiento Civil, se revoca, la resolución de fecha dos de julio de dos mil veinticuatro que rechazó la demanda incidental de determinación de perjuicios y, en su lugar se declara que se acoge la demanda incidental de determinación de perjuicios, ordenándose a la demandada el pago al actor de la suma de $8.873.272 (ocho millones ochocientos setenta y tres mil doscientos setenta y dos pesos), con más el reajuste del IPC entre la fecha en que la presente sentencia quede ejecutoriada y su pago efectivo, y los intereses corrientes para operaciones reajustables, solo en caso de mora.Notifíquese y devuélvase.N°Civil-2059-2024.                        ⚠                      Sin documento en esta instancia - pdf
