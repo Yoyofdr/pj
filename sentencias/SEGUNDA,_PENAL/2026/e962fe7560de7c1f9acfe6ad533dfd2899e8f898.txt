@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045125
 
 rol: 7914-2026
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-03-02
 
 caratulado: VARGAS MORALES MARCELO CONTRA JUZGADO DE LETRAS Y GARANTIA DE FREIRINA
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

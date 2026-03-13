@@ -4,17 +4,17 @@ case_id: e6ccaed8f061d18ee0a40a990065859d6ba275b1
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045795
 
-rol: 6681-2026
+rol: 6227-2026
 
 fecha_sentencia: 2026-03-02
 
-caratulado: GOURDET LYGENS CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: FENISE FELE CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
