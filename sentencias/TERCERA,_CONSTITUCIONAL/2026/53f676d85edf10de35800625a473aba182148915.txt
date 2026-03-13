@@ -4,11 +4,11 @@ case_id: 53f676d85edf10de35800625a473aba182148915
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049191
 
-rol: 6747-2026
+rol: 1591-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: FERNÁNDEZ RIVEROS RENÉ EDUARDO/ SUPERINTENDENCIA DE SEGURIDAD SOCIAL
+caratulado: DEVIA HERNANDEZ / SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 

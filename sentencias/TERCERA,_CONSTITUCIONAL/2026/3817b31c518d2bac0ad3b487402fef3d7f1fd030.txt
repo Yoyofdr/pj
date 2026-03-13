@@ -4,11 +4,11 @@ case_id: 3817b31c518d2bac0ad3b487402fef3d7f1fd030
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049241
 
-rol: 1591-2026
+rol: 3752-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: DEVIA HERNANDEZ / SERVICIO NACIONAL DE MIGRACIONES
+caratulado: GALLEGOS CARO ALICIA LORENA / SUSESO-COMPIN
 
 sala: TERCERA, CONSTITUCIONAL
 
