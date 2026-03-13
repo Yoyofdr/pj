@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045055
 
 rol: 1512-2026
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-03-02
 
 caratulado: C/ MARIO CAICEDO OROZCO
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de nulidad
 
-recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: RECHAZA RECURSO DE NULIDAD (M)
 

@@ -4,19 +4,19 @@ case_id: ec7395e14816550c4f37aa4357c85991b2143f1b
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045815
 
-rol: 42909-2025
+rol: 8265-2026
 
 fecha_sentencia: 2026-02-27
 
-caratulado: VÁSQUEZ ROBLERO RICHARD/SUPERINTENDENCIA DE SEGURIDAD SOCIAL
+caratulado: ORGANIZACIÓN GREMIAL GOLETA ANCUD/MUNICIPALIDAD DE ANCUD
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Potestad sancionadora
+materias: ▪ Amparo Económico
 
-recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+recurso: (PENAL) NULIDAD
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: APROBADA SENTENCIA CONSULTADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
