@@ -6,15 +6,15 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041932
 
 rol: 57999-2025
 
-fecha_sentencia: 2026-02-25
+fecha_sentencia: 2026-02-26
 
 caratulado: MORALES/DIRECCIÓN NACIONAL GENDARMERÍA DE CHILE
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: (CIVIL) RECLAMO NACIONALIDAD
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) RECLAMO NACIONALIDAD
 
 resultado_recurso: REVOCADA SENTENCIA APELADA
 

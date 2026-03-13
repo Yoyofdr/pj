@@ -14,7 +14,7 @@ sala: PRIMERA, CIVIL
 
 materias: ▪ Admisibilidad del recurso de casación en el fondo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) RECLAMO NACIONALIDAD
 
 resultado_recurso: INADMISIBLE CASACIÓN DE FONDO
 

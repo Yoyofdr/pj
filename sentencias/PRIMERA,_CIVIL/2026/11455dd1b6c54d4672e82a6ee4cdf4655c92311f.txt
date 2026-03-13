@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8043230
 
 rol: 5278-2026
 
-fecha_sentencia: 2026-02-25
+fecha_sentencia: 2026-02-26
 
 caratulado: AGRICOLA E INMOBILIARIA ARELLANO SPA/BANCO DE CHILE
 
@@ -14,7 +14,7 @@ sala: PRIMERA, CIVIL
 
 materias: ▪ Admisibilidad del recurso de casación en el fondo
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) RECLAMO NACIONALIDAD
 
 resultado_recurso: RECHAZA CASACION EN EL FONDO
 
@@ -29,9 +29,6 @@ Rol N° 4.900-2026.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
-Corte Suprema
-Corte Apelaciones
-Tribunales
 C.A. de Chillán
 ACP/
 Chillán, treinta de enero de dos mil veintiséis.
