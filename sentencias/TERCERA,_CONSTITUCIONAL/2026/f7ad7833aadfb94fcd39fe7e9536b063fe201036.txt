@@ -4,17 +4,17 @@ case_id: f7ad7833aadfb94fcd39fe7e9536b063fe201036
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049076
 
-rol: 3378-2026
+rol: 4597-2026
 
-fecha_sentencia: 2026-03-03
+fecha_sentencia: 2026-03-04
 
-caratulado: ARROYAVE/SUBSECRETARÍA DEL INTERIOR MINISTERIO DEL INTERIOR
+caratulado: ORTIZ/SUPERINTENDENCIA DE SEGURIDAD SOCIAL
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
