@@ -4,11 +4,11 @@ case_id: 12b31abe2457819e601d5efdb71770584fff4209
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8039094
 
-rol: 7549-2026
+rol: 53851-2025
 
 fecha_sentencia: 2026-02-24
 
-caratulado: TERAN MONTOYA DELIA /ADMINISTRADORA DE FONDOS DE PENSIONES CUPRUM S.A.
+caratulado: NAVARRETE/SUPERINTENDENCIA DE PENSIONES/AFP HABITAT S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
