@@ -1,8 +1,8 @@
 METADATA
 
-case_id: ad4f1f706ba82afe78239ffe8c5422e83cad0b42
+case_id: d5d80c8bca1894c194c42aad32e2c99025e81415
 
-url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8043934
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044709
 
 rol: 57436-2025
 
