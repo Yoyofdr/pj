@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040525
 
 rol: 4253-2026
 
-fecha_sentencia: 2026-02-24
+fecha_sentencia: 2026-02-25
 
 caratulado: LITVAK/ ISAPRE CRUZ BLANCA S.A
 

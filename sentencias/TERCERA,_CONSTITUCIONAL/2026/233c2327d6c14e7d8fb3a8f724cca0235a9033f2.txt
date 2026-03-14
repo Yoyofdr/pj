@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041019
 
 rol: 58475-2025
 
-fecha_sentencia: 2026-02-24
+fecha_sentencia: 2026-02-25
 
 caratulado: PALOMO/SERVICIO NACIONAL DE MIGRACIONES DE SANTIAGO
 
