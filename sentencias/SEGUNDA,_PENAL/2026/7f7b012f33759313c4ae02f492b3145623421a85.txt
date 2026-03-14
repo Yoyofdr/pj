@@ -20,48 +20,19 @@ resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
+Corte Apelaciones ▼
 Santiago, tres de marzo de dos mil veintiséis.
-Vistos:
-Se confirma la sentencia apelada de trece de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Arica, en el Ingreso Corte N°Amparo-65-2026.
+
+Vistos y teniendo únicamente presente:
+Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de dieciocho de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N° 723 - 2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.
+
 Regístrese y devuélvase.
-Rol N°9100-2026.
+
+Rol N° 9124 - 2026
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
-Arica, trece de febrero de dos mil veintiséis.
-VISTO:
-
-Se dedujo recurso de amparo en favor de DINATOR ALFREDO PIZARRO TAVALI, en contra de la Comisión de Libertad Condicional a efectos de obtener su libertad condicional, en virtud del Decreto Ley N° 321 de 1925.
-
-Señala que el amparado se encuentra cumpliendo una condena de 15 años y 1 día por el delito de violación reiterada, 10 años y 1 día por el delito de robo con intimidación y una condena de 541 días por el delito de tráfico ilícito de drogas en pequeñas cantidades.
-
-Indica que la Comisión de Libertad Condicional rechazó la petición de su representado por estimar que no cumplía con todos los requisitos necesarios para un cumplimiento en libertad.
-
-Afirma que el amparado cumple a cabalidad todos y cada uno de los requisitos exigidos por el Decreto Ley N° 321 sobre Libertad Condicional y su reglamento para optar a la libertad condicional y cuenta con avances comprobables dentro su Proceso de Reinserción Social.
-Pide que se acoja el recurso otorgando al amparado el beneficio de cumplir bajo el régimen de libertad condicional el saldo de la pena.
-Informó el Juez Gabriel Ormeño Valdebenito miembro de la Comisión de Libertad Condicional quien señaló que la decisión de la Comisión se adoptó teniendo en cuenta el mérito del informe elaborado por Gendarmería de Chile en el cual se desprende, en síntesis, que el amparado no cumple con todos los requisitos necesarios para el cumplimiento de la pena en libertad, concluyendo que el amparado no podrá reinsertarse adecuadamente en la sociedad, compartiendo la sugerencia del informe psicosocial relativa a la continuación en el sistema cerrado.
-
-Se agregó además el informe de Gendarmería de Chile que da cuenta que el amparado inició el cumplimiento de condena el 28 de julio de 2010, su fecha de término es el 26 de septiembre de 2034 y cumplió el tiempo mínimo para optar al beneficio el 28 de noviembre de 2025.
-
-Se trajeron los autos en relación
-
-CONSIDERANDO Y TENIENDO PRESENTE:
-
-PRIMERO: Que, la acción de amparo, prevista en el artículo 21 de la Constitución Política de la República, tiene por objeto proteger a las personas que ilegal o arbitrariamente sufren cualquier privación, perturbación o amenaza en su derecho a la libertad personal y/o a la seguridad individual, motivo por el cual y considerando que en definitiva el acto denunciado concierne a aquel en virtud del cual se negó al amparado el beneficio de libertad condicional, corresponderá entonces determinar si, en la especie, la Comisión de Libertad Condicional, al decidir como lo hizo, incurrió efectivamente de modo ilegítimo en alguna vulneración a los derechos fundamentales precedentemente citados.
-
-SEGUNDO: Que, examinados los antecedentes que obran en el proceso, fundamentalmente el Informe de Postulación Psicosocial del amparado, elemento calificado en análisis, conforme a lo dispuesto en el artículo 2° numeral 3) del Decreto Ley 321, se advierte que el amparado presenta un riesgo alto de reincidencia, observando que su rechazo a cometer nuevamente delitos aparece como instrumental respecto del desistimiento de su conducta, resultando relevante en cuanto al delito sexual cometido, las distorsiones cognitivas que evidencian una falta de coherencia entre su discurso y las conductas, por lo que se comparte la decisión de la Comisión Libertad Condicional.
-
-TERCERO: Que, de lo expuesto en el motivo precedente se concluye que la actuación de la recurrida no resulta ser ilegal, toda vez que actuó dentro de sus facultades legales y fundamentó la negativa al cumplimiento de la pena impuesta en la modalidad pretendida.
-
-Por estas consideraciones, lo preceptuado en el artículo 21 de la Constitución Política de la República, se resuelve:
-
-Que, SE RECHAZA el recurso de amparo interpuesto en favor de DINATOR ALFREDO PIZARRO TAVALI.
-
-Comuníquese al Jefe del Complejo Penitenciario de Acha y al Director Regional de Gendarmería de Chile.
-
-Regístrese, notifíquese y archívese en su oportunidad.
-
-Rol N° 65-2026 Amparo.
+Santiago, tres de marzo de dos mil veintiséis. Vistos:Se confirma la sentencia apelada de trece de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Arica, en el Ingreso Corte N°Amparo-65-2026.Regístrese y devuélvase.Rol N°9100-2026. Santiago, tres de marzo de dos mil veintiséis. Vistos:Se confirma la sentencia apelada de trece de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Arica, en el Ingreso Corte N°Amparo-65-2026.Regístrese y devuélvase.Rol N°9100-2026. Sentencia anonimizada
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------
