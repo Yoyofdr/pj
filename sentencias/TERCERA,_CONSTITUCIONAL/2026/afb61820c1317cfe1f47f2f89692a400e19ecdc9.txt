@@ -4,11 +4,11 @@ case_id: afb61820c1317cfe1f47f2f89692a400e19ecdc9
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049127
 
-rol: 49644-2025
+rol: 2208-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: ACOSTA/RAMOS
+caratulado: ROSALES/SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

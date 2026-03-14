@@ -4,11 +4,11 @@ case_id: dc58ff5ccef4ae4606f7d06e7c810fcab0e5aefa
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049151
 
-rol: 2208-2026
+rol: 2970-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: ROSALES/SERVICIO NACIONAL DE MIGRACIONES
+caratulado: FRANTZ JEAN-LOUIS/SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 

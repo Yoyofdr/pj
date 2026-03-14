@@ -4,17 +4,17 @@ case_id: bdca295d58cdb2fa69b58d867f8b413bb05fd2e3
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049271
 
-rol: 2210-2026
+rol: 3378-2026
 
-fecha_sentencia: 2026-03-03
+fecha_sentencia: 2026-03-04
 
-caratulado: ARIAS/SERVICIO NACIONAL DE MIGRACIONES
+caratulado: ARROYAVE/SUBSECRETARÍA DEL INTERIOR MINISTERIO DEL INTERIOR
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
