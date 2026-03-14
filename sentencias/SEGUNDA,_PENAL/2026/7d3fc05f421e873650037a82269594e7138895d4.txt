@@ -1,0 +1,95 @@
+METADATA
+
+case_id: 7d3fc05f421e873650037a82269594e7138895d4
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8037460
+
+rol: 7187-2026
+
+fecha_sentencia: 2026-02-24
+
+caratulado: SANTOS JUAN CARLOS CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+
+recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Corte Apelaciones ▼
+Santiago, veinticuatro de febrero de dos mil veintiséis.
+Visto y teniendo únicamente presente:
+Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de once de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N° 635-2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.
+
+Acordado con el voto en contra del Ministro Suplente Sr. Mera, quien estuvo por confirmar el fallo en alzada, teniendo presente únicamente que los antecedentes expuestos en el recurso no dan cuenta de hechos que, según el artículo 21 de la Constitución Política de la República, correspondan a aquellos susceptibles de la cautela requerida por esta vía, al no vulnerar o amenazar la libertad personal y la seguridad individual.
+
+Regístrese y devuélvase.
+
+Rol N° 7187-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Rodríguez Vidal, Miguel Ángel
+
+Gendarmería de Chile
+
+Recurso de Amparo
+
+Rol N°80-2026
+
+La Serena, once de febrero de dos mil veintiséis.
+
+VISTO Y CONSIDERANDO:
+
+PRIMERO: Que, comparece Constanza Barrueto Bravo, abogada, con domicilio en Américo Vespucio Norte N°22, oficina 1408, comuna de Las Condes, Región Metropolitana, interponiendo recurso de amparo en beneficio de MIGUEL ANGEL RODRIGUEZ VIDAL, actualmente privado de libertad en el Complejo Penitenciario La Serena, dirigido en contra de GENDARMERÍA DE CHILE, por haber calculado de manera errónea el tiempo para postular a beneficios intrapenitenciarios, sin ajustarse a la normativa vigente, afectando su derecho a la libertad personal garantizada en el artículo 19 N°7 de la Constitución Política de la República.
+De acuerdo a la información de Gendarmería, el amparado se encuentra cumpliendo las siguientes penas:
+
+· 41 días de prisión, por el delito de porte de aparatos de comunicación en recintos penales.
+· 301 días de presidio menor, por delito de robo en lugar no habitado.
+· 12 años de presidio mayor por delito de homicidio simple, más 08 años de presidio por un delito de homicidio frustrado.
+· 3 años y un día de presidio por un delito de receptación.
+· 61 días de presidio por un ilícito de portar elementos conocidamente destinados a cometer robo.
+El amparado inició el cumplimiento de las condenas el 22 de noviembre de 2016, proyectándose el término de aquellas para el 30 de diciembre de 2040. Asimismo, el tiempo mínimo para optar al beneficio de libertad condicional lo cumple el 16 de diciembre de 2032.
+
+Luego, señala al recurrente que la ley establecía al momento de la postulación del amparado lo siguiente: “Art.3: Los condenados a presidio perpetuo o más de veinte años, tendrán derecho a salir en libertad condicional una vez cumplidos diez años, y por este solo hecho su pena quedará fijada en veinte años” (sic). Afirma que lo anterior es bastante más favorable, ya que, a juicio de la defensa, al quedar la pena fijada en 20 años, provoca que el condenado pueda postular al beneficio en el proceso de noviembre del 2026.
+
+Señala que con la dictación de la Ley N°21.124 se modificó el Decreto Ley N°321, aumentando el tiempo mínimo para ciertos delitos. Sin embargo, alega que dicha modificación no puede operar en perjuicio del amparado, teniendo en cuanta el principio de irretroactividad de la ley penal. En tal orden de ideas, argumenta que la libertad condicional corresponde a una forma de cumplimiento alternativo de la condena, descartándose en consecuencia que se trata de normas procesales. Por lo mismo, afirma que las normas contenidas en la Ley N°21.124 son de derecho penal, por lo que a su respecto se aplica plenamente el principio de irretroactividad de la ley penal.
+
+No obstante, alega que Gendarmería de Chile ha actuado en forma ilegal, aplicando una ley posterior a la comisión de un ilícito de forma retroactiva, en perjuicio del condenado, y con ello excluyendo al amparado de las listas de internos que cumplen los requisitos para postular a beneficios intrapenitenciarios.
+
+Por el contrario, postula que la modificación al tiempo mínimo introducida el 18 de enero del 2019 por la Ley N°21.124 es aplicable para las personas que empezaron a ser juzgadas en esa época.
+
+Por dichos fundamentos, solicita que se acoja el recurso de amparo y se ordene a la recurrida la modificación de los tiempos de postulación del amparado.
+
+SEGUNDO: Que, a folio 6 de la carpeta digital, atendido el tiempo transcurrido sin que la recurrida evacuara el informe requerido, se dispuso prescindir del mismo y traer los autos en relación.
+
+TERCERO: Que de conformidad con lo dispuesto en el inciso primero del artículo 21 de la Constitución Política, todo individuo que se hallare arrestado, detenido o preso con infracción de lo dispuesto en la Constitución o en las leyes, podrá ocurrir por sí, o por cualquiera a su nombre, a la magistratura que señale la ley, a fin de que ésta ordene se guarden las formalidades legales y adopte de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado.
+Agrega el inciso segundo que esa magistratura podrá ordenar que el individuo sea traído a su presencia y su decreto será precisamente obedecido por todos los encargados de las cárceles o lugares de detención y que instruida de los antecedentes, decretará su libertad inmediata o hará que se reparen los defectos legales o pondrá al individuo a disposición del juez competente, procediendo en todo breve y sumariamente, y corrigiendo por sí esos defectos o dando cuenta a quien corresponda para que los corrija.
+Finalmente, el inciso tercero señala que el mismo recurso, y en igual forma, podrá ser deducido en favor de toda persona que ilegalmente sufra cualquiera otra privación, perturbación o amenaza en su derecho a la libertad personal y seguridad individual. La respectiva magistratura dictará en tal caso las medidas indicadas en los incisos anteriores que estime conducentes para restablecer el imperio del derecho y asegurar la debida protección del afectado.
+
+CUARTO: Que, la controversia planteada dice relación con la diferencia de cómputos en el tiempo para postular al beneficio de libertad condicional y demás beneficios intrapenitenciarios, en atención a que la recurrida considera un tiempo de 2/3 de la condena, respecto a los delitos de homicidio simple y homicidio frustrado, a que se encuentra condenado el amparado, en virtud de la modificación introducida al Decreto Ley N°321 por la Ley N°21.483.
+
+No obstante que la recurrente, en su recurso, alude erróneamente a la modificación introducida por la Ley N°21.124; en definitiva, lo que alega dice relación con que la modificación de los tiempos mínimos no corresponde aplicarla al amparado, en atención a que comenzó el cumplimiento de las condenas en forma previa a la publicación de la mentada Ley, solicitando en definitiva que se ordene a la recurrida la modificación de los tiempos de postulación del amparado.
+QUINTO: Que, para la acertada resolución del asunto, es oportuno tener presente lo dispuesto en el artículo 9 del Decreto Ley N°321, disposición que previene lo siguiente: “Para los efectos del presente decreto ley, se entenderá que los requisitos para la obtención del beneficio de la libertad condicional son aquellos que se exigen al momento de la postulación”.
+
+Por otra parte, conviene recordar que la Ley N°21.483, publicada el 22 de agosto de 2022, modificó el Decreto Ley N°321, aumentando el tiempo mínimo de cumplimiento condena para el caso del delito de homicidio simple, elevándolo a los dos tercios de la pena respectiva, los que a la fecha no han sido cumplidos por el amparado.
+
+Que, conforme a las disposiciones legales previamente citadas, no resulta posible estimar como ilegal o arbitrario el actuar de la recurrida, por cuanto Gendarmería de Chile se ha limitado a dar aplicación a la normativa que regula actualmente la materia.
+
+SEXTO: Que, asimismo, se debe tener presente que la posibilidad de acceder a los beneficios que reclama el actor, corresponde tan solo a una mera expectativa, en la medida que se verifiquen la totalidad de los requisitos establecidos en la normativa legal, por lo que tampoco se verifica alguna vulneración a su derecho a la libertad personal o seguridad individual, motivo suficiente para rechazar la presente acción.
+
+Por estas consideraciones y conforme con lo dispuesto en el artículo 21 de la Constitución Política de la República, SE RECHAZA, sin costas, el recurso de amparo interpuesto en favor de Miguel Ángel Rodríguez Vidal en contra de Gendarmería de Chile.
+
+Se previene que la abogada integrante señora Bustos concurre a la decisión de rechazo, pero sin compartir el fundamento expuesto en el considerando SEXTO del fallo.
+
+Regístrese, comuníquese y archívese, en su oportunidad.
+
+Rol N°80-2026 Amparo.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Rodríguez Vidal, Miguel ÁngelGendarmería de ChileRecurso de AmparoRol N°80-2026La Serena, once de febrero de dos mil veintiséis.VISTO Y CONSIDERANDO:PRIMERO: Que, comparece Constanza Barrueto Bravo, abogada, con domicilio en Américo Vespucio Norte N°22, oficina 1408, comuna de Las Condes, Región Metropolitana, interponiendo recurso de amparo en beneficio de MIGUEL ANGEL RODRIGUEZ VIDAL, actualmente privado de libertad en el Complejo Penitenciario La Serena, dirigido en contra de GENDARMERÍA DE CHILE, por haber calculado de manera errónea el tiempo para postular a beneficios intrapenitenciarios, sin ajustarse a la normativa vigente, afectando su derecho a la libertad personal garantizada en el artículo 19 N°7 de la Constitución Política de la República.De acuerdo a la información de Gendarmería, el amparado se encuentra cumpliendo las siguientes penas:· 41 días de prisión, por el delito de porte de aparatos de comunicación en recintos penales.· 301 días de presidio menor, por delito de robo en lugar no habitado.· 12 años de presidio mayor por delito de homicidio simple, más 08 años de presidio por un delito de homicidio frustrado.· 3 años y un día de presidio por un delito de receptación.· 61 días de presidio por un ilícito de portar elementos conocidamente destinados a cometer robo.El amparado inició el cumplimiento de las condenas el 22 de noviembre de 2016, proyectándose el término de aquellas para el 30 de diciembre de 2040. Asimismo, el tiempo mínimo para optar al beneficio de libertad condicional lo cumple el 16 de diciembre de 2032.Luego, señala al recurrente que la ley establecía al momento de la postulación del amparado lo siguiente: “Art.3: Los condenados a presidio perpetuo o más de veinte años, tendrán derecho a salir en libertad condicional una vez cumplidos diez años, y por este solo hecho su pena quedará fijada en veinte años” (sic). Afirma que lo anterior es bastante más favorable, ya que, a juicio de la defensa, al quedar la pena fijada en 20 años, provoca que el condenado pueda postular al beneficio en el proceso de noviembre del 2026.Señala que con la dictación de la Ley N°21.124 se modificó el Decreto Ley N°321, aumentando el tiempo mínimo para ciertos delitos. Sin embargo, alega que dicha modificación no puede operar en perjuicio del amparado, teniendo en cuanta el principio de irretroactividad de la ley penal. En tal orden de ideas, argumenta que la libertad condicional corresponde a una forma de cumplimiento alternativo de la condena, descartándose en consecuencia que se trata de normas procesales. Por lo mismo, afirma que las normas contenidas en la Ley N°21.124 son de derecho penal, por lo que a su respecto se aplica plenamente el principio de irretroactividad de la ley penal.No obstante, alega que Gendarmería de Chile ha actuado en forma ilegal, aplicando una ley posterior a la comisión de un ilícito de forma retroactiva, en perjuicio del condenado, y con ello excluyendo al amparado de las listas de internos que cumplen los requisitos para postular a beneficios intrapenitenciarios.Por el contrario, postula que la modificación al tiempo mínimo introducida el 18 de enero del 2019 por la Ley N°21.124 es aplicable para las personas que empezaron a ser juzgadas en esa época.Por dichos fundamentos, solicita que se acoja el recurso de amparo y se ordene a la recurrida la modificación de los tiempos de postulación del amparado.SEGUNDO: Que, a folio 6 de la carpeta digital, atendido el tiempo transcurrido sin que la recurrida evacuara el informe requerido, se dispuso prescindir del mismo y traer los autos en relación.TERCERO: Que de conformidad con lo dispuesto en el inciso primero del artículo 21 de la Constitución Política, todo individuo que se hallare arrestado, detenido o preso con infracción de lo dispuesto en la Constitución o en las leyes, podrá ocurrir por sí, o por cualquiera a su nombre, a la magistratura que señale la ley, a fin de que ésta ordene se guarden las formalidades legales y adopte de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado.Agrega el inciso segundo que esa magistratura podrá ordenar que el individuo sea traído a su presencia y su decreto será precisamente obedecido por todos los encargados de las cárceles o lugares de detención y que instruida de los antecedentes, decretará su libertad inmediata o hará que se reparen los defectos legales o pondrá al individuo a disposición del juez competente, procediendo en todo breve y sumariamente, y corrigiendo por sí esos defectos o dando cuenta a quien corresponda para que los corrija.Finalmente, el inciso tercero señala que el mismo recurso, y en igual forma, podrá ser deducido en favor de toda persona que ilegalmente sufra cualquiera otra privación, perturbación o amenaza en su derecho a la libertad personal y seguridad individual. La respectiva magistratura dictará en tal caso las medidas indicadas en los incisos anteriores que estime conducentes para restablecer el imperio del derecho y asegurar la debida protección del afectado.CUARTO: Que, la controversia planteada dice relación con la diferencia de cómputos en el tiempo para postular al beneficio de libertad condicional y demás beneficios intrapenitenciarios, en atención a que la recurrida considera un tiempo de 2/3 de la condena, respecto a los delitos de homicidio simple y homicidio frustrado, a que se encuentra condenado el amparado, en virtud de la modificación introducida al Decreto Ley N°321 por la Ley N°21.483.No obstante que la recurrente, en su recurso, alude erróneamente a la modificación introducida por la Ley N°21.124; en definitiva, lo que alega dice relación con que la modificación de los tiempos mínimos no corresponde aplicarla al amparado, en atención a que comenzó el cumplimiento de las condenas en forma previa a la publicación de la mentada Ley, solicitando en definitiva que se ordene a la recurrida la modificación de los tiempos de postulación del amparado.QUINTO: Que, para la acertada resolución del asunto, es oportuno tener presente lo dispuesto en el artículo 9 del Decreto Ley N°321, disposición que previene lo siguiente: “Para los efectos del presente decreto ley, se entenderá que los requisitos para la obtención del beneficio de la libertad condicional son aquellos que se exigen al momento de la postulación”.Por otra parte, conviene recordar que la Ley N°21.483, publicada el 22 de agosto de 2022, modificó el Decreto Ley N°321, aumentando el tiempo mínimo de cumplimiento condena para el caso del delito de homicidio simple, elevándolo a los dos tercios de la pena respectiva, los que a la fecha no han sido cumplidos por el amparado.Que, conforme a las disposiciones legales previamente citadas, no resulta posible estimar como ilegal o arbitrario el actuar de la recurrida, por cuanto Gendarmería de Chile se ha limitado a dar aplicación a la normativa que regula actualmente la materia.SEXTO: Que, asimismo, se debe tener presente que la posibilidad de acceder a los beneficios que reclama el actor, corresponde tan solo a una mera expectativa, en la medida que se verifiquen la totalidad de los requisitos establecidos en la normativa legal, por lo que tampoco se verifica alguna vulneración a su derecho a la libertad personal o seguridad individual, motivo suficiente para rechazar la presente acción.Por estas consideraciones y conforme con lo dispuesto en el artículo 21 de la Constitución Política de la República, SE RECHAZA, sin costas, el recurso de amparo interpuesto en favor de Miguel Ángel Rodríguez Vidal en contra de Gendarmería de Chile.Se previene que la abogada integrante señora Bustos concurre a la decisión de rechazo, pero sin compartir el fundamento expuesto en el considerando SEXTO del fallo.Regístrese, comuníquese y archívese, en su oportunidad.Rol N°80-2026 Amparo.                        ⚠                      Sin documento en esta instancia - pdf
