@@ -4,11 +4,11 @@ case_id: c07c7820ef2d903d25e05652924c055bfad4a3fb
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040621
 
-rol: 46361-2025
+rol: 4709-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: ROJAS VALDIVIEZO ANGEL JESUS / MINISTERIO DEL INTERIOR Y OTROS
+caratulado: GIACOMÁN/BANMÉDICA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,26 +16,19 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
-1
+Corte Apelaciones ▼
+PAGE
+2
 Santiago, veinticinco de febrero de dos mil veintiséis.
 Vistos:
-Se confirma la sentencia apelada.
-Acordada, con el voto en contra del Ministro Sr. Ruz, quien, con un mejor estudio de los antecedentes, es del parecer de revocar la sentencia en alzada y rechazar la acción deducida, teniendo presente que:
-1. No existe indicio alguno de que la recurrente haya sido discriminada o su petición haya dejado de resolverse por el mero capricho, abuso o desviación de poder de la recurrida.
-
-Atendido lo anterior, tampoco parece que el tiempo de tramitación de la solicitud del recurrente pueda considerarse una infracción a la garantía del plazo razonable del artículo 8.1 de la Convención Americana sobre Derechos Humanos.
-
-2. Que, por otra parte, la presente acción constitucional no tiene por objeto acelerar, corregir o sustituir procedimientos administrativos en curso, de los que no se ha derivado ningún pronunciamiento o acto terminal que pueda calificarse de ilegal o arbitrario, por más que la recurrente esté disconforme con el modo en que se tramita.
-
-3. Que, en consecuencia, aun en el evento que se estimase la tardanza en resolver la solicitud del recurrente una omisión pudiese estimarse infundada o arbitraria, con ello no se configuran todos los requisitos para conceder la protección requerida, desde que es un hecho no discutido en esta causa que mientras dure la tramitación de su solicitud, la recurrente se encuentra en situación migratoria regular, por lo que no se constata una eventual privación, perturbación o amenaza a alguno de los derechos constitucionales que ampara la acción constitucional del artículo 20 de la Carta Magna, recurrible por esta vía.
-
+Se confirma la sentencia apelada en estos autos.
 Regístrese y devuélvase.
 
-Rol N° 46.361-2025.
+Rol N° 4.285-2026.
 Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sr. Omar Astudillo C., Sr. Gonzalo Ruz L., la ministra suplente Sra. Eliana Quezada M. y las Abogadas Integrantes Sra. Fabiola Esther Lathrop Gómez y Sra. Andrea Paola Ruiz Rosas. Santiago, 25 de febrero de 2026.
 Autoriza el Ministro de Fe de la Excma. Corte Suprema.
 
@@ -43,33 +36,23 @@ En Santiago, a veinticinco de febrero de dos mil veintiséis, notifiqué en Secr
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
-C.A. de Valparaíso
-Valparaíso, dos de octubre de dos mil veinticinco.
-Vistos:
+Corte Apelaciones ▼
+C.A. de Santiago
+ccr
+Santiago, quince de mayo de dos mil veinticinco.
 
-Que a folio 1 se deduce acción de Protección en favor de ANGEL JESÚS ROJAS VALDIVIEZO, en contra de la SUBSECRETARIA DEL INTERIOR, y del SERVICIO NACIONAL DE MIGRACIONES, por la omisión ilegal y arbitraria en el pronunciamiento sobre su solicitud de nacionalización.
-Pide, en definitiva, se ordene a los recurridos pronunciarse sobre la solicitud, adoptando las providencias que sean necesarias para restablecer el imperio del derecho, con costas.
+Visto y teniendo presente:
 
-Que, las recurridas evacúan sus informes y se traen los autos en relación.
-Con lo relacionado y considerando:
+1°) Que el recurso de protección tiene por objeto restablecer el imperio del derecho cuando éste ha sido quebrantado por actos u omisiones arbitrarias o ilegales que amenazan, perturban o privan del ejercicio legítimo de alguna de las garantías taxativamente numeradas en el artículo 20 de la Constitución Política de la República, dejando a salvo las demás acciones legales;
 
-Primero: Que, el asunto por el cual se solicita la adopción de medidas que restablezcan el imperio del derecho dice relación con la omisión arbitraria o ilegal por parte de la recurrida, en el pronunciamiento de la solicitud de nacionalización presentada por el recurrente.
+2°) Que, en la presentación efectuada en estos autos, no se han mencionado hechos que puedan constituir una vulneración a las garantías constitucionales indicadas en el artículo 20 de la Constitución Política de la República, teniendo especialmente presente que la solicitud que se realiza abarca aspectos que demuestran que lo pretendido es una declaración de mera certeza, toda vez que no se aportaron antecedentes suficientes que hayan dado cuenta del uso de las prestaciones médicas de carácter mental alegadas, razón por la cual tiene aplicación la norma de inadmisibilidad prevista en el inciso segundo del numeral 2° del Auto Acordado de la Excma. Corte Suprema sobre Tramitación del Recurso del Protección de Garantías Constitucionales.
 
-Segundo: Que, de los antecedentes acompañados y de lo informado por el Servicio Nacional de Migraciones se advierte que la solicitud se encuentra en tramitación ante dicha autoridad desde el 29 de marzo de 2023, actualmente en etapa de análisis.
+Y de conformidad, además, con lo dispuesto en el Auto Acordado de la Excma. Corte Suprema sobre tramitación y fallo del recurso de protección, se declara inadmisible el recurso de protección interpuesto al folio 1.
 
-Tercero: Que, de lo expuesto en el considerando anterior se concluye que actualmente la solicitud se encuentra en tramitación ante el Servicio Nacional de Migraciones, sin que los recurridos Ministerio del Interior y Subsecretaría del interior hayan tomado conocimiento de los antecedentes e iniciado la tramitación de los mismos, razón por la que se desestima el presente arbitrio respecto de aquel.
+Archívese.
 
-Cuarto: Que, del mérito de los antecedentes, se advierte que ante el requerimiento tendiente a la obtención de la nacionalización, la recurrente ha sufrido una dilación excesiva en su tramitación ante el Servicio Nacional de Migraciones, lo cual permite concluir que la autoridad administrativa ha infringido ilegal y arbitrariamente, los principios de celeridad y conclusivo establecidos en los artículos 7° y 27 de la Ley N°19.880 y, como consecuencia de aquello, lo dispuesto en la garantía constitucional del artículo 19 N°2 de la Constitución Política de la República, al realizarse por un órgano de la Administración del Estado, una discriminación arbitraria e ilegal en la tramitación de la solicitud de nacionalización, en relación con el trato dispensado a otros interesados que en igual situación han podido tramitar sus solicitudes y obtener una decisión terminal, motivo por el cual se acogerá el presente arbitrio, cómo se dirá en lo resolutivo.
-Por estas consideraciones y lo establecido en los artículos 19 y 20 de la Constitución Política de la República y Auto Acordado de la Excma. Corte Suprema sobre Tramitación y Fallo del Recurso de Protección, se declara:
-
-I.- Que, se rechaza, sin costas, el recurso de protección deducido a favor de ANGEL JESÚS ROJAS VALDIVIEZO, en contra de la Subsecretaría del Interior.
-II.- Que se acoge, sin costas, el recurso de protección deducido a favor de ANGEL JESÚS ROJAS VALDIVIEZO, y en contra del Servicio Nacional de Migraciones, sólo en cuanto el Servicio, en lo que a su competencia se refiere y dentro del plazo de sesenta días, deberá concluir la tramitación la solicitud de nacionalización presentada por la recurrente y remitir los antecedentes al Señor Subsecretario del Interior, para su conocimiento.
-
-Regístrese, notifíquese, certifíquese una vez ejecutoriada, y en su oportunidad archívese.
-N°Protección-4837-2025.
-
-En Valparaíso, dos de octubre de dos mil veinticinco, se notificó por el estado diario la resolución que antecede.
+N°Protección-6761-2025.(vdcd)
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------
-C.A. de ValparaísoValparaíso, dos de octubre de dos mil veinticinco.Vistos:Que a folio 1 se deduce acción de Protección en favor de ANGEL JESÚS ROJAS VALDIVIEZO, en contra de la SUBSECRETARIA DEL INTERIOR, y del SERVICIO NACIONAL DE MIGRACIONES, por la omisión ilegal y arbitraria en el pronunciamiento sobre su solicitud de nacionalización. Pide, en definitiva, se ordene a los recurridos pronunciarse sobre la solicitud, adoptando las providencias que sean necesarias para restablecer el imperio del derecho, con costas.Que, las recurridas evacúan sus informes y se traen los autos en relación.Con lo relacionado y considerando:Primero: Que, el asunto por el cual se solicita la adopción de medidas que restablezcan el imperio del derecho dice relación con la omisión arbitraria o ilegal por parte de la recurrida, en el pronunciamiento de la solicitud de nacionalización presentada por el recurrente.Segundo: Que, de los antecedentes acompañados y de lo informado por el Servicio Nacional de Migraciones se advierte que la solicitud se encuentra en tramitación ante dicha autoridad desde el 29 de marzo de 2023, actualmente en etapa de análisis. Tercero: Que, de lo expuesto en el considerando anterior se concluye que actualmente la solicitud se encuentra en tramitación ante el Servicio Nacional de Migraciones, sin que los recurridos Ministerio del Interior y Subsecretaría del interior hayan tomado conocimiento de los antecedentes e iniciado la tramitación de los mismos, razón por la que se desestima el presente arbitrio respecto de aquel.Cuarto: Que, del mérito de los antecedentes, se advierte que ante el requerimiento tendiente a la obtención de la nacionalización, la recurrente ha sufrido una dilación excesiva en su tramitación ante el Servicio Nacional de Migraciones, lo cual permite concluir que la autoridad administrativa ha infringido ilegal y arbitrariamente, los principios de celeridad y conclusivo establecidos en los artículos 7° y 27 de la Ley N°19.880 y, como consecuencia de aquello, lo dispuesto en la garantía constitucional del artículo 19 N°2 de la Constitución Política de la República, al realizarse por un órgano de la Administración del Estado, una discriminación arbitraria e ilegal en la tramitación de la solicitud de nacionalización, en relación con el trato dispensado a otros interesados que en igual situación han podido tramitar sus solicitudes y obtener una decisión terminal, motivo por el cual se acogerá el presente arbitrio, cómo se dirá en lo resolutivo.Por estas consideraciones y lo establecido en los artículos 19 y 20 de la Constitución Política de la República y Auto Acordado de la Excma. Corte Suprema sobre Tramitación y Fallo del Recurso de Protección, se declara:I.- Que, se rechaza, sin costas, el recurso de protección deducido a favor de ANGEL JESÚS ROJAS VALDIVIEZO, en contra de la Subsecretaría del Interior.II.- Que se acoge, sin costas, el recurso de protección deducido a favor de ANGEL JESÚS ROJAS VALDIVIEZO, y en contra del Servicio Nacional de Migraciones, sólo en cuanto el Servicio, en lo que a su competencia se refiere y dentro del plazo de sesenta días, deberá concluir la tramitación la solicitud de nacionalización presentada por la recurrente y remitir los antecedentes al Señor Subsecretario del Interior, para su conocimiento.Regístrese, notifíquese, certifíquese una vez ejecutoriada, y en su oportunidad archívese.N°Protección-4837-2025.En Valparaíso, dos de octubre de dos mil veinticinco, se notificó por el estado diario la resolución que antecede.                        ⚠                      Sin documento en esta instancia - pdf
+PAGE2Santiago, veinticinco de febrero de dos mil veintiséis.Vistos:Se confirma la sentencia apelada en estos autos.Regístrese y devuélvase.Rol N° 4.285-2026.Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sr. Omar Astudillo C., Sr. Gonzalo Ruz L., la ministra suplente Sra. Eliana Quezada M. y las Abogadas Integrantes Sra. Fabiola Esther Lathrop Gómez y Sra. Andrea Paola Ruiz Rosas. Santiago, 25 de febrero de 2026.Autoriza el Ministro de Fe de la Excma. Corte Suprema.En Santiago, a veinticinco de febrero de dos mil veintiséis, notifiqué en Secretaría por el Estado Diario la resolución precedente. PAGE2Santiago, veinticinco de febrero de dos mil veintiséis.Vistos:Se confirma la sentencia apelada en estos autos.Regístrese y devuélvase.Rol N° 4.285-2026.Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sr. Omar Astudillo C., Sr. Gonzalo Ruz L., la ministra suplente Sra. Eliana Quezada M. y las Abogadas Integrantes Sra. Fabiola Esther Lathrop Gómez y Sra. Andrea Paola Ruiz Rosas. Santiago, 25 de febrero de 2026.Autoriza el Ministro de Fe de la Excma. Corte Suprema.En Santiago, a veinticinco de febrero de dos mil veintiséis, notifiqué en Secretaría por el Estado Diario la resolución precedente. Sentencia anonimizada
