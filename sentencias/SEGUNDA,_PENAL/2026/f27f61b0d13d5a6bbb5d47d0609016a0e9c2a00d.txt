@@ -4,15 +4,15 @@ case_id: f27f61b0d13d5a6bbb5d47d0609016a0e9c2a00d
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047207
 
-rol: 9307-2026
+rol: 9233-2026
 
 fecha_sentencia: 2026-03-02
 
-caratulado: AGUIRRE RAMÍREZ CRISTIAN PABLO CONTRA GENDARMERIA DE CHILE, C.P. LA SERENA
+caratulado: ARANDA JAQUE DIEGO EDSON CONTRA COMISIÓN DE REDUCCIÓN DE CONDENA
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
