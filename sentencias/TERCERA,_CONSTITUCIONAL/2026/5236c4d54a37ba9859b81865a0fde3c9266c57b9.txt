@@ -4,19 +4,19 @@ case_id: 5236c4d54a37ba9859b81865a0fde3c9266c57b9
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041904
 
-rol: 7234-2026
+rol: 58091-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: RODRIGUEZ/SERVICIO NACIONAL DE MIGRACIONES DE CHILE
+caratulado: ARCE/SERVICIO NACIONAL DE PROTECCION ESPECIALIZADA A LA NIÑEZ Y ADOLESCENCIA
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Reclamo de expulsión de extranjeros
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: CONFIRMA RESOLUCIÓN APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
