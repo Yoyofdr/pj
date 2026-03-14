@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040457
 
 rol: 4255-2026
 
-fecha_sentencia: 2026-02-24
+fecha_sentencia: 2026-02-25
 
 caratulado: VILLASECA/CRUZ BLANCA S.A.
 
