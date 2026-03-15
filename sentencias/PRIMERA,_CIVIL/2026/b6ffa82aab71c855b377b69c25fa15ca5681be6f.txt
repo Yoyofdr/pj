@@ -12,7 +12,7 @@ caratulado: BANCO DEL ESTADO DE CHILE CON PALMA
 
 sala: PRIMERA, CIVIL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Abandono del procedimiento
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
