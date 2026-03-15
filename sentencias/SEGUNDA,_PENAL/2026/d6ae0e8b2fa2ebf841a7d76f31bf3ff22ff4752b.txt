@@ -4,15 +4,15 @@ case_id: d6ae0e8b2fa2ebf841a7d76f31bf3ff22ff4752b
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8037819
 
-rol: 5244-2026
+rol: 4942-2026
 
 fecha_sentencia: 2026-02-24
 
-caratulado: OTALVARO ORDOÑEZ STEPHANY CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: ROCHA DANIELA DEL SOCORRO CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
 
 recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
 
