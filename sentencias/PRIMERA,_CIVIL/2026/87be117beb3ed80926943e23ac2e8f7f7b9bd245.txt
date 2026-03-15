@@ -1,0 +1,137 @@
+METADATA
+
+case_id: 87be117beb3ed80926943e23ac2e8f7f7b9bd245
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8035868
+
+rol: 4804-2026
+
+fecha_sentencia: 2026-02-20
+
+caratulado: ELGUETA/GALLEGOS
+
+sala: PRIMERA, CIVIL
+
+materias: ▪ Admisibilidad del recurso de casación en el fondo
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: INADMISIBLE CASACIÓN DE FONDO
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+PAGE
+2
+Santiago, veinte de febrero de dos mil veintiséis.
+
+A los escritos folios N° 28, 29, 30 y 32: A todo, téngase presente.
+Al escrito folio N° 33: A sus antecedentes.
+Vistos:
+Previa eliminación del considerando tercero y teniendo presente las reclamaciones de ilegalidad presentadas por las empresas Telefónica Chile S.A., Telefónica Móviles Chile S.A., Empresa Nacional de Telecomunicaciones S.A, y Entel PCS Telecomunicaciones S.A. en los autos seguidos ante esta Corte Suprema Rol N° 39.119-2024 y Rol N° 51.522-2024, que contienen peticiones semejantes al reclamo de ilegalidad que se revisa, se confirma la sentencia apelada de fecha once de noviembre del año dos mil veinticinco, dictada por la Corte de Apelaciones de Santiago.
+
+Regístrese y devuélvase.
+
+Rol Nº 53.397-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Santiago.
+
+Santiago, once de noviembre de dos mil veinticinco.
+
+VISTO Y TENIENDO PRESENTE:
+
+PRIMERO: Que comparece WOM S.A., representada por la abogada doña Florencia Arancibia Irañeta, interponiendo reclamo de ilegalidad en contra de la Superintendencia de Electricidad y Combustibles, en virtud de lo dispuesto en el artículo 19 de la Ley N° 18.410, en relación con los artículos 147 letra d) y 225 letra l) de la Ley General de Servicios Eléctricos, por haber dictado la Resolución Exenta Electrónica N° 32.120, de 9 de mayo de 2025, mediante la cual la recurrida rechazó el recurso de reposición interpuesto por la reclamante en contra del Oficio Ordinario Electrónico N° 276.155, de 26 de marzo de 2025, por el que se desestimó la solicitud de migración al régimen de precio libre o cliente libre.
+
+Expone que, en su calidad de empresa concesionaria de telecomunicaciones, con fecha 11 de diciembre de 2024, compareció ante la Superintendencia de Electricidad y Combustibles solicitando acogerse al régimen de cliente libre, por cumplir los requisitos exigidos por la Ley General de Servicios Eléctricos para acceder a dicho régimen. Sin embargo, reclama que el órgano fiscalizador desestimó erradamente su pretensión, por estimar que la “potencia conectada” se vincula necesariamente a un único punto de suministro, por lo que no sería procedente sumar diversas instalaciones o empalmes en distintas comunas para superar el umbral mínimo que habilita la calificación de cliente libre.
+
+Explica que contra dicha decisión dedujo recurso de reposición, argumentando que la referida interpretación resulta ilegal y arbitraria, pues impone un requisito técnico no contemplado en la ley ni en su reglamento, limitando indebidamente el derecho de los usuarios que reúnen las condiciones para optar por un régimen tarifario distinto. En tal sentido, señala que el artículo 147 letra d) de la Ley General de Servicios Eléctricos no exige que la potencia conectada se mida en un solo empalme y, por el contrario, que la sumatoria de potencia contratada a nivel nacional satisface la finalidad de la norma, que es permitir la negociación libre del precio cuando el usuario alcanza una determinada capacidad de demanda.
+
+Agrega que el órgano recurrido desconoce la interpretación efectuada por la Excma. Corte Suprema en sentencia de 8 de mayo de 2023, Rol N° 16.661-2022, dictada en la causa Sociedad Concesionaria Vespucio Norte Express S.A., en la cual se resolvió que la SEC no podía exigir que la potencia conectada se circunscribiera a un único punto de suministro, puesto que tal exigencia carecía de respaldo normativo y excedía sus competencias reglamentarias. Afirma que dicho precedente resulta plenamente aplicable a su caso, pues tanto Sociedad Concesionaria Vespucio Norte Express S.A. como WOM, son concesionarias de servicios públicos que operan redes extensas, continuas o dispersas, pero igualmente comprendidas dentro del concepto de usuario relevante para efectos tarifarios.
+
+A su vez, sostiene que la Superintendencia de Electricidad y Combustibles ha incurrido en una discriminación arbitraria, al otorgar un trato diferenciado a WOM respecto de Sociedad Concesionaria Vespucio Norte Express S.A., sin razones objetivas que lo justifiquen. La circunstancia de que la red de telecomunicaciones tenga carácter disperso y no continuo -según lo señalado por la recurrida- no altera la calidad de concesionaria ni el hecho de que sus instalaciones requieren suministro eléctrico permanente y coordinado a nivel nacional. En tal sentido, afirma que la decisión impugnada vulnera los principios de igualdad ante la ley, juridicidad, no discriminación arbitraria y, también, el derecho de toda persona a desarrollar una actividad económica lícita bajo condiciones de libre competencia.
+
+Concluye recalcando que la Resolución Exenta N° 32.120 es ilegal, por contravenir el texto expreso de la Ley General de Servicios Eléctricos y las normas del Decreto Supremo N° 4T/2018, que regulan la medición de potencia y energía, las cuales a su juicio no restringen la determinación de potencia a un solo empalme; y, además, es arbitraria, por sustentarse en diferencias fácticas que no guardan relación con la finalidad de la ley. En consecuencia, solicita que se revoque la resolución impugnada, se declare que la reclamante cumple los requisitos para ser cliente libre, y se ordene a la Superintendencia de Electricidad y Combustibles emitir los actos administrativos pertinentes que así lo reconozcan.
+
+SEGUNDO: Que la Superintendencia de Electricidad y Combustibles, al evacuar el informe solicitado, solicita rechazar íntegramente el reclamo interpuesto en autos, con costas, por estimar que sus actos se ajustaron plenamente a derecho.
+
+En primer término, explica que, con ocasión de la solicitud presentada por la empresa WOM, por Oficio N° 276.155 determinó que no era factible autorizar su migración régimen de precios libres, decisión que se fundó en la aplicación literal y técnica de los artículos 147 letra d) y 225 letra l) de la LGSE. Posteriormente, al resolver la reposición, reafirmó que la reclamante no reúne las condiciones objetivas exigidas por la normativa, reiterando la validez técnica de su interpretación, según consta del tenor de la Resolución Exenta N° 32.120.
+
+En el informe explica que la “potencia conectada” es un concepto estrictamente técnico, que corresponde a la capacidad de demanda de un empalme o punto de conexión, medido a partir de un solo equipo de medición y facturación. Dicha unidad técnica no puede fragmentarse ni agregarse, ya que la normativa reglamentaria -en particular el punto 10 del Decreto Supremo N° 4T/2018- exige una sola medida de energía y potencia por cada suministro. Por tanto, la suma de potencias provenientes de diversos empalmes o comunas carece de sustento técnico y legal, lo que generaría distorsiones en la operación del sistema eléctrico, además de contravenir los procedimientos de liquidación y tarificación establecidos por la Comisión Nacional de Energía.
+
+Señala, además, que la diferencia de trato que reclama entre WOM y la Sociedad Concesionaria Vespucio Norte Express S.A. obedece a criterios objetivos, toda vez que la aludida concesionaria administra una obra fiscal continua e indivisible (una autopista urbana con un solo centro de carga), y, por el contrario, WOM opera una red de telecomunicaciones con múltiples puntos de consumo independientes, localizados en distintas comunas y alimentados desde diversas subestaciones, sin continuidad territorial ni funcional. En consecuencia, no es posible consolidar sus empalmes como si fueran un solo usuario, ya que ello implicaría alterar la base técnica de medición y facturación establecida por la normativa eléctrica.
+
+Precisa que la calidad de concesionaria que ostenta WOM no altera el análisis jurídico efectuado por su parte, puesto que la Ley General de Servicios Eléctricos no distingue entre concesionarios y otros usuarios, sino que atiende al carácter técnico del suministro y a su magnitud. La condición de concesionario no otorga, por esa sola circunstancia, derecho a un tratamiento tarifario especial, debiendo aplicarse a la recurrente las reglas generales que rigen para cualquier consumidor del sistema.
+
+En tal sentido, sostiene que la Excma. Corte Suprema, en pronunciamientos posteriores, acotó el alcance del precedente citado, confirmando la validez de la interpretación técnica efectuada por su parte en casos análogos, que limita la potencia conectada a un empalme singular. Al efecto, recalca que la reclamante mantiene empalmes en al menos dieciséis regiones del país, lo que confirma la imposibilidad material y jurídica de considerarla un único usuario a efectos tarifarios.
+
+Lo expuesto, revela que la decisión impugnada se fundó en criterios técnicos verificables y no en un trato caprichoso o diferenciado, por lo que no se configura vulneración del principio de igualdad.
+
+Finalmente, destaca que su actuación se enmarca en las facultades fiscalizadoras y normativas que le otorga la Ley N° 18.410, cuyo artículo 3° le encomienda velar por el cumplimiento de las disposiciones de la Ley General de Servicios Eléctricos y su reglamentación, asegurando la correcta operación técnica y económica del sistema eléctrico nacional. Sostiene que la reclamación judicial carece de fundamentos nuevos, y constituye una mera reiteración de los argumentos ya analizados y descartados en sede administrativa, por lo que no se verifica ilegalidad ni arbitrariedad alguna en el acto impugnado.
+
+Concluye el informe solicitando expresamente que el reclamo de ilegalidad interpuesto por WOM S.A. sea rechazado en todas sus partes, con costas, por haberse dictado los actos cuestionados dentro del ámbito de competencia legal y conforme a los principios de juridicidad, razonabilidad y proporcionalidad administrativa.
+
+TERCERO: Que el presente arbitrio de reclamación, regulado en el artículo 19 de la Ley N°18.410, es de derecho estricto y, por ende, corresponde analizar la legalidad del actuar de la recurrida y determinar si aquélla se encuentra conforme al ejercicio de sus facultades acorde a la legislación vigente. En ningún caso constituye un nuevo grado de conocimiento y fallo de los hechos que vienen fijados por el resolutor en lo administrativo, sino que mira a revisar la decisión adoptada en esa sede a fin de determinar, como se dijo, si ella incurre en ilegalidad, naturaleza que no se aviene con un nuevo análisis de mérito encaminado a asentar hechos que no han sido probados o fijados en el procedimiento previo, aspecto que, en razón de ello, escapa del control jurisdiccional.
+Al efecto, la controversia se ha centrado en determinar si ha existido o no ilegalidad en el obrar de la Superintendencia de Electricidad y Combustibles al rechazar la petición de WOM S.A. de migrar como cliente desde el régimen tarifado al régimen libre.
+
+CUARTO: Que, para una adecuada resolución del asunto sometido al conocimiento de esta Corte, es necesario revisar la normativa que rige la materia relativa a la potencia conectada y al régimen tarifario asociado a ésta.
+
+Sobre este punto, el artículo 330 del Decreto Ley N°327 de 1997, del Ministerio de Energía, que contiene el Reglamento de la Ley General de Servicios Eléctricos, dispone: “Para los efectos de la aplicación del presente reglamento, se entenderá por:
+
+13) Empalme: Conjunto de elementos y equipos eléctrico que conectan el medidor de la instalación o sistema de cliente, a la red de suministro de energía eléctrica.
+
+29) Potencia conectada: Potencia máxima que es capaz de demandar un usuario final, dada la capacidad del empalme.
+
+38) Usuario o cliente: Es la persona natural o jurídica que acredite dominio sobre un inmueble o instalaciones que reciben servicio eléctrico”.
+
+Estas últimas dos definiciones se consagran también en el artículo 225 del Decreto con Fuerza de Ley N°4/20.018 que contiene la Ley General de Servicios Eléctricos, en sus literales q) y l), respectivamente, añadiendo en su letra k) el concepto de usuario o consumidor final como “usuario que utiliza el suministro de energía eléctrica para consumirlo”.
+
+Es este mismo cuerpo normativo aquel que regula la solicitud planteada por las actoras en su artículo 147, en los siguientes términos: “Están sujetos a fijación de precios los suministros de energía eléctrica y los servicios que a continuación se indican:
+
+1.- Los suministros a usuarios finales cuya potencia conectada es inferior o igual a 5.000 kilowatts, ubicados en zonas de concesión de servicio público de distribución o que se conecten mediante líneas de su propiedad o de terceros a las instalaciones de distribución de la respectiva concesionaria;
+
+2.- Los suministros a usuarios finales de potencia conectada inferior o igual a 5.000 kilowatts, efectuados desde instalaciones de generación o transporte de una empresa eléctrica, en sistemas eléctricos de tamaño superior a 1.500 kilowatts en capacidad instalada de generación;
+
+3.- Los suministros que se efectúen a empresas eléctricas que no dispongan de generación propia, en la proporción en que estas últimas efectúen a su vez suministros sometidos a fijación de precios. Lo anterior cuando se trate de sistemas eléctricos de tamaño superior a 1.500 kilowatts en capacidad instalada de generación, y;
+
+4.- Los servicios no consistentes en suministros de energía, prestados por las empresas sean o no concesionarias de servicio público que, mediante resolución del Tribunal de Defensa de la Libre Competencia, dictada a solicitud de la Superintendencia o de cualquier interesado, sean expresamente calificados como sujetos a fijación de precios, en consideración a que las condiciones existentes en el mercado no son suficientes para garantizar un régimen de libertad tarifaria.
+
+Para efectos de aplicar el límite señalado en los números 1 y 2, no podrá existir más de un empalme asociado a un suministro de un usuario final cuando sus instalaciones interiores se encuentren eléctricamente interconectadas.
+
+No obstante, los suministros a que se refieren los números 1 y 2 anteriores podrán ser contratados a precios libres cuando ocurra alguna de las circunstancias siguientes:
+
+a) Cuando se trate de servicio por menos de doce meses;
+
+b) Cuando se trate de calidades especiales de servicio a que se refiere el inciso segundo del artículo 130º;
+
+c) Cuando el momento de carga del cliente respecto de la subestación de distribución primaria sea superior a 20 megawatts-kilómetro, y;
+
+d) Cuando la potencia conectada del usuario final sea superior a 500 kilowatts. En este caso, el usuario final tendrá derecho a optar por un régimen de tarifa regulada o de precio libre, por un período mínimo de cuatro años de permanencia en cada régimen. El cambio de opción deberá ser comunicado a la concesionaria de distribución con una antelación de, al menos, 12 meses.
+
+El Ministerio de Energía podrá rebajar el límite de 500 kilowatts indicado en esta letra, previo informe del Tribunal de Defensa de la Libre Competencia”.
+
+QUINTO: Que, conforme al marco normativo antes reseñado, es posible sostener que el legislador asocia a un cliente con un inmueble determinado, entendiendo que, en la medida que éste sea de carácter privado, allí se sitúan todas las instalaciones que permiten acceder al suministro de energía, toda vez que los preceptos se refieren al “empalme” y “el medidor” de manera singular, sin aludir a una multiplicidad de ellos.
+
+Luego, cuando el artículo 147 se remite a la fijación de precios, en sus numerales 1° y 2° también la regula a propósito de los “usuarios finales” y, en su inciso 2°, expresamente indica que para dicho efecto “no podrá existir más de un empalme asociado a un suministro de un usuario final”, confirmando la idea anterior.
+
+En tal sentido, cuando el citado artículo 147 se refiere a la posibilidad de pasar a un régimen de precios libres y preceptúa, dentro de las exigencias para ello, en su letra d) “Cuando la potencia conectada del usuario final sea superior a 500 kilowatts”, y utiliza las expresiones “potencia conectada” y “usuario final”, debe entenderse que necesariamente se refiere a no más de un empalme en instalaciones interiores. En síntesis, la normativa asocia al usuario final con un empalme determinado y no con una pluralidad de ellos.
+
+Esta interpretación se ve reforzada si se tiene en consideración, además, que tratándose de la recurrida, los múltiples empalmes se encuentran en distintas comunas y se alimentan de subestaciones diferentes, circunstancia que, tal como resolvió el órgano administrativo, tiene también incidencia en la forma de facturación, pues el Decreto 4T de 2018 del Ministerio de Energía, que fija los peajes de distribución, exige una sola medida de los consumos de energía y potencia, cuestión que no es factible en esas condiciones.
+
+SEXTO: Que la Excma. Corte Suprema, conociendo sobre reclamos análogos, ha sostenido que esta tesis no se contradice con lo resuelto respecto de la Sociedad Concesionaria Vespucio Norte Express S.A., en causa CS Rol N° 16.661- 2022, por considerar que tratándose de un concesionario de obra pública, quien “subroga al Estado en la obligación sectorial que le corresponde como propietario del bien fiscal concesionado, como es el caso de la autopista Vespucio Norte, obra que debe ser considerada como un solo todo indivisible y se encuentra, además emplazada en un bien nacional de uso público”, situación distinta a la de una empresa telefónica, por lo que no resulta posible aplicar analógicamente el mismo tratamiento (CS Roles N° 39.119-2024 y 51-522-2024).
+
+SÉPTIMO: Que, de lo que se ha venido reflexionando, es posible concluir que la Superintendencia de Electricidad y Combustibles, al dictar los actos que por esta vía se impugnan, se ha ajustado a la ley y ha actuado con fundamento basado en la normativa eléctrica vigente, sin que ni en la vía administrativa ni en la judicial, la reclamante entregue antecedentes que permitan revertir lo decidido por la primera, por lo que el presente reclamo será desestimado.
+
+Por estas consideraciones, citas legales, SE RECHAZA, sin costas, la reclamación deducida por WOM S.A., en contra de la Superintendencia de Electricidad y Combustibles.
+
+Regístrese, notifíquese y en su oportunidad archívese.
+
+Redactó la ministra señora Barrios Melo.
+
+N° Contencioso Administrativo-403-2025.
+
+Pronunciada por la Primera Sala de la Corte de Apelaciones de Santiago, presidida por la ministra señora Iara Barrios Melo e integrada, además, el ministro (S) señor Rodrigo Carrasco Meza y el abogado integrante señor Luis Hernández Olmedo.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+PAGE2Santiago, veinte de febrero de dos mil veintiséis.A los escritos folios N° 28, 29, 30 y 32: A todo, téngase presente.Al escrito folio N° 33: A sus antecedentes.Vistos:Previa eliminación del considerando tercero y teniendo presente las reclamaciones de ilegalidad presentadas por las empresas Telefónica Chile S.A., Telefónica Móviles Chile S.A., Empresa Nacional de Telecomunicaciones S.A, y Entel PCS Telecomunicaciones S.A. en los autos seguidos ante esta Corte Suprema Rol N° 39.119-2024 y Rol N° 51.522-2024, que contienen peticiones semejantes al reclamo de ilegalidad que se revisa, se confirma la sentencia apelada de fecha once de noviembre del año dos mil veinticinco, dictada por la Corte de Apelaciones de Santiago.Regístrese y devuélvase.Rol Nº 53.397-2025. PAGE2Santiago, veinte de febrero de dos mil veintiséis.A los escritos folios N° 28, 29, 30 y 32: A todo, téngase presente.Al escrito folio N° 33: A sus antecedentes.Vistos:Previa eliminación del considerando tercero y teniendo presente las reclamaciones de ilegalidad presentadas por las empresas Telefónica Chile S.A., Telefónica Móviles Chile S.A., Empresa Nacional de Telecomunicaciones S.A, y Entel PCS Telecomunicaciones S.A. en los autos seguidos ante esta Corte Suprema Rol N° 39.119-2024 y Rol N° 51.522-2024, que contienen peticiones semejantes al reclamo de ilegalidad que se revisa, se confirma la sentencia apelada de fecha once de noviembre del año dos mil veinticinco, dictada por la Corte de Apelaciones de Santiago.Regístrese y devuélvase.Rol Nº 53.397-2025. Sentencia anonimizada

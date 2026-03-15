@@ -1,0 +1,642 @@
+METADATA
+
+case_id: cdd8f17a8c19b67c327b3d3ea8c7b334a3e87a89
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8035894
+
+rol: 884-2025
+
+fecha_sentencia: 2026-02-20
+
+caratulado: AISTIDES RUIZ PAIVA CON CRISTIAN OLIVARES FIGUEROA (O)
+
+sala: PRIMERA, CIVIL
+
+materias: ▪ Acción reivindicatoria
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: RECHAZADAS CASACIÓN FORMA Y FONDO (M)
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veinte de febrero de dos mil veintiséis.
+
+VISTO Y TENIENDO PRESENTE:
+PRIMERO: Que, en este juicio sumario Ley N° 18.101, tramitada ante el Décimo Tercer Juzgado Civil de Santiago, bajo el Rol C-10.308-2024, caratulado “Elgueta con Gallegos”, se ha ordenado dar cuenta de la admisibilidad del recurso de casación en el fondo deducido por la parte recurrente de apelación en contra la resolución dictada por la Corte de Apelaciones que rechazó el recurso de reposición interpuesto en contra de la resolución que declaró inadmisible en segunda instancia el recurso de apelación deducido por ese interviniente en contra de la resolución de primera instancia que, a su vez, rechazó incidente promovido por éste.
+
+SEGUNDO: Que el artículo 767 del Código de Procedimiento Civil, dispone que se admite el recurso de casación en el fondo contra sentencias definitivas inapelables y sentencias interlocutorias inapelables cuando ponen término al juicio o hacen imposible su continuación, dictadas -en lo que interesa para el presente caso- por Cortes de Apelaciones, siempre que se hayan pronunciado con infracción de ley influyendo substancialmente en lo dispositivo del fallo.
+TERCERO: Que, como puede advertirse, la resolución impugnada por esta vía no presenta las características de aquéllas aludidas en el motivo precedente, toda vez que no es una sentencia definitiva, ni tampoco una interlocutoria que haya concluido el juicio, ni hecho imposible su prosecución; razón por la que el recurso de nulidad intentado no puede admitirse a tramitación.
+
+Por estas consideraciones y de conformidad, además, con lo dispuesto en los artículos 764, 765, 767 y 782 del Código de Procedimiento Civil, se declara inadmisible el recurso de casación en el fondo, interpuesto por el abogado Nicolás Felipe Reinoso San Marín, contra la resolución de veinte de octubre de dos mil veinticinco, dictada por la Corte de Apelaciones de Santiago.
+
+Regístrese y devuélvase.
+
+Rol N° 4804-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Santiago
+Santiago, cuatro de agosto de dos mil veinticinco.
+
+Por ingresado a despacho con esta fecha.
+
+Vistos y teniendo presente:
+1º) Que se ha interpuesto recurso de apelación por el abogado Nicolás Felipe Reinoso San Martín, en representación de doña Elizabeth Karen Figueroa Castro, don Jhonatan Jhandary Escamilo Aranda, doña Pamela Lissett Bernardo Flores y Kbellos SpA. con fecha diez de junio de dos mil veinticinco (folio N°28/cuaderno cumplimiento), contra la resolución de fecha diecinueve de diciembre de dos mil nueve de junio de dos mil veinticinco respecto a su incidente de nulidad procesal.
+2º) Que el artículo 23 del Código de Procedimiento Civil dispone que “Los que, sin ser partes directas en el juicio, tengan interés actual en sus resultados, podrán en cualquier estado de él intervenir como coadyuvantes, y tendrán en tal caso los mismos derechos que concede el artículo 16 a cada una de las partes representadas por un procurador común, continuando el juicio en el estado en que se encuentre.”
+Se entenderá que hay interés actual siempre que exista comprometido un derecho y no una mera expectativa, salvo que la ley autorice especialmente la intervención fuera de estos casos.
+Si el interés invocado por el tercero es independiente del que corresponde en el juicio a las dos partes, se observará lo dispuesto en el artículo anterior”.
+3º) Que por su parte, el citado artículo 16 prescribe “Cualquiera de las partes representadas por el procurador común que no se conforme con el procedimiento adoptado por él, podrá separadamente hacer las alegaciones y rendir las pruebas que estime conducentes, pero sin entorpecer la marcha regular del juicio y usando los mismos plazos concedidos al procurador común. Podrá, asimismo, solicitar dichos plazos o su ampliación, o interponer los recursos a que haya lugar, tanto sobre las resoluciones que recaigan en estas solicitudes, como sobre cualquiera sentencia interlocutoria o definitiva”.
+4°) Que no consta que el recurrente sea parte o revista la calidad de tercero en los términos antes señalados, pues el tribunal de primera instancia certificó que el compareciente no es parte directa en el juicio, en resolución de fecha nueve de abril de dos mil veinticuatro, lo cual no permite, en el intertanto, el ejercicio de los derechos consagrados en el artículo 16 citado, al no cumplirse el supuesto de su aplicación.
+
+5º) Que así las cosas, no siendo parte en la causa doña Elizabeth Karen Figueroa Castro, don Jhonatan Jhandary Escamilo Aranda, doña Pamela Lissett Bernardo Flores y Kbellos SpA. ni revistiendo la calidad de tercero, la concesión del recurso de apelación interpuesto por aquél aparece improcedente.
+Por estas consideraciones y visto lo dispuesto en los artículos 16, 23 y 189 del Código de Procedimiento Civil, se declara inadmisible el recurso de apelación por el abogado Nicolás Felipe Reinoso San Martín, en representación de doña Elizabeth Karen Figueroa Castro, don Jhonatan Jhandary Escamilo Aranda, doña Pamela Lissett Bernardo Flores y Kbellos SpA. con fecha diez de junio de dos mil veinticinco (folio N°28/cuaderno cumplimiento), contra la resolución de nueve de junio de dos mil veinticinco (folio N°27)
+Devuélvase.
+N°Civil-10015-2025.kom
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+RIT« »
+
+Foja: 1
+NOMENCLATURA : 1. [40]Sentencia
+
+JUZGADO : 13º Juzgado Civil de Santiago
+
+CAUSA ROL : C-10308-2024
+
+CARATULADO : ELGUETA/GALLEGOS
+
+Santiago, cinco de diciembre de dos mil veinticuatro
+
+VISTOS:
+
+A folio 1, con fecha 4 de junio de 2024, comparece Gabriela Elgueta Burgos,
+
+dueña de casa, domiciliada en Avenida Perú N°10155, comuna de La Florida, quien
+
+interpone demanda de terminación de contrato de arrendamiento y restitución del
+
+inmueble ubicado en calle María Elena N°866, comuna de La Florida, por expiración del
+
+tiempo estipulado, en contra de Héctor Mauricio Gallegos Iñiguez, de quien ignora
+
+profesión y oficio, domiciliada en María Elena N°866, comuna de La Florida, por las
+
+razones de hecho y de derecho que señala en su demanda. Refiere que suscribió con el
+
+demandado un contrato de arrendamiento con fecha 29 de septiembre de 2021 respecto
+
+del inmueble ubicado en calle María Elena N°866, comuna de La Florida, cuyo uso seria
+
+habitacional y comercial, sin embargo, ésta se encontraba ocupada desde el 1 de octubre
+
+de 2004. La renta mensual se fijó en la suma de $350.000.- pagaderos en la cuenta RUT
+
+de la demandante los primeros días de cada mes. Dicho contrato tendría una duración de
+
+un año renovable automáticamente a menos que uno de los comparecientes manifieste su
+
+voluntad de poner término al contrato con 30 días de antelación mediante carta
+
+certificada. Su parte cumplió con el envío, lo cual ocurre con fecha 25 de agosto de 2023,
+
+manifestando así su voluntad de no renovar el contrato. En la cláusula quinta se pactó
+
+que la arrendataria debe hacer entrega de la propiedad en un plazo no mayor a 60 días
+
+después de la citada comunicación. Pese a que su parte envió carta certificada de aviso a
+
+través de correos de Chile, con la debida antelación el 29 de mayo de 25 de agosto de
+
+2023 el demandado no ha materializado la entrega del inmueble.
+
+Previas citas legales, solicita tener por interpuesta demanda de terminación de
+
+contrato de arrendamiento en contra de Héctor Mauricio Gallegos Iñiguez, ya
+
+individualizado, respecto de la propiedad de calle María Elena N°866 comuna de La
+
+Florida, datado el 29 de septiembre de 2021, por haber concluido el plazo convenido;
+
+ordenando su restitución dentro de tercero día que cause ejecutoriada la sentencia que se
+
+dicte, por cuanto se ha excedido con creces cualquier plazo que pudiere concederle la ley
+
+a la demandada para dicha restitución, pues concluyó el 29 de septiembre de 2023,
+
+ordenando pagar las rentas de arrendamiento hasta que se produzca la restitución
+
+material del mismo, con costas.
+
+A folio 8, con fecha 23 de julio de 2024, consta notificación personal de la
+
+demanda a la demandada.
+
+A folio 27, con fecha 6 de noviembre de 2024, a lo principal, comparece la
+
+demandada contestando la demanda, oponiéndose a la acción de terminación de
+
+arrendamiento por expiración del plazo convenido, señalando que el contrato de arriendo
+
+Código: GNNPXRJNKFN
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+RIT« »
+
+Foja: 1
+que vincula a su representado con la demandante, data del año 2004, y que con fecha 29
+
+de septiembre del año 2.021 se realizó un segundo contrato de arrendamiento con el fin
+
+de modificar el anterior, pero sólo respecto del precio del arriendo. En lo relativo a la carta
+
+enviada el 25 de agosto del año 2.023, le dio respuesta, expresando que no correspondía
+
+la devolución en 30 días, toda vez que el contrato tenía una vigencia desde el año 2.004.
+
+Sostiene que la demandante no realizó ninguna acción (carta de aviso) para ponerle
+
+término al contrato como estipula la cláusula quinta del contrato, por lo que se tiene
+
+renovado hasta septiembre del año 2024, al menos. Ha realizado el pago íntegro de cada
+
+una de las cuotas del contrato de arriendo, teniendo un excelente comportamiento de
+
+pago. Expresa que, durante los 20 años de vigencia del contrato de arrendamiento, se
+
+realizaron reparaciones que debían ser pagadas por la demandante, lo que no hizo, entre
+
+ellas: techumbre por la gran cantidad de filtraciones, piso deteriorado por filtraciones,
+
+regularización ante la municipalidad para el funcionamiento del local comercial. Solicita
+
+tener por formulada oposición en contra de la demanda, acogerla y rechazar la demanda,
+
+con costas.
+
+A folio 27, con fecha 6 de noviembre de 2024, al segundo otrosí, deduce demanda
+
+reconvencional de indemnización de perjuicios en contra de doña Gabriela Elgueta
+
+Burgos, ya individualizada, por los siguientes fundamentos de hecho y derecho. Expresa
+
+que el demandante reconvencional mantiene con la demandada reconvencional una
+
+relación contractual de arrendamiento desde al menos el año 2004. En ese contexto, la
+
+demandante reconvencional construyó en la propiedad arrendada, una edificación de dos
+
+pisos, correspondiente a un local comercial de 149,23 m2 totales de construcción; 103,93
+
+m2 en primer piso y 45,30 m2 en segundo piso. Adicionalmente, ha realizado diferentes
+
+reparaciones en la propiedad, a saber: arreglos en techumbre y reformas estructurales en
+
+la propiedad arrendada. Toda la inversión tiene un valor de $200.000.000.- cuya
+
+indemnización solicita por esta vía. Previas citas legales, solicita tener por interpuesta
+
+demanda reconvencional de indemnización de perjuicios en contra de doña Gabriela
+
+Elgueta Burgos, ya individualizada, acogerla a tramitación y, en definitiva, condenarla al
+
+pago de una indemnización por la suma de $200.000.000.- o el que este Tribunal
+
+determine conveniente, todo con costas.
+
+A folio 30, con fecha 7 de noviembre de 2024, se llevó a efecto el comparendo
+
+de estilo con la asistencia de ambas partes. Acto seguido, la parte demandante ratifica la
+
+demanda, con costas.
+
+Se tiene por contestada la demanda mediante escrito presentado a folio 27,
+
+confiriéndose traslado a la demanda reconvencional, suspendiéndose la audiencia, y
+
+fijándose su continuación para el 13 de noviembre de 2024, y se tienen por acompañados
+
+los documentos de folio 29.
+
+A folio 34, con fecha 12 de noviembre de 2024, la demandante principal y
+
+demandada reconvencional, contesta la demanda reconvencional solicitando su rechazo,
+
+con costas.
+
+Código: GNNPXRJNKFN
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+RIT« »
+
+Foja: 1
+Refiere que no es efectivo que su parte haya manifestado su consentimiento para
+
+la realización de las construcciones mencionadas por el Sr. Gallegos, de las cuales tomó
+
+conocimiento cuando estas ya estaban siendo construidas por el demandado principal, es
+
+decir, sin que haya mediado autorización alguna. Agrega que la edificación de dos pisos y
+
+local comercial, solo tenían por objeto el propio beneficio del demandante reconvencional,
+
+toda vez que ellas estaban destinadas para subarrendar a través de su explotación
+
+comercial. Las modificaciones realizadas en una propiedad arrendada están sujetas a
+
+ciertas condiciones y regulaciones establecidas en la Ley de Arrendamiento de Viviendas,
+
+y cualquier modificación o mejora que se realice debe contar con el consentimiento previo
+
+y por escrito del arrendador. Además, las modificaciones deben ser consideradas como
+
+mejoras y no pueden afectar la estructura o seguridad de la propiedad. El avalúo fiscal de
+
+la propiedad asciende a la suma de $495.269.720.-, resultando de toda lógica que su
+
+parte jamás hubiese autorizado la inversión que alega la contraria, autorizando una
+
+inversión de $200.000.000.-
+
+Solicita tener por contestada la demanda reconvencional y rechazarla en todas sus
+
+partes, con expresa condena en costas.
+
+A folio 38, con fecha 13 de noviembre de 2024, se llevó a efecto la continuación
+
+del comparendo de estilo con la asistencia de ambas partes.
+
+Acto seguido, se tiene por contestada la demanda reconvencional conforme a
+
+escrito presentado a folio 34.
+
+Se llamó a las partes a conciliación, la que no se produjo; se recibió la causa a
+
+prueba, oportunidad en que la demandante reiteró la prueba ya presentada y
+
+acompañando los documentos que constan a folio 34, y la parte demandada rindió prueba
+
+documental, la que se encuentra agregada a folio 35, y reitera la prueba documental ya
+
+acompañada.
+
+A folio 43, con fecha 3 de diciembre de 2024, y encontrándose la causa en
+
+estado, se citó a las partes a oír sentencia.
+
+CON LO RELACIONADO Y CONSIDERANDO:
+
+PRIMERO: Que, con fecha 4 de junio de 2.024, comparece Gabriela Elgueta
+
+Burgos, quien interpone demanda de terminación de contrato de arrendamiento y
+
+restitución del inmueble ubicado en calle María Elena N°866, comuna de La Florida, por
+
+expiración del tiempo estipulado, acción que dirige en contra de Héctor Mauricio Gallegos
+
+Iñiguez, todos ya individualizados, fundándose para ello en los antecedentes de hecho y
+
+derecho ya expuestos en la expositiva de esta sentencia.
+
+SEGUNDO: Que, el comparendo de estilo que consta en folio 30 y 38, se celebró
+
+con la asistencia de ambas partes, contestándose la demanda por el demandado, quien
+
+solicitó su rechazo e interpuso demanda reconvencional de indemnización de perjuicios
+
+por la suma de $200.000.000.-
+
+TERCERO: Que, en el comparendo de estilo, se recibió la causa a prueba, fijando
+
+los siguientes hechos sustanciales, pertinentes y controvertidos:
+
+Código: GNNPXRJNKFN
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+RIT« »
+
+Foja: 1
+1.Efectividad que las partes celebraron un contrato de arrendamiento sobre el
+
+inmueble objeto de la litis. Estipulaciones y fecha de este.
+
+2. Cumplimiento dado por las partes al contrato referido en el numeral anterior.
+
+3. Efectividad de haber efectuado la parte demandada y demandante
+
+reconvencional reparaciones y/o mejoras en el inmueble de marras, naturaleza y monto
+
+de las mismas.
+
+CUARTO: Que, la parte demandante y demandada reconvencional, en orden a
+
+acreditar sus dichos, rindió prueba instrumental, no objetada de contrario, consistente
+
+en:
+
+1. A folio 1 y 5, Contrato de arriendo de fecha 29 de septiembre de 2021.
+
+2. A folio 1, Comprobantes envío carta certificada de aviso a través de Correos de
+
+Chile de fecha 29/05/2023 y 25/08/2023.
+
+3. A folio 34, Certificado de avalúo fiscal de la propiedad de autos.
+
+4. A folio 34, Certificado de nacimiento de la demandante.
+
+QUINTO: Que, por su parte, la demandada y demandante reconvencional rindió
+
+la siguiente prueba documental , no objetada de contrario, consistente en:
+
+1. A folio 29, Contrato de arriendo de fecha 29 de septiembre de 2021.
+
+2. A folio 29, Carta enviada con fecha 25 de agosto del 2023 por la actora.
+
+3. A folio 29, Respuesta de la carta enviada por la actora, de fecha 11 de
+
+septiembre de 2023.
+
+4. A folio 29, Certificado de regularización Ley N°19.583, N°1.473, de fecha 3 de
+
+octubre del año 2001.
+
+5. A folio 29, Certificado de afectación a utilidad pública, solicitud N°202304830,
+
+de fecha 4 de abril del año 2023, certificado N°649, emitido por la Ilustre
+
+Municipalidad de Ñuñoa.
+
+6. A folio 35, Declaración jurada de fecha 12 de octubre de 2024 de doña Ana
+
+Guerrero Veliz, cédula nacional de identidad número 10.592.191-8.
+
+SEXTO: Que, conforme a la documental acompañada por la demandante y
+
+apreciando la prueba conforme a las reglas de la sana crítica se tiene por acreditada la
+
+existencia de un contrato de arrendamiento suscrito entre Gabriela Elgueta Burgos, en
+
+calidad de arrendadora y Héctor Mauricio Gallegos Iñiguez, en calidad de arrendatario,
+
+respecto a la propiedad ubicada en María Elena N°866, comuna de La Florida, destinada
+
+a uso habitacional y comercial, por una renta de $350.000.-, suma que debía pagarse los
+
+primeros 5 días de cada mes, directamente a la parte arrendadora. El contrato comenzó a
+
+regir el día 1 de octubre de 2004 y su duración seria de un año renovable
+
+automáticamente, a menos que una de las partes manifieste su voluntad de ponerle
+
+término con 30 días de antelación mediante carta certificada. En la cláusula sexta del
+
+contrato se estableció que “ Cualquier mejora, transformación o instalación en la
+
+propiedad, deberá contar con la autorización de la parte arrendadora .”
+
+I.- EN CUANTO A LA ACCIÓN PRINCIPAL DE TERMINACIÓN DE CONTRATO
+
+DE ARRENDAMIENTO POR EXPIRACIÓN DEL TIEMPO.
+
+Código: GNNPXRJNKFN
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+RIT« »
+
+Foja: 1
+SÉPTIMO: Que, la demandante solicita la terminación del contrato de
+
+arrendamiento por expiración del tiempo estipulado para su duración, y para ello se debe
+
+tener presente los artículos 3 y 4 de la Ley N°18.101, que fijan normas sobre el
+
+arrendamiento de predios urbanos, contemplan la facultad que tiene el arrendador de
+
+poner fin unilateralmente al contrato, debiendo sólo respetar los plazos de restitución ahí
+
+establecidos.
+
+Conforme a la prueba rendida, en especial, el referido contrato celebrado por las
+
+partes es un hecho acreditado que las partes pactan en su cláusula quinta los que sigue:
+
+“El presente contrato comenzó a regir el día 01 de Octubre del 2004 cuya duración será
+
+de un año renovable automáticamente, a menos que uno de los comparecientes
+
+manifieste su voluntad de ponerle término, con 30 días de antelación mediante carta
+
+certificada…”. De tal manera que el aludido contrato no se identifica con uno a plazo fijo
+
+como supone el demandante principal, sino que más bien corresponde asimilarlo a uno
+
+indefinido, desde que su duración no depende del vencimiento de un plazo, sino de la
+
+voluntad manifestada por cualquiera de los contratantes.
+
+OCTAVO: Que, con lo razonado, resulta aplicable, en la especie, el artículo 3 de la
+
+Ley 18.101 que dispone: “En los contratos en que el plazo del arrendamiento se haya
+
+pactado mes a mes y en los de duración indefinida, el desahucio dado por el arrendador
+
+sólo podrá efectuarse judicialmente o mediante notificación personal efectuada por un
+
+notario. En los casos mencionados en el inciso anterior, el plazo de desahucio será de
+
+dos meses, contado desde la notificación, y se aumentará en un mes por cada año
+
+completo que el arrendatario hubiera ocupado el inmueble. Dicho plazo más el aumento
+
+no podrá exceder, en total, de seis meses.” De esta forma, corresponde dar lugar a la
+
+solicitud solo en cuanto terminar el contrato por la causa antes referida y, siendo un hecho
+
+no controvertido que el plazo de ocupación del inmueble en virtud del contrato de
+
+arrendamiento que vinculaba a las partes del juicio, comenzó a regir el 1 de octubre del
+
+año 2004, procede conceder el plazo máximo de seis meses para la restitución del
+
+inmueble en conformidad a la norma antes citada, esto es, dos meses por tratarse de un
+
+contrato de duración indefinida, más cuatro meses por los años completos que el
+
+arrendatario lo ha ocupado, plazo que ha de contarse desde la notificación legal de la
+
+demanda de autos, continuando el arrendatario obligado al pago de las rentas que se
+
+devenguen así como de los gastos de servicios comunes que sean de su cargo, hasta la
+
+época en que se efectué la restitución del inmueble, en conformidad al artículo 6 del ley
+
+18.101.
+
+NOVENO: Que, asentado lo anterior, corresponde determinar la fecha en que el
+
+arrendatario debe hacer restitución del inmueble a la parte demandante. Al efecto, dado
+
+que la notificación de la demanda fue efectuada personalmente en el 30 de octubre del
+
+año 2024 y, considerando el cómputo de los meses a los que se hace referencia en el
+
+razonamiento anterior, se decreta que la restitución de la propiedad de litis debe ser
+
+realizada el día 30 de abril de 2025.
+
+Código: GNNPXRJNKFN
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+RIT« »
+
+Foja: 1
+DÉCIMO: Que, las alegaciones de la demandada en cuanto a su excelente
+
+comportamiento de pago, reparaciones efectuadas al inmueble, y regularización ante la
+
+Municipalidad, en nada alteran lo razonado.
+
+II. EN CUANTO A LA ACCIÓN RECONVENCIONAL DE INDEMNIZACIÓN DE
+
+PERJUICIOS.
+
+UNDÉCIMO: Que la acción ejercida por el demandado y demandante
+
+reconvencional corresponde a la acción de indemnización de perjuicios en contra de
+
+Gabriela Elgueta Burgos, fundada en la edificación de dos pisos efectuada en la
+
+propiedad arrendada, además de las diversas reparaciones, que ascienden a la suma de
+
+$200.000.000.-, y que, estima, deben ser indemnizados por la propietaria.
+
+DÉCIMO SEGUNDO: Que, respecto de la indemnización de perjuicios
+
+demandada, cabe hacer presente que en la cláusula octava del contrato las partes
+
+pactaron que “serán de cargo de la parte arrendataria las reparaciones o reposiciones de
+
+los sistemas de servicios y terminaciones de la propiedad que sea necesario efectuar
+
+derivadas del uso normal o de deterioros casuales. Deberá mantener en perfecto estado y
+
+funcionamiento las llaves de artefactos, llaves de paso, válvulas y flotadores de W.C de la
+
+red de agua; enchufes, interruptores y timbres de la red eléctrica, reparándolas o
+
+cambiándolas por su cuenta”. La referida cláusula está en concordancia con lo dispuesto
+
+en el artículo 1970 del Código Civil que dispone que las reparaciones locativas se reducen
+
+a mantener el edificio en el estado que lo recibió.
+
+DECIMO TERCERO: Que analizando la prueba rendida por la demandante
+
+reconvencional, esta se limita únicamente a prueba documental cuyo análisis impide
+
+determinar la existencia de las construcciones que alega, dado que se acompaña
+
+Certificado de regularización ley 19.583 de fecha 3 de octubre de 2.001 extendido por la I.
+
+Municipalidad de La Florida, esto es datado con fecha anterior a inicio del contrato
+
+existente entre las partes; un Certificado de afectación a utilidad pública, de fecha 4 de
+
+abril del año 2023, emitido por la Ilustre Municipalidad de La Florida que es ajeno a los
+
+hechos de la demanda reconvencional y una declaración jurada ante notario suscrita por
+
+persona extraña al juicio quien no compareció a ratificarlo en estrados; encontrándose
+
+ésta magistrada imposibilitada de medios conducentes a establecer los supuestos
+
+fácticos de la acción deducida y menos, la entidad de los supuestos daños padecidos por
+
+la parte solicitante.
+
+DECIMO CUARTO: Que en cuanto a la indemnización perseguida por el actor
+
+reconvencional, no es posible adquirir la convicción que la parte que las requiere haya
+
+realizado diferentes reparaciones en la propiedad, a saber, arreglos en techumbre y
+
+reformas estructurales en la propiedad arrendada ni menos aun que la valoración de
+
+aquellas mejoras ascienden a la suma demandada, de modo que corresponde desechar
+
+la demanda en todas sus partes.
+
+Y atendido lo razonado y dispuesto en los artículos 1444, 1545, 1552, 1698, y
+
+1915 y siguientes del Código Civil, 144, 160, 170, 346, 680 del Código de Procedimiento
+
+Código: GNNPXRJNKFN
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+RIT« »
+
+Foja: 1
+Civil y artículos 1, 3, 4, 6, 7, 8, 10, 15 y 21 de la Ley N°18.101, modificada por la
+
+N°19.866, se decide:
+
+I. Que, se hace lugar a la acción de folio 1, en cuanto se declara terminado
+
+el contrato de arrendamiento celebrado entre las partes, debiendo
+
+efectuarse la restitución del inmueble dado en arrendamiento en la fecha
+
+indicada en el motivo décimo.
+
+II. Que, se condena a la parte demandada a pagar las rentas y consumos
+
+domiciliarios, que se hayan devengado durante la tramitación del juicio
+
+hasta la época de la restitución efectiva del inmueble objeto del juicio
+
+conforme lo prescrito en el artículo 6 de la ley 18.101.
+
+III. Que, se rechaza la demanda reconvencional contenida en el segundo
+
+otrosí de folio 27.
+
+IV. Que, se condena en costas a la parte demandada.
+
+Regístrese, notifíquese, y archívense en su oportunidad.
+
+Rol N°C-10.308-2.024.
+
+PRONUNCIADA POR MARIA EUGENIA SILVA PACHECO, JUEZA TITULAR
+
+DEL DÉCIMO TERCER JUZGADO CIVIL DE SANTIAGO.
+
+Se deja constancia que se dio cumplimiento a lo dispuesto en el inciso final del art. 162
+
+del C.P.C. en Santiago, cinco de diciembre de dos mil veinticuatro
+
+Código: GNNPXRJNKFN
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2024-12-05T15:30:24-0300

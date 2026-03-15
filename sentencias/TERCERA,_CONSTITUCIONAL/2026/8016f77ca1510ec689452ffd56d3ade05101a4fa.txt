@@ -1,0 +1,73 @@
+METADATA
+
+case_id: 8016f77ca1510ec689452ffd56d3ade05101a4fa
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8035662
+
+rol: 51074-2025
+
+fecha_sentencia: 2026-02-20
+
+caratulado: LISSETTE JACQUELINES SALGADO ANDRADE/SERVICIO SALUD OSORNO
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: ▪ Función pública
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veinte de febrero de dos mil veintiséis.
+Vistos:
+Se confirma la sentencia apelada de dos de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Valparaíso, en el Ingreso Corte N°Amparo-291-2026.
+Acordada con el voto del Ministro Suplente Sr. Mera, quien fue de opinión de revocar la sentencia, atendido el hecho que no existe ilegalidad en el acto impugnado, toda vez que la autoridad recurrida ha actuado dentro de su competencia y facultades privativas al disponer el abandono del país como consecuencia legal del rechazo de la residencia, no configurándose por tanto vulneración alguna a la libertad personal del amparado.
+Regístrese y devuélvase.
+Rol N°4528-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Valparaíso
+Valparaíso, dos de febrero de dos mil veintiséis.
+Vistos:
+A folio 1 el abogado Tomás Guillermo Matheson Mujica, en representación de Obshter Ilton Lamour, ciudadano de nacionalidad haitiana, interpone acción constitucional de amparo en contra del Servicio Nacional de Migraciones, por haber dictado la Resolución Exenta N° 2500100301835, de 5 de diciembre de 2025, que rechazó su solicitud de residencia definitiva y dispuso su abandono del país en un plazo de 15 días.
+
+Sostiene que es un hecho de público conocimiento que la República de Haití atraviesa una crisis político-social y económica generalizada, con un debilitamiento extremo de sus instituciones y un recrudecimiento de la violencia, lo que hace extraordinariamente difícil y, en ocasiones, imposible obtener documentos oficiales como el certificado de antecedentes penales debidamente apostillado.
+
+Arguye que el plazo de 10 días otorgado por el Servicio para subsanar la falta de documentos es insuficiente y desproporcionado, pues constituye una obligación imposible de cumplir dada la burocracia internacional requerida para documentos que dependen de un Estado en crisis.
+
+Destaca que el amparado reside en Chile desde el 3 de enero de 2018, contando con más de ocho años de permanencia legal ininterrumpida, posee RUT definitivo, ha sido titular de residencias temporales previas y mantiene un vínculo laboral vigente en la comuna de San Felipe, lo que demuestra un arraigo social y económico en el país.
+
+Afirma que la orden de abandono, aunque la autoridad la califique de voluntaria, constituye una amenaza real, pues su incumplimiento deriva necesariamente en un decreto de expulsión, dejándolo en la indefensión.
+
+A folio 4 informa el Servicio Nacional de Migraciones solicitando el rechazo de la acción.
+Sostiene que la resolución recurrida es legal pues el amparado no adjuntó documentación que acreditara sustento económico ni el certificado de antecedentes de su país de origen apostillado, requisitos exigidos por el artículo 88 N° 1 y N° 4 de la Ley N° 21.325.
+
+Indica que, previo al rechazo, se notificó al interesado el 10 de julio de 2025 otorgándole 10 días hábiles para subsanar los errores, plazo que venció sin que el amparado desvirtuara la causal de rechazo.
+
+Defiende que la orden de abandono es una consecuencia imperativa y necesaria de todo rechazo de residencia según el artículo 91 de la ley migratoria, y que esta no es equivalente a una expulsión compulsiva, sino una invitación al cumplimiento voluntario de la normativa.
+
+Menciona que el amparado incurrió en lagunas de residencia irregular y multas previas, lo que elevó el requisito de permanencia temporal a 36 meses antes de optar a la definitiva, plazo que, a juicio del Servicio, no se habría cumplido correctamente.
+A folio 5 se trajeron los autos en relación.
+Con lo relacionado y considerando:
+Primero: Que, la acción de amparo tiene por objeto proteger la libertad personal y la seguridad individual frente a actos u omisiones ilegales, según lo dispone el artículo 21 de la Constitución Política de la República.
+
+Segundo: Que, por esta vía cautelar, se cuestiona la legalidad y razonabilidad de la Resolución Exenta N° 2500100301835 de 5 de diciembre de 2025, dictada por el Servicio Nacional de Migraciones, que rechazó la residencia definitiva y ordenó el abandono del país.
+
+Tercero: Que, del análisis de los antecedentes acompañados, particularmente de la comunicación electrónica de 10 de julio de 2025 denominada "Notificación Previo Rechazo", es posible advertir que la recurrida solicitó al amparado subsanar una serie de observaciones documentales, tales como el certificado de antecedentes penales del país de origen y documentos para acreditar sustento económico. Sin embargo, resulta forzoso constatar que en dicha oportunidad la autoridad administrativa nada observó respecto a un eventual incumplimiento de los plazos para optar al permiso solicitado. No obstante, la resolución sancionatoria impugnada esgrime posteriormente que el solicitante no cumple con los plazos para optar al permiso solicitado, fundamento que no fue puesto en su conocimiento durante la etapa de subsanación, impidiéndole ejercer su derecho a defensa sobre dicho punto y generando una evidente situación de incertidumbre jurídica.
+Cuarto: Que, constituye un hecho público y notorio la grave crisis que afecta a la República de Haití, lo que genera dificultades extremas para que sus ciudadanos obtengan documentos oficiales apostillados. El plazo de 10 días otorgado originalmente por la administración resulta insuficiente y desproporcionado frente a esta realidad, transformando una carga administrativa en una obligación de imposible cumplimiento.
+
+Quinto: Que, el amparado registra ingreso al país el 3 de enero de 2018, contando con más de ocho años de permanencia en Chile, donde ha desarrollado su vida, lo que configura un arraigo en el territorio nacional que la autoridad debió ponderar antes de dictar una medida de abandono.
+
+Sexto: Que, al no haberse respetado el derecho del amparado a conocer todos los fundamentos del rechazo de manera previa y al imponer requisitos documentales bajo plazos irrazonables dada la situación de su país de origen, el acto administrativo deviene en ilegal, justificando la intervención de esta Corte para restablecer el imperio del derecho.
+
+Por estas consideraciones y visto lo dispuesto en el artículo 21 de la Constitución Política de la República, se acoge, sin costas, la acción de amparo interpuesta en favor de Obshter Ilton Lamour, y en consecuencia se deja sin efecto la Resolución Exenta N° 2500100301835 de 5 de diciembre de 2025 del Servicio Nacional de Migraciones, por lo que la autoridad recurrida deberá otorgar al amparado un plazo de 180 días, contados desde que la presente sentencia quede firme, para que este acompañe el certificado de antecedentes de su país de origen debidamente apostillado y/o la documentación que acredite su actividad económica o sustento. Una vez cumplido dicho plazo, el Servicio Nacional de Migraciones deberá dictar una nueva resolución resolviendo la solicitud de residencia definitiva conforme a derecho.
+Regístrese, notifíquese, comuníquese y archívese, en su oportunidad.
+
+N° Amparo-291-2026.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de ValparaísoValparaíso, dos de febrero de dos mil veintiséis.Vistos:A folio 1 el abogado Tomás Guillermo Matheson Mujica, en representación de Obshter Ilton Lamour, ciudadano de nacionalidad haitiana, interpone acción constitucional de amparo en contra del Servicio Nacional de Migraciones, por haber dictado la Resolución Exenta N° 2500100301835, de 5 de diciembre de 2025, que rechazó su solicitud de residencia definitiva y dispuso su abandono del país en un plazo de 15 días. Sostiene que es un hecho de público conocimiento que la República de Haití atraviesa una crisis político-social y económica generalizada, con un debilitamiento extremo de sus instituciones y un recrudecimiento de la violencia, lo que hace extraordinariamente difícil y, en ocasiones, imposible obtener documentos oficiales como el certificado de antecedentes penales debidamente apostillado.Arguye que el plazo de 10 días otorgado por el Servicio para subsanar la falta de documentos es insuficiente y desproporcionado, pues constituye una obligación imposible de cumplir dada la burocracia internacional requerida para documentos que dependen de un Estado en crisis.Destaca que el amparado reside en Chile desde el 3 de enero de 2018, contando con más de ocho años de permanencia legal ininterrumpida, posee RUT definitivo, ha sido titular de residencias temporales previas y mantiene un vínculo laboral vigente en la comuna de San Felipe, lo que demuestra un arraigo social y económico en el país.Afirma que la orden de abandono, aunque la autoridad la califique de voluntaria, constituye una amenaza real, pues su incumplimiento deriva necesariamente en un decreto de expulsión, dejándolo en la indefensión.A folio 4 informa el Servicio Nacional de Migraciones solicitando el rechazo de la acción.Sostiene que la resolución recurrida es legal pues el amparado no adjuntó documentación que acreditara sustento económico ni el certificado de antecedentes de su país de origen apostillado, requisitos exigidos por el artículo 88 N° 1 y N° 4 de la Ley N° 21.325.Indica que, previo al rechazo, se notificó al interesado el 10 de julio de 2025 otorgándole 10 días hábiles para subsanar los errores, plazo que venció sin que el amparado desvirtuara la causal de rechazo.Defiende que la orden de abandono es una consecuencia imperativa y necesaria de todo rechazo de residencia según el artículo 91 de la ley migratoria, y que esta no es equivalente a una expulsión compulsiva, sino una invitación al cumplimiento voluntario de la normativa.Menciona que el amparado incurrió en lagunas de residencia irregular y multas previas, lo que elevó el requisito de permanencia temporal a 36 meses antes de optar a la definitiva, plazo que, a juicio del Servicio, no se habría cumplido correctamente.A folio 5 se trajeron los autos en relación.Con lo relacionado y considerando:Primero: Que, la acción de amparo tiene por objeto proteger la libertad personal y la seguridad individual frente a actos u omisiones ilegales, según lo dispone el artículo 21 de la Constitución Política de la República.Segundo: Que, por esta vía cautelar, se cuestiona la legalidad y razonabilidad de la Resolución Exenta N° 2500100301835 de 5 de diciembre de 2025, dictada por el Servicio Nacional de Migraciones, que rechazó la residencia definitiva y ordenó el abandono del país. Tercero: Que, del análisis de los antecedentes acompañados, particularmente de la comunicación electrónica de 10 de julio de 2025 denominada "Notificación Previo Rechazo", es posible advertir que la recurrida solicitó al amparado subsanar una serie de observaciones documentales, tales como el certificado de antecedentes penales del país de origen y documentos para acreditar sustento económico. Sin embargo, resulta forzoso constatar que en dicha oportunidad la autoridad administrativa nada observó respecto a un eventual incumplimiento de los plazos para optar al permiso solicitado. No obstante, la resolución sancionatoria impugnada esgrime posteriormente que el solicitante no cumple con los plazos para optar al permiso solicitado, fundamento que no fue puesto en su conocimiento durante la etapa de subsanación, impidiéndole ejercer su derecho a defensa sobre dicho punto y generando una evidente situación de incertidumbre jurídica.Cuarto: Que, constituye un hecho público y notorio la grave crisis que afecta a la República de Haití, lo que genera dificultades extremas para que sus ciudadanos obtengan documentos oficiales apostillados. El plazo de 10 días otorgado originalmente por la administración resulta insuficiente y desproporcionado frente a esta realidad, transformando una carga administrativa en una obligación de imposible cumplimiento.Quinto: Que, el amparado registra ingreso al país el 3 de enero de 2018, contando con más de ocho años de permanencia en Chile, donde ha desarrollado su vida, lo que configura un arraigo en el territorio nacional que la autoridad debió ponderar antes de dictar una medida de abandono.Sexto: Que, al no haberse respetado el derecho del amparado a conocer todos los fundamentos del rechazo de manera previa y al imponer requisitos documentales bajo plazos irrazonables dada la situación de su país de origen, el acto administrativo deviene en ilegal, justificando la intervención de esta Corte para restablecer el imperio del derecho.Por estas consideraciones y visto lo dispuesto en el artículo 21 de la Constitución Política de la República, se acoge, sin costas, la acción de amparo interpuesta en favor de Obshter Ilton Lamour, y en consecuencia se deja sin efecto la Resolución Exenta N° 2500100301835 de 5 de diciembre de 2025 del Servicio Nacional de Migraciones, por lo que la autoridad recurrida deberá otorgar al amparado un plazo de 180 días, contados desde que la presente sentencia quede firme, para que este acompañe el certificado de antecedentes de su país de origen debidamente apostillado y/o la documentación que acredite su actividad económica o sustento. Una vez cumplido dicho plazo, el Servicio Nacional de Migraciones deberá dictar una nueva resolución resolviendo la solicitud de residencia definitiva conforme a derecho.Regístrese, notifíquese, comuníquese y archívese, en su oportunidad.N° Amparo-291-2026.                        ⚠                      Sin documento en esta instancia - pdf

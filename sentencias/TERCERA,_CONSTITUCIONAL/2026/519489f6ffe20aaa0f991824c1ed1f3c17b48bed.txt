@@ -1,0 +1,71 @@
+METADATA
+
+case_id: 519489f6ffe20aaa0f991824c1ed1f3c17b48bed
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8036097
+
+rol: 52765-2025
+
+fecha_sentencia: 2026-02-20
+
+caratulado: ARRIAGADA PINTO / MUNICIPALIDAD DE SAN JOAQUIN
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: ▪ Función pública
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veinte de febrero de dos mil veintiséis.
+
+Vistos y teniendo además presente:
+Que, en lo referido a los traslados y cambios de funciones que se cuestionan en el libelo por el recurrente, cabe señalar que el primero de ellos se produjo el doce de febrero de dos mil veinticinco y el segundo el once de junio del mismo año, de manera tal que la acción materia de estos autos, también fue ejercida fuera del plazo de treinta días corridos contenido en el numeral 1° del auto acordado que regula la materia.
+
+Por estas consideraciones, y en conformidad con lo dispuesto en el artículo 20 de la Constitución Política de la República, se confirma la sentencia apelada de fecha catorce de noviembre de dos mil veinticinco, pronunciada por la Corte de Apelaciones de Concepción, que rechazó el recurso de protección.
+
+Regístrese y devuélvase.
+
+Rol N° 51.066-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Concepción
+Concepción, catorce de noviembre de dos mil veinticinco.
+
+Visto:
+
+A fojas 1, con fecha 24 de septiembre de 2025, compareció el abogado don Sergio Eduardo Quezada Diez, en representación de don Carlos Eduardo Tapia Verdejo, interponiendo recurso de protección en contra de la Ilustre Municipalidad de Talcahuano y denuncia una cadena de omisiones y actos que calificó de ilegales y arbitrarios, que alteraron su estatus de funcionario y vulneraron su propiedad respecto de remuneraciones. Entre los actos impugnados, destacó el traslado de facto, la posterior destinación mediante Resolución Exenta (REX) N° 403 de 11 de junio de 2025, y, fundamentalmente, la omisión de dictar y notificar los actos de cese de la asignación del artículo 45 de la Ley N° 19.378, cuyo pago fue suspendido desde enero del año 2025. El recurrente solicitó que se ordene el pago íntegro de dicha asignación, con reajustes e intereses, desde enero de 2025 hasta la dictación del fallo.
+
+La Ilustre Municipalidad de Talcahuano, al evacuar su informe, solicitó el rechazo del recurso. Alegó que la asignación reclamada, al regirse por el artículo 45 de la Ley N° 19.378, posee un carácter especial y transitorio, cuya duración se extiende "como máximo hasta el 31 de diciembre de cada año". Señaló que el pago de dicha asignación en períodos anteriores (2023 y 2024) se materializó en virtud de los Decretos Alcaldicios N°109 de 2023 y N°39 de 2024, respectivamente. En consecuencia, el término del pago a contar del 1 de enero de 2025, constituyó la aplicación estricta de una norma de vigencia temporal. Además, la recurrida argumentó que la acción cautelar no es la vía idónea para debatir decisiones administrativas fundadas en la potestad organizacional y la ley, o para declarar derechos que no son indubitados.
+
+Se trajeron los autos en relación.
+
+Y considerando:
+
+Primero: Que, el recurso de protección constituye una acción constitucional de urgencia, de naturaleza cautelar, establecida a favor de quien, por causa de actos u omisiones arbitrarios o ilegales, sufra privación, perturbación o amenaza en el legítimo ejercicio de las garantías constitucionales. El plazo para la interposición de esta acción cautelar es fatal de treinta días corridos, contados desde la ejecución del acto o la ocurrencia de la omisión o, según la naturaleza de éstos, desde que se haya tenido noticias o conocimiento cierto de los mismos.
+
+Segundo: Que, conforme a los antecedentes expuestos, la principal omisión denunciada, consistente en el cese o no pago de la asignación del artículo 45 de la Ley N° 19.378, se verificó desde enero del año 2025. El recurrente tuvo conocimiento cierto de esta omisión a más tardar al recibir su liquidación de dicho mes, configurándose en ese momento el acto u omisión que le provoca la privación patrimonial. Habiéndose tomado conocimiento cierto de la omisión en el pago a principios de 2025, la acción de protección deducida con fecha 24 de septiembre de 2025, excede latamente el plazo de treinta días exigido por el Auto Acordado sobre la materia. Dicho plazo es objetivo y no puede quedar entregado al arbitrio de las partes. Por esta razón, el presente arbitrio debe ser rechazado por extemporáneo.
+
+Tercero: Que, es un presupuesto fundamental para la procedencia de la acción constitucional de protección la existencia de un "derecho indubitado" en favor del recurrente, el cual debe ser cierto, manifiestamente claro e incontrovertible. El recurso de protección no constituye una instancia para declarar derechos o para resolver controversias que, por su naturaleza, corresponden a un juicio declarativo ordinario de lato conocimiento.
+
+Cuarto: Que, la controversia principal en autos radica en si el recurrente posee un derecho adquirido a mantener el pago de la asignación de responsabilidad del artículo 45 de la Ley N° 19.378. La recurrida acreditó que la asignación percibida en el pasado se fundó en los Decretos Alcaldicios N°109 de 2023 y N°39 de 2024. Asimismo, se estableció que el propio tenor del artículo 45 de la Ley N° 19.378 confiere a dicha asignación un carácter transitorio y especial, limitando su duración como máximo hasta el 31 de diciembre de cada año.
+
+Quinto: Que, en consecuencia, la terminación del pago de la asignación a partir del 1 de enero de 2025 se corresponde con la aplicación estricta de una norma de vigencia temporal. El debate sobre si el recurrente cumplía con los requisitos para una renovación automática de dicha asignación, cuya validez se extingue por el solo ministerio de la ley al finalizar el período anual, constituye una cuestión de legalidad administrativa y de interpretación estatutaria que excede la naturaleza cautelar del presente recurso, impidiendo que el derecho reclamado pueda ser calificado de indubitado.
+
+Sexto: Que, por lo reflexionado precedentemente, al no concurrir el requisito de oportunidad de la acción, ni la existencia de un derecho indubitado que amerite la tutela constitucional urgente, la acción impetrada no puede prosperar.
+
+Por estas consideraciones, y visto además lo dispuesto en el artículo 20 de la Constitución Política de la República y en el Auto Acordado de la Excma. Corte Suprema sobre Tramitación y Fallo del Recurso de Protección de Garantías Constitucionales, SE RECHAZA, sin costas, el recurso de protección interpuesto por don Carlos Eduardo Tapia Verdejo en contra de la Ilustre Municipalidad de Talcahuano, por ser extemporáneo y por no tener un derecho indubitado.
+
+Regístrese y archívese.
+
+Redactada por el ministro Rodrigo Arnoldo Cortés Gutiérrez, quien no firma por encontrarse haciendo uso de permiso.
+
+Rol Corte 3943 - 2025 Protección
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de ConcepciónConcepción, catorce  de noviembre de dos mil veinticinco.Visto:A fojas 1, con fecha 24 de septiembre de 2025, compareció el abogado don Sergio Eduardo Quezada Diez, en representación de don Carlos Eduardo Tapia Verdejo, interponiendo recurso de protección en contra de la Ilustre Municipalidad de Talcahuano y denuncia una cadena de omisiones y actos que calificó de ilegales y arbitrarios, que alteraron su estatus de funcionario y vulneraron su propiedad respecto de remuneraciones. Entre los actos impugnados, destacó el traslado de facto, la posterior destinación mediante Resolución Exenta (REX) N° 403 de 11 de junio de 2025, y, fundamentalmente, la omisión de dictar y notificar los actos de cese de la asignación del artículo 45 de la Ley N° 19.378, cuyo pago fue suspendido desde enero del año 2025. El recurrente solicitó que se ordene el pago íntegro de dicha asignación, con reajustes e intereses, desde enero de 2025 hasta la dictación del fallo.La Ilustre Municipalidad de Talcahuano, al evacuar su informe, solicitó el rechazo del recurso. Alegó que la asignación reclamada, al regirse por el artículo 45 de la Ley N° 19.378, posee un carácter especial y transitorio, cuya duración se extiende "como máximo hasta el 31 de diciembre de cada año". Señaló que el pago de dicha asignación en períodos anteriores (2023 y 2024) se materializó en virtud de los Decretos Alcaldicios N°109 de 2023 y N°39 de 2024, respectivamente. En consecuencia, el término del pago a contar del 1 de enero de 2025, constituyó la aplicación estricta de una norma de vigencia temporal. Además, la recurrida argumentó que la acción cautelar no es la vía idónea para debatir decisiones administrativas fundadas en la potestad organizacional y la ley, o para declarar derechos que no son indubitados.Se trajeron los autos en relación.Y considerando:Primero: Que, el recurso de protección constituye una acción constitucional de urgencia, de naturaleza cautelar, establecida a favor de quien, por causa de actos u omisiones arbitrarios o ilegales, sufra privación, perturbación o amenaza en el legítimo ejercicio de las garantías constitucionales. El plazo para la interposición de esta acción cautelar es fatal de treinta días corridos, contados desde la ejecución del acto o la ocurrencia de la omisión o, según la naturaleza de éstos, desde que se haya tenido noticias o conocimiento cierto de los mismos.Segundo: Que, conforme a los antecedentes expuestos, la principal omisión denunciada, consistente en el cese o no pago de la asignación del artículo 45 de la Ley N° 19.378, se verificó desde enero del año 2025. El recurrente tuvo conocimiento cierto de esta omisión a más tardar al recibir su liquidación de dicho mes, configurándose en ese momento el acto u omisión que le provoca la privación patrimonial. Habiéndose tomado conocimiento cierto de la omisión en el pago a principios de 2025, la acción de protección deducida con fecha 24 de septiembre de 2025, excede latamente el plazo de treinta días exigido por el Auto Acordado sobre la materia. Dicho plazo es objetivo y no puede quedar entregado al arbitrio de las partes. Por esta razón, el presente arbitrio debe ser rechazado por extemporáneo.Tercero: Que, es un presupuesto fundamental para la procedencia de la acción constitucional de protección la existencia de un "derecho indubitado" en favor del recurrente, el cual debe ser cierto, manifiestamente claro e incontrovertible. El recurso de protección no constituye una instancia para declarar derechos o para resolver controversias que, por su naturaleza, corresponden a un juicio declarativo ordinario de lato conocimiento.Cuarto: Que, la controversia principal en autos radica en si el recurrente posee un derecho adquirido a mantener el pago de la asignación de responsabilidad del artículo 45 de la Ley N° 19.378. La recurrida acreditó que la asignación percibida en el pasado se fundó en los Decretos Alcaldicios N°109 de 2023 y N°39 de 2024. Asimismo, se estableció que el propio tenor del artículo 45 de la Ley N° 19.378 confiere a dicha asignación un carácter transitorio y especial, limitando su duración como máximo hasta el 31 de diciembre de cada año.Quinto: Que, en consecuencia, la terminación del pago de la asignación a partir del 1 de enero de 2025 se corresponde con la aplicación estricta de una norma de vigencia temporal. El debate sobre si el recurrente cumplía con los requisitos para una renovación automática de dicha asignación, cuya validez se extingue por el solo ministerio de la ley al finalizar el período anual, constituye una cuestión de legalidad administrativa y de interpretación estatutaria que excede la naturaleza cautelar del presente recurso, impidiendo que el derecho reclamado pueda ser calificado de indubitado.Sexto: Que, por lo reflexionado precedentemente, al no concurrir el requisito de oportunidad de la acción, ni la existencia de un derecho indubitado que amerite la tutela constitucional urgente, la acción impetrada no puede prosperar.Por estas consideraciones, y visto además lo dispuesto en el artículo 20 de la Constitución Política de la República y en el Auto Acordado de la Excma. Corte Suprema sobre Tramitación y Fallo del Recurso de Protección de Garantías Constitucionales, SE RECHAZA, sin costas, el recurso de protección interpuesto por don Carlos Eduardo Tapia Verdejo en contra de la Ilustre Municipalidad de Talcahuano, por ser extemporáneo y por no tener un derecho indubitado.Regístrese y archívese.Redactada por el ministro Rodrigo Arnoldo Cortés Gutiérrez, quien no firma por encontrarse haciendo uso de permiso.Rol Corte 3943 - 2025 Protección                        ⚠                      Sin documento en esta instancia - pdf
