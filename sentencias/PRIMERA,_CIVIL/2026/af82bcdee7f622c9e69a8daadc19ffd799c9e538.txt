@@ -1,0 +1,924 @@
+METADATA
+
+case_id: af82bcdee7f622c9e69a8daadc19ffd799c9e538
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8036546
+
+rol: 2666-2026
+
+fecha_sentencia: 2026-02-23
+
+caratulado: MARTÍNEZ JARA MARINA Y OTROS/MARTINEZ JARA MARINA
+
+sala: PRIMERA, CIVIL
+
+materias: ▪ Admisibilidad del recurso de casación en el fondo
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: RECHAZA CASACION EN EL FONDO
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+1
+1
+11
+Santiago, veintitrés de febrero de dos mil veintiséis.
+Vistos y teniendo presente:
+Primero: En estos autos Rol Corte Suprema N° 40.270-2025, caratulados “Jara Fernández, Gerardo con Fisco de Chile”, juicio ordinario sobre nulidad de derecho público, se ha ordenado dar cuenta, de conformidad con el artículo 782 del Código de Procedimiento Civil, del recurso de casación en el fondo deducido por la parte demandante, en contra de la decisión de la Corte de Apelaciones de Temuco, que confirmó el fallo dictado por el Primer Juzgado Civil de dicha ciudad, que acogió la excepción de incompetencia absoluta del tribunal.
+
+Segundo: En su demanda el actor solicitó la declaración de nulidad de derecho público de la sentencia dictada por el Tribunal de Juicio Oral en lo Penal de Temuco, de fecha 22 de julio del año 2018, en causa Rit 54-2018, Ruc 1700268031-9, en aquella parte que dispuso “el comiso del inmueble ubicado en pasaje Trinidad Candia Marverde N° 0756, de la comuna de Temuco, inscrito a fojas 1210 N° 895 del año 2017 del Registro de Propiedad del CBR de Temuco”, declaración para la cual, asevera, el Tribunal carecía de facultades, toda vez que el mismo fallo decidió su absolución, de lo cual se sigue la inexistencia del motivo invocado, aun cuando reconoce que su cónyuge, copropietaria del inmueble, fue condenada como autora del delito de cohecho agravado reiterado.
+Tercero: La sentencia de primer grado, confirmada sin modificaciones por el tribunal de alzada, razonó que el objeto de la acción es la impugnación de la validez de una resolución judicial que se encuentra firme y ejecutoriada, de modo que no es posible seguir adelante con el proceso, por cuanto ello implicaría permitir una relación procesal que sitúa al juez en la necesidad de pronunciarse respecto del actuar de otro tribunal de la República, lo cual se aleja de los principios rectores del derecho, en especial el de certeza jurídica para los litigantes, motivo por el cual se acogió la excepción de incompetencia.
+
+Cuarto: El arbitrio de nulidad sustancial denuncia la infracción del artículo 7° del Código Orgánico de Tribunales, puesto que la acción deducida tiene como finalidad que los órganos sometan su actuar a la Constitución y a la ley, declaración que necesariamente debe ser efectuada por un tribunal civil y se sustenta, en este caso, en la ausencia de motivo legal para la dictación de la sentencia, en la parte impugnada.
+A continuación, alega la contravención del artículo 8° del Código Orgánico de Tribunales, en tanto, aun cuando es efectivo que ningún tribunal puede avocarse a negocios pendientes ante otro, en este caso se trata de una causa que ya está firme y rige el principio de inexcusabilidad contemplado en el artículo 10 del mismo cuerpo normativo.
+Finalmente, acusa la transgresión del artículo 7° de la Constitución Política de la República, norma rectora en materia de nulidad de derecho público y conforme a la cual la única sede para conocer de la acción es precisamente la ordinaria civil.
+
+Quinto: El recurrente culmina señalando que los yerros anteriores tuvieron influencia sustancial en lo dispositivo del fallo, toda vez que la tesis del tribunal implicaría consagrar la impunidad de actos nulos, por el solo hecho de haber sido dictados por tribunales de justicia, lo cual es contrario al principio de juridicidad.
+
+Sexto: Con respecto a la cuestión sustantiva que se ventila en estos autos, debe recordarse que la acción de nulidad de derecho público es aquella que persigue la ineficacia jurídica de aquellos actos de los órganos del Estado en los que faltan algunas de las exigencias que el ordenamiento requiere para su existencia y validez. La doctrina ha conceptualizado el objeto de la pretensión como la declaración de “ineficacia de los actos estatales dictados en contravención al principio de juridicidad contemplado en los artículos 6° y 7° de la Constitución Política de la República” (Jaime Jara Schnettler. La nulidad de derecho público ante la doctrina y la jurisprudencia. Editorial Libromar, 2004, pág. 29). Como se aprecia, se trata de una institución destinada a garantizar la vigencia del principio de legalidad, de acuerdo con el cual en el ejercicio de sus funciones los órganos del Estado deben someterse al sistema jurídico en su conjunto, presidido por la Constitución y conformado por las leyes y demás cuerpos normativos dictados conforme a ella.
+
+Séptimo: Ahora bien, como ha postulado esta Corte (particularmente, en sentencia de 25 de septiembre de 2017, Rol Nº 100.755-2016), el artículo 7º de la Constitución no establece una acción procesal específica encaminada a obtener la anulación de actos estatales, sino solo encierra el principio de legalidad que rige la actuación de los órganos públicos, principio cuya observancia se hace efectiva por los interesados recurriendo ante los tribunales de justicia para obtener la anulación de los actos contrarios a derecho.
+En este sentido, la denominada “acción de nulidad de derecho público” por la doctrina y aceptada por la jurisprudencia, es toda acción o gestión encaminada a obtener, por parte de un tribunal de la República, la anulación de un acto estatal. Estas acciones pueden establecerse por el legislador para situaciones concretas y respecto de materias determinadas, como es el caso de los casi doscientos procedimientos de reclamo reconocidos en materia contencioso administrativa. Cuando existe una acción específica de “nulidad de derecho público” contemplada en la ley, es ella y no otra la que ha de ejercerse, ante los tribunales competentes y por medio del procedimiento allí establecido. Sin embargo, si la ley no contempla ningún procedimiento o acción especial para impugnar el acto solicitando su anulación, se puede utilizar el procedimiento ordinario.
+Octavo: Este carácter subsidiario o residual de la acción innominada de derecho público –radicada en la sede ordinaria civil mediante el procedimiento del juicio ordinario– es especialmente relevante para el caso en estudio, en que la acción deducida se dirige a impugnar una sentencia judicial, esto es, a modificarla o dejarla al menos parcialmente sin efecto.
+
+El derecho procesal chileno reconoce diversos mecanismos dirigidos a pronunciar la nulidad procesal de actuaciones o de resoluciones judiciales. Los recursos procesales, tanto de enmienda como de nulidad, son precisamente los caminos que permiten purgar los vicios de legalidad que se cometieren en un proceso judicial, por lo que se muestran –según lo razonado en los motivos que anteceden– como los mecanismos tendientes a hacer valer la nulidad de derecho público de actuaciones procesales o de resoluciones procesales.
+Noveno: Tratándose en particular de sentencias firmes o ejecutoriadas, como lo es aquella que se impugna en el caso, la procedencia de los recursos se ve severamente reducida.
+
+Conceptualmente, tal como prescribe el artículo 174 del Código de Procedimiento Civil, “Se entenderá firme o ejecutoriada una resolución desde que se haya notificado a las partes, si no procede recurso alguno en contra de ella; y, en caso contrario, desde que se notifique el decreto que la mande cumplir, una vez que terminen los recursos deducidos, o desde que transcurran todos los plazos que la ley concede para la interposición de dichos recursos, sin que se hayan hecho valer por las partes. En este último caso, tratándose de sentencias definitivas, certificará el hecho el secretario del tribunal a continuación del fallo, el cual se considerará firme desde este momento, sin más trámites”.
+Así pues, y exceptuado el caso extraordinario del denominado “Recurso de revisión” –que regulan en materia criminal los artículos 473 y siguientes del Código Procesal Penal–, una sentencia ejecutoriada sencillamente no admite recursos en su contra.
+
+El valor de la cosa juzgada se opone, precisamente, al cuestionamiento indefinido de las materias que hayan sido resueltas por sentencia firme.
+Décimo: El régimen de gestiones y recursos procesales tendientes a anular actuaciones o resoluciones judiciales supone la atribución de competencias específicas a los tribunales llamados a intervenir en la materia, por medio de procedimientos especiales.
+Ese régimen de competencias excluye, correlativamente, la intervención de un juez de letras con competencia civil en la apreciación de la validez de las actuaciones practicadas y de las resoluciones expedidas por otro tribunal de la República, con miras a dejarlas sin efecto. Con mayor razón le está vedada la revisión de sentencias firmes, materia de competencia exclusiva de esta Corte Suprema.
+
+Por eso, al declararse incompetentes para conocer de la demanda deducida en estos autos, los jueces del fondo no han incurrido en los errores de derecho que les atribuye el recurrente.
+Undécimo: Finalmente, queda en evidencia que lo realmente pretendido con la acción en examen es eludir la cosa juzgada que emana de la sentencia penal cuestionada, defraudando así una de las instituciones en que reposa el Estado de Derecho, objetivo a todas luces incompatible con los que persigue la acción de nulidad de derecho público.
+
+Por todo lo anterior, el recurso de casación en el fondo deberá ser rechazado, atendida su manifiesta falta de fundamento.
+
+Por estas consideraciones y de conformidad además con lo dispuesto en el artículo 782 del Código de Procedimiento Civil, se rechaza el recurso de casación en el fondo deducido en lo principal de la presentación de once de septiembre de dos mil veinticinco, en contra de la sentencia de veintisiete de agosto del mismo año, dictada por la Corte de Apelaciones de Temuco.
+
+Regístrese y devuélvase.
+Redacción a cargo del Abogado Integrante señor Valdivia.
+Rol N° 40.270-2025.
+Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los Ministros (as) Sra. Adelita Ravanales A., Sr. Diego Simpértigue L., Sr. Gonzalo Ruz L., y los Abogados Integrantes Sra. María Angélica Benavides C. y Sr. José Valdivia O. No firman, no obstante haber concurrido a la vista y al acuerdo de la causa, los Ministros Sra. Ravanales por estar con feriado legal y Sr. Simpértigue por haber cesado en funciones.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Temuco
+Temuco, veintisiete de agosto de dos mil veinticinco.
+
+Al folio 29 y 30: A lo principal y al otrosí: Téngase presente.
+
+Vistos:
+
+Atendido el mérito de los antecedentes, se confirma la sentencia de fecha veintitrés de septiembre de dos mil veinticuatro, rolante a folio 86 del cuaderno principal de la tramitación de primera instancia.
+
+Regístrese y devuélvase.
+
+Rol N° Civil-1744-2024.(jog)
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C-1070-2022
+
+Foja: 1
+
+FOJA: 119 .- .-
+
+NOMENCLATURA : 1. [40]Sentencia
+JUZGADO : 1 Juzgado Civil de Temucoº
+CAUSA ROL : C-1070-2022
+CARATULADO : JARA/ESTADO CHILENO-CONSEJO DE
+DEFENSA
+
+Temuco, veintitr s de septiembre de dos mil veinticuatroé
+
+VISTOS:
+Al folio 1 del cuaderno principal, se presenta don RODRIGO ISMAEL
+
+GAJARDO TORO, Abogado, Rut 11.687.334-6, con domicilio en calle Antonio Varas
+N 989 oficina 1104, Temuco, en representaci n de don GERARDO ANDR S JARAº ó É
+FERN NDEZ, Rut 14.215.495-1, con domicilio en Los Arrieros N 1575, Temuco, yÁ °
+deduce demanda en Juicio Ordinario de Nulidad de Derecho P blico contra el Consejoú
+de Defensa del Estado de la Novena Regi n de la Araucan a, a trav s de suó í é
+representante legal Abogado procurador fiscal don lvaro S ez Willer, por los siguientesÁ á
+fundamentos de hecho y derecho:
+1. Los Tribunales de Justicia son rganos que conforman el poder judicial de Chile, no“ ó
+
+poseen personalidad jur dica propia, por lo que son representados legalmente por elí
+Consejo de Defensa del Estado, instituci n de derecho p blico, representada, a su vez,ó ú
+por su Abogado Procurador Fiscal de la Novena Regi n don lvaro S ez Willer, ambosó Á á
+domiciliados en Arturo Prat N 847, oficina 202, Temuco.º
+2.- En atenci n a lo dispuesto expresamente en el art culo 134 del C digo Org nico deó í ó á
+Tribunales, venimos en demandar de nulidad de derecho p blico, la sentencia dictadaú
+por el Tribunal de Juicio Oral en lo Penal de Temuco, de fecha 22 de julio del a oñ
+2018, en causa Rit 054 2018, Ruc 1700268031-9, solo – en aquella parte que en su
+decisi n VI orden lo siguiente Que se decreta el comiso del inmueble ubicado enó ó “
+pasaje Trinidad Candia Marverde N 0756, de la comuna de Temuco, inscrito a fojas°
+1210 N 895 del a o 2017 del Registro de Propiedad del CBR de Temuco .° ñ ”
+ANTECEDENTES DE LA ACCI NÓ
+1.- Esta causa fue seguida por el Ministerio P blico de Temuco y el Consejo de defensaú
+del estado como parte querellante, en contra de mi representado don GERARDO
+ANDR S JARA FERN NDEZ, RUN N 14.215.495-1 y de do a MAR AÉ Á ° ñ Í
+ALEJANDRA RODR GUEZ HENR QUEZ, RUN 15.246.546-7, domiciliada en calleÍ Í
+Barros Arana 05011 Valle de Asturias Temuco, entre otros acusados, por los delitos de
+Lavado de activos en contra de mi representado Jara Fern ndez art culo 27 de la Ley Ná í °
+19.913 y en contra de la segunda por los ilicitos de A) cohecho agravado, reiterado,
+il cito descrito y sancionado en el art culo 248 bis del C digo Penal; B) el delito deí í ó
+falsificaci n de instrumento p blico, reiterado, il cito descrito y sancionado en el art culoó ú í í
+193 N 4 del C digo Penal, y; C) el delito de lavado de activos, il cito descrito y° ó í
+sancionado en el art culo 27 de la Ley N 19.913.í °
+2. - Finalmente en la sentencia el Tribunal absolvi a mi representado por el nico delitoó ú
+que se le acuso, lavado de activos, as como tambi n a do a MAR A ALEJANDRAí é ñ Í
+RODR GUEZ HENR QUEZ.Í Í
+3.- Sin embargo como se adelant , el Tribunal sin tener facultades legales en el N 6 deó º
+la parte resolutiva orden el comiso del inmueble ubicado en pasaje Trinidad Candiaó
+Marverde N 0756, de l° a comuna de Temuco, inscrito a fojas 1210 N 895 del a o 2017° ñ
+del Registro de Propiedad del CBR de Temuco.
+
+Código: GNCNXQSUCXB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-1070-2022
+
+Foja: 1
+4.- Este es un inmueble que fue comprado por mi representado don Gerardo Jara
+Fern ndez para sus hijas menores Ignacia Anais y Constanza Stephania, ambas Jaraá
+Rodr guez y a favor de la madre de ambas Mar a Alejandra Rodr guez Henr quez,í í í í
+quien fuera la coimputada en la causa en cuesti n.ó
+5. - El Ministerio P blico pidi el comiso de esta casa, amparado en la ley 19.913, queú ó
+establece el comiso como pena accesoria de este delito, de todos los efectos que
+provengan del mismo, se alando este ente persecutor que esta casa hab a sido compradañ í
+con el producto de este delito.
+6.- Sin embargo como ya se adelant ambos acusados fueron absueltos por el Tribunaló
+por este delito de lavado de activos y sin embargo el Tribunal de todas formas y
+erradamente orden el comiso de esta vivienda, sin tener norma legal que lo facultaraó
+para dictar esta sanci n penal.ó
+LA NULIDAD DE DERECHO P BLICOÚ
+Existen muchas maneras de explicar la naturaleza y alcance de la Nulidad de Derecho
+P blico. Sobre ella han escrito con erudici n y elocuencia importantes acad micos (Sotoú ó é
+Kloss, Eduardo: La Nulidad de Derecho P blico en el Derecho chileno , en Derecho“ ú ”
+Administrativo. Temas fundamentales , Abeledo Perrot, 2010, pp. 443-483 y Fiamma,”
+Gustavo: La Acci n Constitucional de nulidad. Un supremo aporte del Constituyente“ ó
+de 1980 al Derecho Procesal Administrativo , Revista de Derecho y Jurisprudencia, A o” ñ
+1986, Tomo LXXXIII).
+En esta ocasi nó , sin perjuicio de recomendar la relectura una y otra vez de los autores
+citados, nos ha parecido preferible reproducir algunas ideas contenidas en una sentencia
+de la Corte de Apelaciones de Santiago que, a prop sito de una demanda de este tipo,ó
+sintetizan admirablemente cu l es la finalidad de esta acci n.á ó
+Dijo la Ilustr sima Corte en S nchez Michea con Fisco (1998), en redacci n delí “ á ” ó
+Ministro Juica: Que caracteriza al derecho p blico la preeminencia del inter s general“ ú é
+por sobre el particular, de modo que los rganos, entes y cuerpos que por l se rigen,ó é
+est n sometidos en su acci n a limitaciones que no tienen parang n en el mbitoá ó ó á
+esencialmente liberal del derecho privado. Ello se traduce en verdaderos axiomas del
+derecho p blico, universalmente aceptados como tales.ú
+En primer lugar, el de que s lo puede hacerse lo que la ley expresamente autoriza,ó
+axioma que informa el principio de legalidad del servicio p blico, el cual deviene al casoú
+que nos convoca.
+En segundo lugar, el de que debe cumplirse lo que la ley ordena, manda o autoriza,
+m xima que inspira el principio de reserva legal.á
+En tercer y ltimo t rmino el que debe actuarse en funci n de los fines para los cuales laú é ó
+administraci n fue en cada caso establecida o prevista, basamento ste que da cuerpo aó é
+la teor a de la desviaci n de fin.í ó
+A grandes rasgos, este es el marco esencial de la juridicidad de la actividad del Estado, a
+la luz del que y en el contexto del cual debe enfocarse la nulidad pendiente .”
+CAUSALES DE NULIDAD
+Como se sabe, el fundamento de texto positivo de esta Acci n de Nulidad de Derechoó
+P blico descansa en el art culo 7 de la Constituci n Pol tica de la Rep blica, que luegoú í ó í ú
+de declarar que los rganos del Estado act an v lidamente previa investidura regular deó ú á
+sus integrantes, dentro de su competencia y de acuerdo con las formas legales y que ni
+siquiera la concurrencia de circunstancias extraordinarias confiere poderes no atribuidos
+a la autoridad, establece que la infracci n a este principio es la nulidad.ó
+En cuanto a los vicios concretos que pueden dar lugar a la sanci n de nulidad, laó
+jurisprudencia de nuestra Excelent sima Corte Suprema ha se alado que entre ellos seí ñ
+encuentran la ausencia de investidura regular del rgano respectivo, la incompetencia deló
+mismo, la inexistencia de motivo legal o motivo invocado, la existencia de vicios de
+forma y procedimiento en la generaci n del acto, la violaci n de ley de fondo atinente aó ó
+la materia y la desviaci n de poder (p.e. y recientemente, v ase Hilda Gonzalezó é “
+Vergara con Empresas de Servicios Sanitarios del Bio Bio S.A , de 9 de Agosto de 2011,”
+Rol 2.217-2009, Considerandos 9 y 10).
+La doctrina ha planteado que bajo el r tulo Nulidad de Derecho P blico tienden aó ú
+confundirse dos instituciones distintas: la acci n que busca, estrictamente, la nulidad deó
+un acto administrativo y la acci n que busca obtener una declaraci n de un derecho aó ó
+favor de un particular.
+
+Código: GNCNXQSUCXB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-1070-2022
+
+Foja: 1
+Precisamente en el caso que nos convoca la nulidad que solicitamos es la declaraci n deó
+nulidad del acto por la inexistencia de motivo legal o motivo invocado puesto que la
+sentencia que motiva esta acci n como se dijo en el N 6 de su parte resolutiva conden ,ó º ó
+sin existir ley que lo faculte, principio de reserve legal o de tipicidad en derecho penal, al
+comiso del inmueble ubicado en pasaje Trinidad Candia Marverde N 0756, de la°
+comuna de Temuco, inscrito a fojas 1210 N 895 del a o 2017 del Registro de° ñ
+Propiedad del CBR de Temuco.
+Por definici n el comiso como sanci n penal se se ala en el art culo 21 del C digo Penaló ó ñ í ó
+el cual dispone dentro de la clasificaci n de las penas, La Multa y la define comoó
+P rdida o comiso de los instrumentos o efectos del delito. . Por consiguiente y por“ é “
+
+tratarse de una pena debe existir una ley que sancione la conducta con dicha pena,
+dictada con anterioridad a la comisi n del acto t pico.ó í
+El principio de legalidad del delito y la pena, tambi n conocido como principio deé
+reserva legal de delitos y penas, con plena y estricta aplicaci n en el derecho penal, vieneó
+impuesto constitucionalmente por los incisos 7 y 8 del art culo 19 N 3, desde el° ° í °
+momento en que el constituyente asegura a todas las personas, que: Ning n delito se“ ú
+castigar con otra pena que la que se ale una ley promulgada con anterioridad a suá ñ
+perpetraci n, a menos que una nueva ley favorezca al afectado y que Ninguna leyó …” “
+podr establecer penas sin que la conducta que se sancione est expresamente descrita ená é
+ella .…”
+En el caso que nos convoca, mi representado don Gerardo Jara Fern ndez y do a Mar aá ñ í
+Alejandra Rodr guez Henr quez comoí í se dijo fueron acusados por el delito de lavado de
+activos del art culo 27 de la ley 19913, ley que establece como sanci n el comiso de lasí ó
+especies materia del delito, pero ambos fueron absueltos de este delito, por consiguiente
+el Tribunal no ten a facultad legal para imponer esta condena si el nico delito que loí ú
+facultaba para aplicar dicha sanci n hab a sido desechado por la misma sentencia yó í
+respecto de ambos encartados, luego esta sanci n adolece de nulidad de derecho p blico,ó ú
+el Tribunal act o sin ley previa que lo faculte para aplicar esta sanci n.ú ó
+En la parte resolutiva en los N 1 y 2 de la sentencia en cuesti n se indica I.- Que, seº ó “
+ABSUELVE sin costas a MAR A ALEJANDRA RODR GUEZ HENR QUEZ, RUNÍ Í Í
+15.246.546-7, de los cargos por los que fue sindicada como autora de los delitos de
+lavado de activos y de alteraci n maliciosa de sistemas de tratamiento de informaci n. II.ó ó
+- Que, se ABSUELVE, sin costas, a GERARDO ANDR S JARA FERN NDEZ, RUNÉ Á
+N 14.215.495-1, de los cargos por los que fue sindicado como ° autor del delito de lavado
+de activos.
+Por consiguiente, al absolver a ambos acusados por el delito de lavado de activos, el
+Tribunal qued inmediatamente privado de poder aplicar la pena accesoria que es eló
+comiso de la casa a la cual se ha hecho menci n anteriormente.ó
+Otro argumento dice relaci n en la forma que este inmueble fue comprado por mió
+representado don Gerardo jara Fern ndez y que como se indica en la propia escritura deá
+compraventa y en el t tulo este compr el inmueble con dineros propios paraí ó sus dos
+hijas menores y do a Mar a Alejandra, pero estas jam s han ratificado o repudiado esañ í á
+compraventa, por lo que jur dicamente solo tienen un derecho para exigir que se cumplaí
+lo pactado en esa compraventa contra Gerardo Jara, pero en estricto rigor ese inmueble
+no ha entrado formalmente en el patrimonio de estos terceros, que siguen siendo ajenos
+al contrato mismo y por el momento este inmueble se mantiene dentro del patrimonio
+de mi representado don Gerardo Jara, quien fue absuelto de todos los cargos formulados
+en su contra por el ente persecutor penal.
+As el art culo 1449 del C digo Civil dispone Cualquiera puede estipular a favor de unaí í ó “
+tercera persona, aunque no tenga derecho para representarla; pero s lo esta terceraó
+persona podr demandar lo estipulado; y mientras no intervenga su aceptaci n expresa oá ó
+t cita, es revocable el contrato por la sola voluntad de las partes que concurrieron a l.á é
+Constituyen aceptaci n t cita los actos que s lo hubieran podido ejecutarse en virtud deló á ó
+contrato. .“
+Esta aclaraci n es necesaria tenerla presente aun cuando do a Maria Alejandra fueó ñ
+condenada por el delito de cohecho del art culo 248 bis del C digo Penal, que noí ó
+establece el comiso como pena accesoria, podr a interpretarse que aun as este inmuebleí í
+fue producto de este delito y el Tribunal podr a haber decretado el comiso del bien ra z,í í
+
+Código: GNCNXQSUCXB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-1070-2022
+
+Foja: 1
+pero como se dijo anteriormente este inmueble sigue siendo de don Gerardo Jara hasta
+que exista esta aceptaci n del cual nos menciona la norma antes citada.ó
+Pero aun cuando se estimara que no fuera necesaria esta aceptaci n, a n tenemos eló ú
+hecho que el inmueble tendr a tres due os, las dos menores y do a Mar a Alejandra, porí ñ ñ í
+lo que decretar esta sanci n estar a afectando derechos ajenos de las dos menores deó í
+edad.
+LEGITIMIDAD ACTIVA.
+No obstante el hecho incontestable que la Nulidad de Derecho P blico es, en nuestroú
+derecho, -y como se ha visto- una instituci n plenamente consolidada; hay que reconoceró
+que el ejercicio concreto de estas acciones ha suscitado importantes e interesantes
+discusiones. Han debido ser los propios jueces y Ministros, con el apoyo de la doctrina,
+quienes, en base a jurisprudencia conforme y fundamentada, han ido resolviendo algunas
+de las dudas planteadas.
+La determinaci n de cu les han de ser las condiciones que deben reunirse para losó á
+efectos de poder accionar la nulidad de derecho p blico es, precisamente, uno de losú
+aspectos en que la propia jurisprudencia de juzgados y Cortes ha ido avanzando en la
+convergencia de criterios (v ase sobre esta tem té á ica el esplendido trabajo del profesor
+Gonzalo Guerrero: La legitimaci n activa de la acci n constitucional de nulidad , en“ ó ó ”
+Ars Boni et Aequi, A o 7, N 1, 2011, pp. 9-43).ñ °
+Ser a razonable postular, nos parece, que tratando esta acci n sobre la licitud de actos yí ó
+contratos que conciernen un Bien que para nuestro Derecho positivo vigente no s lo esó
+de dominio absoluto, exclusivo, inalienable e imprescriptible del Estado, sino que,
+adem s, ha sido objeto de reserva expresa; todas y todos los chilenos estar aá í n habilitados
+para accionar a efectos que se respete dicha adjudicaci n. Ya sea que se le llameó
+dominio eminente o propiedad soberana , la verdad es que el dominio estatal en“ ” “ ”
+
+cuesti n no es asimilable ni a la relaci n entre el fisco y los bienes fiscales ni al nexoó ó
+entre las autoridades y los bienes nacionales. En el caso de los inmuebles se establece un
+estatuto especial en el C digo Civil respecto del registro e inscripci n de los mismos enó ó
+el respectivo Conservador de Bienes Ra ces, que adem s es tradici n como modo deí á ó
+adquirir el dominio y esta plenamente resguardado por el art culo 19 N 24 de laí º
+Constituci n Pol tica de la Rep blica.ó í ú
+Por consiguiente siendo mi representado el due o del inmueble y habiendo sidoñ
+interviniente del juicio que motiva esta acci n, es titular de la presente acci n contra eló ó
+Fisco de Chile.
+POR TANTO; En m rito de expuesto y lo dispuesto en los art culos 7 y 19 N 3 y 24é í ° °
+de la Constituci n Pol tica, art culos 582 y dem s del C digo Civil; art culos 21, y dem só í í á ó í á
+del C digo Peó nal, y los art culos 254 y siguientes del C digo de Procedimiento Civil;í ó
+Ruego a Ssa; Tener por interpuesta en juicio ordinario, esta demanda de Nulidad de
+Derecho P blico contra Consejo de Defensa del Estado de la Novena Regi n de laú ó
+Araucan a, a trav s de su representante legal Abogado procurador fiscal don lvaro S ezí é Á á
+Willer y declarar:
+a) Que, la sentencia dictada por el Tribunal de Juicio Oral en lo Penal de Temuco, de
+fecha 22 de julio del a o 2018, en causa Rit 054 2018, Ruc 1700268031-9, es nula dñ – e
+derecho p blico, por no haber estado facultado por ley el Tribunal para sancionar en suú
+decisi n VI orden lo siguiente Que se decreta el comiso del inmueble ubicado enó ó “
+pasaje Trinidad Candia Marverde N 0756, de la comuna de Temuco, inscrito a fojas°
+1210 N 895 del a o 2017 del Registro de Propiedad del CBR de Temuco o como° ñ ”
+Ssa., major estime conveniente.
+b) Que, la sentencia debe eliminar esa parte de su decisi n y que declaraci n de nulidadó ó
+del acto, se debe hacer efectiva desde el momento que quede firme y ejecutoriada la
+sentencia que as lo ordena o desde el momento que Ssa. determine.í
+c) Que, la demandada debe ser condenado al pago de las costas de la causa . ”
+
+Al folio 12 del cuaderno de excepci n dilatoriaó , con fecha 11 de enero de
+2023, se incorpora fallo dictado por la Corte de Apelaciones de Temuco que revoca la
+resoluci n de fecha 28 septiembre 2022, y en su lugar, se decide que se acoge laó
+excepci n dilatoria de falta de legitimaci n pasiva opuesta lvaro S ez Willer Abogadoó ó Á á
+Procurador Fiscal de Temuco, del Consejo de Defensa del Estado, domiciliado, debiendo
+la demandante efectuar las correcciones pertinentes a fin de notificar a qui n en derechoé
+
+Código: GNCNXQSUCXB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-1070-2022
+
+Foja: 1
+corresponda. En raz n de ello, se omitir pronunciamiento respecto de la contestaci nó á ó
+de demanda promovida por aquel al folio 17 del cuaderno principal.
+
+Al folio 27 del cuaderno principal, don Rodrigo Ismael Gajardo Toro,
+Abogado, por el demandante, rectifica la demanda en el sentido de se alar que la acci nñ ó
+se dirige en contra del Consejo de Defensa del Estado de Chile, Persona jur dica deí
+derecho P blico, Rut 61.006.000-5, representado por su Presidente Abogado Juanú
+Antonio Peribonio Poduje, con domicilio en calle Agustinas 1687, Santiago, Santiago,
+Xiii Region Metropolitana.
+
+Al folio 42 del cuaderno principal, comparece don JUAN ANTONIO
+PERIBONIO PODUJE, Abogado presidente del Consejo de Defensa del Estado, por el
+CONSEJO DE DEFENSA DEL ESTADO ambos domiciliado s en la comuna de
+Santiago, en calle Agustinas N 1225, piso 4, quien, por las razones de hecho y de°
+derecho que expone e invoca, solicita que, en definitiva, se rechace la referida demanda
+en todas sus partes, con expresa condenaci n en costas.ó
+“I. NEGATIVA DE LOS HECHOS QUE SIRVEN DE FUNDAMENTO A LA
+ACCION DE NULIDAD DE DERECHO PUBLICO EJERCITADA EN
+CONTRA DEL ESTADO DE CHILE:
+En esta contestaci n, el Consejo de Defensa del Estado niega la versi n de los hechosó ó
+afirmados en la demanda de autos, en cuanto tales hechos, directa o indirectamente,
+configuren o pudieren configurar los supuestos de hecho que sirven de fundamento a la
+acci n de nulidad de Derecho P blico que mediante dicha demanda se ejercita en suó ú
+contra, y los supuestos de hecho que son condici n de las consecuencias jur dicas cuyaó í
+declaraci n por parte de V.S. se pretende en la referida demanda.ó
+II. EXCEPCION DE FALTA DE LEGITIMACION PASIVA DEL CONSEJO
+DE DEFENSA DEL ESTADO EN LA ACCION DEDUCIDA EN SU
+CONTRA:
+La demanda de autos debe ser rechazada, porque el Consejo de Defensa del Estado NO
+es legitimado pasivo de la acci n de nó ulidad de Derecho P blico ejercitado en su contra,ú
+desde que la sentencia condenatoria penal ejecutoriada, que orden el comiso deló
+inmueble que se ala en el libelo, y que el actor solicita dejar sin efecto, no es un actoñ
+emanado de este rgano.Ó
+Es til precisar aqu que la Iltma. Corte de Apelaciones de Temuco, mediante laú í
+sentencia de fecha 19 de diciembre de 2022, estableci que la demanda se dirige enó “
+contra del Consejo de Defensa del Estado , ordenando al actor efectuar las correcciones”
+pertinentes a fin de notificar a quien en derecho corresponda.
+En efecto, mediante la presentaci n de fecha 27 de enero de 2023, escrita en folio 31 deló
+cuaderno principal, el demandante subsana los defectos del libelo e indica que el Consejo
+de Defensa del Estado se encuentra representado por su Presidente.
+Ahora bien, de conformidad con lo establecido por el art culo 1 del D.F.L. N 1, delí °
+Ministerio de Hacienda, de 1993, el Consejo de Defensa del Estado es un servicio
+p blico descentralizado, dotado de personalidad jurú dica, bajo la supervigilancia directaí
+del Presidente de la Rep blica e independiente de los diversos Ministerios.ú
+Entonces, la acci n de nulidad de Derecho P blico que se ejercita en estos autos, a finó ú
+de que se deje sin efecto la pena de comiso impuesta por sentencia penal condenatoria
+ejecutoriada, no es, ni puede ser, un acto imputable al Consejo de Defensa del Estado,
+desde que no ha podido tener intervenci n en la dictaci n de la resoluci n judicialó ó ó
+impugnada.
+La parte demandante no tiene derecho a la acci n deducida en contra del Consejo deó
+Defensa del Estado, porque ste no es legitimado pasivamente en esta causa, por lo queé
+la demanda deber necesariamente ser rechazada, con costas.á
+III. EXCEPCION DE INCOMPETENCIA ABSOLUTA DEL TRIBUNAL
+PARA REVER SENTENCIAS FIRMES EN QUE SE HUBIERE
+CONDENADO A ALGUIEN:
+Mediante la referida demanda se ha ejercitado una acci n de nulidad de Derechoó
+P blico a fin de que se anule una sentencia firme por la que se conden a Mar aú ó í
+Alejandra Rodr guez Henr quez por el delití í o de cohecho, en car cter de reiterado, y leá
+impuso a sta, como pena accesoria, el comiso del inmueble de que se trata.é
+
+Código: GNCNXQSUCXB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-1070-2022
+
+Foja: 1
+V.S. es incompetente para efectuar una declaraci n de esa naturaleza y, en general, lo esó
+para conocer de una acci n de nulidad de Derecho P blico que tenga por objeto anularó ú
+las condenas penales impuestas por sentencias judiciales firmes y ejecutoriadas.
+Ello porque el C digo Procesal Penal ha entregado directamente dicha materia aló
+conocimiento exclusivo de la Excelent sima Corte Supremí a, al disponer en el art culoí
+473 lo siguiente: Procedencia de la revisi n. La Corte Suprema podr rever“ ó á
+extraordinariamente las sentencias firmes en que se hubiere condenado a alguien por un
+crimen o simple delito, para anularlas, en los siguientes casos ( ) .… ”
+De esta forma, trat ndose de anular sentencias condenatorias penales firmes, laá
+Excelent sima Corte Suprema tiene la competencia privativa para anular dichasí
+sentencias.
+En consecuencia, V.S. es absolutamente incompetente para conocer del asunto que se
+propone a trav s de la demanda de autos, en raz n de la materia, por ser sta deé ó é
+competencia exclusiva y excluyente de la Excelent sima Corte Suprema, por expresoí
+mandato legal, seg n lo dispuesto por los art culos 473 y siguientes del C digo Penal.ú í ó
+IV. EXCEPCION DE IMPROCEDENCIA DE LA ACCION DE NULIDAD DE
+DERECHO PUBLICO PARA IMPUGNAR RESOLUCIONES JUDICIALES:
+La demanda de autos es, a todo evento, improcedente en cuanto mediante ella el actor
+ejercita una acci n de nulidad de Derecho P blico para obtenó ú er la ineficacia de una
+decisi n adoptada en una sentencia judicial firme y, por esa v a, revocar la penaó í
+accesoria de comiso impuesta por una sentencia penal condenatoria firme.
+En efecto, en nuestro ordenamiento jur dico las resoluciones judiciales no son susceptiblesí
+de ser impugnadas a trav s de la acci n de nulidad de Derecho P blico, porque elloé ó ú
+implicar a subvertir todo el sistema recursivo que la legislaci n procesal contempla paraí ó
+cuestionar la validez de las mismas, adem s de vulnerar el efecto deá intangibilidad que
+deriva de las sentencias pasadas en autoridad de cosa juzgada.
+La nulidad de las sentencias judiciales pronunciadas por un Tribunal Oral en lo Penal
+en un proceso penal debe ser alegada mediante los remedios y recursos procesales que la
+ley procesal establece para tales efectos, los que, por regla general, deben ejercitarse en el
+mismo juicio en que ellas fueron dictadas, ya sea trav s del recurso de nulidad o, muyé
+excepcionalmente, mediante el recurso de queja o por la v a del recurso dí e revisi n.ó
+La doctrina ha expresado, en tal sentido, que: (i) La nulidad recibe aplicaci n pr ctica enó á
+los distintos mbitos de la vida jur dica en que sta se presente, seg n las reglasá í é ú
+especiales que para cada caso establezca la ley. Por ejemplo, no obstante que la nulidad
+civil y la procesal es una sola (consiste en la misma sanci n y produce el mismo efecto),ó
+resulta indudable que ambas se rigen por reglas diversas: la civil, por las normas del
+C digo Civil, mientras que la procesal, por las del C digoó ó de Procedimiento respectivo.
+(ii) Si se sostuviera que es posible entablar una acci n de nulidad de derecho p blico en“ ó ú
+
+contra de una resoluci n judicial, se vulnerar a el Principio no Avocabilidad, consagradoó í
+en el art culo 73 de la CPR y 8 del C digo Org nico de Tribunales, que proh ben,í ó á í
+expresamente, revivir o revisar los fundamentos de los procesos fenecidos, as comoí
+tambi n, respecto de los procesos que se encuentran pendientes ante otros tribunales. Seé
+atentar a contra la finalidad misma de la jurisdicci n, sta es, solucionar un conflicto deí ó é
+intereses de manera definitiva, sin posibilidad de ser revivido o revisado en su soluci n.ó
+[ ] (iv) Los mecanismos que establece la ley procesal para solicitar la nulidad de un… “
+acto judicial deben ser ejercidos dentro del mismo proceso en que tuvo lugar el acto
+impugnado y consisten: (a) En la declaraci n de nulidad de oficio o a petici n de parte,ó ó
+que contemplan los art culos 83, 84 y 85 del C digo de Procedimiento Civil; (b) En elí ó
+Recurso de Casaci n en la Foró ma, el cual, por definici n, es un recurso que tiene poró
+objeto anular una sentencia, aunque siempre dentro del procedimiento en que sta seé
+dict y en tanto que la misma no se encuentre firme y ejecutoriada; (c) El Recurso deó
+Revisi n; y, excepcionalmente; (d) El Recurso de Queja.ó ”
+Tambi n se ha dicho que:é
+Cabe en todo caso prevenir, en cuanto al mbito de las actuaciones estatales que son“ á
+
+susceptible de anular en ejercicio de esta acci n de nulidad de derecho p blico, queó ú
+invariablemente se ha estimado improcedente su ejercicio en el mbito jurisdiccional. Elá
+criterio en esta materia ha sido que en estas situaciones s lo pueden tener cabida lasó
+nulidades procesales, lo que se conforma con la naturaleza propia de la funci n judicial yó
+las caracter sticas de las actuaciones que se llevan a cabo en su ejercicio y que hacen queí
+
+Código: GNCNXQSUCXB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-1070-2022
+
+Foja: 1
+la instituci n de las nulidades procesales tengan una fisonom a propia y singular en eló í
+amplio campo de la teor a de nulidad de las actuaciones de los rganos estatales, queí ó
+sancionan la infracci n de las normas constitucionales conducentes al cabal cumplimientoó
+del principio de legalidad que deben observar dichos organismos.”
+El m s completo trabajo doctrinario en materia de recursos procesales ratifica lo anteriorá
+en t rminos categ ricos:é ó
+Debemos recordar que en nuestro ordenamiento jur dico la acci n ordinaria de nulidad“ í ó
+
+se encuentra proscrita como medio de impugnaci n para obtener la invalidaci n de unaó ó
+sentencia, no siendo posible jam s iniciar un proceso de lato conocimiento que peá rsigna
+semejante objetivo.”
+Como se ha expresado previamente, la sola idea que las resoluciones judiciales pudieren
+ser objeto de acciones ordinarias implica un atentado a las bases de toda la
+institucionalidad procesal. Es por ello, que el propio mensaje del C digo deó
+Procedimiento Civil se consign lo siguiente:ó
+( ) y se desconoce un modo expreso la acci n ordinaria de nulidad para invalidad las“ … ó
+
+sentencias, no admiti ndose otro camino que el de la casaci n para lograr ese resultado;é ó
+en obsequio a la brevedad de los procedimientos y al tranquilo goce de los derechos
+declarados en juicio .”
+Adem s, se ha sostenido sobre la improcedencia de la nulidad de Derecho P blico deá ú
+actos jurisdiccionales que:
+En consecuencia, el estatuto de la nulidad de derecho p blico o, en su derivaci n m s“ ú ó á
+
+moderna, la nulidad procesal de derecho p blico, es improcedente aplicarlo contra losú
+actos jurisdiccionales porque: 1. Quebranta el mbito de aplicaci n de la nulidadá ó
+procesal de derecho p blico; 2. No distingue que la actividaú d jurisdiccional sea de
+auctoritas y no de potestas; 3. Infringe el principio de legalidad; 4. Atenta contra la
+historia fidedigna del establecimiento del C digo de Procedimiento Civil; 5. Vulnera eló
+fin y raz n de ser de la cosa juzgada; 6. Transgrede los l mites del sistema anulatorioó í
+procesal civil que impiden declarar la nulidad; 7. La nulidad de derecho p blico, en elú
+evento que fuese aplicable a los actos jurisdiccionales no podr a operar ipso iure; 8.í
+Desconoce flagrantemente el principio de trascendencia del perjuicio que exige la
+nulidad procesal; y 9. Sobrepasa el r gimen de impugnaci n de la actividad procesalé ó
+irregular regulado en el C digo de Procedimiento Civil.ó ”
+Nuestra jurisprudencia igualmente ha sostenido la improcedencia de la acci n de nulidadó
+de Derecho P blico para atacar la validez de las resoluciones judiciales, expresando alú
+respecto:
+S ptimo: Que si bien estas disposiciones [art culo 7 de la Constituci n Pol tica], junto“ é í ° ó í
+
+con otras normas del ordenamiento vigente, enuncian el principio de legalidad a que
+debe someterse toda autoridad u rgano estatal y, ciertamente las que ejecutan laó
+funci n jurisdiccional, las mismas no autorizan deducir una acci n de nulidad en contraó ó
+de una resoluci n judicial, en un procedimiento diverso de la causa en que ella seó
+pronunci . Octavo: Que, en efecto, como se anot en el considerando quinto, laó ó
+anulaci n de los actos que llevan a cabo los tribunales en ejercicio de la potestadó
+jurisdiccional del Estado, debe perseguirse a trav s de los medios que franquea la leyé
+procesal y que, sustancialmente, consisten en la declaraci n de nulidad de oficio o aó
+petici n de parte, que contemplan los art culos 83, 84 y 85 del C digo de Procedimientoó í ó
+Civil, as como en los recursos de casaci n y revisi n que regulan, respectivamente, losí ó ó
+T tulos XIX y XX del Libro III del mismo texto y las normas pertinentes del C digo deí ó
+Enjuiciamiento Penal, o bien, excepcionalmente, por medio del ejercicio de las facultades
+disciplinarias de los Tribunales Superiores, conforme el art culo 545 del C digoí ó
+Org nico de Tribunales. Noveno: Que la nulidad que afecta a los actos jurisdiccionalesá
+pronunciados con infracci n del art culo 7 de la Constituci n vigente, no podr aó í º ó í
+reclamarse sino por las v as que franquean dichas normas procesales, ya que el sistemaí
+jur dico nacional no establece otros medios de impugnar los defectos de que puedení
+adolecer los procedimientos judiciales o los vicios de forma o de orden sustantivo que
+pueden afectar las resoluciones de los tribunales 6”
+Tercero: Qu“ e en la sentencia impugnada se ha concluido que los art culos 7 y 38 de laí
+
+Constituci n Pol tica de la Rep blica no autorizan a deducir una acci n de derechoó í ú ó
+p blico en contra de una resoluci n judicial, esto es, a accionar en un proceso civilú ó
+distinto de aqu l en que se pronunci el aludido fallo. En efecto, a trav s de esta acci né ó é ó
+
+Código: GNCNXQSUCXB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-1070-2022
+
+Foja: 1
+se ataca lo ya decidido en un fallo ejecutoriado reca do, sin que durante su tramitaci ní ó
+se hayan ejercido los recursos pertinentes en contra de las supuestas irregularidades que
+ahora se denuncian. Lo anterior es consecuencia de que la nulidad de las resoluciones
+judiciales s lo puede perseguirse por los medios que franquea la ley procesal, porqueó
+ganan el efecto de la cosa juzgada. Cuarto: Que de conformidad con lo rese ado en elñ
+motivo que precede, es evidente que los sentenciadores han dado correcta aplicaci n aó
+las normas que se dicen infringidas, circunstancias en las que el recurso de casaci n en eló
+fondo en estudio no podr prosperar por adolecer de manifiesta falta de fundamento,á
+dada la clara inexistencia clara de los errores de derecho que se denuncian, puesto que
+no es posible alegar la nulidad de derecho p blico de las resoluciones judiciales, porque ú –
+como se ha dicho esta invalidez ha de ser planteada en el mismo proceso en que fueron–
+dictadas.”
+
+en lo que dice relaci n con las nulidades que pudieren afectar a sendas resoluciones“… ó
+judiciales dictadas en otro juicio, resulta acertada la decisi n de los sentenciadores deló
+grado en cuanto a que tales impugnaciones debieron ventilarse dentro de dicho
+procedimiento y no en uno distinto como se pretende …”
+En el caso materia de autos, el actor pretende obtener la nulidad de Derecho P blico deú
+una pena accesoria impuesta por una sentencia penal condenatoria firme y ejecutoriada
+dictada por el Tribunal Oral en lo Penal de Temuco.
+Si el demandante estimaba que la pena accesoria de comiso sobre el inmueble de que
+versa la demanda afectaba sus supuestos derechos sobre dicho bien, teniendo la calidad
+de interviniente en el se aladñ o proceso penal, lo l gico era interponer en contra de laó
+referida sentencia condenatoria el recurso de nulidad, dentro de los plazos legales, de
+conformidad con lo dispuesto por el art culo 373 del C digo Procesal Penal.í ó
+Sin embargo, el demandante no impugn mediante los recursos legales la sentenciaó
+condenatoria penal.
+Es til precisar que la sentencia dictada por el Tribunal Oral en lo Penal de Temuco,ú
+objeto de la presente acci n de nulidad de Derecho P blico, fue impugnada mediante losó ú
+recursos de nulidad interpuestos por los condenados, quedando firme la pena accesoria
+de comiso.
+De ah que la acci n de nulidad de Derecho P blico aqu deducida deba necesariamenteí ó ú í
+ser desechada, con costas.
+V. EXCEPCION DE FALTA DE LEGITIMACION ACTIVA DEL
+DEMANDANTE POR AUSENCIA DE INTERES DERIVADO DE UNA
+POSICION JURIDICA SUBJETIVA EN LA ACCION DE NULIDAD DE
+DERECHO PUBLICO AQUI EJERCITADA:
+La nulidad de Derecho P blico no escapa a la exigencia general de toda clase de acci nú ó
+de nulidad: quien alegue la invalidaci n de ó un acto debe tener inter s en su declaraci n.é ó
+El art culo 38, inciso segundo, de la Constituci n Pol tica de la Rep blica es clar simo ení ó í ú í
+exigir el inter s del actor al expresar: Cualquier persona que sea lesionada en susé “
+derechos por la Administraci n del Estado, de sus organismos o de las municipalidades,ó
+podr reclamar ante los tribunales que determine la ley... (fin de cita textual)á ”
+Por consiguiente, dicha disposici n constitucional establece expresamente que QUIENó
+RECLAME ANTE LOS TRIBUNALES ACCION–“ E EN CONTRA DE LA”–
+ADMINISTRACION DEL ESTADO O DE SUS ORGANISMOS DEBE TENER LA
+CALIDAD DE LESIONADO EN SUS DERECHOS y, por cierto, quien no tiene esos
+derechos no puede ser lesionado en aquello de lo que carece.
+La parte demandante en su libelo, bajo el t tulo legitimaci n activa , divaga sobre qui ní “ ó ” é
+puede accionar de nulidad de Derecho P blico, para concluir que: ( ) siendo miú “ …
+representado el due o del inmueble y habiendo sido interviniente del juicio que motivañ
+esta acci n, es titular de la presente acó ci n .ó …”
+EL DEMANDANTE NO ES NI HA SIDO- DUE O DEL INMUEBLE EN QUE– Ñ
+RECAYO LA PENA ACCESORIA DE COMISO.
+El demandante Sr. Gerardo Jara Fern ndez relata en su demanda que compr coná ó
+dineros propios el inmueble de que se trata para sus dos hijas menores y para Mar aí
+Alejandra Rodr guez Henr quez, quienes no han ratificado esa compraventa. De ello,í í
+concluye el demandante, el inmueble no habr a ingresado al patrimonio de laí
+beneficiaria, por lo que ste se mantendr a dentro del patrimonio del demandante Sr.é í
+Jara Fern ndez, de conformidad con lo dispuesto por el art culo 1449 del C digo Civil.á í ó
+
+Código: GNCNXQSUCXB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-1070-2022
+
+Foja: 1
+En los contratos de estipulaci n a favor de otro interesan tres categor as de personas: eló í
+estipulante, quien contrata a favor del tercero; el prominente, quien se compromete con
+el tercero, y el beneficiario.
+El nico derecho que le nace al estipulante es que mientras no intervenga la aceptaci nú ó
+expresa o t cita del tercero beneficiario es revocable el contrato por la sola voluntad deá
+las partes que concurrieron a l.é
+Y, una vez aceptada por el beneficiario el contrato, ya sea expresa o t citamente, elá
+derecho del beneficiario existe desde la celebraci n del contrato, poniendo t rmino a laó é
+facultad del estipulante y promitente de dejar sin efecto la estipulaci n.ó
+Pues bien, en el caso de que se trata, por sentencia penal condenatoria de fecha 22 de
+julio del a o 2018, qued establecido que: respecto de la acusada Rodr guez Henr quezñ ó “ í í
+se tendr presente que conforme a su propia confesi n, que el inmueble ubicado en calleá ó
+Trinidad Cand a Marverde N 0756, de la comuna de Temuco, que se encuentraí °
+inscrito a fojas 1210, N 895, del a o 2017 del Registro de propiedad del Conservador° ñ
+de Ra ces de Temuco, en que aparece inscrita a nombre de Ignacia Anais Jaraí
+Rodr guez, Constanza Jara Rodr guez y Mar a Alejandra Rodr guez Henr quez esí í í í í
+producto directo del delito de cohecho agravado reiterado en el que particip de unó
+modo directo como autora .”
+De conformidad con lo establecido por el art culo 180 del C digo de Procedimientoí ó
+Civil, es un hecho inamovible que el inmueble de que se trata fue adquirido mediante el
+producto del delito de cohecho agravado reiterado de la condenada Rodr guezí
+Henr quez, dando, por consiguiente, su aceptaci n al contrato de compraventa.í ó
+De ah que, en el aspecto civil, la beneficiaria condenada Rodr guez Henr quez acept laí í í ó
+estipulaci n en su favor de la compraventa del inmueble de que se trata, que fueó
+adquirida con los dineros obtenidos por la beneficiaria mediante el delito de cohecho,
+careciendo el demandante, en su calidad de estipulante, de alg n derecho sobre elú
+inmueble, extingui ndose, adem s, con la aceptaci n de la beneficiaria, el nico derechoé á ó ú
+que le asist a de revocar el contrato.í
+Por consiguiente, habiendo aceptado la beneficiaria condenada Rodr guez Henr quez elí í
+contrato de compraventa del inmueble de que se trata a su favor, es evidente que el
+demandante, Sr. Jara, carece de todo derecho sobre el mismo, y, por lo tanto, carece de
+todo inter s en la declaraci n de nulidad de Derecho P blico que soé ó ú licita a trav s de laé
+demanda de autos, recibiendo, entonces, plena aplicaci n general de que SIN INTERESó
+NO HAY ACCION, por lo que no cuenta con legitimaci n activa para ejercitar laó
+referida acci n de nulidad de Derecho P blico y, como consecuencia de ello, dichaó ú
+demanda debe ser rechazada, con costas.
+VI. EXCEPCION DE NO CONFIGURARSE LA NULIDAD DE DERECHO
+PUBLICO ALEGADA POR EL ACTOR:
+Dicha demanda debe ser desechada, con costas, porque, en todo caso, en la especie no
+se configura la nulidad de Derecho P blico alegada por la parte demandante.ú
+La nulidad de Derecho P blico, de acuerdo con lo dispuesto por el art culo 7 de laú í °
+Constituci n Pol tica de la Rep blica, es una sanci n que tiene aplicaci n trat ndose deó í ú ó ó á
+actuaciones de los rganos del Estado ejecutadas sin previa investidura regular de suó
+autor, con incompetencia del rgano estatal, o cuando ste ha actuado sin sujeci n aló é ó
+procedimiento legal.
+En el presente caso, debe descartarse que se configure alg n motivo de nulidad deú
+Derecho P blico, por cuaú nto la sentencia judicial condenatoria fue pronunciada en el
+mbito de competencia que la ley le otorga al respectivo tribunal que la dict , cuyaá ó
+
+previa investidura regular no ha sido cuestionada, el que, adem s, lo hizo con sujeci ná ó
+substancial a nuestro ordenamiento jur dico y en la forma procedimiento prescrita porí – –
+ste, de manera que la referida sentencia judicial condenatoria se ajusta a Derecho y,é
+
+siendo ello as , no puede haber nulidad de Derecho P blico, por lo que la demanda deí ú
+autos debe ser desechada en todas sus partes, con costas.
+Es til precisar ac que la parte demandante sostiene que, habi ndose absuelto aú á é
+Gerardo Jara Fern ndez y Mar a Alejandra Rodr guez Henr quez del delito de lavadoá í í í
+de activos, el tribunal carec a de la facultad para imponer la sanci n del comiso.í ó
+De conformidad con lo establecido por al art culo 19, N 7, letra g), y N 24, nuestroí ° °
+ordenamiento jur dico admite la privaci n del dominio, en beneficio del Estado, respectoí ó
+
+Código: GNCNXQSUCXB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-1070-2022
+
+Foja: 1
+de los bienes que se hayan adquiridos de manera il cí ita, que se hayan utilizados o sean
+fruto de la comisi n de un hecho il cito.ó í
+En ese sentido, el art culo 21 y 31 del C digo Penal se refieren al comiso como una deí ó
+las penas comunes a las penas de cr menes, simples delitos y falta, definiendo el comisoí
+como la perdida de los instrumentos o efectos del delito. Y, el art culo 251 del mismoí
+cuerpo legal se ala: Los bienes recibidos por el empleado p blico caer n siempre enñ “ ú á
+comiso.”
+As , el comiso es una restricci n del derecho de propiedad, por el inter s soí ó é cial de
+corregir las situaciones patrimoniales il citas y prevenir la comisi n de futuros hechosí ó
+punibles mediante la utilizaci n il cita del patrimonio.ó í
+De esta forma, la condena accesoria de comiso del inmueble fue impuesta por la
+sentencia judicial aqu impugnada a la condenada Rodr guez Henr quez, en virtud de loí í í
+dispuesto por los art culos 31 y 251 del C digo Penal, ya que dicho inmueble esí ó
+producto directo del delito de cohecho agravado reiterado, como qued establecido en laó
+sentencia penal condenatoria.
+En consecuencia, la demanda de autos debe rechazarse ntegramente por no configurarseí
+los vicios de nulidad de Derecho P blico que el actor reclama.ú
+POR TANTO, a VUESTRA SE ORIA pido: que, en raz n de todo loÑ ó
+precedentemente expuesto e invocado y de acuerdo con lo que disponen los art culos 309í
+y siguientes del C digo de Procedimiento Civil y dem s disposiciones legales ya citadasó á
+en esta respuesta, se sirva tener por contestada la demanda de autos y, en definitiva,
+desechar ntegramente dicha demanda,í con expresa condenaci n en costas de la parteó
+demandante, por carecer sta de todo motivo plausible para litigar .é ”
+
+Al folio 48 del cuaderno principal, se tuvo por evacuado el tr mite de laá
+r plica en rebeld a del demandante. é í
+
+Al folio 49 del cuaderno principal, don Manuel Espinoza Torres Abogado en
+representaci n del CONSEJO DE DEFENSA DEL ESTADO, evacu el trasladoó ó
+conferido para duplicar, reiterando todas y cada una de las excepciones, alegaciones y
+defensas que se hicieron valer en la contestaci n de demanda.ó
+
+Al folio 51 del cuaderno principal, se recibe la causa a prueba, fij ndose losá
+hechos sustanciales, pertinentes y controvertidos. El que fue complementado por
+resoluci n de folio 56.ó
+
+Al folio 85 del cuaderno principal, se cita a las partes a o r sentencia. í
+Al folio 6 del cuaderno 6 de incidente de acumulaci nó , por resoluci n deó
+
+fecha 01 de septiembre de 2023, se decreta la acumulaci n de la causa Rol C-2653-ó
+2023, caratulada Jara/Fisco-Ejercito , seguida ante este Primer Juzgado Civil de“ ”
+Temuco. No obstante, al folio 9, de los autos Rol C-2653-2023, con fecha 30 de abril
+de 2024, se recepcion fallo de la Corte de Apelaciones de Temuco, que por resoluci nó ó
+de fecha 04 de diciembre de 2023, REVOCA la resoluci n de fecha 31 de julio del a oó ñ
+dos 2023, rolante a folio N 5 del cuaderno de excepciones dilatorias de la tramitaci n° ó
+de primera instancia, y en su lugar, se declara que se acoge la excepci n deó
+incompetencia promovida por la demandada. Al folio 10, por resoluci n de fecha 02 deó
+mayo de 2024, se dicta el c mplase en primera instancia. Motivo por el cual soloú
+corresponde pronunciarse sobre la presente causa Rol C-1070-2022 sin considerar la
+causa en su oportunidad acumulada por la declaraci n de incompetencia del Tribunal. ó
+CONSIDERANDO:
+PRIMERO: Que se presenta don RODRIGO ISMAEL GAJARDO TORO, en
+representaci n de don ó GERARDO ANDR S JARA FERN NDEZÉ Á , quien deduce
+demanda en Juicio Ordinario de Nulidad de Derecho P blico en contra del ú CONSEJO
+DE DEFENSA DEL ESTADO de la Novena Regi n de la Araucan a, y por losó í
+argumentos de hecho y derecho relatados en lo expositivo, pide se declare: a) Que la
+sentencia dictada por el Tribunal de Juicio Oral en lo Penal de Temuco, de fecha 22 de
+julio del a o 2018, en causa Rit 054 2018, Ruc 1700268031-9, es nula de derechoñ –
+p blico, por no haber estado facultado por ley el Tribunal para sancionar en su decisi nú ó
+VI lo siguiente Que se decreta el comiso del inmueble ubicado en pasaje Trinidad“
+Candia Marverde N 0756, de la comuna de Temuco, inscrito a fojas 1210 N 895 del° °
+a o 2017 del Registro de Propiedad del CBR de Temuco o como el Tribunal estimeñ ”
+conveniente. b) Que, la sentencia debe eliminar esa parte de su decisi n y queó
+declaraci n de nulidad del acto, se debe hacer efectiva desde el momento que quedeó
+
+Código: GNCNXQSUCXB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-1070-2022
+
+Foja: 1
+firme y ejecutoriada la sentencia que as lo ordena o desde el momento que el Tribunalí
+determine. c) Que, la demandada debe ser condenada al pago de las costas de la causa.
+SEGUNDO: Que comparece don Juan Antonio Peribonio Poduje, Abogado Presidente
+del Consejo de Defensa del Estado, por el CONSEJO DE DEFENSA DEL
+ESTADO, quien contesta la demanda interpuesta en su contra, solicitando por los
+argumentos de hecho y derecho rese ados en lo expositivo el rechazo de la demanda conñ
+costas.
+Primeramente, niega la versi n de los hechos afirmados en la demanda, luego opone laó
+excepci n de falta de legitimaci n pasiva, la excepci n de incompetencia absoluta deló ó ó
+Tribunal, la improcedencia de la nulidad de derecho p blico para impugnar resolucionesú
+judiciales, la excepción de falta de legitimaci n activa del demandante por ausencia deó
+inter s y la no configuraci n de la nulidad de derecho p blico invocada por el actor. é ó ú
+TERCERO: Que se tuvo por evacuada la r plica en rebeld a de la parte demandante.é í
+CUARTO: Que la demandada evac a la d plica, cuyo tenor se reproduce en la parteú ú
+expositiva.
+QUINTO: Que, para acreditar su pretensi n, el demandante alleg las siguientesó ó
+probanzas:
+PRUEBA DOCUMENTAL:
+Al folio 1: 1. - Copia de la sentencia que motiva esta acci n R.I.T.: 054 2018,ó –
+R.U.C.: 1700268031-9, de fecha 22 de julio de 2018, dictada por el Tribunal de Juicio
+Oral de Temuco. 2.- Copia del t tulo de dominio del inmueble materia de autos ubicadoí
+en pasaje Trinidad Candia Marverde N 0756, de la comuna de Temuco, inscrito a fojas°
+1210 N 895 del a o 2017 del Registro de Propiedad del CBR de Temuco. 3. -° ñ
+Mandato judicial con firma electr nica.ó
+SEXTO: Que la parte demandada con el fin de acreditar su defensa acompa lañó
+siguiente prueba:
+PRUEBA DOCUMENTAL:
+Al folio 58: 1.- Sentencia penal condenatoria de fecha 22 de julio de 2018, dictada en
+los autos seguidos contra Mar a Alejandra Rodr guez Henr quez, RUC 17002680319,í í í
+RIT 054 2018, del Tribunal Oral en lo Penal de Temuco, y la sentencia de la
+Ilustr sima Corte de Apelaciones de Temuco, de fecha 12 de octubre de 2018, rol deí
+ingreso N Penal 637-2018 que la revoca en su parte que otorga la pena alternativa de°
+libertad vigilada a los condenados. 2.- Resoluci n de fecha 24 de enero de 2019, dictadaó
+en el RIT N 54 2018, del Tribunal Oral en lo Penal de Temuco, que decreta el°
+c mplase.ú
+
+S PTIMOÉ : Considerando que entre las excepciones que han sido opuesta por la
+demandada figura la de incompetencia absoluta del Tribunal, previo a entrar al an lisisá
+de fondo de la acci n y dem s excepciones opuestas, corresponde previamenteó á
+pronunciarse acerca de esta.
+
+Al efecto el Consejo de Defensa del Estado, ha alegado que el Tribunal es
+incompetente para conocer de esta acci n fundado en que mediante la demanda se haó
+ejercitado una acci n de nuó lidad de Derecho P blico a fin de que se anule una sentenciaú
+firme dictada por el Tribunal de Juicio Oral en lo Penal, siendo incompetente este
+Tribunal para realizar una declaraci n de esa naturaleza. Ello porque el C digo Procesaló ó
+Penal ha entregado directamente dicha materia al conocimiento exclusivo de la
+Excelent sima Corte Suprema conforme lo dispone el art culo 473. í í
+
+OCTAVO: Que seg n se aprecia del tenor del l belo se pretende la declaraci nú í ó
+de nulidad de derecho p blico de la sentencia dictada por el Tribunal de Juicio Oral enú
+lo Penal de Temuco, de fecha 22 de julio del a o 2018, en causa Rit 054 2018, Rucñ –
+1700268031-9, en aquella parte que ordena “Que se decreta el comiso del inmueble
+ubicado en pasaje Trinidad Candia Marverde, Nro.- 0756, de la comuna de Temuco,
+inscrito a fojas 1210, Nro.- 895 del a o 2017, del Registro de Propiedad del CBR deñ
+Temuco , impugn ndose as la validez de una resoluci n judicial emanada de un” á í ó
+Tribunal de Justicia, precisamente del Tribunal del Juicio Oral en lo Penal de Temuco.
+
+Que dicha sentencia, seg n documental aportada al folio 1 y 58, legalmenteú
+acompa ada y no objetada, se encuentra firme y ejecutoriada. ñ
+
+NOVENO: Que, sobre el particular, se debe tener presente que el art culo 7 delí
+C digo Org nico de Tribunales, se ala que ó á ñ “Los tribunales s lo podr n ejercer suó á
+potestad en los negocios y dentro del territorio que la ley les hubiere respectivamente
+
+Código: GNCNXQSUCXB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-1070-2022
+
+Foja: 1
+asignado ; y por su parte, el art culo 8 del mismo cuerpo legal reza lo siguiente ” í “Ning nú
+tribunal puede avocarse el conocimiento de causas o negocios pendientes ante otro
+tribunal, a menos que la ley le confiera expresamente esta facultad .”
+
+A su turno el art culo 108 del mismo C digo dispone que í ó “La competencia es la
+facultad que tiene cada juez o tribunal para conocer de los negocios que la ley ha
+colocado dentro de la esfera de sus atribuciones ; y el art culo 18 letra a) establece que a” í
+los tribunales de juicio oral en lo penal corresponde “conocer y juzgar las causas por
+crimen o simple delito, salvo aquellas relativas a simples delitos cuyo conocimiento y
+fallo corresponda a un juez de garant aí . ”
+
+D CIMOÉ : Que, establecidas as las cosas y de la relaci n de las normas antesí ó
+transcritas, no es posible seguir adelante con un proceso que necesariamente debe ser
+reconducido a discutir sobre la validez de una resoluci n dictada por un tribunal de laó
+misma jerarqu a, por cuanto aquello implicar a permitir una relaci n procesal que sit a aí í ó ú
+este juzgado en la necesidad de pronunciarse respecto del actuar de otro Tribunal de la
+Rep blica, lo cual se aleja de principios rectores del derecho, en especial el de certezaú
+jur dica para los litigantes, motivo por el cual se acoger la excepci n de incompetencia,í á ó
+seg n se dir . ú á
+
+D CIMO PRIMEROÉ : Que, por lo anterior, no se emitir pronunciamientoá
+respecto del fondo y de las dem s excepciones deducidas por la demandada, por cuantoá
+se torna incompatible con la declaraci n de incompetencia a la que se arribó ó
+precedentemente.
+
+D CIMO SEGUNDOÉ : Que, toda la prueba rendida y no mencionada
+expresamente, tambi n fue analizada, pero en nada altera o incide en elé
+pronunciamiento que este Tribunal realizar en lo resolutivo de este fallo.á
+Y visto lo dispuesto en los art culos 144, 160, 170, 254, 342 del C digo deí ó
+Procedimiento Civil; art culos 7, 8, 18 y 108 de C digo Org nico de tribunales, seí ó á
+declara:
+
+I.- Que SE ACOGE, la excepci n de incompetencia absoluta del tribunal,ó
+opuesta al folio 42, por la parte demandada Consejo de Defensa del Estado, por lo que
+me declaro incompetente para conocer del presente proceso.
+
+II.- Que no se emite pronunciamiento sobre el fondo por ser incompatible con la
+declaraci n anterior. ó
+
+III.- Que se condena en costas a la perdidosa por haber sido totalmente vencida.
+Notif quese, reg strese y arch vese.í í í
+ROL: C-1070-2022.
+Dictada por Jorge Enrique Romero Adriazola, Juez Titular del Primer Juzgado Civil
+de Temuco.-
+
+Se deja constancia que se dio cumplimiento a lo dispuesto en el inciso final del art. 162
+del C.P.C. en Temuco, veintitr s de septiembre de dos mil veinticuatroé
+
+Código: GNCNXQSUCXB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-1070-2022
+
+Foja: 1
+
+Código: GNCNXQSUCXB
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2024-09-23T10:31:23-0300
