@@ -20,16 +20,15 @@ resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
-Corte Apelaciones ▼
 Santiago, veinticuatro de febrero de dos mil veintiséis.
-Visto y teniendo únicamente presente:
-Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de seis de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N° 562-2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.
 
-Acordado con el voto en contra del Ministro Suplente Sr. Mera, quien estuvo por confirmar el fallo en alzada, teniendo presente únicamente que los antecedentes expuestos en el recurso no dan cuenta de hechos que, según el artículo 21 de la Constitución Política de la República, correspondan a aquellos susceptibles de la cautela requerida por esta vía.
+Vistos:
+El mérito de los antecedentes, se confirma la sentencia apelada de tres de febrero en curso, dictada por la Corte de Apelaciones de Talca, en el ingreso 43-2026.
+
+Acordada con el voto en contra del Abogado Integrante señor Urquieta, quien estuvo por revocar la sentencia en alzada y acoger la acción de amparo y, en consecuencia, dejar sin efecto la resolución impugnada y ordenar a la recurrida conceder un plazo de treinta días al amparado para presentar los antecedentes justificativos de su petición y emitir un nuevo pronunciamiento conforme su mérito.
 
 Regístrese y devuélvase.
-
-Rol N° 6233-2026.
+N°5247-2026
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
