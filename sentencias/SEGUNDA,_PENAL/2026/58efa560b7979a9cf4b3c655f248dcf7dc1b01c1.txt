@@ -1,0 +1,455 @@
+METADATA
+
+case_id: 58efa560b7979a9cf4b3c655f248dcf7dc1b01c1
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8039027
+
+rol: 6273-2026
+
+fecha_sentencia: 2026-02-23
+
+caratulado: DIAZ MARTINEZ RENAN ANTONIO BRAYAN CONTRA TRIBUNAL DE JUICIO ORAL EN LO PENAL DE TEMUCO
+
+sala: SEGUNDA, PENAL
+
+materias: (CIVIL) CASACIÓN FONDO
+
+recurso: (CIVIL) CASACIÓN FONDO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veinticuatro de febrero de dos mil veintiséis.
+VISTO Y TENIENDO PRESENTE:
+PRIMERO: Que en este procedimiento ejecutivo, seguido ante el Segundo Juzgado de Letras de Chillán , bajo el rol C-3669-2025, caratulado “Banco Estado con Sepúlveda”, se ha ordenado dar cuenta de la admisibilidad del recurso de casación en el fondo deducido por la parte ejecutante, en contra de la sentencia de la Corte de Apelaciones de Chillán de veintisiete de enero del año dos mil veintiséis, que confirmó la de primer grado, que acogió el incidente de abandono del procedimiento promovido por la parte ejecutada.
+
+SEGUNDO: Que el recurso lo sustenta en la infracción al artículo 153 inciso 2 y 155 del Código de Procedimiento Civil. Expresa que el Tribunal incurre en infracción a las normas citadas al no considerar como gestiones útiles las solicitudes de desarchivo de 2024 y 2025, pese a que estas permiten continuar la tramitación y, que rechazar la renuncia tácita del ejecutado al abandono, aun cuando este primero revocó y constituyo nuevo patrocinio, es precisamente un acto que configura gestión previa a alegar abandono.
+
+Solicita que se invalide la sentencia recurrida y, acto continuo y sin nueva vista, pero separadamente, se proceda a dictar sentencia de reemplazo revocando y rechazando el incidente de abandono de procedimiento deducido por la parte demandada, con costas.
+TERCERO: Que del análisis de los argumentos de las partes y, en especial, de aquellos invocados por los jueces del fondo, se concluye que los sentenciadores han hecho un acertado análisis de las situaciones fácticas pertinentes a la controversia objeto del incidente, para proceder, a continuación, a efectuar una correcta aplicación de la normativa atingente al caso de que se trata, toda vez que la reiterada jurisprudencia de esta Corte ha sostenido que el abandono del procedimiento es una institución de carácter procesal que constituye una sanción para el litigante que, por su negligencia, inercia o inactividad, detiene el curso del pleito, impidiendo con su paralización que este tenga la pronta y eficaz resolución que le corresponde.
+
+En el contexto de estos autos, la situación de derecho está circunscrita a lo que dispone el legislador en atención al tipo de procedimiento en el artículo 153 inciso 2 del Código de Procedimiento Civil, en orden a que “En los procedimientos ejecutivos el ejecutado podrá, además, solicitar el abandono del procedimiento, después de ejecutoriada la sentencia definitiva o en el caso del artículo 472. En estos casos, el plazo para declarar el abandono del procedimiento será de tres años contados desde la fecha de la última gestión útil, hecha en el procedimiento de apremio, destinado a obtener el cumplimiento forzado de la obligación, luego de ejecutoriada la sentencia definitiva...En el evento que la última diligencia útil sea de fecha anterior, el plazo se contará desde la fecha en que quedó ejecutoriada la sentencia definitiva o venció el plazo para oponer excepciones…”.
+
+CUARTO: Que, consta que la última resolución recaída en gestión útil en el cuaderno de apremio fue la resolución que trabó embargo de fecha 25 de abril de 2022, habiendo trascurrido con creces el plazo de 3 años a la fecha de presentación del incidente el 2 de diciembre de 2025.
+
+Por otra parte, para promover el incidente de abandono del procedimiento, como lo ha resuelto esta Corte, no se aplican los plazos del artículo 85 del Código del ramo como pretende la recurrente, unido a que la presentación conjunta que efectúa la demandada en un mismo escrito, en la cual constituye patrocinio y poder y deduce el incidente, no tienen la entidad para considerar que ha operado la renuncia contemplada en el artículo 155 del Código de Procedimiento, pues tuvieron como finalidad únicamente la revocación y constitución de nuevo patrocinio y poder.
+
+QUINTO: Que, de acuerdo con lo razonado, se advierte la evidente falta de interés de la parte demandante con su deber de colaborar con el avance del proceso, de manera que, tal como resolvieron los jueces de fondo, el incidente de abandono procesal correspondía que fuera acogido, tal como sucedió, motivo por el cual el recurso en estudio no podrá prosperar por adolecer de manifiesta falta de fundamento.
+
+Por estas consideraciones y de conformidad, además, con lo dispuesto en el artículo 772, 778 y 782 del Código de Procedimiento Civil, se rechaza el recurso de casación en el fondo interpuesto por el abogado Guillermo Cocio Sepúlveda, en representación de la parte demandante, en contra de sentencia de veintisiete de enero de dos mil veintiséis, dictada por la Corte de Apelaciones de Chillán.
+
+Regístrese y devuélvase.
+
+Rol N°5513-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+CA Chillán
+
+Xra/rps
+Chillán, veintisiete de enero de dos mil veintiséis.
+Visto:
+
+Atendido el mérito de los antecedentes y lo dispuesto en los artículos 186 y 199 del Código de Procedimiento Civil, se confirma la resolución apelada de once de diciembre de dos mil veinticinco.
+Notifíquese.
+
+En su oportunidad, devuélvase.
+N°Civil-23-2026.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C-3669-2020
+
+Foja: 1
+
+NOMENCLATURA : 1. [40]Sentencia
+JUZGADO : 2 Juzgado Civil de Chill nº á
+CAUSA ROL : C-3669-2020
+CARATULADO : BANCO DEL ESTADO DE CHILE/SEP LVEDAÚ
+
+Chillan, catorce de Febrero de dos mil veintid s.ó
+Vistos:
+
+A folio 1, comparece don Jos Miguel Campos, C dula Nacional de Identidad Né é °
+
+9.866.875-6, empleado, domiciliado en Chill n, Maip n N 833, en representaci ná ó ° ó
+
+convencional de Banco del Estado Chile, empresa aut noma de cr ditos del Estado,ó é
+
+representado por su Gerente General Ejecutivo de don Juan Cooper lvarez, chileno,Á
+
+Ingeniero Comercial, ambos domiciliados en avenida Libertador Bernardo O Higgins N’ °
+
+1111, Santiago, y deduce demanda en contra de Exportadora e Importadora Juhinej
+
+Limitada, persona jur dica de derecho privado, de su giro, representada por don Juaní
+
+Anatolio Sep lveda Segura, ignora profesi n u oficio, ambos domiciliados en Urbanoú ó
+
+Dubosca N 330, Chill n, en calidad de deudor principal y en contra de don Juan° á
+
+Anatolio Sep lveda Segura, cuya profesi n u oficio ignora, del mismo domicilio, enú ó
+
+calidad de deudor solidario. Se ala que su parte es due o del pagar en monedañ ñ é
+
+extranjera, suscrito por los demandados por la cantidad de USD 250.000,00 d lares deó
+
+los Estados Unidos de Am rica, por concepto de capital, m s intereses a contar del 15 deé á
+
+enero de 2020. Indica que, el capital adeudado devengar intereses a tasa fija, en uná
+
+6,55% anual durante todo el plazo del cr dito, los que se pagar an conjuntamente coné í
+
+el capital en un vencimiento fijado para el 28 de febrero de 2020. Agrega que, el deudor
+
+se oblig al pago del capital con sus intereses en d lares americanos de Estados Unidosó ó
+
+de Am rica. Indica que, se estableci en el pagar que en caso de no pago oportuno deé ó é
+
+la obligaci n, desde el incumplimiento se pagar a el inter s m ximo convencional queó í é á
+
+rija a la fecha de suscripci n del documento para cr ditos en d lares de los Estadosó é ó
+
+Unidos de Am rica o expresados en moneda extranjera, y que, sin perjuicio de losé
+
+dem s derechos del acreedor, ste podr hacer exigible la totalidad de la deuda como siá é á
+
+fuere de plazo vencido, mediante su cobranza judicial. Sostiene que, el pagar no fueé
+
+pagado a su vencimiento fijado para el 28 de febrero de 2020, adeudando por concepto
+
+de capital la suma de USD 250.000,00 d lares de los Estados Unidos de Am rica,ó é
+
+equivalentes en moneda nacional al 4 de agosto de 2020 a $ 196.750.000, seg n valorú
+
+del d lar vendedor que se indica en el respectivo certificado que se acompa a que paraó ñ
+
+el d a era $ 787,00. Refiere que de conformidad a la cl usula DOMICILIO estipuladaí á
+
+en el pagar fundante de la ejecuci n, el demandado constituy domicilio en la comunaé ó ó
+
+en que se encuentra ubicada la oficina se alada como lugar de pago, sin perjuicio de loñ
+
+cual, el tenedor Banco Estado podr , para todos los efectos legales del instrumento, elegirá
+
+cualquiera de los domicilios consignados en el pagar u otro en que el Banco tengaé
+
+oficina, prorrog ndose con dicha indicaci n la competencia para todos los efectos legales,á ó
+
+H
+X
+
+N
+X
+
+Y
+C
+
+P
+S
+
+X
+Z
+
+C-3669-2020
+
+Foja: 1
+de conformidad a lo prevenido en los art culos 181 y 182 del C digo Org nico deí ó á
+
+Tribunales. Se ala que las obligaciones que emanan del pagar son indivisibles, lasñ é
+
+firmas puestas en el pagar se encuentran autorizadas ante Notario P blico, por lo queé ú
+
+goza de m rito ejecutivo, siendo la deuda l quida, actualmente exigible y no est né í á
+
+prescrita la acci n. ó
+
+Solicita tener por interpuesta demanda ejecutiva en contra de Exportadora e
+
+Importadora Juhinej Limitada, representada por don Juan Anatolio Sep lveda Segura,ú
+
+en calidad de deudor principal, y en contra de don Juan Anatolio Sep lveda, en calidadú
+
+de deudor solidario, admitirla a tramitaci n y ordenar se despache mandamiento deó
+
+ejecuci n y embargo en su contra por la suma de capital de USD 250.000 Dolares de losó
+
+Estados Unidos de Am rica, equivalentes en moneda nacional al d a 4 de agosto deé í
+
+2020 a $ 196.750.000 seg n valor d lar vendedor informado en el respectivo certificadoú ó
+
+que acompa a, m s los intereses convencionales y penales hasta la fecha del pagoñ á
+
+efectivo, requerirlos de pago, disponer que se siga adelante la ejecuci n hasta que a suó
+
+parte se le haga entero y cumplido pago de lo adeudado, con costas.
+
+A folio 41, se requiri de pago a los ejecutados.ó
+
+A folio 34, don Juan Anatolio Sep lveda Segura, empresario, domiciliado en calleú
+
+Chacabuco N 855, Linares, por s y en representaci n convencional de Exportadora e° í ó
+
+Importadora Juhinej Limitada, opone a la ejecuci n excepci n del N 17 del art culoó ó ° í
+
+464 del C digo de Procedimiento Civil, sosteniendo que: consta en el pagar que sirveó é
+
+de t tulo de ejecutivo que se fij un nico vencimiento, el 28 de febrero de 2020. Agregaí ó ú
+
+que, por aplicaci n del art culo 8 de la ley 21.226 se entendi interrumpida laó í ó
+
+prescripci n de la acci n cambiaria el 11 de noviembre de 2020, fecha en que seó ó
+
+provey la demanda, interrupci n que qued sin efecto como consecuencia de haberó ó ó
+
+operado la condici n prefijada en la norma, consistente en la obligaci n de notificaró ó
+
+dicha acci n en el plazo de 50 d as contados desde el t rmino del estado de excepci nó í é ó
+
+constitucional. Agrega que, consta que la demanda fue notificada el 27 de enero de
+
+2022, trascurrido con creces el plazo de 50 d as que venc a el 30 de noviembre de 2021.í í
+
+Indica que, de lo anterior queda en evidencia que la acci n cambiaria que emana deló
+
+pagar que sirve de base a la ejecuci n se encontraba prescrita conforme al art culo 98é ó í
+
+de la ley 18.092. Solicita tener por interpuesta excepci n de prescripci n extintiva de laó ó
+
+acci n cambiaria ejecutiva, darle tramitaci n, declararla admisible, declarando enó ó
+
+definitiva la prescripci n de la acci n cambiaria ejecutiva que emana de la obligaci nó ó ó
+
+contenida en el respectivo pagar , con costas.é
+
+A folio 44, don Guillermo Cocio Sep lveda, por el ejecutante, evacua el trasladoú
+
+conferido, se alando que los ejecutados omiten se alar que la ley 21.379 promulgada elñ ñ
+
+28 de septiembre de 2021 y publicada el 30 del mismo mes, modific y complement laó ó
+
+Ley 21.226 para reactivar el sistema de justicia. Se ala que conforme el art culo 11 deñ í
+
+H
+X
+
+N
+X
+
+Y
+C
+
+P
+S
+
+X
+Z
+
+C-3669-2020
+
+Foja: 1
+la ley 21.226, pese al t rmino el estado de excepci n constitucional, las disposiciones deé ó
+
+la ley 21.226 deben entenderse vigentes hasta el d a 30 de noviembre de 2021, ení
+
+consecuencia el art culo 8 de la misma debe entenderse vigente hasta el 30 deí
+
+noviembre de 2021, por lo cual el plazo de 50 d as siguientes a la fecha de t rmino delí é
+
+estado de excepci n constitucional, se extend a hasta el 31 de enero de 2022,ó í
+
+habi ndose efectuado la notificaci n dentro de plazo. é ó
+
+Solicita tener por evacuado traslado y en definitiva rechazar la excepci n a laó
+
+ejecuci n, ordenando seguir adelante con la ejecuci n hasta el total y cumplido de loó ó
+
+adeudado a su parte, con costas.
+
+A folio 45, se declar admisible la excepci n opuesta, se omiti recibir la causa aó ó ó
+
+prueba y se cit a las partes a o r sentencia.ó í
+
+CONSIDERANDO:
+
+PRIMERO: Que los ejecutados oponen excepci n de prescripci n, conforme loó ó
+
+dispuesto por el art culo 464 N 17 del C digo de Procedimiento Civil, se alando que elí ° ó ñ
+
+11 de noviembre de 2021 se produjo la interrupci n de la prescripci n al proveer laó ó
+
+demanda, sin embargo, ello habr a quedado sin efecto por haber trascurrido m s de 50í á
+
+d as desde el t rmino del estado de excepci n constitucional sin que se notificara laí é ó
+
+demanda. Solicita acoger la excepci n, y declarar la prescripci n, con costas.ó ó
+
+SEGUNDO: Que evacuando el traslado conferido la demandante solicita el
+
+rechazo de la excepci n, con costas. Indica que, la ley 21.379 modific la ley 21.226 eó ó
+
+incorpor a ella el art culo 11 seg n el cual las referencias al estado de excepci nó í ú ó
+
+constitucional que se hace en el texto legal, debe entenderse referido al 30 de noviembre
+
+de 2021, por lo que la notificaci n de la demanda se efect o dentro de plazo.ó ú
+
+TERCERO: Que se declar admisible la excepci n opuesta, se omiti recibir laó ó ó
+
+causa a prueba y se cit a la partes a o r sentencia.ó í
+
+CUARTO: Que consta en el pagar de autos, que el monto al que se refiereé
+
+deb a pagarse en una nica cuota el 28 de febrero de 2020. í ú
+
+Las partes se encuentran contestes en que llegado el d a 28 de febrero de 2020,í
+
+los demandados no pagaran.
+
+QUINTO: Que el art culo 8 de la ley 21.226 dispuso í “Durante la vigencia del
+
+estado de excepci n constitucional de cat strofe, por calamidad p blica, declarado poró á ú
+
+decreto supremo N 104, de 18 de marzo de 2020, del Ministerio del Interior y°
+
+Seguridad P blica, y el tiempo en que este sea prorrogado, si es el caso, se entenderú á
+
+interrumpida la prescripci n de las acciones por la sola presentaci n de la demanda,ó ó
+
+bajo condici n de que esta no sea declarada inadmisible y que sea v lidamente notificadaó á
+
+H
+X
+
+N
+X
+
+Y
+C
+
+P
+S
+
+X
+Z
+
+C-3669-2020
+
+Foja: 1
+dentro de los cincuenta d as h biles siguientes a la fecha del cese del referido estado deí á
+
+excepci n constitucional, y el tiempo en que este sea prorrogado, si es el caso, o dentroó
+
+de los treinta d as h biles siguientes a la fecha en que la demanda fuere prove da, lo queí á í
+
+suceda ltimo.ú ”
+
+El art culo 11 del mismo texto legal, inserto en ella por la ley 21.379 estableceí
+
+“A excepci n de los art culos 4 y 6, en cada una de las dem s disposiciones de laó í á
+
+presente ley en que se refiere a la vigencia del estado de excepci n constitucional deó
+
+cat strofe, por calamidad p blica declarado por decreto supremo N 104, de 18 deá ú º
+
+marzo de 2020, del Ministerio del Interior y Seguridad P blica, y al tiempo en que steú é
+
+sea prorrogado ha de entenderse que las respectivas reglas refieren al t rmino que seé
+
+extiende hasta el 30 de noviembre de 2021.
+
+Asimismo, la regla del inciso primero del art culo 8 ha de entenderse referida alí
+
+t rmino que se extiende hasta los diez d as h biles posteriores al 30 de noviembre deé í á
+
+2021.”
+
+El art culo 8 se encuentra dentro de aquellos que hacen referencia al estado deí “
+
+excepci n constitucional y sus prorrogas , por lo que tal menci n debe interpretarse enó ” ó
+
+los t rminos dispuestos por la norma antes trascrita, y por ende, entender que el plazo aé
+
+contar del cual deben computarse los 50 d as h biles, es el 30 de noviembre de 2021. í á
+
+As las cosas el t rmino de 50 d as h biles siguientes al 30 de noviembre de 2021,í é í á
+
+tiempo dentro del cual deb a notificarse la demanda para que se considerareí
+
+interrumpida la prescripci n con la presentaci n de la demanda se extend a hasta el 29ó ó í
+
+de enero de 2022, por lo que habi ndose notificado la demanda el 27 de enero de 2022,é
+
+debe entenderse que el ejecutante cumpli cabalmente las condiciones impuestas por eló
+
+art culo 8 la ley 21.226 en relaci n al art culo 11 de la misma. í ó í
+
+Por lo expuesto se rechazar la excepci n de prescripci n. á ó ó
+
+Atendido lo expuesto y lo dispuesto por los art culos 170, 434 y siguientes delí
+
+C digo de Procedimiento Civil, art culos 2492 y siguientes del C digo Civil, ley 21.226,ó í ó
+
+y dem s disposiciones legales pertinentes, á se resuelve:
+
+I.- Que se rechaza la excepci n de prescripci n interpuesta por don Juanó ó
+
+Anatolio Sep lveda Segura por s y en representaci n de Exportadora e Importadoraú í ó
+
+Juhinej Limitada, y en consecuencia se ordena seguir adelante la ejecuci n hasta haceró
+
+entero y cumplido pago de lo adeudado.
+
+II.- Que conforme lo dispuesto por el art culo 471 del C digo de Procedimientoí ó
+
+Civil, se impone el pago de las costas a los ejecutados.
+
+Notif quese, reg strese y arch vese en su oportunidad. í í í
+
+H
+X
+
+N
+X
+
+Y
+C
+
+P
+S
+
+X
+Z
+
+C-3669-2020
+
+Foja: 1
+
+Se deja constancia que se dio cumplimiento a lo dispuesto en el inciso final del art. 162
+del C.P.C. en Chillan, catorce de Febrero de dos mil veintid só
+
+H
+X
+
+N
+X
+
+Y
+C
+
+P
+S
+
+X
+Z
+
+Este documento tiene firma electrónica y su original puede ser
+validado en http://verificadoc.pjud.cl o en la tramitación de la
+causa. A contar del 05 de septiembre de 2021, la hora
+visualizada corresponde al horario de verano establecido en
+Chile Continental. Para Chile Insular Occidental, Isla de
+Pascua e Isla Salas y Gómez restar 2 horas. Para más
+información consulte http://www.horaoficial.cl
+
+2022-02-14T17:40:28-0300

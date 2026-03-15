@@ -1,0 +1,65 @@
+METADATA
+
+case_id: 90bce5f3d27d7f0a2f8661e90581db399c741aed
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8036757
+
+rol: 4951-2026
+
+fecha_sentencia: 2026-02-23
+
+caratulado: LAGOS SAAVEDRA MAXIMILIANO EDUARDO CONTRA DIRECCIÓN REGINAL DE GENDARMERÍA VALPARAÍSO
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintitrés de febrero de dos mil veintiséis.
+Vistos:
+Atendido el mérito de los antecedentes, se confirma la sentencia apelada de veintinueve de enero de dos mil veintiséis, dictada por la Corte de Apelaciones de Valparaíso, en el Ingreso Corte N°Amparo-260-2026.
+Regístrese y devuélvase.
+Rol N°4773-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Dgm.
+
+C.A. de Valparaíso
+Valparaíso, veintinueve de enero de dos mil veintiséis.
+Visto:
+
+A folio 1 se interpone recurso de amparo por el abogado Ernesto Manríquez Mendoza, en favor de Reilimar Andreína Molina del Mar y de su hija menor de edad, Giliane Sophia Matheus Molina, de cinco años de edad, ambas de nacionalidad venezolana, y en contra del Servicio Nacional de Migraciones.
+
+El recurrente funda su acción en la tramitación separada de las solicitudes de residencia temporal por reunificación familiar iniciadas el 8 de julio de 2025. Señala que, mientras a la niña Giliane se le otorgó la visa mediante Resolución Exenta N°2500100278616 el 25 de noviembre de 2025, la solicitud de su madre, Reilimar, aún se encuentra pendiente de resolución.
+Argumenta que esta demora injustificada impide que ambas puedan ingresar a Chile, poniendo en riesgo la vigencia del permiso de la niña, quien dispone de un plazo limitado para descargar su estampado electrónico e ingresar al país.
+Alega que esta situación configura una perturbación y amenaza a la libertad de circulación y al derecho de residir en la República, garantizados en el artículo 19 N°7, letra a) de la Constitución Política, vulnerando además el principio de reunificación familiar y el interés superior del niño.
+
+A folio 6 informa el Servicio Nacional de Migraciones, solicitando el rechazo del recurso atendido que la solicitud de Reilimar Molina del Mar se encuentra actualmente en etapa de resolución desde el 21 de octubre de 2025.
+Sostiene que el procedimiento administrativo no ha excedido el plazo de seis meses establecido en el artículo 27 de la Ley N°19.880.
+Asimismo, afirma que la acción es improcedente puesto que no existe un acto u omisión ilegal que afecte la libertad personal o seguridad individual de las amparadas, destacando que no se ha dispuesto ninguna sanción ni decreto de expulsión en su contra.
+
+Con lo relacionado y considerando:
+
+Primero: Que, el recurso de amparo, según lo dispone el artículo 21 de la Constitución Política de la República, es una acción de naturaleza constitucional destinada a restablecer el imperio del derecho cuando una persona se encuentra ilegalmente privada, perturbada o amenazada en su libertad personal o seguridad individual.
+
+Segundo: Que, el acto impugnado consiste en la demora administrativa del Servicio Nacional de Migraciones para resolver la solicitud de residencia temporal de la amparada Reilimar Molina del Mar, habiéndose ya pronunciado sobre la solicitud de igual naturaleza respecto de su hija.
+
+El Servicio recurrido informa que de acuerdo al sistema de Registro Nacional de Extranjeros, dicha solicitud, ingresada en julio de 2025, se encuentra en tramitación y en su etapa final de resolución desde octubre del mismo año.
+
+Tercero: Que, la acción de amparo requiere la existencia de una afectación real o amenaza inminente a la libertad ambulatoria. En el presente caso, las amparadas se encuentran fuera del territorio nacional y su pretensión se vincula con la obtención de un permiso administrativo para ingresar y residir regularmente en el país, de modo que la demora que se reclama no va acompañada de una medida coercitiva como un arresto, retención o una orden de abandono o expulsión del país, por lo que lo reclamado no constituye por sí mismo una vulneración a las garantías de libertad personal o seguridad individual que la Constitución encomienda proteger mediante esta vía excepcional.
+Cuarto: Que, al no existir un acto administrativo que imponga una sanción o restricción ilegal a la libertad de las recurrentes, la presente acción constitucional no puede prosperar, toda vez que el recurso de amparo no es la vía idónea para acelerar pronunciamientos administrativos de otorgamiento de visas, cuando no hay una afectación a la seguridad personal.
+
+Por estas consideraciones, y de conformidad con lo dispuesto en el artículo 21 de la Constitución Política de la República y el Auto Acordado de la Excma. Corte Suprema sobre la materia, se rechaza, sin costas, el recurso de amparo deducido en favor de Reilimar Andreína Molina del Mar y Giliane Sophia Matheus Molina en contra del Servicio Nacional de Migraciones.
+
+Regístrese, comuníquese y archívese en su oportunidad.
+N° Amparo-260-2026
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Dgm.C.A. de ValparaísoValparaíso, veintinueve de enero de dos mil veintiséis.Visto:A folio 1 se interpone recurso de amparo por el abogado Ernesto Manríquez Mendoza, en favor de Reilimar Andreína Molina del Mar y de su hija menor de edad, Giliane Sophia Matheus Molina, de cinco años de edad, ambas de nacionalidad venezolana, y en contra del Servicio Nacional de Migraciones.El recurrente funda su acción en la tramitación separada de las solicitudes de residencia temporal por reunificación familiar iniciadas el 8 de julio de 2025. Señala que, mientras a la niña Giliane se le otorgó la visa mediante Resolución Exenta N°2500100278616 el 25 de noviembre de 2025, la solicitud de su madre, Reilimar, aún se encuentra pendiente de resolución. Argumenta que esta demora injustificada impide que ambas puedan ingresar a Chile, poniendo en riesgo la vigencia del permiso de la niña, quien dispone de un plazo limitado para descargar su estampado electrónico e ingresar al país. Alega que esta situación configura una perturbación y amenaza a la libertad de circulación y al derecho de residir en la República, garantizados en el artículo 19 N°7, letra a) de la Constitución Política, vulnerando además el principio de reunificación familiar y el interés superior del niño.A folio 6 informa el Servicio Nacional de Migraciones, solicitando el rechazo del recurso atendido que la solicitud de Reilimar Molina del Mar se encuentra actualmente en etapa de resolución desde el 21 de octubre de 2025. Sostiene que el procedimiento administrativo no ha excedido el plazo de seis meses establecido en el artículo 27 de la Ley N°19.880. Asimismo, afirma que la acción es improcedente puesto que no existe un acto u omisión ilegal que afecte la libertad personal o seguridad individual de las amparadas, destacando que no se ha dispuesto ninguna sanción ni decreto de expulsión en su contra.Con lo relacionado y considerando:Primero: Que, el recurso de amparo, según lo dispone el artículo 21 de la Constitución Política de la República, es una acción de naturaleza constitucional destinada a restablecer el imperio del derecho cuando una persona se encuentra ilegalmente privada, perturbada o amenazada en su libertad personal o seguridad individual.Segundo: Que, el acto impugnado consiste en la demora administrativa del Servicio Nacional de Migraciones para resolver la solicitud de residencia temporal de la amparada Reilimar Molina del Mar, habiéndose ya pronunciado sobre la solicitud de igual naturaleza respecto de su hija.El Servicio recurrido informa que de acuerdo al sistema de Registro Nacional de Extranjeros, dicha solicitud, ingresada en julio de 2025, se encuentra en tramitación y en su etapa final de resolución desde octubre del mismo año.Tercero: Que, la acción de amparo requiere la existencia de una afectación real o amenaza inminente a la libertad ambulatoria. En el presente caso, las amparadas se encuentran fuera del territorio nacional y su pretensión se vincula con la obtención de un permiso administrativo para ingresar y residir regularmente en el país, de modo que la demora que se reclama no va acompañada de una medida coercitiva como un arresto, retención o una orden de abandono o expulsión del país, por lo que lo reclamado no constituye por sí mismo una vulneración a las garantías de libertad personal o seguridad individual que la Constitución encomienda proteger mediante esta vía excepcional.Cuarto: Que, al no existir un acto administrativo que imponga una sanción o restricción ilegal a la libertad de las recurrentes, la presente acción constitucional no puede prosperar, toda vez que el recurso de amparo no es la vía idónea para acelerar pronunciamientos administrativos de otorgamiento de visas, cuando no hay una afectación a la seguridad personal.Por estas consideraciones, y de conformidad con lo dispuesto en el artículo 21 de la Constitución Política de la República y el Auto Acordado de la Excma. Corte Suprema sobre la materia, se rechaza, sin costas, el recurso de amparo deducido en favor de Reilimar Andreína Molina del Mar y Giliane Sophia Matheus Molina en contra del Servicio Nacional de Migraciones.Regístrese, comuníquese y archívese en su oportunidad.N° Amparo-260-2026                        ⚠                      Sin documento en esta instancia - pdf

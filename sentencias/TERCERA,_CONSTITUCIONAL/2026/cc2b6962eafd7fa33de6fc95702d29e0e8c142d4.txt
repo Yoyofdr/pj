@@ -1,0 +1,316 @@
+METADATA
+
+case_id: cc2b6962eafd7fa33de6fc95702d29e0e8c142d4
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8036566
+
+rol: 5744-2026
+
+fecha_sentencia: 2026-02-23
+
+caratulado: TORRES OTEIZA PATRICIO/GENDARMERÍA DE CHILE
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: ▪ Gendarmería de Chile
+
+recurso: (CIVIL) CASACIÓN FONDO
+
+resultado_recurso: CONFIRMA SENTENCIA EN LO APELADO
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintitrés de febrero de dos mil veintiséis.
+
+VISTOS Y TENIENDO PRESENTE:
+1° Que, en este juicio ejecutivo, se ordenó dar cuenta de la admisibilidad del recurso de casación en el fondo deducido por la parte ejecutada, en contra de la sentencia dictada por la Corte de Apelaciones de Santiago, la cual, en lo que interesa al recurso, confirmó el fallo de primera instancia de veintinueve de diciembre de dos mil veintidós que acogió la excepción del N° 17 del artículo 464 del Código de Procedimiento Civil, con declaración que la excepción opuesta queda acogida solo en forma parcial, declarándose prescrita la acción de cobro de la tercera cuota del pagaré, debiendo seguirse adelante la ejecución por el saldo vigente, hasta hacerse entero y cumplido pago al acreedor.
+
+2° Que, en concepto del recurrente, la sentencia impugnada ha incurrido en los siguientes errores de derecho o infracciones de ley: a) artículos 2492, 2503 y 2514 del Código Civil; b) artículos 98 y 100 de la Ley N° 18.092; c) artículos 1494 y 1497 del Código Civil; d) artículos 1545 y 1546 del Código Civil; y e) artículos 1560 y 1566 del Código Civil.
+
+En síntesis, señala que la exigibilidad del total de la obligación insoluta se produjo en la fecha que los demandados se constituyeron en mora, habiendo transcurrido en exceso el plazo de prescripción de un año desde dicha data a la fecha de notificación de la demanda. Explica que el fallo recurrido ha incurrido en errores de derecho de todos los artículos ya mencionados al acoger parcialmente la excepción de prescripción como si se tratara de cuotas distintas, no obstante que fue el acreedor que utilizando la cláusula de aceleración pretende cobrar la totalidad de lo adeudado como si fuera de plazo vencido.
+
+Pide que se anule la sentencia recurrida por uno o más de los errores de derecho invocados y, acto continuo sin nueva vista pero separadamente, dicte otra sentencia de reemplazo por la que revoque en todas sus partes, la sentencia casada de segunda instancia, acogiendo en forma absoluta la excepción de prescripción impetrada por esta parte y, por tanto, rechace la demanda ejecutiva de cobro de pagaré interpuesta por FIRST AVAL S.A.G.R. denegando lugar a la ejecución, con costas de la causa y del recurso.
+
+3° Que, del propio tenor del libelo recursivo en estudio se pueden comprobar sus falencias, puesto que omitió extender la infracción legal denunciada al artículo 464 N° 17 del Código de Procedimiento Civil, norma que, en la especie, tiene el carácter de decisoria litis, esto es, precepto cuya aplicación permite resolver la cuestión controvertida. En efecto no se ha denunciado como transgredido el artículo antes referido, no obstante que en sus planteamientos el recurrente insiste en que la acción se encuentra totalmente prescrita.
+
+Tal inobservancia es determinante y representa un impedimento para que el recurso pueda prosperar, en tanto se genera un vacío que esta Corte no puede subsanar dado el carácter de derecho estricto que ostenta el arbitrio en examen.
+
+Por estas consideraciones y de conformidad además con lo dispuesto en los artículos 767, 772 y 782 del Código de Procedimiento Civil, se rechaza el recurso de casación en el fondo interpuesto por el abogado Marcelo Gallardo Camus, en representación de la parte ejecutada, en contra de la sentencia dictada por la Corte de Apelaciones de Santiago, de fecha veintisiete de enero de dos mil veintiséis.
+Al escrito folio N° 5: estese al mérito de lo resuelto.
+
+Regístrese y devuélvase.
+
+Rol Nº 5696 – 2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Alegaron, previo anuncio y relación pública, los abogados don Samuel Díaz y don Matías Baeza por y contra el recurso, por el tiempo de 10 minutos respectivamente. Santiago, 27 de enero de 2026. Florencia Sáez Bugmann, relatora.
+
+Santiago, veintisiete de enero de dos mil veintiséis.
+
+Al escrito folio N°6, 7, 8 y 9: Téngase presente.
+
+Vistos:
+
+Se reproduce la sentencia en alzada, con excepción de sus motivos quinto y sexto que se eliminan.
+
+Y se tiene en su lugar y además, presente:
+
+1° Que en el pagaré que sirve de título a la ejecución se convino cláusula de aceleración facultativa, la que solo puede tenerse por ejercida desde la fecha que aparezca manifestación de voluntad de la acreedora en tal sentido, lo que en autos ocurre con la interposición de la demanda de fecha 28 de agosto de 2019.
+
+2° Que, en este escenario, la notificación de la acción que se realizó el día 16 de enero de 2020, ha tenido el mérito de interrumpir el transcurso del plazo de prescripción contado desde la fecha en que se aceleró la deuda como ya se ha dicho.
+
+3° Que, no obstante lo señalado, la acción de cobro de la cuota que se devengó cuando se produjo la mora, desde el mes de diciembre de 2018, cuyo plazo de prescripción continuó corriendo con posterioridad a la interposición de la demanda, se encuentra prescrita precisamente porque desde su vencimiento a la fecha de notificación de la acción, transcurrió íntegro el plazo de un año que se establece en el artículo 98 de la Ley 18.092 para ello.
+
+4° Que, en razón de lo señalado, solo corresponde acoger la excepción de prescripción opuesta respecto de la tercera cuota pactada; y, en cuanto a la excepción de pago opuesta, debe ser rechazada porque se refiere a las cuotas que la misma demandante admite pagadas al presentar su acción solo por lo adeudado. Atento lo señalado de acuerdo a lo prevenido en el artículo 471 del Código de Procedimiento Civil, se ordenará que cada parte pague sus costas.
+
+Y visto lo dispuesto en los artículos 186 y siguientes del código de la materia, se confirma la sentencia apelada de veintinueve de diciembre de dos mil veintidós, pronunciada por el 27 Juzgado Civil de Santiago, con declaración que la excepción de prescripción opuesta queda acogida solo en forma parcial, declarándose prescrita la acción de cobro de la tercera cuota, vencida en diciembre de 2018, debiendo seguirse adelante la ejecución por el saldo vigente, hasta hacerse entero y cumplido pago al acreedor. Se rechaza la excepción de pago y cada parte pagará sus costas.
+
+Se previene que la ministra Claudia Lazen Manzur, estuvo por confirmar la sentencia en alzada, sin modificaciones y en virtud de sus propios fundamentos.
+
+Regístrese y devuélvase.
+
+N° 6631-2023 Civil.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+NOMENCLATURA : 1. [40]Sentencia
+JUZGADO : 27 Juzgado Civil de Santiagoº
+CAUSA ROL : C-26657-2019
+CARATULADO : FIRST AVAL S.A.G.R./SOCIEDAD CA ON DELÑ
+BLANCO LIMITADA
+
+Santiago, veintinueve de Diciembre de dos mil veintid só
+
+VISTOS:
+
+Con fecha 28 de agosto de 2019, comparece Cristian Rodr guez Josse, abogado,í
+
+en representaci n de ó First Aval S.A.G.R., cuyo Gerente General es Francisco lamosÁ
+
+Rojas, ingeniero comercial, domiciliados en calle El Plomo N 5420, oficina 802, Las°
+
+Condes, Santiago, quien deduce demanda ejecutiva en contra de: I) Sociedad Ca nñó
+
+del Blanco Limitada, sociedad del giro de centro tur stico termal, representada porí
+
+Cristian Luis Parra Oyarce, perito agr cola, í en su calidad de suscriptora, y II)
+
+Comercial Agr cola, Ganadera, Forestal, Acu cola y Tur stica San Marcelino deí í í
+
+r o Blanco limitada, o Agr cola San Marcelino Limitadaí í , representada por Cristian
+
+Luis Parra Oyarce, III) Cristian Luis Parra Oyarce, empresario, y IV) Luis Arcadio
+
+Parra Arias, jubilado, todos estos ltimos en calidades de fiadores y codeudoresú
+
+solidarios, todos los demandados domiciliados en el Centro Tur stico Ca n del Blanco,í ñó
+
+ubicado en Ruta 181 internacional, Manchuria, Curacaut n, Regi n de la Araucan a.í ó í
+
+Con fecha 24 de enero de 2020, los demandados se opusieron a la ejecuci n enó
+
+virtud de la excepci n del art culo 464 n mero 17 del C digo de Procedimiento Civil, yó í ú ó
+
+en subsidio la excepci n del numeral 9 del mismo precepto legal.ó
+
+Con fecha 3 de marzo de 2020, la ejecutante evacu el traslado conferido. ó
+
+Con fecha 27 de marzo de 2020, se recibi la causa a prueba.ó
+
+Con fecha 27 de diciembre de 2022, se cit a las partes a o r sentencia.ó í
+
+CONSIDERANDO:
+
+PRIMERO: Que, el fundamento de la ejecuci n es el pagar N 16337, cuyaó é °
+
+firma fue autorizada ante notario con fecha 20 de julio de 2017, por la suma total de
+
+$124.904.269.-, m s intereses, en virtud del cual los demandados se obligaron a pagar 3á
+
+cuotas sucesivas de $17.873.552.- a contar del 4 de diciembre de 2017, y una ltimaú
+
+cuota correspondiente a un cot n de $99.409.325.- con vencimiento al d a 4 de junio deó í
+
+2019. Agrega que mediante escritura p blica suscrita con fecha 30 de julio de 2014ú
+
+Comercial Agr cola, Ganadera, Forestal, Acu cola y Tur stica San Marcelino de R oí í í í
+
+Blanco Limitada, o Agr cola San Marcelino Limitada, y Luis Arcadio Parra Arias, seí
+
+constituyeron en fiadores y codeudores solidarios de todas y cada una de las obligaciones
+
+Código: EYDXXDKJLHX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+presentes y futuras contra das por la Sociedad Ca n del Blanco Limitada, en favor deí ñó
+
+First Aval S.A.G.R. Refiere que se pact que la mora o simple retardo en el pago deó
+
+cualquiera de las cuotas dar a derecho a exigir la totalidad de lo adeudado, cuesti n queí ó
+
+ocurri en la cuota n mero 3, con vencimiento el d a 4 de diciembre de 2018, por loó ú í
+
+que adeuda a su representada la suma de $117.282.877.- en capital, monto por el cual
+
+solicita se d curso a la ejecuci n, m s intereses convencionales y penales hasta la fechaé ó á
+
+del pago efectivo, m s comisi n legal del 1% anual sobre el saldo capital garantizadoá ó
+
+respecto del pagar . é
+
+SEGUNDO: Que, la parte demandada se opuso a la ejecuci n en virtud de laó
+
+excepci n del art culo 464 n mero 17 del C digo de Procedimiento Civil, pues, entre laó í ú ó
+
+fecha del vencimiento de la tercera cuota, el 4 de diciembre de 2018, y la fecha de
+
+notificaci n de la demanda, 16 de enero de 2020, ya hab a transcurrido el plazo legal deó í
+
+un a o para que opere la prescripci n de la acci n cambiaria, seg n dispone el art culoñ ó ó ú í
+
+98 de la Ley N 18.092; por ello, oper la prescripci n de la acci n ejecutiva, de forma° ó ó ó
+
+que solicitan se rechace la demanda ejecutiva, neg ndose la ejecuci n, con costas.á ó
+
+En subsidio, oponen la excepci n contenida en el n mero 9 del art culo 464 deló ú í
+
+C digo de Procedimiento Civil, pues indican que la propia demandante se ala en suó ñ
+
+libelo que los demandados se habr an constituido en mora a partir de la cuota n mero 3,í ú
+
+es decir, pagaron el monto correspondiente a las cuotas n meros 1 y 2 por un total deú
+
+$35.747.104.-, monto que se debe descontar del total de pagar de $124.904.269.-, loé
+
+que da un saldo insoluto de $89.157.165.- y no de $117.282.877.- como arbitrariamente
+
+pretende la ejecutante cobrar.
+
+TERCERO: Que, al evacuar el traslado conferido, la demandante solicit eló
+
+rechazo de las excepciones opuestas; respecto de la excepci n de prescripci n, laó ó
+
+demanda se present el d a 28 de agosto de 2019, provey ndose la demanda con fecha 4ó í é
+
+de octubre de 2019, esto es, antes de que se cumpliera el plazo de prescripci n, por loó
+
+que sta se interrumpi civilmente de conformidad al art culo 2518 del C digo Civil,é ó í ó
+
+antes que se cumpliera el plazo de un a o se alado en el art culo 98 de la Leyñ ñ í
+
+N 18.092, agregando que en la actualidad la Corte Suprema ha variado su°
+
+interpretaci n, en el sentido que la prescripci n se interrumpe civilmente desde laó ó
+
+presentaci n de la demanda judicial y no desde su notificaci n.ó ó
+
+En relaci n a la excepci n subsidiaria de pago, se ala que el demandado cometeó ó ñ
+
+un error al creer que el saldo adeudado corresponde al monto original del pagar menosé
+
+las 2 cuotas pagadas, olvidando que la obligaci n devenga inter s por el 1,1 % mensual,ó é
+
+por lo que no es procedente hacer un c lculo lineal.á
+
+CUARTO: Que, para acreditar los presupuestos de su acci n, la demandanteó
+
+acompa prueba documental, consistente en el pagar cuyo cobro se intenta, certificadoñó é
+
+Código: EYDXXDKJLHX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+de fianza emitido de conformidad a la Ley N 20.179, formulario N 24 de Declaraci n y° ° ó
+
+Pago de Impuestos de Timbres y Estampillas, del Servicio de Impuestos Internos. Por su
+
+parte, la pare ejecutada acompa prueba documental consistente en certificado emitidoñó
+
+por receptor judicial Pablo Cheuquepan Arzola, aclarando fecha de notificaci n yó
+
+requerimiento de pago a la demandada.
+
+QUINTO: Que, para resolver la excepci n de prescripci n opuesta, es necesarioó ó
+
+tener presente que la demandante funda su acci n ejecutiva en el pagar en cuotasó é
+
+suscrito por la parte demandada, atendido que sta dej de pagar las cuotas devengadasé ó
+
+a partir del vencimiento de la cuota n mero 3, de fecha 4 de diciembre de 2018,ú
+
+momento en que, como ratific en su demanda, e independiente de los t rminosó é
+
+escogidos para redactar la cl usula de exigibilidad anticipada, hizo exigible la obligaci ná ó
+
+por la totalidad del cr dito insoluto y, por lo tanto, en el que principi el plazo deé ó
+
+prescripci n de un a o previsto por la Ley N 18.092, seg n dispone el art culo 2514 deló ñ ° ú í
+
+C digo Civil, el cual, alcanz a transcurrir ntegramente, pues, se vio interrumpidoó ó í
+
+reci n con fecha 16 de enero de 2020 seg n aclaraci n efectuada por ministro de feé ú ó
+
+actuante cuyo certificado no objetado fue acompa ado por la parte ejecutada enñ
+
+presentaci n de folio 30, oportunidad en que se notific la demanda ejecutiva y se leó ó
+
+requiri de pago a los demandados, motivo por el cual esta excepci n deber seró ó á
+
+acogida.
+
+SEXTO: Que, atendido que la demandante tuvo motivo plausible para deducir
+
+su demanda ejecutiva, se le eximir del pago de las costas en consideraci n a su calidadá ó
+
+de acreedora insatisfecha que no logr emplazar a su contraria durante la vigencia de suó
+
+acci n. ó
+
+Por estas consideraciones, y visto lo dispuesto por los art culos 1698, 2514 yí
+
+siguientes del C digo Civil; 160, 170, 434 y siguientes del C digo de Procedimientoó ó
+
+Civil; Ley N 18.092, se resuelve que: °
+
+I. Se acoge la excepci n del n mero 17 del art culo 464 del C digo deó ú í ó
+
+Procedimiento Civil, opuesta por la parte demandada en su presentaci nó
+
+de 24 de enero de 2020, y se rechaza la demanda ejecutiva.
+
+II. Que, habi ndose acogido la excepci n opuesta por lo principal, se omitiré ó á
+
+pronunciamiento respecto de la excepci n subsidiaria de pago.ó
+
+III. Cada parte pagar sus costas. á
+
+Reg strese, comun quese y arch vese en su oportunidad. í í í
+
+Rol: C-26.657-2019.
+
+Código: EYDXXDKJLHX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Dictada por Julio Ernesto Ram rez Zolezzi. Juez Subrogante del Vig simoí é
+
+S ptimo Juzgado Civil de Santiago. é
+
+Se deja constancia que se dio cumplimiento a lo dispuesto en el inciso final del art. 162
+del C.P.C. en Santiago, veintinueve de Diciembre de dos mil veintid só
+
+Código: EYDXXDKJLHX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2022-12-29T13:18:06-0300
