@@ -20,15 +20,6 @@ resultado_recurso: CONFIRMA RESOLUCIÓN APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
-Santiago, veintiséis de febrero de dos mil veintiséis.
-Vistos:
-Se confirma la resolución apelada de fecha veintitrés de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Valdivia.
-Regístrese y devuélvase.
-
-Rol N° 58.161-2025.
-
-TEXTO_SENTENCIA_APELACIONES
---------------------------------------------------------------------------------
 Los reclamos o solicitudes que formulen los usuarios del Buscador de Jurisprudencia serán resueltos por el Comité Editorial, de cuya decisión se podrá reclamar dentro de quinto día ante la Comisión de Transparencia de la Corte Suprema. Art. 4 inc. final Acta 164-2024.
 Para ingresar reclamo o solicitud acceda a Contáctenos.
 Cita bibliográfica:
@@ -40,7 +31,6 @@ Caratulado: VALDIVIA (/CUARTA SALA ILMA. CORTE DE APELACIONES CONCEPCIÓN)
 Fecha de sentencia: 26-02-2026
 Sala: SEGUNDA, PENAL
 Materias:
-▪ Recurso de queja
 Recurso: (CRIMEN) QUEJA
 Resultado recurso: RECHAZA RECURSO DE QUEJA (M)
 Corte de origen: C.A. de Concepción
@@ -48,6 +38,81 @@ Ministro Redactor: Ministro no Identificado
 Rol Corte Apelaciones: 9-2025
 Descriptores: [ "Rechazo del recurso de queja", "Secuestro calificado", "Monitoreo telemático de condenados", "Ausencia de falta o abuso grave al dictar sentencia", "Cumplimiento efectivo de condena", "Pena sustitutiva de libertad vigilada intensiva", "Libertad vigilada intensiva con monitoreo telemático" ]
 Ministros: [ "Mario Carroza Espinosa", "Eliana Quezada Muñoz", "Pía Tavolari Goycoolea", "María Catepillán Lobos", "José Valdivia Olivares" ]
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Concepción
+Concepción, doce de noviembre de dos mil veinticinco.
+
+VISTOS:
+
+Que, en estos autos, Rol N° 9-2025 del ingreso de esta Iltma. Corte de Apelaciones, la querellante Programa de Derechos Humanos a través de su abogado Gabriel Ramos Vieytes, se ha alzado en contra de la resolución de 20 de diciembre de 2024, en virtud de la cual el Ministro en Visita Extraordinaria, Carlos Aldana Fuentes, que rola a fojas 11.732 hizo lugar a lo solicitado por la defensa del condenado José Roberto Valdivia Dames, y suspendió el cumplimiento de la condena impuesta en recinto de cumplimiento penitenciario ordenando el cumplimiento domiciliario bajo la supervigilancia del Centro de Reinserción Social de Gendarmería de Chile, a fin de que sea revocada, ordenando que el condenado deberá seguir cumpliendo la pena impuesta de manera efectiva.
+
+Que, asimismo la defensa del condenado José Roberto Valdivia Dames interpone a folio 28 de los presentes autos, incidente de nulidad procesal respecto del informe evacuado por la señora Fiscal Judicial Silvia Mutizabal.
+
+Se trajeron los autos en relación.
+
+CON LO RELACIONADO Y CONSIDERANDO:
+
+I.- En cuanto al incidente de nulidad de folio 28,
+
+PRIMERO: Que, la defensa del condenado Valdivia Dames, a folio 28 de los presentes autos, interpone incidente de nulidad procesal de la resolución que tuvo por evacuado el informe fiscal con fecha 07 de abril de 2025 y la nulidad procesal del informe fiscal evacuado en la presente causa, en atención a los artículos 68 y siguientes del Código de Procedimiento Penal, en relación al artículo 359 del Código Orgánico de Tribunales, fundado, en síntesis, que la presente causa es de naturaleza criminal, en particular sobre la concesión de la modalidad de pena mixta, respecto de la cual se ha interpuesto un recurso de apelación y que en consecuencia no procede pedir opinión al fiscal judicial en atención a la disposición expresa de la norma invocada y su modificación de fecha 09 de marzo de 2000, contenida en la Ley 19.665, lo que configura un vicio procesal y un agravio ya que el referido informe es desfavorable a su representado.
+
+SEGUNDO: Que, revisados los antecedentes de la presente causa, se tendrá por establecido que como consta a folio 20, por resolución de fecha 28 de marzo de 2025 y fundado en el artículo 359 del Código Orgánico de Tribunales se solicitó informe a la fiscalía judicial, el que fue evacuado a folio 23.
+
+TERCERO:  Que, el Artículo 68 del Código de Procedimiento Penal, señala que: “Regirán las disposiciones relativas a nulidades procesales contenidas en el Código de Procedimiento Civil, en cuanto puedan aplicarse al juicio penal y no fueren contrarias a las que se prescriben en este párrafo.” Y el Artículo 69 agrega que: “sólo pueden anularse los actos procesales cuando la violación de las normas que los establecen esté sancionada con la nulidad o se refiere a un acto o trámite declarado esencial por la ley. Se entiende siempre establecido bajo sanción de nulidad el cumplimiento de las disposiciones concernientes a la intervención del Ministerio Público en los actos en que ella es obligatoria; y a la intervención, patrocinio y representación del procesado, en los casos y formas establecidos por la ley.
+
+CUARTO: Que, en consecuencia, y teniendo presente el principio de especificidad del artículo 69 antes señalado, las causales que permiten anular una actuación son de carácter restrictivo y están expresamente señaladas en la ley, ninguna de cuyas hipótesis corresponde a la alegación del incidentista, teniéndose además presente que el perjuicio alegado no se configura por el sólo hecho de ser el informe desfavorable a su pretensión, sino que deberá estarse al resultado del presente recurso.
+
+QUINTO: Que, conforme los anteriores argumentos no queda sino rechazar la incidencia, como se dirá.
+
+II.- En cuanto al recurso de apelación:
+
+Se reproduce la sentencia en alzada, con excepción de los considerandos octavo y noveno, los que se eliminan, y se tiene en su lugar presente,
+
+SEXTO: Que, es deber fundamental del Estado chileno respetar y promover los Tratados Internacionales vigentes, conforme al artículo 5 inciso 2° de la Constitución. En este escenario, lleva la razón la recurrente en cuanto a que la consideración de la aplicación de penas sustitutivas, especialmente en casos de crímenes de lesa humanidad o graves violaciones a los derechos humanos, debe armonizarse con la obligación internacional del Estado de sancionar a los responsables de manera seria, efectiva y ejemplificadora.
+
+SEPTIMO: Que, la Corte Interamericana de Derechos Humanos (CIDH) ha establecido reiteradamente que la obligación del Estado de investigar, sancionar y reparar violaciones a los derechos humanos implica el deber de organizar todo el aparato gubernamental, de manera que sean capaces de asegurar jurídicamente el libre y pleno ejercicio de los derechos humanos. En este contexto, la aplicación de beneficios que puedan desvirtuar el reproche penal y la importancia de proteger los derechos humanos, como las medidas prescriptivas o beneficios sustitutivos de pena en casos de crímenes de lesa humanidad, es incompatible con las obligaciones internacionales del Estado.
+
+OCTAVO: Que, en efecto, la sentencia de la CIDH, Vegas González y otros vs. Chile, de fecha 12 de marzo de 2024, enfatizó la existencia de una prohibición de comisión de crímenes de lesa humanidad derivada del ius cogens. El Estado tiene la obligación de no dejar impunes estos delitos, asegurando la proporcionalidad de la pena y absteniéndose de aplicar beneficios típicos de crímenes menos graves. Permitir la suspensión en el cumplimiento de la pena en el caso de autos, donde el condenado cometió un delito que constituye un crimen de lesa humanidad, implica un incumplimiento de la obligación internacional del Estado de sancionar de manera proporcional los más graves crímenes internacionales, aquéllos que repugnan de manera más sería el comportamiento esperable de la comunidad internacional toda.
+
+NOVENO: Que, no obstante las premisas antes referidas, es posible en delitos de lesa humanidad, revisar las penas impuestas, desde que el artículo 110 del Estatuto de Roma permite el examen de los antecedentes para la reducción de la pena, pero bajo los supuestos que ella misma contempla; y así en el régimen interno, el artículo 3 bis del D.L. 321 sobre Libertad Condicional para las personas condenadas a penas privativas de libertad o el artículo 109 ter del Decreto 518, Reglamento de Establecimientos Penitenciarios, con las exigencias que allí se explicitan. De lo anterior, se desprende que la revisión de las penas impuestas en casos de delitos de lesa humanidad se encuentra sujeto a un estatuto especial que sin lugar a duda encuentra su justificación en los distintos bienes jurídicos protegidos en el derecho internacional de los derechos humanos, en particular, equilibra la finalidad resocializadora de la pena con el derecho a la verdad (aporte al esclarecimiento), y la dignidad de las víctimas (arrepentimiento). Asimismo, en función del interés social involucrado, pone controles técnicos rigurosos y de política criminal sobre la decisión.
+
+DECIMO: Que, sin perjuicio de ello, la Ley 18.216 tiene el carácter de norma administrativa penitenciaria; como quiera que la ejecución penal es una herramienta de política-criminal destinada a proteger bienes jurídicos relevantes para la sociedad, bajo la premisa del cumplimiento de los fines de prevención del delito y de resocialización del delincuente; en ese contexto, tal ley regula la ejecución de las penas sustitutivas que en ella se describen estipulando en cada caso las exigencias de procedencia, así como los requisitos de su cumplimiento, excluyendo el legislador, por razones de política criminal, un número determinado de delitos por cuya condena el sentenciado queda descartado en la aplicación de las penas que ahí se detallan.
+
+UNDECIMO: Que dicho lo anterior, si bien la defensa se apoya en los requisitos formales de la Ley 18.216, es preciso recordar que el artículo 1, inciso segundo, de dicha ley prohíbe la facultad establecida en el inciso precedente ni la del artículo 33 de esa ley, tratándose de los autores de los delitos consumados previstos en los artículos 141, incisos tercero, cuarto y quinto; 142 y 150 A. En el caso que nos ocupa el condenado Valdivia Dames fue sentenciado por el delito de secuestro calificado y la 18.216, al referirse al secuestro calificado, como ya se indicó, impone una prohibición expresa de otorgar penas sustitutivas.
+
+DUODECIMO: Que, en consecuencia, aunque se cumplan los requisitos formales internos, la naturaleza del delito y la obligación internacional del Estado de garantizar la no repetición de atrocidades, junto con la prohibición expresa establecida en la Ley 18.216 para el secuestro calificado, coincidiendo con lo expresado por la Sra. Fiscal Judicial en su informe, impiden acceder al beneficio de sustitución de pena mixta.
+
+DECIMOTERCERO: Que, por lo anterior, la conclusión del Ministro en Visita Extraordinaria, en cuanto a que la sustitución sería procedente, no resulta ajustada a la interpretación armónica de la ley interna y el Derecho Internacional de los derechos humanos, debiendo primar la obligación de sanción efectiva manifestada en el ordenamiento jurídico, sobre la consideración de las circunstancias personales del condenado en este tipo de ilícitos.
+
+Y visto también lo que previenen los artículos 68 y siguientes del Código de Procedimiento Penal; 359 del Código Orgánico de Tribunales; Ley 18.216 y lo informado por la Fiscalía Judicial, se declara:
+
+I.- Que, SE RECHAZA, sin costas por tener motivo plausible para litigar, el incidente de nulidad procesal promovido por la defensa del condenado José Roberto Valdivia Dames, a folio 28 de estos autos.
+
+II.- Que, SE REVOCA, en lo apelado, la resolución de fecha 20 diciembre de 2024, de fojas 11.732, en causa 372 y acumuladas y en consecuencia se resuelve que no ha lugar a la solicitud de la defensa del sentenciado José Roberto Valdivia Dames y QUE SE RECHAZA la sustitución de la pena privativa de libertad que actualmente cumple.
+
+Acordada con el voto en contra de la ministra suplente Sra. Zurita, quien fue de parecer de confirmar la sentencia en alzada, fundado para ello en los siguientes antecedentes:
+
+PRIMERO: Que, debe estarse al mandato contenido en nuestra Constitución, conforme a lo cual, el Estado de Chile debe respetar los Tratados Internacionales previamente suscritos, conforme a lo prescrito en el artículo 5 inciso 2°, que señala: “Es deber de los órganos del Estado respetar y promover tales derechos, garantizados por esta Constitución, así como por los tratados internacionales ratificados por Chile y que se encuentren vigentes”.
+
+SEGUNDO: Que, asimismo debe tenerse presente la Convención Interamericana sobre la protección de los Derechos Humanos de las personas Mayores, la cual fue promulgada y publicada el año 2017. De aquella se aprecia en el artículo 13, inciso 3° y 4° que: “Los Estados Parte garantizarán que cualquier medida de privación o restricción de libertad será de conformidad con la ley y asegurarán que la persona mayor que se vea privada de su libertad en razón de un proceso tenga, en igualdad de condiciones con otros sectores de la población, derecho a garantías de conformidad con el derecho internacional de los derechos humanos y a ser tratada de conformidad con los objetivos y principios de la presente Convención. Los Estados Parte garantizarán el acceso de la persona mayor privada de libertad a programas especiales y atención integral, incluidos los mecanismos de rehabilitación para su reinserción en la sociedad y, según corresponda, promoverán medidas alternativas respecto a la privación de libertad, de acuerdo con sus ordenamientos jurídicos internos”.
+
+En ese orden de ideas, debe concluirse que una persona mayor corresponde a aquel ha cumplido los 60 años, de conformidad a lo dispuesto en el inciso 2° del artículo 1° de la ley 19.828, que crea el Servicio Nacional del Adulto Mayor.
+
+TERCERO: Que, a su vez y tal como prescribe la Excelentísima Corte Suprema en causa rol 14.483-2021, en el considerando 6°, “que en síntesis, la normativa internacional de los Derechos Humanos, interpretada en su conjunto, no prohíbe ni excluye la sustitución de pena privativa de libertad por la de remisión condicional, aun tratándose de delitos que deben calificarse como violaciones a los derechos humanos, sino que constituye una herramienta mediante la cual el órgano jurisdiccional puede dar un prudente y razonado cumplimiento a los deberes que esa misma normativa consagra, como anteriormente se ha explicado”.
+
+A su vez, en causa ROL 95.109-2020, en el considerando vigésimo señaló: “Que, entonces, con la sustitución de pena privativa de libertad por la de libertad vigilada intensiva, en el caso de marras se logra por una parte, reafirmar la vigencia de la norma penal transgredida con las conductas imputadas al acusado, cumplir y ajustarse a los distintos fines que se esperan de la sanción penal y, asimismo, honrar el compromiso del Estado con la investigación, sanción y reparación de graves violaciones a los Derechos Humanos, pero por otra parte, también respetar y promover los derechos del encartado como persona mayor, consagrado en la Convención ya referida.”
+
+CUARTO: Que, en efecto, esta sentenciadora coincide con la sentencia recurrida, en cuanto al hecho que es posible advertir, que se reúnen respecto del sentenciado, los requisitos del artículo 33 de la Ley 18.216, considerando al efecto la condena impuesta a su respecto, no registrar otra condena por crimen o simple delito, el haber cumplido más del tercio de su condena en régimen de cumplimiento efectivo, el haber sido observado su comportamiento como muy bueno los tres últimos bimestres antes de su solicitud y el informe favorable de pena mixta de Gendarmería de Chile, rolante a fojas 11.696 y siguientes que concluye que presenta un nivel de reincidencia bajo, con necesidad de intervención alta en familia y posibilidades de reinserción del penado, recomendado el reemplazo de la pena privativa de libertad por el régimen de pena mixta de libertad vigilada intensiva.
+
+QUINTO: Que, por las anteriores consideraciones y disintiendo de la opinión de la señora Fiscal Judicial, aparece que la conclusión del Ministro en Visita Extraordinaria, resulta ajustado a la ley vigente y en concordancia con la interpretación de los Tratados Internacionales ya invocados, considerando la edad del condenado y sus circunstancias personales.
+
+Regístrese y devuélvase, con todos sus agregados si los tuviere, en su oportunidad.
+
+Redactada por la Ministra (S) Tania Zurita Riquelme, quien no firma por encontrarse ausente.
+
+Rol N° Penal-9-2025
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------
