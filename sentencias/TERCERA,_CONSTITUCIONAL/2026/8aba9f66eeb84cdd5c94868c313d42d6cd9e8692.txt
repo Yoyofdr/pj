@@ -1,0 +1,78 @@
+METADATA
+
+case_id: 8aba9f66eeb84cdd5c94868c313d42d6cd9e8692
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8035878
+
+rol: 52862-2025
+
+fecha_sentencia: 2026-02-19
+
+caratulado: ANONIMIZADO
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: ▪ Función pública
+
+recurso: (CIVIL) CASACIÓN FONDO T. PROPIEDAD INDUSTRIAL
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veinte de febrero de dos mil veintiséis.
+
+Vistos:
+Se confirma la sentencia apelada de fecha catorce de noviembre de dos mil veinticinco, pronunciada por la Corte de Apelaciones de Valdivia.
+
+Resolviendo lo principal de escrito de folio N°5 y escrito de folio N°8: Estese al mérito de lo resuelto precedentemente.
+
+Regístrese y devuélvase.
+
+Rol N° 52.443-2025.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Valdivia, catorce de noviembre de dos mil veinticinco.
+
+Vistos y teniendo presente:
+
+1°) Que, comparece Rodrigo Ignacio Báez Andrade, egresado de derecho, en favor de Jimena del Carmen Martínez Azocar, cédula nacional de identidad N°14.313.359-1, dueña de casa, domiciliada en Quilicura 1665 Mirador, sector Rahue Alto, Osorno, quien interpone acción constitucional de protección en contra del Ministerio de Transportes y Telecomunicaciones, de la Subsecretaría de Transportes y de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de Los Lagos.
+
+Expone que la recurrente tomó conocimiento, con fecha 8 de septiembre de 2025, a través del Oficio N°26379/2025, se notificó a las juntas de vecinos “Lago Paraíso” y “Reina Luisa” que la empresa de transportes Vía Azul Ltda. o “Línea 4” sufrirá la eliminación de su recorrido tradicional. Refiere que aquella comunicación fue precedida por una presentación de las presidencias de las juntas de vecinos indicadas en protesta por la exclusión del recurrente en la licitación que actualmente impulsa la Secretaría Regional Ministerial con miras a la operación en el año 2026. Señala que la autoridad indicó como argumentos para adoptar aquella decisión la baja oferta de microbuses ofertados, como la escasa afluencia de pasajeros, como incumplimientos de obligaciones que especifica.
+
+Alega que el acto recurrido vulnera sus derechos previstos en el artículo 19 N°1, 2, 3 y 7 de la Constitución Política de la República, manifestando ser una usuaria de larga data del servicio de transportes individualizado, siendo aquel la única línea de microbuses a la que podría acceder desde su domicilio
+
+Solicita que se acoja la acción constitucional de protección, solicitando que se ordene ingresar la empresa aludida al tramo de circulación que singulariza, como también accedan a circular los microbuses necesarios para el trabajo desempeñado en aquella ruta, a fin de poder contar con un medio de transporte en la ciudad, junto con reingresar al concurso público que refiere la recurrente y su recorrido, con costas.
+
+2°) Que, comparece Federico Butikofer Lagos, abogado, en representación de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Lagos, el Ministerio de la misma cartera señalada y la Subsecretaría de Transportes, quien evacúa informe al tenor de la acción constitucional interpuesta.
+
+En primer término, alega que la presentación de la recurrente carece de fundamento, al dirigirse a un mero acto de comunicación que se limitó a responder una consulta levantadas por juntas de vecinos, no correspondiendo a un acto administrativo que contenga alguna declaración de voluntad.
+
+Expone que la Subsecretaría de Transportes formuló cargos a la Servicio N°4, correspondiente a la empresa señalada por la recurrente, por registrar frecuencias significativamente inferiores a los parámetros mínimos exigidos en los meses de noviembre y diciembre de 2021, la que fue sancionada con la cancelación del servicio, lo que fue confirmado una vez resueltos los recursos administrativos interpuestos. Agrega que, en cuanto a la supuesta exclusión de Vía Azul Ltda. de la nueva licitación, corresponde manifestar que ello tampoco es efectivo, siendo un proceso actualmente “abierto”, público y competitivo, al que por tanto no se impide o restringe de ninguna forma, que la empresa participe según estime conveniente a sus intereses.
+
+Alega que el contrato de adscripción, en virtud del cual la empresa señalada por la recurrente presta su servicio tiene una duración de 60 meses, prorrogables por 24 meses adicionales, por lo cual no existe un derecho adquirido sobre el servicio.
+
+Sostiene la inexistencia de acto ilegal o arbitrario que afecte alguno de los derechos fundamentales expuestos por la recurrente en su presentación.
+
+Solicita que se rechace con costas la acción constitucional interpuesta.
+
+3°) Que, como reiteradamente se ha venido sosteniendo, la acción de protección, establecida en el artículo 20 de la Constitución Política de Chile, constituye jurídicamente una acción de naturaleza cautelar, destinada a amparar el libre ejercicio de las garantías y derechos preexistentes que en esa misma disposición se enumeran, mediante la adopción de medidas de resguardo que se deben tomar ante un acto u omisión arbitrario o ilegal que impida, amague o moleste ese ejercicio, resultando, entonces, requisito indispensable de la acción, un acto u omisión ilegal –esto es, contrario a la ley, según el concepto contenido en el artículo 1º del Código Civil- o arbitrario -producto del mero capricho de quién incurre en él- y que provoque algunas de las situaciones o efectos que se han indicado, afectando a una o más de las garantías y derechos protegidos.
+
+4°) Que, del mérito de los antecedentes allegados al proceso, se advierte que el acto recurrido corresponde a una declaración de constancia o conocimiento en relación con un servicio de transporte, dirigida hacia personas interesadas, diversas a la recurrente, el cual no tiene por efecto la exclusión de la empresa individualizada respecto de la prestación del servicio indicado en su presentación.
+
+5°) Que, sin perjuicio de lo anterior, conviene hacer presente que, respecto de la prestación del servicio de transporte de locomoción colectiva, estos se encuentran sujetos a la regulación por parte de la autoridad y a los procesos de licitación pública, como se ha expuesto en el informe de las recurridas, de modo que no se ve amenazada la continuidad del servicio público.
+
+6°) Que, del mérito de los antecedentes expuestos, no se vislumbra la existencia de hechos concretos que constituyan siquiera una amenaza a los derechos constitucionales expuestos por la recurrente en su presentación, así como es posible señalar que la libertad personal y la seguridad individual no se hallan amparadas por la acción constitucional de marras.
+
+7°) Que, de tal suerte, sin haberse descrito un acto ilegal o arbitrario por parte de las recurridas, encontrándose pendiente la adjudicación en el proceso de licitación pública, no se vislumbra que alguna actuación u omisión que tenga la aptitud de afectar los derechos aludidos por la recurrente en la forma prevista por el artículo 20 de la Constitución Política de la República.
+
+Por estas consideraciones y visto lo dispuesto en el Auto Acordado de la Excelentísima Corte Suprema sobre Tramitación y Fallo del Recurso de Protección de Garantías Constitucionales, se resuelve que, se rechaza, sin costas, la acción constitucional de protección interpuesta por Arturo Dagoberto Arriagada Villanueva en contra del Ministerio de Transportes y Telecomunicaciones, de la Subsecretaría de Transportes y de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de Los Lagos.
+
+Regístrese, comuníquese y, en su oportunidad, archívese.
+
+N°Protección-897-2025
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Valdivia, catorce de noviembre de dos mil veinticinco.Vistos y teniendo presente:1°) Que, comparece Rodrigo Ignacio Báez Andrade, egresado de derecho, en favor de Jimena del Carmen Martínez Azocar, cédula nacional de identidad N°14.313.359-1, dueña de casa, domiciliada en Quilicura 1665 Mirador, sector Rahue Alto, Osorno, quien interpone acción constitucional de protección en contra del Ministerio de Transportes y Telecomunicaciones, de la Subsecretaría de Transportes y de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de Los Lagos.Expone que la recurrente tomó conocimiento, con fecha 8 de septiembre de 2025, a través del Oficio N°26379/2025, se notificó a las juntas de vecinos “Lago Paraíso” y “Reina Luisa” que la empresa de transportes Vía Azul Ltda. o “Línea 4” sufrirá la eliminación de su recorrido tradicional. Refiere que aquella comunicación fue precedida por una presentación de las presidencias de las juntas de vecinos indicadas en protesta por la exclusión del recurrente en la licitación que actualmente impulsa la Secretaría Regional Ministerial con miras a la operación en el año 2026. Señala que la autoridad indicó como argumentos para adoptar aquella decisión la baja oferta de microbuses ofertados, como la escasa afluencia de pasajeros, como incumplimientos de obligaciones que especifica.Alega que el acto recurrido vulnera sus derechos previstos en el artículo 19 N°1, 2, 3 y 7 de la Constitución Política de la República, manifestando ser una usuaria de larga data del servicio de transportes individualizado, siendo aquel la única línea de microbuses a la que podría acceder desde su domicilioSolicita que se acoja la acción constitucional de protección, solicitando que se ordene ingresar la empresa aludida al tramo de circulación que singulariza, como también accedan a circular los microbuses necesarios para el trabajo desempeñado en aquella ruta, a fin de poder contar con un medio de transporte en la ciudad, junto con reingresar al concurso público que refiere la recurrente y su recorrido, con costas.2°) Que, comparece Federico Butikofer Lagos, abogado, en representación de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Lagos, el Ministerio de la misma cartera señalada y la Subsecretaría de Transportes, quien evacúa informe al tenor de la acción constitucional interpuesta.En primer término, alega que la presentación de la recurrente carece de fundamento, al dirigirse a un mero acto de comunicación que se limitó a responder una consulta levantadas por juntas de vecinos, no correspondiendo a un acto administrativo que contenga alguna declaración de voluntad.Expone que la Subsecretaría de Transportes formuló cargos a la Servicio N°4, correspondiente a la empresa señalada por la recurrente, por registrar frecuencias significativamente inferiores a los parámetros mínimos exigidos en los meses de noviembre y diciembre de 2021, la que fue sancionada con la cancelación del servicio, lo que fue confirmado una vez resueltos los recursos administrativos interpuestos. Agrega que, en cuanto a la supuesta exclusión de Vía Azul Ltda. de la nueva licitación, corresponde manifestar que ello tampoco es efectivo, siendo un proceso actualmente “abierto”, público y competitivo, al que por tanto no se impide o restringe de ninguna forma, que la empresa participe según estime conveniente a sus intereses. Alega que el contrato de adscripción, en virtud del cual la empresa señalada por la recurrente presta su servicio tiene una duración de 60 meses, prorrogables por 24 meses adicionales, por lo cual no existe un derecho adquirido sobre el servicio.Sostiene la inexistencia de acto ilegal o arbitrario que afecte alguno de los derechos fundamentales expuestos por la recurrente en su presentación.Solicita que se rechace con costas la acción constitucional interpuesta.3°) Que, como reiteradamente se ha venido sosteniendo, la acción de protección, establecida en el artículo 20 de la Constitución Política de Chile, constituye jurídicamente una acción de naturaleza cautelar, destinada a amparar el libre ejercicio de las garantías y derechos preexistentes que en esa misma disposición se enumeran, mediante la adopción de medidas de resguardo que se deben tomar ante un acto u omisión arbitrario o ilegal que impida, amague o moleste ese ejercicio, resultando, entonces, requisito indispensable de la acción, un acto u omisión ilegal –esto es, contrario a la ley, según el concepto contenido en el artículo 1º del Código Civil- o arbitrario -producto del mero capricho de quién incurre en él- y que provoque algunas de las situaciones o efectos que se han indicado, afectando a una o más de las garantías y derechos protegidos.4°) Que, del mérito de los antecedentes allegados al proceso, se advierte que el acto recurrido corresponde a una declaración de constancia o conocimiento en relación con un servicio de transporte, dirigida hacia personas interesadas, diversas a la recurrente, el cual no tiene por efecto la exclusión de la empresa individualizada respecto de la prestación del servicio indicado en su presentación.5°) Que, sin perjuicio de lo anterior, conviene hacer presente que, respecto de la prestación del servicio de transporte de locomoción colectiva, estos se encuentran sujetos a la regulación por parte de la autoridad y a los procesos de licitación pública, como se ha expuesto en el informe de las recurridas, de modo que no se ve amenazada la continuidad del servicio público.6°) Que, del mérito de los antecedentes expuestos, no se vislumbra la existencia de hechos concretos que constituyan siquiera una amenaza a los derechos constitucionales expuestos por la recurrente en su presentación, así como es posible señalar que la libertad personal y la seguridad individual no se hallan amparadas por la acción constitucional de marras.7°) Que, de tal suerte, sin haberse descrito un acto ilegal o arbitrario por parte de las recurridas, encontrándose pendiente la adjudicación en el proceso de licitación pública, no se vislumbra que alguna actuación u omisión que tenga la aptitud de afectar los derechos aludidos por la recurrente en la forma prevista por el artículo 20 de la Constitución Política de la República.Por estas consideraciones y visto lo dispuesto en el Auto Acordado de la Excelentísima Corte Suprema sobre Tramitación y Fallo del Recurso de Protección de Garantías Constitucionales, se resuelve que, se rechaza, sin costas, la acción constitucional de protección interpuesta por Arturo Dagoberto Arriagada Villanueva en contra del Ministerio de Transportes y Telecomunicaciones, de la Subsecretaría de Transportes y de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de Los Lagos.Regístrese, comuníquese y, en su oportunidad, archívese.N°Protección-897-2025                        ⚠                      Sin documento en esta instancia - pdf

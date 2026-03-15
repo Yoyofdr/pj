@@ -1,0 +1,61 @@
+METADATA
+
+case_id: fdd1ec3585d23530c50e08426fa0cee4e9969b47
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8035596
+
+rol: 4529-2026
+
+fecha_sentencia: 2026-02-19
+
+caratulado: MIMOSE ANTOINE CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CIVIL) CASACIÓN FONDO T. PROPIEDAD INDUSTRIAL
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veinte de febrero de dos mil veintiséis.
+Vistos:
+Se confirma la sentencia apelada de veintinueve de enero de dos mil veintiséis, dictada por la Corte de Apelaciones de Valparaíso, en el Ingreso Corte N°Amparo-247-2026.
+Acordada con el voto del Ministro Suplente Sr. Mera, quien fue de opinión de revocar la sentencia, atendido el hecho que no existe ilegalidad en el acto impugnado, toda vez que la autoridad recurrida ha actuado dentro de su competencia y facultades privativas al disponer el abandono del país como consecuencia legal del rechazo de la residencia, no configurándose por tanto vulneración alguna a la libertad personal del amparado.
+Regístrese y devuélvase.
+Rol N°4301-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Dgm.
+
+C.A. de Valparaíso
+Valparaíso, veintinueve de enero de dos mil veintiséis.
+Vistos:
+
+A folio 1 los abogados Pablo Daniel Peñaloza Parra y Joaquín Andrés Contreras Roa, interponen recurso de amparo en favor de Herminda Meléndez Rojas, de nacionalidad colombiana, en contra del Servicio Nacional de Migraciones por la dictación de la Resolución Exenta N°2500100277333, de 24 de noviembre de 2025, que rechazó su solicitud de residencia temporal y dispuso su abandono del país en un plazo de 30 días, fundándose en que la amparada no acompañó una copia fiel e íntegra del certificado de nacimiento debidamente apostillado o legalizado para acreditar el vínculo con su residente definitivo en Chile.
+
+Indican que la recurrente solicitó el beneficio migratorio tras el vencimiento de su visado anterior, con el propósito de establecer su proyecto de vida en Chile, siendo notificada mediante comunicación electrónica el 9 de enero de 2024 para subsanar observaciones, otorgándosele un plazo de 60 días, y posteriormente, el 27 de abril de 2024, se le notificó el previo rechazo para formular descargos.
+Argumentan que la medida es desproporcionada, dado que mantiene un arraigo familiar en el país, conviviendo con sus dos hijas, Yolimar Rosio Meléndez Rojas y Aura Lisbeth Barrios Meléndez, y sus dos nietos, todos residentes definitivos en Chile. Asimismo, sostienen que la amparada cuenta con los medios económicos suficientes para su subsistencia, acompañando al efecto una declaración jurada notarial de expensas, otorgada el 18 de diciembre de 2025, en la cual su hija, Aura Lisbeth Barrios Meléndez, declara hacerse cargo total y absoluto de los gastos que implique la estadía de la amparada en el país. Finalmente, adjunta su certificado de antecedentes penales de Colombia apostillado, que da cuenta de su buena conducta
+
+A folio 6 informa el Servicio Nacional de Migraciones solicitando el rechazo del recurso de amparo, ya que la resolución impugnada se encuentra debidamente fundamentada, atendido que la solicitud de residencia temporal de la amparada no cumplía los requisitos por la falta del certificado de nacimiento del vínculo debidamente legalizado.
+Señala que se otorgaron los plazos legales para subsanar y presentar descargos, y que, al no haberse realizado, se dictó la resolución de rechazo y orden de abandono conforme al artículo 88 número 1 de la Ley N° 21.325.
+Concluye que el acto se ajusta a derecho y que la vía idónea para reclamar sería el recurso administrativo y no el de amparo.
+
+Con lo relacionado y considerando:
+
+Primero: Que, por la presente vía cautelar, se solicita que se deje sin efecto la Resolución Exenta N°2500100277333, de 24 de noviembre de 2025, que rechazó la solicitud de residencia temporal de la amparada y dispuso su abandono del país, fundado en no haber acompañado la documentación requerida.
+
+Segundo: Que, si bien es efectivo que durante el procedimiento administrativo la amparada no acompañó su certificado de nacimiento, se ha acreditado que posee arraigo familiar en Chile. Consta que sus hijas y nietos son residentes definitivos y que una de sus hijas, Aura Lisbeth Barrios Meléndez, se hace cargo de sus gastos, conforme su declaración de expensas ante notario. Asimismo, la amparada ha demostrado su voluntad de regularizar su situación migratoria, acompañando en esta instancia su certificado de antecedentes penales vigente y apostillado.
+
+Tercero: Que, en consecuencia, las circunstancias antes señaladas no pueden ser obviadas al resolverse la presente acción, considerándose el arraigo familiar de la recurrente quien, además, aporta antecedentes que demuestran su intención de cumplir con la normativa, por lo que la medida de abandono resulta excesivamente gravosa y desproporcionada, afectando el principio de reunificación familiar recogido en el artículo 1° de la Constitución Política de la República y la normativa internacional de Derechos Humanos, transformando la decisión de la autoridad en un acto que, aunque formalmente legal, carece de la razonabilidad necesaria perturbando el derecho a la libertad personal de la amparada.
+
+Por estas consideraciones y lo dispuesto en el artículo 21 de la Constitución Política de la República y en el Auto Acordado de la Excelentísima Corte Suprema sobre la materia, se acoge, sin costas, el recurso de amparo en favor de Herminda Meléndez Rojas y, en consecuencia, se deja sin efecto la Resolución Exenta N°2500100277333, de 24 de noviembre de 2025, dictada por el Servicio Nacional de Migraciones, debiendo la recurrida reabrir el procedimiento administrativo, otorgando a la amparada un plazo no inferior a noventa días hábiles para que acompañe su certificado de nacimiento debidamente apostillado y/o legalizado que le fue requerido, debiéndose a continuación resolver la solicitud de residencia temporal conforme a derecho.
+Regístrese, comuníquese por la vía más expedita y, en su oportunidad, archívese.
+N° Amparo-247-2026
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Dgm.C.A. de ValparaísoValparaíso, veintinueve de enero de dos mil veintiséis.Vistos:A folio 1 los abogados Pablo Daniel Peñaloza Parra y Joaquín Andrés Contreras Roa, interponen recurso de amparo en favor de Herminda Meléndez Rojas, de nacionalidad colombiana, en contra del Servicio Nacional de Migraciones por la dictación de la Resolución Exenta N°2500100277333, de 24 de noviembre de 2025, que rechazó su solicitud de residencia temporal y dispuso su abandono del país en un plazo de 30 días, fundándose en que la amparada no acompañó una copia fiel e íntegra del certificado de nacimiento debidamente apostillado o legalizado para acreditar el vínculo con su residente definitivo en Chile.Indican que la recurrente solicitó el beneficio migratorio tras el vencimiento de su visado anterior, con el propósito de establecer su proyecto de vida en Chile, siendo notificada mediante comunicación electrónica el 9 de enero de 2024 para subsanar observaciones, otorgándosele un plazo de 60 días, y posteriormente, el 27 de abril de 2024, se le notificó el previo rechazo para formular descargos. Argumentan que la medida es desproporcionada, dado que mantiene un arraigo familiar en el país, conviviendo con sus dos hijas, Yolimar Rosio Meléndez Rojas y Aura Lisbeth Barrios Meléndez, y sus dos nietos, todos residentes definitivos en Chile. Asimismo, sostienen que la amparada cuenta con los medios económicos suficientes para su subsistencia, acompañando al efecto una declaración jurada notarial de expensas, otorgada el 18 de diciembre de 2025, en la cual su hija, Aura Lisbeth Barrios Meléndez, declara hacerse cargo total y absoluto de los gastos que implique la estadía de la amparada en el país. Finalmente, adjunta su certificado de antecedentes penales de Colombia apostillado, que da cuenta de su buena conductaA folio 6 informa el Servicio Nacional de Migraciones solicitando el rechazo del recurso de amparo, ya que la resolución impugnada se encuentra debidamente fundamentada, atendido que la solicitud de residencia temporal de la amparada no cumplía los requisitos por la falta del certificado de nacimiento del vínculo debidamente legalizado.Señala que se otorgaron los plazos legales para subsanar y presentar descargos, y que, al no haberse realizado, se dictó la resolución de rechazo y orden de abandono conforme al artículo 88 número 1 de la Ley N° 21.325. Concluye que el acto se ajusta a derecho y que la vía idónea para reclamar sería el recurso administrativo y no el de amparo.Con lo relacionado y considerando:Primero: Que, por la presente vía cautelar, se solicita que se deje sin efecto la Resolución Exenta N°2500100277333, de 24 de noviembre de 2025, que rechazó la solicitud de residencia temporal de la amparada y dispuso su abandono del país, fundado en no haber acompañado la documentación requerida.Segundo: Que, si bien es efectivo que durante el procedimiento administrativo la amparada no acompañó su certificado de nacimiento, se ha acreditado que posee arraigo familiar en Chile. Consta que sus hijas y nietos son residentes definitivos y que una de sus hijas, Aura Lisbeth Barrios Meléndez, se hace cargo de sus gastos, conforme su declaración de expensas ante notario. Asimismo, la amparada ha demostrado su voluntad de regularizar su situación migratoria, acompañando en esta instancia su certificado de antecedentes penales vigente y apostillado.Tercero: Que, en consecuencia, las circunstancias antes señaladas no pueden ser obviadas al resolverse la presente acción, considerándose el arraigo familiar de la recurrente quien, además, aporta antecedentes que demuestran su intención de cumplir con la normativa, por lo que la medida de abandono resulta excesivamente gravosa y desproporcionada, afectando el principio de reunificación familiar recogido en el artículo 1° de la Constitución Política de la República y la normativa internacional de Derechos Humanos, transformando la decisión de la autoridad en un acto que, aunque formalmente legal, carece de la razonabilidad necesaria perturbando el derecho a la libertad personal de la amparada.Por estas consideraciones y lo dispuesto en el artículo 21 de la Constitución Política de la República y en el Auto Acordado de la Excelentísima Corte Suprema sobre la materia, se acoge, sin costas, el recurso de amparo en favor de Herminda Meléndez Rojas y, en consecuencia, se deja sin efecto la Resolución Exenta N°2500100277333, de 24 de noviembre de 2025, dictada por el Servicio Nacional de Migraciones, debiendo la recurrida reabrir el procedimiento administrativo, otorgando a la amparada un plazo no inferior a noventa días hábiles para que acompañe su certificado de nacimiento debidamente apostillado y/o legalizado que le fue requerido, debiéndose a continuación resolver la solicitud de residencia temporal conforme a derecho.Regístrese, comuníquese por la vía más expedita y, en su oportunidad, archívese. N° Amparo-247-2026                        ⚠                      Sin documento en esta instancia - pdf
