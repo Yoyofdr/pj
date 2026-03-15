@@ -6,15 +6,15 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049225
 
 rol: 3753-2026
 
-fecha_sentencia: 2026-03-03
+fecha_sentencia: 2026-03-04
 
 caratulado: SALVATIERRA/SUPERINTENDENCIA DE SEGURIDAD SOCIAL- COMISIÓN DE MEDICINA PREVENTIVA E INVALIDEZ
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

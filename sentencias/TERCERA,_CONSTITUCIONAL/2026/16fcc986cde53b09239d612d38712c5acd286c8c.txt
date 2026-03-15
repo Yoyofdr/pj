@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8048973
 
 rol: 44931-2025
 
-fecha_sentencia: 2026-03-03
+fecha_sentencia: 2026-03-04
 
 caratulado: CIPIRÁN/RAMOS
 
@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Migración y Extranjería
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

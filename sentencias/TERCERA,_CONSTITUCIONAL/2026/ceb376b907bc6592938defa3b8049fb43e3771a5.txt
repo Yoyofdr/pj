@@ -6,15 +6,15 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8048413
 
 rol: 27758-2025
 
-fecha_sentencia: 2026-03-03
+fecha_sentencia: 2026-03-04
 
 caratulado: RIVERA MARTINEZ SILVIA ALEJANDRA/ SUSESO-COMPIN
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 

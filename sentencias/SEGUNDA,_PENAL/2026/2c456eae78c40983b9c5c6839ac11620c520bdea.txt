@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049263
 
 rol: 6467-2024
 
-fecha_sentencia: 2026-03-03
+fecha_sentencia: 2026-03-04
 
 caratulado: LILLO/FISCO DE CHILE (TESORERIA GENERAL DE LA REPUBLICA)
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Declaración previa de existencia de error judicial
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: RECHAZA LA SOLICITUD DE DECLARACION PREVIA DE ERROR JUDI (M)
 
