@@ -21,34 +21,35 @@ resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
 Santiago, veinticuatro de febrero de dos mil veintiséis.
-Visto:
-Se confirma la sentencia apelada de nueve de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Temuco, en el Ingreso Corte N°Amparo-55-2026.
+Visto y teniendo únicamente presente:
+Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de diez de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N° 609-2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.
+
+Acordado con el voto en contra del Ministro Suplente Sr. Mera, quien estuvo por confirmar el fallo en alzada, teniendo presente únicamente que los antecedentes expuestos en el recurso no dan cuenta de hechos que, según el artículo 21 de la Constitución Política de la República, correspondan a aquellos susceptibles de la cautela requerida por esta vía.
 Regístrese y devuélvase.
-Rol N°7243-2026.
+
+Rol N° 7470-2026.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
-C.A. de Temuco.
-Temuco, nueve de febrero de dos mil veintiséis.
+Corte Apelaciones ▼
+prp
+
+C.A. de Santiago
+Santiago, diez de febrero de dos mil veintiséis.
+
+Al folio N°1, a todo, estese a lo que se resolverá.
 Vistos y teniendo presente:
 
-Primero: Que el abogado don Sebastián Painemal Granzotto interpone recurso de amparo constitucional en favor de José Luis Antipe Antipe, actualmente privado de libertad en el Centro de Cumplimiento Penitenciario de Lautaro, en contra de la sentencia dictada por el Tribunal de Juicio Oral en lo Penal de Temuco con fecha 24 de abril de 2025, confirmada por esta Corte el 18 de noviembre de 2025, que negó la concesión de una pena sustitutiva y dispuso el cumplimiento efectivo de la pena impuesta.
+1°) Que, según se colige de lo establecido en los artículos 21 de la Carta Fundamental y 7.6 de la Convención Americana de Derechos Humanos, la acción constitucional de amparo tiene como finalidad esencial controlar la “legalidad” de eventuales afectaciones o amenazas a la libertad personal y seguridad individual, en términos de verificar que, de mediar, se ajusten a la Constitución y a las leyes;
 
-Segundo: Que el recurso de amparo previsto en el artículo 21 de la Constitución Política de la República constituye una acción cautelar de carácter excepcional destinada a restablecer prontamente el imperio del derecho frente a actos u omisiones ilegales o arbitrarios que importen una privación, perturbación o amenaza actual a la libertad personal o seguridad individual. No tiene por finalidad erigirse en una nueva instancia de revisión de resoluciones judiciales dictadas dentro de un procedimiento legalmente tramitado.
+2°) Que, los antecedentes expuestos en el recurso no dan cuenta de hechos que, según el artículo 21 de la Constitución Política de la República, correspondan a aquellos susceptibles de la cautela impetrada por esta vía, al no vulnerar o amenazar la libertad personal y la seguridad individual, entendida esta última como la garantía de que la libertad personal no pueda ser afectada sino en los casos previstos por la ley, máxime si, de lo expuesto, se advierte que el ordenamiento jurídico concede y reconoce al recurrente el remedio idóneo para poner término a la situación descrita en el libelo, ejerciendo su derecho de defensa a través de la vía del recurso de protección.
 
-Tercero: Que del examen del libelo no se aprecia con claridad cuál sería la afectación concreta e inmediata a la garantía constitucional invocada, desde que la privación de libertad del amparado deriva del cumplimiento de una sentencia condenatoria firme, dictada por tribunal competente en el ejercicio de sus atribuciones legales, y no de un acto extralegal o arbitrario susceptible de corrección por esta vía cautelar.
+Por estas consideraciones, y lo dispuesto por el artículo 21 de la Constitución Política de la República, se declara inadmisible el recurso deducido en estos autos.
 
-Cuarto: Que, asimismo, la impugnación recae sobre resoluciones dictadas con fechas 24 de abril de 2025 y 18 de noviembre de 2025, esto es, con una significativa anterioridad a la interposición de la presente acción, circunstancia que desmejora el carácter urgente y cautelar propio del recurso de amparo. La acción intentada no se dirige a corregir una afectación sobreviniente o inmediata, sino a revisar decisiones jurisdiccionales adoptadas con anterioridad y ejecutadas en el marco de un procedimiento regular, lo que resulta incompatible con la naturaleza expedita y urgente de esta garantía constitucional.
+Archívese en su oportunidad.
 
-Quinto: Que, por otra parte, el recurrente pretende por medio del amparo cuestionar la interpretación y aplicación de normas legales relativas a la concesión de penas sustitutivas, materias que han sido conocidas y resueltas mediante los recursos judiciales ordinarios previstos por el ordenamiento procesal penal. En este contexto, el amparo constitucional no puede suplir ni reemplazar dichos mecanismos recursivos ni reabrir debates jurídicos ya zanjados por los tribunales competentes.
-
-Sexto: Que, en consecuencia, el recurso deducido carece manifiestamente de fundamento plausible para su tramitación, pues no se advierte la existencia de un acto ilegal o arbitrario actual que afecte la libertad personal del amparado en los términos exigidos por el artículo 21 de la Constitución.
-
-Por estas consideraciones y lo dispuesto en el artículo 21 de la Constitución Política de la República y en el Auto Acordado de la Excma. Corte Suprema sobre tramitación y fallo del recurso de amparo, se declara inadmisible el recurso de amparo interpuesto en favor de José Luis Antipe Antipe.
-
-Archívese.
-Rol N° Amparo-55-2026 (pvb).
+N°Amparo-609-2026.
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------
-C.A. de Temuco.Temuco, nueve de febrero de dos mil veintiséis.Vistos y teniendo presente:Primero: Que el abogado don Sebastián Painemal Granzotto interpone recurso de amparo constitucional en favor de José Luis Antipe Antipe, actualmente privado de libertad en el Centro de Cumplimiento Penitenciario de Lautaro, en contra de la sentencia dictada por el Tribunal de Juicio Oral en lo Penal de Temuco con fecha 24 de abril de 2025, confirmada por esta Corte el 18 de noviembre de 2025, que negó la concesión de una pena sustitutiva y dispuso el cumplimiento efectivo de la pena impuesta.Segundo: Que el recurso de amparo previsto en el artículo 21 de la Constitución Política de la República constituye una acción cautelar de carácter excepcional destinada a restablecer prontamente el imperio del derecho frente a actos u omisiones ilegales o arbitrarios que importen una privación, perturbación o amenaza actual a la libertad personal o seguridad individual. No tiene por finalidad erigirse en una nueva instancia de revisión de resoluciones judiciales dictadas dentro de un procedimiento legalmente tramitado.Tercero: Que del examen del libelo no se aprecia con claridad cuál sería la afectación concreta e inmediata a la garantía constitucional invocada, desde que la privación de libertad del amparado deriva del cumplimiento de una sentencia condenatoria firme, dictada por tribunal competente en el ejercicio de sus atribuciones legales, y no de un acto extralegal o arbitrario susceptible de corrección por esta vía cautelar.Cuarto: Que, asimismo, la impugnación recae sobre resoluciones dictadas con fechas 24 de abril de 2025 y 18 de noviembre de 2025, esto es, con una significativa anterioridad a la interposición de la presente acción, circunstancia que desmejora el carácter urgente y cautelar propio del recurso de amparo. La acción intentada no se dirige a corregir una afectación sobreviniente o inmediata, sino a revisar decisiones jurisdiccionales adoptadas con anterioridad y ejecutadas en el marco de un procedimiento regular, lo que resulta incompatible con la naturaleza expedita y urgente de esta garantía constitucional.Quinto: Que, por otra parte, el recurrente pretende por medio del amparo cuestionar la interpretación y aplicación de normas legales relativas a la concesión de penas sustitutivas, materias que han sido conocidas y resueltas mediante los recursos judiciales ordinarios previstos por el ordenamiento procesal penal. En este contexto, el amparo constitucional no puede suplir ni reemplazar dichos mecanismos recursivos ni reabrir debates jurídicos ya zanjados por los tribunales competentes.Sexto: Que, en consecuencia, el recurso deducido carece manifiestamente de fundamento plausible para su tramitación, pues no se advierte la existencia de un acto ilegal o arbitrario actual que afecte la libertad personal del amparado en los términos exigidos por el artículo 21 de la Constitución.Por estas consideraciones y lo dispuesto en el artículo 21 de la Constitución Política de la República y en el Auto Acordado de la Excma. Corte Suprema sobre tramitación y fallo del recurso de amparo, se declara inadmisible el recurso de amparo interpuesto en favor de José Luis Antipe Antipe.Archívese.Rol N° Amparo-55-2026 (pvb).
+Santiago, veinticuatro de febrero de dos mil veintiséis. Visto:Se confirma la sentencia apelada de nueve de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Temuco, en el Ingreso Corte N°Amparo-55-2026.Regístrese y devuélvase.Rol N°7243-2026. Santiago, veinticuatro de febrero de dos mil veintiséis. Visto:Se confirma la sentencia apelada de nueve de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Temuco, en el Ingreso Corte N°Amparo-55-2026.Regístrese y devuélvase.Rol N°7243-2026. Sentencia anonimizada
