@@ -1,0 +1,66 @@
+METADATA
+
+case_id: 86326efabb910d7d5a02a8ff450d0e2b60a83b92
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8037476
+
+rol: 6693-2026
+
+fecha_sentencia: 2026-02-23
+
+caratulado: BORBALAN GUTIÉRREZ CONSTANZA VALERIA CONTRA JUZGADO DE GARANTÍA DE PUNTA ARENAS
+
+sala: SEGUNDA, PENAL
+
+materias: (CIVIL) CASACIÓN FONDO
+
+recurso: (CIVIL) CASACIÓN FONDO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veinticuatro de febrero de dos mil veintiséis.
+Visto:
+Se confirma la sentencia apelada de cinco de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Temuco, en el Ingreso Corte N°Amparo-50-2026.
+Regístrese y devuélvase.
+Rol N°6273-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Temuco.
+Temuco, cinco de febrero de dos mil veintiséis.
+Vistos:
+
+A la presentación de folio 1: a lo principal:
+Que se interpuso un recurso de amparo por el abogado Juan Claudio Sandoval Toledo, en favor de Renán Antonio Díaz Martínez, imputado que se encuentra sujeto a la medida cautelar de prisión preventiva, actualmente recluido en el Centro de Cumplimiento Penitenciario de Lautaro, en contra de una Sala del Tribunal de Juicio Oral en lo Penal de Temuco, fundado en la resolución de fecha 21 de enero de 2026, que rechazó la solicitud de la defensa destinada a sustituir la prisión preventiva por las medidas cautelares de arresto domiciliario total y arraigo nacional.
+
+Expone el recurrente que el juicio oral fue agendado para el 22 de junio de 2026, no obstante haberse recibido el auto de apertura del juicio oral en diciembre de 2025, lo que, a su juicio, excedería el plazo previsto en el artículo 281 del Código Procesal Penal, configurando una vulneración al derecho del amparado a ser juzgado dentro de un plazo razonable. Sostiene que la mantención de la prisión preventiva, vigente desde mayo de 2025, devendría en arbitraria e ilegal, solicitando su sustitución o, en subsidio, el adelantamiento de la fecha del juicio oral.
+
+CONSIDERANDO:
+
+PRIMERO: Que el recurso de amparo, regulado en el artículo 21 de la Constitución Política de la República, tiene por finalidad amparar la libertad personal y la seguridad individual frente a actos u omisiones ilegales o arbitrarios que importen una privación, perturbación o amenaza actual a dichos derechos fundamentales.
+
+SEGUNDO: Que, de los antecedentes expuestos por el recurrente, se advierte que la acción constitucional no se dirige contra una privación de libertad decretada al margen de la ley ni contra una medida cautelar carente de fundamento, sino que pretende cuestionar el retardo en la fijación de la audiencia de juicio oral y, a partir de ello, obtener la modificación de una medida cautelar personal que ha sido decretada y mantenida por resolución judicial fundada.
+
+TERCERO: Que el solo retardo en el agendamiento del juicio oral, aun cuando pudiere ser objeto de reproche desde la perspectiva de la gestión administrativa o del deber de celeridad procesal, no constituye por sí mismo un acto ilegal o arbitrario susceptible de ser revisado mediante la acción constitucional de amparo, en tanto no importa una privación de libertad diversa de aquella decretada conforme a las reglas del debido proceso penal.
+
+CUARTO: Que, conforme a lo dispuesto en el artículo 140 del Código Procesal Penal, la procedencia, mantención o sustitución de la prisión preventiva debe analizarse a la luz de los presupuestos materiales allí establecidos, esto es, la existencia del delito, la participación del imputado y la necesidad de cautela, elementos que son de competencia exclusiva del tribunal que conoce de la causa, y cuya revisión corresponde a los mecanismos recursivos ordinarios previstos por el legislador, no siendo el recurso de amparo una vía idónea para sustituir dicho análisis.
+
+QUINTO: Que, en este sentido, el eventual exceso en la duración de la prisión preventiva derivado del tiempo de tramitación del proceso no constituye, por sí solo, un antecedente suficiente para alterar una medida cautelar personal, si ésta ha sido decretada y mantenida mediante resoluciones judiciales debidamente fundadas y dictadas por tribunal competente.
+
+SEXTO: Que, en definitiva, de los antecedentes expuestos no se desprende la existencia de una privación, perturbación o amenaza actual e ilegal o arbitraria a la libertad personal del amparado, sino más bien una disconformidad de la defensa con el mérito de una resolución judicial y con la calendarización del juicio oral, materias que deben ventilarse por las vías procesales correspondientes y no a través de esta acción constitucional de carácter excepcional.
+
+SEPTIMO:  Que, sin perjuicio de lo anterior, y atendido que el recurrente plantea un eventual incumplimiento de los plazos de agendamiento previstos en el artículo 281 del Código Procesal Penal, corresponde que dicha situación sea conocida por la autoridad jurisdiccional competente en el ámbito de la superintendencia directiva, correccional y económica, a fin de verificar el cumplimiento de los deberes de gestión y programación de audiencias.
+
+Por estas consideraciones, y de conformidad, además, con lo dispuesto en el artículo 21 de la Constitución Política de la República y el Auto Acordado sobre Tramitación y Fallo del Recurso de Amparo, se declara INADMISIBLE el recurso de amparo interpuesto a folio 1.
+Sin perjuicio de lo anterior, remítanse los antecedentes a la Ministra Visitadora correspondiente, para los fines que estime pertinentes.
+Al primer otrosí: por acompañados.
+
+Al segundo otrosí: para resolver venga en forma el poder.
+Archívese.
+Rol N° Amparo-50-2026 (pvb).
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de Temuco.Temuco, cinco de febrero de dos mil veintiséis.Vistos:A la presentación de folio 1: a lo principal: Que se interpuso un recurso de amparo por el abogado Juan Claudio Sandoval Toledo, en favor de Renán Antonio Díaz Martínez, imputado que se encuentra sujeto a la medida cautelar de prisión preventiva, actualmente recluido en el Centro de Cumplimiento Penitenciario de Lautaro, en contra de una Sala del Tribunal de Juicio Oral en lo Penal de Temuco, fundado en la resolución de fecha 21 de enero de 2026, que rechazó la solicitud de la defensa destinada a sustituir la prisión preventiva por las medidas cautelares de arresto domiciliario total y arraigo nacional.Expone el recurrente que el juicio oral fue agendado para el 22 de junio de 2026, no obstante haberse recibido el auto de apertura del juicio oral en diciembre de 2025, lo que, a su juicio, excedería el plazo previsto en el artículo 281 del Código Procesal Penal, configurando una vulneración al derecho del amparado a ser juzgado dentro de un plazo razonable. Sostiene que la mantención de la prisión preventiva, vigente desde mayo de 2025, devendría en arbitraria e ilegal, solicitando su sustitución o, en subsidio, el adelantamiento de la fecha del juicio oral.CONSIDERANDO:PRIMERO: Que el recurso de amparo, regulado en el artículo 21 de la Constitución Política de la República, tiene por finalidad amparar la libertad personal y la seguridad individual frente a actos u omisiones ilegales o arbitrarios que importen una privación, perturbación o amenaza actual a dichos derechos fundamentales.SEGUNDO: Que, de los antecedentes expuestos por el recurrente, se advierte que la acción constitucional no se dirige contra una privación de libertad decretada al margen de la ley ni contra una medida cautelar carente de fundamento, sino que pretende cuestionar el retardo en la fijación de la audiencia de juicio oral y, a partir de ello, obtener la modificación de una medida cautelar personal que ha sido decretada y mantenida por resolución judicial fundada.TERCERO: Que el solo retardo en el agendamiento del juicio oral, aun cuando pudiere ser objeto de reproche desde la perspectiva de la gestión administrativa o del deber de celeridad procesal, no constituye por sí mismo un acto ilegal o arbitrario susceptible de ser revisado mediante la acción constitucional de amparo, en tanto no importa una privación de libertad diversa de aquella decretada conforme a las reglas del debido proceso penal.CUARTO: Que, conforme a lo dispuesto en el artículo 140 del Código Procesal Penal, la procedencia, mantención o sustitución de la prisión preventiva debe analizarse a la luz de los presupuestos materiales allí establecidos, esto es, la existencia del delito, la participación del imputado y la necesidad de cautela, elementos que son de competencia exclusiva del tribunal que conoce de la causa, y cuya revisión corresponde a los mecanismos recursivos ordinarios previstos por el legislador, no siendo el recurso de amparo una vía idónea para sustituir dicho análisis.QUINTO: Que, en este sentido, el eventual exceso en la duración de la prisión preventiva derivado del tiempo de tramitación del proceso no constituye, por sí solo, un antecedente suficiente para alterar una medida cautelar personal, si ésta ha sido decretada y mantenida mediante resoluciones judiciales debidamente fundadas y dictadas por tribunal competente.SEXTO: Que, en definitiva, de los antecedentes expuestos no se desprende la existencia de una privación, perturbación o amenaza actual e ilegal o arbitraria a la libertad personal del amparado, sino más bien una disconformidad de la defensa con el mérito de una resolución judicial y con la calendarización del juicio oral, materias que deben ventilarse por las vías procesales correspondientes y no a través de esta acción constitucional de carácter excepcional.SEPTIMO:  Que, sin perjuicio de lo anterior, y atendido que el recurrente plantea un eventual incumplimiento de los plazos de agendamiento previstos en el artículo 281 del Código Procesal Penal, corresponde que dicha situación sea conocida por la autoridad jurisdiccional competente en el ámbito de la superintendencia directiva, correccional y económica, a fin de verificar el cumplimiento de los deberes de gestión y programación de audiencias.Por estas consideraciones, y de conformidad, además, con lo dispuesto en el artículo 21 de la Constitución Política de la República y el Auto Acordado sobre Tramitación y Fallo del Recurso de Amparo, se declara INADMISIBLE el recurso de amparo interpuesto a folio 1. Sin perjuicio de lo anterior, remítanse los antecedentes a la Ministra Visitadora correspondiente, para los fines que estime pertinentes.Al primer otrosí: por acompañados.Al segundo otrosí: para resolver venga en forma el poder.Archívese.Rol N° Amparo-50-2026 (pvb).                        ⚠                      Sin documento en esta instancia - pdf
