@@ -4,11 +4,11 @@ case_id: 50468d257f3ae7ebd5094d4f6d06a97cc26f16ec
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8037942
 
-rol: 7525-2026
+rol: 7210-2026
 
 fecha_sentencia: 2026-02-24
 
-caratulado: VELOZO YANEZ ERNESTO EUGENIO CONTRA CORTE DE APELACIONES DE SAN MIGUEL
+caratulado: SEPÚLVEDA TORRES ALEJANDRO VÍCTOR CONTRA ILTMA. CORTE DE APELACIONES DE RANCAGUA
 
 sala: SEGUNDA, PENAL
 
@@ -16,7 +16,7 @@ materias: (CRIMEN) APELACIÓN AMPARO
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
@@ -53,4 +53,4 @@ N°Amparo-611-2026.
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------
-pboC.A. de SantiagoSantiago, diez de febrero de dos mil veintiséis.Al folio N°1: a todo, estese a lo que se resolverá.Vistos y teniendo presente:1°) Que, según se colige de lo establecido en los artículos 21 de la Carta Fundamental y 7.6 de la Convención Americana de Derechos Humanos, la acción constitucional de amparo tiene como finalidad esencial controlar la “legalidad” de eventuales afectaciones o amenazas a la libertad personal y seguridad individual, en términos de verificar que, de mediar, se ajusten a la Constitución y a las leyes;2°) Que, los antecedentes expuestos en el recurso no dan cuenta de hechos que, según el artículo 21 de la Constitución Política de la República, correspondan a aquellos susceptibles de la cautela impetrada por esta vía, al no vulnerar o amenazar la libertad personal y la seguridad individual, entendida esta última como la garantía de que la libertad personal no pueda ser afectada sino en los casos previstos por la ley, máxime si, de lo expuesto, se advierte que el ordenamiento jurídico concede y reconoce al recurrente el remedio idóneo para poner término a la situación descrita en el libelo, ejerciendo su derecho de defensa a través de la vía del recurso de protección.Por estas consideraciones, y lo dispuesto por el artículo 21 de la Constitución Política de la República, se declara inadmisible el recurso deducido en estos autos.Archívese en su oportunidad.N°Amparo-611-2026.
+pboC.A. de SantiagoSantiago, diez de febrero de dos mil veintiséis.Al folio N°1: a todo, estese a lo que se resolverá.Vistos y teniendo presente:1°) Que, según se colige de lo establecido en los artículos 21 de la Carta Fundamental y 7.6 de la Convención Americana de Derechos Humanos, la acción constitucional de amparo tiene como finalidad esencial controlar la “legalidad” de eventuales afectaciones o amenazas a la libertad personal y seguridad individual, en términos de verificar que, de mediar, se ajusten a la Constitución y a las leyes;2°) Que, los antecedentes expuestos en el recurso no dan cuenta de hechos que, según el artículo 21 de la Constitución Política de la República, correspondan a aquellos susceptibles de la cautela impetrada por esta vía, al no vulnerar o amenazar la libertad personal y la seguridad individual, entendida esta última como la garantía de que la libertad personal no pueda ser afectada sino en los casos previstos por la ley, máxime si, de lo expuesto, se advierte que el ordenamiento jurídico concede y reconoce al recurrente el remedio idóneo para poner término a la situación descrita en el libelo, ejerciendo su derecho de defensa a través de la vía del recurso de protección.Por estas consideraciones, y lo dispuesto por el artículo 21 de la Constitución Política de la República, se declara inadmisible el recurso deducido en estos autos.Archívese en su oportunidad.N°Amparo-611-2026.                        ⚠                      Sin documento en esta instancia - pdf
