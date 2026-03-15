@@ -1,0 +1,376 @@
+METADATA
+
+case_id: 8393ae50f7bc88dc71d6f8c45fa50cc84503ea19
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8035908
+
+rol: 4348-2026
+
+fecha_sentencia: 2026-02-19
+
+caratulado: BANCO SANTANDER- CHILE/ALCAYAGA PONCE, OFRACIO
+
+sala: PRIMERA, CIVIL
+
+materias: ▪ Admisibilidad del recurso de casación en el fondo
+
+recurso: (CIVIL) CASACIÓN FONDO T. PROPIEDAD INDUSTRIAL
+
+resultado_recurso: RECHAZA CASACION EN EL FONDO
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veinte de febrero de dos mil veintiséis.
+
+VISTOS Y TENIENDO PRESENTE:
+PRIMERO: Que en este procedimiento ejecutivo, seguido ante el Décimo Noveno Juzgado Civil de Santiago, bajo el rol C-18.767-2018, caratulado “Banco Estado de Chile con Castillo”, se ha ordenado dar cuenta de la admisibilidad del recurso de casación en el fondo deducido por la parte ejecutante, en contra de la sentencia de la Corte de Apelaciones de Santiago, de seis de enero del año en curso, que confirmó la de primer grado que acogió la excepción de prescripción y ordenó poner fin a la ejecución.
+
+SEGUNDO: Que el recurrente de nulidad sostiene que en la sentencia cuestionada se infringieron los artículos 2514, 2515, 2518 del Código Civil y artículo 464 n° 17 del Código de Procedimiento Civil.
+
+Sostiene, en síntesis, que las cláusulas de aceleración han sido concebidas como una forma de caucionar y proteger el crédito, por lo cual se establecen en beneficio del acreedor, lo que motiva que deben ser interpretadas atendiendo a la intención o espíritu de las partes contratantes, conforme al artículo 1560 del Código Civil y al principio de la buena fe.
+
+Manifiesta que, si bien en virtud de la cláusula de aceleración se hace exigible el monto total insoluto de la obligación como consecuencia de la falta de pago de una de las cuotas, lo que habría ocurrido en abril de 2017, el derecho del acreedor para cobrar dicho saldo no precluye por el solo hecho de no accionar dentro de los tres años siguientes a la mora o simple retardo.
+
+Agrega que la demora en el ejercicio de dicha facultad obliga al acreedor a aceptar la extinción por prescripción de todas aquellas cuotas impagas cuya exigibilidad sea anterior a tres años, contados hacia atrás desde la notificación legal de la demanda, conforme a lo establecido en el artículo 2503 del Código Civil. Ello, toda vez que la aceleración facultativa, aún una vez ejercida, no puede perjudicar los derechos del acreedor respecto de cuotas que ya se encontraban prescritas y de acuerdo con los antecedentes de esta causa, solo se encontraban prescritas las cuotas vencidas entre abril de 2017 y julio de 2020, debiendo continuarse con la ejecución respecto de aquellas posteriores.
+
+Pide que se invalide en derecho la sentencia recurrida, por haber sido pronunciada con infracción a la ley, infracción que ha influido sustancialmente en lo dispositivo del fallo, en virtud de los fundamentos de derecho que se expusieron en lo principal de la presentación.
+
+TERCERO: Que la revisión de los antecedentes y tal como han referido los jueces, se permite constatar que la cláusula de exigibilidad anticipada pactada en el contrato de compraventa y mutuo hipotecario celebrando el ocho de octubre de dos mil nueve, en su cláusula décimo quinta, se facultó al banco “para hacer exigible de inmediato el pago de la suma a que esté reducida la deuda…a) si se retarda el pago de cualquier dividendo más de diez días…reservándose el Banco la facultad de ejercerlo cuando lo estime conveniente.”
+CUARTO: Que, estatuida la cláusula de aceleración en la forma transcrita en el motivo anterior, por su redacción, resulta evidente que se pactó en términos facultativos. Ello implica que el plazo de prescripción deberá contarse desde la fecha en que el acreedor exprese su voluntad de hacerla efectiva y, tal como lo ha resuelto reiteradamente esta Corte Suprema, esa facultad de anticipar el vencimiento se manifiesta inequívocamente con la presentación de la demanda por el total adeudado al sistema de distribución de causas.
+
+QUINTO: Que siguiendo esta línea de razonamiento y encontrándose determinado que la demanda se presentó el día 20 de junio de 2018 y se tuvo por notificada el 11 de julio de 2023, forzoso es concluir que en el caso en estudio, tal como acertadamente razonaron los jueces, transcurrió el plazo de prescripción de tres años conforme a lo dispuesto en los artículos 2514 y 2515 del Código Civil.
+
+Así las cosas, llevan la razón los jueces del mérito al haber acogido la excepción de prescripción, por lo que no existe yerro de ilegalidad que deba corregirse por esta vía, lo que permite concluir que el recurso de casación en el fondo no puede tener acogida por adolecer de manifiesta falta de fundamento.
+
+Y de conformidad además a lo prevenido en los artículos 772 y 782 del Código de Procedimiento Civil, se rechaza el recurso de casación en el fondo, deducido por la abogada Claudia Aguilera Estay, en representación de la parte ejecutante, en contra de la sentencia de seis de enero de dos mil veintiséis, pronunciada por la Corte de Apelaciones de Santiago.
+
+Regístrese y devuélvase.
+
+Rol Nº 3.661-2026.-
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Alegó revocando el abogado Diego Araneda Arias, quien se anotó por 15 minutos y confirmando el abogado Claudio Álvarez, quien se anotó por 15 minutos.
+Santiago, seis de enero de dos mil veintiséis
+
+Al folio 41 y 42: Téngase presente.
+Vistos:
+
+I.- En cuanto al recurso de apelación Rol de ingreso 11783-2023 (referido al incidente de nulidad procesal):
+
+Atendido el mérito de los antecedentes, y teniendo en consideración que las alegaciones planteadas por el recurrente no permiten desmerecer lo razonado y concluido en la resolución en alzada, que esta Corte comparte, se confirma la resolución de once de julio de dos mil veintitrés, pronunciada por el 19°Juzgado Civil de Santiago.
+
+II.- En cuanto al recurso de apelación Rol de ingreso 14001-2023 (referido a la sentencia definitiva):
+
+Vistos:
+
+Se reproduce la sentencia en alzada con excepción del último párrafo del considerando segundo y la totalidad del fundamento tercero, que se eliminan:
+
+Y teniendo en su lugar y, además, presente:
+
+1) Que, habiéndose invocado como título para la presente ejecución la escritura publica de mutuo suscrita con fecha ocho de octubre de dos mil nueve, corresponde examinar si en la misma se pactó una cláusula de aceleración y los términos de dicha estipulación.
+2) Que, de la lectura de la cláusula décimo quinta pactada en la referida escritura de mutuo aparece que ella otorga una facultad al acreedor en orden a decidir o no la aceleración del cobro de la deuda en caso de mora, por lo que ella es una cláusula de aceleración de carácter facultativo.
+
+3) Que, entonces, atentos a los términos de la demanda impetrada, en la que se hizo uso de esta facultad de acelerar el plazo para cobrar el total de la deuda, es que desde la fecha de interposición de la demanda ha de contarse la exigibilidad de la obligación a efectos de determinar si respecto de la misma había operado la prescripción de la acción invocada por ambos ejecutados, toda vez que de conformidad al artículo 2.514 del Código Civil la prescripción que extingue las acciones y derechos ajenos exige solamente cierto lapso de tiempo durante el cual no se hayan ejercido dichas acciones, debiéndose tener en cuenta que tal plazo ha de contarse desde que la obligación se haya hecho exigible; y que, a su vez, de conformidad al artículo 2515 del mismo estatuto legal este tiempo es en general de tres años para las acciones ejecutivas y de cinco años para las ordinarias.
+
+4) Que, en la especie, para dirimir la excepción opuesta ha de evaluarse si desde la fecha de interposición de la demanda, que data del 20 de junio de 2018, a aquella en que fue notificada la misma y formulado el requerimiento de pago a los ejecutados, había transcurrido o no el plazo de tres años precedentemente aludido.
+
+5) Que, habida cuenta que luego de interponerse el incidente de nulidad procesal promovido por los ejecutados, que ha sido acogido en la causa, en él se resolvió que ellos han de tenerse por notificados a contar del 11 de julio de 2023, por lo que forzoso resulta concluir que efectivamente ha transcurrido el plazo de prescripción requerido para que pueda prosperar la excepción impetrada en autos.
+
+6) Que, en consecuencia, la excepción de prescripción ha de ser acogida, según se dirá.
+
+Por estas consideraciones y de acuerdo a lo dispuesto en el artículo 186 del Código de Procedimiento Civil, se confirma, sin costas, la sentencia apelada de nueve de agosto de dos mil veintitrés, dictada por el Décimo Noveno Juzgado Civil de Santiago.
+
+Regístrese y devuélvase.
+
+Rol N°11783-2023 (acumulado N°14001-2023) Civil.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C-18676-2018
+
+FOJA: 135 .- .-
+
+NOMENCLATURA : 1. [40]Sentencia
+JUZGADO : 19 Juzgado Civil de Santiagoº
+CAUSA ROL : C-18676-2018
+CARATULADO : BANCO ESTADO DE CHILE/CASTILLO
+
+Santiago, nueve de Agosto de dos mil veintitr sé
+
+Vistos.
+
+Con fecha 20 de junio de 2018, PAULINA FENRANDEZ
+
+PAVEZ, abogada, domiciliada en calle San Diego N 81, piso 3, comuna de°
+
+Santiago, mandatario judicial de BANCO DEL ESTADO DE CHILE,
+
+empresa aut noma de cr ditos del Estado, representada legalmente poró é
+
+J ssica L pez Saffieé ó , ingeniero comercial, ambos domiciliados en Alameda
+
+Libertador Bernardo O Higgins N 1111, comuna de Santiago, e interpone’ °
+
+demanda ejecutiva de cobro de pagar , en contra de é ENRIQUE
+
+ALFONSO CASTILLO CASTILLO, se ignora profesi n u oficio, y enó
+
+contra de JORGE OSVALDO CASTILLO CASTILLO, se ignora
+
+profesi n u oficio, ambos domiciliados en pasaje San Lucas Norte N 3180,ó °
+
+comuna de Lampa y/o Cadaveral N 220, comuna de Quilicura.°
+
+Indica que mediante escritura p blica de mutuo hipotecario, otorgadaú
+
+con fecha 08 de octubre de 2009, ante el Notario de Santiago don
+
+HUMBERTO QUEZADA MORENO, el Banco del Estado otorg unó
+
+mutuo a los demandados por la suma de 1.266 Unidades de Fomento,
+
+pagadero en el plazo de 360 meses mediante cuotas mensuales.
+
+Indica que se estipul , que el no pago de cualquiera de las cuotas enó
+
+la forma y fecha pactadas por parte del suscriptor, har exigible el total deá
+
+la deuda, reput ndose sta como plazo vencido.á é
+
+Refiere que el deudor no dio cumplimiento a su obligaci n contra da,ó í
+
+toda vez que no ha pagado la cuota correspondiente al mes de abril de
+
+2017 ni ninguna posterior, adeudando a la fecha la suma de 1.080,366
+
+Unidades de Fomento por concepto de capital insoluto m s la cantidad deá
+
+Código: ECNBXGSXFXY
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-18676-2018
+
+102,702792 Unidades de Fomento por concepto de dividendos impagos,
+
+m s los respectivos intereses devengados y costas.á
+
+Agrega que la obligaci n de autos es l quida, actualmente exigible yó í
+
+su acci n ejecutiva no se encuentra prescrita.ó
+
+Finaliza, previas citas legales, solicitando al Tribunal tener por
+
+deducida demanda sobre juicio ejecutivo, ordenando que se despache en su
+
+contra mandamiento de ejecuci n y embargo por la suma de 1.183,068792ó
+
+Unidades de Fomento, equivalentes al d a 17 de mayo de 2018 a la sumaí
+
+de $31.992.215, por concepto de capital, disponiendo que se siga adelante
+
+con la presente ejecuci n hasta el entero y cumplido pago de lo adeudado aó
+
+su representada, m s intereses y costas.á
+
+Con fecha 17 de julio de 2023 la ejecutada opuso a la ejecuci n laó
+
+excepci n del numeral 17 del art culo 464 del C digo de Procedimientoó í ó
+
+Civil.
+
+Respecto de dicha excepci n, esto es ó la prescripci n de la deudaó ,
+
+indica que ha sido notificado de la demanda a trav s de la resoluci n queé ó
+
+acogi el incidente de nulidad de lo obrado, de fecha 11 de julio de 2023,ó
+
+habiendo transcurrido con creces el plazo de tres a os para la acci nñ ó
+
+ejecutiva, y el plazo de cinco a os para la acci n ordinaria.ñ ó
+
+Con fecha 24 de julio de 2023, la ejecutante evacu traslado,ó
+
+allan ndose parcialmente a la excepci n, en cuanto a las cuotas deá ó
+
+noviembre de 2009 hasta julio de 2020. Respecto a las restantes cuotas,
+
+solicita el rechazo de la excepci n. ó
+
+Con fecha 02 de agosto de 2023, se declar admisible la excepci n yó ó
+
+atendida su naturaleza, se omiti recibir la causa a prueba, por lo que cit aó ó
+
+las partes a o r sentencia. í
+
+CON LO RELACIONADO Y CONSIDERANDO:
+
+Primero: Que, respecto de la excepci n incoada por la demandada,ó
+
+tal se encuentra contemplada en el N 17 del art culo 464 del C digo de° í ó
+
+Procedimiento Civil, esto es, la prescripci n de la deuda o s lo de la acci nó ó ó
+
+Código: ECNBXGSXFXY
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-18676-2018
+
+ejecutiva, fundada en el hecho en que desde el momento en que la
+
+demandada cay en mora en el pago de sus obligaciones, ha transcurridoó
+
+con creces el plazo de tres a o de prescripci n establecido en el art culoñ ó í
+
+2515 del C digo Civil, por lo la acci n deducida en autos se encuentraó ó
+
+prescrita.
+
+Segundo: Que para los efectos de resolver la excepci n en cuesti n,ó ó
+
+este sentenciador necesariamente deber tener presente que en el t tulo queá í
+
+sirve de fundamento a la presente acci n se encuentra contenida laó
+
+denomina cl usula de aceleraci n, la que a su vez, tal y como lo haá ó
+
+sostenido regularmente la Excelent sima Corte Suprema, puede extenderseí
+
+vali ndose de formas imperativas o facultativas, de manera que en el primeré
+
+caso, verificado el hecho del retardo o la mora, la obligaci n se haró á
+
+ntegramente exigible, independientemente que el acreedor manifieste suí
+
+voluntad en orden a ejercer el derecho que le confiere dicha estipulaci n yó
+
+en el segundo caso, esa total exigibilidad depender del hecho que el titulará
+
+de la acreencia exprese su intenci n de acelerar el cr dito. ó é
+
+Que estatuida la cl usula de aceleraci n en los t rminos antesá ó é
+
+indicados, la jurisprudencia de la Excelent sima Corte Suprema, ení
+
+Sentencia C.S., Rol 4.282-2009, de 14 de julio de 2010 y Rol 8.501, de 22
+
+de diciembre de 2010, ha decidido que, por su terminolog a y naturalezaí
+
+jur dica de caducidad convencional del plazo, tiene car cter imperativo, deí á
+
+lo cual se infiere la consecuencia innegable que desde la fecha del
+
+incumplimiento, el plazo ya no ser impedimento para que el acreedorá
+
+pueda accionar, puesto que es exigible la obligaci n y se le permiteó
+
+perseguir al deudor desde esa fecha, por lo que adem s, comienza a correrá
+
+el plazo de prescripci n extintiva.ó
+
+Tercero: Que a su vez el art culo 2514 del C digo Civil, dispone queí ó
+
+La prescripci n que extingue las acciones y derechos ajenos exige“ ó
+
+solamente cierto lapso de tiempo durante el cual no se hayan ejercido
+
+dichas acciones”, agregando adem s que se cuenta este tiempo desde que laá
+
+obligaci n se haya hecho exigible, mientras que el art culo 2515 del mismoó í
+
+cuerpo legal, establece que “Este tiempo es en general de tres a os para lasñ
+
+acciones ejecutivas y cinco para las ordinarias , espacio de tiempo que se va”
+
+Código: ECNBXGSXFXY
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-18676-2018
+
+a comenzar a contabilizar en el caso de pago en dividendos y en el evento
+
+de haberse pactado una cl usula de aceleraci n de naturaleza imperativa, aá ó
+
+partir de la fecha de la mora en la soluci n de una de ellas.ó
+
+Que al efecto y conforme al contrato de mutuo esgrimido en autos,
+
+cuyo cobro se persigue a trav s del presente procedimiento, as como de laé í
+
+redacci n de la demanda, se desprende que la ejecutante entendi queó ó
+
+desde que la deudora cay en mora en el dividendo de vencimiento el mesó
+
+de abril de 2017, se hizo efectiva la cl usula de aceleraci n, encontr ndoseá ó á
+
+en consecuencia aquella establecida en t rminos imperativos y obligatorios,é
+
+de manera que el retardo se produjo partir de dicha fecha, oportunidad a
+
+partir de la cual corresponde computar el plazo de prescripci n, el queó
+
+transcurri en exceso al d a 11 de julio de 2023, oportunidad en la cual eló í
+
+demandado se tuvo por notificado de la demanda, de lo que resulta
+
+evidente que, a esa poca, la acci n cambiaria proveniente del contrato deé ó
+
+mutuo hipotecario en este punto, se hallaba extinguida por el transcurso de
+
+m s de tres a os, conforme lo previene el art culo 2515 del C digo civil.á ñ í ó
+
+Cuarto: Que as las cosas y por los hechos expuestosí
+
+precedentemente, no queda sino que acoger la excepci n opuesta, tal comoó
+
+se dir en lo resolutivo de la presente resoluci n.á ó
+
+Y visto, adem s, lo dispuesto en los art culos 1448, 1698 y siguientesá í
+
+del C digo Civil, art culos 144, 170, 254 y siguientes, 434 y siguientes, 464ó í
+
+y siguientes, 471 del C digo de Procedimiento Civil, ó se resuelve:
+
+I.- Que se acoge la excepci n de prescripci n alegada por eló ó
+
+demandado en su presentaci n de fecha 17 de julio de 2023. ó
+
+II.- Que se ordena poner fin a la ejecuci n de autos.ó
+
+III.- Que no se condena en costas a la demandante por tener motivo
+
+plausible para iniciar su acci n. ó
+
+Reg strese, notif quese y arch vese en su oportunidad.í í í
+
+Rol N C-18676-2018°
+
+Código: ECNBXGSXFXY
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-18676-2018
+
+Pronunciada por don lvaro Cayuqueo Pichic n, Juez Suplente.Á ó
+
+Se deja constancia que se dio cumplimiento a lo dispuesto en el inciso final del art. 162
+del C.P.C. en Santiago, nueve de Agosto de dos mil veintitr sé
+
+Código: ECNBXGSXFXY
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2023-08-09T13:21:20-0400
