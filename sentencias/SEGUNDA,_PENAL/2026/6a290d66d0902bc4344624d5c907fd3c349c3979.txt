@@ -1,0 +1,97 @@
+METADATA
+
+case_id: 6a290d66d0902bc4344624d5c907fd3c349c3979
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8036879
+
+rol: 4780-2026
+
+fecha_sentencia: 2026-02-20
+
+caratulado: ANONIMIZADO
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintitrés de febrero de dos mil veintiséis.
+
+Vistos:
+Atendido el mérito de los antecedentes, se confirma la sentencia apelada de dos de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Valparaíso, en el Ingreso Corte N°Amparo-231-2026, con declaración que dentro del plazo de 30 días el amparado deberá acompañar el antecedente faltante ante la autoridad migratoria, debiendo esta última estudiar los antecedentes y resolver conforme a derecho.
+
+Acordada con el voto en contra del Ministro (S) Sr. Mera, quien estuvo por revocar y, consecuencialmente, rechazar la acción constitucional, teniendo presente para ello, que el asunto ya fue conocido y resuelto, por lo que, procedía acoger la excepción de cosa juzgada.
+Regístrese y devuélvase.
+
+Rol N° 4776 - 2026
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Jbl
+
+C.A. de Valparaíso
+Valparaíso, dos de febrero de dos mil veintiséis.
+
+Vistos:
+
+A folio 1, comparece por sí, Jonathan Jean-Baptiste, de nacionalidad haitiana, quien interpone acción de amparo constitucional en contra del Servicio Nacional de Migraciones, por la dictación de la Resolución Exenta N°24436767 de 16 de septiembre de 2024, que rechazó su solicitud de residencia definitiva y dispuso su abandono del país en un plazo de 10 días, la que estima ilegal, pues vulnera su derecho a la libertad personal y seguridad individual, consagrado en el artículo 19 N°7 de la Constitución Política de la República.
+
+Refiere que ingresó al territorio nacional el 15 de septiembre de 2017 y que, el 12 de octubre de 2022, presentó su solicitud de residencia definitiva. Expone que, el 17 de julio de 2024, se le notificó un requerimiento previo al rechazo informándole que, al postular con su permiso de residencia vencido, debía regularizar su situación mediante el pago de una multa por residencia irregular. Alega que no pudo cumplir con dicha sanción pecuniaria oportunamente debido a constantes errores técnicos en la plataforma digital del Servicio y a la falta de atención presencial para orientación.
+
+Menciona que, tras la notificación del rechazo de su solicitud y la orden de abandono del país en un plazo de 10 días, logró finalmente realizar el pago de la multa ascendente a $340.170.- el 3 de abril de 2025.
+
+Sostiene que la medida de abandono es arbitraria y desproporcionada, pues no se le otorgó una posibilidad real de subsanar la omisión documental antes de dictar el acto terminal. Argumenta que cuenta con arraigo social y laboral, desempeñándose como empleado con contrato indefinido, y destaca que tiene un hijo de nacionalidad chilena nacido en el año 2020, por lo que su expulsión afectaría gravemente la integridad familiar.
+
+Pide, se deje sin efecto la resolución impugnada, instruyendo al recurrido a proceder a una nueva revisión documental de su solicitud de residencia definitiva conforme a derecho.
+
+A folio 4 se ordena traer a la vista recurso de amparo N°4500-2025.
+
+A folio 7, evacuó informe el Servicio Nacional de Migraciones.
+
+En primer lugar, opone la excepción de cosa juzgada, argumentando que el amparado dedujo anteriormente un recurso de amparo (Rol N°4500-2025) ante esta misma Corte por idénticos hechos, el cual fue rechazado el 24 de noviembre de 2025 y confirmado por la Excelentísima Corte Suprema el 18 de diciembre de 2025. Sostiene que la reiteración de la acción constituye un abuso del derecho y atenta contra la certeza jurídica.
+
+Subsidiariamente, en cuanto al fondo, expone que el recurrente solicitó residencia definitiva el 12 de octubre de 2022, encontrándose en situación irregular desde el 16 de febrero de 2022. Señala que mediante comunicación electrónica N°61695703 de 17 de julio 2024 se le notificó la causal de rechazo otorgándosele plazo para subsanar, no cumpliendo con el pago de la multa por residencia irregular, dictándose la Resolución Exenta N°24436767.
+
+Respecto de la duplicidad de recursos, destaca que el recurrente interpuso recurso administrativo ID N°71431218 el 10 de octubre de 2024, actualmente en trámite, invocando el artículo 54 de la Ley N°19.880 que impide deducir igual pretensión ante los Tribunales mientras la reclamación administrativa no sea resuelta.
+A folio 14 el Servicio Nacional de Migraciones informa que el recurso administrativo ID N° 7143121 en contra de la Resolución Exenta N° 24436767 de 16 de septiembre de 2024, se encuentra en trámite, en etapa de “Análisis Jurídico”.
+A folio 15, rija autos en relación.
+
+Con lo relacionado y considerando:
+
+I. En cuanto a la excepción de cosa juzgada:
+
+Primero: Que, la excepción de cosa juzgada será rechazada, toda vez que, atendida la materia cautelar que por esta vía se revisa, impiden el análisis de los requisitos para que opere dicha institución, puesto que lo determinante en este procedimiento es la permanencia en el tiempo de la vulneración de la garantía de libertad individual y seguridad personal, por sobre las formalidades procesales que la primera conlleva. En consecuencia, es admisible la interposición sucesiva de este tipo de acciones fundadas en hechos idénticos en tanto persista la afectación de la libertad personal, preservando así su función cautelar y no declarativa.
+
+II. En cuanto al fondo:
+
+Segundo: Que la acción de amparo garantiza a toda persona que ilegalmente sufra cualquier privación, perturbación o amenaza en su derecho a la libertad personal y seguridad individual, la posibilidad de recurrir ante la respectiva magistratura, para que dicte en tal caso las providencias necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado.
+
+Tercero: Que, por la presente vía cautelar, se solicita dejar sin efecto la Resolución N°24436767 de 16 de septiembre de 2024, del Servicio Nacional de Migraciones, que rechazó la solicitud de residencia definitiva del amparado y dispuso su abandono del país en un plazo de 10 días, fundado en que no acreditó el pago de la multa aplicada como sanción por residir en el país de manera irregular en el plazo otorgado para ello, siendo ello ratificado por el Servicio Nacional de Migraciones.
+
+Cuarto: Que, sin perjuicio de que el amparado no demostró haber pagado la multa por residencia irregular en el procedimiento administrativo si cumplió con dicha obligación, adjuntando comprobante de pago de 3 de abril de 2025, lo que permite establecer que el supuesto invocado por el Servicio se encuentra cumplido.
+
+Quinto: Que, junto con lo anterior, se tiene presente que el actor tiene un hijo menor de edad de nacionalidad chilena, lo que se acredita con el respectivo certificado de nacimiento, el que da cuenta del arraigo familiar del actor en el país, unido al tiempo de permanencia en el país, ya que según lo informado por el propio Servicio Nacional de Migraciones, se encuentra residiendo en el país desde antes del año 2022, fecha desde la cual, su permiso se encuentra vencido, lo que da cuenta de una permanencia prolongada en el territorio nacional. Tal elemento constituye un arraigo efectivo, relevante para evaluar cualquier medida que pueda afectar su permanencia en el país. Sin embargo, tales antecedentes no fueron considerados ni ponderados en la decisión impugnada, pese a su incidencia directa en la situación personal y familiar del amparado.
+
+Sexto: Que, atendido a lo expuesto la medida reclamada afecta los derechos del hijo del amparado, exponiéndola a su separación del padre con vulneración a los derechos establecidos en la Convención de NNA, razón por la cual, la medida adoptada por la autoridad migratoria es desproporcionada y, por lo tanto, deviene en ilegal, motivo por el cual se acogerá el presente arbitrio
+
+Por estas consideraciones y lo dispuesto, además, en el artículo 21 de la Constitución Política de la República;
+
+Por estas consideraciones y lo dispuesto en el artículo 21 de la Constitución Política de la República y en el Auto Acordado de la Excelentísima Corte Suprema sobre la materia, se declara que,
+
+I.
+Se rechaza la excepción de cosa juzgada interpuesta por el Servicio Nacional de Migraciones.
+
+II.
+Se acoge sin costas, el recurso de amparo interpuesto en favor Jonathan Jean-Baptiste en contra del Servicio Nacional de Migraciones y, por consiguiente, se deja sin efecto la Resolución N°24436767 de 16 de septiembre de 2024, que rechaza su solicitud de residencia definitiva y ordena el abandono del país en el plazo de 5 días, debiendo la autoridad migratoria reabrir el procedimiento administrativo y ponderar nuevamente los antecedentes teniendo en consideración los documentos acompañando, debiendo resolver como en derecho corresponda.
+
+Regístrese, notifíquese y archívese en su oportunidad.
+N°Amparo-231-2026.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Jbl C.A. de ValparaísoValparaíso, dos de febrero de dos mil veintiséis.Vistos:A folio 1, comparece por sí, Jonathan Jean-Baptiste, de nacionalidad haitiana, quien interpone acción de amparo constitucional en contra del Servicio Nacional de Migraciones, por la dictación de la Resolución Exenta N°24436767 de 16 de septiembre de 2024, que rechazó su solicitud de residencia definitiva y dispuso su abandono del país en un plazo de 10 días, la que estima ilegal, pues vulnera su derecho a la libertad personal y seguridad individual, consagrado en el artículo 19 N°7 de la Constitución Política de la República.Refiere que ingresó al territorio nacional el 15 de septiembre de 2017 y que, el 12 de octubre de 2022, presentó su solicitud de residencia definitiva. Expone que, el 17 de julio de 2024, se le notificó un requerimiento previo al rechazo informándole que, al postular con su permiso de residencia vencido, debía regularizar su situación mediante el pago de una multa por residencia irregular. Alega que no pudo cumplir con dicha sanción pecuniaria oportunamente debido a constantes errores técnicos en la plataforma digital del Servicio y a la falta de atención presencial para orientación.Menciona que, tras la notificación del rechazo de su solicitud y la orden de abandono del país en un plazo de 10 días, logró finalmente realizar el pago de la multa ascendente a $340.170.- el 3 de abril de 2025.Sostiene que la medida de abandono es arbitraria y desproporcionada, pues no se le otorgó una posibilidad real de subsanar la omisión documental antes de dictar el acto terminal. Argumenta que cuenta con arraigo social y laboral, desempeñándose como empleado con contrato indefinido, y destaca que tiene un hijo de nacionalidad chilena nacido en el año 2020, por lo que su expulsión afectaría gravemente la integridad familiar.Pide, se deje sin efecto la resolución impugnada, instruyendo al recurrido a proceder a una nueva revisión documental de su solicitud de residencia definitiva conforme a derecho.A folio 4 se ordena traer a la vista recurso de amparo N°4500-2025.A folio 7, evacuó informe el Servicio Nacional de Migraciones.En primer lugar, opone la excepción de cosa juzgada, argumentando que el amparado dedujo anteriormente un recurso de amparo (Rol N°4500-2025) ante esta misma Corte por idénticos hechos, el cual fue rechazado el 24 de noviembre de 2025 y confirmado por la Excelentísima Corte Suprema el 18 de diciembre de 2025. Sostiene que la reiteración de la acción constituye un abuso del derecho y atenta contra la certeza jurídica. Subsidiariamente, en cuanto al fondo, expone que el recurrente solicitó residencia definitiva el 12 de octubre de 2022, encontrándose en situación irregular desde el 16 de febrero de 2022. Señala que mediante comunicación electrónica N°61695703 de 17 de julio 2024 se le notificó la causal de rechazo otorgándosele plazo para subsanar, no cumpliendo con el pago de la multa por residencia irregular, dictándose la Resolución Exenta N°24436767.Respecto de la duplicidad de recursos, destaca que el recurrente interpuso recurso administrativo ID N°71431218 el 10 de octubre de 2024, actualmente en trámite, invocando el artículo 54 de la Ley N°19.880 que impide deducir igual pretensión ante los Tribunales mientras la reclamación administrativa no sea resuelta.A folio 14 el Servicio Nacional de Migraciones informa que el recurso administrativo ID N° 7143121 en contra de la Resolución Exenta N° 24436767 de 16 de septiembre de 2024, se encuentra en trámite, en etapa de “Análisis Jurídico”.A folio 15, rija autos en relación.Con lo relacionado y considerando:I. En cuanto a la excepción de cosa juzgada:Primero: Que, la excepción de cosa juzgada será rechazada, toda vez que, atendida la materia cautelar  que por esta vía se revisa, impiden el análisis de los requisitos para que opere dicha institución, puesto que lo determinante en este procedimiento es la permanencia en el tiempo de la vulneración de la garantía de libertad individual y seguridad personal, por sobre las formalidades procesales que la primera conlleva. En consecuencia, es admisible la interposición sucesiva de este tipo de acciones fundadas en hechos idénticos en tanto persista la afectación de la libertad personal, preservando así su función cautelar y no declarativa.II. En cuanto al fondo:Segundo: Que la acción de amparo garantiza a toda persona que ilegalmente sufra cualquier privación, perturbación o amenaza en su derecho a la libertad personal y seguridad individual, la posibilidad de recurrir ante la respectiva magistratura, para que dicte en tal caso las providencias necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado.Tercero: Que, por la presente vía cautelar, se solicita dejar sin efecto la Resolución N°24436767 de 16 de septiembre de 2024, del Servicio Nacional de Migraciones, que rechazó la solicitud de residencia definitiva del amparado y dispuso su abandono del país en un plazo de 10 días, fundado en que no acreditó el pago de la multa aplicada como sanción por residir en el país de manera irregular en el plazo otorgado para ello, siendo ello ratificado por el Servicio Nacional de Migraciones.Cuarto: Que, sin perjuicio de que el amparado no demostró haber pagado la multa por residencia irregular en el procedimiento administrativo si cumplió con dicha obligación, adjuntando comprobante de pago de 3 de abril de 2025, lo que permite establecer que el supuesto invocado por el Servicio se encuentra cumplido.Quinto: Que, junto con lo anterior, se tiene presente que el actor tiene un hijo menor de edad de nacionalidad chilena, lo que se acredita con el respectivo certificado de nacimiento, el que da cuenta del arraigo familiar del actor en el país, unido al tiempo de permanencia en el país, ya que según lo informado por el propio Servicio Nacional de Migraciones, se encuentra residiendo en el país desde antes del año 2022, fecha desde la cual, su permiso se encuentra vencido, lo que da cuenta de una permanencia prolongada en el territorio nacional. Tal elemento constituye un arraigo efectivo, relevante para evaluar cualquier medida que pueda afectar su permanencia en el país. Sin embargo, tales antecedentes no fueron considerados ni ponderados en la decisión impugnada, pese a su incidencia directa en la situación personal y familiar del amparado.Sexto: Que, atendido a lo expuesto la medida reclamada afecta los derechos del hijo del amparado, exponiéndola a su separación del padre con vulneración a los derechos establecidos en la Convención de NNA, razón por la cual, la medida adoptada por la autoridad migratoria es desproporcionada y, por lo tanto, deviene en ilegal, motivo por el cual se acogerá el presente arbitrioPor estas consideraciones y lo dispuesto, además, en el artículo 21 de la Constitución Política de la República;Por estas consideraciones y lo dispuesto en el artículo 21 de la Constitución Política de la República y en el Auto Acordado de la Excelentísima Corte Suprema sobre la materia, se declara que, I.Se rechaza la excepción de cosa juzgada interpuesta por el Servicio Nacional de Migraciones.II.Se acoge sin costas, el recurso de amparo interpuesto en favor Jonathan Jean-Baptiste en contra del Servicio Nacional de Migraciones y, por consiguiente, se deja sin efecto la Resolución N°24436767 de 16 de septiembre de 2024, que rechaza su solicitud de residencia definitiva y ordena el abandono del país en el plazo de 5 días, debiendo la autoridad migratoria reabrir el procedimiento administrativo y ponderar nuevamente los antecedentes teniendo en consideración los documentos acompañando, debiendo resolver como en derecho corresponda.Regístrese, notifíquese y archívese en su oportunidad.N°Amparo-231-2026.                        ⚠                      Sin documento en esta instancia - pdf
