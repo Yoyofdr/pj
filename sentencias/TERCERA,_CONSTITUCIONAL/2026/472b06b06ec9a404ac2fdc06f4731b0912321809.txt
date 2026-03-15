@@ -1,0 +1,1149 @@
+METADATA
+
+case_id: 472b06b06ec9a404ac2fdc06f4731b0912321809
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8037206
+
+rol: 53158-2025
+
+fecha_sentencia: 2026-02-23
+
+caratulado: PALMA/TESORERÍA GENERAL DE LA REPÚBLICA DE CHILE,
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: ▪ Función pública
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintitrés de febrero de dos mil veintiséis.
+
+Vistos:
+En estos autos RIT T-136-2023, RUC 2340510930-1, del Juzgado de Letras del Trabajo de Talca, por sentencia de treinta y uno de mayo de dos mil veinticuatro, se rechazó la demanda principal de tutela laboral y se acogió la subsidiaria de despido improcedente, por lo que se ordenó el pago del recargo legal respectivo y la restitución de lo descontado por concepto de aporte de cesantía del empleador.
+La demandada dedujo recurso de nulidad, y una sala de la Corte de Apelaciones de Talca, por resolución de treinta de enero de dos mil veinticinco, lo desestimó.
+
+Respecto de dicha decisión la misma parte interpuso recurso de unificación de jurisprudencia para que esta Corte lo acoja y dicte sentencia de reemplazo que describe.
+
+Se ordenó traer estos autos en relación.
+
+Considerando:
+Primero: Que, de conformidad con lo dispuesto en los artículos 483 y 483 A del Código del Trabajo, el recurso de unificación de jurisprudencia procede cuando respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de tribunales superiores de justicia. La presentación respectiva debe ser fundada, incluir una relación precisa y circunstanciada de las distintas interpretaciones respecto del asunto de que se trate, sostenidas en las mencionadas resoluciones y que hayan sido objeto de la sentencia contra la que se recurre y, por último, se debe acompañar copia autorizada de la o de las que se invocan como fundamento.
+Segundo: Que la materia de derecho respecto de la cual se solicita unificar la jurisprudencia consiste en determinar si la comunicación mediante la cual se informa el término del contrato de trabajo por aplicación de la causal de “desahucio escrito del empleador”, debe o no especificar con claridad cuál de las hipótesis contenidas en el artículo 161 inciso segundo del Código del Trabajo sustenta la decisión.
+
+Reprocha que la decisión se apartara de la doctrina sostenida en la decisión que apareja para efectos de su cotejo, dictada por esta Corte Suprema en los autos Rol 57.425-2022, en que se estimó que la carta a través de la cual se comunica al trabajador el término de su contrato en razón del desahucio, no está sujeta a la regla prevista en el inciso segundo del artículo 454 N°1 del Código del Trabajo, por lo que basta la sola mención a la causal genérica para que el empleador pueda rendir prueba a fin de acreditar que las labores contratadas se ajustan a alguna de las hipótesis que la hacen procedente.
+
+Tercero: Que la sentencia impugnada rechazó el recurso de nulidad que la demandada dedujo, sobre la base de las causales previstas en los artículos 477 y 478 letra c) del Código del Trabajo, la primera por infracción de sus artículos 161 inciso segundo, 162 incisos segundo y cuarto y 454 N° 1.
+
+Como fundamento de la decisión, en lo concerniente al primer motivo, se consideró que el artículo 161 inciso segundo del código del ramo plantea tres hipótesis alternativas en las que se debe encontrar el trabajador para que el desahucio permita poner término al vínculo, en tanto que la carta de despido remitida al actor sólo refiere el cargo que ocupó, sin precisar las facultades de representación y administración de que gozaría o si se trataba de un cargo de exclusiva confianza, por lo que el reproche judicial sobre la configuración del despido tiene completo asidero en la norma mencionada, pues no basta que se trate del gerente general para que el empleador tenga la capacidad legal de desahuciar el contrato de trabajo a su sola voluntad, siendo necesario que se cumplan las demás exigencias legales, aspectos que, en el caso, no resultan satisfechos; y en lo que atañe al segundo, porque si bien se pretendía alterar la calificación jurídica de los hechos, en particular, de los referidos a la naturaleza del cargo, facultades que conllevaba y la circunstancia de tratarse de servicios de exclusiva confianza, nada de ello resulta relevante, puesto que la prueba debe estar referida únicamente a los hechos señalados en la carta de despido, en razón de la especificidad que le exige el inciso segundo del N° 1 del artículo 454 del Código del Trabajo, sin que sea procedente alegar otro nuevos para complementarla, limitación que impone la prohibición de rendir y valorar prueba sobre esos hechos adicionales, por lo que al quedar circunscrito el debate jurídico y probatorio a las argumentaciones que fijó la respectiva carta de despido, que no afirmó la existencia de facultades de representación, administración o que se tratara de un trabajador de exclusiva confianza, resulta improcedente para el órgano jurisdiccional resolver sobre esas materias.
+
+Cuarto: Que, en consecuencia, al cotejar lo fallado en las sentencias invocadas por la recurrente, con lo decidido en la que se impugna, es posible concluir que concurre el presupuesto establecido en el artículo 483 del Código del Trabajo para unificar la jurisprudencia sobre la materia de derecho propuesta, esto es, la existencia de interpretaciones diversas en relación a una cuestión jurídica proveniente de tribunales superiores de justicia, razón por la que corresponde determinar cuál postura debe prevalecer y ser considerada correcta.
+
+Quinto: Que, para dilucidar lo anterior, se debe tener presente que el artículo 161 inciso segundo del Código del Trabajo dispone que “en el caso de los trabajadores que tengan poder para representar al empleador, tales como gerentes, subgerentes, agentes o apoderados, siempre que, en todos estos casos, estén dotados, a lo menos, de facultades generales de administración, y en el caso de los trabajadores de casa particular, el contrato de trabajo podrá, además, terminar por desahucio escrito del empleador, el que deberá darse con treinta días de anticipación, a lo menos, con copia a la Inspección del Trabajo respectiva. Sin embargo, no se requerirá esta anticipación cuando el empleador pagare al trabajador, al momento de la terminación, una indemnización en dinero efectivo equivalente a la última remuneración mensual devengada. Regirá también esta norma tratándose de cargos o empleos de la exclusiva confianza del empleador, cuyo carácter de tales emane de la naturaleza de los mismos”.
+
+De manera que su texto no deja lugar a dudas en cuanto a que se trata de una causal de término de contrato que debe ser informada mediante comunicación escrita al trabajador.
+
+Ahora bien en cuanto al contenido del referido aviso, es pertinente considerar lo dispuesto en el inciso primero del artículo 162 y en el artículo 454 N°1 inciso segundo del mismo código; el primero señala que “si el contrato de trabajo termina de acuerdo con los números 4, 5 ó 6 del artículo 159, o si el empleador le pusiere término por aplicación de una o más de las causales señaladas en el artículo 160, deberá comunicarlo por escrito al trabajador, personalmente o por carta certificada enviada al domicilio señalado en el contrato, expresando la o las causales invocadas y los hechos en que se funda”; a lo que el segundo agrega que “en los juicios sobre despido corresponderá en primer lugar al demandado la rendición de la prueba, debiendo acreditar la veracidad de los hechos imputados en las comunicaciones a que se refieren los incisos primero y cuarto del artículo 162, sin que pueda alegar en el juicio hechos distintos como justificativos del despido”.
+
+Sexto: Que, en efecto, la circunstancia que la causal invocada para poner término al contrato sea informada por escrito al trabajador es una exigencia mínima del debido proceso, pues corresponde al presupuesto necesario para su impugnación; sin embargo, para que pueda cuestionar efectivamente la concurrencia de la causal se requiere que también conozca los hechos en que se la hace consistir, y si bien es efectivo que los artículos 162 y 454 N° 1 antes transcritos no aluden a la causal contenida en el artículo 161 inciso segundo, lo cierto es que no se trata de una omisión legislativa, pues es esa misma disposición la que incorpora el requisito de la comunicación escrita al referirse al “desahucio escrito del empleador”, y porque se trata de un motivo de terminación que no se sustenta en un “hecho” que pueda ser imputado al trabajador, sino en la naturaleza de sus labores o de su cargo, aspecto que, por cierto, es igualmente susceptible de ser discutido en el juicio.
+
+Y, luego, dado que la norma contiene tres hipótesis que hacen procedente el desahucio, aparece igualmente necesario que el empleador precise la que invoca, única forma en que el trabajador podrá controvertir eficazmente su concurrencia en la demanda, puesto que, en el caso contrario, si la comunicación se limita a señalar la causal en forma genérica, como ocurre en la especie, será sólo en la contestación de la demanda, al término de la etapa de discusión del juicio, cuando el empleador aportará tal información, sin que, en consecuencia, el trabajador pueda pronunciarse sobre el particular, quedando en una clara situación de desventaja procesal.
+
+Séptimo: Que refuerza la conclusión precedente la circunstancia de tratarse de una norma de excepción, que permite poner término al contrato de trabajo por la voluntad unilateral del empleador, sin expresión de una causal disciplinaria o de otra circunstancia objetiva, por lo que debe ser interpretada restrictivamente, más aún en el marco de un área del derecho donde debe primer el principio protector del trabajador.
+Octavo: Que, en consecuencia, habiéndose determinado la interpretación acertada respecto de la materia de derecho objeto del juicio, que coincide con lo resuelto en la sentencia impugnada, el presente recurso de unificación de jurisprudencia deberá ser rechazado.
+
+Por estas consideraciones y visto, además, lo dispuesto en los artículos 483 y siguientes del Código del Trabajo, se rechaza el recurso de unificación de jurisprudencia interpuesto por la demandada en contra de la sentencia de treinta de enero de dos mil veinticinco, dictada por la Corte de Apelaciones de Talca.
+
+Acordada contra el voto de las ministras señoras Jessica González T. y Mireya López M., quienes fueron de opinión de acoger el presente recurso de unificación y dictar la correspondiente sentencia de reemplazo en atención a las siguientes consideraciones:
+1°) Que el artículo 161 inciso segundo del Código del Trabajo permite al empleador poner término unilateralmente al contrato de trabajo, por desahucio escrito, respecto de “los trabajadores que tengan poder para representar al empleador, tales como gerentes, subgerentes, agentes o apoderados, siempre que, en todos estos casos, estén dotados, a lo menos, de facultades generales de administración”, “en el caso de los trabajadores de casa particular” y también “tratándose de cargos o empleos de la exclusiva confianza del empleador”.
+
+En tanto que su artículo 454 N°1 inciso segundo, establece que “en los juicios sobre despido corresponderá en primer lugar al demandado la rendición de la prueba, debiendo acreditar la veracidad de los hechos imputados en las comunicaciones a que se refieren los incisos primero y cuarto del artículo 162, sin que pueda alegar en el juicio hechos distintos como justificativos del despido”, en tanto que, a su vez, el inciso segundo del referido artículo 162 se refiere a las causales previstas en los números 4, 5 y 6 del artículo 159, y a las del artículo 160, a lo que el inciso cuarto agrega “Cuando el empleador invoque la causal señalada en el inciso primero del artículo 161…”. De manera que ninguna de las disposiciones pertinentes se refiere al desahucio invocado respecto del actor, causal sometida a distintas formalidades en lo relativo a su fundamentación.
+
+2°) Que, en cuanto a la indefensión que pudiera estimarse afecta al trabajador cuyo contrato es desahuciado sin que la comunicación respectiva precise la hipótesis en que se fundamenta el uso de la causal, lo cierto es que el tribunal del grado, en su oportunidad, fijó como hechos a probar, en lo pertinente a esta acción, los siguientes: “Efectividad que el cargo utilizado por el actor era de exclusiva confianza; 2. Funciones y labores que desarrollaba el demandante para la demandada. Hechos que lo constituyen; 3. Fecha de término de la relación laboral por despido. Cumplimiento de las formalidades de rigor; 4. En su caso, hechos que hacen debido el despido al tenor de la comunicación de término”, ofreciendo ambas partes los antecedentes que estimaron pertinentes a fin de que fuesen ponderados por el tribunal para establecer si el demandante se encontraba o no en alguno de los supuestos previstos en la norma.
+
+Así, es claro que la falta de precisión en cuanto a cuál de las dos hipótesis que podrían haberse esgrimido respecto del demandante en la comunicación de despido –excluyendo la relativa a los trabajadores de casa particular-, no lo dejó en una situación de indefensión, dado que pudo controvertir la procedencia de la causal mediante argumentos que, unidos a los de la contraparte, permitieron encausar la discusión; tratándose de una causal que al limitarse sólo a dos –o, en su caso, tres- posibles presupuestos, vinculados todos a la naturaleza de las labores del trabajador, se distingue de las demás consagradas en los artículos 159, 160 y en el inciso primero del mismo artículo 161 del Código del Trabajo, en las que el sustrato fáctico de la decisión, de posibilidades mucho más amplias, resulta fundamental.
+
+3°) Lo anterior, debe necesariamente vincularse con la citada disposición contenida en el artículo 454 N°1 del mismo cuerpo legal, que circunscribe la prueba que la parte demandada pueda rendir para acreditar la justificación o procedencia del despido a aquellos “hechos” consignados en la comunicación, lo que, naturalmente, se refiere a las causales que requieren de una base fáctica en que el empleador pretenda subsumir en la hipótesis legal, a diferencia de la invocada en el caso, en que los “hechos” de la relación laboral son irrelevantes al tratarse, precisamente, de un despido incausado, en que sólo resulta de interés la naturaleza de las labores contratadas y si se avienen o no con aquellas taxativamente descritas en la norma.
+
+4°) Que lo anterior conduce a concluir que la doctrina correcta es la recogida en el fallo de contraste, ratificada en otros dictámenes de esta Corte como son los pronunciados en las causas Rol 13.071-2022 y 13.370-2025, por lo que el fallo impugnado debió ser invalidado y reemplazado por uno que analice la prueba rendida por las partes a fin de determinar la concurrencia de la causal, dando por correctos los aspectos formales del despido.
+
+Redacción a cargo de la ministra señora Gloria Ana Chevesich R.
+
+Regístrese y devuélvanse.
+Rol N° 8.012-2025.-
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Recurso de nulidad laboral Rol I.C. 363-2024.
+
+“Julio Agustín Lavín Retamal contra Asociación Canal Maule”.
+
+Talca, treinta de enero de dos mil veinticinco.
+
+Visto:
+
+En autos R.I.T. T-136-2023, R.U.C. 23-4-0510930-1 del Juzgado de Letras de Talca, seguida entre Julio Agustín Lavín Retamal en contra de la Asociación Canal Maule, por sentencia definitiva de treinta y uno de mayo de dos mil veinticuatro, se declaró lo siguiente:
+
+“I.- Que se rechaza la demanda de tutela de derechos fundamentales con ocasión de despido y daño moral, deducida por don Julio Agustín Lavín Retamal, deducida en contra de su ex empleador, Asociación Canal Maule, representado por don José Manuel Silva Hurtado, ya individualizados.
+
+II.- Que se acoge la demanda de despido injustificado deducida por don Julio Agustín Lavín Retamal, deducida en contra de su ex empleador, Asociación Canal Maule, representado por don José Manuel Silva Hurtado, declarándose que el despido del demandante es improcedente, por lo que la demandada le deberá pagar las siguientes prestaciones:
+
+a.- Incremento legal del artículo 168 letra a) del Código del Trabajo, la suma de $10.718.576.
+
+b.- Deberá restituir lo descontado por concepto de seguro de cesantía, la suma de $8.161.767. Las sumas ordenadas pagar deberán intereses y reajustes en la forma que los disponen los artículos 63 y 173 del Código del Trabajo.
+
+En lo demás se rechaza la demanda”.
+
+En contra de esa decisión judicial, la parte demandada se alzó y alegó como causales de nulidad las señaladas en el artículo 477 del Código del Trabajo y la señalada en la letra c) del artículo 478 del mismo cuerpo legal.
+
+Declarado admisible el recurso, se procedió a su vista y resolución.
+
+Considerando:
+
+Primero: Que la parte demandada recurrió de nulidad en contra del fallo por la causa señalada en el artículo 477 del Código del Trabajo, esto es, cuando el fallo se hubiere dictado con infracción de ley que influyó sustancialmente en lo dispositivo del mismo, alegando transgresión del inciso 2° del artículo 161; 162 inciso 2° y 4° y 454 del Código del Trabajo.
+
+El recurrente señaló que el sentenciador incurrió en una errada interpretación del texto de la ley, toda vez que se transgredió el fin de la norma pretende cautelar, desatendiendo el caso particular y, en especial, la causal de despido invocada por la empresa para proceder con la desvinculación del demandante. El considerando séptimo fijó los hechos asentados, los que reprodujo literalmente, así como el undécimo, sobre la causal de despido del artículo 161 inciso 2° del Código del Trabajo, agregando en la contestación de la demanda que “…el Sr. Lavín desempeñaba, en la práctica, el cargo de Gerente General, dotado de facultades generales de administración. Adicionalmente, tal como indica expresamente su contrato de trabajo, su cargo era de exclusiva confianza…”. El fallo señaló que situación debe ser explicitada en la carta de despido, pues lo que la demandada debería probar en juicio era que el actor prestaba servicio, ejerciendo facultades generales de administración que tuviese atribuciones de representación y administración o bajo exclusiva confianza del Directorio de la Asociación Canal Maule. La comunicación de despido del actor no explicitó en cuál de las hipótesis se encontraría el Sr. Lavín Retamal.
+
+En cuanto a la infracción de ley acaecida en la sentencia, de los hechos asentados, resulta evidente que se incurrió en infracción a lo dispuesto en los artículos 162 y 454 N° 1, en relación con el artículo 161 inciso 2° del Código del Trabajo.
+
+En cuanto al correcto sentido y alcance de los artículos 161 inciso 2°, 162 inciso 1° y 454 N°1 del Código del Trabajo, resulta destacable la decisión del sentenciador, pese a tener por acreditado que el ex trabajador prestaba las funciones de gerente general, fundando su fallo en una especificidad que excede con creces la necesaria interpretación sistematizada de las normas referidas. La causal de despido invocada no es de aquellas que requieran una fundamentación fáctica para su procedencia. El artículo 161 inciso 2° del Código del Trabajo regula la causal de terminación del contrato de trabajo por “desahucio escrito del empleador”, causal está prevista para casos particulares y debidamente identificados por el legislador como lo son los “trabajadores que tengan poder para representar al empleador, tales como gerentes, subgerentes, agentes o apoderados” y el legislador condiciona su procedencia indicando que debe tratarse de cargos que “estén dotados, a lo menos, de facultades generales de administración”. Finalmente, termina la norma afirmando que regirá también “tratándose de cargos o empleos de la exclusiva confianza del empleador, cuyo carácter de tales emane de la naturaleza de los mismos”. Por su parte, el artículo 162 inciso 1° y 4º del Código del Trabajo dispone que si el contrato termina de acuerdo con los N° 4, 5 o 6 del artículo 159, o si el empleador le pusiere término por aplicación de una o más de las causales señaladas en el artículo 160, deberá comunicarlo por escrito al trabajador. Esta norma se encuentra íntimamente relacionada con lo establecido en el artículo 454 N° 1 del Código del Trabajo, que citó textualmente.
+
+Tal como refiere el sentenciador en el considerando duodécimo de la sentencia, el artículo 162 inciso 1°, en relación con el artículo 454 N° 1 del Código del Trabajo, persigue un afán protector del trabajador, en cuanto a “…establecer los requisitos que debe tener la carta de despido, que expresamente dispone que esta debe contener la causal o las causales invocadas y los hechos en que se funda…”. Lo contrario significa vulnerar el derecho a defensa del trabajador. El sentenciador ignoró la causal de término de contrato frente a la cual nos encontramos: desahucio escrito del empleador.
+
+Indicó la demandada que la interpretación errada contenida en la sentencia, el artículo 162 inciso 1° del Código del Trabajo, que vuelve a reproducir, diferencia respecto de las causales de término del contrato que, más allá de ser enunciadas en la carta de despido, deben ser fundadas en hechos concretos y precisos, los que no podrán ser complementados en actos posteriores como la contestación de demanda. Entre ellas, no se encuentra la de desahucio escrito del empleador. A partir de la regulación expresa que realizó el legislador es posible afirmar que la causal de desahucio escrito del empleador es una causal -valga la redundancia- “incausada en los hechos”, justamente, lo contrario a lo razonado por el sentenciador. Adicionalmente, es importante resaltar un aspecto que refirió el sentenciador para fundar su decisión: el incumplimiento en que habría incurrido la Empresa del artículo 162 del Código del Trabajo al fundar la terminación del contrato del Sr. Lavín derivaría no solo en atentar contra la especificidad que exige la norma referida, sino que también vulneraría el derecho a defensa del trabajador, “quien no sabe qué controvertir al fundar la demanda”. Lo anterior no ocurrió en el caso. Desde la presentación de la demanda, el Sr. Lavín no alegó afectación a su derecho a defensa, sino que controvirtió la configuración de la causal de despido porque no detentaría facultades generales de administración ni sería un cargo de exclusiva confianza, pues, en realidad, sólo seguía directrices del Directorio de la Asociación. Fue el demandante quien controvirtió ambas hipótesis contempladas del artículo 161 inciso 2° del Código del Trabajo, pues comprende que la causal invocada tenía que ver con ambas, no se trataba de un cargo cualquiera, sino que el de Gerente General. Tanto es así que, incluso, que en audiencia preparatoria se fijó el punto de prueba N° 1 sobre la materia. La causal de despido invocada no es de aquellas comprendidas en el artículo 159 o en el artículo 160 del Código del Trabajo, como tampoco lo es respecto de la causal de necesidades de la empresa que exige una fundamentación contundente basada en criterios económicos, graves y permanentes. Citó jurisprudencia sobre el punto.
+
+La recurrente afirmó que esta disposición debe relacionarse a su vez con la contenida en el artículo 454 numeral 1) del mismo Código del Trabajo, en cuanto allí se prescribe que la prueba rendida por el empleador debe estar dirigida a “acreditar los hechos imputados en las comunicaciones a que se refieren los incisos primero y cuarto del artículo 162, sin que pueda alegar en el juicio hechos distintos como justificativos del despido”. En consecuencia, se tiene que las exigencias del aviso de terminación contractual persiguen distintos propósitos. Por lo pronto, la finalidad es comunicar formalmente al trabajador tanto la decisión de despido como las razones que sustentaron aquella; y, luego, determinar los hechos sobre los que debe recaer la prueba. Por lo tanto, se comete un error de derecho al concluirse que el despido devendría [en] improcedente por una supuesta deficiencia. La comunicación a través de la cual Asociación Canal Maule le comunicó a su ex Gerente General la decisión de prescindir de sus servicios, se puede concluir que: i) Se determina claramente la causal de despido invocada y la norma en que se funda (artículo 161 inciso 2° del Código del Trabajo); y ii) Dicha causal se invoca en función del cargo que desempeñaba el Sr. Lavín en la Asociación, comprendiéndose dentro de ellos que enumera la norma. Luego, en un detallado análisis del libelo pretensor, el Sr. Lavín comenzó su defensa indicando que pese a que en la carta de despido se indicaría que se trata de un cargo de exclusiva confianza, “esto en la práctica no ocurre”. Luego, refiere que “en la práctica tenía un rol de administración solo para el buen funcionamiento de la asociación”. La carta de despido no indicó expresamente que se aplicó la causal por “tratarse de un cargo de exclusiva confianza”, el demandante así lo entiende porque la causal de despido, aplicada a un Gerente General, necesariamente implica contemplar ambas hipótesis legales.
+
+En cuanto a la influencia sustancial en lo dispositivo del fallo, si se hubiese interpretado correctamente las normas de los artículos 161 inciso 2°, 162 inciso 1° y 454 N°1 del Código del Trabajo, habría determinado que la carta de despido entregada al ex Gerente General de la Asociación Canal Maule cumplió con los requisitos legales y habría determinado que el despido del actor fue procedente y apegado a derecho.
+
+Por lo que relación con las peticiones concretas planteadas por el recurrente, solicitó que el recurso sea acogido, se declare la nulidad de la sentencia recurrida y, acto seguido y sin nueva vista, se dicte la correspondiente sentencia de reemplazo, rechazando la demanda de autos en todas sus partes, con costas, o, en subsidio de aquello, se dicte la correspondiente sentencia de reenvío, retrotrayendo la causa al estado de realizarse la correspondiente Audiencia de Juicio, con el fin de que el Tribunal a quo, en base a las pruebas que se incorporarán en aquella, dicte la sentencia que conforme a derecho proceda, todo ello con costas.
+
+La recurrente planteó en forma subsidiaria, la causal de invalidación del artículo 478 letra c) del Código del Trabajo, fundada, en lo pertinente, que la configuración de la causal invocada tendrá aplicación en la solicitud de verificar si los hechos acreditados determinaron si el despido del Sr. Lavín era procedente. Dentro de los hechos asentados por el sentenciador se comprende que el Sr. Lavín desempeñaba el cargo de Gerente General de Asociación Canal Maule, por más de 12 años. Luego, a partir del considerando undécimo de la sentencia, donde fijó la causa y fecha del despido, como la naturaleza de los servicios, que controvirtió el actor, procede analizar aquellos.
+
+La recurrente reprodujo el fundamento duodécimo, sobre el alcance de la causa de despido y la situación del actor respecto de los servicios prestado, partiendo de la base de que el sentenciador reconoce como hecho no controvertido y como asentado en la causa que el cargo que desempeñaba el demandante al tiempo de su desvinculación era el de gerente general, luego la calificación de la causal invocada debería haber sido que es procedente y justificado. En dicha línea de razonamiento no se puede saltar un escalón: el cargo que desempeñaba el Sr. Lavín era de aquellos que, por presunción de derecho, representan al empleador, como lo señala el artículo 4 del Código del Trabajo. El artículo 161 inciso 2° del Código precitado regula la causal de terminación del contrato de trabajo por “desahucio escrito del empleador”. El legislador condiciona su procedencia indicando que debe tratarse de cargos que “estén dotados, a lo menos, de facultades generales de administración”. Finalmente, termina la norma afirmando que regirá también “tratándose de cargos o empleos de la exclusiva confianza del empleador, cuyo carácter de tales emane de la naturaleza de los mismos”. Al haberse acreditado el cargo desempeñado por el demandante, esto es, el de Gerente General, era posible desde ya establecer sus facultades, de acuerdo a lo dispuesto en el artículo 4 del Código del Trabajo. Así también era posible establecer la procedencia de la causal de desahucio contemplada en el artículo 161 inciso 2°, por encontrarse el cargo desempeñado dentro de una de las hipótesis de procedencia señaladas por la norma. El silogismo que seguía para la calificación jurídica de su desvinculación por la causal de desahucio era simple, esto es, las facultades del trabajador se presumen de derecho y la causal de despido de desahucio invocada para su desvinculación era procedente y, consecuentemente, justificada.
+
+El recurrente alegó que la influencia sustancial del vicio de nulidad reclamado en lo dispositivo del fallo es clara. De haber realizado una correcta calificación jurídica de los hechos materia del juicio, el sentenciador habría concluido que al haber ejercido el demandante, al tiempo del despido -y durante los 12 años anteriores a aquello-, el cargo de Gerente General, y encontrándose el mismo en la cúspide de la organización de la empresa, resultaba plenamente aplicable la causal de despido establecida en el artículo 161, inciso 2° del Código del Trabajo, siendo en consecuencia su desvinculación, totalmente justificada y apegada a derecho.
+
+Respecto de las peticiones concretas, la demandada solicito que se acoja el recurso en todas sus partes, declarando la nulidad de la sentencia recurrida y, acto seguido y sin nueva vista, dictar sentencia de reemplazo que rechace la demanda de autos en todas sus partes, con costas, o, en subsidio de aquello, se dicte la correspondiente sentencia de reenvío, retrotrayendo la causa al estado de realizarse la correspondiente Audiencia de Juicio, con el fin de que el Tribunal a quo, en base a las pruebas que se incorporarán en aquella, dicte la sentencia que conforme a derecho proceda, todo ello con costas.
+
+Segundo: Que en parecer de esta Corte, mediante las causales de nulidad, - errónea aplicación del derecho y recalificación jurídica de los hechos-, el recurrente no puede alterar los hechos establecidos en la sentencia, pues ellas tienen, en el primer caso, el objeto de la causal sólo por objeto fijar el recto sentido o alcance de las normas legales que se dicen afectadas, ya sea porque se desatienden en un caso previsto por ellas, cuando en su interpretación el juez contraviene fundamentalmente su texto o cuando les da un alcance distinto, ya sea ampliando o restringiendo sus disposiciones; y, en el segundo motivo, se limita o prohíbe alterar el sustrato fáctico sobre el que se construyó la sentencia, estando sólo autorizado a la calificación jurídica de manera diversa.
+
+En el presente caso, la sentencia definitiva, en lo que dice relación con la existencia del objeto litigioso y probatorio planteado en el juicio, recogió el debate de las partes sobre el motivo o causa de término de la relación que en carácter de laboral invocó la demandante y no cuestionado por la demandada, así como el cargo y naturaleza de las funciones prestadas por el actor en favor de la demandada, como los términos de la carta de despido.
+
+Tercero: Que los hechos asentados por el Tribunal de mérito, inmodificables para esta Corte, se contienen en el motivo séptimo, intitulado “Hechos pacíficos”, sobre inicio, vigencia, naturaleza de los servicios prestados por el actor, época y término de las labores de éste en favor de la empleadora; así como la causal invocada por ésta (considerando 11°) y la falta de especificidad de la carta que motivó de cese de las tareas del actor, que se contiene en el motivo 12° del fallo en análisis.
+
+Cuarto: Que el artículo 161, inciso 2° del Código del Trabajo plantea tres hipótesis en las que se debe encontrar el trabajador para que el solo desahucio del empleador sea de suficiencia y legalidad para poner término al vínculo laboral, sin más.
+
+As u vez, la carta de despido enviada por la demandada al actor de 27 de junio de 2.023 e incorporada en el folio 27 de esta carpeta virtual, sólo se refiere al cargo ocupado a éste en esa Asociación, sin indicar si señalar las facultades de representación y administración de que gozaría el actor a su respecto, o si se trataba de un cargo de exclusiva confianza, por lo que el reproche judicial sobre la constitución legal del despido, tiene completo asidero en la norma referida por el fallo.
+
+No basta que se trate del gerente general para que el empleador tenga la capacidad legal de desahuciar el contrato de trabajo a su sola voluntad. Requiere que se cumplan con las demás exigencias legales para ello, cuestión que no satisface la carta de despido.
+
+Asimismo, el incumplimiento de los requisitos de aquella disposición legal afecta su finalidad y certeza jurídica en la regulación de la materia objeto de este litigio.
+
+Por lo razonado, la primera causal de invalidación debe ser desestimada.
+
+Quinto: La segunda motivación de nulidad presentada en forma subsidiaria, de la letra c) del artículo 478 del Código del Trabajo, sobre alteración de la calificación jurídica de los hechos, sin modificar las conclusiones fácticas, se fundó en la naturaleza del cargo, facultades que conllevaba éste, en especial, de administración y tratarse de servicios de exclusiva confianza.
+
+Sobre el punto, la prueba debe estar referida a los hechos señalados en la carta de despido, en razón de la especificidad de la misma consagrada en el inciso 2° del N° 1 del artículo 454 del Código del Trabajo, sin que sea procedente alegar hechos nuevos para complementar el acto del despido.
+
+Aquella limitación impone la prohibición de rendir y valorar prueba sobre esos circunstancias complementarias, debate jurídico y probatorio que queda circunscrito a las argumentaciones y hechos que fijó la respectiva carta de despido, en que no se mencionó la existencia de facultades de representación, administración o de tratarse de un trabajador de exclusiva confianza, siendo improcedente resolver sobre esas materias ante el órgano jurisdiccional y por ende, acarrea la inutilidad de la prueba sobre esas alegaciones de la demandada.
+
+Por lo razonado, este segundo capítulo de nulidad debe ser rechazado igualmente.
+
+Y visto además lo dispuesto en los artículos 161, 162, 454, 477, 478 letra c); y 479 del Código del Trabajo, se declara:
+
+Que se RECHAZA el recurso de nulidad interpuesto por “Asociación Canal Maule” en contra de la sentencia definitiva de treinta y uno de mayo de dos mil veinticuatro, dictada por el Juzgado de Letras del Trabajo de Talca, en la causa R.I.T. T-136-2023, R.U.C. 23-4-0510930-1, sentencia y juicio que no son nulos.
+Se condena en costas al recurrente en favor de la recurrida.
+
+Redacción del ministro Carrillo González.
+
+Regístrese y devuélvase.
+
+Rol I.C. 363-2024/Laboral.
+Se deja constancia que no firma la Abogada Integrante doña Carolina Araya López, no obstante haber concurrido a la vista y acuerdo, por no encontrarse.
+
+9
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Causa
+Ruc 23-4-0510930-1
+Rit T-136-2023
+
+Materia
+Tutela de derechos fundamentales
+
+Despido injustificado
+
+Procedimiento
+Aplicación general
+
+Demandante
+Julio Agustín Lavín Retamal
+C.I. 8.337.469-1
+
+Abogados
+Nicolás Andrés Salhus Mardones Orielle Escarle Emperatriz Muñoz González
+C.I. 15.370.746-4
+
+C.I. 18.112.381-8
+
+Demandado
+Asociación Canal Maule
+Rut 82.051.900-0
+
+Abogados
+Francisco José Plass Montalva
+
+Francisco Javier Pinilla Valdés
+
+Javiera Alejandra Cisterna Tapia
+
+Carlos Patricio Gutiérrez De Torres
+C.I. 13.828.571-5
+
+C.I. 16.050.989-9
+
+C.I. 19.540.327-9
+
+C.I. 15.971.692-9
+
+Ingreso
+1 de septiembre de 2023
+
+Aud. de juicio
+19 de enero de 2021 y
+
+8 de mayo de 2024
+
+Juez
+Juan Marcelo Bruna Parada
+
+*********************************************************************************************
+
+Talca, treinta y uno de mayo de dos mil veinticuatro.
+
+VISTO, OÍDO Y CONSIDERANDO.
+
+Primero: Partes del juicio. Que son partes en este juicio laboral sobre tutela de derechos fundamentales con ocasión del despido y en subsidio despido injustificado, Ruc 23-4-0510930-1, Rit T-136-2023 del Juzgado de Letras del Trabajo de Talca, don JULIO AGUSTÍN LAVÍN RETAMAL, trabajador dependiente, domiciliado en Parcela 15, El Milagro, comuna de San Rafael, como demandante; y ASOCIACIÓN CANAL MAULE, persona jurídica del giro de su denominación, representado por don José Manuel Silva Hurtado, se ignora profesión u oficio, ambos domiciliados en 3 Sur N° 2250 de Talca, como demandado.
+Segundo: a) Demanda principal de tutela de derechos fundamentales con ocasión del despido. Comparece don Julio Agustín Lavín Retamal, quien deduce demanda por vulneración de derechos con ocasión al despido, daño moral y cobro de prestaciones laborales; y en subsidio, demanda por despido injustificado, indebido o improcedente, daño moral y cobro de prestaciones, en contra de su ex empleador, Asociación Canal Maule, representado por don José Manuel Silva Hurtado, quien señala.
+
+Comenzó a desempeñar funciones el 1 de octubre de 2012, terminando con fecha 27 de junio de 2023 por la causal del inciso segundo del artículo 161 del Código del Trabajo.
+
+Su remuneración asciende a $6.727.153, conforme a sus últimas remuneraciones por 30 días trabajados (abril, mayo y junio de 2023), estando compuesta de sueldo base, colación y movilización, o lo que se estime conforme a derecho, tope 90 UF para cálculo de indemnización es la suma de $ 3.248.053 pesos.
+
+Su contrato de trabajo menciona que sus funciones son de gerente general de Asociación Canal Maule, ciñéndose a las instrucciones que le impartían el presidente y/o el directorio de la asociación. Además, en el número segundo de su contrato se detalla que su cargo es de exclusiva confianza de su empleador, sin embargo, esto en la práctica no ocurre.
+
+Pues en la práctica tenía un rol de administración solo para el buen funcionamiento de la asociación, para todas las operaciones que ejercía requería "visto bueno". La gestión siempre estuvo auditada mensualmente por el directorio, en reuniones ordinarias todos los meses, donde rendía cuenta ítem por ítem, de todos los ingresos y gastos del presupuesto, incluso en aquellos ítems importantes, como por ejemplo: contratación de maquinaria, aportes extraordinarios (no presupuestados) a empresas contratistas, adjudicaciones a empresas, y contratos importantes en general, siempre se nombró "comisiones de 2 o 3 directores"(nombramientos que figuran en varias de las actas), ellos tomaban las decisiones, y la administración era liderada y ejecutada por el gerente general.
+
+Siempre solicitó "Visto bueno" a estos miembros de comisiones de directorio, o bien informó al presidente, respecto a la necesidad de tomar decisiones importantes, y él tomaba la decisión de exponer o no los temas al directorio, dependiendo de si lo consideraba riesgoso o no, dado que en algunos casos de seguro tendría oposición de un par de directores.
+
+- En cuanto a sus funciones en operaciones.
+
+• Anualmente se nombraba una comisión de directorio para participar en el proceso de elección de máquinas.
+
+Una vez seleccionadas las empresas, se revisa diariamente el report, que son visados por una serie de controladores (celador, jefes y subgerentes), para posteriormente informar los avances el directorio.
+
+Siempre eran necesarios los "VB" de jefes de sección y subgerente de operaciones para autorizar pagos de tratos, limpiezas y obras terminadas.
+
+• El Subgerente de operaciones siempre cotizaba los materiales, herramientas, mantenciones de equipos y le informaba a él como también a la subgerente de administración, para efectos de llevar el control presupuestario.
+
+• Para efecto de construcciones de oficinas de Armerillo (2019) y nuevas oficinas de San Clemente (actualmente en desarrollo), se nombró al director tesorero Alfonso Barrientos, para estar a cargo de las cotizaciones y pre-aprobaciones, las cuales se informaban al directorio.
+
+La selección de la empresa constructora la realizaba el directorio. Acá sus funciones eran las de apoyar con información para facilitar la toma de decisiones.
+
+• En cuanto al arreglo y mantención de compuertas autorizaba Cristian Beas, subgerente de operaciones, él solamente daba el "visto bueno" en la medida que se ajustaba a presupuesto.
+
+• Los aportes y anticipos a constructoras era otorgados por el tesorero y el presidente del directorio, y yo daba el "VB" del pago a las constructoras, ajustado a lo aprobado por estos directores.
+
+• Los cheques siempre los firmaba el mismo tesorero y él conjuntamente.
+
+• Recuerda en alguna oportunidad que, el presidente lo autorizó e instruyó para que solicitara una línea eléctrica en el sector de paso Nevado, para solucionar un problema particular de la agrícola e inmobiliaria Chumaco, cuyo administrador es el director tesorero Alfonso Barrientos.
+
+Esto nunca pasó por el directorio, ya que según le indicó el presidente, se prestaría para generar una grave polémica al tener un sentido particular y solo de beneficio al director tesorero. Gonzalo Araya abogado y actual gerente general interino, personalmente utilizó un contacto de él en la CGE, para cambiar el nombre del cliente en la CGE, de Asociación Canal Maule a Agrícola Chumaco.
+
+En video de la reunión de directorio de marzo de 2023 donde se solicitó su salida, se trató un tema muy particular, que tiene relación con una autorización de servidumbre para un proyecto de ampliación de APR, en el sector del Colorado (que está en desarrollo del 2019). En la sesión de directorio el presidente solicitó que nada de esto quedase en acta. Lo anterior, es porque la Asociación Canal Maule, no es dueña de terrenos, solo tiene en algunos tramos servidumbres, por tanto, en la práctica no podría otorgar permisos sobre estos terrenos.
+
+- En cuanto a sus funciones en las negociaciones colectivas.
+
+• Las negociaciones colectivas, se realizan cada dos años, y siempre han estado monitoreadas por el presidente y algún director.
+
+En consecuencia, las negociaciones van de acuerdo a las instrucciones del presidente y apoyadas por el abogado interno. Acá sus funciones solo consisten en las de trasmitirle al sindicato los parámetros que el presidente le indica.
+
+• Respecto de los montos aprobados por la comisión de directorio o bien el directorio en apoyo a proyectos de la ley de riego, su rol consistía en informar de dichos montos a las subgerencias, controlar de acuerdo a presupuesto e informar al directorio de acuerdo avances
+
+Acá, el abogado visaba los contratos entre la Asociación Canal Maule y las constructoras, y su labor consistía en solicitar "VB" al subgerente de operaciones don Cristian Beas, para proceder con los pagos de los aportes, en la medida de los avances.
+
+Tales antecedentes constan en acta de directorio de 23 de febrero de 2023, donde se renueva la comisión revisora de aportes.
+
+- En cuanto a sus funciones en honorarios legales.
+
+• Siempre que llegaba una propuesta de honorarios, sus funciones consistieron en informar al presidente, el cual aceptaba o no la propuesta. En aquellos casos donde un abogado de planta, solicitaba modificación en sus honorarios, o aumento de IPC, yo informaba al presidente, respecto de la existencia y los términos del contrato legal de honorarios con dicho abogado, y solicité el "VB" al presidente.
+
+En su rol de apoyo a la comisión de directores, entregaba análisis e información, para que tanto el presidente como la comisión de directores, negociara con los abogados.
+
+Entre los análisis de costos realizados por él, realizó el cálculo de costos para desarrollar el proyecto de regularización de derechos de agua, el cual fue presentado por el presidente, a la asamblea del 30 de mayo de 2023, siendo aprobado.
+
+• Anualmente las subgerencias de operaciones (Cristian Beas) y de administración y Finanzas (Sandra Sandoval), le presentaban un presupuesto base, el cual posteriormente presentaba a la comisión de directorio, quienes realizaban los ajustes e incluían otros ítems que consideraban relevantes.
+
+• El directorio podía aprobar solicitar anticipos a las Centrales Hidroeléctricas, si lo consideraban necesario.
+
+• En su rol, solicitaba información permanentemente respecto a avances en los tratos de limpieza, construcción de obras civiles, y otras obras necesarias, de manera de informar mensualmente al directorio o a la comisión de directorio. Si era necesario un ajuste, se solicitaba el "VB" del presidente o el director tesorero.
+
+• La comisión de directorio al momento de revisar el presupuesto 2023¬2024, que sería presentado a la asamblea anual a efectuarse el 30 de mayo del 2023, decidido no trasparentar todos los ingresos reales ya conocidos, provenientes de las centrales hidroeléctricas (entre otros ajustes), para así disminuir el presupuesto de ingresos, y evitar que la asamblea, al momento de mostrar dicho presupuesto, solicitase una disminución de las cuotas de riego u otros. Él estaba a cargo solo de informar de este último presupuesto.
+
+- En cuanto a compras y las respectivas órdenes de compra.
+
+• Para las compras existió siempre un protocolo (aparece en una de las actas de directorio). Dichas órdenes, eran firmadas previamente por el subgerente de operaciones (Cristian Beas) y la subgerente de administración y finanzas (Sra. Sandra Sandoval), y solo al final firmaba él, esto último sucedía una vez que se tenía todos los "VB" y/o presupuestos, los cuales eran cuidadosamente revisados por ambas subgerencias.
+
+Es importante recalcar que la Sra. Sandoval era clave, ya que contabilizaba todos los movimientos de la empresa, y dada la confianza que tenía con él, en varias oportunidades le señaló que tanto el presidente, secretario y sobre todo el tesorero eran verdaderos "patrones de fundo", porque se hacía lo que ellos querían, y que lamentablemente debían limitarse a ejecutar. Pese a su rol de controladora de gastos y movimientos contables en general, varias veces estuvo en desacuerdo con alguna instrucción de pago, dada por el tesorero.
+
+· En su gestión administrativa.
+
+• Existió siempre la asesoría de 2 abogados, uno de ellos (Gonzalo Araya) fue contratado hace unos 6 años, entre otras cosas, para redactar, revisar, y dar "VB" a temas internos como: contratos con empresas contratistas, contrataciones y despidos importantes, etc. En el caso del abogado Juan Paulo Soto, prestaba asesoría externa, apoyando al gerente y directorio.
+
+En resumen, ambos abogados según sea el caso a caso, revisaban y daban sus "VB" a los documentos importantes, que tenían o podían tener alguna trascendencia legal, los cuales nunca estuvieron sujetos a su sola disposición.
+
+· En cuanto a la entrega de documentos.
+
+• Frente a las solicitudes de documentos como diferentes certificados, siempre fueron emitidos y autorizados por el abogado interno Gonzalo Araya, y en los otros casos, para dar respuesta o gestionar otro tipo de documentos importantes, los redactaba el abogado externo Juan Paulo Soto.
+
+• Frente a la entrega de documentos importantes, yo informaba siempre a la comisión de directores.
+
+• Frente a solicitudes de directores, siempre yo pedía "VB" al presidente o a algún miembro de la comisión de directorio.
+
+- En cuanto a la contratación de personal.
+
+• La contratación del personal en todos los casos, la evolución y selección estuvo a cargo de las jefaturas directas (ejemplo en caso de contratación de secretaria estuvieron a cargo de la subgerente de administración, Sra. Sandoval).
+
+• En los casos en que algún funcionario solicitara salida negociada a través de un mutuo acuerdo, siempre se le consultó al presidente.
+
+En conclusión: Sus funciones siempre estuvieron supeditadas a las autorizaciones de otras personas, tornándose en la práctica muchas de ellas en administrativas para el buen desempeño de la asociación, sin embargo jamás tuvo libertad para comprometer el patrimonio de la empresa, o contratar o tomar alguna decisión, sin ser consultado o ser autorizado por su superior. Que existe una estructura y una orgánica interna conocida por todos dentro de la asociación del cual dependía completamente mi cargo.
+
+No obstante a lo anterior, cualquier poder que pudo haber conferido el empleador para ejecutar ciertos actos, pues un poder especial (no general) no transforma la naturaleza de las funciones, pues para atender a las facultades de representación aludida por la norma en cuestión, debe atenerse a las facultades naturales del cargo, y, claro es, que sus funciones no conllevan implícita facultad de representación alguna, y como consecuencia no se trata de un cargo de exclusiva confianza o que haga procedente la causal de término del inciso segundo del artículo 161 del Código del trabajo.
+
+Hechos coetáneos al término de la relación laboral.
+
+Durante el desarrollo de la relación laboral todo se desempeñaba con normalidad, salvo algunas irregularidades de la asociación de las cuales nunca estuvo de acuerdo sin embargo por miedo al despido, se mantuve trabajando, cumpliendo órdenes de sus superiores, de la mejor manera posible como comentaba, pero todo cambio tras una acusación infundada que le realizó el director Gustavo Rubio, verbalizada el día 9 de marzo de 2023 de la cual quedó constancia en acta de directorio.
+
+Las imputaciones consistían en que había usado recursos de la asociación en su beneficio, maltrato a secretarias del personal, que planificó trabajos en terreno con Sergio Sánchez (jefe de operaciones) y que luego se le hice llegar el sobre azul, que no había dado respuesta a reclamos a Enrique Oltra , también que el director Alfonso Barrientos lo había acusado en dos ocasiones por negligencias por temas relacionados con el canal escudo de Chile, el mantener saldos muy altos en las cuentas corrientes de la asociación, y no informar de robos en las oficinas de la asociación.
+
+Así, en esta sesión José Manuel Silva presidente de la asociación, planteó que los hechos denunciados por Gustavo Rubio eran graves, y que habría que ver los respaldos, señalando que analizaría el tema.
+
+Alfonso Barrientos comentó que no lo representaba lo indicado por Gustavo Rubio.
+
+En aquella oportunidad, él estaba muy sorprendido, y estaba siendo acusado sin ningún fundamento, acusándosele de hechos absolutamente falsos, lo que desde aquella época acarreó finalmente su despido.
+
+Sin justificación le endosaron conductas que jamás había cometido, afectando su prestigio, su buena reputación o fama. En efecto, perjudicó su prestigio frente a otros pares y subalternos, así como su reputación de buen trabajador, y en la práctica, se vio menoscabado a nivel social o ante terceros.
+
+Así, en junta de directorio de abril de 2023, tomó conocimiento que Gustavo Rubio le entregó antecedentes al presidente sobre la denuncia que había realizado por el uso de maquinarias en su propiedad. El presidente informó a los directores de haber revisado la información y haberse entrevistado incluso con el celador a cargo, llegando a la conclusión que los trabajos beneficiaban a los regantes del sector donde se encontraba la parcela del Señor Lavín quien también era regante, y que por lo tanto no es efectivo lo que había expuesto el Sr. Rubio, y que respecto a las demás acusaciones no aportó ningún antecedente el Sr. Rubio. Pese a lo anterior, él siguió siendo cuestionado.
+
+A pesar que el director Alfonso Barrientos indicó en esa sesión de directorio, que debe dejarse constancia que la investigación (de la cual el no participó, ni tampoco entrego algún descargo) arrojó que los hechos imputados no eran efectivos.
+
+José Manuel Silva presidente indicó en ese directorio, que para tranquilidad de los directores presentes, seguirá analizando el tema, por lo cual no se cerró el tema, y siguió siendo cuestionado y en la mira de todos.
+
+Que finalmente, desde esa acusación se vio afectado en su reputación con sus colegas, hasta que el 27 de junio de 2023 conversó conmigo él el presidente, informándole respecto a la decisión tomada, en cuanto a su desvinculación y nombrando al abogado interno Gonzalo Araya en su cargo.
+
+Término de la relación laboral.
+
+Así las cosas, su jefe directo con fecha 27 de junio de 2023, lo despidió por la causal del inciso segundo del artículo 161 del Código del Trabajo.
+
+Conforme la función antes descrita, no es posible colegir como podría estimarse legítima la aplicación de la causal referida. Sus funciones jamás fueron generales de administración, ni de aquellas que hagan procedente un despido sin indicar los motivos de su desvinculación, pues tal como señala la carta es solo por motivos de jerarquía, sin embargo, no en los términos que señala la norma aludida en la carta, de manera que el despido deberá ser declarado injustificado.
+
+De la sola lectura de la descripción de las labores para las cuales fue contratado y que desarrollaba, y de la carta de despido se podrá establecer como hecho de la causa que, sus funciones siempre estuvieron supeditadas a las autorizaciones de otras personas, realizándose en la práctica muchas de ellas para el buen desarrollo de la asociación, pero jamás tuvo libertad para comprometer el patrimonio de la empresa, o contratar o tomar alguna decisión, sin ser consultado o ser autorizado por su superior, teniendo algunas facultades para el buen funcionamiento de la asociación, pero no un cargo de exclusiva confianza.
+
+En apoyo a lo comentado es del caso mencionar que existe una estructura y orgánica interna, en donde se puede visualizar cuáles son sus reales funciones para la compañía.
+
+Y así, en la práctica no existe ningún antecedente que, le haga entender su despido, dejándolo en completa indefensión para estos efectos, más que exponerle al tribunal que con el envío de la carta y el despido, se materializó y se vulneraron sus derechos fundamentales, especialmente el derecho a la honra, pues los reales motivos, fueron los dichos del director en reunión de la directiva de la asociación, los que vinieron en afectar su trayectoria laboral, materializada con el despido del día 27 de junio de 2023.
+
+Indicios de vulneración de derechos fundamentales.
+
+Cronología de los hechos en virtud del cual se vislumbra indicios suficientes para configurar la vulneración de derechos fundamentales.
+
+1.- Se le hace una acusación con fecha 9 de marzo de 2023 por Gustavo Rubio y la empresa comienza una investigación interna.
+
+2.- Que, no se le informó los parámetros de la investigación.
+
+3.- Que, su ex empleador no le entregó informe completo de denuncia.
+
+4.- Sus superiores jerárquicos actuaron a escondidas, sabiendo que era el principal afectado.
+
+5.- Que, no se le notificó de las conclusiones, la cuales recién tomó conocimiento, 12 de abril de 2023 en sesión de directorio. Que luego de esa época, se continuaron investigaciones y analizando las acusaciones (mayo 2023), a pesar de haberse concluido que los hechos no eran efectivos.
+
+6.- Su ex empleador, ha afectado su honra y buen nombre, procediendo con el despido, en junio de 2023 a través de una carta que oculta los verdaderos motivos.
+
+7.- Que, en la práctica al impactar toda esta situación en su buena imagen, trajo como consecuencia que no encontrara trabajo aún, pues es un hombre con buena trayectoria laboral, pero con 60 años de edad (que pensaba jubilarse en la asociación) que complica más la búsqueda del mismo.
+
+8.- Que, se ve afectada su trayectoria laboral.
+
+9.- Otro indicio, es el contenido mismo de la carta ya que en la práctica no expone ningún hecho, dejándolo en completa indefensión.
+
+De lo descrito, es posible establecer que existen indicios de haberse producido vulneración al derecho a la integridad psíquica y física y a la honra. Ahora en cuanto a la participación de empleador en esta situación, se debe concluir lo siguiente, el menoscabo que padeció al término de la relación laboral, no encuentra explicación lógica, en alguna potestad empresarial regular. Que los hechos coetáneos al despido, y el despido mismo fueron vulneratorios de sus derechos fundamentales, dejándolo en absoluta incertidumbre. Asimismo, aplicando el principio de proporcionalidad y ponderación de derechos involucrados, se colige que, debe ser considerado como máximo bien jurídico protegido el derecho a la vida y la integridad psíquica y física, y su honra, lo que en la especie no acontece.
+
+Daño moral.
+
+Que, es Ingeniero Civil Industrial con más de 30 años de experiencia en cargos de alta responsabilidad y gerenciales, principalmente vinculados a industrias manufactureras, agroindustriales y de riego. Con capacidad de liderar, administrar, tomar decisiones y administrar personal, y el que su ex empleador haya ocultado los verdaderos motivos de su desvinculación lo deja en absoluta indefensión, causándole aún más daño cuando los reales motivos se deben a una acusación realizada por un miembro del directorio. Lo que ha llevado, que su buen nombre, reputación, honor, decoro y vida privada se haya visto afectada frente a los ojos de terceros, sobre todo en la actualidad que es un hombre con más 60 años de edad, que pretendía jubilarse en la asociación, y que en la actualidad no encuentra trabajo, dejándolo en completo desamparo.
+
+Que, todo este problema que se estaba dando en la Asociación Canal Maule, le estaba afectando a aspectos físicos y psicológicos, pues el día 30 de abril de 2023, concurrió solo a urgencias de la Clínica Lircay, pues su familia se encontraba en el norte, lugar en donde lo asistieron y al revisar su cuadro, la doctora se dio cuenta que era por estrés asociado a lo que estaba viviendo en su trabajo, por lo que le indicaron asistir a un especialista.
+
+Le dieron medicamentos que hasta el día de hoy consume, para tratar depresión, ansiedad, tensión nerviosa, trastornos emocionales y sistemas asociados.
+
+De la afectación de mi trayectoria.
+
+El despido y el contenido mismo de la carta de término de trabajo, no deja ver los reales motivos de su desvinculación, ocultándolos, las cuales fueron hechos falsos asociaciones a acusaciones, ensuciado su imagen, su buen nombre para con todos los directivos y presidente de la asociación, así también como a sus subalternos.
+
+Que, las acusaciones han dañado su honra, esto consiste en el concepto que de él tienen los demás miembros de la sociedad en relación con su comportamiento, honestidad, decoro, calidades, condiciones humanas y profesionales, derecho personalísimo que se ve afectado cuando lo despiden argumentando que se trata de una persona de exclusiva confianza, y que no necesitarían indicarle ningún hecho, ocultando sus reales motivos que fueron en descrédito hacia su persona y su trabajo profesional, que distorsionan el concepto público, que se tiene hacia él y que, por lo tanto, tienden a socavar su prestigio y la confianza de sus compañeros, en el entorno social en cuyo medio se relaciona. En efecto, además de ello, todo el equipo tomo conocimiento de su desvinculación en estos términos, pues se sabía que continuarían con investigaciones de las cuales nunca participó, lo cual consta en actas de directorios.
+
+Refiere antecedentes jurídicos respecto de los derechos vulnerados.
+
+Cita normas legales y concluye solicitando tener por interpuesta denuncia por vulneración de derechos con ocasión al despido, daño moral y cobro de prestaciones laborales; en contra de Asociación Canal Maule, Rut: 82.051.900-0, representada legalmente por don José Manuel Silva Hurtado, ya individualizados, someterla a tramitación y acogerla en todas sus partes, aplicar a la denunciada las sanciones establecidas en la ley para tal efecto, proceder según lo establecido en el artículo 495 del Código del Trabajo, enviando copia de la sentencia a la dirección del trabajo para su registro, y acogiendo cada una de las peticiones concretas formuladas en el presente escrito de denuncia y declarar en definitiva que:
+
+1.- Se declare que, la empresa denunciada efectuó un despido vulneratorio y ejerció acciones de vulneración a la vida, integridad física y psíquica consagrada en el artículo 19 n° 1 de la Constitución Política de la República y/o afectación a honra de la persona y su familia consagrada en el artículo 19 N° 4 del mismo cuerpo normativo, en relación con el artículo 485 del Código del Trabajo, o lo que se estime pertinente conforme a derecho.
+
+2.- Se declare, la adopción de medidas concretas de reparación, bajo el apercibimiento señalado en el artículo 492 del Código del Trabajo, incluidas las indemnizaciones que a su juicio procedan:
+
+a) La empresa deberá confeccionar un tríptico informativo a su costo, el que deberá contener información relativa a la importancia y protección legal de los derechos fundamentales de los trabajadores. Tal documento deberá contener el domicilio, teléfono y página web de la Dirección del Trabajo y de sus oficinas a lo largo del país, debiendo distribuirse a todos los trabajadores de la denunciada en el plazo de un mes contado desde que la sentencia definitiva quede ejecutoriada, o lo que se estime pertinente conforme a derecho.
+
+b) La demandada, deberá implementar un curso de capacitación, a su costo, relativo a tutela de derechos fundamentales de los trabajadores, al cual deberán asistir la totalidad de los trabajadores, incluyendo jefaturas. Dicha capacitación deberá ser llevada a cabo en el plazo de dos meses, contados desde que la sentencia adquiera el carácter de ejecutoriada, o lo que se estime pertinente conforme a derecho.
+
+c) La sentencia que acoja la siguiente denuncia, deberá ser publicada en el diario mural de la denunciada en su texto íntegro, sin perjuicio que cualquier trabajador pueda pedir copia de ella a la empresa. Tal publicación deberá ser realizada dentro de la semana siguiente a que la sentencia quede ejecutoriada y deberá mantenerse a los menos 3 meses a la vista de los trabajadores, o lo que se estime pertinente conforme a derecho.
+
+d) La denunciada deberá incluir en el Reglamento Interno de Orden, Higiene y Seguridad, un capítulo relativo a Tutela de Derechos Fundamentales en un plazo máximo de un mes contado desde que la sentencia quede ejecutoriada, o lo que se estime pertinente conforme a derecho.
+
+e) La denunciada deberá pedir disculpas por escrito y públicas en Diario de Circulación Regional o Nacional, al trabajador denunciante vulnerada, en un plazo de 1 semana de ejecutoriada la sentencia definitiva, o lo que se estime pertinente conforme a derecho.
+
+3.- Se declare que, la denunciada deberá remitir copia de la sentencia de autos a la Dirección del Trabajo, para su registro, o lo que se estime pertinente conforme a derecho.
+
+4.- Para efectos del artículo 172 del Código del Trabajo, declarar que mi última remuneración ascendió a la suma de $3.248.053, tope de 90 UF.
+
+Que, su última remuneración para determinar la indemnización del artículo 489 del Código del Trabajo, es de $6.727.153. De este modo y de acuerdo con lo señalado en el artículo 489, inciso tercero del Código del Trabajo, en relación con los artículos 162 y 163 del mismo código, se deberá condenar a la denunciada al pago de las siguientes prestaciones o lo que se estime conforme a derecho:
+
+a) La suma de $73.998.683, a título de indemnización especial establecida en el artículo 489 del Código del Trabajo, equivalente a once remuneraciones mensuales, habida consideración de la entidad de la infracción a los derechos fundamentales denunciados, o en subsidio, la suma menor que se determine, que en todo caso no podrá ser inferior a seis remuneraciones mensuales (monto que corresponde a $40.363.918) o lo que se estime conforme a la prueba de este juicio.
+
+b) Que se condene a la demandada al pago de la sume del 30% de recargo por aplicación del artículo 489 inciso 3° del Código del Trabajo, por la suma $10.718.574, o lo que se estime conforme a derecho.
+
+c) La suma de $15.000.000, por concepto de indemnización por daño moral o la cifra que se determine conforme el mérito del proceso.
+
+d) la suma de $8.161.767, por concepto de devolución del aporte del empleador AFC, o lo que se determine conforme al mérito del proceso.
+
+5.- Que, se condene a la demandada al pago de los conceptos señalados precedentemente con intereses y reajustes conforme lo dispone el artículo 63 del Código del Trabajo, o lo que se estime conforme a derecho.
+
+6.- Que, se condene a la denunciada al pago de costas.
+
+7.- Todo lo que se estime conforme al mérito del proceso.
+
+b) Demanda subsidiaria de despido injustificado. En forma subsidiaria a la demanda de tutela se dedujo demanda por despido injustificado, sustentada en los mismos hechos y antecedentes jurídicos solicitándose en definitiva declarar:
+
+1.- Que el despido del que fue objeto con fecha 27 de junio de 2023, es injustificado, indebido o improcedente, o lo que se estimé pertinente.
+
+2.- Para efectos del artículo 172 del Código del Trabajo, se declare que su última remuneración ascendió a la suma de $3.248.053 (tope 90 uf) o lo que se estime conforme a derecho y deberá condenar a la denunciada al pago de las siguientes prestaciones:
+
+a - Que se condene a la demandada al pago del 30% de recargo que establece el artículo 168 del Código del trabajo, por la suma $10.718.575, o lo que se estime conforme a derecho.
+
+b.- La suma de $15.000.000, por concepto de indemnización por daño moral o la cifra que se determine conforme el mérito del proceso.
+
+c- la suma de $8.161.767, por concepto de devolución del aporte del empleador AFC, o lo que se determine conforme al mérito del proceso.
+
+3.- Que, se condene a la demandada al pago de los conceptos señalados precedentemente con intereses y reajustes conforme lo dispone el artículo 63 del Código del Trabajo, o lo que se estime conforme a derecho.
+
+4.- Que, se condene a la denunciada al pago de costas.
+
+5.- Todo o lo que se estime conforme al mérito del proceso.
+
+Tercero: Contestación de la demanda. Comparece don Carlos Gutiérrez De Torres, abogado, en representación de la Asociación Canal Maule, quien contestando la demanda niega y controvierte en forma expresa todas y cada una de las afirmaciones vertidas en ella, salvo aquellos hechos que sean expresamente reconocidos, solicitando su más absoluto rechazo con expresa condena en costas, señalando.
+
+Es efectivo que el demandante comenzó a prestar servicios para su representada con fecha 01 de octubre de 2012; es efectivo que el cargo que el demandante ocupaba era el de Gerente General; no es efectivo que la última remuneración mensual del demandante para efectos indemnizatorios ascienda a la suma de $6.727.153, sino que debe estarse a la suma de $3.248.053, de acuerdo con lo dispuesto en el artículo 172 del Código del Trabajo; no es efectivo que las labores desempeñadas por el demandante fueran únicamente de administración, o que su cargo no fuera de exclusiva confianza; no es efectivo que su representada haya vulnerado los derechos fundamentales del demandante, y muy especialmente sus derechos a la integridad física y psíquica y a la honra; no es efectivo que existan indicios de que su representada haya vulnerado los derechos fundamentales del demandante; no es efectivo que el despido del Sr. Lavín sea injustificado, indebido o improcedente; no es efectivo que el demandante haya sufrido el daño moral que demanda, así como tampoco la entidad que se le otorga al mismo; no es efectivo que su representada adeude las indemnizaciones y prestaciones pretendidas por el actor en los presentes autos; no es efectivo cualquier otro hecho que no sea reconocido expresamente en el cuerpo del presente escrito.
+
+Previo a contestar derechamente la denuncia y demanda subsidiaria interpuesta en autos, es preciso dar cuenta de los servicios prestados por la Asociación Canal Maule y el equipo que la conforma, antecedentes que se deberán tener presentes al momento de fallar la presente causa.
+
+La Asociación Canal Maule es una Organización de Regantes constituida en 1917, actualmente administrada por un Directorio compuesto por siete miembros reelegibles, el cual permanece vigente por un periodo de un año. Su principal función es captar, conducir y distribuir el recurso hídrico de la zona del Maule, con una superficie aproximada bajo riego, de 60.000 hectáreas.
+
+Los Derechos de Aprovechamiento de los regantes de la Asociación Canal Maule ascienden a un total aproximado de 54, m3/s (54.000 litros por segundo) y se captan en la Bocatoma Armerillo, la cual se ubica a 70 km al Oriente de la ciudad de Talca.
+
+En general, se trata de una de las Asociaciones de Regantes más grandes a nivel nacional, manejando un presupuesto anual cercano a los dos mil millones de pesos chilenos y la cual, en el desarrollo de su giro, tiene directa relación de tipo contractual o legal con otras grandes empresas, de capitales nacionales y/o extranjeros, como hidroeléctricas de embalse, asociaciones gremiales, organismos estatales, etc. Dentro de las cuales se encuentran, por ejemplo, Enel Chile, Colbún S.A, entre otras entidades de importancia a nivel país.
+
+La envergadura de los servicios que desempeña la Asociación Canal Maule, implica la necesidad de contar con una representación de gran importancia, la cual se traduce en el rol que ocupa el Gerente General de la misma, cargo que ocupaba el Sr. Lavín, desempeñando las funciones que serán expuestas a lo largo del presente escrito.
+
+Adicionalmente, y pese a lo indicado, es preciso tener en especial consideración que la orgánica interna de la Asociación cuenta únicamente con una Gerencia General y dos subgerencias (Finanzas y Proyectos), estas últimas subordinadas directamente a las directrices del cargo que ejercía el Sr. Lavín, siendo aquel el cargo más alto dentro de la Asociación y en quien recaían todas las facultades de administración de Canal Maule, tal como será expuesto en lo que sigue.
+
+Como bien ha indicado el Sr. Lavín en su libelo, con fecha 01 de octubre de 2012 suscribió con su representada un contrato de trabajo para desempeñar el cargo de Gerente General, cumpliendo las funciones que se detallan latamente en el siguiente acápite de esta presentación.
+
+En efecto, dicho cargo fue desempeñado hasta el 27 de junio de 2023, fecha en que su representada le comunicó el término del contrato de trabajo que los unía por la causal del artículo 161 inciso segundo del Código del Trabajo, esto es, desahucio escrito del empleador.
+
+Dicha causal de despido está prevista por nuestro legislador para ser invocada en el caso de los trabajadores que tengan poder para representar al empleador, tales como gerentes, subgerentes, agentes o apoderados, siempre que, en todos estos casos, estén dotados, a lo menos, de facultades generales de administración. En el caso que nos ocupa, y tal como será demostrado por esta parte, el Sr. Lavín desempeñaba, en la práctica, el cargo de Gerente General, dotado de facultades generales de administración. Adicionalmente, tal como indica expresamente su contrato de trabajo, su cargo era de exclusiva confianza; lo que hacía aplicable la causal de "desahucio escrito del empleador" que, precisamente, se invocó para su desvinculación.
+
+Así las cosas, negamos desde ya las valerosas afirmaciones del Sr. Lavín al sostener que "en la práctica tenía un rol de administración solo para el buen funcionamiento de la asociación" y que "para todas las operaciones que ejercía requería 'visto bueno', pues la realidad de los hechos es que el Sr. Lavín no solo estaba dotado de poderes generales de administración, sino que, efectivamente, ejercía su cargo cumpliendo con dichas amplias facultades, como será detallado a continuación.
+
+Por otro lado, valga señalar que el Sr. Lavín suscribió un finiquito con su representada con fecha 07 de julio de 2023, en razón del cual aquel recibió de parte de Canal Maule la suma total de $41.456.196. En dicha oportunidad, el demandante hizo expresa reserva de las acciones que en este acto interpone.
+
+Sin embargo, previa a la firma de dicho documento, cabe dar cuenta que el Sr. Lavín participó íntegramente del proceso de redacción y elaboración del mismo, manteniéndose en constante comunicación con su representada, incluso haciendo las observaciones que estimó pertinente, sin hacer referencia en ningún momento a estar en desacuerdo con la causal invocada por la Asociación para proceder con su despido, así como tampoco a los fundamentos de aquella, en los términos que expone luego en su libelo.
+
+Funciones desarrolladas por el demandante.
+
+Las funciones del demandante no se limitaban a conseguir el visto bueno del directorio de su representada, sino que el mismo contaba con amplias y plenas facultades de administración para el ejercicio de su cargo.
+
+Ahora bien, en cuanto al detalle de las funciones que el actor debía realizar para su representada, seguirá el orden propuesto en la demanda para su análisis pormenorizado.
+
+• Funciones en operaciones.
+
+En primer término, llama la atención que el demandante pretenda hacer parecer que los jefes de sección o subgerentes de operaciones y administración tenían mayores poderes de decisión que el Gerente General en los procesos de selección de maquinarias y pagos por servicios, haciendo ver que el rol del actor se habría limitado únicamente a informar al directorio de los avances en dicha materia.
+
+Lo anterior es falso. En efecto, era el demandante -en su rol de Gerente General- quien autorizaba en última instancia la selección de un determinado proveedor y la realización de los pagos relacionados con los procesos de gestión propios de la Asociación.
+
+Luego, en cuanto a la construcción de las oficinas de Armerillo, valga hacer presente que las obras en cuestión son de orden mayor, involucrando cifras cercanas a un millón de dólares, por lo que aquellas corresponden a una preocupación principal para su representada. En este sentido, atendidas las características de Canal Maule, en cuanto a su reducida orgánica gerencial, resulta del todo lógico que la realización de dichas obras involucrara la participación de parte del directorio de la asociación, y es en aquel marco en el que se involucra el Sr. Alfonso Barrientos. Sin embargo, valga hacer presente que el Sr. Barrientos no tiene facultades para comprometer individualmente el patrimonio de su representada, sino que para aquello requería la concurrencia de la voluntad y firma del demandante.
+
+Por otra parte, en cuanto al arreglo y mantención de compuertas y aportes y anticipos a constructoras, señala -nuevamente- que su rol se limitaba a dar el visto bueno (en adelante, "VaBa") en la medida que el gasto se ajustaba al presupuesto.
+
+Sin perjuicio de la utilización despectiva del concepto de "visto bueno", lo cierto es que el rol del demandante era autorizar aquellos pagos, en otras palabras, si el demandante no otorgaba su VBBB, aquellos pagos no eran procesados ni realizados. Es decir, el demandante era el encargado de comprometer y disponer del patrimonio de la Asociación, pues era aquel quien autorizaba la realización de los pagos respectivos. Sin embargo, si se considerase que aquello no es una facultad de exclusiva confianza, simplemente dicha calificación quedaría vacía de contenido.
+
+En cuanto a la suscripción de cheques, efectivamente aquella se debía realizar previa firma del demandante y el tesorero de la Asociación, tal como se indica en las respectivas escrituras de poderes, lo que nuevamente da cuenta de las facultades y confianza depositada en el Sr. Lavín.
+
+Ahora bien, sobre el mismo punto, olvida mencionar el demandante que aquel, actuando individualmente, era el encargado de autorizar todas las transferencias bancarias realizadas por la Asociación, correspondientes a pagos de diversas índoles, como pagos de proveedores, gastos imprevistos, pagos urgentes, etc.. En este sentido, la realización de transferencias bancarias por nómina dependía en su integridad de la decisión y acción del Sr. Lavín, quien era el único responsable ante el banco de la clave "Pinpass" Bancaria1. Valga lo indicado para ratificar las funciones de exclusiva confianza realizadas por el demandante.
+
+Finalmente, respecto de lo indicado por el demandante sobre la solicitud de una línea eléctrica y la autorización de una servidumbre, valga hacer presente que aquellas nada tienen que ver con los hechos denunciados por el actor, así como tampoco con el despido de éste. Sin perjuicio de lo indicado, valga aclarar que lo que realmente ocurrió es que el Sr. Lavín, en razón, lógicamente, del cargo de Gerente General que ocupaba en la Asociación, le instruyó al Sr. Gonzalo Araya que realizara las gestiones que detalla en su libelo, lo que este último efectivamente realizó, lo que le valió posteriormente las felicitaciones del Sr. Lavín, tal como se acreditará con los correos correspondientes. Lo anterior, no sólo grafica la jerarquía del Sr. Lavín sobre el Sr. Araya y la subordinación de este último, sino que también da cuenta de lo acomodaticio del relato del demandante y como aquel pretende doblar la realidad en su favor.
+
+• Funciones en las negociaciones colectivas.
+
+Sobre este punto el demandante señala que sus funciones habrían consistido en transmitir al sindicato los parámetros que le eran indicados por el Presidente del Directorio.
+
+Olvida el actor señalar que desde el contrato colectivo correspondiente al período 2013-2015 ha sido el Sr. Lavín quien comparece suscribiendo -en representación de la Asociación- los respectivos contratos colectivos. Es más, desde 2017 los contratos colectivos han sido suscritos únicamente por el demandante en representación de la Asociación, sin la comparecencia de ninguna otra persona por parte de aquella.
+
+Por lo demás, valga señalar que los contratos suscritos implican aumentos o reajustes de remuneraciones, otorgamiento de bonos, aguinaldos y permisos, es decir -nuevamente- el patrimonio de la Asociación fue comprometido únicamente bajo la firma del demandante.
+
+Lo anterior no es sino la manifestación de las facultades que le fueran conferidas al demandante, en relación con la sesión del directorio de fecha 07 de junio de 2012, reducida a escritura pública el 08 de junio de 2012 ante el Notario de Talca, don Carlos Hormazábal Troncoso, en su punto I. g), la que será incorporada en la oportunidad procesal correspondiente.
+
+• Funciones en aporte de proyectos y gestión administrativa.
+
+Sobre este particular, nuevamente el demandante olvida señalar que dentro de sus funciones -como Gerente General- está la de autorizar en, último término, la realización de los gastos o pagos que correspondan, de acuerdo con la ejecución del presupuesto por aquel diseñado.
+
+Luego, en cuanto a la aprobación entregada por los abogados respectivos a los contratos o textos legales, valga señalar que aquella aprobación decía relación únicamente con los términos legales de dichos documentos, más no con el contenido técnico de los mismos, el que era definido y requerido por el demandante. Es decir, los términos y condiciones esenciales del contrato que se tratase era definido por el actor, y la labor de los abogados se limitaba a asesorar al demandante para que dichos términos y condiciones no infringieran la legislación vigente, así como también para el debido resguardo de las responsabilidades de la Asociación, y del propio actor.
+
+• Funciones en presupuestos y honorarios legales.
+
+En primer término, debemos indicar que efectivamente las subgerencias de operaciones y administración y finanzas entregaban al demandante una propuesta con el presupuesto que aquellas estimaban necesario para la anualidad correspondiente.
+
+Sin embargo, no es efectivo que el rol del actor se limitase a transmitir aquella propuesta al Directorio, sino que, por el contrario -y tal como corresponde a un cargo de la envergadura de una gerencia general- el Sr. Lavín procedía a la detallada revisión del presupuesto presentado, y a su ajuste, partida por partida. En este contexto, el demandante podía reducir, aumentar o eliminar el gasto proyectado en un concepto particular.
+
+Lo anterior es de toda lógica, dado que como se comprenderá, cualquier documento o propuesta que el demandante presentase al Directorio de la Asociación sobre esta materia, suponía el consentimiento y aprobación del Sr. Lavín.
+
+Adicionalmente, debe indicar que el presupuesto de su representada alcanza una suma cercana a los $2.000 millones de pesos, por lo que resulta simplemente absurdo pretender que la proyección y disposición de aquel monto quedara entregada a las subgerencias de la empresa, sin participación alguna de la máxima autoridad de la Asociación, ejercida por el Sr. Lavín, en su calidad de Gerente General.
+
+En suma, el demandante participaba activamente de la elaboración del presupuesto de la Asociación, lo que implica que aquel definía en qué conceptos y qué monto se gastaría en la anualidad venidera. Luego, tal como la propia demanda reconoce, el demandante tenía dentro de sus labores la obligación de hacer el seguimiento a la ejecución presupuestaria, con la finalidad de que el gasto real no superase a aquel proyectado, y es en dicho contexto que el demandante reconoce haber solicitado información periódica sobre los avances de las obras ejecutadas para la Asociación.
+
+Así las cosas, sobre este particular, existen claros antecedentes -en la propia demanda- respecto de las facultades de administración del demandante en representación de Canal Maule, y de la confianza que era depositada por aquella en el actor.
+
+Finalmente, sobre los hechos indicados por el demandante en cuanto al presupuesto correspondiente a la anualidad 2023-2024, esta parte los niega y controvierte expresamente, sin perjuicio de que aquellos no dicen relación con la denuncia de autos, ni con los motivos del despido.
+
+• Funciones en cuanto a compras.
+
+Nuevamente el demandante pretende hacer parecer que la decisión de compra y la autorización de la utilización de fondos era tomada por el subgerente de operaciones y subgerente de administración y finanzas, situación que, como ya hemos señalado, no es efectiva.
+
+Por otra parte, llama la atención la liviandad con que el actor expresa "solo al final firmaba yo". En efecto, el demandante firmaba al final, dado que era su firma -y no otra- era la que determinaba la aprobación de un gasto o pago, es decir, de no contar con su autorización ningún pago era realizado por las subgerencias señaladas.
+
+En este sentido, no es baladí lo señalado por el actor en cuanto al orden de las firmas que autorizaban algún pago, pues aquella da cuenta precisamente de la estructura de los poderes existentes en la Asociación, siendo la última y decidora palabra la del Sr. Lavín, en su rol de Gerente General.
+
+Ahora bien, respecto de las afirmaciones que el demandante realiza sobre los dichos de la Sra. Sandoval, lo cierto es que nada de aquello consta a su representada, por lo que no puede sino controvertir su efectividad. Sin perjuicio de lo indicado, valga recordar que el Tesorero de la Asociación no posee facultad alguna para - actuando individualmente- autorizar o incurrir en algún gasto a nombre de Canal Maule, toda vez que para ello requería siempre de la firma del actor, tal como el mismo reconoce en la página 8 de su demanda.
+
+• Funciones en cuanto a la entrega de documentos.
+
+En cuanto a la entrega de documentos, al demandante -en su rol de representante de la Asociación- le era requerida la emisión de diversos documentos por parte de socios de la Asociación como también por parte de diversos organismos, todos los cuales eran debidamente emitidos y suscritos por aquel en la representación señalada.
+
+En este sentido, carece de todo sustento lo señalado por el demandante en cuanto a que aquel se habría limitado a solicitar el visto bueno del directorio o de los abogados que asesoraban a la Asociación sobre esta materia.
+
+• Funciones en cuanto a la contratación de personal.
+
+En primer término, no es efectivo que la contratación de personal estuviese únicamente centrada en las jefaturas correspondientes, por el contrario, el demandante tenía plenos poderes durante el proceso de contratación, tomando la decisión de contratar o despedir a determinados trabajadores.
+
+Tanto es así, que, en determinadas oportunidades, y pese a la selección de personal realizada por los subgerentes, el Sr. Lavín decidía -por si y ante si- no contratar a la persona seleccionada, sino a alguien diverso.
+
+Lo anterior, no es más que la concreción táctica de las facultades otorgadas al demandante, en relación con la sesión del directorio de fecha 07 de junio de 2012, reducida a escritura pública el 08 de junio de 2012 ante el Notario de Talca, don Carlos Hormazábal Troncoso, en donde se señala expresamente que el demandante -en su calidad de Gerente General y actuando individualmente- podía "Contratar al personal de la empresa y fijar sus remuneraciones u honorarios, atribuciones [...] pudiendo celebrar al efecto contratos de trabajo, individuales o colectivos y convenios colectivos; [...] desahuciar o poner término en cualquier forma a los contratos celebrados conforme a esta letra, pudiendo firmar actas de avenimiento y finiquitos".
+
+Por lo demás, el demandante suscribía los contratos de trabajo, cartas de despido, finiquitos y demás documentaciones de índole laboral de los trabajadores de la Asociación.
+
+En este contexto, no es efectivo lo indicado por el Sr. Lavín, en cuanto a que las decisiones de orden laboral habrían sido tomadas por las jefaturas directas, correspondiéndole a aquel solo un rol de comunicador de información al Directorio.
+
+En suma, y tal como se puede apreciar, las funciones desarrolladas por el demandante distan mucho de un cargo meramente tramitador, sino que se trata de la máxima autoridad de la Asociación, tanto de cara a sus trabajadores, como a sus asociados, en quien recaía la mayor cantidad de decisiones tomadas por la Asociación, pudiendo comprometer el patrimonio de ésta en diversas instancias.
+
+En este contexto, resulta sumamente extraña la intención del actor de aparentar que sus actuaciones se encuentran subyugadas al parecer del Presidente del Directorio, sindicándolo a aquel como su jefatura, en circunstancias que de acuerdo con lo señalado en las actas de constitución de Directorio, en relación con la sesión del directorio de fecha 07 de junio de 2012, reducida a escritura pública el 08 de junio de 2012 ante el Notario de Talca, don Carlos Hormazábal Troncoso, el Sr. Lavín tenía, a lo menos, idénticas facultades que el Presidente del Directorio.
+
+Adicionalmente, y conforme señala la escritura antes individualizada, el Gerente General actuando en forma conjunta con el Presidente del Directorio, o cualquiera de ellos con el Tesorero de aquel, tienen una serie de otras facultades de administración financiera que se detallan en la escritura comentada, la que será incorporada en la oportunidad procesal correspondiente. Por lo demás, hay que señalar que aquellas eran efectivamente realizadas y ejercidas por el demandante, tanto es así que el propio actor así lo reconoce en su libelo pretensor.
+
+Así las cosas, y conforme a las máximas de la experiencia, carece de todo sentido que el trabajador subordinado tenga idénticas atribuciones y facultades que su empleador. Lo anterior, solo es posible en la medida que nos encontremos ante un cargo de la máxima confianza y la más alta jerarquía, cual es el caso del cargo de Gerente General desarrollado por el demandante.
+
+Ahora bien, los poderes de representación del Sr. Lavín no se agotan solo en la descripción efectuada, sino que aquel ejercía dichas prerrogativas día a día con amplias facultades, tanto es así que aquel:
+
+- Actuando personal e individualmente otorgó diversos mandatos judiciales en favor de distintos abogados.
+
+- Actuando personal e individualmente compareció en causas judiciales en representación de la demanda contestando la demanda y siendo citado a absolver posiciones en su calidad de representante legal de la Asociación Canal Maule.
+
+- Actuando personal e individualmente representó a la Asociación ante diversas entidades, tanto privados como estatales.
+
+- Actuando personal e individualmente el demandante suscribió diversos contratos en representación de la Asociación, tales como: reconocimientos de deudas, contratos de prestación de servicios, convenios de abastecimiento de aguas, compraventas de acciones, contratos de construcción a suma alzada, endosos de efectos bancarios, y un sinfín de actos que serán debidamente acompañados en la etapa procesal correspondiente.
+
+Así las cosas, conforme se puede apreciar y se acreditará en la oportunidad procesal correspondiente, el demandante detentaba un cargo de confianza al interior de la Asociación, y el mismo se encontraba -además- dotado de plenas facultades de administración. Tanto es así que el propio demandante lo expone de esta forma en su perfil de Linkedin.
+
+Contesta la denuncia de vulneración de derechos fundamentales.
+
+-Inexistencia de la vulneración al derecho a la integridad física y psíquica (art. 19 N°1 de la Constitución Política de la República).
+
+Para que nos encontremos frente a una vulneración al derecho a la integridad física o psíquica, necesariamente aquella vulneración debe manifestarse y generar alguna perturbación desproporcionada en el trabajador, situación que en los presentes autos no ha ocurrido.
+
+El libelo no expresa antecedente concreto alguno que permita fundar sus alegaciones, más allá de simplemente afirmar la afectación.
+
+-Inexistencia de vulneración al derecho a la honra (art. 19 N°4 de la Constitución Política de la República).
+
+El Sr. Lavín circunscribe dicha afirmación en relación con la situación que describe haber tenido lugar el 09 de marzo de 2023 durante una sesión de directorio, oportunidad en que uno de los directores, el Sr. Gustavo Rubio, afirmó haber tomado conocimiento de una serie de hechos que estimaba pertinente investigar.
+
+Como el propio actor afirma, dicha situación quedó constatada en el acta de la sesión de directorio referida. Pues bien, si se analiza su contenido, es fácilmente verificable que es efectivo que en dicha ocasión el Sr. Gustavo Rubio hizo efectivas una serie de afirmaciones respecto del Sr. Lavín. Sin embargo, es categórico en sostener que dicha situación se mantuvo en todo momento bajo estricta reserva por parte del resto del Directorio, no siendo efectivo que se haya afectado el prestigio del Sr. Lavín o que haya afectado su situación dentro de la Asociación.
+
+Es más, un antecedente que se debe tener presente es que, como consta en el acta de la sesión de Directorio del 09 de marzo de 2023, tras las afirmaciones del Sr. Rubio, fue el mismo Presidente del Directorio, el Sr. José Manuel Silva, quien afirmó que dichas acusaciones "eran graves", por lo que habría que "ver los respaldos para ello " y que "él analizará este tema".
+
+En la misma línea, otro de los directores presentes en dicha instancia, el Sr. Alfonso Barrientos, afirmó que "lo que ha expresado el Sr. Gustavo Rubio a él no lo interpreta ni representa". Finalmente, reitera el Presidente que "se deben ver qué antecedentes tiene el sr. Rubio para hacer estas graves acusaciones, e informar al directorio. Esto debe resolverse en forma rápida".
+
+Así las cosas, no es efectivo que la situación ocurrida el 09 de marzo de 2023 haya afectado en forma alguna la garantía fundamental de la honra del Sr. Lavín. De hecho, muy por el contrario, el Directorio prestó el soporte necesario al propio demandante, compartiendo que las afirmaciones esgrimidas por el Sr. Rubio detentaban una gravedad que hacía necesaria la presentación de antecedentes que fundaran dichas afirmaciones, lo que nunca ocurrió.
+
+Finalmente, es importante tener en consideración otro antecedente que desmiente totalmente lo sostenido por el Sr. Lavín en su libelo. En efecto, existe una declaración del Directorio de la Asociación Canal Maule plasmada en escritura pública de fecha 05 de julio de 2023, en la que se constata la salida del demandante en términos del todo favorables para el mismo. Así, se lee: "1.2.- Por otra parte, el presidente informa que producto de una larga y buena conversación con don Julio Lavín Retamal, se tomó la decisión de que éste último dejara de trabajar en la Asociación Canal Maule. Señala que se conversó en buenos términos, y se le agradece la labor que desarrolló por más de 10 años. Señala que se cumplió una etapa y que ahora el canal está emprendiendo nuevos desafíos que hacen necesario crear nuevas estructuras. La labor que desarrolló don Julio Lavín fue una buena labor, y se le agradece todo el tiempo dedicado a esta institución".
+
+Cada uno de los supuestos indicios esgrimidos por el Sr. Lavín no son tales, no siendo efectivas las alegaciones que usa en su favor para fundar la vulneración de derechos fundamentales esgrimidos.
+
+En subsidio, para el improbable caso de que se estime que existen indicios suficientes de la vulneración de derechos fundamentales sostenida por el Sr. Lavín, es preciso hacer una serie de afirmaciones que dan cuenta del real fundamento de la decisión adoptada por su representada de poner término a la relación laboral que la unía con el demandante.
+
+Primeramente, como se ha referido, el despido del Sr. Lavín no contempla en ningún caso "motivos ocultos" como aquél pretende afirmar en su denuncia. Así las cosas, si bien el actor pretende relacionar la situación ocurrida en Directorio el 09 de marzo de 2023, lo cierto es que existen contundentes antecedentes que dan cuenta que el motivo del despido del Sr. Lavín no se vincula con ello en sentido alguno.
+
+Lo que ocurrió, es que el despido del Sr. Lavín se originó en el contexto de un cambio de enfoque en el perfil de quien ocupa el cargo de Gerente General dentro de la Asociación Canal Maule. En efecto, como consta en escritura pública del 05 de julio de 2023: "1.2.- Por otra parte, el presidente informa que producto de una larga y buena conversación con don Julio Lavín Retamal, se tomó la decisión de que éste último dejara de trabajar en la Asociación Canal Maule. Señala que se conversó en buenos términos, y se le agradece la labor que desarrolló por más de 10 años. Señala que se cumplió una etapa y que ahora el canal está emprendiendo nuevos desafíos que hacen necesario crear nuevas estructuras. La labor que desarrolló don Julio Lavín fue una buena labor, y se le agradece todo el tiempo dedicado a esta institución".
+
+Por lo tanto, teniendo en consideración lo afirmado por esta parte y cómo quedará patente de la prueba que esta parte aporte en la oportunidad procesal correspondiente, la decisión de desvinculación del Sr. Lavín en ningún caso se enmarca en una situación vulneratoria de sus derechos fundamentales, ni mucho menos en una decisión fundada en afirmaciones esgrimidas en su contra. Por el contrario, como será desarrollado en lo sucesivo, el despido del Sr. Lavín se ajusta del todo a derecho, en atención al cargo de Gerente General que ocupaba en la Asociación Canal Maule.
+
+Alcances de la causal invocada. Desahucio.
+
+Como fuera expuesto, el término de la relación laboral con el demandante se produjo el día 27 de junio de 2023, dándose aviso al demandante y en pleno cumplimiento de las formalidades legales. En dicho aviso, que podrá ser analizado en la oportunidad procesal correspondiente, se refirió, en lo pertinente:
+
+Esta medida se ampara en lo dispuesto en el art. 161 inciso 2° del C. del Trabajo, precepto legal que dispone que el contrato podrá terminar, tratándose de trabajadores de su condición jerárquica, por desahucio, con un aviso de 30 de días de anticipación o mediante el pago de una indemnización sustitutiva del aviso previo, equivalente a la última remuneración mensual, que es la opción de la empresa hace valer en este acto".
+
+Referido aquello, se deberá tener presente que, de acuerdo con lo ya expresado y como se ha profundizado en el acápite "Funciones desarrolladas por el demandante", la aplicación de la referida causal resulta procedente y ajustada a derecho, razón por la cual se traduce en inviable la imposición de la sanción de recargo pretendida por el señor Lavín.
+
+Refiere antecedentes jurídicos sobre la causal y lo relaciona con las funciones gerenciales del demandante, concluyendo que el despido del señor Lavín se encuentra plenamente ajustado a derecho, debiendo ser rechazada la demanda en todas sus partes con expresa condenación en costas, siendo improcedente restituir lo descontado por concepto de seguro de cesantía, por ajustarse a la normativa legal.
+
+Respecto de la pretensión esgrimida por el actor en cuanto a recibir una indemnización de perjuicios por daño moral, es categórico en afirmar que dicha pretensión resulta del todo improcedente.
+
+Lo anterior, primeramente, atendido que el daño moral y la tutela de derechos fundamentales se fundan en los mismos hechos, por lo que, en el evento de condenarse a mi representada a ambos conceptos por una misma afectación, se le estaría sancionando dos veces por un mismo hecho, lo que constituye una vulneración al principio constitucional del non bis in ídem.
+
+Cuarto: Actuaciones procesales. El 18 de octubre de 2023 y el 23 de octubre de 2023 se llevó a efecto la audiencia preparatoria, en la que llamadas las partes en gesto de conciliación, esta no se produjo. Acto seguido se recibió la causa a prueba dictándose el correspondiente auto de prueba.
+
+El 19 de enero de 2024 y el 8 de mayo de 2024 se llevó a efecto la audiencia de juicio, incorporándose la prueba rendida por las partes, quedando la causa en estado de fallo.
+
+Se fijó el día 31 de mayo de 2024 para la actuación de notificación de la sentencia.
+
+Quinto: Prueba de la parte demandante. Que la parte demandante en la audiencia de juicio incorporó en forma legal los siguientes medios de prueba.
+
+Prueba documental.
+
+1. Contrato de trabajo de Julio Lavín Retamal, con fecha 1 de octubre de 2012.
+
+2. Carta de término dirigida a Julio Lavín Retamal, con fecha 27 de junio de 2023.
+
+3. Currículo de Julio Lavín Retamal, con experiencia profesional.
+
+4. Finiquito de Julio Lavín Retamal de 30 de junio de 2023. Con reserva de derechos.
+
+5. Liquidación de marzo de 2023 a nombre de Julio Lavín Retamal.
+
+6. Acta de sesión de directorio de Asociación Canal Maule de 11 de junio de 2020.
+
+7. Set de 2 cadenas de correos de Cristian Beas para Sandra Sandoval y julio Lavín, sobre licitación maquinaria 2022-2023, de 21 de julio de 2022 y 2 de septiembre de 2022.
+
+8. Set de cadenas de correos de Cristian Beas para Sandra Sandoval y Julio Lavín, sobre detalles de obras ejecutadas por don Gabino Neira, de fecha 7 de septiembre de 2022.
+
+9. Set de dos correos electrónicos de Cristian Beas a Ana Faúndez sobre obras a facturar de septiembre a maestro Sr. Pablo Díaz de 7 de septiembre de 2022.
+
+10. Set de siete correos electrónicos de: a. Cristian Beas para Sandra Sandoval con copia Julio Lavín sobre trabajo realizado bajo las 25 acciones para pago. b. Juan Carlos Valladares para Cristian Beas, Sandra Sandoval, Julio Lavín sobre trato de 4 de julio de 2022. c. Julio Lavín para Cristian Beas sobre canales terminados de 1 de julio de 2022. d. Cristian Beas para Sandra Sandoval con copia a Julio Lavín reenviando cotización geomembranas de 2 de septiembre de 2022. e. Cristian Beas para Sergio Sánchez con copia a Sandra Sandoval y Julio Lavín sobre cotizar pulverizadoras de 22 de septiembre de 2022. f. Cristian Beas para Sandra Sandoval y Julio Lavín con copia a Sandra Sandoval y Yerko Amaro sobre presupuesto mecánico de 23 de junio de 2023. g. Cristian Beas para prodalam con copia a Sandra Sandoval, Yerko Amaro y Julio Lavín sobre cotización de 19 de mayo de 2023.
+
+11. Set de tres correos electrónicos de: a. Julio Lavín para Gonzalo Araya sobre anticipo de Sr. Ricardo González de 24 de octubre de 2023. b. Julio Lavín para Sandra Sandoval sobre anticipo de Sr. Ricardo González de 24 de octubre de 2023 c. Julio Lavín para Alfonso Barrientos y Sandra Sandoval sobre mobiliario Armerillo de 10 de marzo de 2020 (con cadena de correos de Alfonso Barrientos).
+
+12. Set de cinco correos electrónicos de: a. Cristian Maturana para Julio Lavín sobre cuadro comparativo de constructoras entre 11 y 12 de abril de 2023. b. Benjamín Gómez para Julio Lavín sobre contrato tipo de 21 de abril de 2023. c. Gonzalo Araya para Julio Lavín con Copia a Sandra Sandoval y Cristian Beas sobre contrato tipo de 21 y 25 de abril de 2023. d. Julio Lavín para Juan Soto sobre contrato tipo de 25 de abril de 2023. e. Dos correos entre Alfonzo Barrientos para Julio Lavín sobre presupuesto de obra (el cual viene con cadena de correos de Manuel Parot y Carta dirigida a Alfonso Barrientos) de fechas 10 de septiembre de 2019.
+
+13. Set de tres correos electrónicos de: a. Alfonso Barrientos para Sandra Sandoval y Julio Lavín sobre factura N° 10 venta a Canal Maule (con respectiva Facturas) de 16 de agosto de 2022. b. Alfonso Barrientos para Rafael Rivera con copia a Carlos Moreno, Julio Lavín y Sandra Sandoval sobre presupuesto eléctrico y de iluminación de fecha 7 de septiembre de 2022 (con cadena de 2 correos y carta dirigida a Alfonso Barrientos) c. Julio Lavín para RCCC.ARG con copia a Cristian Beas, Sandra Sandoval sobre análisis de trabajados contratados para reparar la zona de la compuerta del Bramadero de fecha 19 de julio de 2021 (arrastra otro correo enviado por Cristian Beas a Julio Lavín). Sobre los vistos buenos en desempeño de funciones.
+
+14. Set de seis correos electrónicos de: a. Gonzalo Araya para Julio Lavín y Sandra Sandoval con copia a Cristian sobre compromiso entre ACM y CHUMACO de 19 de junio de 2023. b. Julio Lavín para Alfonso Barrientos con Copia a Gonzalo Araya de 22 de febrero de 2023. c. José Manuel Silva para Julio Lavín de 21 de diciembre de 2020 (arrastra otro correo enviado por Alfonso Barrientos). d. Julio Lavín para Alfonso Barrientos y Enrique Oltra con copia a Cristian Beas y Gonzalo Araya sobre solicitud de autorización para instalación de cañería agua potable de 9 de agosto de 2019. e. Julio Lavín para Sandra Sandoval con Copia Alfonso Barrientos sobre visto bueno de orden de compra y anticipo proyecto centenario de fecha 20 de marzo de 2023 (arrastra cadena de 3 correos electrónicos sobre orden de compra). f. José Manuel para Julio Lavín con copia a Alfonso Barrientos, Sandra Sandoval y Cristian Beas sobre aporte a proyecto Canal Caracol de fecha 20 de mayo de 2021 (arrastra correo de Julio Lavín con solicitud de VB para cancelar el aporte).
+
+15. Set de cuatro correos electrónicos de: a. Julio Lavín para Cristian Beas con Copia Sandra Sandoval sobre aporte proyectos ley de riego de 30 de noviembre de 2021 (arrastra correo de Julio Lavín). b. Julio Lavín con Cristian Beas con copia a Sandra Sandoval sobre liquidación de aporte a constructoras de 30 de noviembre de 2021. c. Julio Lavín para Cristian Beas con copia a Gonzalo Araya y Sandra Sandoval sobre visto bueno de Contrato Maule Bajo de 27 de diciembre de 2021 (arrastra cadena de 2 correos con 2 cotizaciones). d. Julio Lavín para Cristian Beas sobre revisión de trabajos realizados en predio Sr. Pinochet de 17 de octubre de 2022 (arrastra correo de Andrés González con Planilla de gastos).
+
+16. Set de cinco correos electrónicos de: a. Julio Lavín para José Silva sobre visto bueno de boleta de honorarios de 8 de enero de 2020 (arrastra correo de Patricio Aburto con la respectiva Boleta). b. Cadena de 4 correos Julio Lavín para José Manuel y entre Juan Soto Garcés y Julio Lavín sobre definir honorarios entre el 7 al 10 de enero de 2022. c. Julio Lavín para José Manuel sobre contrato de honorarios de 30 de abril de 2021 (arrastra cadena de correos (4) y el respectivo contrato de Honorarios de Gonzalo Araya.) d. Julio Lavín para José Manuel con copia a Jorge Aguirre sobre visto bueno de propuesta de trabajo y contrato de honorarios corregidos de 11 de junio de 2021 (arrastra correo de Juan Soto Garcés). e. Jorge Aguirre para Julio Lavín Alfonso Barrientos con copia a José Manuel respecto de propuesta de honorarios enviada a la JVRM de 31 de agosto de 2022 (arrastra correo de Julio Lavín a José Manuel sobre propuesta de honorarios).
+
+17. Correo electrónico de Julio Lavín para José Manuel con copia A Alfonso Barrientos sobre presupuesto 2022-2023.
+
+18. Acta de sesión de directorio de Asociación Canal Maule, sobre estado de los anticipos que ha hecho Pehuenche S.A. de 9 de enero de 2020.
+
+19. Correo electrónico de Julio Lavín para Sandra Sandoval sobre presupuesto 2023- 2024 de fecha 10 de mayo de 2023 (arrastra correo enviado por Cristian Beas y el presupuesto consolidado).
+
+20. Cadena de correos de Julio Lavín para Miguel Ángel con copia a Andrés Alegría, Sandra Sandoval, Adrián Guzmán, Fenick Muñoz, Alfonso José, Pedro Lorca, Javier Saldías, Claudio Helfmann y Cristian Beas sobre convenido En el periodo junio 2022 a noviembre 2022 de fecha 20 de abril de 2023 (arrastra 3 correos electrónicos.) Sobres los vistos buenos de aportes y anticipos en el desempeño de funciones.
+
+21. Set de tres correos electrónicos de: a. Julio Lavín para José Manuel Silva sobre derrumbe de 29 de septiembre de 2020 (arrastra 2 correos entre Julio Lavín y José Manuel, y entre David Ayala y julio Lavín). b. Julio Lavín para Silva Hurtado con copia Sandra Sandoval sobre forma de pago proyectos telemetría de 11 de enero de 2020 (arrastra correo electrónico dirigido a Julio Lavín). c. Julio Lavín para José Manuel sobre Consulta de anticipo adicional de 27 de agosto de 2021 (arrastra correo electrónico enviado por riegos a Julio Lavín) Sobre consultas asesores y entrega de documentos específicos.
+
+22. Set de cuatro correos electrónicos de: a. Julio Lavín para Juan Soto Garcés y Gonzalo Araya sobre solicitud de contrato abogado José Eduardo González de 16 septiembre de 2021 (arrastra correo electrónico enviada a María Paz). b. Julio Lavín para Gonzalo Araya sobre visto bueno de cartas de fecha 18 de diciembre de 2019 (arrastra correo electrónico enviado por Gonzalo Araya). c. Julio Lavín para Alfonso Barrientos sobre DICON de fecha 20 de abril de 2023. d. Cadena de 2 correos electrónicos de Juan Paulo Soto para Julio Lavín sobre escrito DGA y respectivo envió de fecha 20 y 21 de abril de 2023.
+
+23. Correo electrónico de Julio Lavín para Enrique Oltra Donaire de 13 de febrero de 2023 (arrastra correo electrónico enviado por Enrique Oltra Donaire).
+
+24. Correo electrónico de Julio Lavín para Claudio González sobre petición información de posible presupuesto 2019-2020 de fecha 28 de marzo de 2019.
+
+25. Correo electrónico de Julio Lavín para Sandra Sandoval sobre solicitud de fecha 20 de enero de 2022 (arrastra correo enviado por Julio Lavín a Miguel de la fuente). Sobre solicitud de contratación de personal.
+
+26. Correo electrónico de Julio Lavín para Cristian Beas sobre solicitud de contratación de personal de 31 de enero de 2022 (arrastra cadena de 2 correos enviados por Marcela Ramírez).
+
+27. Correo electrónico de Julio Lavín para Gonzalo Araya sobre CVS Técnico Jurídico de 19 de junio de 2023 (arrastra correo electrónico de Gonzalo Araya).
+
+28. Correo electrónico de Julio Lavín para José Manuel Silva sobre situación de celador Julio Herrera y cálculo de finiquito de 22 de octubre de 2020.
+
+29. Correo electrónico de Julio Lavín para Jorge Aguirre sobre contrato última versión de fecha 19 de abril de 2022 (arrastra contrato de prestación de servicios y honorarios.) Sobre acusación de director Gustavo Rubio.
+
+30. Acta de sesión de directorio de Asociación Canal Maule de 12 de abril de 2023.
+
+31. Acta de sesión de directorio de Asociación Canal Maule de 09 de marzo de 2023.
+
+32. Acta de sesión de directorio de Asociación Canal Maule de 27 de junio de 2023.
+
+33. Acta de sesión de directorio de Asociación Canal Maule de 18 de diciembre de 2019.
+
+34. Correo electrónico de Julio Lavín para secretaria y Cristian Beas con copia a Sandra Sandoval sobre bases arriendo de maquinarias de 23 de junio de 2022.
+
+35. Correo electrónico de Gonzalo Araya para Julio Lavín sobre borrador de propuesta inmobiliaria San Francisco SPA.
+
+36. Correo electrónico de Julio Lavín para Juan José Roco con copia a Cristian Beas sobre limpieza de máquinas esta temporada 2021 de 14 de julio de 2021 (arrastra cadena de 2 correos electrónicos enviados por Julio Lavín).
+
+37. Acta de sesión de directorio de Asociación Canal Maule de fecha 10 de enero de 2019.
+
+38. Acta de sesión de directorio de Asociación Canal Maule de fecha 13 de agosto de 2020.
+
+39. Acta de sesión de directorio de Asociación Canal Maule de fecha 11 de mayo de 2023.
+
+40. Correo electrónico de Cristian Beas para Sergio Sánchez con copia Julio Lavín y Sandra Sandoval sobre plan de acción para el mes de enero de 10 de enero de 2023.
+
+41. Correo electrónico de Julio Lavín para Alfonso Barrientos sobre propuesta de trabajo regularización derechos ACM de 11 de diciembre de 2020 (arrastra 2 correos electrónicos de Alfonso Barrientos y de Juan Soto Garcés).
+
+42. Presentación digital sobre reunión de directorio de Asociación Canal Maúle de 9 de marzo de 2023.
+
+43. Set de tres cadenas de correos electrónicos de: a. Julio Lavín para Alfonso Barrientos con copia a José Manuel y Sandra Sandoval sobre flujo de caja actualizado temporada 2021-2022 de 9 de agosto de 2021. b. Julio Lavín para Sandra Sandoval sobre rentabilidad acumulada de los MM$90 de 14 de abril de 2022. c. Julio Lavín para José Manuel sobre ingreso Pehuenche de 6 de agosto de 2021 (arrastra correo enviado por Sandra Sandoval).
+
+44. Acta de sesión de directorio de Asociación Canal Maule de fecha 23 de febrero de 2023. 45. Correo electrónico de Julio Lavín para José Manuel con copia a Alfonso Barrientos y a grupos de la sobre situación proyecto de regularizaciones de derechos de ACM de 5 de abril de 2023. Antecedentes médicos.
+
+46. Informe médico a nombre del demandante, emitido por Emilio Parra Gamboa, neurólogo, de fecha 13 de octubre de 2023.
+
+47. Receta médica del 13 de octubre de 2023.
+
+48. Datos de atención de urgencias de 30 de abril de 2023.
+
+Exhibición de documentos.
+
+1. Contratos y anexos de contrato entre las partes del juicio durante el periodo de la relación laboral.
+
+2. Carta de término de la relación laboral.
+
+3. Reglamento Interno de Orden, higiene y Seguridad de la demandada con firma del trabajador.
+
+4. Actas de directorio de enero de 2023 hasta 27 de junio de 2023.
+
+5. Set las últimas seis liquidaciones de remuneraciones.
+
+Oficios.
+
+1. Oficio remitido por la Inspección del Trabajo, que emite informe sobre vulneración de derechos fundamentales, de conformidad a lo dispuesto en el artículo 489 del Código del Trabajo.
+
+2. Oficio remitido por la Dirección General de Aguas DGA.
+
+Absolución de posiciones.
+
+Compareció en representación de la entidad demandada don Gonzalo Andrés Araya Opazo, quien legalmente interrogado, dijo:
+
+Que está vinculado con la Asociación Canal Maule desde hace 7 a 8 años, antes de ser gerente general era abogado interno de la asociación. Hace 8 meses es gerente general. Respecto de estructura jerárquica de la institución, está la asamblea de accionista, la que se rige por el Código de Aguas. Existe un directorio elegido anualmente y este directorio designa al gerente general y en el área de operaciones existen subgerentes y abogado interno de la empresa.
+
+A cargo del área de finanzas está Sandra Sandoval y operaciones, Cristian Beas.
+
+Presentar los presupuestos al directorio es tarea del gerente general. Sandra Sandoval es apoyo al gerente general. El subgerente de operaciones es apoyo a la elaboración del presupuesto. La modificación del presupuesto la hace el gerente general.
+Los proyectos de la asociación los aprueba el gerente general.
+
+Los procesos de contratación y compras son privativos del gerente general, los subgerentes les entregan la información necesaria para que el gerente decida.
+
+Se le exhibe acta N° 33 de sesión de directorio de diciembre de 2019, donde aparece procedimiento de compras y contrataciones. Refiere que el documento está en la regla general, señala expresamente que las facultades las tiene el gerente general y en determinadas operaciones las facultades son de determinados subgerentes.
+
+Él antes de ser gerente fue fiscal interno de la empresa.
+
+El presupuesto año 2023-2024 es el orden de los 2 mil millones de pesos. La Asociación recibe ingresos por varias vías, de los socios vía cuotas, contratos de usos de agua y del sector público por concurso de proyectos. La asamblea es quien aprueba los presupuestos.
+
+Se le exhibe correo electrónico sobre presupuestos, de Julio Lavín a Sandra Sandoval 10 de mayo de 2023 y correos de arrastre; reconoce el procedimiento, existen personas que participan en la elaboración del presupuesto para que sea aprobado por el Gerente general.
+
+Se le exhibe correo electrónico donde se solicita autorización de presupuesto 2022-2023. Refiere que José Manuel Silva es el presidente del directorio. Reconoce el documento. Existe una asamblea de accionista que se reúne todos los años, la que aprueba y desaprueba el presupuesto.
+
+Alfonso Barrientos es el tesorero del directorio, debe firmar los cheques junto al Gerente.
+
+Se le exhibe set de correos electrónicos N° 14, refiere que no tiene antecedentes de lo que aparece en los correos electrónicos, no participó de los correos electrónicos.
+
+Se le exhibe documento N° 15, Set de cuatro correos electrónicos de: a. Julio Lavín para Cristian Beas. Refiere que es un correo del gerente al directorio solicitando visto bueno, es una situación excepcionalísima que debe intervenir el directorio por ser asuntos patrimoniales por existir un interés público comprometido.
+
+Cuando existen cuestiones de interés público, atendida la naturaleza de la Asociación y estar integrada por más de 4.000 accionistas, debe intervenir el directorio, ya que no se está ante una empresa privada.
+
+Se le exhibe documento N° 16, set de cinco correos electrónicos, sobre propuesta de honorarios.
+
+En reunión de directorio don Gustavo Rubio solicitó la salida del Sr. Lavín por el uso de bienes de la asociación para otros objetivos. El directorio planteó que este tipo de acusaciones no se planteaba de esa forma y no se realizó la investigación.
+
+Prueba testimonial.
+
+1.- Compareció don Paulo Andrés Bravo Ureta, quien legalmente interrogado, expuso:
+
+Que conoce a las partes del juicio. A la Asociación la conoce desde hace más de 30 años, la que le suministra las aguas a un campo de su propiedad. El año 96 participó del directorio por 2 años. Luego volvió a ser miembro del directorio y presidente durante la década del 2000. Volvió a participar del directorio el 2016 y conoció al Sr. Lavín.
+
+El Sr. Lavín era administrativo, si bien su función era de gerente, pero en la realidad el cargo de gerente es un apoyo al directorio, ya que todas las decisiones son controladas por el directorio, quien toma las grandes decisiones. Las tres secciones o departamentos, finanzas, terreno y gerencia se relacionan coordinadamente. Las compras se hacen a través de cotizaciones, que pasan por el departamento de finanzas, operaciones y el supuesto gerente y quien resuelve es el directorio. Todo se consulta al directorio, los 3 estamentos ejecutan las decisiones del directorio.
+
+Los proyectos los presentan las comunidades de aguas y son realizados por empresas externas, esto se presenta y el directorio resuelve, el gerente coordina con las empresas externas y presenta el proyecto al directorio. Julio Lavín no tenía autonomía. Existen situaciones puntuales que las ejecutan los directores, para el caso está el director de turno, están en el día a día de la asociación.
+
+Las bases de presupuesto las realizan en conjunto la parte operacional, la parte de finanzas, doña Sandra Sandoval y el gerente, quien articula la información. El directorio afina el presupuesto, se estima lo recaudado y los otros ingresos que vienen de las centrales hidroeléctricas y otras fuentes, se estiman los egresos, para ser presentados a la asamblea
+
+En compras participan los tres estamentos en conjunto con el visto bueno del directorio.
+
+En cuanto a las contrataciones de personal, el directorio decide. Los despidos también pasan por el directorio.
+
+En cuanto al despido de don Julio Lavín, le contó que fue despedido. En el momento del despido habría estado el presidente, y fue en la oficina del canal.
+
+Contrainterrogado, expuso: Fue miembro del directorio durante dos periodos. Como presidente siempre tuvo las mismas facultades. El gerente ejecuta las decisiones que autoriza el directorio
+
+Se le exhibe documento consistente en set de correos de 2023. Refiere que no tiene participación del correo. Dejó de ser presidente por presión de unos de los directores. Fue algo mafiosos porque fue de dos o tres personas, pero no de la institución. No se acuerda quien asumió la presidencia.
+
+2.- Compareció don Óscar Hernán Bustamante Saravia, quien legalmente interrogado, manifestó:
+
+Que conoce a las partes del juicio. Él es regante del Canal Maule, conoce a don Julio Lavín desde hace 10 años. Don Julio era el gerente, pero cuando le solicitaba servicios le decía que debía tener el visto bueno del directorio. Él es regante del canal Pelarco, el cual no se financia con las cuotas, por lo que siempre debía pedir financiamiento a la Asociación. Cada acción tiene un costo, más los aportes de las hidroeléctricas. Anualmente le entregan una revista y allí aparece el presupuesto del orden de los 2 mil millones.
+
+Él fue varios años presidente de la comunidad de regantes Canal Pelarco Viejo, cuando hacían proyectos debían solicitar a la Asociación que los asesora y don Julio les decía que debían tener la autorización del Directorio, por lo que don Julio era el intermediario.
+
+En las asambleas el presidente le señalaba que el directorio veía el asunto de proyectos. Las compras las hacía el encargado de finanzas más el encargado de operaciones, y las autorizaba el directorio
+
+Por lo que manifestó don Julio, el despido fue de la noche a la mañana, llegaron a su oficina y le pidieron las llaves del vehículo y su computador. Sabe de esto porque en el mes de junio fue a pedir una audiencia y le dijeron que don Julio no era el gerente y después llamó al gerente y contestó el nuevo gerente, el Sr. Araya.
+
+Contrainterrogado, expuso: La elaboración del presupuesto la hace el directorio y ,lo sabe porque él participa de la asamblea. Él no ha sido director. Sabe de esto por la información que le daba el gerente y lo que se le daba a conocer en la asamblea.
+
+Cuando necesitaba fondos para proyectos, se los pedía al gerente y este le señalaba que requería el visto bueno del directorio. Todas las solicitudes las hacía por medio del gerente, quien era el puente con el directorio.
+
+En las oficinas está la secretaria, le gerente, la encargada de finanzas, el encargado de operaciones y el gerente. Si quería hablar con algo de terreno hablaba con don Cristian Beas, si era algo de finanzas con doña Sandra Sandoval, y el gerente era el puente con el directorio.
+
+3.- Compareció don César Antonio Rojas Alfaro, quien legalmente interrogado, señaló:
+
+Conoce a las partes del juicio. Él es regante del canal Maule y fue presidente de una comunidad de regantes. En tal calidad trabajó en proyectos para mejorar las condiciones de su comunidad. Con don Julio Lavín se entendió como relacionador de su comunidad, era un administrador, había cosa que debía someterla a su jefatura, el directorio. Como todo lo que tenía que ver con dinero. Por ejemplo para financiar un puente que estaba fuera de un proyecto debió recurrir a la asociación, una persona del directorio los apoyó ya que se debía hacer un aporte por la asociación, y esto lo resolvió el director Sr. Barrientos.
+
+Tuvo una reunión con don Julio, un día viernes, y otra persona del sector, para desarrollar un proyecto, llamó el día lunes y le contestaron que don Julio ya no trabaja en la Asociación.
+
+No sabe de problemas durante el 2023 que haya generado dificultades en la gestión de Julio Lavín.
+
+Contrainterrogado, expuso: Como regante no participa del directorio de la asociación.
+
+No participó de la asamblea del 2023.
+
+En la asociación para recurrir tiene tres caminos, la parte técnica, la parte operacional y don Julio, normalmente conversaba más con la parte de operaciones que tiene que ver con las comunidades.
+
+Sexto: Prueba de la parte demandada. Que la parte demandada a fin de probar sus alegaciones y defensas, incorporó los siguientes medios de prueba.
+
+Prueba documental.
+
+1. Contrato de trabajo suscrito entre Julio Lavín Retamal y Asociación Canal Maule de fecha 01 de octubre de 2012 y anexo de contrato de fecha 01 de enero de 2023.
+
+2. Descripción funcional y requisitos del cargo de Gerente General de Asociación Canal Maule.
+
+3. Carta de aviso de término de contrato de trabajo firmada por don Julio Lavín Retamal, de fecha 27 de junio de 2023 y su respectivo ingreso en la Inspección del Trabajo.
+
+4. Finiquito de contrato de trabajo suscrito con fecha 30 de junio de 2023, en el que se estampa reserva de derechos por parte del Sr. Julio Lavín Retamal.
+
+5. Certificado de Saldo de Aporte del Empleador al Seguro de Cesantía para imputar a indemnización del Sr. Julio Lavín, de fecha 28 de junio de 2023.
+
+6. Reunión de constitución de directorio de la Asociación Canal Maule del periodo 2012 a 2013, reducida a escritura pública de fecha 08 de junio de 2012.
+
+7. Mandato judicial de Asociación Canal Maule a Álvaro Baeza Guiñez y otro de fecha 26 de septiembre de 2014.
+
+8. Acta de directorio de Sociedad Central Hidroeléctrica El Manzano SpA. reducida a escritura pública con fecha 20 de abril de 2015.
+
+9. Escritura pública de servidumbres y autorizaciones de Sociedad Agrícola Coyán Limitada a Sociedad Central Hidroeléctrica El Manzano SpA. de fecha 20 de octubre de 2015.
+
+10. Reducción parcial a escritura pública de acta de sesión de directorio de Asociación Canal Maule de 29 de agosto de 2017.
+
+11. Transacción entre Sociedad Agrícola Fuster y Cía. Limitada y otra y Asociación Canal Maule, reducida a escritura pública de fecha 15 de noviembre de 2019.
+
+12. Set de 7 Actas de sesión de directorio de Asociación Canal Maule de fecha 12 de enero, 23 de febrero, 09 de marzo, 12 de abril, 11 de mayo, 06 de junio y 27 de junio de 2023.
+
+13. Reunión de constitución de directorio de Asociación Canal Maule de fecha 31 de mayo de 2023 y su respectiva reducción a escritura pública.
+
+14. Set de cartas dirigidas a la Dirección General de Aguas del Ministerio de Obras Públicas con fecha 08 de abril de 2022, a don Héctor Ponce Bravo con fecha 31 de mayo de 2022, a la Seremi de Vivienda y Urbanismo con fecha 06 de diciembre de 2022, a la Ilustrísima Municipalidad de San Clemente con fecha 06 de diciembre de 2022, a la Junta de Vigilancia del Río Maule de fecha 01 de marzo de 2023 y 08 de marzo de 2023, y a Colbún S.A. con fecha 11 de abril de 2023 y correo adjunto.
+
+15. Set de 11 cadenas de correos electrónicos enviados por el Sr. Julio Lavín a dependientes de la Asociación Canal Maule entre el periodo comprendido entre el 06 de diciembre de 2022 y 01 de julio de 2023, y sus respectivos documentos adjuntos.
+
+16. Pantallazo del perfil de la red social Linkedin del Sr. Julio Lavín Retamal.
+
+17. Currículum vitae del Sr. Julio Lavín Retamal extraíble del perfil de la red social Linkedin.
+
+18. Boletín informativo de la Asociación Canal Maule de febrero de 2023.
+
+19. Memoria Anual de la Asociación Canal Maule del periodo 2022/2023.
+
+20. Contrato de Servicios N°6318 de Diseño y Presentación de Proyecto de Obras Civiles Ley 18.450 de suscrito entre Asociación Canal Maule y Cepia Ingenieros Consultores Limitada con fecha 02 de mayo del 2013.
+
+21. Contrato para la optimización del uso de agua suscrito entre Colbún S.A. y Asociación Canal Maule el 27 de agosto de 2013.
+
+22. Contrato de Servicios N°6566 de Diseño y Presentación de Proyecto de Obras Civiles Ley 18.450 suscrito entre Asociación Canal Maule y Cepia Ingenieros Consultores Limitada con fecha 22 de octubre de 2013.
+
+23. Contrato de reparación entre Asociación Canal Maule y Constructora JV Servicios Jaime Vargas EIRL. De fecha 07 de mayo de 2014.
+
+24. Reconocimiento de deuda de la Asociación Canal Maule a Cepia Ingenieros Consultores Limitada de fecha 02 de abril de 2015.
+
+25. Convenio de abastecimiento y uso de aguas para crianza de salmones y otras especies salmónidas celebrado entre Asociación Canal Maule y Salmones Colbún Limitada con fecha 06 de mayo de 2015.
+
+26. Contrato de reparación celebrado entre Asociación Canal Maule y MYM Servicios Mecanizados Limitada, de fecha 12 de mayo de 2016.
+
+27. Contrato de reparación celebrado entre Asociación Canal Maule y Constructora Ingefruta Limitada de fecha 01 de junio del 2016.
+
+28. Convenio para la optimización del uso de agua en condición de sequía entre Colbún S.A. y Asociación Canal Maule de fecha 23 de septiembre de 2016.
+
+29. Contrato de prestación de servicios profesionales celebrado entre Asociación Canal Maule y Robert Morrison Munro de fecha 10 de abril de 2017.
+
+30. Contrato entre Asociación Canal Maule y Constructora José & José Limitada de fecha 21 de junio de 2017.
+
+31. Contrato a suma alzada de reparación canal Maitenes celebrado entre Asociación Canal Maule y MYM Servicios Mecanizados Limitada, de fecha 06 de julio de 2017.
+
+32. Contrato de compraventa de acciones sin cotización bursátil entre Comunidad de Aguas Canal El Manzano y Asociación Canal Maule de fecha 10 de octubre de 2019.
+
+33. Contrato a suma alzada de mantención de compuertas bocatoma Armerillo ACM suscrito entre Asociación Canal Maule y MCM SpA. con fecha 20 de noviembre de 2019.
+
+34. Carta de término de contrato de trabajo del Sr. Miguel Ángel Iracheta Cartes de fecha 28 de marzo de 2013.
+
+35. Certificado de Bonificación al riego y drenaje. Ley 18.450 de fecha 26 de diciembre de 2013.
+
+36. Set de contratos de trabajo y finiquitos de trabajadores suscritos por don Julio Lavín Retamal en representación de la Asociación Canal Maule.
+
+37. Set de 6 Contratos colectivos suscritos entre el Sindicato de Trabajadores de Asociación Canal Maule y Asociación Canal Maule con fecha 26 de junio de 2013, 18 de junio de 2015, 01 de julio de 2017, 04 de julio de 2019, 22 de junio de 2021 y 07 de junio de 2023.
+
+38. Mandato judicial otorgado por Asociación Canal Maule a Claudio Herrera Andrades y Raúl Morales Vallejos de fecha 20 de enero de 2017.
+
+39. Mandato judicial otorgado por Asociación Canal Maule a Claudio Herrera Andrades de fecha 22 de marzo de 2017.
+
+40. Mandato judicial otorgado por Asociación Canal Maule a Robert Morrison Munro de fecha 12 de abril de 2017.
+
+41. Libro de remuneraciones correspondiente al período marzo a mayo de 2022.
+
+42. Tarjeta de presentación de don Julio Lavín en su calidad de gerente general.
+
+43. Set de 3 Escrituras públicas de fechas 12 de abril de 2017, 09 de julio de 2014, 15 de marzo de 2013. 44. Extracto de fecha 11 de abril de 2013, inscrita a fojas 905, número 807 de 2007.
+
+Otros medios de prueba.
+
+1.- Se tuvo a la vista la causa RIT T-504-2021, caratulada “Roco con Asociación Canal Maule”, del Juzgado de Letras del Trabajo de Talca, en especial escrito de contestación de demanda, de fecha 14 de enero de 2022, folio 10, y documento de personería acompañado a folio 11 y Acta de Audiencia Preparatoria de fecha 21 de enero de 2022, folio 48.
+
+Prueba testimonial.
+
+1.- Compareció don José Manuel Silva Hurtado, quien legalmente interrogado, expuso:
+
+Conoce al demandante, fue gerente general del Canal Maule, él era director y hoy él es gerente. El Canal Maule es una asociación de regantes que tiene la función de distribuir el agua de acuerdo a los derechos de cada uno y cuando hay menos agua a prorrata.
+
+La Asociación Maule se regula por el Código de Agua. El gerente General ejecuta los lineamientos que determina el directorio. El directorio es Ad honorem y se junta una vez al mes, en esas reuniones se aprueba el presupuesto que ejecuta el gerente. Durante el mes no se ve al gerente y este toma las decisiones. El gerente ejecuta el presupuesto y hace presentaciones a la DGA para obtener recursos para el canal. Debe comprar materiales para realizar obras, tiene autonomía para ejecutar.
+
+El gerente tenía representación amplia, administrativa y laboral, firma todo y en algunas ocasiones debía pedir firma paralela.
+
+La asamblea elige el directorio, el que es liderado por el gerente general, luego está la parte operativa y financiera. Tiene 40 personas a su cargo y un presupuesto de más de dos mil millones de pesos.
+
+Hoy el Sr. Lavín se relaciona con la Asociación como regante, laboral no tiene relación, fue despedido.
+
+El despido se venía conversando desde tiempo. Cuando se aprobó el nuevo Código de Aguas se planteó un nuevo desafío, que decía relación con inscribir la totalidad de los derechos de aguas.
+
+La empresa tiene sindicato, la empresa era representada por el Gerente General. El gerente general tiene amplio poder para representar a la Asociación ante la autoridad, en juicios, negociaciones, contratos con empresas externas.
+
+La asociación se relaciona en el día a día con la autoridad, CNR, DGA, los canalistas. Los directores van una vez al mes, donde se les dan a conocer los avances, pero quien ejecuta es el gerente general.
+
+El gerente trabaja con equipos que le levantan la información, como el jefe de operaciones, como en cualquier empresa, y quien decide es el gerente.
+
+Las compras surgen por necesidades y se levanta el protocolo de la orden de compra y quien decide la compra es el gerente general. Todas las necesidades de la empresa tenían el mismo protocolo, ya sea la compra de camionetas, materiales, artículos de oficina.
+
+Contrainterrogado, expuso: Que es el actual presidente de Canal Maule desde hace unos 5 años, como parte del directorio lleva como 10 años.
+
+El Sr. Lavín hizo el presupuesto, lo presentó al directorio, este a la asamblea y la asamblea lo aprobaba.
+
+El protocolo dispone que las órdenes de compra tienen que tener todos los vistos buenos de los jefes de áreas y luego debe ser autorizada por el gerente general.
+
+Se le exhibe el documento, acta de cesión de directorio de 18 de diciembre de 2019; lo reconoce, refiere que en el punto dos está el informe de gerente. Lee párrafo respecto de las autorizaciones de las órdenes de compra y acuerdo sobre órdenes de compra sobre 5 millones, acordándose que requieren dos firmas para aprobar una compra.
+
+El gerente elabora los presupuestos y los autoriza el directorio y la asamblea. Si hay algo que se sale del presupuesto, dependiendo la urgencia muchas veces hay que salirse del presupuesto, lo aprueba el gerente y luego le da las explicaciones al directorio. Lo previsible en el tiempo se conversa en el directorio.
+
+Se le exhibe acta de cesión del directorio de 11 de mayo de 2023, lo reconoce. Lee párrafo donde se registra sobre la aprobación del presupuesto por el directorio y que será presentado a la asamblea, a lo que señala que el gerente tiene un equipo y ese equipo le plantea el presupuesto.
+
+2.- Compareció doña Sandra Macarena Sandoval González, quien legalmente interrogada, dijo:
+
+Trabaja en la Asociación Canal Maule y es subgerente de administración y finanza, está a cargo de la parte contable y financiera de la asociación, desde hace 24 años, siempre en el mismo cargo. Don Julio Lavín fue por 11 años gerente de Canal Maule. Como gerente administraba todo lo referente a la asociación, en materia laboral y civil, firmaba contratos. Firmaba contratación de personal, finiquitos, negociación colectiva, cheques, órdenes de compra y autorizaciones de compra.
+
+En cuanto a las compras, se cotizaba por ella o por operaciones, se debía tener tres cotizaciones, se le presentaban al gerente y él autorizaba y con eso se emitían las órdenes de compra. Los pagos los hacía ella pero la autorización venía de gerencia. Si no había autorización del gerente no se podía realizar la compra. En caso de contratación, se le presentaban tres personas, él entrevistaba al final y decidía.
+
+La jerarquía era el gerente, luego la parte financiera y contable, donde ella es la subgerente, y la parte operaciones. El subgerente de operaciones lleva como 20 años. Su contrato lo firmó el gerente de esa oportunidad, don Wilibardo Bravo.
+
+El gerente general está en las oficinas centrales de Canal Maule.
+
+La Asociación representa a los canalistas de la zona, que son como 4.300 regantes aproximadamente. Los regantes hacen requerimientos, plantean solicitudes relacionada con sus canales, se dirigen al gerente y este decide si les da curso.
+
+El gerente tiene facultades para representar a la Asociación ante organizaciones como: Inspección del Trabajo, SII, CNR; y ante temas legales representa a la asociación. Las demandas se notifican al gerente general en las oficinas. Si se recibía una demanda de algún trabajador se le notificaba al gerente. Cuando se recibía la demanda, se recurría al abogado asesor en temas laborales, y don Julio le daba mandato al abogado que designaba para la defensa.
+
+Se le exhiben documentos referidos a set de contratos, finiquitos y contratos colectivos, los reconoce y refiere que son los contratos colectivos que se suscriben cada dos años con el sindicato. Refiere que el gerente fija reuniones con el sindicato y la invita a ella para ver el cálculo de lo que solicitaban los trabajadores. Una vez que ella le daba la información, el cerraba la negociación con el presidente del sindicato. Los contratos lo firman los representantes de los trabajadores y don Julio Lavín como gerente general del Canal Maule.
+
+Los contratos de trabajo y finiquitos están firmados por el gerente. En la temporada se contratan 120 temporeros, julio y agosto. Se firmaban montones de finiquitos, ya que se contrata por obras que duran uno o dos meses. La decisión final de la salida de las personas, era del gerente general.
+
+Contrainterrogada expuso: Sobre las subgerencias está el gerente. Ella reporta sus informes al gerente de acuerdo a sus solicitudes, y es el gerente quien reporta al directorio una vez al mes, sobre lo que ellos informan. Ella recibía instrucciones del gerente, no sabe lo que decidía el directorio sobre lo informado por ella. Ella no se entiende con los directores, se entiende con el gerente.
+
+Los reajustes de salarios están por negociación colectiva y es el gerente quien negocia.
+
+Alfonso Barrientos es el tesorero de la Asociación Canal Maule y director de la asociación.
+
+El que firma todo y representante legal es el gerente y por estructura de poderes y para asunto de cheques se requieren dos firmas, el gerente y luego ella le lleva el cheque al tesorero.
+
+Dentro de la estructura de poderes está el presidente de la asociación, el tesorero y el gerente.
+
+Los requerimientos hacia ella de parte de don Julio Lavín se hacían, a veces por correo electrónico y muchos venían con correo de arrastre.
+
+3.- Compareció don Alfonso José Barrientos Pozo, quien legalmente interrogado, señaló:
+
+La Asociación del Canal Maule es una asociación de regantes y distribuye el agua del río Maule entre los regantes. Él es regante del Canal Maule y es director de la asociación desde hace unos 14 años. Don Julio Lavín fue gerente de la asociación durante la última década.
+
+La asociación hace una asamblea anual que la componen todos los asociados, del orden de 4.000 Rut, estos eligen un directorio para que mensualmente pueda corroborar que los lineamientos de la asamblea se cumplan y se controlen. Luego está la oficina, donde esté el gerente general y subgerentes, jefes de operaciones y por último los celadores.
+
+El gerente general desarrollaba las labores de todo gerente, tenía sede en Talca y tenía equipos que manejaba, como el departamento de ingeniería, de terrenos, contable. Debe hacer obras civiles, administrar la parte contable, la parte de ingeniería y las relaciones con las entidades públicas.
+
+El gerente general está en las oficinas de la 3 ½ Sur con la 15 Oriente. Los directores no tienen oficinas particulares, se reúnen una vez al mes en las oficinas de la junta de vigilancia, que se las pasa. Al gerente general se le paga un sueldo, ya que tiene un contrato de trabajo. A los directores se les fijó una cuota de gastos del orden de los $60.000 para financiar los gastos de traslado a Talca para asistir a las reuniones.
+
+El número de funcionarios es de 40 a 50 personas, está el encargado de ingeniería, la encargada del área contable, el jefe de sección, el jefe de terreno, los celadores, todos los empleados están por debajo del gerente general.
+
+Las finanzas tienen distintas fuentes de ingreso, una es por la cuota de riego que se fija en la asamblea anual, los otros ingresos provienen de las centrales hidroeléctricos que están en sus canales, los aportes de la DNA por proyectos que presentan y en los últimos años, un acuerdo con Endesa por el uso de unas aguas del rio Maule.
+
+El gerente elabora el presupuesto, lo presenta en las reuniones del directorio para su pre aprobación y se presenta a la asamblea la que lo aprueba u objeta. Él no ha visto que se rechace el presupuesto, ellos se preocupan más de la cuota, pero desde que se estableció en UF, ya no hay más discusión.
+
+El presupuesto aprobado se adjunta al acta de la asamblea y el gerente debe basarse en ese presupuesto y en los acuerdos de la asamblea. La asamblea elige al directorio para que una vez al mes revise los antecedentes y se cumpla lo acordado.
+
+Los pagos de la asociación los firma el gerente y con una segunda firma delegado por la asamblea o del directorio, ya que los cheques deben ser girados con dos firmas. Se le paga a los funcionarios, debe contratar máquinas, pagar reparaciones, construir mejoras en los canales.
+
+Los reclamos de los regantes, pueden ser por correo y hace un par de años están trabajando con una aplicación digital.
+
+El personal lo administra el gerente general y se ayuda de otros funcionarios como Cristian Beas que tiene la parte ingenieril, además está el jefe de terreno que tiene a su cargo a los celadores.
+
+Los contratos los firmas el gerente.
+
+Julio Lavín ya no está en la asociación. El directorio tomó la decisión de cambiar a la persona que estaba en la gerencia general, lo vio cansado y se requería una mirada más legal, atendido los nuevos requerimientos del Código de Aguas, por lo que se contrató un abogado con experiencia en temas de agua.
+
+La compra de maquinarias es decisión del gerente general, quien decide sobre las posibilidades que da la experiencia en el rubro.
+
+Contrainterrogado, manifestó: Además de director es tesorero de la Asociación Canal Maule. El tesorero, en conjunto con el gerente pone la segunda firma en los cheques. Julio Lavín podía hacer una compra solo, pero para pagar la compra, el cheque debía llevar las dos firmas.
+
+Él no daba orden de pagar.
+
+Se le exhibe el documento consistente en set de correos electrónicos de agosto de 2022, 7 septiembre de 2022, 19 de julio de 2021. Reconoce como enviados por él, donde pide pagar.
+
+Lo acostumbrado era que Julio presentara el presupuesto, lo validara el directorio y luego se llevara a la asamblea.
+
+Existió una denuncia del Sr. Rubio en contra de don Julio Lavín, el sr. Lavín habría hecho uso de recursos del canal para beneficio de una se de sus propiedades. El declaró que le parecía poco atinada la denuncia del Sr. Rubio sin aportar antecedentes, por lo que se le pidió que acompañara antecedentes y se mandató al presidente investigar si era efectivo o no, que conversara con el celador del sector. El celador le dijo que la máquina entró por el predio del Sr. Lavín pero las obras fueron en los predios aledaños y de todo el sector, por lo que se estimó que la acusación era infundada, esto fue hace unos dos años atrás. Julio Lavín estaba al tanto de la denuncia, pero no sabe si el presidente le comunicó de la investigación.
+
+4.- Compareció don Juan Pablo Soto Garcés, quien legalmente interrogado manifestó:
+
+Es abogado y le presta asesoría a la Asociación Canal Maule desde el 2013 a la fecha, se relaciona con el gerente general, don Julio Lavín en su momento, y Nicolás Araya, hoy. Con Julio Lavín se relacionaba en todos los temas del diario vivir de la organización, respuestas a los regantes, cartas a las autoridades DGA, gobierno, contratos, juicios. El gerente remitía las cartas, respondía, suscribía contratos, esto le consta, porque vio muchos contratos de obras y trabajo, encabezaba la negociación colectiva. Representaba a la Asociación en distintos tipos de juicio, materias de agua, problemas con regantes y gente externa del canal, juicios laborales, todos los juicios se canalizaban hacia su asesoría.
+
+En los juicios, don Julio como gerente era notificado, se juntaban para el tema y diseñaban la estrategia para abordar el asunto, se acordaban sus honorarios con el gerente. Para avenimientos se conversaba con el gerente.
+
+No hay contrainterrogatorio.
+
+Séptimo: Hechos pacíficos. En la audiencia preparatoria las partes acordaron como hechos pacíficos la existencia de la relación laboral a contar 1 de octubre de 2012 y que era de naturaleza indefinida, además de las funciones del actor como Gerente General de la Asociación Canal Maule.
+
+No existe controversia en el hecho que la remuneración del actor superaba las 90 Unidades de Fomento, hecho además ilustrado con las liquidaciones de remuneraciones, debiendo tenerse tal suma para efectos del pago de las prestaciones laborales, hecho además que se corrobora con la carta de despido y el finiquito del trabajador, donde consta que los cálculos para pagar las prestaciones propias del despido se hicieron sobre tal base de cálculo.
+
+En consecuencia la controversia radica en la determinación de la existencia de vulneración de derechos fundamentales con ocasión del despido y en subsidio, si el despido se ajusta a derecho, en el entendido que se cuestiona que las funciones que desarrollaba el demandante no son las de un gerente por no ser un cargo de exclusiva confianza y depender de superiores inmediatos.
+
+EN CUANTO A LA TUTELA DE DERECHO LABORALES CON OCASIÓN DEL DESPIDO.
+
+Octavo: Que en autos, se ha ejercido acción tendiente a proteger derechos fundamentales que la legislación vigente consagra a los trabajadores. Sobre el particular, con la publicación de la Ley Nº 20.087 se incorporó un mecanismo de protección o de tutela calificada que sólo protege un tipo de derechos: los derechos fundamentales del trabajador, procedimiento, que es la traducción procesal de la idea de la eficacia horizontal de este tipo de derechos en las relaciones jurídicas entre privados, y en este caso particular, al interior del contrato de trabajo y es más, se trata no sólo de la eficacia horizontal de los derechos fundamentales entre particulares, sino de su eficacia inmediata o directa en cuanto la acción procesal se ejerce directamente por el trabajador, entre otros sujetos pasivos, en contra de otro particular involucrado en la relación laboral: el empleador, o el organismo público contratante, según quedó claramente interpretado en el artículo 1 de la Ley N° 21.280.
+
+En este procedimiento de tutela laboral, como ya es posible colegir, el bien jurídico protegido, son los derechos fundamentales: así, la pretensión de la acción de tutela es la protección y resguardo de cierto tipo de derechos de los trabajadores – los doctrinariamente denominados fundamentales inespecíficos- buscando el restablecimiento en el ejercicio del derecho lesionado y la reparación del daño producido por su vulneración, cuando dicha afectación provenga del ejercicio de las facultades que la ley le reconoce al empleador. Ahora, bien, en rigor el bien jurídico protegido por la acción de tutela no son los derechos fundamentales sin identidad, ni siquiera los derechos fundamentales previstos expresamente en el artículo 19 de la Constitución Política de la República, sino, que lo protegido son los derechos fundamentales del trabajador previstos expresamente en la lista contemplada de forma taxativa en el artículo 485 del Código del Trabajo, en la cual se distinguen dos tipos, según su origen: a) los de fuente constitucional, previstos en el artículo 19 del texto fundamental y; b) los de fuente legal: un solo derecho que corresponde al derecho a no ser objeto de represalias laborales, derecho a la indemnidad laboral.
+
+Noveno: En el caso que nos convoca la parte demandante ha fundado el ejercicio de su acción de tutela en una presunta vulneración de la garantía consagrada en el artículo 19 numerales 1 y 4 de la Constitución Política de la República, el derecho a la integridad física y psíquica y el derecho a la honra, ocurrido con ocasión del despido.
+El despido lesivo debe entenderse como aquel que vulnera o restringe uno o más de los derechos fundamentales del trabajador, ya sea porque la afectación se produce en razón del propio acto extintivo, sea porque la afectación se produce en la ejecución del despido.
+
+De ese modo, según da cuenta la doctrina, es posible distinguir dos tipos de despido vulneratorio en el marco de la tutela laboral.
+
+En primer lugar, el despido cuyo motivo o resultado es lesivo de los derechos fundamentales del trabajador. Ya sea que esa motivación lesiva quede de manifiesta en el acto extintivo mismo, ya sea se oculte o encubra en una motivación neutral o, en fin, ya sea que se produzca como resultado de la afectación de dichos derechos.
+
+En segundo lugar, el despido puede ser lesivo debido a la ejecución del despido. (Ugarte Cataldo José Luis. Derechos Fundamentales, tutela y Trabajo. Legal Publishing chile, Santiago 2018. pp 86 a 89.)
+
+Décimo: Plantea la parte demandante que su despido, ocurrido el 27 de junio de 2023, es lesivo de derechos fundamentales, atendido que tuvo su origen en una denuncia hecha en su contra por el director don Gustavo Rubio en la reunión de directorio de fecha 9 de marzo de 2023, donde se resolvió hacer una investigación de la cual no tuvo conocimiento, situación que afectó su irreprochable conducta funcionaria como gerente general, su honra, y habría culminado con su despido, afectando además su salud psíquica y física.
+
+Corresponde a la parte demandante probar los hechos en funda la vulneración denunciada, a menos indiciariamente, y acto seguido procede que la demandada incorpore prueba desvirtuando tales hechos o probando la racionalidad y proporcionalidad de las medidas tomadas sobre el caso denunciado.
+
+En cuanto al hecho de la denuncia realizada por el director don Gustavo Rubio, se incorporó el acta de sesión del directorio de la Asociación Canal Melado de fecha 9 de marzo de 2023, en la que se registra el hecho de la denuncia por parte del referido director en los siguientes términos: “Don Gustavo Rubio pide el alejamiento del gerente de don Julio Lavín Retamal. El Sr. Rubio hace una serie de imputaciones al gerente, tales como que habría usado recursos de la ACM en su beneficio; maltrato a dos secretarias del personal; que planifica trabajo en terreno con el Sr. Sergio Sánchez y luego se le hace llegar el sobre azul; reclamos de don Enrique Oltra sin respuesta; también que don Alfonso Barrientos ha acusado en dos oportunidades de negligencia al sr. Lavín por tema escudo de Chile, y por mantener saldos muy altos en las cuentas corrientes de la ACM; y además no informa de robos en la oficinas de la ACM.”
+
+En la misma acta se lee la intervención de don José Manuel Silva, quien califica de gravedad los hechos denunciados y que se requieren respaldo para conocerlos y que analizará el tema; por su parte el Sr. Barrientos desconoce las observaciones que se hacen respecto de lo que él habría señalado y manifiesta que tales observaciones no lo representan; y el Sr. Lavín, niega los hechos agregando que está disponible para aclarar cada uno de los temas. Se resuelve en definitiva conocer los antecedentes que tiene el Sr. Rubio, para informar al directorio y resolver.
+
+Respecto de lo ocurrido en la sesión de 9 de marzo de 2023 declaró don Alfonso Barrientos, quien dijo ser director y tesorero de la asociación, señalando que existió una denuncia del Sr. Rubio en contra de don Julio Lavín, el sr. Lavín habría hecho uso de recursos del canal para beneficio de una se de sus propiedades. El declaró que le parecía poco atinada la denuncia del Sr. Rubio sin aportar antecedentes, por lo que se le pidió que acompañara antecedentes y se mandató al presidente investigar si era efectivo o no, que conversara con el celador del sector. El celador le dijo que la máquina entró por el predio del Sr. Lavín pero las obras fueron en los predios aledaños y de todo el sector, por lo que se estimó que la acusación era infundada, (…). Julio Lavín estaba al tanto de la denuncia, pero no sabe si el presidente le comunicó de la investigación.
+
+En esta parte, la Asociación demandada, al contestar la demanda señaló que se le pidieron antecedentes al director que formuló la acusación en atención a la gravedad de los hechos y se encomendó al presidente del directorio que hiciera las averiguaciones pertinentes, quien habló con el celador, concluyendo que los hechos denunciados no eran tales; tal situación expresamente se registra en el acta de directorio de fecha 12 de abril de 2023,a la que no asistió don Julio Lavín, atendido que se excusó de asistir según se registra en el acta.
+
+Lo primero que se debe tener en cuenta es que el Sr. Rubio en su cargo de director tiene la obligación de plantear las observaciones que estime pertinente y lo hizo ante el organismo que representa los intereses de la asamblea. En segundo lugar, del acta de la sesión y de los dichos del testigo Sr. Barrientos, se constata que el tratamiento que le dio el directorio fue el adecuado, se calificaron de graves las acusaciones, se le pidieron antecedentes al Sr. Rubio y para mayor tranquilidad se hicieron las consultas al celador, concluyéndose la falsedad de los hechos denunciados. El procedimiento, según se concluye de los antecedentes incorporados en juicio, fue interno, sin publicidad y si se considera que ninguno de los testigos de la parte demandante se refirió el hecho, se puede concluir que el episodio no trascendió de los miembros del directorio y el buen nombre del demandante no fue mancillado por este hecho. En esta parte resulta ilustrativa la declaración de don César Rojas, testigo de la parte demandante y regante del Canal Maule, quien expresamente dijo que no supo de problemas durante el año 2023 que hubiesen generado dificultades en la gestión del Sr. Lavín.
+
+Respecto al menoscabo a la salud física y psíquica, se incorporó un dato de atención de urgencia, que da cuenta que el Sr. Lavín fue atendido por mareos y cefalea, además de recetas médicas; tales documentos por si solo ninguna información aportan y que digan relación con el despido. El informe médico incorporado por el actor, no puede ser considerado por este sentenciador, toda vez que corresponde a una declaración de un tercero que no compareció a declarar sobre el contenido de tal documento. Por consiguiente, ningún menoscabo psicológico o físico fue probado, a lo menos indiciariamente, y que diga relación con el término de la relación laboral.
+
+Respecto del hecho que las acusaciones infundadas del Sr. Rubio hayan sido determinantes en el término de la relación laboral del actor, ningún medio de prueba dio luces indiciarias sobre tal medida, debiendo tenerse en cuenta que los miembros del directorio presente en la reunión de marzo de 2023 no acogieron la acusación sin que se presentaren antecedentes que hicieran verosímil la situación y además, para dar respuesta al director, se tomaron medidas para aclarar la situación, hecho que puso término al conflicto, según expresamente se concluye del acta de sesión de 13 de abril de 2023.
+
+El informe emitido por la Inspección del Trabajo, nada aporta en esta parte, se limita a enunciar una serie de hechos en forma cronológica y transcribe la interrogación de dos testigos que no se identifican, quienes refieren apreciaciones personales sobre hechos, por lo que sus testimonios bajo ninguna circunstancia puede ser considerada en juicio, por no haber sido prestado en estrado y no tener relación con hechos, sino que corresponde a apreciaciones personales.
+
+Conforme a lo que se ha razonado, no se aprecia la existencia de los hechos que el demandante considera como motivacionales de su despido, ni menos que le hayan vulnerado el derecho a la honra y a su integridad física y psíquica, por lo que procede rechazar la demanda de tutela de derechos fundamentales con ocasión del despido.
+
+EN CUANTO A LA CALIFICACIÓN DEL DESPIDO.
+
+Undécimo: La Asociación Canal Maule puso término al contrato laboral que lo unía con don Julio Agustín Lavín Retamal, fundado en la causal del artículo 161 inciso segundo del Código del trabajo, señalando en la carta que en su calidad de gerente se le pone término a su contrata a partir del 27 de junio de 2023, agregando: “Esta medida se ampara en lo dispuesto en el artículo 161 inciso 2° del C. del Trabajo, precepto legal que dispone que el contrato podrá terminar, tratándose de trabajadores de su condición jerárquica, por desahucio, (…)”; agregando en la contestación de la demanda que “el Sr. Lavín desempeñaba, en la práctica, el cargo de Gerente General, dotado de facultades generales de administración. Adicionalmente, tal como indica expresamente su contrato de trabajo, su cargo era de exclusiva confianza”.
+
+El Sr. Lavín Retamal cuestiona la causal esgrimida, manifestando que las funciones que desarrollaba no constituían las previstas para la causal invocada, por lo que su despido es improcedente.
+
+Procede entrar a analizar la causal invocada, los hechos en que se funda la carta de despido, a fin de determinar si el despido es procedente en la forma planteada.
+
+Duodécimo: Establecido el contenido de la carta de despido y la defensa hecha por el ex empleador, corresponde efectuar el análisis de los fundamentos de derecho para resolver el litigio. Acorde a ello, es importante recordar que por aplicación del art. 454 N° 1 inciso 2° en relación con el art. 162 inciso 1° del Código del Trabajo, el empleador no puede aportar hechos diversos a los descritos en la comunicación de despido, para justificar el término de la relación laboral respecto de la parte demandante.
+Así las cosas, la carta de despido sostiene que la causal de “desahucio” que se aplica al demandante por aplicación del art. 161 inciso 2° del C. del Trabajo tratándose de trabajadores de su condición jerárquica (Gerente), sin referir si es por estar dotado de facultades de representación o por ser de exclusiva confianza.
+Para decidir si la causal de despido es procedente o no, se debe tener presente que el artículo 161 inciso 2° del Código del Trabajo autoriza al empleador a poner término al contrato, sin necesidad de justificación, cuando se trate de “trabajadores que tengan poder para representar al empleador, tales como gerentes, subgerentes, agentes o apoderados, siempre que, en todos estos casos, estén dotados, a lo menos, de facultades generales de administración, y en el caso de los trabajadores de casa particular,..”, agregando que la norma también regirá “tratándose de cargos o empleos de la exclusiva confianza del empleador, cuyo carácter de tales emane de la naturaleza de los mismos”.
+Según se advierte, la norma contempla tres hipótesis frente a las cuales procede la terminación de contrato por la sola voluntad del empleador, a razón de desahucio, sin necesidad de justificación en la comunicación de término, a saber: trabajadores con representación y facultades de administración; trabajadoras de casa particular; y los que detenten cargos de exclusiva confianza, la que emane de la naturaleza de sus servicios. Esta situación debe ser explicitada en la carta de despido, ello es relevante, pues lo que la demandada debería probar en juicio era que el actor prestaba servicio, ejerciendo facultades generales de administración que tuviese atribuciones de representación y administración o bajo exclusiva confianza del Directorio de la Asociación Canal Maule.
+
+El caso es que la comunicación de despido del actor, no explicita en cuál de las hipótesis se encontraría el Sr. Lavín Retamal (con facultades de administración general y/o exclusiva confianza) y que harían procedente el desahucio, dejando sin sustento fáctico el hecho que constituiría la causal esgrimida para despedirlo y que permitiera analizar la prueba rendida.
+
+Aceptar lo planteado en la contestación de la demanda, en cuanto a darle contenido fáctico a la causal genérica de desahucio, es un hecho que no puede ser aceptado, toda vez que ello atenta en contra de la especificad que exige el artículo 162 del Código del Trabajo, al establecer los requisitos que debe tener la carta de despido, que expresamente dispone que esta debe contener la causal o las causales invocadas y los hechos en que se funda; además, se vulnera el derecho a defensa del trabajador, sin saber que controvertir al fundar la demanda, en atención que solo al contestar la demanda se enteraría de los presupuestos fácticos de su despido, quedando en desventaja probatoria respecto al demandado.
+
+En consecuencia, resulta improcedente entrar a analizar la causal del despido, toda vez que no se ha invocado ninguna de las hipótesis que considera el artículo 161 inciso segundo del Código del Trabajo.
+
+Consecuente con lo que se ha venido razonando, procede acoger la demanda de despido injustificado, declarando que el despido del Sr. Lavín Retamal es improcedente, por lo que la demandada le deberá pagar el incremento legal del artículo 168 letra a) del Código del Trabajo, correspondiente a la suma de $10.718.576.
+
+Décimo tercero: En atención a lo precedentemente concluido, resulta inoficiosos entrar a analizar la basta prueba rendida por la parte demandante consistente en set de correos electrónicos relacionados con comunicaciones entre el Gerente, los jefes de unidades y miembros del directorio, que se practicaron estando vigente la relación laboral, además de las actas de sesión de directorios de distintas fechas 2019, 2020, 2023 y que son distintas a las que se analizaron con motivo de la acción de tutela de derechos fundamentales. Tampoco resulta oficioso analizar el oficio remitido por el Banco Itaú que da cuenta sobre los poderes para actuar ante el Banco. Así tampoco ofrece ninguna información que pueda superar la falencia de la carta de despido el oficio remitido por la DGA, toda vez que su información no dice relación con las facultades del Sr. Lavín Retamal o de la exclusiva confianza ante el Directorio.
+Décimo cuarto: En cuanto a la restitución de lo descontado por concepto de seguro de cesantía. En cuanto a la restitución de lo retenido por concepto de seguro de cesantía, el máximo tribunal de justicia ha rechazado recursos de unificación de jurisprudencia de manera sostenida, desde el rol N° 27.867-17, siguiendo con los N° 23.348-2018, N° 4.503-19, N° 19.198-19, N° 16.086-19, N° 6.187-19, N° 12.179-19 y últimamente en los roles N° 19.607-19, 134.204-20 y 6.887-21, 44.919-21, entre otros, donde se ha establecido que una condición sine qua non para que opere el descuento materia de autos, es que el contrato de trabajo haya terminado efectivamente por las causales previstas en el artículo 161 del Código del Trabajo, lo que se ve corroborado por el artículo 168, letra a) del Estatuto Laboral, de manera que si la sentencia declaró injustificado el despido privó de base a la aplicación del inciso segundo del artículo 13 de la Ley N° 19.728, pues tanto la indemnización por años de servicio como la imputación de la parte del saldo de la cuenta individual por cesantía, constituyen un efecto que emanó de la exoneración prevista en el artículo 161 del Código del Trabajo. En consecuencia, si el término del contrato por necesidades de la empresa fue considerado injustificado por el tribunal, simplemente no se satisface la condición, en la medida que el despido no tuvo por fundamento una de las causales que prevé el artículo 13 de la Ley N° 19.728.
+
+En consecuencia es procedente la restitución del dinero que se retuvo por concepto de seguro de cesantía, debiendo restituir la demandada la suma retenida, según da cuenta el correspondiente finiquito, $8.161.767 y que es concordante con lo informado por AFC.
+
+Décimo quinto: En cuanto al daño moral. Para efectos de considerar la existencia de daño moral en materia de despido, es necesario tener presente que no cualquier daño corresponde a dicha categoría, toda vez que el hecho mismo del despido siempre va a ocasionar un daño, ya sea por encontrarse en una situación no esperada, estar frente a la incertidumbre de un trabajo futuro y enfrentarse a los problemas que acarrea la cesantía, hechos que en parte el legislador ha previsto y ha planteado una serie de prestaciones para disminuir tales pesares, como las indemnizaciones propias del término de la relación laboral, el incremento en caso de un mal despido y el seguro de cesantía.
+
+Se ha sostenido que precedería el daño moral ante la existencia de un despido abusivo, debiendo entenderse este, según la doctrina que: “Un despido injustificado o erróneo no es, en principio, abusivo. El despido abusivo alude a un despido excepcionalmente antijurídico. Por ejemplo, hay casos en que el empleador construye falsamente una causal de gravedad con el objetivo de no pagar las indemnizaciones por término de contrato”. [Revista de Derecho de la Pontificia Universidad Católica de Valparaíso XXXIX (Valparaíso, Chile, 2012, 2do Semestre) pp. 161 - 176].
+
+Ahora bien, al no existir vulneración de derechos fundamentales con ocasión del despido y tampoco un despido abusivo, sino un mal despido, calificado de improcedente, corresponden las prestaciones que se han referido en los considerandos que anteceden, por lo que en la especie no se está ante la existencia de una daño moral, correspondiendo rechazar la demanda en esta parte.
+
+Y teniendo además presente lo dispuesto en los artículos 63, 161, 168, 173, 456 y 489 del Código del Trabajo, se resuelve:
+
+I.- Que se rechaza la demanda de tutela de derechos fundamentales con ocasión de despido y daño moral, deducida por don Julio Agustín Lavín Retamal, deducida en contra de su ex empleador, Asociación Canal Maule, representado por don José Manuel Silva Hurtado, ya individualizados.
+II.- Que se acoge la demanda de despido injustificado deducida por don Julio Agustín Lavín Retamal, deducida en contra de su ex empleador, Asociación Canal Maule, representado por don José Manuel Silva Hurtado, declarándose que el despido del demandante es improcedente, por lo que la demandada le deberá pagar las siguientes prestaciones:
+
+a.- Incremento legal del artículo 168 letra a) del Código del Trabajo, la suma de $10.718.576.
+
+b.- Deberá restituir lo descontado por concepto de seguro de cesantía, la suma de $8.161.767.
+
+Las sumas ordenadas pagar deberán intereses y reajustes en la forma que los disponen los artículos 63 y 173 del Código del Trabajo.
+
+En lo demás se rechaza la demanda.
+
+III.- Atendido que se rechazaron dos acciones y solo se accedió a la subsidiaria, cada parte pagará sus costas.
+Notifíquese, regístrese, remítase copia de la sentencia vía correo electrónico y archívese en su oportunidad.
+
+RIT T-136-2023
+
+RUC N° 23-4-0510930-1
+
+Dictó don JUAN MARCELO BRUNA PARADA, Juez Titular del Juzgado de Letras del Trabajo de Talca.
+
+Talca, treinta y uno de mayo de dos mil veinticuatro, se notificó por el estado diario la sentencia que antecede.
+55

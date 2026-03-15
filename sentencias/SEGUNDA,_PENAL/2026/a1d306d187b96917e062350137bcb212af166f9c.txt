@@ -1,0 +1,85 @@
+METADATA
+
+case_id: a1d306d187b96917e062350137bcb212af166f9c
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8036754
+
+rol: 4781-2026
+
+fecha_sentencia: 2026-02-23
+
+caratulado: GRATEROL ALVARADO CAREM Y OTRO CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintitrés de febrero de dos mil veintiséis.
+Vistos:
+Atendido el mérito de los antecedentes, se confirma la sentencia apelada de treinta de enero de dos mil veintiséis, dictada por la Corte de Apelaciones de La Serena, en el Ingreso Corte N°Amparo-57-2026.
+Regístrese y devuélvase.
+Rol N°4594-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Urbina Contreras, Freddy Josué
+
+Servicio Nacional de Migraciones
+
+Recurso de amparo
+
+Rol N°57-2026.-
+
+La Serena, treinta de enero de dos mil veintiséis.
+
+VISTO Y CONSIDERANDO:
+
+PRIMERO: Comparecen Pablo Daniel Peñaloza Parra y Joaquín Andrés Contreras Roa, abogados, en representación de don Freddy Josué Urbina Contreras, ciudadano venezolano, quien deduce recurso de amparo en contra del Servicio Nacional de Migraciones, impugnando la Resolución Exenta N° 2500100322772 de 17 de diciembre de 2025, mediante la cual se rechazó su solicitud de residencia definitiva y se le ordenó abandonar el país dentro del plazo de diez días, por estimarla ilegal y arbitraria, al vulnerar su derecho constitucional a la libertad personal y seguridad individual.
+
+Expone que el amparado ingresó regularmente al país y posteriormente obtuvo residencia temporal sujeta a contrato. Vencido dicho permiso, el 28 de marzo de 2023 solicitó residencia definitiva. Con posterioridad, informó voluntariamente un movimiento migratorio irregular al órgano contralor de frontera, actuando con debida diligencia.
+
+Agrega que el 17 de diciembre de 2025 fue notificado de la resolución recurrida, fundada en la existencia de una denuncia por ingreso o intento de ingreso por paso no habilitado, según Parte Policial N°100 de la PDI de Ovalle, aplicándose los artículos 32 N°3 y 88 N°2 de la Ley 21.325, indicándose además que habría sido previamente notificado, el 12 de noviembre de 2025, para subsanar antecedentes. Sin embargo, nunca recibió comunicación alguna previa, siendo la resolución impugnada la primera noticia del rechazo de su solicitud.
+
+Menciona que la decisión administrativa no considera circunstancias esenciales del caso, tales como que el amparado contaba previamente con residencia temporal, posee arraigo laboral y familiar, mantiene contrato de trabajo vigente, registra cotizaciones previsionales y no presenta antecedentes penales ni en Chile ni en su país de origen, cumpliendo plenamente los requisitos legales para acceder a la residencia definitiva.
+
+Sostiene que la autoridad migratoria omitió otorgar una oportunidad real de subsanación conforme a la Ley N°19.880 y que la orden de abandono resulta desproporcionada, carente de fundamentación suficiente y contraria a los principios de racionalidad y justicia procedimental, afectando directamente su libertad ambulatoria.
+
+Finalmente, solicita se acoja el amparo, se deje sin efecto la resolución impugnada y se ordene al Servicio Nacional de Migraciones efectuar una nueva revisión documental y resolver conforme a derecho la solicitud de residencia definitiva del amparado.
+
+SEGUNDO: Que evacuó informe el Servicio Nacional de Migraciones, solicitando el rechazo del recurso.
+
+Señala que el recurrente ingresó solicitud de residencia definitiva el 28 de marzo de 2023, bajo el número de trámite 63071971. Durante la tramitación de dicha petición, la autoridad migratoria advirtió que el solicitante registraba una denuncia por intento de ingreso o ingreso al país por paso no habilitado, eludiendo el control migratorio, circunstancia acreditada mediante Parte Policial N°100, de 03 de octubre de 2023, emitido por la Policía de Investigaciones de Ovalle, configurándose una causal legal expresa de rechazo, conforme a lo dispuesto en los artículos 32 N°3 y 88 N°2 de la Ley N°21.325 de Migraciones y Extranjería.
+
+Indica que el Servicio Nacional de Migraciones notificó electrónicamente al solicitante el 12 de noviembre de 2025, comunicándole los fundamentos del eventual rechazo y otorgándole un plazo de diez días para presentar antecedentes que permitieran desvirtuar la causal invocada. Sin embargo, vencido dicho plazo, y analizados los documentos acompañados, la autoridad concluyó que no se logró invalidar el fundamento del rechazo, dictándose finalmente resolución exenta de 17 de diciembre de 2025 que denegó la residencia definitiva solicitada.
+
+Menciona que el recurrente participó en el proceso de empadronamiento biométrico efectuado durante el año 2023, mecanismo destinado únicamente al registro e identificación de extranjeros que ingresaron al país por pasos no habilitados, sin que dicho procedimiento importe regularización migratoria automática.
+
+Expone que, la resolución impugnada fue dictada por autoridad competente, conforme a los artículos 37 y 157 N°5 de la Ley N°21.325 y al artículo 42 de su Reglamento, normas que atribuyen exclusivamente al Servicio Nacional de Migraciones la facultad de otorgar, rechazar o revocar permisos de residencia definitiva.
+
+Reitera que se dispuso la medida de abandono voluntario del país, en conformidad al artículo 91 N°4 de la Ley N°21.325, precisándose que dicha determinación no constituye una orden de expulsión, sino un efecto administrativo necesario del rechazo del permiso, cuyo cumplimiento queda entregado a la voluntad del afectado.
+
+Finalmente, sostiene que no existe acto ilegal ni arbitrario, que no se ha dictado medida de expulsión en contra del amparado, y que toda su actuación se ajustó estrictamente al marco constitucional y legal vigente.
+
+TERCERO: Que, el artículo 21 de la Constitución Política de la República establece que todo individuo que se hallare arrestado, detenido o preso con infracción de lo dispuesto en la Constitución o en las leyes, podrá ocurrir por sí, o por cualquiera a su nombre, a la magistratura que señale la ley, a fin de que ésta ordene se guarden las formalidades legales y adopte de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado. Y agrega que el mismo recurso podrá ser deducido a favor de toda persona que ilegalmente sufra cualquiera otra privación, perturbación o amenaza en su la libertad personal y seguridad individual.
+
+CUARTO: Que, el acto impugnado mediante la presente acción constitucional consiste en la Resolución Exenta N° 2500100322772, de 17 de diciembre de 2025, dictada por el Servicio Nacional de Migraciones, mediante la cual se rechazó la solicitud de residencia definitiva presentada por Freddy Josué Urbina Contreras y se dispone el abandono voluntario del territorio nacional.
+
+QUINTO: Que, en primer término, el presente recurso se dirige en contra de la decisión de la autoridad migratoria, en orden a rechazo del requerimiento. Aquello emana del órgano llamado a emitir pronunciamiento y lo fue por una causal legal, lo que es suficiente para desechar el presente libelo, criterio sostenido por el máximo tribunal en autos RIC 49.163-25.
+
+SEXTO: Que, a mayor abundamiento, cabe recordar que conforme al artículo 91 de la Ley N°21.325 al rechazarse una solicitud de residencia, la autoridad migratoria se encuentra obligada a disponer el abandono del territorio nacional, sin que aquella medida importe en sí misma una amenaza a la libertad personal o a la seguridad individual del actor, pues si bien se ha dispuesto por una autoridad pública su abandono del país la medida prevista en el artículo 91 de la Ley N°21.325 no constituye una orden compulsiva, lo que conduce a rechazar el presente recurso al no verificarse alguno de los supuestos previstos en el artículo 21 de la de la Constitución Política de la República.
+
+Por los motivos expuestos, y teniendo presente lo dispuesto en el artículo 21 de la Constitución Política de la República y el Auto Acordado sobre Tramitación del Recurso de Amparo, SE RECHAZA, sin costas, el recurso de amparo interpuesto en favor de Freddy Josué Urbina Contreras en contra del Servicio de Migraciones.
+
+Regístrese, comuníquese y archívese en su oportunidad.
+
+Rol N°57-2026 (Amparo).-
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Urbina Contreras, Freddy JosuéServicio Nacional de MigracionesRecurso de amparoRol N°57-2026.-La Serena, treinta de enero de dos mil veintiséis. VISTO Y CONSIDERANDO: PRIMERO: Comparecen Pablo Daniel Peñaloza Parra y Joaquín Andrés Contreras Roa, abogados, en representación de don Freddy Josué Urbina Contreras, ciudadano venezolano, quien deduce recurso de amparo en contra del Servicio Nacional de Migraciones, impugnando la Resolución Exenta N° 2500100322772 de 17 de diciembre de 2025, mediante la cual se rechazó su solicitud de residencia definitiva y se le ordenó abandonar el país dentro del plazo de diez días, por estimarla ilegal y arbitraria, al vulnerar su derecho constitucional a la libertad personal y seguridad individual.Expone que el amparado ingresó regularmente al país y posteriormente obtuvo residencia temporal sujeta a contrato. Vencido dicho permiso, el 28 de marzo de 2023 solicitó residencia definitiva. Con posterioridad, informó voluntariamente un movimiento migratorio irregular al órgano contralor de frontera, actuando con debida diligencia. Agrega que el 17 de diciembre de 2025 fue notificado de la resolución recurrida, fundada en la existencia de una denuncia por ingreso o intento de ingreso por paso no habilitado, según Parte Policial N°100 de la PDI de Ovalle, aplicándose los artículos 32 N°3 y 88 N°2 de la Ley 21.325, indicándose además que habría sido previamente notificado, el 12 de noviembre de 2025, para subsanar antecedentes. Sin embargo, nunca recibió comunicación alguna previa, siendo la resolución impugnada la primera noticia del rechazo de su solicitud.Menciona que la decisión administrativa no considera circunstancias esenciales del caso, tales como que el amparado contaba previamente con residencia temporal, posee arraigo laboral y familiar, mantiene contrato de trabajo vigente, registra cotizaciones previsionales y no presenta antecedentes penales ni en Chile ni en su país de origen, cumpliendo plenamente los requisitos legales para acceder a la residencia definitiva.Sostiene que la autoridad migratoria omitió otorgar una oportunidad real de subsanación conforme a la Ley N°19.880 y que la orden de abandono resulta desproporcionada, carente de fundamentación suficiente y contraria a los principios de racionalidad y justicia procedimental, afectando directamente su libertad ambulatoria.Finalmente, solicita se acoja el amparo, se deje sin efecto la resolución impugnada y se ordene al Servicio Nacional de Migraciones efectuar una nueva revisión documental y resolver conforme a derecho la solicitud de residencia definitiva del amparado.SEGUNDO: Que evacuó informe el Servicio Nacional de Migraciones, solicitando el rechazo del recurso.Señala que el recurrente ingresó solicitud de residencia definitiva el 28 de marzo de 2023, bajo el número de trámite 63071971. Durante la tramitación de dicha petición, la autoridad migratoria advirtió que el solicitante registraba una denuncia por intento de ingreso o ingreso al país por paso no habilitado, eludiendo el control migratorio, circunstancia acreditada mediante Parte Policial N°100, de 03 de octubre de 2023, emitido por la Policía de Investigaciones de Ovalle, configurándose una causal legal expresa de rechazo, conforme a lo dispuesto en los artículos 32 N°3 y 88 N°2 de la Ley N°21.325 de Migraciones y Extranjería.Indica que el Servicio Nacional de Migraciones notificó electrónicamente al solicitante el 12 de noviembre de 2025, comunicándole los fundamentos del eventual rechazo y otorgándole un plazo de diez días para presentar antecedentes que permitieran desvirtuar la causal invocada. Sin embargo, vencido dicho plazo, y analizados los documentos acompañados, la autoridad concluyó que no se logró invalidar el fundamento del rechazo, dictándose finalmente resolución exenta de 17 de diciembre de 2025 que denegó la residencia definitiva solicitada.Menciona que el recurrente participó en el proceso de empadronamiento biométrico efectuado durante el año 2023, mecanismo destinado únicamente al registro e identificación de extranjeros que ingresaron al país por pasos no habilitados, sin que dicho procedimiento importe regularización migratoria automática.Expone que, la resolución impugnada fue dictada por autoridad competente, conforme a los artículos 37 y 157 N°5 de la Ley N°21.325 y al artículo 42 de su Reglamento, normas que atribuyen exclusivamente al Servicio Nacional de Migraciones la facultad de otorgar, rechazar o revocar permisos de residencia definitiva. Reitera que se dispuso la medida de abandono voluntario del país, en conformidad al artículo 91 N°4 de la Ley N°21.325, precisándose que dicha determinación no constituye una orden de expulsión, sino un efecto administrativo necesario del rechazo del permiso, cuyo cumplimiento queda entregado a la voluntad del afectado.Finalmente, sostiene que no existe acto ilegal ni arbitrario, que no se ha dictado medida de expulsión en contra del amparado, y que toda su actuación se ajustó estrictamente al marco constitucional y legal vigente.TERCERO: Que, el artículo 21 de la Constitución Política de la República establece que todo individuo que se hallare arrestado, detenido o preso con infracción de lo dispuesto en la Constitución o en las leyes, podrá ocurrir por sí, o por cualquiera a su nombre, a la magistratura que señale la ley, a fin de que ésta ordene se guarden las formalidades legales y adopte de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado. Y agrega que el mismo recurso podrá ser deducido a favor de toda persona que ilegalmente sufra cualquiera otra privación, perturbación o amenaza en su la libertad personal y seguridad individual.CUARTO: Que, el acto impugnado mediante la presente acción constitucional consiste en la Resolución Exenta N° 2500100322772, de 17 de diciembre de 2025, dictada por el Servicio Nacional de Migraciones, mediante la cual se rechazó la solicitud de residencia definitiva presentada por Freddy Josué Urbina Contreras y se dispone el abandono voluntario del territorio nacional.QUINTO: Que, en primer término, el presente recurso se dirige en contra de la decisión de la autoridad migratoria, en orden a rechazo del requerimiento. Aquello emana del órgano llamado a emitir pronunciamiento y lo fue por una causal legal, lo que es suficiente para desechar el presente libelo, criterio sostenido por el máximo tribunal en autos RIC 49.163-25.SEXTO: Que, a mayor abundamiento, cabe recordar que conforme al artículo 91 de la Ley N°21.325 al rechazarse una solicitud de residencia, la autoridad migratoria se encuentra obligada a disponer el abandono del territorio nacional, sin que aquella medida importe en sí misma una amenaza a la libertad personal o a la seguridad individual del actor, pues si bien se ha dispuesto por una autoridad pública su abandono del país la medida prevista en el artículo 91 de la Ley N°21.325 no constituye una orden compulsiva, lo que conduce a rechazar el presente recurso al no verificarse alguno de los supuestos previstos en el artículo 21 de la de la Constitución Política de la República.Por los motivos expuestos, y teniendo presente lo dispuesto en el artículo 21 de la Constitución Política de la República y el Auto Acordado sobre Tramitación del Recurso de Amparo, SE RECHAZA, sin costas, el recurso de amparo interpuesto en favor de Freddy Josué Urbina Contreras en contra del Servicio de Migraciones. Regístrese, comuníquese y archívese en su oportunidad.Rol N°57-2026 (Amparo).-                         ⚠                      Sin documento en esta instancia - pdf
