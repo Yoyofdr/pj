@@ -4,19 +4,19 @@ case_id: 67aea8743095ec1c7a9b7196633340e3aafa3baa
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040699
 
-rol: 5482-2026
+rol: 6109-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: LEAL DIEGO ANDRÉS CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: MINISTERIO PUBLICO C/ OSCAR HERNAN CANUPAN CALFIN
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: ▪ Recurso de nulidad
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: DECLARA INADMISIBLE RECURSO DE NULIDAD, REMITE ANT
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
