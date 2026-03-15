@@ -1,0 +1,67 @@
+METADATA
+
+case_id: d66afb6d1e995bf192c55dbd234d3336c96701a9
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8035811
+
+rol: 5457-2026
+
+fecha_sentencia: 2026-02-20
+
+caratulado: BUSES DEL GRAN VALPARAÍSO S.A./INSPECCIÓN PROVINCIAL DEL TRABAJO DE VALPARAÍSO
+
+sala: CUARTA, MIXTA
+
+materias: ▪ Recurso de unificación de jurisprudencia
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: INADMISIBLE UNIFICACIÓN DE JURISPRUDENCIA, NO ES MATERIA PROPIA DE UNIFICACION
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veinte de febrero de dos mil veintiséis.
+A los alegatos solicitados en escrito folio N° 5: atento a lo dispuesto por el Auto Acordado sobre la forma de conocimiento del recurso de Apelación de los Recursos de Amparo ante esta Corte Suprema, registrado en el Acta N° 105-2024 de esta Excma. Corte Suprema, publicado con fecha 17 de mayo de 2024, y no habiéndose justificado suficientemente la necesidad de escuchar alegatos en atención al derecho invocado, no ha lugar.
+Vistos:
+Se confirma la sentencia apelada de veintiséis de enero de dos mil veintiséis, dictada por la Corte de Apelaciones de Iquique, en el Ingreso Corte N°Amparo-13-2026.
+Regístrese y devuélvase.
+Rol N°4525-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Iquique, veintiséis de enero de dos mil veintiséis.
+
+VISTO:
+
+Comparece doña Aurelia Tarqui Quispe, a favor de su esposo Wilson Colque Espejo, de nacionalidad boliviana, por quien deduce acción de amparo constitucional en contra de la Policía de Investigaciones de Chile, por impedir su ingreso al territorio nacional, situación que constituye una amenaza grave y actual a su derecho a la libertad personal y seguridad individual garantizado en el artículo 19 N°7 de la Constitución Política de la República.
+
+Expone que el 16 de diciembre de 2025 amparado intentó ingresar a Chile por un paso fronterizo habilitado, oportunidad en que funcionarios de la Policía de Investigaciones le habrían informado verbalmente la existencia de una “anotación” registrada desde el año 2007, sin que se le notificara resolución escrita ni certificado formal que fundamentara el impedimento de ingreso. Señala que la negativa se habría sustentado exclusivamente en un “criterio del superior”, pese a que la supuesta anotación se encontraría cumplida o expirada, según lo manifestado por los propios funcionarios policiales.
+
+Refiere que el impedimento de ingreso se produjo sin que se le comunicaran por escrito los hechos ni la causal legal específica que justificara la decisión, ni se dejara constancia administrativa de una prohibición de ingreso, lo que a juicio de la recurrente vulnera las exigencias de legalidad, debido proceso y motivación de los actos administrativos en materia migratoria.
+
+Añade que el amparado mantiene vínculos familiares relevantes en Chile, en particular con su cónyuge, quien cuenta con residencia definitiva, y con su hija menor de edad de nacionalidad chilena, circunstancia que no habría sido considerada al momento de impedir su ingreso al país.
+
+Concluye que el actuar de la Policía de Investigaciones constituye un acto arbitrario e ilegal, al haberse impedido el ingreso del amparado sin resolución formal, sin procedimiento previo y sin comunicación escrita de la causal legal invocada, solicitando se adopten las medidas necesarias para restablecer el imperio del derecho y permitir su ingreso al territorio nacional.
+
+Evacua informe la Policía de Investigaciones de Chile, señala que, conforme a sus sistemas institucionales, el amparado registra una medida de expulsión del territorio nacional dispuesta mediante Resolución Exenta N°567, de 17 de mayo de 2007, dictada por la entonces Intendencia Regional de Tarapacá, la cual fue materializada el 25 de octubre de 2011 por el paso fronterizo de Colchane. No obstante, señala que no existe registro institucional que dé cuenta de un impedimento de ingreso aplicado el día 16 de diciembre de 2025, ni certificado de prohibición de ingreso emitido en dicha oportunidad, precisando que, de haberse aplicado una prohibición, la normativa vigente exige su comunicación escrita inmediata al afectado, lo que no consta en este caso.
+
+Evacua informe el Servicio Nacional de Migraciones, sostiene que la situación migratoria del amparado se encuentra determinada por el Decreto Afecto N°567/2007, acto administrativo válido y vigente, cuya legalidad fue controlada y que fue objeto de impugnación administrativa posterior, rechazada en el año 2017. Agrega que el intento de regularización extraordinaria presentado en 2019 fue rechazado, manteniéndose expresamente vigentes las medidas de expulsión o prohibición de ingreso existentes, razón por la cual no existe acto u omisión ilegal o arbitraria imputable a dicho Servicio en los hechos denunciados. Acompaña documentos.
+
+Se trajeron los autos en relación.
+
+CON LO RELACIONADO Y CONSIDERANDO:
+
+PRIMERO: El artículo 21 de la Constitución Política de la República prevé que todo individuo que se hallare arrestado, detenido o preso con infracción de lo dispuesto en la Constitución o en las leyes, podrá ocurrir por sí, por cualquiera a su nombre, a la magistratura que señale la ley, a fin de que ésta ordene se guarden las formalidades legales y adopte de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado. Y agrega que el mismo recurso podrá ser deducido a favor de toda persona que ilegalmente sufra cualquiera otra privación, perturbación o amenaza en su derecho a la libertad personal y seguridad individual.
+
+SEGUNDO: Que del tenor del recurso se colige que el amparado acciona contra la prohibición de ingreso al país que existiría en su contra, por carecer aquella de fundamentación y afectar su libertad y seguridad individual.
+
+TERCERO: Que valorados los antecedentes en conformidad a las reglas de la sana crítica no puede establecerse actuar ilegal o arbitrario de la autoridad recurrida, desde que no existe constancia que se le haya prohibido el ingreso al país por la resolución de expulsión emanada de la entonces Intendencia Regional de Tarapacá, por lo que la presente acción constitucional será rechazada por falta de los presupuestos de hecho que lo sustentan.
+Por estas consideraciones y de conformidad, además, con lo prevenido en el artículo 21 de la Constitución Política de la República y Auto Acordado de la Excelentísima Corte Suprema de Justicia sobre la materia, SE RECHAZA la acción constitucional de amparo interpuesta a favor de don Wilson Colque Espejo en contra de la Policía de Investigaciones de Chile.
+
+Regístrese, comuníquese y en su oportunidad, archívese.
+
+Rol N°13-2026 Amparo.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Iquique, veintiséis de enero de dos mil veintiséis. VISTO:Comparece doña Aurelia Tarqui Quispe, a favor de su esposo Wilson Colque Espejo, de nacionalidad boliviana, por quien deduce acción de amparo constitucional en contra de la Policía de Investigaciones de Chile, por impedir su ingreso al territorio nacional, situación que constituye una amenaza grave y actual a su derecho a la libertad personal y seguridad individual garantizado en el artículo 19 N°7 de la Constitución Política de la República.Expone que el 16 de diciembre de 2025 amparado intentó ingresar a Chile por un paso fronterizo habilitado, oportunidad en que funcionarios de la Policía de Investigaciones le habrían informado verbalmente la existencia de una “anotación” registrada desde el año 2007, sin que se le notificara resolución escrita ni certificado formal que fundamentara el impedimento de ingreso. Señala que la negativa se habría sustentado exclusivamente en un “criterio del superior”, pese a que la supuesta anotación se encontraría cumplida o expirada, según lo manifestado por los propios funcionarios policiales.Refiere que el impedimento de ingreso se produjo sin que se le comunicaran por escrito los hechos ni la causal legal específica que justificara la decisión, ni se dejara constancia administrativa de una prohibición de ingreso, lo que a juicio de la recurrente vulnera las exigencias de legalidad, debido proceso y motivación de los actos administrativos en materia migratoria.Añade que el amparado mantiene vínculos familiares relevantes en Chile, en particular con su cónyuge, quien cuenta con residencia definitiva, y con su hija menor de edad de nacionalidad chilena, circunstancia que no habría sido considerada al momento de impedir su ingreso al país.Concluye que el actuar de la Policía de Investigaciones constituye un acto arbitrario e ilegal, al haberse impedido el ingreso del amparado sin resolución formal, sin procedimiento previo y sin comunicación escrita de la causal legal invocada, solicitando se adopten las medidas necesarias para restablecer el imperio del derecho y permitir su ingreso al territorio nacional.Evacua informe la Policía de Investigaciones de Chile, señala que, conforme a sus sistemas institucionales, el amparado registra una medida de expulsión del territorio nacional dispuesta mediante Resolución Exenta N°567, de 17 de mayo de 2007, dictada por la entonces Intendencia Regional de Tarapacá, la cual fue materializada el 25 de octubre de 2011 por el paso fronterizo de Colchane. No obstante, señala que no existe registro institucional que dé cuenta de un impedimento de ingreso aplicado el día 16 de diciembre de 2025, ni certificado de prohibición de ingreso emitido en dicha oportunidad, precisando que, de haberse aplicado una prohibición, la normativa vigente exige su comunicación escrita inmediata al afectado, lo que no consta en este caso.Evacua informe el Servicio Nacional de Migraciones, sostiene que la situación migratoria del amparado se encuentra determinada por el Decreto Afecto N°567/2007, acto administrativo válido y vigente, cuya legalidad fue controlada y que fue objeto de impugnación administrativa posterior, rechazada en el año 2017. Agrega que el intento de regularización extraordinaria presentado en 2019 fue rechazado, manteniéndose expresamente vigentes las medidas de expulsión o prohibición de ingreso existentes, razón por la cual no existe acto u omisión ilegal o arbitraria imputable a dicho Servicio en los hechos denunciados. Acompaña documentos.Se trajeron los autos en relación.CON LO RELACIONADO Y CONSIDERANDO: PRIMERO: El artículo 21 de la Constitución Política de la República prevé que todo individuo que se hallare arrestado, detenido o preso con infracción de lo dispuesto en la Constitución o en las leyes, podrá ocurrir por sí, por cualquiera a su nombre, a la magistratura que señale la ley, a fin de que ésta ordene se guarden las formalidades legales y adopte de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado. Y agrega que el mismo recurso podrá ser deducido a favor de toda persona que ilegalmente sufra cualquiera otra privación, perturbación o amenaza en su derecho a la libertad personal y seguridad individual. SEGUNDO: Que del tenor del recurso se colige que el amparado acciona contra la prohibición de ingreso al país que existiría en su contra, por carecer aquella de fundamentación y afectar su libertad y seguridad individual.TERCERO: Que valorados los antecedentes en conformidad a las reglas de la sana crítica no puede establecerse actuar ilegal o arbitrario de la autoridad recurrida, desde que no existe constancia que se le haya prohibido el ingreso al país por la resolución de expulsión emanada de la entonces Intendencia Regional de Tarapacá, por lo que la presente acción constitucional será rechazada por falta de los presupuestos de hecho que lo sustentan.Por estas consideraciones y de conformidad, además, con lo prevenido en el artículo 21 de la Constitución Política de la República y Auto Acordado de la Excelentísima Corte Suprema de Justicia sobre la materia, SE RECHAZA la acción constitucional de amparo interpuesta a favor de don Wilson Colque Espejo en contra de la Policía de Investigaciones de Chile.Regístrese, comuníquese y en su oportunidad, archívese. Rol N°13-2026 Amparo.                        ⚠                      Sin documento en esta instancia - pdf
