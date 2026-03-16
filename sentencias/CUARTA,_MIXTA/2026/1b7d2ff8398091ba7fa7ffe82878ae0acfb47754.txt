@@ -14,7 +14,7 @@ sala: CUARTA, MIXTA
 
 materias: ▪ Recurso de unificación de jurisprudencia
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) CASACIÓN FONDO
 
 resultado_recurso: INADMISIBLE UNIFICACIÓN DE JURISPRUDENCIA
 

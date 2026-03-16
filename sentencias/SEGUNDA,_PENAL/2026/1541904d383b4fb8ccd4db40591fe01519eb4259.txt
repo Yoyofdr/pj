@@ -4,7 +4,7 @@ case_id: 1541904d383b4fb8ccd4db40591fe01519eb4259
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044520
 
-rol: 57436-2025
+rol: 56481-2025
 
 fecha_sentencia: 2026-02-26
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Delitos contra la propiedad y el patrimonio
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) CASACIÓN FONDO
 
 resultado_recurso: ACOGE RECURSO DE NULIDAD (M)
 
