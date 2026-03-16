@@ -1,0 +1,3075 @@
+METADATA
+
+case_id: 11a7f23a1109c6a55b5a9872372acad5953584aa
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062804
+
+rol: 56795-2025
+
+fecha_sentencia: 2026-03-13
+
+caratulado: COMPAÑÍA DE PETROLEOS DE CHILE COPEC S.A CONTRA SUPERINTENDENCIA DE ELECTRICIDAD Y COMBUSTIBLES
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (CIVIL) CASACIÓN FONDO
+
+recurso: (CIVIL) CASACIÓN FONDO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+10
+Santiago, trece de marzo de dos mil veintiséis.
+Vistos y teniendo presente:
+Primero: Que, en estos autos Rol Nº 18.884-2025, caratulados “Montecinos Cortés, Gerardo con Ilustre Municipalidad de La Serena”, y de conformidad con lo dispuesto en los artículos 781 y 782 del Código de Procedimiento Civil, se ordena dar cuenta de los recursos de casación en la forma y en el fondo interpuestos por el demandante en contra de la sentencia de fecha quince de abril del año dos mil veinticinco, dictada por la Corte de Apelaciones de La Serena, que rechazó el recurso de casación en la forma deducido por la demandante y confirmó la sentencia apelada de diecinueve de abril del año dos mil veintitrés, pronunciada por el Primer Juzgado de Letras de La Serena, que rechazó la demanda de indemnización de perjuicios por falta de servicio.
+I.- En cuanto al recurso de casación en la forma:
+Segundo: Que el demandante funda el arbitrio de nulidad formal, en primer término, en la causal prevista en el artículo 768 Nº 5, en relación con el Nº 4 del artículo 170, ambos del Código de Procedimiento Civil. Sostiene que la sentencia incurre en el vicio denunciado al no considerar —esto es, al no reflexionar de manera detenida y razonada— sobre prácticamente la totalidad de la prueba rendida por las partes, especialmente la aportada por la actora.
+En efecto, la sentencia de primer grado —confirmada por el fallo impugnado— se limita a efectuar un mero listado de los medios probatorios acompañados, sin desarrollar un análisis crítico de su mérito ni explicar su incidencia en la resolución del conflicto. Acto seguido, se circunscribe a examinar la excepción perentoria de falta de legitimación pasiva opuesta por la demandada, para luego invocar disposiciones legales que, según afirma, resultan manifiestamente inaplicables al caso de autos. Sobre esa base, concluye que los daños sufridos en un bien municipal serían de cargo del organizador del evento, acogiendo la referida excepción con apoyo en tres documentos que, además de ser insuficientes, no guardan relación con el asunto efectivamente debatido.
+Tercero: Que, al explicar de qué manera el vicio denunciado ha influido en lo dispositivo del fallo, el recurrente sostiene que, de haberse cumplido con la exigencia del artículo 170 Nº 4 del Código de Procedimiento Civil, el tribunal habría llegado al convencimiento de que los daños provocados constituyen una consecuencia directa y necesaria de la falta de servicio imputada a la Municipalidad demandada.
+Cuarto: Que, en la especie, los sentenciadores del mérito confirmaron la decisión del tribunal de primer grado que acogió la excepción de falta de legitimación pasiva opuesta por la demandada y, en consecuencia, rechazó la demanda de indemnización de perjuicios. En ese contexto, la sentencia delimita la controversia, en primer término, al examen de dicha excepción perentoria.
+Sostiene que, del marco normativo que regula la actividad deportiva en general y el fútbol profesional en particular —especialmente las Leyes Nos 19.712, 19.327, 20.019, 20.178 y 19.496—, es posible concluir que la responsabilidad por los daños sufridos al interior de un estadio con ocasión de un espectáculo deportivo recae en el organizador del evento. Ello, atendido, entre otras consideraciones, a que quien obtiene los beneficios económicos de la actividad debe también asumir las externalidades que ésta genera, citándose para ello diversas disposiciones de los cuerpos legales mencionados.
+Añade que, aun cuando la falta de servicio alegada se funda, entre otros aspectos, en la ausencia de iluminación y señalización en el estadio, corresponde precisar que, tratándose de la calidad de la Municipalidad de La Serena como administradora del recinto —y no como organizadora del evento—, ésta cumplió con las obligaciones vinculadas a la autorización de funcionamiento del estadio con anterioridad a la realización del partido. Sobre el particular, se hace referencia a lo dispuesto en el artículo 4° de la Ley N° 19.327 y en el artículo 10° de su Reglamento.
+A este respecto, se concluye que la Municipalidad cumplió con dicha obligación, según da cuenta la copia de la Resolución Exenta N° 840, dictada por la Gobernación Provincial de Elqui con fecha 10 de octubre de 2018, la cual, valorada conforme al artículo 342 Nº 3 del Código de Procedimiento Civil y, por ende, apreciada según la regla del artículo 1700 del Código Civil, constituye plena prueba de que el recinto reunía las condiciones de seguridad necesarias para la realización del evento deportivo, sin perjuicio de las exigencias establecidas en la Ordenanza General de Urbanismo y Construcciones y en el Reglamento.
+Finalmente, respecto de la alegación de la demandante en orden a que, por tratarse el Estadio La Portada de un bien nacional de uso público, resultaría aplicable la responsabilidad por falta de servicio, se señala que, conforme al Decreto Alcaldicio N° 2402-12 —valorado igualmente de acuerdo con el artículo 342 Nº 3 del Código de Procedimiento Civil y apreciado conforme al artículo 1700 del Código Civil—, es posible colegir que el estadio se encuentra inscrito a nombre de la Municipalidad, que ejerce su administración, y que su naturaleza jurídica no corresponde a la de un bien nacional de uso público, sino a la de un bien municipal.
+Quinto: Que, en cuanto al arbitrio de nulidad formal, y conforme se desprende de los razonamientos previamente reseñados, los reproches planteados en el recurso no se configuran en la especie. En efecto, de los antecedentes se advierte que la judicatura de base precisó y delimitó el marco normativo aplicable y, seguidamente, enumeró y analizó la prueba rendida —en particular la documental— para resolver acoger la excepción de falta de legitimación pasiva opuesta por la Municipalidad y rechazar la demanda de indemnización de perjuicios. Ello, sobre la base de que, de los cuerpos legales y normas citadas, concluyó que la responsabilidad por los daños sufridos al interior de un estadio con ocasión de un espectáculo deportivo recae en el organizador del evento y no en el administrador del recinto.
+A mayor abundamiento, cabe recordar que el vicio denunciado solo se configura cuando la sentencia carece de los fundamentos fácticos o jurídicos que le sirven de sustento; esto es, cuando no desarrolla los razonamientos que conducen a la decisión ni contiene la fundamentación normativa que la explica. Tal situación, como se aprecia, no concurre en autos, desde que los sentenciadores han dado cumplimiento a la exigencia legal de motivar lo resuelto, aun cuando sus conclusiones no sean compartidas por quien recurre. Ello conduce necesariamente a desestimar el recurso en estudio.
+Sexto: Que, en segundo término, el actor denuncia que el fallo incurrió en el vicio contemplado en el artículo 768 Nº 4 del Código de Procedimiento Civil, consistente “en haber sido dada en ultra petita, esto es, otorgando más de lo pedido por las partes o extendiéndola a puntos no sometidos a la decisión del tribunal, sin perjuicio de las facultades que tenga éste para fallar de oficio en los casos determinados por la ley”.
+Tal reproche se formula a propósito del rechazo de la demanda como consecuencia de haberse acogido la excepción de falta de legitimación pasiva opuesta por la demandada, decisión en virtud de la cual se declaró que el responsable de los hechos alegados sería el Club Deportes La Serena S.A.D.P., entidad que —según se afirma— sería la legitimada en la presente disputa conforme a la regulación contenida en la Ley Nº 19.327 y su Reglamento, entre otras normas.
+En otros términos, sostiene que el tribunal resolvió la excepción utilizando como fundamento imprescindible una normativa que jamás formó parte de la causa de pedir de la defensa opuesta, apartándose así de los términos en que las partes estructuraron sus escritos de discusión.
+Séptimo: Que, desde luego, es menester recordar que entre los principios rectores del proceso se encuentra el de congruencia, que exige conformidad entre el fallo y las pretensiones oportunamente formuladas por las partes en sus escritos fundamentales. Este principio se vincula estrechamente con el dispositivo, que impone al juez el deber de ceñir su decisión a lo que ha sido pedido por los litigantes.
+Octavo: Que la incongruencia se encuentra configurada como causal de casación en la forma en el artículo 768 Nº 4 del Código de Procedimiento Civil, que sanciona el haber fallado ultra petita, esto es, otorgando más de lo solicitado o extendiendo la decisión a materias no sometidas al conocimiento del tribunal, salvo los casos en que la ley autoriza a fallar de oficio.
+Noveno: Que, asentado lo anterior, la irregularidad denunciada no se configura en la especie. En efecto, los hechos y fundamentos invocados por el recurrente no satisfacen los presupuestos de la causal alegada, desde que no se aprecia incongruencia alguna. Del tenor de la sentencia se advierte que los sentenciadores se pronunciaron expresamente sobre las alegaciones, excepciones y defensas formuladas oportunamente en la etapa de discusión, particularmente en la contestación de la demanda.
+En consecuencia, el vicio denunciado se construye sobre una premisa que no resulta efectiva, lo que evidencia una comprensión errónea de las conclusiones alcanzadas por los jueces del fondo. No se advierte pronunciamiento respecto de un supuesto fáctico o jurídico que exceda el marco que correspondía examinar conforme a la acción deducida y a la normativa aplicable.
+Décimo: Que, por lo razonado en los acápites precedentes, no se encuentran acreditados los presupuestos de las causales de nulidad denunciadas, razón por la cual el presente arbitrio no puede prosperar y debe ser declarado inadmisible.
+II.- En cuanto al recurso de casación en el fondo:
+Undécimo: Que, en el arbitrio de nulidad sustancial el demandante denuncia la contravención a los artículos 1º inciso 4º, 19 Nº 1 y 38 inciso 2º de la Constitución Política de la República, 1698, 1702, 1712, 1713, 2314, 2329 N° 3 y 2330 del Código Civil, 384 N° 1 y N° 6, 399 inciso 1° y 426 del Código de Procedimiento Civil, 4° de la Ley N° 18.575 y el 152 de la Ley N° 18.695.
+Afirma que, el fallo de segunda instancia, al ser confirmatorio del de primera instancia, no consideró a la hora de acoger la excepción de falta de legitimación activa y rechazar la demanda, la numerosa prueba rendida en autos, afirmando que el resto de la prueba allegada al proceso y pormenorizadamente “mas no analizada” en nada alteraría lo razonado.
+Tal razonamiento, a su juicio es absolutamente errado y contraviene textos legales citados, no siendo efectivo lo declarado, pues se rindió abundante prueba que da cuenta del hecho de que la entidad responsable del accidente es la Municipalidad de La Serena; además de estar acreditado los daños sufridos con ocasión del accidente cuya ocurrencia se debió a la falta de servicio de la demandada.
+En ese contexto, señala que la sentencia omitió considerar que la demandada confesó judicialmente ser responsable de accidentes que ocurrieren en bienes municipales, así como en la vía pública, e incluso lo declarado en los escritos permite afirmar que las circunstancias del accidente fueron reconocidas de forma espontánea. Ello, constituye una verdadera confesión judicial que simplemente no fue considerada por los jueces de las instancias respectivas.
+Duodécimo: Que, a fin de resolver los reproches del recurso en análisis, se hace indispensable traer a colación los términos en que el actor formuló su acción.
+En efecto, el demandante dedujo demanda en contra de la Municipalidad de La Serena con el objeto de obtener indemnización de perjuicios por los daños que afirma haber sufrido a raíz de una falta de servicio ocurrida el 8 de junio de 2019, en el marco del partido de fútbol entre Club Deportes La Serena y Universidad Católica, realizado en el Estadio La Portada, donde cayó repentinamente a un pasillo en desnivel, golpeándose fuertemente el brazo izquierdo.
+Que, por su parte, la sentencia de primera instancia acogió la excepción de legitimación pasiva opuesta por la Municipalidad demandada y rechazó la demanda, argumentando que del examen de las Leyes N°s 19.712, 19.327, 20.019, 20.178 y 19.496 es posible concluir que la responsabilidad por los daños sufridos al interior del estadio con ocasión del partido de fútbol recae en el organizador del evento, en la especie el Club Deportes La Serena S.A.D.P.
+Décimo tercero: Que, en consecuencia, en los términos precisos en que fue planteada la controversia —particularmente la imputación de responsabilidad formulada en la demanda y la excepción fundada en que el responsable de los hechos ocurridos en el recinto durante el desarrollo de las actividades deportivas sería el Club Deportes La Serena, correspondiéndole a dicho club la legitimación pasiva—, resulta pertinente atender a los presupuestos establecidos en la Ley Nº 19.327 y su Reglamento, normativa que regula los derechos y deberes de los asistentes, los requisitos de los recintos deportivos y las obligaciones de las organizaciones del fútbol profesional.
+Que, en tal sentido, la sentencia impugnada —que confirmó lo resuelto por el juez a quo— analizó detalladamente la excepción, concluyendo que el eventual responsable de la falta de servicio denunciada sería el club deportivo. Ello permite colegir que los sentenciadores no han podido incurrir en la infracción denunciada, desde que dicho club no fue emplazado como demandado en autos.
+Décimo cuarto: Que, atendido lo razonado en el motivo anterior, sólo cabe desechar el reproche, por cuanto el acogimiento de la excepción de falta de legitimación pasiva de la demandada tornaba innecesario el análisis de los medios de prueba rendidos por la actora, al no haber sido emplazado quien, según los sentenciadores, debía responder por la falta denunciada.
+Décimo quinto: Que, por tanto, y no habiéndose incurrido por parte de los jueces del fondo en los errores de derecho denunciados, el presente arbitrio de nulidad de fondo no podrá prosperar, por adolecer de manifiesta falta de fundamento.
+Por estas consideraciones y de conformidad, además, con lo dispuesto en los artículos 764, 765, 766, 767, 768 y 805 del Código de Procedimiento Civil, se declara inadmisible el recurso de casación en la forma y se rechaza el recurso de casación en el fondo deducidos por José Antonio Gagliano Silva, abogado en representación del demandante, en contra de la sentencia de fecha quince de abril del año dos mil veinticinco, dictada por la Corte de Apelaciones de La Serena.
+Regístrese y devuélvase.
+Redacción a cargo de la Abogada Integrante Sra. Andrea Ruiz R.
+Rol N° 18.884-2025.
+Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los Ministros (as) Sra. Adelita Ravanales A., Sr. Jean Pierre Matus A. y Sra. Mireya López M. y por las Abogadas Integrantes Sra. Pia Tavolari G. y Sra. Andrea Ruiz R. No firman, no obstante haber concurrido a la vista y al acuerdo de la causa, la Ministra Sra. López y la Abogada Integrante Sra. Tavolari por no encontrarse disponible sus dispositivos electrónicos de firma.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Montecinos Cortés, Gerardo
+
+Ilustre Municipalidad de La Serena
+
+Indemnización de Perjuicios
+
+Rol N°1614-2023 (Rol N°C-284-2020 del Primer Juzgado de Letras de La Serena).-
+
+La Serena, quince de abril de dos mil veinticinco.
+
+Visto:
+
+I.- En cuanto al recurso de casación en la forma.
+
+Primero: Que la demandante ha recurrido de casación en la forma en contra de sentencia dictada por el Primer Juzgado de Letras de La Serena, de diecinueve de abril de dos mil veintitrés, que acogió excepción de falta de legitimación pasiva y rechaza acción de indemnización de perjuicios por responsabilidad extracontractual.
+
+Segundo: Que la recurrente funda el presente arbitrio en la causal del numeral cuarto del artículo 768 del Código de Procedimiento Civil, en cuanto la sentencia se extiende a puntos no sometidos a la decisión del tribunal, al fundar su decisión en el marco normativo previsto por la Ley 19.496, lo que no fue ventilado en la discusión.
+
+Pide, en razón de lo expuesto, se anule la sentencia recurrida, se dicte fallo de reemplazo y se haga lugar a la acción interpuesta.
+
+Tercero: Que, en primer término, cabe tener en consideración que el máximo Tribunal, sobre el tema, ha dicho que, “… de acuerdo con el estatuto procesal civil, el vicio de ultra petita se configura cuando una sentencia otorga más de lo pedido por las partes o se extiende a puntos no sometidos a la decisión del tribunal, caso este último que la doctrina denomina extra petita” (Corte Suprema Rol N°48-2022).
+
+Luego, pertinente es traer a colación el artículo 160 del Código de Procedimiento Civil, de acuerdo al cual las sentencias se pronunciarán conforme al mérito del proceso y no podrán extenderse a puntos que no hayan sido sometidos expresamente a juicio por los litigantes, salvo en cuanto las leyes manden o permitan a los tribunales proceder de oficio.
+
+Cuarto: Que, por tanto, en cuanto al punto preciso en que se sostiene la nulidad formal levantada por el demandante es menester invocar lo que ha sostenido el tribunal supremo, en cuanto a “Cuarto: Que los jueces del fondo para zanjar el asunto sometido a su conocimiento, no están de modo alguno impedidos para efectuar las consideraciones o apreciaciones que le permitan resolver la cuestión debatida y que aparezcan más acordes a ella, aun cuando éstas no hayan sido esgrimidas por las partes, como también fundarse en disposiciones legales que no hayan sido invocadas por éstas, pues es la sentencia la que determina el derecho aplicable a los hechos probados y establecidos en el juicio”. (Corte Suprema Rol N° 1.630-2010).
+
+Quinto: Que, en consecuencia, lo razonado en la sentencia en alzada, en sus motivos décimo a décimo cuarto, no configura la causal que funda el recurso, por cuanto el sentenciador sólo determina el derecho aplicable al caso concreto, ejercicio propio de la labor jurisdiccional, resultando innecesario que éste sea precisado por las partes, por lo que la sentencia no es nula y e importa necesariamente que el recurso sea desestimado.
+
+II.- En cuanto a la apelación.
+
+Teniendo en consideración que los argumentos invocados por el recurrente no desvirtúan los fundamentos de la decisión en alzada, que esta Corte comparte, con especial consideración en la improcedencia de la pretensión de imputar falta de servicio a un hecho materializado en el contexto de un evento organizado por un privado y regido por ley especial.
+
+Por estas consideraciones, visto lo dispuesto en los artículos 186 y 768 del Código de Procedimiento Civil, se resuelve que:
+
+1.- Se RECHAZA el recurso de casación en la forma interpuesto por la demandante.
+
+2.- Se CONFIRMA, sin costas, la sentencia apelada de diecinueve de abril de dos mil veintitrés, dictada por el Primer Juzgado de Letras de La Serena.
+
+Regístrese y devuélvase vía interconexión.
+
+Rol N°1614-2023 Civil.-
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C-284-2020
+
+FOJA: 121 .-Ciento veintiuno.-
+
+NOMENCLATURA : 1. [40]Sentencia
+JUZGADO : 1 Juzgado de Letras de la Serenaº
+CAUSA ROL : C-284-2020
+CARATULADO : MONTECINOS/ILUSTRE MUNICIPALIDAD DE
+LA SERENA
+
+La Serena, diecinueve de abril de dos mil veintitrés.
+
+VISTOS:
+
+Que con fecha 21 de enero de 2020 (folio 1), comparece don
+
+Marcelo Alejandro Nasser Olea, abogado, cédula nacional de
+
+identidad N°9.761.456-3, domiciliado en Calle Ebro N°2740, Oficina
+
+306, Las Condes, Santiago, en representación de don GERARDO
+
+ANTONIO MONTECINOS CORTÉS, chileno, empleado, cédula
+
+nacional de identidad N°10.525.717-1, domiciliado en Julio Valenzuela
+
+N°365, Coquimbo; deduciendo demanda de indemnización de
+
+perjuicios, en contra de la ILUSTRE MUNICIPALIDAD DE LA
+
+SERENA, organismo autónomo de derecho público, RUT
+
+N°69.040.100-2, representada por su alcalde don Roberto Elías Jacob
+
+Jure, cédula nacional de identidad N°6.356.671-3, con domicilio en
+
+Edificio Consistorial, Calle Prat N°451, La Serena, en atención a los
+
+fundamentos de hecho y de derecho que señala.
+
+Los hechos.
+
+Refiere que con fecha 08 de junio de 2019 en el marco de un
+
+partido de fútbol entre Club Deportes La Serena vs. Universidad
+
+Católica asistió al Estadio La Portada de esta ciudad su representado
+
+don Gerardo Antonio Montecinos Cortés, acompañado por su hijo
+
+Matías Montecinos González.
+
+Aproximadamente a las 19:15, tras pasar por sector de control
+
+de tickets y la posterior revisión del personal de seguridad, ambas
+
+1
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+personas se dirigieron al sector Tribuna Martín Badía, sector
+
+“Superior”, en búsqueda de los asientos que les correspondían.
+
+A la hora señalada las luces del estadio se encontraban
+
+apagadas y no existía luz diurna natural, dado que era horario de
+
+invierno.
+
+Seguidamente, y luego de caminar unos pasos, su representado
+
+el señor Gerardo Antonio Montecinos Cortés, cayó repentinamente a
+
+un pasillo en desnivel golpeándose fuertemente el brazo izquierdo. La
+
+oscuridad del lugar y la falta de señalización del desnivel,
+
+naturalmente, hacían imposible que el actor pudiera evitar la caída y
+
+fueron causa directa de ésta.
+
+Inmediatamente después de la caída del señor Montecinos
+
+Cortés, se le prestaron los primeros auxilios y se acercaron dos
+
+funcionarias de Carabineros al lugar de los hechos para ofrecer ayuda
+
+inmediata al accidentado, uniformadas que, dada la oscuridad del
+
+lugar, tuvieron que acercarse con linternas.
+
+Refiere que, como consecuencia de la violenta caída, el
+
+demandante sufrió importantes consecuencias gravosas, siendo la
+
+más notoria una fractura expuesta en el codo izquierdo, la cual le
+
+provocó y le sigue provocando un gran dolor en la zona afectada,
+
+además de numerosos padecimientos.
+
+Agrega que varios minutos después de la caída, el señor
+
+Gerardo Antonio Montecinos Cortés fue trasladado al Hospital de La
+
+Serena, en donde se le atendió sólo con medicamentos para disminuir
+
+el dolor que estaba sufriendo, para luego tomarle unas radiografías.
+
+En tal recinto, se le indicó que no contaban con traumatólogos y su
+
+lesión fue calificada como grave.
+
+Carabineros de guardia en el Hospital de La Serena, realizaron
+
+un “Parte Denuncia”, el que fue enviado a la Fiscalía del Ministerio
+
+Público correspondiente, dada la entidad de las lesiones.
+
+2
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+Fue así como sólo a las 00:15 del 09 de junio el accidentado señor
+
+Montecinos Cortés, gravemente lesionado, fue trasladado al Hospital
+
+de Coquimbo con diagnóstico “Fractura Expuesta Supracondilea de
+
+Codo Izquierdo”.
+
+Refiere que al llegar a dicho recinto hospitalario se le realizó una
+
+primera operación, que consistió, básicamente, en la instalación
+
+quirúrgica de tutores en su brazo izquierdo y luego de 13 días, se
+
+realizó una segunda operación, mediante la cual se le instalaron
+
+placas y pernos metálicos en su brazo izquierdo.
+
+Indica que como consecuencia de las dos intervenciones
+
+quirúrgicas causadas directamente por el accidente en las
+
+dependencias del Estadio Municipal, el actor quedó para siempre con
+
+menor movilidad en el brazo izquierdo y en los dedos de su mano.
+
+Señala que el 22 de julio de año 2019, el actor tuvo un control
+
+médico en el Hospital de Coquimbo donde fue atendido por el doctor
+
+Cerpa, experto en traumatología y, precisamente, el médico que lo
+
+operó, quien le comentó “lo compleja de la operación”, y le indicó que
+
+debía empezar con sesiones de kinesioterapia dada la gravedad de
+
+las lesiones sufridas. Le indicó, asimismo, que en adelante afrontaría
+
+un largo proceso de recuperación.
+
+Afirma que, en lo referido a las condiciones laborales del actor,,
+
+lamentablemente éstas empeoraron como consecuencia del
+
+accidente. En efecto, el 15 de enero de 2019, el actor ingresó a
+
+trabajar a la Minera Teck, Proyecto Quebrada Blanca, Iquique. En
+
+primera instancia, el actor había sido contratado para trabajar en la
+
+Minera en faena a gran altura geográfica. Sin embargo, y como
+
+consecuencia de este accidente y sus secuelas, las condiciones
+
+inmediatamente cambiaron, sufriendo el actor una nueva asignación a
+
+oficinas de la ciudad de Iquique, con una menor remuneración, todo
+
+dado que no se encontraba en óptimas condiciones físicas. Ello, por
+
+cierto perjudicó el bono trimestral y el plan de desarrollo año fiscal,
+
+impactando gravemente sus remuneraciones.
+
+3
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+Señala que en ningún caso se pretende enriquecer sin causa al
+
+actor, por lo que debe señalarse que respecto de los bonos y plan de
+
+desarrollo, el Proyecto Quebrada Blanca se estima en 3 años, lo que
+
+equivale a 5 millones por año, lo que constituye un total por ese
+
+concepto de 15 millones menos, a lo que debe sumarse lo que
+
+ciertamente podría obtener en el futuro en diferentes trabajos para los
+
+que el demandante está calificado.
+
+Agrega que aquello no fue todo. La gravedad de las lesiones y
+
+los tratamientos que se estaban llevando a cabo trajeron como
+
+consecuencia que los médicos tuvieran que extenderle las licencias, la
+
+última de ellas, con fecha de vencimiento el 07 de octubre de 2019 y
+
+como secuela evidente, su mandante entró a trabajar el 08 de octubre
+
+de 2019 habiendo sido reubicado. Pero, lamentablemente, expone que
+
+en el último control médico, el doctor Cerpa le indicó al actor que su
+
+brazo quedaría con menos grados de estiramiento, que su muñeca
+
+tiene cero grados de movilidad y que con su mano no podrá presionar
+
+algo o abrir algo tan simple como una botella de bebida.
+
+Expone que, como se puede apreciar, la experiencia de su
+
+representado pasó de una simple visita al Estadio Municipal a ver un
+
+partido de fútbol a una pesadilla que terminó con su brazo destruido y
+
+su muñeca con cero grados de movilidad, sin posibilidades de
+
+desempeñarse como corresponde a un trabajador normal, con sus
+
+funciones vitales y naturales ampliamente perjudicadas, por causas
+
+evidentemente imputables a la negligencia inexcusable y falta de
+
+servicio de la demandada. A ello le suma la grave afectación del
+
+espíritu, como relatará al abordar los perjuicios.
+
+El derecho.
+
+A) De la falta de servicio como factor de imputación.
+
+Señala que la responsabilidad civil reconoce diversas fuentes
+
+desde donde emana. Se acostumbra a clasificarla en responsabilidad
+
+4
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+contractual y extracontractual, pero también existe, como creación de
+
+norma, la responsabilidad ex lege o legal.
+
+Don ARTURO ALESSANDRI RODRÍGUEZ señalaba que “…la
+
+expresión responsabilidad no se define por su fundamento, que puede
+
+variar, sino por su resultado, es decir, por las consecuencias jurídicas
+
+que el hecho acarrea para su autor”. Agregaba que, “…un individuo es
+
+responsable cuando está obligado a indemnizar un daño”; y -citando a
+
+MAZEAUD- expone que “hay responsabilidad cada vez que una
+
+persona debe reparar el perjuicio o daño sufrido por otra”, por lo que
+
+termina definiendo la responsabilidad civil como “la obligación que
+
+pesa sobre una persona de indemnizar el daño sufrido por otra.”
+
+Indica que, claramente, en los hechos relatados más arriba y sus
+
+consecuencias dañosas, se presenta en un caso típico de
+
+responsabilidad civil imputable a un órgano de la administración del
+
+Estado, cual es la Municipalidad de La Serena, la que se encuentra
+
+obligada a indemnizar el daño desde que se configuran todos y cada
+
+uno de los presupuestos de la responsabilidad que establece la ley.
+
+Expone que, en efecto, no cabe duda de que se presenta en el caso
+
+sub iudice el daño inferido a un tercero, la falta de servicio como factor
+
+de imputación que sustituye a la culpa y la relación causal entre el
+
+daño y aquélla.
+
+Estima que es necesario considerar las normas que fijan el
+
+marco jurídico del caso, de las cuales las más importantes son:
+
+a) El artículo 38 inciso segundo de la Constitución Política de la
+
+República dispone: “Cualquier persona que sea lesionada en sus
+
+derechos por la Administración del Estado, de sus organismos o de las
+
+municipalidades, podrá reclamar ante los tribunales que determine la
+
+ley, sin perjuicio de la responsabilidad que pudiere afectar al
+
+funcionario que hubiere causado el daño.”
+
+b) La disposición constitucional citada, se desarrolla en el
+
+artículo 4° de la Ley N°18.575, Sobre Bases Generales de la
+
+5
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+Administración del Estado, que establece: “El Estado será responsable
+
+por los daños que causen los órganos de la administración en el
+
+ejercicio de sus funciones, sin perjuicio de las responsabilidades que
+
+pudieren afectar al funcionario que los hubiere ocasionado.”
+
+c) Seguidamente, el artículo 42 de la misma ley establece que:
+
+“Los órganos de la Administración serán responsables del daño que
+
+causen por falta de servicio. No obstante, el Estado tendrá derecho a
+
+repetir en contra del funcionario que hubiere incurrido en falta
+
+personal.”
+
+d) Por su parte, el artículo 152 de la Ley N°18.695, Ley Orgánica
+
+Constitucional de Municipalidades, que dispone: “Las municipalidades
+
+incurrirán en responsabilidad por los daños que causen, la que
+
+procederá principalmente por falta de servicio.”
+
+e) El artículo 5 letra c), primera parte, de la misma Ley N°18.695,
+
+dispone que: “Para el cumplimiento de sus funciones las
+
+municipalidades tendrán las siguientes atribuciones esenciales: 13.
+
+Administrar los bienes municipales y nacionales de uso público,
+
+incluido su subsuelo, existentes en la comuna, salvo que, en atención
+
+a su naturaleza o fines y de conformidad a la ley, la administración de
+
+estos últimos corresponda a otros órganos de la Administración del
+
+Estado.”
+
+Señala que de acuerdo a las normas citadas, es simple concluir
+
+que existirá responsabilidad legal por falta de servicio cada vez que
+
+una Municipalidad, en el ejercido de sus funciones, incurra en
+
+cualquier acto u omisión que provoque perjuicio a un tercero. En el
+
+caso sub lite, el Sr. Montecinos Cortés asistía tranquilamente a un
+
+partido de fútbol a un estadio supuestamente moderno, en que no se
+
+tomaron la molestia de encender las luces para que la gente no cayera
+
+en su búsqueda de ubicación. En efecto, el Municipio se permitió abrir
+
+al público un estadio, sin que éste tuviera las mínimas medidas de
+
+seguridad para garantizar la integridad física de los asistentes a un
+
+6
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+evento deportivo determinado al que asisten, además, niños, personas
+
+discapacitadas, barristas, vendedores, etcétera.
+
+Indica que, como se aprecia, en este caso se configura falta de
+
+servicio, toda vez que la Municipalidad, debiendo garantizar las
+
+condiciones necesarias para el normal desarrollo de un evento
+
+deportivo, hizo todo lo contrario o lo hizo mal, lo que terminó
+
+perjudicando gravemente a uno de sus ciudadanos.
+
+En general, y más allá de la falta de servicio que es de
+
+configuración más simple, se debe poner atención en los requisitos
+
+corrientes de la responsabilidad que no nace de un contrato. Tales
+
+son: 1) Que exista un acto u omisión; 2) Que exista un daño a una
+
+persona o sus bienes; 3) Que exista una relación causal entre el acto u
+
+omisión y el daño; 4) Que la persona dañada no esté jurídicamente
+
+obligada a soportar ese daño (antijuridicidad).
+
+Aunque resulte bastante obvio, continúa, es importante señalar
+
+igualmente que en este caso, asiste al Municipio la capacidad (de la
+
+persona jurídica) para obligarse y generar efectos civiles de acuerdo al
+
+artículo 545 del Código Civil, pues éstas son capaces de contraer
+
+obligaciones. Las normas de Derecho Público que ha citado no vienen
+
+sino a confirmar esta declaración legal del Código decimonónico.
+
+En lo tocante a la responsabilidad del municipio, señala que es
+
+necesario centrar la atención en que la corporación edilicia que tiene a
+
+su cargo la administración del Estadio La Portada, que, por lo demás,
+
+es supuestamente muy moderno, no concurrió a prestar la debida y
+
+correspondiente iluminación ni señalización que debe y debía tener un
+
+complejo deportivo como es un estadio de fútbol de manera de
+
+garantizar la seguridad de los asistentes a un espectáculo deportivo.
+
+En efecto, y al tratarse de un evento deportivo realizado en las
+
+dependencias municipales, la Municipalidad demandada debió llevar a
+
+cabo todas las medidas necesarias para proteger la integridad física
+
+de los asistentes y evitar cualquier situación de peligro. Si estas
+
+7
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+medidas necesarias preventivas no concurren o son insuficientes, se
+
+configura un supuesto de “falta de servicio”.
+
+El artículo 545 del Código Civil chileno establece: “Se llama
+
+persona jurídica una persona ficticia, capaz de ejercer derechos y
+
+contraer obligaciones civiles, y de ser representada judicial y
+
+extrajudicialmente”.
+
+La falta de servicio ha sido definida doctrinal y
+
+jurisprudencialmente. Así, el Exministro de la Excma. Corte Suprema
+
+don PEDRO PIERRY ARRAU ha escrito: “La falta de servicio así
+
+considerada la constituye una mala organización o funcionamiento
+
+defectuoso de la Administración, ambas nociones apreciadas
+
+objetivamente y referidas a lo que puede exigirse de un servicio
+
+público moderno, y lo que debe ser su comportamiento normal. Si por
+
+esta falta de servicio se ocasiona un daño a un particular, la
+
+Administración deberá indemnizarlo”. Desde hace ya varios años, la
+
+Excma. Corte Suprema ha fallado atendiendo al siguiente concepto de
+
+falta de servicio, reconociendo que no se trata de un concepto que el
+
+legislador haya definido, pero que se configura cuando la
+
+Administración no actúa, debiendo hacerlo, o lo hace deficiente o
+
+extemporáneamente. Los fallos se cuentan por centenas.
+
+En ese mismo sentido, la Corte de Apelaciones de Valparaíso ha
+
+sostenido que “la doctrina ha señalado que para que exista falta de
+
+servicio se requieren los siguientes requisitos: a) Que una norma de
+
+derecho positivo obligue a la Administración a prestar el servicio; b)
+
+Que el servicio no se haya prestado o lo haya sido en forma
+
+inadecuada o tardía; c) Que se pruebe el perjuicio, y d) Que el
+
+perjuicio sea la consecuencia de la falta de servicio”.
+
+Refiere que en el caso de autos, la falta de servicio además es
+
+causa necesaria del perjuicio grave de los intereses de su mandante y
+
+marcándolo de por vida. Por consiguiente, el ente edil debe responder
+
+pecuniariamente de los perjuicios provocados. Lo anterior se agrava si
+
+se verifica que no es muy complejo proveer de la luz adecuada y de la
+
+8
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+señalización competente de desniveles a un recinto con anterioridad al
+
+ocaso, sobre todo si se trata de un estadio nuevo y que es la propia
+
+Municipalidad la que otorga los permisos para que funcionen las obras
+
+civiles en su territorio.
+
+Como expone el profesor ENRIQUE BARROS BOURIE, “de las
+
+normas que establecen la responsabilidad por falta de servicio se
+
+sigue que la responsabilidad de la administración y de las
+
+municipalidades es directa y personal. Es la falta de servicio el hecho
+
+determinante de la responsabilidad y no necesariamente la conducta
+
+de algún funcionario en particular”. Como se aprecia, la imputación por
+
+falta de servicio no puede descansar en un tercero ni en un funcionario
+
+en particular, sino que en el ente municipal como un ente
+
+independiente y responsable por sus actos u omisiones.
+
+Refiere que, según consta de lo relatado en los hechos, el lugar
+
+del accidente no sólo carecía de luz, sino que adolecía de señalización
+
+del peligro existente -lo cual se mantiene hasta hoy- de manera de
+
+evitar cualquier tipo de accidente. A ello debe agregarse la existencia
+
+de un desnivel sin señalizar. La anterior conducta se subsume con
+
+nitidez en la situación descrita en el artículo 5 letra c) de la Ley
+
+Orgánica de Municipalidades, que le obliga a administrar
+
+correctamente los bienes municipales, que en este caso es el Estadio
+
+La Portada.
+
+Conforme a lo anterior y de acuerdo a los hechos, señala que
+
+acá la Ilustre Municipalidad debió anunciar de alguna forma el desnivel
+
+existente en la parte inferior del estadio, para que así los asistentes al
+
+evento puedan darse cuenta de su existencia y puedan evitarlo en
+
+caso de ser necesario.
+
+A modo de conclusión, expone que la Ilustre Municipalidad de La
+
+Serena debió tomar todas las medidas necesarias para resguardar la
+
+seguridad de los asistentes al partido, y no lo hizo, configurándose una
+
+omisión que generó consecuencias civiles dañosas y permanentes a
+
+terceros.
+
+9
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+B) De los perjuicios causados.
+
+Según lo define el Diccionario de la Real Academia Española, y
+
+a falta de concepto legal, “daño es detrimento, perjuicio o menoscabo
+
+que se recibe en la honra, la hacienda (patrimonio) o la persona,
+
+cualquiera que sea el causante, aunque el perjuicio se lo infiera el
+
+propio perjudicado, o sin intervención del hombre”. Como se aprecia,
+
+la definición lingüística se acerca considerablemente a lo que se
+
+entiende jurídicamente por daño civil, con la única excepción de que,
+
+en el derecho civil, el daño inferido a sí mismo no tiene efectos
+
+obligacionales como lo ha advertido don ORLANDO TAPIA SUÁREZ.
+
+Tomando en consideración nuestro derecho, es decir, tanto nuestra
+
+doctrina como nuestra jurisprudencia, el concepto de daño es amplio y
+
+abarca todo interés legítimo de la víctima que se vea afectado.
+
+Refiere que en el caso que nos convoca, ha existido daño
+
+emergente, que es la “pérdida o disminución efectiva que la víctima ha
+
+experimentado en su patrimonio”, el que se ha provocado toda vez
+
+que el demandante ha sido privado, por el hecho de un tercero, de la
+
+movilidad y utilización práctica de gran parte de las funciones de su
+
+brazo izquierdo. Lo anterior le ha significado, además de las evidentes
+
+disminuciones en sus funciones más básicas, un sinnúmero de gastos
+
+médicos y logísticos, que deben ser resarcidos por el responsable.
+
+Asimismo, y en la línea de lo anterior, el actor, ha sufrido lucro
+
+cesante, es decir, utilidad que en virtud del daño se ha dejado de
+
+percibir o mejor definido por la Excma. Corte Suprema como: “daño
+
+que se traduce en la pérdida de aquellas ganancias esperables que no
+
+se percibieron como consecuencia del ilícito sufrido”, toda vez que
+
+como se ha relatado en la parte de esta demanda correspondiente a
+
+los hechos, se ve y verá imposibilitado de utilizar naturalmente su
+
+brazo izquierdo, lo que le provocará detrimentos en su remuneración,
+
+en su bono trimestral y en su plan de desarrollo año fiscal.
+
+Por último, estima que no cabe duda que el actor ha sufrido daño
+
+moral, es decir “dolor, la angustia, la aflicción física o espiritual, la
+
+10
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+humillación, y, en general, los padecimientos que se han infligido a la
+
+víctima”. El actor, con posterioridad al accidente se ha visto afectado
+
+en diferentes esferas de la vida, presentó innumerables miedos tales
+
+como ir al estadio, concurrir a eventos públicos y sociales, también la
+
+pérdida de movilidad en su mano izquierda le significó un gran
+
+desgaste e incluso la imposibilidad para realizar muchas actividades
+
+que antes disfrutaba y hacía con normalidad. No solo eso, sino que,
+
+además, el accidente lo deja incapacitado para realizar actividades
+
+laborales a las que se dedicaba mientras no prestaba servicios en
+
+faenas. También el demandante ha debido soportar todas las
+
+dificultades e impedimentos traídos a causa del accidente que hicieron
+
+que se vea afectado profundamente su estado de ánimo, presentando
+
+un decaimiento notable en el mismo, provocando, incluso, problemas
+
+familiares que confluyen en una suerte de aislamiento. Al mismo
+
+tiempo, los constantes esfuerzos en las sesiones de kinesiología y la
+
+imposibilidad para hacer una vida normal le significaron un desgaste
+
+emocional y psíquico que debe ser resarcido pecuniariamente por el
+
+responsable de los mismos.
+
+En síntesis, señala que la Ilustre Municipalidad de La Serena es
+
+responsable de los hechos ocurridos en autos y por ello debe
+
+indemnizar todos los perjuicios que ocasionaron sus actos y omisiones
+
+de acuerdo a lo que establece el Derecho Público citado, y las normas
+
+generales contenidas en los artículos 2314 y siguientes del Código
+
+Civil que consagran la integridad de la reparación (“todo daño debe
+
+ser reparado”).
+
+C) Relación causal entre el acto u omisión y el daño producido.
+
+En relación al caso que nos convoca, expone que necesario es
+
+determinar la existencia de relación de causalidad, de manera de
+
+poder configurar la responsabilidad alegada. Para determinar si
+
+efectivamente el daño es consecuencia inmediata de los hechos que
+
+se imputan es necesario hacer una abstracción (o supresión) mental
+
+hipotética y preguntarse qué hubiera pasado si el demandado hubiese
+
+11
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+sido diligente y hubiese tomado todas las medidas tendientes a evitar
+
+el accidente, o en otras palabras qué hubiese pasado si la Ilustre
+
+Municipalidad hubiese iluminado el estadio y además hubiese
+
+señalizado los desniveles en el mismo.
+
+Señala que la respuesta a este primer ejercicio es que con toda
+
+seguridad no se habría producido el resultado dañoso o que, de
+
+haberse producido, sería culpa de la víctima.
+
+Indica que la segunda interrogante que debemos atender es cuál
+
+fue la causa directa del accidente. De acuerdo como lo desarrollado, el
+
+accidente se produjo por la inobservancia y omisión por parte de la
+
+Ilustre Municipalidad de todas las medidas de seguridad tendientes a
+
+evitar accidentes en un estadio nuevo, recién inaugurado, como es la
+
+falta de iluminación y la falta de señalización de desniveles en pleno
+
+invierno son luz natural. En definitiva, la omisión de esta conducta
+
+generó directamente el accidente y la que, hasta el día de hoy y para
+
+siempre, impiden a su mandante llevar una vida normal.
+
+D) Cuantificación de los daños.
+
+1. En cuanto al daño directo o emergente:
+
+Cree prudente que se condene a la suma de $5.000.000 (cinco
+
+millones de pesos) consistentes en los gastos que su mandante ha
+
+tenido que soportar, tales como traslados, copagos, gastos médicos,
+
+gastos de cuidado personal, consultas profesionales, etcétera, todo lo
+
+que se acreditará en el estadio procesal correspondiente.
+
+2. En cuanto al lucro cesante:
+
+Como se ha mencionado más arriba, su mandante perderá 15 millones
+
+de pesos sólo por concepto su bono trimestral y su plan de desarrollo
+
+año fiscal ya que el tiempo del proyecto son 3, lo que equivale a 5
+
+millones por año en pérdidas de remuneraciones, esto es 15 millones
+
+de pesos, preliminarmente.
+
+A ello debe sumarse todo lo que por remuneraciones un
+
+trabajador de su rubro es capaz de generar hasta la edad de
+
+12
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+jubilación, vale decir $2.040.618 mensuales hasta los 65 años de
+
+edad, sumados, sin descuentos de salud previsión ni otros, o lo que el
+
+Tribunal estime de justicia de acuerdo a la certidumbre del daño.
+
+El total del lucro cesante, en consecuencia, equivale a
+
+$357.823.824, o lo que en justicia se estime.
+
+3. En cuanto al daño extrapatrimonial o moral:
+
+Tomando en consideración la significativa disminución en la
+
+calidad de vida del actor (descrita latamente en capítulo referido al
+
+daño de esta demanda), la cual afectará todas las esferas de su vida
+
+incluyendo las más importantes (familiar, afectiva y laboral), y
+
+viéndose también imposibilitado el actor de cumplir varios de sus
+
+proyectos de vida, sueños, legítimos intereses, debe tenerse presente
+
+que, además del dolor y lesiones físicas, psíquicas y psicológicas que
+
+produjeron notorios y evidentes daños, su mandante padece y
+
+padecerá de por vida de incapacidad actual para autovalerse, sufre
+
+enormes padecimientos para vestirse, bañarse, comer, etc., además
+
+de sufrir constantes problemas familiares con su esposa e hijos. Todo
+
+además ha generado una disminución en la normal actividad sexual,
+
+una vistosa y fea cicatriz para toda la vida, frustración por la
+
+incapacidad laboral para hacer algunas actividades que antes
+
+desplegaba normalmente y notorios signos de estrés postraumático.
+
+Es así como sufre de constantes pesadillas y problemas para dormir,
+
+recuerdos continuos del accidente que no puede detener ni controlar,
+
+durmiendo muy pocas horas en la noche. Finalmente, en el ámbito
+
+laboral, ha padecido la pérdida de capacitaciones, de los
+
+mejoramientos continuos de sistema documental del proyecto en que
+
+actualmente trabaja (que es un sistema dinámico que hay que estar
+
+atentos a cambios que se realizan), disminución a la mitad del manejo
+
+de teclado del computador, dificultades y perdida de motricidad,
+
+limitaciones para realizar deportes, como pingpong, tenis, básquetbol,
+
+levantar pesas. Es así como ya no puede disfrutar de actividades tan
+
+13
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+normales como jugar arquero en futbolito, ejercicios de pegar al saco
+
+de box, etc., todo lo que genera una frustración enorme e irreparable.
+
+Por lo anterior solicitó se condene al demandado, de manera ejemplar,
+
+a pagar a su mandante la suma de $200.000.000 (doscientos millones
+
+de pesos), o lo que el Tribunal estime de justicia, tomando en cuenta
+
+la gravedad de la lesión sufrida y la falta de servicio imputable al
+
+Municipio.
+
+Finalmente, y previas citas legales, solicitó se sirva tener por
+
+interpuesta demanda de indemnización de perjuicios por
+
+responsabilidad extracontractual o legal en contra de la ILUSTRE
+
+MUNICIPALIDAD DE LA SERENA representada por su alcalde don
+
+ROBERTO ELÍAS JACOB JURE, ambos ya individualizados, admitirla
+
+a tramitación y, corridos que sean los trámites de rigor, disponer:
+
+1.- Que se acoge la demanda de indemnización de perjuicios
+
+deducida por su mandante don Gerardo Antonio Montecino Cortés, ya
+
+individualizado, en contra de la I. Municipalidad de La Serena,
+
+representada por su alcalde don Roberto Elías Jacob Jure, también ya
+
+individualizados, por ser esta municipalidad la responsable de los
+
+daños y perjuicios que su mandante ha sufrido a raíz del accidente y
+
+lesiones precedentemente señaladas;
+
+2.- Que, consecuentemente a lo señalado, se condene a tal
+
+demandada a pagar a su representado por concepto de daño
+
+emergente o material la suma de $5.000.000 (cinco millones de pesos)
+
+o la que el Tribunal determine de acuerdo al mérito de autos, más los
+
+gastos en que la víctima deba incurrir para el logro de su completa e
+
+integral sanación y rehabilitación de las lesiones sufridas, durante la
+
+secuela del juicio, incluida su etapa de cumplimiento;
+
+3.- Que, en cuanto al lucro cesante, cree prudente que se
+
+condene a la suma de $357.823.824 (trescientos cincuenta y siete
+
+millones ochocientos veintitrés mil ochocientos veinticuatro pesos)
+
+14
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+dado que el perjuicio provocará detrimentos en las remuneraciones, en
+
+su bono trimestral y en su plan de desarrollo año fiscal.
+
+4.- Que, asimismo, la demandada señalada deberá pagar a su
+
+mandante me la suma de $200.000.000 (doscientos millones de
+
+pesos) o la suma que el Tribunal determine de acuerdo al mérito del
+
+proceso, por los daños extrapatrimoniales o morales que igualmente
+
+ha sufrido a raíz de las lesiones de que se da cuenta en este libelo;
+
+5.- Que, las sumas que se ordenen pagar deberán serlo
+
+debidamente reajustadas de conformidad a la variación que
+
+experimente el índice de precios al consumidor determinado por el
+
+Instituto Nacional de estadísticas, entre la fecha en que las lesiones
+
+efectivamente se produjeron y aquella en que se efectúe el pago; y
+
+con más los intereses corrientes para operaciones no reajustables que
+
+corran entre las mismas fechas; y
+
+6.- Que se condena a la antedicha demandada al pago de las
+
+costas de la causa.
+
+Que con fecha 25 de febrero de 2020 (folio 9), comparece
+
+doña Ana Karina Segovia Iraira, abogada, cédula nacional de
+
+identidad N°12.219.305-5, en representación de la ILUSTRE
+
+MUNICIPALIDAD DE LA SERENA, persona jurídica, RUT
+
+N°69.040.100-2, representada legalmente por su alcalde don Roberto
+
+Jacob Jure, técnico agrícola, cédula nacional de identidad
+
+N°6.356.671-3, todos con domicilio en Calle Arturo Prat N°451, Tercer
+
+Piso, Oficina de Dirección de Asesoría Jurídica, La Serena, quien
+
+contesta la demanda interpuesta por la parte demandante en los
+
+siguientes términos:
+
+I. Opone excepción perentoria de falta de legitimación
+
+pasiva.
+
+Refiere que el lamentable accidente acontecido a don
+
+GERARDO ANTONIO MONTECINOS CORTÉS, ocurre según su
+
+propio relato, en el contexto del partido de fútbol desarrollado el día 08
+
+15
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+de junio de 2019, entre Club Deportes La Serena y Universidad
+
+Católica, el cual se llevó a efecto en el Estadio La Portada.
+
+Expone que, si bien es cierto, que el recinto en el cual se
+
+desarrolló el espectáculo deportivo, es un recinto municipal, resulta ser
+
+un hecho público y notorio que quien organiza tal partido es CLUB
+
+DEPORTES LA SERENA S.A.D.P., quien arrienda para el desarrollo
+
+de los eventos deportivos el local municipal, el cual queda bajo
+
+administración y custodia del arrendatario mientras se desarrolla la
+
+actividad deportiva, siendo él quien contrata el personal a cargo de las
+
+actividades deportivas, de esta forma quien es responsable de los
+
+hechos acontecidos en el recinto durante el desarrollo de las
+
+actividades deportivas es Club Deportes La Serena, debiendo ser
+
+dicho club deportivo el legitimado pasivo. Dicha legitimación proviene
+
+de lo dispuesto en la ley 19.327 y su reglamento. Dicha normativa
+
+regula la realización de los espectáculos de fútbol profesional, y
+
+establece los derechos y deberes de los asistentes, los requisitos de
+
+los recintos deportivos en que éstos se desarrollen, y las obligaciones
+
+de las organizaciones deportivas de fútbol profesional, de los
+
+organizadores de dichos espectáculos y de los administradores de los
+
+recintos correspondientes. Es así como el articulado de la ley 19.327,
+
+establece los deberes de los organizadores, asociaciones y dirigentes
+
+de fútbol profesional, en el marco de la celebración de espectáculos
+
+organizados por ellos o que les hubiesen sido autorizados, así como
+
+en los hechos o circunstancias conexas a éstos siendo algunas de
+
+ellas: a) Organizar y administrar el espectáculo deportivo adoptando
+
+todas las medidas necesarias y las exigidas para el correcto desarrollo
+
+del mismo, incluyendo aquellas que sean determinadas por el
+
+intendente al autorizar el espectáculo; b) Supervisar y garantizar el
+
+cumplimiento de la ley, su reglamento y las disposiciones que la
+
+autoridad administrativa o policial le hayan ordenado adoptar, para
+
+cada espectáculo deportivo, hecho o actividad conexa; c) Adoptar las
+
+medidas de seguridad establecidas en las leyes, reglamentos,
+
+16
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+disposiciones de la autoridad y protocolos determinados por la entidad
+
+superior del fútbol profesional, necesarias para prevenir alteraciones a
+
+la seguridad y al orden público que sean producto del espectáculo
+
+deportivo de fútbol profesional, hecho o actividad conexa, tales como
+
+venta de entradas, entrenamientos, concentraciones y traslados de
+
+equipos. Además es deber del organizador del espectáculo de fútbol
+
+profesional requerir la autorización de realización de espectáculos de
+
+fútbol profesional que dispone el artículo 1º de la ley Nº19.327, la cual
+
+otorga el Intendente respectivo, además del informe de Carabineros
+
+de Chile a que se refiere el citado artículo, deberá inspeccionar, a lo
+
+menos una vez al año, los recintos deportivos en los que se
+
+desarrollen espectáculos de fútbol profesional. En el marco de la
+
+responsabilidad que atribuye dicha ley a los organizadores de estos
+
+eventos es que los clubes deportivos chilenos, tanto de primera como
+
+segunda división, en imitación a las grandes ligas del mundo, han
+
+contratado seguros en sus estadios en caso de que los asistentes
+
+sufran un accidente. Uno de ellos es el Seguro de Responsabilidad
+
+Civil, para cubrir riesgos ante accidentes y lesiones en que tenga
+
+responsabilidad la organización, a tres kilómetros a la redonda de la
+
+boletería. De hecho el club organizador del evento, contrató un seguro,
+
+y según fue informada la Municipalidad, luego del accidente sufrido por
+
+el actor, se le solicitaron los datos para la cobertura del seguro, sin
+
+embargo este se habría negado a entregarlos. De esta forma, quien
+
+debió ser emplazado, existiendo una ley especial que regula los
+
+espectáculos deportivos, es CLUB DEPORTES LA SERENA S.A.D.P,
+
+toda vez que es dicha institución quien organiza el evento, dispone de
+
+su personal para la realización del espectáculo, incluido el personal de
+
+mantenimiento que sería el encargo de prender las luces, la
+
+mantención de la señalética informativa, de seguridad y de escape,
+
+elaborado por una persona que acredite tener los conocimientos
+
+suficientes en materia de prevención de riesgos, siendo expresamente
+
+autorizado por el Encargado de Seguridad pública de la Gobernación
+
+de Elqui, don Rodrigo Álvarez Hurtado.
+
+17
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+II. Defensas.
+
+En subsidio, y para el improbable evento que se estime la
+
+procedencia de responsabilidad de su representado, viene en formular
+
+las siguientes defensas:
+
+1.- La contraria no señala cuál es la falta de servicio cometida
+
+por su representada. Señala el actor que la causa directa de su caída
+
+fueron la oscuridad del lugar y la falta de señalización del desnivel. Sin
+
+embargo como se señaló, su representada no es la responsable del
+
+espectáculo, ni siquiera el personal que se encontraba a cargo del
+
+espectáculo es funcionario municipal, sino personal que depende del
+
+organizador del espectáculo, por otro lado para que se otorgue la
+
+debida autorización que dispone el reglamento y la ley 19.327, se
+
+requiere un Plan de señalética informativa, de seguridad y de escape,
+
+elaborado por una persona que acredite tener los conocimientos
+
+suficientes en materia de prevención de riesgos, exigencia que el
+
+Estadio La Portada cumplió, tal es así que de los miles de
+
+espectadores que concurrieron a dicho espectáculo deportivo el único
+
+lesionado resultó ser el actor. 2.- No existe ninguna infracción a las
+
+normas que permiten el debido funcionamiento del Estadio La Portada,
+
+para la realización de espectáculos deportivos. El artículo 1° de la ley
+
+19.327 dispone que en cada espectáculo de fútbol profesional, el
+
+Intendente velará por el respeto de la tranquilidad, seguridad y el
+
+orden público. Asimismo, velará por el resguardo de las personas y
+
+bienes, de conformidad con las disposiciones de la ley Nº19.175,
+
+Orgánica Constitucional sobre Gobierno y Administración Regional; el
+
+decreto con fuerza de ley Nº458, de 1976, Ley General de Urbanismo
+
+y Construcciones; y Ley Nº19.327, que fija normas para prevención y
+
+sanción de hechos de violencia en recintos deportivos con ocasión de
+
+espectáculos de fútbol profesional. De esta forma es el Intendente
+
+quien otorga la autorización para el funcionamiento del recinto
+
+deportivo. Luego para la obtención de la autorización de los estadios
+
+para la realización de espectáculos de fútbol profesional, el artículo 8°
+
+18
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+de la misma ley dispone: “Del deber de inspección. Para el
+
+otorgamiento de la autorización de realización de espectáculos de
+
+fútbol profesional que dispone el artículo 1º de la ley Nº 19.327, el
+
+Intendente respectivo, además del informe de Carabineros de Chile a
+
+que se refiere el citado artículo, deberá inspeccionar, a lo menos una
+
+vez al año, los recintos deportivos en los que se desarrollen
+
+espectáculos de fútbol profesional. El Intendente fijará anualmente un
+
+calendario para realizar visitas inspectivas a los recintos deportivos
+
+ubicados en la región en que ejerce sus funciones. Ello, es sin
+
+perjuicio de la facultad de cada Intendente de hacer visitas inspectivas
+
+cuando lo estime pertinente, a fin de constatar el mantenimiento de las
+
+condiciones de seguridad establecidas en el presente reglamento y de
+
+solicitar nuevos informes a Carabineros de Chile en caso que las
+
+circunstancias así lo ameriten. En el evento que no se mantuvieren las
+
+condiciones de seguridad o no se cumpliere con las nuevas exigencias
+
+resultantes del informe de Carabineros de Chile o de las visitas
+
+inspectivas, se revocará la referida autorización.” En cuanto al
+
+otorgamiento de la autorización el artículo 9° del Reglamento
+
+establece: Otorgamiento de la autorización. La autorización se
+
+otorgará por medio de una resolución emitida por el Intendente
+
+respectivo, una vez que, realizada la visita inspectiva y obtenido el
+
+informe de Carabineros de Chile, se constate que se ha dado
+
+cumplimiento a las medidas de seguridad exigidas por el Intendente
+
+conforme a lo establecido en los artículos siguientes. Respecto de las
+
+condiciones generales que deben cumplir los recintos deportivos.
+
+Luego transcribe el artículo 10 del citado reglamento, que
+
+establece las condiciones para la obtención de la autorización por
+
+parte de los dueños o administradores de recintos deportivos
+
+destinados a la realización de espectáculos de fútbol profesional en el
+
+cumplimiento de las condiciones de seguridad para obtener la
+
+autorización de funcionamiento establecida en el artículo 1º de la Ley
+
+Nº19.327.
+
+19
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+Agrega que para la realización del espectáculo deportivo que se
+
+llevó a cabo el día 08 de junio del año 2019, específicamente mediante
+
+Resolución exenta 512, del Encargado de Seguridad Pública de la
+
+Gobernación de Elqui, autoriza partido de fútbol profesional Club
+
+Deportes La Serena vs Universidad Católica, el sábado 08 de junio de
+
+2019 a las 20:00 horas, en el Estadio La Portada.
+
+3.- Afirma que en la especie no concurren los requisitos de la
+
+responsabilidad civil extracontractual, toda vez que no existe acción u
+
+omisión imputable de su representada, sin que exista relación de
+
+causalidad entre el daño sufrida por la víctima y la falta de servicio que
+
+se le imputa a su representada. Toda vez que como se ha
+
+desarrollado latamente, la Ilustre Municipalidad de La Serena, en el
+
+ámbito de sus atribuciones, arrendó para el desarrollo del espectáculo
+
+que se desarrolló el día 08 de junio del año 2019, a Club deportes La
+
+Serena S.A.D.P, razón por la que la el desarrollo del espectáculo en el
+
+marco de la ley 19.327 y su reglamento fue organizado y llevado a
+
+cabo por la institución señalada, contando con la autorización que la
+
+ley exige para el desarrollo del espectáculo, por lo que el estadio en la
+
+fecha indicada, contaba con todas las medidas se prevención que la
+
+ley exige. De esta forma no se puede atribuir a su representada
+
+responsabilidad en el daño.
+
+Respecto de la imputabilidad indica que Hernán Corral señala en
+
+este punto que “La falta de servicio no es más que la culpa del
+
+servicio, ya que implica probar un mal funcionamiento del servicio o el
+
+no funcionamiento del mismo”, citando el artículo ya clásico del Ex
+
+Ministro de la Corte Suprema Pedro Pierry, quien derivándolo del
+
+modelo francés, hace la contraposición entre falta de servicio y falta
+
+personal, para resaltar que se trata en todo caso de un sistema de
+
+responsabilidad subjetivo, y no objetivo, entendiendo entonces que la
+
+falta de servicio implica un mal funcionamiento, lo que claramente
+
+deberá probarse escapando de los sistemas de responsabilidad
+
+objetiva. Enrique Barros indica, por su parte, que: “La oposición
+
+20
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+relevante, tanto para la responsabilidad por culpa, como para la por
+
+falta de servicio, es la responsabilidad basada en la sola relación
+
+causal entre el hecho de la Administración y el daño que se sigue de
+
+ese hecho, como ocurre con la responsabilidad estricta, por riesgo u
+
+objetiva en sentido propio”. Más adelante en su Tratado de
+
+Responsabilidad Extracontractual, señala el concepto de falta de
+
+servicio indicando: “La responsabilidad por falta de servicio cumple, en
+
+el ámbito de actividad propia de la administración, una función análoga
+
+a la responsabilidad por culpa en el derecho privado. Como en el caso
+
+de la culpa civil, no exige un juicio de reproche personal respecto del
+
+agente del daño, sino supone una valoración objetiva de la conducta
+
+de la Administración. La responsabilidad por falta de servicio exige
+
+calificar de defectuoso el funcionamiento del servicio público. Y esa
+
+calificación supone comparar el servicio efectivamente prestado con el
+
+que se debió ejecutar por el municipio u otro órgano de la
+
+Administración del Estado. En consecuencia, la responsabilidad por
+
+falta de servicio no es estricta u objetiva en un sentido propio, porque
+
+no basta acreditar que el daño fue causado por la acción u omisión del
+
+demandado (en este caso de la Administración), sino supone un juicio
+
+de valor acerca del nivel y calidad de servicio que era exigible del
+
+municipio o del órgano de administración. Una de las mayores fuentes
+
+de confusión en el derecho chileno radica en no haber tenido presente
+
+la distinción entre estos dos tipos de estatutos De este modo no basta
+
+solo indicar, como lo hace la contraria, que exista una relación entre el
+
+hecho y el daño producido, que veremos tampoco es efectivo desde el
+
+punto de vista causal, sino que deberá acreditarse conforme a la
+
+pretensión procesal planteada en la demanda, de qué manera el
+
+servicio ha funcionado imperfectamente, siendo la carga de la prueba
+
+de la contraria.”
+
+Finalmente, y previas citas legales, solicitó tener por contestada
+
+la demanda en tiempo y forma.
+
+21
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+Que con fecha 05 de marzo de 2020 (folio 14), el abogado de
+
+la parte demandante, al evacuar el trámite de la réplica, indicó que
+
+reiteran todas y cada una de las argumentaciones de hecho y de
+
+derecho señaladas en la demanda, haciendo presente además lo
+
+siguiente:
+
+Controvierte cualquier hecho que esté señalado en la
+
+contestación y que sea distinto a los expuestos en la interposición de
+
+la demanda. En especial controvierten el hecho de que el Club
+
+Deportes La Serena sea el responsable y legitimado pasivo de los
+
+perjuicios alegados, de acuerdo a lo que determina la ley.
+
+Expone que como todos saben (y no lo niega la demandada) el
+
+Estadio La Portada es un bien nacional de uso público que se
+
+presentaba al día del encuentro deportivo (pero hasta mucho tiempo
+
+después, según también se sabe) en forma ruinosa y no completado
+
+en su construcción.
+
+Indica que el Derecho Público chileno determina que la
+
+responsabilidad por mal estado de un recinto que califique como un
+
+bien nacional de uso público (por ejemplo, por falta de iluminación) es
+
+resorte único de los municipios, en este caso de la demandada Ilustre
+
+Municipalidad de La Serena.
+
+Refiere que lo que intenta hacer la demandada es desviar la
+
+atención y atribuirle legitimación pasiva a otra entidad ajena al pleito,
+
+en circunstancias que los daños causados por mal estado de un bien
+
+nacional de uso público son de única y exclusiva responsabilidad del
+
+ente municipal por disposición legal expresa. Así, por lo demás, ha
+
+sido fallado.
+
+Finalmente, solicitó se sirva tener por evacuada la réplica.
+
+Que con fecha 17 de marzo de 2020 (folio 16), la abogada de
+
+la parte demandada, al evacuar el trámite de la dúplica, señala que
+
+reitera y ratifica lo señalado en el escrito de contestación, y expone
+
+además lo siguiente:
+
+22
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+Reitera que el artículo 3° de la ley 19.327, establece los deberes
+
+tienen los organizadores de los partidos, que son:
+
+A. Administrar todas las medidas necesarias y las exigidas para
+
+el correcto desarrollo del partido, junto con las que determine el
+
+Intendente.
+
+B. Supervisar y garantizar el cumplimiento de la ley, su
+
+reglamento y las disposiciones que la autoridad administrativa o
+
+policial le hayan ordenado adoptar, para cada espectáculo deportivo,
+
+hecho o actividad conexa.
+
+C. Tomar las medidas de seguridad establecidas en las leyes,
+
+reglamentos, disposiciones de la autoridad y protocolos determinados
+
+por la entidad superior del fútbol profesional, para partidos y
+
+actividades conexas.
+
+D. Entregar a la autoridad los antecedentes que se le requieran,
+
+como grabaciones, listado de asistentes, registros contables y aquellos
+
+que den cuenta del monto de las recaudaciones.
+
+E. Ejercer el derecho de admisión de quienes infrinjan las
+
+condiciones de ingreso y permanencia, o cuando existan motivos
+
+razonables que lo justifiquen.
+
+F. Realizar actividades de difusión y extensión, que promuevan
+
+una cultura de convivencia, bienestar y seguridad en el fútbol
+
+profesional.
+
+G. Establecer accesos preferenciales para espectadores que
+
+asistan con menores de edad, mujeres embarazadas, personas con
+
+situación de discapacidad y adultos mayores.
+
+H. Denunciar, ante la autoridad que corresponda, los delitos que
+
+presencien o de los que tomen conocimiento en partidos o hechos
+
+conexos, en especial los que les afecten a ellos o a la institución a la
+
+que representan.
+
+23
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+Refiere que de esta forma son los organizadores del espectáculo
+
+deportivo los responsables del desarrollo del evento deportivo y del
+
+cumplimiento de la seguridad del evento y del recinto deportivo.
+
+Siendo un hecho público y notorio que el organizador del partido que
+
+se realizó el día 08 de junio del año 2019, fue Club Deportes La
+
+Serena S.A.D.P., por lo que legalmente son ellos los responsables de
+
+todo el desarrollo del evento.
+
+Indica que la contraria sostiene que: “Como todos saben (y no lo
+
+niega la demandada) el Estadio La Portada es un bien nacional de uso
+
+público…”, lo cual no efectivo, ya que expresamente su parte señala
+
+en su contestación: “Si bien es cierto que el recinto en el cual se
+
+desarrolló el espectáculo deportivo, es un recinto municipal, resulta ser
+
+un hecho público y notorio que quien organiza tal partido es CLUB
+
+DEPORTES LA SERENAS.A.D.P.” De manera expresa su parte
+
+sostiene que el recinto es municipal, en caso alguno ha dicho que es
+
+un bien nacional de uso público. Al parecer la contraria confunde
+
+ambos conceptos, atribuyendo la calidad de bien nacional de uso
+
+público, al bien municipal, lo cual es errado.
+
+Agrega que la definición del bien nacional de uso público es legal
+
+y se encuentra en el artículo 589 del Código Civil, el que señala “son
+
+bienes nacionales aquellos cuyo dominio pertenece a la nación toda”
+
+en cambio el bien municipal, es aquel que es adquirido por la
+
+municipalidad y forma parte de su patrimonio propio.
+
+Indica que es errado lo sostenido por la contrario en cuanto a
+
+que el Estadio La Portada “…se presentaba al día del encuentro
+
+deportivo (pero hasta mucho tiempo después, según también se sabe)
+
+en forma ruinosa y no completado en su construcción…”; hace
+
+presente que eso no es efectivo, y que como bien sabemos los
+
+serenenses el Estadio La Portada, en marzo de 2013 se iniciaron las
+
+obras para la construcción del nuevo estadio, el cual fue entregado
+
+para público a finales del mismo año e inaugurado oficialmente a
+
+inicios de 2014 con estándares FIFA con una capacidad para 17.000
+
+24
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+personas, siendo re-inagurado en 13 de mayo de 2015. Es así como el
+
+Estadio La Portada fue sede de la Copa América 2015, Copa América
+
+Femenina entre el 04 y el 22 de abril del año 2018 y Mundial Juvenil
+
+de fútbol el año 2015. Es así que para la realización de dichos eventos
+
+son inspeccionados por el Comité de Inspección de la FIFA, y sólo
+
+cuando pasan por el exhaustivo chequeo de dicha institución pueden
+
+ser sede de sus torneos.
+
+Luego viene en reseñar el contenido del artículo 5° del Decreto
+
+Ley 1.046 del Ministerio de Interior y Seguridad Pública.
+
+A su vez, señala que el artículo 7° de la misma forma establece
+
+que la intendencia verificará que la solicitud de autorización contenga
+
+todo lo indicado en los artículos 5° y 6° de este reglamento. Todas las
+
+exigencias requeridas en el reglamento y en la ley fueron cumplidas,
+
+es así como a la fecha del incidente el organizador del espectáculo,
+
+Club Deportes La Serena S.A.D.P., contaba con la autorización de la
+
+autoridad pertinente, por lo que no es efectivo lo sostenido por la
+
+contraria como causa del accidente sufrido por el actor.
+
+Reitera, por último, la falta de legitimidad pasiva de su
+
+representada y la falta de responsabilidad en el accidente sufrido por
+
+el actor.
+
+Finalmente, solicitó tener por evacuada la dúplica.
+
+Que con fecha 10 de noviembre de 2020 (folio 27), se llevó a
+
+efecto el comparendo de conciliación con la asistencia de la parte
+
+demandante, representada por su abogado don Paulino José Varas
+
+Díaz, y la asistencia de la parte demandada, representada por su
+
+abogada doña Ana Karina Segovia Iraira.
+
+Acto seguido, se llamó a las partes a conciliación, la que no se
+
+produjo, atendida la negativa de los comparecientes.
+
+Que con fecha 11 de noviembre de 2019 (folio 28), se recibió
+
+la causa a prueba.
+
+25
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+Que con fecha 02 de noviembre de 2022 (folio 169), se citó a
+
+las partes a oír sentencia.
+
+CONSIDERANDO:
+
+EN CUANTO A LA OBJECIÓN DOCUMENTAL.
+
+PRIMERO: Que, con fecha 25 de febrero de 2020 (folio 9), la
+
+parte demandada en el otrosí de su presentación dedujo objeción
+
+respecto de los documentos acompañados por la contraria
+
+conjuntamente con su demanda, consistentes en set de 7 fotografías
+
+que dan cuenta de las graves lesiones sufridas por el actor, set de 8
+
+fotografía del Estadio La Portada de La Serena, que dan cuanta de la
+
+falta de señalización en el desnivel que provocó el accidente, y foto que
+
+acredita la existencia de un ambiente de oscuridad, donde solamente se
+
+alumbra con una linterna del personal que estaba asistiendo al Sr.
+
+Montecinos.
+
+Señala que todos éstos son instrumentos privados, de los cuales
+
+su parte desconoce su procedencia al no encontrarse firmado ni por
+
+demandante ni demandado, no constando a su parte la autenticidad e
+
+integridad de los mismos, documentos que no son públicos y no se
+
+encuentran firmados ante Notario, sin que tampoco conste que
+
+efectivamente corresponde a la fecha en que se ocurrieron los hechos, y
+
+por lo mismo son inoponibles a su representado.
+
+SEGUNDO: Que, la parte demandante, al evacuar el traslado
+
+conferido, solicitó el rechazo de las objeciones documentales antes
+
+referidas, señalando que la contraria pretende, mediante una objeción
+
+documental, atacar el valor probatorio de los documentos. En efecto, las
+
+causales invocadas dicen relación con la validez de los documentos o
+
+su ilicitud, materia que el legislador no ha dejado al arbitrio de las partes
+
+salvo que concurra estrictamente una causa legal de falsedad o falta de
+
+integridad, causales que no comparecen respecto de los documentos
+
+acompañados por su parte.
+
+26
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+Finalmente, señaló que siendo una facultad privativa de la
+
+judicatura apreciar el valor probatorio de los documentos, se proceda a
+
+rechazar las objeciones con costas.
+
+TERCERO: Que, el Tribunal negará lugar a las objeciones
+
+documentales deducidas por la demandada, por referirse a aspectos
+
+que dicen relación con la pertinencia y valor probatorio de los
+
+documentos acompañados, materias que son privativas del análisis y
+
+decisión del Tribunal.
+
+EN CUANTO AL FONDO.
+
+CUARTO: Que, con fecha 21 de enero de 2020 (folio 1), don
+
+Marcelo Alejandro Nasser Olea, abogado, en representación de don
+
+GERARDO ANTONIO MONTECINOS CORTÉS, ya individualizados,
+
+interpuso demanda de indemnización de perjuicios en contra de la
+
+ILUSTRE MUNICIPALIDAD DE LA SERENA, ya individualizada,
+
+solicitando acogerla en todas sus partes, y en definitiva declarar: 1.-
+
+Que se acoge la demanda de indemnización de perjuicios deducida
+
+por su mandante don Gerardo Antonio Montecino Cortés, ya
+
+individualizado, en contra de la I. Municipalidad de La Serena,
+
+representada por su alcalde don Roberto Elías Jacob Jure, también ya
+
+individualizados, por ser esta municipalidad la responsable de los
+
+daños y perjuicios que su mandante ha sufrido a raíz del accidente y
+
+lesiones precedentemente señaladas; 2.- Que, consecuentemente a lo
+
+señalado, se condene a tal demandada a pagar a su representado por
+
+concepto de daño emergente o material la suma de $5.000.000 (cinco
+
+millones de pesos) o la que el Tribunal determine de acuerdo al mérito
+
+de autos, más los gastos en que la víctima deba incurrir para el logro
+
+de su completa e integral sanación y rehabilitación de las lesiones
+
+sufridas, durante la secuela del juicio, incluida su etapa de
+
+cumplimiento; 3.- Que, en cuanto al lucro cesante, cree prudente que
+
+se condene a la suma de $357.823.824 (trescientos cincuenta y siete
+
+millones ochocientos veintitrés mil ochocientos veinticuatro pesos)
+
+dado que el perjuicio provocará detrimentos en las remuneraciones, en
+
+27
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+su bono trimestral y en su plan de desarrollo año fiscal; 4.- Que,
+
+asimismo, la demandada señalada deberá pagar a su mandante me la
+
+suma de $200.000.000 (doscientos millones de pesos) o la suma que
+
+el Tribunal determine de acuerdo al mérito del proceso, por los daños
+
+extrapatrimoniales o morales que igualmente ha sufrido a raíz de las
+
+lesiones de que se da cuenta en este libelo; 5.- Que, las sumas que se
+
+ordenen pagar deberán serlo debidamente reajustadas de
+
+conformidad a la variación que experimente el índice de precios al
+
+consumidor determinado por el Instituto Nacional de estadísticas, entre
+
+la fecha en que las lesiones efectivamente se produjeron y aquella en
+
+que se efectúe el pago; y con más los intereses corrientes para
+
+operaciones no reajustables que corran entre las mismas fechas; y 6.-
+
+Que se condena a la antedicha demandada al pago de las costas de la
+
+causa.
+
+QUINTO: Que, con fecha 25 de febrero de 2020 (folio 9), la
+
+abogada de la demandada, conforme a lo ya expuesto en lo
+
+enunciativo lo que se da por reproducido en este apartado, solicitó el
+
+rechazo de la demanda, con costas.
+
+SEXTO: Que, en sus escritos de réplica y dúplica, las partes
+
+reiteraron y profundizaron los argumentos ya esgrimidos en la
+
+demanda y en la contestación pertinentes.
+
+SÉPTIMO: Que, con la finalidad de acreditar sus pretensiones, la
+
+parte demandante, acompañó a la causa la siguiente prueba:
+
+Documental, bajo apercibimiento legal, sin que fuere objetada
+
+por la contraria o cuya objeción fue rechazada, consistente en:
+
+1) Set de siete fotografías a color.
+
+2) Set de ocho fotografías a color.
+
+3) Entrada nominativa partido Copa Chile MTS, Club Deportes
+
+La Serena vs. Universidad Católica, de fecha 08 de junio de 2019.
+
+4) Epicrisis médica Hospital de Coquimbo, Paciente: Gonzalo
+
+Montecinos, Ficha: 557454, Fecha de ingreso: 09 de junio de 2019.
+
+28
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+5) Fotografía a color.
+
+6) Carta dirigida a don Gerardo Montecinos, emitida por Teck
+
+Resources Chile Ltda., de fecha 28 de diciembre de 2018.
+
+7) Contrato de trabajo, suscrito por don Gerardo Antonio
+
+Montecinos Cortés y por Teck Resources Chile Ltda., de fecha 14 de
+
+enero de 2019.
+
+8) Tres liquidaciones de sueldo, Nombre empleado: Gerardo
+
+Montecinos, emitidas por Teck Resources Chile Ltda., de fechas
+
+enero, febrero y abril de 2022.
+
+9) Planilla Excel con listado de gastos, de fechas entre el 31 de
+
+julio de 2019 y el 21 de febrero de 2020.
+
+10) Informe evaluación preocupacional, realizada a don Gerardo
+
+Montecinos Cortés, suscrito por la Dra. Sandra Mena Salin, de fecha
+
+03 de diciembre de 2018.
+
+11) Receta médica, Nombre paciente: Gerardo Montecinos
+
+Cortés, suscrita por el Dr. Nelson Cerpa Ch. de fecha 15 de diciembre
+
+de 2020.
+
+12) Dos imágenes radiológicas.
+
+13) Decreto alcaldicio N°2402-12, dictado por la Ilustrísima
+
+Municipalidad de La Serena, con fecha 13 de agosto de 2012.
+
+Testimonial, rendida con fecha 13 de mayo de 2022,
+
+consistente en las declaraciones de los testigos doña Jeanette
+
+Mónica Quiroga Montenegro y don Matías Gerardo Montecinos
+
+González, debidamente juramentados, respecto de los cuales no se
+
+interpuso tacha, cuyas declaraciones rolan en el expediente digital con
+
+folio 69
+
+Confesional, prestada con fecha 06 de octubre de 2022, por don
+
+Heriberto Luciano Maluena Villegas, en su calidad de alcalde
+
+subrogante de la Ilustre Municipalidad de La Serena, de
+
+29
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+conformidad al pliego de posiciones custodiado en el Tribunal, quien
+
+sostuvo lo que consta en autos bajo el folio 166.
+
+OCTAVO: Que, por su lado, la parte demandada, a fin de
+
+acreditar los fundamentos de su defensa, acompañó a la causa la
+
+siguiente prueba:
+
+Documental, bajo apercibimiento legal, sin que fuere objetada
+
+por la contraria, recibida del siguiente modo:
+
+Exhibición documental, realizada en audiencia de fecha 04 de
+
+julio de 2022 (folios 140 y 141):
+
+1) Copia de Res. Ex. N°840, dictada por la Gobernación
+
+Provincial de Elqui, con fecha 10 de octubre de 2018.
+
+2) Copia de Resolución Exenta N°512, dictada por la
+
+Gobernación Provincial de Elqui, con fecha 31 de mayo de 2019.
+
+3) Copia de Minuta de reunión, Coordinación CD La Serena vs
+
+Universidad Católica, sábado 08/06, 20:00 horas, Estadio “La
+
+Portada”, suscrita por don Rodrigo Álvarez Hurtado, Gobernación
+
+Provincial de Elqui, de fecha 16 de mayo de 2019.
+
+4) Copia de Proyecto de organización de partido de fútbol
+
+profesional, de fecha 16 de mayo de 2019.
+
+Percepción documental, respecto de elementos contenidos en
+
+pendrive custodiado bajo el N°640-2022, realizada en audiencia de
+
+fecha 15 de julio de 2022 (folio 146):
+
+5) Vídeo “Resumen La Serena 1-0 Universidad Católica Partido
+
+Ida Copa Chile 2019”, de 03:34 minutos de duración.
+
+6) 14 capturas de imagen obtenidas de vídeo “Resumen La
+
+Serena 1-0 Universidad Católica Partido Ida Copa Chile 2019”.
+
+7) Bases Campeonato Copa Chile MTS Temporada 2019,
+
+redactadas por la Asociación Nacional de Fútbol Profesional de Chile.
+
+8) Fotografía a color obtenida del sitio web primerabchile.cl.
+
+30
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+Testimonial, rendida con fecha 16 de mayo de 2022,
+
+consistente en las declaraciones de los testigos don Milko Eduardo
+
+Leguas Vega, don Michael Iván Godoy Cortés, y don Mauricio
+
+Brown Pinto, debidamente juramentados, respecto de los cuales no
+
+se interpuso tacha, cuyas declaraciones rolan en el expediente digital
+
+con folio 87.
+
+NOVENO: Que, entonces, atendida la forma en que fue
+
+contestada la demanda, corresponde primeramente referirse a la
+
+excepción perentoria de falta de legitimación pasiva interpuesta por la
+
+parte demandada Ilustre Municipalidad de La Serena.
+
+Así, al respecto, cabe consignar, siguiendo a la Iltma. Corte de
+
+Apelaciones de Concepción, en sentencia en causa Rol 392-2009, de
+
+fecha 29 de octubre del año 2009, que la legitimación puede definirse
+
+como el reconocimiento que hace el derecho a una persona de la
+
+posibilidad de realizar con eficacia un acto jurídico, derivando dicha
+
+posibilidad de una determinada relación existente entre el sujeto y el
+
+objeto del mismo. La legitimación sirve para determinar los sujetos que
+
+pueden ser justa parte en un determinado litigio, esto es, quienes
+
+tienen la calidad de legítimos contradictores para discutir sobre el
+
+objeto del proceso en una determinada relación procesal. Como
+
+principio general la acción no compete a cualquiera y ella tampoco
+
+puede deducirse en contra de cualquiera. La legitimación procesal o
+
+legitimatio ad causam es la consideración especial en que tiene la ley,
+
+dentro de cada proceso, a las personas que se hallan en una
+
+determinada relación con el objeto del litigio, y en virtud de la cual
+
+exige, para que la pretensión procesal pueda ser examinada en cuanto
+
+al fondo, que sean dichas personas las que figuren como parte en tal
+
+proceso.
+
+En consecuencia, la legitimación en la causa consiste, respecto
+
+del demandante, en ser la persona que de conformidad con la ley
+
+sustancial está legitimada para que por sentencia de fondo se resuelva
+
+si existe o no el derecho o la relación jurídica sustancial pretendida en
+
+31
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+la demanda, y respecto del demandado en ser la persona que
+
+conforme a la ley sustancial está legitimada para discutir u oponerse a
+
+dicha pretensión del demandante. El demandante es quien provoca el
+
+movimiento de la jurisdicción, pide la actuación de la ley en un caso
+
+concreto, y se le denomina sujeto activo. En tanto que, el demandado
+
+es aquél respecto del cual se pide la actuación de la ley en un caso
+
+concreto, y se le denomina sujeto pasivo.
+
+En el mismo sentido, es dable señalar que la legitimación
+
+procesal presenta como características que es personal, subjetiva y
+
+concreta respecto de un conflicto determinado, debe existir al
+
+momento de constituirse la relación procesal respecto del demandante
+
+y del demandado, y determina quienes deben estar presentes en un
+
+proceso para que sea posible emitir una sentencia sobre la pretensión
+
+que se ha formulado. (Cristián Maturana Miquel, “Disposiciones
+
+Comunes a todo Procedimiento”, Facultad de Derecho, Universidad de
+
+Chile, mayo 2003, páginas 63, 66 y 67). Así, si el que solicita la
+
+protección jurídica no tiene la legitimación (activa), o se deduce la
+
+acción en contra de un sujeto sin legitimación (pasiva), esa petición de
+
+tutela jurisdiccional no puede prosperar, ya que la legitimación tiene
+
+como único objetivo jurídico el determinar quiénes tienen la calidad de
+
+justa parte en el proceso, o sea, las personas que deben estar
+
+presentes a fin de que el juez pueda proveer sobre un determinado
+
+objeto.
+
+DÉCIMO: Que, entonces, atendida la controversia generada en
+
+autos, se hace necesario para resolver el asunto controversial, tener
+
+presente lo señalado por ciertas disposiciones legales, que son las
+
+que conforman en última instancia el estatuto de la responsabilidad
+
+civil en eventos deportivos.
+
+Así, del examen realizado al marco normativo que regula la
+
+actividad del deporte en general y del fútbol profesional en particular,
+
+especialmente a las leyes 19.712 (Ley del Deporte), 19.327 (Ley de
+
+Derechos y Deberes en los Espectáculos de Fútbol Profesional),
+
+32
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+20.019 (Ley de Sociedades Anónimas Deportivas), 20.178 (Estatuto
+
+del Trabajo del Futbolista Profesional y Trabajadores que desempeñan
+
+actividades conexas), y 19.496 (Ley de Protección de los Derechos de
+
+los Consumidores), podemos llegar a la conclusión de que la
+
+responsabilidad de los daños sufridos dentro de un estadio con
+
+ocasión de un espectáculo deportivo le compete al organizador del
+
+evento, atendido, entre otras consideraciones, a que quien se apropia
+
+de los beneficios económicos de una actividad, debe también hacerse
+
+cargo de las externalidades que provoca.
+
+En efecto, todo lo anterior se desprende de diversas normas, por
+
+ejemplo, el artículo 3° de la Ley 19.327, de Derechos y Deberes en los
+
+Espectáculos de Fútbol Profesional, indica en su letra a) que son
+
+deberes de los organizadores, asociaciones y dirigentes de fútbol
+
+profesional, en el marco de la celebración de espectáculos
+
+organizados por ellos o que les hubiesen sido autorizados, así como
+
+los hechos o circunstancias conexas a éstos, los siguientes:
+
+“a) Organizar y administrar el espectáculo deportivo adoptando
+
+todas las medidas necesarias y las exigidas para el correcto desarrollo
+
+del mismo, incluyendo aquellas que sean determinadas por el
+
+intendente al autorizar el espectáculo.
+
+b) Supervisar y garantizar el cumplimiento de la ley, su
+
+reglamento y las disposiciones que la autoridad administrativa o
+
+policial le hayan ordenado adoptar, para cada espectáculo deportivo,
+
+hecho o actividad conexa.
+
+c) Adoptar las medidas de seguridad establecidas en las leyes,
+
+reglamentos, disposiciones de la autoridad y protocolos determinados
+
+por la entidad superior del fútbol profesional, necesarias para prevenir
+
+alteraciones a la seguridad y al orden público que sean producto del
+
+espectáculo deportivo de fútbol profesional, hecho o actividad conexa,
+
+tales como venta de entradas, entrenamientos, concentraciones y
+
+traslados de equipos.”
+
+33
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+Además, el mismo artículo 3°, en su inciso penúltimo, indica que
+
+“Asimismo, y sin perjuicio de la responsabilidad por el incumplimiento
+
+de las obligaciones señaladas anteriormente, los organizadores de
+
+espectáculos de fútbol profesional estarán sujetos a las obligaciones
+
+que para los proveedores impone la ley Nº19.496, sobre protección de
+
+los derechos de los consumidores, debiendo aplicarse el
+
+procedimiento establecido en dicho cuerpo normativo respecto de las
+
+eventuales infracciones a los preceptos mencionados.”
+
+Entonces, en conexión con esto, la Ley N°19.496 de Protección
+
+de los Derechos de los Consumidores, nos permite arribar al contenido
+
+de la responsabilidad del organizador del evento deportivo, ya que,
+
+tanto por su órbita general de aplicación como por mención expresa de
+
+la Ley N°19.327, éste es el cuerpo normativo principal que regula la
+
+relación jurídica existente ente el organizador del espectáculo
+
+deportivo profesional y el espectador.
+
+UNDÉCIMO: Que, así, continuando con el mismo análisis, el
+
+artículo 1° de la Ley N°19.496 establece que su objeto es “normar las
+
+relaciones entre proveedores y consumidores, establecer las
+
+infracciones en perjuicio del consumidor, y señalar el procedimiento
+
+aplicable en estas materias”. En el mismo artículo 1° la ley establece
+
+qué debe entenderse por consumidor y qué por proveedor, definiendo
+
+a los consumidores o usuarios como aquellas “personas naturales o
+
+jurídicas que, en virtud de cualquier acto jurídico oneroso, adquieren,
+
+utilizan, o disfrutan, como destinatarios finales, bienes o servicios”,
+
+mientras que a los proveedores los define como aquellas “personas
+
+naturales o jurídicas, de carácter público o privado, que habitualmente
+
+desarrollen actividades de producción, fabricación, importación,
+
+construcción, distribución o comercialización de bienes o de prestación
+
+de servicios a consumidores, por las que se cobre precio o tarifa.”
+
+En cuanto a su ámbito de aplicación, el artículo 2° de la Ley
+
+N°19.496 establece que “quedan sujetos a las disposiciones de esta
+
+ley: a) Los actos jurídicos que, de conformidad a lo preceptuado en el
+
+34
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+Código de Comercio u otras disposiciones legales, tengan el carácter
+
+de mercantiles para el proveedor y civiles para el consumidor.”
+
+A saber, se ha entendido por la doctrina que los requisitos de
+
+aplicación de la Ley N°19.496 son: 1) Que se trate de una relación
+
+entre un proveedor y un consumidor; 2) Que el acto jurídico objeto de
+
+dicha relación tenga el carácter de mixto, es decir mercantil para el
+
+proveedor y civil para el consumidor, según lo dispuesto en el Código
+
+de Comercio u otras disposiciones legales; y 3) Que la actividad
+
+económica desarrollada por el proveedor no se encuentre regulada por
+
+leyes especiales.
+
+Por ello, y, siguiendo la línea de lo que se ha venido explicando,
+
+el acto jurídico “contrato de espectáculo deportivo profesional” cumple
+
+con todos estos requisitos, y si bien es cierto, nuestro ordenamiento sí
+
+tiene una normativa especial que regula la actividad económica
+
+desarrollada por el proveedor, la Ley N°19.327 de Derechos y Deberes
+
+en los Espectáculos de Fútbol Profesional, no obstante, la Ley
+
+N°19.496 tiene de todas formas aplicación, en virtud del artículo 2° bis,
+
+que establece, entre otras cosas, el llamado “principio de
+
+especialidad”, ya que lo prescrito en esta ley no se aplicará a las
+
+actividades reguladas en leyes especiales, exceptuando: a) En las
+
+materias que estas últimas no prevean (“principio de supletoriedad”);
+
+b) En lo relativo al procedimiento en las causas en que esté
+
+comprometido el interés colectivo o difuso de los consumidores o
+
+usuarios, y el derecho a solicitar indemnización mediante dicho
+
+procedimiento; y c) En lo relativo al derecho del consumidor o usuario
+
+para recurrir en forma individual, conforme al procedimiento de la Ley
+
+N°19.496, ante el tribunal correspondiente, a fin de ser indemnizado
+
+de todo perjuicio originado en el incumplimiento de una obligación
+
+contraída por los proveedores, siempre que no existan procedimientos
+
+indemnizatorios en dichas leyes especiales (recalcándose el hecho de
+
+que la Ley N°19.327 no tiene esa clase de procedimientos).
+
+35
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+En conclusión, queda de manifiesto, entonces, que la Ley de
+
+Protección de los Derechos de los Consumidores tiene plena
+
+aplicación a las materias suscitadas entre proveedor y consumidor en
+
+lo referente a espectáculos de fútbol profesional, tanto por su carácter
+
+general de aplicación emanada de los artículos 2° y 2° bis de la Ley
+
+N°19.496, como por mención expresa de la Ley N°19.327
+
+(MOMBERG, Rodrigo; Ámbito de Aplicación de la Ley Nº19.496 Sobre
+
+Protección de los Derechos de los Consumidores, Revista de Derecho
+
+(Valdivia), N°17, año 2004, págs. 41-62).
+
+DUODÉCIMO: Que, ahora bien, conforme a lo discurrido más
+
+arriba, habiéndose determinado que el sujeto legitimado para
+
+responder de los daños ocasionados en un estadio de fútbol con
+
+ocasión de un evento deportivo es el organizador del espectáculo,
+
+debe señalarse que en el caso específico de autos, quien tiene dicha
+
+calidad es Club de Deportes La Serena S.A.D.P., y no la Ilustre
+
+Municipalidad de La Serena, cuestión que queda acreditada con el
+
+documento consistente en copia de resolución exenta N°512, dictada
+
+por la Gobernación Provincial de Elqui, con fecha 31 de mayo de
+
+2019, instrumento público valorado de acuerdo al artículo 342 Nº3 del
+
+Código de Procedimiento Civil, y, por tanto, apreciado conforme a la
+
+regla del artículo 1700 del Código Civil, hace plena prueba de lo que
+
+se consigna en su considerando quinto: “Que mediante la propuesta
+
+técnica de realización de partido de fútbol profesional de fecha 16 de
+
+mayo de 2019 presentada ante esta autoridad provincial y citada en
+
+los vistos de la presente resolución, el organizador del espectáculo
+
+deportivo Club de Deportes La Serena SADP ha informado a esta
+
+Gobernación las medidas de seguridad que adoptará para este
+
+encuentro deportivo, obligándose a efectuarlas y a respetarlas íntegra
+
+y oportunamente.”, y en la parte resolutiva del mismo documento que:
+
+“2) AUTORIZAR la programación y realización del evento deportivo de
+
+fútbol profesional a celebrarse entre los equipos Club Deportes La
+
+Serena y Universidad Católica el día sábado 08 de junio de 2019 a las
+
+36
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+20:00 horas, el cual es válido por la Segunda Fase Ida del Torneo
+
+Copa Chile 2019, en las condiciones y bajo el cumplimiento de las
+
+medidas de seguridad que se indicarán, a partir de las
+
+vulnerabilidades que presenta el recinto deportivo, los contenidos del
+
+Plan de Seguridad referido y el riesgo asociado en la realización del
+
+espectáculo de fútbol profesional que se autoriza por medio de este
+
+acto administrativo. Todo lo anterior, sin perjuicio de las medidas de
+
+seguridad necesarias y exigidas que deba adoptar el organizador del
+
+evento deportivo.”
+
+DÉCIMO TERCERO: Que, sin perjuicio de lo ya reseñado,
+
+atendido que la falta de servicio alegada se funda, por lo demás, en
+
+falta de iluminación y señalización en el estadio, cabe precisar que, en
+
+cuanto a la calidad de la Ilustre Municipalidad de La Serena como
+
+administrador del estadio y no propiamente la de organizador del
+
+evento, relativa a que ésta cumplió con sus obligaciones relativas a la
+
+autorización de funcionamiento del recinto deportivo previamente a la
+
+realización del partido de fútbol, debe tenerse presente lo señalado en
+
+el artículo 4° de la Ley N°19.327:
+
+“Artículo 4°.- Los centros o recintos deportivos destinados a la
+
+realización de espectáculos de fútbol profesional, requerirán de una
+
+autorización otorgada por el Intendente de la Región respectiva, previo
+
+informe de Carabineros, que acredite que reúnen las condiciones de
+
+seguridad para efectuar tales eventos, sin perjuicio de las exigencias
+
+establecidas en la Ordenanza General de la Ley General de
+
+Urbanismo y Construcciones y en el reglamento de esta ley. Las
+
+autorizaciones que se otorguen considerarán las características de los
+
+eventos que se realicen.
+
+La autorización indicada en el inciso precedente podrá siempre
+
+ser revocada si desaparecieren las circunstancias que motivaron su
+
+otorgamiento o sobrevinieren otras que, de haber existido, habrían
+
+justificado su denegación.
+
+37
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+Los contratos que suscriban los organizadores de espectáculos
+
+de fútbol profesional con los administradores de los estadios
+
+destinados a dichos eventos deberán incorporar las condiciones de
+
+seguridad que haya fijado el Intendente en la respectiva resolución.
+
+En caso de incumplimiento de tales condiciones, el Intendente
+
+podrá suspender temporalmente la autorización otorgada conforme al
+
+inciso primero.
+
+En el reglamento de esta ley, establecido en un decreto supremo
+
+que llevará la firma del Ministro del Interior y Seguridad Pública, se
+
+regularán las condiciones mínimas que deberán cumplir los recintos y
+
+los organizadores de espectáculos de fútbol profesional, de acuerdo a
+
+las características y al riesgo para el orden público, la seguridad
+
+pública y los asistentes.”
+
+Conjuntamente con el artículo 10° del Decreto 225, que
+
+establece el Reglamento de la Ley Nº19.327:
+
+“Artículo 10.- Condiciones para la obtención de la autorización.-
+
+El Intendente exigirá para el otorgamiento de la autorización de
+
+funcionamiento, establecida en el artículo 1º de la ley Nº 19.327, a los
+
+dueños o administradores de recintos deportivos destinados a la
+
+realización de espectáculos de fútbol profesional, el cumplimiento de
+
+las siguientes condiciones de seguridad:
+
+1° Número adecuado de boleterías, de acuerdo al aforo máximo
+
+del recinto deportivo.
+
+2° Plan de acceso y evacuación de emergencia, elaborado por
+
+una persona que acredite tener los conocimientos suficientes en
+
+materia de prevención de riesgos.
+
+3° Plan de señalética informativa, de seguridad y de escape,
+
+elaborado por una persona que acredite tener los conocimientos
+
+suficientes en materia de prevención de riesgos. (…)
+
+10 Sistema de iluminación que permita una adecuada visión al
+
+interior del recinto deportivo y la existencia de luminarias adecuadas al
+
+38
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+exterior del mismo, para efectos de velar por la seguridad y
+
+tranquilidad de las personas. Este requisito no se exigirá a aquellos
+
+recintos deportivos en los cuales no se desarrollen encuentros
+
+deportivos en horario nocturno (…)”
+
+Por lo que se entiende que ha habido cumplimiento por parte del
+
+administrador Ilustre Municipalidad de La Serena, conforme con el
+
+documento Copia de Res. Ex. N°840, dictado por la Gobernación
+
+Provincial de Elqui, con fecha 10 de octubre de 2018, valorado de
+
+acuerdo al artículo 342 Nº3 del Código de Procedimiento Civil, y por
+
+tanto apreciado conforme a la regla del artículo 1700 del Código Civil,
+
+haciendo plena prueba en sus considerandos de que: “1. Que de
+
+conformidad con lo dispuesto por el artículo 4 de la Ley, los recintos
+
+deportivos requieren de una autorización otorgada por la autoridad
+
+administrativa competente para poder albergar espectáculos de fútbol
+
+profesional, en la que se acredite que se reúnen las condiciones de
+
+seguridad para efectuar tales eventos deportivos, sin perjuicio de las
+
+exigencias establecidas en la Ordenanza General de Urbanismo y
+
+Construcciones y en el Reglamento (…) 7. Que de acuerdo a los
+
+criterios de clasificación de recintos deportivos señalados en el artículo
+
+11 del Reglamento, y del análisis de todos los antecedentes e
+
+informes presentados, esta autoridad administrativa verifica que el
+
+Recinto cumple con los requisitos para ser clasificado según como se
+
+indicará en la parte resolutiva.” Y en lo resolutivo, precisamente,
+
+indicando que: “1. AUTORIZAR el uso del recinto deportivo Estadio La
+
+Portada de La Serena, para espectáculos de fútbol profesional, sin
+
+perjuicio del cumplimiento de las exigencias establecidas en la
+
+Ordenanza General de Urbanismo y Construcciones y haciendo
+
+presente que es de exclusiva responsabilidad del solicitante y de los
+
+respectivos profesionales competentes la veracidad del contenido de
+
+la solicitud de autorización del recinto deportivo citada en vistos.”
+
+DÉCIMO CUARTO: Que, finalmente, en cuanto a la alegación de
+
+la parte demandante de que de todas formas, al ser el Estadio La
+
+39
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+Portada de La Serena un bien nacional de uso público, se hace
+
+aplicable respecto de la Municipalidad de La Serena la responsabilidad
+
+por falta de servicio, se dirá que tal como da cuenta el documento
+
+Decreto Alcaldicio N°2402-12, dictado por la Ilustrísima Municipalidad
+
+de La Serena, con fecha 13 de agosto de 2012, que contiene el
+
+Convenio de transferencia de recursos y ejecución de Proyecto
+
+Instituto Nacional de Deportes de Chile e Ilustre Municipalidad de La
+
+Serena, valorados de acuerdo al artículo 342 Nº3 del Código de
+
+Procedimiento Civil, y por tanto apreciados conforme a la regla del
+
+artículo 1700 del Código Civil, que los mismo hacen plena prueba de
+
+que el estadio está inscrito a nombre de la Municipalidad, teniendo la
+
+misma la administración del recinto, y su naturaleza, como se ve, no
+
+es la de un bien nacional de uso público, sino que se trata de un bien
+
+municipal; indicando el documento: “OCTAVO: INMUEBLE DONDE
+
+SE EJECUTARÁN LAS OBRAS Las obras se encuentran en el
+
+inmueble ubicado en Avenida Estadio S/N, de una superficie de treinta
+
+y ocho mil quinientos treinta coma treinta y nueve metros cuadrados,
+
+inscrito a nombre de la Ilustre Municipalidad de La Serena a Fojas
+
+seiscientos siete , Número seiscientos treinta y ocho, en el Registro de
+
+Propiedad del Conservador de Bienes Raíces de La Serena,
+
+correspondiente al año mil novecientos cuarenta y siete…” y “DÉCIMO
+
+CUARTO: ADMINISTRACIÓN, USO Y CONSERVACIÓN DEL
+
+RECINTO El Municipio será el responsable del uso deportivo, la
+
+administración y debida conservación del recinto donde se ejecutaron
+
+las obras del proyecto.”
+
+Por lo tanto, con todo lo reflexionado supra, el tribunal acogerá la
+
+excepción de falta de legitimación pasiva, rechazándose, en
+
+consecuencia, la demanda principal, tal como se dirá en lo resolutivo
+
+de esta sentencia.
+
+DÉCIMO QUINTO: Que, conclusivamente, se omitirá
+
+pronunciamiento respecto de las demás alegaciones hechas valer por
+
+40
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+las partes, por resultar ellas incompatibles con lo resuelto
+
+precedentemente.
+
+DÉCIMO SEXTO: Que, los demás antecedentes agregados a la
+
+causa, pormenorizados mas no analizados en lo particular, en nada
+
+alteran las conclusiones a que se ha llegado precedentemente.
+
+Por estas consideraciones y visto, además de lo dispuesto en los
+
+artículos 144, 170, 342, 346, 384, 408, 426 y 427 del Código de
+
+Procedimiento Civil; 589, 1698, 1712 y 2314 y siguientes del Código
+
+Civil; 1°, 2° y 2° bis de la Ley N°19.496; y 3° y 4° de la Ley N°19.327;
+
+SE RESUELVE:
+
+EN CUANTO A LA OBJECIÓN DOCUMENTAL.
+
+I.- Que, se rechaza, sin costas, la objeción documental
+
+deducida por la demandada en el otrosí de la presentación de fecha
+
+25 de febrero de 2020 (folio 9).
+
+EN CUANTO AL FONDO.
+
+II.- Que, se acoge la excepción de falta de legitimación pasiva
+
+interpuesta por la parte demandada en la presentación de fecha 25 de
+
+febrero de 2020 (folio 9).
+
+III.- Que, en consecuencia, se rechaza la demanda de
+
+indemnización de perjuicios interpuesta por la parte demandante en la
+
+presentación de fecha 21 de enero de 2020 (folio 1).
+
+IV.- Que, cada parte se hará cargo del pago de sus costas.
+
+Anótese, regístrese copia autorizada de la presente sentencia en
+
+Secretaría del Tribunal.
+
+Notifíquese a las partes y archívese en su oportunidad.
+
+ROL C-284-2020.
+
+41
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-284-2020
+
+Dictada por doña INGRID MARLENE EBNER ROJAS, Jueza
+
+Subrogante del Primer Juzgado de Letras de La Serena.
+
+Se deja constancia que se dio cumplimiento a lo dispuesto en el inciso final del art. 162
+del C.P.C. en La Serena, diecinueve de abril de dos mil veintitr s.é
+
+42
+
+Código: XMTHXEMSLNV
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2023-04-19T15:12:02-0400

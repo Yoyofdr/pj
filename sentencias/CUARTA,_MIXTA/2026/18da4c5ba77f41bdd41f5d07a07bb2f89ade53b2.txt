@@ -1,0 +1,157 @@
+METADATA
+
+case_id: 18da4c5ba77f41bdd41f5d07a07bb2f89ade53b2
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8061572
+
+rol: 2385-2026
+
+fecha_sentencia: 2026-03-13
+
+caratulado: ANONIMIZADO
+
+sala: CUARTA, MIXTA
+
+materias: (CIVIL) CASACIÓN FONDO
+
+recurso: (CIVIL) CASACIÓN FONDO
+
+resultado_recurso: RECHAZA CASACION EN EL FONDO
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Corte Suprema ▼
+Santiago, trece de marzo de dos mil veintiséis.
+
+En cumplimiento a lo dispuesto por el artículo 785 del Código de Procedimiento Civil, se dicta la siguiente sentencia de reemplazo.
+
+Vistos:
+Se reproduce la sentencia en alzada, con excepción de los motivos vigésimo al vigésimo segundo, que se eliminan.
+
+Asimismo, en el fundamento décimo octavo, párrafo primero, línea segunda, se sustituye la frase “excepción de legitimación activa” por “excepción de falta de legitimación activa”.
+
+Y se tiene en su lugar y, además, presente:
+1°) Lo razonado en los considerandos noveno a décimo séptimo de la sentencia de nulidad que antecede, los que se tienen por expresamente reproducidos.
+
+2°) Que, en consecuencia, al haberse establecido que los demandados Sergio Schofield Araya y Reingeniería en Seguridad Privada Total SpA son personas relacionadas entre sí; que celebraron por escritura pública de 24 de junio de 2019, una dación en pago, según da cuenta la cláusula octava del referido instrumento, por medio de la cual se extinguió la obligación primitiva de pagar el precio de la compra de acciones y se sustituyó con una prestación distinta a la debida (transferencia en dominio de los inmuebles que individualiza), constituyendo el pago de una deuda vencida no ejecutada en la forma estipulada; convención que fue celebrada dentro de los dos años inmediatamente anteriores al inicio del procedimiento concursal de liquidación de la persona deudora -dictada el 8 de enero de 2021- y; que el acto causó un perjuicio a la masa de acreedores, por no haberse acreditado lo contrario por los demandados cuya carga procesal les correspondía, es posible concluir que se cumple el supuesto de hecho para la procedencia de la acción revocatoria objetiva concursal prevista en el artículo 290 causal N° 2 de la Ley N° 20.720.
+
+3°) Que corresponde, a continuación, analizar la procedencia de la acción revocatoria concursal objetiva incoada en contra de la compraventa que consta en escritura pública de 14 de enero de 2021, suscrita entre la sociedad demandada Reingeniería en Seguridad Privada Total SpA en liquidación, como vendedora, y la demandada Marianela Elizabeth Segura Vidal, como compradora, la cual recayó sobre los mismos inmuebles objeto de este litigio.
+
+4°) Para dilucidar la cuestión se ha de comenzar considerando lo prescrito por el artículo 294 de la Ley N° 20.720 que, precisamente, dispone acerca de los efectos de la sentencia que acoge una acción revocatoria concursal respecto de terceros y que indica:
+“Efectos respecto de terceros. La revocabilidad concursal de los actos o contratos afectará al contratante y terceros, cuando estos últimos conozcan el mal estado de los negocios del Deudor al momento de ejecutar el acto o celebrar el contrato respectivo. La sentencia definitiva que acoja la revocación de los actos o contratos que afecten a estos terceros, determinará el valor de los bienes objeto de la revocación, para los efectos del reintegro a la masa del bien o de su valor. Del mismo modo, dicha sentencia ordenará la cancelación de la inscripción de los derechos del demandado vencido y la de los terceros que corresponda y dispondrá la inscripción de reemplazo a nombre del Deudor”.
+
+5°) Como resulta fácil de advertir, la revocabilidad concursal del acto o contrato afectará al subadquirente sólo si se prueba la mala fe de este último, entendido tal ánimo como el conocimiento del mal estado de los negocios del deudor, circunstancia que ha de ser acreditada por el que intenta la acción y pretende hacer valer los efectos de la revocación al tercero. (Manuel Vargas Vargas, “Tratado de la acción pauliana concursal”, Editorial Ediar, 1949, pp. 475 y siguientes).
+
+6°) Que, en las condiciones anotadas, la revocación de la convención de 24 de junio de 2019 no produce efectos en contra de la demandada Marianela Elizabeth Segura Vidal, por cuanto no se asentó en estos autos como supuesto fáctico si esta última, en su calidad de subadquirente, obró de mala fe o, si se prefiere, conociendo el mal estado de los negocios del deudor, requisito legal que exige el citado artículo 294 para tal objeto; no pudiendo esta Corte alterar los hechos fijados por los jueces del fondo, por expreso mandato del artículo 785 del Código de Procedimiento Civil.
+
+Por lo anterior, la acción revocatoria intentada, en cuanto se dirige en contra de la demandada Segura Vidal y en relación con el segundo contrato de compraventa recaído sobre los mismos bienes, no podrá prosperar y, en consecuencia, se mantendrá como eficaz y firme la compraventa celebrada con Reingeniería en Seguridad Privada Total SpA, para todos los efectos legales.
+
+Por estas consideraciones y lo dispuesto, además, en los artículos 186 y siguientes del Código de Procedimiento Civil, se revoca la sentencia apelada de veintisiete de julio de dos mil veintitrés, sólo en cuanto por ella se rechaza la acción revocatoria concursal objetiva de la convención celebrada entre Sergio Schofield Araya y la sociedad Reingeniería en Seguridad Privada Total SpA, y, en su lugar, se acoge ésta y, en consecuencia, se declara que:
+I.- Se revoca la dación en pago suscrita el 24 de junio de 2019, entre Sergio Schofield Araya y la sociedad Reingeniería en Seguridad Privada Total SpA, siendo inoponible tal acto a la masa de acreedores.
+
+II.- Se condena a la demandada Reingeniería en Seguridad Privada Total SpA en liquidación, a la restitución a la masa de acreedores de Sergio Schofield Araya, del valor íntegro recibido a título de precio de la compraventa de los inmuebles de autos, realizada por escritura pública de 14 de enero de 2021, Repertorio N° 199/2021.
+
+III.- No se condena en costas a los demandados vencidos por estimar que tuvieron motivo plausible para litigar.
+
+Se confirma en lo demás el referido fallo, esto es, en cuanto rechaza la demanda revocatoria deducida en contra de Marianela Elizabeth Segura Vidal y, en consecuencia, se mantiene el contrato de compraventa recaído sobre los inmuebles de autos y celebrado con fecha 14 de enero de 2021, entre la referida demandada y la sociedad Reingeniería en Seguridad Privada Total SpA.
+
+Regístrese y devuélvase, vía interconexión.
+
+Redacción a cargo del abogado integrante Sr. Álvaro Vidal O.
+
+N° 54.090-2024
+Pronunciado por la Primera Sala de la Corte Suprema integrada por los Ministros señor Arturo Prado P., señor Mauricio Silva C., señora María Angélica Repetto G, señor Mario Carroza E. y el Abogado integrante señor Álvaro Vidal O.
+
+No obstante, haber concurrido a la vista de la causa y al acuerdo, no firman los Ministros señora Repetto y señor Carroza, por estar con feriado legal
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Corte Suprema ▼
+Santiago, trece de marzo de dos mil veintiséis.
+
+En cumplimiento a lo dispuesto por el artículo 785 del Código de Procedimiento Civil, se dicta la siguiente sentencia de reemplazo.
+
+Vistos:
+Se reproduce la sentencia en alzada, con excepción de los motivos vigésimo al vigésimo segundo, que se eliminan.
+
+Asimismo, en el fundamento décimo octavo, párrafo primero, línea segunda, se sustituye la frase “excepción de legitimación activa” por “excepción de falta de legitimación activa”.
+
+Y se tiene en su lugar y, además, presente:
+1°) Lo razonado en los considerandos noveno a décimo séptimo de la sentencia de nulidad que antecede, los que se tienen por expresamente reproducidos.
+
+2°) Que, en consecuencia, al haberse establecido que los demandados Sergio Schofield Araya y Reingeniería en Seguridad Privada Total SpA son personas relacionadas entre sí; que celebraron por escritura pública de 24 de junio de 2019, una dación en pago, según da cuenta la cláusula octava del referido instrumento, por medio de la cual se extinguió la obligación primitiva de pagar el precio de la compra de acciones y se sustituyó con una prestación distinta a la debida (transferencia en dominio de los inmuebles que individualiza), constituyendo el pago de una deuda vencida no ejecutada en la forma estipulada; convención que fue celebrada dentro de los dos años inmediatamente anteriores al inicio del procedimiento concursal de liquidación de la persona deudora -dictada el 8 de enero de 2021- y; que el acto causó un perjuicio a la masa de acreedores, por no haberse acreditado lo contrario por los demandados cuya carga procesal les correspondía, es posible concluir que se cumple el supuesto de hecho para la procedencia de la acción revocatoria objetiva concursal prevista en el artículo 290 causal N° 2 de la Ley N° 20.720.
+
+3°) Que corresponde, a continuación, analizar la procedencia de la acción revocatoria concursal objetiva incoada en contra de la compraventa que consta en escritura pública de 14 de enero de 2021, suscrita entre la sociedad demandada Reingeniería en Seguridad Privada Total SpA en liquidación, como vendedora, y la demandada Marianela Elizabeth Segura Vidal, como compradora, la cual recayó sobre los mismos inmuebles objeto de este litigio.
+
+4°) Para dilucidar la cuestión se ha de comenzar considerando lo prescrito por el artículo 294 de la Ley N° 20.720 que, precisamente, dispone acerca de los efectos de la sentencia que acoge una acción revocatoria concursal respecto de terceros y que indica:
+“Efectos respecto de terceros. La revocabilidad concursal de los actos o contratos afectará al contratante y terceros, cuando estos últimos conozcan el mal estado de los negocios del Deudor al momento de ejecutar el acto o celebrar el contrato respectivo. La sentencia definitiva que acoja la revocación de los actos o contratos que afecten a estos terceros, determinará el valor de los bienes objeto de la revocación, para los efectos del reintegro a la masa del bien o de su valor. Del mismo modo, dicha sentencia ordenará la cancelación de la inscripción de los derechos del demandado vencido y la de los terceros que corresponda y dispondrá la inscripción de reemplazo a nombre del Deudor”.
+
+5°) Como resulta fácil de advertir, la revocabilidad concursal del acto o contrato afectará al subadquirente sólo si se prueba la mala fe de este último, entendido tal ánimo como el conocimiento del mal estado de los negocios del deudor, circunstancia que ha de ser acreditada por el que intenta la acción y pretende hacer valer los efectos de la revocación al tercero. (Manuel Vargas Vargas, “Tratado de la acción pauliana concursal”, Editorial Ediar, 1949, pp. 475 y siguientes).
+
+6°) Que, en las condiciones anotadas, la revocación de la convención de 24 de junio de 2019 no produce efectos en contra de la demandada Marianela Elizabeth Segura Vidal, por cuanto no se asentó en estos autos como supuesto fáctico si esta última, en su calidad de subadquirente, obró de mala fe o, si se prefiere, conociendo el mal estado de los negocios del deudor, requisito legal que exige el citado artículo 294 para tal objeto; no pudiendo esta Corte alterar los hechos fijados por los jueces del fondo, por expreso mandato del artículo 785 del Código de Procedimiento Civil.
+
+Por lo anterior, la acción revocatoria intentada, en cuanto se dirige en contra de la demandada Segura Vidal y en relación con el segundo contrato de compraventa recaído sobre los mismos bienes, no podrá prosperar y, en consecuencia, se mantendrá como eficaz y firme la compraventa celebrada con Reingeniería en Seguridad Privada Total SpA, para todos los efectos legales.
+
+Por estas consideraciones y lo dispuesto, además, en los artículos 186 y siguientes del Código de Procedimiento Civil, se revoca la sentencia apelada de veintisiete de julio de dos mil veintitrés, sólo en cuanto por ella se rechaza la acción revocatoria concursal objetiva de la convención celebrada entre Sergio Schofield Araya y la sociedad Reingeniería en Seguridad Privada Total SpA, y, en su lugar, se acoge ésta y, en consecuencia, se declara que:
+I.- Se revoca la dación en pago suscrita el 24 de junio de 2019, entre Sergio Schofield Araya y la sociedad Reingeniería en Seguridad Privada Total SpA, siendo inoponible tal acto a la masa de acreedores.
+
+II.- Se condena a la demandada Reingeniería en Seguridad Privada Total SpA en liquidación, a la restitución a la masa de acreedores de Sergio Schofield Araya, del valor íntegro recibido a título de precio de la compraventa de los inmuebles de autos, realizada por escritura pública de 14 de enero de 2021, Repertorio N° 199/2021.
+
+III.- No se condena en costas a los demandados vencidos por estimar que tuvieron motivo plausible para litigar.
+
+Se confirma en lo demás el referido fallo, esto es, en cuanto rechaza la demanda revocatoria deducida en contra de Marianela Elizabeth Segura Vidal y, en consecuencia, se mantiene el contrato de compraventa recaído sobre los inmuebles de autos y celebrado con fecha 14 de enero de 2021, entre la referida demandada y la sociedad Reingeniería en Seguridad Privada Total SpA.
+
+Regístrese y devuélvase, vía interconexión.
+
+Redacción a cargo del abogado integrante Sr. Álvaro Vidal O.
+
+N° 54.090-2024
+Pronunciado por la Primera Sala de la Corte Suprema integrada por los Ministros señor Arturo Prado P., señor Mauricio Silva C., señora María Angélica Repetto G, señor Mario Carroza E. y el Abogado integrante señor Álvaro Vidal O.
+
+No obstante, haber concurrido a la vista de la causa y al acuerdo, no firman los Ministros señora Repetto y señor Carroza, por estar con feriado legal
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Corte Suprema ▼
+Santiago, trece de marzo de dos mil veintiséis.
+
+En cumplimiento a lo dispuesto por el artículo 785 del Código de Procedimiento Civil, se dicta la siguiente sentencia de reemplazo.
+
+Vistos:
+Se reproduce la sentencia en alzada, con excepción de los motivos vigésimo al vigésimo segundo, que se eliminan.
+
+Asimismo, en el fundamento décimo octavo, párrafo primero, línea segunda, se sustituye la frase “excepción de legitimación activa” por “excepción de falta de legitimación activa”.
+
+Y se tiene en su lugar y, además, presente:
+1°) Lo razonado en los considerandos noveno a décimo séptimo de la sentencia de nulidad que antecede, los que se tienen por expresamente reproducidos.
+
+2°) Que, en consecuencia, al haberse establecido que los demandados Sergio Schofield Araya y Reingeniería en Seguridad Privada Total SpA son personas relacionadas entre sí; que celebraron por escritura pública de 24 de junio de 2019, una dación en pago, según da cuenta la cláusula octava del referido instrumento, por medio de la cual se extinguió la obligación primitiva de pagar el precio de la compra de acciones y se sustituyó con una prestación distinta a la debida (transferencia en dominio de los inmuebles que individualiza), constituyendo el pago de una deuda vencida no ejecutada en la forma estipulada; convención que fue celebrada dentro de los dos años inmediatamente anteriores al inicio del procedimiento concursal de liquidación de la persona deudora -dictada el 8 de enero de 2021- y; que el acto causó un perjuicio a la masa de acreedores, por no haberse acreditado lo contrario por los demandados cuya carga procesal les correspondía, es posible concluir que se cumple el supuesto de hecho para la procedencia de la acción revocatoria objetiva concursal prevista en el artículo 290 causal N° 2 de la Ley N° 20.720.
+
+3°) Que corresponde, a continuación, analizar la procedencia de la acción revocatoria concursal objetiva incoada en contra de la compraventa que consta en escritura pública de 14 de enero de 2021, suscrita entre la sociedad demandada Reingeniería en Seguridad Privada Total SpA en liquidación, como vendedora, y la demandada Marianela Elizabeth Segura Vidal, como compradora, la cual recayó sobre los mismos inmuebles objeto de este litigio.
+
+4°) Para dilucidar la cuestión se ha de comenzar considerando lo prescrito por el artículo 294 de la Ley N° 20.720 que, precisamente, dispone acerca de los efectos de la sentencia que acoge una acción revocatoria concursal respecto de terceros y que indica:
+“Efectos respecto de terceros. La revocabilidad concursal de los actos o contratos afectará al contratante y terceros, cuando estos últimos conozcan el mal estado de los negocios del Deudor al momento de ejecutar el acto o celebrar el contrato respectivo. La sentencia definitiva que acoja la revocación de los actos o contratos que afecten a estos terceros, determinará el valor de los bienes objeto de la revocación, para los efectos del reintegro a la masa del bien o de su valor. Del mismo modo, dicha sentencia ordenará la cancelación de la inscripción de los derechos del demandado vencido y la de los terceros que corresponda y dispondrá la inscripción de reemplazo a nombre del Deudor”.
+
+5°) Como resulta fácil de advertir, la revocabilidad concursal del acto o contrato afectará al subadquirente sólo si se prueba la mala fe de este último, entendido tal ánimo como el conocimiento del mal estado de los negocios del deudor, circunstancia que ha de ser acreditada por el que intenta la acción y pretende hacer valer los efectos de la revocación al tercero. (Manuel Vargas Vargas, “Tratado de la acción pauliana concursal”, Editorial Ediar, 1949, pp. 475 y siguientes).
+
+6°) Que, en las condiciones anotadas, la revocación de la convención de 24 de junio de 2019 no produce efectos en contra de la demandada Marianela Elizabeth Segura Vidal, por cuanto no se asentó en estos autos como supuesto fáctico si esta última, en su calidad de subadquirente, obró de mala fe o, si se prefiere, conociendo el mal estado de los negocios del deudor, requisito legal que exige el citado artículo 294 para tal objeto; no pudiendo esta Corte alterar los hechos fijados por los jueces del fondo, por expreso mandato del artículo 785 del Código de Procedimiento Civil.
+
+Por lo anterior, la acción revocatoria intentada, en cuanto se dirige en contra de la demandada Segura Vidal y en relación con el segundo contrato de compraventa recaído sobre los mismos bienes, no podrá prosperar y, en consecuencia, se mantendrá como eficaz y firme la compraventa celebrada con Reingeniería en Seguridad Privada Total SpA, para todos los efectos legales.
+
+Por estas consideraciones y lo dispuesto, además, en los artículos 186 y siguientes del Código de Procedimiento Civil, se revoca la sentencia apelada de veintisiete de julio de dos mil veintitrés, sólo en cuanto por ella se rechaza la acción revocatoria concursal objetiva de la convención celebrada entre Sergio Schofield Araya y la sociedad Reingeniería en Seguridad Privada Total SpA, y, en su lugar, se acoge ésta y, en consecuencia, se declara que:
+I.- Se revoca la dación en pago suscrita el 24 de junio de 2019, entre Sergio Schofield Araya y la sociedad Reingeniería en Seguridad Privada Total SpA, siendo inoponible tal acto a la masa de acreedores.
+
+II.- Se condena a la demandada Reingeniería en Seguridad Privada Total SpA en liquidación, a la restitución a la masa de acreedores de Sergio Schofield Araya, del valor íntegro recibido a título de precio de la compraventa de los inmuebles de autos, realizada por escritura pública de 14 de enero de 2021, Repertorio N° 199/2021.
+
+III.- No se condena en costas a los demandados vencidos por estimar que tuvieron motivo plausible para litigar.
+
+Se confirma en lo demás el referido fallo, esto es, en cuanto rechaza la demanda revocatoria deducida en contra de Marianela Elizabeth Segura Vidal y, en consecuencia, se mantiene el contrato de compraventa recaído sobre los inmuebles de autos y celebrado con fecha 14 de enero de 2021, entre la referida demandada y la sociedad Reingeniería en Seguridad Privada Total SpA.
+
+Regístrese y devuélvase, vía interconexión.
+
+Redacción a cargo del abogado integrante Sr. Álvaro Vidal O.
+
+N° 54.090-2024
+Pronunciado por la Primera Sala de la Corte Suprema integrada por los Ministros señor Arturo Prado P., señor Mauricio Silva C., señora María Angélica Repetto G, señor Mario Carroza E. y el Abogado integrante señor Álvaro Vidal O.
+
+No obstante, haber concurrido a la vista de la causa y al acuerdo, no firman los Ministros señora Repetto y señor Carroza, por estar con feriado legal
