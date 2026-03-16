@@ -4,19 +4,19 @@ case_id: 937dbc9f070a0654e2342457784b32746892b7c2
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8037525
 
-rol: 4928-2026
+rol: 6241-2026
 
 fecha_sentencia: 2026-02-24
 
-caratulado: OLAYA ROMERO JUAN CARLOS CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: ZAMBRANO SEGURA HUMBERTO JAHIR CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
