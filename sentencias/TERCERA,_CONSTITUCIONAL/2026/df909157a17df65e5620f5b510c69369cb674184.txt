@@ -4,19 +4,19 @@ case_id: df909157a17df65e5620f5b510c69369cb674184
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8038540
 
-rol: 56431-2025
+rol: 24866-2025
 
 fecha_sentencia: 2026-02-24
 
-caratulado: MINING STEEL SPA/SERVICIOS EQUIFAX CHILE LIMITADA
+caratulado: SANDOVAL/ILUSTRE MUNICIPALIDAD DE TEMUCO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Derecho a la honra, a la imagen y a la vida privada, libertad de expresión
+materias: ▪ Admisibilidad del recurso de casación en el fondo
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: RECHAZA CASACION EN EL FONDO
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

@@ -4,15 +4,15 @@ case_id: 84b4e64c029c7b80f60a0ef07f99242644bcef3e
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8039093
 
-rol: 57697-2025
+rol: 56352-2025
 
 fecha_sentencia: 2026-02-24
 
-caratulado: DELGADO/SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN REGIONAL CHILLAN
+caratulado: FUSION INDUSTRIAL SPA/HOSPITAL SAN JUAN DE DIOS LA SERENA.
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Servicio de Impuestos Internos
+materias: ▪ Acto administrativo
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 

@@ -4,15 +4,15 @@ case_id: 638035e7164a4e40e4b17798e08c2794412df3b8
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8038039
 
-rol: 57801-2025
+rol: 57692-2025
 
 fecha_sentencia: 2026-02-24
 
-caratulado: COMUNIDAD EDIFICIO GRUMETE BOLADOS CONTRA CONSTRUCTORA EQUIS SPA Y OTROS
+caratulado: GALLEGUILLOS MOLLO JOHANNA VANESSA Y OTROS CONTRA MAMANI FLORES ADA ESTELA
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Protecciones en contra de particulares
+materias: ▪ Derecho a la honra, a la imagen y a la vida privada, libertad de expresión
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 

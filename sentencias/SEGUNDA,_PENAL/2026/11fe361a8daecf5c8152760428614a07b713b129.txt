@@ -4,19 +4,19 @@ case_id: 11fe361a8daecf5c8152760428614a07b713b129
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8037823
 
-rol: 6249-2026
+rol: 6233-2026
 
 fecha_sentencia: 2026-02-24
 
-caratulado: GARCIA PINEDA CLAUDIO ANDRES CONTRA COMISION DE LIBERTAD CONDICIONAL
+caratulado: FRANCOIS BETHSAIDA CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: (CRIMEN) APELACIÓN AMPARO
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
