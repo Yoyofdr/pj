@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046810
 
 rol: 9108-2026
 
-fecha_sentencia: 2026-03-03
+fecha_sentencia: 2026-03-02
 
 caratulado: PARRA FAÚNEZ JOSÉ ALEJANDRO CONTRA TRIBUNAL DE CONDUCTA DEL COMPLEJO PENITENCIARIO DE LA SERENA
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) CASACIÓN FORMA Y FONDO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 

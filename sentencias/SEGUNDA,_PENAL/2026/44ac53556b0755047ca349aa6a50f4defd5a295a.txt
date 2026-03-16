@@ -6,21 +6,20 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047183
 
 rol: 9353-2026
 
-fecha_sentencia: 2026-03-03
+fecha_sentencia: 2026-03-02
 
 caratulado: LAGOS HERRERA CARLOS EDUARDO CONTRA SÉPTIMO JUZGADO DE GARANTÍA DE SANTIAGO
 
 sala: SEGUNDA, PENAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: (CIVIL) CASACIÓN FORMA Y FONDO
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) CASACIÓN FORMA Y FONDO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
-Corte Apelaciones ▼
 Santiago, tres de marzo de dos mil veintiséis.
 
 Vistos y teniendo únicamente presente:

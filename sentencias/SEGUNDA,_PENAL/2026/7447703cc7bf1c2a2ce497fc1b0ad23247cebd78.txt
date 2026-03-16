@@ -4,19 +4,19 @@ case_id: 7447703cc7bf1c2a2ce497fc1b0ad23247cebd78
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047152
 
-rol: 9536-2026
+rol: 246264-2023
 
-fecha_sentencia: 2026-03-03
+fecha_sentencia: 2026-03-02
 
-caratulado: OJEDA TORRENT WALDO ANTONIO CONTRA DIRECCION REGIONAL METROPOLITANA DE GENDARMERIA DE CHILE
+caratulado: STEVEN AGUAYO SANHUEZA
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: ▪ Admisibilidad del recurso de casación en el fondo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) CASACIÓN FORMA Y FONDO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: RECHAZA CASACION EN EL FONDO (M)
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

@@ -4,19 +4,19 @@ case_id: 7e43146c8b63eca5db32b69598b38af8d0a47cbf
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045912
 
-rol: 6225-2026
+rol: 8417-2026
 
 fecha_sentencia: 2026-03-02
 
-caratulado: FLEURIMA MIRLANDE CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: KAUR RAVINDER CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: (CIVIL) CASACIÓN FORMA Y FONDO
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) CASACIÓN FORMA Y FONDO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

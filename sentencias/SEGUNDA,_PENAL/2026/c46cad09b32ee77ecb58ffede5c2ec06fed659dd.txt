@@ -4,19 +4,19 @@ case_id: c46cad09b32ee77ecb58ffede5c2ec06fed659dd
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046528
 
-rol: 7162-2026
+rol: 9322-2026
 
-fecha_sentencia: 2026-03-03
+fecha_sentencia: 2026-03-02
 
-caratulado: CARDONA VEGA YEIDY CAMILA CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: ARRAÑO RAMOS GIOVANI RODRIGO CONTRA DIRECCION REGIONAL METROPOLITANA DE GENDARMERIA DE CHILE
 
 sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) CASACIÓN FORMA Y FONDO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
