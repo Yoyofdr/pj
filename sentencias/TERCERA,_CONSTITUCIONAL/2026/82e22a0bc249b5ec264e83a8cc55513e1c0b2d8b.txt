@@ -4,11 +4,11 @@ case_id: 82e22a0bc249b5ec264e83a8cc55513e1c0b2d8b
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040947
 
-rol: 40210-2025
+rol: 58136-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: IRIS BACALANDO ORTIZ CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: FELIÚ/SERVICIO NACIONAL DE MIGRACIONES DE CHILE
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
