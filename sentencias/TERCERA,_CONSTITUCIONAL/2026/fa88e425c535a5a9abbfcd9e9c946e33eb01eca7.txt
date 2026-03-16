@@ -4,11 +4,11 @@ case_id: fa88e425c535a5a9abbfcd9e9c946e33eb01eca7
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040447
 
-rol: 159-2026
+rol: 56660-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: SEGOVIA HERRERA ORANGEL XAVIEL/SERVICIO NACIONAL DE MIGRACIONES
+caratulado: DIAZ DE LEON FUENTEVILLA RAMON Y OTRO / SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 

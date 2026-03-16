@@ -4,15 +4,15 @@ case_id: 2a3a2f65cdeac8481913b1441a969525b9b9d8d1
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040866
 
-rol: 7234-2026
+rol: 5304-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: RODRIGUEZ/SERVICIO NACIONAL DE MIGRACIONES DE CHILE
+caratulado: URDANETA/BANMEDICA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Reclamo de expulsión de extranjeros
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
