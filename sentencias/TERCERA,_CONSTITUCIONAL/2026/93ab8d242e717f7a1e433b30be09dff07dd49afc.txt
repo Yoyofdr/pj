@@ -4,11 +4,11 @@ case_id: 93ab8d242e717f7a1e433b30be09dff07dd49afc
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040998
 
-rol: 5955-2026
+rol: 159-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: JORDÁN/ISAPRE VIDA TRES S.A.
+caratulado: SEGOVIA HERRERA ORANGEL XAVIEL/SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
