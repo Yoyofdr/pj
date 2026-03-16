@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8039391
 
 rol: 5939-2026
 
-fecha_sentencia: 2026-02-24
+fecha_sentencia: 2026-02-25
 
 caratulado: RIVAS/ISAPRE VIDA TRES S.A.
 
