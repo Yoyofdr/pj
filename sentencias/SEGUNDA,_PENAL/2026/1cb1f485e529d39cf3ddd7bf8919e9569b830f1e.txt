@@ -6,15 +6,15 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8037477
 
 rol: 7464-2026
 
-fecha_sentencia: 2026-02-23
+fecha_sentencia: 2026-02-24
 
 caratulado: BENÍTEZ AMARILLA DERLIS SANTIAGO CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: (CIVIL) CASACIÓN FONDO
+materias: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
