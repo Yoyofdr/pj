@@ -4,11 +4,11 @@ case_id: 7f194b64faf200c2205aca4b1db199254a42ff6d
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047883
 
-rol: 49661-2025
+rol: 40431-2025
 
 fecha_sentencia: 2026-03-04
 
-caratulado: JEAN CHARLES / SUBSECRTARIA DEL MINISTERIO DEL INTERIOR
+caratulado: KERCY PREVIL/SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
