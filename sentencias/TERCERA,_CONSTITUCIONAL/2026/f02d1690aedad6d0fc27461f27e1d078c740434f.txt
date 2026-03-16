@@ -1,18 +1,18 @@
 METADATA
 
-case_id: aa24f3243cc24745253b65fa442793e4522aa131
+case_id: f02d1690aedad6d0fc27461f27e1d078c740434f
 
-url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040469
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041114
 
-rol: 5480-2026
+rol: 5417-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: HERNÁNDEZ MÉNDEZ KEIBER ALBERTO CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: ORTIZ/VIDA TRES S.A.
 
-sala: SEGUNDA, PENAL
+sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Recurso de Amparo
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
