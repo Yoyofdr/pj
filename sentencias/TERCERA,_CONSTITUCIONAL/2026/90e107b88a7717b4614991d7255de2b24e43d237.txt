@@ -4,11 +4,11 @@ case_id: 90e107b88a7717b4614991d7255de2b24e43d237
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040249
 
-rol: 58432-2025
+rol: 5906-2026
 
-fecha_sentencia: 2026-02-24
+fecha_sentencia: 2026-02-25
 
-caratulado: COLORADO/SUBSECRETARIA DEL INTERIOR /MINISTERIO DEL INTERIOR
+caratulado: BURR/ISAPRE VIDA TRES S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
