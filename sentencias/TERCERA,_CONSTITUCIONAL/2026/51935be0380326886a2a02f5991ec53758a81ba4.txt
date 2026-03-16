@@ -4,15 +4,15 @@ case_id: 51935be0380326886a2a02f5991ec53758a81ba4
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040965
 
-rol: 46567-2025
+rol: 57822-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: ANGOLA ANGARITA YOLEINNER/SERVICIO NACIONAL DE MIGRACIONES
+caratulado: INMOBILIARIA EL GUINDO SPA/SEMINARIO PONTIFICIO DE SANTIAGO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: ▪ Aspectos procesales del recurso de protección
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 

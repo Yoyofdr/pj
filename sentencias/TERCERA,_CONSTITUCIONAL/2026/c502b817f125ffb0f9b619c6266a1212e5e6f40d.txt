@@ -4,11 +4,11 @@ case_id: c502b817f125ffb0f9b619c6266a1212e5e6f40d
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041002
 
-rol: 58044-2025
+rol: 58441-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: RIVERO/THAYER
+caratulado: ARGILAGOS/THAYER
 
 sala: TERCERA, CONSTITUCIONAL
 

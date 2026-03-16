@@ -4,19 +4,19 @@ case_id: cac71b71d5678de6892411f3b18f789489f24e10
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041245
 
-rol: 57785-2025
+rol: 57996-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: ROJO/SERVICIO DE MIGRACIONES
+caratulado: BARRIENTOS/PÉREZ
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: ▪ Función pública
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

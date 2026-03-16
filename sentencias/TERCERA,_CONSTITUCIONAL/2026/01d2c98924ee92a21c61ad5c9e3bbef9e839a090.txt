@@ -4,11 +4,11 @@ case_id: 01d2c98924ee92a21c61ad5c9e3bbef9e839a090
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040573
 
-rol: 5954-2026
+rol: 42084-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: QUEZADA/ISAPRE VIDA TRES S.A.
+caratulado: QUINTERO/SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 

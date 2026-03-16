@@ -4,19 +4,19 @@ case_id: f24081dd434e454134d2b9f3c1c64c3ab3c0025d
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040411
 
-rol: 4260-2026
+rol: 4288-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: LINCOPÍ/ISAPRE BANMEDICA S.A.
+caratulado: ECHEVERRÍA/ ISAPRE CRUZ BLANCA S.A
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

@@ -4,11 +4,11 @@ case_id: 97931fc0a252cc1e8d07c83f6e539baaf978273f
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041004
 
-rol: 58441-2025
+rol: 163-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: ARGILAGOS/THAYER
+caratulado: BENITEZ/SERVICIO NACIONAL DE MIGRACIONES DE CHILE
 
 sala: TERCERA, CONSTITUCIONAL
 

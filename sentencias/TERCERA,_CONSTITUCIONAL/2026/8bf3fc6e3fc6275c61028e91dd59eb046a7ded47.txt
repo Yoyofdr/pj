@@ -4,19 +4,19 @@ case_id: 8bf3fc6e3fc6275c61028e91dd59eb046a7ded47
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040989
 
-rol: 57996-2025
+rol: 58207-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: BARRIENTOS/PÉREZ
+caratulado: RANGEL/ELIZALDE
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Función pública
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

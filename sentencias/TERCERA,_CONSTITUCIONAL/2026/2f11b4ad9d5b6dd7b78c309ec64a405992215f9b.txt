@@ -4,11 +4,11 @@ case_id: 2f11b4ad9d5b6dd7b78c309ec64a405992215f9b
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8039468
 
-rol: 42084-2025
+rol: 57785-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: QUINTERO/SERVICIO NACIONAL DE MIGRACIONES
+caratulado: ROJO/SERVICIO DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

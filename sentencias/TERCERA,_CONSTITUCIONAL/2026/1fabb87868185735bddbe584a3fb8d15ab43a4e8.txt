@@ -4,19 +4,19 @@ case_id: 1fabb87868185735bddbe584a3fb8d15ab43a4e8
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041250
 
-rol: 57822-2025
+rol: 58044-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: INMOBILIARIA EL GUINDO SPA/SEMINARIO PONTIFICIO DE SANTIAGO
+caratulado: RIVERO/THAYER
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Aspectos procesales del recurso de protección
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
