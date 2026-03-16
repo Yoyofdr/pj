@@ -1,0 +1,84 @@
+METADATA
+
+case_id: 3e5315e0ac74c62cfabadf6b156c669214055fd3
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046311
+
+rol: 48625-2025
+
+fecha_sentencia: 2026-02-27
+
+caratulado: ALMONACID/FONDO NACIONAL DE SALUD (FONASA)
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: ▪ Potestad sancionadora
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, dos de marzo de dos mil veintiséis.
+
+VISTOS:
+Se eliminan los fundamentos segundo, tercero, cuarto, quinto y sexto.
+
+Y se tiene en su lugar presente:
+Primero: Que, se ha denunciado como acto arbitrario e ilegal, la negativa de la Tesorería General de la República y de la Tesorería Regional del Bio Bio, de declarar la prescripción respecto de las obligaciones tributarias del recurrente, conforme a la normativa transitoria de la Ley n°21.713, decisión que quedó plasmada en la Resolución Exenta N°1223 y en el Oficio 19124-TR-CONCE, respectivamente. Estima el actor que estos actos vulneran las garantías del artículo 19 N° 2 y 24 de la Carta Fundamental, por lo que solicita se dejen ambos sin efecto, y en su lugar se declaren prescritas las acciones de cobro señaladas.
+
+Segundo: Que, la recurrida al informar, explica que las obligaciones tributarias materia de la presente Litis, actualmente son objeto del procedimiento administrativo de cobro Rol 10169-2017 de Concepción, y que además se sustancia un procedimiento ejecutivo en contra del actor, Rol C -2178-2022 del Tercer Juzgado Civil de Concepción, por lo que resulta innecesaria una nueva acción judicial.
+
+Tercero: Que, de los antecedentes acompañados, fluye que esta materia se encuentra bajo el imperio de derecho, existiendo un órgano jurisdiccional idóneo, especialmente diseñado por el legislador para abocarse al conocimiento de la conflictiva que se pretende abordar mediante el ejercicio de esta acción cautelar, por lo que no resulta pertinente ventilar estos mismos hechos en un procedimiento extraordinario, desformalizado y concentrado como el presente.
+
+Cuarto: Que en efecto, este recurso no ha sido creado para solucionar conflictos cuando el mismo está sometido al imperio del derecho, a través del tribunal u órgano competente. Eso se verifica en este caso, de momento que existe en tramitación un procedimiento ejecutivo civil y además uno de carácter tributario, de modo que los actos o actuaciones reprochados por esta vía tienen que plantearse ante quien corresponde, por los medios que la ley franquea.
+
+De conformidad asimismo con lo que disponen el artículo 20 de la Constitución Política de la República y Auto Acordado de esta Corte Suprema sobre la materia, se confirma la sentencia de fecha catorce de enero de dos mil veintiséis, dictada por la Corte de Apelaciones de Concepción, que rechazó el recurso de protección deducido en estos antecedentes.
+
+Al escrito folio N° 5: No ha lugar, estése al mérito de lo resuelto.
+Regístrese y devuélvase.
+
+Rol N° 2.951-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Concepción, catorce de enero de dos mil veintiséis.
+
+VISTO:
+
+Comparece GONZALO RODRIGO GALAZ LATORRE, abogado, en representación de INMOBILIARIA CONSTRUCTORA E INVERSIONES EL VALLE LTDA., e interpone recurso de protección en contra del TESORERO REGIONAL DE CONCEPCIÓN, don CRISTIAN ASTUDILLO GONZÁLEZ.
+
+El recurrente impugna el Oficio Ordinario N° 19124-TR-CONCE, de fecha 16 de mayo de 2025, mediante el cual la recurrida rechazó la solicitud de prescripción de deudas tributarias y la eliminación de información en el certificado de deuda de la empresa. Sostiene que su representada poseía deudas emitidas con anterioridad al 31 de diciembre de 2013, las cuales debían ser declaradas prescritas de oficio según el artículo 14 transitorio de la Ley N° 21.713. Alega que el actuar de la Tesorería es ilegal y arbitrario, vulnerando las garantías consagradas en el artículo 19 N° 2 (Igualdad ante la ley) y N° 24 (Derecho de propiedad) de la Constitución Política.
+
+La recurrida, la Tesorería Regional de Concepción, representada por la abogada MARIELA MENA PINCHEIRA, solicitó el rechazo del recurso. Informó que, si bien la deuda (Folio 1013035) registra una fecha de vencimiento al 30 de abril de 2012, la fecha de giro por parte del Servicio de Impuestos Internos fue el 22 de noviembre de 2016. Argumenta que la Ley N° 21.713 exige expresamente que los tributos hayan sido girados o emitidos hasta el 31 de diciembre de 2013, por lo que la deuda del recurrente queda legalmente excluida del beneficio de prescripción de oficio.
+
+Se trajeron los autos en relación.
+
+CONSIDERANDO:
+
+1° Que, la acción constitucional de protección requiere la preexistencia de un derecho garantizado, indubitado, que haya sido privado, perturbado o amenazado por un acto u omisión ilegal o arbitrario. El acto impugnado en estos autos consiste en la negativa de la Tesorería General de la República (TGR) a declarar la prescripción de oficio de la deuda tributaria del recurrente bajo el amparo de la Ley N° 21.713.
+
+2° Que, conforme a lo dispuesto en la Ley N° 21.713 y la Resolución Exenta N° 1223-TR de la TGR, la facultad del Tesorero para declarar la prescripción de oficio se limita estrictamente a deudas giradas o emitidas hasta el 31 de diciembre de 2013.
+
+3° Que, en la especie, la no aplicación del beneficio de prescripción a la deuda correspondiente al Folio 1013035 se funda en una causal objetiva: la fecha de giro del impuesto. Según el certificado de movimiento de la Cuenta Única Tributaria, dicha deuda fue girada el 22 de noviembre de 2016. Al respecto, es necesario distinguir entre la fecha de vencimiento legal (30 de abril de 2012) y el acto administrativo del giro, siendo este último el criterio cronológico que la ley fijó para la procedencia del beneficio.
+
+4° Que, dado que el mantenimiento de la deuda en el registro de Tesorería responde al incumplimiento de los requisitos temporales establecidos en el artículo 14 transitorio de la Ley N° 21.713, la autoridad recurrida actuó dentro de sus facultades legales y en estricto cumplimiento de la normativa vigente. El Oficio Ordinario N° 19124-TR-CONCE no constituye un acto caprichoso, sino una comunicación informativa que explica la exclusión legal del contribuyente por haber sido girada su deuda en forma posterior al límite fijado por el legislador.
+
+5° Que, al existir un fundamento objetivo y legalmente previsto (incumplimiento de la fecha de giro máxima), no se constata la ilegalidad o arbitrariedad manifiesta que habilite la intervención de esta Corte. La interpretación administrativa de la TGR se ajusta al texto literal de la ley, la cual distingue por fecha de giro o emisión y no por la fecha de vencimiento de la obligación.
+
+6° Que, en consecuencia, las actuaciones del Tesorero Regional de Concepción, si bien son adversas a los intereses de la empresa recurrente, no representan un actuar ilegal que vulnere sus garantías constitucionales de igualdad ante la ley o propiedad, toda vez que tales derechos se ejercen conforme a las normas que regulan las obligaciones tributarias y sus modos de extinguirse.
+
+Por estas consideraciones, y de conformidad con lo dispuesto en el artículo 20 de la Constitución Política de la República, se resuelve que SE RECHAZA, sin costas, el recurso de protección deducido por el abogado GONZALO GALAZ LATORRE, en representación de INMOBILIARIA CONSTRUCTORA E INVERSIONES EL VALLE LTDA., en contra del TESORERO REGIONAL DE CONCEPCIÓN.
+
+Regístrese y archívese oportunamente.
+
+Redacción del ministro Hadolff Ascencio Molina.
+
+No firma el ministro señor Fabio Jordán Diaz, quien concurrió a la vista de la causa y al acuerdo, por encontrarse con feriado legal, Asimismo, no firma la ministra suplente señora Claudia Vilches Toro, quien concurrió a la vista de la causa y al acuerdo, por haber terminado su suplencia y retornado a su tribunal de origen.
+
+Rol N° Protección-2320-2025
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Concepción, catorce de enero de dos mil veintiséis.VISTO:Comparece GONZALO RODRIGO GALAZ LATORRE, abogado, en representación de INMOBILIARIA CONSTRUCTORA E INVERSIONES EL VALLE LTDA., e interpone recurso de protección en contra del TESORERO REGIONAL DE CONCEPCIÓN, don CRISTIAN ASTUDILLO GONZÁLEZ.El recurrente impugna el Oficio Ordinario N° 19124-TR-CONCE, de fecha 16 de mayo de 2025, mediante el cual la recurrida rechazó la solicitud de prescripción de deudas tributarias y la eliminación de información en el certificado de deuda de la empresa. Sostiene que su representada poseía deudas emitidas con anterioridad al 31 de diciembre de 2013, las cuales debían ser declaradas prescritas de oficio según el artículo 14 transitorio de la Ley N° 21.713. Alega que el actuar de la Tesorería es ilegal y arbitrario, vulnerando las garantías consagradas en el artículo 19 N° 2 (Igualdad ante la ley) y N° 24 (Derecho de propiedad) de la Constitución Política.La recurrida, la Tesorería Regional de Concepción, representada por la abogada MARIELA MENA PINCHEIRA, solicitó el rechazo del recurso. Informó que, si bien la deuda (Folio 1013035) registra una fecha de vencimiento al 30 de abril de 2012, la fecha de giro por parte del Servicio de Impuestos Internos fue el 22 de noviembre de 2016. Argumenta que la Ley N° 21.713 exige expresamente que los tributos hayan sido girados o emitidos hasta el 31 de diciembre de 2013, por lo que la deuda del recurrente queda legalmente excluida del beneficio de prescripción de oficio.Se trajeron los autos en relación.CONSIDERANDO:1° Que, la acción constitucional de protección requiere la preexistencia de un derecho garantizado, indubitado, que haya sido privado, perturbado o amenazado por un acto u omisión ilegal o arbitrario. El acto impugnado en estos autos consiste en la negativa de la Tesorería General de la República (TGR) a declarar la prescripción de oficio de la deuda tributaria del recurrente bajo el amparo de la Ley N° 21.713.2° Que, conforme a lo dispuesto en la Ley N° 21.713 y la Resolución Exenta N° 1223-TR de la TGR, la facultad del Tesorero para declarar la prescripción de oficio se limita estrictamente a deudas giradas o emitidas hasta el 31 de diciembre de 2013.3° Que, en la especie, la no aplicación del beneficio de prescripción a la deuda correspondiente al Folio 1013035 se funda en una causal objetiva: la fecha de giro del impuesto. Según el certificado de movimiento de la Cuenta Única Tributaria, dicha deuda fue girada el 22 de noviembre de 2016. Al respecto, es necesario distinguir entre la fecha de vencimiento legal (30 de abril de 2012) y el acto administrativo del giro, siendo este último el criterio cronológico que la ley fijó para la procedencia del beneficio.4° Que, dado que el mantenimiento de la deuda en el registro de Tesorería responde al incumplimiento de los requisitos temporales establecidos en el artículo 14 transitorio de la Ley N° 21.713, la autoridad recurrida actuó dentro de sus facultades legales y en estricto cumplimiento de la normativa vigente. El Oficio Ordinario N° 19124-TR-CONCE no constituye un acto caprichoso, sino una comunicación informativa que explica la exclusión legal del contribuyente por haber sido girada su deuda en forma posterior al límite fijado por el legislador.5° Que, al existir un fundamento objetivo y legalmente previsto (incumplimiento de la fecha de giro máxima), no se constata la ilegalidad o arbitrariedad manifiesta que habilite la intervención de esta Corte. La interpretación administrativa de la TGR se ajusta al texto literal de la ley, la cual distingue por fecha de giro o emisión y no por la fecha de vencimiento de la obligación.6° Que, en consecuencia, las actuaciones del Tesorero Regional de Concepción, si bien son adversas a los intereses de la empresa recurrente, no representan un actuar ilegal que vulnere sus garantías constitucionales de igualdad ante la ley o propiedad, toda vez que tales derechos se ejercen conforme a las normas que regulan las obligaciones tributarias y sus modos de extinguirse.Por estas consideraciones, y de conformidad con lo dispuesto en el artículo 20 de la Constitución Política de la República, se resuelve que SE RECHAZA, sin costas, el recurso de protección deducido por el abogado GONZALO GALAZ LATORRE, en representación de INMOBILIARIA CONSTRUCTORA E INVERSIONES EL VALLE LTDA., en contra del TESORERO REGIONAL DE CONCEPCIÓN.Regístrese y archívese oportunamente.Redacción del ministro Hadolff Ascencio Molina.No firma el ministro señor Fabio Jordán Diaz, quien concurrió a la vista de la causa y al acuerdo, por encontrarse con feriado legal, Asimismo, no firma la ministra suplente señora Claudia Vilches Toro, quien concurrió a la vista de la causa y al acuerdo, por haber terminado su suplencia y retornado a su tribunal de origen.Rol N° Protección-2320-2025                        ⚠                      Sin documento en esta instancia - pdf

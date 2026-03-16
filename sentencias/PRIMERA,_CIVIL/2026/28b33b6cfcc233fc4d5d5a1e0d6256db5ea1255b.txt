@@ -14,7 +14,7 @@ sala: PRIMERA, CIVIL
 
 materias: ▪ Admisibilidad del recurso de casación en el fondo
 
-recurso: (PENAL) NULIDAD
+recurso: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
 
 resultado_recurso: INADMISIBLE CASACIÓN DE FONDO
 

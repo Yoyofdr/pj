@@ -4,19 +4,19 @@ case_id: 613f866afff5c987327c29941cc6d46b27dd75e5
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045812
 
-rol: 9080-2025
+rol: 4731-2025
 
-fecha_sentencia: 2026-03-02
+fecha_sentencia: 2026-02-27
 
-caratulado: JUAN DIEGO SEGURA VEGA Y YULEIDY SILVA
+caratulado: MARCELO ARTURO ÁLVAREZ DEL CANTO Y OTROS
 
 sala: MINISTRO INSTRUCTOR
 
-materias: (CIVIL) APELACIÓN RECLAMACIÓN
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: Accede extradición- entrega diferida
+resultado_recurso: Rechaza extradición- Toledo Avendaño
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

@@ -4,19 +4,19 @@ case_id: 688491d52732251109c63245b758b535c7f52a2b
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044681
 
-rol: 6057-2026
+rol: 6678-2026
 
-fecha_sentencia: 2026-02-26
+fecha_sentencia: 2026-02-27
 
-caratulado: DESULMA LOUISINETTE CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: VENISE BENOIT MARIE CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

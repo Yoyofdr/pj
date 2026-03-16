@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044614
 
 rol: 57041-2025
 
-fecha_sentencia: 2026-02-26
+fecha_sentencia: 2026-02-27
 
 caratulado: BARRÍA/CONTRALORÍA REGIONAL DE LOS LAGOS DE LA CONTRALORÍA GENERAL DE LA REPÚBLICA
 
@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Potestad disciplinaria
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

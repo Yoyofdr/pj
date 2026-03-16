@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046393
 
 rol: 2951-2026
 
-fecha_sentencia: 2026-03-02
+fecha_sentencia: 2026-02-27
 
 caratulado: INMOB. CONSTRUCTORA E INVERSIONES EL VALLE LTDA./TESORERÍA REGIONAL DEL BIOBIO
 
