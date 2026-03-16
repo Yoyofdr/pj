@@ -4,15 +4,15 @@ case_id: 2c3bb0d6d1732757e7a3ea1ebe69e9f0c0c6f1f0
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040604
 
-rol: 7600-2026
+rol: 35497-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: URRIBARRI/AFP PROVIDA S.A.
+caratulado: ANONIMIZADO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Previsional
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 

@@ -4,11 +4,11 @@ case_id: 8f55177130b10b2c4994fc5808d3e8262cffe25c
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041038
 
-rol: 44620-2025
+rol: 4274-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: ANONIMIZADO
+caratulado: ALVARADO/ISAPRE BANMEDICA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
