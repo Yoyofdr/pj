@@ -4,11 +4,11 @@ case_id: a01eedd715be506f9d1df1b71db9a051b2d8e326
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041558
 
-rol: 57933-2025
+rol: 57984-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: MENDOZA/BANCO DEL ESTADO CHILE
+caratulado: AGUAYO/TORRES
 
 sala: TERCERA, CONSTITUCIONAL
 

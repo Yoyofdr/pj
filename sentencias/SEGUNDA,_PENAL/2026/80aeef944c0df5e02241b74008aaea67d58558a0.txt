@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8042890
 
 rol: 4428-2026
 
-fecha_sentencia: 2026-02-26
+fecha_sentencia: 2026-02-25
 
 caratulado: WORLD ECONOMIC FORUM/VERDUGO
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Marcas
 
-recurso: (CIVIL) RECLAMO NACIONALIDAD
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: RECHAZA CASACION EN EL FONDO
 
@@ -29,7 +29,25 @@ Rol N° 58.161-2025.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
-Santiago, veintiséis de febrero de dos mil veintiséis.Vistos:Se confirma la resolución apelada de fecha veintitrés de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Valdivia.Regístrese y devuélvase.Rol N° 58.161-2025. Santiago, veintiséis de febrero de dos mil veintiséis.Vistos:Se confirma la resolución apelada de fecha veintitrés de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Valdivia.Regístrese y devuélvase.Rol N° 58.161-2025. Sentencia anonimizada
+C.A de Valdivia
+
+Valdivia, veintitrés de diciembre de dos mil veinticinco.
+
+Resolviendo a lo principal de la presentación de folio 1:
+
+Vistos y teniendo presente:
+
+1.- Que el recurso de protección tiene por objeto restablecer el imperio del derecho cuando éste ha sido quebrantado por actos u omisiones arbitrarias o ilegales que amenazan, perturban o privan del ejercicio legítimo de alguna de las garantías taxativamente numeradas en el artículo 20 de la Constitución Política de la República, dejando a salvo las demás acciones legales.
+
+2.- Que, los hechos en que fundamenta su petición en hechos que ya fueron conocidos en sede Penal, por lo que el conflicto ya fue sometido al imperio del derecho y no es la acción constitucional la idónea para resolverlo, por lo que carece de fundamentos para acogerse a tramitación.
+
+Y de conformidad, además, con lo señalado en el Auto Acordado de la Excma. Corte Suprema Sobre Tramitación y Fallo del Recurso de Protección, se declara INADMISIBLE el recurso interpuesto en autos.
+
+Al primer, segundo, tercer y cuarto otrosíes, estese a lo resuelto precedentemente.
+
+Archívese, en su oportunidad.
+
+Rol Nº Protección-1127-2025.
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------
