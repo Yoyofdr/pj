@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041846
 
 rol: 4424-2026
 
-fecha_sentencia: 2026-02-26
+fecha_sentencia: 2026-02-25
 
 caratulado: LABORATORIOS SAVAL S.A./OPKO CHILE S.A.
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Marcas
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: RECHAZA CASACION EN EL FONDO
 
