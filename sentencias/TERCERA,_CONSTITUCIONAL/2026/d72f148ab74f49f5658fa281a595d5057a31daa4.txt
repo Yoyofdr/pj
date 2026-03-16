@@ -4,19 +4,19 @@ case_id: d72f148ab74f49f5658fa281a595d5057a31daa4
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046754
 
-rol: 54442-2025
+rol: 218-2026
 
 fecha_sentencia: 2026-03-03
 
-caratulado: SERVICIO DE VIVIENDA Y URBANIZACIÓN BIOBIO EN FAVOR DE RICARDO ESTEBAN Y OTROS/RENÉ ALEJANDRO ESCALONA ISLA
+caratulado: TORRES/FONDO NACIONAL DE SALUD (ACUM. I.C. N°2384-2023)
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Derecho a la honra, a la imagen y a la vida privada, libertad de expresión
+materias: (CRIMEN) APELACIÓN AMPARO
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: INADMISIBLE CASACIÓN FORMA RECHAZADA, CASACIÓN FON
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

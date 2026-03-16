@@ -4,33 +4,86 @@ case_id: f27f61b0d13d5a6bbb5d47d0609016a0e9c2a00d
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047207
 
-rol: 7940-2026
+rol: 9307-2026
 
-fecha_sentencia: 2026-03-02
+fecha_sentencia: 2026-03-03
 
-caratulado: IBAÑEZ GAITAN JUAN JULIO CONTRA MINISTRO EXCELENTÍSIMA CORTE SUPREMA
+caratulado: AGUIRRE RAMÍREZ CRISTIAN PABLO CONTRA GENDARMERIA DE CHILE, C.P. LA SERENA
 
 sala: SEGUNDA, PENAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
-Corte Apelaciones ▼
-Santiago, tres de marzo de dos mil veintiséis.
-A los alegatos solicitados en escrito folio N° 6: atento a lo dispuesto por el Auto Acordado sobre la forma de conocimiento del recurso de Apelación de los Recursos de Amparo ante esta Corte Suprema, registrado en el Acta N° 105-2024 de esta Excma. Corte Suprema, publicado con fecha 17 de mayo de 2024, y no habiéndose justificado suficientemente la necesidad de escuchar alegatos en atención al derecho invocado, no ha lugar.
-Vistos y teniendo únicamente presente:
-Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de doce de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N° 656-2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.
-Regístrese y devuélvase.
-Rol N°7940-2026.
+Santiago, tres de enero de dos mil veintiséis.
+
+Vistos:
+Se reproduce lo expositivo de la sentencia en alzada, con excepción de los fundamentos que condujeron al rechazo del recurso, que se eliminan.
+
+Y se tiene en su lugar y, además, presente:
+Primero: Que, cabe tener presente que “la pena es la sanción legal establecida como consecuencia de la perpetración de un delito, que consiste en la privación o restricción de bienes jurídicos del delincuente, impuesta por sentencia judicial ejecutoriada, luego de un debido proceso, y cuya ejecución queda entregada desde el punto de vista de su forma, a la ley.” (Ortiz-Arévalo, “Las consecuencias jurídicas del delito”, Edit. Jdca., 2013, p.17.)
+Segundo: Que, de acuerdo con conocidas reglas constitucionales y legales, la pena con que un delito ha de ser castigado debe estar establecida en una ley con anterioridad a la perpetración del hecho, sin perjuicio de las alteraciones favorables o beneficiosas para el responsable, fruto de leyes posteriores.
+
+Tercero: Que, en la especie, la comisión del delito tuvo lugar bajo el imperio de la Ley N° 19.856 en su redacción anterior a las reformas introducidas por la Ley N° 21.421, por lo que le es aplicable al amparado el estatuto legal anterior a dicha reforma, la que no tiene efecto retroactivo conforme al principio general del derecho penal de irretroactividad de sus normas, salvo cuando sean favorables al imputado o condenado; principio que aparece recogido, a vía ejemplar, en los artículos 9 de la Convención Americana de Derechos Humanos, 19 N° 3 inciso 8° de la Constitución Política de la República y 18 del Código Penal.
+
+Cuarto: Que, así las cosas, la recurrida, no observó el principio de irretroactividad de la ley penal desfavorable, consagrado en los artículos 6°, 7° y 19 N° 3 de la Constitución Política de la República, lo que indudablemente importa –a su vez- una vulneración de la libertad personal del amparado.
+
+Por estas consideraciones, se revoca la sentencia apelada de dieciocho de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Rancagua, en el Ingreso Corte N° 90-2026, y en su lugar se resuelve que se acoge la acción de amparo incoada en favor de Diego Edson Aranda Jaque, debiendo la recurrida examinar el cumplimiento de los requisitos de procedencia del beneficio conforme a la ley 19.856 en su texto vigente al momento en de la comisión de los hechos por los que se dictó sentencia condenatoria en contra del amparado.
+
+Acordada con el voto en contra del Ministro Sr. Valderrama, quien estuvo por confirmar la sentencia apelada en virtud de sus propios fundamentos.
+
+Regístrese, comuníquese y devuélvase.
+
+Rol N° 9233-2026.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
-Santiago, tres de enero de dos mil veintiséis.Vistos:Se reproduce lo expositivo de la sentencia en alzada, con excepción de los fundamentos que condujeron al rechazo del recurso, que se eliminan.Y se tiene en su lugar y, además, presente:Primero: Que, cabe tener presente que “la pena es la sanción legal establecida como consecuencia de la perpetración de un delito, que consiste en la privación o restricción de bienes jurídicos del delincuente, impuesta por sentencia judicial ejecutoriada, luego de un debido proceso, y cuya ejecución queda entregada desde el punto de vista de su forma, a la ley.” (Ortiz-Arévalo, “Las consecuencias jurídicas del delito”, Edit. Jdca., 2013, p.17.)Segundo: Que, de acuerdo con conocidas reglas constitucionales y legales, la pena con que un delito ha de ser castigado debe estar establecida en una ley con anterioridad a la perpetración del hecho, sin perjuicio de las alteraciones favorables o beneficiosas para el responsable, fruto de leyes posteriores.Tercero: Que, en la especie, la comisión del delito tuvo lugar bajo el imperio de la Ley N° 19.856 en su redacción anterior a las reformas introducidas por la Ley N° 21.421, por lo que le es aplicable al amparado el estatuto legal anterior a dicha reforma, la que no tiene efecto retroactivo conforme al principio general del derecho penal de irretroactividad de sus normas, salvo cuando sean favorables al imputado o condenado; principio que aparece recogido, a vía ejemplar, en los artículos 9 de la Convención Americana de Derechos Humanos, 19 N° 3 inciso 8° de la Constitución Política de la República y 18 del Código Penal.Cuarto: Que, así las cosas, la recurrida, no observó el principio de irretroactividad de la ley penal desfavorable, consagrado en los artículos 6°, 7° y 19 N° 3 de la Constitución Política de la República, lo que indudablemente importa –a su vez- una vulneración de la libertad personal del amparado.Por estas consideraciones, se revoca la sentencia apelada de dieciocho de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Rancagua, en el Ingreso Corte N° 90-2026, y en su lugar se resuelve que se acoge la acción de amparo incoada en favor de Diego Edson Aranda Jaque, debiendo la recurrida examinar el cumplimiento de los requisitos de procedencia del beneficio conforme a la ley 19.856 en su texto vigente al momento en de la comisión de los hechos por los que se dictó sentencia condenatoria en contra del amparado.Acordada con el voto en contra del Ministro Sr. Valderrama, quien estuvo por confirmar la sentencia apelada en virtud de sus propios fundamentos.Regístrese, comuníquese y devuélvase.Rol N° 9233-2026. Santiago, tres de enero de dos mil veintiséis.Vistos:Se reproduce lo expositivo de la sentencia en alzada, con excepción de los fundamentos que condujeron al rechazo del recurso, que se eliminan.Y se tiene en su lugar y, además, presente:Primero: Que, cabe tener presente que “la pena es la sanción legal establecida como consecuencia de la perpetración de un delito, que consiste en la privación o restricción de bienes jurídicos del delincuente, impuesta por sentencia judicial ejecutoriada, luego de un debido proceso, y cuya ejecución queda entregada desde el punto de vista de su forma, a la ley.” (Ortiz-Arévalo, “Las consecuencias jurídicas del delito”, Edit. Jdca., 2013, p.17.)Segundo: Que, de acuerdo con conocidas reglas constitucionales y legales, la pena con que un delito ha de ser castigado debe estar establecida en una ley con anterioridad a la perpetración del hecho, sin perjuicio de las alteraciones favorables o beneficiosas para el responsable, fruto de leyes posteriores.Tercero: Que, en la especie, la comisión del delito tuvo lugar bajo el imperio de la Ley N° 19.856 en su redacción anterior a las reformas introducidas por la Ley N° 21.421, por lo que le es aplicable al amparado el estatuto legal anterior a dicha reforma, la que no tiene efecto retroactivo conforme al principio general del derecho penal de irretroactividad de sus normas, salvo cuando sean favorables al imputado o condenado; principio que aparece recogido, a vía ejemplar, en los artículos 9 de la Convención Americana de Derechos Humanos, 19 N° 3 inciso 8° de la Constitución Política de la República y 18 del Código Penal.Cuarto: Que, así las cosas, la recurrida, no observó el principio de irretroactividad de la ley penal desfavorable, consagrado en los artículos 6°, 7° y 19 N° 3 de la Constitución Política de la República, lo que indudablemente importa –a su vez- una vulneración de la libertad personal del amparado.Por estas consideraciones, se revoca la sentencia apelada de dieciocho de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Rancagua, en el Ingreso Corte N° 90-2026, y en su lugar se resuelve que se acoge la acción de amparo incoada en favor de Diego Edson Aranda Jaque, debiendo la recurrida examinar el cumplimiento de los requisitos de procedencia del beneficio conforme a la ley 19.856 en su texto vigente al momento en de la comisión de los hechos por los que se dictó sentencia condenatoria en contra del amparado.Acordada con el voto en contra del Ministro Sr. Valderrama, quien estuvo por confirmar la sentencia apelada en virtud de sus propios fundamentos.Regístrese, comuníquese y devuélvase.Rol N° 9233-2026. Sentencia anonimizada
+C.A. Rancagua
+
+Rancagua, dieciocho de febrero de dos mil veintiséis
+
+Vistos:
+
+Con fecha 2 de febrero de 2026 comparece la abogada Constanza Barrueto Bravo, en representación de Diego Edson Aranda Jaque, cédula de identidad N°15.139.482-5, actualmente privado de libertad en el Centro Penitenciario de Rancagua, quien deduce acción constitucional de amparo, en contra de la Comisión de Beneficio de Reducción de Condena del territorio jurisdiccional de esta Corte, por estimar ilegal y arbitraria la exclusión de su representado del beneficio de reducción de condena regulado en la Ley N°19.856.
+
+Expone que el amparado cumple diversas penas privativas de libertad impuestas por sentencias dictadas por tribunales de la ciudad de Talca, destacando una condena principal de 20 años de presidio por el delito de homicidio calificado, además de penas por delitos de lesiones menos graves y robo con violencia, con inicio de cumplimiento el 5 de septiembre de 2004 y fecha de término el 9 de octubre de 2033, según antecedentes de Gendarmería de Chile. Señala, asimismo, que mantiene conducta intachable desde el año 2019, registrando su última infracción disciplinaria en febrero de 2018.
+Indica que, no obstante lo anterior, la Comisión recurrida excluyó a su representado del beneficio de reducción de condena, aplicando la causal prevista en el artículo 17 letra e) de la Ley N°19.856, en relación con la modificación introducida por la Ley N°21.421, al estimar que fue condenado por un delito que, en abstracto, tiene asignada pena máxima de presidio perpetuo. Sostiene que dicha aplicación resulta improcedente en el caso concreto, toda vez que el delito por el cual fue condenado se encuentra en grado de desarrollo frustrado, circunstancia que, a su juicio, excluye la procedencia de la causal de exclusión invocada.
+Alega que la interpretación efectuada por la Comisión constituye una aplicación extensiva y desfavorable de una norma restrictiva de derechos, vulnerando el principio pro reo y afectando ilegítimamente la libertad personal del amparado, al impedirle acceder a un mecanismo legal orientado a la reinserción social y a la reducción efectiva del tiempo de privación de libertad.
+Solicita, en consecuencia, que se deje sin efecto la exclusión del amparado del proceso de calificación para la reducción de condena y que se ordene a la Comisión recurrida convocar una nueva sesión, en período extraordinario, para evaluar su procedencia conforme a derecho, adoptando las medidas necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado.
+Con fecha 16 de febrero de 2026 informa el Presidente (S) de la Comisión de Reducción de Condena de esta jurisdicción.
+Expone que referido beneficio se encuentra regulado en la Ley N°19.856 y su Reglamento, Decreto Supremo N°685 de 2003, sistema que permite disminuir el tiempo de duración de las penas privativas de libertad en función de la observación de un comportamiento sobresaliente, previa calificación anual efectuada por la Comisión de Reducción de Condena, sobre la base de los antecedentes remitidos por Gendarmería de Chile, siempre que no concurra alguna de las causales de exclusión previstas en el artículo 17 de la citada ley.
+
+Señala que Gendarmería confecciona anualmente el listado de personas que cumplen los requisitos para ser presentadas a calificación, correspondiendo posteriormente al Ministerio de Justicia y Derechos Humanos la dictación del decreto que concede o rechaza el beneficio, una vez reunidos los antecedentes exigidos por la normativa vigente.
+
+En cuanto a la situación particular del amparado, indica que, revisadas las actas de la Comisión de Reducción de Condena de esta jurisdicción, consta que la postulación de Diego Edson Aranda Jaque fue excluida en la sesión celebrada el 9 de noviembre de 2009, al estimarse concurrente la causal prevista en el artículo 17 letra e) de la Ley N°19.856, por haber sido condenado por el delito de homicidio calificado, ilícito al que la ley asigna pena máxima de presidio perpetuo.
+
+Precisa que dicha condena fue impuesta mediante sentencia dictada con fecha 14 de noviembre de 2005 por el Tribunal de Juicio Oral en lo Penal de Talca, en causa RIT 82-2005, motivo por el cual la Comisión resolvió excluirlo del beneficio de reducción de condena, situación que se mantiene hasta la fecha mientras el condenado cumple su pena en el Complejo Penitenciario de Rancagua.
+
+Finalmente, solicita tener por evacuado el informe requerido.
+En su oportunidad, se trajeron los autos en relación.
+
+Con lo relacionado y considerando:
+
+1.- Que el artículo 21 de la Constitución Política de la República consagra la acción de amparo y dispone en su inciso tercero que “El mismo recurso, y en igual forma, podrá ser deducido en favor de toda persona que ilegalmente sufra cualquiera otra privación, perturbación o amenaza en su derecho a la libertad personal y seguridad individual, La respectiva magistratura dictará en tal caso las medidas indicadas en los incisos anteriores que estime conducentes para restablecer el imperio del derecho y asegurar la debida protección del afectado”.
+
+2.- Que, en la especie, la acción constitucional se dirige contra la Comisión de Beneficio de Reducción de Condena del territorio jurisdiccional de esta Corte, reprochándose como ilegal y arbitraria la exclusión del amparado del proceso de calificación para acceder a dicho beneficio, exclusión que, a su juicio, vulnera el principio pro reo y afecta ilegítimamente su libertad personal, al impedirle acceder a un mecanismo legal orientado a la reinserción social y a la reducción efectiva del tiempo de privación de libertad.
+3.- Que, al evacuar el informe requerido, la Comisión recurrida expone que el beneficio de reducción de condena se encuentra regulado por la Ley N°19.856 y su Reglamento, aprobado por Decreto Supremo N°685 de 2003, sistema que contempla una calificación anual efectuada por la Comisión de Reducción de Condena, sobre la base de los antecedentes remitidos por Gendarmería de Chile, siempre que no concurra alguna de las causales de exclusión expresamente previstas en el artículo 17 de la citada ley.
+
+Agrega que, en el caso particular del amparado, su postulación fue excluida desde el año 2009, por estimarse concurrente la causal prevista en el artículo 17 letra e) de la Ley N°19.856, atendida la condena impuesta mediante sentencia de 14 de noviembre de 2005 dictada por el Tribunal de Juicio Oral en lo Penal de Talca, en causa RIT 82-2005, por el delito de homicidio calificado, ilícito al cual la ley asigna como pena máxima el presidio perpetuo.
+4.- Que, en este punto, resulta relevante lo dispuesto en el artículo 17 e) de la Ley N°19.856, que establece: “Límites a la aplicación de los beneficios. Los beneficios contenidos en la presente ley no tendrán lugar en caso alguno, cuando se dieren una o más de las siguientes circunstancias: e) El condenado hubiere cometido algún delito al que la ley asigna como pena máxima el presidio perpetuo, o alguno de los delitos perpetrados en contra de una víctima menor de edad, sancionados en los artículos 141, inciso final, y 142, inciso final, ambos en relación con la violación; los artículos 150 B y 150 E, ambos en relación con los artículos 361, 362 y 365 bis; los artículos 361, 362, 363, 365 bis, 366, 366 bis, 366 quáter, 367, 367 ter, 367 quáter y 367 septies; el artículo 411 quáter, en relación con la explotación sexual; y el artículo 433, N° 1, en relación con la violación, todos del Código Penal, a menos que en la sentencia condenatoria se hubiere aplicado a su respecto la circunstancia atenuante prevista en el artículo 73 de dicho Código;”.
+5.- Que, contrariamente a lo sostenido por la recurrente, la causal de exclusión prevista en el artículo 17 letra e) de la Ley N°19.856 no atiende a la pena concreta finalmente impuesta en la sentencia condenatoria ni al grado de desarrollo del delito, sino a la naturaleza del ilícito cometido y a la pena máxima que el legislador le asigna en abstracto, de modo que basta la condena por un delito cuya sanción máxima legal sea el presidio perpetuo para que opere la exclusión, sin que corresponda efectuar interpretaciones restrictivas o extensivas distintas a las expresamente previstas por la ley.
+
+En tal sentido, la circunstancia de que el delito haya sido cometido en grado de frustrado no altera su calificación jurídica ni desvirtúa la pena máxima asignada por el legislador al tipo penal respectivo, razón por la cual la interpretación sostenida por la Comisión recurrida se ajusta al tenor literal y a la finalidad de la norma.
+6.- Que, así las cosas, no se advierte que la actuación de la Comisión recurrida configure un acto ilegal o arbitrario que importe una privación, perturbación o amenaza actual a la libertad personal o seguridad individual del amparado, toda vez que la decisión cuestionada se funda en disposición legal expresa, aplicada dentro del ámbito de competencias que la ley entrega a dicho órgano.
+Por lo anterior y de conformidad con lo dispuesto en el artículo 21 de la Constitución Política de la República y Auto Acordado de la Excma. Corte Suprema sobre Tramitación y Fallo del Recurso de Amparo, se rechaza, el recurso de amparo deducido en favor del condenado Diego Edson Aranda Jaque.
+Regístrese, comuníquese y archívese.
+
+Rol Corte 90-2026 Amparo.
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------

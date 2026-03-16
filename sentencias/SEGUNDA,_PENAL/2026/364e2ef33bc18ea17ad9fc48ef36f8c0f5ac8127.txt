@@ -4,11 +4,11 @@ case_id: 364e2ef33bc18ea17ad9fc48ef36f8c0f5ac8127
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047267
 
-rol: 6685-2026
+rol: 7162-2026
 
 fecha_sentencia: 2026-03-03
 
-caratulado: VÁSQUEZ CARABALLO DEIVIS CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: CARDONA VEGA YEIDY CAMILA CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
