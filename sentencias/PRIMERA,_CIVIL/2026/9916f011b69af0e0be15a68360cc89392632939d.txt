@@ -14,7 +14,7 @@ sala: PRIMERA, CIVIL
 
 materias: ▪ Acción interés colectivo o difuso
 
-recurso: (PENAL) NULIDAD
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: RECHAZA CASACION EN EL FONDO (M)
 

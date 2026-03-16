@@ -4,19 +4,19 @@ case_id: 7b42f7da1fb0bfc483674d29c7cc984a62a1e312
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044990
 
-rol: 6221-2026
+rol: 36037-2025
 
 fecha_sentencia: 2026-02-27
 
-caratulado: SERRANO RONDONJOSE DANIEL CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: C/ NICOLAS BENJAMIN CEA TAPIA
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: ▪ Delitos de narcotráfico
 
-recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: SENTENCIA DE REEMPLAZO (M)
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
