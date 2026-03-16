@@ -4,11 +4,11 @@ case_id: 527c8c7b89bba38f65349831577d203c8aaa65c3
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040837
 
-rol: 4247-2026
+rol: 58214-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: CRUZ/ISAPRE CRUZ BLANCA S.A.
+caratulado: RAMOS SIERRALTA CLAUDIA MARIA CONTRA SERVICIO DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 

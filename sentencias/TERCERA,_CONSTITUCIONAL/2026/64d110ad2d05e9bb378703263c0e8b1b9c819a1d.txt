@@ -4,19 +4,19 @@ case_id: 64d110ad2d05e9bb378703263c0e8b1b9c819a1d
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040657
 
-rol: 7307-2026
+rol: 4275-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: RIVERO/ADMINISTRADORA DE FONDOS DE PENSIONES PLANVITAL S.A
+caratulado: FOSCHINO/ISAPRE BANMEDICA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Previsional
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

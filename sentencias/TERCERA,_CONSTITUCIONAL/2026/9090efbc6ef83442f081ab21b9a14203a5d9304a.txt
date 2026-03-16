@@ -4,11 +4,11 @@ case_id: 9090efbc6ef83442f081ab21b9a14203a5d9304a
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040673
 
-rol: 4273-2026
+rol: 58472-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: NIKOLIC/ISAPRE CRUZ BLANCA S.A.
+caratulado: HENRIQUE/MINISTERIO DEL INTERIOR Y SEGURIDAD PUBLICA DE CHILE
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

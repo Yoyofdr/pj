@@ -4,11 +4,11 @@ case_id: 4f80ff675dd0f5b1e19b299b4d1e2f378bc8083b
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040665
 
-rol: 58031-2025
+rol: 42083-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: APONTE/SERVICIO NACIONAL_DE MIGRACIONES
+caratulado: KOMASI HOSSEIN / SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
