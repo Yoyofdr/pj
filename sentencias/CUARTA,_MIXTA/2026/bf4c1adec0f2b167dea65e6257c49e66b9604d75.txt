@@ -14,7 +14,7 @@ sala: CUARTA, MIXTA
 
 materias: ▪ Adopción
 
-recurso: (CIVIL) RECLAMO NACIONALIDAD
+recurso: (CIVIL) CASACIÓN FONDO
 
 resultado_recurso: INVALIDADA DE OFICIO
 

@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Marcas
 
-recurso: (CIVIL) RECLAMO NACIONALIDAD
+recurso: (CIVIL) CASACIÓN FONDO
 
 resultado_recurso: RECHAZA CASACION EN EL FONDO
 

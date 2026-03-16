@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041805
 
 rol: 5508-2026
 
-fecha_sentencia: 2026-02-26
+fecha_sentencia: 2026-02-25
 
 caratulado: INDUSTRIAL PROEX LIMITADA CON MIRANDA
 
@@ -14,7 +14,7 @@ sala: PRIMERA, CIVIL
 
 materias: ▪ Admisibilidad del recurso de casación en el fondo
 
-recurso: (CIVIL) RECLAMO NACIONALIDAD
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: INADMISIBLE CASACIÓN DE FONDO
 

@@ -14,7 +14,7 @@ sala: PRIMERA, CIVIL
 
 materias: ▪ Admisibilidad del recurso de casación en la forma
 
-recurso: (CIVIL) RECLAMO NACIONALIDAD
+recurso: (CIVIL) CASACIÓN FONDO
 
 resultado_recurso: INADMISIBLE CASACIÓN FORMA
 
