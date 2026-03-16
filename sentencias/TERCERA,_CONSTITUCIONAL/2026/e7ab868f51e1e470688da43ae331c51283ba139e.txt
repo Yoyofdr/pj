@@ -4,11 +4,11 @@ case_id: e7ab868f51e1e470688da43ae331c51283ba139e
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040676
 
-rol: 37136-2025
+rol: 5621-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: MARTÍNEZ/SERVICIO NACIONAL DE MIGRACIONES
+caratulado: ZÚÑIGA/ ISAPRE CRUZ BLANCA S.A
 
 sala: TERCERA, CONSTITUCIONAL
 

@@ -4,19 +4,19 @@ case_id: 3296453aa16dc620674e13c4716526406455d875
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040715
 
-rol: 456-2026
+rol: 7547-2026
 
-fecha_sentencia: 2026-02-24
+fecha_sentencia: 2026-02-25
 
-caratulado: NICOLAS/ MINISTERIO DEL INTERIOR Y SERVICIO NACIONAL DE MIGRACIONES
+caratulado: ALVAREZ LLANES ANGGIE SARAY/ADMINISTRADORA DE FONDOS DE PENSIONES MODELO S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: ▪ Previsional
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
