@@ -4,19 +4,19 @@ case_id: 97d48b3088c8b0570b022845aaf620648329ea1b
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040804
 
-rol: 5961-2026
+rol: 17938-2024
 
 fecha_sentencia: 2026-02-25
 
-caratulado: SHARPE/ISAPRE VIDA TRES S.A.
+caratulado: IMELSA S.A. CON DIRECTOR EJECUTIVO DEL SERVICIO DE EVALUACION AMBIENTAL
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: ▪ Sistema de Evaluación de impacto ambiental (SEIA)
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: SENTENCIA DE REEMPLAZO
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
