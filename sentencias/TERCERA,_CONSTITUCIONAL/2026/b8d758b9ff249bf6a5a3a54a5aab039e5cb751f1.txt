@@ -4,11 +4,11 @@ case_id: b8d758b9ff249bf6a5a3a54a5aab039e5cb751f1
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040668
 
-rol: 4241-2026
+rol: 4262-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: LEIVA/ISAPRE CRUZ BLANCA S.A.
+caratulado: RIVERA/ISAPRE CRUZ BLANCA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 

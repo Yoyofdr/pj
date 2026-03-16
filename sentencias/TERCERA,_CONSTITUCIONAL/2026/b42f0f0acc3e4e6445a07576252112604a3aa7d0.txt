@@ -4,11 +4,11 @@ case_id: b42f0f0acc3e4e6445a07576252112604a3aa7d0
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040720
 
-rol: 4262-2026
+rol: 4287-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: RIVERA/ISAPRE CRUZ BLANCA S.A.
+caratulado: EGLINTON/ISAPRE BANMEDICA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

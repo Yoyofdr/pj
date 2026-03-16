@@ -4,11 +4,11 @@ case_id: 17a6bf49bce133d397ff5ee4b8cfc333856d6bb3
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040994
 
-rol: 4225-2026
+rol: 4230-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: MAUREIRA/ISAPRE BANMEDICA S.A.
+caratulado: ÁLVAREZ/BANMÉDICA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 

@@ -4,11 +4,11 @@ case_id: a17274a4eefac478ef4f085098fd45193bfa3553
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040909
 
-rol: 4266-2026
+rol: 5303-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: REYES/ISAPRE CRUZ BLANCA S.A.
+caratulado: AHUMADA/VIDA TRES SA
 
 sala: TERCERA, CONSTITUCIONAL
 

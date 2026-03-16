@@ -4,17 +4,17 @@ case_id: f24bd70d9d9bc7adf860ce84a05ff69605bbce8f
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040833
 
-rol: 58143-2025
+rol: 58435-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: BRACHO/ELIZALDE
+caratulado: MONGUA/ELIZALDE
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
