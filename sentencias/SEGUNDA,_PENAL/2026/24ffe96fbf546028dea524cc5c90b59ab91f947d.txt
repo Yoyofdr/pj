@@ -1,22 +1,22 @@
 METADATA
 
-case_id: 27ffcb52efb15531b2322aeaec7c22edfafb29d6
+case_id: 24ffe96fbf546028dea524cc5c90b59ab91f947d
 
-url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8037445
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8038012
 
-rol: 6241-2026
+rol: 6245-2026
 
 fecha_sentencia: 2026-02-24
 
-caratulado: ZAMBRANO SEGURA HUMBERTO JAHIR CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: VALENCIA RESTREPO JHON NEISON CONTRA COMISIÓN DE LIBERTAD CONDICIONAL
 
 sala: SEGUNDA, PENAL
 
-materias: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+materias: ▪ Recurso de Amparo
 
 recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
