@@ -4,17 +4,17 @@ case_id: 2de703d591d1e0de7f3a33b6d611428f51115fe3
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047195
 
-rol: 7160-2026
+rol: 9304-2026
 
-fecha_sentencia: 2026-03-02
+fecha_sentencia: 2026-03-03
 
-caratulado: CASTRO LIÑAN JUAN CARLOS CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: SÁNCHEZ LUJAN GERSON Y OTROS CONTRA JUZGADO DE GARANTIA DE ANTOFAGASTA
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

@@ -4,31 +4,27 @@ case_id: efec4043fcbaaccd3d53726d8e41d42a3869c471
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046544
 
-rol: 9352-2026
+rol: 9246-2026
 
 fecha_sentencia: 2026-03-03
 
-caratulado: QUEZADA LAGOS PABLO ANTONIO CONTRA CUARTO TRIBUNAL DE JUICIO ORAL EN LO PENAL DE SANTIAGO
+caratulado: JIMÉNEZ TRONCOSO MIGUEL EDUARDO CONTRA COMISIÓN LIBERTAD CONDCIONAL CONCEPCIÓN 2DO SEMESTRE 2025
 
 sala: SEGUNDA, PENAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Recurso de Amparo
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
-Corte Apelaciones ▼
 Santiago, tres de marzo de dos mil veintiséis.
-
-Vistos y teniendo únicamente presente:
-Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de dieciocho de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N° 726 - 2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.
-
+Vistos:
+Se confirma la sentencia apelada de catorce de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Antofagasta, en el Ingreso Corte N°Amparo-118-2026.
 Regístrese y devuélvase.
-
-Rol N° 9352 - 2026.
+Rol N°9304-2026.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
@@ -43,4 +39,4 @@ Rol 118-2026 (Amparo)
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------
-/chcAntofagasta, catorce de febrero de dos mil veintiséis.VISTOS:Que, se ha deducido recurso de amparo por doña Andrea Astudillo Saldivia, Defensora Penal Pública, en favor de Jheremy Jesús Pastor Rojas, y por don Zhi Xin Wang Zeng, Defensor Penal Privado, en favor de Carlos Andrés Orobio Valentierra y Gerson Abel Sánchez Lujan, en contra de la resolución dictada por el Juzgado de Garantía de Antofagasta en causa RUC 2500431180-1, RIT 6220-2025 con fecha treinta de enero de dos mil veintiséis del, que tuvo por presentada la acusación fiscal y citó a audiencia de Preparación de Juicio Oral; y asimismo en contra de la resolución de fecha once de febrero de dos mil veintiséis, que rechazó la solicitud de las defensas de tener por no presentada la acusación por estimarla extemporánea y de decretar el sobreseimiento definitivo, manteniendo la tramitación de la causa y la medida cautelar de prisión preventiva que afecta a los amparados.En mérito de lo anteriormente expuesto y revisión de los antecedentes acompañados al recurso, se puede advertir que las resoluciones impugnadas han sido dictadas por jueces competentes, dentro de la esfera de sus atribuciones y en el marco de un proceso penal vigente, advirtiéndose además debidamente fundada la decisión de rechazar la incidencia planteada por las defensas.  Además, el acto impugnado se enmarca dentro de las atribuciones que el ordenamiento jurídico confiere al tribunal de garantía, no advirtiéndose, en esta etapa, una actuación ilegal o arbitraria que configure una vulneración actual de la libertad personal susceptible de ser enmendada por la vía excepcional del artículo 21 de la Constitución Política de la República, desde que la privación de libertad que actualmente afecta a los amparados, obedece a la prisión decretada a su respecto en autos, existiendo mecanismos procesales ordinarios para controvertir dicha decisión.Por estas consideraciones, se declara INADMISIBLE el recurso de amparo interpuesto por doña Andrea Astudillo Saldivia y don Zhi Xin Wang Zeng, en favor de Jheremy Jesús Pastor Rojas, Carlos Andrés Orobio Valentierra y Gerson Abel Sánchez LujanRol 118-2026 (Amparo)
+/chcAntofagasta, catorce de febrero de dos mil veintiséis.VISTOS:Que, se ha deducido recurso de amparo por doña Andrea Astudillo Saldivia, Defensora Penal Pública, en favor de Jheremy Jesús Pastor Rojas, y por don Zhi Xin Wang Zeng, Defensor Penal Privado, en favor de Carlos Andrés Orobio Valentierra y Gerson Abel Sánchez Lujan, en contra de la resolución dictada por el Juzgado de Garantía de Antofagasta en causa RUC 2500431180-1, RIT 6220-2025 con fecha treinta de enero de dos mil veintiséis del, que tuvo por presentada la acusación fiscal y citó a audiencia de Preparación de Juicio Oral; y asimismo en contra de la resolución de fecha once de febrero de dos mil veintiséis, que rechazó la solicitud de las defensas de tener por no presentada la acusación por estimarla extemporánea y de decretar el sobreseimiento definitivo, manteniendo la tramitación de la causa y la medida cautelar de prisión preventiva que afecta a los amparados.En mérito de lo anteriormente expuesto y revisión de los antecedentes acompañados al recurso, se puede advertir que las resoluciones impugnadas han sido dictadas por jueces competentes, dentro de la esfera de sus atribuciones y en el marco de un proceso penal vigente, advirtiéndose además debidamente fundada la decisión de rechazar la incidencia planteada por las defensas.  Además, el acto impugnado se enmarca dentro de las atribuciones que el ordenamiento jurídico confiere al tribunal de garantía, no advirtiéndose, en esta etapa, una actuación ilegal o arbitraria que configure una vulneración actual de la libertad personal susceptible de ser enmendada por la vía excepcional del artículo 21 de la Constitución Política de la República, desde que la privación de libertad que actualmente afecta a los amparados, obedece a la prisión decretada a su respecto en autos, existiendo mecanismos procesales ordinarios para controvertir dicha decisión.Por estas consideraciones, se declara INADMISIBLE el recurso de amparo interpuesto por doña Andrea Astudillo Saldivia y don Zhi Xin Wang Zeng, en favor de Jheremy Jesús Pastor Rojas, Carlos Andrés Orobio Valentierra y Gerson Abel Sánchez LujanRol 118-2026 (Amparo)                        ⚠                      Sin documento en esta instancia - pdf
