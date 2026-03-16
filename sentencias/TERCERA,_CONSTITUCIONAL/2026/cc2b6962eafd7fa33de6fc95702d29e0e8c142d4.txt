@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8036566
 
 rol: 5744-2026
 
-fecha_sentencia: 2026-02-23
+fecha_sentencia: 2026-02-24
 
 caratulado: TORRES OTEIZA PATRICIO/GENDARMERÍA DE CHILE
 
@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Gendarmería de Chile
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
 
 resultado_recurso: CONFIRMA SENTENCIA EN LO APELADO
 
