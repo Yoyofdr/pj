@@ -4,19 +4,19 @@ case_id: c0273bb2c7f5cb5b2e5198415f81887500a2a546
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046892
 
-rol: 9524-2026
+rol: 49807-2024
 
 fecha_sentencia: 2026-03-03
 
-caratulado: COLIMON FALTHER CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: CDE- FISCO/ALCAÍNO
 
 sala: SEGUNDA, PENAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Admisibilidad del recurso de revisión
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: ACOGE RECURSO DE REVISIÓN (M)
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
