@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8038133
 
 rol: 56716-2025
 
-fecha_sentencia: 2026-02-23
+fecha_sentencia: 2026-02-24
 
 caratulado: CONSTRUCTORA E INMOB TEMUCO LTDA/SERVICIO LOCAL DE EDUCACIÓN PÚBLICA COSTA ARAUCANÍA
 
@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Contratación pública
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

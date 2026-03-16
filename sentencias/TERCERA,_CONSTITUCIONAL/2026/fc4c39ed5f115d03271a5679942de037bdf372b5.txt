@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8039004
 
 rol: 46579-2025
 
-fecha_sentencia: 2026-02-23
+fecha_sentencia: 2026-02-24
 
 caratulado: ILUSTRE MUNICIPALIDAD DE PURRANQUE/MARCIA ELIZABETH MANCILLA ARZOLA
 
@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Potestad disciplinaria
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
 
 resultado_recurso: REVOCADA SENTENCIA APELADA
 
