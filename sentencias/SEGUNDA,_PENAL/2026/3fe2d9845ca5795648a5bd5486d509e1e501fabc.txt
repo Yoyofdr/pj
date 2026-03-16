@@ -1,0 +1,75 @@
+METADATA
+
+case_id: 3fe2d9845ca5795648a5bd5486d509e1e501fabc
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044654
+
+rol: 6053-2026
+
+fecha_sentencia: 2026-02-27
+
+caratulado: PERION BIEN-AIME CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Corte Apelaciones ▼
+Santiago, veintisiete de febrero de dos mil veintiséis.
+A los alegatos solicitados en escrito folio N° 15: atento a lo dispuesto por el Auto Acordado sobre la forma de conocimiento del recurso de Apelación de los Recursos de Amparo ante esta Corte Suprema, registrado en el Acta N° 105-2024 de esta Excma. Corte Suprema, publicado con fecha 17 de mayo de 2024, y no habiéndose justificado suficientemente la necesidad de escuchar alegatos en atención al derecho invocado, no ha lugar.
+
+Vistos:
+Se reproduce la sentencia en alzada, con excepción de sus fundamentos quinto a noveno, que se eliminan.
+
+Y se tiene en su lugar y, además, presente:
+1°) Que, tal como lo ha sostenido reiteradamente esta Corte Suprema, el deber de fundamentación implica el deber de la judicatura de hacerse de todas las alegaciones y postulaciones vertidas por los intervinientes con ocasión del pronunciamiento de una cuestión incidental como principal.
+
+2°) Que, en el caso concreto, la decisión de la Corte de Apelaciones de San Miguel de mantener la prisión preventiva del amparado sólo contiene menciones genéricas consignadas en la ley, sin especificar de que forma los parámetros otorgados por le legislador concurren en el caso concreto y con los antecedentes dados a conocer por la defensa, infringiendo con ello no sólo el deber general de fundamentación de una resolución judicial plasmado en el artículo 36 del Código Procesal Penal, sino que también el mandato particular que recae en materia de prisión preventiva según lo establecido en el artículo 143 del citado texto legal.
+
+3°) Que, esta omisión se acentúa aún más si se tiene presente el estado de salud del amparado y las necesidades especiales de cuidado que requiere, aspecto sobre el cual tampoco se verifica una reflexión meridianamente fundamentada.
+
+4°) Que, así las cosas, se evidencia que la resolución dictada por la Corte de Apelaciones de San Miguel incurre en una ilegalidad en relación con los artículos 36 y 143 del Código Procesal con impacto directo en la libertad personal del amparado.
+
+Y visto, además, lo dispuesto en el artículo 21 de la Constitución Política de la República, se revoca la sentencia apelada de 13 de febrero de 2026, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N°241-2026, y en su lugar se declara que se acoge el recurso de amparo interpuesto a favor de Francisco Javier Lagos León, sólo para efectos de que una sala de la Corte de Apelaciones de San Miguel, compuesta por ministros no inhabilitados, se pronuncie fundadamente acerca de la prisión preventiva apelada por la defensa del amparado.
+
+Acordada con el voto en contra de la Ministra Sra. Gajardo y del abogado integrante Sr. Vidal, quienes fueron del parecer de confirmar el fallo apelado teniendo únicamente presente la improcedencia de recurrir de amparo respecto de la decisión pronunciada por una Corte de Apelaciones por cuanto mediante dicha vía se afecta la regla de competencia absoluta del grado o jerarquía.
+
+Regístrese, comuníquese por la vía más rápida y devuélvase.
+
+Rol N°7522-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Corte Apelaciones ▼
+C.A. de Santiago
+Santiago, diecinueve de enero de dos mil veintiséis.
+
+Al folio N°1: aténgase a lo que se resolverá.
+
+Vistos y teniendo presente:
+1°) Que, se deduce acción constitucional de amparo para impugnar la decisión de la Primera Sala de la Corte de Apelaciones de San Miguel, dictada con fecha quince de enero del año en curso, por la cual se resolvió mantener la medida cautelar de prisión preventiva decretada por el Juzgado de Garantía de Melipilla, en contra del amparado Francisco Javier Lagos Leon;
+
+2°) Que, conforme el artículo 21 de la Carta Fundamental, la acción de que se trata, se ejerce en favor de quien se hallare arrestado, detenido o preso con infracción a lo dispuesto en la Constitución Política de la República o la ley, esto es, tiene por finalidad cautelar la libertad personal y la seguridad individual, entendida esta última como la garantía de que aquélla no será afectada sino conforme a derecho;
+
+3°) Que, para esos efectos y, según la misma norma, tal recurso debe ser conocido “por la magistratura que señale la ley”, mandato que cumple el artículo 63 del Código Orgánico de Tribunales, señalando que corresponde a las Cortes de Apelaciones conocerlos en primera instancia;
+
+4°) Que, ahora bien, como ha reflexionado la Excma. Corte Suprema en sentencia de primero de julio de dos mil veinte, en la causa ingreso rol N° 76.433-2020, no resulta procedente recurrir por la vía de una acción cautelar respecto de lo resuelto por una Corte de Apelaciones ante otro tribunal de igual jerarquía y distinta jurisdicción, para que esta última revise el mérito de dicha decisión, “…por cuanto significaría darle competencia impropia como tribunal superior, lo que afecta seriamente las reglas sobre competencia contenidas en el Código Orgánico de Tribunales, entre ellas la del grado y jerarquía, y puede constituir seriamente una vulneración del artículo 7° de la Constitución Política de la República”;
+
+5°) Que, a mayor abundamiento, de acuerdo al mismo fallo citado, habiéndose conocido de un asunto por las instancias previstas para ello, no es posible volver a discutirlo, que es justamente lo ocurrido, según se consignó en el motivo 1° precedente;
+
+6°) Que, así las cosas, no puede acogerse a tramitación el arbitrio interpuesto ya que, aceptar lo contrario, implica el desapego al principio de juridicidad y erigirlo en un instrumento que propicia la revisión anómala e impropia de lo actuado por otro tribunal superior, de igual jerarquía –como se dijo- y, distorsionar, en consecuencia, tanto su finalidad, como la regularidad elemental del procedimiento que lo rige.
+
+Por estas razones, se declara inadmisible la acción constitucional de amparo ejercida.
+
+Archívese en su oportunidad.
+N°Amparo-241-2026.kom
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, veintisiete de febrero de dos mil veintiséis.A los alegatos solicitados en escrito folio N° 15: atento a lo dispuesto por el Auto Acordado sobre la forma de conocimiento del recurso de Apelación de los Recursos de Amparo ante esta Corte Suprema, registrado en el Acta N° 105-2024 de esta Excma. Corte Suprema, publicado con fecha 17 de mayo de 2024, y no habiéndose justificado suficientemente la necesidad de escuchar alegatos en atención al derecho invocado, no ha lugar.Vistos:Se reproduce la sentencia en alzada, con excepción de sus fundamentos quinto a noveno, que se eliminan.Y se tiene en su lugar y, además, presente:1°) Que, tal como lo ha sostenido reiteradamente esta Corte Suprema, el deber de fundamentación implica el deber de la judicatura de hacerse de todas las alegaciones y postulaciones vertidas por los intervinientes con ocasión del pronunciamiento de una cuestión incidental como principal.2°) Que, en el caso concreto, la decisión de la Corte de Apelaciones de San Miguel de mantener la prisión preventiva del amparado sólo contiene menciones genéricas consignadas en la ley, sin especificar de que forma los parámetros otorgados por le legislador concurren en el caso concreto y con los antecedentes dados a conocer por la defensa, infringiendo con ello no sólo el deber general de fundamentación de una resolución judicial plasmado en el artículo 36 del Código Procesal Penal, sino que también el mandato particular que recae en materia de prisión preventiva según lo establecido en el artículo 143 del citado texto legal.3°) Que, esta omisión se acentúa aún más si se tiene presente el estado de salud del amparado y las necesidades especiales de cuidado que requiere, aspecto sobre el cual tampoco se verifica una reflexión meridianamente fundamentada.4°) Que, así las cosas, se evidencia que la resolución dictada por la Corte de Apelaciones de San Miguel incurre en una ilegalidad en relación con los artículos 36 y 143 del Código Procesal con impacto directo en la libertad personal del amparado.Y visto, además, lo dispuesto en el artículo 21 de la Constitución Política de la República, se revoca la sentencia apelada de 13 de febrero de 2026, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N°241-2026, y en su lugar se declara que se acoge el recurso de amparo interpuesto a favor de Francisco Javier Lagos León, sólo para efectos de que una sala de la Corte de Apelaciones de San Miguel, compuesta por ministros no inhabilitados, se pronuncie fundadamente acerca de la prisión preventiva apelada por la defensa del amparado.Acordada con el voto en contra de la Ministra Sra. Gajardo y del abogado integrante Sr. Vidal, quienes fueron del parecer de confirmar el fallo apelado teniendo únicamente presente la improcedencia de recurrir de amparo respecto de la decisión pronunciada por una Corte de Apelaciones por cuanto mediante dicha vía se afecta la regla de competencia absoluta del grado o jerarquía.Regístrese, comuníquese por la vía más rápida y devuélvase.Rol N°7522-2026. Santiago, veintisiete de febrero de dos mil veintiséis.A los alegatos solicitados en escrito folio N° 15: atento a lo dispuesto por el Auto Acordado sobre la forma de conocimiento del recurso de Apelación de los Recursos de Amparo ante esta Corte Suprema, registrado en el Acta N° 105-2024 de esta Excma. Corte Suprema, publicado con fecha 17 de mayo de 2024, y no habiéndose justificado suficientemente la necesidad de escuchar alegatos en atención al derecho invocado, no ha lugar.Vistos:Se reproduce la sentencia en alzada, con excepción de sus fundamentos quinto a noveno, que se eliminan.Y se tiene en su lugar y, además, presente:1°) Que, tal como lo ha sostenido reiteradamente esta Corte Suprema, el deber de fundamentación implica el deber de la judicatura de hacerse de todas las alegaciones y postulaciones vertidas por los intervinientes con ocasión del pronunciamiento de una cuestión incidental como principal.2°) Que, en el caso concreto, la decisión de la Corte de Apelaciones de San Miguel de mantener la prisión preventiva del amparado sólo contiene menciones genéricas consignadas en la ley, sin especificar de que forma los parámetros otorgados por le legislador concurren en el caso concreto y con los antecedentes dados a conocer por la defensa, infringiendo con ello no sólo el deber general de fundamentación de una resolución judicial plasmado en el artículo 36 del Código Procesal Penal, sino que también el mandato particular que recae en materia de prisión preventiva según lo establecido en el artículo 143 del citado texto legal.3°) Que, esta omisión se acentúa aún más si se tiene presente el estado de salud del amparado y las necesidades especiales de cuidado que requiere, aspecto sobre el cual tampoco se verifica una reflexión meridianamente fundamentada.4°) Que, así las cosas, se evidencia que la resolución dictada por la Corte de Apelaciones de San Miguel incurre en una ilegalidad en relación con los artículos 36 y 143 del Código Procesal con impacto directo en la libertad personal del amparado.Y visto, además, lo dispuesto en el artículo 21 de la Constitución Política de la República, se revoca la sentencia apelada de 13 de febrero de 2026, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N°241-2026, y en su lugar se declara que se acoge el recurso de amparo interpuesto a favor de Francisco Javier Lagos León, sólo para efectos de que una sala de la Corte de Apelaciones de San Miguel, compuesta por ministros no inhabilitados, se pronuncie fundadamente acerca de la prisión preventiva apelada por la defensa del amparado.Acordada con el voto en contra de la Ministra Sra. Gajardo y del abogado integrante Sr. Vidal, quienes fueron del parecer de confirmar el fallo apelado teniendo únicamente presente la improcedencia de recurrir de amparo respecto de la decisión pronunciada por una Corte de Apelaciones por cuanto mediante dicha vía se afecta la regla de competencia absoluta del grado o jerarquía.Regístrese, comuníquese por la vía más rápida y devuélvase.Rol N°7522-2026. Sentencia anonimizada
