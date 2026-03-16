@@ -4,17 +4,17 @@ case_id: 0a1eec1d9fcf8ccd2f3a6b83449ab3fed650eab0
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049251
 
-rol: 7184-2026
+rol: 7488-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: MAGDALA MERCILUS CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: PICHUN PICHUN CRISTIAN MAURICIO Y OTRO CONTRA GENDARMERÍA DE CHILE
 
 sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (POLICÍA LOCAL) HECHO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

@@ -4,19 +4,19 @@ case_id: e28d80479769e8b9d603142012d80256304d25a9
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049169
 
-rol: 5317-2026
+rol: 6148-2026
 
-fecha_sentencia: 2026-03-03
+fecha_sentencia: 2026-03-04
 
-caratulado: ARANEDA CID MARGARITA ALEJANDRA CONTRA SUSESO Y OTRO
+caratulado: VERGARA GUTIERREZ / ISAPRE BANMÉDICA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: (POLICÍA LOCAL) HECHO
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (POLICÍA LOCAL) HECHO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
