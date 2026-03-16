@@ -4,11 +4,11 @@ case_id: c6f17c785f6754a10855ea6a409c13b06023db20
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046738
 
-rol: 7181-2026
+rol: 7160-2026
 
 fecha_sentencia: 2026-03-03
 
-caratulado: GONZALEZ DE DA ENCARNACAO DELISIS HAYDEE CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: CASTRO LIÑAN JUAN CARLOS CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
@@ -16,7 +16,7 @@ materias: ▪ Recurso de Amparo
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
