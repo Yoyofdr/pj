@@ -4,15 +4,15 @@ case_id: ccd3800c417284c7c143705474de943cd04f27d6
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040587
 
-rol: 5941-2026
+rol: 35905-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: HUTTER/ISAPRE VIDA TRES S.A.
+caratulado: ENEL DISTRIBUCION CHILE S.A. CONTRA SUPERINTENDENCIA DE ELECTRICIDAD Y COMBUSTIBLES.(LTE)
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: ▪ Potestad sancionadora
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 

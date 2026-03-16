@@ -4,11 +4,11 @@ case_id: 292571cc0e4b4dc99c523b5428ed0ff2e16315ac
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040565
 
-rol: 5904-2026
+rol: 5941-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: BEDWELL/VIDA TRES S.A.
+caratulado: HUTTER/ISAPRE VIDA TRES S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 

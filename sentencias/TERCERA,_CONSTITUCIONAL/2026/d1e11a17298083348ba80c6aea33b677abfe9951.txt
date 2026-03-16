@@ -4,11 +4,11 @@ case_id: d1e11a17298083348ba80c6aea33b677abfe9951
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040403
 
-rol: 5434-2026
+rol: 5896-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: MIRANDA/ISAPRE BANMEDICA S.A.
+caratulado: REYES/ISAPRE VIDA TRES S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 

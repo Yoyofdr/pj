@@ -4,11 +4,11 @@ case_id: e592121edf5401eb1cd99323cd006bc8d97cf61c
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040620
 
-rol: 4263-2026
+rol: 4277-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: MAGNET/ISAPRE CRUZ BLANCA S.A.
+caratulado: MARTÍNEZ/ISAPRE CRUZ BLANCA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 

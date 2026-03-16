@@ -4,11 +4,11 @@ case_id: 699f1e469b2f7d724e6e41a38303e6c5c25f8dc1
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040410
 
-rol: 4272-2026
+rol: 4869-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: MADELMONT/ISAPRE CRUZ BLANCA S.A.
+caratulado: BARRAZA/CRUZ BLANCA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

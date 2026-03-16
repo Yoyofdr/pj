@@ -4,11 +4,11 @@ case_id: 905e324e807118f4fa852b7a818e8ab2d298b9d7
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040560
 
-rol: 4245-2026
+rol: 4272-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: ARIAS/ISAPRE CRUZ BLANCA S.A.
+caratulado: MADELMONT/ISAPRE CRUZ BLANCA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 

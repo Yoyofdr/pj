@@ -4,15 +4,15 @@ case_id: 99740697b2183ab28c594e57b3a3aa95c6e04656
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040444
 
-rol: 5907-2026
+rol: 7307-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: KLIMPEL/ISAPRE VIDA TRES S.A.
+caratulado: RIVERO/ADMINISTRADORA DE FONDOS DE PENSIONES PLANVITAL S.A
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: ▪ Previsional
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 

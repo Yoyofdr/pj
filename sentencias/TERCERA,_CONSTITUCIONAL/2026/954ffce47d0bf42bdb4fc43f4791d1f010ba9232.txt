@@ -4,11 +4,11 @@ case_id: 954ffce47d0bf42bdb4fc43f4791d1f010ba9232
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040655
 
-rol: 5896-2026
+rol: 5907-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: REYES/ISAPRE VIDA TRES S.A.
+caratulado: KLIMPEL/ISAPRE VIDA TRES S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 

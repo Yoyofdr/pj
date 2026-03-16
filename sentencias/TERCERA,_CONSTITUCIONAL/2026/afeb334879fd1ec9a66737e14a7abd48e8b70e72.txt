@@ -1,0 +1,124 @@
+METADATA
+
+case_id: afeb334879fd1ec9a66737e14a7abd48e8b70e72
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8043210
+
+rol: 6726-2026
+
+fecha_sentencia: 2026-02-25
+
+caratulado: LOPEZ SOLIS KELLY VANESSA/SERVICIO NACIONAL DE MIGRACIONES
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: ▪ Reclamo de expulsión de extranjeros
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintiséis de febrero de dos mil veintiséis.
+
+VISTO Y TENIENDO PRESENTE:
+PRIMERO: Que en este procedimiento ordinario nulidad relativa y otras acciones, seguido ante el Cuarto Juzgado Civil de Letras de Santiago, bajo el Rol C-28.703-2019, caratulado “GR PIMIENTO SpA con LEENERGIA CHILE SpA”, en el que se ha ordenado dar cuenta de la admisibilidad del recurso de casación en el fondo deducido por la parte demandante contra la sentencia de la Corte de Apelaciones de Santiago, de once de diciembre de dos mil veinticinco y su rectificación de fecha quince de diciembre de dos mil veinticinco, que confirmó la sentencia de primer grado que rechazó la demanda de nulidad relativa por dolo y error, acoge la excepción de prescripción de la acción redhibitoria interpuesta por la demandada, rechaza la demanda de rebaja de precio e indemnización de perjuicios y acoge la demanda reconvencional de cumplimiento de contrato y condena en costas a la demandante.
+SEGUNDO: Que el recurso de casación sustantivo lo funda en la infracción a los artículos 1444, 1546 y 1560 del Código Civil, artículo 426 del Código de Procedimiento Civil; 2518 del Código Civil en relación con el artículo 253 del Código adjetivo.
+
+En síntesis, funda su acción de nulidad en la circunstancia que los juzgadores realizaron una mala interpretación del contrato desconociendo el vínculo esencial entre el informe de criterio de conexión (en adelante ICC) y el terreno. Agrega que resulta ser una exigencia indebida la prueba directa del dolo omitiendo valor a las presunciones legales. Sostiene el recurrente la existencia de un error al aplicar los plazos de prescripción de los vicios redhibitorios al no reconocer la interrupción civil. Indica las sentencias recurridas desconocen el régimen jurídico respecto de la responsabilidad precontractual.
+
+Pide se acoja el recurso, se anule el referido fallo y, sin nueva vista de la causa, se dicte sentencia de reemplazo, que acoja la pretensión principal o subsidiarias de esta parte y rechace la demanda reconvencional de Lenergia, con costas del recurso.
+
+TERCERO: Que, conforme lo previsto en el artículo 772 N° 1 del Código de Procedimiento Civil, el recurso de casación en el fondo está sujeto a un requisito indispensable para su admisibilidad, cuál es que el escrito en que se lo interpone “exprese”, es decir, explicite en qué consiste y cómo se ha producido el o los errores de derecho.
+
+CUARTO: Que, del examen de los antecedentes, consta que el arbitrio de nulidad en estudio no puede prosperar, toda vez que la demandante omitió extender la infracción legal a normas sustantivas que, en la especie, tienen el carácter de decisoria de la litis, es decir, preceptos que al ser aplicados permiten resolver la cuestión controvertida, especialmente las normas relativas a la nulidad contempladas en los artículos 1681 y 1682, del Código Civil; las que regulan el objeto y la causa, estos son los artículos 1445, 1460, 1461 y 1467 del Código Civil; el artículos 1857 y siguientes del Código Civil respecto de los vicios redhibitorios; así como las normas que regulan el cumplimiento de contratos contemplados en los artículos 1489 y siguientes del Código Civil; exigencia que no se satisfacen con las normas citadas al momento de fundamentar las infracciones legales que sustenta el recurso de nulidad sustantivo.
+
+Efectivamente, tales normas tienen el carácter de decisorias litis, pues sirvieron de sustento a los juzgadores para establecer el estatuto aplicable; en estas condiciones, al no venir desarrollado en el libelo de casación el quebrantamiento de la preceptiva sustantiva básica en comento, a saber, la ley que rige el conflicto jurídico y que ha tenido influencia sustancial en lo resolutivo de la sentencia cuya anulación se persigue, el presente recurso será denegado.
+
+Por estas consideraciones y de conformidad, además, con lo dispuesto en los artículos 764, 765, 767, 772 y 782 del Código de Procedimiento Civil, se rechaza el recurso de casación en el fondo interpuesto por el abogado Manuela Cross Pey, en representación de la parte demandante, contra la sentencia de once de diciembre de dos mil veinticinco y su rectificación de fecha quince de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Santiago.
+
+Al escrito folio N° 5: estese al mérito de lo resuelto.
+
+Regístrese y devuélvase.
+
+Rol Nº 2878-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Santiago
+Santiago, once de diciembre de dos mil veinticinco.
+
+Vistos:
+
+I.- En cuanto al recurso de apelación interpuesto por la demandante en contra de la resolución de fecha 1 de agosto de 2022, Rol Ingreso Corte 12.577-2022:
+
+Primero: Que, la abogado Paz Arriagada Callis, en representación de “GR PIMIENTO SPA”, interpuso recurso de reposición con apelación en subsidio en contra de la resolución de fecha 1 de agosto de 2022 dictada por el Cuarto Juzgado Civil de Santiago en autos caratulados “Grenergy Pimiento SpA con Lenergia Chile SpA.”, Rol C-28.703-2019, que rechazó la aplicación de apercibimientos respecto de la exhibición documental de Lenergía así como la reiteración de la misma, solicitando que sea dejada sin efecto y, en su lugar, se ordene reiterar la exhibición que indica.
+
+Funda su recurso en que la resolución recurrida sería contraria a otra anterior de fecha 29 de abril que concedió la exhibición documental, toda vez que asegura que deniega indirectamente la diligencia de prueba, lo que sostiene es errado y vulnera el debido proceso causando agravio a su parte.
+
+Segundo: Que, atendido que lo referido por el recurrente constituye una facultad privativa del tribunal a quo por cuanto dice relación con la prueba a rendirse en el grado, por una parte, por la otra no se detecta la contradicción que el recurrente asegura que existe entre ambas resoluciones y, finalmente, las argumentaciones del recurrente vertidas en su recurso no hacen concluir que se vea afectado el debido proceso como pretende el recurrente, el recurso no podrá prosperar.
+II.- En cuanto al recurso de apelación interpuesto por la demandada en contra de la resolución de fecha 17 de noviembre de 2023, Rol Ingreso Corte 19.470-2023:
+
+Tercero: Que, comparecen los abogados Nicolás Frías Ossandón y José Tomás Lagos Manterola, por la demandada, quienes recurren de apelación contra la resolución de fecha 17 de noviembre de 2023 dictada en los mismos autos, que rechazó la solicitud de su parte de alzar la medida precautoria decretada por el tribunal a quo con fecha 3 de diciembre de 2019, solicitando que se enmiende la resolución recurrida y se ordene el alzamiento de la medida precautoria de autos.
+
+Fundan su recurso en que con fecha 9 de noviembre de 2023 el tribunal a quo dictó sentencia definitiva en que rechazó íntegramente las tres demandas interpuestas e igualmente acogió la demanda reconvencional interpuesta por su representada, ordenando a la demandante a dar cumplimiento al contrato de compraventa pactado, particularmente en lo relativo al pago del precio.
+
+Cuarto: Que, no encontrándose ejecutoriada la sentencia dictada en marras, resulta del todo improcedente proceder a alzar la mentada medida precautoria, por lo que el recurso será rechazado.
+
+III.- En cuanto al recurso de apelación interpuesto por la demandante en contra de la sentencia de fecha 9 de noviembre de 2023, y de la adhesión a dicho recurso de apelación planteada por la demandada solo en la parte que se pronunció sobre las costas, Rol Ingreso Corte N° 19.526-2023:
+
+Vistos:
+
+Se reproduce la sentencia en alzada dictada el 9 de noviembre de 2023.
+Y se tiene además presente:
+
+Quinto: Que el contrato suscrito por las partes corresponde a una compraventa del Informe de Criterios de Conexión (ICC), celebrado por escritura pública el 29 de abril de 2019. En dicho contrato, en la cláusula primera, numeral UNO.UNO se señala expresamente que el vendedor - Lenergia Chile SpA-, se encuentra desarrollando un proyecto en la comuna de Aleones, VI Región, consistente en la construcción de un parque solar y una línea de evacuación, que permitirá inyectar energía al sistema eléctrico de CGE S.A., y. En el apartado UNO.DOS, se refiera que el vendedor es dueño, entre otros, de un ICC para un proyecto de energía solar fotovoltaica denominado "PMGD ALCONES" otorgado por la Distribuidora CGE, el cual forma parte integrante del contrato para todos los efectos y contractuales a que hubiera lugar. En la cláusula segunda se señala que Lenergia, vende, cede y transfiere el ICC a Gr Pimiento, la que, por intermedio de su representante, compra, acepta y adquiere para sí en los términos y condiciones que da cuenta la esta escritura, sin perjuicio de las formalidades e instrumentos adicionales que se deban otorgar para el adecuado perfeccionamiento del ICC, transfiriendo completamente y sin excepción, la titularidad del ICC. Asimismo, las partes declaran expresamente la cesión del ICC comprende todos sus derechos, acciones e intereses de cualquier naturaleza que correspondan o
+pudieren corresponder a Lenergia en virtud de tal ICC.
+
+Sexto: Que, de la simple lectura de dicho contrato, se desprende que en ninguna parte del mismo se hace alusión al inmueble en que se emplaza el proyecto.
+
+La única referencia se realiza en el contrato de promesa de compraventa del ICC y de servidumbre minera negativa, celebrado por escritura pública de 12 de febrero de 2019, en el que además de los nombrados, comparece Concelene SpA como titular de la concesión minera -el que después fue modificado a efectos de eliminar la referencia a la servidumbre minera- obligándose Lenergia y Concelena a no celebrar ni acordar con terceros algún acto o contrato que tenga por fin enajenar, gravar o arrendar la ICC o la concesión minera, entregar en comodato o celebrar cualquier otro tipo de contratos sobre ella. Asimismo, se obligan a no celebrar o acordar ningún acto o contrato que tenga por fin usar, gozar o disponer del inmueble que individualizan, lo que no se replica en el contrato de compraventa que sustenta la demanda, evidenciando la desconexión con el inmueble.
+
+Séptimo: Que al tenor de lo dispuesto en el artículo 6 letra n) del DS 244 de 2006, vigente a la fecha de celebración del contrato, el Informe de Criterios de Conexión, corresponde al informe emitido por la empresa distribuidora para dar cumplimiento a las exigencias de seguridad y calidad de servicio vigentes y permitir la conexión y operación del PMGD o la modificación de las condiciones previamente establecidas para la conexión y/u operación de uno ya existente, conforme a lo dispuesto en el presente reglamento, en adelante "ICC".
+
+Así, se desprende que un Informe de Criterios de Conexión, ICC, no es más que un permiso eléctrico que se otorga por una empresa distribuidora de energía eléctrica, CGE en el caso de marras, a efectos de determinar y definir un punto de conexión y las condiciones técnicas bajo las cuales un determinado proyecto de generación se conectará al sistema de distribución eléctrica.
+
+Por tanto, lo que se transa al vender un ICC es una posición eléctrica, un derecho de acceso a la red de distribución en un punto específico, no otra cosa.
+
+Octavo: Que ahora bien, para obtener un ICC, un desarrollador debe presentar la correspondiente solicitud de conexión a la empresa distribuidora la que, emitirá el mentado ICC mediante el “Formulario 7” que especifica la potencia a inyectarse, la vida útil del proyecto y el punto de conexión geo referenciado.
+
+El señalado “Formulario 7”, que es el documento que materializa el ICC como se dijo, carece de cualquier sección o apartado destinado a individualizar o referir un inmueble específico.
+
+Consecuentemente, el ICC no asegura el terreno donde ha de emplazarse la planta generadora, lo que se refrendado en la normativa vigente al momento del contrato que nos ocupa, a saber, el Decreto N° 244 y la Norma Técnica 2016, que no exigía una vinculación del ICC a un inmueble determinado.
+
+Noveno: Que, por otra parte, la declaración de los testigos que la recurrente señala como no valorada, en nada incide en lo dispositivo de la sentencia del grado.
+
+Décimo: Que, los argumentos vertidos en el recurso de apelación de la demandante en contra de la sentencia no desvirtúan los fundamentos del fallo que se revisa ni permiten variar lo que allí fuera decidido.
+
+Undécimo: Que, en cuanto a la adhesión de la demandada a la referida apelación, es menester señalar que de la revisión de la sentencia es claro que, por una parte, se han rechazado todas y cada una de las acciones de la demandante y, por otra, se ha acogido la demanda reconvencional de la demandada.
+
+Consecuentemente, atendido lo establecido por el artículo 144 del Código de Procedimiento Civil, procede la condena en costas de la demandante por cuanto resultó totalmente vencida.
+
+Por estas consideraciones, y de conformidad con lo dispuesto en los artículos 170, 186 y 768 del Código de Procedimiento Civil, se declara:
+
+I.- Se confirma la resolución de fecha 1 de agosto de 2022;
+
+II.- Se confirma la resolución de fecha 17 de noviembre de 2023; y
+III.- Se revoca la sentencia de 9 de noviembre de 2023 y se confirma en todo lo demás.
+
+Regístrese y notifíquese
+
+Redacción del Abogado Integrante señor Jorge Benítez Urrutia
+
+N°Civil-12577-2022.
+
+Pronunciada por la Tercera Sala, integrada por los Ministros señora Elsa Barrientos Guerrero, señora Paula Rodríguez Fondón y el Abogado Integrante señor Nicolas Stitchkin Lopez.
+
+Autoriza el (la) ministro de fe de esta Iltma. Corte de Apelaciones de Santiago.
+
+En Santiago, once de diciembre de dos mil veinticinco, se notificó por el estado diario la resolución que antecede.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de SantiagoSantiago, once  de diciembre de dos mil veinticinco.Vistos:I.- En cuanto al recurso de apelación interpuesto por la demandante en contra de la resolución de fecha 1 de agosto de 2022, Rol Ingreso Corte 12.577-2022:Primero: Que, la abogado Paz Arriagada Callis, en representación de “GR PIMIENTO SPA”, interpuso recurso de reposición con apelación en subsidio en contra de la resolución de fecha 1 de agosto de 2022 dictada por el Cuarto Juzgado Civil de Santiago en autos caratulados “Grenergy Pimiento SpA con Lenergia Chile SpA.”, Rol C-28.703-2019, que rechazó la aplicación de apercibimientos respecto de la exhibición documental de Lenergía así como la reiteración de la misma, solicitando que sea dejada sin efecto y, en su lugar, se ordene reiterar la exhibición que indica.Funda su recurso en que la resolución recurrida sería contraria a otra anterior de fecha 29 de abril que concedió la exhibición documental, toda vez que asegura que deniega indirectamente la diligencia de prueba, lo que sostiene es errado y vulnera el debido proceso causando agravio a su parte. Segundo: Que, atendido que lo referido por el recurrente constituye una facultad privativa del tribunal a quo por cuanto dice relación con la prueba a rendirse en el grado, por una parte, por la otra no se detecta la contradicción que el recurrente asegura que existe entre ambas resoluciones y, finalmente, las argumentaciones del recurrente vertidas en su recurso no hacen concluir que se vea afectado el debido proceso como pretende el recurrente, el recurso no podrá prosperar.II.- En cuanto al recurso de apelación interpuesto por la demandada en contra de la resolución de fecha 17 de noviembre de 2023, Rol Ingreso Corte 19.470-2023:Tercero: Que, comparecen los abogados Nicolás Frías Ossandón y José Tomás Lagos Manterola, por la demandada, quienes recurren de apelación contra la resolución de fecha 17 de noviembre de 2023 dictada en los mismos autos, que rechazó la solicitud de su parte de alzar la medida precautoria decretada por el tribunal a quo con fecha 3 de diciembre de 2019, solicitando que se enmiende la resolución recurrida y se ordene el alzamiento de la medida precautoria de autos.Fundan su recurso en que con fecha 9 de noviembre de 2023 el tribunal a quo dictó sentencia definitiva en que rechazó íntegramente las tres demandas interpuestas e igualmente acogió la demanda reconvencional interpuesta por su representada, ordenando a la demandante a dar cumplimiento al contrato de compraventa pactado, particularmente en lo relativo al pago del precio.Cuarto: Que, no encontrándose ejecutoriada la sentencia dictada en marras, resulta del todo improcedente proceder a alzar la mentada medida precautoria, por lo que el recurso será rechazado.III.- En cuanto al recurso de apelación interpuesto por la demandante en contra de la sentencia de fecha 9 de noviembre de 2023, y de la adhesión a dicho recurso de apelación planteada por la demandada solo en la parte que se pronunció sobre las costas, Rol Ingreso Corte N° 19.526-2023:Vistos:Se reproduce la sentencia en alzada dictada el 9 de noviembre de 2023. Y se tiene además presente:Quinto: Que el contrato suscrito por las partes corresponde a una compraventa del Informe de Criterios de Conexión (ICC), celebrado por escritura pública el 29 de abril de 2019. En dicho contrato, en la cláusula primera, numeral UNO.UNO se señala expresamente que el vendedor - Lenergia Chile SpA-, se encuentra desarrollando un proyecto en la comuna de Aleones, VI Región, consistente en la construcción de un parque solar y una línea de evacuación, que permitirá inyectar energía al sistema eléctrico de CGE S.A., y. En el apartado UNO.DOS, se refiera que el vendedor es dueño, entre otros, de un ICC para un proyecto de energía solar fotovoltaica denominado "PMGD ALCONES" otorgado por la Distribuidora CGE, el cual forma parte integrante del contrato para todos los efectos y contractuales a que hubiera lugar. En la cláusula segunda se señala que Lenergia, vende, cede y transfiere el ICC a Gr Pimiento, la que, por intermedio de su representante, compra, acepta y adquiere para sí en los términos y condiciones que da cuenta la esta escritura, sin perjuicio de las formalidades e instrumentos adicionales que se deban otorgar para el adecuado perfeccionamiento del ICC, transfiriendo completamente y sin excepción, la titularidad del ICC. Asimismo, las partes declaran expresamente la cesión del ICC comprende todos sus derechos, acciones e intereses de cualquier naturaleza que correspondan opudieren corresponder a Lenergia en virtud de tal ICC.Sexto: Que, de la simple lectura de dicho contrato, se desprende que en ninguna parte del mismo se hace alusión al inmueble en que se emplaza el proyecto.La única referencia se realiza en el contrato de promesa de compraventa del ICC y de servidumbre minera negativa, celebrado por escritura pública de 12 de febrero de 2019, en el que además de los nombrados, comparece Concelene SpA como titular de la concesión minera -el que después fue modificado a efectos de eliminar la referencia a la servidumbre minera- obligándose Lenergia y Concelena a no celebrar ni acordar con terceros algún acto o contrato que tenga por fin enajenar, gravar o arrendar la ICC o la concesión minera, entregar en comodato o celebrar cualquier otro tipo de contratos sobre ella. Asimismo, se obligan a no celebrar o acordar ningún acto o contrato que tenga por fin usar, gozar o disponer del inmueble que individualizan, lo que no se replica en el contrato de compraventa que sustenta la demanda, evidenciando la desconexión con el inmueble.Séptimo: Que al tenor de lo dispuesto en el artículo 6 letra n) del DS 244 de 2006, vigente a la fecha de celebración del contrato, el Informe de Criterios de Conexión,  corresponde al informe emitido por la empresa distribuidora para dar cumplimiento a las exigencias de seguridad y calidad de servicio vigentes y permitir la conexión y operación del PMGD o la modificación de las condiciones previamente establecidas para la conexión y/u operación de uno ya existente, conforme a lo dispuesto en el presente reglamento, en adelante "ICC".Así, se desprende que un Informe de Criterios de Conexión, ICC, no es más que un permiso eléctrico que se otorga por una empresa distribuidora de energía eléctrica, CGE en el caso de marras, a efectos de determinar y definir un punto de conexión y las condiciones técnicas bajo las cuales un determinado proyecto de generación se conectará al sistema de distribución eléctrica.Por tanto, lo que se transa al vender un ICC es una posición eléctrica, un derecho de acceso a la red de distribución en un punto específico, no otra cosa.Octavo: Que ahora bien, para obtener un ICC, un desarrollador debe presentar la correspondiente solicitud de conexión a la empresa distribuidora la que, emitirá el mentado ICC mediante el “Formulario 7” que especifica la potencia a inyectarse, la vida útil del proyecto y el punto de conexión geo referenciado.El señalado “Formulario 7”, que es el documento que materializa el ICC como se dijo, carece de cualquier sección o apartado destinado a individualizar o referir un inmueble específico.Consecuentemente, el ICC no asegura el terreno donde ha de emplazarse la planta generadora, lo que se refrendado en la normativa vigente al momento del contrato que nos ocupa, a saber, el Decreto N° 244 y la Norma Técnica 2016, que no exigía una vinculación del ICC a un inmueble determinado.Noveno: Que, por otra parte, la declaración de los testigos que la recurrente señala como no valorada, en nada incide en lo dispositivo de la sentencia del grado.Décimo: Que, los argumentos vertidos en el recurso de apelación de la demandante en contra de la sentencia no desvirtúan los fundamentos del fallo que se revisa ni permiten variar lo que allí fuera decidido.Undécimo: Que, en cuanto a la adhesión de la demandada a la referida apelación, es menester señalar que de la revisión de la sentencia es claro que, por una parte, se han rechazado todas y cada una de las acciones de la demandante y, por otra, se ha acogido la demanda reconvencional de la demandada.Consecuentemente, atendido lo establecido por el artículo 144 del Código de Procedimiento Civil, procede la condena en costas de la demandante por cuanto resultó totalmente vencida.Por estas consideraciones, y de conformidad con lo dispuesto en los artículos 170, 186 y 768 del Código de Procedimiento Civil, se declara:I.- Se confirma la resolución de fecha 1 de agosto de 2022;II.- Se confirma la resolución de fecha 17 de noviembre de 2023; yIII.- Se revoca la sentencia de 9 de noviembre de 2023 y se confirma en todo lo demás.Regístrese y notifíqueseRedacción del Abogado Integrante señor Jorge Benítez UrrutiaN°Civil-12577-2022.Pronunciada por la Tercera Sala, integrada por  los Ministros señora Elsa Barrientos Guerrero, señora Paula Rodríguez Fondón y  el Abogado Integrante señor Nicolas Stitchkin Lopez.Autoriza el (la) ministro de fe de esta Iltma. Corte de Apelaciones de Santiago.En Santiago, once  de diciembre de dos mil veinticinco, se notificó por el estado diario la resolución que antecede.                        ⚠                      Sin documento en esta instancia - pdf
