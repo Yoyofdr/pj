@@ -1,0 +1,55 @@
+METADATA
+
+case_id: 6c526dffb8e558f03a518d13f0e056126c014765
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062618
+
+rol: 9163-2026
+
+fecha_sentencia: 2026-03-13
+
+caratulado: GONZALEZ MARQUEZ MARGENES DEL CARMEN CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: (CIVIL) CASACIÓN FONDO
+
+recurso: (CIVIL) CASACIÓN FONDO
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, trece de marzo de dos mil veintiséis.
+
+VISTO Y TENIENDO PRESENTE:
+PRIMERO: Que en este procedimiento sumario, acción de rendición de cuentas, seguido ante el Primer Juzgado de Letras de Puente Alto, bajo el Rol C-5400-2022, caratulado “Figueroa con Guzmán”, se ha ordenado dar cuenta de la admisibilidad de los recursos de casación en la forma y en el fondo deducidos por la parte demandada en contra de la resolución de la Corte de Apelaciones de San Miguel de cinco de febrero del año en curso, que confirmó la de primer grado, que junto con la sentencia definitiva -en la que se acogió la demanda de rendición de cuenta- se rechazó de manera previa la excepción dilatoria del artículo 303 n° 6 del Código de Procedimiento Civil.
+
+SEGUNDO: Que el artículo 766 del Código de Procedimiento Civil admite el recurso de casación en la forma contra sentencias definitivas y contra sentencias interlocutorias cuando ponen término al juicio o hacen imposible su continuación, y, excepcionalmente, contra las sentencias interlocutorias dictadas en segunda instancia sin previo emplazamiento de la parte agraviada, o sin señalar día para la vista de la causa.
+
+Por su parte, el artículo 767 del Código de Procedimiento Civil, dispone que se admite el recurso de casación en el fondo contra sentencias definitivas inapelables y sentencias interlocutorias inapelables cuando ponen término al juicio o hacen imposible su continuación, dictadas -en lo que interesa para el presente caso- por Cortes de Apelaciones, siempre que se hayan pronunciado con infracción de ley influyendo substancialmente en lo dispositivo del fallo.
+
+TERCERO: Que, advirtiéndose que los recursos de casación van dirigidos únicamente en contra de aquella parte de la resolución que pronunciándose respecto de la excepción dilatoria, la rechazó, esta no reviste la naturaleza jurídica de aquellas a las que se refieren los mencionados artículos 766 y 767 del Código de Procedimiento Civil, razón por la cual el recurso de nulidad intentado en autos no podrá ser admitido a tramitación.
+
+Por estas consideraciones y de conformidad además con lo dispuesto en los artículos 766, 767, 781 y 782 del Código de Procedimiento Civil, se declaran inadmisibles los recursos de casación en la forma y en el fondo interpuestos por el abogado Eduardo Hermán Cuitiño Hernández, en representación del demandado, contra la sentencia de cinco de febrero del año dos mil veintiséis.
+
+Regístrese y devuélvase.
+
+N° 9.457-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+San Miguel, cinco de febrero de dos mil veintiséis.
+
+A folios N° 61 y 62: A todo, téngase presente.
+Vistos:
+
+Atendido el mérito de los antecedentes, y de conformidad con lo dispuesto en los artículos 186 y siguientes del Código de Procedimiento Civil, se confirma la sentencia apelada de trece de diciembre del año dos mil veinticuatro, dictada por el Primer Juzgado Civil de Puente Alto, en la causa Rol C-5400-2022.
+
+Regístrese y devuélvase.
+
+N° 231-2025 Civil
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+San Miguel, cinco de febrero de dos mil veintiséis.A folios N° 61 y 62: A todo, téngase presente.Vistos:Atendido el mérito de los antecedentes, y de conformidad con lo dispuesto en los artículos 186 y siguientes del Código de Procedimiento Civil, se confirma la sentencia apelada de trece de diciembre del año dos mil veinticuatro, dictada por el Primer Juzgado Civil de Puente Alto, en la causa Rol C-5400-2022.Regístrese y devuélvase. N° 231-2025 Civil                        ⚠                      Sin documento en esta instancia - pdf
