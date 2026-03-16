@@ -4,19 +4,19 @@ case_id: c7bcfdf4774c5cb8daad6ece9dd60e594441d47b
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8037461
 
-rol: 38523-2025
+rol: 57802-2025
 
 fecha_sentencia: 2026-02-24
 
-caratulado: SARZOZA/ILUSTRE MUNICIPALIDAD DE PUCÓN
+caratulado: ENRIQUE DEL CARMEN PÉREZ FIGUEROA/LUIS LEAL JARA
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Aspectos procesales del recurso de protección
+materias: ▪ Protecciones en contra de particulares
 
-recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
