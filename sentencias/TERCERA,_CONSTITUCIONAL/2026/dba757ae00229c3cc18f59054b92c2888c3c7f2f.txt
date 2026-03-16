@@ -4,15 +4,15 @@ case_id: dba757ae00229c3cc18f59054b92c2888c3c7f2f
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046381
 
-rol: 48625-2025
+rol: 43299-2025
 
-fecha_sentencia: 2026-03-02
+fecha_sentencia: 2026-02-27
 
-caratulado: ALMONACID/FONDO NACIONAL DE SALUD (FONASA)
+caratulado: CARLOS ALFONSO SIEGEL REYES C/ CONTRALORÍA GENERAL DE LA REPÚBLICA REGION LOS RIOS Y OTRO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Potestad sancionadora
+materias: ▪ Potestad disciplinaria
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
