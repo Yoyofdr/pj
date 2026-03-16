@@ -4,17 +4,17 @@ case_id: e90a98e9acfb4f49711186977df1bb493f1954f4
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044649
 
-rol: 56833-2025
+rol: 56581-2025
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-02-26
 
-caratulado: MONTIEL VADE, ASTRID ALEJANDRA/PHILLIPS REYNOLD, STEVEN
+caratulado: OBAL/CONTRALORÍA REGIONAL METROPOLITANA DE SANTIAGO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Educación
+materias: ▪ Función pública
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) CASACIÓN FONDO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

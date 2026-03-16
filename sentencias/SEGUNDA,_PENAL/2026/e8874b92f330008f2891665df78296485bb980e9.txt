@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Responsabilidad civil
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) CASACIÓN FONDO
 
 resultado_recurso: RECHAZADAS CASACIÓN FORMA Y FONDO (M)
 

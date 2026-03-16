@@ -4,17 +4,17 @@ case_id: cd507dee2bbf319b5f07316d6f2dab36a41e5729
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044727
 
-rol: 6064-2026
+rol: 6065-2026
 
 fecha_sentencia: 2026-02-26
 
-caratulado: QUINTERO MARTINEZ DIONICIO ENRIQUE CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: CONES RAMIREZ ALEJANDRA DEL VALLE CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) CASACIÓN FONDO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 

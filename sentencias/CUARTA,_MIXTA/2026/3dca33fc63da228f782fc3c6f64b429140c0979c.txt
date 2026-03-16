@@ -14,7 +14,7 @@ sala: CUARTA, MIXTA
 
 materias: ▪ Terminación de contrato individual de trabajo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) CASACIÓN FONDO
 
 resultado_recurso: ACOGIDO RECURSO DE QUEJA
 
