@@ -4,19 +4,19 @@ case_id: 399041949e92d5f28d3bf26f3571d60663d6bac6
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040918
 
-rol: 58048-2025
+rol: 58143-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: ALDANA/SUBSECRETARÍA DE SEGURIDAD PUBLICA
+caratulado: BRACHO/ELIZALDE
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

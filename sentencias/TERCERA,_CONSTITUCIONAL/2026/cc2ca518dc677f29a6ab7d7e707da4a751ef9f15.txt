@@ -4,17 +4,17 @@ case_id: cc2ca518dc677f29a6ab7d7e707da4a751ef9f15
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040461
 
-rol: 42599-2025
+rol: 57742-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: SEQUEDA MERCADO JORGE ILNER/ADMINISTRADORA DE FONDOS DE PENSIONES (AFP) MODELO S.A
+caratulado: DE LA CUADRA HUERTA CLAUDIO / CONTRALORÍA GENERAL DE LA REPÚBLICA
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Previsional
+materias: ▪ Acto administrativo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

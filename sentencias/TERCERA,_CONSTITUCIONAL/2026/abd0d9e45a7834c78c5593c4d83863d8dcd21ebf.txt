@@ -4,17 +4,17 @@ case_id: abd0d9e45a7834c78c5593c4d83863d8dcd21ebf
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040846
 
-rol: 57742-2025
+rol: 57853-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: DE LA CUADRA HUERTA CLAUDIO / CONTRALORÍA GENERAL DE LA REPÚBLICA
+caratulado: SANCHEZ TORRES SUGHAES DELINA Y OTRA / SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Acto administrativo
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
