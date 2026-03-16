@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040712
 
 rol: 7789-2026
 
-fecha_sentencia: 2026-02-25
+fecha_sentencia: 2026-02-24
 
 caratulado: PEREZ CABRERA RUDEIWIMS CONTRA ADMINISTRADORA DE FONDOS DE PENSIONES MODELO S.A.
 
@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Previsional
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
