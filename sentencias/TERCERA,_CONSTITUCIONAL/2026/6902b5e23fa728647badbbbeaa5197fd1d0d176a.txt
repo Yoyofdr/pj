@@ -4,19 +4,19 @@ case_id: 6902b5e23fa728647badbbbeaa5197fd1d0d176a
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045138
 
-rol: 21092-2024
+rol: 27-2026
 
-fecha_sentencia: 2026-03-02
+fecha_sentencia: 2026-02-27
 
-caratulado: WIFICOM CHILE LTDA. CON ILUSTRE MUNICIPALIDAD DE QUILICURA
+caratulado: ARIAS/SOCIEDAD CONCESIONARIA RUTA DE LA FRUTA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Admisibilidad del recurso de casación en el fondo
+materias: ▪ Concesiones
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: RECHAZA CASACION EN EL FONDO
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
