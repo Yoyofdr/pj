@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044726
 
 rol: 2961-2026
 
-fecha_sentencia: 2026-02-26
+fecha_sentencia: 2026-02-27
 
 caratulado: VERGARA CON CLINICA REÑACA S.A.
 
@@ -14,7 +14,7 @@ sala: CUARTA, MIXTA
 
 materias: ▪ Recurso de unificación de jurisprudencia
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
 
 resultado_recurso: INADMISIBLE UNIFICACIÓN DE JURISPRUDENCIA, MATERIA UNIFICADA O SIN DISPERSIÓN
 

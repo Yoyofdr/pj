@@ -4,17 +4,17 @@ case_id: ab9a935565096ba8ec763b8019c923f2cd2e0b7d
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044636
 
-rol: 56831-2025
+rol: 56833-2025
 
 fecha_sentencia: 2026-02-27
 
-caratulado: DÍAZ/ILUSTRE MUNICIPAL DE MEJILLONES
+caratulado: MONTIEL VADE, ASTRID ALEJANDRA/PHILLIPS REYNOLD, STEVEN
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Potestad disciplinaria
+materias: ▪ Educación
 
-recurso: (PENAL) NULIDAD
+recurso: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

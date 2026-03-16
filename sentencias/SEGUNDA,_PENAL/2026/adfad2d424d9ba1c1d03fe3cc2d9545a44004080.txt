@@ -4,19 +4,19 @@ case_id: adfad2d424d9ba1c1d03fe3cc2d9545a44004080
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044721
 
-rol: 8704-2025
+rol: 57436-2025
 
-fecha_sentencia: 2026-02-26
+fecha_sentencia: 2026-02-27
 
-caratulado: VARAS/- FISCO DE CHILE
+caratulado: C/ GLADIS IRENE BAHAMONDES VERA
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Declaración previa de existencia de error judicial
+materias: ▪ Delitos contra la propiedad y el patrimonio
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
 
-resultado_recurso: ACOGE SOLICITUD DE DECLARACIÓN PREVIA DE ERROR J (M)
+resultado_recurso: SENTENCIA DE REEMPLAZO (M)
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

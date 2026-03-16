@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (PENAL) NULIDAD
+recurso: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
