@@ -4,17 +4,17 @@ case_id: 7a18e8739814aefe08e6ff36bbe331ba83c931cf
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041017
 
-rol: 4692-2026
+rol: 4867-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: VIZCAYA/BANMÉDICA S.A.
+caratulado: LISSIE TAPIA PÉREZ DE ARCE/ISAPRE BANMÉDICA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 

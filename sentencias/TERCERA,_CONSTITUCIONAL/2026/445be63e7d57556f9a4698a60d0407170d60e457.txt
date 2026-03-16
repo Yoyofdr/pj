@@ -4,19 +4,19 @@ case_id: 445be63e7d57556f9a4698a60d0407170d60e457
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040669
 
-rol: 5924-2026
+rol: 7770-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: PETITE/ISAPRE CRUZ BLANCA S.A.
+caratulado: YISSEL DEL VALLE GRANADO GIL/ADMINISTRADORA DE FONDOS DE PENSIONES MODELO S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: ▪ Previsional
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
