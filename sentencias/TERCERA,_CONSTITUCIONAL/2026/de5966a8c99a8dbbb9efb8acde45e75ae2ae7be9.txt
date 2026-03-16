@@ -4,11 +4,11 @@ case_id: de5966a8c99a8dbbb9efb8acde45e75ae2ae7be9
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040842
 
-rol: 1293-2026
+rol: 456-2026
 
-fecha_sentencia: 2026-02-24
+fecha_sentencia: 2026-02-25
 
-caratulado: MUJICA CHIRINOS ALXEL JOSUE/SUBSECRETARIA DEL INTERIOR, MINISTERIO DEL INTERIOR
+caratulado: NICOLAS/ MINISTERIO DEL INTERIOR Y SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 

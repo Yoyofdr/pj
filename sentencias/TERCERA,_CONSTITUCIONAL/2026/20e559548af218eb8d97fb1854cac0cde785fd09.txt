@@ -4,17 +4,17 @@ case_id: 20e559548af218eb8d97fb1854cac0cde785fd09
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040836
 
-rol: 7555-2026
+rol: 40210-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: PARRA BERNAL MÓNICA VIVIANA/ADMINISTRADORA DE FONDOS DE PENSIONES MODELO SOCIEDAD ANÓNIMA
+caratulado: IRIS BACALANDO ORTIZ CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Previsional
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

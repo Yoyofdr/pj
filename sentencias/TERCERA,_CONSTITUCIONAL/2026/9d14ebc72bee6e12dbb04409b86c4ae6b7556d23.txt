@@ -4,11 +4,11 @@ case_id: 9d14ebc72bee6e12dbb04409b86c4ae6b7556d23
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040919
 
-rol: 58439-2025
+rol: 58432-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: RAVELO/SUBSECRETARÍA DEL INTERIOR / MINISTERIO DEL INTERIOR
+caratulado: COLORADO/SUBSECRETARIA DEL INTERIOR /MINISTERIO DEL INTERIOR
 
 sala: TERCERA, CONSTITUCIONAL
 
