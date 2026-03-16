@@ -4,19 +4,19 @@ case_id: b98a8bb0d59be67e6ded35b2666690ecbffddacf
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047163
 
-rol: 54441-2025
+rol: 52388-2025
 
-fecha_sentencia: 2026-03-03
+fecha_sentencia: 2026-03-02
 
-caratulado: PONCE FUENTES TAMMY / ILUSTRE MUNICIPALIDAD DE QUILPUÉ
+caratulado: FISCO DE CHILE/CHILQUINTA ENERGÍA S.A. (ACUMULADA 2397-2024-D)
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Función pública
+materias: ▪ Admisibilidad del recurso de casación en el fondo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) CASACIÓN FORMA Y FONDO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: INADMISIBLE CASACIÓN FORMA RECHAZADA, CASACIÓN FON
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

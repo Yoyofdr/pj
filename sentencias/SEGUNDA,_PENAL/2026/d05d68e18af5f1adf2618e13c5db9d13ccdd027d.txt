@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046944
 
 rol: 7934-2026
 
-fecha_sentencia: 2026-03-03
+fecha_sentencia: 2026-03-02
 
 caratulado: AGUILA CORNEJO VICTOR ALEJANDRO CONTRA COMPLEJO PENITENCIARIO DE PUERTO MONTT
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) CASACIÓN FORMA Y FONDO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
