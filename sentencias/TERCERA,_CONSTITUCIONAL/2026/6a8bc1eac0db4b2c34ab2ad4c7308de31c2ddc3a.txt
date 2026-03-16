@@ -4,11 +4,11 @@ case_id: 6a8bc1eac0db4b2c34ab2ad4c7308de31c2ddc3a
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040922
 
-rol: 1438-2026
+rol: 2761-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: ZAMBRANO/SUBSECRETARÍA DEL INTERIOR - MINISTERIO DEL INTERIOR
+caratulado: MUÑOZ/ISAPRE COLMENA GOLDEN CROSS S.A
 
 sala: TERCERA, CONSTITUCIONAL
 

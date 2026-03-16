@@ -4,11 +4,11 @@ case_id: e2aa9dc87a43d86063fd7055c758fe6f1bdb2b8f
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040934
 
-rol: 58463-2025
+rol: 312-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: MENDOZA/SERVICIO DE MIGRACIONES
+caratulado: VISLAVAT DIVYA NAGESH CONTRA SERVICIO NACIONAL DE MIGRACIONES IQUIQUE
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
