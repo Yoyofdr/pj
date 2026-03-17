@@ -4,15 +4,15 @@ case_id: 604343b1daa094a180dcaf192d927fcc2d1e84ce
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8036726
 
-rol: 53142-2025
+rol: 57813-2025
 
 fecha_sentencia: 2026-02-23
 
-caratulado: CASANGA/HOSPITAL REGIONAL DE ANTOFAGASTA
+caratulado: MEGA ARIDOS LTDA / ISAAC JAIME VALENZUELA CANTELLANA
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Función pública
+materias: ▪ Protecciones en contra de particulares
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 

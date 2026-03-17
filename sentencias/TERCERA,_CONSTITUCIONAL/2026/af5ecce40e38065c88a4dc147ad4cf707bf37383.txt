@@ -4,19 +4,19 @@ case_id: af5ecce40e38065c88a4dc147ad4cf707bf37383
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8037994
 
-rol: 33257-2025
+rol: 56744-2025
 
-fecha_sentencia: 2026-02-24
+fecha_sentencia: 2026-02-23
 
-caratulado: GASPAR ALQUINTA PATRICIO EDUARDO CONTRA SERVICIO DE SALUD ATACAMA
+caratulado: SOCIEDAD DE INSTRUCCION PRIMARIA DE SANTIAGO/SECRETARÍA REGIONAL MINISTERIAL DE EDUCACIÓN DE LA REGI
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Contratas
+materias: ▪ Potestad sancionadora
 
-recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA EN LO APELADO LA SENTENCIA
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
