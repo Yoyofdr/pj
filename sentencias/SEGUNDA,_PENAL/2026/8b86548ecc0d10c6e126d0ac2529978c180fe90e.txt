@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8037936
 
 rol: 7251-2026
 
-fecha_sentencia: 2026-02-24
+fecha_sentencia: 2026-02-23
 
 caratulado: ABARCA CARVAJAL SEBASTIÁN CONTRA DE APELACIONES DE VALPARAÍSO
 
@@ -20,6 +20,7 @@ resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
+Corte Apelaciones ▼
 Santiago, veinticuatro de febrero de dos mil veintiséis.
 Vistos y teniendo únicamente presente:
 Que conforme a los antecedentes señalados en el recurso aparece que la
@@ -34,35 +35,24 @@ Rol N° 7251-2026
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
 Corte Apelaciones ▼
-Abarca Carvajal, Sebastián Rodrigo
-Primera Sala I. Corte de Apelaciones de Valparaíso
+C.A. de Santiago
+Santiago, once de febrero de dos mil veintiséis.
 
-Recurso de Amparo
+Se acepta la competencia declinada por la Iltma. Corte de Apelaciones de Iquique.
+Al folio N°1: a lo principal y al segundo otrosí, aténgase a lo que se resolverá. Al primer otrosí, a sus antecedentes. Al tercer otrosí, téngase presente.
 
-Rol N°93-2026.-
-La Serena, diez de febrero de dos mil veintiséis.
-A todo: estese a lo que se resolverá.
+Vistos y teniendo presente:
 
-Vistos:
+1°) Que, según se colige de lo establecido en los artículos 21 de la Carta Fundamental y 7.6 de la Convención Americana de Derechos Humanos, la acción constitucional de amparo tiene como finalidad esencial controlar la “legalidad” de eventuales afectaciones o amenazas a la libertad personal y seguridad individual, en términos de verificar que, de mediar, se ajusten a la Constitución y a las leyes;
 
-1°) Que, se ejerce esta acción constitucional de amparo para impugnar la decisión adoptada por los ministros de la Primera Sala de la Iltma. Corte de Apelaciones de Valparaíso, por medio de la cual, en resolución de veintinueve de enero de dos mil veintiséis, que confirmó la resolución del Juzgado de Garantía de Los Andes que mantuvo la medida cautelar de prisión preventiva.
+2°) Que, los antecedentes expuestos en el recurso no dan cuenta de hechos que, según el artículo 21 de la Constitución Política de la República, correspondan a aquellos susceptibles de la cautela impetrada por esta vía, al no vulnerar o amenazar la libertad personal y la seguridad individual, entendida esta última como la garantía de que la libertad personal no pueda ser afectada sino en los casos previstos por la ley, máxime si, de lo expuesto, se advierte que el ordenamiento jurídico concede y reconoce al recurrente el remedio idóneo para poner término a la situación descrita en el libelo, ejerciendo su derecho de defensa a través de la vía del recurso de protección.
 
-2°) Que, según se colige de lo establecido en los artículos 21 de la Carta Fundamental y 7.6 de la Convención Americana de Derechos Humanos, la acción constitucional de amparo tiene como finalidad esencial controlar la “legalidad” de eventuales afectaciones o amenazas a la libertad personal y seguridad individual, en términos de verificar que, de mediar, se ajusten a la Constitución y a las leyes;
+Por estas consideraciones, y lo dispuesto por el artículo 21 de la Constitución Política de la República, se declara inadmisible el recurso deducido en estos autos.
 
-3°) Que, para esos efectos la Carta Fundamental dispone que tal recurso debe ser conocido “por la magistratura que señale la ley”, mandato que cumple el artículo 63 del Código Orgánico de Tribunales, señalando que corresponde a las Cortes de Apelaciones conocer en primera instancia de los recursos de amparo;
+Archívese en su oportunidad.
 
-4°) Que, por ende, si resulta que ha sido una Corte de Apelaciones la que expidió la resolución que se cuestiona por este medio, quiere decir que ya se cumplió el objetivo o propósito de cautela del derecho fundamental;
-
-5°) Que, en efecto, no puede pretenderse que la acción de amparo se erija en un instrumento que propicie la revisión anómala e impropia de lo actuado por un tribunal de alzada.
-
-Aceptarlo importaría distorsionar tanto la finalidad de la acción de amparo como la regularidad elemental del procedimiento que la rige, máxime considerando que existen otros mecanismos para impugnar la decisión que en esta sede se cuestiona.
-
-Por estas consideraciones, y lo dispuesto en el artículo 21 de la Constitución Política de la República, se declara INADMISIBLE el recurso deducido en estos autos, criterio que ha sido sostenido por la Excma. Corte Suprema en fallos contenidos en los roles 161.622-2022 y 32.059-2022, entre otros.
-
-Regístrese y archívese en su oportunidad.
-
-Rol N°93-2026 Amparo. -
+N°Amparo-625-2026.jzc
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------
-Abarca Carvajal, Sebastián RodrigoPrimera Sala I. Corte de Apelaciones de ValparaísoRecurso de AmparoRol N°93-2026.-La Serena, diez de febrero de dos mil veintiséis. A todo: estese a lo que se resolverá.Vistos:1°) Que, se ejerce esta acción constitucional de amparo para impugnar la decisión adoptada por los ministros de la Primera Sala de la Iltma. Corte de Apelaciones de Valparaíso, por medio de la cual, en resolución de veintinueve de enero de dos mil veintiséis, que confirmó la resolución del Juzgado de Garantía de Los Andes que mantuvo la medida cautelar de prisión preventiva.2°) Que, según se colige de lo establecido en los artículos 21 de la Carta Fundamental y 7.6 de la Convención Americana de Derechos Humanos, la acción constitucional de amparo tiene como finalidad esencial controlar la “legalidad” de eventuales afectaciones o amenazas a la libertad personal y seguridad individual, en términos de verificar que, de mediar, se ajusten a la Constitución y a las leyes;3°) Que, para esos efectos la Carta Fundamental dispone que tal recurso debe ser conocido “por la magistratura que señale la ley”, mandato que cumple el artículo 63 del Código Orgánico de Tribunales, señalando que corresponde a las Cortes de Apelaciones conocer en primera instancia de los recursos de amparo;4°) Que, por ende, si resulta que ha sido una Corte de Apelaciones la que expidió la resolución que se cuestiona por este medio, quiere decir que ya se cumplió el objetivo o propósito de cautela del derecho fundamental;5°) Que, en efecto, no puede pretenderse que la acción de amparo se erija en un instrumento que propicie la revisión anómala e impropia de lo actuado por un tribunal de alzada. Aceptarlo importaría distorsionar tanto la finalidad de la acción de amparo como la regularidad elemental del procedimiento que la rige, máxime considerando que existen otros mecanismos para impugnar la decisión que en esta sede se cuestiona. Por estas consideraciones, y lo dispuesto en el artículo 21 de la Constitución Política de la República, se declara INADMISIBLE el recurso deducido en estos autos, criterio que ha sido sostenido por la Excma. Corte Suprema en fallos contenidos en los roles 161.622-2022 y 32.059-2022, entre otros.Regístrese y archívese en su oportunidad.Rol N°93-2026 Amparo. -                        ⚠                      Sin documento en esta instancia - pdf
+C.A. de SantiagoSantiago, once de febrero de dos mil veintiséis.Se acepta la competencia declinada por la Iltma. Corte de Apelaciones de Iquique.Al folio N°1: a lo principal y al segundo otrosí, aténgase a lo que se resolverá. Al primer otrosí, a sus antecedentes. Al tercer otrosí, téngase presente.Vistos y teniendo presente:1°) Que, según se colige de lo establecido en los artículos 21 de la Carta Fundamental y 7.6 de la Convención Americana de Derechos Humanos, la acción constitucional de amparo tiene como finalidad esencial controlar la “legalidad” de eventuales afectaciones o amenazas a la libertad personal y seguridad individual, en términos de verificar que, de mediar, se ajusten a la Constitución y a las leyes;2°) Que, los antecedentes expuestos en el recurso no dan cuenta de hechos que, según el artículo 21 de la Constitución Política de la República, correspondan a aquellos susceptibles de la cautela impetrada por esta vía, al no vulnerar o amenazar la libertad personal y la seguridad individual, entendida esta última como la garantía de que la libertad personal no pueda ser afectada sino en los casos previstos por la ley, máxime si, de lo expuesto, se advierte que el ordenamiento jurídico concede y reconoce al recurrente el remedio idóneo para poner término a la situación descrita en el libelo, ejerciendo su derecho de defensa a través de la vía del recurso de protección.Por estas consideraciones, y lo dispuesto por el artículo 21 de la Constitución Política de la República, se declara inadmisible el recurso deducido en estos autos.Archívese en su oportunidad.N°Amparo-625-2026.jzc

@@ -6,15 +6,15 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8037476
 
 rol: 6693-2026
 
-fecha_sentencia: 2026-02-24
+fecha_sentencia: 2026-02-23
 
 caratulado: BORBALAN GUTIÉRREZ CONSTANZA VALERIA CONTRA JUZGADO DE GARANTÍA DE PUNTA ARENAS
 
 sala: SEGUNDA, PENAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: (CIVIL) CASACIÓN FONDO
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) CASACIÓN FONDO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

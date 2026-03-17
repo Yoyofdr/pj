@@ -4,15 +4,15 @@ case_id: d6ae0e8b2fa2ebf841a7d76f31bf3ff22ff4752b
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8037819
 
-rol: 7520-2026
+rol: 5244-2026
 
-fecha_sentencia: 2026-02-24
+fecha_sentencia: 2026-02-23
 
-caratulado: GÓMEZ BUSTOS FELIPE IGNACIO CONTRA 2° JUZGADO DE GARANTÍA DE SANTIAGO
+caratulado: OTALVARO ORDOÑEZ STEPHANY CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: (CIVIL) CASACIÓN FONDO
+materias: ▪ Recurso de Amparo
 
 recurso: (CIVIL) CASACIÓN FONDO
 
@@ -20,6 +20,7 @@ resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
+Corte Apelaciones ▼
 Santiago, veinticuatro de febrero de dos mil veintiséis.
 
 Vistos:

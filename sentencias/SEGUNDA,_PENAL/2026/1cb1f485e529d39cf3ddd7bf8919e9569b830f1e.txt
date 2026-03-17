@@ -4,17 +4,17 @@ case_id: 1cb1f485e529d39cf3ddd7bf8919e9569b830f1e
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8037477
 
-rol: 7464-2026
+rol: 4942-2026
 
-fecha_sentencia: 2026-02-24
+fecha_sentencia: 2026-02-23
 
-caratulado: BENÍTEZ AMARILLA DERLIS SANTIAGO CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: ROCHA DANIELA DEL SOCORRO CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Recurso de Amparo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) CASACIÓN FONDO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
