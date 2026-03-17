@@ -4,11 +4,11 @@ case_id: 67aea8743095ec1c7a9b7196633340e3aafa3baa
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040699
 
-rol: 5954-2026
+rol: 58459-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: QUEZADA/ISAPRE VIDA TRES S.A.
+caratulado: SIERRA/SUBSECRETARÍA DEL INTERIOR - MINISTERIO DEL INTERIOR
 
 sala: TERCERA, CONSTITUCIONAL
 
