@@ -4,11 +4,11 @@ case_id: 896e3b75e253ecb5989ff32fef09935071154ee8
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041168
 
-rol: 7304-2026
+rol: 7541-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: GARCIA/AFP PROVIDA S.A.
+caratulado: SEIJAS GARCÍA REGULO JOSÉ/ADMINISTRADORA DE FONDOS DE PENSIONES PROVIDA SOCIEDAD ANÓNIMA
 
 sala: TERCERA, CONSTITUCIONAL
 

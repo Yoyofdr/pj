@@ -4,11 +4,11 @@ case_id: 996626a13d2c443c8e1042eaa2e07f386c8f2762
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8039401
 
-rol: 5480-2026
+rol: 7209-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: HERNÁNDEZ MÉNDEZ KEIBER ALBERTO CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: MUÑOZ MALDONADO VIVIANA CONTRA ILTMA. CORTE DE APELACIONES DE RANCAGUA
 
 sala: SEGUNDA, PENAL
 
@@ -22,60 +22,1168 @@ TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
 Santiago, veinticinco de febrero de dos mil veintiséis.
 
-Vistos:
-Se confirma la sentencia apelada de cuatro de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Valparaíso, en el Ingreso Corte N°280-2026.
+Vistos y teniendo presente:
+1° Que la revisión de las sentencias firmes, procede en el nuevo sistema procesal penal, en los casos taxativamente señalados en el artículo 473 del Código que rige esa materia y que en su literal d) dispone, que la Corte Suprema podrá rever extraordinariamente las sentencias firmes en que se hubiere condenado a alguien por crimen o simple delito, para anularlas, cuando con posterioridad a la sentencia condenatoria, ocurriere o se descubriere algún hecho o apareciere algún documento desconocido durante el proceso, que fuere de tal naturaleza que bastare para establecer la inocencia del condenado.
 
-Se previene, que el Ministro Sr. Llanos, concurrió a la confirmación de la sentencia apela teniendo presente la insuficiencia de los antecedentes de arraigo laboral y familiar del recurrente.
+2° Que, en el presente caso, el recurrente apoya su solicitud en inconsistencia probatoria y cuestiona los testimonios de la víctima y testigos
+3° Que, la revisión es desechada de plano por manifiesta falta de fundamento, los hechos y documentos presentados como sustento de la revisión no configuran la causal invocada, desde que el motivo dice relación con un cuestionamiento a la valoración efectuada por el tribunal al momento de dictar sentencia, lo anterior, es ajeno a la naturaleza del recurso de revisión.
+Y visto además, lo dispuesto en el artículo 475 del Código Procesal Penal, se desecha de plano, la solicitud de revisión deducida.
 
-Regístrese y devuélvase.
+Al primer otrosí, a sus antecedentes; al segundo otrosí, estese al mérito de lo resuelto; al tercer otrosí, téngase presente.
 
-Rol N°5480-2026
+Regístrese y archívese.
+
+Rol N° 6207-2026
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
-Jfah.-
-C.A. de Valparaíso
-Valparaíso, cuatro de febrero de dos mil veintiséis.
-
-Vistos:
-
-A folio 1, Pablo Daniel Peñaloza Parra y Joaquín Andrés Contreras Roa, abogados, deducen acción de amparo en favor de Keiber Alberto Hernández Méndez, de nacionalidad venezolana, y en contra del Servicio Nacional de Migraciones por el acto que consideran ilegal consistente en la Resolución Exenta N°2600100016480, de 9 de enero de 2026, que rechazó su solicitud de residencia temporal y ordena su abandono del país, lo que estima vulnera su derecho a la libertad personal, consagrado en el artículo 19 N°7 de la Constitución Política de la República.
-
-En cuanto a los hechos explica que el amparado ingresó al país como turista y solicitó un permiso de residencia temporal para continuar su proyecto de vida en el país. Indica que la autoridad migratoria fundó el rechazo en la existencia de antecedentes negativos en Chile, por el delito de tráfico de pequeñas cantidades en la causa RIT 9644-2020 del 8° Juzgado de Garantía de Santiago.
-Alega que dicha decisión es arbitraria e ilegal, toda vez que el actor dio cumplimiento íntegro a la condena impuesta, por la cual se le otorgó pena sustitutiva, obteniendo el sobreseimiento definitivo, por lo que ya saldó su deuda con la sociedad. Sostiene que el amparado cuenta con un contrato laboral vigente desde hace cuatro años y mantiene una relación de convivencia con una ciudadana chilena, configurando un arraigo familiar y social que no fue ponderado.
-
-Finaliza solicitando que se acoja el recurso, se deje sin efecto la resolución recurrida y se ordene al Servicio Nacional de Migraciones realizar una nueva revisión de los antecedentes para decidir conforme a derecho la solicitud de residencia temporal.
-
-A folio 8, evacúa informe el Servicio Nacional de Migraciones, solicitando el rechazo de la acción.
-
-Señala que el amparado el 14 de junio de 2023 solicitó residencia temporal dentro de Chile. Que, el 26 de marzo de 2025, se le comunicó que se entraba en causa del rechazo por registra antecedentes negativos en Chile, específicamente una condena por tráfico de pequeñas cantidades y otra por ocultamiento de placa patente, otorgándole un plazo de 10 días para evacuar descargos, plazo en que el extranjero no logró desvirtuar los motivos que sustentaban la causal invocada.
-En razón de lo anterior, dictó la resolución impugnada, que se ajusta estrictamente a la legalidad vigente, fundándose en los artículos 88 inciso final y 33 N°2 de la Ley 21.325. Arguye que la orden de abandono es una consecuencia imperativa y necesaria ante el rechazo de un permiso de residencia, según el artículo 91 de la citada ley. Alega que la medida de abandono es voluntaria y se diferencia de la expulsión compulsiva, por lo que no existe una amenaza real a la libertad personal que deba ser cautelada por esta vía.
-
-A folio 9, se ordenó traer los autos en relación.
-
-Con lo relacionado y considerando:
-Primero: Que, la acción de amparo es un proceso de tutela urgente del derecho fundamental a la libertad personal y seguridad individual, garantía consagrada en el artículo 19 N°7 de la Constitución Política de la República, procedente en aquellos casos en que una persona fuere arrestada, detenida o presa con infracción a la Constitución o a las leyes o sufra cualquier otra privación, perturbación o amenaza al derecho fundamental antes aludido, fuera de los casos en que el ordenamiento jurídico lo permite.
-
-Segundo: Que, a través de esta vía cautelar se impugna la Resolución Exenta N°2600100016480, de 9 de enero de 2026, que rechazó la solicitud de residencia temporal del amparado y ordenó su abandono del país, fundado en el hecho de registrar antecedentes negativos en Chile por el delito de tráfico en pequeñas cantidades, solicitando que se deje sin efecto dicho acto y se ordene una nueva revisión de su situación migratoria.
-
-Tercero: Que, el recurrido informa, en síntesis, que la resolución se ajusta a derecho y a las facultades privativas del Servicio, fundándose en la existencia de una causa penal en contra del amparado, lo que constituye causal legal de rechazo y abandono según la Ley N° 21.325, descartando ilegalidad al haber actuado conforme a la normativa vigente.
-Cuarto: Que, para resolver el presente arbitrio se debe tener en consideración que el artículo 88 N° 2 de la Ley 21.325 dispone que el Servicio Nacional de Migraciones deberá rechazar las solicitudes de residencia respecto de quienes se encuentren en algunas de las prohibiciones contemplada en el artículo 32 de la misma ley.
-
-Que, por su parte, el numeral 6 del artículo 32 de la Ley N°21.325 establece que “Prohibiciones imperativas. Se prohíbe el ingreso al país a los extranjeros que: 6. Hayan sido condenados en Chile por crimen o simple delito, cuya pena no esté prescrita, o no haya sido efectivamente cumplida, con excepción de aquellos casos en que deban reingresar al país para efectos de dar cumplimiento a la condena.”.
-
-Quinto: Que, del mérito de los antecedentes que obran en autos, no es posible soslayar que según consta en la comunicación previa a rechazo de 26 de marzo de 2025, el amparado fue condenado por el delito de ocultamiento de placa patente, a la pena de 41 días de prisión por sentencia de 30 de marzo de 2022, en causa Rit 22030-2020, seguida ante el 7° Juzgado de Garantía de Santiago.
-
-Sexto: Que, en tales circunstancia, no se advierte la existencia de algún acto ilegal por parte de la autoridad recurrida, toda vez, que la resolución impugnada se sustenta en una causal legal, ha sido dictada dentro del ámbito de sus atribuciones y de conformidad a la normativa legal vigente.
-Por estas consideraciones, y visto además lo dispuesto en el artículo 21 de la Constitución Política de la República y Auto Acordado de la Excelentísima Corte Suprema sobre la materia, se rechaza, sin costas, el recurso de amparo deducido a favor de Keiber Alberto Hernández Méndez en contra del Servicio Nacional de Migraciones.
-Decisión acordada con el voto en contra de la Ministra (S) Sra. Leonor Cohen Briones, quien fue del parecer de acoger el presente arbitrio, teniendo en consideración lo siguiente:
-
-1°) Que, del análisis de los antecedentes que obran en autos, consta que la causa RIT N° 9644-2020, seguida ante el 8° Juzgado de Garantía de Santiago, terminó por suspensión condicional del procedimiento el 25 de mayo de 2021 y que se encuentra acreditado que el amparado fue sobreseído definitivamente en la misma, según consta en resolución de 27 de mayo de 2022, de manera tal que no existe condena alguna a su respecto, no pudiendo ser considerado este antecedentes dentro de la causal de rechazo antes citada. En cuanto a la condena a 41 días de prisión por ocultamiento de placa patente, se trata de una pena de falta, que se encuentra cumplida según lo acreditado en documentos acompañado a folio 1, y que ni siquiera es mencionada en la resolución impugnada, lo que demuestra que tampoco fue considerada por el Servicio recurrido como parte de la causal en que fundamenta el rechazo de la residencia;
-2°) Que, asimismo, se debe tener especialmente presente el arraigo laboral del amparado, el que se encuentra suficientemente acreditado con el contrato de trabajo y certificado de cotizaciones previsionales acompañados al recurso. A ello se suma que el amparado se encuentra en Chile, a lo menos, desde el año 2019, circunstancia que los refuerza;
-3°) Que, en las condiciones descritas, la decisión de la autoridad administrativa devino en ilegal y desproporcionada, afectando la libertad personal del amparado.
-Regístrese, comuníquese por la vía más expedita y, en su oportunidad, archívese.
-
-N°Amparo-280-2026.
+RESUMENAcusado [LEANDRO],Delito Desacato y Lesiones Menos Graves VIF(autor/ consumados)Decisión Condena y Absolución.RIT 117 - 2024RUC                              2201059801-3Curicó a veintiocho del mes de julio del año dos mil veinticinco.VISTOS, OIDO, TENIENDO PRESENTE Y CONSIDERANDO:PRIMERO:  Que  con  fecha  dieciocho  de  julio  de  los  corrientes,  ante  laPRIMERA SALA DEL  TRIBUNAL DE JUICIO ORAL EN LO PENAL DE LACIUDAD DE CURICO; se llevó a efecto la Audiencia del Juicio Oral relativa a losautos RIT N° 117-2024 seguidos en contra de  [LEANDRO], cédula de identidadN° NUM000, nacido el NUM001 de 1981, en Curicó, comerciante, domiciliado enDIRECCION000, 43 años de edad, casado, Segundo Medio rendido; representadoen esta audiencia por su defensora doña Patricia Campos Vergara.Fue parte acusadora en el presente juicio el Ministerio Público, el que fuerepresentado en la Audiencia por don Jaime Rojas Diaz; fiscal de Curicó, todoscon domicilio y correo registrados en el tribunal.SEGUNDO  :   Que los hechos materia  de la  acusación,  según el  Auto deApertura del Juicio Oral, del Juzgado de Garantía de Curicó, fueron los siguientes: “El día 24 de Octubre de 2022, en horas de la tarde, siendo alrededor de las14:00  horas,  el  imputado [LEANDRO],  concurrió  al  domicilio  de  su  cónyuge yvíctima doña [CECILIA], con quien tiene tres hijos en común, estando separadosde hecho,  domicilio  ubicado en DIRECCION001 de Curicó,  lugar  en el  cual  elimputado comienza a menoscabar a la víctima con insultos y descalificaciones, alo cual la afectada le pide que se retire y es ahí que el imputado se enoja y rompeel teléfono de la afectada para luego el imputado agredir a la víctima con un golpede puño en el rostro, agrediéndola verbalmente con insultos diciéndole “eres unaputa barata, hedionda, asquerosa y callejera”, abalanzándose el imputado sobre lavíctima a la cual agrede con golpes en distintas partes del cuerpo, situación en lacual la víctima comienza a gritar y pedir ayuda, ante lo cual el imputado se da a lafuga.  A  raíz  de  esta  agresión  la  afectada  resultó  con  las  siguientes  lesiones:presenta contusión en región malar por golpe propinado por pareja,  con manocerrada a este nivel,  asimismo laceraciones en tórax supero anterior, sangradocohibido y en ambos antebrazos, lesiones de mediana gravedad según datos deatención  de urgencia  del  SAPU Curicó Centro.  Con su actuar  el  imputado no1cumplió con lo ordenado en sentencia condenatoria del Juzgado de Garantía deCuricó, de fecha 29 de Abril de 2022, causa RUC 2200274649-6, RIT 1416-2022,en la  cual  consta que fue condenado por  el  delito  de lesiones respecto de lamisma víctima, decretándose junto a la pena corporal, la pena accesoria especialdel artículo 9 de la ley 20.066, en su letra b) esto es la prohibición de acercarse ala  misma víctima por  el  lapso de un año,  sentencia que se encuentra firme yvigente a la época de los hechos. CALIFICACIÓN JURÍDICA:  A juicio de esta Fiscalía, los hechos antes descritos son constitutivos de lossiguientes delitos consumados: El delito de lesiones clínicamente menos graves en contexto de violenciaintrafamiliar, en perjuicio de la víctima [CECILIA], ilícito previsto y sancionado en elartículo  399,  400  y  demás  pertinentes  del  Código  Penal,  en  relación  con  losartículos 5 y demás pertinentes de la ley 20.066 sobre violencia intrafamiliar. El  delito  consumado  de  desacato  en  contexto  de  violencia  intrafamiliar,ilícito previsto y sancionado en el artículo 240 del Código de Procedimiento Civil,en relación con los artículos 5, 10, 15, 18 y artículo 5 y demás pertinentes de la ley20.066 sobre violencia intrafamiliar. PARTICIPACIÓN: Al  acusado  le  cabe  responsabilidad  a  título  de  AUTOR en  el  delito  deconformidad a lo previsto en el artículo 15 Nº1 del Código Penal.CIRCUNSTANCIAS MODIFICATORIAS DE RESPONSABILIDAD PENAL:  - Atenuantes: no concurren. - Agravantes: Concurre la agravante del artículo 12 N° 16 del Código Penal,esto es “Haber sido condenado el culpable anteriormente por delito de la mismaespecie”,  la  cual  dice  relación  al  delito  de  lesiones  y  respecto  del  delito  dedesacato concurre la agravante del artículo 12 N° 15 del Código Penal, esto es“haber sido condenado el culpable anteriormente por delitos a que la ley señaleigual o mayor pena”.PENA SOLICITADA: De conformidad a lo dispuesto en los artículos 1, 15 Nº1, 12 N°15, 12 N°16,21, 29, 30, 68, 69, 75, 399, 400 y demás pertinentes del Código Penal; artículos240 y demás pertinentes del Código de Procedimiento Civil; artículos 5, 10, 15, 18y demás pertinentes de la ley 20.066 sobre violencia intrafamiliar;  el  MinisterioPúblico  solicita  que  el  acusado  [LEANDRO],  sea  condenado  a  las  siguientespenas: 2Por  el  delito  de  lesiones  clínicamente  menos  graves  en  contexto  deviolencia intrafamiliar, en perjuicio de [CECILIA], a la pena de TRES AÑOS DEPRESIDIO MENOR EN SU GRADO MEDIO, accesorias del artículo 9 de la ley20.066 sobre violencia intrafamiliar en sus letras: b) Prohibición de acercarse a lavíctima  [CECILIA],  o  a  su  domicilio,  lugar  de  trabajo  o  estudio,  así  como  acualquier otro lugar al que ésta concurra o visite habitualmente; letra c) Prohibiciónde porte y tenencia de armas de fuego, ambas por el término de dos años, demásaccesorias legales, con costas. Por el delito de desacato en contexto de violencia intrafamiliar, a la pena deCUATRO AÑOS DE RECLUSION MENOR EN SU GRADO MAXIMO, accesoriasdel  artículo  9  de  la  ley  20.066  sobre  violencia  intrafamiliar  en  sus  letras:  b)Prohibición de acercarse a la víctima doña [CECILIA], o a su domicilio, lugar detrabajo o estudio, así como a cualquier otro lugar al que ésta concurra o visitehabitualmente; letra c) Prohibición de porte y tenencia de armas de fuego, ambaspor el término de dos años, demás accesorias legales, con costas.La misma tesis sostuvo en sus alegatos, agregando que con la prueba quese rendirá se acreditaran los hechos de la acusación y la participación en ellos delacusado;  declarará  la  víctima,  y  la  doctora  y  unos  policías,  además,  de  ladocumental; que los hechos fueron el 24 de octubre del año 2022 y que la víctimadenunció, después de huir  del acusado, a Carabineros; que el  propio acusadoreconoce su ubicación temporo espacial  para el  desacato,  y también la propiavíctima lo sitúa en el domicilio en cuestión. Que en cuanto a las Lesiones en VIF,estima que tanto el  acusado como la  víctima están diciendo algo distinto  a laverdad, que cree que los hechos sucedieron y que por alguna razón la víctima seretractó en juicio; que la doctora constató las lesiones, que cree que la discusión,que la hubo y la reconocen la víctima y el acusado, derivó, en golpes, lo demás noes creíble. Que no cree que fue por despecho. Condenas.Por su parte la defensa, solicita la absolución por ambos delitos, toda vezque respecto del Desacato fue la propia víctima la que lo llamó a la casa y porende no hubo violencia en ese acercamiento, base de un desacato y en cuanto alas Lesiones en VIF, la fiscalía no pudo acreditar que el acusado hubiere tenidoparticipación en ellas, si es que existieron, es más, la propia víctima en audienciaseñaló que todo fue mentira  y que actuó movida por el despecho y el propiohijo, testigo presencial del encuentro, señala que no vio golpes y no se refiere alesión alguna en la cara de su madre. Que, si, fue a la casa de la víctima, pero ensu defensa por un problema con un pensionista. Que la testigo Carolina Molina3Muñoz, señala que en su informe sobre el análisis de la trazabilidad del monitoreodel acusado en el domicilio de los hechos, solo lo ubica en un tiempo no superior a08 minutos, que es un tiempo insuficiente para generar un desacato; que la propiavíctima señala, en forma clara, que niega que el acusado la haya golpeado. Quereconoce  que  el  acusado  tenía  una  prohibición  de  acercamiento  y  que  esteacercamiento debe ser  violento para generar  Desacato.  Absolución por  ambosdelitos.TERCERO: Que,  en  la  presente  causa,  NO  hubo  ConvencionesProbatorias.CUARTO: Que los presupuestos fácticos que resultaron acreditados en laaudiencia son los siguientes:1.-  Que  el  día  24  de  Octubre  de  2022,  en  horas  de  la  tarde,  siendoalrededor de las 14:00 horas, [LEANDRO], concurrió al domicilio de su cónyuge[CECILIA],  ubicado  en  DIRECCION001  de  Curicó,  con  quien  sostuvo  unadiscusión retirándose del lugar.2.-  Con su actuar el imputado no cumplió con lo ordenado en sentenciacondenatoria del Juzgado de Garantía de Curicó, de fecha 29 de Abril de 2022,causa RUC 2200274649-6, RIT 1416-2022, en la cual consta que fue condenadopor el delito de lesiones respecto de su cónyuge [CECILIA], decretándose junto ala pena corporal, la pena accesoria especial del artículo 9 de la ley 20.066, en suletra  b)  esto  es  la  prohibición  de  acercarse  a  ésta,  por  el  lapso  de  un  año,sentencia que se encuentra firme y vigente a la época de los hechos.QUINTO:  Prueba  aportada  por  los  intervinientes para  acreditar  loselementos componentes de las proposiciones fácticas esbozadas en el numeralanterior: a.- Prueba Testimonial y Pericial:1.- Declaración de [LEANDRO], acusado, quien refiere que reconoce que eldía 24 de octubre del año 2022, la víctima, su cónyuge, doña [CECILIA], lo llamópara resolver una discusión con uno de los pensionistas, que cuando llegó paró ladiscusión y le pidió al pensionista que devolviera la habitación; y que luego tuvouna discusión con la víctima y se fue; que llegó como a las 13:15 horas y que lapensión es un negocio familiar, que está a su nombre, pero que la víctima cobralos arriendos; que llevan 25 años casados y 02 separados, que tienen tres hijos yque  los  pensionistas  se  golpearon entre  ellos.  Que los  hechos sucedieron enDIRECCION001, Curicó; que sabe que tenía prohibición de acercarse a la víctima,que nunca la insultó ni la agredió, no sabe quién la lesionó y que conversó con la4víctima solo de la pensión.  Agrega que la discusión con [CECILIA], fue porquetomó la decisión de echar al pensionista, y que ese día andaba con tobillera.Que no hace uso de las últimas palabras.2.-  Declaración de Andrea Isabel  Sifri  Espoz, Abogada de Gendarmería,encargada del Monitoreo Telemático, quien refiere: que se le encargó determinarla Geoposición del acusado el 24 de octubre del año 2022, entre las 12:00 y las16:00. Que exhibido que le fue el otro medio de prueba fiscal n°2, lo reconocecomo  el  Anexo  de  cinco  páginas  que  contiene  la  georeferenciación  delacusado y que ella realizó, y que entrega información acerca de los lugares enque estuvo el acusado, ese día y horas en Curicó, con sus coordenadas: expresaque hay 02 trazas en que el acusado está en DIRECCION001, Curicó;  el 24 deoctubre del año 2022:  una a las 15:08 y la otra a las 15:00. Agrega que en elresto de las posiciones esta en otros lugares la mayor parte en Cesar Ponce.Sostiene  que  estas  georreferenciaciones  se  obtienen  vía  satelital.  Necesarioresulta, aquí, unir esta declaración con la de 3.- Carolina Andrea Molina Muñoz,quien refiere que realizó un análisis del Informe de Georeferenciación del acusadoel día de los hechos, 24 de octubre del año 2022, en la ubicación DIRECCION001,Curicó, informe que costa de cuatro páginas y que permite concluir que el acusadoestuvo en dos oportunidades en la dirección de DIRECCION001, Curicó, entrelas 15:00 y las 15:10 horas del día 24 de octubre del año 2022. Que exhibido quele fue el  otro medio de prueba fiscal  n°2,  lo reconoce como el Anexo decuatro páginas que contiene la georeferenciación del acusado y que entregainformación acerca de los lugares en que estuvo [LEANDRO], el día 24 de octubredel año 2022 y que permite establecer en la página n°1, que estuvo en el lugarde  los  hechos  a  las  15:08  y  pagina  n°2,  que  estuvo  en  DIRECCION001,Curicó,  a  las  15:00  horas.  Que  puede  concluir  que  durante  08  minutos,  elacusado, permaneció en DIRECCION001, Curicó.4.- Declaración de Demetrio Aqueveque Ramírez, carabinero, quien refiereque el día 24 de octubre del año 2022, a eso de las 17:00, llegó la victima quien lerelató que ese día el acusado llegó a DIRECCION001, a eso de las 14:00 horaspara un asunto familiar, pero terminaron discutiendo, que le pidió que se fuera,pero el acusado le quita el celular, lo tira al suelo, le da un golpe de puños, la tira ala cama alcanza a huir y da cuenta a carabineros. Se le veía la cara con unalesión, el  DAU habló de Lesiones Menos Graves. Se averiguó que el acusadotenía una prohibición de acercamiento a la víctima. Exhibido que le fue  el otromedio  de  prueba  n°1  de  la  fiscalía  una  foto  del  rostro  de  la  víctima, la5reconoce, y en la que se ve una lesión en la parte inferior del ojo y un aumento devolumen, señala. Exhibido que le fue la prueba documental n° 2 de la fiscalía, unOficio del Juzgado de Garantía de Curicó; dice que en el se decreta la prohibiciónde acercamiento del acusado a la víctima por un año.5.- Declaración de Carmen Gloria Riquelme Uribe, Carabinero, quien refiereque  acompañó  al  declarante  anterior  a  constatar  lesiones  a  la  víctima  y  queAqueveque, le refirió que la víctima llegó a la Comisaria y le contó que ese día, 24de octubre del  año 2022,  el  acusado llega a la  casa a ver  un problema peroterminaron discutiendo, que le pidió al acusado que se fuera, pero éste se ofuscó yle  dio  un  golpe  de puño.  Que  el  médico  dijo  que  tenía  lesión  en  el  ojo,  conaumento de volumen, ojo izquierdo. Exhibido que le fue la prueba documental n°1, Dato de Atención de Urgencia, lo reconoce como el documento que se hizocuando se fue a constatar  lesiones.  Que los hechos fueron como a las 14:00horas. 6.- Declaración de [ESTEBÁN], quien refiere que el acusado le contó quediscutió de palabra con [CECILIA], el 22 o 24 de octubre del año 2022; que lollamaron para un problema que tenía [CECILIA] con alguien de la pensión, fue enla  tarde.  Agrega  que  él  no  vio  nada  y  que  el  acusado  le  contó  que  fue  enDIRECCION001. Exhibido que le fue la prueba documental n° 1 de la defensa, loreconoce como un contrato de arriendo entre el  acusado y la víctima del localcomercial ubicado en DIRECCION001, Curicó.b.- Prueba Documental, Evidencia y Otros Medios de Prueba:1.-  Dato  de  atención  de  urgencia  (DAU),  SAPU  Curicó  Centro,correspondiente a la víctima, de fecha 24 de Octubre de 2022, junto al documentoanexo atenciones de enfermería. Que refiere que la víctima fue atendida el 24 deoctubre del año 2022, constata lesiones leves a moderada.2.-Oficio  del  Juzgado  de  Garantía  de  Curicó  dirigido  a  Carabineros,  encausa RUC 2200274649-6; RIT 1416-2022, de fecha 6 de mayo de 2022, dondese  informa  las  penas  accesorias  a  que  se  encuentra  sujeto  el  condenado[LEANDRO]. Se le impone la prohibición de acercamiento a la víctima por UNAÑO.3.- Extracto de filiación y antecedentes del acusado [LEANDRO], donde seencuentra registrada la causa RIT 1416-2022, RUC 2200274649-6, del Juzgadode Garantía de Curicó, de fecha 29 de Abril de 2022, de donde surge el delito dedesacato.64.-Acta  de  la  audiencia  de  procedimiento  simplificado  del  Juzgado  deGarantía de Curicó, de fecha 29 de Abril de 2022, en causa RUC 2200274649-6,RIT 1416-2022, en el cual consta la admisión de responsabilidad del imputado y lasentencia definitiva condenatoria dictada por el delito de lesiones en perjuicio de lamisma víctima y las medidas accesorias decretadas, junto a la certificación deestar firme el fallo. Se impone la prohibición de acercamiento por un año, a lavíctima.5.- Certificado de matrimonio entre el imputado y la víctima.6.-  Tres  certificados  de  los  hijos  en  común  que  mantienen  víctima  eimputado.Estos  dos  últimos  números  configuran  los  lasos  para  los  efectos  de  laViolencia Intrafamiliar.7.- Resolución del Juzgado de Garantía de Curicó, de fecha 01 de Junio de2023, en el  cual se ordena oficiar al  departamento de monitoreo telemático deGendarmería  de  Chile,  a  objeto  de  que  informen  el  recorrido,  transido  y/oubicación del imputado [LEANDRO], el día 24 de Octubre de 2022.8.-  Oficio  de  Gendarmería en  el  cual  se remite  informe de mapas geo-referenciales, el cual contiene la resolución del Tribunal que decretó la diligencia;la solicitud de la diligencia por parte de la Fiscalía y un anexo de cinco páginasque contienen las planillas de movimientos del sentenciado [LEANDRO].Respecto  de los  numerales  7  y  8,  nos remitimos a  lo  analizado en lasdeclaraciones testimoniales 2 y 3 de este mismo considerando. Suficiente.1.- Una fotografía de las lesiones de la víctima, obtenidas por Carabineros,la que podrá ser exhibida en juicio mediante el sistema data show.2.- Anexo de cinco páginas que contienen las planillas de movimientos delsentenciado [LEANDRO], relativo al informe emitido por Gendarmería.Respecto  de  estos  dos  últimos  numerales,  nos  remitimos  a  lastestimoniales 2, 3 y 4 en que se analizan.VALORACION PROBATORIA Y OTROS MATICES PENALESUno de los principales debates a la luz de la prueba rendida en la audiencia,es la retractación de la víctima y la credibilidad de su relato. Veamos: la víctimaseñala que niega todos los hechos que denuncio a carabineros y que si lo hizo,solo fue movida por el despecho que le provocaba el acusado, y más aún, que fuevarias  veces  a  señalar  esto  a  Fiscalía,  pero  que  allí  le  dijeron  que  la  causaseguiría adelante. 7Como  vemos,  el  motivo  que  movió  a  la  víctima,  [CECILIA],  adenunciar lo que no fue, fue el despecho, en consecuencia, el “arce” u origen de lacredibilidad  del  relato  de  la  afectada  está  en  el  despecho  y  su  entornoconsecuencial. Las máximas de la experiencia y la lógica, nos han enseñado queel despecho es un fuerte precursor, de reacciones instantáneas o poco meditadas,pues se basan en una creencia mental o en una configuración de la realidad, lamás de las  veces en plena dicotomía con la  realidad de los hechos,  realidadficción que lleva a los despechados a obrar en consecuencia; y con posterioridad,cuando  recobran,  el  ensamblaje  de  la  realidad  de  lo  sucedido,  por  sobre  loimaginado en virtud de ese despecho; tienden a corregir su error, y no afectar mása la persona dañada por  su obrar.  Claro,  que puede darse el  caso,  que si  eldespecho va unido a un odio, se mantengan sus consecuencias en la mente de lao del  despechado (a)  por  siempre, llegando a formar parte  de la realidad quequiere vivir y reconocer.Por lo anterior veamos que se dice del despecho para entender lo anterior:El  despecho,  en  psicología,  se  define  como  una  malquerencia  oresentimiento  que  surge  tras  una  decepción  amorosa  o  un  desengaño  en  laconsecución de un deseo o meta personal. Es una emoción compleja que puedemanifestarse como ira, tristeza, e incluso deseos de venganza, y puede afectarnegativamente la salud mental y las relaciones interpersonales. Características del despecho:Surge como respuesta a una pérdida, ya sea de una relación, de un sueñoo de una expectativa. Se caracteriza por sentimientos de ira, tristeza, frustración,decepción  y,  a  menudo,  deseos  de  venganza  o  de  que  la  otra  personaexperimente el mismo dolor. Puede llevar a comportamientos destructivos, comobuscar  venganza,  iniciar  relaciones  rápidamente  para  superar  la  pérdida,  oaislarse  socialmente.  Puede  afectar  la  autoestima,  generar  sentimientos  deinseguridad, y dificultar la superación de la ruptura. Puede generar desconfianza,dificultad para establecer vínculos saludables en el futuro, e incluso llevar a repetirpatrones negativos en nuevas relaciones.  En resumen, el despecho es una emoción natural tras una decepción, peroes importante reconocerla, gestionarla adecuadamente y trabajar en la sanaciónpara evitar que afecte negativamente las relaciones. Como se ve de todo lo dicho, puede concluirse, para el caso en estudio,que doña [CECILIA], actuó movida por el despecho cuando denuncio al acusado y8eso mismo nos lleva a concluir - al menos más allá de toda duda razonable - queel relato de la víctima en audiencia parece creíble. Baste ello.En lo pertinente doña [CECILIA], señala que el 24 de octubre del año 2022,ella llamó al acusado para conversar sobre su hijo y que terminaron discutiendo, yque nada de lo que dijo en Carabineros es verdad, que ella rompió el teléfono, queestaba muy dolida, con rabia.  Que la denuncia no es cierta y que luego de ladiscusión él se fue; pero que no la golpeó; que lo hizo para que se lo llevaranpreso, que tenía rabia y despecho. Que esto sucedió en DIRECCION001, Curicó.Que reconoce que a la doctora le señaló lo que ella dijo, que fue varias veces a lafiscalía a sacar la denuncia pero que le dijeron que seguirían adelante. Exhibidoque le fue el otro medio de prueba número 1 de la fiscalía, 01 Foto: la reconocediciendo que es ella pero que no ve lesiones, solo dijo que le dolía el cuerpo, queera alérgica, pero no tenía lesiones. Que sabía que [LEANDRO] tenía alejamientoy que los hechos no sucedieron como dice la acusación. Que observando estosmagistrados la foto antes señalada, no puede observarse una lesión con claridad,lo que necesariamente debe sopesarse a la luz de que la víctima habla de seralérgica. Por si lo anterior no fuere suficiente, relacionemos esta declaración con lade [SERGIO], hijo del acusado y de la víctima, quien es claro en señalar que el díade los hechos llegó a la casa en el momento de la discusión y no vio golpe algunodel acusado a su madre, más aún señala que el acusado se retiró de la casa; queel papá llegó a auxiliar a su madre con un arrendatario, no estuvo más de cincominutos y se fue. Que los vio discutir, pero no hubo golpes. Que su madre lo llamóy que esto fue en el domicilio de DIRECCION001, Curicó. Suficiente.Que el fiscal cree que la discusión derivó en golpes y que lo demás no escreíble.  Respecto de ello baste señalar que los Juicios Orales se basan en loacreditado y no en lo que se cree o se supone, la único que no requiere prueba esla inocencia del acusado mientras no sea desvirtuada por la prueba acusadora yen parte alguna de la presente audiencia se acreditó que la discusión hubierederivado en agresiones físicas, más aún hay prueba en contrario.Que, en cuanto a la no existencia de las lesiones, nos remitimos a todo lorazonado en estos apartados anteriores.Respecto a los dichos de la doctora que, si bien categoriza las lesiones demediana gravedad, no es menos cierto que ella se basa en el relato que le hace lavíctima, como ésta misma lo dice unos párrafos atrás, pero en manera algunapuede determinar, ni aun por su expertis, el origen de las mismas, más allá de las9palabras de la víctima, las cuales como vimos, carecían de veracidad aquel díasegún lo ya relatado y razonado en este mismo apartado de valoración y al quenos remitimos. Más aún digamos en cuanto al delito de lesiones menos graves encontexto de violencia intrafamiliar,  en perjuicio de [CECILIA],  que de la pruebaproducida en el juicio por el acusador y la defensa, no resultó, acreditado, más alláde toda duda razonable, el origen de las lesiones que se constataron en el dato deurgencia, de fecha 24 de octubre de 2002, SAPU Curicó Centro, menos aún que elacusado  tuviera  alguna  responsabilidad  sobre  aquellas.  En  relación  con  estoseñala doña Mariela de la Cruz Llavaneras Llavaneras, médico, que examinó ala víctima el día 24 de octubre del año 2022, y que ésta le relató que las lesionesque presentaba,  contusión malar  izquierda y  escoriaciones en el  tórax,  se  lasprodujo el acusado, que la doctora cataloga de mediana gravedad. Exhibido que lefue la prueba documental n°1 de la fiscalía Dato de Atención de Urgencia que ellaemitió y corresponde a doña [CECILIA], quien ingresó a las 18:22 del día 24 deoctubre del año 2022, catalogando las lesiones como de mediana gravedadDigamos que, respecto de la configuración del delito de Desacato, no serequiere ni tiempo ni violencia en el actuar, se configura, caso de autos, con elsolo acercamiento a la víctima, por el tiempo que sea, un segundo siquiera y aúnsin la violencia como base de esa aproximación. Suficiente.Tengamos presente la conducta típica del Desacato: El núcleo típico deldelito  de  desacato  está  constituido  por  el  verbo  “quebrantar”.  Un  primeracercamiento al sentido de esta expresión lo podemos encontrar en el Diccionariode la Real Academia de la Lengua Española, que la define como “traspasar, violaruna ley, palabra u obligación”. El verbo rector “quebrantar”, y particularmente elfuerte sentido de la palabra, da a entender que para la configuración del delito esnecesaria una conducta positiva del sujeto – por ejemplo ingresar donde le estáprohibido hacerlo -. Esto es el sujeto que estando obligado a no hacer algo envirtud de una resolución judicial, - ingresar a una casa - lo hace -. Suficiente.Valga, por último, en relación a la testimonial de la Fiscalía decir, que ellafue sometida al  contra examen de la defensoría,  el  cual  no logró desvirtuar laclaridad y tranquilidad, con que los testigos deponentes, expusieron sus dichos, enrelación a la teoría del caso del Ministerio Público, -  pero solo respecto de loshechos acreditados -  más aún, fueron coincidentes con los dichos del acusado,en lo que al DESACATO se refiere, como ya se vio, demostrando con ello, nosólo consistencia interna en sus propias declaraciones, individualmente cotejadas,sino que en su conjunto con el resto de la prueba.10Que, resta señalar -  para los efectos procesales correspondientes -  quetodas  las  declaraciones  dadas  por  quienes  revisten  la  calidad  procesal  de“intervinientes”, como la de los “testigos” que se presentaron, así como tambiénla lectura que se practicó de aquellos documentos incorporados en la audiencia,“quedaron consignadas íntegramente en el registro de audio.SEXTO: Que, apreciada libremente la prueba descrita en el razonamientoprecedente, la que por no contradecir los principios de la lógica, ni ser contraria alas máximas de experiencia,  ni  a los conocimientos científicamente afianzados,máxime que se trata de hechos que perfectamente pueden ser apreciados por lossentidos, sin requerir de algún conocimiento especial, lo dispuesto en el artículo297  del  Código  Procesal  Penal,  y  ateniéndonos,  a  la  prueba  rendida  en  laaudiencia, a los límites del conocimiento humano y a la capacidad acreditativa dela misma, ella es suficiente para formar la convicción de este Tribunal, más alláde toda duda razonable, y dar  por establecido que son efectivos los  hechos,descritos en el numeral cuatro de la presente, máxime que las declaraciones delos testigos – acusado incluido -, referidos en el apartado anterior, provienen depersonas que los presenciaron o tomaron conocimiento de los mismos, en formapróxima  a  su  ocurrencia,  que  impresionaron  a  los  jueces  como  capaces  depercibirlos y apreciarlos por sus sentidos; por eso ellos aparecen como veraces ycreíbles, razón por la cual este Tribunal acoge  la prueba rendida por el MinisterioPúblico, -  sin perjuicio de la absolución - como quiera que no fue desvirtuadapor prueba en contrario, por parte de la defensa; como quiera que la rendida por ladefensa, dos testigos y el acusado; toda ella apuntó más a la tesis de cargo que ala de descargo, - en lo que al delito de Desacato, se refiere - como ya se analizóen el considerando anterior al que nos remitimos y en cuanto a la declaración delacusado más que apuntar  a  la  tesis  de la  defensa apuntó a la  fiscal  –  en eldesacato - como ya se vio en el considerando quinto al que nos estaremos; y encuanto  a  la  documental:  1.-  CONTRATO  DE  ARRENDAMIENTO  ENTRE[LEANDRO] Y [CECILIA] DE FECHA 13.03.2020, sirve para dar por establecido ellugar donde se cometió, por el acusado, el Desacato. Suficiente.SEPTIMO:  Que los hechos establecidos en el considerando cuarto de lapresente,  son  constitutivos  del  delito  de  Desacato  en contexto  de  ViolenciaIntrafamiliar,  previsto  y  sancionado  en  el  artículo  240  del  Código  deProcedimiento  Civil  y  artículos  5  y  10  de  la  ley  20.066;  en  carácter  deCONSUMADO; toda  vez  que  resultó  acreditado  –  más  allá  de  toda  dudarazonable - que el imputado incumplió una resolución judicial de prohibición11de acercamiento y proximidad,  siendo su acción dolosa,  típica,  antijurídica yculpable.Digamos más, para obtener una sentencia condenatoria, el MinisterioPúblico debe aportar a juicio, material probatorio suficiente para vencer elestado de inocencia que favorece a toda persona imputada, y convencer altribunal,  más allá  de  toda duda razonable,  que se ha cometido el  hechopunible objeto de la acusación y que en él ha correspondido al acusado unaparticipación culpable y penada por la Ley.El estándar de prueba en el  ámbito penal  debe ser más alto dentro delsistema judicial,  pues  se  trata  de  poner  en  actividad  el  derecho  punitivo  queconstituye la “última ratio”.Se ha dicho por la doctrina que la convicción es la seguridad de que lacerteza  judicial  se  ha  obtenido  de  un  modo  racional  y  legítimo.  Supone  unacabado análisis jurídico de las alegaciones efectuadas por los intervinientes y dela totalidad de la prueba lícita rendida, realizando el Tribunal una crítica mediada através de rigurosos e imparciales exámenes lógicos y dialécticos.La falta de convicción puede deberse a insuficiencia de la prueba rendidapor el  órgano acusador o bien al  surgimiento de “dudas serias,  relevantes yconcretas”, relacionadas con hechos trascendentes y que tienen su base en losconocimientos científicamente afianzados, reglas de la lógica formal y máximas dela experiencia.La duda razonable como obstáculo de la convicción judicial debe tener unaentidad  tal  que  genere  en  el  tribunal  un  estado de  indeterminación  entre  dosdecisiones, situación de indefinición que ha sido introducida por un argumento odemostración y que no le permite salir de aquel estado airosamente, sino optandopor  la  decisión  que  parece  más  adecuada  con  su  íntimo  parecer,  esto  es  laabsolución.Que en  la  especie  el  Ministerio  Público  logró  acreditar  que  habíanacaecido unos hechos, los señalados en el apartado cuatro de la presentecon  participación  del  acusado;  no  acreditando  –  más  allá  de  toda  dudarazonable – el resto de la acusación.En cuanto  al  delito  de  lesiones  menos  graves  en contexto  de violenciaintrafamiliar, en perjuicio de [CECILIA], de la prueba producida en el juicio por elacusador y la defensa, no resultó, acreditado, más allá de toda duda razonable, elorigen de las lesiones que se constataron en el dato de urgencia, de fecha 24 deoctubre de 2002, SAPU Curicó Centro, menos aún que el acusado tuviera alguna12responsabilidad  sobre  aquellas,  correspondiendo  ABSOLVER  sobre  laacusación deducida contra el acusado [LEANDRO] como autor de lesionesmenos graves en contexto de VIF.OCTAVO:  Que el  Ministerio  Público para  establecer  la  participación  delacusado en el  ilícito  –  acreditado -  rindió  toda la  prueba ya analizada en elapartado quinto al que nos remitimos.Cabe  señalar,  que  los  testimonios  participativos  anteriores,  no  fueroncontrovertidos, con el contra examen de la defensoría, y mucho menos con pruebaen contrario, como ya se vio en el apartado sexto de la presente.NOVENO: Que los antecedentes de prueba antes referidos, apreciados conentera libertad, y que no contradicen los principios de la lógica, las máximas deexperiencia, ni los conocimientos científicamente afianzados y teniendo presente,además, lo dispuesto en  los artículos 340 y 297 del Código Procesal Penal, sonsuficientes para formar la convicción de éste Tribunal, más allá de toda dudarazonable,  y  tener  por  demostrado, que  al  ACUSADO,  le  ha  cabido  unaparticipación de AUTOR, en el  ILICITO ESTABLECIDO, en el apartado cuarto,por haber intervenido en el mismo, de una manera inmediata y directa, deacuerdo a los artículos 14 y 15 del Código Penal.DECIMO:  Que en  consecuencia,  de  todo lo  analizado en  los  apartadosanteriores, a la luz de las reglas de la libertad probatoria y de la libre valoración dela misma, es dable concluir, y aceptar, como teoría del caso, la expuesta por elMinisterio Público, -  pero solo en cuanto al ilícito dado por acreditado - y yadescrita en el considerando número dos de la presente, pues, como ya se analizó,la prueba producida por la Fiscalía, sometida al tés de credibilidad de la Audiencia,arrojó como resultado, creíble y aceptable, y no desvirtuado por  la defensa, loshechos señalados, acreditados y calificados en los apartados cuarto al séptimo.UNDECIMO: OTRAS CONSIDERACIONES:En cuanto a los alegatos de la Fiscalía y de la Defensoría, nos remitimos alo ya razonado en el considerando segundo de la presente. Baste ello.Respecto a las medidas cautelares y accesorias; en relación a la presentecausa, cabe señalar lo siguiente: Las medidas cautelares rigen en términos absolutos y que si se incumplen,por el artículo 10 de la ley 20.066, se da lugar al desacato del artículo 240 delCódigo Procesal Civil. Baste señalar respecto de la aplicación de las cautelares ysu incumplimiento, efectivamente dan lugar a un desacato.13La ley no señala, que debe tratarse de sentencias ejecutoriadas,  paraque opere una cautelar y con mayor razón una accesoria a la sentencia, - casode autos - sino que debe cumplirse la resolución cautelar una vez decretada por eltribunal.  Baste  señalar  que  efectivamente  para  que  opere  el  desacato  no  esnecesario estar en presencia de una sentencia ejecutoriada, por el contrario, paraello  basta  que  se  quebrante  lo  que se  ha ordenado cumplir,  sin  distinguir,  elartículo  240  del  Código  de  Procedimiento  Civil,  que  tipo  de  resolución  debeincumplirse;  basta  con  que  se  incumpla.  Además,  es  del  caso  señalar,  quejustamente las medidas cautelares, se dan durante el transcurso del devenir de unprocedimiento  o  juicio,  y  las  accesorias  al  dictarse  sentencia,  en  el  casopresente, para proteger a la víctima.No dependen las accesorias de la voluntad de la víctima, son resolucionesde un tribunal. Suficiente.DUODECIMO:  CIRCUNSTANCIAS:  Que  NO  favorece  al  acusado;  laatenuante  de  su  irreprochable  conducta  anterior,  porque  de  su  Extracto  deFiliación  y  Antecedentes,  incorporado por  la  fiscalía,  como prueba documentalpara los efectos del artículo 343 del Código Procesal Penal; queda claro que supasado  no  ha  estado  exento  de  reproches  penales  y  que  tiene  condenasanteriores al presente que no se encuentran prescritas para los efectos de la ley18.216.Que si se le concederá la atenuante de haber colaborado sustancialmenteal esclarecimiento de los hechos,  - en lo que al DESACATO se refiere  - artículo11  n°9  del  Código  Penal  -  toda  vez  que  de  su  declaración  en  juicio,  en  laaudiencia, fue claro en reconocer que los hechos de la acusación son efectivos,respecto del Desacato, coincidiendo con la testimonial fiscal; razón por la cual seaplicará la pena en su mínimo – ya se compensara con la agravante - ; máximeque se ubica temporo espacialmente en el lugar y hora de los hechos, siendo losmismos, los únicos acreditados para efectos de condena. Baste ello.Se invoca por el ente persecutor las agravantes de la reincidencia del n°14del artículo 12 del Código Penal y la genérica del n°15 del mismo artículo.Pero  es  menester  tener  presente  que,  unas  mismas  condenas  noprescritas, no pueden ser tomadas en consideración para formar a la vez ambasreincidencias,  por  el  principio  del  non  bis  inidem,  es  necesario  que  las  doscondenas o más que le afecten, y que no estén prescritas, se refieran a otrassentencias, distintas a las que configuren alguna de ellas. Así las cosas, se darálugar solo a la agravante del art. 12 n° 15.14En cuanto a la agravante de la reincidencia genérica del artículo 12 número15 del Código Penal, para que ella opere, es menester que se den tres requisitos,a saber: 1.- Que el acusado haya sido sancionado, anteriormente, por dos o másdelitos;  2.-  Que los referidos delitos tengan asignada por ley una pena igual osuperior al del presente ilícito, - es decir de presidio menor en su grado mediohacía arriba - y 3.- Que no estén prescritos. Así las cosas y a la luz de la pruebaaportada por el ministerio público cabe acoger la agravante alegada por este. Enefecto, del Extracto de Filiación y Antecedentes del acusado, ya referido, se extraeque el mismo fue sancionado en una causa anterior por dos delitos que merecenigual o mayor pena que la presente: - Causa 6041 – 2020. Juzgado de Garantíade Talca, por los delitos de Tráfico Ilícito de Drogas y  el delito de ReceptaciónVehicular;  ambos  ilícitos  tienen  una  sanción  igual  o  mayor  que  el  presenteReceptación Vehicular  y  Trafico,  respectivamente;  por  una parte  y  por  otra deacuerdo al artículo 104 del Código Penal, no se encuentran prescritos, pues lasfechas de comisión de los hechos, fueron, 01 de julio del año 2020, ambos, fechasque no exceden de 10 años para el crimen o de 5 para el simple delito en relacióna la fecha del delito de la causa que nos aboca que es 24 de octubre del año2022, ya que la del simple delito prescribió en julio del 2025, es decir no estabaprescrita a la fecha de los presentes, con mayor razón la del delito de crimen,considerando las penas en abstracto y  no en concreto,  por  lo  que procede laagravante en comento. Resultando innecesario, a la luz de lo razonado tomar encuenta la sentencia RIT 1416–2022, Procedimiento Abreviado acompañada por lafiscalía en la audiencia del art.343 del CPP; que a mayor abundamiento no serefiere a un Desacato.DECIMOTERCERO: Aspectos de aplicación de la pena:a.-  Que  en  la  especie  concurre  una  circunstancia  atenuante  y  unaagravante  las  que  se  compensaran  racionalmente  pudiendo  recorrer  toda  laextensión al aplicarla.b.-  Que,  NO  reuniendo  el  acusado  ninguno  de  los  requisitos  de  la  ley18.216  y  su  modificatoria,  el  CUMPLIMIENTO  SERÁ  EFECTIVO;  debiendopresentarse  al  Centro  Penitenciario  de  Curicó,  dentro  de  décimo  día  deejecutoriada la presente, bajo apercibimiento de despacharse orden de arresto ensu contra.En  efecto  a  la  fecha  tiene  condenas  no  prescritas,  por  la  fecha  decumplimiento de las mismas en la causa Rit 6041–2020, del Juzgado de Garantíade Talca que figuran cumplidas las penas el 23 de agosto del año 2023, y ambas15condenas  superan  los  dos  años  para  los  efectos  de  la  Reclusión.  Siendoinnecesario pronunciarse sobre el resto del Extracto, ya que con este solo Rit sehace imposible su aplicación,  por  lo demás la  pena será superior  a  300 días.Suficiente.Que  con  fecha  18  de  julio  de  los  corrientes  se  decretó  su  ArrestoDomiciliario  Total,  con fecha 23 de julio  de los corrientes se mutó por  arrestodomiciliario nocturno de 08 horas diarias; con lo que cuenta un abono de 09 días ala  fecha  de  la  lectura,  más  los  que  medien  de  ahí  para  adelante  hasta  laejecutoria.c.-  Que, se eximirá al  acusado del pago de las costas de la causa, porhaber cumplimiento efectivo.d.-  Que se  aplicarán  las  accesorias  de  Prohibición de acercarse  a  lavíctima doña [CECILIA], o a su domicilio, lugar de trabajo o estudio, así como acualquier otro lugar al que ésta concurra o visite habitualmente letra b artículo 9ley  20.066;  y  letra  c)  Prohibición de porte  y  tenencia  de  armas de  fuego,ambas por el término de dos añose.- Que llamadas las partes a debatir al tenor de la audiencia del artículo343 del Código Procesal Penal expusieron: la fiscalía que acompaña el Extractode  Filiación  y  Antecedentes  del  acusado,  con  anotaciones  anteriores  y  laspenalidades señaladas en la acusación más la agravante del n°14 y n°15 del art12 del CP., sin colaboración sustancial, cumplimiento efectivo; y la defensa alegala atenuante del artículo 11 n°9 del Código Penal toda vez que su defendido seubicó temporo espacialmente en el lugar de los hechos dando razón de sus dichosy evitando mayor prueba al respecto, la pena de 541 días de Reclusión Menor ensu grado Medio y no la  agravante de la  reincidencia genérica por  la  pena enconcreto, sin costas.DECIMO CUARTO: Ejecutoriada que la presente sea, ofíciese al JuzgadoDe Garantía de Curicó, remitiéndosele, copia integra y autorizada de la sentenciay su certificado de ejecutoria, a objeto de cumplimiento a lo resuelto en ella.Por estas consideraciones y, teniendo presente, además, lo dispuesto enlos artículos 1, 11 n°9, 12 n°15, 14, 15, 21, 24, 30, 50, 67, 68, 69, 70, 399 y 494n°5 del Código Penal; artículo 240 del Código de Procedimiento Civil; Ley 20.066;artículos 53, 54, 281 y siguientes, 295, 296, 297, 298 y siguientes, 323, 325 ysiguientes, 339, 340, 341, 342, 343, 344, 346 y 468, del Código Procesal Penal; yley 18.216; SE RESUELVE:16I.-  Que se  CONDENA,  a  [LEANDRO]; ya  individualizado,  a  la  pena deQUINIENTOS CUARENTA Y UN DIAS DE RECLUSION MENOR EN SU GRADOMEDIO,  más  las  accesorias  legales  de  suspensión  de  cargo  u  oficio  públicodurante  el  tiempo  de  la  condena;  como  AUTOR CONSUMADO  del  delito  deDESACATO, EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR, cometido el 24de Octubre de 2022, en Curicó; y se le ABSUELVE, de la acusación que lo tuvocomo  AUTOR del delito de  LESIONES MENOS GRAVES EN CONTEXTO DEVIOLENCIA  INTRAFAMILIAR,  en  perjuicio  de  [CECILIA]  y  que  se  habríacometido, el 24 de Octubre de 2022, en Curicó.II.- Que el  CUMPLIMIENTO SERÁ EFECTIVO, en los términos señaladosen la letra b del apartado décimo tercero de la presente.Que cuenta con un abono de 09 días a la fecha de la lectura, más losque medien de ahí para adelante hasta la ejecutoriaIII.- Que se EXIME del pago de las costas de la causa al acusado.IV.- Que se condena, además al acusado, a las PENAS ACCESORIAS de:1.-  Prohibición  de porte  y  tenencia  de  armas de fuego  por  el  plazo de DOSAÑOS; debiendo OFICIARSE,  a  la  Entidad  Fiscalizadora  respectiva  y  2.-Prohibición de acercarse a la víctima doña [CECILIA], o a su domicilio, lugar detrabajo o estudio, así como a cualquier otro lugar al que ésta concurra o visitehabitualmente, por DOS AÑOS.V.- Una vez ejecutoriado este fallo, dese cumplimiento al artículo 468 delCódigo Procesal Penal, oficiándose a la Contraloría General de la República, alServicio de Registro Civil y Gendarmería de Chile.VI.-  Cúmplase,  en  su  oportunidad,  con  lo  ordenado  en  el  acápitedecimocuarto.Se deja constancia que esta sentencia se considera publica con anonimizacióne interés jurisprudencial de acuerdo con lo previsto en el artículo 21 N°2 de laley 20.285 y Acta 164-2024 de la Excma. Corte Suprema. Contiene materias deViolencia Intrafamiliar. Redactada por el Juez Sr. Roberto García Gil.RIT   117–2024.RUC  2201059801-3.DICTADA POR LOS JUECES DEL TRIBUNAL DEL JUICIO ORAL EN LO PENALDE  LA  CIUDAD  DE  CURICO,  PRIMERA  SALA;  integrada  por  PAULINARODRIGUEZ  RODRIGUEZ,  presidenta,  ROBERTO  GARCÍA  GIL  a  quién  sedesigna como redactor del fallo y MARIEL MOLINA GUERRERO, integrante.     1718
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------
-Jfah.-C.A. de ValparaísoValparaíso, cuatro de febrero de dos mil veintiséis.Vistos:A folio 1, Pablo Daniel Peñaloza Parra y Joaquín Andrés Contreras Roa, abogados, deducen acción de amparo en favor de Keiber Alberto Hernández Méndez, de nacionalidad venezolana, y en contra del Servicio Nacional de Migraciones por el acto que consideran ilegal consistente en la Resolución Exenta N°2600100016480, de 9 de enero de 2026, que rechazó su solicitud de residencia temporal y ordena su abandono del país, lo que estima vulnera su derecho a la libertad personal, consagrado en el artículo 19 N°7 de la Constitución Política de la República.En cuanto a los hechos explica que el amparado ingresó al país como turista y solicitó un permiso de residencia temporal para continuar su proyecto de vida en el país. Indica que la autoridad migratoria fundó el rechazo en la existencia de antecedentes negativos en Chile, por el delito de tráfico de pequeñas cantidades en la causa RIT 9644-2020 del 8° Juzgado de Garantía de Santiago. Alega que dicha decisión es arbitraria e ilegal, toda vez que el actor dio cumplimiento íntegro a la condena impuesta, por la cual se le otorgó pena sustitutiva, obteniendo el sobreseimiento definitivo, por lo que ya saldó su deuda con la sociedad. Sostiene que el amparado cuenta con un contrato laboral vigente desde hace cuatro años y mantiene una relación de convivencia con una ciudadana chilena, configurando un arraigo familiar y social que no fue ponderado. Finaliza solicitando que se acoja el recurso, se deje sin efecto la resolución recurrida y se ordene al Servicio Nacional de Migraciones realizar una nueva revisión de los antecedentes para decidir conforme a derecho la solicitud de residencia temporal.A folio 8, evacúa informe el Servicio Nacional de Migraciones, solicitando el rechazo de la acción.Señala que el amparado el 14 de junio de 2023 solicitó residencia temporal dentro de Chile. Que, el 26 de marzo de 2025, se le comunicó que se entraba en causa del rechazo por registra antecedentes negativos en Chile, específicamente una condena por tráfico de pequeñas cantidades y otra por ocultamiento de placa patente, otorgándole un plazo de 10 días para evacuar descargos, plazo en que el extranjero no logró desvirtuar los motivos que sustentaban la causal invocada.En razón de lo anterior, dictó la resolución impugnada, que se ajusta estrictamente a la legalidad vigente, fundándose en los artículos 88 inciso final y 33 N°2 de la Ley 21.325. Arguye que la orden de abandono es una consecuencia imperativa y necesaria ante el rechazo de un permiso de residencia, según el artículo 91 de la citada ley. Alega que la medida de abandono es voluntaria y se diferencia de la expulsión compulsiva, por lo que no existe una amenaza real a la libertad personal que deba ser cautelada por esta vía. A folio 9, se ordenó traer los autos en relación.Con lo relacionado y considerando:Primero: Que, la acción de amparo es un proceso de tutela urgente del derecho fundamental a la libertad personal y seguridad individual, garantía consagrada en el artículo 19 N°7 de la Constitución Política de la República, procedente en aquellos casos en que una persona fuere arrestada, detenida o presa con infracción a la Constitución o a las leyes o sufra cualquier otra privación, perturbación o amenaza al derecho fundamental antes aludido, fuera de los casos en que el ordenamiento jurídico lo permite.Segundo: Que, a través de esta vía cautelar se impugna la Resolución Exenta N°2600100016480, de 9 de enero de 2026, que rechazó la solicitud de residencia temporal del amparado y ordenó su abandono del país, fundado en el hecho de registrar antecedentes negativos en Chile por el delito de tráfico en pequeñas cantidades, solicitando que se deje sin efecto dicho acto y se ordene una nueva revisión de su situación migratoria.Tercero: Que, el recurrido informa, en síntesis, que la resolución se ajusta a derecho y a las facultades privativas del Servicio, fundándose en la existencia de una causa penal en contra del amparado, lo que constituye causal legal de rechazo y abandono según la Ley N° 21.325, descartando ilegalidad al haber actuado conforme a la normativa vigente.Cuarto: Que, para resolver el presente arbitrio se debe tener en consideración que el artículo 88 N° 2 de la Ley 21.325 dispone que el Servicio Nacional de Migraciones deberá rechazar las solicitudes de residencia respecto de quienes se encuentren en algunas de las prohibiciones contemplada en el artículo 32 de la misma ley.Que, por su parte, el numeral 6 del artículo 32 de la Ley N°21.325 establece que “Prohibiciones imperativas. Se prohíbe el ingreso al país a los extranjeros que: 6. Hayan sido condenados en Chile por crimen o simple delito, cuya pena no esté prescrita, o no haya sido efectivamente cumplida, con excepción de aquellos casos en que deban reingresar al país para efectos de dar cumplimiento a la condena.”.Quinto: Que, del mérito de los antecedentes que obran en autos, no es posible soslayar que según consta en la comunicación previa a rechazo de 26 de marzo de 2025, el amparado fue condenado por el delito de ocultamiento de placa patente, a la pena de 41 días de prisión por sentencia de 30 de marzo de 2022, en causa Rit 22030-2020, seguida ante el 7° Juzgado de Garantía de Santiago.Sexto:  Que, en tales circunstancia, no se advierte la existencia de algún acto ilegal por parte de la autoridad recurrida, toda vez, que la resolución impugnada se sustenta en una causal legal, ha sido dictada dentro del ámbito de sus atribuciones y de conformidad a la normativa legal vigente.Por estas consideraciones, y visto además lo dispuesto en el artículo 21 de la Constitución Política de la República y Auto Acordado de la Excelentísima Corte Suprema sobre la materia, se rechaza, sin costas, el recurso de amparo deducido a favor de Keiber Alberto Hernández Méndez en contra del Servicio Nacional de Migraciones.Decisión acordada con el voto en contra de la Ministra (S) Sra. Leonor Cohen Briones, quien fue del parecer de acoger el presente arbitrio, teniendo en consideración lo siguiente: 1°) Que, del análisis de los antecedentes que obran en autos, consta que la causa RIT N° 9644-2020, seguida ante el 8° Juzgado de Garantía de Santiago, terminó por suspensión condicional del procedimiento el 25 de mayo de 2021 y que se encuentra acreditado que el amparado fue sobreseído definitivamente en la misma, según consta en resolución de 27 de mayo de 2022, de manera tal que no existe condena alguna a su respecto, no pudiendo ser considerado este antecedentes dentro de la causal de rechazo antes citada.  En cuanto a la condena a 41 días de prisión por ocultamiento de placa patente, se trata de una pena de falta, que se encuentra cumplida según lo acreditado en documentos acompañado a folio 1, y que ni siquiera es mencionada en la resolución impugnada, lo que demuestra que tampoco fue considerada por el Servicio recurrido como parte de la causal en que fundamenta el rechazo de la residencia;2°) Que, asimismo, se debe tener especialmente presente el arraigo laboral del amparado, el que se encuentra suficientemente acreditado con el contrato de trabajo y certificado de cotizaciones previsionales acompañados al recurso. A ello se suma que el amparado se encuentra en Chile, a lo menos, desde el año 2019, circunstancia que los refuerza;3°) Que, en las condiciones descritas, la decisión de la autoridad administrativa devino en ilegal y desproporcionada, afectando la libertad personal del amparado. Regístrese, comuníquese por la vía más expedita y, en su oportunidad, archívese.N°Amparo-280-2026.                        ⚠                      Sin documento en esta instancia - pdf
+RESUMEN
+Acusado [LEANDRO],
+Delito Desacato y Lesiones Menos Graves VIF
+
+(autor/ consumados)
+Decisión Condena y Absolución.
+
+RIT 117 - 2024
+RUC 2201059801-3
+
+Curicó a veintiocho del mes de julio del año dos mil veinticinco.
+
+VISTOS, OIDO, TENIENDO PRESENTE Y CONSIDERANDO:
+PRIMERO: Que con fecha dieciocho de julio de los corrientes, ante la
+
+PRIMERA SALA DEL TRIBUNAL DE JUICIO ORAL EN LO PENAL DE LA
+CIUDAD DE CURICO; se llevó a efecto la Audiencia del Juicio Oral relativa a los
+autos RIT N° 117-2024 seguidos en contra de [LEANDRO], cédula de identidad
+N° NUM000, nacido el NUM001 de 1981, en Curicó, comerciante, domiciliado en
+
+DIRECCION000, 43 años de edad, casado, Segundo Medio rendido; representado
+
+en esta audiencia por su defensora doña Patricia Campos Vergara.
+
+Fue parte acusadora en el presente juicio el Ministerio Público, el que fue
+
+representado en la Audiencia por don Jaime Rojas Diaz; fiscal de Curicó, todos
+
+con domicilio y correo registrados en el tribunal.
+
+SEGUNDO : Que los hechos materia de la acusación, según el Auto de
+Apertura del Juicio Oral, del Juzgado de Garantía de Curicó, fueron los siguientes:
+
+“El día 24 de Octubre de 2022, en horas de la tarde, siendo alrededor de las
+
+14:00 horas, el imputado [LEANDRO], concurrió al domicilio de su cónyuge y
+
+víctima doña [CECILIA], con quien tiene tres hijos en común, estando separados
+
+de hecho, domicilio ubicado en DIRECCION001 de Curicó, lugar en el cual el
+
+imputado comienza a menoscabar a la víctima con insultos y descalificaciones, a
+
+lo cual la afectada le pide que se retire y es ahí que el imputado se enoja y rompe
+
+el teléfono de la afectada para luego el imputado agredir a la víctima con un golpe
+
+de puño en el rostro, agrediéndola verbalmente con insultos diciéndole “eres una
+
+puta barata, hedionda, asquerosa y callejera”, abalanzándose el imputado sobre la
+
+víctima a la cual agrede con golpes en distintas partes del cuerpo, situación en la
+
+cual la víctima comienza a gritar y pedir ayuda, ante lo cual el imputado se da a la
+
+fuga. A raíz de esta agresión la afectada resultó con las siguientes lesiones:
+
+presenta contusión en región malar por golpe propinado por pareja, con mano
+
+cerrada a este nivel, asimismo laceraciones en tórax supero anterior, sangrado
+
+cohibido y en ambos antebrazos, lesiones de mediana gravedad según datos de
+
+atención de urgencia del SAPU Curicó Centro. Con su actuar el imputado no
+
+1
+
+cumplió con lo ordenado en sentencia condenatoria del Juzgado de Garantía de
+
+Curicó, de fecha 29 de Abril de 2022, causa RUC 2200274649-6, RIT 1416-2022,
+
+en la cual consta que fue condenado por el delito de lesiones respecto de la
+
+misma víctima, decretándose junto a la pena corporal, la pena accesoria especial
+
+del artículo 9 de la ley 20.066, en su letra b) esto es la prohibición de acercarse a
+
+la misma víctima por el lapso de un año, sentencia que se encuentra firme y
+
+vigente a la época de los hechos.
+
+CALIFICACIÓN JURÍDICA:
+
+A juicio de esta Fiscalía, los hechos antes descritos son constitutivos de los
+
+siguientes delitos consumados:
+
+El delito de lesiones clínicamente menos graves en contexto de violencia
+
+intrafamiliar, en perjuicio de la víctima [CECILIA], ilícito previsto y sancionado en el
+
+artículo 399, 400 y demás pertinentes del Código Penal, en relación con los
+
+artículos 5 y demás pertinentes de la ley 20.066 sobre violencia intrafamiliar.
+
+El delito consumado de desacato en contexto de violencia intrafamiliar,
+
+ilícito previsto y sancionado en el artículo 240 del Código de Procedimiento Civil,
+
+en relación con los artículos 5, 10, 15, 18 y artículo 5 y demás pertinentes de la ley
+
+20.066 sobre violencia intrafamiliar.
+
+PARTICIPACIÓN:
+
+Al acusado le cabe responsabilidad a título de AUTOR en el delito de
+
+conformidad a lo previsto en el artículo 15 Nº1 del Código Penal.
+
+CIRCUNSTANCIAS MODIFICATORIAS DE RESPONSABILIDAD PENAL:
+
+- Atenuantes: no concurren.
+
+- Agravantes: Concurre la agravante del artículo 12 N° 16 del Código Penal,
+
+esto es “Haber sido condenado el culpable anteriormente por delito de la misma
+
+especie”, la cual dice relación al delito de lesiones y respecto del delito de
+
+desacato concurre la agravante del artículo 12 N° 15 del Código Penal, esto es
+
+“haber sido condenado el culpable anteriormente por delitos a que la ley señale
+
+igual o mayor pena”.
+
+PENA SOLICITADA:
+
+De conformidad a lo dispuesto en los artículos 1, 15 Nº1, 12 N°15, 12 N°16,
+
+21, 29, 30, 68, 69, 75, 399, 400 y demás pertinentes del Código Penal; artículos
+
+240 y demás pertinentes del Código de Procedimiento Civil; artículos 5, 10, 15, 18
+
+y demás pertinentes de la ley 20.066 sobre violencia intrafamiliar; el Ministerio
+
+Público solicita que el acusado [LEANDRO], sea condenado a las siguientes
+
+penas:
+
+2
+
+Por el delito de lesiones clínicamente menos graves en contexto de
+
+violencia intrafamiliar, en perjuicio de [CECILIA], a la pena de TRES AÑOS DE
+
+PRESIDIO MENOR EN SU GRADO MEDIO, accesorias del artículo 9 de la ley
+
+20.066 sobre violencia intrafamiliar en sus letras: b) Prohibición de acercarse a la
+
+víctima [CECILIA], o a su domicilio, lugar de trabajo o estudio, así como a
+
+cualquier otro lugar al que ésta concurra o visite habitualmente; letra c) Prohibición
+
+de porte y tenencia de armas de fuego, ambas por el término de dos años, demás
+
+accesorias legales, con costas.
+
+Por el delito de desacato en contexto de violencia intrafamiliar, a la pena de
+
+CUATRO AÑOS DE RECLUSION MENOR EN SU GRADO MAXIMO, accesorias
+
+del artículo 9 de la ley 20.066 sobre violencia intrafamiliar en sus letras: b)
+
+Prohibición de acercarse a la víctima doña [CECILIA], o a su domicilio, lugar de
+
+trabajo o estudio, así como a cualquier otro lugar al que ésta concurra o visite
+
+habitualmente; letra c) Prohibición de porte y tenencia de armas de fuego, ambas
+
+por el término de dos años, demás accesorias legales, con costas.
+
+La misma tesis sostuvo en sus alegatos, agregando que con la prueba que
+
+se rendirá se acreditaran los hechos de la acusación y la participación en ellos del
+
+acusado; declarará la víctima, y la doctora y unos policías, además, de la
+
+documental; que los hechos fueron el 24 de octubre del año 2022 y que la víctima
+
+denunció, después de huir del acusado, a Carabineros; que el propio acusado
+
+reconoce su ubicación temporo espacial para el desacato, y también la propia
+
+víctima lo sitúa en el domicilio en cuestión. Que en cuanto a las Lesiones en VIF,
+
+estima que tanto el acusado como la víctima están diciendo algo distinto a la
+
+verdad, que cree que los hechos sucedieron y que por alguna razón la víctima se
+retractó en juicio; que la doctora constató las lesiones, que cree que la discusión,
+
+que la hubo y la reconocen la víctima y el acusado, derivó, en golpes, lo demás no
+
+es creíble. Que no cree que fue por despecho. Condenas.
+
+Por su parte la defensa, solicita la absolución por ambos delitos, toda vez
+
+que respecto del Desacato fue la propia víctima la que lo llamó a la casa y por
+
+ende no hubo violencia en ese acercamiento, base de un desacato y en cuanto a
+
+las Lesiones en VIF, la fiscalía no pudo acreditar que el acusado hubiere tenido
+
+participación en ellas, si es que existieron, es más, la propia víctima en audiencia
+
+señaló que todo fue mentira y que actuó movida por el despecho y el propio
+hijo, testigo presencial del encuentro, señala que no vio golpes y no se refiere a
+
+lesión alguna en la cara de su madre. Que, si, fue a la casa de la víctima, pero en
+
+su defensa por un problema con un pensionista. Que la testigo Carolina Molina
+
+3
+
+Muñoz, señala que en su informe sobre el análisis de la trazabilidad del monitoreo
+
+del acusado en el domicilio de los hechos, solo lo ubica en un tiempo no superior a
+
+08 minutos, que es un tiempo insuficiente para generar un desacato; que la propia
+
+víctima señala, en forma clara, que niega que el acusado la haya golpeado. Que
+
+reconoce que el acusado tenía una prohibición de acercamiento y que este
+
+acercamiento debe ser violento para generar Desacato. Absolución por ambos
+
+delitos.
+
+TERCERO: Que, en la presente causa, NO hubo Convenciones
+Probatorias.
+
+CUARTO: Que los presupuestos fácticos que resultaron acreditados en la
+audiencia son los siguientes:
+
+1.- Que el día 24 de Octubre de 2022, en horas de la tarde, siendo
+
+alrededor de las 14:00 horas, [LEANDRO], concurrió al domicilio de su cónyuge
+
+[CECILIA], ubicado en DIRECCION001 de Curicó, con quien sostuvo una
+
+discusión retirándose del lugar.
+
+2.- Con su actuar el imputado no cumplió con lo ordenado en sentencia
+
+condenatoria del Juzgado de Garantía de Curicó, de fecha 29 de Abril de 2022,
+
+causa RUC 2200274649-6, RIT 1416-2022, en la cual consta que fue condenado
+
+por el delito de lesiones respecto de su cónyuge [CECILIA], decretándose junto a
+
+la pena corporal, la pena accesoria especial del artículo 9 de la ley 20.066, en su
+
+letra b) esto es la prohibición de acercarse a ésta, por el lapso de un año,
+
+sentencia que se encuentra firme y vigente a la época de los hechos.
+
+QUINTO: Prueba aportada por los intervinientes para acreditar los
+elementos componentes de las proposiciones fácticas esbozadas en el numeral
+
+anterior:
+
+a.- Prueba Testimonial y Pericial:
+
+1.- Declaración de [LEANDRO], acusado, quien refiere que reconoce que el
+
+día 24 de octubre del año 2022, la víctima, su cónyuge, doña [CECILIA], lo llamó
+
+para resolver una discusión con uno de los pensionistas, que cuando llegó paró la
+
+discusión y le pidió al pensionista que devolviera la habitación; y que luego tuvo
+
+una discusión con la víctima y se fue; que llegó como a las 13:15 horas y que la
+
+pensión es un negocio familiar, que está a su nombre, pero que la víctima cobra
+
+los arriendos; que llevan 25 años casados y 02 separados, que tienen tres hijos y
+
+que los pensionistas se golpearon entre ellos. Que los hechos sucedieron en
+
+DIRECCION001, Curicó; que sabe que tenía prohibición de acercarse a la víctima,
+
+que nunca la insultó ni la agredió, no sabe quién la lesionó y que conversó con la
+
+4
+
+víctima solo de la pensión. Agrega que la discusión con [CECILIA], fue porque
+
+tomó la decisión de echar al pensionista, y que ese día andaba con tobillera.
+
+Que no hace uso de las últimas palabras.
+
+2.- Declaración de Andrea Isabel Sifri Espoz, Abogada de Gendarmería,
+
+encargada del Monitoreo Telemático, quien refiere: que se le encargó determinar
+
+la Geoposición del acusado el 24 de octubre del año 2022, entre las 12:00 y las
+
+16:00. Que exhibido que le fue el otro medio de prueba fiscal n°2, lo reconoce
+como el Anexo de cinco páginas que contiene la georeferenciación del
+acusado y que ella realizó, y que entrega información acerca de los lugares en
+que estuvo el acusado, ese día y horas en Curicó, con sus coordenadas: expresa
+
+que hay 02 trazas en que el acusado está en DIRECCION001, Curicó; el 24 de
+octubre del año 2022: una a las 15:08 y la otra a las 15:00. Agrega que en el
+resto de las posiciones esta en otros lugares la mayor parte en Cesar Ponce.
+
+Sostiene que estas georreferenciaciones se obtienen vía satelital. Necesario
+
+resulta, aquí, unir esta declaración con la de 3.- Carolina Andrea Molina Muñoz,
+quien refiere que realizó un análisis del Informe de Georeferenciación del acusado
+
+el día de los hechos, 24 de octubre del año 2022, en la ubicación DIRECCION001,
+
+Curicó, informe que costa de cuatro páginas y que permite concluir que el acusado
+
+estuvo en dos oportunidades en la dirección de DIRECCION001, Curicó, entre
+las 15:00 y las 15:10 horas del día 24 de octubre del año 2022. Que exhibido que
+
+le fue el otro medio de prueba fiscal n°2, lo reconoce como el Anexo de
+cuatro páginas que contiene la georeferenciación del acusado y que entrega
+información acerca de los lugares en que estuvo [LEANDRO], el día 24 de octubre
+
+del año 2022 y que permite establecer en la página n°1, que estuvo en el lugar
+de los hechos a las 15:08 y pagina n°2, que estuvo en DIRECCION001,
+Curicó, a las 15:00 horas. Que puede concluir que durante 08 minutos, el
+acusado, permaneció en DIRECCION001, Curicó.
+
+4.- Declaración de Demetrio Aqueveque Ramírez, carabinero, quien refiere
+
+que el día 24 de octubre del año 2022, a eso de las 17:00, llegó la victima quien le
+
+relató que ese día el acusado llegó a DIRECCION001, a eso de las 14:00 horas
+
+para un asunto familiar, pero terminaron discutiendo, que le pidió que se fuera,
+
+pero el acusado le quita el celular, lo tira al suelo, le da un golpe de puños, la tira a
+
+la cama alcanza a huir y da cuenta a carabineros. Se le veía la cara con una
+
+lesión, el DAU habló de Lesiones Menos Graves. Se averiguó que el acusado
+
+tenía una prohibición de acercamiento a la víctima. Exhibido que le fue el otro
+medio de prueba n°1 de la fiscalía una foto del rostro de la víctima, la
+
+5
+
+reconoce, y en la que se ve una lesión en la parte inferior del ojo y un aumento de
+
+volumen, señala. Exhibido que le fue la prueba documental n° 2 de la fiscalía, un
+
+Oficio del Juzgado de Garantía de Curicó; dice que en el se decreta la prohibición
+
+de acercamiento del acusado a la víctima por un año.
+
+5.- Declaración de Carmen Gloria Riquelme Uribe, Carabinero, quien refiere
+
+que acompañó al declarante anterior a constatar lesiones a la víctima y que
+
+Aqueveque, le refirió que la víctima llegó a la Comisaria y le contó que ese día, 24
+
+de octubre del año 2022, el acusado llega a la casa a ver un problema pero
+
+terminaron discutiendo, que le pidió al acusado que se fuera, pero éste se ofuscó y
+
+le dio un golpe de puño. Que el médico dijo que tenía lesión en el ojo, con
+
+aumento de volumen, ojo izquierdo. Exhibido que le fue la prueba documental n°
+
+1, Dato de Atención de Urgencia, lo reconoce como el documento que se hizo
+
+cuando se fue a constatar lesiones. Que los hechos fueron como a las 14:00
+
+horas.
+
+6.- Declaración de [ESTEBÁN], quien refiere que el acusado le contó que
+
+discutió de palabra con [CECILIA], el 22 o 24 de octubre del año 2022; que lo
+
+llamaron para un problema que tenía [CECILIA] con alguien de la pensión, fue en
+
+la tarde. Agrega que él no vio nada y que el acusado le contó que fue en
+
+DIRECCION001. Exhibido que le fue la prueba documental n° 1 de la defensa, lo
+
+reconoce como un contrato de arriendo entre el acusado y la víctima del local
+
+comercial ubicado en DIRECCION001, Curicó.
+
+b.- Prueba Documental, Evidencia y Otros Medios de Prueba:
+
+1.- Dato de atención de urgencia (DAU), SAPU Curicó Centro,
+
+correspondiente a la víctima, de fecha 24 de Octubre de 2022, junto al documento
+
+anexo atenciones de enfermería. Que refiere que la víctima fue atendida el 24 de
+
+octubre del año 2022, constata lesiones leves a moderada.
+
+2.-Oficio del Juzgado de Garantía de Curicó dirigido a Carabineros, en
+
+causa RUC 2200274649-6; RIT 1416-2022, de fecha 6 de mayo de 2022, donde
+
+se informa las penas accesorias a que se encuentra sujeto el condenado
+
+[LEANDRO]. Se le impone la prohibición de acercamiento a la víctima por UN
+AÑO.
+
+3.- Extracto de filiación y antecedentes del acusado [LEANDRO], donde se
+
+encuentra registrada la causa RIT 1416-2022, RUC 2200274649-6, del Juzgado
+
+de Garantía de Curicó, de fecha 29 de Abril de 2022, de donde surge el delito de
+desacato.
+
+6
+
+4.-Acta de la audiencia de procedimiento simplificado del Juzgado de
+
+Garantía de Curicó, de fecha 29 de Abril de 2022, en causa RUC 2200274649-6,
+
+RIT 1416-2022, en el cual consta la admisión de responsabilidad del imputado y la
+
+sentencia definitiva condenatoria dictada por el delito de lesiones en perjuicio de la
+
+misma víctima y las medidas accesorias decretadas, junto a la certificación de
+
+estar firme el fallo. Se impone la prohibición de acercamiento por un año, a la
+víctima.
+
+5.- Certificado de matrimonio entre el imputado y la víctima.
+
+6.- Tres certificados de los hijos en común que mantienen víctima e
+
+imputado.
+
+Estos dos últimos números configuran los lasos para los efectos de la
+
+Violencia Intrafamiliar.
+
+7.- Resolución del Juzgado de Garantía de Curicó, de fecha 01 de Junio de
+
+2023, en el cual se ordena oficiar al departamento de monitoreo telemático de
+
+Gendarmería de Chile, a objeto de que informen el recorrido, transido y/o
+
+ubicación del imputado [LEANDRO], el día 24 de Octubre de 2022.
+
+8.- Oficio de Gendarmería en el cual se remite informe de mapas geo-
+
+referenciales, el cual contiene la resolución del Tribunal que decretó la diligencia;
+
+la solicitud de la diligencia por parte de la Fiscalía y un anexo de cinco páginas
+
+que contienen las planillas de movimientos del sentenciado [LEANDRO].
+
+Respecto de los numerales 7 y 8, nos remitimos a lo analizado en las
+
+declaraciones testimoniales 2 y 3 de este mismo considerando. Suficiente.
+
+1.- Una fotografía de las lesiones de la víctima, obtenidas por Carabineros,
+
+la que podrá ser exhibida en juicio mediante el sistema data show.
+
+2.- Anexo de cinco páginas que contienen las planillas de movimientos del
+
+sentenciado [LEANDRO], relativo al informe emitido por Gendarmería.
+
+Respecto de estos dos últimos numerales, nos remitimos a las
+testimoniales 2, 3 y 4 en que se analizan.
+
+VALORACION PROBATORIA Y OTROS MATICES PENALES
+Uno de los principales debates a la luz de la prueba rendida en la audiencia,
+
+es la retractación de la víctima y la credibilidad de su relato. Veamos: la víctima
+
+señala que niega todos los hechos que denuncio a carabineros y que si lo hizo,
+
+solo fue movida por el despecho que le provocaba el acusado, y más aún, que fue
+
+varias veces a señalar esto a Fiscalía, pero que allí le dijeron que la causa
+
+seguiría adelante.
+
+7
+
+Como vemos, el motivo que movió a la víctima, [CECILIA], a
+
+denunciar lo que no fue, fue el despecho, en consecuencia, el “arce” u origen de la
+
+credibilidad del relato de la afectada está en el despecho y su entorno
+
+consecuencial. Las máximas de la experiencia y la lógica, nos han enseñado que
+
+el despecho es un fuerte precursor, de reacciones instantáneas o poco meditadas,
+
+pues se basan en una creencia mental o en una configuración de la realidad, la
+
+más de las veces en plena dicotomía con la realidad de los hechos, realidad
+
+ficción que lleva a los despechados a obrar en consecuencia; y con posterioridad,
+
+cuando recobran, el ensamblaje de la realidad de lo sucedido, por sobre lo
+
+imaginado en virtud de ese despecho; tienden a corregir su error, y no afectar más
+
+a la persona dañada por su obrar. Claro, que puede darse el caso, que si el
+
+despecho va unido a un odio, se mantengan sus consecuencias en la mente de la
+
+o del despechado (a) por siempre, llegando a formar parte de la realidad que
+
+quiere vivir y reconocer.
+
+Por lo anterior veamos que se dice del despecho para entender lo anterior:
+
+El despecho, en psicología, se define como una malquerencia o
+
+resentimiento que surge tras una decepción amorosa o un desengaño en la
+
+consecución de un deseo o meta personal. Es una emoción compleja que puede
+
+manifestarse como ira, tristeza, e incluso deseos de venganza, y puede afectar
+
+negativamente la salud mental y las relaciones interpersonales.
+
+Características del despecho:
+
+Surge como respuesta a una pérdida, ya sea de una relación, de un sueño
+
+o de una expectativa. Se caracteriza por sentimientos de ira, tristeza, frustración,
+
+decepción y, a menudo, deseos de venganza o de que la otra persona
+
+experimente el mismo dolor. Puede llevar a comportamientos destructivos, como
+
+buscar venganza, iniciar relaciones rápidamente para superar la pérdida, o
+
+aislarse socialmente. Puede afectar la autoestima, generar sentimientos de
+
+inseguridad, y dificultar la superación de la ruptura. Puede generar desconfianza,
+
+dificultad para establecer vínculos saludables en el futuro, e incluso llevar a repetir
+
+patrones negativos en nuevas relaciones.
+
+En resumen, el despecho es una emoción natural tras una decepción, pero
+
+es importante reconocerla, gestionarla adecuadamente y trabajar en la sanación
+
+para evitar que afecte negativamente las relaciones.
+
+Como se ve de todo lo dicho, puede concluirse, para el caso en estudio,
+
+que doña [CECILIA], actuó movida por el despecho cuando denuncio al acusado y
+
+8
+
+eso mismo nos lleva a concluir - al menos más allá de toda duda razonable - que
+
+el relato de la víctima en audiencia parece creíble. Baste ello.
+
+En lo pertinente doña [CECILIA], señala que el 24 de octubre del año 2022,
+ella llamó al acusado para conversar sobre su hijo y que terminaron discutiendo, y
+
+que nada de lo que dijo en Carabineros es verdad, que ella rompió el teléfono, que
+
+estaba muy dolida, con rabia. Que la denuncia no es cierta y que luego de la
+
+discusión él se fue; pero que no la golpeó; que lo hizo para que se lo llevaran
+
+preso, que tenía rabia y despecho. Que esto sucedió en DIRECCION001, Curicó.
+Que reconoce que a la doctora le señaló lo que ella dijo, que fue varias veces a la
+
+fiscalía a sacar la denuncia pero que le dijeron que seguirían adelante. Exhibido
+
+que le fue el otro medio de prueba número 1 de la fiscalía, 01 Foto: la reconoce
+
+diciendo que es ella pero que no ve lesiones, solo dijo que le dolía el cuerpo, que
+
+era alérgica, pero no tenía lesiones. Que sabía que [LEANDRO] tenía alejamiento
+
+y que los hechos no sucedieron como dice la acusación. Que observando estos
+
+magistrados la foto antes señalada, no puede observarse una lesión con claridad,
+
+lo que necesariamente debe sopesarse a la luz de que la víctima habla de ser
+
+alérgica.
+
+Por si lo anterior no fuere suficiente, relacionemos esta declaración con la
+
+de [SERGIO], hijo del acusado y de la víctima, quien es claro en señalar que el día
+de los hechos llegó a la casa en el momento de la discusión y no vio golpe alguno
+
+del acusado a su madre, más aún señala que el acusado se retiró de la casa; que
+
+el papá llegó a auxiliar a su madre con un arrendatario, no estuvo más de cinco
+
+minutos y se fue. Que los vio discutir, pero no hubo golpes. Que su madre lo llamó
+
+y que esto fue en el domicilio de DIRECCION001, Curicó. Suficiente.
+
+Que el fiscal cree que la discusión derivó en golpes y que lo demás no es
+
+creíble. Respecto de ello baste señalar que los Juicios Orales se basan en lo
+
+acreditado y no en lo que se cree o se supone, la único que no requiere prueba es
+
+la inocencia del acusado mientras no sea desvirtuada por la prueba acusadora y
+
+en parte alguna de la presente audiencia se acreditó que la discusión hubiere
+
+derivado en agresiones físicas, más aún hay prueba en contrario.
+
+Que, en cuanto a la no existencia de las lesiones, nos remitimos a todo lo
+
+razonado en estos apartados anteriores.
+
+Respecto a los dichos de la doctora que, si bien categoriza las lesiones de
+
+mediana gravedad, no es menos cierto que ella se basa en el relato que le hace la
+
+víctima, como ésta misma lo dice unos párrafos atrás, pero en manera alguna
+
+puede determinar, ni aun por su expertis, el origen de las mismas, más allá de las
+
+9
+
+palabras de la víctima, las cuales como vimos, carecían de veracidad aquel día
+
+según lo ya relatado y razonado en este mismo apartado de valoración y al que
+
+nos remitimos. Más aún digamos en cuanto al delito de lesiones menos graves en
+
+contexto de violencia intrafamiliar, en perjuicio de [CECILIA], que de la prueba
+
+producida en el juicio por el acusador y la defensa, no resultó, acreditado, más allá
+
+de toda duda razonable, el origen de las lesiones que se constataron en el dato de
+
+urgencia, de fecha 24 de octubre de 2002, SAPU Curicó Centro, menos aún que el
+
+acusado tuviera alguna responsabilidad sobre aquellas. En relación con esto
+
+señala doña Mariela de la Cruz Llavaneras Llavaneras, médico, que examinó a
+la víctima el día 24 de octubre del año 2022, y que ésta le relató que las lesiones
+
+que presentaba, contusión malar izquierda y escoriaciones en el tórax, se las
+
+produjo el acusado, que la doctora cataloga de mediana gravedad. Exhibido que le
+
+fue la prueba documental n°1 de la fiscalía Dato de Atención de Urgencia que ella
+
+emitió y corresponde a doña [CECILIA], quien ingresó a las 18:22 del día 24 de
+
+octubre del año 2022, catalogando las lesiones como de mediana gravedad
+
+Digamos que, respecto de la configuración del delito de Desacato, no se
+
+requiere ni tiempo ni violencia en el actuar, se configura, caso de autos, con el
+
+solo acercamiento a la víctima, por el tiempo que sea, un segundo siquiera y aún
+
+sin la violencia como base de esa aproximación. Suficiente.
+
+Tengamos presente la conducta típica del Desacato: El núcleo típico del
+
+delito de desacato está constituido por el verbo “quebrantar”. Un primer
+
+acercamiento al sentido de esta expresión lo podemos encontrar en el Diccionario
+
+de la Real Academia de la Lengua Española, que la define como “traspasar, violar
+
+una ley, palabra u obligación”. El verbo rector “quebrantar”, y particularmente el
+
+fuerte sentido de la palabra, da a entender que para la configuración del delito es
+
+necesaria una conducta positiva del sujeto – por ejemplo ingresar donde le está
+
+prohibido hacerlo -. Esto es el sujeto que estando obligado a no hacer algo en
+
+virtud de una resolución judicial, - ingresar a una casa - lo hace -. Suficiente.
+
+Valga, por último, en relación a la testimonial de la Fiscalía decir, que ella
+
+fue sometida al contra examen de la defensoría, el cual no logró desvirtuar la
+
+claridad y tranquilidad, con que los testigos deponentes, expusieron sus dichos, en
+
+relación a la teoría del caso del Ministerio Público, - pero solo respecto de los
+hechos acreditados - más aún, fueron coincidentes con los dichos del acusado,
+en lo que al DESACATO se refiere, como ya se vio, demostrando con ello, no
+sólo consistencia interna en sus propias declaraciones, individualmente cotejadas,
+
+sino que en su conjunto con el resto de la prueba.
+
+10
+
+Que, resta señalar - para los efectos procesales correspondientes - que
+
+todas las declaraciones dadas por quienes revisten la calidad procesal de
+
+“intervinientes”, como la de los “testigos” que se presentaron, así como también
+la lectura que se practicó de aquellos documentos incorporados en la audiencia,
+“quedaron consignadas íntegramente en el registro de audio.
+
+SEXTO: Que, apreciada libremente la prueba descrita en el razonamiento
+precedente, la que por no contradecir los principios de la lógica, ni ser contraria a
+
+las máximas de experiencia, ni a los conocimientos científicamente afianzados,
+
+máxime que se trata de hechos que perfectamente pueden ser apreciados por los
+
+sentidos, sin requerir de algún conocimiento especial, lo dispuesto en el artículo
+
+297 del Código Procesal Penal, y ateniéndonos, a la prueba rendida en la
+
+audiencia, a los límites del conocimiento humano y a la capacidad acreditativa de
+
+la misma, ella es suficiente para formar la convicción de este Tribunal, más allá
+de toda duda razonable, y dar por establecido que son efectivos los hechos,
+descritos en el numeral cuatro de la presente, máxime que las declaraciones de
+
+los testigos – acusado incluido -, referidos en el apartado anterior, provienen de
+
+personas que los presenciaron o tomaron conocimiento de los mismos, en forma
+
+próxima a su ocurrencia, que impresionaron a los jueces como capaces de
+
+percibirlos y apreciarlos por sus sentidos; por eso ellos aparecen como veraces y
+
+creíbles, razón por la cual este Tribunal acoge la prueba rendida por el Ministerio
+
+Público, - sin perjuicio de la absolución - como quiera que no fue desvirtuada
+por prueba en contrario, por parte de la defensa; como quiera que la rendida por la
+
+defensa, dos testigos y el acusado; toda ella apuntó más a la tesis de cargo que a
+
+la de descargo, - en lo que al delito de Desacato, se refiere - como ya se analizó
+en el considerando anterior al que nos remitimos y en cuanto a la declaración del
+
+acusado más que apuntar a la tesis de la defensa apuntó a la fiscal – en el
+desacato - como ya se vio en el considerando quinto al que nos estaremos; y en
+cuanto a la documental: 1.- CONTRATO DE ARRENDAMIENTO ENTRE
+
+[LEANDRO] Y [CECILIA] DE FECHA 13.03.2020, sirve para dar por establecido el
+
+lugar donde se cometió, por el acusado, el Desacato. Suficiente.
+
+SEPTIMO: Que los hechos establecidos en el considerando cuarto de la
+presente, son constitutivos del delito de Desacato en contexto de Violencia
+Intrafamiliar, previsto y sancionado en el artículo 240 del Código de
+Procedimiento Civil y artículos 5 y 10 de la ley 20.066; en carácter de
+
+CONSUMADO; toda vez que resultó acreditado – más allá de toda duda
+razonable - que el imputado incumplió una resolución judicial de prohibición
+
+11
+
+de acercamiento y proximidad, siendo su acción dolosa, típica, antijurídica y
+culpable.
+
+Digamos más, para obtener una sentencia condenatoria, el Ministerio
+Público debe aportar a juicio, material probatorio suficiente para vencer el
+estado de inocencia que favorece a toda persona imputada, y convencer al
+tribunal, más allá de toda duda razonable, que se ha cometido el hecho
+punible objeto de la acusación y que en él ha correspondido al acusado una
+participación culpable y penada por la Ley.
+
+El estándar de prueba en el ámbito penal debe ser más alto dentro del
+
+sistema judicial, pues se trata de poner en actividad el derecho punitivo que
+
+constituye la “última ratio”.
+
+Se ha dicho por la doctrina que la convicción es la seguridad de que la
+
+certeza judicial se ha obtenido de un modo racional y legítimo. Supone un
+
+acabado análisis jurídico de las alegaciones efectuadas por los intervinientes y de
+
+la totalidad de la prueba lícita rendida, realizando el Tribunal una crítica mediada a
+
+través de rigurosos e imparciales exámenes lógicos y dialécticos.
+
+La falta de convicción puede deberse a insuficiencia de la prueba rendida
+por el órgano acusador o bien al surgimiento de “dudas serias, relevantes y
+concretas”, relacionadas con hechos trascendentes y que tienen su base en los
+
+conocimientos científicamente afianzados, reglas de la lógica formal y máximas de
+
+la experiencia.
+
+La duda razonable como obstáculo de la convicción judicial debe tener una
+
+entidad tal que genere en el tribunal un estado de indeterminación entre dos
+
+decisiones, situación de indefinición que ha sido introducida por un argumento o
+
+demostración y que no le permite salir de aquel estado airosamente, sino optando
+
+por la decisión que parece más adecuada con su íntimo parecer, esto es la
+
+absolución.
+
+Que en la especie el Ministerio Público logró acreditar que habían
+acaecido unos hechos, los señalados en el apartado cuatro de la presente
+con participación del acusado; no acreditando – más allá de toda duda
+razonable – el resto de la acusación.
+
+En cuanto al delito de lesiones menos graves en contexto de violencia
+
+intrafamiliar, en perjuicio de [CECILIA], de la prueba producida en el juicio por el
+
+acusador y la defensa, no resultó, acreditado, más allá de toda duda razonable, el
+
+origen de las lesiones que se constataron en el dato de urgencia, de fecha 24 de
+
+octubre de 2002, SAPU Curicó Centro, menos aún que el acusado tuviera alguna
+
+12
+
+responsabilidad sobre aquellas, correspondiendo ABSOLVER sobre la
+acusación deducida contra el acusado [LEANDRO] como autor de lesiones
+menos graves en contexto de VIF.
+
+OCTAVO: Que el Ministerio Público para establecer la participación del
+acusado en el ilícito – acreditado - rindió toda la prueba ya analizada en el
+apartado quinto al que nos remitimos.
+
+Cabe señalar, que los testimonios participativos anteriores, no fueron
+
+controvertidos, con el contra examen de la defensoría, y mucho menos con prueba
+
+en contrario, como ya se vio en el apartado sexto de la presente.
+
+NOVENO: Que los antecedentes de prueba antes referidos, apreciados con
+entera libertad, y que no contradicen los principios de la lógica, las máximas de
+
+experiencia, ni los conocimientos científicamente afianzados y teniendo presente,
+
+además, lo dispuesto en los artículos 340 y 297 del Código Procesal Penal, son
+suficientes para formar la convicción de éste Tribunal, más allá de toda duda
+razonable, y tener por demostrado, que al ACUSADO, le ha cabido una
+participación de AUTOR, en el ILICITO ESTABLECIDO, en el apartado cuarto,
+por haber intervenido en el mismo, de una manera inmediata y directa, de
+acuerdo a los artículos 14 y 15 del Código Penal.
+
+DECIMO: Que en consecuencia, de todo lo analizado en los apartados
+anteriores, a la luz de las reglas de la libertad probatoria y de la libre valoración de
+
+la misma, es dable concluir, y aceptar, como teoría del caso, la expuesta por el
+
+Ministerio Público, - pero solo en cuanto al ilícito dado por acreditado - y ya
+descrita en el considerando número dos de la presente, pues, como ya se analizó,
+
+la prueba producida por la Fiscalía, sometida al tés de credibilidad de la Audiencia,
+
+arrojó como resultado, creíble y aceptable, y no desvirtuado por la defensa, los
+
+hechos señalados, acreditados y calificados en los apartados cuarto al séptimo.
+
+UNDECIMO: OTRAS CONSIDERACIONES:
+En cuanto a los alegatos de la Fiscalía y de la Defensoría, nos remitimos a
+
+lo ya razonado en el considerando segundo de la presente. Baste ello.
+
+Respecto a las medidas cautelares y accesorias; en relación a la presente
+
+causa, cabe señalar lo siguiente:
+
+Las medidas cautelares rigen en términos absolutos y que si se incumplen,
+
+por el artículo 10 de la ley 20.066, se da lugar al desacato del artículo 240 del
+
+Código Procesal Civil. Baste señalar respecto de la aplicación de las cautelares y
+
+su incumplimiento, efectivamente dan lugar a un desacato.
+
+13
+
+La ley no señala, que debe tratarse de sentencias ejecutoriadas, para
+que opere una cautelar y con mayor razón una accesoria a la sentencia, - caso
+de autos - sino que debe cumplirse la resolución cautelar una vez decretada por el
+
+tribunal. Baste señalar que efectivamente para que opere el desacato no es
+
+necesario estar en presencia de una sentencia ejecutoriada, por el contrario, para
+
+ello basta que se quebrante lo que se ha ordenado cumplir, sin distinguir, el
+
+artículo 240 del Código de Procedimiento Civil, que tipo de resolución debe
+
+incumplirse; basta con que se incumpla. Además, es del caso señalar, que
+
+justamente las medidas cautelares, se dan durante el transcurso del devenir de un
+
+procedimiento o juicio, y las accesorias al dictarse sentencia, en el caso
+presente, para proteger a la víctima.
+
+No dependen las accesorias de la voluntad de la víctima, son resoluciones
+
+de un tribunal. Suficiente.
+
+DUODECIMO: CIRCUNSTANCIAS: Que NO favorece al acusado; la
+atenuante de su irreprochable conducta anterior, porque de su Extracto de
+
+Filiación y Antecedentes, incorporado por la fiscalía, como prueba documental
+
+para los efectos del artículo 343 del Código Procesal Penal; queda claro que su
+
+pasado no ha estado exento de reproches penales y que tiene condenas
+
+anteriores al presente que no se encuentran prescritas para los efectos de la ley
+
+18.216.
+
+Que si se le concederá la atenuante de haber colaborado sustancialmente
+
+al esclarecimiento de los hechos, - en lo que al DESACATO se refiere - artículo
+
+11 n°9 del Código Penal - toda vez que de su declaración en juicio, en la
+
+audiencia, fue claro en reconocer que los hechos de la acusación son efectivos,
+
+respecto del Desacato, coincidiendo con la testimonial fiscal; razón por la cual se
+aplicará la pena en su mínimo – ya se compensara con la agravante - ; máxime
+que se ubica temporo espacialmente en el lugar y hora de los hechos, siendo los
+
+mismos, los únicos acreditados para efectos de condena. Baste ello.
+
+Se invoca por el ente persecutor las agravantes de la reincidencia del n°14
+
+del artículo 12 del Código Penal y la genérica del n°15 del mismo artículo.
+
+Pero es menester tener presente que, unas mismas condenas no
+
+prescritas, no pueden ser tomadas en consideración para formar a la vez ambas
+
+reincidencias, por el principio del non bis inidem, es necesario que las dos
+
+condenas o más que le afecten, y que no estén prescritas, se refieran a otras
+
+sentencias, distintas a las que configuren alguna de ellas. Así las cosas, se dará
+
+lugar solo a la agravante del art. 12 n° 15.
+
+14
+
+En cuanto a la agravante de la reincidencia genérica del artículo 12 número
+
+15 del Código Penal, para que ella opere, es menester que se den tres requisitos,
+
+a saber: 1.- Que el acusado haya sido sancionado, anteriormente, por dos o más
+
+delitos; 2.- Que los referidos delitos tengan asignada por ley una pena igual o
+
+superior al del presente ilícito, - es decir de presidio menor en su grado medio
+
+hacía arriba - y 3.- Que no estén prescritos. Así las cosas y a la luz de la prueba
+
+aportada por el ministerio público cabe acoger la agravante alegada por este. En
+
+efecto, del Extracto de Filiación y Antecedentes del acusado, ya referido, se extrae
+
+que el mismo fue sancionado en una causa anterior por dos delitos que merecen
+
+igual o mayor pena que la presente: - Causa 6041 – 2020. Juzgado de Garantía
+
+de Talca, por los delitos de Tráfico Ilícito de Drogas y el delito de Receptación
+
+Vehicular; ambos ilícitos tienen una sanción igual o mayor que el presente
+
+Receptación Vehicular y Trafico, respectivamente; por una parte y por otra de
+
+acuerdo al artículo 104 del Código Penal, no se encuentran prescritos, pues las
+
+fechas de comisión de los hechos, fueron, 01 de julio del año 2020, ambos, fechas
+
+que no exceden de 10 años para el crimen o de 5 para el simple delito en relación
+
+a la fecha del delito de la causa que nos aboca que es 24 de octubre del año
+
+2022, ya que la del simple delito prescribió en julio del 2025, es decir no estaba
+
+prescrita a la fecha de los presentes, con mayor razón la del delito de crimen,
+
+considerando las penas en abstracto y no en concreto, por lo que procede la
+
+agravante en comento. Resultando innecesario, a la luz de lo razonado tomar en
+
+cuenta la sentencia RIT 1416–2022, Procedimiento Abreviado acompañada por la
+
+fiscalía en la audiencia del art.343 del CPP; que a mayor abundamiento no se
+
+refiere a un Desacato.
+
+DECIMOTERCERO: Aspectos de aplicación de la pena:
+a.- Que en la especie concurre una circunstancia atenuante y una
+
+agravante las que se compensaran racionalmente pudiendo recorrer toda la
+
+extensión al aplicarla.
+
+b.- Que, NO reuniendo el acusado ninguno de los requisitos de la ley
+
+18.216 y su modificatoria, el CUMPLIMIENTO SERÁ EFECTIVO; debiendo
+presentarse al Centro Penitenciario de Curicó, dentro de décimo día de
+
+ejecutoriada la presente, bajo apercibimiento de despacharse orden de arresto en
+
+su contra.
+
+En efecto a la fecha tiene condenas no prescritas, por la fecha de
+
+cumplimiento de las mismas en la causa Rit 6041–2020, del Juzgado de Garantía
+
+de Talca que figuran cumplidas las penas el 23 de agosto del año 2023, y ambas
+
+15
+
+condenas superan los dos años para los efectos de la Reclusión. Siendo
+
+innecesario pronunciarse sobre el resto del Extracto, ya que con este solo Rit se
+
+hace imposible su aplicación, por lo demás la pena será superior a 300 días.
+
+Suficiente.
+
+Que con fecha 18 de julio de los corrientes se decretó su Arresto
+
+Domiciliario Total, con fecha 23 de julio de los corrientes se mutó por arresto
+
+domiciliario nocturno de 08 horas diarias; con lo que cuenta un abono de 09 días a
+
+la fecha de la lectura, más los que medien de ahí para adelante hasta la
+
+ejecutoria.
+
+c.- Que, se eximirá al acusado del pago de las costas de la causa, por
+haber cumplimiento efectivo.
+
+d.- Que se aplicarán las accesorias de Prohibición de acercarse a la
+víctima doña [CECILIA], o a su domicilio, lugar de trabajo o estudio, así como a
+cualquier otro lugar al que ésta concurra o visite habitualmente letra b artículo 9
+
+ley 20.066; y letra c) Prohibición de porte y tenencia de armas de fuego,
+ambas por el término de dos años
+
+e.- Que llamadas las partes a debatir al tenor de la audiencia del artículo
+
+343 del Código Procesal Penal expusieron: la fiscalía que acompaña el Extracto
+
+de Filiación y Antecedentes del acusado, con anotaciones anteriores y las
+
+penalidades señaladas en la acusación más la agravante del n°14 y n°15 del art
+
+12 del CP., sin colaboración sustancial, cumplimiento efectivo; y la defensa alega
+
+la atenuante del artículo 11 n°9 del Código Penal toda vez que su defendido se
+
+ubicó temporo espacialmente en el lugar de los hechos dando razón de sus dichos
+
+y evitando mayor prueba al respecto, la pena de 541 días de Reclusión Menor en
+
+su grado Medio y no la agravante de la reincidencia genérica por la pena en
+
+concreto, sin costas.
+
+DECIMO CUARTO: Ejecutoriada que la presente sea, ofíciese al Juzgado
+De Garantía de Curicó, remitiéndosele, copia integra y autorizada de la sentencia
+
+y su certificado de ejecutoria, a objeto de cumplimiento a lo resuelto en ella.
+
+Por estas consideraciones y, teniendo presente, además, lo dispuesto en
+
+los artículos 1, 11 n°9, 12 n°15, 14, 15, 21, 24, 30, 50, 67, 68, 69, 70, 399 y 494
+
+n°5 del Código Penal; artículo 240 del Código de Procedimiento Civil; Ley 20.066;
+
+artículos 53, 54, 281 y siguientes, 295, 296, 297, 298 y siguientes, 323, 325 y
+
+siguientes, 339, 340, 341, 342, 343, 344, 346 y 468, del Código Procesal Penal; y
+
+ley 18.216; SE RESUELVE:
+
+16
+
+I.- Que se CONDENA, a [LEANDRO]; ya individualizado, a la pena de
+QUINIENTOS CUARENTA Y UN DIAS DE RECLUSION MENOR EN SU GRADO
+MEDIO, más las accesorias legales de suspensión de cargo u oficio público
+durante el tiempo de la condena; como AUTOR CONSUMADO del delito de
+DESACATO, EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR, cometido el 24
+de Octubre de 2022, en Curicó; y se le ABSUELVE, de la acusación que lo tuvo
+como AUTOR del delito de LESIONES MENOS GRAVES EN CONTEXTO DE
+VIOLENCIA INTRAFAMILIAR, en perjuicio de [CECILIA] y que se habría
+cometido, el 24 de Octubre de 2022, en Curicó.
+
+II.- Que el CUMPLIMIENTO SERÁ EFECTIVO, en los términos señalados
+en la letra b del apartado décimo tercero de la presente.
+
+Que cuenta con un abono de 09 días a la fecha de la lectura, más los
+que medien de ahí para adelante hasta la ejecutoria
+
+III.- Que se EXIME del pago de las costas de la causa al acusado.
+IV.- Que se condena, además al acusado, a las PENAS ACCESORIAS de:
+
+1.- Prohibición de porte y tenencia de armas de fuego por el plazo de DOS
+AÑOS; debiendo OFICIARSE, a la Entidad Fiscalizadora respectiva y 2.-
+Prohibición de acercarse a la víctima doña [CECILIA], o a su domicilio, lugar de
+
+trabajo o estudio, así como a cualquier otro lugar al que ésta concurra o visite
+
+habitualmente, por DOS AÑOS.
+V.- Una vez ejecutoriado este fallo, dese cumplimiento al artículo 468 del
+
+Código Procesal Penal, oficiándose a la Contraloría General de la República, al
+
+Servicio de Registro Civil y Gendarmería de Chile.
+
+VI.- Cúmplase, en su oportunidad, con lo ordenado en el acápite
+
+decimocuarto.
+
+Se deja constancia que esta sentencia se considera publica con anonimización
+e interés jurisprudencial de acuerdo con lo previsto en el artículo 21 N°2 de la
+ley 20.285 y Acta 164-2024 de la Excma. Corte Suprema. Contiene materias de
+
+Violencia Intrafamiliar.
+
+Redactada por el Juez Sr. Roberto García Gil.
+
+RIT 117–2024.
+
+RUC 2201059801-3.
+
+DICTADA POR LOS JUECES DEL TRIBUNAL DEL JUICIO ORAL EN LO PENAL
+
+DE LA CIUDAD DE CURICO, PRIMERA SALA; integrada por PAULINA
+
+RODRIGUEZ RODRIGUEZ, presidenta, ROBERTO GARCÍA GIL a quién se
+
+designa como redactor del fallo y MARIEL MOLINA GUERRERO, integrante.
+
+17
+
+18
