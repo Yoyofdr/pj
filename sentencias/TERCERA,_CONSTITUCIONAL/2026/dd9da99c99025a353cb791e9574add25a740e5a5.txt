@@ -4,11 +4,11 @@ case_id: dd9da99c99025a353cb791e9574add25a740e5a5
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040871
 
-rol: 58204-2025
+rol: 58433-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: MOLINA/SUBSECRETARÍA DEL INTERIOR MINISTERIO DEL INTERIOR
+caratulado: SIDHU/SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
