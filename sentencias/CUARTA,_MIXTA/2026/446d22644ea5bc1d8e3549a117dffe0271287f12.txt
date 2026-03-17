@@ -14,7 +14,7 @@ sala: CUARTA, MIXTA
 
 materias: ▪ Recurso de unificación de jurisprudencia
 
-recurso: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
+recurso: (PENAL) NULIDAD
 
 resultado_recurso: INADMISIBLE UNIFICACIÓN DE JURISPRUDENCIA
 

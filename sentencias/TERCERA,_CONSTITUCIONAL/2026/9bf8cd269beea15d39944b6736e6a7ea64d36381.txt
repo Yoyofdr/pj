@@ -4,19 +4,19 @@ case_id: 9bf8cd269beea15d39944b6736e6a7ea64d36381
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8043908
 
-rol: 57041-2025
+rol: 41015-2025
 
-fecha_sentencia: 2026-02-26
+fecha_sentencia: 2026-02-27
 
-caratulado: BARRÍA/CONTRALORÍA REGIONAL DE LOS LAGOS DE LA CONTRALORÍA GENERAL DE LA REPÚBLICA
+caratulado: SOCIEDAD PRODUCTORA DE EVENTOS Y BANQUETERIA LTDA/ILUSTRE MUNICIPALIDAD COQUIMBO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Potestad disciplinaria
+materias: ▪ Rentas municipales
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (PENAL) NULIDAD
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

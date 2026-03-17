@@ -4,17 +4,17 @@ case_id: fd6e12bdf7ddc4bf9723e6a7dd3853c079a01957
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8043544
 
-rol: 6050-2026
+rol: 7522-2026
 
 fecha_sentencia: 2026-02-27
 
-caratulado: BOLAÑOS ROSA MERCEDES CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: LAGOS LEON FRANCISCO JAVIER CONTRA ILUSTRISIMA CORTE DE APELACIONES SAN MIGUEL
 
 sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
+recurso: (PENAL) NULIDAD
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
