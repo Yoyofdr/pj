@@ -4,19 +4,19 @@ case_id: 96fa0e7406ebcbcd7112f76d9e3ea89203aba591
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046886
 
-rol: 54184-2025
+rol: 3372-2026
 
 fecha_sentencia: 2026-03-03
 
-caratulado: ANONIMIZADO
+caratulado: ROA/ELIZALDE
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Resoluciones judiciales, actuaciones de Auxiliares de la Administración de Justicia, del Ministerio Público y otros
+materias: (CRIMEN) APELACIÓN AMPARO
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
