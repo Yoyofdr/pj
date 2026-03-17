@@ -12,9 +12,9 @@ caratulado: CHACANA GÓMEZ BRAULIO ANDRÉS CONTRA TRIBUNAL DE CONDUCTA DEL CENTR
 
 sala: SEGUNDA, PENAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
@@ -31,7 +31,22 @@ Rol N° 7487-2026.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
-Santiago, veinticuatro de febrero de dos mil veintiséis. Visto y teniendo únicamente presente:Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de once de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Valdivia, en el Ingreso Corte N° 47-2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.Acordado con el voto en contra del Ministro Suplente Sr. Mera, quien estuvo por confirmar el fallo en alzada, teniendo presente únicamente que los antecedentes expuestos en el recurso no dan cuenta de hechos que, según el artículo 21 de la Constitución Política de la República, correspondan a aquellos susceptibles de la cautela requerida por esta vía.Regístrese y devuélvase.Rol N° 7487-2026. Santiago, veinticuatro de febrero de dos mil veintiséis. Visto y teniendo únicamente presente:Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de once de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Valdivia, en el Ingreso Corte N° 47-2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.Acordado con el voto en contra del Ministro Suplente Sr. Mera, quien estuvo por confirmar el fallo en alzada, teniendo presente únicamente que los antecedentes expuestos en el recurso no dan cuenta de hechos que, según el artículo 21 de la Constitución Política de la República, correspondan a aquellos susceptibles de la cautela requerida por esta vía.Regístrese y devuélvase.Rol N° 7487-2026. Sentencia anonimizada
+Corte Apelaciones ▼
+C.A. de Valdivia
+Valdivia, once de febrero de dos mil veintiséis.
+
+Resolviendo a lo principal de la presentación de folio 1:
+
+Vistos y teniendo presente:
+
+1.- Que, el recurso de amparo, de conformidad a lo establecido en el artículo 21 de la Constitución Política de la República, es una acción constitucional que tiene por objeto resguardar la libertad personal o seguridad individual de toda persona que, ilegalmente sufra cualquier privación, perturbación o amenaza a tales derechos.
+2.- Que según aparece del mérito de los antecedentes, el asunto materia del recurso fue conocido en las instancias previstas para ello, por lo que no es posible volver a discutirlo. Es así, como los hechos en que fundamenta su petición el amparado ya fueron conocidos por el Juzgado de Garantía de Temuco y respectivamente por la Corte de Apelaciones de Temuco a través del recurso de apelación presentado por la defensa, el cual se encuentra resuelto, por lo que el conflicto ya fue sometido al imperio del derecho y no es esta acción constitucional la idónea para resolverlo, por lo que carece de fundamentos para acogerse a tramitación.
+Y de conformidad, además, con lo señalado en el Auto Acordado de la Excma. Corte Suprema Sobre Tramitación y Fallo del Recurso de Amparo, se declara INADMISIBLE el recurso interpuesto en autos.
+
+Al primer, segundo, tercer y cuarto otrosíes, estese a lo resuelto precedentemente.
+
+Regístrese y archívese, en su oportunidad.
+Rol Amparo-47-2026.
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------
