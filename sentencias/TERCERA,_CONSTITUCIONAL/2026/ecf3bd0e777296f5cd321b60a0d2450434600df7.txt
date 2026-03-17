@@ -4,11 +4,11 @@ case_id: ecf3bd0e777296f5cd321b60a0d2450434600df7
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040520
 
-rol: 7595-2026
+rol: 7541-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: GOMEZ/ADMINISTRADORA DE FONDOS DE PENSIONES MODELO S.A.
+caratulado: SEIJAS GARCÍA REGULO JOSÉ/ADMINISTRADORA DE FONDOS DE PENSIONES PROVIDA SOCIEDAD ANÓNIMA
 
 sala: TERCERA, CONSTITUCIONAL
 

@@ -4,15 +4,15 @@ case_id: 1ac4cc3523ad5254598449ef578f906e27230a94
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040718
 
-rol: 41425-2025
+rol: 7549-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: BUENAVEREZ/SERVICIO NACIONAL DE MIGRACIONES
+caratulado: TERAN MONTOYA DELIA /ADMINISTRADORA DE FONDOS DE PENSIONES CUPRUM S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: ▪ Previsional
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
