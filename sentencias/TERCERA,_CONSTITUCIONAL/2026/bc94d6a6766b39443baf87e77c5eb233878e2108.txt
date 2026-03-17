@@ -1,0 +1,265 @@
+METADATA
+
+case_id: bc94d6a6766b39443baf87e77c5eb233878e2108
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047328
+
+rol: 54442-2025
+
+fecha_sentencia: 2026-03-02
+
+caratulado: SERVICIO DE VIVIENDA Y URBANIZACIÓN BIOBIO EN FAVOR DE RICARDO ESTEBAN Y OTROS/RENÉ ALEJANDRO ESCALONA ISLA
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: ▪ Derecho a la honra, a la imagen y a la vida privada, libertad de expresión
+
+recurso: (CIVIL) RECLAMACIÓN T. LIBRE COMPETENCIA
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, tres de marzo de dos mil veintiséis.
+
+Vistos y teniendo presente:
+Primero: Que, de conformidad con lo dispuesto en el inciso séptimo del artículo 483-A del Código del Trabajo, se ha ordenado dar cuenta de la admisibilidad del recurso de unificación de jurisprudencia deducido por la parte demandada contra la sentencia dictada por la Corte de Apelaciones de Santiago, que rechazó el de nulidad intentado contra la que acogió la demanda de despido injustificado y declaración de único empleador.
+
+Segundo: Que, según se expresa en la legislación laboral, el recurso de unificación de jurisprudencia es susceptible de ser deducido en contra de la resolución que falle el recurso de nulidad, estableciéndose su procedencia para el caso en que “respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de Tribunales Superiores de Justicia”, conforme lo explicita el artículo 483 del Código del Trabajo.
+
+Asimismo, del tenor de lo dispuesto en el artículo 483-A del cuerpo legal antes citado, aparece que esta Corte debe controlar, como requisitos para su admisibilidad, por un lado, su oportunidad; en segundo lugar, la existencia de fundamento, además de una relación precisa y circunstanciada de las distintas interpretaciones respecto de las materias de derecho objeto de la sentencia, sostenidas en diversos fallos emanados de los tribunales superiores de justicia, y finalmente, debe acompañarse copia del o los fallos que se invocan como fundamento del recurso en referencia.
+
+Tercero: Que, conforme se expresa en el recurso, la materia que se propone unificar consiste en “determinar el correcto sentido y alcance de los incisos cuarto y quinto del artículo 3 del Código del Trabajo, específicamente en relación con los presupuestos fácticos y jurídicos necesarios para configurar la "dirección laboral común”.
+Cuarto: Que el fallo impugnado desestimó el arbitrio de nulidad de la parte demandada que invocó el motivo del artículo 477 del Código del Trabajo, fundado en que “(…) mediante la causal planteada, se limita a cuestionar aspectos formales y probatorios respecto de la construcción del fallo, en tanto cuestiona el valor que este le asignó a los diversos medios probatorios mediante los cuales se dieron por establecidas las circunstancias que sirvieron de fundamento a la existencia del hecho discutido, aseverando un yerro en la determinación del domicilio de las sociedades o la coincidencia entre sus representantes legales, entre otros. Tanto es así, que atribuye una serie de errores en la ponderación de los mandatos de los representantes legales y con ello en la aplicación del sistema de valoración probatoria conforme a las reglas de la sana crítica, reprochando, asimismo, todo dentro de la misma y única causal de nulidad que se interpuso, que no cabía aplicar la sanción por la incomparecencia de las demandadas a prestar confesión.”
+Concluyó que “(…) Tales alegaciones no guardan relación con los fundamentos propios de esta causal, desde que lo planteado corresponde a una disconformidad con la apreciación de la prueba, orientada más bien a impugnar la corrección del razonamiento empleado por el juez en la valoración de los medios probatorios, lo que excede el ámbito de control propio de la motivación de nulidad invocada, que no es otra, según se dijo, que determinar el correcto alcance y sentido de una norma, pero que supone un estricto respeto al sustrato fáctico de la decisión, lo que impide este cuestionamiento simultaneo que plantea el arbitrio, pues ambos aspectos resultan incompatibles.”
+De esta forma, no ha podido constatarse un pronunciamiento sustancial que se relacione con la materia de derecho propuesta, por lo que el arbitrio intentado debe ser desestimado en esta etapa procesal.
+Por estas consideraciones y normas citadas, se declara inadmisible el recurso de unificación de jurisprudencia interpuesto contra la sentencia de seis de enero de dos mil veintiséis
+Regístrese y devuélvase.
+
+N°4.918-2026.-
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Santiago, seis de enero de dos mil veintiséis.
+
+VISTO:
+
+En estos autos RIT O-6179-2023, seguidos ante el Segundo Juzgado de Letras del Trabajo de esta ciudad, caratulados “Durán y otros con UPC Desarrollos Inmobiliarios S.A.”, por sentencia de once de septiembre de dos mil veinticuatro, se acogió la demanda declarando injustificados y nulos los despidos de los que fueron objetos los demandantes, condenando a la demandada Constructora UPC S.A. al pago de los montos y por los conceptos que se indican; asimismo, se declaró que la aludida empresa en conjunto con UPC Desarrollos Inmobiliarios S.A. constituyen un único empleador, siendo solidariamente responsables del pago de las prestaciones que se señalan.
+
+En contra de este fallo, la demandada UPC Desarrollos Inmobiliarios S.A. dedujo recurso de nulidad, fundado en la causal del artículo 477 del Código del Trabajo, acusando la vulneración de los artículos 3, 454 N° 3 y 4, 456, 459 N° 4 y 478 del mismo código, con relación al artículo 19 N° 3 inciso 6° de la Constitución Política de la República y 394 del Código de Procedimiento Civil.
+
+Declarado admisible el arbitrio, se escuchó al abogado de la parte recurrente que en su oportunidad, concurrió a la vista de la causa.
+
+CONSIDERANDO:
+
+1°.- Que fundamentando su recurso, la aludida demandada sostiene que no cabía declarar la existencia de único empleador, atendido que conforme a lo dispuesto en los incisos 4° y 5° del artículo 3 del Código del Trabajo, el tribunal desatendió el requisito de la dirección laboral común para declarar que ambas empresas constituyen una unidad económica, pues el juzgador para arribar a esa conclusión únicamente se basó en el hecho de que se trata de propietarios comunes, mismos representantes legales, domicilio compartido y giros complementarios.
+
+Explica que los mandatos judiciales presentados en la contestación de la demanda demuestran que el representante legal de Constructora UPC S.A. es Jean Daniel Milosevich García, mientras que los de UPC Desarrollos Inmobiliarios S.A. son Andrés Llodrá Daetz y Juan José Lahsen Vilensky, quienes deben actuar en conjunto. Luego, el fallo aplicando las reglas de la sana crítica y los principios de la lógica debió concluir que no existe similitud entre dichos personeros. Sin embargo, asumiendo lo contrario, atiende exclusivamente al hecho de que los representantes no concurrieron a absolver posiciones, sin considerar que los apercibimientos no pueden vulnerar la presunción de inocencia que garantiza un procedimiento justo y racional.
+
+A continuación insiste en que el sentenciador yerra al interpretar que la dirección laboral común no exige el ejercicio conjunto de las potestades de empleador, siendo este un requisito esencial. Así, aquel fundó su interpretación señalando que persigue "asegurar la garantía de los créditos laborales", afirmación que excede lo expresamente establecido en la norma y constituye una exégesis extensiva que sobrepasa sus facultades, de lo que concluye que ese criterio parece pretender que el fin justifica los medios.
+
+De esta manera en la declaración de unidad económica el juez fuerza la aplicación del requisito esencial de la “dirección laboral común” basado en un objetivo no contemplado por la ley, a lo que se suma que los requisitos secundarios, como la complementariedad de giros o el controlador común, también los aplica de manera forzada y errada, ya que los mandatos judiciales demuestran que no se trata de los mismos representantes legales.
+
+En consecuencia, con la declaración de unidad económica el fallo infringe normas reguladoras de la prueba y garantías constitucionales, ya que no se fundamenta en la dirección laboral común y tal yerro influyó en lo dispositivo del fallo, puesto que realizó tal declaración sin constatar la existencia de ese requisito, tal como lo exige el inciso 4° del artículo 3° del Código del Trabajo. Agrega que, si se hubiera interpretado correctamente dicha norma, el sentenciador habría concluido que compartir relaciones societarias o socios comunes no configura una dirección laboral común y, por consiguiente, habría rechazado tal solicitud.
+
+A continuación indica que se ha transgredido, también el artículo 19 numeral 3°, inciso 6 de la Constitución Política de la República que establece la garantía del debido proceso, atendido que el tribunal hizo efectivo el apercibimiento legal por la no comparecencia a la absolución de posiciones, sin que en el fallo se especifiquen los hechos asertivos respecto de los cuales se dio por confeso a los absolventes, no obstante lo cual utilizó como elemento esencial la aludida sanción para acoger la solicitud de declaración de unidad económica.
+
+En este sentido, hace presente que en la audiencia preparatoria, el hecho sustancial y controvertido relacionado con la unidad económica era del siguiente tenor: “si entre las demandadas concurren los requisitos que la ley prevé para ser consideradas un solo empleador, antecedentes y circunstancias". Dicho punto no es un hecho asertivo, sino que indagatorio, lo que impedía dar por confeso respecto del mismo a los absolventes, ya que los hechos deben estar categóricamente afirmados en el escrito en que se pide la declaración, sin que conste en el expediente electrónico la enumeración o individualización de hechos formulados con tal característica, considerando que la confesión como medio de prueba debe recaer sobre hechos precisos, determinados y claros, lo que implica que su enumeración en tales condiciones resulta esencial para una correcta fundamentación de la sentencia, lo que no se manifiesta en la resolución impugnada, vulnerando el debido proceso, especialmente en lo que dice relación con las leyes reguladoras de la prueba, y si bien el sistema de valoración de la prueba en materia laboral es conforme a las reglas de la sana crítica, ello no significa que pueda hacerse sin sujeción a las normas procedimentales probatorias.
+
+A lo dicho se suma que el artículo 454 N° 3 del Código del Trabajo sólo se refiere a la aplicación de un apercibimiento en términos generales y el principio de remisión del artículo 432 del mismo cuerpo legal obliga a aplicar el artículo 394 del Código de Procedimiento Civil, que dispone que se tendrá por confeso al litigante ausente sólo respecto de los hechos asertivos, es decir, los categóricamente afirmados. Luego, al no existir ningún hecho "categóricamente afirmado" respecto de la unidad económica, la declaración basada en la presunción por no concurrencia es improcedente. Por ello, la prueba confesional ficta no es suficiente para establecer el hecho de la unidad, pues es un medio de prueba singular, inespecífico y sin otros en que apoyarse, teniendo presente que la prueba de presunciones requiere inexcusablemente la existencia de hechos ciertos y probados en juicio.
+
+Así las cosas, de haberse interpretado y aplicado correctamente la normativa antes aludida, se habría descartado la presunción de unidad económica y con ello, rechazado la demanda en esta parte, dada la carencia de medios probatorios que generen mayor convicción que la simple aplicación de apercibimientos, razón por la que concluye que correspondía rechazar la solicitud de unidad económica.
+
+2°.- Que como reiteradamente se ha sostenido por esta Corte, el motivo de nulidad del artículo 477 del Código del Trabajo, sobre infracción de ley, tiene como finalidad velar porque el derecho sea correctamente aplicado a los hechos o al caso concreto determinado en la sentencia. En otras palabras, su propósito esencial está en fijar el significado, alcance y sentido de las normas, en función de los hechos que se ha tenido por probados.
+
+3°.- Que desde este punto de vista lo que se hace a través de la infracción de ley como causal de nulidad, es la confrontación de la sentencia con la ley llamada a regular el caso, lo que supone fidelidad a los hechos probados en la sentencia, pues lo que se ha de examinar es si las conclusiones fácticas encuadran en el supuesto legal respectivo. En definitiva, para poder elucidar el correcto juzgamiento jurídico del caso, resulta menester que los hechos a partir de los que se estructura la impugnación se encuentren fijados en la sentencia -los que son inamovibles- pues sólo de cumplirse tal exigencia se podrá generar el debate sobre la infracción de ley que se denuncia.
+
+4°.- Que conforme a lo expuesto, cabe dejar asentado que son hechos de la causa, en lo que al presente análisis interesa, los siguientes:
+
+a) Las empresas demandadas ostentan el mismo domicilio e idénticos representantes legales, encontrándose la propiedad de ambas empresas en las mismas personas jurídicas, siendo además estas últimas también representadas en diversas oportunidades por los representantes legales de las demandadas;
+
+b) El domicilio de esas personas jurídicas, propietarias de las empresas demandadas, es el mismo que el de estas últimas;
+
+c) Las demandadas tienen giros complementarios, en tanto UPC Desarrollos Inmobiliarios S.A. tiene giro de inversiones y dentro de este el de inversiones inmobiliarias y el giro de la empleadora, Constructora UPC Desarrollos Inmobiliarios S.A., es de constructora.
+
+5°.- Que de las alegaciones del recurso sobre el particular, si bien objeta que en la especie no se configura la existencia de un único empleador, como lo concluyó el juez, lo cierto es que mediante la causal planteada, se limita a cuestionar aspectos formales y probatorios respecto de la construcción del fallo, en tanto cuestiona el valor que este le asignó a los diversos medios probatorios mediante los cuales se dieron por establecidas las circunstancias que sirvieron de fundamento a la existencia del hecho discutido, aseverando un yerro en la determinación del domicilio de las sociedades o la coincidencia entre sus representantes legales, entre otros. Tanto es así, que atribuye una serie de errores en la ponderación de los mandatos de los representantes legales y con ello en la aplicación del sistema de valoración probatoria conforme a las reglas de la sana crítica, reprochando asimismo, todo dentro de la misma y única causal de nulidad que se interpuso, que no cabía aplicar la sanción por la incomparecencia de las demandadas a prestar confesión.
+
+Tales alegaciones no guardan relación con los fundamentos propios de esta causal, desde que lo planteado corresponde a una disconformidad con la apreciación de la prueba, orientada más bien a impugnar la corrección del razonamiento empleado por el juez en la valoración de los medios probatorios, lo que excede el ámbito de control propio de la motivación de nulidad invocada, que no es otra, según se dijo, que determinar el correcto alcance y sentido de una norma, pero que supone un estricto respeto al sustrato fáctico de la decisión, lo que impide este cuestionamiento simultaneo que plantea el arbitrio, pues ambos aspectos resultan incompatibles.
+
+6°.- Que por otro lado, y dentro de la misma causal de nulidad, esto es aquella segunda hipótesis del artículo 477, anuncia el arbitrio que se encuentra constituida por una infracción al debido proceso como garantía constitucional; de ello, como primera cuestión salta a la vista la impropia atribución a la normativa que ampara el motivo de invalidación cuando lo que se denuncia es una vulneración de ese tipo. Luego, considerando que el debido proceso, como garantía de rango constitucional, asegura a toda persona el derecho a ser oída y juzgada en un procedimiento racional y justo, esto es, conforme a las reglas legales que ordenan la tramitación de los juicios y que constituyen el marco indispensable para preservar la igualdad de las partes y la imparcialidad del juez, resulta prístino que la infracción denunciada y que se hace consistir en la aplicación de los apercibimientos legales -incomparecencia en la confesional- sin precisar los hechos asertivos respecto de los cuales se tuvo por confesos a los representantes legales de las demandadas, nada tiene que ver con una vulneración que se enarbola, en tanto el magistrado no hizo otra cosa que aplicar estrictamente lo preceptuado en el numeral 3° del artículo 453 del código del ramo, e incluso hacer efectiva la aceptación tácita de la demanda, en los términos que explica el fallo en la parte final del motivo séptimo.
+
+En consecuencia, no se advierte infracción al debido proceso, toda vez que el tribunal de base se ciñó estrictamente a las reglas que rigen el procedimiento laboral.
+
+7°.- Que en cuanto a las restantes normas laborales y del Código de Procedimiento Civil que se reclaman transgredidas, baste para desestimar tal alegato consignar que por su naturaleza ostentan el carácter o de ordenatorias de la litis o bien de índole probatoria, lo que impide su conocimiento a través de un recurso que debe sustentarse exclusivamente en normas decisorias de la controversia, esto es, aquellas llamadas a resolver el fondo de la controversia.
+
+8°.- Que finalmente existen dos razones de fondo más para desestimar el arbitrio, la primera, que esta Corte ha tenido ocasión de conocer sobre la existencia de otros fallos, ejecutoriados con la misma declaración que se cuestiona y que producen el efecto ya conocido (artículo 507) y, por otra parte, que los hechos afincados por el propio juez y que le permitió adquirir convicción sobre la existencia de único empleador, dan cuenta justamente de la dirección laboral común que el recurrente echa en falta, en tanto se trata de dos empresas con giros complementarios, y con ello, de una gestión en común del trabajo, que comparten domicilio, representantes legales y titulares del dominio de cada una, de manera que ambas están absolutamente relacionadas por un vínculo de propiedad, y con giros que se necesitan uno al otro, dando cuenta de una necesidad organizacional con unidad de propósitos, sin que se exija para la configuración de la unidad económica la existencia de subordinación con todas las unidades empresariales.
+
+Por las razones anteriores, y lo dispuesto en los artículos 477, 479, 481 y 482 del Código del Trabajo, rechaza con costas el recurso de nulidad deducido por la demandada UPC Desarrollos Inmobiliarios S.A. contra la sentencia de once de septiembre de dos mil veinticuatro, en causa RIT O-6179-2023, seguida ante el Segundo Juzgado de Letras del Trabajo de Santiago, la que en consecuencia no es nula.
+
+Regístrese y comuníquese.
+
+Redactó la ministra Lilian Leyton Varela.
+No firma la abogada integrante señora Vásquez, no obstante haber concurrido a la vista de la causa y al acuerdo, por ausencia.
+Rol Laboral-Cobranza N° 3501-2024.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+ACTA DE AUDIENCIA DE JUICIO
+
+PROCEDIMIENTO ORDINARIO
+
+FECHA
+11 DE SEPTIEMBRE DE 2024
+
+TRIBUNAL
+SEGUNDO JUZGADO DE LETRAS DEL TRABAJO
+
+LUGAR
+SANTIAGO
+
+SALA
+10
+
+RUC
+23-4-0511127-6
+
+RIT
+O-6179-2023
+
+MAGISTRADO
+VICTOR RIFFO ORELLANA
+
+ADMINISTRATIVO DE ACTAS
+MIJAIL MELLA
+
+HORA DE INICIO
+13:00 HORAS
+
+HORA DE TERMINO
+14:56 HORAS
+
+Nº REGISTRO DE AUDIO
+2340511127-6-1349-240911-00
+
+Nº CUSTODIA ASIGNADA
+N°2368-2024
+
+PARTE DEMANDANTE
+1. ANA MAGDALENA SILVA PERDOMO
+
+2. ROBERTO CONTRERAS BARRAZA
+
+3. SIGFRIDO ALBERTO PIZARRO PIZARRO
+
+4. JUAN ANGEL DURÁN GAMBOA
+
+ABOGADO PARTE DEMANDANTE
+PABLO PATRICIO CORNEJO ZAMBRANO
+
+FORMA DE NOTIFICACION
+CORREO ELECTRONICO
+
+PARTE DEMANDADA
+CONSTRUCTORA UPC S.A.
+
+ABOGADO PARTE DEMANDADA
+-------------------
+
+FORMA DE NOTIFICACION
+CORREO ELECTRONICO
+
+PARTE DEMANDADA SOLIDARIA
+UPC DESARROLLOS INMOBILIARIOS S.A.
+
+ABOGADO PARTE DEMANDADA SOLIDARIA
+RAFEAL GALVEZ ZAMBRANO
+
+FORMA DE NOTIFICACION
+CORREO ELECTRONICO
+
+DIRECCION CORREO ELECTRONICO
+
+ACTUACIONES EFECTUADAS:
+SI
+NO
+ORD
+
+(HECHO DE HABERSE EFECTUADO O NO, Y SU ORDEN)
+
+AUTORIZA PODER
+X
+
+OBSERVACIONES A LA PRUEBA, PARTE DEMANDANTE
+X
+
+OBSERVACIONES A LA PRUEBA, PARTE DEMANDADA
+X
+
+FIJA FECHA PARA NOTIFICACION DE SENTENCIA
+X
+
+Observaciones a la prueba:
+
+Las partes realizan las observaciones a la prueba rendida en juicio, lo cual consta en el respectivo registro de audio.
+SENTENCIA:
+
+Visto además lo dispuesto en los artículos 1, 3, 7, 41, 42, 63, 73, 161, 162, 163, 168, 172, 173, 420, 446 y siguientes, 456, 457, 459, 507 todos del Código del Trabajo y demás normas legales pertinentes, se resuelve:
+
+I. Se acoge la acción de despido injustificado y cobro de prestaciones, y por tanto, se condena a la demandada CONSTRUCTORA UPC S.A. a pagar a los demandantes:
+
+1. ANA MAGDALENA SILVA PERDOMO:
+
+a. Indemnización sustitutiva del aviso previo, correspondiente a $1.479.292.-
+
+b. indemnización por 4 años de servicio, correspondiente a $5.917.168.-
+
+c. Recargo del 30% sobre la indemnización por años de servicio correspondiente a $1.775.150.-
+
+d. Feriado correspondiente a $ 1.796.175.-
+
+2. ROBERTO CONTRERAS BARRAZA:
+
+a. Indemnización sustitutiva del aviso previo correspondiente a $851.082.-
+
+b. Indemnización por tiempo servido, correspondiente a $727.485.-
+
+c. Remuneración del mes de junio 2023, correspondiente a $567.388.-
+
+d. Feriado correspondiente a $593. 838.-
+
+3. SIGFRIDO ALBERTO PIZARRO PIZARRO:
+
+a. Indemnización sustitutiva del aviso previo, correspondiente a $851.082.-
+
+b. Indemnización por tiempo servido, correspondiente a $494.560.-
+
+c. Remuneración de 20 dias del mes de junio 2023 correspondiente a $567.388.-
+
+d. Feriado correspondiente a $593.838.-
+
+4. JUAN ÁNGEL DURÁN GAMBOA:
+
+a. Indemnización sustitutiva del aviso previo, correspondiente a $845.247.-
+
+b. Remuneración del mes de junio de 2023, correspondiente a $563.498.-
+
+c. Feriado correspondiente a $404.323.-
+
+d. Indemnización por tiempo servido, correspondiente a $480.708.-
+
+II. Las cantidades señaladas en el punto anterior deberán ser objeto de reajuste e intereses dispuestos en el artículo 63 y 173 del Código del Trabajo, cuando corresponda.
+
+III. De las cantidades señaladas en el punto 1 deberá ser descontado respecto de cada uno de los demandantes $ 1.332.103.- correspondiente a lo pagado por las empresas originalmente demandadas como solidarias.
+
+IV. Se acoge la acción de nulidad de despido por no pago de cotizaciones previsionales respecto de cada uno de los demandantes, y por tanto, se condena a la demandada CONSTRUCTORA UPC S.A a pagar a los demandantes remuneraciones desde el término y hasta el pago efectivo de las cotizaciones previsionales a razón de la remuneración establecida en el punto 1 anterior como indemnización sustitutiva de la aviso previo respecto de cada uno de los demandantes, para efectos de la convalidación del despido deberá acreditarse el pago de las cotizaciones de salud, vejez y cesantía por los meses de abril de 2023 respecto de cada uno de los demandantes.
+
+V. Se acoge la acción de declaración de unidad económica o único empleador, y por tanto, se declara que las empresas CONSTRUCTORA UPC S.A y empresa UPC DESARROLLOS INMOBILIARIOS S.A constituyen un único empleador respecto de cada uno de los demandantes, siendo solidariamente responsables del crédito establecido en esta sentencia, tanto respecto de las indemnizaciones y prestaciones señaladas en el punto 1 de lo resolutivo de esta sentencia como en las consecuencias de la nulidad del despido establecida en el punto 4 de esta sentencia.
+
+VI. Cada parte soportará sus costas.
+
+VII. Una vez firme y ejecutaría la presenta sentencia remítanse los antecedentes Juzgados de Cobranza Laboral y Previsional para su ejecución en los tiempos y formas dispuestas en el artículo 462 del Código del Trabajo.
+Téngase a las partes por notificadas de las resoluciones precedentemente dictadas.
+
+Dirigió don VICTOR RIFFO ORELLANA, Juez Titular del Segundo Juzgado de Letras del Trabajo de Santiago.
+
+Se deja constancia que el registro oficial de la presente audiencia, se encuentra grabado en el audio y a disposición de los intervinientes. Segundo Juzgado de Letras del Trabajo de Santiago, once de septiembre de dos mil veinticuatro.-
