@@ -4,11 +4,11 @@ case_id: 73ad8dcd9b459a0aecf6952fdef526f89d9ef282
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041013
 
-rol: 1585-2026
+rol: 4286-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: PACHECO/SERVICIO NACIONAL_DE MIGRACIONES
+caratulado: TUMA/ISAPRE CRUZ BLANCA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,33 +16,19 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
+Corte Apelaciones ▼
+PAGE
+2
 Santiago, veinticinco de febrero de dos mil veintiséis.
 Vistos:
-Se reproduce el fallo en alzada, con excepción de los fundamentos que razonan en el sentido de rechazar la acción constitucional los que se eliminan.
-
-Y se tiene, en su lugar y, además, presente:
-Primero: Que, por la presente acción constitucional, se recurre en contra del Servicio Nacional de Migraciones, por la dilación injustificada en dar respuesta a la solicitud de permanencia definitiva presentada, lo cual califica de ilegal y arbitrario, señalando que vulnera sus garantías fundamentales contempladas en los numerales 2 y 7 del artículo 19 de la Constitución Política de la Republica.
-
-Solicita que se ordene al recurrido acoger a trámite sin más demora su solicitud o bien adoptar las medidas que se estimen apropiadas para resguardar y restablecer el imperio del derecho.
-
-Segundo: Que, para resolver el asunto en examen, se debe acudir a lo estatuido en la Ley N° 19.880. En este sentido resulta útil destacar el principio de celeridad, previsto en su artículo 7, conforme al cual la autoridad debe impulsar de oficio, en todos sus trámites, el procedimiento administrativo, debiendo actuar por propia iniciativa, haciendo expeditos los trámites que debe cumplir el expediente y removiendo todo obstáculo que pudiere afectar a su pronta y debida decisión. Lo anterior resulta congruente con el principio conclusivo, consagrado en el artículo 8, que determina la necesidad de término del procedimiento con un acto decisorio que se pronuncie sobre la cuestión de fondo, así como con el principio de economía procedimental, del artículo 9, que manda a la Administración responder con eficacia, evitando trámites dilatorios.
-
-Por último, el artículo 14 define el principio de inexcusabilidad señalando que la Administración está obligada a dictar resolución expresa en todos los procedimientos y a notificarla, cualquiera que sea su forma de iniciación.
-
-Tercero: Que, de acuerdo a lo informado por el recurrido, queda en evidencia el incumplimiento de la normativa que regula la actividad de la Administración, toda vez que la autoridad respectiva ha desconocido la aplicación de los principios de celeridad, conclusivo, de economía procedimental e inexcusabilidad, en tanto ha dilatado la decisión respecto de la solicitud de permanencia definitiva, excediendo el plazo establecido en el artículo 27 de la mencionada Ley N° 19.880 (SCS Rol N° 24.827-2020).
-
-Cuarto: Que, por tanto, la dilación del recurrido en el pronunciamiento sobre la mentada solicitud, en este caso particular, debe ser calificada de ilegal y arbitraria porque vulnera la garantía de igualdad ante la ley consagrada en el artículo 19 N° 2 de la Carta Fundamental, en tanto importa una discriminación en contra de la recurrente en relación con el trato dispensado a otros interesados que, en situación jurídica equivalente, han podido tramitar debidamente sus solicitud, obteniendo una respuesta formal en la que se contengan las razones conforme a las cuales la autoridad ha adoptado la decisión terminal pertinente.
-
-Por estas consideraciones y de conformidad, además, con lo prevenido en el artículo 20 de la Constitución Política de la República y Auto Acordado de esta Corte sobre la materia, se revoca la sentencia apelada y, en su lugar, se acoge el recurso de protección interpuesto, sólo en cuanto se dispone que el Servicio Nacional de Migraciones deberá emitir el pronunciamiento que en derecho corresponda respecto de la solicitud de permanencia definitiva presentada ante ella por la parte recurrente dentro del plazo de sesenta días corridos contados desde la notificación de esta sentencia.
-Acordada con el voto en contra del Ministro Sr.
-
-Ruz, quien estuvo por confirmar la sentencia en alzada, por sus propios fundamentos.
+Se confirma la sentencia apelada en estos autos.
 Regístrese y devuélvase.
-Rol N° 1.209-2026.
+
+Rol N° 4.286-2026.
 Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sr. Omar Astudillo C., Sr. Gonzalo Ruz L., la ministra suplente Sra. Eliana Quezada M. y las Abogadas Integrantes Sra. Fabiola Esther Lathrop Gómez y Sra. Andrea Paola Ruiz Rosas. Santiago, 25 de febrero de 2026.
 Autoriza el Ministro de Fe de la Excma. Corte Suprema.
 
@@ -50,35 +36,26 @@ En Santiago, a veinticinco de febrero de dos mil veintiséis, notifiqué en Secr
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
-C.A. de Concepción
+Corte Apelaciones ▼
+jtha
 
-CQF/rbf
+C.A. de Santiago.
 
-Concepción, veintiséis de diciembre de dos mil veinticinco.
+cb
 
-Vistos:
-A folio 1, se interpone recurso de protección por WILSON ANDRES AVILA ROMERO, de nacionalidad ecuatoriana, en contra del Servicio Nacional de Migraciones, por la omisión ilegal y arbitraria en el pronunciamiento sobre el beneficio migratorio de residencia temporal.
-Indica que, a la fecha, aún no obtiene respuesta final al acto administrativo, estimando que se está vulnerando el artículo 19 N°2 de la Constitución Política de la República, en concordancia con lo dispuesto en los artículos 1, 7, 8, 9, 23, 27 y 40 de la Ley 19.880.
-Solicita, en definitiva, se acoja el presente recurso, ordenando a la recurrida que se pronuncie sin mayor dilación sobre la solicitud presentada, con costas.
-Acompaña documentación a su recurso.
-La recurrida Servicio Nacional de Migraciones, informa que la solicitud de residencia temporal, presentada por WILSON ANDRES AVILA ROMERO, el 02 de octubre de 2024, está en tramitación en etapa de “Resolución”, estado “Pendiente” desde el 13 de noviembre de 2024.
+Santiago, veinticinco de junio de dos mil veinticinco.
 
-Se trajeron los autos en relación.
-CON LO RELACIONADO Y CONSIDERANDO:
-Primero: Que el recurso de protección tiene por objeto restablecer el imperio del derecho cuando éste ha sido quebrantado por actos u omisiones arbitrarias o ilegales que amenazan, perturban o privan del ejercicio legítimo de alguna de las garantías taxativamente numeradas en el artículo 20 de la Constitución Política de la República, dejando a salvo las demás acciones legales.
-Por consiguiente, resulta requisito indispensable de la acción de protección la existencia de un acto u omisión ilegal -esto es, contrario a la ley, según el concepto contenido en el artículo 1 del Código Civil- o arbitrario o sea, producto del mero capricho de quien incurre en él- y que provoque algunas de las situaciones o efectos que se han indicado, afectando a una de las garantías -preexistentes- protegidas, consideración que resulta básica para el análisis y la decisión del recurso que se ha interpuesto.
+Visto y teniendo presente:
 
-Segundo: Que, el asunto por el cual se solicita la adopción de medidas que restablezcan el imperio del derecho dice relación con la omisión arbitraria o ilegal por parte de la recurrida, en orden a acoger o rechazar la solicitud de residencia temporal que el recurrente presentó ante la entidad recurrida, alegando que aquella ha demorado en exceso al resolver su solicitud, actuando en contravención al principio de celeridad establecido en la Ley 19.880.
-Tercero: Que, conforme lo ha informado el Servicio recurrido, la solicitud de residencia temporal de la parte recurrente se encuentra en actual tramitación conforme al procedimiento establecido en la Ley N°21.325, de modo que no se advierte un acto u omisión arbitrario específico y de la entidad suficiente que vulnere sus garantías constitucionales, salvo la demora ostensible en obtener una decisión administrativa acerca de su solicitud, la que produce incertidumbre en el recurrente; pero encuentra una razón explicativa en el hecho que el Servicio Nacional de Migraciones está sobrepasado en su capacidad para dar respuestas a las solicitudes efectuadas por los ciudadanos extranjeros, en atención al gran número de peticiones ingresadas y en actual tramitación, por lo que resulta imposible pronunciarse en los plazos establecidos en la Ley N°19.880.
-Cuarto: Que, por otra parte, de acogerse este requerimiento y acelerarse el proceso administrativo en curso por esta vía, podría eventualmente implicar una vulneración del principio de igualdad ante la ley, que consagra el artículo 19, N°2 de la Carta Fundamental, respecto de las personas que verían demoradas las respuestas a sus pretensiones, frente a quienes, de contrario, a través de esta acción, obtendrían que la autoridad administrativa se abocase con prioridad y preferencia al análisis y resolución de sus requerimientos.
-Quinto: Que, conforme a lo razonado precedentemente, el presente arbitrio constitucional deberá ser desestimado, por cuanto no se advierte en el actuar del Servicio recurrido la existencia de arbitrariedad ni ilegalidad que vulnere las garantías constitucionales invocadas.
-Por estas consideraciones y lo establecido en el artículo 20 de la Constitución Política de la República y Auto Acordado de la Excma. Corte Suprema sobre Tramitación y Fallo del Recurso de Protección de las Garantías Constitucionales, se declara que:
+1°) Que el recurso de protección tiene por objeto restablecer el imperio del derecho cuando éste ha sido quebrantado por actos u omisiones arbitrarias o ilegales que amenazan, perturban o privan del ejercicio legítimo de alguna de las garantías taxativamente numeradas en el artículo 20 de la Constitución Política de la República, dejando a salvo las demás acciones legales;
 
-SE RECHAZA, sin costas, el recurso de protección interpuesto en favor de WILSON ANDRES AVILA ROMERO, en contra del Servicio Nacional de Migraciones.
+2°) Que, en la presentación efectuada en estos autos, no se han mencionado hechos que puedan constituir una vulneración a las garantías constitucionales indicadas en el artículo 20 de la Constitución Política de la República, teniendo especialmente presente que la solicitud que se realiza abarca aspectos que demuestran que lo pretendido es una declaración de mera certeza, toda vez que no se aportaron antecedentes suficientes que hayan dado cuenta del uso de las prestaciones médicas de carácter mental alegadas, razón por la cual tiene aplicación la norma de inadmisibilidad prevista en el inciso segundo del numeral 2° del Auto Acordado de la Excma. Corte Suprema sobre Tramitación del Recurso del Protección de Garantías Constitucionales.
 
-Regístrese, notifíquese, comuníquese y archívese, en su oportunidad.
-N°Protección-5449-2025.
+Y de conformidad, además, con lo dispuesto en el Auto Acordado de la Excma. Corte Suprema sobre tramitación y fallo del recurso de protección, se declara inadmisible el recurso de protección interpuesto al folio 1.
+
+Archívese.
+N°Protección-13950-2025.
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------
-C.A. de ConcepciónCQF/rbfConcepción, veintiséis de diciembre de dos mil veinticinco.Vistos:A folio 1, se interpone recurso de protección por WILSON ANDRES AVILA ROMERO, de nacionalidad ecuatoriana, en contra del Servicio Nacional de Migraciones, por la omisión ilegal y arbitraria en el pronunciamiento sobre el beneficio migratorio de residencia temporal.Indica que, a la fecha, aún no obtiene respuesta final al acto administrativo, estimando que se está vulnerando el artículo 19 N°2 de la Constitución Política de la República, en concordancia con lo dispuesto en los artículos 1, 7, 8, 9, 23, 27 y 40 de la Ley 19.880.Solicita, en definitiva, se acoja el presente recurso, ordenando a la recurrida que se pronuncie sin mayor dilación sobre la solicitud presentada, con costas.Acompaña documentación a su recurso.La recurrida Servicio Nacional de Migraciones, informa que la solicitud de residencia temporal, presentada por WILSON ANDRES AVILA ROMERO, el 02 de octubre de 2024, está en tramitación en etapa de “Resolución”, estado “Pendiente” desde el 13 de noviembre de 2024.Se trajeron los autos en relación.CON LO RELACIONADO Y CONSIDERANDO:Primero: Que el recurso de protección tiene por objeto restablecer el imperio del derecho cuando éste ha sido quebrantado por actos u omisiones arbitrarias o ilegales que amenazan, perturban o privan del ejercicio legítimo de alguna de las garantías taxativamente numeradas en el artículo 20 de la Constitución Política de la República, dejando a salvo las demás acciones legales.Por consiguiente, resulta requisito indispensable de la acción de protección la existencia de un acto u omisión ilegal -esto es, contrario a la ley, según el concepto contenido en el artículo 1 del Código Civil- o arbitrario o sea, producto del mero capricho de quien incurre en él- y que provoque algunas de las situaciones o efectos que se han indicado, afectando a una de las garantías -preexistentes- protegidas, consideración que resulta básica para el análisis y la decisión del recurso que se ha interpuesto.Segundo: Que, el asunto por el cual se solicita la adopción de medidas que restablezcan el imperio del derecho dice relación con la omisión arbitraria o ilegal por parte de la recurrida, en orden a acoger o rechazar la solicitud de residencia temporal que el recurrente presentó ante la entidad recurrida, alegando que aquella ha demorado en exceso al resolver su solicitud, actuando en contravención al principio de celeridad establecido en la Ley 19.880.Tercero: Que, conforme lo ha informado el Servicio recurrido, la solicitud de residencia temporal de la parte recurrente se encuentra en actual tramitación conforme al procedimiento establecido en la Ley N°21.325, de modo que no se advierte un acto u omisión arbitrario específico y de la entidad suficiente que vulnere sus garantías constitucionales, salvo la demora ostensible en obtener una decisión administrativa acerca de su solicitud, la que produce incertidumbre en el recurrente; pero encuentra una razón explicativa en el hecho que el Servicio Nacional de Migraciones está sobrepasado en su capacidad para dar respuestas a las solicitudes efectuadas por los ciudadanos extranjeros, en atención al gran número de peticiones ingresadas y en actual tramitación, por lo que resulta imposible pronunciarse en los plazos establecidos en la Ley N°19.880.Cuarto: Que, por otra parte, de acogerse este requerimiento y acelerarse el proceso administrativo en curso por esta vía, podría eventualmente implicar una vulneración del principio de igualdad ante la ley, que consagra el artículo 19, N°2 de la Carta Fundamental, respecto de las personas que verían demoradas las respuestas a sus pretensiones, frente a  quienes, de contrario, a través de esta acción, obtendrían que la autoridad administrativa se abocase con prioridad y preferencia al análisis y resolución de sus requerimientos.Quinto: Que, conforme a lo razonado precedentemente, el presente arbitrio constitucional deberá ser desestimado, por cuanto no se advierte en el actuar del Servicio recurrido la existencia de arbitrariedad ni ilegalidad que vulnere las garantías constitucionales invocadas.Por estas consideraciones y lo establecido en el artículo 20 de la Constitución Política de la República y Auto Acordado de la Excma. Corte Suprema sobre Tramitación y Fallo del Recurso de Protección de las Garantías Constitucionales, se declara que:SE RECHAZA, sin costas, el recurso de protección interpuesto en favor de WILSON ANDRES AVILA ROMERO, en contra del Servicio Nacional de Migraciones.Regístrese, notifíquese, comuníquese y archívese, en su oportunidad.N°Protección-5449-2025.                        ⚠                      Sin documento en esta instancia - pdf
+PAGE2Santiago, veinticinco de febrero de dos mil veintiséis.Vistos:Se confirma la sentencia apelada en estos autos.Regístrese y devuélvase.Rol N° 4.286-2026.Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sr. Omar Astudillo C., Sr. Gonzalo Ruz L., la ministra suplente Sra. Eliana Quezada M. y las Abogadas Integrantes Sra. Fabiola Esther Lathrop Gómez y Sra. Andrea Paola Ruiz Rosas. Santiago, 25 de febrero de 2026.Autoriza el Ministro de Fe de la Excma. Corte Suprema.En Santiago, a veinticinco de febrero de dos mil veintiséis, notifiqué en Secretaría por el Estado Diario la resolución precedente. PAGE2Santiago, veinticinco de febrero de dos mil veintiséis.Vistos:Se confirma la sentencia apelada en estos autos.Regístrese y devuélvase.Rol N° 4.286-2026.Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sr. Omar Astudillo C., Sr. Gonzalo Ruz L., la ministra suplente Sra. Eliana Quezada M. y las Abogadas Integrantes Sra. Fabiola Esther Lathrop Gómez y Sra. Andrea Paola Ruiz Rosas. Santiago, 25 de febrero de 2026.Autoriza el Ministro de Fe de la Excma. Corte Suprema.En Santiago, a veinticinco de febrero de dos mil veintiséis, notifiqué en Secretaría por el Estado Diario la resolución precedente. Sentencia anonimizada
