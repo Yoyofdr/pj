@@ -4,17 +4,17 @@ case_id: fcc84b5e5043b3e8b36f6011bc1cad571b44d574
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062652
 
-rol: 58149-2025
+rol: 41499-2025
 
 fecha_sentencia: 2026-03-13
 
-caratulado: CAMILA GODOY CORONAO/MUNICIPALIDAD DE FUTRONO
+caratulado: ABARCA/METLIFE CHILE SEGUROS DE VIDA S.A..
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) CASACIÓN FONDO
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

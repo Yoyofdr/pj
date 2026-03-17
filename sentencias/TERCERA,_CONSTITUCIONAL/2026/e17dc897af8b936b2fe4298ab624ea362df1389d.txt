@@ -4,19 +4,19 @@ case_id: e17dc897af8b936b2fe4298ab624ea362df1389d
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062690
 
-rol: 58418-2025
+rol: 41492-2025
 
 fecha_sentencia: 2026-03-13
 
-caratulado: IVÁN MARCELO MORALES CAAMAÑO /MUNICIPALIDAD DE YUMBEL
+caratulado: CIPRIANO BARRIA MALDONADO / EMPRESA ELECTRICA SOCIEDAD AUSTRAL DE ELECTRICIDAD S.A ( SAESA)
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) CASACIÓN FONDO
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
