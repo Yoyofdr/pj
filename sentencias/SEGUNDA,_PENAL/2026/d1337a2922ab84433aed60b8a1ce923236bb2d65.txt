@@ -4,11 +4,11 @@ case_id: d1337a2922ab84433aed60b8a1ce923236bb2d65
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8064017
 
-rol: 42519-2025
+rol: 12722-2026
 
 fecha_sentencia: 2026-03-16
 
-caratulado: MINISTERIO PUBLICO FISCALIA LOCAL C/ NATALI ALEJANDRA VILLANUEVA VALLEJOS
+caratulado: TRUJILLO TORREZ DANIS AGUSTIN CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
@@ -16,11 +16,10 @@ materias: (CRIMEN) APELACIÓN AMPARO
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: RECHAZA RECURSO DE NULIDAD (M)
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
-Corte Suprema ▼
 Santiago, dieciséis de marzo del dos mil veintiséis.
 
 VISTOS:

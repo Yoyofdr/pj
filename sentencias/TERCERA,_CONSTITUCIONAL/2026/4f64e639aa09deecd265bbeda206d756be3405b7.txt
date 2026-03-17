@@ -4,15 +4,15 @@ case_id: 4f64e639aa09deecd265bbeda206d756be3405b7
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8063223
 
-rol: 2446-2026
+rol: 3714-2026
 
 fecha_sentencia: 2026-03-16
 
-caratulado: CRISTIAN ALBERTO SCHEIHING MUÑOZ/ SERVICIO SALUD DE LOS RÍOS
+caratulado: COMPANIA MINERA MANTOS DE ORO/DIRECCIÓN GENERAL MOVILIZACIÓN NACIONAL
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Acto administrativo
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 

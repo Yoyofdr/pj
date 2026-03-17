@@ -4,19 +4,19 @@ case_id: 44991c87b3225e8a75482d325f978b988090169f
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8064488
 
-rol: 11907-2026
+rol: 42519-2025
 
 fecha_sentencia: 2026-03-16
 
-caratulado: ENGRACIA IBARRA FRANCISCO ANTONIO CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: MINISTERIO PUBLICO FISCALIA LOCAL C/ NATALI ALEJANDRA VILLANUEVA VALLEJOS
 
 sala: SEGUNDA, PENAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Delitos de narcotráfico
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: RECHAZA RECURSO DE NULIDAD (M)
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

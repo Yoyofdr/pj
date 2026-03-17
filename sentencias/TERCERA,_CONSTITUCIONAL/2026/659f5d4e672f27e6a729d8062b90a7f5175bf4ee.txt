@@ -4,19 +4,19 @@ case_id: 659f5d4e672f27e6a729d8062b90a7f5175bf4ee
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8064137
 
-rol: 1946-2026
+rol: 49525-2025
 
 fecha_sentencia: 2026-03-16
 
-caratulado: ISABEL NUÑEZ CHAVARRIA/AFP CAPITAL S. A.
+caratulado: CONTRERAS/CAJA DE COMPENSACION DE ASIGNACION FAMILIAR LA ARAUCANA
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Caja de compensación de asignación familiar
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

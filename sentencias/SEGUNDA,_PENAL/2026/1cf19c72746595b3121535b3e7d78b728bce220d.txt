@@ -4,15 +4,15 @@ case_id: 1cf19c72746595b3121535b3e7d78b728bce220d
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8064490
 
-rol: 12098-2026
+rol: 9232-2026
 
 fecha_sentencia: 2026-03-16
 
-caratulado: VEGA CAMARGO MAICKER ANDRE CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: CUATTONI GALEANO NICOLAS ALAN CONTRA SERVICIO NACIONAL DE MIGRACIONES DE CHILE
 
 sala: SEGUNDA, PENAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Recurso de Amparo
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
@@ -20,14 +20,58 @@ resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
-Santiago, dieciséis de marzo del dos mil veintiséis.
+1
+Santiago, dieciséis de marzo de dos mil veintiséis.
+Vistos:
+En estos autos Rol Corte Suprema N°32.000-2024, caratulados “Fortunato con Municipalidad de Cerrillos”, juicio ordinario sobre indemnización de perjuicios, por sentencia de veintidós de mayo de dos mil veinte, el Undécimo Juzgado Civil de Santiago rechazó la demanda en todas sus partes.
 
-Vistos y teniendo únicamente presente:
-Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de cuatro de marzo de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N° 907 - 2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.
+Apelada tal decisión, por resolución de cuatro de julio de dos mil veinticuatro, la Corte de Apelaciones de Santiago la revocó, sólo en cuanto condenó al demandante al pago de las costas de la causa, confirmándola en lo demás.
+En contra de esta última determinación, la demandante dedujo recursos de casación en la forma y en el fondo.
 
+Se trajeron los autos en relación.
+
+Considerando:
+I.- En cuanto al recurso de casación en la forma.
+
+Primero: Que el arbitrio de nulidad formal esgrime la causal del artículo 768 N°5 del Código de Procedimiento Civil, en relación con el artículo 170 N°4 del mismo cuerpo normativo, esto es, haber sido pronunciada la sentencia con omisión de los fundamentos de hecho y de derecho en que se funda, reprochando que el fallo arriba a conclusiones jurídicas sin explicar la forma en que ello ocurre, careciendo de lógica formal en su parte considerativa y resolutiva. Estima que se probaron todos y cada uno de los hechos mandados a acreditar por el tribunal, sin que exista razón alguna para desestimar la acción; sin embargo, la decisión le atribuye responsabilidad en el incumplimiento, quedándose sólo en la formalidad de la norma y sin un examen real sobre si la actora tenía otros medios posibles para cumplir su obligación.
+
+Segundo: Que el defecto esgrimido concurre en el caso que la sentencia impugnada carezca de las consideraciones fácticas o jurídicas que le sirven de sustento, pero no tiene lugar cuando aquéllas existen, pero no se ajustan a la tesis postulada por la parte recurrente, cuyo es del caso de autos.
+Tercero: Que, en efecto, la sentencia impugnada ha dado razones para el rechazo de la demanda, las que se pueden sintetizar en la circunstancia de que, conforme a los términos del contrato, la demandante estaba en conocimiento de las dificultades que implicaría la obtención de la documentación necesaria para la ejecución de su cometido, siento aquello del todo previsible y que la necesidad de “encontrar vías alternativas”, según se estipuló, no se satisface con la simple remisión de cartas donde se solicitan los antecedentes.
+En consecuencia, se resolvió que, por no haberse emitido el informe a que se encontraba obligada la actora, es ésta quien incurrió en incumplimiento contractual, circunstancia que determina el rechazo de la demanda.
+
+Cuarto: Que, en este sentido, fluye que aquello que subyace a las alegaciones del recurso es en realidad una discrepancia con la valoración de la prueba y con la forma de establecimiento de los hechos por la sentencia impugnada, actividad que, en esos términos, escapa al control que puede realizarse por la vía de la nulidad formal, motivando así el rechazo del arbitrio.
+Quinto: Que, sin perjuicio de lo anterior, esta Corte no puede dejar de destacar que resulta efectivo que la decisión de segunda instancia no se hizo cargo de manera expresa del valor probatorio de la prueba confesional rendida ante el Tribunal de Alzada, en el marco de la cual se tuvo por confeso al representante de la demandada, al tenor del artículo 394 del Código de Procedimiento Civil.
+
+Sexto: Que, sin embargo, conforme a lo dispuesto en el inciso 3° del artículo 768 del Código de Procedimiento Civil, el tribunal podrá desestimar el recurso de casación en la forma, si de los antecedentes aparece de manifiesto que el recurrente no ha sufrido un perjuicio reparable sólo con la invalidación del fallo o cuando el vicio no ha influido en lo dispositivo del mismo.
+En la especie, si bien resulta efectiva la omisión que se ha indicado respecto de la prueba confesional, lo cierto es que su solo tenor no resulta, en concepto de estos sentenciadores, suficiente para alterar los hechos que ya vienen establecidos en autos, esto es, que la demandante no solicitó en tiempo y forma la información necesaria para el cometido a que se obligó y, producto de ello, no entregó oportunamente el informe respectivo, ambas circunstancias fácticas que fueron calificadas jurídicamente como un incumplimiento contractual y condujeron, por tanto, al rechazo de la demanda.
+
+Séptimo: Que, en consecuencia, respecto de este último punto solo cabe concluir que el vicio formal antes indicado no tiene influencia en lo resolutivo del fallo impugnado, debiendo también rechazarse el recurso por este motivo.
+II.- En cuanto al recurso de casación en el fondo.
+
+Octavo: Que el arbitrio de nulidad sustancial alegó la infracción del artículo 384 del Código de Procedimiento Civil, por cuanto en el juicio depusieron tres testigos, legalmente examinados y que dieron razón de sus dichos, cumpliendo con todos los presupuestos para ser valorados como plena prueba y que, conjuntamente con la documental rendida, debieron servir para tener por acreditados los hechos a probar.
+
+Noveno: Que, a continuación, denuncia la contravención del artículo 394 inciso 1° del Código de Procedimiento Civil, relativo a la absolución de posiciones que se rindió en segunda instancia, donde se tuvo por confesa a la demandada de hechos cuyo reconocimiento debieron haber conducido al acogimiento de la demanda.
+Décimo: Que, finalmente, da por transgredido el artículo 1702 en relación con el artículo 1700, ambos del Código Civil, por cuanto la documental rendida da cuenta de comunicaciones entre las partes, donde la demandada reconoció la entrega tardía de los antecedentes, pero también que no los tiene y que no existen, circunstancias omitidas por la sentencia y cuyo mérito debió haber llevado al establecimiento de la responsabilidad municipal.
+Undécimo: Que concluye señalando que los yerros anteriores tuvieron influencia sustancial en lo dispositivo del fallo, por cuanto motivaron el rechazo de una demanda que debió ser acogida.
+
+Duodécimo: Que los antecedentes dicen relación con la demanda de indemnización de perjuicios por responsabilidad contractual, deducida por Fortunato y Asociados Limitada, en contra de la Municipalidad de Cerrillos, acusando el incumplimiento de la convención denominada “Auditoría externa de la ejecución presupuestaria y el estado de situación financiera de la Municipalidad de Cerrillos según llamado”, motivo por el cual exige el resarcimiento de daño emergente, lucro cesante y daño moral, en distintas cantidades.
+
+Décimo tercero: Que la sentencia de primer grado, confirmada en segunda instancia, rechazó la demanda, teniendo para ello presente que las partes, al tiempo de manifestar su consentimiento, tuvieron presente no solo las características de lo pactado sino también las dificultades con las que bregarían, particularmente la empresa adjudicataria.
+
+En razón de ello es que no aparecen como razonables los reclamos formulados en la demanda relativos a la falta de documentación o retardo en la entrega de la misma, pues dentro de la regla contractual ello era del todo previsible, lo que se traducía en que debía encontrar por “vías alternativas la información deseada”, cuestión que no se satisface con la simple remisión de cartas en que se solicitan los antecedentes y que fueron enviadas cuando ya el contrato se había extendido en dos ocasiones.
+En consecuencia, fue la parte de Fortunato y Asociados Limitada la que incurrió en incumplimiento contractual, desde que no emitió el informe al que se encontraba obligada, incumplimiento que encuentra su origen o justificación en no haber desarrollado todas las medidas necesarias para obtener información que sabía era de difícil acceso.
+
+Décimo cuarto: Que, entrando al análisis de los yerros que se denuncian en el recurso, esta Corte ya ha señalado con anterioridad que el artículo 384 del Código de Procedimiento Civil no es una norma reguladora de la prueba, por cuanto no consagra reglas que dispongan parámetros fijos de apreciación que obliguen en uno u otro sentido a los jueces de la instancia, siendo éstos soberanos en la valoración de la prueba testifical, por lo que este aspecto no es susceptible de ser atacado a través del arbitrio en estudio.
+
+Décimo quinto: Que, luego, en relación con el resto de las normas cuya infracción se denuncia, del tenor del recurso fluye que aquello que se objeta es en realidad la apreciación de la prueba, a la que el tribunal, en virtud de sus facultades privativas, no le ha dado el mérito que le atribuye el demandante, objeción que, en dichos términos, no es susceptible de ser revisada por el presente arbitrio y se agota en las conclusiones formuladas por los jueces de la instancia.
+Décimo sexto: Que, en consecuencia, los hechos asentados en la sentencia recurrida resultan inamovibles para este Tribunal de Casación, por cuanto no se ha denunciado eficientemente la vulneración de leyes reguladoras de la prueba, único evento en que esta Corte podría modificar las circunstancias fácticas asentadas por los jueces del fondo.
+Décimo séptimo: Que, en este escenario, habiéndose dado por establecido que la actora estaba obligada a solicitar antecedentes al municipio contratante, lo cual incumplió y ello trajo consigo que no evacuara en tiempo y forma el informe objeto del contrato, ambas circunstancias que los sentenciadores calificaron jurídicamente como un incumplimiento contractual y que no han sido modificadas en el contexto del presente recurso, éste ha de ser rechazado, según se dirá.
+Y de conformidad, además, con lo que disponen los artículos 764, 767 y 805 del Código de Procedimiento Civil, se rechazan los recursos de casación en la forma y en el fondo entablados en contra de la sentencia de cuatro de julio de dos mil veinticuatro, dictada por la Corte de Apelaciones de Santiago.
 Regístrese y devuélvase.
 
-Rol N° 12098 - 2026
+Redacción a cargo del Ministro (S) señor Contreras.
+Rol N°32.000-2024.
+Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los Ministros (as) Sra. Adelita Ravanales A., Sr. Diego Simpértigue L., el Ministro Suplente Sr. Roberto Contreras O., y los Abogados Integrantes Sr. Juan Carlos Ferrada B. y Sr. José Valdivia O. No firma, no obstante haber concurrido a la vista y al acuerdo de la causa, el Ministro Sr. Simpértigue por haber cesado en funciones.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------

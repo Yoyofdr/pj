@@ -4,11 +4,11 @@ case_id: 36055efb90f6420b5d457bed03c0a507e71d99b9
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8064122
 
-rol: 1741-2026
+rol: 2884-2026
 
 fecha_sentencia: 2026-03-16
 
-caratulado: LORENA HERNANDEZ NUÑEZ/ SUPERINTENDENCIA DE SALUD
+caratulado: SOCIEDAD COMERCIAL AGRICOLA Y DE INVERSIONES SAN JOSÉ LIMITADA/SECRETARIA REGIONAL MINISTERIAL. ACUM. 1955-24/CIV.
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CRIMEN) APELACIÓN AMPARO
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: RECHAZA CASACION EN EL FONDO
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
