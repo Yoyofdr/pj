@@ -4,11 +4,11 @@ case_id: f0dc8e30f17989594d4063f0e678ff3d48e4a4d5
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8048469
 
-rol: 6589-2026
+rol: 56652-2025
 
 fecha_sentencia: 2026-03-04
 
-caratulado: NICOLLE SOLANGE CALVO SANCHEZ / SUPERINTENDENCIA DE SEGURIDAD SOCIAL
+caratulado: JOSEPH/SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
