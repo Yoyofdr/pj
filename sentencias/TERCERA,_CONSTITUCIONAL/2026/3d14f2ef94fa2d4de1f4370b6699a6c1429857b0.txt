@@ -4,15 +4,15 @@ case_id: 3d14f2ef94fa2d4de1f4370b6699a6c1429857b0
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040559
 
-rol: 7759-2026
+rol: 7477-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: BLANCO LARA VANESSA CAROLINA/ASOCIACIÓN DE FONDOS DE PENSIONES PROVIDA SOCIEDAD ANÓNIMA
+caratulado: CHILEMONTAÑA TRIPS NICOLAS ANDRE ROJAS CUQ E.I.R.L. CONTRA CORPORACIÓN NACIONAL FORESTAL REGIÓN DE AYSÉN
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Previsional
+materias: ▪ Amparo Económico
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 

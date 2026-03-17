@@ -4,15 +4,15 @@ case_id: b285840f66606a73b163ec75c17ee4c22093e8b1
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040788
 
-rol: 7477-2026
+rol: 7304-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: CHILEMONTAÑA TRIPS NICOLAS ANDRE ROJAS CUQ E.I.R.L. CONTRA CORPORACIÓN NACIONAL FORESTAL REGIÓN DE AYSÉN
+caratulado: GARCIA/AFP PROVIDA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Amparo Económico
+materias: ▪ Previsional
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
