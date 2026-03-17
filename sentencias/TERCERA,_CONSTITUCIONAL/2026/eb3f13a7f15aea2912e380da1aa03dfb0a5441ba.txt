@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Protecciones en contra de particulares
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) CASACIÓN FONDO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

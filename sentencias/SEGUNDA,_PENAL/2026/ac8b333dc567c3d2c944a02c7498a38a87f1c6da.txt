@@ -1,0 +1,53 @@
+METADATA
+
+case_id: ac8b333dc567c3d2c944a02c7498a38a87f1c6da
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8037480
+
+rol: 7475-2026
+
+fecha_sentencia: 2026-02-24
+
+caratulado: RODRIGUEZ PINTO KEYLI MARIAN CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: (CIVIL) CASACIÓN FONDO
+
+recurso: (CIVIL) CASACIÓN FONDO
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veinticuatro de febrero de dos mil veintiséis.
+Visto:
+Se confirma la sentencia apelada de nueve de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Temuco, en el Ingreso Corte N°Amparo-54-2026.
+Regístrese y devuélvase.
+Rol N°7245-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Temuco.
+Temuco, nueve de febrero de dos mil veintiséis.
+Vistos y teniendo presente:
+
+Primero: Que el abogado don Sebastián Painemal Granzotto interpone recurso de amparo constitucional en favor de Sebastián Eduardo Vilches Sandoval, actualmente privado de libertad en el Centro de Cumplimiento Penitenciario de Pitrufquén, en contra de la resolución dictada por el Juzgado de Letras y Garantía de Pitrufquén con fecha 25 de agosto de 2025, confirmada por esta Corte el 14 de noviembre de 2025, que negó la concesión de la pena sustitutiva de reclusión parcial nocturna domiciliaria y dispuso el cumplimiento efectivo de la pena impuesta.
+
+Segundo: Que el recurso de amparo, previsto en el artículo 21 de la Constitución Política de la República, es una acción cautelar de carácter excepcional destinada a amparar la libertad personal y seguridad individual frente a actos u omisiones ilegales o arbitrarios que importen una afectación actual de dichas garantías. No constituye una instancia adicional para revisar el mérito de resoluciones judiciales dictadas dentro de un procedimiento legalmente tramitado.
+
+Tercero: Que del examen del libelo se advierte que la privación de libertad del amparado deriva del cumplimiento de una sentencia condenatoria firme, dictada por tribunal competente en ejercicio de sus atribuciones legales, y que los reproches del recurrente se dirigen esencialmente a cuestionar la valoración jurídica efectuada por los jueces respecto de la procedencia de una pena sustitutiva, materia que ha sido conocida y resuelta a través de los recursos procesales ordinarios contemplados por la ley.
+
+Cuarto: Que, además, las resoluciones impugnadas fueron dictadas con fechas 25 de agosto de 2025 y 14 de noviembre de 2025, lo que evidencia que la acción intentada no se dirige a enfrentar una afectación sobreviniente o inmediata, sino a reabrir por esta vía excepcional un debate ya resuelto, circunstancia que desmejora el carácter urgente y cautelar propio del recurso de amparo.
+
+Quinto: Que, en consecuencia, no se advierte la existencia de un acto ilegal o arbitrario actual que justifique la intervención de esta Corte por la vía del artículo 21 de la Constitución, desde que el amparo no puede utilizarse para suplir o reemplazar los mecanismos recursivos ordinarios ni para revisar el mérito de decisiones jurisdiccionales firmes.
+
+Por estas consideraciones y lo dispuesto en el artículo 21 de la Constitución Política de la República y en el Auto Acordado de la Excma. Corte Suprema sobre tramitación y fallo del recurso de amparo, se declara inadmisible el recurso de amparo interpuesto en favor de Sebastián Eduardo Vilches Sandoval.
+
+Archívese.
+
+Rol N° Amparo-54-2026 (pvb).
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de Temuco.Temuco, nueve de febrero de dos mil veintiséis.Vistos y teniendo presente:Primero: Que el abogado don Sebastián Painemal Granzotto interpone recurso de amparo constitucional en favor de Sebastián Eduardo Vilches Sandoval, actualmente privado de libertad en el Centro de Cumplimiento Penitenciario de Pitrufquén, en contra de la resolución dictada por el Juzgado de Letras y Garantía de Pitrufquén con fecha 25 de agosto de 2025, confirmada por esta Corte el 14 de noviembre de 2025, que negó la concesión de la pena sustitutiva de reclusión parcial nocturna domiciliaria y dispuso el cumplimiento efectivo de la pena impuesta.Segundo: Que el recurso de amparo, previsto en el artículo 21 de la Constitución Política de la República, es una acción cautelar de carácter excepcional destinada a amparar la libertad personal y seguridad individual frente a actos u omisiones ilegales o arbitrarios que importen una afectación actual de dichas garantías. No constituye una instancia adicional para revisar el mérito de resoluciones judiciales dictadas dentro de un procedimiento legalmente tramitado.Tercero: Que del examen del libelo se advierte que la privación de libertad del amparado deriva del cumplimiento de una sentencia condenatoria firme, dictada por tribunal competente en ejercicio de sus atribuciones legales, y que los reproches del recurrente se dirigen esencialmente a cuestionar la valoración jurídica efectuada por los jueces respecto de la procedencia de una pena sustitutiva, materia que ha sido conocida y resuelta a través de los recursos procesales ordinarios contemplados por la ley.Cuarto: Que, además, las resoluciones impugnadas fueron dictadas con fechas 25 de agosto de 2025 y 14 de noviembre de 2025, lo que evidencia que la acción intentada no se dirige a enfrentar una afectación sobreviniente o inmediata, sino a reabrir por esta vía excepcional un debate ya resuelto, circunstancia que desmejora el carácter urgente y cautelar propio del recurso de amparo.Quinto: Que, en consecuencia, no se advierte la existencia de un acto ilegal o arbitrario actual que justifique la intervención de esta Corte por la vía del artículo 21 de la Constitución, desde que el amparo no puede utilizarse para suplir o reemplazar los mecanismos recursivos ordinarios ni para revisar el mérito de decisiones jurisdiccionales firmes.Por estas consideraciones y lo dispuesto en el artículo 21 de la Constitución Política de la República y en el Auto Acordado de la Excma. Corte Suprema sobre tramitación y fallo del recurso de amparo, se declara inadmisible el recurso de amparo interpuesto en favor de Sebastián Eduardo Vilches Sandoval.Archívese.Rol N° Amparo-54-2026 (pvb).                        ⚠                      Sin documento en esta instancia - pdf
