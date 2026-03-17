@@ -4,15 +4,15 @@ case_id: 9795d64a3c3b191f056134939327a7fa999b9e53
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045045
 
-rol: 118-2026
+rol: 50852-2025
 
-fecha_sentencia: 2026-02-26
+fecha_sentencia: 2026-03-02
 
-caratulado: JOSE LUIS GONZALEZ DUBRAVCIC CONTRA MINISTERIO DE OBRAS PUBLICAS DIRECCIÓN GENERAL DE OO PP DCYF
+caratulado: ASOCIACION REGIONAL SUR TAEKWONDO WTF/FEDERACIÓN DEPORTIVA NACIONAL DE TAEKWONDO WTF
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Bienes nacionales de uso público, bienes fiscales y municipales
+materias: ▪ Protecciones en contra de particulares
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 

@@ -4,19 +4,19 @@ case_id: 11049516edc92a8db255e0348857394dd279c7e3
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045054
 
-rol: 50852-2025
+rol: 21092-2024
 
-fecha_sentencia: 2026-02-26
+fecha_sentencia: 2026-03-02
 
-caratulado: ASOCIACION REGIONAL SUR TAEKWONDO WTF/FEDERACIÓN DEPORTIVA NACIONAL DE TAEKWONDO WTF
+caratulado: WIFICOM CHILE LTDA. CON ILUSTRE MUNICIPALIDAD DE QUILICURA
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Protecciones en contra de particulares
+materias: ▪ Admisibilidad del recurso de casación en el fondo
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: RECHAZA CASACION EN EL FONDO
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

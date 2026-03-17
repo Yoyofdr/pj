@@ -1,0 +1,69 @@
+METADATA
+
+case_id: 2b5d138d6e8cdc803a589ae5b49415c22e3372e6
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045661
+
+rol: 27-2026
+
+fecha_sentencia: 2026-03-02
+
+caratulado: ARIAS/SOCIEDAD CONCESIONARIA RUTA DE LA FRUTA S.A.
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: ▪ Concesiones
+
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, dos de marzo del dos mil veintiséis.
+
+Vistos:
+Atendido el mérito de los antecedentes, se confirma la sentencia apelada de diez de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Valparaíso, en el Ingreso Corte N°Amparo-402-2026.
+
+Regístrese y devuélvase.
+
+Rol N° 6226-2026
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Llg
+
+C.A. de Valparaíso.
+Valparaíso, diez de febrero de dos mil veintiséis.
+Vistos:
+
+A folio 1 Manuel Alexis Molina Escalona, de nacionalidad venezolana, interpone acción de amparo en su favor y en contra del Servicio Nacional de Migraciones, impugnando la Resolución Exenta N° 2600100052222, de 27 de enero de 2026, que rechazó su solicitud de residencia temporal y dispuso su abandono del país.
+
+Expone que el 27 de septiembre de 2024 inició el trámite migratorio y durante el proceso la autoridad le solicitó subsanar antecedentes debiendo pagar una multa, por lo que procedió al pago ante la Tesorería General de la República por un monto de $265.448, cargando el comprobante respectivo al sistema oficial.
+Destaca que el propio Servicio le otorgó un certificado de "Ampliación de Solicitud de Residencia Temporal en Trámite", válido por 180 días, lo que a su juicio acredita que se encontraba en una situación migratoria activa y bajo control administrativo.
+Sostiene que actuó de buena fe y que la autoridad incurrió en ilegalidad al no ponderar este pago ni la vigencia de su ampliación, vulnerando su libertad personal y seguridad individual al dictar una orden de abandono desproporcionada.
+
+A folio 5 evacúa informe el Servicio Nacional de Migraciones, solicitando el rechazo de la acción y argumentando que el amparado postuló a su residencia el 27 de septiembre de 2024, encontrándose en situación irregular tras el vencimiento de su permiso anterior el 31 de agosto de 2023.
+Explica que se le notificó electrónicamente el 28 de noviembre de 2024 que su solicitud estaba incompleta, requiriéndole específicamente acreditar el pago de la sanción por desarrollar actividades remuneradas sin autorización, conforme al artículo 109 de la Ley N° 21.325. Refiere que, si bien el recurrente acompañó un comprobante de pago, este correspondía a una infracción distinta: la de residencia irregular prevista en el artículo 119 de la citada ley.
+Afirma que, al no subsanar el requisito legal de pagar la multa correcta pese a los plazos otorgados, el rechazo de la residencia es un acto reglado y obligatorio conforme al artículo 88 N° 1 de la Ley N° 21.325, siendo el abandono una consecuencia legal necesaria de dicho rechazo.
+
+A folio 6 se ordena traer los autos en relación.
+
+Con lo relacionado y considerando:
+Primero: Que, la acción de amparo es un proceso de tutela urgente del derecho fundamental a la libertad personal y seguridad individual, establecido en el artículo 19 N° 7 de la Constitución Política de la República. Procede cuando una persona sufre cualquier privación, perturbación o amenaza a dicho derecho fuera de los casos permitidos por el ordenamiento jurídico.
+
+Segundo: Que, la controversia se centra en la Resolución Exenta N° 2600100052222, de 27 de enero de 2026, dictada por el Servicio Nacional de Migraciones, que rechaza la solicitud de residencia del extranjero Manuel Alexis Molina Escalona por no adjuntar el comprobante de pago de la multa del artículo 109 de la Ley N° 21.325.
+
+Tercero: Que, de los antecedentes se desprende que el amparado efectivamente realizó un pago por concepto de multas ante la Tesorería General de la República por la suma de $265.448 el 27 de septiembre de 2024. No obstante, dicho pago se imputó a la infracción del artículo 119 de la Ley 21.325, esto es, por residencia irregular, y no a la del artículo 109 de la citada ley, que corresponde a trabajar sin autorización. Se concluye, entonces, que el amparado incurrió en un error al momento de gestionar el pago de la sanción, ingresándola en un ítem que no correspondía a la sanción aplicada.
+
+Cuarto: Que, en cuanto al arraigo del amparado, se encuentra demostrado con el tiempo de permanencia efectiva en el país. Consta que el recurrente era titular de un permiso previo que venció en agosto de 2023. A la fecha de la resolución impugnada, el amparado ha residido en territorio nacional por un lapso prolongado, manteniendo su domicilio en la ciudad de Los Andes y demostrando una voluntad constante de regularización al realizar gestiones ante la autoridad y efectuar pagos de sanciones, aun cuando errara en su clasificación. En consecuencia, considerando el vínculo de permanencia temporal generado por el tiempo que lleva en Chile, el rechazo de su residencia y la orden de abandono resultan medidas desproporcionadas frente a un error administrativo que es posible subsanar.
+
+Quinto: Que, el acto recurrido constituye una amenaza a la libertad personal, pues de no cumplirse el abandono voluntario, habilita a la autoridad para disponer la expulsión del país según el artículo 127 N° 3 de la Ley N° 21.325. Además, la vigencia de esta orden genera una causal de inadmisibilidad para nuevas solicitudes de residencia, impidiendo la regularización efectiva del amparado.
+
+Por estas consideraciones y de conformidad a lo dispuesto en los artículos 19 N° 7 y 21 de la Constitución Política de la República, se acoge, sin costas, la acción de amparo deducida en favor de Manuel Alexis Molina Escalona en contra del Servicio Nacional de Migraciones, dejándose sin efecto la resolución exenta N° 2600100052222, de 27 de enero de 2026, dictada por ese Servicio y ordenándose a la autoridad migratoria imputar el pago de la multa impuesta por infracción al artículo 109 de la Ley N° 21.325 al pago ya realizado erróneamente por el amparado, para posteriormente resolver la solicitud de residencia como corresponda conforme a derecho.
+Regístrese, comuníquese y archívese en su oportunidad.
+N° Amparo-402-2026.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+LlgC.A. de Valparaíso.Valparaíso, diez  de febrero de dos mil veintiséis.Vistos:A folio 1 Manuel Alexis Molina Escalona, de nacionalidad venezolana, interpone acción de amparo en su favor y en contra del Servicio Nacional de Migraciones, impugnando la Resolución Exenta N° 2600100052222, de 27 de enero de 2026, que rechazó su solicitud de residencia temporal y dispuso su abandono del país.Expone que el 27 de septiembre de 2024 inició el trámite migratorio y durante el proceso la autoridad le solicitó subsanar antecedentes debiendo pagar una multa, por lo que procedió al pago ante la Tesorería General de la República por un monto de $265.448, cargando el comprobante respectivo al sistema oficial. Destaca que el propio Servicio le otorgó un certificado de "Ampliación de Solicitud de Residencia Temporal en Trámite", válido por 180 días, lo que a su juicio acredita que se encontraba en una situación migratoria activa y bajo control administrativo. Sostiene que actuó de buena fe y que la autoridad incurrió en ilegalidad al no ponderar este pago ni la vigencia de su ampliación, vulnerando su libertad personal y seguridad individual al dictar una orden de abandono desproporcionada.A folio 5 evacúa informe el Servicio Nacional de Migraciones, solicitando el rechazo de la acción y argumentando que el amparado postuló a su residencia el 27 de septiembre de 2024, encontrándose en situación irregular tras el vencimiento de su permiso anterior el 31 de agosto de 2023. Explica que se le notificó electrónicamente el 28 de noviembre de 2024 que su solicitud estaba incompleta, requiriéndole específicamente acreditar el pago de la sanción por desarrollar actividades remuneradas sin autorización, conforme al artículo 109 de la Ley N° 21.325. Refiere que, si bien el recurrente acompañó un comprobante de pago, este correspondía a una infracción distinta: la de residencia irregular prevista en el artículo 119 de la citada ley. Afirma que, al no subsanar el requisito legal de pagar la multa correcta pese a los plazos otorgados, el rechazo de la residencia es un acto reglado y obligatorio conforme al artículo 88 N° 1 de la Ley N° 21.325, siendo el abandono una consecuencia legal necesaria de dicho rechazo.A folio 6 se ordena traer los autos en relación.Con lo relacionado y considerando:Primero: Que, la acción de amparo es un proceso de tutela urgente del derecho fundamental a la libertad personal y seguridad individual, establecido en el artículo 19 N° 7 de la Constitución Política de la República. Procede cuando una persona sufre cualquier privación, perturbación o amenaza a dicho derecho fuera de los casos permitidos por el ordenamiento jurídico.Segundo: Que, la controversia se centra en la Resolución Exenta N° 2600100052222, de 27 de enero de 2026, dictada por el Servicio Nacional de Migraciones, que rechaza la solicitud de residencia del extranjero Manuel Alexis Molina Escalona por no adjuntar el comprobante de pago de la multa del artículo 109 de la Ley N° 21.325.Tercero: Que, de los antecedentes se desprende que el amparado efectivamente realizó un pago por concepto de multas ante la Tesorería General de la República por la suma de $265.448 el 27 de septiembre de 2024. No obstante, dicho pago se imputó a la infracción del artículo 119 de la Ley 21.325, esto es, por residencia irregular, y no a la del artículo 109 de la citada ley, que corresponde a trabajar sin autorización. Se concluye, entonces, que el amparado incurrió en un error al momento de gestionar el pago de la sanción, ingresándola en un ítem que no correspondía a la sanción aplicada.Cuarto: Que, en cuanto al arraigo del amparado, se encuentra demostrado con el tiempo de permanencia efectiva en el país. Consta que el recurrente era titular de un permiso previo que venció en agosto de 2023. A la fecha de la resolución impugnada, el amparado ha residido en territorio nacional por un lapso prolongado, manteniendo su domicilio en la ciudad de Los Andes y demostrando una voluntad constante de regularización al realizar gestiones ante la autoridad y efectuar pagos de sanciones, aun cuando errara en su clasificación. En consecuencia, considerando el vínculo de permanencia temporal generado por el tiempo que lleva en Chile, el rechazo de su residencia y la orden de abandono resultan medidas desproporcionadas frente a un error administrativo que es posible subsanar.Quinto: Que, el acto recurrido constituye una amenaza a la libertad personal, pues de no cumplirse el abandono voluntario, habilita a la autoridad para disponer la expulsión del país según el artículo 127 N° 3 de la Ley N° 21.325. Además, la vigencia de esta orden genera una causal de inadmisibilidad para nuevas solicitudes de residencia, impidiendo la regularización efectiva del amparado.Por estas consideraciones y de conformidad a lo dispuesto en los artículos 19 N° 7 y 21 de la Constitución Política de la República, se acoge, sin costas, la acción de amparo deducida en favor de Manuel Alexis Molina Escalona en contra del Servicio Nacional de Migraciones, dejándose sin efecto la resolución exenta N° 2600100052222, de 27 de enero de 2026, dictada por ese Servicio y ordenándose a la autoridad migratoria imputar el pago de la multa impuesta por infracción al artículo 109 de la Ley N° 21.325 al pago ya realizado erróneamente por el amparado, para posteriormente resolver la solicitud de residencia como corresponda conforme a derecho.Regístrese, comuníquese y archívese en su oportunidad. N° Amparo-402-2026.                        ⚠                      Sin documento en esta instancia - pdf

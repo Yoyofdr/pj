@@ -4,19 +4,19 @@ case_id: bce22aca5d441b6aaf0be21e1dde8b8f3698c2c8
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044993
 
-rol: 21436-2025
+rol: 118-2026
 
-fecha_sentencia: 2026-02-26
+fecha_sentencia: 2026-03-02
 
-caratulado: CONSORCIO FINANCIERO S.A. CON TRIBUNAL DE DEFENSA DE LA LIBRE COMPETENCIA
+caratulado: JOSE LUIS GONZALEZ DUBRAVCIC CONTRA MINISTERIO DE OBRAS PUBLICAS DIRECCIÓN GENERAL DE OO PP DCYF
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Colusión
+materias: ▪ Bienes nacionales de uso público, bienes fiscales y municipales
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: ACOGIDA RECURSO DE RECLAMACIÓN
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
