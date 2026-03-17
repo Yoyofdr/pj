@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Delitos de narcotráfico
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
 
 resultado_recurso: SENTENCIA DE REEMPLAZO (M)
 
