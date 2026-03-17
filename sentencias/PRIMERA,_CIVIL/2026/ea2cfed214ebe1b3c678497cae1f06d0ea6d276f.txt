@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8037524
 
 rol: 5513-2026
 
-fecha_sentencia: 2026-02-24
+fecha_sentencia: 2026-02-23
 
 caratulado: BANCO DEL ESTADO DE CHILE/SEPÚLVEDA
 
@@ -14,7 +14,7 @@ sala: PRIMERA, CIVIL
 
 materias: ▪ Abandono del procedimiento
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) CASACIÓN FONDO
 
 resultado_recurso: RECHAZA CASACION EN EL FONDO
 

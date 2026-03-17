@@ -4,17 +4,17 @@ case_id: 495570270b15191635447796d19dca04ae9beb6e
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8037069
 
-rol: 56235-2025
+rol: 56204-2025
 
-fecha_sentencia: 2026-02-20
+fecha_sentencia: 2026-02-23
 
-caratulado: SINDICATO DE TRABAJADORES Y TRABAJADORAS DE BUSES PROVINCIA ANTOFAGASTA/BUSES J M PULLMAN S A.
+caratulado: DELGADO GUNCKEL JORGE ENRIQUE/VARGAS CANALES JESSICA ELCIRA
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Derecho a la honra, a la imagen y a la vida privada, libertad de expresión
+materias: ▪ Inmuebles y Copropiedad
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) CASACIÓN FONDO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
