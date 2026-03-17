@@ -12,9 +12,9 @@ caratulado: GÓMEZ CENTELLA RICARDO JILIBERTO CONTRA MINISTRO EN VISITA EXTRAORD
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: ▪ Adopción
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CIVIL) RECLAMO NACIONALIDAD
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
