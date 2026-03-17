@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Aspectos procesales del recurso de protección
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (PENAL) NULIDAD
 
 resultado_recurso: CONFIRMA RESOLUCION APELADA
 

@@ -4,19 +4,19 @@ case_id: bb12ff52bc8bfe822155572abf889350c3fadf9c
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062963
 
-rol: 21471-2025
+rol: 56795-2025
 
 fecha_sentencia: 2026-03-13
 
-caratulado: GARCIA/SUBSECRETARÍA DEL INTERIOR
+caratulado: COMPAÑÍA DE PETROLEOS DE CHILE COPEC S.A CONTRA SUPERINTENDENCIA DE ELECTRICIDAD Y COMBUSTIBLES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) CASACIÓN FONDO
+materias: ▪ Potestad sancionadora
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (PENAL) NULIDAD
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

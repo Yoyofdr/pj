@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8061570
 
 rol: 59053-2024
 
-fecha_sentencia: 2026-03-12
+fecha_sentencia: 2026-03-13
 
 caratulado: MANQUILEF BACHLER ALEJANDRA Y OTRO CON CHANES CARVAJAL JOSE (S)
 
@@ -14,7 +14,7 @@ sala: PRIMERA, CIVIL
 
 materias: ▪ Cobro de honorarios
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (PENAL) NULIDAD
 
 resultado_recurso: SENTENCIA DE REEMPLAZO (M)
 

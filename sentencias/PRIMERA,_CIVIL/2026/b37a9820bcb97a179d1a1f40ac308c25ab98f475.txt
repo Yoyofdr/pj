@@ -1,0 +1,44 @@
+METADATA
+
+case_id: b37a9820bcb97a179d1a1f40ac308c25ab98f475
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8063200
+
+rol: 56779-2025
+
+fecha_sentencia: 2026-03-13
+
+caratulado: BANCO INTERNACIONAL/WAITOMO NZ SPA (ACUM.N°6206-2023, N°9858-2023, N°11144-2023, N° 13783-2024 Y N° 14462-2024)
+
+sala: PRIMERA, CIVIL
+
+materias: (PENAL) NULIDAD
+
+recurso: (PENAL) NULIDAD
+
+resultado_recurso: INADMISIBLE CASACIÓN FORMA RECHAZADA,CASACIÓN F(M)
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, dieciséis de marzo de dos mil veintiséis.
+Vistos:
+Se confirma la sentencia apelada de diez de marzo de dos mil veintiséis, dictada por la Corte de Apelaciones de San Miguel, en el Ingreso Corte N°Amparo-305-2026.
+Regístrese y devuélvase.
+Rol N°13028-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+CH/svd
+
+San Miguel, diez de marzo de dos mil veintiséis.
+
+Al folio 5: A sus antecedentes la certificación del ministro de fe.
+
+Visto:
+Que del mérito de la certificación que precede, por advertirse que el presente recurso es idéntico a aquel tramitado ante la Corte de Apelaciones de Santiago bajo el N°4838-2025 Amparo y el interpuesto ante esta Corte, N°72-2026 Amparo, en cuanto a la persona en cuyo favor se recurre, hechos denunciados y peticiones formuladas, con el fin de evitar resoluciones contradictorias, se omite pronunciamiento en estos autos.
+Archívese, en su oportunidad.
+N°305-2026 Amparo
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, dieciséis de marzo de dos mil veintiséis. Vistos:Se confirma la sentencia apelada de diez de marzo de dos mil veintiséis, dictada por la Corte de Apelaciones de San Miguel, en el Ingreso Corte N°Amparo-305-2026.Regístrese y devuélvase.Rol N°13028-2026. Santiago, dieciséis de marzo de dos mil veintiséis. Vistos:Se confirma la sentencia apelada de diez de marzo de dos mil veintiséis, dictada por la Corte de Apelaciones de San Miguel, en el Ingreso Corte N°Amparo-305-2026.Regístrese y devuélvase.Rol N°13028-2026. Sentencia anonimizada

@@ -4,19 +4,19 @@ case_id: a690b558c44db53a367630da32c9d5121455b697
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062900
 
-rol: 28201-2025
+rol: 8242-2026
 
 fecha_sentencia: 2026-03-13
 
-caratulado: CHOQUE/REMUNERACIONES POLICIA DE INVESTIGACVIONES DE CHILE
+caratulado: CONGREGACION SALESIANA INSPECTORIA SALESIANA / INSTITUTO SALESIANO VALDIVIA/SUPERINTEDENCIA DE EDUCA
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) CASACIÓN FONDO
+materias: ▪ Potestad sancionadora
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (PENAL) NULIDAD
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
