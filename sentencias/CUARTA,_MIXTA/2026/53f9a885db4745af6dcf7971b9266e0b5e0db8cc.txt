@@ -1,0 +1,93 @@
+METADATA
+
+case_id: 53f9a885db4745af6dcf7971b9266e0b5e0db8cc
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047012
+
+rol: 5222-2026
+
+fecha_sentencia: 2026-03-03
+
+caratulado: CAMPOS/OPERACIONES MARÍTIMAS SUBMARINAS SUR WESTE LTDA.
+
+sala: CUARTA, MIXTA
+
+materias: ▪ Recurso de unificación de jurisprudencia
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: INADMISIBLE,UNIFICACIÓN DE JURISPRUDENCIA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago,
+tres de marzo de dos mil veintiséis.
+
+Vistos:
+Se reproduce lo expositivo de la sentencia en alzada, con excepción de los fundamentos que sirven para rechazar la acción presentada.
+
+Y se tiene en su lugar y, además, presente:
+1° Que, atendido lo expuesto en las presentaciones de los litigantes, la discusión radica en determinar cuándo amparado cumple el tiempo mínimo de condena para acceder los beneficios intrapenitenciarios, teniendo en consideración que cumple actualmente diversas condenas y de distinta naturaleza entre sí.
+
+2° Que, en este escenario, cabe mencionar que la obtención de los beneficios penitenciarios forma parte de un proceso en el que debe ser respetado el principio de legalidad penal y existe, también, una necesidad de conciliar aquello con la ley penitenciaria y las repercusiones que sus posteriores modificaciones llevan en el acceso a tales beneficios.
+
+3° Que, en la especie, pese a que concurre una condena para cuya postulación al beneficio de la libertad condicional se requiere el cumplimiento de los dos tercios de esta, conforme a lo que establece la Ley 21.124, aquella no resulta aplicable puesto que no tiene efecto retroactivo conforme al principio general del derecho penal de irretroactividad de sus normas, salvo cuando sean favorables al imputado o condenado; principio que aparece recogido, a vía ejemplar, en los artículos 9 de la Convención Americana de Derechos Humanos, 19 N° 3 inciso 8° de la Constitución Política de la República y 18 del Código Penal.
+4° Que, conforme a lo indicado previamente, el tiempo mínimo de la pena para postular a los diversos beneficios, debe determinarse conforme a la ley vigente al momento de comisión de los hechos y de manera individual, aplicando a cada una de las penas impuestas, la proporción que debe cumplir según el delito cometido, para luego, y una vez que se ha establecido cada uno de los tiempos mínimos, se determine el tiempo mínimo global, tras la sumatoria de las primeras.
+
+5° Que, una interpretación en contrario, corresponde a un acto ilegal y arbitrario, que, además, amenaza la libertad personal del recurrente, desde que conculca, en su oportunidad, la posibilidad que le asiste de postular al beneficio de libertad condicional, razón por la que se acogerá el recurso intentado, en la forma que se dirá en lo resolutivo del fallo, sin perjuicio de las consideraciones que corresponda efectuar a la autoridad administrativa para los efectos de la concesión de algún beneficio intrapenitenciario, dentro del ejercicio de sus atribuciones
+Por estas consideraciones, se revoca la sentencia apelada de dieciocho de febrero de dos mil veinticinco, dictada por la Corte de Apelaciones de La Serena, en el Ingreso Corte N° 104-2026, y en su lugar se resuelve que se acoge la acción de amparo incoada en favor de Cristián Pablo Aguirre Ramírez, por lo que, Gendarmería de Chile deberá calcular el tiempo mínimo de postulación para los beneficios intrepenitenciarios, conforme a la ley vigente al momento de comisión de los ilícitos, aplicando a cada una de las penas impuestas, la proporción que debe cumplir según el ilícito de que se trate.
+
+Acordada con el voto en contra del Ministro Sr. Valderrama quien estuvo por confirmar la sentencia apelada en virtud de sus propios fundamentos.
+
+Regístrese, comuníquese y devuélvase.
+
+Rol N° 9307-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Aguirre Ramírez, Cristian Pablo
+
+Gendarmería de Chile
+
+Recurso de amparo
+
+Rol N°104-2026
+
+La Serena, dieciocho de febrero de dos mil veintiséis.
+
+VISTO Y CONSIDERANDO:
+
+PRIMERO: Que, comparece Ricardo Bravo Cornejo, abogado, interponiendo acción constitucional de amparo en favor de Cristián Pablo Aguirre Ramírez, y en contra de Gendarmería de Chile por calcular en forma ilegal y arbitraria el tiempo de condena que debe cumplir el amparado.
+
+Expone que el actor se encuentra cumpliendo penas que suman 20 años por su responsabilidad como autor de delitos de asociación ilícita para el tráfico de drogas del artículo 16 Nº1 de la Ley N°20.000, tráfico de drogas del artículo 3 de la Ley N°20.000, y lavado de activos descrito en la Ley N°19.913. Agrega que el amparado inició el cumplimiento de sus condenas el 20 de diciembre de 2024 y que la fecha de término proyectada corresponde al 20 de diciembre de 2074. Expresa que conforme al texto del Decreto Ley N°321 vigente a la época de imponerse condenas al actor, el tiempo mínimo para optar a la libertad condicional se cumpliría el 20 de diciembre de 2049 mientras que el tiempo para postular a la salida dominical lo haría el 20 de diciembre de 2048. Alega que, a pesar de lo indicado, Gendarmería de Chile ha fijado los tiempos mínimos de cumplimiento de pena para optar a beneficios haciendo aplicable la normativa modificada mediante Ley N°21.627, producto de lo cual el actor solo podría postular a beneficios a contar del año 2062.
+
+Afirma que la recurrida ha obrado en forma ilegal y arbitraria al determinar el tiempo de condena a cumplir por el amparado en la forma antes dicha, amagando su derecho a la libertad personal al prolongar su condena en forma contraria a derecho.
+
+Previas citas de derecho solicita acoger la acción intentada y, en definitiva, ordenar a Gendarmería de Chile modificar los cómputos de pena del actor en la forma propuesta en su recurso.
+
+SEGUNDO: Que, evacuó informe Gendarmería de Chile solicitando el rechazo del recurso.
+
+Manifiesta que efectivamente el actor cumple condena por los ilícitos referidos en su recurso, los que conforme al artículo 3 del Decreto Ley N°321 exigen que el sentenciado cumpla al menos 2/3 de la pena para poder postular a beneficios intrapenitenciarios.
+
+Por otra parte, afirma debe tenerse presente que según lo establece el artículo 9 del Decreto Ley N°321 “los requisitos para la obtención del beneficio de la libertad condicional son aquellos que se exigen al momento de la postulación”
+Finalmente, sostiene que los tiempos de condena han sido determinados de conformidad a la legislación vigente por lo que no existe un actuar ilegal o arbitrario de parte de esa institución.
+
+TERCERO: Que el recurso de amparo es un proceso de tutela urgente del derecho fundamental a la libertad personal y seguridad individual, establecido en el artículo 19 N°7 de la Constitución Política de la República, que es procedente en aquellos casos en que una persona fuere arrestada, detenida o presa con infracción de lo dispuesto en la Constitución o en las leyes o sufra cualquier otra privación, perturbación o amenaza a los derechos fundamentales antes aludidos, fuera de los casos en que el ordenamiento jurídico lo permite, con el fin de que se ordene guardar las formalidades legales y se adopten de inmediato las providencias que se juzguen necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado.
+
+CUARTO: Que, hay que dejar asentado, que no se encuentra discutido que el amparado cumple condenas por los delitos asociación ilícita para el tráfico de drogas del artículo 16 Nº1 de la Ley N°20.000, tráfico de drogas del artículo 3 de la Ley N°20.000, y lavado de activos descrito en la Ley N°19.913, teniendo las penas respectivas la extensión temporal detallada en el motivo primero de este fallo.
+
+Por tanto, discurre la controversia a propósito del cálculo del tiempo mínimo de postulación para libertad condicional, que también incide en el beneficio de salida dominical, debido a que Gendarmería de Chile ha realizado el cálculo del tiempo mínimo de postulación considerando los 2/3 de cumplimiento respecto de todos los delitos, indicando que cumple su tiempo de postulación a la libertad condicional y otros beneficios intrapenitenciarios el año 2062.
+
+Por otro lado, la recurrente alega, para determinar el tiempo mínimo de condena para acceder a beneficios debe darse aplicación a la normativa vigente al momento de cometerse los delitos, la cual contemplada una forma de cálculo distinta de aquella contenida en la redacción actual del artículo 3 del Decreto Ley N°321.
+QUINTO: Que, la discusión jurídica planteada por la recurrente ha sido resuelta por el legislador al establecer en el artículo 9 del Decreto Ley N°321 que “para los efectos del presente decreto ley, se entenderá que los requisitos para la obtención del beneficio de la libertad condicional son aquellos que se exigen al momento de la postulación”, resultando aplicable esa disposición a la situación del amparado, quien, a mayor abundamiento, tampoco tendría garantizada la concesión de los beneficios que pretende, pues ellos suponen el cumplimiento de requisitos adicionales al tiempo mínimo de condena y observancia de una conducta ‘muy buena’ durante su reclusión, descansado su otorgamiento, además, de la decisión que sobre el particular deben adoptar los organismos competentes, dentro de la esfera de sus atribuciones, lo que impide considerar que se esté en presencia de alguna afectación concreta a la libertad personal del interesado.
+SEXTO: Que, lo expresado en el motivo precedente, lleva a sostener que la actuación realizada por Gendarmería de Chile al determinar los requisitos que debe cumplir el interno para optar a beneficios conforme a la legislación actualmente en vigencia no constituye un acto ilegal o arbitrario, pues no ha existido una aplicación retroactiva de una norma penal sustantiva, sino de los requisitos para acceder a una especial forma de cumplimiento de la sanción, lo que único a la circunstancia de que tampoco se avizore inminencia en la supuesta conculcación de la garantía protegida a través de la acción constitucional de amparo, lleva al rechazo del arbitrio intentado según se dirá a continuación.
+
+Por estas consideraciones y visto, además, lo dispuesto en el artículo 21 de la Constitución Política de la República, SE RECHAZA el recurso de amparo deducido en favor de Cristián Pablo Aguirre Ramírez y en contra de Gendarmería de Chile.
+
+Regístrese, comuníquese y archívese, en su oportunidad.
+
+Rol N°104-2026 Amparo.-
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago,tres de marzo de dos mil veintiséis.Vistos:Se reproduce lo expositivo de la sentencia en alzada, con excepción de los fundamentos que sirven para rechazar la acción presentada.Y se tiene en su lugar y, además, presente:1° Que, atendido lo expuesto en las presentaciones de los litigantes, la discusión radica en determinar cuándo amparado cumple el tiempo mínimo de condena para acceder los beneficios intrapenitenciarios, teniendo en consideración que cumple actualmente diversas condenas y de distinta naturaleza entre sí.2° Que, en este escenario, cabe mencionar que la obtención de los beneficios penitenciarios forma parte de un proceso en el que debe ser respetado el principio de legalidad penal y existe, también, una necesidad de conciliar aquello con la ley penitenciaria y las repercusiones que sus posteriores modificaciones llevan en el acceso a tales beneficios.3° Que, en la especie, pese a que concurre una condena para cuya postulación al beneficio de la libertad condicional se requiere el cumplimiento de los dos tercios de esta, conforme a lo que establece la Ley 21.124, aquella no resulta aplicable puesto que no tiene efecto retroactivo conforme al principio general del derecho penal de irretroactividad de sus normas, salvo cuando sean favorables al imputado o condenado; principio que aparece recogido, a vía ejemplar, en los artículos 9 de la Convención Americana de Derechos Humanos, 19 N° 3 inciso 8° de la Constitución Política de la República y 18 del Código Penal.4° Que, conforme a lo indicado previamente, el tiempo mínimo de la pena para postular a los diversos beneficios, debe determinarse conforme a la ley vigente al momento de comisión de los hechos y de manera individual, aplicando a cada una de las penas impuestas, la proporción que debe cumplir según el delito cometido, para luego, y una vez que se ha establecido cada uno de los tiempos mínimos, se determine el tiempo mínimo global, tras la sumatoria de las primeras.5° Que, una interpretación en contrario, corresponde a un acto ilegal y arbitrario, que, además, amenaza la libertad personal del recurrente, desde que conculca, en su oportunidad, la posibilidad que le asiste de postular al beneficio de libertad condicional, razón por la que se acogerá el recurso intentado, en la forma que se dirá en lo resolutivo del fallo, sin perjuicio de las consideraciones que corresponda efectuar a la autoridad administrativa para los efectos de la concesión de algún beneficio intrapenitenciario, dentro del ejercicio de sus atribucionesPor estas consideraciones, se revoca la sentencia apelada de dieciocho de febrero de dos mil veinticinco, dictada por la Corte de Apelaciones de La Serena, en el Ingreso Corte N° 104-2026, y en su lugar se resuelve que se acoge la acción de amparo incoada en favor de Cristián Pablo Aguirre Ramírez, por lo que, Gendarmería de Chile deberá calcular el tiempo mínimo de postulación para los beneficios intrepenitenciarios, conforme a la ley vigente al momento de comisión de los ilícitos, aplicando a cada una de las penas impuestas, la proporción que debe cumplir según el ilícito de que se trate.Acordada con el voto en contra del Ministro Sr. Valderrama quien estuvo por confirmar la sentencia apelada en virtud de sus propios fundamentos.Regístrese, comuníquese y devuélvase.Rol N° 9307-2026. Santiago,tres de marzo de dos mil veintiséis.Vistos:Se reproduce lo expositivo de la sentencia en alzada, con excepción de los fundamentos que sirven para rechazar la acción presentada.Y se tiene en su lugar y, además, presente:1° Que, atendido lo expuesto en las presentaciones de los litigantes, la discusión radica en determinar cuándo amparado cumple el tiempo mínimo de condena para acceder los beneficios intrapenitenciarios, teniendo en consideración que cumple actualmente diversas condenas y de distinta naturaleza entre sí.2° Que, en este escenario, cabe mencionar que la obtención de los beneficios penitenciarios forma parte de un proceso en el que debe ser respetado el principio de legalidad penal y existe, también, una necesidad de conciliar aquello con la ley penitenciaria y las repercusiones que sus posteriores modificaciones llevan en el acceso a tales beneficios.3° Que, en la especie, pese a que concurre una condena para cuya postulación al beneficio de la libertad condicional se requiere el cumplimiento de los dos tercios de esta, conforme a lo que establece la Ley 21.124, aquella no resulta aplicable puesto que no tiene efecto retroactivo conforme al principio general del derecho penal de irretroactividad de sus normas, salvo cuando sean favorables al imputado o condenado; principio que aparece recogido, a vía ejemplar, en los artículos 9 de la Convención Americana de Derechos Humanos, 19 N° 3 inciso 8° de la Constitución Política de la República y 18 del Código Penal.4° Que, conforme a lo indicado previamente, el tiempo mínimo de la pena para postular a los diversos beneficios, debe determinarse conforme a la ley vigente al momento de comisión de los hechos y de manera individual, aplicando a cada una de las penas impuestas, la proporción que debe cumplir según el delito cometido, para luego, y una vez que se ha establecido cada uno de los tiempos mínimos, se determine el tiempo mínimo global, tras la sumatoria de las primeras.5° Que, una interpretación en contrario, corresponde a un acto ilegal y arbitrario, que, además, amenaza la libertad personal del recurrente, desde que conculca, en su oportunidad, la posibilidad que le asiste de postular al beneficio de libertad condicional, razón por la que se acogerá el recurso intentado, en la forma que se dirá en lo resolutivo del fallo, sin perjuicio de las consideraciones que corresponda efectuar a la autoridad administrativa para los efectos de la concesión de algún beneficio intrapenitenciario, dentro del ejercicio de sus atribucionesPor estas consideraciones, se revoca la sentencia apelada de dieciocho de febrero de dos mil veinticinco, dictada por la Corte de Apelaciones de La Serena, en el Ingreso Corte N° 104-2026, y en su lugar se resuelve que se acoge la acción de amparo incoada en favor de Cristián Pablo Aguirre Ramírez, por lo que, Gendarmería de Chile deberá calcular el tiempo mínimo de postulación para los beneficios intrepenitenciarios, conforme a la ley vigente al momento de comisión de los ilícitos, aplicando a cada una de las penas impuestas, la proporción que debe cumplir según el ilícito de que se trate.Acordada con el voto en contra del Ministro Sr. Valderrama quien estuvo por confirmar la sentencia apelada en virtud de sus propios fundamentos.Regístrese, comuníquese y devuélvase.Rol N° 9307-2026. Sentencia anonimizada

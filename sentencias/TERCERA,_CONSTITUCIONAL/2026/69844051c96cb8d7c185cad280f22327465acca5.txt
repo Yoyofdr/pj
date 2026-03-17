@@ -4,23 +4,22 @@ case_id: 69844051c96cb8d7c185cad280f22327465acca5
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046617
 
-rol: 54601-2025
+rol: 218-2026
 
 fecha_sentencia: 2026-03-03
 
-caratulado: PATIÑO SALDAÑA FELIPE RIGOBERTO CONTRA LIGA DEPORTIVA MAGISTERIAL DE FUTBOL DE IQUIQUE
+caratulado: TORRES/FONDO NACIONAL DE SALUD (ACUM. I.C. N°2384-2023)
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Protecciones en contra de particulares
+materias: (CRIMEN) APELACIÓN AMPARO
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA EN LO APELADO
+resultado_recurso: INADMISIBLE CASACIÓN FORMA RECHAZADA, CASACIÓN FON
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
-Corte Apelaciones ▼
 Santiago, tres de marzo de dos mil veintiséis.
 
 Vistos y teniendo únicamente presente:
