@@ -1,0 +1,50 @@
+METADATA
+
+case_id: e146f6f7589329a37e97ef40871a360304b0d3ee
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8063280
+
+rol: 2446-2026
+
+fecha_sentencia: 2026-03-16
+
+caratulado: CRISTIAN ALBERTO SCHEIHING MUÑOZ/ SERVICIO SALUD DE LOS RÍOS
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Corte Apelaciones ▼
+Santiago, dieciséis de marzo de dos mil veintiséis.
+Vistos:
+Se confirma la sentencia apelada de diecisiete de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Arica, en el Ingreso Corte N°Amparo-32-2026.
+Regístrese y devuélvase.
+Rol N°9301-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Corte Apelaciones ▼
+C.A. de Arica
+Arica, veintiuno de enero de dos mil veintiséis.
+
+Pronunciándose sobre el libelo de amparo:
+
+A lo principal y otrosíes:
+
+Visto:
+
+Atendido el mérito de los antecedentes, se colige que la resolución recurrida por el presente arbitrio constitucional, esto es, aquella que declara inadmisible la solicitud de residencia definitiva del amparado, no dice relación con la vulneración de la libertad ambulatoria y/o seguridad individual, en los términos a que se refiere el numeral 7 del artículo 19 en relación con el artículo 21, ambos de la Constitución política de la República, se declara inadmisible el recurso de amparo.
+
+Regístrese, notifíquese y archívese, en su oportunidad.
+
+N°Amparo-32-2026.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, dieciséis de marzo de dos mil veintiséis. Vistos:Se confirma la sentencia apelada de diecisiete de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Arica, en el Ingreso Corte N°Amparo-32-2026.Regístrese y devuélvase.Rol N°9301-2026. Santiago, dieciséis de marzo de dos mil veintiséis. Vistos:Se confirma la sentencia apelada de diecisiete de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Arica, en el Ingreso Corte N°Amparo-32-2026.Regístrese y devuélvase.Rol N°9301-2026. Sentencia anonimizada

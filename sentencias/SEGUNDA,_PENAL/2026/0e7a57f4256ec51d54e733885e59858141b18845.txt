@@ -4,19 +4,19 @@ case_id: 0e7a57f4256ec51d54e733885e59858141b18845
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8063302
 
-rol: 9231-2026
+rol: 9323-2026
 
 fecha_sentencia: 2026-03-16
 
-caratulado: CASTRO SUAREZ MARLY JUDITH CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: FIERRO POVES FERNANDA CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Recurso de Amparo
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

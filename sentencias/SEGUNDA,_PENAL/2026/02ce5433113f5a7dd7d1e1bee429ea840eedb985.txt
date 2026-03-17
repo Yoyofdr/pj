@@ -4,19 +4,19 @@ case_id: 02ce5433113f5a7dd7d1e1bee429ea840eedb985
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8063400
 
-rol: 9320-2026
+rol: 9227-2026
 
 fecha_sentencia: 2026-03-16
 
-caratulado: BEAUVOIR DUNEL CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: VASALLO MARRERO JORGE LUIS CONTRA SERVICIO NACIONAL DE MIGRACIÓN
 
 sala: SEGUNDA, PENAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Recurso de Amparo
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
