@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047267
 
 rol: 6685-2026
 
-fecha_sentencia: 2026-03-03
+fecha_sentencia: 2026-03-02
 
 caratulado: VÁSQUEZ CARABALLO DEIVIS CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) RECLAMACIÓN T. LIBRE COMPETENCIA
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
