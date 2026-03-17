@@ -4,11 +4,11 @@ case_id: 1ac4cc3523ad5254598449ef578f906e27230a94
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040718
 
-rol: 38184-2025
+rol: 5442-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: RAMIREZ NAVARRO ORNELIS DEL VALLE / SERVICIO NACIONAL DE MIGRACIONES
+caratulado: BALMACEDA/CRUZ BLANCA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
