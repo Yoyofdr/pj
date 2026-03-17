@@ -4,15 +4,15 @@ case_id: e7ab868f51e1e470688da43ae331c51283ba139e
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040676
 
-rol: 35905-2025
+rol: 7769-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: ENEL DISTRIBUCION CHILE S.A. CONTRA SUPERINTENDENCIA DE ELECTRICIDAD Y COMBUSTIBLES.(LTE)
+caratulado: HENRIQUEZ/ADMINISTRADORA DE FONDOS DE PENSIONES MODELO S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Potestad sancionadora
+materias: ▪ Previsional
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
