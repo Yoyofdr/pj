@@ -1,0 +1,666 @@
+METADATA
+
+case_id: f45fb9e75ef5ecf7bbd5f0b5d208a70a305d9617
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8064107
+
+rol: 11027-2026
+
+fecha_sentencia: 2026-03-16
+
+caratulado: LEÓN FARFÁN, ANDRÉS ALEJANDRO CONTRA ICA VALPARAISO
+
+sala: SEGUNDA, PENAL
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, dieciséis de marzo de dos mil veintiséis.
+
+VISTOS Y TENIENDO PRESENTE:
+Primero: Que en procedimiento ordinario de cobro de pesos, seguido ante el Juzgado de Letras de Castro, bajo el Rol C-2188-2023, caratulado “G4S Security Service Regionales S.A. con Sociedad Comercial e Industrial Agromar Ltda.”, se ha ordenado dar cuenta de la admisibilidad del recurso de casación en el fondo, deducido por la parte demandada, contra la sentencia de la Corte de Apelaciones de Puerto Montt, de diez de febrero de dos mil veintiséis, que confirmó con costas el fallo de primer grado, de ocho de mayo de dos mil veinticuatro, que –en lo pertinente– acogió parcialmente la acción de cobro de pesos y, en consecuencia, condenó a la demandada a pagar a la demandante la suma de $3.666.552.- más reajustes e intereses, sin costas.
+
+Segundo: Que la recurrente de nulidad sustantiva funda su arbitrio en la infracción de los artículos 1551, 1557, 1698, 1702, 1706 y 1712 del Código Civil, en relación con los artículos 346 N° 3 y 426 del Código de Procedimiento Civil.
+
+En síntesis, explica que la infracción normativa se produce porque el fallo recurrido acogió la demanda de cobro de pesos, teniendo por acreditada la existencia, exigibilidad y mora de la obligación de pago cuyo cobro se pide, sobre la base de facturas emitidas por la propia demandante, presumiendo a partir de éstas la concurrencia de un vínculo contractual, trasladando así erróneamente a la parte demandada la carga de probar la extinción de aquélla; unido a que anómalamente se estableció la mora automática de su parte desde la emisión de la factura por contener la expresión “pago al contado”, fijándose por tal motivo desde dicha época el devengo de reajustes e intereses, y no desde la reconvención judicial como correspondía hacerlo.
+
+Solicita se invalide el fallo recurrido y se dicte sentencia de reemplazo que rechace la demanda de cobro de pesos; o, en subsidio, la acoja sólo en cuanto al capital que en derecho corresponda, fijando el inicio de los reajustes e intereses desde la reconvención judicial, con costas.
+
+Tercero: Que el artículo 772 N° 1 del Código de Procedimiento Civil, sujeta el recurso de casación en el fondo a un requisito indispensable para su admisibilidad, como es que el escrito en que se interpone “exprese”, es decir, explicite en qué consiste o cómo se han producido el o los errores que se denuncian, y siempre que éstos sean “de derecho”.
+Cuarto: Que versando la contienda sobre la procedencia de la acción de cobro de pesos, la exigencia consignada en el motivo anterior obligaba a la impugnante a denunciar como infringidos todos aquellos preceptos que, al ser aplicados, sirvan para resolver la cuestión controvertida.
+
+En este caso, los artículos 1437, 1438, 1545 y siguientes del Código Civil, son los que contemplan precisamente las fuentes de las obligaciones y, en particular, la convención de la que emanan aquéllas cuyo cobro se reclama por la parte demandante, a propósito del contrato de prestación de servicios de guardias de seguridad habido entre los litigantes, y que los jueces del fondo han establecido para acoger la acción de autos, sin que la demandada haya logrado acreditar la extinción de la obligación de pago a cuyo cumplimiento ha sido condenada.
+
+Por consiguiente, habiéndose omitido por la parte recurrente alegar la infracción de la preceptiva sustantiva básica citada, y que detenta el carácter de decisoria litis en el caso sub-judice; inequívocamente, se genera un vacío que esta Corte no puede subsanar para el caso de acogerse el recurso y dictarse sentencia de reemplazo, dado el carácter de derecho estricto que éste reviste; motivo por el que no puede ser admitido a tramitación.
+Quinto: Que, sin perjuicio de la anomalía anterior, examinados los antecedentes del proceso, consta que el arbitrio de nulidad se encuentra construido sobre la base de una propuesta fáctica diversa de aquélla asentada por los jueces del fondo.
+En efecto, el fallo recurrido al acoger la acción de cobro de pesos y fijar los reajustes e intereses a que se condenó a la demandada, dejó asentada la existencia entre las partes de un contrato de prestación de servicios de guardias de seguridad, así como también que la obligación de pago por tales servicios se hizo exigible tras la prestación de los mismos y una vez emitida la factura para su cobro; mientras que la parte recurrente –a diferencia de lo antes consignado– postula a través de su arbitrio que no se acreditó la existencia de aquel vínculo contractual, ni tampoco –en su caso– la época de exigibilidad de la obligación de pago establecida por los jueces del grado.
+
+Frente a tal divergencia, debe tenerse presente que sólo los jueces del fondo se encuentran facultados para fijar los hechos de la causa, por lo que efectuada correctamente dicha labor, resultan ser éstos inamovibles para esta Corte, conforme lo previsto en el artículo 785 del Código de Procedimiento Civil; a menos que se hubiera denunciado eficazmente la contravención de alguna norma reguladora de la prueba; cuestión que, en este caso, no ha ocurrido de forma satisfactoria.
+
+Sexto: Que, sobre el particular, la recurrente invocó la infracción de los artículos 1698, 1702, 1706 y 1712 del Código Civil, y de los artículos 346 N° 3 y 426 del Código de Procedimiento Civil, a propósito de la carga de la prueba, la valoración de la documental, y la configuración de presunciones judiciales; sin embargo, no es posible avizorar la forma en que los jueces del grado hayan conculcado dichas reglas.
+Tal como ha tenido oportunidad de señalar esta Corte, la regla del “onus probandi”, sólo se vulnera en la medida que se obligue a una de las partes a acreditar un hecho que corresponde probar a la contraria; cuestión que no ha acontecido en este caso, dado que siendo de responsabilidad de la demandante probar la existencia de la obligación cuyo cobro reclama, ésta cumplió con dicha carga, sin que la demandada –por el contrario– haya logrado probar la extinción de la misma.
+
+Por otra parte, tampoco aparece que los sentenciadores del fondo hayan negado el carácter privado de los documentos acompañados al proceso, o asignado a éstos un valor distinto del previsto por la ley; sino que han ponderado la instrumental allegada, pero efectuando de ésta un análisis que no derivó en el establecimiento de los hechos pretendidos por la recurrente en torno a la existencia de la relación contractual y la época de exigibilidad de la obligación de pago; quedando así en evidencia que las alegaciones de la recurrente se orientan más bien a promover que esta Corte realice una nueva valoración de dichas probanzas, lo que constituye una actividad ajena al recurso de casación en estudio.
+Finalmente, sobre las presunciones judiciales, valga recordar que la configuración de éstas y su fuerza probatoria son cuestiones que deben ser apreciadas exclusivamente por los magistrados de la instancia, desde que su convicción debe fundarse en la gravedad, precisión y concordancia que derive del mérito de los antecedentes del proceso; no correspondiendo que por esta vía esta Corte efectúe una nueva revisión de los mismos.
+Por consiguiente, siendo necesario para el éxito de la pretensión de la recurrente, modificar los hechos fijados por los jueces de la instancia; y no pudiendo aquello verificarse en esta sede de casación por lo antes señalado, el presente arbitrio no puede prosperar.
+Séptimo: Que, a mayor abundamiento, tampoco puede pasar inadvertido que las alegaciones de la recurrente también descansan sobre la base una línea argumentativa no desarrollada por ésta en su oportunidad procesal.
+En efecto, la recurrente al contestar la demanda no alegó la inexistencia del vínculo contractual entre las partes; ni tampoco al oponer la excepción de prescripción planteó la exigibilidad de la obligación de pago a partir de la reconvención judicial.
+
+La incongruencia anterior, cobra relevancia al momento de analizar la procedencia de su recurso de invalidación sobre dichos aspectos, por cuanto queda en evidencia que la impugnante, funda sus alegaciones en cuestiones ajenas al debate; por lo que, así propuesto el recurso, éste tampoco puede admitirse, dado que no es posible analizar la preceptiva denunciada en relación con materias que no se condicen con las cuestiones discutidas en el fondo.
+
+Octavo: Que, en consecuencia, el arbitrio de nulidad en estudio no puede prosperar por adolecer de manifiesta falta de fundamento
+Por estas consideraciones y de conformidad, además, con lo dispuesto en los artículos 764, 765, 767, 772 y 782 del Código de Procedimiento Civil, se rechaza el recurso de casación en el fondo, deducido por el abogado Julio Álvarez Pinto, en representación de la parte demandada, contra la sentencia de diez de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Puerto Montt.
+Regístrese, notifíquese, comuníquese y devuélvase, vía interconexión.
+
+Rol Nº 11044-2026
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Puerto Montt, diez de febrero de dos mil veintiséis.
+
+VISTO.
+
+Se reproduce la sentencia en alzada su parte expositiva y considerandos. Y se tiene, además, presente:
+
+PRIMERO: Que con fecha ocho de mayo de dos mil veinticuatro se ha dictado sentencia definitiva de primer grado por el Juzgado de Letras de Castro, en causa ROL C-2188-2023, que acogió parcialmente la acción de cobro de pesos en procedimiento ordinario de menor cuantía, interpuesta por G4S Security Services S.A., en contra de la Sociedad Comercial e Industrial Agromar Limitada.
+
+La parte demandada y recurrente impugna la citada sentencia definitiva de ocho de mayo de dos mil veinticuatro, en cuanto, pese a haber acogido parcialmente la excepción de prescripción extintiva respecto de siete de las ocho facturas acompañadas por la demandante, desestimó la alegación de invalidez formal de tales facturas electrónicas.
+
+Sostiene que, cualquiera sea la naturaleza de la acción ejercida, el objeto central del cobro se encuentra constituido por las facturas y, por ende, su aptitud y validez formal —conforme a los requisitos que invoca de la Ley número 19.983— resulta determinante antes de abordar cuestiones de fondo, afirmando que el fallo incurre en una tensión argumentativa al atribuir, por una parte, relevancia probatoria a las facturas para presumir la existencia y condiciones del contrato de prestación de servicios y, por otra, estimar irrelevante el examen de sus requisitos formales.
+
+En esa línea, solicita que el superior declare que la totalidad de las facturas adolece de vicios formales que las hace inhábiles para la cesión y, en consecuencia, improcedente su cobro en estos autos.
+
+En subsidio, cuestiona el régimen temporal de reajustes e intereses fijado sobre la suma ordenada pagar ($3.666.552 pesos), alegando que tales accesorios no deberían computarse desde 2018, sino desde que la obligación se torna indubitada mediante sentencia firme y ejecutoriada, o al menos desde la constitución en mora por reconvención judicial, conforme a los artículos 1.551, 1.552 y 1.557 del Código Civil.
+
+SEGUNDO: Que la sentencia de primer grado fija, con apoyo en prueba documental no objetada, que la demandante prestó servicios de seguridad en la planta de Dalcahue de la demandada durante el año dos mil dieciocho, emitiéndose facturas electrónicas mensuales que detallan el servicio prestado, su monto y condición de venta al contado.
+
+En particular, establece que tales instrumentos, aun apreciados como instrumentos privados, constituyen antecedentes suficientes para presumir fundadamente la existencia de la relación contractual y el precio pactado, máxime si la demandada no negó la prestación del servicio, limitándose a cuestionar formalidades del documento y a oponer prescripción respecto de siete de ocho períodos.
+
+Con acierto, el fallo recuerda la regla del artículo 1698 del Código Civil: probada por el acreedor la existencia de la obligación y su monto mediante documentos idóneos, corresponde al deudor acreditar su extinción o pago, o bien los hechos impeditivos o modificativos pertinentes.
+
+En la causa, la demandada no rindió prueba alguna, circunstancia que, en un procedimiento de menor cuantía, no puede ser suplida por meras afirmaciones de parte ni por una lectura alternativa de los documentos acompañados.
+
+La apelación no se hace cargo de esta carencia probatoria, ni propone una explicación plausible, coherente y respaldada en antecedentes del proceso, que permita desvirtuar la conclusión central del tribunal: que existió prestación de servicios, que hubo precio determinado y que, al menos respecto del período no prescrito, la obligación subsiste y es exigible.
+
+TERCERO: Que el agravio principal del recurrente se apoya en el artículo 4 de la Ley número 19.983, sosteniendo que, cualquiera sea la acción ejercida, la validez formal de la factura y su aptitud para cesión debieran primar por sobre el análisis de fondo.
+
+Tal razonamiento no puede ser compartido. La Ley número 19.983 regula, con finalidades específicas, la transferencia del crédito incorporado a la copia cedible de la factura y el régimen de oponibilidad frente al deudor, facilitando su circulación y otorgando, en ciertos supuestos, mérito ejecutivo a dicho documento.
+
+Pero de ello no se sigue que, en una acción ordinaria de cobro de pesos fundada en la prestación efectiva de un servicio, el tribunal quede obligado a someter el conflicto a un test de cedibilidad propio de un escenario de cesión o de ejecución.
+
+Si la actora no ha intentado una acción ejecutiva derivada de la factura ni ha hecho valer un crédito cedido, la discusión sobre requisitos formales para la cesión no constituye presupuesto de la pretensión, ni integra el thema decidendum.
+
+En rigor, lo relevante es si existió una prestación contractual, si el servicio fue ejecutado, cuál fue su precio y desde cuándo es exigible la contraprestación.
+
+CUARTO: Que el recurso acusa una supuesta contradicción interna: por una parte, el tribunal a quo habría señalado que la discusión sobre validez tributaria o cedibilidad sería irrelevante, y por otra, habría utilizado las facturas como fundamento para presumir el contrato y el precio.
+
+Tal reproche confunde planos distintos. No existe incoherencia en afirmar, simultáneamente, que: i) las facturas no se invocan como título ejecutivo ni como soporte de una cesión, por lo que no corresponde exigirles las condiciones propias de esa funcionalidad; y ii) las mismas facturas, como instrumentos privados y documentos emanados del giro ordinario de las partes, constituyen medios de prueba aptos para formar convicción sobre la existencia, periodicidad y valor de los servicios facturados, especialmente cuando no han sido objetadas y cuando la contraparte no aporta prueba en contrario.
+
+En otras palabras, lo irrelevante no es la factura como antecedente fáctico, sino el debate sobre si reúne o no menciones exigidas para circular cedida o habilitar un juicio ejecutivo. Precisamente, el fallo razona que el crédito perseguido es el que subyace a la prestación de los servicios, y utiliza los instrumentos acompañados en la función probatoria que les corresponde en sede ordinaria.
+
+La apelación, al pretender que toda discusión debe resolverse por la sola formalidad del documento tributario, intenta desplazar indebidamente el centro del litigio y, con ello, eludir la consecuencia procesal de su falta de prueba y de la ausencia de demostración de pago o extinción del crédito.
+
+QUINTO: Que la sentencia impugnada acogió la excepción perentoria de prescripción extintiva respecto de siete de las ocho prestaciones mensuales, fijando como criterio de cómputo que la obligación se hizo exigible en la fecha de emisión de cada factura, por constar en ellas condición de venta pago al contado y no haberse pactado fecha diversa.
+
+Sobre esa base, y atendida la notificación válida de la demanda el veinticuatro de agosto de dos mil veintitrés, concluyó que las acciones de cobro exigibles entre el veintisiete de febrero y el veinte de agosto de dos mil dieciocho se encontraban prescritas, subsistiendo únicamente la correspondiente a la factura emitida el veintisiete de septiembre de dos mil dieciocho.
+
+La apelación no discute este núcleo decisorio en forma que pueda conducir a su alteración: no ataca el criterio de exigibilidad ni propone un hecho interruptivo anterior ni invoca un plazo especial aplicable; por el contrario, asume como correcto el marco de prescripción de cinco años para acciones ordinarias.
+
+Así, lo decidido en esta parte permanece incólume, y el debate se reduce, estrictamente, a si la única obligación no prescrita puede ser desconocida por formalidades de cesión o por el argumento relativo a intereses y reajustes.
+
+Con todo, queda de manifiesto que el tribunal de primera instancia ya acogió sustancialmente la defensa principal de la demandada —prescripción—, y que la condena limitada a un solo período refleja una ponderación jurídica del material probatorio y de las defensas opuestas.
+
+SEXTO: Que, establecido que la acción de cobro subsiste únicamente respecto de la prestación exigible desde el veintisiete de septiembre de dos mil dieciocho, la sentencia condena al pago de la suma de tres millones seiscientos sesenta y seis mil quinientos cincuenta y dos pesos, monto total incluido impuestos consignado en la factura electrónica correspondiente.
+
+Tal determinación no adolece de arbitrariedad ni de falta de fundamentación: i) se asienta en un documento específico identificado en el proceso; ii) se vincula con un período concreto no afectado por prescripción; iii) concuerda con la lógica económica del contrato (precio mensual reiterado en varias facturas) y iv) no fue desvirtuada por prueba de pago, compensación u otra causal extintiva.
+
+La parte apelante no cuestiona el quantum mediante una crítica probatoria contundente (por ejemplo, mediante objeción o tacha de documento, peritaje contable o evidencia de pagos), sino que pretende, por vía indirecta, invalidar la base de la condena exigiendo requisitos formales orientados a la cesión del crédito.
+
+Ese desplazamiento argumental no es aceptable: la obligación de pagar el precio de un servicio efectivamente prestado no depende de la aptitud del documento para circular como título, sino del contrato y de la prestación correlativa.
+
+Por tanto, acreditados el servicio y el precio, y no acreditada la extinción, la condena por el monto señalado aparece plenamente ajustada a derecho.
+
+SÉPTIMO: Que la sentencia ordena que la suma adeudada sea reajustada según la variación del Índice de Precios al Consumidor entre el último día del mes de agosto de dos mil dieciocho y el último día del mes anterior al pago efectivo, y que devengue interés corriente para operaciones no reajustables desde el veintiocho de septiembre de dos mil dieciocho hasta el pago.
+
+La apelación sostiene que tales accesorios solo procederían desde que la obligación fuese indubitada, esto es, desde que la sentencia quede firme y ejecutoriada. Sin embargo, la obligación aquí discutida es una obligación de dinero —precio de servicios— cuya exigibilidad no nace con la sentencia, sino con el cumplimiento del servicio y la estipulación de pago al contado, esto es, desde la fecha en que el precio debió pagarse.
+
+En este contexto, el retardo configura mora conforme a las reglas generales: si existe término para el pago, opera la mora por el solo vencimiento; y, en subsidio, la reconvención judicial ciertamente ocurrió, al menos, con la notificación de la demanda.
+
+En ambos casos, el devengo de intereses moratorios y la actualización del valor real del crédito no dependen de la ejecutoria, sino de la mora o del retardo imputable. El tribunal a quo, además, fija un criterio coherente con la periodicidad mensual: utiliza como base de reajuste el cierre del mes anterior a la exigibilidad del último servicio no prescrito (agosto de dos mil dieciocho) y hace correr intereses desde el día siguiente a la fecha de emisión (veintiocho de septiembre), lo que se alinea con una obligación exigible al contado y evita, en la práctica, trasladar al acreedor el costo íntegro de la depreciación monetaria derivada del incumplimiento.
+
+En mérito de lo razonado, disposiciones legales analizadas y visto, además, lo dispuesto en los artículos, 144, 186 y siguientes del Código de Procedimiento Civil; los artículos 1545, 1546, 1698, 1702, 2492, 2514 y 2515 del Código Civil; y demás normas citadas y pertinentes, se resuelve:
+
+Que, SE CONFIRMA, con costas de la instancia, la sentencia definitiva dictada con fecha ocho de mayo de dos mil veinticuatro por el Juzgado de Letras de Castro, en causa ROL C-2188-2023, que acogió parcialmente la acción de cobro de pesos en procedimiento ordinario de menor cuantía, interpuesta por G4S Security Services S.A., en contra de la Sociedad Comercial e Industrial Agromar Limitada.
+
+Redacción a cargo del Abogado Integrante don Darío Parra Sepúlveda.
+
+Regístrese y devuélvase.
+
+Rol Civil N°1274-2024.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+NOMENCLATURA: 1. [40] Sentencia.
+
+JUZGADO: Juzgado de Letras de Castro
+
+CAUSA ROL: C-2188-2023
+
+CARATULADO: G4S SECUTIRY SERVICES S.A. / SOCIEDAD
+
+COMERCIAL E INDUSTRIAL AGROMAR LIMITADA.
+
+Castro, ocho de mayo de dos mil veinticuatro
+
+VISTOS:
+
+Que ante este tribunal, con fecha 16 de agosto del año 2023, compareció la
+
+abogada Natalia de la Fuente Burdiles, en representación convencional de la empresa G4S
+
+Security Services Regiones S.A., RUT 96.912.870-5, del giro servicios de seguridad y
+
+mantención, representada legalmente por Javier Sotomayor Brülé, todos con domicilio para
+
+efectos en calle Blanco Encalada N° 206, piso 2, oficina 2; quien interpone acción de cobro
+
+de pesos en procedimiento ordinario de menor cuantía, en contra de la empresa Sociedad
+
+Comercial e Industrial Agromar Limitada, RUT 89.042.600-K, del giro de su
+
+denominación, representada legalmente por Patricio Vera Ross, ambos con domicilio en
+
+calle Ramón Freire N° 70 comuna de Dalcahue, por los argumentos de hecho y de derecho
+
+que se exponen en síntesis.
+
+Fundamenta su acción de cobro, indicando que la empresa que representa, se dedica
+
+a prestar servicios de seguridad, mantención, cuidado y vigilancia a distintas empresas a
+
+nivel nacional. Relata, que la empresa demandante habría prestado servicios de seguridad
+
+durante el año 2018 a la planta de Dalcahue de la empresa Sociedad Comercial e Industrial
+
+Agromar Limitada, y que por la prestación de estos servicios, se emitieron las respectivas
+
+facturas.
+
+Detalla una serie de ocho facturas emitidas a la empresa demandada:
+
+1.- Factura electrónica N° 27405, emitida con fecha 27 de febrero del año 2018, por
+
+un monto neto de $ 3.034.442, más $ 576.544 por IVA y un monto total incluido impuestos
+
+de $ 3.610.986.
+
+2.- Factura electrónica N° 27694, emitida con fecha 29 de marzo del año 2018, por
+
+un monto neto de $ 3.034.442, más $ 576.544 por IVA y un monto total incluido impuestos
+
+de $ 3.610.986.
+
+3.- Factura electrónica N° 27988, emitida con fecha 30 de abril del año 2018, por un
+
+monto neto de $ 3.081.136, más $ 585.416 por IVA y un monto total incluido impuestos de
+
+$ 3.666.552.
+
+4.- Factura electrónica N° 28084, emitida con fecha 18 de mayo del año 2018, por
+
+un monto neto de $ 3.081.136, más $ 585.416 por IVA y un monto total incluido impuestos
+
+de $ 3.666.552.
+
+Código: JXPPXNQFXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+5.- Factura electrónica N° 28084, emitida con fecha 21 de junio del año 2018, por
+
+un monto neto de $ 3.081.136, más $ 585.416 por IVA y un monto total incluido impuestos
+
+de $ 3.666.552.
+
+6.- Factura electrónica N° 28655, emitida con fecha 19 de julio del año 2018, por un
+
+monto neto de $ 3.081.136, más $ 585.416 por IVA y un monto total incluido impuestos de
+
+$ 3.666.552.
+
+7.- Factura electrónica N° 28920, emitida con fecha 20 de agosto del año 2018, por
+
+un monto neto de $ 3.081.136, más $ 585.416 por IVA y un monto total incluido impuestos
+
+de $ 3.666.552.
+
+8.- Factura electrónica N° 29265, emitida con fecha 27 de septiembre del año 2018,
+
+por un monto neto de $ 3.081.136, más $ 585.416 por IVA y un monto total incluido
+
+impuestos de $ 3.666.552.
+
+Relata, que la totalidad de servicios de seguridad que adeudaría la empresa
+
+demandada ascendería a la suma de $ 29.221.284.
+
+Pide en definitiva, tener por presentada acción de cobro de pesos, en procedimiento
+
+ordinario de menor cuantía, en contra de la empresa Sociedad Comercial e Industrial
+
+Agromar Limitada, acogerla a tramitación, y en definitiva, declarar que la empresa
+
+demandada le adeuda a su representada la suma equivalente a $ 29.221.284, más reajustes e
+
+intereses, con expresa condena en costas.
+
+El 24 de agosto del año 2023, se notificó la demanda de conformidad al artículo 44
+
+del Código de Procedimiento Civil al representante legal de la empresa Sociedad Comercial
+
+e Industrial Agromar Limitada
+
+El 1 de septiembre del año 2023, a folio 8, el abogado Julio Álvarez Pinto en
+
+representación de la empresa demandada, contestó la demanda solicitando su rechazo con
+
+costas, por los argumentos que se exponen en síntesis.
+
+En primer lugar, alega que las facturas electrónicas acompañadas por la parte
+
+demandante no cumplirían con los requisitos para tener valor como documentos tributarios,
+
+ya que no se indicaría la razón completa de la empresa demandada ni tampoco se indicaría
+
+la persona que recibe la factura electrónica.
+
+En segundo lugar, alega la excepción perentoria de prescripción extintiva de la
+
+acción ordinaria de cobro de siete de las ocho facturas que se cobran. Sostiene que en este
+
+caso la demanda fue presentada ante el tribunal con fecha 16 de agosto de 2023 y fue
+
+notificada a su parte con fecha 24 de agosto de 2023, por lo que ya habrían transcurrido
+
+más de cinco años desde que se habría hecho exigible el pago de al menos siete de las ocho
+
+facturas, y que no ha operado antes la interrupción civil de la prescripción extintiva.
+
+Pide en definitiva, que el tribunal rechace la demanda con costas.
+
+El 27 de septiembre del año 2023, a folio 18, se realizó la audiencia de
+
+conciliación, con la asistencia de la apoderada de la parte demandante y la asistencia de una
+
+Código: JXPPXNQFXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+apoderada de la parte demandada. Llamadas las partes a conciliación, ésta no se produjo
+
+por falta de acuerdo.
+
+El 27 de noviembre del año 2023, a folio 20, el tribunal recibió la causa a prueba.
+
+El 22 de abril de 2024, a folio 28, el tribunal citó a las partes a oír sentencia.
+
+CONSIDERANDO:
+
+PRIMERO: Que conforme a lo expuesto durante el período de discusión, la
+
+abogada de la empresa demandante, pretende se declare que la parte empresa demandada le
+
+adeuda a su representada la suma de $ 29.221.284, más reajustes e intereses y costas,
+
+correspondiente a la prestación de servicios de seguridad en una de sus plantas de procesos,
+
+según se daría cuenta en ocho facturas que acompaña.
+
+SEGUNDO: Que la parte demandada pidió el rechazo de la demanda con costas,
+
+alegando en primer lugar que las facturas acompañadas no cumplirían con los requisitos
+
+legales para tener valor como factura, y en segundo lugar, alega que ha operado la
+
+prescripción extintiva de la acción ordinaria de cobro respecto de los servicios que darían
+
+cuenta al menos siete de las ocho facturas que se cobran.
+
+TERCERO: Que para acreditar los fundamentos de su acción, la parte demandante
+
+rindió la siguiente prueba en el juicio.
+
+I.-Prueba instrumental. Que no ha sido objetada, consistente en:
+
+A folio 1, con fecha 16 de agosto del año 2023.
+
+1.- Factura electrónica N° 27405, emitida con fecha 27 de febrero del año 2018, por
+
+un monto neto de $ 3.034.442, más $ 576.544 por IVA y un monto total incluido impuestos
+
+de $ 3.610.986.
+
+2.- Factura electrónica N° 27694, emitida con fecha 29 de marzo del año 2018, por
+
+un monto neto de $ 3.034.442, más $ 576.544 por IVA y un monto total incluido impuestos
+
+de $ 3.610.986.
+
+3.- Factura electrónica N° 27988, emitida con fecha 30 de abril del año 2018, por un
+
+monto neto de $ 3.081.136, más $ 585.416 por IVA y un monto total incluido impuestos de
+
+$ 3.666.552.
+
+4.- Factura electrónica N° 28084, emitida con fecha 18 de mayo del año 2018, por
+
+un monto neto de $ 3.081.136, más $ 585.416 por IVA y un monto total incluido impuestos
+
+de $ 3.666.552.
+
+5.- Factura electrónica N° 28084, emitida con fecha 21 de junio del año 2018, por
+
+un monto neto de $ 3.081.136, más $ 585.416 por IVA y un monto total incluido impuestos
+
+de $ 3.666.552.
+
+6.- Factura electrónica N° 28655, emitida con fecha 19 de julio del año 2018, por un
+
+monto neto de $ 3.081.136, más $ 585.416 por IVA y un monto total incluido impuestos de
+
+$ 3.666.552.
+
+Código: JXPPXNQFXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+7.- Factura electrónica N° 28920, emitida con fecha 20 de agosto del año 2018, por
+
+un monto neto de $ 3.081.136, más $ 585.416 por IVA y un monto total incluido impuestos
+
+de $ 3.666.552.
+
+8.- Factura electrónica N° 29265, emitida con fecha 27 de septiembre del año 2018,
+
+por un monto neto de $ 3.081.136, más $ 585.416 por IVA y un monto total incluido
+
+impuestos de $ 3.666.552.
+
+A folio 25, con fecha 10 de abril de 2024.
+
+9.- Libro de asistencia, custodiado material por el tribunal con el N° 897-2024.
+
+CUARTO: Que la parte demandada no rindió prueba alguna en el procedimiento.
+
+A.- EN CUANTO A LA EXISTENCIA DE LA OBLIGACIÓN PENDIENTE
+
+QUE SE COBRA.
+
+QUINTO: Que de la revisión y análisis de las ocho facturas electrónicas emitidas
+
+por la empresa demandante a nombre de la empresa demandada, donde se detalla el tipo de
+
+servicios prestados, específicamente, servicios de seguridad en la planta de Dalcahue,
+
+constituyen antecedentes documentales ciertos para presumir fundadamente la existencia de
+
+un contrato de prestación de servicios de seguridad por parte de la empresa demandante.
+
+SEXTO: Que la defensa de la parte demandada no niega que esos servicios de
+
+seguridad se hubieran prestado, sino que pretende cuestionar el cumplimiento de los
+
+requisitos para la emisión de las facturas y para que éstas tengan valor como documentos
+
+tributarios.
+
+SEPTIMO: Que en el caso concreto, la parte demandada no rindió prueba alguna
+
+para corroborar que las facturas electrónicas en cuestión son falsas o carecen de las
+
+menciones legales que debe contener como documento tributaria.
+
+Sin perjuicio de ello, lo que se cobra en este caso, no es una acción ejecutiva que
+
+emane de la factura como documento tributario, sino la acción de cobro que subyace a la
+
+prestación de los servicios de seguridad, y por ende, las alegaciones de defensa referidas a
+
+cuestionar las validez de las facturas son absolutamente irrelevantes, por lo que deberán ser
+
+desechadas.
+
+OCTAVO: Que ahora bien, estas ocho facturas acompañadas a folio 1 por la parte
+
+demandante, tienen el valor probatorio de instrumentos privados, y permite presumir como
+
+verdadero el monto mensual fijado por del pago por los servicios de seguridad prestados,
+
+sin a su vez la parte demandada haya cuestionado esos montos mensuales.
+
+NOVENO: Que de conformidad a lo dispuesto en el artículo 1698 del Código Civil,
+
+habiéndose acreditado la existencia de la obligación y su monto con la prueba documental
+
+rendida por el demandante; correspondía a la parte demandada acreditar la extinción total o
+
+parcial de la misma, por alguno de los modos de extinguir las obligaciones. En este caso
+
+concreto, la parte demandada ha alegado que ha operado el modo de extinguir prescripción
+
+extintiva respecto a la acción de cobro que nacería de siete de las ocho facturas.
+
+Código: JXPPXNQFXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+B.- EN CUANTO A LA EXCEPCIÓN PERENTORIA DE PRESCRIPCIÓN
+
+EXTINTIVA DE LA ACCIÓN ORDINARIA DE COBRO DE PESOS.
+
+DÉCIMO: Que la prescripción extintiva, en los términos definidos en el artículo
+
+2492 del Código Civil, es un modo extinguir las acciones y derechos ajenos, por no haberse
+
+ejercido dichas acciones y derechos durante cierto lapso de tiempo.
+
+UNDÉCIMO: Que la prescripción extintiva, más que un modo de extinguir las
+
+obligaciones, extingue las acciones para exigir el cumplimiento de una determinada
+
+obligación, de manera tal, que en cualquier caso la obligación propiamente tal subsiste
+
+como natural.
+
+DUODÉCIMO: Que asimismo, el plazo de prescripción extintiva de una acción,
+
+empieza a computarse, desde que la obligación se haya hecho exigible, según dispone
+
+expresamente el artículo 2514 inciso final del mismo Código Civil.
+
+DÉCIMO TERCERO: Que en el caso concreto, tratándose de una acción ordinaria
+
+de cobro de pesos no sujeta a un plazo especial, el plazo de prescripción extintiva de la
+
+acción para exigir el cumplimiento de esta obligación, sería el plazo contemplado para las
+
+acciones ordinarias en el artículo 2515 del Código Civil, es decir, 5 años desde que la
+
+obligación se hizo exigible.
+
+DÉCIMO CUARTO: Que existe consenso en la mayoría de la doctrina y la
+
+jurisprudencia, en cuanto a que la interrupción de la prescripción extintiva se produce al
+
+momento de notificarse válidamente la demanda al obligado al pago.
+
+DÉCIMO QUINTO: Que en el caso concreto, para determinar en qué momento se
+
+hizo exigible el pago de los servicios de seguridad, el tribunal deberá tener en
+
+consideración el contenido de los ocho facturas que se han acompañado por la parte
+
+demandante, para acreditar la existencia de la relación contractual entre los litigantes.
+
+DÉCIMO SEXTO: Que en este sentido, de la revisión de las ocho facturas
+
+acompañadas a folio 1, todas ellas indican como condición de venta el pago al contado, y
+
+no contienen una fecha adicional y distinta de pago. Por ende, el pago de los servicios de
+
+seguridad prestados de manera mensual, se hizo exigible en la misma fecha de emisión de
+
+la factura, y no en una fecha distinta como cuando se concede forma de pago a crédito y se
+
+especifica la fecha en que debe pagarse el documento tributario.
+
+DÉCIMO SEPTIMO: Que en el caso concreto, las obligaciones cuyo cobro se
+
+pretende, se hicieron exigibles en las siguientes fechas:
+
+a) 27 de febrero del año 2018.
+
+b) 29 de marzo del año 2018.
+
+c) 30 de abril del año 2018.
+
+d) 18 de mayo del año 2018.
+
+e) 21 de junio del año 2018.
+
+f) 19 de julio del año 2018.
+
+Código: JXPPXNQFXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+g) 20 de agosto del año 2018.
+
+h) 27 de septiembre del año 2018.
+
+DÉCIMO OCTAVO: Que particularmente, habiéndose notificado la demanda el
+
+día 24 de agosto del año 2023, esa fecha marca el límite temporal para computar el plazo
+
+de prescripción extintiva, sobre de las acciones de cobro de esos servicios de seguridad,
+
+respecto de los cuáles han transcurrido más de cinco años desde que la obligación de
+
+pagarlos se hizo exigible.
+
+DÉCIMO NOVENO: Que de acuerdo a lo que se ha venido razonando, las
+
+acciones ordinaras de cobro de pesos interpuestas en este juicio, por servicios de seguridad
+
+exigibles entre el 27 de febrero del año 2018 y el 20 de agosto del año 2018 inclusive,
+
+documentadas en siete de las ocho facturas, se encuentran extinguida por prescripción, al
+
+haber transcurrido más de 5 años entre que la obligación se hizo exigible y la notificación
+
+válida de la acción ordinaria de cobro; por lo que deberá acoger esta excepción perentoria
+
+como se dirá en la parte resolutiva.
+
+VIGÉSIMO: Que sin embargo, no queda extinguida por prescripción, la acción de
+
+cobro derivada de los servicios de seguridad que se hicieron exigibles a partir del 27 de
+
+septiembre del año 2018 y documentada en la factura electrónica N° 29265, emitida con
+
+igual fecha, por un monto total incluido impuestos de $ 3.666.552, por lo que tribunal
+
+deberá acoger parcialmente la acción de cobro de pesos únicamente por ese monto.
+
+VIGÉSIMO PRIMERO: Que la deuda recién indicada, deberá ser debidamente
+
+reajustada por la variación que haya experimentado el Índice de Precios al Consumidor
+
+entre el último día del mes de agosto del año 2018 y el último día del mes anterior a la
+
+fecha del pago efectivo de la deuda.
+
+Asimismo, la deuda en cuestión devengará interés corriente para operaciones no
+
+reajustables entre el día 28 de septiembre del año 2018 y la fecha de pago efectivo de la
+
+deuda.
+
+Y teniendo presente, además lo dispuesto en los artículos 1545, 1698, 1702, 2492,
+
+2514 y 2515 del Código Civil, artículos 144, 254 y siguientes y 698 del Código de
+
+Procedimiento Civil; SE DECLARA:
+
+I.- Que SE ACOGE la excepción perentoria de prescripción extintiva de la acción
+
+ordinaria de cobro, promovida por el abogado Julio Álvarez Pinto en representación de la
+
+empresa demandada Sociedad Comercial e Industrial Agromar Limitada; y en
+
+consecuencia, se declaran prescritas las acciones ordinarias de cobro respecto de las
+
+servicios de seguridad adeudados y exigibles desde el 27 de febrero del año 2018 y hasta
+
+el 20 de agosto del año 2018 inclusive, excepción de prescripción promovida en el escrito
+
+de contestación de la demanda de fecha 1 de septiembre del año 2023.
+
+II.- Que SE ACOGE parcialmente la acción de cobro de pesos en procedimiento
+
+ordinario de menor cuantía, interpuesta por Ignacio González Landeta, en representación
+
+Código: JXPPXNQFXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+convencional de la empresa demandante G4S Security Services S.A., en contra de la
+
+empresa demandada Sociedad Comercial e Industrial Agromar Limitada, todos ya
+
+individualizados y en consecuencia se condena a la empresa demandada al pago de la suma
+
+de $ 3.666.552, por servicios de seguridad adeudados desde el 27 de septiembre del año
+
+2018.
+
+II.- Que la suma indicada en el resolutivo anterior, deberá ser pagada con los
+
+reajustes e intereses corrientes para operaciones no reajustables, computados en la forma
+
+indicada en la motivación vigésimo primera de esta sentencia.
+
+III.- Que no se condena en costas a la parte demandada, por no haber sido
+
+totalmente vencida.
+
+Regístrese, notifíquese y archívese en su oportunidad.
+
+Pronunciada por don BRUNO CASALE MORRISON, Juez Suplente del
+
+Juzgado de Letras de Castro
+
+Código: JXPPXNQFXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2024-05-08T07:48:45-0400
