@@ -4,19 +4,19 @@ case_id: b98a8bb0d59be67e6ded35b2666690ecbffddacf
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047163
 
-rol: 7937-2026
+rol: 49807-2024
 
 fecha_sentencia: 2026-03-03
 
-caratulado: GARRIDO MENESES ALEXANDER MAURICIO CONTRA GENDARMERIA CHILE
+caratulado: CDE- FISCO/ALCAÍNO
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: ▪ Admisibilidad del recurso de revisión
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: ACOGE RECURSO DE REVISIÓN (M)
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

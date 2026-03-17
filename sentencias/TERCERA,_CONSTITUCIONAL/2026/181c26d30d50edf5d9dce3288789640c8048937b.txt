@@ -4,19 +4,19 @@ case_id: 181c26d30d50edf5d9dce3288789640c8048937b
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046824
 
-rol: 54131-2025
+rol: 54129-2025
 
 fecha_sentencia: 2026-03-03
 
-caratulado: CORVALÁN FIGUEROA FILIPPO/SANHUEZA BRAVO RODRIGO ALEJANDRO
+caratulado: MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES/MUNICIPALIDAD DE TEMUCO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Dirección General de Aguas
+materias: ▪ Bienes nacionales de uso público, bienes fiscales y municipales
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: CONFIRMA SENTENCIA EN LO APELADO
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
