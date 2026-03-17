@@ -4,11 +4,11 @@ case_id: 2eb358c10b51404f6edeb72339025b76224a9cf1
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8043181
 
-rol: 5695-2026
+rol: 54821-2025
 
 fecha_sentencia: 2026-02-26
 
-caratulado: CONSTRUCTORA M Y T LTDA./SOCIEDAD DE DESARROLLO TECNOLÓGICO USACH LIMITADA - VUELVE A TABLA
+caratulado: MARGARITA CARTAGENA NUÑEZ CON HUGO MAULEN GUZMAN
 
 sala: PRIMERA, CIVIL
 
@@ -16,7 +16,7 @@ materias: ▪ Admisibilidad del recurso de casación en el fondo
 
 recurso: (CIVIL) CASACIÓN FONDO
 
-resultado_recurso: RECHAZA CASACION EN EL FONDO
+resultado_recurso: RECHAZA CASACION EN EL FONDO (M)
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
