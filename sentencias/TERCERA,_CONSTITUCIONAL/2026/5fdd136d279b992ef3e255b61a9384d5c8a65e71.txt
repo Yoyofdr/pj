@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Colusión
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
 
 resultado_recurso: ACOGIDA RECURSO DE RECLAMACIÓN
 
