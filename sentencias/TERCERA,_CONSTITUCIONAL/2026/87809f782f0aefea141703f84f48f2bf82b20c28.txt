@@ -4,11 +4,11 @@ case_id: 87809f782f0aefea141703f84f48f2bf82b20c28
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049165
 
-rol: 3374-2026
+rol: 3215-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: NAVA/SUBSECRETARIA DEL INTERIOR
+caratulado: CEGARRA/SERVICIO NACIONAL DE MIGRACIONES, MINISTERIO DEL INTERIOR Y SUBSECRETARIA DEL INTERIOR
 
 sala: TERCERA, CONSTITUCIONAL
 

@@ -4,11 +4,11 @@ case_id: ba213cca3bb60d3366451eba484810aa26502fac
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8048475
 
-rol: 1596-2026
+rol: 43058-2025
 
 fecha_sentencia: 2026-03-04
 
-caratulado: TORRES QUIROZ / MINISTERIO DEL INTERIOR Y SEGURIDAD PUBLICA Y OTRO
+caratulado: LUTFRIDO SANCHE BATISTA/SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 

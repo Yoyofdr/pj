@@ -4,11 +4,11 @@ case_id: 2fd6b533abc010b95197ac63b3f1a51c9c1d8b42
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8048086
 
-rol: 3215-2026
+rol: 2201-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: CEGARRA/SERVICIO NACIONAL DE MIGRACIONES, MINISTERIO DEL INTERIOR Y SUBSECRETARIA DEL INTERIOR
+caratulado: OCHEA/SERVICIO NACIONAL DE. MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
