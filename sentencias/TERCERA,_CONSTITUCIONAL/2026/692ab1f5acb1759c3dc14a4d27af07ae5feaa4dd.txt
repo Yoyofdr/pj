@@ -4,17 +4,17 @@ case_id: 692ab1f5acb1759c3dc14a4d27af07ae5feaa4dd
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041863
 
-rol: 48915-2025
+rol: 358-2026
 
-fecha_sentencia: 2026-02-25
+fecha_sentencia: 2026-02-26
 
-caratulado: OYANEDER/FLORES
+caratulado: MAURICIO ANDRÉS ÁVALOS MILLALONCO/ISAPRE CRUZ BLANCA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Derecho a la honra, a la imagen y a la vida privada, libertad de expresión
+materias: ▪ Salud
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) RECLAMO NACIONALIDAD
 
 resultado_recurso: REVOCADA SENTENCIA APELADA
 

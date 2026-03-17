@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CIVIL) RECLAMO NACIONALIDAD
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 

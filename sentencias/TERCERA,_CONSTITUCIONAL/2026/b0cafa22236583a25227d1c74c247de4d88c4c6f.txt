@@ -4,17 +4,17 @@ case_id: b0cafa22236583a25227d1c74c247de4d88c4c6f
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041563
 
-rol: 57984-2025
+rol: 43069-2025
 
 fecha_sentencia: 2026-02-26
 
-caratulado: AGUAYO/TORRES
+caratulado: PAUL PHILIP ROSSEL CISTERNAS /PREFECTO DE LA PREFECTURA DE CARABINEROS BÍO BÍO, CORONEL MARCELO SALAS CARVACHO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) CASACIÓN FONDO
+materias: (CIVIL) RECLAMO NACIONALIDAD
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CIVIL) RECLAMO NACIONALIDAD
 
 resultado_recurso: REVOCADA SENTENCIA APELADA
 

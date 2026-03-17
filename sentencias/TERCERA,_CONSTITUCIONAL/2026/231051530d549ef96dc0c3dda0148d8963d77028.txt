@@ -1,0 +1,2789 @@
+METADATA
+
+case_id: 231051530d549ef96dc0c3dda0148d8963d77028
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8043196
+
+rol: 48915-2025
+
+fecha_sentencia: 2026-02-26
+
+caratulado: OYANEDER/FLORES
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: ▪ Derecho a la honra, a la imagen y a la vida privada, libertad de expresión
+
+recurso: (CIVIL) RECLAMO NACIONALIDAD
+
+resultado_recurso: REVOCADA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, veintiséis de febrero de dos mil veintiséis.
+
+VISTO Y TENIENDO PRESENTE:
+PRIMERO: Que, en este juicio ordinario de cumplimiento de contrato, seguido ante el Segundo Juzgado Civil de Santiago, bajo el Rol C-25.382-2017, caratulado “Constructora M y T Ltda con Sociedad de Desarrollo Tecnológico Usach Limitada”, se ha ordenado dar cuenta de la admisibilidad del recurso de casación en el fondo deducido por la parte demandante contra la sentencia de la Corte de Apelaciones de Santiago de seis de enero de dos mil veintiséis, que rechazó la demanda principal de cumplimiento de contrato con indemnización de perjuicios, la demanda accesoria de indemnización de perjuicios, que rechazó la restitución de las garantías por conceptos de anticipo por el monto de $2.013.579.- sin condenarla en costas por estimar tuvo motivo plausible para litigar.
+
+SEGUNDO: Que, funda su recurso de casación en la infracción a los artículos 1702 Código Civil en relación 346 N° 3 del Código de Procedimiento Civil, Artículo 384 del Código de Procedimiento Civil, artículo 399 y 401 Código de Procedimiento Civil en relación con el artículo 1713 Código Civil, artículo 1489 Código Civil, reglas de la sana crítica y por último, al artículo 1698 Código Civil. Funda los errores de derecho referidos en cuanto a que el Tribunal no valoró íntegramente el Libro de Obras original, en el cual en su entender existe una anotación del 16 de mayo de 2016 que demuestra que su representada no abandonó intempestivamente la obra, sino que se retiró por instrucción de la propia demandada para permitir el ingreso de un tercero, cual es la empresa Sabinco. Afirma que esta omisión llevó al tribunal a concluir erróneamente que su representada no cumplió sus obligaciones emanadas del contrato, negándole la acción para exigir cumplimiento del contrato e indemnización de perjuicios. Asimismo, denuncia una incorrecta valoración de la prueba testimonial, confesional y documental, lo cual importó una infracción a las normas reguladoras de la prueba. Indica finalmente que, de haberse aplicado correctamente la ley y valorado toda la prueba, habría debido acogerse la demanda, pues la demandada incumplió sus obligaciones, especialmente el pago de estados de pago y la interrupción injustificada de la obra.
+
+Pide se invalide la sentencia recurrida y acto continuo y sin nueva vista, pero separadamente, dicte la correspondiente sentencia de reemplazo, por la que se acojan las demandas de autos, en todas sus partes, con costas; sin perjuicio de la facultad de la Excma. Corte Suprema de casar de oficio el fallo por los defectos que observe, de conformidad con lo dispuesto en el artículo 775 del Código de Procedimiento Civil.
+
+TERCERO: Que, conforme lo previsto en el artículo 772 N° 1 del Código de Procedimiento Civil, el recurso de casación en el fondo está sujeto a un requisito indispensable para su admisibilidad, cuál es que el escrito en que se lo interpone “exprese”, es decir, explicite en qué consiste y cómo se ha producido el o los errores de derecho.
+
+CUARTO: Que, del examen de los antecedentes, consta que el arbitrio de nulidad en estudio no puede prosperar, toda vez la demandada omitió extender la infracción legal a normas sustantivas que, en la especie, tienen el carácter de decisoria de la litis, es decir, preceptos que al ser aplicados permiten resolver la cuestión controvertida, especialmente los artículos 1437, 1438, 1545, 1546, 1551, 1552, 1546, 1560, 1562, todos del Código Civil, normas que regulan la materia en discusión y que fueron invocadas por el tribunal como fundamento para rechazar la pretensión, tal como se lee en los considerandos octavo a decimo séptimo de primera instancia y en la sentencia de segunda, exigencia que no se satisface con las menciones del escrito al momento de fundamentar las infracciones legales que sustenta el recurso de nulidad sustantivo.
+
+Siendo ello así, las normas mencionadas en el recurso no constituyen fundamento plausible para dar acogida a la casación en el fondo.
+
+Por estas consideraciones y de conformidad, además, con lo dispuesto en los artículos 764, 765, 767, 772 y 782 del Código de Procedimiento Civil, se rechaza el recurso de casación en el fondo interpuesto por la abogada Loreto Zurita Rubio, en representación de la parte demandante contra la sentencia de seis de enero de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago.
+
+Regístrese y devuélvase.
+
+Rol Nº 5695-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Santiago, seis de enero de dos mil veintiséis.
+VISTOS:
+
+Se ha elevado esta causa Ingreso Corte N°2.664-2023, desde el Segundo Juzgado Civil de Santiago, para conocer del recurso de apelación interpuesto por la parte demandante, en contra de la sentencia de veinticuatro de enero de dos mil veintitrés que rechazó en todas sus partes la demanda de cumplimiento de contrato de ejecución de obra, interpuesta por la empresa Constructora MYT Limitada, en contra de la Sociedad de Desarrollo Tecnológico de la Universidad de Santiago de Chile Limitada; asimismo, rechazó la demanda de indemnización de perjuicios, accesoria a la de cumplimiento de contrato de ejecución de obra; y la demanda de restitución de las garantías por conceptos de anticipo, de fiel y oportuno cumplimiento de las obligaciones del contrato y por la correcta ejecución de las obras, que la empresa Constructora MYT Limitada solicitó por el monto de $2.013.579.-.
+
+Concedido el recurso y elevado ante esta Corte, se ordenó traer los autos en relación.
+
+CONSIDERANDO:
+PRIMERO: Que, en la presente causa, la demandante indica que celebró el Contrato de Ejecución de la obra denominada “Obras Civiles para edificio Recicla” para la Facultad de Administración y Economía de la Universidad de Santiago de Chile, con la Sociedad de Desarrollo Tecnológico de la Universidad Santiago de Chile Limitada, representada por su Director Ejecutivo don Juan Pablo Aguirre Álvarez.
+
+Explica que el objeto de dicho contrato fue la obra denominada “Obras civiles para edificio “Recicla” para la Facultad de Administración y Economía de la Universidad de Santiago de Chile”. Precisa que conforme a la cláusula cuarta del contrato, el plazo de ejecución no podía exceder de 35 días corridos desde la entrega del terreno, hecho que se verificó el día 27 de abril del año 2016; que la obra se estipuló bajo el sistema de “suma alzada”, sin reajustes; y que el precio total que la demandada debía pagar era la suma de ochenta y nueve millones novecientos sesenta y seis mil seiscientos diez pesos ($89.966.610.-) IVA incluido.
+
+Añadió que, conforme al contrato, las obras eran inspeccionadas por la Inspección Técnica de Obras y/o el Jefe de Unidad de Construcciones de la Universidad de Santiago de Chile. En la práctica actuaba como ITO don Arturo González Riquelme, Constructor Civil perteneciente a la Unidad de Construcción de la USACH, quien era el encargado de velar directamente por la Correcta ejecución de la faena y en general por el cumplimiento del contrato. En su ausencia actuó en su cargo Miguel Ángel Mujica. Además, como parte de la Inspección Técnica, actuaban especialistas tales como: un calculista don Daniel Alvarado, (de la empresa Leiva y Asociados Ltda) y los arquitectos Iván Jiménez Maturana y Willy Muñoz Alvarado. Por parte de la demandante, empresa M y T Ltda., actúo el representante legal, don Tomas Meneses González (constructor civil) y el profesional administrador de obras don Patricio Torres.
+Agregó que, iniciadas las obras, se dio cumplimiento por la demandada al Primer Estado de Pago, por la suma $ 30.964.551 IVA incluido, emitiéndose la correspondiente factura, Nº67, de 10 de mayo del año 2016. El Segundo Estado de Pago, por la suma de $ 7.293.458 IVA incluido, por el cual se emitió la factura Nº70 de fecha 09 de junio de 2016, no se pagó por la demandada, debiendo iniciarse la acción judicial de cobro ante el 30º Juzgado Civil de Santiago, conforme autos Rol C-24.503/2016, caratulada “Constructora MYT Ltda. con Soc. de Desarrollo Tecnológico de la Universidad de Santiago”. De esta manera, dice, se le adeuda a la fecha, la suma de $ 43.452.606. Sin embargo, a esta suma hay que restarle el porcentaje de faenas pendientes indicadas en el Libro de Obras, con fecha 16 de mayo del 2016, que corresponde a un total de $3.236.687. En consecuencia, a la fecha de la demanda y por concepto de valor total de obra, la demandada le adeuda la suma neta de $ 40.215.920.
+Solicita el cumplimiento del contrato con indemnización de perjuicios, pues la demandada no cumplió lo pactado, ya que no pagó lo que le correspondía pagar, adeudando, a la fecha de la demanda, la suma neta de $40.215.920.- por saldo del precio acordado; $64.778.611.- por indemnización de perjuicios, que desglosa en $34.581.820.- por daño emergente y $30.196.791.-, por lucro cesante; más la restitución de $2.013.579.- por concepto de restitución de boletas de garantía.
+
+Por su parte, la demandada reconoció la existencia del contrato aludido, su objeto, plazo de duración y monto del precio pactado; no obstante, estima que ha sido la constructora demandante quien incumplió el contrato, haciendo abandono intempestivo de las obras inacabadas sin previo aviso al contratante, y sin que existiese recepción provisoria ni definitiva de las obras, por lo que, sostiene, a la demandante nada se le habría incumplido.
+
+Asimismo, indica la demandada que realizó seis pagos adicionales de buena fe con el objeto de terminar la obra contratada, por lo que el monto total pagado ascendería a $71.931.356.-; y rechaza la devolución por su parte de las garantías otorgadas.
+
+SEGUNDO: Que, la sentencia impugnada tuvo por establecido -en lo sustancial, en sus fundamentos Sexto y siguientes- que con fecha 28 de marzo de 2016 las partes de este juicio suscribieron el denominado “Contrato de ejecución de la obra denominada “Obras Civiles para Edificio Recicla”, para la Facultad de Administración y Economía de la Universidad de Santiago de Chile, encontrándose también ambas partes contestes en la circunstancia que ninguna de ellas comunicó a la otra que le puso término al contrato que las vincula. No existiendo discusión respecto del objeto de contrato, de tratarse de un contrato de construcción a “suma alzada”, sin reajuste, que no se encuentra sujeto a variación de ninguna especie, por el valor total de $89.966.610.- IVA incluido, también existe concordancia en cuanto a que para la ejecución y recepción provisoria de las obras se fijó un plazo de 35 días corridos, contados desde la fecha del acta de entrega de terreno.
+
+La sentencia también estableció, en su fundamento Décimo segundo, que, “según se constata a partir de las anotaciones contenidas en el denominado , la entrega del terreno se efectuó con fecha 27 de abril de 2016, por lo que, conforme a lo razonado en el motivo precedente, dio inicio al cómputo del plazo convenido para la ejecución de la obra contratada. Luego, ha de tenerse por establecido que el plazo que las partes fijaron para la ejecución de los trabajos vencía el 1° de junio de 2016”, añadiendo allí también que “es un hecho que surge de las propias alegaciones vertidas por las partes como de las pruebas testimonial y confesional rendidas en juicio, que a la llegada del plazo convenido para la ejecución de la obra, ésta no se había concretado en su totalidad por la constructora demandante, quedando inconclusa y sin que la actora haya regresado a ejecutar las labores pendientes. En efecto, si bien la demandante en su libelo sostiene que el día 16 de mayo de 2016 hizo abandono de las obras de forma temporal, lo que atribuyendo (sic) a una exigencia de la demandada, lo cierto es que reconoce que a la sazón quedaba pendiente una parte de los trabajos encargados en el contrato, los que finalmente, según manifiesta, nunca fueron completados.
+
+En el mismo sentido, tres de los cuatro testigos aportados por la demandante, don Patricio Eduardo Jesús Torres Huenchuhual, doña Deisy Evelyn Rubio Tapia y don Jorge Eduardo Valenzuela Salgado, se encuentran contestes en el hecho que la demandante nunca concluyó la totalidad de los trabajos encargados, mientras el testigo de la demandante restante no se pronunció al respecto. Por su parte, la totalidad de los testigos aportados por la demandada, a saber, don Willy Alejandro Muñoz Alvarado, doña Jennifer Pamela Barraza Contreras y don Joaquín Eduardo Curtze Reyes, se mostraron contestes en la circunstancia que la constructora demandante hizo abandono de las obras, el cual califican de intempestivo, sin cumplir con la totalidad de las obligaciones establecidas en el contrato celebrado entre las partes. Así las cosas, ponderando la testimonial en los términos del artículo 384 N°2 del Código de Procedimiento Civil, se encuentra debidamente asentado que la contratista efectivamente abandonó las obras y que estas quedaron inconclusas.”.
+
+TERCERO: Que, habiendo asentado lo anterior, la sentencia apelada argumenta que “habiéndose acreditado que la actora no cumplió a cabalidad con la obligación principal del contrato, a saber, la ejecución de la totalidad de las obras civiles encargadas dentro del plazo fijado, tocaba a ésta acreditar que dicho incumplimiento no le era imputable.
+
+Sobre el punto, la demandante señala que con fecha 16 de mayo de 2016, por exigencia de la demandada y cuando su parte ya había efectuado el 99% de las obras encargadas, hizo abandono temporal de la obra para efectos de que ingresara otra empresa, denominada “SABINCO”, para efectuar el montaje de una estructura metálica, dejándose constancia de este hecho en el Libro de Obras, quedando pendiente la instalación de las canaletas de aguas lluvias y rejillas, así como el remate de banquetas instaladas de cuatro cámaras de aguas lluvias.
+
+Sin embargo, revisado el Libro de Obras y sus anexos acompañados a los autos, no consta anotación de fecha 16 de mayo de 2016 dando cuenta de haberse ordenado la paralización de las obras y la salida de la Constructora MYT Limitada, a que hace alusión la parte demandante en su libelo, circunstancia no menor si se atiende al impacto que una orden de dicha naturaleza podría tener en el debido cumplimiento de las obras y su entrega dentro del plazo tan acotado que se convino. En efecto, según consta en las cláusulas décimo quinta y décimo sexta del contrato, se puso de cargo del contratista , conviniéndose que ; luego, la falta de todo respaldo escrito en el Libro de Obras de la pretendida orden o solicitud de abandono temporal a que alude la demandante, no puede ser suplida por la prueba testimonial, por lo que, aun cuando sus testigos resultan superiores en número a aquellos presentados por la demandada, de conformidad a lo dispuesto en el artículo 384 N°3 del Código de Procedimiento civil, habrá de estarse a los testigos de esta última (demandada) en orden a que la contratista hizo abandono intempestivo de las obras, por aparecer sus declaraciones más conformes con otras pruebas del proceso, específicamente, con la ausencia de toda anotación escrita en el respectivo Libro de Obras que avale la supuesta exigencia de la mandante a que se alude por la demandante.”.
+Agrega la sentencia que “aun cuando se hubiese ordenado el retiro temporal de las obras a la constructora demandante, ello no la facultaba para hacer abandono intempestivo de las mismas dejándolas inconclusas, por cuanto el propio contrato, en su cláusula décimo segunda, establece el procedimiento a seguir para el caso que se deba aumentar el plazo de ejecución de las obras, lo que no fue cumplido por la actora.
+
+En efecto, conforme se desprende del correo electrónico de fecha 16 de mayo de 2016, misma fecha que la actora señala como el día de abandono temporal de las obras, consta que don Arturo González Riquelme, de la Unidad de Construcciones de la Universidad de Santiago de Chile, escribió a don Tomas Alejandro Meneses González - representante legal de la Constructora MYT Limitada - respondiendo a su consulta sobre el procedimiento para solicitar la Recepción Provisoria de las obras, reiterándole con dicha fecha que la constructora debía entregar el Programa de Obras para conocer los trabajos inconclusos que quedarían pendientes para las etapas posteriores del Proyecto”.
+
+Añade el fallo que “existiendo entonces obras pendientes de ejecutar por la actora a la época en que esta manifiesta haber solicitado la Recepción Provisoria de las obras, mediante correo electrónico de fecha 24 de mayo de 2016, situación fáctica que era de conocimiento de ambas partes del contrato según se ha acreditado (…), se torna evidente que en la especie no se daban los requisitos para conceder dicha acta, al tenor de lo pactado en la cláusula cuarta del contrato.
+
+En efecto, por una parte, aún no se había cumplido el plazo de ejecución del mismo, que vencía el 1° de junio de 2016; y por otra, no se había concluido por la actora la totalidad de las obras contratadas, siendo improcedente tal solicitud. En dicho escenario, lo que correspondía en la especie era implementar el proceso de ampliación de plazo para terminar las obras pendientes, conforme a la cláusula décima segunda del contrato, lo que la actora no hizo.
+
+Ahora bien, en cuanto al no otorgamiento que la actora reclama de la Recepción Definitiva de las obras, cabe señalar que el plazo de 275 días corridos para su concesión a que alude se cuenta desde la Recepción Provisoria, desde que así lo dispone expresamente la cláusula quinta del contrato, por lo que no concurriendo los requisitos para conceder el acta provisional, según lo razonado precedentemente, es totalmente improcedente en la especie el otorgamiento del acta definitiva, debiendo rechazarse la aseveración de la actora acerca que la demandada contravino las cláusulas cuarta y quinta del contrato.”.
+
+Finalmente, concluye la sentencia, “en los términos que se ha venido razonando, la actora no ha rendido prueba idónea que permita excluir su responsabilidad en el abandono de las obras inconclusas que efectuó el día 16 de mayo de 2016, por lo que, careciendo de la calidad de contratante cumplidor, le está vedada la posibilidad de ejercer la acción cumplimiento forzado con más indemnización de perjuicios, que consagra el artículo 1489 del Código Civil; y de igual manera, aun de haberse ejercitado la acción indemnizatoria como autónoma, que no es el caso, aquella tampoco ha podido prosperar en la medida que se ha configurado en la especie la excepción de contrato no cumplido, prevista en el artículo 1552 del Código Civil, por lo que no ha podido constituirse en mora a la demandada y por ende, conforme a lo dispuesto en el artículo 1557 de citado cuerpo legal, no puede reclamarse de esta última la pretendida indemnización de perjuicios.”.
+
+Adicionalmente, en cuanto a la devolución de las garantías otorgadas por conceptos de anticipo, de fiel y oportuno cumplimiento de las obligaciones del contrato y para la correcta ejecución de las obras, que la empresa contratista demandante solicita por el monto de $2.013.579., dijo la sentencia que “no consta en autos que dichas garantías se encuentren vigentes, ni aportó la contratista prueba alguna que acredite haber tramitado su prórroga, de conformidad a lo dispuesto en el numeral 2), párrafo final de la cláusula sexta del contrato.
+
+A mayor abundamiento, el contrato establece en la citada cláusula sexta, como requisito para la devolución de las garantías por concepto de anticipo y de fiel y oportuno cumplimiento de las obligaciones del contrato, que se efectúe previamente la Recepción Provisoria de las obras, en tanto respecto de la garantía de correcta ejecución de las obras, se exige el acta de Recepción Definitiva, las que de conformidad a lo expuesto en las motivaciones anteriores, no se produjo, dado el abandono intempestivo de las obras por parte de la contratista, por lo que resulta improcedente la devolución que de las mismas pretende la actora.”.
+
+Acorde a lo expuesto desestimó la totalidad de las pretensiones de la demandante.
+
+CUARTO: Que, en su escrito de apelación, la demandante señala que la sentencia de primer grado debe revocarse porque ha dejado de valorar prueba válidamente incorporada y ello ha conducido a cometer un yerro en su decisión final.
+Plantea que la demandada afirmó que Constructora MYT Limitada hizo abandono del terreno en donde se encontraba ejecutando la obra contratada, sin previo aviso al contratante de sus servicios, y sin que existiera orden para efectuar el abandono de las obras; y dijo, además, que se le generó un grave perjuicio, porque debió contratar nuevos contratistas para el término de la obra abandonada por la demandante.
+
+Arguye que, en cambio, su parte sí acompañó el Libro de Obras en el cual consta que en acta datada el 16 de mayo del año 2016, se indica que la empresa constructora deja la obra para que haga ingreso la empresa SABINCO.
+En base a ello sostiene que no hubo abandono de la obra por parte de la actora, sino que un acuerdo con la mandante (ahora demandada), con el fin que otra compañía ingresare a instalar las vigas metálicas (SABINCO).
+Niega, también, que la obra esté inconclusa, porque la propia demandada señaló que contrató a otra empresa para terminar la obra.
+Insistentemente afirmó que la demandante se retiró del terreno, de la obra, por expresa petición de la mandante, ahora demandada.
+Negó que la demandante no cumpliere con la ejecución de la totalidad de las obras. Sostuvo, en cambio, que la demandada se negó a poner término al contrato, porque la incumplidora es ella, precisamente, dado que se ha negado a cursar el último pago.
+Aludiendo a prueba documental y testimonial, sostiene que “No es cierto, entonces, como sostiene el sentenciador, que no se produjeron pruebas suficientes para acoger la pretensión que hizo valer mi parte; el problema es que no se analizaron todas las probanzas rendidas en juicio. Y es esto último, lo que provoca la errada decisión del juez.”.
+Conforme a lo anterior solicitó que se revoque conforme a derecho la sentencia apelada, “y, en la correspondiente de reemplazo, acoja -en todas sus partes- las acciones deducidas por la parte demandante, sea en la forma y cuantía que se dejaron pedidas al interponer la demanda y/o, en la forma o condiciones que estime más ajustadas a derecho y al mérito del proceso, con expresa condenación en costas.”.
+QUINTO: Que, acorde a lo que se ha explicado, la pretensión de la demandante y también su apelación se construyen sobre una pieza que resulta ser fundamental, constituida por las supuestas anotaciones existentes en el Libro de Obras que darían cuenta de la salida de la demandante del lugar de la construcción.
+
+No obstante, examinado éste, esta Corte ha de coincidir con lo asentado en la sentencia de primer grado, en el sentido que no existe la referida anotación, ni ninguna otra con esa fecha, esto es del 16 de mayo de 2016.
+En efecto, el Libro de Obras acompañado en el folio 46, con el N°4, consta de 13 hojas foliadas del N°1 al 13, cuya primera anotación es el “Acta de Entrega de Terreno”, de “27-04-2016”; y, la última, es una comunicación del ITO (Arturo González) a la Constructora MyT, de fecha “11-05-2016”, por la cual solicita una serie de antecedentes, que enumera del 1.1 al 1.7, así como también pide resolver “lo que se solicita en Folio N°12”. Además, hay dos Anexos, el primero de los cuales tiene fecha “30-3-2016” y consta de dos carillas; y, el segundo, es de ocho carillas, la última de las cuales tiene fecha “25-04-2016” (sic) y es una comunicación de “Leiva y Asociados para Arquitectos mandantes y Constructora”.
+
+Por consiguiente, ninguna evidencia hay de la existencia del acta datada el 16 de mayo de 2016 a la que tan reiteradamente se refiere la demandante.
+
+SEXTO: Que, establecido lo anterior, tampoco hay alguna otra evidencia documental que dé cuenta de la supuesta orden impartida por la demandada a la demandante para que hiciera abandono del lugar de faenas y, si bien hay algunas referencias al futuro ingreso en él de otra empresa, lo cierto es que solo se trata de una situación pendiente de suceder y no de algo que amerite la inmediata salida del lugar por parte de la demandante.
+
+SÉPTIMO: Que, atendido lo anterior, concuerda esta Corte con lo razonado y concluido en la sentencia apelada en cuanto aquí no se encuentra acreditada la conducta ilícita atribuida a la demandada, constitutiva del incumplimiento del contrato pactado entre las partes y que configuraría una hipótesis de responsabilidad contractual por la que ella deba responder.
+
+OCTAVO: Que, asentado lo anterior, que ya es suficiente para desestimar la demanda en examen, debe señalarse, además, que la acción interpuesta que pretende se condene a los demandados a pagar una indemnización de perjuicios tampoco puede ser acogida, toda vez que la misma supone aceptar que se acreditó la existencia de los daños que deben ser reparados, en virtud de una causa legal que imputa responsabilidad a la demandada, la cual no se encuentra demostrada en el juicio, toda vez que ambas partes han alegado haber cumplido el contrato hasta en tanto la otra también lo cumplió, pero sin que se haya demostrado alguna conducta reprochable de parte de la demandada que amerite declarar la responsabilidad civil que aquí se persigue.
+
+Por consiguiente y, a mayor abundamiento, debe señalarse que no puede tenerse por satisfecha la carga probatoria que pesaba sobre la demandante, de conformidad a lo previsto en el artículo 1698 del Código Civil, quien debía probar la existencia del perjuicio cuya indemnización reclama y, también, en forma previa a ello, el título de imputación de la responsabilidad civil que persigue, lo que no ha sucedido en autos.
+NOVENO: Que, así las cosas, forzoso resulta concluir que la sentencia apelada ha de ser ratificada por esta Corte y así se dirá en lo resolutivo.
+
+Por estas consideraciones y de conformidad, además, con lo dispuesto en el artículo 186 y siguientes del Código de Procedimiento Civil, se confirma la sentencia definitiva dictada con fecha veinticuatro de enero de dos mil veintitrés, por el Segundo Juzgado Civil de Santiago, sin costas, por estimar que el actor tuvo motivo plausible para litigar.
+
+Regístrese y devuélvanse.
+
+Redactada por el ministro Juan Ángel Muñoz López.
+
+Rol N°2.664-2023 - Civil
+Pronunciado por la Decimocuarta de esta Corte, integrada por los ministros señora María Teresa Díaz Zamora, señor Juan Ángel Muñoz López y señor Mauricio Olave Astorga. No obstante haber concurrido a la vista y acuerdo de la presente causa no firma la ministra señora María Teresa Díaz por estar con permiso de conformidad a lo dispuesto en el artículo 347 del Código Orgánico de Tribunales.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C-25382-2017
+
+NOMENCLATURA : 1. [40]Sentencia
+JUZGADO : 2 Juzgado Civil de Santiagoº
+CAUSA ROL : C-25382-2017
+CARATULADO : Constructora M y t ltda./sociedad de desarrollo
+tecnol gico usach limitadaó
+
+Santiago, veinticuatro de Enero de dos mil veintitr s.é
+
+VISTOS:
+
+Con fecha 14 de septiembre de 2017, do a ñ Lorena Andrea Zurita Rubio,
+
+abogada, en representaci n de ó CONSTRUCTORA MYT LIMITADA, persona
+
+jur dica del giro de su denominaci n, representada por don Tomas Alejandro Menesesí ó
+
+Gonz lez, constructor civil, ambos domiciliados en calle Carlos Aldunate N 60, local 23,á º
+
+comuna de u oa, Regi n Metropolitana,Ñ ñ ó quien deduce demanda de cumplimiento de
+
+contrato con indemnizaci n de perjuicios en juicio ordinario de mayor cuant a en contraó í
+
+de SOCIEDAD DE DESARROLLO TECNOLOGICO DE LA UNIVERSIDAD
+
+DE SANTIAGO DE CHILE LIMITADA (en adelante SDT USACH), del giro
+
+educaci n y capacitaci n, representada por don Juan Pablo Aguirre lvarez, ingeniero,ó ó Á
+
+ambos domiciliados en Avenida Libertador Bernardo O Higgins N 1611, comuna de’ º
+
+Santiago, Regi n Metropolitana.ó
+
+Expone el compareciente que con fecha 28 de marzo de 2016 su representada
+
+celebr con la sociedad demandada un contrato de ejecuci n de la obra denominadaó ó
+
+Obras Civiles para edificio Recicla para la Facultad de Administraci n y Econom a de“ ” ó í
+
+la Universidad de Santiago de Chile, acord ndose conforme a la cl usula cuarta delá á
+
+contrato, un plazo de ejecuci n que no pod a exceder de 35 d as corridos desde laó í í
+
+entrega del terreno, hecho que se verific el d a 27 de abril del a o 2016.ó í ñ
+
+Sostiene que en el referido contrato se estipul por las partes la ejecuci n de laó ó
+
+obra bajo el sistema de suma alzada , sin reajustes, acord ndose como precio total la“ ” á
+
+suma de $89.966.610.- (ochenta y nueve millones novecientos sesenta y seis mil
+
+seiscientos diez pesos) IVA incluido.
+
+Precisa que la obra consideraba las siguientes partidas generales:
+
+a) Obras civiles de fundaciones y aguas lluvias bajo el nivel de terreno, que estaba
+
+a cargo de su representada, la demandante Constructora MYT Limitada;
+
+b) Estructura met lica, a cargo de la empresa denominada SABINCO;á
+
+c) Terminaciones y especialidades, tales como electricidad, pintura, ventanas,
+
+revestimiento de pisos, entre otros, encargadas a diversos contratistas.
+
+Indica que la obra se inici con fecha 27 de abril de 2016, conforme consta deló
+
+acta de entrega del terreno, ejecut ndose hasta el d a 16 de mayo de 2016, fecha en queá í
+
+de conformidad al plan de trabajo y por exigencia de la demandada, su representada
+
+hubo de dejar temporalmente la obra para que ingresara la empresa denominada
+
+SABINCO , quien ten a que efectuar el montaje de la estructura met lica.“ ” í á
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-25382-2017
+
+Afirma que al momento de la paralizaci n moment nea de los trabajos, suó á
+
+representada hab a ejecutado el 99% de las obras civiles contratadas, a saber:í
+
+- Construcci n de la estructura que sustentar a el edificio (cimientos), definidasó í
+
+por el Ingeniero calculista contratado por la demandada, de acuerdo a las condiciones
+
+del terreno, emplazamiento y de la estructura de peso propio del edificio;
+
+- Construcci n de 12 pilas de fundaci n, que reside en una excavaci n de 1 por 1ó ó ó
+
+metro de ancho por 8 metros de profundidad aproximadamente, seg n lasú
+
+especificaciones t cnicas y planos (verticales de hormig n armado) y 6 vigas de fundaci né ó ó
+
+(horizontales) de hormig n armado de tama os variables de acuerdo al plano; ó ñ
+
+- Construcci n de 2 pozos de infiltraci n de aguas lluvias, con c mara yó ó á
+
+canalizaci n subterr neas de inspecci n de recolecci n de aguas lluvias, prefabricadas deó á ó ó
+
+hormig n, y todas las construcciones provisorias para fines como: arriendo de conteineró
+
+para oficina, comedores, bodega y ba os, tablero de energ a el ctrica, entre otros. ñ í é
+
+Refiere que, como consecuencia de la decisi n de paralizaci n moment nea deó ó á
+
+las obras por la demandada, quedaron pendientes por causas inimputables a su
+
+representada, los siguientes detalles que no equivalen a m s del 1% de la obra:á
+
+a) Instalaci n de canaleta de agua lluvia y rejilla. ó
+
+b) Remate de banqueta instaladas de 4 c mara de aguas lluvias. á
+
+Hace presente que, de conformidad al contrato celebrado entre las partes, las
+
+obras eran inspeccionadas por la Inspecci n T cnica de Obras y/o el Jefe de Unidad deó é
+
+Construcciones de la Universidad de Santiago de Chile, actuando en la pr ctica doná
+
+Arturo Gonz lez Riquelme, constructor civil perteneciente a la Unidad de Construcci ná ó
+
+de la USACH, como inspector t cnico de obras, velando por la correcta ejecuci n de lasé ó
+
+faenas y el cumplimiento del contrato; y en caso de ausencia de ste, actu en su cargoé ó
+
+don Miguel ngel Mujica. Adem s, como parte de la Inspecci n T cnica actuaronÁ á ó é
+
+diferentes especialistas tales como el calculista don Daniel Alvarado, de la empresa Leiva
+
+y Asociados Ltda y los arquitectos Iv n Jim nez Maturana y Willy Mu oz Alvarado; yá é ñ
+
+en representaci n de la empresa Constructora MYT Limitada act o su representanteó ú
+
+legal, don Tomas Meneses Gonz lez, constructor civil y el profesional administrador deá
+
+obras don Patricio Torres.
+
+Acusa que la demandada no dio cumplimiento a los pagos estipulados en la
+
+cl usula tercera del contrato, conforme al siguiente detalle:á
+
+- El Primer estado de pago, por la suma $30.964.551.-, IVA incluido, fue
+
+cumplido a cabalidad por la demandada, emiti ndose la correspondiente factura N 67é °
+
+de fecha 10 de Mayo del a o 2016;ñ
+
+- El segundo estado de pago, por la suma de $7.293.458.-, IVA incluido, por el
+
+cual se emiti la factura N 70 de fecha 09 de junio de 2016, no fue pagado por laó º
+
+demandada, debiendo su representada iniciar acci n judicial de cobro ante el 30ó º
+
+Juzgado Civil de Santiago, conforme autos Rol C-24.503/2016, caratulada
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-25382-2017
+
+“Constructora MYT Ltda. con Soc. de Desarrollo Tecnol gico de la Universidad deó
+
+Santiago .”
+
+Arguye que, de conformidad a lo expuesto, la demandada le adeudaba a su
+
+representada a la fecha de presentaci n de la demanda, la suma de $43.452.606,ó
+
+cantidad a la cual hay que restarle el porcentaje de faenas pendientes indicadas en el
+
+Libro de Obras con fecha 16 de mayo del 2016, que corresponde a un total de
+
+$3.236.687.-, en consecuencia, a la fecha y por concepto de valor total de obra, la
+
+demandada adeuda a su mandante, la suma neta de $40.215.920.-
+
+Sostiene que su representada, con fecha 24 de mayo de 2016, requiri a la Jefaó
+
+de Departamento de Construcci n de USACH, conforme a lo estipulado en la cl usulaó á
+
+cuarta del contrato, la Recepci n Provisoria de las obras a m s tardar al d a 35 desde laó á í
+
+entrega del terreno, plazo que en la especie correspond a al d a 01 de junio del 2016,í í
+
+solicitud que nunca fue resuelta por inactividad de la demandada, hecho que por lo
+
+mismo, es inimputable a su representada.
+
+Agrega que producto del incumplimiento de la demandada, no se volvi aó
+
+entregar estados de pago a SDT USACH, ni a generar las facturas correspondientes,
+
+pues ello agravaba los perjuicios a su parte, al tener que pagar el correspondiente
+
+impuesto.
+
+En este orden de ideas, sostiene, de conformidad a la cl usula 5 del referidoá ª
+
+contrato, la demandada debi otorgar la Recepci n Definitiva de las obras el d a 03 deó ó í
+
+marzo del a o 2017, tras el transcurso de 275 d as corridos contados desde la recepci nñ í ó
+
+provisoria, lo que no ocurri , acarreando como consecuencia que a la fecha laó
+
+demandada no ha devuelto a la demandante las garant as consistentes en la retenci n delí ó
+
+5% de los estados de pago N 1 y 2 , que equivalen a la suma de $1.629.713.- yº º
+
+$383.866.-, respectivamente.
+
+Termina se alando que en la especie, habiendo transcurrido m s de un a o desdeñ á ñ
+
+la interrupci n de los trabajos solicitados por la propia demandada SDT USACH, staó é
+
+no ha puesto t rmino ni ha dado cumplimiento al contrato de ejecuci n, y pese a laé ó
+
+existencia expresa de causales para poner el t rmino anticipado al mismo, ninguna deé
+
+ellas ha sido invocado hasta la fecha, como tampoco ha impuesto las mutas por atraso,
+
+que tambi n se acordaron, que anticipaban la sanci n aplicable al contratista poré ó
+
+cualquier incumplimiento a sus obligaciones contractuales, por lo que en la especie, no
+
+existe justificaci n para el incumplimiento de las obligaciones de la demandada,ó
+
+especialmente lo referido al pago de las obras realizadas, las que pese a los reiterados
+
+requerimientos de su representada no se ha allanado a cumplir, a pesar que su parte
+
+cumpli con su obligaci n correlativa. Precisa que dicha negativa es perjudicial para losó ó
+
+intereses de su parte, ya que la Constructora mantiene diversos compromisos
+
+contractuales con proveedores y trabajadores, obligaciones que debe cumplir en plazos
+
+previamente establecidos.
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-25382-2017
+
+Indica que, de conformidad a lo expuesto, la demandada se encontraba en
+
+condiciones de cumplir con lo convenido, tanto as , que celebr diversos otros contratosí ó
+
+de ejecuci n con terceros para continuar la obra ejecutada por la actora, recinto que enó
+
+la actualidad se encuentra en normal funcionamiento y ocupaci n por parte de laó
+
+demandada, como acreditar en su oportunidad, por lo que el incumplimiento esá
+
+antojadizo y, en consecuencia, imputable nicamente a la mala fe de la demandada,ú
+
+desde que sabe positivamente que la Constructora MYT Limitada debi cumplir -a suó
+
+vez- con diversas otras obligaciones contractuales con terceros.
+
+Acusa que el incumplimiento descrito ha provocado los siguientes perjuicios a su
+
+representada:
+
+1.- Da o emergente, correspondiente al coste de la reparaci n necesaria del da oñ ó ñ
+
+causado y a los gastos en los que ha incurrido con ocasi n del perjuicio, por un total deó
+
+$34.581.820.- conforme al siguiente detalle:
+
+a) Pagos de finiquitos de trabajadores de Constructora MYT Limitada:
+
+$4.748.642;
+
+b) Facturas de proveedores: $ 27.738.733;
+
+c) Pagos de asesor as legales: $ 2.094.445. í
+
+2.- Lucro cesante, correspondiente a la ganancia que su representada ha dejado
+
+de obtener o la p rdida de ingresos como consecuencia directa e inmediata del hechoé
+
+lesivo, por un monto de $30.196.791.- calculados en base a la suma promedio obtenida
+
+de las utilidades por ventas y servicios que la Constructora ha percibido en el periodo
+
+inmediatamente anterior al contrato celebrado con la demandada, correspondiente el
+
+a o 2015 a la suma neta de $137.672.176.- y en el a o 2016, a la suma neta deñ ñ
+
+$103.902.153.-
+
+Por lo expuesto y previas citas legales, solicita en definitiva declarar que la parte
+
+demandada debe cumplir el contrato celebrado con la demandante con fecha 28 de
+
+marzo de 2016, y se le condene;
+
+1) Al pago del saldo de precio acordado, por la suma de $40.215.920;
+
+2) Al pago de la indemnizaci n de perjuicios por su incumplimiento, ascendente aó
+
+la suma de $64.778.611;
+
+3) A la restituci n de la suma de $2.013.579 por concepto de garant as; y ó í
+
+4) Al pago de las costas de la causa.
+
+Con fecha 10 de noviembre de 2017, se notific la demanda y su prove doó í
+
+con arreglo a lo dispuesto en el art culo 44 del C digo de Procedimiento Civil (folio 11).í ó
+
+Con fecha 28 de noviembre de 2017, la demandada evacu el tr mite deó á
+
+contestaci n, ó negando absolutamente los fundamentos de hecho y derecho expuestos por
+
+el demandante en su libelo, en base a los argumentos que se ala.ñ
+
+Expone que es efectivo que SDT USACH celebr , con fecha 28 de marzo deló
+
+a o 2016, un contrato de obra con la demandante Constructora MYT Limitada, para lañ
+
+ejecuci n de la obra denominada Obras Civiles para Edificio Recicla para la Facultadó “ ”
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-25382-2017
+
+de Administraci n y Econom a de la Universidad de Santiago de Chile, acord ndose queó í á
+
+la suma total del contrato ascender a al total de $89.066.610 (ochenta y nueve millonesí
+
+novecientos sesenta y seis mil seiscientos diez pesos) IVA incluido, siendo la forma de
+
+pago convenida la siguiente, “Anticipo, previa entrega de la garant a se alada en elí ñ
+
+numeral 1) de la cl usula sexta, m s estados de pago en conformidad al avance f sico deá á í
+
+las obras, cada 15 d as. El monto del anticipo, ser equivalente a un 20% del montoí á
+
+total del contrato, y ser devuelto por el contratista mediante descuento a los estados deá
+
+pago por el mismo porcentaje.”
+
+Agrega que en la cl usula cuarta del citado contrato se establece que á “El plazo
+
+para la EJECUCI N de las obras no podr exceder de 35 (treinta y cinco) d as corridos,Ó á í
+
+contados desde la entrega del terreno, al cabo de los cuales se efectuar su recepci ná ó
+
+provisoria por una Comisi n designada por el Departamento de Construcciones de laó
+
+Universidad, la que comunicar oficialmente por escrito la recepci n conforme o lasá ó
+
+observaciones que deber n ser solucionadas por el contratista...á , por ende, dicho plazo”
+
+no se establece para efectos de los pagos a la demandante ni tampoco hace alusi n a laó
+
+forma en que estos deban de efectuarse.
+
+Reconoce que su representada emiti el estado de pago correspondiente aló
+
+documento de fecha 05 de mayo del a o 2016, que al a su vez figura firmado por parteñ
+
+del representante legal de MYT Limitada don Tomas Meneses, y fue pagado por medio
+
+de factura N 67, emitida por el Contratista de fecha 10 de mayo de 2016 por el monto°
+
+de $30.964.551 (treinta millones novecientos sesenta y cuatro mil quinientos cincuenta y
+
+un pesos), con fecha 24 de mayo de 2016.
+
+Agrega al respecto que, adem s del pago ya se alado, su representada SDTá ñ
+
+USACH Limitada ha efectuado seis pagos m s a la Constructora MYT Limitada,á
+
+respecto de los cuales la demandante nada dice pese a existir documentaci n que losó
+
+acredita, por lo que en la especie su representada ha pagado a la demandante la suma
+
+de $71.931.356 (setenta y un millones novecientos treinta y un mil trescientos cincuenta
+
+y seis pesos), esto es, m s del 85% del valor total de la obra, aun existiendo dificultadesá
+
+que imped an continuar con la ejecuci n de la misma por parte de la Constructoraí ó
+
+MYT Limitada, y sin mediar estado de pago alguno, salvo el estado de pago n meroú
+
+uno de 05 de mayo del a o 2016 antes se alado, situaci n que demuestra la buena fe deñ ñ ó
+
+su representada.
+
+Asevera que lo que ocurri en la especie es que la demandante Constructoraó
+
+MYT Limitada hizo abandono del terreno en donde se encontraba ejecutando la obra
+
+contratada, sin previo aviso al contratante de sus servicios, y sin que existiera por parte
+
+de SDT USACH Limitada, como asimismo de ninguno de sus empleados, orden para
+
+efectuar el abandono de las obras. En consecuencia, a la demandante nada se le ha
+
+incumplido sino todo lo contrario, se efectuaron pagos de buena fe con el objeto de
+
+terminar la obra contratada, en atenci n a la premura del tiempo en que se vieronó
+
+envueltos con motivo de existir la real necesidad de adecuar el Edificio Recicla para la
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-25382-2017
+
+Facultad de Administraci n y Econom a de la Universidad de Santiago de Chile, siendoó í
+
+Constructora MYT Limitada la que ha incumplido sus obligaciones contractuales.
+
+Aduce que la demandante act a de mala fe, por cuanto viene en deducirú
+
+demanda de cumplimiento de contrato respecto de una obra que la misma demandante
+
+no termin , mala fe que adem s se refleja en el hecho que la demandante indica comoó á
+
+fecha l mite de ejecuci n de la obra el d a 16 de mayo del a o 2016, tras abandonar laí ó í ñ
+
+obra por una supuesta exigencia hecha por su representada, hecho que no efectivo, lo
+
+cual gener un grave perjuicio a SDT USACH Limitada, debiendo contratarse a nuevosó
+
+contratistas para el t rmino de la obra abandonada por la demandante.é
+
+Indica que, a mayor abundamiento, la demandante falta a la verdad en lo que
+
+respecta a los supuestos incumplimientos de su representada. La demandante afirma que
+
+se le debe a la fecha la suma de $43.452.606.-, suma a la que le descuenta el monto de
+
+$3.236.687.- por aquella parte de la obra que reconoce no haber terminado, por lo que
+
+se le adeudar a la suma total de $40.215.920.-, deuda que su representada desconoce ení
+
+forma absoluta, tajante y expresa que exista, ello, atendido a que dentro de los
+
+documentos asociados a la ejecuci n de la obra respecto de la cual la demandante deó
+
+autos efect a reclamo en los t rminos expuestos en su libelo, existen mucho m s de dosú é á
+
+facturas pagadas e ingresadas en su patrimonio por concepto de la ejecuci n del contratoó
+
+denominado Obras Civiles Para Edificio Recicla de la Facultad de Administraci n y“ ” ó
+
+Econom a de la Universidad de Santiago de Chile.í
+
+En el mismo sentido, agrega que la fecha en que la demandante se ala hab rseleñ é
+
+solicitado su retiro del lugar de ejecuci n de las obras, se encuentra dentro del per odoó í
+
+en que su representada SDT USACH se manten a efectuando los pagos de facturas yaí
+
+mencionadas. Por su parte, en relaci n a la fecha en que la demandante se ala haberseó ñ
+
+encontrado solicitando la recepci n provisoria de las obras, a saber, el 24 de mayo deó
+
+2016, malamente podr a haberse otorgado dicha acta de recepci n provisoria de lasí ó
+
+obras, toda vez que esta se entrega al contratista s lo una vez que la obra haya sidoó
+
+completamente terminada, hecho que no fue tal, y la misma demandante reconoce en su
+
+demanda que no termin la obra contratada por parte de SDT USACH, argumento queó
+
+es dable repetir respecto de la recepci n definitiva a que alude el demandante, poró
+
+cuanto el plazo de 275 d as corridos para otorgarla se cuenta desde de la recepci ní ó
+
+provisoria, hecho que en la especie no se verifica puesto que, malamente puede hab rseleé
+
+otorgado acta de recepci n provisoria al demandante en circunstancias que nuncaó
+
+termin la ejecuci n de la obra para la cual fue contratado.ó ó
+
+Plantea que, como consecuencia de lo anterior, no procede en la especie la
+
+devoluci n de las garant as otorgadas por conceptos de anticipo, de fiel y oportunoó í
+
+cumplimiento de las obligaciones del contrato y para la correcta ejecuci n de las obras,ó
+
+ya que en todas ellas, la m nima exigencia establecida y acordada en el contrato consist aí í
+
+en que se har a devoluci n luego de haberse otorgado la recepci n provisoria de la obraí ó ó
+
+y, adem s, dichas garant as se ejerc an sobre el total del valor del contrato y no respectoá í í
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-25382-2017
+
+de cada estado de pago cursado y efectivamente pagado, ello solo se estipula respecto de
+
+la garant a de correcta ejecuci n de las obras, la que a su vez solo proceder luego deí ó á
+
+haberse otorgado la recepci n definitiva de la obra.ó
+
+Respecto a las sumas cobradas por concepto de indemnizaci n de perjuicios, aó
+
+saber, $34.581.820.-, que la demandante pretende como pago por concepto de da oñ
+
+emergente, y la suma de $30,196.791.- por concepto de lucro cesante, sostiene que las
+
+mismas no proceden, toda vez que la Constructora demandante realiza trabajos en
+
+forma paralela y no suspende sus dem s obras por el hecho de encontrarse en laá
+
+situaci n lesiva por ella descrita en su demanda; y a n m s, la suma por concepto deó ú á
+
+lucro cesante desconoce por completo los pagos ya mencionados en la presente
+
+contestaci n.ó
+
+Termina solicitando, previo citas legales que indica, tener por contestada la
+
+demanda y en definitiva, de conformidad a lo expuesto y atendida la falta de
+
+fundamentos f cticos y jur dicos del libelo, rechazar la demanda de autos en todas susá í
+
+partes, con expresa condena en costas.
+
+Con fecha 15 de diciembre de 2017, se evacu la r plica por el demandante,ó é
+
+solicitando se tengan por reproducidos de manera ntegra los fundamentos de hecho yí
+
+derechos indicados en la demanda de autos, a adiendo que no reviste sustento f ctico niñ á
+
+l gico la aseveraci n de la contraparte acerca que su representada hizo abandono de losó ó
+
+trabajos por mera voluntad, por cuanto, habiendo su representada dado cumplimiento a
+
+la ejecuci n de lo acordado en un 99% de forma eficiente y expeditiva, quedando paraó
+
+su conclusi n un porcentaje tan menor, y habi ndose efectuado por la demandada unó é
+
+solo pago por la suma $30.964.551, correspondiente a la factura N 67, m s el pago porº á
+
+la suma de $7.293.458 cobrada judicialmente, queda en evidencia que fue la demandada
+
+quien orden el retiro temporal , -que result ser definitivo- de la obra.ó “ ” ó
+
+Agrega que los otros supuestos pagos referidos por la demandada en la
+
+contestaci n, de existir, se refieren a otros servicios anteriores o coet neos, pero deó á
+
+distinta naturaleza, contratados entre las partes de este juicio, y dicen relaci n conó
+
+entrega de materiales, los que fueron puestos a disposici n de la demandada, tal comoó
+
+se alan las respectivas facturas que fueron pagadas en aquella oportunidad, pero ningunoñ
+
+de tales pagos tiene concordancia con las prestaciones estipuladas en el contrato de
+
+autos.
+
+Con fecha 5 de enero de 2018, se evacu la d plica por la parte demandada,ó ú
+
+reiterando todas y cada una de las excepciones, alegaciones y defensas se aladas en lañ
+
+contestaci n de la demanda, negando asimismo en forma tajante y absoluta losó
+
+fundamentos de hecho y de derecho expuestos tanto en el escrito de demanda como el
+
+escrito de r plica, en particular, respecto del hecho que su representada SDT USACHé
+
+Ltda. hubiese ordenado el retiro de Constructora MYT Limitada de las obras.
+
+Se ala que su representada jam s solicit el t rmino anticipado del contrato conñ á ó é
+
+la demandante o en su defecto, jam s ha efectuado solicitud alguna o manifestado ená
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-25382-2017
+
+cualquier otra forma que implicara querer el retiro de las obras por parte de la
+
+demandante, m s a n en la forma tan intempestiva como fueron los hechos, lo que seá ú
+
+acredita con la circunstancia que no existe acta de recepci n final de la misma queó
+
+pueda dar cuenta y ratificar el t rmino total de las obras, por ende, malamente se leé
+
+puede adeudar a la demandante suma por ning n concepto.ú
+
+Refiere que la demandante en su escrito de r plica ha manifestado un total yé
+
+absoluto desconocimiento de los restantes pagos efectuados en su beneficio por parte de
+
+su representada SDT USACH Limitada, alegando que corresponden a otras obras por
+
+ellos ejecutadas, lo cual se encuentra fuera de toda l gica, atendido a que no existeó
+
+ning n contrato que ligue a las partes fuera del que sirve de base para el presente juicio,ú
+
+motivo por el cual, malamente se pueden haber pagado por su parte servicios de
+
+ejecuci n de otras obras anteriores o coet neas, todo lo cual le consta a su representadaó á
+
+en su calidad de rgano encargado de apoyar y gestionar la formulaci n, presentaci n yó ó ó
+
+administraci n econ mica y financiera de los proyectos desarrollados por la Universidadó ó
+
+de Santiago de Chile, resultando irrisoria dicha afirmaci n de la contraparte, m s a nó á ú
+
+cuando la demandante ni siquiera menciona alg n otro contrato en particular queú
+
+hubiese sido suscrito entre las partes.
+
+Termina se alando que en la especie estamos en presencia de un contrato a sumañ
+
+alzada por obra completa, que la propia demandante reconoce no haber realizado a
+
+plenitud y respecto del cual su parte ha pagado la cifra de $71.931.356 (setenta y un
+
+millones novecientos treinta y un mil trescientos cincuenta y seis pesos), por las obras
+
+inconclusamente ejecutadas por parte de la demandante, sin que exista acta de recepci nó
+
+definitiva de la obra, por ende, no puede haber pago total por una obra que no ha sido
+
+terminada.
+
+Con fecha 20 de marzo de 2018, a folio 27 de autos, se llev a cabo laó
+
+audiencia de conciliaci n ó decretada con fecha 11 de enero de 2018, con la
+
+comparecencia de los apoderados de ambas partes. Llamadas las partes a conciliaci n,ó
+
+esta no se produjo.
+
+Con fecha 05 de abril de 2018, se recibi la causa a prueba.ó
+
+Con fecha 30 de mayo de 2022, se cit a las partes para o r sentencia.ó í
+
+CONSIDERANDO:
+
+PRIMERO: Que do a ñ Lorena Andrea Zurita Rubio, abogada, en representaci nó
+
+de CONSTRUCTORA MYT LIMITADA, deduce demanda de cumplimiento de
+
+contrato con indemnizaci n de perjuicios en juicio ordinario de mayor cuant aó í , en
+
+contra de la SOCIEDAD DE DESARROLLO TECNOLOGICO DE LA
+
+UNIVERSIDAD DE SANTIAGO DE CHILE LIMITADA, representada legalmente
+
+por don Juan Pablo Aguirre lvarez, ingeniero,Á todos ya individualizados, con objeto
+
+que se declare que la parte demandada debe cumplir el contrato celebrado con la
+
+demandante con fecha 28 de marzo de 2016 y, adem s, se le condene a pagará el saldo
+
+de precio acordado por la suma de $40.215.920; al pago de la indemnizaci n deó
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-25382-2017
+
+perjuicios causados por su incumplimiento ascendente a la suma de $64.778.611; y a la
+
+restituci n de la suma de $2.013.579 por concepto de garant as y al pago de las costasó í
+
+de la causa. Funda su demanda en las razones de hecho y de derecho que se
+
+consignaron en lo expositivo de la sentencia y que se dan por reproducidas.
+
+SEGUNDO: Que la parte demandada evacu la contestaci n, ó ó controvirtiendo
+
+los hechos alegados por la empresa contratista y aseverando que ha sido la demandante
+
+quien no cumpli el contrato de ejecuci nó ó de la obra en los t rminos acordados,é
+
+solicitando su rechazo, con costas, por los motivos se alados en lo expositivo del fallo.ñ
+
+TERCERO: Que, de conformidad a la interlocutoria de prueba de fecha 05 de
+
+abril de 2018, los puntos de prueba sobre los que radica la controversia de autos son los
+
+siguientes:
+
+1.- Existencia, estipulaciones y t rminos del contrato celebrado entre lasé partes,
+
+para la ejecuci n de la obra denominada Obras Civiles para edificioó “ Recicla , para la”
+
+Facultad de Administraci n y Econom a de la Universidadó í de Santiago de Chile.
+
+2.- Si las partes dieron total y oportuno cumplimiento a las obligaciones
+
+emanadas del contrato referido en el punto precedente.
+
+3.- Existencia, naturaleza y monto de los perjuicios alegados por la demandante.
+
+4.- Si los perjuicios alegados por la demandante son una consecuencia inmediata
+
+y directa del incumplimiento de contrato que se le imputa a la demandada.
+
+CUARTO: Que a fin de acreditar sus dichos, la demandante acompa lañó
+
+siguiente prueba, en forma legal y sin oposici n de la contraria:ó
+
+I.-DOCUMENTAL. Que no ha sido objetada, consistente en:
+
+1) Copia del contrato de ejecuci n de la obra denominada Obras civiles paraó “
+
+edificio Recicla para la facultad de administraci n y econom a de la Universidad de“ ó í
+
+Santiago de Chile , celebrado entre” la Sociedad de Desarrollo Tecnol gico de laó
+
+Universidad de Santiago de Chile Limitada y la Constructora MYT Limitada, con fecha
+
+28 de marzo de 2016;
+
+2) Copia del documento denominado Modificaci n de contrato de ejecuci n de laó ó
+
+obra denominada Obras civiles para edificio Recicla para la facultad de administraci n“ “ ó
+
+y econom a de la Universidad de Santiago de Chile , celebrado entreí ” la Sociedad de
+
+Desarrollo Tecnol gico de la Universidad de Santiago de Chile Limitadaó , y la
+
+Constructora MYT Limitada, con fecha 12 de abril del a o 2016; ñ
+
+3) Copia de factura electr nica N 67, emitida por Constructora MYT Limitada aó º
+
+Sociedad de Desarrollo Tecnol gico de la Universidad de Santiago de Chile Limitada,ó
+
+de fecha 10 de mayo de 2016, por la suma total de $ 30.964.551;
+
+4) Copia de documento denominado Estado de pago N 1, emitido por laº
+
+Direcci n de Administraci n y Finanzas del Departamento de Gesti n deó ó ó
+
+Infraestructura, Unidad de Construcciones, de la Universidad de Santiago de Chile, de
+
+fecha 5 de mayo de 2016;
+
+5) Copia de plano de obra en Elevaci n Eje 4, escala 1:50, sin mayores datos;ó
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-25382-2017
+
+6) Copia de factura electr nica N 70, emitida por Constructora MYT Limitada aó º
+
+Sociedad de Desarrollo Tecnol gico de la Universidad de Santiago de Chile Limitada,ó
+
+de fecha 09 de junio de 2016, por la suma total de $7.293.458;
+
+7) Copia de Memor ndum N 18/2016 SDT que ordena el pago por la sumaá º
+
+total de $7.293.458; emitido por el Departamento de Gesti n de Infraestructura, Unidadó
+
+de Construcciones, de la Universidad de Santiago de Chile, de fecha 20 de junio de
+
+2016;
+
+8) Copias de cartas dirigidas por Tom s Meneses de la Constructora MYTá
+
+Limitada a do a Loreto Castro Depassier, Jefa de Unidad de Construcci n USACH, deñ ó
+
+fechas 9, 11, 12, 24 de mayo de 2016 y 9 de junio de 2016;
+
+9) Copia de Ordinario N 111, de Jefa de Unidad de Construcciones do a Loretoº ñ
+
+Castro Depassier a Decano Facultad de Administraci n y Econom a Sr. Jorge Friedmanó í
+
+Rafael, de fecha 23 de Junio de 2016;
+
+10) Copia de carta de don Arturo Gonz lez Riquelme, Inspector T cnico deá é
+
+obra, a don Tom s Meneses de la Constructora MYT Limitada de fecha 3 de mayo deá
+
+2016;
+
+11) Copia de finiquito de trabajador don Tomas Meneses Gonz lez, de fecha 31á
+
+de mayo de 2016, ante don Fernando Villaroel, Notario P blico de Santiago, Suplenteú
+
+del titular don Juan Eugenio Del Real;
+
+12) Copia de finiquito de trabajador don Patricio Torres Huenchuhual, de fecha
+
+31 de mayo de 2016, ante don Fernando Villaroel, Notario P blico de Santiago,ú
+
+Suplente del titular don Juan Eugenio Del Real;
+
+13) Copia de finiquito de trabajador don Jorge Valenzuela Salgado, de fecha 14
+
+de mayo de 2016, ante don Juan Eugenio Del Real, Notario P blico de Santiago; ú
+
+14) Copia de finiquito de trabajador don Jos Barrera Cort s, de fecha 17 deé é
+
+mayo de 2016, ante don Juan Eugenio Del Real, Notario P blico de Santiago; ú
+
+15) Copia de finiquito de trabajador don Alejandro Valladares, de fecha 14 de
+
+mayo de 2016, ante don Juan Eugenio Del Real, Notario P blico de Santiago; ú
+
+16) Copia de finiquito de trabajador don Luis C rdova Fuentes, de fecha 17 deó
+
+mayo de 2016, ante don Juan Eugenio Del Real, Notario P blico de Santiago; ú
+
+17) Copia de finiquito de trabajador don Jorge Loyola, de fecha 05 de mayo de
+
+2016, ante don Guillermo Valenzuela Le n, Notario P blico de Santiago, Suplente deó ú
+
+don Gabriel Ogalde Rodr guez; í
+
+18) Copia de finiquito de trabajador don Fabi n Huenulef Morales, de fecha 16á
+
+de mayo de 2016, ante de don Juan Eugenio Del Real, Notario P blico de Santiago; ú
+
+19) Copia de finiquito de trabajador don Javier Sotomayor Riquelme, de fecha 16
+
+de mayo de 2016, ante de don Juan Eugenio Del Real, Notario P blico de Santiago;ú
+
+20) Boleta de honorarios electr nica N 69 emitida por la abogada Doris Abigailó °
+
+Duran Bustamante a Constructora MYT Limitada, de fecha 03 de octubre de 2016;
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-25382-2017
+
+21) Boleta de honorarios electr nica N 84 emitida por Diego Esteban Mart nezó ° í
+
+Salas a Constructora MYT Limitada, por servicios jur dicos, de fecha 06 de octubre deí
+
+2016;
+
+22) Boleta de honorarios electr nica N 861 emitida por Victor Francisco Torres aó °
+
+Constructora MYT Limitada, por servicios jur dicos, de fecha 22 de noviembre de 2016;í
+
+23) Copia de factura electr nica N 770476, emitida por Mel n Hormigones S.A.ó º ó
+
+a la Constructora MYT Limitada, de fecha 22 de abril de 2016;
+
+24) Copia de factura electr nica N 768706, emitida por Mel n Hormigones S.A.ó º ó
+
+a la Constructora MYT Limitada, de fecha 15 de abril de 2016;
+
+25) Copia de factura electr nica N 767687, emitida por Mel n Hormigones S.A.ó º ó
+
+a la Constructora MYT Limitada, de fecha 13 de abril de 2016;
+
+26) Copia de factura electr nica N 766791, emitida por Mel n Hormigones S.A.ó º ó
+
+a la Constructora MYT Limitada, de fecha 08 de abril de 2016;
+
+27) Copia de factura electr nica N 72, emitida por Sociedad Constructoraó º
+
+Fern ndez y Mu oz Limitada a la Constructora MYT Limitada, de fecha 21 de abril deá ñ
+
+2016;
+
+28) Copia de factura electr nica N 0003149731, emitida por Ferreter aó º í
+
+Covadonga Limitada a la Constructora MYT Limitada, de fecha 30 de marzo de 2016;
+
+29) Copia de factura electr nica N 000159812, emitida por Carlos Herreraó º
+
+Arredondo Limitada a la Constructora MYT Limitada, de fecha 06 de abril de 2016;
+
+30) Copia de factura electr nica N 202637, emitida por Sociedad de Pl sticos yó º á
+
+Fittings Industriales Limitada a la Constructora MYT Limitada, de fecha 29 de abril de
+
+2016;
+
+31) Copia de factura N 0117840, emitida por Ferreteria Carlos Richard Pav zº é
+
+Garay a la Constructora MYT Limitada, de fecha 30 de abril de 2016;
+
+32) Copia de factura electr nica N 232679, emitida por Feltrex S.A. a laó º
+
+Constructora MYT Limitada, de fecha 03 de mayo de 2016;
+
+33) Copia de factura N 012578, emitida por Arriendo Servicio Ingenier a ASIº í
+
+Limitada a la Constructora MYT Limitada, de fecha 18 de mayo de 2016;
+
+34) Copia de documento denominado Presupuesto Salas de clases FAE sector
+
+Norte, Proyecto Dependencias FAE, Universidad de Santiago, emitido por la
+
+Universidad de Santiago de Chile, Sociedad de Desarrollo Tecnol gico, de fecha 21 deó
+
+marzo de 2016;
+
+35) Copia de documento manuscrito denominado Libro de Obras del Proyecto,
+
+que consta de 14 hojas, m s 2 hojas signadas como anexo N 1 y 2. Suscrito entre otros,á º
+
+por don Patricio Torres (administrador de la obra), don Arturo Gonz lez Riquelmeá
+
+(Inspector T cnico de la Obra, Unidad de Construcci n y los arquitectos Iv n Jim nez yé ó á é
+
+Willy Mu oz Alvarado (arquitecto); ñ
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-25382-2017
+
+36) Copia de solicitud de gesti n preparatoria y demanda ejecutiva por cobro deó
+
+facturas, presentadas ante el 30 Juzgado Civil de Santiago, Rol C-24.503/2016,º
+
+caratulada Constructora MyT Ltda. con SDT Usach Ltda. ; “ ”
+
+37) Copia de acta de embargo de fecha 24 de agosto de 2017, en los autos civiles
+
+Rol C-24.503/2016, del 30 Juzgado Civil de Santiago, caratulados Constructora MyTº “
+
+Ltda. con SDT Usach Ltda. ;”
+
+38) Copia de certificado de estatuto actualizado del Ministerio de Econom a,í
+
+Fomento y Turismo, Subsecretar a de Econom a y Empresas de Menor Tama o, deí í ñ
+
+Constructora MYT Limitada, fecha de constituci n el 27 de Noviembre de 2013, fechaó
+
+de emisi n del certificado el 07 de Junio de 2017; ó
+
+39) Copia de correo electr nico de fecha 8 de abril de 2016, de don Arturoó
+
+Gonz lez a Mu oz Willy, con copia a Patricio Torres; á ñ
+
+40) Copia de correo electr nico de fecha 12 de abril de 2016, de do a Loretoó ñ
+
+Castro Depassier a don Willy Mu oz, con copia a Patricio Torres; ñ
+
+41) Copia de correo electr nico de fecha 12 de abril de 2016, de don Tom só á
+
+Meneses a don ngel Jara Tobar con copia a Willy Mu oz, Jorge Friedman y CarlosÁ ñ
+
+Soto Paillaman;
+
+42) Copia de correo electr nico de fecha 15 de abril de 2016, de don Arturoó
+
+Gonz lez a don Tomas Meneses, con copia a Patricio Torres; á
+
+43) Copia de correo electr nico de fecha 29 de abril de 2016, de don Arturoó
+
+Gonz lez a don Tom s Meneses, con copia a Patricio Torres; á á
+
+44) Copia de correo electr nico de fecha 4 de mayo de 2016, de don Arturoó
+
+Gonz lez a don Patricio Torres, con copia a don Tomas Meneses; á
+
+45) Copia de correo electr nico de fecha 30 de mayo de 2016, de don Tomasó
+
+Meneses a don Patricio Torres;
+
+46) Copia de correo electr nico de fecha 1 de julio de 2016, de don Arturoó
+
+Gonz lez a Carlos Paillaman; á
+
+47) Copia de correo electr nico de fecha 1 de julio de 2016, de don Carlosó
+
+Paillaman a don Arturo Gonz lez; á
+
+48) Copia de correo electr nico, de fecha 16 de mayo de 2016, de don Arturoó
+
+Gonz lez a don Tom s Meneses; á á
+
+49) Copia de correo electr nico, de fecha 9 de agosto de 2016, de don Tom só á
+
+Meneses a Doris Duran Bustamante con copia a Patricio Millar;
+
+50) Copia de correo electr nico, de fecha 8 de agosto de 2016, de don Tom só á
+
+Meneses a Doris Duran Bustamante con copia a Patricio Millar;
+
+51) Copia de correo electr nico de fecha 4 de agosto de 2016, de don Carlosó
+
+Andrade A., a don Patricio Torres;
+
+52) Copia de correo electr nico de fecha 9 de agosto de 2016, de do a Dorisó ñ
+
+Duran Bustamante a don ngel Jara;Á
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-25382-2017
+
+53) Copia de correo electr nico de fecha 2 de septiembre de 2016, de donó
+
+Patricio Torres a don ngel Jara Tobar; Á
+
+54) Copia de correo electr nico de fecha 6 de septiembre de 2016, de don ngeló Á
+
+Jara Tobar a don Patricio Torres;
+
+55) Copia de correo electr nico de fecha 20 de septiembre de 2016, de donó
+
+ngel Jara Tobar a don Patricio Torres.Á
+
+56) Copia de correo electr nico de don Tomas Meneses a Iv n Jim nezó á é
+
+Maturana, Willy Mu oz, Jorge Friedman de fecha 1 de Julio de 2016; ñ
+
+57) Copia de correo electr nico de Tom s Meneses a Carlos Andrade, de fecha 5ó á
+
+de julio de 2016.
+
+II.- PERCEPCI N DOCUMENTAL.Ó
+
+.- Con fecha 27 de agosto de 2019 (folio 76), tuvo lugar la audiencia de
+
+percepci n documental de la demandante respecto de los documentos electr nicosó ó
+
+ofrecidos en la presentaci n de fecha 13 de septiembre de 2018, ó con la asistencia de las
+
+apoderadas de ambas partes y de los titulares de las cuentas de correo electr nico, donó
+
+Patricio Torres Huenchuhual (titular de la cuenta patriciotorres@ctempo.cl) y don
+
+Tom sá Alejandro Meneses Gonz lez (titular de las cuentasá
+
+tomas.meneses@constructoramyt.cl y tomasmeneses@ctempo.cl )
+
+En dicho acto, don Tom s Alejandro Meneses ingresa con sus claves en uná
+
+notebook personal al sitio web mail.google.com, obteni ndose los documentos signadosé
+
+con los numerales N 1, N 2, N 6, N 7, N 8, N 10, N 11, N 12 de la° ° ° ° ° ° ° °
+
+presentaci n de la demandante de fecha 11 de septiembre de 2018, cuyas copias digitalesó
+
+se encuentran agregadas en el folio 56, correspondientes a:
+
+1) Correo electr nico de don Tomas Meneses a Iv n Jim nez Maturana, Willyó á é
+
+Mu oz, Jorge Friedman de fecha 1 de Julio de 2016;ñ
+
+2) Correo electr nico de Tom s Meneses a Carlos Andrade, de fecha 5 de julioó á
+
+de 2016;
+
+3) Correo electr nico de fecha 12 de abril de 2016, de don Tom s Meneses aó á
+
+don ngel Jara Tobar con copia a Willy Mu oz, Jorge Friedman y Carlos SotoÁ ñ
+
+Paillaman;
+
+4) Correo electr nico de fecha 15 de abril de 2016, de don Arturo Gonz lez aó á
+
+don Tomas Meneses, con copia a Patricio Torres;
+
+5) Correo electr nico de fecha 29 de abril de 2016, de don Arturo Gonz lez aó á
+
+don Tom s Meneses, con copia a Patricio Torres;á
+
+6) Correo electr nico de fecha 1 de Julio de 2016, de don Arturo Gonz lez aó á
+
+Tomas Meneses;
+
+7) Correo electr nico, de fecha 16 de mayo de 2016, de don Arturo Gonz lez aó á
+
+don Tom s Meneses;á
+
+8) Correo electr nico de fecha 9 de agosto de 2016, de don Tom s Meneses aó á
+
+Doris Duran Bustamante con copia a Patricio Millar;
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+mailto:patriciotorres@ctempo.cl
+mailto:tomasmeneses@ctempo.cl
+mailto:tomas.meneses@constructoramyt.cl
+
+C-25382-2017
+
+Respecto del correo signado con el N 3 precedente, se deja constancia que el°
+
+horario de env o del correo percibido ndica las 16:46 y el horario de env o de la copiaí í í
+
+indica 15:47:03 horario de verano para Chile. Respecto del correo electr nico signadoó
+
+con el N 4 precedente, se deja constancia el horario de env o del correo percibido° í
+
+indica 15:24: 21 y el horario de env o de la copia digitalizada indica 14:24:21 hora deí
+
+verano de Chile.
+
+Se percibe a su vez, el documento signado con el N 3 de la presentaci n de la° ó
+
+demandante de fecha 11 de septiembre de 2018, correspondiente al Certificado de
+
+estatuto actualizado del Ministerio de Econom a, Fomento y Turismo, Subsecretar a deí í
+
+Econom a y Empresas de Menor Tama o, de Constructora MYT Limitada, fecha deí ñ
+
+constituci n el 27 de noviembre de 2013, fecha de emisi n del certificado el 07 de junioó ó
+
+de 2017, cuya copia digital se encuentra agregadas en el folio 56.
+
+Acto seguido, don Patricio Torres Huenchuhual ingresa con sus claves en un
+
+notebook personal al sitio web mail.google.com, obteni ndose los documentos signadosé
+
+con los numerales N 4, N 5, N 9, N 13, N 15, N 16, N 17, de la presentaci n de° ° ° ° ° ° ° ó
+
+la demandante de fecha 11 de septiembre de 2018, cuya copias digitales se encuentran
+
+agregadas en el folio 56, correspondientes a:
+
+1) Correo electr nico de fecha 8 de abril de 2016, de don Arturo Gonz lez a poró á
+
+Mu oz Willy, con copia a Patricio Torres;ñ
+
+2) Correo electr nico de fecha 12 de abril de 2016, de do a Loreto Castroó ñ
+
+Depassier a don Willy Mu oz, con copia a Patricio Torres;ñ
+
+3) Correo electr nico de fecha 4 de mayo de 2016, de don Arturo Gonz lez aó á
+
+don Patricio Torres, con copia a don Tomas Meneses;
+
+4) Correo electr nico de fecha 4 de agosto de 2016, de don Carlos Andrade A., aó
+
+Patricio Torres;
+
+5) Correo electr nico de fecha 2 de septiembre de 2016, de don Patricio Torres aó
+
+don ngel Jara Tobar;Á
+
+6) Correo electr nico de fecha 6 de septiembre de 2016, de don ngel Jaraó Á
+
+Tobar a don Patricio Torres;
+
+7) Correo electr nico de fecha 20 de septiembre de 2016, de don ngel Jaraó Á
+
+Tobar a don Patricio Torres.-
+
+Se deja constancia que no se percibi el documento signado con el N 14,ó °
+
+correspondiente al correo electr nico de fecha 9 de agosto de 2016, de do a Dorisó ñ
+
+Duran Bustamante a don ngel Jara.Á
+
+III.- PRUEBA TESTIMONIAL .
+
+En folio 59, consistente en los dichos de don Patricio Eduardo Jes s Torresú
+
+Huenchuhual, do a Deisy Evelyn Rubio Tapia, don lex Rodrigo Morales Contreras yñ Á
+
+don Jorge Eduardo Valenzuela Salgado, quienes previamente juramentados y sin tachas
+
+depusieron sobre los puntos de prueba fijados por el tribunal.
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-25382-2017
+
+1.- Comparece en primer lugar don Patricio Eduardo Jes s Torres Huenchuhual,ú
+
+arquitecto, quien se ala haber desempe ado funciones para la demandante Constructorañ ñ
+
+MYT Limitada, encargado de la administraci n de la obra objeto del juicio. ó
+
+Respecto del primer punto de prueba, se ala que es efectivo que existe entre lasñ
+
+partes un contrato de ejecuci n de obras civiles de unas nuevas salas de clase para laó
+
+Facultad de Administraci n y Econom a de la Universidad de Santiago, debiendo laó í
+
+demandante construir las obras civiles, espec ficamente, fundaciones para las nuevas salasí
+
+de clase que posteriormente vendr a a instalar otra empresa constructora, porque eraní
+
+salas modulares de conteiner. Indica que la fecha de ejecuci n era el mes de abril yó
+
+mayo de 2016, en un plazo de treinta o treinta y cinco d as. Agrega que l ve a en laí é í
+
+obra los temas legales, siendo quien manejaba el contrato que era de aproximadamente
+
+89 millones de pesos.
+
+Indica respecto de la entrega de la obra, que la universidad necesitaba que
+
+ingresara otra empresa a instalar sus salas, por lo que el mandante les pidi salir 5 d asó í
+
+antes con el fin que ingresara la empresa SABINCO, ya que esta ltima necesitabaú
+
+ingresar con gr a a instalar los conteiner de salas de clases. ú
+
+Afirma que la constructora cumpli con la obra y se entregaron conó
+
+observaciones el ltimo d a de mayo de 2016, quedando constancia en el libro de obrasú í
+
+del retiro anticipado y las obras por concluir. Afirma que el mandante FAE y SDT les
+
+dijeron que SABINCO terminaba la instalaci n en un mes, para que luego Constructoraó
+
+MYT terminara lo inconcluso.
+
+Repreguntado acerca de quien solicit que la Constructora se retirara de lasó
+
+obras, indica que fueron dos personas, don Willy Mu oz arquitecto de la obra,ñ
+
+representante directo de la Facultad de Administraci n y Econom a de la Universidad deó í
+
+Santiago y un tal se or Mujica de la Inspecci n T cnica, por parte del departamento deñ ó é
+
+construcciones de la Universidad de Santiago, quedando constancia en el libro de obras
+
+de la fecha del retiro, las partes, los trabajos pendientes enumerados, dej ndoseá
+
+constancia adem s que el retiro se hizo para que empresa SABINCO ingrese a hacer suá “
+
+trabajo , documento firmado por el citado se or Mujica del departamento de” ñ
+
+Construcci n de la USACH, el arquitecto Iv n Jim nez contratado por la Facultad y ló á é é
+
+como representante de la Constructora.
+
+Repreguntado acerca si la Constructora retom las obras al mes siguiente, se alaó ñ
+
+que no se volvi a retomar las obras porque la empresa SABINCO no cumpli losó ó
+
+plazos establecidos, ya que dos meses y medio despu s a n segu a trabajando. Agregaé ú í
+
+que la Constructora, atendido que los trabajos pendientes eran m nimos, efectu laí ó
+
+gesti n de solicitar la recepci n provisoria al departamento de construcci n de laó ó ó
+
+USACH, a trav s de carta conductora.é
+
+En cuanto al segundo punto de prueba, se ala que su parte dio cumplimiento añ
+
+sus obligaciones, ya que hizo la obra correspondiente a fundaciones y obras civiles de las
+
+nuevas salas de clases de las FAE. Se ala que el cumplimiento de la Constructora MYTñ
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-25382-2017
+
+fue total, prueba de ello fue que montaron las salas de clases sobre la obra ejecutada.
+
+Hace presente que quedaron pendientes s lo la ejecuci n de las banquetas de dosó ó
+
+c maras de aguas lluvias (faena que demora un d a) y la instalaci n de una rejilla deá í ó
+
+acumulaci n de agua lluvia que demora tres d as. Termina se alando que su parteó í ñ
+
+termin las obras una semana antes de la fecha de t rmino, porque el mandante tuvo laó é
+
+necesidad de meter a la empresa SABINCO antes.
+
+Repreguntado acerca del cumplimiento de la contraparte, indica que la
+
+demandada SDT USACH no cumpli porque no pagaron el contrato de obra. Se alaó ñ
+
+que se pag 1 de 3 estados de pago en forma normal. El segundo estado de pago fueó
+
+objetado por parte del departamento de construcciones porque hab a partidas en queí
+
+estaban involucradas otra empresa que estaba antes que MYT, ya que el argumento del
+
+ITO es que no pod a autorizar el pago de ciertas partidas porque FAE no hab a cerradoí í
+
+el ciclo con la empresa que estaba antes. Dicho estado de pago se judicializ , ya que seó
+
+rebaj de 20 a 7 millones de pesos; el tercer estado no se pag y era por el saldo deló ó
+
+contrato.
+
+Repreguntado acerca de si la Constructora termin la obra dentro de plazo, seó
+
+remite a lo se alado previamente, reiterando que su parte cumpli y el demandante leñ ó
+
+orden salir antes.ó
+
+Repreguntado acerca de c mo le consta el pago o no de la obra, si s lo era suó ó
+
+administrador, se ala que por conversaciones con el representante de MYT Tom sñ á
+
+Meneses, teniendo constancia de todo hasta el estado de pago 2, cuando dej de seró
+
+administrador de obra y, adem s, porque le llegaban los correos copiados de las gestionesá
+
+de pago.
+
+Repreguntado acerca de c mo le consta que el estado de pago 3 no fue pagado,ó
+
+se ala que por conversaciones con el representante de la Constructora MYT, don Tom sñ á
+
+Meneses.
+
+2.- Comparece en segundo lugar do a Deisy Evelyn Rubio Tapia, asesora enñ
+
+prevenci n de riesgos, quien se ala al primer punto de prueba que es efectivo que existeó ñ
+
+un contrato entre las partes, el cual fij un tiempo estimado de un mesó y medio
+
+aproximado para efectuar la construcci n deó las perforaciones para despu s montar unaé
+
+estructura met lica sobre eso en laá USACH en Estaci n Central, todo en los meses deó
+
+abril y mayo de 2016, lo cual le consta ya que era la supervisora del prevencionista de
+
+riesgos que hab a en la obra, y era la encargada de revisar el tema administrativo y leí
+
+entregaba a los ITO la documentaci n que ellos requer an por contrato, pago deó í
+
+imposiciones, asistencia y normas de seguridad.
+
+En cuanto al segundo punto de prueba, se ala que en el mes de mayo de 2016ñ
+
+don Patricio Torres le se al que las obras hab an finalizado y que hab an entregado loñ ó í í
+
+que ten an contratado y que ella ya no ten a que ir m s, ya que estaba por ingresar otraí í á
+
+empresa a instalar una estructura met lica, per odo durante el cual la Constructoraá í
+
+MYT no pod a volver a trabajar en ese lugar por motivos de seguridad. Hace presenteí
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-25382-2017
+
+que a la Constructora le faltaron dos cosas por terminar, por motivos de seguridad, ya
+
+que se estaban izando estructuras met licas en el terreno. Respecto de la otra empresa,á
+
+desconoce si se dio total y oportuno cumplimiento al contrato ya que despu s de esoé
+
+jam s volvi a la USACH. á ó
+
+3.- Comparece en tercer lugar don lex Rodrigo Morales Contreras, maestroÁ
+
+constructor, quien en relaci n con el primer punto de prueba indica que l fue maestroó é
+
+en la obra objeto del juicio, trabajando como carpintero de obra gruesa, encargado de
+
+ejecutar la terminaci n de la obra que era todo sobre los cimientos y las estructurasó
+
+met licas y llenado de hormig n, todo lo cual qued perfecto.á ó ó
+
+Repreguntado acerca de la duraci n de la obra a que hace referencia, se ala queó ñ
+
+fue de 40 d as aproximadamente, tras lo cual lo finiquitaron.í
+
+Repreguntado acerca de qu persona recib a é í rdenes respecto de las laboresó
+
+ejecutadas en la obra, indica que de don Jorge Valenzuela, supervisor de obra.
+
+En cuanto al segundo punto de prueba, se ala que en lo que respecta a suñ
+
+trabajo de carpinter a y obra gruesa, se cumpli en un 100%, terminando la obra gruesaí ó
+
+una semana antes del plazo que les hab an pedido los jefes y saliendo de la obra unaí
+
+semana antes porque lo finiquitaron.
+
+Repreguntado acerca de qu obras fueron las que terminaron una semana antes,é
+
+se ala que las obras realizadas por l, espec ficamente aquellas de carpinter a, obrañ é í í
+
+gruesa, llenado de hormig n y coronaci n, todo lo cual se termin una semana antes.ó ó ó
+
+4.- En cuarto lugar comparece don Jorge Eduardo Valenzuela Salgado, jefe de
+
+obra, quien se ala respecto del primer punto de prueba que es efectivo que exist a unñ í
+
+contrato entre las partes, para una obra de construcci n deó cimientos, sobre cimientos e
+
+instalaci n de plaquetas, en la USACH, en el mesó de abril de 2016, y la empresa que
+
+deb a construir los cimientos era la Constructora MYT, quiení termin la obra incluso unó
+
+poco antes. Indica que el administrador de obra, Patricio Torres, les dijo que se deb aní
+
+retirar de la obra porque ven a una empresa a colocar unos conteiner sobre las placasí
+
+que hab an instalado. Agrega que s lo les qued pendiente la instalaci n de una rejilla yí ó ó ó
+
+un revoque de una c mara, pero eso se deb a hacer despu s de que se fuera la otraá í é
+
+empresa, todo lo cual le consta porque se desempe como jefe de obra y trazado en lañó
+
+obra en comento.
+
+En cuanto al segundo punto de prueba, se ala que la constructora MYT terminñ ó
+
+dentro de los plazos la obra en la USACH, y desconoce si la otra empresa cumpli o no.ó
+
+Agrega que don Patricio Torres le inform que estaban terminando la obra y deb anó í
+
+salir de la misma.
+
+Repreguntado acerca de la poca en que se dio t rmino a la obra, se ala que fueé é ñ
+
+en mayo de 2016, que fue la fecha de t rmino dada por el director de la obra.é
+
+Repreguntado acerca de si se dio termino a la totalidad de la obra, se ala que s ,ñ í
+
+y las observaciones que quedaron fueron la instalaci n de un revoque de c mara deó á
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-25382-2017
+
+aguas lluvias y una rejilla, pero eso ten a que hacerse despu s que la otra empresaí é
+
+hiciera izajes de los conteiner que iban sobre las placas.
+
+Repreguntado acerca de si las obras pendientes fueron finalizadas, se ala que noñ
+
+est al tanto porque lo finiquitaron y no volvieron a llamarle.á
+
+IV.- PRUEBA CONFESIONAL.
+
+Rendida en la audiencia de fecha 26 de agosto de 2019, a folio 77,
+
+compareciendo las apoderadas de ambas partes y el absolvente don Juan Pablo Aguirre
+
+lvarez, en su calidad de representante legal de la Á Sociedad de Desarrollo Tecnol gicoó
+
+de la Universidad de Santiago de Chile Limitada. El absolvente declara al tenor de
+
+pliego agregado digitalmente a los autos con fecha 10 de septiembre de 2018, ingresado
+
+materialmente en custodia con fecha 14 de septiembre de 2018 bajo el N 7526-2018,° y
+
+en lo medular se ala:ñ
+
+1.- Que es efectivo que las partes con fecha 28 de marzo de 2016 celebraron el
+
+contrato de ejecuci n de autosó ;
+
+2.- Que es efectivo que el objeto del contrato fue la obra denominada obras“
+
+civiles para edificio Recicla para la facultad de administraci n y econom a de la“ ” ó í
+
+Universidad de Santiago de Chile ; ”
+
+3.- Que es efectivo que conforme la cl usula cuarta del contrato el plazo deá
+
+ejecuci n no pod a exceder de 35 d as corridos desde la entrega del terreno, hecho queó í í
+
+se verific el d a 27 de abril de 2016ó í ;
+
+4.- Que es efectivo que la obra se estipul a suma alzada sin reajustes; ó “ ”
+
+5.- Que es efectivo que el precio total a pagar por la demandada a la
+
+Constructora demandante era de $89.966.610.- IVA incluido;
+
+6.- Que es efectivo que la obra se inici el 27 de abril de 2016, conforme acta deó
+
+entrega de terreno;
+
+7.- Que desconoce si la obra se ejecut hasta el d a 16 de mayo de 2016 poró í
+
+exigencia de la demandada;
+
+8.- Que niega que por instrucciones de su parte la Constructora demandante
+
+debi dejar temporalmente las obras para el ingreso de otra empresa denominadaó
+
+SABINCO para efectuar el montaje de la estructura met lica; á
+
+9.- Que desconoce si la demandante al t rmino de las obras de SABINCO volvié ó
+
+a ingresar a la obra para concluir los trabajos menores faltantes, ni que su parte
+
+unilateralmente haya contratado el servicio de terceros para ello;
+
+10.- Que es efectivo la existencia de las partidas generales de la obra a cargo de
+
+la Constructora demandante, consistente en obras civiles de fundaciones y aguas lluvias
+
+bajo nivel de terreno;
+
+11.- Que es efectivo que la estructura met lica posterior estaba cargo deá
+
+SABINCO:
+
+12.- Que desconoce qu obras fueron encargadas a otros contratistas pero s queé í
+
+participaron otros contratistas;
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-25382-2017
+
+13.- Que es efectivo que las obras civiles que deb a hacer la demandanteí
+
+comprend an efectuar la estructura que sustentar a el edificio (cimientos) definidas por elí í
+
+ingeniero calculista contratado por la demandada, de acuerdo a las condiciones del
+
+terreno, emplazamiento y de la estructura de peso propio del edificio; desconociendo el
+
+segundo punto relativo a especificaciones t cnicas; é
+
+14.- Que desconoce si la obra comprend a adem s 2 pozos de infiltraci n deí á ó
+
+aguas lluvias, c mara, canalizaci n subterr nea de inspecci n de recolecci n de aguasá ó á ó ó
+
+lluvias, prefabricadas de hormig n, y construcciones provisorias para fines como arriendoó
+
+de conteiners para oficina, comedores, bodegas y ba os, tablero de energ a, entre otros; ñ í
+
+15.- Que no tiene certeza del porcentaje de cumplimiento de la demandante,
+
+pero s que su parte pag dos estados de pago de tres; í ó
+
+16.- Que ante la pregunta de cu ndo se solicit la paralizaci n de las faenas,á ó ó
+
+se ala que su parte no paraliz las obras nunca: ñ ó
+
+17.- Que ante la pregunta si la paralizaci n de las obras obedeci a que debió ó ó
+
+ingresar la empresa SABINCO a las obras, se ala que su parte no ha dado orden deñ
+
+paralizaci n ni tampoco nadie de la empresa que representa; ó
+
+18.- Que desconoce qu obras quedaron pendientes de ejecutar por laé
+
+Constructora demandante;
+
+19.- Que desconoce el supuesto que se ala la demandante, ya que su parte noñ
+
+orden la interrupci n de las obras; ó ó
+
+20.- Respecto a la afirmaci n de que conforme al libro de obras la Constructoraó
+
+habr a ejecutado las obras en su totalidad hasta el d a 16 de mayo de 2016, quedandoí í
+
+pendiente detalles que no equivalen al 01% de la obra, se ala que la obra no se ejecutñ ó
+
+en su totalidad por la demandante;
+
+21.- Que es efectivo que las obras eran inspeccionadas por la Inspecci n T cnicaó é
+
+de Obras (ITO) y/o el jefe de unidad de construcciones de la USACH ;
+
+22.- Que es efectivo que en la pr ctica actuaba como ITO don Arturo Gonz lezá á
+
+Riquelme, constructor civil de la unidad de construcciones de la USACH;
+
+23.- Que es falso que en ausencia de don Arturo Gonz lez Riquelme actuaseá
+
+como ITO don Miguel ngel Mujica, ya que hab a un solo ITOÁ í ;
+
+24.- Que desconoce si como parte de la ITO actuase don Daniel Alvarado de la
+
+empresa Leiva y Asociados Ltda, pero que s lo hac an los arquitectos Iv n Jim nezí í á é
+
+Maturana y Willy Mu oz Alvaradoñ ;
+
+25.- Que desconoce qui nes actuaban por la Constructora demandanteé ;
+
+26.- Respecto de la afirmaci n que su parte no dio cumplimiento a lo estipuladoó
+
+en la cl usula tercera del contrato respecto de los pagos a la Constructora MYT, se alaá ñ
+
+que no es efectivo, ya que dieron cumplimiento a los estados de pago que se
+
+presentaron, dos de tres;
+
+27.- Que no es efectivo que s lo se dio cumplimiento al primer estado de pagoó
+
+por $30.964.551.-m s IVA, por cuanto su parte pag 71 millones de pesos; á ó
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-25382-2017
+
+28.- Que no es efectivo que como se al en la contestaci n de la demanda señ ó ó
+
+haya pagado solo un estado de pago, ya que su parte pag 71 millones de pesos a laó
+
+constructora;
+
+29.- Que no es efectivo que no se pag el segundo estado de pago por la suma deó
+
+$7.293.458.- IVA incluido, en tiempo y forma;
+
+30.- Que no le consta que se haya iniciado acci n judicial para el cobro deló
+
+segundo estado de pago;
+
+31.- Que no es efectivo que su representada adeude a la Constructora
+
+demandante la suma de $40.215.920.-, precisando que se le adeudan 18 millones
+
+aproximadamente;
+
+32.- Que desconoce si con fecha 24 de mayo de 2016 la Constructora
+
+demandante requiri la recepci n provisoria de las obras a la Jefa de Departamento deó ó
+
+Construcci n de la USACH, ni si dicha solicitud fue resuelta o no; ó
+
+33.- Que reconoce que la Constructora MYT present s lo 2 estados de pago deó ó
+
+3;
+
+34.- Que no le consta que su parte deb a efectuar la recepci n provisoria de losí ó
+
+trabajos a m s tardar el d a 35 desde la entrega del terreno, plazo que correspond a alá í í
+
+01 de junio de 2016, y que ello no ocurri por su inactividad; ó
+
+35.- Que desconoce que el d a 03 de marzo de 2017 debi su representadaí ó
+
+otorgar la recepci n definitiva de las obras, plazo contemplado en la cl usula quinta deló á
+
+contrato, correspondiendo a 275 d as corrido contados desde la recepci n provisoria; í ó
+
+36.- Que es efectivo que su representada no ha devuelto las garant as, porque elí
+
+contrato no se encuentra terminado;
+
+37.- Que es efectivo que su representada no le ha puesto t rmino al contrato deé
+
+ejecuci n de autos, y que su parte si ha dado cumplimiento al contrato; ó
+
+38.- Que no es efectivo que su parte haya dado t rmino al contrato; é
+
+39.- Que no es efectivo haberse aplicado multas por atraso a la Constructora
+
+MYT, por lo que no se anticip la sanci n aplicable al contratista por incumplimiento; ó ó
+
+40.- Que no es efectivo que su representada incumpli el contrato y que productoó
+
+de tal incumplimiento se le ocasion un perjuicio cuantioso a la Constructoraó
+
+demandante;
+
+41.- Que desconoce la suma por da os efectivos ascendente a $34.581.820.- queñ
+
+afirma la demandante;
+
+42.- Que no es efectivo que por el incumplimiento de su representada la
+
+Constructora demandante dej de obtener ganancias por un total de $30.196.791.-, poró
+
+concepto de lucro cesante;
+
+43.- Que no es efectivo que los pagos referidos en la contestaci n de la demandaó
+
+correspondan a otros servicios contratados con anterioridad o coet neamente por lasá
+
+partes, pero de distinta naturaleza a los acordados en el contrato de fecha 28 de marzo
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-25382-2017
+
+de 2016, precisando que los pagos que hicieron son todos relacionados con la obra
+
+Edificio Recicla que contrataron.
+
+QUINTO: Que por su parte, la demandada a fin de acreditar sus dichos,
+
+acompañó la siguiente prueba, en forma legal y sin oposici n de la contraria:ó
+
+I.-DOCUMENTAL :
+
+1) Copia del contrato de ejecuci n de la obra denominada Obras civiles paraó “
+
+edificio Recicla para la facultad de administraci n y econom a de la Universidad de“ ó í
+
+Santiago de Chile , celebrado entre” la Sociedad de Desarrollo Tecnol gico de laó
+
+Universidad de Santiago de Chile Limitada y la Constructora MYT Limitada, con fecha
+
+28 de marzo de 2016;
+
+2) Copia de documento denominado Modificaci n de contrato de ejecuci n de“ ó ó
+
+la obra denominada Obras civiles para edificio Recicla para la facultad de“ “
+
+administraci n y econom a de la Universidad de Santiago de Chile , celebrado entreó í ” la
+
+Sociedad de Desarrollo Tecnol gico de la Universidad de Santiago de Chile Limitadaó y
+
+la Constructora MYT Limitada, con fecha 12 de abril de 2016;
+
+3) Copia de voucher contable N 4094 emitido por Sociedad de Desarrollo°
+
+Tecnol gico con fecha 1 de abril de 2016 y correspondiente factura electr nica N 59ó ó °
+
+emitida por Constructora MYT Limitada con fecha 29 de marzo de 2016;
+
+4) Copia de voucher contable N 4844 emitido por Sociedad de Desarrollo°
+
+Tecnol gico con fecha 19 de abril de 2016 y correspondientes facturas electr nicas N 60ó ó °
+
+y 62 emitidas por Constructora MYT Limitada con fechas 31 de marzo de 2016 y 7 de
+
+abril de 2016;
+
+5) Copia de voucher contable N 7127 emitido por Sociedad de Desarrollo°
+
+Tecnol gico con fecha 24 de mayo de 2016 y correspondiente factura electr nica N 67ó ó °
+
+emitida por Constructora MYT Limitada con fecha 10 de mayo de 2016;
+
+6) Copia de voucher contable N 18398 emitido por Sociedad de Desarrollo°
+
+Tecnol gico con fecha 25 de noviembre de 2016 y correspondientes facturas electr nicasó ó
+
+N 71 y 72 emitidas por Constructora MYT Limitada con fecha 14 de junio de 2016;°
+
+7) Copia de voucher contable N 18571 emitido por Sociedad de Desarrollo°
+
+Tecnol gico con fecha 15 de diciembre de 2016 y correspondiente factura electr nicaó ó
+
+N 70 emitida por Constructora MYT Limitada con fecha 09 de junio de 2016;°
+
+8) Copia de mandamiento de ejecuci n y embargo en causa rol N 24.503.-2016ó °
+
+dictado por el 30 Juzgado Civil de Santiago con fecha 1 de diciembre de 2016;
+
+9) Copia de correo electr nico de fecha 18 de marzo de 2018 de Jorge Friedmanó
+
+a Jennifer Barraza y Leticia Araya dando cuenta de transferencia a trav s del Bancoé
+
+Santander realizada a MYT, por el monto de 278.944, de fecha 30/04/2016;
+
+10) Copia de correo electr nico de fecha 18 de marzo de 2018 de Jorgeó
+
+Friedman a Jennifer Barraza y Leticia Araya dando cuenta de transferencia a trav s delé
+
+Banco Santander realizada a MYT, por el monto de $278.944, de fecha 30/04/2016;
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-25382-2017
+
+11) Copia de correo electr nico de fecha 18 de marzo de 2018 de Jorgeó
+
+Friedman a Jennifer Barraza y Leticia Araya dando cuenta de transferencia a trav s delé
+
+Banco Santander realizada a MYT, por el monto de $3.000.000, de fecha 27/04/2016;
+
+12) Copia de correo electr nico de fecha 18 de marzo de 2018 de Jorgeó
+
+Friedman a Jennifer Barraza y Leticia Araya dando cuenta de transferencia a trav s delé
+
+Banco Estado realizada a MYT, por el monto de $2.000.000, de fecha 30/04/2016;
+
+13) Copia de correo electr nico de fecha 18 de marzo de 2018 de Jorgeó
+
+Friedman a Jennifer Barraza y Leticia Araya dando cuenta de transferencia a trav s delé
+
+Banco de Chile realizada a MYT, por el monto de $3.000.000, de fecha 26/04/2016;
+
+14) Copia de correo electr nico de fecha 18 de marzo de 2018 de Jorgeó
+
+Friedman a Jennifer Barraza y Leticia Araya dando cuenta de transferencia a trav s delé
+
+Banco BCI realizada a MYT, por el monto de $4.278.944 de fecha 02/05/2016;
+
+15) Copia de correo electr nico de fecha 18 de marzo de 2018 de Jorgeó
+
+Friedman a Jennifer Barraza y Leticia Araya dando cuenta de transferencia a trav s delé
+
+Banco BCI realizada a MYT, por el monto de $1.408.646, de fecha 04/05/2016;
+
+16) Copia de correo electr nico de fecha 18 de marzo de 2018 de Jorgeó
+
+Friedman a Jennifer Barraza y Leticia Araya dando cuenta de transferencia a trav s delé
+
+Banco Santander realizada a MYT, por el monto de $200.000, de fecha 30/04/2016;
+
+17) Copia de correo electr nico de fecha 18 de marzo de 2018 de Jorgeó
+
+Friedman a Jennifer Barraza y Leticia Araya dando cuenta de transferencia a trav s delé
+
+Banco Estado realizada a MYT, por el monto de $1.800.000, de fecha 30/04/2016.
+
+II.- PRUEBA TESTIMONIAL .
+
+.- En folio 54, consistente en los dichos de don Willy Alejandro Mu oz Alvaradoñ ,
+
+do a ñ Jennifer Pamela Barraza Contreras y don Joaqu n Eduardo Curtze Reyes, quienesí
+
+previamente juramentados y sin tachas depusieron sobre los puntos de prueba fijados por
+
+el tribunal.
+
+1.- En primer lugar, comparece don Willy Alejandro Mu oz Alvarado,ñ arquitecto,
+
+quien se ala haber sido el arquitecto del Edificio Recicla , estando en permanenteñ “ ”
+
+contacto personal con la Constructora MYT durante los trabajos. Respecto del primer
+
+punto de prueba se ala que es efectivo que existe ñ entre las partes un contrato de
+
+ejecuci n ó de obras civiles para la construcci n del Edificio Recicla, estipul ndose pagosó á
+
+seg n avance de la obra, la que no fue terminada por el retiro intempestivo de laú
+
+constructora, retiro que no fue autorizado por parte de don Juan Pablo Aguirre, que es
+
+el representante legal de la Sociedad de Desarrollo Tecnol gico. ó
+
+Respecto al segundo punto de prueba, manifiesta que la Constructora MYT al
+
+t rmino del plazo de ejecuci n de las obras civiles, hizo abandono de la obra, faltandoé ó
+
+por terminar la totalidad de las faenas a las que se hab a comprometido, no cumpliendoí
+
+con las obligaciones establecidas en el contrato celebrado entre las partes.
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-25382-2017
+
+En cuanto al tercer punto de prueba, se ala que de existir perjuicios, son losñ
+
+ocasionados a la Sociedad de Desarrollo Tecnol gico aló dejar inconclusa las obras civiles
+
+para las cuales se contrat a la Constructora MYT Limitada. ó
+
+Respecto al cuarto punto de prueba, indica que no hubo incumplimiento por
+
+parte de la Sociedad de Desarrollo Tecnol gico, por lo que los perjuicios ocasionados enó
+
+la especie fueron causa del incumplimiento de la constructora, quien se retir en formaó
+
+voluntaria y sin previo aviso de la obra, dejando sin ejecuci n parte de las obras civilesó
+
+que se hab a comprometido realizar, que hasta la fecha se encuentran inconclusas.í
+
+2.- Do a ñ Jennifer Pamela Barraza Contreras, manifiesta haber desempe adoñ
+
+funciones para la Sociedad de Desarrollo Tecnol gico, estando dentro de sus tareasó
+
+gestionar el pago de las facturas emitidas por la constructora y revisar que estuvieran
+
+conforme al contrato.
+
+Respecto al primer punto de prueba, se ala que hab a un contrato entre lasñ í
+
+partes, acord ndose que el pago de la obra contratada ser a por etapas, seg ná í ú
+
+cumplimiento.
+
+Repreguntada, se ala que entre las partes s lo existi un contrato, cuyo objetoñ ó ó
+
+era que la Constructora MYT Limitada efectuara trabajos en el Edifico Recicla.
+
+En cuanto al segundo punto de prueba, manifiesta que la Sociedad de Desarrollo
+
+Tecnol gicoó dio cabal cumplimiento al pago de las facturas recepcionadas, const ndoleá
+
+que la Constructora abandon las obras sin acabarlas, lo cual le fue confirmadoó
+
+directamente por su jefe.
+
+Al tercer punto de prueba, indica que sabe que las obras quedaron sin terminar,
+
+debi ndose contratar otras personas para terminar la obra civil del Edifico Recicla,é
+
+generando un perjuicio econ mico para la Sociedadó de Desarrollo Tecnol gicoó .
+
+Respecto al cuarto punto de prueba, se ala que la Sociedadñ de Desarrollo
+
+Tecnol gicoó pag a la constructora todas las facturas que sta envi a cobro, cumpliendoó é ó
+
+con su obligaci n, m s no as la Constructora MYT, por lo que no existen los perjuiciosó á í
+
+reclamados.
+
+3.- Don Joaqu n Eduardo Curtze Reyes, se ala serí ñ el asesor del Decano de la
+
+Facultad de Administraci n y Econom a de la USACH, y en dicha calidad deb aó í í
+
+diligenciar materias que se relacionaban con el Edificio Recicla.
+
+Respecto al primer punto de prueba, manifiesta que es efectivo que existe un
+
+contrato entre las partes, que es s lo uno, el cual conoce por haberlo le do varias veces,ó í
+
+cuyas estipulaciones fijaban que la empresa Constructora MYT Ltda ten a que hacer elí
+
+trabajo de las obras civiles del Edifico Recicla y la contratante la Sociedad de Desarrollo
+
+Tecnol gico Limitada deb a pagarlas. Agrega que el plazo para la ejecuci n de las obrasó í ó
+
+civiles era de 35 d as aproximadamente, efectu ndose los pagos seg n el estado deí á ú
+
+avance de la obra mediante transferencia electr nica, seg n informe de avance de obraó ú
+
+del Inspector T cnico de Obra (ITO). é
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-25382-2017
+
+Al punto dos se ala, que la Sociedad de Desarrollo Tecnol gico limitada dioñ ó
+
+efectivo cumplimiento a sus obligaciones emanadas del contrato, no as la Constructoraí
+
+MYT Limitada que dej inconclusa parte de las obras civiles e hizo abandono de la obraó
+
+sin mediar acuerdo ni autorizaci n de don Juan Pablo Aguirre, qui n es el representanteó é
+
+legal de la Sociedad contratante.
+
+En cuanto al tercer punto de prueba, indica que seg n sabe, la Constructoraú
+
+MYT Limitada no sufri perjuicios, siendo en todo caso la Sociedad de Desarrolloó
+
+Tecnol gico Limitada la perjudicada por el incumplimiento por parte de la constructoraó
+
+al no terminar parte de las obras civiles, las cuales a n permanecen inconclusas, debidoú
+
+al abandono sin autorizaci n de la obra que hizo la constructora. ó
+
+Respecto al cuarto punto de prueba, refiere que la constructora no cumpli conó
+
+el contrato celebrado entre las partes, al dejar inconclusa la obra y hacer abandono de la
+
+misma, por lo cual mal podr a haber perjuicios que pudieran imputarse a la Sociedadí
+
+contratante.
+
+SEXTO: Que, del an lisis de los escritos principales del per odo de discusi n y elá í ó
+
+contenido de las pruebas aportadas por las partes referidas en los considerandos
+
+precedentes, es un hecho pac fico que con fecha í 28 de marzo de 2016 las partes de este
+
+juicio suscribieron el denominado contrato de ejecuci n de la obra denominada “ ó Obras“
+
+Civiles para Edificio Recicla , para la Facultad de Administraci n y Econom a de la” ó í
+
+Universidad de Santiago de Chile ,” instrumento acompa ado por ambas partes y noñ
+
+objetado, de cuya existencia adem s han dado fe la totalidad de los testigos queá
+
+depusieron en estrados, as como el propio representante legal de la sociedad demandadaí
+
+en la diligencia probatoria de absoluci n de posiciones efectuada en autos.ó
+
+Asimismo, ambas partes est n contestes en la circunstancia que ninguna de ellasá
+
+puso t rmino al contrato que las vincula.é
+
+S PTIMO:É Que, de la discusi n planteada en la ó litis y de la revisi n deló
+
+contenido del contrato en cuesti n, tambi n ha quedado establecido que se trata en laó é
+
+especie de un contrato de construcci n a suma alzada , sin reajuste, que no seó “ ”
+
+encuentra sujeto a variaci n de ninguna especie, sin perjuicio de lo dispuesto en laó
+
+cl usula duod cima sobre aumento o disminuci n de obras, por el valor total deá é ó
+
+$89.966.610.- IVA incluido.
+
+En el referido contrato, conforme se acord en sus cl usulas segunda y tercera, laó á
+
+demandada Sociedad de Desarrollo Tecnol gico de la Universidad de Santiago de Chileó
+
+Limitada encarg en su calidad de mandante o contratante a la actora Constructoraó
+
+MYT Limitada, en su calidad de contratista, la ejecuci n de las obras civiles deó
+
+fundaciones y aguas lluvias bajo el nivel de terreno del Edificio Recicla, de conformidad
+
+con las especificaciones t cnicas, planos, aclaraciones, enmiendas y bases administrativasé
+
+especiales entregadas por la mandante a la contratista y el propio presupuesto entregado
+
+por la contratista a la mandante, seg n se especifica en su cl usula segunda. ú á
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-25382-2017
+
+El plazo total para la ejecuci n y recepci n provisoria de las obras se fij enó ó ó 35
+
+d as corridosí , contados desde la fecha del acta de entrega de terreno, seg n daú cuenta la
+
+cl usula cuarta del instrumento privado acompa ado.á ñ
+
+OCTAVO: Que la acci n principal deducida en autos corresponde a la acci nó ó
+
+de cumplimiento de contrato, la que para operar requiere el cumplimiento de los
+
+siguientes requisitos: a) que exista un contrato vigente entre las partes; b) que haya un
+
+incumplimiento imputable de una obligaci n, incumplimiento que debe seró —
+
+transcendente, atendido el objeto del contrato ; y — c) que el que ejercita la acci n hayaó
+
+cumplido su obligaci n o est llano a cumplirla, todo ello conforme a las normas deó é
+
+derecho privado que regulan la responsabilidad contractual en el C digo Civil.ó
+
+NOVENO: Que, de conformidad al artículo 1.437 del Código Civil, “Las
+
+obligaciones nacen, ya del concurso real de voluntades de dos o más personas, como en
+
+los contratos o convenciones; ( ) ya de la ley, ( )… … ”. Esta es precisamente la fuente
+
+obligacional invocada en la presente causa, esto es, la existencia de un contrato de
+
+ejecuci n de obra a suma alzada y respecto del cual, ambas partes se han imputadoó
+
+incumplimientos rec procos.í
+
+En tal sentido, la demandante solicita el cumplimiento del contrato con
+
+indemnizaci n de perjuicios y afirma que la demandada no cumpli lo pactado, pues noó ó
+
+habr a pagado ntegramente lo que le correspond a pagar, adeudando, a la fecha de laí í í
+
+demanda, la suma neta de $40.215.920.- por saldo del precio acordado; $64.778.611.-
+
+por indemnizaci n de perjuicios, que desglosa en $34.581.820.- por da o emergente yó ñ
+
+$30.196.791.- por lucro cesante; m s la restituci n de $2.013.579.- por concepto deá ó
+
+restituci n de boletas de garant a.ó í
+
+Por su parte, la demandada estima que ha sido la constructora demandante quien
+
+incumpli el contrato, haciendo abandono intempestivo de las obras inacabadas sinó
+
+previo aviso al contratante, y sin que existiese recepci n provisoria ni definitiva de lasó
+
+obras, por lo que a la demandante nada se le habr a incumplido. Asimismo, indica queí
+
+realiz seis pagos adicionales de buena fe con el objeto de terminar la obra contratada,ó
+
+por lo que el monto total pagado ascender a a $71.931.356.-; y rechaza la devoluci ní ó
+
+por su parte de las garant as otorgadas.í
+
+D CIMO:É Que, atendida la naturaleza del contrato de ejecuci n de obrasó
+
+convenido entre las partes, cabe precisar que el contrato a suma alzada establece un
+
+monto global, fijo, por las obras a realizar, atendiendo el alcance de las mismas. La
+
+aplicaci n de esta modalidad requiere haber desarrollado la ingenier a completa deló í
+
+proyecto o sub proyecto, o estudiar de forma acabada el proyecto de manera de conocer
+
+con exactitud sus especificaciones, obras f sicas, listado de equipos, cubicaciones deí
+
+suministros y recursos involucrados en la ejecuci n. Sin informaci n a este nivel deó ó
+
+detalle, la empresa constructora es incapaz de presentar un presupuesto t cnicamenteé
+
+sustentable, pudiendo entrar en el desarrollo del proyecto en p rdidas que hace pocoé
+
+sustentable su t rmino.é
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-25382-2017
+
+El art culo 4, punto 30 del Decreto 75 del Ministerio de Obras P blicasí ú
+
+(Reglamento para contrato de Obras P blicas), define la Propuesta a Suma Alzada comoú
+
+La oferta a precio fijo, en la que las cantidades de obras se entienden inamovibles,“
+
+salvo aquellas partidas especificadas en los documentos de licitaci n cuya cubicaci n seó ó
+
+establezca a serie de precios unitarios, y cuyo valor total corresponde a la suma de las
+
+partidas fijas y a la de precios unitarios, si los hubiere. El valor total del contrato podrá
+
+estar afecto a alg n sistema de reajuste, de acuerdo a lo estipulado en el art culo 108 ; yú í ”
+
+por su parte, el art culo 2 del Decreto N 236/2003 MINVU, la define como Oferta aí ° “
+
+precio fijo, en que las cubicaciones de las obras se entienden inamovibles, a menos que
+
+las bases administrativas especiales incluyan una o varias partidas a serie de precios
+
+unitarios.”
+
+En el caso de contratos por suma alzada celebrados entre particulares,
+
+necesariamente habr de dirigirse a las normas de nuestro derecho com n, y en talá ú
+
+sentido, el art culo 2003 del C digo Civil los define como Los contratos paraí ó “
+
+construcci n de edificios, celebrados con un empresario, que se encarga de toda la obraó
+
+por un precio nico prefijado , y que queda sometido a las disposiciones contenidas en elú ”
+
+p rrafo relativo a los Contratos para la Confecci n de una Obra Material, sujet ndoseá ó á
+
+adem s a las reglas espec ficas que para esta clase de contrato contempla el art culo antesá í í
+
+citado.
+
+D CIMO PRIMERO: É Que, en el caso que nos convoca, la demandada se
+
+oblig a pagar el precio acordado de $89.966.610.- IVA incluido, conforme lo convenidoó
+
+en la cl usula tercera del aludido contrato, mediante el pago de un anticipo, previaá
+
+entrega de la garant a se alada en el numeral 1) de la cl usula sexta del contrato, yí ñ á
+
+posteriormente, gener ndose estados de pago á “en conformidad al avance f sico de lasí
+
+obras, cada 15 d as. El monto del anticipo, ser equivalente a un 20% del monto totalí á
+
+del contrato, y ser devuelto por el contratista mediante descuento a los estados de pagoá
+
+por el mismo porcentaje.”
+
+En la cl usula cuarta, se convino un plazo de ejecuci n de las obras á ó “de 35 d así
+
+corridos contados desde la entrega del terreno, al cabo de los cuales se efectuar suá
+
+Recepci n Provisoria por una Comisi n designada por la Unidad de Construcciones deó ó
+
+la Universidad, la que comunicar oficialmente por escrito la recepci n conforme o lasá ó
+
+observaciones que deber n ser solucionadas por el contratista en un plazo m ximoá á
+
+definido por la Comisi n, el que depender de las caracter sticas de las falenciasó á í
+
+detectadas y no podr exceder de 7 d as corridos.á í ”
+
+En su cl usula quinta, respecto de la recepci n definitiva de las obras, seá ó
+
+estableci que esta se realizar ó á “por una Comisi n designada por la Unidad deó
+
+Construcciones de la Universidad, despu s de 275 d as corridos contados desde laé í
+
+Recepci n Provisoria, pudiendo no recibirla conforme, formulando en dicho caso lasó
+
+observaciones pertinentes y un plazo para subsanarlas. ”
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-25382-2017
+
+D CIMO SEGUNDO:É Que, seg n se constata a partir de las anotacionesú
+
+contenidas en el denominado Libro de Obras , la entrega del terreno se efectu con“ ” ó
+
+fecha 27 de abril de 2016, por lo que, conforme a lo razonado en el motivo precedente,
+
+dio inicio al c mputo del plazo convenido para la ejecuci n de la obra contratada.ó ó
+
+Luego, ha de tenerse por establecido que el plazo que las partes fijaron para la ejecuci nó
+
+de los trabajos, venc a el 1 de junio de 2016.í °
+
+Ahora bien, es un hecho que surge de las propias alegaciones vertidas por las
+
+partes como de las pruebas testimonial y confesional rendidas en juicio, que a la llegada
+
+del plazo convenido para la ejecuci n de la obra, sta no se hab a concretado en suó é í
+
+totalidad por la constructora demandante, quedando inconclusa y sin que la actora haya
+
+regresado a ejecutar las labores pendientes. En efecto, si bien la demandante en su libelo
+
+sostiene que el d a 16 de mayo de 2016 hizo abandono de las obras de forma temporal,í
+
+lo que atribuyendo a una exigencia de la demandada, lo cierto es que reconoce que a la
+
+saz n quedaba pendiente una parte de los trabajos encargados en el contrato, los queó
+
+finalmente, seg n manifiesta, nunca fueron completados.ú
+
+En el mismo sentido, tres de los cuatro testigos aportados por la demandante, don
+
+Patricio Eduardo Jes s Torres Huenchuhual, do a Deisy Evelyn Rubio Tapia y donú ñ
+
+Jorge Eduardo Valenzuela Salgado, se encuentran contestes en el hecho que la
+
+demandante nunca concluy la totalidad de los trabajos encargados, mientras el testigoó
+
+de la demandante restante no se pronunci al respecto. Por su parte, la totalidad de losó
+
+testigos aportados por la demandada, a saber, don Willy Alejandro Mu oz Alvaradoñ ,
+
+do a ñ Jennifer Pamela Barraza Contreras y don Joaqu n Eduardo Curtze Reyes, seí
+
+mostraron contestes en la circunstancia que la constructora demandante hizo abandono
+
+de las obras, el cual califican de intempestivo, sin cumplir con la totalidad de las
+
+obligaciones establecidas en el contrato celebrado entre las partes. As las cosas,í
+
+ponderando la testimonial en los t rminos é del art culo 384 N 2 del C digo deí ° ó
+
+Procedimiento Civil, se encuentra debidamente asentado que la contratista efectivamente
+
+abandon las obras y que estas quedaron inconclusas.ó
+
+D CIMO TERCERO:É Que, habi ndose acreditado que la actora no cumpli aé ó
+
+cabalidad con la obligaci n principal del contrato, a saber, la ejecuci n de la totalidad deó ó
+
+las obras civiles encargadas dentro del plazo fijado, tocaba a sta acreditar que dichoé
+
+incumplimiento no le era imputable.
+
+Sobre el punto, la demandante se ala que con fecha 16 de mayo de 2016, porñ
+
+exigencia de la demandada y cuando su parte ya hab a efectuado el 99% de las obrasí
+
+encargadas, hizo abandono temporal de la obra para efectos de que ingresara otra
+
+empresa, denominada SABINCO , para efectuar el montaje de una estructura met lica,“ ” á
+
+dej ndose constancia de este hecho en el Libro de Obras, quedando pendiente laá
+
+instalaci n de las canaletas de aguas lluvias y rejillas, as como el remate de banquetasó í
+
+instaladas de cuatro c maras de aguas lluvias.á
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-25382-2017
+
+Sin embargo, revisado el Libro de Obras y sus anexos acompa ados a los autos,ñ
+
+no consta anotaci n de fecha 16 de mayo de 2016 dando cuenta de haberse ordenado laó
+
+paralizaci n de las obras y la salida de la Constructora MYT Limitada, a que haceó
+
+alusi n la parte demandante en su libelo, circunstancia no menor si se atiende al impactoó
+
+que una orden de dicha naturaleza podr a tener en el debido cumplimiento de las obrasí
+
+y su entrega dentro del plazo tan acotado que se convino. En efecto, seg n consta en lasú
+
+cl usulas d cimo quinta y d cimo sexta del contrato, se puso de cargo del contratistaá é é
+
+disponer durante la ejecuci n de un Libro de Obras , convini ndose que Las“ ó ” é “
+
+relaciones entre el ITO y el contratista se regular n por las siguientes normas: a) Elá
+
+contratista deber someterse a las rdenes del ITO, las que se impartir n siempre porá ó á
+
+escrito, conforme a los t rminos y condiciones del Contrato, dej ndose constancia en elé á
+
+Libro de Obras ; luego, la falta de todo respaldo escrito en el Libro de Obras de la”
+
+pretendida orden o solicitud de abandono temporal a que alude la demandante, no
+
+puede ser suplida por la prueba testimonial, por lo que, aun cuando sus testigos resultan
+
+superiores en n mero a aquellos presentados por la demandada, de conformidad a loú
+
+dispuesto en el art culo 384 N 3 del C digo de Procedimiento civil, habr de estarse aí ° ó á
+
+los testigos de esta ltima (demandada) en orden a que la contratista hizo abandonoú
+
+intempestivo de las obras, por aparecer sus declaraciones m s conformes con otrasá
+
+pruebas del proceso, espec ficamente, con la ausencia de toda anotaci n escrita en elí ó
+
+respectivo Libro de Obras que avale la supuesta exigencia de la mandante a que se alude
+
+por la demandante.
+
+D CIMO CUARTO:É Que, aun cuando se hubiese ordenado el retiro temporal
+
+de las obras a la constructora demandante, ello no la facultaba para hacer abandono
+
+intempestivo de las mismas dej ndolas inconclusas, por cuanto el propio contrato, en suá
+
+cl usula d cimo segunda, establece el procedimiento a seguir para el caso que se debaá é
+
+aumentar el plazo de ejecuci n de las obras, lo que no fue cumplido por la actora.ó
+
+En efecto, conforme se desprende del correo electr nico de fecha 16 de mayo deó
+
+2016, misma fecha que la actora se ala como el d a de abandono temporal de las obras,ñ í
+
+consta que don Arturo Gonz lez Riquelme, de la Unidad de Construcciones de laá
+
+Universidad de Santiago de Chile, escribi a don Tomas Alejandro Meneses Gonz lez -ó á
+
+representante legal de la Constructora MYT Limitada - respondiendo a su consulta sobre
+
+el procedimiento para solicitar la Recepci n Provisoria de las obras, reiter ndole conó á
+
+dicha fecha que la constructora deb a entregar el Programa de Obras para conocer losí
+
+trabajos inconclusos que quedar an pendientes para las etapas posteriores del Proyecto,í
+
+se al ndole textualmente que:ñ á
+
+“La Empresa debe informar que (sic) a trav s de este Programa de Obras el nivelé
+
+de su ejecuci n y aquellas dentro de esta primera Etapa de este Proyecto (sic). Hasta leó
+
+fecha la Empresa Constructora no ha dado respuesta alguna a este punto. ( )…
+
+Entendemos que este Proyecto esta contra el tiempo, por lo que le solicito a UD.
+
+coordinar con la debida antelaci n el curso de ella. Ante el caso que la Empresaó
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-25382-2017
+
+SABINCO ingrese a realizar el montaje de las Vigas met licas la Obra debe estará
+
+limpia, ordenada y haber dado t rmino a todas las actividades o partidas del Contratoé
+
+dejando pendiente s lo aquellas actividades que prestar n servicio a las dos Etapasó á
+
+siguientes tales como cierros provisorios, construcciones provisorias y aquellas que
+
+suministran las energ as o alimentan los servicios provisorios de la Obra como m nimo.í í ”
+
+Pues bien, no consta en autos haberse entregado por la actora el Programa de
+
+Obras ni solicitado la respectiva ampliaci n de plazo, en cumplimiento a loó
+
+expresamente pactado en la citada cl usula d cimo segunda del contrato.á é
+
+En igual sentido, del correo electr nico de fecha 1 de julio de 2016, enviado poró
+
+don Arturo Gonz lez Riquelme de la Unidad de Construcciones de la Universidad deá
+
+Santiago de Chile a don Carlos Soto Paillaman y otros, se consta que a dicha fecha,
+
+habiendo expirado el plazo para el cumplimiento del contrato que venc a el 1 de junioí °
+
+de 2016, la Constructora MYT Limitada no hab a solicitado aumento de plazo conformeí
+
+a las disposiciones del citado instrumento, existiendo trabajos inconclusos certificados por
+
+los arquitectos patrocinantes que deb an ser terminados en la tercera Etapa del Proyecto.í
+
+Asimismo, a dicha fecha, la Constructora tampoco hab a tramitado la pr rroga de laí ó
+
+nueva boleta de garant a que deb a entregar y que venc a el 04 de julio de 2017, por loí í í
+
+que en la especie la empresa contratista no hab a cumplido con lo dispuesto en elí
+
+numeral 2), p rrafo final de la cl usula sexta, en orden a prorrogar las garant as en casoá á í
+
+de extensi n de plazo de ejecuci n de las obras, ni prorrog la fecha de vencimiento deó ó ó
+
+la P liza de seguros a la misma fecha.ó
+
+D CIMO QUINTO: É Que, existiendo entonces obras pendientes de ejecutar
+
+por la actora a la poca en que esta manifiesta haber solicitado la Recepci n Provisoriaé ó
+
+de las obras, mediante correo electr nico de fechaó 24 de mayo de 2016, situaci n f cticaó á
+
+que era de conocimiento de ambas partes del contrato seg n se ha acreditado en elú
+
+considerando precedente, se torna evidente que en la especie no se daban los requisitos
+
+para conceder dicha acta, al tenor de lo pactado en la cl usula cuarta del contrato. á
+
+En efecto, por una parte, a n no se hab a cumplido el plazo de ejecuci n delú í ó
+
+mismo, que venc a el 1 de junio de 2016; y por otra, no se hab a concluido por laí ° í
+
+actora la totalidad de las obras contratadas, siendo improcedente tal solicitud. En dicho
+
+escenario, lo que correspond a en la especie era implementar el proceso de ampliaci ní ó
+
+de plazo para terminar las obras pendientes, conforme a la cl usula d cima segunda delá é
+
+contrato, lo que la actora no hizo.
+
+Ahora bien, en cuanto al no otorgamiento que la actora reclama de la Recepci nó
+
+Definitiva de las obras, cabe se alar que el plazo de 275 d as corridos para su concesi nñ í ó
+
+a que alude se cuenta desde la Recepci n Provisoria, desde que as los disponeó í
+
+expresamente la cl usula quinta del contrato, por lo que no concurriendo los requisitosá
+
+para conceder el acta provisional, seg n lo razonado precedentemente, es totalmenteú
+
+improcedente en la especie el otorgamiento del acta definitiva, debiendo rechazarse la
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-25382-2017
+
+aseveraci n de la actora acerca que la demandada ó contravino las cl usulas cuarta yá
+
+quinta del contrato.
+
+D CIMO SEXTO:É Que, en los t rminos que se ha venido razonando, é la actora
+
+no ha rendido prueba id nea que permita excluir su responsabilidad en el abandono deó
+
+las obras inconclusas que efectu el d a 16 de mayo de 2016, por lo que, careciendo deó í
+
+la calidad de contratante cumplidor, le est vedada la posibilidad de ejercer la acci ná ó
+
+cumplimiento forzado con m s indemnizaci n de perjuicios, que consagra el art culoá ó í
+
+1489 del C digo Civil; y de igual manera, aun de haberse ejercitado la acci nó ó
+
+indemnizatoria como aut noma, que no es el caso, aquella tampoco ha podido prosperaró
+
+en la medida que se ha configurado en la especie la excepci n de contrato no cumplido,ó
+
+prevista en el art culo 1552 del C digo Civil, por lo que no ha podido constituirse ení ó
+
+mora a la demandada y por ende, conforme a lo dispuesto en el art culo 1557 de citadoí
+
+cuerpo legal, no puede reclamarse de esta ltima la pretendida indemnizaci n deú ó
+
+perjuicios.
+
+D CIMO S PTIMO:É É Que, si bien lo precisado en el motivo precedente torna
+
+innecesario abocarse al an lisis de la pretensi n indemnizatoria y ponderar la pruebaá ó
+
+rendida para acreditar la existencia y cuant a de las partidas reclamadas, pareceí
+
+conveniente pronunciarse en torno a la devoluci n de las garant as ó í otorgadas por
+
+conceptos de anticipo, de fiel y oportuno cumplimiento de las obligaciones del contrato y
+
+para la correcta ejecuci n de las obras, que la empresa contratista solicita por el montoó
+
+de $2.013.579.
+
+Sobre el punto, cabe se alar que no consta en autos que dichas garant as señ í
+
+encuentren vigentes, ni aport la contratista prueba alguna que acredite haber tramitadoó
+
+su pr rroga, de conformidad a lo dispuesto en el numeral 2), p rrafo final de la cl usulaó á á
+
+sexta del contrato.
+
+A mayor abundamiento, el contrato establece en la citada cl usula sexta, comoá
+
+requisito para la devoluci n de las garant as por concepto de anticipo y de fiel yó í
+
+oportuno cumplimiento de las obligaciones del contrato, que se efect e previamente laú
+
+Recepci n Provisoria de las obras, en tanto respecto de la garant a de correcta ejecuci nó í ó
+
+de las obras, se exige el acta de Recepci n Definitiva, las que de conformidad a loó
+
+expuesto en las motivaciones anteriores, no se produjo, dado el abandono intempestivo
+
+de las obras por parte de la contratista, por lo que resulta improcedente la devoluci nó
+
+que de las mismas pretende la actora.
+
+D CIMO OCTAVO:É Que, por todo lo antes razonado, solo queda rechazar la
+
+acci n de cumplimiento forzado con m s indemnizaci n de perjuicios que laó á ó
+
+demandante ha intentado en sede contractual.
+
+POR ESTAS CONSIDERACIONES y visto, adem s, lo dispuesto en losá
+
+art culos í 1437, 1438, 1445, 1489, 1545, 1546, 1552, 1557, 1560, 1562, 1698, 1700,
+
+1702, 1713 y 2003 del C digo Civil, y art culos 144, 160, 170, 254, 309, 346, 384 N 2ó í °
+
+y N 3, 399 del C digo de° ó Procedimiento Civil, SE DECLARA:
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+C-25382-2017
+
+I.- Que se rechaza la demanda principal de cumplimiento de contrato de
+
+ejecuci n de obra, interpuesta por la empresa Constructora MYT Limitada,ó representada
+
+legalmente por don Tomas Alejandro Meneses Gonz lez, en contra de la Sociedad deá
+
+Desarrollo Tecnol gico de la Universidad de Santiago de Chile Limitada, representadaó
+
+por don Juan Pablo Aguirre lvarez,Á todos ya individualizados;
+
+II.- Que se rechaza la demanda de indemnizaci n de perjuicios, accesoria a laó de
+
+cumplimiento de contrato de ejecuci n de obra, interpuesta por la empresa Constructoraó
+
+MYT Limitada, representada legalmente por don Tomas Alejandro Meneses Gonz lez,á
+
+en contra de la Sociedad de Desarrollo Tecnol gico de la Universidad de Santiago deó
+
+Chile Limitada, representada por don Juan Pablo Aguirre lvarez,Á todos ya
+
+individualizados;
+
+III.- Que se rechaza la restituci n de las garant as ó í por conceptos de anticipo, de
+
+fiel y oportuno cumplimiento de las obligaciones del contrato y por la correcta ejecuci nó
+
+de las obras, que la empresa Constructora MYT Limitada solicita por el monto de
+
+$2.013.579.-, conforme a lo razonado en el motivo d cimo s ptimo del esta sentencia;é é
+
+IV.- Que no se condena en costas a la parte demandante, por estimarse que ha
+
+tenido motivos plausibles para litigar.
+
+REGISTRESE Y NOTIFIQUESE.
+
+ROL C-25382-2017.
+
+DICTADA POR MANUEL FIGUEROA SALAS, JUEZ TITULAR DEL
+
+SEGUNDO JUZGADO CIVIL DE SANTIAGO.
+
+Se deja constancia que se dio cumplimiento a lo dispuesto en el inciso final del art. 162
+del C.P.C. en Santiago, veinticuatro de Enero de dos mil veintitr sé
+
+Código: KXXXDXLXPK
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2023-01-24T12:23:43-0300

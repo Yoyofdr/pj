@@ -4,19 +4,19 @@ case_id: 77069e7dd2c6d6bc612bf0cafa1273c53a99958f
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8042932
 
-rol: 57933-2025
+rol: 6093-2026
 
-fecha_sentencia: 2026-02-25
+fecha_sentencia: 2026-02-26
 
-caratulado: MENDOZA/BANCO DEL ESTADO CHILE
+caratulado: NAHAR/SERVICIO NACIONAL DE MIGRACIONES (LTE)
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: (CIVIL) RECLAMO NACIONALIDAD
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) RECLAMO NACIONALIDAD
 
-resultado_recurso: REVOCADA SENTENCIA APELADA
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
