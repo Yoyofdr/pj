@@ -4,17 +4,17 @@ case_id: c9618dba97e7e90a30b1bd92c0fed838a01fc10e
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8036387
 
-rol: 56455-2025
+rol: 56235-2025
 
-fecha_sentencia: 2026-02-20
+fecha_sentencia: 2026-02-23
 
-caratulado: ANA MACARENA VILLAGRÁN SEPÚLVEDA /ILUSTRE MUNICIPALIDAD DE LOTA
+caratulado: SINDICATO DE TRABAJADORES Y TRABAJADORAS DE BUSES PROVINCIA ANTOFAGASTA/BUSES J M PULLMAN S A.
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Potestad disciplinaria
+materias: ▪ Derecho a la honra, a la imagen y a la vida privada, libertad de expresión
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
