@@ -1,0 +1,185 @@
+METADATA
+
+case_id: cc788bf88e54b27170861a336d9385257e466f07
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8063259
+
+rol: 5060-2025
+
+fecha_sentencia: 2026-03-16
+
+caratulado: /CLARO VICUÑA VALENZUELA S.A. (O)
+
+sala: PRIMERA, CIVIL
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: SENTENCIA DE REEMPLAZO (M)
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, dieciséis de marzo de dos mil veintiséis.
+
+VISTO Y TENIENDO PRESENTE:
+PRIMERO: Que, en este procedimiento ejecutivo de desposeimiento, tramitado ante el Décimo Segundo Juzgado Civil de Santiago, bajo el Rol C-2097-2021, caratulado “Banco Internacional con Waitomo NZ SPA”, se ha ordenado dar cuenta de la admisibilidad de los recursos de casación en la forma y en el fondo deducidos por la parte ejecutada, en contra de la sentencia dictada por la Corte de Apelaciones de Santiago el veinticuatro de noviembre de dos mil veinticinco, que confirmó la de primera instancia que rechazó las excepcionas de los numerales 3 y 17 del artículo 464 del Código de Procedimiento Civil.
+
+EN CUANTO AL RECURSO DE CASACIÓN EN LA FORMA:
+SEGUNDO: Que el recurso de casación en la forma se sustenta en la causal de nulidad contemplada en el artículo 768 N°4 del Código de Procedimiento Civil, esto es, en haber sido dada en ultra petita; la que funda, en síntesis, en que el rechazo de la excepción de prescripción de la acción ejecutiva o cambiaria, se sustentó en la escritura pública de 17 de mayo de 2019, en circunstancias que la acción de desposeimiento ejercida por el Banco Internacional se amparó en dos pagarés, según se puede observar en el cuerpo y la petitoria de la demanda. Manifiesta que es sobre aquella base que erradamente el tribunal estableció un plazo de prescripción de tres años y no uno.
+
+Pide que se declare la existencia del vicio de casación denunciado, anulando la sentencia impugnada y, acto continuo, sin nueva vista, pero separadamente, se dicte sentencia de reemplazo, en la que se revoque la sentencia de primer grado, acogiéndose la apelación deducida y declarándose prescrita la acción deducida, con costas.
+
+TERCERO: Que, respecto del vicio alegado, esta Corte Suprema ha precisado que el fallo incurre en ultra petita cuando, apartándose de los términos en que las partes situaron la controversia por medio de sus respectivas acciones o excepciones, se altera el contenido de éstas, cambiando su objeto o modificando su causa de pedir.
+
+Este vicio es uno que conculca el principio de congruencia, rector de la actividad procesal, que busca vincular a las partes y al juez en el ámbito del debate. Se trata de ensamblar la pretensión, la oposición, la prueba, la sentencia y los recursos y, al mismo tiempo, cautelar la conformidad que debe existir entre todas las actuaciones que componen el proceso.
+
+Por tanto, una sentencia deviene incongruente cuando en lo resolutivo se otorga más de lo pedido por el demandante, se excede de la oposición del demandado o se extiende a materias que no fueron sometidas a la decisión del tribunal.
+
+CUARTO: Que, revisado solicitud de notificación de desposeimiento y el escrito de la demanda ejecutiva con su parte petitoria, se advierte que la ejecución tiene sustento en que el ejecutado es el tercero poseedor de la finca hipotecada, hipoteca que tenía como fin garantizar el cumplimiento de todas y cualquiera de las obligaciones que Solignum Chile Sociedad Anónima le adeudare, entre ellas dos pagarés, y es bajo este supuesto y de acuerdo lo prevé el artículo 758 y siguientes del Código de Procedimiento Civil, se insta ejecutivamente para que se desposea, a la ejecutada, del predio hipotecado.
+
+De lo anterior se advierte que el vicio denunciado no se configura, pues el tribunal en la sentencia recurrida se pronunció respecto de las materias que fueron solicitadas en la demanda, sin extenderse a puntos distintos, quedando en evidencia que lo impugnado es la circunstancia que el razonamiento jurídico del tribunal condujo a un pronunciamiento que la recurrente no comparte y que le es desfavorable, motivo por el cual el arbitrio de nulidad formal, debe ser desestimado.
+
+EN CUANTO AL RECURSO DE CASACIÓN EN EL FONDO:
+QUINTO: Que, con el recurso de casación en el fondo se denuncian como infringidos los artículos 2516, 2514, 2434, 2515 del Código Civil; los artículos 98 y 107 de la Ley 18.092 sobre Letras de Cambio y los artículos 464 N° 17 y 759 inciso 2 del Código de Procedimiento Civil.
+
+Sostiene, en síntesis, que la sentencia desestimó erróneamente la excepción de prescripción extintiva, aplicando un plazo de tres años en lugar del de uno, como lo establece el artículo 98 de la Ley 18.092 para la obligación caucionada por los pagarés.
+
+Asimismo, se argumenta que la acción hipotecaria no tiene un plazo de prescripción propio, sino que debe seguir el plazo de la obligación principal, según el artículo 2516 del Código Civil. Además, se señala que la sentencia recurrida separó incorrectamente la prescripción de la acción hipotecaria de la acción cambiaria, lo que contraviene el principio de accesoriedad establecido en el Código Civil.
+
+Pide que se anule la sentencia recurrida y se dictando a continuación, en forma separada y sin nueva vista de la causa, la sentencia de reemplazo en la que se revoque la sentencia de primer grado, acogiéndose la apelación de esa parte y se declare prescrita la acción deducida, con costas en las que se condenara al Banco demandante.
+
+SEXTO: Que del examen de los antecedentes se advierte que la sentencia recurrida ha efectuado una correcta aplicación de la normativa atinente al caso.
+
+En este sentido, de manera acertada los jueces han rechazado la excepción de prescripción, teniendo presente para ello que el desposeimiento hipotecario del artículo 2432 del Código Civil y 795 del Código de Procedimiento Civil es una acción real que recae sobre un inmueble hipotecado y no sobre el deudor principal de la obligación, lo que determina que su fundamento es la hipoteca misma y no el pagaré ni el contrato subyacente.
+
+Aciertan así los jueces al sostener que el plazo de prescripción de la acción ejecutiva respecto del tenedor del bien inmueble hipotecado que se persigue a partir de la presente acción de desposeimiento, conforme a lo dispuesto en el artículo 2515 del Código Civil y 442 del Código de Procedimiento Civil, es de tres años, contados desde que la obligación se haya hecho exigible, plazo que no ha transcurrido.
+
+SÉPTIMO: Que, así las cosas, llevan la razón los jueces del mérito al rechazar la excepción de prescripción, lo que permite concluir que el recurso de casación en el fondo intentado por la parte demandada no puede tener acogida por adolecer de manifiesta falta de fundamento.
+
+Por estas consideraciones y de conformidad con lo dispuesto en los artículos 766, y 781 del Código de Procedimiento Civil, se declara inadmisible el recurso de casación en la forma y se rechaza el recurso de casación en el fondo interpuesto por el abogado Ramón Domínguez Águila, en representación de la parte ejecutada, en contra la sentencia de veinticuatro de noviembre del año de dos mil veinticinco, pronunciada por la Corte de Apelaciones de Santiago.
+
+Regístrese y devuélvase
+Nº 56.779-2025.-
+Pronunciado por la Primera Sala de la Corte Suprema integrada por los Ministros señor Leopoldo Llanos S., señor Mario Carroza E., señora María Soledad Melo L., señor Jorge Zepeda A. (S) y señora Eliana Quezada M. (S).
+
+No obstante, haber concurrido a la cuenta de admisibilidad y al acuerdo, no firma el Ministro señor Llanos, por estar con permiso y el Ministro señor Carroza, por estar con feriado legal.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Santiago.
+
+Santiago, veinticuatro de noviembre de dos mil veinticinco.
+
+En autos Rol C-2097-2021, caratulados “BANCO INTERNACIONAL/WAITOMO NZ SPA”, seguida ante el 12° Juzgado Civil de Santiago, sobre juicio ejecutivo de desposeimiento hipotecario, se ha demandado a CARLOS SOTO VRANDECIC en calidad de representante de la sociedad WAITOMO NZ S.P.A.
+
+Durante el juicio se dictaron diversas resoluciones que fueron apeladas y, una vez en la Corte, se dispuso su acumulación.
+
+La vista de estas causas se llevó a cabo el 15 de octubre de 2025.
+
+I.- En cuanto al ingreso N° 4620-2023:
+
+Vistos:
+
+Se reproduce sentencia de 31 de enero de 2023, y se tiene, además, presente:
+
+Se ha presentado recurso de apelación en contra de la sentencia de 31 de enero de 2023, cuaderno principal, por la que se rechazó las excepciones opuestas por la ejecutada.
+
+Considerando:
+
+Primero: El recurrente funda su apelación en el hecho que el Banco Internacional, demandó en dos causas los mismos títulos iniciando dos acciones en forma paralela, por lo que concurrirían los presupuestos de la excepción de litis pendencia.
+
+Explica que don Carlos Soto Vrandecic, es co-demandado como aval y también emplazado como representante de la demandada deudora principal, la empresa Solignum Chile S.A. La causa se inicia ante el 2o Juzgado en lo Civil de Santiago, cuya demanda se presentó con fecha 19 de febrero del 2021, por lo que se configuraría, en su opinión, triple identidad.
+
+Agrega que la litispendencia no sólo procede frente a litigios en que existe perfecta triple identidad legal de partes, cosa pedida y causa de pedir, sino también frente a ciertos casos de litigios conexos y prejudiciales, como sería el presente caso.
+
+Segundo: En cuanto a la excepción de prescripción, sostiene que esta es de un año de acuerdo a lo dispuesto en el artículo 98 de la Ley N° 18.092, plazo que ha transcurrido en exceso y que, por tratarse de la obligación principal, provoca la prescripción de las acciones accesorias, en este caso, del cobro de la hipoteca que en la presente causa se exige.
+
+Tercero: Que, a fin de resolver el presente recurso de apelación, debemos recordar que en el presente juicio se presentó demanda ejecutiva de desposeimiento en contra de Solignun Chile SA, representada por Carlos Soto Vrandecic.
+
+Esta sociedad suscribió dos pagarés en calidad de deudora principal y su representante, Carlos Soto, los suscribió, además, como avalista, fiador y codeudor solidario.
+
+Por medio del pagaré a la orden N° 9061390, suscrito con fecha 29 de abril, se obligó a pagar a su mandante la suma ascendente a USD$442.233, de capital más el interés determinado en el documento. El pago del capital se efectuaría mediante el pago de 36 cuotas mensuales, iguales y sucesivas por la suma de a USD$12.284,25. Las cuotas de capital vencerían los días 25 de cada mes, venciendo la primera cuota el día 25 de julio de 2019, y la última el día 25 de junio de 2022. La deudora se encuentra en mora desde el día 25 de agosto de 2020, por lo que se adeuda a ese día la suma de USD$282.537,75, suma que, según lo dispuesto por el artículo 22 de la Ley N° 18.010 sobre operaciones de crédito de dinero, equivale a modo referencial al día 9 de noviembre de 2021, a $227.897.775.
+
+Por medio del pagaré a la orden N° 9122072, suscrito con fecha 27 de marzo de 2017, y de acuerdo con el cual Solignum Chile Sociedad Anónima, ya individualizada, se obligó a pagar a su mandante la suma ascendente a $51.632.771, de capital, más el interés determinado en el documento, para ser pagado a más tardar el día 8 de noviembre de 2020. La deudora se encuentra en mora desde el día 8 de noviembre de 2020, por lo que se adeuda a ese día, la suma de $51.632.771, de capital, más los intereses y reajustes que corran entre la fecha de la mora y la de su pago efectivo.
+
+A fin de garantizar al BANCO INTERNACIONAL, el cumplimiento de todas y cualquiera de las obligaciones que Solignum Chile Sociedad Anónima le adeudare, Carlos Soto Vrandecic constituyó una hipoteca de garantía general sobre el inmueble consistente en el departamento No 702 del séptimo piso, de la bodega No 9 del subterráneo y del estacionamiento subterráneo No 010, todos del denominado “Edificio Lago Riñihue”, ubicado en calle Presidente Riesco No 2955, comuna de Las Condes, inscrito en el Registro de Propiedad del Conservador de Bienes Raíces de Santiago del año 2018, a fojas 72.407, No 101.539.
+
+Luego de ello, Carlos Soto Vrandecic, mediante escritura de fecha 6 de diciembre de 2018, aportó el inmueble hipotecado a la sociedad Velaspila SpA, representada por Carlos Soto Vrandecic, y, posteriormente, la sociedad Velaspila SpA, en el mes de febrero de 2021, procedió a transferir el inmueble hipotecado, esta vez a la sociedad demandada, WAITOMO NZ SPA, según consta de la copia de inscripción de dominio que acompaña, inscribiéndose su dominio en el Registro de Propiedades del Conservador de Bienes Raíces de Santiago, del año 2021, a fojas 11.434, número 16.781.
+
+Debido a ello, en el presente juicio ejecutivo de desposeimiento se demanda a WAITOMO NZ SPA, como poseedor de la finca hipotecada, a fin de que pague las deudas antes singularizadas.
+
+Cuarto: Que la ejecutada opuso las excepciones de los números 3 y 17 del artículo 464 del Código de Procedimiento Civil, esto es, litis pendencia y prescripción.
+
+La excepción del N° 3 del artículo referido, la funda en que se encuentra en actual trámite la causa Rol N° C-1.997-2021, seguida ante el Segundo Juzgado Civil de Santiago, sobre juicio ejecutivo, iniciada por el BANCO INTERNACIONAL S. A. B. en contra de la sociedad Solignum Chile Sociedad Anónima, como suscriptora y de don Carlos Soto Vrandecic, como avalista o codeudor solidario. Los títulos invocados como ejecutivos son los mismos dos pagarés objeto de autos, donde se opone la excepción de prescripción.
+
+La excepción de prescripción, del N° 17 del artículo 464 del Código de Procedimiento Civil, la funda en que la ejecutada fue requerida de pago, o de desposeimiento, en ambos pagarés, después de transcurrido un año desde que la respectiva obligación se había hecho exigible. En el primero, tras un año y más de nueve meses; y en el segundo, tras un año y casi seis meses. Por ende, se completaron o enteraron con creces los correspondientes plazos para que operase la prescripción extintiva de los derechos y acciones del Banco ejecutante.
+
+Quinto: Que, en cuanto a la excepción de litis pendencia, esta no se configura en el presente caso, toda vez que no concurre la triple identidad requerida, conforme lo señalado en el artículo 177 del Código de Procedimiento Civil, es decir, triple identidad de partes, objeto y de causa de pedir. En concreto, no existe identidad de partes, toda vez que la parte ejecutada en el presente juicio es WAITOMO NZ SPA, persona distinta a Solignum Chile Sociedad Anónima y Carlos Soto Vrandecic. Los títulos ejecutivos son los mismos, pero tratándose de una acción dirigida en contra de un tercer poseedor del inmueble hipotecado, cabe concluir que se trata de un juicio distinto e independiente de aquél en que se reclaman los pagarés en el deudor principal y los avalistas o codeudores solidarios, por lo que procede rechazar esta primera excepción.
+
+Al efecto, se hace necesario destacar que mientras el inmueble gravado permanece en el patrimonio del deudor, la acción hipotecaria se confunde con la acción personal, pudiendo entonces el acreedor demandar en juicio ordinario o ejecutivo, según sea la calidad del título de que disponga el pago de su crédito, solicitando, en su oportunidad, el embargo de la finca gravada y su posterior subasta. Sin embargo, cuando el predio gravado se transfiere a un tercero cobra trascendencia la acción de desposeimiento, porque en contra de éste no puede el acreedor proponer una acción personal, sino sólo aquella de carácter real que tiene su origen en el mencionado derecho de persecución inherente a la hipoteca. Luego, tratándose de acciones de naturaleza diversa, la excepción de litis pendencia resulta del todo improcedente.
+
+Sexto: Que en cuanto a la excepción de prescripción, del N° 17 del artículo 464 del Código de Procedimiento Civil, esta tampoco concurre, toda vez que en la presente causa se persigue la obligación del demandado, como tercer poseedor de una finca hipotecada, la que emana de una hipoteca, es decir es una obligación accesoria a la principal, conforme lo prescribe el artículo 2434 del Código Civil. De este modo, no puede sostenerse la extinción de esta obligación accesoria, mientras subsista la principal, de acuerdo con lo expresado en el artículo 2516 del mismo cuerpo legal, que dispone: “La acción hipotecaria, y las demás que proceden de una obligación accesoria, prescriben junto con la obligación principal”.
+
+En el caso concreto, la obligación principal está constituida por dos pagarés. De acuerdo con el artículo 98 de la Ley N° 18.092, “El plazo de prescripción de las acciones cambiarias del portador contra los obligados al pago es de un año, contado desde el día del vencimiento del documento”.
+
+De esta norma se desprende que el plazo señalado de un año, desde que la obligación se hace exigible, se observa sólo respecto de los “obligados al pago”.
+
+Por su parte, el artículo 101 del citado cuerpo legal, prescribe “En los demás, la prescripción de las acciones provenientes de la letra de cambio se rige por las reglas generales del Código de Comercio”, de lo que se desprende que existe un plazo adicional referidas a otras acciones que emanan de estos títulos de créditos.
+
+Derivado de lo anterior, cabe preguntarse ¿quién es obligado al pago? En el caso de una letra de cambio o pagaré, son obligados al pago el suscriptor, avalista, girador, endosantes, de manera que el artículo 98 antes transcrito no se puede aplicar a un poseedor hipotecario que no ha suscrito el o los títulos que contienen dichas obligaciones.
+
+¿Podemos aplicar el artículo el artículo 101 de la Ley 18.092?
+
+Consideramos que tampoco es posible aplicar esta norma, desde que el desposeimiento tiene como fundamento la suscripción de una obligación hipotecaria y no una obligación cambiaria.
+
+El desposeimiento hipotecario del artículo 2432 del Código Civil y 795 del Código de Procedimiento Civil es una acción real que recae sobre un inmueble hipotecado y no sobre el deudor principal de la obligación. Su fundamento es la hipoteca misma y no el pagaré ni el contrato subyacente. El plazo de prescripción, entonces, es de 3 años, como juicio ejecutivo y 5 años como acción ordinaria.
+
+En tal sentido, el plazo de prescripción de la acción ejecutiva respecto del tenedor del bien inmueble hipotecado que se persigue a partir de la presente acción de desposeimiento prescribe, conforme a lo dispuesto en el artículo 2515 del Código Civil y 442 del Código de Procedimiento Civil, en tres años, contados desde que la obligación se haya hecho exigible, plazo que no ha transcurrido en el caso de marras, por lo que esta excepción debe ser rechazada.
+
+Séptimo: Que así también lo ha entendido la Corte Suprema (Rol N° N° 33.365-2024, de 22 de octubre de 2025), que recientemente acogió el recurso de casación respecto de una sentencia que había aplicado el plazo de 1 año al poseedor hipotecario en primera y segunda instancia. En sentencia de reemplazo, la Corte Suprema reafirmó que la hipoteca es una caución que sigue la suerte de la obligación principal, por lo que la acción hipotecaria sólo puede extinguirse junto con la obligación que garantiza. Sostuvo que la notificación de la demanda ejecutiva al deudor principal interrumpió civilmente la prescripción, cuyos efectos se mantienen durante toda la tramitación del juicio y hasta su sentencia definitiva. Dado que el proceso seguido contra el deudor personal se encontraba vigente al momento de iniciarse la acción de desposeimiento, concluyó que no podía considerarse prescrita la acción en contra del tercer poseedor. En consecuencia, revocó la sentencia de primera instancia y ordenó rechazar la excepción de prescripción, disponiendo que se siguiera adelante con la ejecución, con costas.
+
+Por tanto, en virtud de lo expuesto, disposiciones legales citadas y lo señalado en el artículo 186 y siguientes del Código de Procedimiento Civil, SE CONFIRMA la sentencia de treinta y uno de marzo de dos mil veintitrés, por la que se rechazaron las excepciones opuestas por la demandada.
+
+II. En cuanto al ingreso N° 6206-2023
+
+Vistos:
+
+Compartiendo los fundamentos del tribunal a quo, se confirma sentencia dictada el ocho de marzo de dos mil veintitrés, cuaderno de apremio, que denegó citar a una audiencia para la designación de perito tasador.
+III. En cuanto al ingreso N° 9858-2023
+
+Vistos:
+
+Compartiendo los fundamentos del tribunal a quo, se confirma sentencia dictada el veintiséis de mayo de dos mil veintitrés, cuaderno de nulidad, que rechazó el incidente de nulidad promovido por la ejecutada.
+
+IV. En cuanto al ingreso N° 11144-2023
+
+Vistos:
+
+Compartiendo los fundamentos del tribunal a quo, se confirma la resolución de veintiséis de mayo de dos mil veintitrés, que aclara y complementa la resolución de 8 de marzo, en la medida que se concede la apelación del incidente promovido por la ejecutada, en el “sólo efecto devolutivo”.
+
+V. En cuanto al ingreso N° 13.783-2024
+
+Vistos:
+
+Compartiendo los fundamentos del tribunal a quo, se confirma resolución de cinco de julio de dos mil veinticuatro, cuaderno de apremio, mediante la cual se rechaza la objeción a la liquidación del crédito deducida por la parte ejecutada.
+
+VI. En cuanto al ingreso N° 14.462-2024:
+
+Vistos:
+
+Compartiendo los fundamentos del tribunal a quo, se confirma la resolución de veintiséis de julio de dos mil veinticuatro, cuaderno de apremio, que rechazó la objeción a la liquidación del crédito.
+
+En atención a lo expresado, se deja sin efecto la orden de no innovar conferida con fecha 06 de marzo de 2025.
+
+Comuníquese lo resuelto al tribunal a quo y devuélvase la competencia.
+
+Redactó la abogada integrante señor Vásquez Palma.
+
+Rol N°s 4620-2023 (Acum. 6206-2023, 9858-2023, 11144-2023, 13.783-2024 y 14.462-2024).
+
+Pronunciada por la Primera Sala de la Corte de Apelaciones de Santiago, presidida por el ministro señor Guillermo de la Barra Dünner, e integrada, además, por la ministra señora Iara Barrios Melo y la abogada integrante señora María Fernanda Vásquez Palma.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de Santiago.Santiago, veinticuatro de noviembre de dos mil veinticinco.En autos Rol C-2097-2021, caratulados “BANCO INTERNACIONAL/WAITOMO NZ SPA”, seguida ante el 12° Juzgado Civil de Santiago, sobre juicio ejecutivo de desposeimiento hipotecario, se ha demandado a CARLOS SOTO VRANDECIC en calidad de representante de la sociedad WAITOMO NZ S.P.A.Durante el juicio se dictaron diversas resoluciones que fueron apeladas y, una vez en la Corte, se dispuso su acumulación.La vista de estas causas se llevó a cabo el 15 de octubre de 2025.I.- En cuanto al ingreso N° 4620-2023:Vistos:Se reproduce sentencia de 31 de enero de 2023, y se tiene, además, presente:Se ha presentado recurso de apelación en contra de la sentencia de 31 de enero de 2023, cuaderno principal, por la que se rechazó las excepciones opuestas por la ejecutada.Considerando:Primero: El recurrente funda su apelación en el hecho que el Banco Internacional, demandó en dos causas los mismos títulos iniciando dos acciones en forma paralela, por lo que concurrirían los presupuestos de la excepción de litis pendencia.Explica que don Carlos Soto Vrandecic, es co-demandado como aval y también emplazado como representante de la demandada deudora principal, la empresa Solignum Chile S.A. La causa se inicia ante el 2o Juzgado en lo Civil de Santiago, cuya demanda se presentó con fecha 19 de febrero del 2021, por lo que se configuraría, en su opinión, triple identidad.Agrega que la litispendencia no sólo procede frente a litigios en que existe perfecta triple identidad legal de partes, cosa pedida y causa de pedir, sino también frente a ciertos casos de litigios conexos y prejudiciales, como sería el presente caso.Segundo: En cuanto a la excepción de prescripción, sostiene que esta es de un año de acuerdo a lo dispuesto en el artículo 98 de la Ley N° 18.092, plazo que ha transcurrido en exceso y que, por tratarse de la obligación principal, provoca la prescripción de las acciones accesorias, en este caso, del cobro de la hipoteca que en la presente causa se exige. Tercero: Que, a fin de resolver el presente recurso de apelación, debemos recordar que en el presente juicio se presentó demanda ejecutiva de desposeimiento en contra de Solignun Chile SA, representada por Carlos Soto Vrandecic. Esta sociedad suscribió dos pagarés en calidad de deudora principal y su representante, Carlos Soto, los suscribió, además, como avalista, fiador y codeudor solidario. Por medio del pagaré a la orden N° 9061390, suscrito con fecha 29 de abril, se obligó a pagar a su mandante la suma ascendente a USD$442.233, de capital más el interés determinado en el documento. El pago del capital se efectuaría mediante el pago de 36 cuotas mensuales, iguales y sucesivas por la suma de a USD$12.284,25. Las cuotas de capital vencerían los días 25 de cada mes, venciendo la primera cuota el día 25 de julio de 2019, y la última el día 25 de junio de 2022. La deudora se encuentra en mora desde el día 25 de agosto de 2020, por lo que se adeuda a ese día la suma de USD$282.537,75, suma que, según lo dispuesto por el artículo 22 de la Ley N° 18.010 sobre operaciones de crédito de dinero, equivale a modo referencial al día 9 de noviembre de 2021, a $227.897.775. Por medio del pagaré a la orden N° 9122072, suscrito con fecha 27 de marzo de 2017, y de acuerdo con el cual Solignum Chile Sociedad Anónima, ya individualizada, se obligó a pagar a su mandante la suma ascendente a $51.632.771, de capital, más el interés determinado en el documento, para ser pagado a más tardar el día 8 de noviembre de 2020. La deudora se encuentra en mora desde el día 8 de noviembre de 2020, por lo que se adeuda a ese día, la suma de $51.632.771, de capital, más los intereses y reajustes que corran entre la fecha de la mora y la de su pago efectivo.A fin de garantizar al BANCO INTERNACIONAL, el cumplimiento de todas y cualquiera de las obligaciones que Solignum Chile Sociedad Anónima le adeudare, Carlos Soto Vrandecic constituyó una hipoteca de garantía general sobre el inmueble consistente en el departamento No 702 del séptimo piso, de la bodega No 9 del subterráneo y del estacionamiento subterráneo No 010, todos del denominado “Edificio Lago Riñihue”, ubicado en calle Presidente Riesco No 2955, comuna de Las Condes, inscrito en el Registro de Propiedad del Conservador de Bienes Raíces de Santiago del año 2018, a fojas 72.407, No 101.539. Luego de ello, Carlos Soto Vrandecic, mediante escritura de fecha 6 de diciembre de 2018, aportó el inmueble hipotecado a la sociedad Velaspila SpA, representada por Carlos Soto Vrandecic, y, posteriormente, la sociedad Velaspila SpA, en el mes de febrero de 2021, procedió a transferir el inmueble hipotecado, esta vez a la sociedad demandada, WAITOMO NZ SPA, según consta de la copia de inscripción de dominio que acompaña, inscribiéndose su dominio en el Registro de Propiedades del Conservador de Bienes Raíces de Santiago, del año 2021, a fojas 11.434, número 16.781.Debido a ello, en el presente juicio ejecutivo de desposeimiento se demanda a WAITOMO NZ SPA, como poseedor de la finca hipotecada, a fin de que pague las deudas antes singularizadas. Cuarto: Que la ejecutada opuso las excepciones de los números 3 y 17 del artículo 464 del Código de Procedimiento Civil, esto es, litis pendencia y prescripción.La excepción del N° 3 del artículo referido, la funda en que se encuentra en actual trámite la causa Rol N° C-1.997-2021, seguida ante el Segundo Juzgado Civil de Santiago, sobre juicio ejecutivo, iniciada por el BANCO INTERNACIONAL S. A. B. en contra de la sociedad Solignum Chile Sociedad Anónima, como suscriptora y de don Carlos Soto Vrandecic, como avalista o codeudor solidario. Los títulos invocados como ejecutivos son los mismos dos pagarés objeto de autos, donde se opone la excepción de prescripción. La excepción de prescripción, del N° 17 del artículo 464 del Código de Procedimiento Civil, la funda en que la ejecutada fue requerida de pago, o de desposeimiento, en ambos pagarés, después de transcurrido un año desde que la respectiva obligación se había hecho exigible. En el primero, tras un año y más de nueve meses; y en el segundo, tras un año y casi seis meses. Por ende, se completaron o enteraron con creces los correspondientes plazos para que operase la prescripción extintiva de los derechos y acciones del Banco ejecutante. Quinto: Que, en cuanto a la excepción de litis pendencia, esta no se configura en el presente caso, toda vez que no concurre la triple identidad requerida, conforme lo señalado en el artículo 177 del Código de Procedimiento Civil, es decir, triple identidad de partes, objeto y de causa de pedir. En concreto, no existe identidad de partes, toda vez que la parte ejecutada en el presente juicio es WAITOMO NZ SPA, persona distinta a Solignum Chile Sociedad Anónima y Carlos Soto Vrandecic. Los títulos ejecutivos son los mismos, pero tratándose de una acción dirigida en contra de un tercer poseedor del inmueble hipotecado, cabe concluir que se trata de un juicio distinto e independiente de aquél en que se reclaman los pagarés en el deudor principal y los avalistas o codeudores solidarios, por lo que procede rechazar esta primera excepción.Al efecto, se hace necesario destacar que mientras el inmueble gravado permanece en el patrimonio del deudor, la acción hipotecaria se confunde con la acción personal, pudiendo entonces el acreedor demandar en juicio ordinario o ejecutivo, según sea la calidad del título de que disponga el pago de su crédito, solicitando, en su oportunidad, el embargo de la finca gravada y su posterior subasta. Sin embargo, cuando el predio gravado se transfiere a un tercero cobra trascendencia la acción de desposeimiento, porque en contra de éste no puede el acreedor proponer una acción personal, sino sólo aquella de carácter real que tiene su origen en el mencionado derecho de persecución inherente a la hipoteca. Luego, tratándose de acciones de naturaleza diversa, la excepción de litis pendencia resulta del todo improcedente.Sexto: Que en cuanto a la excepción de prescripción, del N° 17 del artículo 464 del Código de Procedimiento Civil, esta tampoco concurre, toda vez que en la presente causa se persigue la obligación del demandado, como tercer poseedor de una finca hipotecada, la que emana de una hipoteca, es decir es una obligación accesoria a la principal, conforme lo prescribe el artículo 2434 del Código Civil. De este modo, no puede sostenerse la extinción de esta obligación accesoria, mientras subsista la principal, de acuerdo con lo expresado en el artículo 2516 del mismo cuerpo legal, que dispone: “La acción hipotecaria, y las demás que proceden de una obligación accesoria, prescriben junto con la obligación principal”.En el caso concreto, la obligación principal está constituida por dos pagarés. De acuerdo con el artículo 98 de la Ley N° 18.092, “El plazo de prescripción de las acciones cambiarias del portador contra los obligados al pago es de un año, contado desde el día del vencimiento del documento”. De esta norma se desprende que el plazo señalado de un año, desde que la obligación se hace exigible, se observa sólo respecto de los “obligados al pago”.Por su parte, el artículo 101 del citado cuerpo legal, prescribe “En los demás, la prescripción de las acciones provenientes de la letra de cambio se rige por las reglas generales del Código de Comercio”, de lo que se desprende que existe un plazo adicional referidas a otras acciones que emanan de estos títulos de créditos.Derivado de lo anterior, cabe preguntarse ¿quién es obligado al pago? En el caso de una letra de cambio o pagaré, son obligados al pago el suscriptor, avalista, girador, endosantes, de manera que el artículo 98 antes transcrito no se puede aplicar a un poseedor hipotecario que no ha suscrito el o los títulos que contienen dichas obligaciones.¿Podemos aplicar el artículo el artículo 101 de la Ley 18.092?Consideramos que tampoco es posible aplicar esta norma, desde que el desposeimiento tiene como fundamento la suscripción de una obligación hipotecaria y no una obligación cambiaria.El desposeimiento hipotecario del artículo 2432 del Código Civil y 795 del Código de Procedimiento Civil es una acción real que recae sobre un inmueble hipotecado y no sobre el deudor principal de la obligación. Su fundamento es la hipoteca misma y no el pagaré ni el contrato subyacente. El plazo de prescripción, entonces, es de 3 años, como juicio ejecutivo y 5 años como acción ordinaria.En tal sentido, el plazo de prescripción de la acción ejecutiva respecto del tenedor del bien inmueble hipotecado que se persigue a partir de la presente acción de desposeimiento prescribe, conforme a lo dispuesto en el artículo 2515 del Código Civil y 442 del Código de Procedimiento Civil, en tres años, contados desde que la obligación se haya hecho exigible, plazo que no ha transcurrido en el caso de marras, por lo que esta excepción debe ser rechazada.Séptimo: Que así también lo ha entendido la Corte Suprema (Rol N° N° 33.365-2024, de 22 de octubre de 2025), que recientemente acogió el recurso de casación respecto de una sentencia que había aplicado el plazo de 1 año al poseedor hipotecario en primera y segunda instancia. En sentencia de reemplazo, la Corte Suprema reafirmó que la hipoteca es una caución que sigue la suerte de la obligación principal, por lo que la acción hipotecaria sólo puede extinguirse junto con la obligación que garantiza. Sostuvo que la notificación de la demanda ejecutiva al deudor principal interrumpió civilmente la prescripción, cuyos efectos se mantienen durante toda la tramitación del juicio y hasta su sentencia definitiva. Dado que el proceso seguido contra el deudor personal se encontraba vigente al momento de iniciarse la acción de desposeimiento, concluyó que no podía considerarse prescrita la acción en contra del tercer poseedor. En consecuencia, revocó la sentencia de primera instancia y ordenó rechazar la excepción de prescripción, disponiendo que se siguiera adelante con la ejecución, con costas.Por tanto, en virtud de lo expuesto, disposiciones legales citadas y lo señalado en el artículo 186 y siguientes del Código de Procedimiento Civil, SE CONFIRMA la sentencia de treinta y uno de marzo de dos mil veintitrés, por la que se rechazaron las excepciones opuestas por la demandada. II. En cuanto al ingreso N° 6206-2023Vistos:Compartiendo los fundamentos del tribunal a quo, se confirma sentencia dictada el ocho de marzo de dos mil veintitrés, cuaderno de apremio, que denegó citar a una audiencia para la designación de perito tasador.III. En cuanto al ingreso N° 9858-2023Vistos: Compartiendo los fundamentos del tribunal a quo, se confirma sentencia dictada el veintiséis de mayo de dos mil veintitrés, cuaderno de nulidad, que rechazó el incidente de nulidad promovido por la ejecutada.IV. En cuanto al ingreso N° 11144-2023Vistos:Compartiendo los fundamentos del tribunal a quo, se confirma la resolución de veintiséis de mayo de dos mil veintitrés, que aclara y complementa la resolución de 8 de marzo, en la medida que se concede la apelación del incidente promovido por la ejecutada, en el “sólo efecto devolutivo”.V. En cuanto al ingreso N° 13.783-2024Vistos:Compartiendo los fundamentos del tribunal a quo, se confirma resolución de cinco de julio de dos mil veinticuatro, cuaderno de apremio, mediante la cual se rechaza la objeción a la liquidación del crédito deducida por la parte ejecutada.VI. En cuanto al ingreso N° 14.462-2024:Vistos:Compartiendo los fundamentos del tribunal a quo, se confirma la resolución de veintiséis de julio de dos mil veinticuatro, cuaderno de apremio, que rechazó la objeción a la liquidación del crédito. En atención a lo expresado, se deja sin efecto la orden de no innovar conferida con fecha 06 de marzo de 2025.Comuníquese lo resuelto al tribunal a quo y devuélvase la competencia.Redactó la abogada integrante señor Vásquez Palma.Rol N°s 4620-2023 (Acum. 6206-2023, 9858-2023, 11144-2023, 13.783-2024 y 14.462-2024).Pronunciada por la Primera Sala de la Corte de Apelaciones de Santiago, presidida por el ministro señor Guillermo de la Barra Dünner, e integrada, además, por la ministra señora Iara Barrios Melo y la abogada integrante señora María Fernanda Vásquez Palma.
