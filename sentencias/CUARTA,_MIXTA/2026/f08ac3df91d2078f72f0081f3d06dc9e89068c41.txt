@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041862
 
 rol: 8425-2026
 
-fecha_sentencia: 2026-02-25
+fecha_sentencia: 2026-02-26
 
 caratulado: MÉNDEZ AMPUERO ALBERTO AURELIO CONTRA JUZGADO DE COBRANZA LABORAL Y PREVISIONAL DE VALPARAISO
 
@@ -14,7 +14,7 @@ sala: CUARTA, MIXTA
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) CASACIÓN FONDO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 

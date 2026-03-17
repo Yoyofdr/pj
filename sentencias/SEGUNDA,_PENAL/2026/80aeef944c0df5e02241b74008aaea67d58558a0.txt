@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8042890
 
 rol: 4428-2026
 
-fecha_sentencia: 2026-02-25
+fecha_sentencia: 2026-02-26
 
 caratulado: WORLD ECONOMIC FORUM/VERDUGO
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Marcas
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) CASACIÓN FONDO
 
 resultado_recurso: RECHAZA CASACION EN EL FONDO
 

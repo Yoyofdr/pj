@@ -6,15 +6,15 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8042943
 
 rol: 58161-2025
 
-fecha_sentencia: 2026-02-25
+fecha_sentencia: 2026-02-26
 
 caratulado: FELIPE ANTONIO INOSTROZA ARANCIBIA/I. CORTE DE APELACIONES DE TEMUCO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: (CIVIL) CASACIÓN FONDO
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) CASACIÓN FONDO
 
 resultado_recurso: CONFIRMA RESOLUCIÓN APELADA
 

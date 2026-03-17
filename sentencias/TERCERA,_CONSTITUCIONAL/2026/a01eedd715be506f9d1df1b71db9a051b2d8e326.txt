@@ -4,17 +4,17 @@ case_id: a01eedd715be506f9d1df1b71db9a051b2d8e326
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041558
 
-rol: 57984-2025
+rol: 48915-2025
 
-fecha_sentencia: 2026-02-25
+fecha_sentencia: 2026-02-26
 
-caratulado: AGUAYO/TORRES
+caratulado: OYANEDER/FLORES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: ▪ Derecho a la honra, a la imagen y a la vida privada, libertad de expresión
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) CASACIÓN FONDO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA
 
