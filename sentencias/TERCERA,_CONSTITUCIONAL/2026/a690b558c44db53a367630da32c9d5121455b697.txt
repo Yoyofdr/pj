@@ -4,11 +4,11 @@ case_id: a690b558c44db53a367630da32c9d5121455b697
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062900
 
-rol: 58418-2025
+rol: 28201-2025
 
 fecha_sentencia: 2026-03-13
 
-caratulado: IVÁN MARCELO MORALES CAAMAÑO /MUNICIPALIDAD DE YUMBEL
+caratulado: CHOQUE/REMUNERACIONES POLICIA DE INVESTIGACVIONES DE CHILE
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,121 +16,655 @@ materias: (CIVIL) CASACIÓN FONDO
 
 recurso: (CIVIL) CASACIÓN FONDO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
-Santiago, trece de marzo de dos mil veintiséis.
+Santiago, trece de marzo de dos mil veinticinco.
 
-Vistos:
-Se reproduce la sentencia en alzada, con excepción de los motivos tercero a undécimo, que se eliminan.
+Vistos y teniendo presente:
+Primero: Que, de conformidad con lo dispuesto en el artículo 782 del Código de Procedimiento Civil, se ordenó dar cuenta del recurso de casación en el fondo deducido por la ejecutante en contra de la sentencia dictada por la Corte de Apelaciones de Concepción, que confirmó la de primera instancia que acogió la excepción de prescripción de la acción de cobro de cotizaciones previsionales opuesta por la demandada.
 
-Y se tiene, en su lugar, y además, presente:
-Primero: Que para resolver la presente acción constitucional se debe examinar si los hechos u omisiones denunciados en el recurso son ilegales o arbitrarios, y que ellos amenacen, priven o perturben al actor en una o más de sus garantías fundamentales.
+Segundo: Que la recurrente denuncia vulnerados los artículos 4 del Código del Trabajo, 5 N°5, 31 Bis de la Ley N°17.322, 464 N°17 del Código de Procedimiento Civil, dado que el contrato de trabajo reconoce expresamente la antigüedad laboral, pero no la continuidad de la empresa, lo que es una contradicción. No es necesario iniciar ninguna acción declarativa para que se dé cuenta de la continuidad jurídica de una empresa, pues no es lo mismo que la unidad económica. Además, se pretende alegar la prescripción respecto de las cotizaciones previsionales, afirmando que la relación laboral con la trabajadora habría concluido en 2017, en circunstancias que continuó trabajando, bajo otro Rut y razón social, pero supeditada al mismo contrato celebrado en el año 1999.
+Solicita se acoja el recurso de casación en el fondo, se invalide la sentencia recurrida y se dicte la de reemplazo que describe.
 
-Del contexto de lo ventilado en estos autos, lo impugnado corresponde a una reiteración de las alegaciones ya formuladas en sede administrativa, a través del recurso de reposición que el funcionario dedujo en contra del Decreto Alcaldicio Personal N°1274 de fecha 11 de septiembre 2025, las que cuestionan razones de mérito o de ponderación que no habrían sido consideradas por la autoridad previamente a determinar imponer la sanción de destitución, junto con la falta de competencia del órgano para fiscalizar licencias médicas.
+Tercero: Que la sentencia impugnada estableció los siguientes hechos:
+1. La resolución N°2518976, determinó que la ejecutada adeuda la suma de $1.420.900, por cotizaciones previsionales morosas de la trabajadora, doña Delicia del Carmen Araneda Garrido, correspondientes a los periodos junio, septiembre y noviembre de 2006; enero de 2007 a diciembre de 2008; enero, febrero, marzo, mayo, junio, julio, octubre y noviembre de 2010; y de enero de 2011 a agosto de 2012.
+2. Desde el 1 de agosto de 2016, la afiliada, doña Delicia del Carmen Araneda Garrido, dejó de trabajar para la ejecutada, MB Auditores Consultores Limitada, quien pagó sus cotizaciones desde el año 2012, y comenzó a trabajar para MB Auditores Ltda., desempeñando el mismo cargo de contadora y outsourcing en contabilidad, en el mismo lugar y reconociéndosele una antigüedad laboral desde el 1999, quien pagó sus cotizaciones previsionales, desde agosto de 2016 a julio de 2025, sin que haya prestado servicios para ambas empresas.
+3. Los socios de ambas empresas son los mismos y Auditores Consultores y Abogados Concepción Limitada y MB Auditores Consultores Limitada son un único empleador.
+4. Empero, no se acreditó que MB Auditores Ltda. sea la continuadora legal, según el artículo 4 del Código del Trabajo, de MB Auditores Consultores Limitada, la ejecutada.
+5. El 1 de agosto de 2016 doña Delicia Araneda dejó de prestar servicios para la demandada.
+6. La demanda se presentó el 1 de octubre de 2024.
+Sobre estos presupuestos fácticos concluyó que transcurrió con creces el plazo de cinco años para que opere la prescripción, aún interrumpida con la sola presentación de la demanda.
+Cuarto: Que, dicho lo anterior, resulta pertinente tener en consideración que sólo los tribunales del fondo se encuentran facultados para fijar los hechos de la causa, y que efectuada correctamente dicha labor, esto es, con sujeción a las denominadas normas reguladoras de la prueba atinentes al caso en estudio, resultan inalterables para esta Corte, conforme a lo previsto en el artículo 785 del Código de Procedimiento Civil, no siendo posible su revisión por la vía de la nulidad que se analiza, menos aun cuando, como en la especie, no se denuncian infringidas tales reglas.
 
-Segundo: Que cabe tener presente que el artículo 8° de la Constitución Política exige a autoridades y funcionaros públicos dar estricto cumplimiento al principio de probidad en todas sus actuaciones, debiendo, por tanto, observar una conducta funcionaria intachable y un desempeño honesto y leal de la función o cargo, con preeminencia del interés general sobre el particular, y el artículo 123 del Estatuto Administrativo para funcionarios municipales, prescribe que la medida disciplinaria de destitución procederá cuando los hechos constitutivos de la infracción vulneren gravemente el principio de probidad administrativa.
+Quinto: Que, entonces, en lo que dice relación con las alegaciones referidas en el recurso, cabe señalar que no se advierte la infracción de ley acusada, toda vez que los tribunales del fondo efectuaron una correcta aplicación de la norma jurídica pertinente al caso, por lo que no cabe sino concluir que el recurso debe ser desestimado por adolecer de manifiesta falta de fundamento.
 
-Tercero: Que, en el caso de autos, la conducta que determinó la infracción y la aplicación de la sanción, vale decir, hacer uso indebido de una licencia médica para fines particulares, consistentes en un desplazamiento al extranjero cuyo propósito no fue acreditado durante la instrucción del procedimiento administrativo, afectando con ello el debido cumplimiento de las funciones del órgano y la satisfacción de las necesidades colectivas, de manera regular y continua, constituyen elementos propios de una afectación de carácter grave a la probidad, y, por tanto, la autoridad, al aplicar la medida de destitución, actuó dentro de la esfera de sus atribuciones y en resguardo del interés general.
-
-Cuarto: Que, consta, además, que el procedimiento administrativo disciplinario fue tramitado conforme a las normas legales aplicables, con pleno respeto al derecho a defensa del recurrente, en el cual se analizaron cada uno de los argumentos en que se fundó su defensa y el recurso de reposición, sin que esta Corte pueda evidenciar que se haya producido ilegalidad o arbitrariedad alguna durante la tramitación del procedimiento sancionatorio que justifique el otorgamiento del amparo solicitado, por lo que procede desestimar la acción constitucional de protección.
-
-Por estos fundamentos y de conformidad, además, con lo dispuesto en el artículo 20 de la Constitución Política de la República y el Auto Acordado de esta Corte Suprema sobre la materia, se revoca la sentencia apelada de fecha veintitrés de diciembre de dos mil veinticinco, dictada por la Corte de Apelaciones de Concepción, y en su lugar se declara que se rechaza el recurso de protección deducido en estos autos.
+Por estas consideraciones y normas citadas, se rechaza el recurso de casación en el fondo deducido en contra de la sentencia de veintidós de enero de dos mil veintiséis.
 
 Regístrese y devuélvase.
 
-Rol Nº 58.418-2025.
+Nº7.426-2026.-
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
 C.A. de Concepción
-bpv
-Concepción, veintitrés de diciembre de dos mil veinticinco.
+DIV/rtp
+Concepción, veintidós de enero de dos mil veintiséis.
 
-VISTO:
+VISTO Y TENIENDO ADEMÁS PRESENTE:
 
-Comparece el abogado Hernán Gustavo Valdés Briones, abogado, en representación de don IVÁN MARCELO MORALES CAAMAÑO, Profesor de Educación Física, nivel 9, Planta, domiciliado en Parcela Las Juntas Sin Número, Sector Las Obras de la comuna de Yumbel e interpone recurso de protección en contra de la ILUSTRE MUNICIPALIDAD DE YUMBEL representada por don José Aurelio Sáez Vinet, para estos efectos con domicilio en calle O’Higgins número 851 de la comuna de Yumbel, por haber dictado el Decreto Exento N°1274 / 2025, que ordena su destitución y el Decreto Exento N° 1358 / 2025 que rechaza el recurso de reposición.
+Que las alegaciones vertidas en el recurso de apelación no fueron invocadas por la ejecutante al interponer su demanda ejecutiva, por lo que no fueron objeto de la discusión y decisión que se revisa, SE CONFIRMA, sin costas del recurso, la resolución apelada de tres de septiembre de dos mil veinticinco, dictada en causa RIT P-7090-2024, del ingreso del Juzgado de Cobranza Laboral y Previsional de Concepción.
+Devuélvase.
 
-Señala que el recurrente se desempeña por mas de doce años en el servicio de la educación municipal, ha recibido innumerables premios por su labor docente, siendo incluso reconocido por el Instituto Nacional de Deportes, evidenciando un expediente laboral sin anotaciones de demérito ni sanciones a lo largo de su carrera, sino que, por el contrario, sólo loas en su haber.
-
-Refiere que desde el año 2023 ha seguido diagnósticos médicos, por depresión endógena, y ha presentado varias licencias médicas, registrando un viaje de un solo día hacia la República Argentina durante ellas; sin embargo y a pesar de la legítima justificación de la ausencia y -en comparación- de su historial profesional, la Administración, en un acto que considera ilegal y arbitrario, interpretó esta salida como una falta grave al principio de probidad administrativa. Basándose únicamente en este hecho, se instruyó un sumario, sin ponderar la proporcionalidad de la sanción ni la naturaleza terapéutica del viaje, culminó con la imposición de la máxima sanción disciplinaria: la destitución. Este acto administrativo, al desconocer la competencia exclusiva de otros organismos para la fiscalización de licencias médicas, ha vulnerado gravemente los derechos y garantías constitucionales de mi representado.
-
-Agrega que el acto también es arbitrario, ya que la sanción de destitución es abiertamente desproporcionada y no pondera debidamente la trayectoria intachable de más de 12 años del recurrente ni la naturaleza económica/terapéutica de su viaje. Un castigo de tal magnitud, aplicado a un hecho que, en el peor de los casos, constituye una falta menor, no es racional. Al imponer una pena excesiva, la Administración ha vulnerado la Igualdad ante la Ley (artículo 19 N° 2 de la Constitución), al tratar con una severidad que no se justifica, apartándose del principio de proporcionalidad que rige el derecho administrativo sancionador. El proceder de la Municipalidad vulnera el Debido Proceso (artículo 19 N° 3) al sancionar en un procedimiento viciado de inicio a fin. Y, al privar al recurrente de su fuente de trabajo de manera injustificada, también vulnera su Libertad de Trabajo y su Protección (artículo 19 N° 16).
-
-Solicita dejar sin efecto la sanción de destitución aplicada por Decreto Alcaldicio Personal N°1274/2025, de fecha 11 de septiembre del 2025 y Decreto Exento N° 1358/2025 de fecha 30 de septiembre del 2025, disponiendo su absolución o una sanción administrativa proporcional. En conjunto a lo anterior, se ordene la reincorporación del funcionario y efectuar el pago de las remuneraciones no percibidas desde que se le aplica la destitución hasta su efectiva reincorporación, con costas o las medidas que estime necesarias para restablecer el imperio del derecho.
-
-Informó la recurrida Municipalidad de Yumbel, resaltando que actuó en cumplimiento de las instrucciones de la Contraloría General de la República, afirmando que se acreditó en el sumario que el recurrente mientras gozaba de una licencia médica que prescribía reposo laboral total en su domicilio en Yumbel, salió del país por un día el 8 de abril de 2023.
-
-Sostiene que los hechos investigados vulneran gravemente el principio de probidad administrativa, ya que la recurrente utilizó la licencia médica para fines distintos al terapéutico, lo que constituye un abuso y aprovechamiento indebido de un derecho laboral, desprestigiando al servicio público. La destitución (artículo 72 letra b) Ley 19.070) fue impuesta por ser la sanción legal específica a aplicar en caso de falta grave a la probidad, y el Alcalde resolvió no ejercer la potestad disciplinaria de rebajarla. Además, citó jurisprudencia administrativa (Dictamen N°53.223 de 2012, entre otros) que sostiene que cuando la ley asigna una sanción específica por falta grave a la probidad, la autoridad está en el imperativo de disponerla, sin ponderar circunstancias atenuantes.
-
-Argumenta que el recurso de protección no es la vía idónea para revisar el mérito o la legalidad de las actuaciones administrativas desarrolladas en procedimientos disciplinarios, cuando estos se han tramitado conforme a la normativa, respetando el debido proceso.
-
-Se trajeron los autos en relación.
-
-CONSIDERANDO:
-
-1°) Que para que proceda el recurso de protección se requiere que efectivamente se hayan realizado actos o incurrido en omisiones, con carácter de arbitrarios o contrarios a la ley, que priven, perturben o amenacen el debido ejercicio de un derecho del afectado que se encuentra garantizado y amparado en el artículo 20 de la Constitución Política de la República.
-
-Es claro, entonces, que la norma constitucional ampara el legítimo ejercicio de ciertos derechos y garantías cuando son amagados por actos de terceros.
-
-2°) Que, en el caso en estudio, la Ilustre Municipalidad de Yumbel siguió un sumario administrativo contra el docente Iván Marcelo Morales Caamaño por haber salido del país el día 8 de abril de 2023, con destino a Argentina, estando con licencia médica que la obligaba a reposo total en su domicilio. Dicha conducta fue calificada como una vulneración grave del principio de probidad administrativa, imponiéndosele la medida disciplinaria de destitución, conforme al artículo 72 letra b) de la Ley 19.070.
-
-3°) Que, si bien no está controvertido el hecho que motiva el sumario y la sanción, lo cierto es que a través del recurso se cuestiona la calificación de la falta como "grave" y la “proporcionalidad” de la sanción de destitución impuesta.
-
-El cuestionamiento que sustenta la arbitrariedad alegada radica en que la Municipalidad omitió considerar circunstancias atenuantes, como la irreprochable conducta anterior del funcionario, su trayectoria de 12 años de servicios, o cualquier otra circunstancia que pudiera mitigar la responsabilidad, para graduar la sanción.
-
-4°) Que, para resolver, es preciso en primer lugar que los actos administrativos, de conformidad a lo prevenido en el artículo 3 de la Ley 19.880 de Bases de los Procedimientos Administrativos, gozan de una presunción de legalidad, que puede ser derribada si se observa en su generación y/o dictación, ilegalidad, o bien, arbitrariedad traducida en falta de razonabilidad de la decisión, teniendo presente que la administración activa goza en principio de la facultad para calificar si una determinada conducta vulnera el principio de probidad administrativa así como para calificar la gravedad de la infracción.
-
-Asimismo, el Estatuto Docente, Decreto con Fuerza de Ley N°1, texto refundido, coordinado y sistematizado de la Ley 19.070, Estatuto de los Profesionales de la Educación, dispone en su artículo 72, que “los profesionales de la educación que forman parte de una dotación docente del sector municipal, dejarán de pertenecer a ella, solamente, por las siguientes causales: b) Por falta de probidad, conducta inmoral, establecidas fehacientemente en un sumario, de acuerdo al procedimiento establecido en los artículos 127 al 143 de la ley N° 18.883, en lo que fuere pertinente, considerándose las adecuaciones reglamentarias que correspondan…
-
-Tratándose de los casos establecidos en las letras b) y c) precedentes, se aplicará lo establecido en el artículo 134 de la ley N° 18.883”.
-
-A su turno, los artículos 127 al 143 de la Ley 18.883 Estatuto Administrativo para Funcionarios Municipales, se refieren a las formalidades que debe revestir un sumario administrativo y al procedimiento que debe seguir el mismo, estableciendo como obligatorio en el dictamen fiscal el siguiente contenido: “la individualización del o de los inculpados; la relación de los hechos investigados y la forma como se ha llegado a comprobarlos; la participación y grado de culpabilidad que les hubiere correspondido a los sumariados; la anotación de las circunstancias atenuantes o agravantes, y la proposición al alcalde de las sanciones que estimare procedente aplicar o de la absolución de uno o más de los inculpados”.
-
-Además, de conformidad a su artículo 120, en las medidas disciplinarias que se impongan a los funcionarios se debe tener en consideración: “la gravedad de la falta cometida y las circunstancias atenuantes o agravantes que arroje el mérito de los antecedentes, no pudiendo aplicarse la atenuante de colaboración eficaz cuando solo resultare procedente la medida disciplinaria de destitución, de conformidad a lo establecido en el artículo 123”, el que, a su vez, dispone que la medida disciplinaria de destitución procederá sólo cuando los hechos constitutivos de la infracción vulneren gravemente el principio de probidad administrativa.
-
-5°) Que la probidad administrativa está definida en la Ley 18.575 de Bases Generales de la Administración del Estado, actualmente Decreto con Fuerza de Ley N°1, que señala en su artículo 52, que el principio de la probidad administrativa consiste en observar una conducta funcionaria intachable y un desempeño honesto y leal de la función o cargo, con preeminencia del interés general sobre el particular. Su inobservancia, prescribe su inciso final, acarreará las responsabilidades y sanciones que determinen la Constitución, las leyes y el párrafo 4º del mismo Título III, esto es, artículos 61 y siguientes, sobre responsabilidad y sanciones de los funcionarios. El artículo 62 contempla un catálogo de 9 conductas que contravienen especialmente el principio de la probidad administrativa.
-
-El profesor Silva Horta, señala que la jurisprudencia de la Contraloría General de la República, ha sostenido de manera uniforme desde el Dictamen Nº 30.733 del 2.000, que las conductas descritas en el artículo 62 no son taxativas. El mencionado Dictamen indica que “Las actuaciones de un funcionario que impliquen una vulneración del referido principio de probidad son múltiples, y que el legislador no ha limitado a un número determinado las actuaciones funcionarias que vulneran el mismo, sino que, por el contrario, se ha preocupado de dejar claramente establecido cuáles conductas no pueden dejar de ser consideradas como una transgresión del referido principio”. (SILVA HORTA, Daniel. La destitución por infracción grave a la probidad administrativa en la jurisprudencia de la Contraloría General de la República. Rev. derecho (Valdivia) [online]. 2016, vol.29, n.2 [citado 2025-12-15], pp.157-173.)
-
-El mismo autor ha expuesto que en el análisis de la jurisprudencia administrativa se ha podido observar que una parte importante de los mencionados dictámenes han optado por reconocer un principio general de deferencia a la Administración activa en materia de responsabilidad administrativa señalando que es facultad discrecional de ella en la ponderación y calificación de los hechos, pero también, en otros, ha limitado tal facultad indicando que puede objetar la decisión si se vulnera la garantía constitucional del debido proceso, las normas legales o reglamentarias que regulen la materia, o bien si se observa alguna arbitrariedad.
-
-6°) Que, la medida de destitución es la sanción más drástica que contempla el Estatuto Administrativo para aquel funcionario que incurre en responsabilidad administrativa. Sus consecuencias son trascendentales, puesto que no sólo implica el cese de funciones, sino que además, su inhabilitación por 5 años para ingresar nuevamente en algún cargo en la Administración del Estado.
-
-Pues bien, de conformidad con el artículo 125 del Estatuto Administrativo, la medida de destitución procede “cuando los hechos constitutivos de la infracción vulneren gravemente el principio de probidad administrativa…”. Sin embargo, no ha sido establecido cuáles serían los parámetros que deberían ser considerados para determinar dicha gravedad.
-
-Sobre el particular, el citado autor indica que “la gran cantidad de conductas que se han reconocido como infracciones graves a la probidad administrativa parecieran dar a entender que el concepto de infracción grave a la probidad administrativa es un concepto jurídico indeterminado, lo que implica que será la Administración activa, la Contraloría, o en su defecto el Juez, el llamado a precisar si una determinada conducta se encuentra incluida en dicho concepto” y más adelante concluye tras analizar algunos dictámenes y jurisprudencia administrativa “que no es certera la jurisprudencia administrativa en cuanto a los elementos que deben estar presentes para que un hecho pueda ser calificado como una infracción grave al principio de probidad administrativa, sino que todo lo contrario, se observan importantes contradicciones en la misma, al analizar los distintos casos en que se ha pronunciado”.
-
-7°) Que, en esta materia es preciso igualmente considerar que la Excma. Corte Suprema ha determinado en diversos fallos que “el control judicial de las facultades disciplinarias de los órganos de la Administración del Estado abarca la revisión de la legalidad de la decisión adoptada, más no el mérito de la misma, cuestión que por su propia naturaleza y en función del reparto de competencia fijado por la Carta Fundamental, corresponde a la Administración Activa. Siendo ello así, el examen de legalidad comprende analizar la razonabilidad de la medida adoptada y si se ha cumplido el principio de proporcionalidad. El control judicial adquiere relevancia si se tiene en cuenta que el ilícito disciplinario además de principios de tanta relevancia como la reserva legal o la tipicidad, ceden ante la regulación legislativa de ilícitos configurados en la forma de tipos abiertos, indeterminados y, en ocasiones, en blanco” (Rol 18.823-2019 Protección).
-
-8°) Que, en estas condiciones, no hay discusión en cuanto que el funcionario sumariado incurrió en falta al utilizar el permiso de reposo para restablecer su salud psíquica, para salir fuera del país, sin que hubiera justificado los fines terapéuticos de su viaje; lo que se puede considerar tal suceso como infracción a la normativa contenida en el decreto Nº3 de 1984 del Ministerio de Salud que Aprueba el Reglamento de Autorización de Licencias Médicas por las COMPIN e Instituciones de Salud Previsional, puntualmente el artículo 55 letra a), en lo tocante al incumplimiento del reposo indicado en la licencia.
-
-Asimismo, la acción ejecutada por el funcionario, constituye una vulneración al principio de la probidad administrativa, de conformidad con el inciso segundo del artículo 52 de Ley 18.575, ya comentado.
-
-9°) Que, sin embargo y a la luz de lo expuesto, corresponde calificar la gravedad de la imputación realizada al recurrente y su mérito para aplicar tan trascendente y letal medida, como la destitución.
-
-De hecho, aún cuando esta Corte considere que la conducta vulnera la probidad administrativa, esa sola circunstancia no determina, necesariamente, la aplicación automática de la medida disciplinaria de destitución, toda vez que la autoridad administrativa debe ponderar la gravedad de la conducta, la existencia de otros factores que mitiguen o excluyan la responsabilidad, de manera tal que de ser así, ella se encontrará en el imperativo de aplicar una sanción proporcional a la falta cometida y a sus circunstancias concomitantes.
-
-Sobre la materia, el máximo tribunal ha señalado que la proporcionalidad “apunta a la congruencia entre la entidad del daño provocado por la infracción y el castigo a imponer” (Rol 18.823-2019; Rol 5830-2009).
-
-10°) Que, en cuanto a la proporcionalidad, es preciso considerar que si bien la infracción atribuida amerita su corrección disciplinaria, no es de una entidad suficiente como para justificar la sanción más gravosa del ordenamiento jurídico, para un funcionario público, habida cuenta de 12 años de labor funcionaria sin cuestionamiento, reproche o sanción, de manera tal que hasta esta investigación, su conducta ha sido intachable, unido a la circunstancia de haber abandonado el país, sólo en una oportunidad y por un día de licencia médica.
-
-De hecho, habría incluso que considerar que la propia Superintendencia de Seguridad Social ha resuelto que, en el caso de licencias médicas otorgadas por patologías psiquiátricas, resulta conveniente de que el trabajador salga de su casa y realice actividades de carácter recreativo, con el objeto de propender al pronto restablecimiento de su dolencia. Ahora bien, respecto de los viajes al extranjero, no existía claridad respecto de su posibilidad bajo este tipo de licencia médica, lo que vino sólo a ser aclarado por Resolución Exenta N° R-01-S-127271-2025, de fecha 14 de septiembre de 2025, de la SUSESO, emitida con posterioridad a los hechos en que se funda el sumario.
-
-Por otra parte, el respeto al principio de proporcionalidad impide aplicar la sanción de destitución, pues ello importaría una violación a dicho principio, debiendo aplicarse una sanción que se ajuste más a la gravedad de los cargos que se les imputan y que se ajuste a lo dispuesto en el artículo 120 de la Ley N°18.883. (Así también lo ha resuelto la Corte Suprema en sentencia Rol 79613-2020).
-
-11°) Que, de esta manera, la medida de destitución impuesta aparece como un acto arbitrario, que vulnera la igualdad ante la ley, garantizada en el artículo 19 N°2 de la Constitución Política de la República, en relación con otras personas que en situación similar o incluso superior, son sancionadas con medidas disciplinarias menos gravosas.
-
-Asimismo, significa una privación de su derecho de propiedad sobre la función que desempeñaba la afectada, en cuanto bien incorporal conforme al artículo 583 del Código Civil, y también respecto de sus remuneraciones que obtenía en el ejercicio del cargo para el que había sido nombrado.
-
-Por estas consideraciones, disposiciones legales citadas y lo dispuesto en el artículo 19 de la Constitución Política de la República y Auto Acordado de la Excma. Corte Suprema sobre la materia, SE ACOGE el recurso de protección deducido a favor de don IVÁN MARCELO MORALES CAAMAÑO, en contra de la Ilustre Municipalidad de Yumbel, sólo en cuanto se deja sin efecto la sanción de Destitución que le fuese aplicada por el acto administrativo terminal contenido Decreto Exento N°1274 / 2025 y el rechazo de la reposición contenida en el Decreto Exento N° 1358/2025, retrotrayéndose el sumario administrativo seguido en contra del recurrente, al estado de emitirse un nuevo dictamen fiscal con estricto apego a lo prevenido en el artículo 137 del Estatuto de los Funcionarios Municipales y, en su mérito, se adopte la decisión final del mismo por la autoridad municipal no inhabilitada que corresponda, respetando los conceptos de gravedad y proporcionalidad expuestos en esta sentencia.
-
-Regístrese, comuníquese y archívese en su oportunidad.
-
-Redacto la ministra Carola Rivas Vargas.
-N°Protección-4921-2025.
+N°Laboral - Cobranza-752-2025.
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------
-C.A. de ConcepciónbpvConcepción, veintitrés de diciembre de dos mil veinticinco.VISTO:Comparece el abogado Hernán Gustavo Valdés Briones, abogado, en representación de don IVÁN MARCELO MORALES CAAMAÑO, Profesor de Educación Física, nivel 9, Planta, domiciliado en Parcela Las Juntas Sin Número, Sector Las Obras de la comuna de Yumbel e interpone recurso de protección en contra de la ILUSTRE MUNICIPALIDAD DE YUMBEL representada por don José Aurelio Sáez Vinet, para estos efectos con domicilio en calle O’Higgins número 851 de la comuna de Yumbel, por haber dictado el Decreto Exento N°1274 / 2025, que ordena su destitución y el Decreto Exento N° 1358 / 2025 que rechaza el recurso de reposición.Señala que el recurrente se desempeña por mas de doce años en el servicio de la educación municipal, ha recibido innumerables premios por su labor docente, siendo incluso reconocido por el Instituto Nacional de Deportes, evidenciando un expediente laboral sin anotaciones de demérito ni sanciones a lo largo de su carrera, sino que, por el contrario, sólo loas en su haber.Refiere que desde el año 2023 ha seguido diagnósticos médicos, por depresión endógena, y ha presentado varias licencias médicas, registrando un viaje de un solo día hacia la República Argentina durante ellas; sin embargo y a pesar de la legítima justificación de la ausencia y -en comparación- de su historial profesional, la Administración, en un acto que considera ilegal y arbitrario, interpretó esta salida como una falta grave al principio de probidad administrativa. Basándose únicamente en este hecho, se instruyó un sumario, sin ponderar la proporcionalidad de la sanción ni la naturaleza terapéutica del viaje, culminó con la imposición de la máxima sanción disciplinaria: la destitución. Este acto administrativo, al desconocer la competencia exclusiva de otros organismos para la fiscalización de licencias médicas, ha vulnerado gravemente los derechos y garantías constitucionales de mi representado.Agrega que el acto también es arbitrario, ya que la sanción de destitución es abiertamente desproporcionada y no pondera debidamente la trayectoria intachable de más de 12 años del recurrente ni la naturaleza económica/terapéutica de su viaje. Un castigo de tal magnitud, aplicado a un hecho que, en el peor de los casos, constituye una falta menor, no es racional. Al imponer una pena excesiva, la Administración ha vulnerado la Igualdad ante la Ley (artículo 19 N° 2 de la Constitución), al tratar con una severidad que no se justifica, apartándose del principio de proporcionalidad que rige el derecho administrativo sancionador. El proceder de la Municipalidad vulnera el Debido Proceso (artículo 19 N° 3) al sancionar en un procedimiento viciado de inicio a fin. Y, al privar al recurrente de su fuente de trabajo de manera injustificada, también vulnera su Libertad de Trabajo y su Protección (artículo 19 N° 16). Solicita dejar sin efecto la sanción de destitución aplicada por Decreto Alcaldicio Personal N°1274/2025, de fecha 11 de septiembre del 2025 y Decreto Exento N° 1358/2025 de fecha 30 de septiembre del 2025, disponiendo su absolución o una sanción administrativa proporcional. En conjunto a lo anterior, se ordene la reincorporación del funcionario y efectuar el pago de las remuneraciones no percibidas desde que se le aplica la destitución hasta su efectiva reincorporación, con costas o las medidas que estime necesarias para restablecer el imperio del derecho.Informó la recurrida Municipalidad de Yumbel, resaltando que actuó en cumplimiento de las instrucciones de la Contraloría General de la República, afirmando que se acreditó en el sumario que el recurrente mientras gozaba de una licencia médica que prescribía reposo laboral total en su domicilio en Yumbel, salió del país por un día el 8 de abril de 2023.Sostiene que los hechos investigados vulneran gravemente el principio de probidad administrativa, ya que la recurrente utilizó la licencia médica para fines distintos al terapéutico, lo que constituye un abuso y aprovechamiento indebido de un derecho laboral, desprestigiando al servicio público. La destitución (artículo 72 letra b) Ley 19.070) fue impuesta por ser la sanción legal específica a aplicar en caso de falta grave a la probidad, y el Alcalde resolvió no ejercer la potestad disciplinaria de rebajarla. Además, citó jurisprudencia administrativa (Dictamen N°53.223 de 2012, entre otros) que sostiene que cuando la ley asigna una sanción específica por falta grave a la probidad, la autoridad está en el imperativo de disponerla, sin ponderar circunstancias atenuantes.Argumenta que el recurso de protección no es la vía idónea para revisar el mérito o la legalidad de las actuaciones administrativas desarrolladas en procedimientos disciplinarios, cuando estos se han tramitado conforme a la normativa, respetando el debido proceso.Se trajeron los autos en relación.CONSIDERANDO:1°) Que para que proceda el recurso de protección se requiere que efectivamente se hayan realizado actos o incurrido en omisiones, con carácter de arbitrarios o contrarios a la ley, que priven, perturben o amenacen el debido ejercicio de un derecho del afectado que se encuentra garantizado y amparado en el artículo 20 de la Constitución Política de la República.Es claro, entonces, que la norma constitucional ampara el legítimo ejercicio de ciertos derechos y garantías cuando son amagados por actos de terceros.2°) Que, en el caso en estudio, la Ilustre Municipalidad de Yumbel siguió un sumario administrativo contra el docente Iván Marcelo Morales Caamaño por haber salido del país el día 8 de abril de 2023, con destino a Argentina, estando con licencia médica que la obligaba a reposo total en su domicilio. Dicha conducta fue calificada como una vulneración grave del principio de probidad administrativa, imponiéndosele la medida disciplinaria de destitución, conforme al artículo 72 letra b) de la Ley 19.070.3°) Que, si bien no está controvertido el hecho que motiva el sumario y la sanción, lo cierto es que a través del recurso se cuestiona la calificación de la falta como "grave" y la “proporcionalidad” de la sanción de destitución impuesta.El cuestionamiento que sustenta la arbitrariedad alegada radica en que la Municipalidad omitió considerar circunstancias atenuantes, como la irreprochable conducta anterior del funcionario, su trayectoria de 12 años de servicios, o cualquier otra circunstancia que pudiera mitigar la responsabilidad, para graduar la sanción. 4°) Que, para resolver, es preciso en primer lugar que los actos administrativos, de conformidad a lo prevenido en el artículo 3 de la Ley 19.880 de Bases de los Procedimientos Administrativos, gozan de una presunción de legalidad, que puede ser derribada si se observa en su generación y/o dictación, ilegalidad, o bien, arbitrariedad traducida en falta de razonabilidad de la decisión, teniendo presente que la administración activa goza en principio de la facultad para calificar si una determinada conducta vulnera el principio de probidad administrativa así como para calificar la gravedad de la infracción.Asimismo, el Estatuto Docente, Decreto con Fuerza de Ley N°1, texto refundido, coordinado y sistematizado de la Ley 19.070, Estatuto de los Profesionales de la Educación, dispone en su artículo 72, que “los profesionales de la educación que forman parte de una dotación docente del sector municipal, dejarán de pertenecer a ella, solamente, por las siguientes causales: b) Por falta de probidad, conducta inmoral, establecidas fehacientemente en un sumario, de acuerdo al procedimiento establecido en los artículos 127 al 143 de la ley N° 18.883, en lo que fuere pertinente, considerándose las adecuaciones reglamentarias que correspondan…Tratándose de los casos establecidos en las letras b) y c) precedentes, se aplicará lo establecido en el artículo 134 de la ley N° 18.883”.A su turno, los artículos 127 al 143 de la Ley 18.883 Estatuto Administrativo para Funcionarios Municipales, se refieren a las formalidades que debe revestir un sumario administrativo y al procedimiento que debe seguir el mismo, estableciendo como obligatorio en el dictamen fiscal el siguiente contenido: “la individualización del o de los inculpados; la relación de los hechos investigados y la forma como se ha llegado a comprobarlos; la participación y grado de culpabilidad que les hubiere correspondido a los sumariados; la anotación de las circunstancias atenuantes o agravantes, y la proposición al alcalde de las sanciones que estimare procedente aplicar o de la absolución de uno o más de los inculpados”.Además, de conformidad a su artículo 120, en las medidas disciplinarias que se impongan a los funcionarios se debe tener en consideración: “la gravedad de la falta cometida y las circunstancias atenuantes o agravantes que arroje el mérito de los antecedentes, no pudiendo aplicarse la atenuante de colaboración eficaz cuando solo resultare procedente la medida disciplinaria de destitución, de conformidad a lo establecido en el artículo 123”, el que, a su vez, dispone que la medida disciplinaria de destitución procederá sólo cuando los hechos constitutivos de la infracción vulneren gravemente el principio de probidad administrativa.5°) Que la probidad administrativa está definida en la Ley 18.575 de Bases Generales de la Administración del Estado, actualmente Decreto con Fuerza de Ley N°1, que señala en su artículo 52, que el principio de la probidad administrativa consiste en observar una conducta funcionaria intachable y un desempeño honesto y leal de la función o cargo, con preeminencia del interés general sobre el particular. Su inobservancia, prescribe su inciso final, acarreará las responsabilidades y sanciones que determinen la Constitución, las leyes y el párrafo 4º del mismo Título III, esto es, artículos 61 y siguientes, sobre responsabilidad y sanciones de los funcionarios. El artículo 62 contempla un catálogo de 9 conductas que contravienen especialmente el principio de la probidad administrativa.El profesor Silva Horta, señala que la jurisprudencia de la Contraloría General de la República, ha sostenido de manera uniforme desde el Dictamen Nº 30.733 del 2.000, que las conductas descritas en el artículo 62 no son taxativas. El mencionado Dictamen indica que “Las actuaciones de un funcionario que impliquen una vulneración del referido principio de probidad son múltiples, y que el legislador no ha limitado a un número determinado las actuaciones funcionarias que vulneran el mismo, sino que, por el contrario, se ha preocupado de dejar claramente establecido cuáles conductas no pueden dejar de ser consideradas como una transgresión del referido principio”. (SILVA HORTA, Daniel. La destitución por infracción grave a la probidad administrativa en la jurisprudencia de la Contraloría General de la República. Rev. derecho (Valdivia) [online]. 2016, vol.29, n.2 [citado  2025-12-15], pp.157-173.)El mismo autor ha expuesto que en el análisis de la jurisprudencia administrativa se ha podido observar que una parte importante de los mencionados dictámenes han optado por reconocer un principio general de deferencia a la Administración activa en materia de responsabilidad administrativa señalando que es facultad discrecional de ella en la ponderación y calificación de los hechos, pero también, en otros, ha limitado tal facultad indicando que puede objetar la decisión si se vulnera la garantía constitucional del debido proceso, las normas legales o reglamentarias que regulen la materia, o bien si se observa alguna arbitrariedad.6°) Que, la medida de destitución es la sanción más drástica que contempla el Estatuto Administrativo para aquel funcionario que incurre en responsabilidad administrativa. Sus consecuencias son trascendentales, puesto que no sólo implica el cese de funciones, sino que además, su inhabilitación por 5 años para ingresar nuevamente en algún cargo en la Administración del Estado.Pues bien, de conformidad con el artículo 125 del Estatuto Administrativo, la medida de destitución procede “cuando los hechos constitutivos de la infracción vulneren gravemente el principio de probidad administrativa…”. Sin embargo, no ha sido establecido cuáles serían los parámetros que deberían ser considerados para determinar dicha gravedad.Sobre el particular, el citado autor indica que “la gran cantidad de conductas que se han reconocido como infracciones graves a la probidad administrativa parecieran dar a entender que el concepto de infracción grave a la probidad administrativa es un concepto jurídico indeterminado, lo que implica que será la Administración activa, la Contraloría, o en su defecto el Juez, el llamado a precisar si una determinada conducta se encuentra incluida en dicho concepto” y más adelante concluye tras analizar algunos dictámenes y jurisprudencia administrativa “que no es certera la jurisprudencia administrativa en cuanto a los elementos que deben estar presentes para que un hecho pueda ser calificado como una infracción grave al principio de probidad administrativa, sino que todo lo contrario, se observan importantes contradicciones en la misma, al analizar los distintos casos en que se ha pronunciado”.7°) Que, en esta materia es preciso igualmente considerar que la Excma. Corte Suprema ha determinado en diversos fallos que “el control judicial de las facultades disciplinarias de los órganos de la Administración del Estado abarca la revisión de la legalidad de la decisión adoptada, más no el mérito de la misma, cuestión que por su propia naturaleza y en función del reparto de competencia fijado por la Carta Fundamental, corresponde a la Administración Activa. Siendo ello así, el examen de legalidad comprende analizar la razonabilidad de la medida adoptada y si se ha cumplido el principio de proporcionalidad. El control judicial adquiere relevancia si se tiene en cuenta que el ilícito disciplinario además de principios de tanta relevancia como la reserva legal o la tipicidad, ceden ante la regulación legislativa de ilícitos configurados en la forma de tipos abiertos, indeterminados y, en ocasiones, en blanco” (Rol 18.823-2019 Protección).8°) Que, en estas condiciones, no hay discusión en cuanto que el funcionario sumariado incurrió en falta al utilizar el permiso de reposo para restablecer su salud psíquica, para salir fuera del país, sin que hubiera justificado los fines terapéuticos de su viaje; lo que se puede considerar tal suceso como infracción a la normativa contenida en el decreto Nº3 de 1984 del Ministerio de Salud que Aprueba el Reglamento de Autorización de Licencias Médicas por las COMPIN e Instituciones de Salud Previsional, puntualmente el artículo 55 letra a), en lo tocante al incumplimiento del reposo indicado en la licencia. Asimismo, la acción ejecutada por el funcionario, constituye una vulneración al principio de la probidad administrativa, de conformidad con el inciso segundo del artículo 52 de Ley 18.575, ya comentado.9°) Que, sin embargo y a la luz de lo expuesto, corresponde calificar la gravedad de la imputación realizada al recurrente y su mérito para aplicar tan trascendente y letal medida, como la destitución. De hecho, aún cuando esta Corte considere que la conducta vulnera la probidad administrativa, esa sola circunstancia no determina, necesariamente, la aplicación automática de la medida disciplinaria de destitución, toda vez que la autoridad administrativa debe ponderar la gravedad de la conducta, la existencia de otros factores que mitiguen o excluyan la responsabilidad, de manera tal que de ser así, ella se encontrará en el imperativo de aplicar una sanción proporcional a la falta cometida y a sus circunstancias concomitantes. Sobre la materia, el máximo tribunal ha señalado que la proporcionalidad “apunta a la congruencia entre la entidad del daño provocado por la infracción y el castigo a imponer” (Rol 18.823-2019; Rol 5830-2009).10°) Que, en cuanto a la proporcionalidad, es preciso considerar que si bien la infracción atribuida amerita su corrección disciplinaria, no es de una entidad suficiente como para justificar la sanción más gravosa del ordenamiento jurídico, para un funcionario público, habida cuenta de 12 años de labor funcionaria sin cuestionamiento, reproche o sanción, de manera tal que hasta esta investigación, su conducta ha sido intachable, unido a la circunstancia de haber abandonado el país, sólo en una oportunidad y por un día de licencia médica. De hecho, habría incluso que considerar que la propia Superintendencia de Seguridad Social ha resuelto que, en el caso de licencias médicas otorgadas por patologías psiquiátricas, resulta conveniente de que el trabajador salga de su casa y realice actividades de carácter recreativo, con el objeto de propender al pronto restablecimiento de su dolencia. Ahora bien, respecto de los viajes al extranjero, no existía claridad respecto de su posibilidad bajo este tipo de licencia médica, lo que vino sólo a ser aclarado por Resolución Exenta N° R-01-S-127271-2025, de fecha 14 de septiembre de 2025, de la SUSESO, emitida con posterioridad a los hechos en que se funda el sumario.Por otra parte, el respeto al principio de proporcionalidad impide aplicar la sanción de destitución, pues ello importaría una violación a dicho principio, debiendo aplicarse una sanción que se ajuste más a la gravedad de los cargos que se les imputan y que se ajuste a lo dispuesto en el artículo 120 de la Ley N°18.883. (Así también lo ha resuelto la Corte Suprema en sentencia Rol 79613-2020).11°) Que, de esta manera, la medida de destitución impuesta aparece como un acto arbitrario, que vulnera la igualdad ante la ley, garantizada en el artículo 19 N°2 de la Constitución Política de la República, en relación con otras personas que en situación similar o incluso superior, son sancionadas con medidas disciplinarias menos gravosas.Asimismo, significa una privación de su derecho de propiedad sobre la función que desempeñaba la afectada, en cuanto bien incorporal conforme al artículo 583 del Código Civil, y también respecto de sus remuneraciones que obtenía en el ejercicio del cargo para el que había sido nombrado.Por estas consideraciones, disposiciones legales citadas y lo dispuesto en el artículo 19 de la Constitución Política de la República y Auto Acordado de la Excma. Corte Suprema sobre la materia, SE ACOGE el recurso de protección deducido a favor de don IVÁN MARCELO MORALES CAAMAÑO, en contra de la Ilustre Municipalidad de Yumbel, sólo en cuanto se deja sin efecto la sanción de Destitución que le fuese aplicada por el acto administrativo terminal contenido Decreto Exento N°1274 / 2025 y el rechazo de la reposición contenida en el Decreto Exento N° 1358/2025,  retrotrayéndose el sumario administrativo seguido en contra del recurrente, al estado de emitirse un nuevo dictamen fiscal con estricto apego a lo prevenido en el artículo 137 del Estatuto de los Funcionarios Municipales y, en su mérito, se adopte la decisión final del mismo por la autoridad municipal no inhabilitada que corresponda, respetando los conceptos de gravedad y proporcionalidad expuestos en esta sentencia.Regístrese, comuníquese y archívese en su oportunidad.Redacto la ministra Carola Rivas Vargas.N°Protección-4921-2025.
+JUZGADO DE COBRANZA LABORAL
+
+Y PREVISIONAL DE CONCEPCION
+
+PODER JUDICIAL
+
+CHILE
+
+Concepción, tres de septiembre de dos mil veinticinco.
+
+VISTOS Y TENIENDO PRESENTE:
+
+Con fecha 1 de octubre de 2024, comparece el abogado Antonio Álamos Avendaño,
+
+en representación de la ADMINISTRADORA DE FONDOS DE PENSIONES
+
+HABITAT, Entidad de Previsión Social, ambos domiciliados en San Martín 880 OF. 208-B,
+
+Concepción, quien viene en interponer demanda ejecutiva en contra del empleador MB
+
+AUDITORES CONSULTORES LTDA., representado por Orlando Anselmo Marambio
+
+Vinagre, ignora profesión, con domicilio en San Martín 553, Concepción.
+
+Funda su demanda en la resolución Nro. 2518976, dictada en uso de la facultad que le
+
+confiere el artículo 19 del Decreto Ley 3.500 de 1980, en relación con el artículo 2 de la Ley
+
+17.322, la que ha establecido que la ejecutada le adeuda y debe pagar, la suma de $
+
+1.420.900, por cotizaciones previsionales morosas de los trabajadores individualizados en
+
+ella, correspondientes a los periodos junio, septiembre y noviembre de 2006; enero de 2007 a
+
+diciembre de 2008; enero, febrero, marzo, mayo, junio, julio, octubre y noviembre de 2010; y
+
+de enero de 2011 a agosto de 2012.
+
+Señala que la resolución tiene mérito ejecutivo, que la deuda es líquida, actualmente
+
+exigible la obligación, y que la acción no se encuentra prescrita.
+
+Solicita tener por interpuesta demanda ejecutiva y se ordene despachar mandamiento
+
+de ejecución y embargo en su contra, por la suma de $1.420.900, más reajustes, intereses,
+
+recargos y costas,  disponiendo se siga adelante la ejecución hasta el íntegro pago de lo
+
+adeudado, todo con costas.
+
+Con fecha 1 de octubre de 2024, se despachó mandamiento de ejecución y
+
+embargo en contra de la demandada ejecutiva, por la suma señalada, notificándose a la
+
+ejecutada de forma personal subsidiaria el día 22 de julio del año en curso, siendo
+
+requerida de pago en rebeldía al día siguiente.
+
+Con fecha 28 de julio de 2025, la ejecutada opuso a la ejecución la excepción del
+
+numeral 17 del artículo 464 del Código de Procedimiento Civil, en relación con el artículo 5
+
+Nro. 5 de la Ley 17.322, esto es, la prescripción de la acción ejecutiva.
+
+Funda la excepción en que Delicia del Carmen Araneda Garrido, dejó de trabajar para
+
+MB Auditores Consultores Limitadas el día 1 de septiembre del año 2017 y comenzó a
+
+trabajar en MB Auditores Limitada, lo que consta en contrato de trabajo que firmó doña
+
+Delicia con su actual empleador MB Auditores Limitada. Refiere que en dicho contrato se
+
+explicita que se compromete a ejecutar el trabajo de contadora y outsourcing en contabilidad,
+
+también se estipula que su jornada laboral se desarrollará de lunes a viernes, en horario de
+
+_____________________________________________________________________________________________________
+
+Avda. Libertador Bernardo O’higgins 241 piso 11 oficina 1122, Concepción
+Teléfonos 412697624 – 412697628- 412697629- 412697630
+
+jcobconcepcion@pjud.cl
+
+Código: JUJPBBXXKXX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+mailto:jcobconcepcion@pjud.cl
+
+JUZGADO DE COBRANZA LABORAL
+
+Y PREVISIONAL DE CONCEPCION
+
+PODER JUDICIAL
+
+CHILE
+
+09:00 a 13:00 horas por la mañana, y de 14:00 a 18:30 horas por la tarde. Lo anterior se
+
+corrobora, además, con el certificado de cotizaciones previsionales emitido por su actual
+
+empleador.
+
+Explica, seguidamente, que las empresas MB Auditores Consultores Limitadas y la
+
+empresa MB Auditores Limitadas son dos sociedades completamente distintas. Explayándose
+
+sobre la génesis de ambas y sus modificaciones, refiere que la sociedad “Andrea Caro y
+
+Compañía Limitada” fue constituida con fecha 27 de octubre de 1999 mediante escritura
+
+pública otorgada ante el notario don José Gerardo Bambach Echazarreta, bajo el repertorio
+
+N° 2.933 y fue inscrita en el Registro de Comercio de Concepción a fojas 1460 vuelta
+
+número 1082 del año 1999. Posteriormente, fue modificada por escritura pública de fecha 17
+
+de septiembre de 2009, otorgada ante el notario don Ramón García Carrasco, bajo el
+
+repertorio N° 8.263, cambiando su razón social a “MB Auditores Consultores Limitada”, la
+
+que fue inscrita en el Registro de Comercio con fecha 22 de septiembre de 2009, a fojas
+
+1.585 vuelta, número 1.597.
+
+En cambio, la empresa “MB Auditores Limitada”, actual empleadora de doña Delicia,
+
+fue constituida mediante escritura pública de fecha 25 de septiembre del año 2015 ante el
+
+notario público titular Camilo Valenzuela bajo el número de repertorio 3696 y fue inscrita en
+
+el Registro de Comercio de Santiago con fecha 30 de septiembre del mismo año a fojas
+
+73.210 número 42834.
+
+Por lo anterior, sostiene que el plazo de prescripción de la acción de cobro de cinco
+
+años comenzó a computarse el día 1 de septiembre de 2017, completándose el día 1 de
+
+septiembre del año 2022. En consecuencia, al 1 de octubre del año 2024- fecha de la
+
+interposición de esta demanda – la acción de cobro se encontraba prescrita respecto de las
+
+cotizaciones previsionales que la demandante asegura que su parte adeuda a Delicia del
+
+Carmen Araneda Garrido.
+
+Solicita, en definitiva, declarar que la acción de cobro se encuentra prescrita,
+
+desestimando la ejecución de autos, en todas sus partes, con expresa condenación en costas.
+
+Conferido traslado de la excepción a la ejecutante, la parte lo evacuó con fecha 7 de
+
+agosto de 2025 y solicitó su rechazo, con costas.
+
+Afinca su solicitud en la ausencia de seriedad de la excepción opuesta, al no exponer
+
+las fechas exactas en que se habría producido la supuesta prescripción. Ello en el entendido
+
+que los plazos se entienden interrumpidos desde que se presenta la demanda, de conformidad
+
+a lo dispuesto en el artículo 18 de la Ley Nro. 17.322, por lo cual, en autos, dicho plazo se
+
+entendería interrumpido con fecha 1 de octubre de 2024. Cita jurisprudencia en abono de su
+
+tesis, asilándose en la legislación común, en específico, en el artículo 2518 Nº 3 del Código
+
+_____________________________________________________________________________________________________
+
+Avda. Libertador Bernardo O’higgins 241 piso 11 oficina 1122, Concepción
+Teléfonos 412697624 – 412697628- 412697629- 412697630
+
+jcobconcepcion@pjud.cl
+
+Código: JUJPBBXXKXX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+mailto:jcobconcepcion@pjud.cl
+
+JUZGADO DE COBRANZA LABORAL
+
+Y PREVISIONAL DE CONCEPCION
+
+PODER JUDICIAL
+
+CHILE
+
+Civil, pues a su juicio, la interrupción de la prescripción consiste en el ejercicio ante los
+
+tribunales, más allá de la fecha de notificación (acto que da inicio a la controversia judicial),
+
+porque la sola interposición de la demanda constituirá un elemento de prueba suficientemente
+
+capaz de destruir la presunción de abandono u olvido del derecho que al actor la institución le
+
+supone, desde el ingreso a distribución. Sostiene que otra interpretación llevaría a perjudicar
+
+al acreedor perseverantemente y a premiar al deudor que, en algunos casos, elude con
+
+artificios la notificación de la demanda.
+
+Con fecha 11 de agosto de 2025, se declaró admisible la excepción opuesta y se
+
+recibió la causa a prueba, lo que permitió la rendición de la prueba que obra en autos.
+
+Con esta fecha, se decretó medida para mejor resolver, la que fue cumplida, citándose
+
+a las partes a oír sentencia.
+
+CONSIDERANDO:
+
+PRIMERO: La parte ejecutante solicita el pago de las cotizaciones previsionales
+
+adeudadas por la ejecutada, fundada en la Resolución Nro. 2518976, según da cuenta la parte
+
+expositiva.
+
+SEGUNDO: La demandada ejecutiva se opone a la ejecución mediante la excepción
+
+de prescripción de la acción de cobro, conforme se ha referido en lo expositivo.
+
+TERCERO: Conferido traslado a la parte ejecutante, lo evacuó solicitando su
+
+rechazo, por cuanto, a su juicio, la sola interposición de la demanda interrumpió la
+
+prescripción, sin que, por lo demás, la ejecutada haya expuesto la fecha en que ésta se
+
+produjo.
+
+CUARTO: Con fecha 11 de agosto de 2025, fue declarada admisible la excepción
+
+opuesta, y se recibió la causa a prueba, fijándose como hecho sustancial, pertinente y
+
+controvertido el siguiente: “Efectividad de encontrarse prescrita la acción ejecutiva para el
+
+cobro de las cotizaciones adeudadas respecto de DELICIA DEL CARMEN ARANEDA
+
+GARRIDO, cédula de identidad N° 13.619.964-1. Fecha y circunstancias que lo acrediten.”
+
+QUINTO: En orden a acreditar sus aseveraciones, la parte ejecutada acompañó bajo
+
+apercibimiento legal y sin objeción de la contraria, los siguientes documentos: a) Copia de
+
+contrato de trabajo de fecha 1 de septiembre del año 2017, celebrado entre Mb Auditores
+
+Ltda. y Delicia del Carmen Araneda Garrido; b) Certificado de pago de cotizaciones
+
+previsionales de Delicia del Carmen Araneda Garrido por parte de su empleador Mb
+
+Auditores Limitada desde septiembre del año 2017 a agosto de 2019; c) Copia de inscripción
+
+del Registro de Comercio de Santiago correspondiente a la Sociedad “MB Auditores
+
+Limitada” de fojas 73210 número 42834, año 2015; d) Copia de inscripción del Registro de
+
+Comercio de Concepción correspondiente a la sociedad “Andrea Caro y Compañía Limitada”
+
+_____________________________________________________________________________________________________
+
+Avda. Libertador Bernardo O’higgins 241 piso 11 oficina 1122, Concepción
+Teléfonos 412697624 – 412697628- 412697629- 412697630
+
+jcobconcepcion@pjud.cl
+
+Código: JUJPBBXXKXX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+mailto:jcobconcepcion@pjud.cl
+
+JUZGADO DE COBRANZA LABORAL
+
+Y PREVISIONAL DE CONCEPCION
+
+PODER JUDICIAL
+
+CHILE
+
+de fojas 1460 vuelta número 1082 del año 1999; y e) Copia de inscripción del Registro de
+
+Comercio de Concepción de la modificación de la razón social a “MB Auditores Consultores
+
+Limitada” a fojas 1.585 vuelta, número 1.597 del año 2009.
+
+La ejecutada, a su turno, acompañó bajo apercibimiento legal y sin objeción de la
+
+contraria, los siguientes documentos: a) Contrato de trabajo de Delicia del Carmen Araneda
+
+Garrido y Orlando Marambio Servicios Contables y Tributarios Ltda. de fecha 1 de agosto de
+
+1999; b) Contrato de trabajo entre Delicia del Carmen Araneda Garrido y Auditores,
+
+Consultores y Abogados Concepción Ltda. de fecha 1 de enero de 2003; c) Contrato de
+
+trabajo entre Delicia del Carmen Araneda Garrido y Auditores, Consultores y Abogados
+
+Concepción Ltda. de fecha 1 de julio de 2006; d) Contrato de trabajo entre Delicia del
+
+Carmen Araneda Garrido y MB. Auditores Ltda. de 1 de agosto de 2016; d) Contrato de
+
+trabajo entre Delicia del Carmen Araneda Garrido y MB. Auditores Ltda. de 1 de septiembre
+
+de 2017; e) Contrato de trabajo entre Delicia del Carmen Araneda Garrido y MB. Auditores
+
+Ltda. de 1 de diciembre de 2019; f) Contrato de trabajo entre Delicia del Carmen Araneda
+
+Garrido y MB. Auditores Ltda. de 1 de diciembre de 2023; g) Anexo de Contrato de trabajo
+
+entre Delicia del Carmen Araneda Garrido y MB. Auditores Ltda. de 16 de mayo de 2024; y
+
+h) Certificado de afiliación de AFP HABITAT, de fecha 12 de agosto de 2025, de la afiliada
+
+Delicia del Carmen Araneda Garrido, RUT 13.619.964-1.
+
+Por su parte, el tribunal decretó como medida para mejor resolver, agregar el
+
+“Certificado de Afiliación y Cotizaciones” de AFP HABITAT, de la afiliada Delicia del
+
+Carmen Araneda Garrido, del periodo julio de 2011 a julio de 2025, el que consta a folio 38
+
+del cuaderno principal.
+
+SEXTO: Prima facie, la cobranza judicial de imposiciones, aportes y multas a las
+
+Instituciones de Previsión Social se encuentra regulada por la Ley Nro. 17.322, que dispone
+
+que los juicios a que den origen las resoluciones de los institutos de seguridad social se
+
+substanciarán de acuerdo con el procedimiento fijado en las normas especiales de esta ley y
+
+en el Título I del Libro III del Código de Procedimiento Civil, en cuanto fueren compatibles
+
+con ella.
+
+Por su parte, el artículo 442 del Código de Procedimiento Civil, dispone que el
+
+tribunal denegará la ejecución si el título presentado tiene más de tres años contados desde
+
+que la obligación se hizo exigible, disposición que guarda armonía con lo dispuesto en el
+
+artículo 2515 del Código Civil. No obstante ello, el plazo de prescripción de las acciones de
+
+cobro de imposiciones previsionales se encuentra regulada en una norma especial, cual es, el
+
+artículo 19 del D.L. 3500 de 1980, el que fue agregado por el sexto numeral del artículo 2 de
+
+la Ley Nro. 19.260, que se publicó en el Diario Oficial de fecha 4 de diciembre de 1993, y
+
+_____________________________________________________________________________________________________
+
+Avda. Libertador Bernardo O’higgins 241 piso 11 oficina 1122, Concepción
+Teléfonos 412697624 – 412697628- 412697629- 412697630
+
+jcobconcepcion@pjud.cl
+
+Código: JUJPBBXXKXX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+mailto:jcobconcepcion@pjud.cl
+
+JUZGADO DE COBRANZA LABORAL
+
+Y PREVISIONAL DE CONCEPCION
+
+PODER JUDICIAL
+
+CHILE
+
+que señala: “La prescripción que extingue las acciones para el cobro de cotizaciones
+
+previsionales, multas, reajustes e intereses, será de cinco años y se contará desde el término
+
+de los respectivos servicios.” Esta norma no hizo más que mantener el mismo criterio que
+
+establece el artículo 49 de la Ley Nro. 15.386, sobre Revalorización de Pensiones, publicada
+
+en el Diario Oficial de fecha 11 de diciembre de 1963.
+
+SÉPTIMO: Por lo anterior, en consonancia con lo dispuesto en la norma referida
+
+precedentemente, resulta esencial para la acertada resolución de la causa contar con un
+
+supuesto objetivo, cual es determinar la fecha cierta del término de la relación laboral o de la
+
+prestación de los servicios de la trabajadora incorporada en el título que funda la ejecución.
+
+Pues bien, tal como lo reconoce la ejecutada en su oposición, resulta ser efectiva la
+
+existencia de la relación laboral que la unía a la trabajadora individualizada en el título en
+
+ejecución y que motiva el cobro previsional, Delicia del Carmen Araneda Garrido, siendo,
+
+por lo demás, el fundamento fáctico de la excepción, el término de la relación laboral que
+
+unía a la ejecutada a ésta, el 1 de septiembre del año 2017, toda vez que comenzó a trabajar
+
+en MB Auditores Limitada.
+
+OCTAVO: Conforme al mérito de todos los contratos de trabajo acompañados por
+
+ejecutante y ejecutada, así como de los certificados de pago de cotizaciones previsionales y el
+
+certificado de afiliación y cotizaciones, se acredita de modo irrefragable que, desde el 1 de
+
+agosto de 2016, la afiliada Delicia del Carmen Araneda Garrido, dejó de trabajar para la
+
+ejecutada de autos y empezó a trabajar para MB Auditores Ltda., RUT 76.501.801-3, no en la
+
+fecha indicada en la excepción.
+
+En efecto, ello se colige del contrato de trabajo entre Delicia del Carmen Araneda
+
+Garrido y MB. Auditores Ltda. de 1 de agosto de 2016, abonado por el Certificado de
+
+Afiliación y Cotizaciones, que da cuenta del pago ininterrumpido de cotizaciones
+
+previsionales por esta empresa, RUT 76.501.801-3, desde el periodo agosto de 2016 al
+
+periodo julio de 2025, documento emanado de la propia ejecutante.
+
+Si bien no escapa a esta sentenciadora el que los socios de ambas empresas sean los
+
+mismos, conforme al mérito de las copias de inscripciones en el Registro de Comercio de
+
+Santiago de sus pactos fundacionales, sin embargo, a diferencia de lo que acontece con el
+
+cambio de razón social de "Auditores Consultores y Abogados Concepción Limitada" a "MB
+
+Auditores Consultores Limitada", ejecutada de autos, en que sí existe unidad empresarial, no
+
+es posible, a juicio de esta sentenciadora, sostener esta misma continuidad entre la ejecutada
+
+y la empresa MB Auditores Limitada. Ergo, tratándose de dos personas jurídicas distintas,
+
+siendo la jornada de trabajo extensa, a saber, de lunes a viernes, de 09:00 a 18:30 horas, como
+
+_____________________________________________________________________________________________________
+
+Avda. Libertador Bernardo O’higgins 241 piso 11 oficina 1122, Concepción
+Teléfonos 412697624 – 412697628- 412697629- 412697630
+
+jcobconcepcion@pjud.cl
+
+Código: JUJPBBXXKXX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+mailto:jcobconcepcion@pjud.cl
+
+JUZGADO DE COBRANZA LABORAL
+
+Y PREVISIONAL DE CONCEPCION
+
+PODER JUDICIAL
+
+CHILE
+
+para conjeturar en relación con la duplicidad de empleadores, la única posibilidad razonable
+
+es que en esa fecha dejó de trabajar para la empresa ejecutada.
+
+Tampoco es posible desprender subterfugio por una hipótesis de sucesión de
+
+empresas, solo porque las labores desempeñadas por la afiliada sean idénticas, contadora y
+
+outsourcing en contabilidad, se desarrollen en el mismo lugar y porque se le haya reconocido
+
+antigüedad laboral desde el año 1999, por cuanto, a más de tratarse de una declaración que
+
+solo puede ser efectuada por la judicatura laboral, a instancias del trabajador, no ha sido el
+
+fundamento de la ejecutante para solicitar el rechazo de la excepción, al evacuar el traslado
+
+de la excepción.
+
+Como fuere, el certificado de afiliación y cotizaciones da cuenta de un pago continuo
+
+de las cotizaciones de la señora Araneda Garrido, por ambos empleadores, al menos, desde el
+
+periodo de septiembre de 2012, por lo que no se avizora por esta sentenciadora la intención
+
+de ocultar al verdadero empleador y eludir las obligaciones previsionales, al esperar tres años
+
+desde la última cotización en cobro hasta constituir la nueva sociedad en el año 2015. Menos
+
+aún, se configura la hipótesis de responsabilidad solidaria del artículo 19 de la Ley Nro.
+
+17.322.
+
+NOVENO: De este modo, la documental referida, apreciada en conformidad a la ley,
+
+teniendo especialmente presente que se trata del cobro de cotizaciones previsionales de
+
+aproximadamente trece años atrás, las más recientes y de más de diecinueves años, las más
+
+antiguas, por cuyo motivo la apreciación de la prueba necesariamente debe observar el orden
+
+público laboral y no ser contrarias a los principios formadores del mismo, le es posible a esta
+
+sentenciadora, dar por establecido que respecto de la trabajadora Delicia del Carmen Araneda
+
+Garrido, ésta dejó de prestar servicios bajo subordinación y dependencia para la ejecutada, el
+
+1 de agosto de 2016.
+
+DÉCIMO: Así las cosas, el plazo de prescripción debe contarse desde la fecha del
+
+término de la relación laboral o prestación de servicios, hecho que ocurrió, respecto de la
+
+trabajadora Delicia del Carmen Araneda Garrido, el 1 de agosto de 2016, por lo que habría
+
+transcurrido con creces el plazo de cinco años para que opere la prescripción, aún bajo la tesis
+
+sustentada por la ejecutante con la que esta magistratura no comulga, razón por la cual en la
+
+parte resolutiva se acogerá la excepción opuesta.
+
+UNDÉCIMO: Cabe tener presente que del mérito de los antecedentes que obran en
+
+autos, no se desprende que la ejecutada haya informado a la ejecutante el término del vínculo
+
+laboral que la unía con su trabajadora, por lo que la ejecutante, carente del cumplimiento de
+
+dicha obligación, se encontraba obligada legalmente a demandar. Por lo anterior, se estima
+
+que tuvo motivo plausible para litigar y, en consecuencia, no se le condenará en costas.
+
+_____________________________________________________________________________________________________
+
+Avda. Libertador Bernardo O’higgins 241 piso 11 oficina 1122, Concepción
+Teléfonos 412697624 – 412697628- 412697629- 412697630
+
+jcobconcepcion@pjud.cl
+
+Código: JUJPBBXXKXX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+mailto:jcobconcepcion@pjud.cl
+
+JUZGADO DE COBRANZA LABORAL
+
+Y PREVISIONAL DE CONCEPCION
+
+PODER JUDICIAL
+
+CHILE
+
+Por estas consideraciones y en conformidad con lo dispuesto en los artículos 1698,
+
+2492 y 2514 del Código Civil, 144, 442 y 464 del Código de Procedimiento Civil, Ley Nro.
+
+17.322, y D.L.3500; se declara:
+
+I. Que se hace lugar a la excepción de prescripción extintiva de la acción ejecutiva de
+
+la deuda, alegada por la ejecutada.
+
+II. Que no se condena en costas a la ejecutante, no obstante haber resultado vencida,
+
+se estima que tuvo motivos plausibles para litigar.
+
+RIT: P-7090-2024
+RUC: 24-3-0270938-2
+
+Dictada por Ana María Fierro Oyarzo, jueza del Juzgado de Cobranza Laboral y
+Previsional de Concepción, quien suscribe con firma electrónica avanzada.
+
+En Concepción a tres de septiembre de dos mil veinticinco, se notificó por el estado
+diario la resolución precedente.
+
+_____________________________________________________________________________________________________
+
+Avda. Libertador Bernardo O’higgins 241 piso 11 oficina 1122, Concepción
+Teléfonos 412697624 – 412697628- 412697629- 412697630
+
+jcobconcepcion@pjud.cl
+
+Código: JUJPBBXXKXX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+mailto:jcobconcepcion@pjud.cl
+
+Código: JUJPBBXXKXX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2025-09-03T12:20:37-0400
