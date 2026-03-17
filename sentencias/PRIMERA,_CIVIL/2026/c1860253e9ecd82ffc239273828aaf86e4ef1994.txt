@@ -4,19 +4,19 @@ case_id: c1860253e9ecd82ffc239273828aaf86e4ef1994
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8042882
 
-rol: 57178-2025
+rol: 6090-2026
 
-fecha_sentencia: 2026-02-26
+fecha_sentencia: 2026-02-25
 
-caratulado: MOLINA/ELGUETA
+caratulado: CAROLINA DUARTE ARAYA/VÍCTOR RAMÍREZ CALDERÓN
 
 sala: PRIMERA, CIVIL
 
 materias: ▪ Admisibilidad del recurso de casación en el fondo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: RECHAZA CASACION EN EL FONDO (M)
+resultado_recurso: RECHAZA CASACION EN EL FONDO
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

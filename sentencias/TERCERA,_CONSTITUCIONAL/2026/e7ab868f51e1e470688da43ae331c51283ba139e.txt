@@ -4,15 +4,15 @@ case_id: e7ab868f51e1e470688da43ae331c51283ba139e
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040676
 
-rol: 5621-2026
+rol: 35905-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: ZÚÑIGA/ ISAPRE CRUZ BLANCA S.A
+caratulado: ENEL DISTRIBUCION CHILE S.A. CONTRA SUPERINTENDENCIA DE ELECTRICIDAD Y COMBUSTIBLES.(LTE)
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: ▪ Potestad sancionadora
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 

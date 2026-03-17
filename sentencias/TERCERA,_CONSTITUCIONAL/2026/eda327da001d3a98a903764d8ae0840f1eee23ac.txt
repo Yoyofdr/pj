@@ -4,11 +4,11 @@ case_id: eda327da001d3a98a903764d8ae0840f1eee23ac
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040874
 
-rol: 56760-2025
+rol: 58037-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: ORTIZ/SERVICIO NACIONAL DE MIGRACIONES ONES
+caratulado: UZCATEGUI/SUBSECRETARÍA DE SEGURIDAD PUBLICA
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
