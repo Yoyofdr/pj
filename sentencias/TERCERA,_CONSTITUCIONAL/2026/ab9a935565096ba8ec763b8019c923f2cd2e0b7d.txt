@@ -4,19 +4,19 @@ case_id: ab9a935565096ba8ec763b8019c923f2cd2e0b7d
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044636
 
-rol: 56833-2025
+rol: 56715-2025
 
 fecha_sentencia: 2026-02-27
 
-caratulado: MONTIEL VADE, ASTRID ALEJANDRA/PHILLIPS REYNOLD, STEVEN
+caratulado: SPICHIGER NOACK RICHARD ROGER/ILUSTRE MUNICIPALIDA DE PURÉN Y OTRO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Educación
+materias: (PENAL) NULIDAD
 
-recurso: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
+recurso: (PENAL) NULIDAD
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: DESISTIDO RECURSO
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8043707
 
 rol: 2837-2026
 
-fecha_sentencia: 2026-02-26
+fecha_sentencia: 2026-02-27
 
 caratulado: CORPORACIÓN EDUCACIONAL MARÍA MEDIANERA DEL BOSQUE / DIOCARES REBOLLEDO CAROLINA
 
@@ -14,7 +14,7 @@ sala: CUARTA, MIXTA
 
 materias: ▪ Recurso de unificación de jurisprudencia
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (PENAL) NULIDAD
 
 resultado_recurso: INADMISIBLE UNIFICACIÓN DE JURISPRUDENCIA
 

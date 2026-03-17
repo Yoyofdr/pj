@@ -4,19 +4,19 @@ case_id: adfad2d424d9ba1c1d03fe3cc2d9545a44004080
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044721
 
-rol: 57436-2025
+rol: 6064-2026
 
 fecha_sentencia: 2026-02-27
 
-caratulado: C/ GLADIS IRENE BAHAMONDES VERA
+caratulado: QUINTERO MARTINEZ DIONICIO ENRIQUE CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Delitos contra la propiedad y el patrimonio
+materias: ▪ Recurso de Amparo
 
-recurso: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
+recurso: (PENAL) NULIDAD
 
-resultado_recurso: SENTENCIA DE REEMPLAZO (M)
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

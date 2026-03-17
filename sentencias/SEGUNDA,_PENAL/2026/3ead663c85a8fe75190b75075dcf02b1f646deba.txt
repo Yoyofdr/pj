@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Delitos contra la propiedad y el patrimonio
 
-recurso: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
+recurso: (PENAL) NULIDAD
 
 resultado_recurso: RECHAZA RECURSO DE NULIDAD (M)
 

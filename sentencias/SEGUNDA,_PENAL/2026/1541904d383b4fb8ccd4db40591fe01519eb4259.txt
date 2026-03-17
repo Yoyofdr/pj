@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044520
 
 rol: 57436-2025
 
-fecha_sentencia: 2026-02-26
+fecha_sentencia: 2026-02-27
 
 caratulado: C/ GLADIS IRENE BAHAMONDES VERA
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Delitos contra la propiedad y el patrimonio
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (PENAL) NULIDAD
 
 resultado_recurso: ACOGE RECURSO DE NULIDAD (M)
 

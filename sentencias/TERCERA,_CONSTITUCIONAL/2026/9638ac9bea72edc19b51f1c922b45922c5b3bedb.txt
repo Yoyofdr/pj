@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044600
 
 rol: 53758-2025
 
-fecha_sentencia: 2026-02-26
+fecha_sentencia: 2026-02-27
 
 caratulado: PATRICIO ERNESTO MARTÍNEZ MEJIAS/I. MUNICIPALIDAD DE HUALPÉN Y CONSEJO DE MONUMENTOS NACIONALES VISTA CONJUNTA 3679-2025
 
@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Monumentos nacionales
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (PENAL) NULIDAD
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
