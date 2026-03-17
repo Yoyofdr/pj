@@ -6,15 +6,15 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047270
 
 rol: 7926-2026
 
-fecha_sentencia: 2026-03-02
+fecha_sentencia: 2026-03-03
 
 caratulado: MANRÍQUEZ BRAVO CÉSAR CONTRA CORTE DE SANTIAGO
 
 sala: SEGUNDA, PENAL
 
-materias: (CIVIL) CASACIÓN FORMA Y FONDO
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (CIVIL) CASACIÓN FORMA Y FONDO
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
