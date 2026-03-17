@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062911
 
 rol: 9117-2026
 
-fecha_sentencia: 2026-03-12
+fecha_sentencia: 2026-03-13
 
 caratulado: AUGUSTIN KERLANGE CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (PENAL) NULIDAD
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 

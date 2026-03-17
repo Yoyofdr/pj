@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (PENAL) NULIDAD
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
