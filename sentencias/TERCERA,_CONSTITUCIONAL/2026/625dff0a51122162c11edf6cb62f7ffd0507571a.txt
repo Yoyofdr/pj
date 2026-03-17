@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062859
 
 rol: 53476-2025
 
-fecha_sentencia: 2026-03-12
+fecha_sentencia: 2026-03-13
 
 caratulado: SERVICIO NACIONAL DE PROTECCION ESPECIALIZADA A LA NIÑEZ Y ADOLESCENCIA/ YANIRA NICOLETTE BOLT HELLWIG
 
@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Servicio Nacional de Protección Especializada a la Niñez y Adolescencia/Servicio Nacional de MenoresServicio Nacional de Menores
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (PENAL) NULIDAD
 
 resultado_recurso: REVOCADA SENTENCIA APELADA
 

@@ -4,19 +4,19 @@ case_id: e323d2a5e61a5db34198e5c24dc1699588a102a5
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062718
 
-rol: 23159-2025
+rol: 41492-2025
 
 fecha_sentencia: 2026-03-13
 
-caratulado: ANGIE ALEJANDRA ORTIZ HERRERA EN REPRESENTACION DE A.A.M.O. CON SERVICIO DE SALUD TALCAHUANO
+caratulado: CIPRIANO BARRIA MALDONADO / EMPRESA ELECTRICA SOCIEDAD AUSTRAL DE ELECTRICIDAD S.A ( SAESA)
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Admisibilidad del recurso de casación en el fondo
+materias: (PENAL) NULIDAD
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (PENAL) NULIDAD
 
-resultado_recurso: INADMISIBLE CASACIÓN FORMA RECHAZADA,CASACIÓN FONDO
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

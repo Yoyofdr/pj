@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062816
 
 rol: 10686-2026
 
-fecha_sentencia: 2026-03-12
+fecha_sentencia: 2026-03-13
 
 caratulado: JANA SAAVEDRA RODOLFO NICOLAS CONTRA CUARTA SALA ICA CONCEPCION
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (PENAL) NULIDAD
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

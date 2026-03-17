@@ -4,19 +4,19 @@ case_id: b701a5f4f836d9ca8e5e8a6779f3e14cda70f11d
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062614
 
-rol: 9154-2026
+rol: 10677-2026
 
 fecha_sentencia: 2026-03-13
 
-caratulado: FELIZ REYES MARIA EUGENIA CONTRA SERVICIO NACIONAL DE MIGRACIONES - POLICIA DE INVESTIGACIONES DE CHILE
+caratulado: ANONIMIZADO
 
 sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (PENAL) NULIDAD
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

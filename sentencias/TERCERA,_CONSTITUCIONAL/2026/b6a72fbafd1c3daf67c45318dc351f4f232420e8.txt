@@ -4,19 +4,19 @@ case_id: b6a72fbafd1c3daf67c45318dc351f4f232420e8
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062588
 
-rol: 5633-2025
+rol: 57809-2025
 
 fecha_sentencia: 2026-03-13
 
-caratulado: MUÑOZ/MUNICIPALIDAD DE LAMPA
+caratulado: ANONIMIZADO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Protecciones en contra de particulares
+materias: ▪ Potestad disciplinaria
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (PENAL) NULIDAD
 
-resultado_recurso: REVOCADA SENTENCIA APELADA
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8061683
 
 rol: 9129-2026
 
-fecha_sentencia: 2026-03-12
+fecha_sentencia: 2026-03-13
 
 caratulado: COMERCIALIZADORA SUERTE LIMITADA CON SUPERINTENDENCIA DE ELECTRICIDAD Y COMBUSTIBLES.
 
@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Potestad sancionadora
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (PENAL) NULIDAD
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
