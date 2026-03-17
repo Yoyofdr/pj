@@ -4,19 +4,19 @@ case_id: 10ccd400ebfd1f4351475244de42dbdb807d5570
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8043486
 
-rol: 7883-2026
+rol: 56581-2025
 
-fecha_sentencia: 2026-02-26
+fecha_sentencia: 2026-02-27
 
-caratulado: GUERRA PRADENAS MARIANA ANDREA CONTRA ILUSTRE MUNICIPALIDAD DE VALPARAÍSO
+caratulado: OBAL/CONTRALORÍA REGIONAL METROPOLITANA DE SANTIAGO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Amparo Económico
+materias: ▪ Función pública
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (PENAL) NULIDAD
 
-resultado_recurso: REVOCADA SENTENCIA APELADA
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

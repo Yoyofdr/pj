@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Delitos de narcotráfico
 
-recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+recurso: (PENAL) NULIDAD
 
 resultado_recurso: SENTENCIA DE REEMPLAZO (M)
 
