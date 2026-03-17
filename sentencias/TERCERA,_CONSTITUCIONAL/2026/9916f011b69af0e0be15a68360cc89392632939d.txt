@@ -4,19 +4,19 @@ case_id: 9916f011b69af0e0be15a68360cc89392632939d
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046433
 
-rol: 2951-2026
+rol: 29850-2025
 
-fecha_sentencia: 2026-03-02
+fecha_sentencia: 2026-02-26
 
-caratulado: INMOB. CONSTRUCTORA E INVERSIONES EL VALLE LTDA./TESORERÍA REGIONAL DEL BIOBIO
+caratulado: CONSORCIO FINANCIERO S.A. CON TRIBUNAL DE DEFENSA DE LA LIBRE COMPETENCIA
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Tesorería General de la República
+materias: ▪ Colusión
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: ACOGIDA RECURSO DE RECLAMACIÓN
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

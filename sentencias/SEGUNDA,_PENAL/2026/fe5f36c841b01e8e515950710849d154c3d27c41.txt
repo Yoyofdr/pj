@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045776
 
 rol: 7930-2026
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-02-26
 
 caratulado: MANSILLA TORRES MARCELO CONTRA JUEZ DEL JUZGADO DE GARANTÍA DE RANCAGUA.
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

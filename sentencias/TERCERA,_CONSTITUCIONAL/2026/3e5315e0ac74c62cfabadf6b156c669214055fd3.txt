@@ -4,19 +4,19 @@ case_id: 3e5315e0ac74c62cfabadf6b156c669214055fd3
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046311
 
-rol: 48625-2025
+rol: 38132-2025
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-02-26
 
-caratulado: ALMONACID/FONDO NACIONAL DE SALUD (FONASA)
+caratulado: DAROCH/GOBIERNO REGIONAL DE LA REGIÓN DEL BIOBIO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Potestad sancionadora
+materias: ▪ Potestad disciplinaria
 
-recurso: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045021
 
 rol: 38476-2025
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-02-26
 
 caratulado: CASTILLO/OPAZO
 
@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Admisibilidad del recurso de casación en el fondo
 
-recurso: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: INADMISIBLE CASACIÓN FORMA RECHAZADA,CASACIÓN FONDO
 
