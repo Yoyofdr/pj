@@ -4,19 +4,19 @@ case_id: d72f148ab74f49f5658fa281a595d5057a31daa4
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046754
 
-rol: 218-2026
+rol: 54442-2025
 
 fecha_sentencia: 2026-03-03
 
-caratulado: TORRES/FONDO NACIONAL DE SALUD (ACUM. I.C. N°2384-2023)
+caratulado: SERVICIO DE VIVIENDA Y URBANIZACIÓN BIOBIO EN FAVOR DE RICARDO ESTEBAN Y OTROS/RENÉ ALEJANDRO ESCALONA ISLA
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Derecho a la honra, a la imagen y a la vida privada, libertad de expresión
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: INADMISIBLE CASACIÓN FORMA RECHAZADA, CASACIÓN FON
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
@@ -52,4 +52,4 @@ N°Amparo-747-2026.
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------
-dvsC.A. de SantiagoSantiago, veinte  de febrero de dos mil veintiséis.Póngase en conocimiento de todos los intervinientes la constancia que antecede, para los efectos previstos en el artículo 125 del Código de Procedimiento Civil.Al folio N°1, a todo, estese a lo que se resolverá.Vistos y teniendo presente: 1°) Que, según se colige de lo establecido en los artículos 21 de la Carta Fundamental y 7.6 de la Convención Americana de Derechos Humanos, la acción constitucional de amparo tiene como finalidad esencial controlar la “legalidad” de eventuales afectaciones o amenazas a la libertad personal y seguridad individual, en términos de verificar que, de mediar, se ajusten a la Constitución y a las leyes;2°) Que, los antecedentes expuestos en el recurso no dan cuenta de hechos que, según el artículo 21 de la Constitución Política de la República, correspondan a aquellos susceptibles de la cautela impetrada por esta vía, al no vulnerar o amenazar la libertad personal y la seguridad individual, entendida esta última como la garantía de que la libertad personal no pueda ser afectada sino en los casos previstos por la ley, máxime si, de lo expuesto, se advierte que el ordenamiento jurídico concede y reconoce al recurrente el remedio idóneo para poner término a la situación descrita en el libelo, ejerciendo su derecho de defensa a través de la vía del recurso de protección.Por estas consideraciones, y lo dispuesto por el artículo 21 de la Constitución Política de la República, se declara inadmisible el recurso deducido en estos autos.Archívese en su oportunidad.N°Amparo-747-2026.
+dvsC.A. de SantiagoSantiago, veinte  de febrero de dos mil veintiséis.Póngase en conocimiento de todos los intervinientes la constancia que antecede, para los efectos previstos en el artículo 125 del Código de Procedimiento Civil.Al folio N°1, a todo, estese a lo que se resolverá.Vistos y teniendo presente: 1°) Que, según se colige de lo establecido en los artículos 21 de la Carta Fundamental y 7.6 de la Convención Americana de Derechos Humanos, la acción constitucional de amparo tiene como finalidad esencial controlar la “legalidad” de eventuales afectaciones o amenazas a la libertad personal y seguridad individual, en términos de verificar que, de mediar, se ajusten a la Constitución y a las leyes;2°) Que, los antecedentes expuestos en el recurso no dan cuenta de hechos que, según el artículo 21 de la Constitución Política de la República, correspondan a aquellos susceptibles de la cautela impetrada por esta vía, al no vulnerar o amenazar la libertad personal y la seguridad individual, entendida esta última como la garantía de que la libertad personal no pueda ser afectada sino en los casos previstos por la ley, máxime si, de lo expuesto, se advierte que el ordenamiento jurídico concede y reconoce al recurrente el remedio idóneo para poner término a la situación descrita en el libelo, ejerciendo su derecho de defensa a través de la vía del recurso de protección.Por estas consideraciones, y lo dispuesto por el artículo 21 de la Constitución Política de la República, se declara inadmisible el recurso deducido en estos autos.Archívese en su oportunidad.N°Amparo-747-2026.                        ⚠                      Sin documento en esta instancia - pdf
