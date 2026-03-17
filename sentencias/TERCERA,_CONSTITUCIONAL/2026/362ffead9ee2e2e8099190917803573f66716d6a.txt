@@ -4,11 +4,11 @@ case_id: 362ffead9ee2e2e8099190917803573f66716d6a
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040887
 
-rol: 38688-2025
+rol: 4256-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: BRAVO/SERVICIO NACIONAL DE MIGRACIONES
+caratulado: DEL BRUTTO/ISAPRE BANMEDICA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

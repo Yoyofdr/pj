@@ -4,11 +4,11 @@ case_id: 6f2703e664471732a9f89019a77ab657f913c454
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041005
 
-rol: 4725-2026
+rol: 4288-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: ELGUETA/BANMÉDICA S.A.
+caratulado: ECHEVERRÍA/ ISAPRE CRUZ BLANCA S.A
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

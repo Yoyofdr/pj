@@ -4,15 +4,15 @@ case_id: 2557867b3d0362b3a32a76ec4a842b160fe56117
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040666
 
-rol: 4248-2026
+rol: 42599-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: BRAVO/ISAPRE CRUZ BLANCA S.A.
+caratulado: SEQUEDA MERCADO JORGE ILNER/ADMINISTRADORA DE FONDOS DE PENSIONES (AFP) MODELO S.A
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: ▪ Previsional
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
