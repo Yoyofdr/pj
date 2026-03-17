@@ -4,19 +4,19 @@ case_id: e4f54a1832bb88cf1a6456689a7508f40bf36be3
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8043183
 
-rol: 247880-2023
+rol: 6043-2026
 
 fecha_sentencia: 2026-02-26
 
-caratulado: REYES CON FISCO-CDE
+caratulado: SANDOVAL ZARATE HILARION CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Responsabilidad civil
+materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CIVIL) RECLAMO NACIONALIDAD
 
-resultado_recurso: RECHAZADAS CASACIÓN FORMA Y FONDO (M)
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

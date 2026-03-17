@@ -4,17 +4,17 @@ case_id: 6d1fa1b539dc572fe270ee05739574227e63bf89
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041014
 
-rol: 4292-2026
+rol: 37136-2025
 
-fecha_sentencia: 2026-02-24
+fecha_sentencia: 2026-02-25
 
-caratulado: MÉNDEZ/ISAPRE CRUZ BLANCA S.A.
+caratulado: MARTÍNEZ/SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
