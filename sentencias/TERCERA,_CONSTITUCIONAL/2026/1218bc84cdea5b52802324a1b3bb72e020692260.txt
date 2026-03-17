@@ -4,15 +4,15 @@ case_id: 1218bc84cdea5b52802324a1b3bb72e020692260
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040950
 
-rol: 4276-2026
+rol: 7769-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: CALVO/ISAPRE CRUZ BLANCA S.A.
+caratulado: HENRIQUEZ/ADMINISTRADORA DE FONDOS DE PENSIONES MODELO S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: ▪ Previsional
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
