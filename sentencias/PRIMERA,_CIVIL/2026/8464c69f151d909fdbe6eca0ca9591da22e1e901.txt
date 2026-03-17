@@ -1,0 +1,94 @@
+METADATA
+
+case_id: 8464c69f151d909fdbe6eca0ca9591da22e1e901
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8064264
+
+rol: 10277-2026
+
+fecha_sentencia: 2026-03-16
+
+caratulado: MARTÍNEZ PARRA, JORGE MARIANO /IGLESIA METODISTA PENTECOSTAL DE CHILE
+
+sala: PRIMERA, CIVIL
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: INADMISIBLE CASACIÓN FORMA RECHAZADA, CASACIÓN FON
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, dieciséis de marzo de dos mil veintiséis.
+
+A los alegatos solicitados en escrito folio N°5: atento a lo dispuesto por el Auto Acordado sobre la forma de conocimiento del recurso de Apelación de los Recursos de Amparo ante esta Corte Suprema, registrado en el Acta N° 105-2024 de esta Excma. Corte Suprema, publicado con fecha 17 de mayo de 2024, y no habiéndose justificado suficientemente la necesidad de escuchar alegatos en atención al derecho invocado, no ha lugar.
+
+Vistos:
+Se reproduce la sentencia en alzada con excepción de sus considerandos tercero a séptimo, que se suprimen.
+
+Y se tiene, además, presente:
+1°) Que, con el mérito de los antecedentes expuestos en estos autos, resulta establecido que con fecha 27 de junio de 2025 el amparado fue condenado a la pena 3 años y 1 día de presidio y multa 20 UTM, como autor de un delito de tráfico del artículo 4 de la Ley 20.000. Concediéndosele la pena sustitutiva de libertad vigilada intensiva.
+
+2°) Que por resolución de 29 de enero de 2026 el Juzgado de Garantía de Arauco se declaró incompetente para seguir conociendo de la pena sustitutiva, derivando dicha competencia al Juzgado de Garantía de Talcahuano.
+
+3°) Que, sin perjuicio de lo anterior y a fin de debatir el cumplimiento de la pena pecuniaria, el Juzgado de Garantía de Arauco citó a audiencia para el 17 de febrero de 2026, instancia a que no compareció el amparado, pese a estar válidamente notificado, lo que motivó la dictación de una orden detención en su contra, siendo esta la actuación que se denuncia como ilegal.
+
+4°) Que, en este contexto se advierte que el Juzgado de Arauco ha pretendido mantener competencia sobre el cumplimiento de la condena, lo que implica, en los hechos, la existencia de dos tribunales competentes sobre el mismo reproche, pudiendo generar duplicidad de información y de resoluciones, obstaculizando el adecuado control y cumplimiento de aquel, lo que resulta ajeno a los fines tenidos en vista en la redacción del artículo 32 de la Ley 18216, de simplificar la fiscalización del cumplimiento de una sanción.
+
+5°) A consecuencia de lo anterior, y con base en la redacción del artículo 36 de la Ley 18216, resulta ausente de justificación legal, afectando la garantía constitucional de la libertad ambulatoria, la orden de detención despachada por el Juzgado de Garantía de Arauco en contra del amparado.
+
+Resultando adecuado, por lo demás, unificar el control del reproche impuesto en uno solo tribunal, debiendo mantenerse, de acuerdo a la decisión adoptada por el Juzgado de Garantía de Arauco, en su par de Talcahuano, el que deberá verificar y controlar el cumplimiento de la pena impuesta al amparado, como se dirá.
+
+Por estas consideraciones y lo dispuesto en el artículo 21 de la Constitución Política de la República, se revoca la sentencia en alzada de veinticuatro de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Concepción en la causa Rol N° 121-2026 y, en su lugar, se declara que se acoge el recurso de amparo interpuesto en favor de Mauricio Andrés Vera Jeldres, dejándose sin efecto la orden detención dispuesta por el Juzgado de Garantía de Arauco en el Rol 971-2022 con fecha 17 de febrero de 2026, en contra del amparado.
+
+Debiendo, de ahora en más, el Juzgado de Garantía de Talcahuano continuar con el control de la totalidad de la pena impuesta al condenado.
+
+Regístrese, comuníquese y devuélvase.
+
+Rol N° 10688-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Concepción
+xsr
+Concepción, veinticuatro de febrero de dos mil veintiséis.
+
+VISTO:
+
+Que se presentó acción constitucional de amparo por el abogado Mauricio Andrés Vera Jeldres, actuando en representación propia, en contra del Juzgado de Garantía de Arauco, por el acto que considera arbitrario e ilegal consistente en la dictación de una orden de detención en su contra con fecha 17 de febrero de 2026.
+
+Relata el amparado que el Juzgado de Garantía de Arauco dictó dicha orden careciendo de competencia, toda vez que, mediante resolución de fecha 29 de enero de 2026, dicho tribunal se había declarado incompetente de oficio, derivando los antecedentes al Juzgado de Garantía de Concepción para el control de su pena sustitutiva. Estima que el juzgado dictó resoluciones a sus espaldas de forma ilegal y arbitraria, solicitando se deje sin efecto la referida orden de detención.
+
+Informó don Bayron Gallardo Cáceres, en su calidad de juez suplente del Juzgado de Garantía de Arauco, dando cuenta que su tribunal recepcionó en causa RIT 971-2022 la sentencia dictada por el Tribunal Oral en lo Penal de Cañete, en la cual se condenó a don Mauricio Vera a penas privativas de libertad y al pago de una multa de veinte unidades tributarias mensuales, pagadera en diez parcialidades.
+
+El juez informante aclara que la declaración de incompetencia del 29 de enero de 2026 se circunscribió, conforme al inciso 2 del artículo 36 de la Ley 18.216, exclusivamente a la ejecución de la pena sustitutiva, motivo por el cual el tribunal continuó conociendo del resto de las penas impuestas, incluyendo la pena de multa. Señala que, al certificarse el no pago de las tres primeras cuotas de dicha multa, se hizo efectivo el apremio del inciso 2 del artículo 49 del Código Penal, sustituyéndose la deuda por dieciocho días de reclusión. Para revisar esta situación procesal, se fijó una audiencia para el día 17 de febrero de 2026, siendo el amparado notificado de forma personal por la Policía de Investigaciones, bajo el apercibimiento del artículo 33 del Código Procesal Penal. En la audiencia del 17 de febrero, ante la incomparecencia del sentenciado estando válidamente notificado, el juez dio lugar a la solicitud de la fiscalía y despachó la orden de detención.
+
+Se trajeron los autos en relación.
+
+Considerando:
+Primero: Que, la acción constitucional de amparo contemplada en el artículo 21 de la Constitución Política de la República, constituye jurídicamente una acción destinada a amparar el legítimo ejercicio de la libertad personal frente a todo acto u omisión arbitraria o ilegal. Resulta requisito indispensable para la plausibilidad de esta acción la existencia de un acto u omisión ilegal —esto es, contrario a la ley— o arbitrario —producto del mero capricho— que amague, perturbe o prive de dicha libertad.
+
+Segundo: Que, acorde a lo anotado, se recurre alegando que la orden de detención emanada del Juzgado de Garantía de Arauco constituye un acto ilegal y arbitrario al haber sido dictada por un tribunal incompetente.
+
+Tercero: Que, de los antecedentes expuestos y normativas aplicables, se constata que el Juzgado de Garantía de Arauco conservaba plena competencia para conocer de la ejecución de la pena de multa impuesta al sentenciado. La remisión de los antecedentes al Juzgado de Garantía de Concepción operó de manera exclusiva respecto del control de la pena sustitutiva, acatando el estricto tenor literal del inciso 2 del artículo 36 de la Ley 18.216, lo que facultaba al tribunal de Arauco a seguir conociendo sobre la multa.
+
+Cuarto: Que, no habiéndose cumplido el pago de las parcialidades de la multa de acuerdo con la certificación del ministro de fe del tribunal, se fijó una audiencia de revisión para el día 17 de febrero de 2026, constando en la causa que el amparado fue notificado personalmente de la misma el día 12 de enero de 2026, imponiéndosele explícitamente el apercibimiento dispuesto en el artículo 33 del Código Procesal Penal.
+
+Quinto: Que, en consecuencia, la orden de detención despachada por el tribunal recurrido el 17 de febrero de 2026 tuvo como único y legítimo fundamento la incomparecencia injustificada del amparado a una audiencia judicial a la cual se encontraba válida y personalmente notificado, haciéndose efectivo el apercibimiento legal previamente advertido.
+
+Sexto: Que, de esta manera, la actuación del juez recurrido se enmarca dentro del debido cumplimiento de sus atribuciones jurisdiccionales relativas a la ejecución de las penas, no pudiendo serle atribuido a dicho magistrado una actuación ilegal o arbitraria, ya que es su deber aplicar la ley ante el incumplimiento de una condena y la ausencia a una citación judicial obligatoria.
+
+Séptimo: Que, las circunstancias referidas llevan a concluir que en la especie no existe acto alguno que prive, perturbe o amenace su derecho a la libertad personal y seguridad individual. Al no haberse constatado de parte del tribunal recurrido los supuestos exigidos para la procedencia del recurso, esto es, la existencia de un acto producto de la ilegalidad o la arbitrariedad, la acción cautelar intentada no está en condiciones de prosperar y será desestimada.
+
+Por estas consideraciones, normas legales citadas y lo dispuesto en el Auto Acordado de la Excma. Corte Suprema sobre Tramitación y Fallo del Recurso de Amparo, SE RECHAZA la acción constitucional de amparo interpuesta por don Mauricio Andrés Vera Jeldres en contra del Juzgado de Garantía de Arauco.
+
+Regístrese, comuníquese y archívese oportunamente.
+
+Redacción del ministro interino Ricardo Guillermo Riquelme Carpenter.
+
+N°Amparo-121-2026.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, dieciséis de marzo de dos mil veintiséis.A los alegatos solicitados en escrito folio N°5: atento a lo dispuesto por el Auto Acordado sobre la forma de conocimiento del recurso de Apelación de los Recursos de Amparo ante esta Corte Suprema, registrado en el Acta N° 105-2024 de esta Excma. Corte Suprema, publicado con fecha 17 de mayo de 2024, y no habiéndose justificado suficientemente la necesidad de escuchar alegatos en atención al derecho invocado, no ha lugar.Vistos:Se reproduce la sentencia en alzada con excepción de sus considerandos tercero a séptimo, que se suprimen.Y se tiene, además, presente:1°) Que, con el mérito de los antecedentes expuestos en estos autos, resulta establecido que con fecha 27 de junio de 2025 el amparado fue condenado a la pena 3 años y 1 día de presidio y multa 20 UTM, como autor de un delito de tráfico del artículo 4 de la Ley 20.000. Concediéndosele la pena sustitutiva de libertad vigilada intensiva.2°) Que por resolución de 29 de enero de 2026 el Juzgado de Garantía de Arauco se declaró incompetente para seguir conociendo de la pena sustitutiva, derivando dicha competencia al Juzgado de Garantía de Talcahuano.3°) Que, sin perjuicio de lo anterior y a fin de debatir el cumplimiento de la pena pecuniaria, el Juzgado de Garantía de Arauco citó a audiencia para el 17 de febrero de 2026, instancia a que no compareció el amparado, pese a estar válidamente notificado, lo que motivó la dictación de una orden detención en su contra, siendo esta la actuación que se denuncia como ilegal.4°) Que, en este contexto se advierte que el Juzgado de Arauco ha pretendido mantener competencia sobre el cumplimiento de la condena, lo que implica, en los hechos, la existencia de dos tribunales competentes sobre el mismo reproche, pudiendo generar duplicidad de información y de resoluciones, obstaculizando el adecuado control y cumplimiento de aquel, lo que resulta ajeno a los fines tenidos en vista en la redacción del artículo 32 de la Ley 18216, de simplificar la fiscalización del cumplimiento de una sanción.5°) A consecuencia de lo anterior, y con base en la redacción del artículo 36 de la Ley 18216, resulta ausente de justificación legal, afectando la garantía constitucional de la libertad ambulatoria, la orden de detención despachada por el Juzgado de Garantía de Arauco en contra del amparado.Resultando adecuado, por lo demás, unificar el control del reproche impuesto en uno solo tribunal, debiendo mantenerse, de acuerdo a la decisión adoptada por el Juzgado de Garantía de Arauco, en su par de Talcahuano, el que deberá verificar y controlar el cumplimiento de la pena impuesta al amparado, como se dirá.Por estas consideraciones y lo dispuesto en el artículo 21 de la Constitución Política de la República, se revoca la sentencia en alzada de veinticuatro de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Concepción en la causa Rol N° 121-2026 y, en su lugar, se declara que se acoge el recurso de amparo interpuesto en favor de Mauricio Andrés Vera Jeldres, dejándose sin efecto la orden detención dispuesta por el Juzgado de Garantía de Arauco en el Rol 971-2022 con fecha 17 de febrero de 2026, en contra del amparado.Debiendo, de ahora en más, el Juzgado de Garantía de Talcahuano continuar con el control de la totalidad de la pena impuesta al condenado.Regístrese, comuníquese y devuélvase.Rol N° 10688-2026. Santiago, dieciséis de marzo de dos mil veintiséis.A los alegatos solicitados en escrito folio N°5: atento a lo dispuesto por el Auto Acordado sobre la forma de conocimiento del recurso de Apelación de los Recursos de Amparo ante esta Corte Suprema, registrado en el Acta N° 105-2024 de esta Excma. Corte Suprema, publicado con fecha 17 de mayo de 2024, y no habiéndose justificado suficientemente la necesidad de escuchar alegatos en atención al derecho invocado, no ha lugar.Vistos:Se reproduce la sentencia en alzada con excepción de sus considerandos tercero a séptimo, que se suprimen.Y se tiene, además, presente:1°) Que, con el mérito de los antecedentes expuestos en estos autos, resulta establecido que con fecha 27 de junio de 2025 el amparado fue condenado a la pena 3 años y 1 día de presidio y multa 20 UTM, como autor de un delito de tráfico del artículo 4 de la Ley 20.000. Concediéndosele la pena sustitutiva de libertad vigilada intensiva.2°) Que por resolución de 29 de enero de 2026 el Juzgado de Garantía de Arauco se declaró incompetente para seguir conociendo de la pena sustitutiva, derivando dicha competencia al Juzgado de Garantía de Talcahuano.3°) Que, sin perjuicio de lo anterior y a fin de debatir el cumplimiento de la pena pecuniaria, el Juzgado de Garantía de Arauco citó a audiencia para el 17 de febrero de 2026, instancia a que no compareció el amparado, pese a estar válidamente notificado, lo que motivó la dictación de una orden detención en su contra, siendo esta la actuación que se denuncia como ilegal.4°) Que, en este contexto se advierte que el Juzgado de Arauco ha pretendido mantener competencia sobre el cumplimiento de la condena, lo que implica, en los hechos, la existencia de dos tribunales competentes sobre el mismo reproche, pudiendo generar duplicidad de información y de resoluciones, obstaculizando el adecuado control y cumplimiento de aquel, lo que resulta ajeno a los fines tenidos en vista en la redacción del artículo 32 de la Ley 18216, de simplificar la fiscalización del cumplimiento de una sanción.5°) A consecuencia de lo anterior, y con base en la redacción del artículo 36 de la Ley 18216, resulta ausente de justificación legal, afectando la garantía constitucional de la libertad ambulatoria, la orden de detención despachada por el Juzgado de Garantía de Arauco en contra del amparado.Resultando adecuado, por lo demás, unificar el control del reproche impuesto en uno solo tribunal, debiendo mantenerse, de acuerdo a la decisión adoptada por el Juzgado de Garantía de Arauco, en su par de Talcahuano, el que deberá verificar y controlar el cumplimiento de la pena impuesta al amparado, como se dirá.Por estas consideraciones y lo dispuesto en el artículo 21 de la Constitución Política de la República, se revoca la sentencia en alzada de veinticuatro de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Concepción en la causa Rol N° 121-2026 y, en su lugar, se declara que se acoge el recurso de amparo interpuesto en favor de Mauricio Andrés Vera Jeldres, dejándose sin efecto la orden detención dispuesta por el Juzgado de Garantía de Arauco en el Rol 971-2022 con fecha 17 de febrero de 2026, en contra del amparado.Debiendo, de ahora en más, el Juzgado de Garantía de Talcahuano continuar con el control de la totalidad de la pena impuesta al condenado.Regístrese, comuníquese y devuélvase.Rol N° 10688-2026. Sentencia anonimizada
