@@ -4,19 +4,19 @@ case_id: 6c526dffb8e558f03a518d13f0e056126c014765
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062618
 
-rol: 9163-2026
+rol: 10681-2026
 
-fecha_sentencia: 2026-03-13
+fecha_sentencia: 2026-03-12
 
-caratulado: GONZALEZ MARQUEZ MARGENES DEL CARMEN CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: JEREZ SOTO GONZALO ANDRES CONTRA JUZGADO DE GARANTÍA DE MELIPILLA
 
 sala: SEGUNDA, PENAL
 
-materias: (CIVIL) CASACIÓN FONDO
+materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

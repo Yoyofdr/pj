@@ -4,19 +4,19 @@ case_id: fdd1ff28fec9c1cdd370564fd64d8744bac96f78
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8061581
 
-rol: 9119-2026
+rol: 7827-2026
 
-fecha_sentencia: 2026-03-13
+fecha_sentencia: 2026-03-12
 
-caratulado: RIVERA RAMOS GENESIS SARAY CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: XIMENA SOLEDAD BAHAMONDES GONZALEZ C/ JUANCARLOS ABARCA MORENO
 
 sala: SEGUNDA, PENAL
 
-materias: (CIVIL) CASACIÓN FONDO
+materias: ▪ Recurso de nulidad
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: DECLARA COMPETENTE PARA CONOCER NULIDAD CORTE (M)
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

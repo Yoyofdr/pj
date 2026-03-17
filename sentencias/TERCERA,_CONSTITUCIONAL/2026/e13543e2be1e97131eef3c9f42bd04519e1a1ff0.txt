@@ -1,0 +1,1687 @@
+METADATA
+
+case_id: e13543e2be1e97131eef3c9f42bd04519e1a1ff0
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062724
+
+rol: 57713-2025
+
+fecha_sentencia: 2026-03-12
+
+caratulado: LUZ PARRAL S.A CONTRA SUPERINTENDENCIA DE ELECTRICIDAD Y COMBUSTIBLES
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (CIVIL) APELACIÓN RECLAMACIÓN
+
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Corte Suprema ▼
+Santiago, trece de marzo de dos mil veintiséis.
+
+En cumplimiento a lo ordenado en el fallo precedente y lo estatuido en el artículo 786 del Código de Procedimiento Civil, se pronuncia la siguiente sentencia de reemplazo.
+
+VISTO:
+Se reproduce el fallo en alzada, con excepción de sus motivos tercero al sexto, que se eliminan.
+
+Y TENIENDO EN SU LUGAR Y ADEMÁS PRESENTE:
+1°) Que la parte demandante interpuso recurso de apelación en contra del fallo de primer grado que rechazó la demanda de cobro de honorarios, fundado en que el pago de la comisión de corretaje de propiedades en favor de las demandantes depende del cumplimiento o incumplimiento de los contratantes de una promesa de compraventa que se está conociendo en otro juicio arbitral, no naciendo aún la obligación del demandado de responder ante un supuesto incumplimiento, no obstante que las demandantes no son parte del contrato de promesa y que el contrato celebrado por el demandado y las demandantes es uno de corretaje en el que las partes incorporaron una cláusula penal para el caso de desistirse de la promesa de compraventa, hecho que no ha sido discutido por las partes.
+
+2°) Que, analizada, valorada y ponderada la prueba documental rendida por ambas partes, se tienen por acreditados los siguientes hechos:
+a) En invierno del año 2019, el demandado le encargó a la actora Alejandra Manquilef Bachler, en su calidad de corredora de propiedades, la búsqueda de un inmueble para proceder a la compra de este; hecho reconocido por el demandado en su contestación.
+
+b) La sociedad demandante Ventana Urbana Limitada, en su calidad de corredora de propiedades, ofrecía en venta un inmueble ubicado en calle Paseo del Águila N° 5105, de la comuna de Lo Barnechea, de propiedad de Gabriel Gerardo Rocha Haardt; hecho no discutido entre las partes.
+
+c) El 23 de septiembre de 2019, el demandado formuló por escrito una Oferta de Compra de la propiedad indicada en el punto anterior, ofreciendo comprarla en el precio total de 45.000 U.F., la forma de pago y sus condiciones. Además, propuso que su parte pagara la comisión de corretaje a Alejandra Manquilef Bachler en los términos y condiciones convenidos, y que la parte vendedora pagara la comisión por gestión de corretaje a Ventana Urbana Limitada; hecho acreditado mediante documento denominado “Oferta de Compra” agregado a folio 1 de autos.
+
+d) Por escritura pública de 14 de octubre de 2019, Gabriel Gerardo Rocha Haardt y José Luis Chanes Carvajal, celebraron un contrato de promesa de compraventa, por medio del cual el primero prometió vender, ceder y transferir al segundo, quien se comprometió a comprar, aceptar y adquirir para sí o para la persona natural o jurídica que designe, el inmueble ubicado en calle Paseo del Águila N° 5105, comuna de Lo Barnechea, por el precio de 45.000 U.F., pactando un plazo y condición para la celebración del contrato definitivo según da cuenta la cláusula cuarta, esto es, dentro de los 60 días hábiles siguientes a la aprobación de los títulos, prorrogable por 15 días corridos más. Adicionalmente, se acordó como condición la reparación de la filtración que afectaba al dormitorio principal, y que el sistema eléctrico y de calefacción se encontraran funcionando correctamente.
+
+En la misma escritura, en su cláusula décimo primera denominada “Corretaje”, las partes acordaron que el promitente comprador pagaría el monto de la comisión de la gestión de corretaje más impuestos a Llavepropiedades, representada por Alejandra Manquilef Bachler, en los términos y condiciones convenidos; y el promitente vendedor pagaría el monto pactado de la comisión de la gestión de corretaje más impuestos a Ventana Urbana Ltda.; pagos que se harían efectivos contra la firma de la escritura prometida en notaría. Se estipuló, además, que la parte incumplidora deberá pagar a Llavepropiedades y a Ventana Urbana Limitada una comisión correspondiente a la suma de ambas comisiones por concepto de corretaje, más el impuesto al valor agregado sobre dicha cantidad.
+
+Todo lo anterior consta del documento acompañado a folio 1, consistente en copia autorizada de escritura pública.
+
+e) El 13 de noviembre de 2019, el demandado, en su calidad de promitente comprador, se desistió de celebrar el contrato prometido, lo que luego reiteró el 13 de diciembre del mismo año, aduciendo que su decisión se fundamentaba en que el inmueble no se encontraba en un condominio y que no se ejecutaron las reparaciones que se incorporaron como condiciones al contrato. Hecho acreditado mediante carta y correo electrónico de folio 1.
+
+f) La compraventa prometida no fue celebrada por las partes.
+
+3°) Que el corretaje o mediación es aquel contrato "en virtud del cual una persona llamada cliente encarga a otra denominada corredor la obtención de una oferta seria, tendiente a realizar un determinado negocio, quien en el evento de lograrla tiene derecho a cobrar al cliente una retribución llamada comisión, cuyo monto es el convenido o el usual" (Puelma Accorsi, Álvaro, “Contratación comercial moderna”, Santiago, Editorial Jurídica de Chile, 2002, pp. 56-57).
+
+El corretaje es una especie de contrato de intermediación que constituye una comisión mercantil en virtud de la cual el corredor –que es el intermediario– se obliga para con las partes del contrato a facilitar o acercarlas a la celebración del contrato objeto del corretaje, así lo reconoce Rodríguez Pinto al sostener que: “El intermediario es parte en una comisión mercantil que se establece entre un comitente, que es la o las empresas proveedoras de servicios, y el cliente o consumidor que adquiere estos servicios por la intermediación del agente” (Rodríguez Pinto, María Sara, “Responsabilidad por incumplimiento de contratos de servicios. La protección del consumidor y del cliente por prestaciones defectuosas”, en Revista Chilena de Derecho, 2014, p. 812).
+
+Por consiguiente, el régimen legal del contrato de corretaje en cuanto contrato de intermediación es el de la comisión mercantil disciplinada en el Código de Comercio (artículos 238 y siguientes del Código de Comercio) y, desde luego, las reglas de derecho común del Código Civil (artículo 2° del Código de Comercio y artículo 4° del Código Civil).
+
+El corretaje tiene por objeto, por una parte, una prestación de hacer consistente en desplegar toda actividad que sea razonable esperar del corredor para la celebración del contrato objeto del corretaje; y, por otra, una prestación de dar la comisión o remuneración acordada o, en su defecto, la usual.
+
+Esta Corte ha declarado que la esencia del quehacer del corredor consiste en la intermediación, esto es, en la realización de una actividad tendiente a materializar el contrato a que se refiere, en este caso, una compraventa sobre una heredad específica, para lo cual hace converger las voluntades de comprador y vendedor acerca del precio y la cosa (Corte Suprema, Roles N° 9902-2015 y N° 7793-2015). La opinión de esta Corte se aviene con lo que indican Brantt y Mejías respecto de la actividad (hacer) del intermediario: “Intermediario es todo aquel que se ubica entre un sujeto que ofrece un bien o un servicio y otro a quien le interesa el mismo, para ponerlos en contacto y favorecer la contratación entre ellos. Es decir, el rol del intermediario consiste en promover el acuerdo de voluntades entre partes para la celebración de un contrato cuyo objeto, en el caso del artículo 43, es un servicio” (Brantt Zumarán, María Graciela y Mejías Alonzo, Claudia, “El proveedor intermediario de servicios y su responsabilidad. Un estudio del artículo 43 de la Ley 19.496”, en Revista de Derecho (Valdivia), 2021, p. 32).
+
+De esta manera, el corredor, en la ejecución de su prestación, ha de procurar acercar a las partes a objeto de que ellas consientan en la celebración de negocio objeto de la intermediación, en este caso, la compra de un inmueble.
+
+En el corretaje subyacen dos relaciones contractuales en las que coincide, por regla general, la parte del corredor intermediario, que se vincula, obligándose, al mismo tiempo, para con ambos clientes (el interesado en comprar y el interesado en vender).
+
+Sin embargo, en el caso de autos, intervienen dos corredores que se obligan mancomunadamente a la intermediación de una compraventa de un inmueble.
+
+Como sea, el corredor no es parte del contrato que se intermedia, la relación contractual de corretaje es una distinta a aquella que el corredor procura sea celebrada entre las partes beneficiarias de los servicios de intermediación. Así lo reconoce Rodríguez Pinto, al sostener que: “El intermediario no es parte en el contrato que se perfecciona entre el comitente y su cliente (el consumidor)” (Rodríguez Pinto, ob. cit., p. 812).
+
+El corredor -o en el caso de autos, los corredores-, no garantizan el éxito de la intermediación, sino, como ha quedado dicho, el despliegue de aquella actividad que sea razonable esperar de una persona diligente para tal objeto. No obstante lo anterior, el corredor asume el riesgo de dicho resultado -la celebración del negocio- en términos que la remuneración no se devengará, sino una vez perfeccionado el contrato o negocio objeto del corretaje. Si el contrato o negocio no se perfecciona no nace el derecho a la remuneración. Se trata de una obligación sujeta a condición suspensiva.
+
+En efecto, ha de entenderse -por regla general- que la gestión del corredor finaliza en el momento que se concreta el negocio, oportunidad en que se devengará la comisión de corretaje.
+
+Sin embargo, si la razón por la cual no se perfecciona el negocio es una imputable al cliente, el riesgo se traslada a este, quedando obligado, pese a no haberse celebrado el contrato o negocio, a pagar la correspondiente remuneración.
+
+Es por esta razón que es habitual que las partes pacten el pago de la remuneración o una pena para el evento que una vez que se hubieren cumplido los presupuestos para la celebración del contrato, una de las partes se desista o ambas partes acuerden dejar sin efecto el negocio, en cuyo caso la o las partes, pese a que no se obtuvo el resultado al que estaba orientada la actividad del corredor, quedarán obligadas a la remuneración o una pena. (Puelma, ob. cit., pp. 57-58).
+
+Según lo dicho, inclusive sin estipulación expresa en contrario, si la celebración del contrato intermediado no tiene lugar por una causa imputable al cliente, este quedará obligado a la remuneración convenida o usual.
+
+Así las cosas, al concluir la gestión del intermediador, nace el derecho a una remuneración, para lo cual es menester que exista una relación de causalidad entre la gestión efectiva del corredor y el resultado cometido. Por tanto, basta y será suficiente que el corredor realice gestiones que den lugar al resultado objeto del contrato, o que su actuación sea eficaz. (En este sentido: Figueroa Valdés, Juan, “El corredor de propiedades frente a la actividad inmobiliaria”, Santiago, Thomson Reuters, segunda edición, 2008, p. 6).
+
+4°) Que, en el caso de autos, como ha quedado dicho, por escritura pública de 14 de octubre de 2019, Gabriel Gerardo Rocha Haardt y José Luis Chanes Carvajal -demandado en estos autos- celebraron un contrato de promesa de compraventa cuyo objeto fue el inmueble ubicado en calle Paseo del Águila N° 5105, comuna de Lo Barnechea, por el precio de 45.000 U.F.
+
+En el mismo instrumento en que consta la promesa de compraventa se incorporó una cláusula décimo primera denominada “Corretaje” por la cual las partes acordaron que el promitente comprador pagaría el monto de la comisión de la gestión de corretaje más impuestos a Llavepropiedades, representada por Alejandra Manquilef Bachler, en los términos y condiciones convenidos; y el promitente vendedor, por su parte, pagaría el monto pactado de la comisión de la gestión de corretaje más impuestos a Ventana Urbana Ltda. En la misma cláusula se estipuló que la parte incumplidora de la obligación nacida de la promesa de compraventa deberá pagar a Llavepropiedades y a Ventana Urbana Limitada una suma de dinero correspondiente a la adición de ambas comisiones por concepto de corretaje, más el impuesto al valor agregado.
+
+5°) Que le correspondía, según lo establece el artículo 1698 del Código Civil, a la parte demandante acreditar la existencia del contrato de corretaje, la obligación del demandado de pagar la comisión y el monto de ésta última.
+
+Al efecto, como quedó asentado en el basamento 2° que precede, el demandado encomendó verbalmente a la actora Manquilef, la búsqueda de una propiedad con ciertas características para comprarla, la cual era ofrecida por la otra demandante Sociedad Ventana Urbana Limitada, concurriendo ambas como intermediarias a fin de que se concretara el negocio de compraventa del inmueble entre el dueño de éste y el demandado, como interesado en comprar, plasmándose el contrato de corretaje, tanto en la oferta de compra, como en la promesa de compraventa.
+
+Asimismo, las partes pactaron que en el evento que no se celebrara el contrato definitivo, esto es, no se concretara el negocio por incumplimiento de alguna de las partes, de igual forma se pagaría por la parte incumplidora el total de la comisión a las corredoras.
+
+Que, así las cosas, la parte demandante logró acreditar la existencia del contrato de corretaje y que efectuó todas las gestiones necesarias para el cumplimiento del cometido recibido; naciendo, de esta forma, el derecho de ser remunerada por su gestión, correspondiendo al demandado -conforme con el artículo 1698 del Código Civil- probar la extinción de su obligación, lo que no hizo de manera satisfactoria como se razonará a continuación.
+En efecto, el demandado en el juicio negó su obligación de pago para con las demandantes, aduciendo que se desistió de la compraventa por no cumplir la propiedad ofrecida con una condición esencial para su compra, consistente en que se encontrara en un condominio y que se efectuaran, además, las reparaciones acordadas en la promesa.
+
+Sin embargo, el demandado no logró probar con la documental rendida en autos, que las partes hayan pactado como condición para comprar el inmueble que éste se encontrara en un condominio constituido bajo la Ley N° 19.537, y que no se hubiese cumplido por el promitente vendedor su obligación de realizar las reparaciones convenidas, atendido que la decisión de no perseverar en el contrato por parte del demandado, se manifestó estando vigente el plazo para ejecutar dichas reparaciones, todo lo que consta tanto en la prueba documental rendida en este juicio como en la sentencia ejecutoriada dictada en la causa seguida ante el juez árbitro Ricardo Reveco Urzúa, caratulada “Rocha con Chanes”.
+En ese orden de ideas, el derecho de cobrar la remuneración nacería aun en el evento que no se concretara el negocio en que las demandantes actuaron como intermediarias, pero siempre que haya sido eficaz su gestión, lo que no cabe duda que así lo fue, por cuanto se desprende de la distinta prueba documental agregada al proceso, en especial, de la oferta de compra, promesa de compraventa, correos electrónicos entre las partes, informe de tasación, instrucciones notariales; que efectivamente las actoras realizaron distintas actuaciones para lograr el éxito en la gestión, siendo improcedente la excepción de contrato no cumplido alegada por el demandado. Dentro del curso normal de las cosas, de no haber mediado el desistimiento del demandado, el contrato prometido se hubiera celebrado.
+
+6°) De esta manera, habiendo quedado asentado que el demandado en autos se desistió de la celebración del contrato prometido, según la citada cláusula décimo primera, deberá pagar a los demandantes una suma equivalente a ambas comisiones de corretaje.
+
+7°) Que en cuanto al monto de la comisión, si bien no consta en la prueba rendida el porcentaje de ésta, sí es usual en este tipo de operaciones que la remuneración se pacte en un 2% del total del precio de compraventa, siendo reclamada dicha cifra por la sociedad demandante y en un porcentaje menor de 1,5% por la otra actora; motivo por el cual se dará lugar al pago de un total de 3,5% del precio de venta acordado (45.000 U.F.), que asciende a la suma total de 1575 U.F., correspondiendo a Ventana Urbana Limitada la cantidad de 900 U.F. y a la actora Alejandra Manquilef Bachler, el monto de 675 U.F.
+
+A dichas sumas de dinero no le será agregado impuesto alguno, atendido a que no existe correlación entre lo pedido en la demanda (impuestos de primera y segunda categoría, sin acreditar el régimen que tributan cada una de las demandantes), y lo pactado en la cláusula décimo primera que habla de impuesto al valor agregado.
+
+8°) Que, en mérito de lo expresado y razonado, esta Corte revocará la sentencia apelada y, en su lugar, acogerá la demanda en la forma que se dirá en lo resolutivo de este fallo.
+
+Por estas consideraciones y lo dispuesto en los artículos 186 y siguientes del Código de Procedimiento Civil, se revoca la sentencia de veintinueve de abril de dos mil veintidós, dictada en causa Rol C-11.125-2020 por el Vigésimo Sexto Juzgado Civil de Santiago, en cuanto rechazó la demanda y, en su lugar, se declara que se acoge, condenando al demandado a pagar a título de comisión por corretaje de propiedades, las siguientes sumas:
+I.- A favor de Sociedad Ventana Limitada, la cantidad de 900 U.F.
+
+II.- A favor de Alejandra Adriana Manquilef Bachler, la cantidad de 675 U.F.
+
+III.- Las sumas antes indicadas deberán ser pagadas con intereses corrientes para operaciones reajustables a contar de la fecha de notificación de la demanda hasta su pago efectivo.
+
+IV.- Que se condena en costas al demandado por haber sido totalmente vencido.
+
+Regístrese y devuélvase, vía interconexión.
+
+Redacción a cargo del abogado integrante Sr. Vidal.
+
+N° 59.053-2024
+Pronunciado por la Primera Sala de la Corte Suprema integrada por los Ministros señor Mauricio Silva C., señora María Angélica Repetto G., señora María Soledad Melo L., y los Abogados integrantes señor Raúl Patricio Fuentes M. y señor Álvaro Vidal O.
+
+No obstante, haber concurrido a la vista de la causa y al acuerdo, no firma la Ministra señora Repetto, por estar con feriado legal y la Ministra señora Melo, por estar con permiso.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Corte Suprema ▼
+Alegó, previo anuncio y relación pública, el abogado don Julio Sepúlveda contra el recurso. Santiago, 6 de noviembre de 2024. Cristián Alcántara Mödinger, relator.
+
+Santiago, seis de noviembre de dos mil veinticuatro.
+
+Al escrito folio N°17: Téngase presente.
+
+Al escrito folio N° 16: No habiendo acompañado los antecedentes que justifiquen su pretensión, no ha lugar a la suspensión.
+
+Al escrito folio N° 18: Atendida la hora y oportunidad de su escrito, no ha lugar.
+Vistos y teniendo, además, presente:
+Primero: Que la actora tuvo motivo plausible para litigar, por lo que se le eximirá del pago de las costas de la causa en virtud de lo establecido en el artículo 144 del Código de Procedimiento Civil.
+
+Segundo: Que los documentos acompañados al recurso no serán considerandos, al no haber sido presentados en esta instancia, atendido lo dispuesto en el artículo 348 del Código de Procedimiento Civil.
+
+Por estas consideraciones y de conformidad con lo dispuesto en los artículos 186 y siguientes del Código antes mencionado, se resuelve:
+I.- Se revoca la sentencia apelada dictada el veintinueve de abril de dos mil veintidós, por el 26° Juzgado Civil de Santiago, en la parte que condenó en costas a la demandante y en su lugar se declara que se le exime de dicha carga.
+
+II.- Se confirma, en lo demás apelado, la referida sentencia.
+Regístrese y devuélvase.
+
+N° 9389-2022 Civil.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Corte Suprema ▼
+
+C-11125-2020
+
+Foja: 1
+
+FOJA: 41 .- .-
+
+NOMENCLATURA : 1. [40]Sentencia
+JUZGADO : 26 Juzgado Civil de Santiagoº
+CAUSA ROL : C-11125-2020
+CARATULADO : MANQUILEF/CHANES
+
+Santiago, veintinueve de Abril de dos mil veintid só
+
+VISTOS.
+
+Con fecha 22 de julio de 2020, Jorge Alejandro Brown Luna, abogado,
+en representación convencional de la sociedad VENTANA URBANA
+LIMITADA, sociedad del giro de su denominación, representada
+legalmente por Vania Mónica Ruiz Cabrera, corredora de propiedades;
+y de ALEJANDRA ADRIANA MANQUILEF BACHLER, corredora de
+propiedades, todos domiciliados para estos efectos en calle San
+Crescente N° 416, comuna de Las Condes, deduce demanda en juicio
+sumario de cobro de honorarios, en contra de JOSÉ LUIS CHANES
+CARVAJAL, ingeniero, domiciliado en calle Monte Carmelo N° 3521,
+comuna de Lo Barnechea, fundada en que Alejandra Adriana
+Manquilef Bachler, se inicia el año 2014 en el rubro de corretaje de
+propiedades, mediante el nombre de fantasía “Llave Propiedades”,
+dominio inscrito a su nombre en NIC Chile. Su actividad de correjate la
+desarrolla en la comuna de Lo Barnechea y su nicho es la seguridad
+de las propiedades que intermedia como corredora.
+
+Que en el desarrollo de su actividad, su representada, Alejandra
+Manquilef, en el invierno del año 2019, logra un acuerdo con el señor
+Chanes Carvajal; contrato consensual de corretaje de propiedades,
+para la búsqueda de una propiedad que cumpliera con los
+requerimientos fijados por él y su mujer; ubicación, metraje construido
+y metraje de terreno. Agrega, que su representada ha contado con la
+colaboración de varias personas para el desarrollo de su actividad,
+entre las cuales se encuentra doña Milka Bacovic Fanola, quien apoyo
+en la búsqueda de propiedades para el señor Chanes Carvajal y su
+familia.
+
+Que en paralelo a la búsqueda de la nueva propiedad para la familia
+Chanes, desde el año 2016 su representada mantenía a la venta una
+
+D
+H
+
+JX
+Z
+
+E
+K
+
+F
+X
+
+J
+
+C-11125-2020
+
+Foja: 1
+propiedad de la misma familia, ubicada en calle Camino La Ascensión
+N° 9365, comuna de Lo Barnechea, y que tenía como características:
+365 mt2 construidos y 980 mt2 de terreno.
+
+Señala, que la sociedad Ventana Urbana Limitada, fue formada por
+doña Vania Ruiz Cabrera el año 2007, para desarrollar el giro del
+Corretaje de Propiedades, manteniendo una importante cartera de
+cliente, entre los cuales se encuentra don Gerardo Rocha Haardt,
+quien le había encomendó la venta de su inmueble con acceso por
+calle Paseo del Águila N° 5105, comuna de Lo Barnechea.
+
+Indica, que como es lo acostumbrado en el rubro, la sociedad Ventana
+Urbana Limitada mantenía un contrato consensual de corretaje de
+propiedades con el señor Rocha Haardt, siendo una de las
+estipulaciones, la exclusividad en la intermediación de la venta del
+inmueble en cuestión, lo que implica en la práctica, que cualquier
+oferta sobre la propiedad, debía pasar por su intermediación.
+
+En cuanto a la comisión de corretaje, su representada doña Alejandra
+Manquilef Bachler, ubica dentro de las propiedades que cumplían con
+los requisitos que andaba buscando el señor Chanes Carvajal para él
+y su familia, a la propiedad que intermediaba su otra representada,
+Ventana Urbana Limitada, y que corresponde a la propiedad de don
+Gerardo Rocha Haardt, con acceso por calle Paseo del Aguila N°
+5105, comuna de Lo Barnechea.
+
+Que luego de varias visitas por parte del señor Chanes Carvajal, su
+mujer e hijos, con fecha lunes 23 de Septiembre de 2019, hace una
+oferta de compra por escrito por la propiedad del señor Rocha, fijando
+entre otras condiciones de la oferta, el precio de la compraventa, la
+forma de pago, las condiciones, la vigencia de la oferta.
+
+Que dicha oferta por escrito es de suma importancia para los que nos
+convoca, toda vez que señala en el punto 8, lo que se entiende por
+incumplimiento por parte del comprador, señalando textual: “y/o que el
+“comprador”: c) desista de comprar la propiedad” .
+
+Que entre los puntos señalados en la oferta, se obligan las parte
+compradora y vendedora, a suscribir una promesa de compraventa, lo
+que ocurre con fecha 14 de octubre de 2019, ante el notario de
+Santiago, doña Linda Bosch Jimenez, repertorio N° 2962, escritura
+pública de promesa que fue suscrita entre el demandado de autos y
+don Gerardo Rocha Haardt. Que el demandado, previo a la firma de la
+promesa de compraventa, solicito tener a la vista el CIP (Certificado de
+Informes Previos), y su relevancia radica en la información que este
+
+D
+H
+
+JX
+Z
+
+E
+K
+
+F
+X
+
+J
+
+C-11125-2020
+
+Foja: 1
+contiene, ya que se señalan las condiciones y limitantes que la
+normativa urbanística exige en el predio o terreno, lo que desvirtúa las
+alegaciones que realiza el promitente comprador al momento de
+desistirse de la compra, y que se traduce en su incumplimiento, según
+lo suscrito por él en la oferta de fecha 23 de septiembre de 2019. Que
+como es una costumbre habitual en el corretaje de propiedades, sus
+dos representadas acuerdan trabajar en conjunto la intermediación de
+la compraventa de la propiedad del señor Rocha Haardt, recibiendo
+cada una la comisión de corretaje que le corresponda pagar al
+comprador y al vendedor, según quien haya acordado lo uno u lo otro
+respectivamente. A mayor abundamiento, y tal como da cuenta la
+promesa por escritura pública, en su cláusula décimo primera, el
+promitente comprador pagaría la comisión pactada más el respectivo
+impuesto a doña Alejandra Manquilef Bachler, y el promitente
+vendedor, pagaría la comisión pactada de la comisión de corretaje
+más impuesto a Ventana Urbana Limitada.
+
+Que en la misma cláusula, el promitente comprador y el promitente
+vendedor, estipulan por escrito, que aquel de los dos que no cumpla el
+contrato de promesa, en el caso de marras; el promitente comprador,
+deberá pagar la comisión de corretaje equivalente a la suma de ambas
+comisiones: un 3,5% del precio de la compraventa más el respectivo
+impuesto, lo que equivale a un total de 1821 Unidades de Fomento,
+correspondiéndole a cada una, las siguientes cantidades: a doña
+Alejandra Manquilef Bachler la suma equivalente a 750 Unidades de
+Fomento y la sociedad Ventana Urbana Limitada la suma equivalente
+a 1071 Unidades de Fomento.
+
+Que el impuesto que le corresponde a Alejandra Manquilef Bachler es
+de 75 Unidades de Fomento y a la sociedad Ventana Urbana Limitada
+es de 171 Unidades de Fomento. Que la diferencia se explica por dos
+cosas: la primera, la comisión pactada de corretaje, ya que en el caso
+de Alejandra Manquilef Bachler, por tratarse el señor Chanes de un
+apoderado del mismo colegio donde mantiene sus hijos su
+representada, se le cobraría una comisión de corretaje equivalente al
+1,5% del precio de la compraventa más el respectivo impuesto, y por
+la tributación a la que están sometidas cada una de las partes;
+corredora de propiedades de la parte compradora, tributa en segunda
+categoría, corredora de propiedades de la parte vendedora, tributa en
+primera categoría.
+
+Que su otra representada, había pactado la comisión estándar de
+correjate de propiedades, equivalente al 2% del precio de
+compraventa.
+
+D
+H
+
+JX
+Z
+
+E
+K
+
+F
+X
+
+J
+
+C-11125-2020
+
+Foja: 1
+Que la estipulación a favor de sus representadas, tiene como único
+objetivo, precaver en el caso de que algunos de los contratantes
+unilateralmente se desista del negocio, por las razones que sea, se
+pague la comisión de corretaje, dado que el trabajo se ha realizado
+igual, y o es responsabilidad de las corredoras involucradas, que
+llegado el caso, no poder cobrar la comisión por la cual han trabajado
+con el convencimiento de que el negocio llegara a buen término.
+
+Respecto a la demanda, manifiesta que existiendo una promesa de
+compraventa suscrita por escritura pública, donde el promitente
+comprador y promitente vendedor acuerdan las condiciones para la
+celebración del contrato prometido, reconociendo la intermediación de
+mis representadas, como da cuenta la estipulación a favor de ellas
+consignada en la cláusula décimo primera, que además aseguraba el
+pago de las comisiones pactadas, en el caso que uno de los
+contratantes incumpliera lo acordado, siguieron trabajando en los
+distintos requerimientos que planteo el demandado de autos, con
+absoluta tranquilidad y confianza, de que el negocio se desarrollaría
+en forma normal y llegarían al término del mismo.
+
+Que por el lado de su representada Alejandra Manquilef Bachler, entre
+otras cosas: la coordinación de una serie de visitas posteriores a la
+oferta y firma de la promesa de compraventa, los planos
+arquitectónicos; físicos y digitales, estos últimos con costos por parte
+de la municipalidad y que fueron asumidos por su representada.
+
+Que por el lado de su representada Ventana Urbana Limitada, entre
+otras cosas, obtener una copia de parte del SEC de los planos de la
+instalación eléctrica, la reparación de una gotera y la revisión de la
+caldera, la entrega de los títulos legales de la propiedad, para que el
+Banco Santander realizara el estudio de títulos, lo que hizo en persona
+la representante legal de Ventana Urbana Limitada.
+
+Que todo lo anterior, fue con la convicción absoluta, luego de haberse
+firmado la promesa de compraventa por escritura pública, tratándose
+de un promitente comprador de dilatada experiencia en puestos
+gerenciales; en empresas de primer nivel, lo que se traduce en tener
+absoluta claridad de las implicancias de contrato firmado por él y el
+señor Rocha, de que el negocio llegaría a buen puerto.
+
+Que una muestra de lo señalado precedentemente, los mensajes de
+texto que intercambio el demandado con Alejandra Manquilef Bachler,
+mediante la aplicación de whatsapp, señalando la urgencia de revisar
+el CIF (Certificado de Informes Previos) de la propiedad, previo a
+firmar la promesa de compraventa, según el mensaje de fecha 7 de
+
+D
+H
+
+JX
+Z
+
+E
+K
+
+F
+X
+
+J
+
+C-11125-2020
+
+Foja: 1
+octubre de 2019 que dice textual: “quiero verlo antes de firmar la
+promesa”.
+
+Afirma, que él revisó un antecedente, que el común de la gente no
+solicita al momento de firmar una promesa de compraventa de una
+vivienda de uso habitacional, y que por el contrario, solo aquellos
+compradores que buscan usos distintos, suelen pedir, teniendo
+claridad absoluta en ese momento, de las características de la
+propiedad prometida comprar, lo que le quita sustento, a la alegación
+que luego esgrime, para desistirse de la compra; que no es del caso
+analizar en profundidad, toda vez que no es materia del presente
+juicio, pero que es el antecedente factico, para solicitar el pago de la
+comisión de corretaje a la que se obliga, en el caso de que, como ya
+señalaron “y/o que el “comprador”: c) desista de comprar la
+propiedad”, se obliga a pagar a sus representadas la comisiones de
+corretaje pactadas con cada una de las corredoras de propiedades
+que participaron de la negociación, y que consta en la transcripción del
+correo electrónico enviado con fecha 13 de noviembre de 2019 por el
+demandado; transcurrido menos de un mes de firmada la promesa de
+compraventa por escritura pública:
+
+“Estimadas Milka y Vania,
+
+Según se los adelantara por teléfono, en atención al hecho de que la
+casa no se encuentra en condominio, lo cual fue solo descubierto por
+todos nosotros (entiendo que esto también es información que ustedes
+tampoco conocían) solo hace algunas semanas atrás, situación que se
+podría ver seriamente agravada por los recientes acontecimientos que
+están ocurriendo en Chile cuyo desenlace es extremadamente
+impredecible, es que vengo a informar sobre la intensión de
+desistirnos de la compra de esta propiedad. Como ustedes saben
+sufrimos un asalto hace meses atrás y el requisito principal que debía
+cumplir la casa era que estuviese en condominio lo cual no se cumple
+en este caso. A mayor abundamiento comento que incluso
+descartamos casas ubicadas en el sector de Santuario del Valle por la
+misma situación descrita.
+
+Para nosotros esta situación es bastante traumática, y me imagino que
+para ustedes también lo es, ya que en nuestro caso debemos igual
+cambiarnos de casa a la brevedad y teníamos todo planeado para
+hacerlo este mes de diciembre en donde ni siquiera podemos
+considerar la posibilidad de arrendar la casa que queríamos comprar
+ya que no cumple con el requisito indicado anteriormente. Nos
+encanta la casa y por otro lado creemos que tiene un potencial
+
+D
+H
+
+JX
+Z
+
+E
+K
+
+F
+X
+
+J
+
+C-11125-2020
+
+Foja: 1
+inmobiliario interesante pero lamentablemente hemos preferido tomar
+la decisión de desistirnos.
+
+Quedo atento a los próximos pasos que quiera tomar el vendedor y/o
+ustedes y si la decisión fuese llevar el tema a un arbitraje lo entiendo
+perfectamente pero quiero que entiendan que todos estamos siendo
+perjudicados con esta lamentable situación.
+
+Un cordial saludo
+
+José Luis”
+
+Que dicho correo, luego fue complementado por una carta enviada por
+el demandado de autos al señor Rocha Haardt, en la cual pretende
+justificar su acción, por la misma razón argumentada en el correo
+transcrito más arriba, pero agregando dos motivos adicionales:
+Problemas eléctricos y de impermeabilización, contemplados en la
+promesa de compraventa, pero que se encontraban en proceso de
+regularización, lo que implicó un costo para el promitente vendedor.
+
+Expone, que queda en evidencia que se cumple a cabalidad con la
+estipulación pactada en la oferta de compra de fecha 23 de septiembre
+de 2019 y la promesa de compraventa de fecha 14 de octubre de
+2019, de que, aquel de los contratantes que se desistiera en el
+contrato prometido respecto de la propiedad con acceso por calle
+Paseo del Aguila N° 5105, comuna de Lo Barnechea, se obligaba a
+pagar las comisiones de corretajes de las dos corredoras de
+propiedades que participaron en la intermediación de la propiedad en
+cuestión.
+
+Agrega, que lo anterior se sustenta además, en la doctrina de los
+actos propios, cuyo fundamento es el principio de buena fe que debe
+primar en todos los contratos, según lo establece el artículo 1546 del
+Código Civil, que dice textual: “Los contratos deben ejecutarse de
+buena fe , y por consiguiente obligan no sólo a lo que en ellos se
+expresa, sino a todas las cosas que emanan precisamente de la
+naturaleza de la obligación, o que por la ley o la costumbre pertenecen
+a ella”.
+
+Señala, que en el caso los requisitos se cumplen a cabalidad:
+
+a) Una conducta anterior, que revela una determinada posición
+jurídica de la persona a quien se le trata de aplicar este principio:
+
+Haber solicitado el CIF (Certificado de Informes Previos de la
+Propiedad) previo a la firma de la promesa de compraventa, y
+
+D
+H
+
+JX
+Z
+
+E
+K
+
+F
+X
+
+J
+
+C-11125-2020
+
+Foja: 1
+así haberlo dejado expreso en los mensajes de wahtsapp que
+mantuvo con una de sus representadas, lo que da cuenta de un
+manejo en el tema inmobiliario por sobre el promedio de los
+compradores de viviendas, lo que se traduce en no haber
+estipulado la condición de que la propiedad se encontrara dentro
+de un condominio, que luego hace valer para desistirse de la
+compra, que a nuestro entender, es solo un pretexto para no
+seguir adelante con el negocio, dada las circunstancias
+acontecidas con la denominada “Crisis Social”.
+
+b) Una conducta posterior por parte del mismo sujeto ,
+contradictoria con la anterior:
+
+Con la experiencia y conocimientos que demuestra al momento
+de suscribir la promesa de compraventa, se hace insostenible o
+poco creíble al menos, que no se haya dado cuenta que no era
+un condominio; visito al menos 10 propiedades dentro del sector,
+y muy pocas estaban ubicadas dentro de un condominio.
+
+c) Que el derecho o pretensión que hace valer la persona a quien
+incide el actor perjudique a la contraparte jurídica.
+
+El desistimiento por parte del comprador y demandado de autos,
+por una razón que no puede sostener en ninguna instancia, ya
+que no se menciona en ningún documento firmado por él, y solo
+sale a colación, al momento de desistirse de la compra, le da a
+sus representadas el legítimo derecho a cobrar las comisiones
+pactadas, toda vez que confiadas en el actuar correcto de los
+promitentes compradores y vendedor, realizaron una serie de
+servicios, con el convencimiento de que llegaría al término del
+negocio, además de tener como fundamento para la pretensión
+hecha valer en esta acción, de lo estipulado por el demandado
+en una escritura pública, donde consta su obligación de pagar la
+comisión de ambas corredoras, en el caso de no cumplir lo
+acordado, sin necesidad de declaración judicial.
+
+Indica, que la contraria alegará, que para hacer efectivo el pago de la
+comisión de corretaje que por esta acción se pretende cobrar, debiera
+ser declarado judicialmente quien fue el incumplidor de la promesa de
+compraventa, lo que a nuestro entender no corresponde, toda vez que
+el pago que pretenden cobrar, solo tiene como fundamento lo
+acordado entre el promitente comprador y las corredoras de
+propiedades, que además quedó estipulado por escrito en la promesa
+
+D
+H
+
+JX
+Z
+
+E
+K
+
+F
+X
+
+J
+
+C-11125-2020
+
+Foja: 1
+de compraventa otorgada por escritura pública por el demandado, de
+la siguiente forma:
+
+“La parte incumplidora deberá pagar a Llavepropiedades y a Ventana
+Urbana Limitada, una comisión correspondiente a la suma de ambas
+comisiones por concepto de corretaje, más el impuesto al valor
+agregado sobre dicha cantidad. Las partes dejan constancia, que la
+presente cláusula la han otorgado en beneficio exclusivo de
+llavepropiedades y de Ventana Urbana Limitada, por consiguiente, las
+partes declaran que la presente cláusula no podrá ser alterada,
+modificada o dejada sin efecto sin la concurrencia y el consentimiento
+conjunto y por escrito de las partes contratantes, llavepropiedades y
+de Ventana Urbana Limitada”.
+
+En cuanto al derecho, cita lo dispuesto en los artículos 1438, 1542,
+1545, 1546, 1698, 1699 y 1700 del Código Civil, y 680 del Código de
+Procedimiento Civil, que estima se aplican a los hechos y efectúa un
+resumen del libelo.
+
+En la conclusión, previas citas legales, solicita tener por interpuesta
+demanda en juicio sumario, en contra del demandado, ya
+individualizado, acogerla a tramitación y, en definitiva, declarar el pago
+de los honorarios de corretaje de propiedades pactado por el
+equivalente en pesos a la fecha de pago, según el siguiente detalle:
+
+1. Para Alejandra Adriana Manquilef Bachler, la suma
+equivalente a 750 Unidades de Fomento; y
+
+2. Para Ventana Urbana Limitada la suma equivalente a 1071
+Unidades de Fomento,
+
+Lo que equivale a un total de 1821 Unidades de Fomento, suma
+que deberá enterarse con los intereses que el tribunal determine, con
+costas.
+
+Con fecha 6 de agosto de 2020, se notificó al demandado, de la acción
+dirigida en su contra.
+
+Con fecha 20 de agosto de 2020, se llevó a efecto el comparendo de
+contestación y conciliación, con la asistencia de los apoderados de
+ambas partes. En dicho acto la parte demandante ratificó la demanda
+en todas sus partes, con costas, y el demandado contestó por escrito y
+demandó reconvencionalmente, mediante presentación de fecha 12 de
+agosto de 2020.
+
+D
+H
+
+JX
+Z
+
+E
+K
+
+F
+X
+
+J
+
+C-11125-2020
+
+Foja: 1
+En cuanto a la contestación de la demanda, solicita su rechazo,
+
+con costas, fundada en que desde el 2017, reside junto con su familia,
+en el inmueble de calle Monte Carmelo N° 3521, comuna de Lo
+Barnechea. Que dicha casa cumplía con todas sus expectativas, sin
+embargo, el día 23 de junio de 2019, alrededor de 15 horas, él y su
+familia fueron víctimas de un delito de robo con violencia e
+intimidación. En efecto, 2 delincuentes, que todavía no son
+identificados, ingresaron al inmueble por la ventana de un baño, los
+maniataron, los amenazaron y sustrajeron una serie de especies.
+Señala, que la situación traumática que les tocó vivir a consecuencia
+del referido asalto, todavía persiste y les afecta, incluso la cónyuge y la
+hija menor del matrimonio se encuentran todavía en tratamiento para
+poder superar la difícil situación que les tocó enfrentar. Que a
+consecuencia del referido asalto, y con el objeto de vivir en un lugar lo
+más seguro posible, comenzó la búsqueda de una propiedad donde
+mudarse junto con su grupo familiar. Indica, que era propietario en ese
+entonces de otro inmueble que le podría haber servido para
+cambiarse, pero lo descartó en razón de que no formaba parte de un
+condominio.
+
+Que para la búsqueda de una propiedad, le pidió asesoría a la
+corredora de propiedades Milka Bacovic Fanola, quien en ese
+entonces hacía operaciones de corretaje junto con la demandante
+Alejandra Adriana Manquilef Bachler. Que la propiedad que empezó a
+buscar debía cumplir, entre otras condiciones, que formase parte de
+un condominio; que el condominio tuviese altos estándares de
+seguridad; y, que el perímetro de la vivienda no enfrentare a calles
+públicas, sitios eriazos, cerros, parques y similares. Que tras analizar
+varias alternativas, que no cumplían sus requerimientos, Ventana
+Urbana Limitada accedió por canje que realizó con la otra corredora
+demandante, a exhibirle la propiedad publicitada en su página web,
+con el código N° 201546, correspondiente al Lote N° 30-A, proveniente
+de la fusión de los lotes 31 y 30, ambos del Sector 6, de la Cuarta
+Etapa del proyecto denominado “Santuario del Valle”, con acceso
+principal por calle Paseo del Aguila N° 5105, comuna de Lo
+Barnechea. Que el referido inmueble que a dicha época pertenecía a
+Gerardo Rocha Haardt, se publicitaba y publicita hasta hoy, en la
+página web de Ventana Urbana Limitada, www.ventanaurbana.cl,
+indicando expresa y textualmente lo siguiente:
+
+“Espectacular y luminosa casa en EN CONDOMINIO, con impecables
+terminaciones, construida con hormigón armado. Hall de acceso doble
+altura, con pisos de mármol. Amplios recibos separados. Excelente
+
+D
+H
+
+JX
+Z
+
+E
+K
+
+F
+X
+
+J
+
+C-11125-2020
+
+Foja: 1
+cocina. Muebles de cocina Snadeiro. 6 dormitorios de los cuáles 4
+están en suite, más 1 baño compartido, 2 baños de visitas, 1 baño
+exterior para el jardín. Gran sala de juegos con bar y sala de cine.
+Cuenta con circuito de audio (Sala de estar, recibos, piscina, terraza,
+quincho) controlado por domótica. Escritorio y sala de estar.
+Dormitorio de servicio, Dormitorio de chofer, ambos en suite. Piscina
+con deck, Quincho cerrado independiente. Jacuzzi exterior temperado
+Pisos de madera en toda la casa Montacarga para sala de juegos,
+aspiración central. Termopales marca Tecma. Grifería Hans Grohe.
+Maravilloso paisajismo. Terrazas techadas.”
+
+Expone que la referida propiedad aparentemente cumplía con gran
+parte de los requisitos que exigía, razón por la cual éste le pidió a
+ambas demandantes mayor información sobre la misma, tales como
+planos, reglamento de copropiedad, detalle de los gastos comunes y el
+certificado de informes previos para evaluar la posibilidad de construir
+eventualmente una cancha de tenis. Que, considerando la grave
+conmoción que atravesaba su familia tras el asalto sufrido, y la
+necesidad de mudarse prontamente a otra vivienda, confió en que el
+inmueble ofrecido por las corredoras -demandantes-, cumplía con las
+características que ellas afirmaron que tenía el inmueble, e hizo una
+oferta para adquirir el mismo, pese a que parte de la información que
+les requirió a las demandantes seguía en proceso de ser obtenida por
+la demandante Alejandra Adriana Manquilef Bachler. Previo a lo
+anterior, confirmó con el Banco Santander Chile, con el cual tiene
+relaciones comerciales, que dicho banco estaba dispuesto y en
+condiciones de otorgarle financiamiento para la adquisición del referido
+inmueble.
+
+Que la oferta correspondiente, la cual fue redactada por la
+demandante Alejandra Adriana Manquilef Bachler, fue suscrita por él
+con fecha 23 de septiembre de 2019, día en el cual recién tuvo la
+oportunidad de conocer personalmente a la indicada demandante.
+Que dicha oferta fue suscrita por él, en consideración a que el
+inmueble ofrecido, cumpliría con las condiciones que él requería y que
+las demandantes le afirmaron que tenía, lo cual en definitiva resultó no
+ser cierto. Reitera que el inmueble debía cumplir, entre otras
+condiciones, que formase parte de un condominio; que el condominio
+tuviese altos estándares de seguridad; y, que el perímetro de la
+vivienda no enfrentare a calles públicas, sitios eriazos, cerros, parques
+y similares. Añade, que por “condominio”, no puede entenderse otra
+cosa que la definición que precisamente establece la ley. En efecto la
+Ley N° 19.537, sobre copropiedad inmobiliaria, establece en su
+
+D
+H
+
+JX
+Z
+
+E
+K
+
+F
+X
+
+J
+
+C-11125-2020
+
+Foja: 1
+artículo N° 2, que los condominios son las construcciones o los
+terrenos acogidos al régimen de copropiedad inmobiliaria regulado en
+la señalada ley.
+
+Que el día 14 de octubre de 2019, se celebró el respectivo contrato de
+promesa de compraventa. En efecto, mediante escritura pública
+otorgada en la Notaría de Santiago de doña Linda Scarlett Bosch
+Jiménez, el día 14 de octubre de 2019, él, como promitente
+comprador; y Gabriel Gerardo Rocha Haardt, como promitente
+vendedor, celebraron un contrato de promesa de compraventa
+respecto del Lote N° 30-A, proveniente de la fusión de los lotes 31 y
+30, ambos del Sector 6 de la Cuarta Etapa del proyecto denominado
+“Santuario del Valle”, con acceso principal por calle Paseo del Aguila
+N° 5105, comuna de Lo Barnechea.
+
+Que entre otras condiciones, el contrato prometido quedó sujeto a la
+condición resolutoria, consistente en que los títulos del inmueble
+objeto del mismo, se encontraren ajustados a derecho. Que se
+estableció en la cláusula cuarta del contrato de promesa de
+compraventa, que una vez aprobados los títulos del inmueble objeto
+del mismo -cuestión que hasta el momento no se verifica-, el contrato
+de compraventa prometido, deberá otorgarse a más tardar dentro de
+60 días hábiles desde esa fecha, plazo que se prorrogaría por 15 días
+corridos más, a simple requerimiento del abogado que realizará el
+estudio de títulos, sin necesidad de firmar prórroga entre las partes.
+
+Que en la cláusula sexta del referido contrato de promesa de
+compraventa, se estableció que el inmueble objeto del mismo se
+vendería como especie o cuerpo cierto, con todos sus derechos, usos,
+costumbres y servidumbres, con todos sus pagos de contribuciones,
+gastos comunes y demás cuentas de servicio al día y sin convenios,
+respondiendo el vendedor de la obligación de saneamiento en
+conformidad a la ley.
+
+Que en la misma cláusula indicada se establecieron como condiciones
+adicionales para la celebración del contrato de compraventa
+prometido, tanto la reparación de la filtración que afecta al dormitorio
+principal del inmueble objeto del mismo, como también que el sistema
+eléctrico y de calefacción de éste se encontraren funcionando
+correctamente, condiciones que tampoco se han cumplido hasta la
+fecha. No obstante que no se consignó expresamente como condición,
+la circunstancia que el inmueble debía formar parte de un condominio,
+las mismas cláusulas del contrato de promesa de compraventa
+acreditan y demuestran la existencia de dicha condición, al establecer
+
+D
+H
+
+JX
+Z
+
+E
+K
+
+F
+X
+
+J
+
+C-11125-2020
+
+Foja: 1
+por ejemplo la cláusula tercera que la propiedad se encontraba sujeta
+a un reglamento de copropiedad, y la cláusula sexta que el inmueble
+se encontraba afecta al pago de gastos comunes. Que toda propiedad
+que se encuentra sujeta a un reglamento de copropiedad, y se
+encuentra afecta al pago de gastos comunes, debe necesariamente
+formar parte de un condominio.
+
+Que el día 29 de octubre de 2019, le insiste a la demandante
+Alejandra Adriana Manquilef Bachler, respecto que debe enviarle el
+reglamento de copropiedad, a lo cual la señalada demandante
+contestó el día 30 de octubre de 2019, que no existía reglamento de
+copropiedad alguno y que en consecuencia primaba la regulación
+municipal. Ante dicha respuesta, le indicó a la demandante Alejandra
+Adriana Manquilef Bachler, que al no existir reglamento de
+copropiedad, el inmueble no podía formar parte de un condominio, a lo
+cual ésta le contestó que la demandante Ventana Urbana Limitada la
+había explicado como operaba Santuario del Valle. Según ella muy
+bien organizado, pero no es condominio.
+
+Que el día 5 de noviembre de 2019, la demandante Ventana Urbana
+Limitada le informó a su cónyuge, que el propietario del inmueble
+objeto del contrato de promesa de compraventa, por ser el segundo
+dueño de la propiedad, no tenía los planos de instalaciones, tales
+como los de gas, agua potable, calefacción, aguas lluvias, desagües,
+riego, cableados de sonido o domótica, entre otros, necesarios para
+hacer cualquier arreglo o modificación según la normativa vigente.
+Que una de las condiciones necesarias para celebrar el contrato de
+compraventa prometido, fue que el sistema eléctrico y de calefacción
+del inmueble se encontraren funcionando correctamente, para lo cual
+era necesario contar con los planos correspondientes.
+
+Que el día 6 de noviembre de 2019, le informa a la demandante
+Ventana Urbana Limitada, que al día siguiente visitaría el inmueble
+objeto del contrato de promesa de compraventa, la empresa Casa
+Check -Inspecciones y Asesorías Inmobiliarias S.A.-, con el objeto de
+efectuar una inspección técnica e independiente del inmueble. Que
+dicha inspección técnica, cuya realización fue aprobada por Ventana
+Urbana Limitada, fue costeada completamente por él. Que el día 7 de
+noviembre de 2019, antes del inicio de la inspección técnica, el
+mantenedor del servicio de calefacción, abrió la llave de paso del
+suministro de gas para el inmueble objeto del contrato de promesa de
+compraventa, y hubo una peligrosa fuga, que tuvo que ser controlada
+por un equipo de emergencia de Metrogas. Agrega, que el día en que
+se llevó a cabo la inspección técnica, la representante de Ventana
+
+D
+H
+
+JX
+Z
+
+E
+K
+
+F
+X
+
+J
+
+C-11125-2020
+
+Foja: 1
+Urbana Limitada, Vania Ruiz Cabrera, le comentó a su cónyuge, quien
+asistió a dicha inspección, que el promitente vendedor no sabía, ni ella
+tampoco, que el inmueble objeto del contrato de promesa de
+compraventa no era parte de un condominio, pero como ya se había
+celebrado el contrato, ya no había nada que hacer, demostrando de
+dicha manera su poco profesionalismo, falta de seriedad e
+incumplimiento contractual al ofrecer en venta una propiedad que no
+contaba con las condiciones en que se publicitaba.
+
+Que el día 13 de noviembre de 2019, Inspecciones y Asesorías
+Inmobiliarias S.A. emitió su informe técnico e independiente, el cual
+arrojó que el inmueble objeto del contrato de promesa de
+compraventa, mantenía una serie de vicios, desperfectos e
+irregularidades, siendo las más relevantes para efectos de las
+condiciones previstas en el contrato de promesa de compraventa, las
+que se indican a continuación:
+
+a) La filtración del techo que afectaba al dormitorio principal no
+estaba reparada y el mal estado de la techumbre y las fallas en
+la inclinación y bajada de aguas lluvias no garantizaban que
+pudiese solucionarse.
+
+b) El sistema eléctrico presentaba numerosas fallas y ponía en
+riesgo tanto a la propiedad como a sus habitantes.
+
+c) El sistema de calefacción funcionaba pero es completamente
+ineficaz, al no tener la propiedad aislación térmica.
+
+Que, considerando que el inmueble no formaba parte de un
+condominio, pese a que aparentaba estarlo, en razón de encontrarse
+cerrado en virtud de un permiso precario de la Ilustre Municipalidad de
+Lo Barnechea -que puede ser caducado por el municipio, sin
+expresión de causa, dando un aviso de 30 días-, y que además no se
+cumplió con ninguna de las condiciones previstas en el contrato de
+promesa de compraventa, de cuya verificación dependía la
+celebración del contrato de compraventa, le informó a las
+demandantes que el negocio no podía prosperar.
+
+Afirma, que no se ha devengado comisión alguna a favor de las
+demandantes que tenga que pagarles, en razón de no haberse
+cumplido las condiciones a que se encontraba sujeta la celebración del
+contrato de compraventa prometido. Que el inmueble objeto del
+contrato de promesa de compraventa nunca formó parte de
+condominio alguno, y los títulos del nunca fueron aprobados, por lo
+que en consecuencia éstos nunca se encontraron ajustados a
+
+D
+H
+
+JX
+Z
+
+E
+K
+
+F
+X
+
+J
+
+C-11125-2020
+
+Foja: 1
+derecho, ni podrán estarlo ya que el bien raíz no es parte de un
+condominio; no se reparó la filtración que afecta al dormitorio principal
+del inmueble objeto del contrato de promesa de compraventa; el
+sistema eléctrico y de calefacción del inmueble objeto del contrato de
+promesa de compraventa, no funcionan correctamente.
+
+Que respecto de la exigencia que el inmueble formare parte de un
+condominio, las demandantes tienen evidente responsabilidad
+profesional y contractual, toda vez que su actuar al menos negligente,
+las llevaron a ofrecer y publicitar un inmueble con una condición
+esencial y determinante para contratar, que el inmueble al final resultó
+no tener.
+
+Afirma, que en el caso de autos no se verifican los requisitos que
+hacen procedente y exigible la responsabilidad contractual, y que por
+lo dispuesto en el artículo 1552 del Código Civil, no se habría
+constituido en mora en el cumplimiento de obligación alguna en favor
+de las demandantes, puesto que éstas a su vez no han dado
+cumplimiento a las suyas y nunca podrán hacerlo, puesto que el
+inmueble no es parte de condominio alguno.
+
+Expone, que el tribunal se encuentra impedido de dar lugar a la
+demanda, mientras no haya una sentencia judicial, firme y
+ejecutoriada, que declare que ha incumplido el contrato de promesa de
+compraventa; y que el contrato de correduría es nulo relativamente, ya
+que el actuar al menos negligente que tuvieron las demandantes, lo
+indujo a un error substancial, ya que si hubiese sabido que el inmueble
+no formaba parte de un condominio, no hubiese celebrado dicho
+contrato ni menos el de corretaje.
+
+En relación a la demanda reconvencional, dedujo demanda de
+resolución de contrato e indemnización de perjuicios en contra de
+Alejandra Adriana Manquilef Bachler y de Ventana Urbana Limitada,
+fundada en los hechos ya expuestos.
+
+El Tribunal tuvo por contestada la demanda principal y confirió traslado
+a la demanda reconvencional, suspendiéndose la audiencia.
+
+Con fecha 25 de agosto de 2020, se llevó a efecto la continuación del
+comparendo de contestación y conciliación, con la asistencia de los
+apoderados de ambas partes. En dicho acto las demandadas
+reconvencionales, mediante presentación de fecha 24 de agosto de
+2020, solicitaron se declare inadmisible la demanda, por lo dispuesto
+en el artículo 683 del Código de Procedimiento Civil, y en subsidio la
+contestaron, solicitando su rechazo, con costas.
+
+D
+H
+
+JX
+Z
+
+E
+K
+
+F
+X
+
+J
+
+C-11125-2020
+
+Foja: 1
+El Tribunal acogió la solicitud, declarando inadmisible la demanda
+reconvencional.
+
+Luego, se instó a las partes a la conciliación, la que no se produjo.
+
+Con fecha 31 de agosto de 2020, se recibió la causa a prueba.
+
+Con fecha 25 de abril de 2022, se citó a las partes a oír sentencia.
+
+CONSIDERANDO.
+
+PRIMERO. Que, a fin de acreditar los hechos en que funda su
+pretensión, la parte demandante se hizo valer de la DOCUMENTAL
+consistente en:
+
+1. Copia de la oferta realizada por don José Luis Chanes
+Carvajal con fecha 23 de septiembre de 2019, sobre la
+propiedad con acceso por calle Paseo del Aguila N° 5105,
+comuna de Lo Barnechea.
+
+2. Promesa de compraventa otorgada con fecha 14 de octubre
+de 2019 y suscrita por el demandado.
+
+3. Copia del correo electrónico enviado por el demandado a
+Vania Ruiz y Mlka Bacovic con fecha 13 de noviembre de
+2019, donde consta el desistimiento del demandado.
+
+4. Copia de la carta de fecha 13 de diciembre de 2019 suscrita
+por el demandado.
+
+5. Ubicación del domicilio del Sr. Chanes Carvajal en Monte
+Carmelo 3521, Lo Barnechea.
+
+6. Ubicación de la propiedad que mantenía el Sr. Chanes
+Carvajal, en condominio ubicado en camino de la Ascensión.
+
+7. Ubicación de la propiedad que pretendía compra el Sr.
+Chanes Carvajal.
+
+8. Ubicación de la propiedad que mantenía el Sr. Chanes
+Carvajal, en condominio ubicado en camino Punta de Águilas.
+
+9. Certificado de dominio con vigencia, donde consta la venta de
+la propiedad en condominio ubicado en camino La Ascensión
+que mantenía el señor Chanes Carvajal.
+
+D
+H
+
+JX
+Z
+
+E
+K
+
+F
+X
+
+J
+
+C-11125-2020
+
+Foja: 1
+10. Certificado de dominio sin vigencia, donde consta otra
+
+propiedad que mantuvo el Sr. Chanes Carvajal en condominio
+ubicado en camino Punta de Águilas.
+
+11. Detalle del artículo publicado por la cónyuge del
+demandado.
+
+12. Tasación Banco Santander-Chanes Carvajal.
+
+13. Copia de mensajes de whatsapp de fecha 12-09-2019
+entre Milka, sr. Chanes y sra. Oyarzún.
+
+14. Copia de mensajes de whatsapp de fecha 25-09-2019
+entre Milka y Vania.
+
+15. Copias de mensajes de correo electrónico con fecha 14,
+15 y 16 de septiembre de 2019, intercambiado entre Alejandra
+y el sr. Chanes, respecto de la oferta de éste último por la
+propiedad ubicada en Paseo Las Águilas N° 5105, comuna de
+Lo Barnechea.
+
+16. Copia de la carta oferta firmada por el sr. Chanes respecto
+de la propiedad ubicada en Paseo Las Águilas N° 5105,
+comuna de Lo Barnechea, de fecha 23 de septiembre de
+2019.
+
+17. Copia de mensaje de whatsapp de fecha 27 de septiembre
+de 2019 entre Milka y Vania, coordinando la tasación del
+Banco Santander de la propiedad ubicada en Paseo Las
+Águilas N° 5105, comuna de Lo Barnechea.
+
+18. Copia del mensaje de whatsapp de fecha 01 de octubre de
+2019 entre sra. Oyarzún y Vania para coordinar la visita del
+jardinero a la propiedad ubicada en Paseo Las Águilas N°
+5105, comuna de Lo Barnechea.
+
+19. Copia del mensaje de whatsapp de fecha 02 de octubre de
+2019 entre Milka Bacovic y Vania Ruiz, para confirmar la
+tasación del Banco Santander de la propiedad del señor
+Rocha.
+
+20. Copia del certificado de dominio sin vigencia de una
+propiedad del señor Chanes ubicada al interior del condominio
+Monte Las Águilas. DH
+
+JX
+Z
+
+E
+K
+
+F
+X
+
+J
+
+C-11125-2020
+
+Foja: 1
+21. Copia de Certificado de Informes Previos (CIF) de una
+
+propiedad del sr. Chanes ubicada al interior del Condominio
+Monte Las Águilas.
+
+22. Copia de mensaje de correo electrónico con fecha 28 y 29
+de septiembre de 2019, intercambiados entre Alejandra y el
+sr. Chanes, respecto del borrador de la promesa de
+compraventa a suscribir entre el sr. Chanes y el vendedor de
+la propiedad ubicada en Paseo Las Águilas N° 5105, comuna
+de Lo Barnechea.
+
+23. Copia del mensaje de correo electrónico con fecha 10 de
+octubre de 2019, intercambiado entre Alejandra y el sr.
+Chanes, respecto del borrador de la promesa de compraventa
+a suscribir entre el señor Chanes y el vendedor de la
+propiedad ubicada en Paseo Las Águilas N° 5105, comuna de
+Lo Barnechea.
+
+24. Copia de la promesa de compraventa suscrita entre el sr.
+Chanes y el dueño de la propiedad ubicada en Paseo Las
+Águilas N° 5105, comuna de Lo Barnechea, donde consta la
+cláusula de comisión a las actoras.
+
+25. Copia de las instrucciones privadas asociadas a la
+promesa de compraventa señalada en el punto precedente.
+
+26. Copia del mensaje de correo electrónico de las siguientes
+fechas: 13, 19, 20 y 25 de noviembre de 2019, intercambiado
+entre Vania, Milka y el sr. Chanes, donde el último, procede a
+informar con fecha 13 de noviembre de 2019, que se desiste
+de la compra de la propiedad ubicada en Paseo Las Águilas
+N° 5105, comuna de Lo Barnechea y pide retroalimentación
+de cuál será la actitud del vendedor.
+
+27. Copia del Informe de tasación realizado por el Banco
+Santander Chile a la propiedad ubicada en Paseo Las
+Águilas, Lo Barnechea, de fecha 03 de Octubre de 2019.
+
+28. Copia de Dominio sin vigencia de casa 1 en condominio
+de propiedad del señor Chanes.
+
+29. CIF de casa 1 en condominio de propiedad del señor
+Chanes. DH
+
+JX
+Z
+
+E
+K
+
+F
+X
+
+J
+
+C-11125-2020
+
+Foja: 1
+30. Copia de carta donde consta la inspección eléctrica
+
+realizada a la propiedad del señor Rocha, ubicada en Paseo
+Las Águilas, Lo Barnechea.
+
+31. Copia del comprobante de pago de los gastos comunes de
+la Agrupación de Vecinos del Santuario del Valle, lugar donde
+se emplaza la propiedad ubicada en Paseo Las Águilas N°
+5105, comuna de Lo Barnechea.
+
+32. Ebook Causa C-34146-2019 caratulada Rocha con
+Chanes, seguida en el 14° Civil de Santiago, iniciada por el
+vendedor de la propiedad ubicada en Paseo Las Águilas N°
+5105, comuna de Lo Barnechea, con la finalidad de lograr el
+nombramiento de un Juez Arbitro, dando cumplimiento a lo
+estipulado en la promesa de compraventa
+
+33. Certificado de matrimonio sr. Chanes.
+
+SEGUNDO. Que, el demandado a fin de desvirtuar la pretensión
+de contrario, se hizo valer de la INSTRUMENTAL, consistente en:
+
+1. Certificación emitida con fecha 13 de agosto de 2020, por el
+Notario Público don Luis Alberto Poza Maldonado, respecto
+de las publicaciones efectuadas en internet por parte de Portal
+Inmobiliario y de Venta Urbana Propiedades, ambas relativas
+al inmueble correspondiente al Lote N° 30-A, proveniente de
+la fusión de los lotes 31 y 30, ambos del Sector 6 de la Cuarta
+Etapa del proyecto denominado “Santuario del Valle”, con
+acceso principal por calle Paseo del Aguila N° 5.105, comuna
+de Lo Barnechea, que consignan que el mismo forma parte de
+un condominio.
+
+2. Certificación emitida con fecha 20 de agosto de 2020, por el
+Notario Público don Luis Alberto Poza Maldonado, respecto
+de las publicaciones efectuadas en internet por parte de Portal
+Inmobiliario y de Venta Urbana Propiedades, ambas relativas
+al inmueble correspondiente al Lote N° 30-A, proveniente de
+la fusión de los lotes 31 y 30, ambos del Sector 6 de la Cuarta
+Etapa del proyecto denominado “Santuario del Valle”, con
+acceso principal por calle Paseo del Águila N° 5.105, comuna
+de Lo Barnechea, consignando la de Portal Inmobiliario que el
+mismo forma parte de un condominio, mientras que la de
+Venta Urbana Propiedades -corredora de propiedades del don
+Gabriel Gerardo Rocha Haardt- extrañamente ya no lo
+
+D
+H
+
+JX
+Z
+
+E
+K
+
+F
+X
+
+J
+
+C-11125-2020
+
+Foja: 1
+indicaba, pese a que en el pasado si lo afirmaba en forma
+expresa y destacada.
+
+3. Oferta de compra que don José Luis Chanes Carvajal, realizó
+con fecha 23 de septiembre de 2019, respecto del inmueble
+de calle Paseo del Águila N° 5105, comuna de Lo Barnechea,
+oferta en la cual se consigna que el referido inmueble formaba
+parte de un condominio.
+
+4. Copia autorizada de la escritura pública otorgada en la
+Notaría de Santiago de doña Linda Scarlett Bosch Jiménez, el
+día 14 de octubre de 2019, que testimonia el contrato de
+promesa de compraventa celebrado entre don José Luis
+Chanes Carvajal como promitente comprador; y, don Gabriel
+Gerardo Rocha Haardt como promitente vendedor, respecto
+del inmueble ubicado en calle Paseo del Águila N° 5105,
+comuna de Lo Barnechea.
+
+5. Carta de fecha 13 de diciembre de 2019, que don José Luis
+Chanes Carvajal, le remitió a don Gabriel Gerardo Rocha
+Haardt.
+
+6. Comprobante de envío de la carta singularizada en el número
+anterior.
+
+7. Carta de fecha 13 de diciembre de 2019, que don Gabriel
+Gerardo Rocha Haardt le remitió a don José Luis Chanes
+Carvajal, en respuesta a la carta singularizada en el número 5
+anterior.
+
+8. Correo electrónico de fecha 30 de julio de 2021, que el doctor
+don Leonardo Serra Maggi, del Centro de Trastornos del
+Sueño de la Clínica Alemana de Santiago, le envió a la
+cónyuge del demandado, doña María Victoria Oyarzún
+Muñoz, dando cuenta que ella todavía se encuentra en
+tratamiento médico a consecuencia del asalto que sufrió junto
+a su familia, en el mes de junio de 2019, cuando 2
+delincuentes, que todavía no son identificados, ingresaron a
+su residencia, ubicada calle Monte Carmelo N° 3521, comuna
+de Lo Barnechea.
+
+9. Correo electrónico de fecha 27 de julio de 2021, que don
+Santiago Gianelli O’Ryan, coordinador y subgerente de la
+Unidad de Atención a Víctimas de la Municipalidad de Lo
+Barnechea, le envió a la doña María Victoria Oyarzún Muñoz,
+dando cuenta que ella, su marido y sus hijos recibieron
+
+D
+H
+
+JX
+Z
+
+E
+K
+
+F
+X
+
+J
+
+C-11125-2020
+
+Foja: 1
+atención psicológica, a consecuencia del asalto que sufrieron
+en el mes de junio de 2019.
+
+10. Certificado del matrimonio existente entre don José Luis
+Chanes Carvajal y doña María Victoria Oyarzún Muñoz.
+
+11. Set de fotografías que exhiben las cámaras interiores y
+rayos, que don José Luis Chanes Carvajal instaló en su
+residencia ubicada calle Monte Carmelo N° 3521, comuna de
+Lo Barnechea, tras el asalto.
+
+12. Set de fotografías que exhiben el cerco eléctrico y nueva
+alarma, que don José Luis Chanes Carvajal instaló en su
+residencia ubicada calle Monte Carmelo N° 3521, comuna de
+Lo Barnechea, tras el asalto.
+
+13. Set de fotografías que exhiben las nuevas cámaras de
+seguridad exteriores, que don José Luis Chanes Carvajal
+instaló en su residencia ubicada calle Monte Carmelo N°
+3521, comuna de Lo Barnechea, tras el asalto.
+
+14. Set de fotografías que exhiben el rayo perimetral y doble
+cerco metálico, que don José Luis Chanes Carvajal instaló en
+su residencia ubicada calle Monte Carmelo N° 3521, comuna
+de Lo Barnechea, tras el asalto.
+
+15. Set de fotografías que exhiben las rejas dispuestas en las
+ventanas que se abren, que don José Luis Chanes Carvajal
+instaló en su residencia ubicada calle Monte Carmelo N°
+3521, comuna de Lo Barnechea, tras el asalto.
+
+16. Correo electrónico de fecha 9 de abril de 2021, que el
+Ministerio Público, le envió a don José Luis Chanes Carvajal,
+informándole el archivo provisional de la investigación criminal
+que se inició tras el asalto.
+
+17. Documento emitido por el Banco Santander Chile, el cual
+acredita que dicha institución bancaria le otorgó un crédito por
+40.700 unidades de fomento a don José Luis Chanes
+Carvajal, con el objeto de destinarlo a la adquisición de un
+inmueble cuyo destino sea habitacional.
+
+18. Tabla de desarrollo del crédito indicado en el número
+anterior.
+
+19. Documento emitido por el Banco Santander Chile, relativo
+a los términos y condiciones de pago del crédito que dicha
+
+D
+H
+
+JX
+Z
+
+E
+K
+
+F
+X
+
+J
+
+C-11125-2020
+
+Foja: 1
+institución bancaria le otorgó a don José Luis Chanes
+Carvajal, por 40.700 unidades de fomento.
+
+20. Documento que acredita la contratación por parte de don
+José Luis Chanes Carvajal, del seguro de desgravamen
+asociado al crédito que le otorgó el Banco Santander Chile.
+
+21. Documento que acredita la contratación por parte de don
+José Luis Chanes Carvajal, del seguro de incendio asociado
+al crédito que le otorgó el Banco Santander Chile.
+
+22. Copia autorizada de la escritura pública otorgada en la
+Notaría de Santiago de don Roberto Antonio Cifuentes Allel, el
+día 24 de noviembre del año 2020, que testimonia el contrato
+de compraventa celebrado entre don Benicio Francisco Reyes
+Cárdenas como comprador; y, don Gabriel Gerardo Rocha
+Haardt como vendedor, respecto del inmueble ubicado en
+calle Paseo del Águila N° 5105, comuna de Lo Barnechea,
+Región Metropolitana.
+
+23. Copia autorizada la inscripción de fojas 3381, N° 4972, del
+Registro de Propiedad a cargo del Conservador de Bienes
+Raíces de Santiago, correspondiente al año 2021, la cual
+acredita que don Benicio Francisco Reyes Cárdenas es el
+actual propietario del inmueble ubicado en calle Paseo del
+Águila N° 5105, comuna de Lo Barnechea, Región
+Metropolitana.
+
+24. Copia autorizada la inscripción de fojas 19906, N° 28536,
+del Registro de Propiedad a cargo del Conservador de Bienes
+Raíces de Santiago, correspondiente al año 2020, la cual
+acredita la venta que don José Luis Chanes Carvajal realizó
+del inmueble que era de su propiedad, el cual se ubicaba en
+Camino de La Ascensión N° 9365, comuna de Lo Barnechea.
+
+25. Decreto N° 1213/2013, dictado por el Alcalde de la
+comuna de Lo Barnechea, con fecha 13 de marzo de 2013.
+
+26. Decreto N° 2197/2014, dictado por el Alcalde de la
+comuna de Lo Barnechea, con fecha 21 de abril de 2014.
+
+27. Informe técnico elaborado por la empresa Casa Check,
+respecto del inmueble de calle Paseo Del Aguila N° 5105,
+comuna de Lo Barnechea.
+
+D
+H
+
+JX
+Z
+
+E
+K
+
+F
+X
+
+J
+
+C-11125-2020
+
+Foja: 1
+28. Demanda presentada por don José Luis Chanes Carvajal
+
+en contra de don Gabriel Gerardo Rocha Haardt, que se
+tramita actualmente en el Centro de Arbitraje y Mediación de
+la Cámara de Comercio de Santiago A.G., que dice relación
+con el eventual incumplimiento en que habría incurrido alguna
+de ellas, respecto del contrato de promesa de compraventa
+celebrado entre don José Luis Chanes Carvajal como
+promitente comprador, y don Gabriel Gerardo Rocha Haardt
+como promitente vendedor, en relación con el inmueble
+correspondiente al Lote N° 30-A, proveniente de la fusión de
+los lotes 31 y 30, ambos del Sector 6 de la Cuarta Etapa el
+proyecto denominado “Santuario del Valle”, con acceso
+principal por calle Paseo del Águila N° 5105, comuna de Lo
+Barnechea, Región Metropolitana, contrato de promesa de
+compraventa que consta en escritura pública otorgada en la
+Notaría de Santiago de doña Linda Scarlett Bosch Jiménez, el
+día 14 de octubre del año 2019.
+
+29. Demanda presentada por don Gabriel Gerardo Rocha
+Haardt J en contra de don José Luis Chanes Carvajal, que se
+tramita actualmente en el Centro de Arbitraje y Mediación de
+la Cámara de Comercio de Santiago A.G., que dice relación
+con el eventual incumplimiento en que habría incurrido alguna
+de ellas, respecto del contrato de promesa de compraventa
+celebrado entre don José Luis Chanes Carvajal como
+promitente comprador, y don Gabriel Gerardo Rocha Haardt
+como promitente vendedor, en relación con el inmueble
+correspondiente al Lote N° 30-A, proveniente de la fusión de
+los lotes 31 y 30, ambos del Sector 6 de la Cuarta Etapa del
+proyecto denominado “Santuario del Valle”, con acceso
+principal por calle Paseo del Aguila N° 5105, comuna de Lo
+Barnechea, Región Metropolitana, contrato de promesa de
+compraventa que consta en escritura pública otorgada en la
+Notaría de Santiago de doña Linda Scarlett Bosch Jiménez, el
+día 14 de octubre de 2019.
+
+30. Certificación notarial de fecha 23 de septiembre de 2021,
+de la Notaría de don Luis Ignacio Manquehual Mery, que
+contiene la impresión de página de inicio del sitio web
+www.llavepropiedades.cl, de propiedad de doña Alejandra
+Manquilef Bächler.
+
+31. Certificado emitido por el Centro de Arbitraje y Mediación
+de la Cámara de Comercio de Santiago A.G., que señala que
+
+D
+H
+
+JX
+Z
+
+E
+K
+
+F
+X
+
+J
+
+C-11125-2020
+
+Foja: 1
+el juicio arbitral caratulado “Gabriel Gerardo Rocha Haardt con
+José Luis Chanes Carvajal”, Rol A-4359-2020, se encuentra
+desde el día 7 de diciembre de 2021, con la resolución que
+citó a las partes a oír sentencia.
+
+TERCERO. Que, apreciada la copia autorizada de la escritura
+pública de contrato de promesa, otorgada en la Notaría de Santiago de
+doña Linda Scarlett Bosch Jiménez, el día 14 de octubre de 2019,
+celebrada entre José Luis Chanes Carvajal, como promitente
+comprador, y Gabriel Gerardo Rocha Haardt, como promitente
+vendedor, respecto del inmueble ubicado en calle Paseo del Águila N°
+5105, comuna de Lo Barnechea, acompañada por ambas partes, en
+particular las cláusulas octava, novena y décimo primero, las que
+rezan lo siguiente:
+
+“OCTAVO: Clausula penal.- Las partes pactan como clausula
+penal compensatoria y avaluación anticipada de los perjuicios
+causados por el incumplimiento, una multa equivalente a la cantidad
+de ciento veinte millones de pesos, equivalentes aproximadamente al
+diez por ciento del valor de venta pactado, si la otra parte incumple, o
+cumple parcialmente, cualquiera de las obligaciones contraídas en
+este instrumento o no concurre a firmar la escritura de compraventa
+por simple desistimiento o simple retracto, dentro del plazo de treinta
+días contados desde que el contratante diligente haya firmado la
+escritura, lo cual se acreditara mediante un certificado emitido por
+el señor notario que otorgue la respectiva escritura de compraventa.
+Para garantizar esta multa las partes dejan un cheque, sin fecha,
+cruzado y nominativo a nombre de su contraparte, por la suma antes
+señalada con instrucciones otorgadas en la Notaria en que se
+autorice el presente contrato, para ser devuelto una vez firmada la
+escritura de compraventa por las partes.
+
+NOVENO: Cualquier duda o dificultad que surja entre las
+partes con motivo del presente contrato o de sus documentos
+complementarios o modificatorios, ya se refiera a su interpretación,
+cumplimiento, validez, terminación o cualquier otra causa relacionada
+con él, se resolverá mediante un árbitro elegido de común
+acuerdo; o en su defecto, la justicia ordinaria.
+
+DECIMO PRIMERO: Corretaje. El promitente comprador pagara
+el monto pactado de la comisión de gestión de corretaje más
+impuestos a Llavepropiedades, representada por dona Alejandra
+Manquilef Bachler, en los términos y condiciones convenidos; y el
+promitente vendedor pagara el monto pactado de la comisión de
+
+D
+H
+
+JX
+Z
+
+E
+K
+
+F
+X
+
+J
+
+C-11125-2020
+
+Foja: 1
+gestión de corretaje más impuestos a Ventana Urbana Ltda.,
+representada por doña Vania Ruiz Cabrera, cuyo pago se hará
+efectivo contra la firma de la escritura prometida en notaria. La parte
+incumplidora deberá pagar a LLavepropiedades y a Ventana Urbana
+Ltda., una comisión correspondiente a la suma de ambas
+comisiones por concepto de corretaje, más el impuesto al valor
+agregado sobre dicha cantidad. Las partes dejan constancia, que la
+presente clausula la han otorgado en beneficio exclusivo de
+Llavepropiedades y de Ventana Urbana Ltda. Por consiguiente, las
+partes declaran que la presente clausula no podrá ser alterada,
+modificada o dejada sin efecto sin la concurrencia y el consentimiento
+conjunto y por escrito de las partes contratantes, de Llavepropiedades
+y de Ventana Urbana Ltda.”
+
+Cabe concluir, que si bien ante el incumplimiento de cualquiera
+de las partes del contrato, se dispuso en primer lugar una cláusula
+penal a modo de avaluación anticipada de perjuicios entre estas, y en
+segundo, el pago de las comisiones a las corredoras por parte del
+incumplidor, lo cierto es que también se pactó someter a arbitraje
+cualquier duda o dificultad que surja entre las partes con motivo del
+contrato, señalando entre estas, el cumplimiento, como ocurre en el
+caso, y que se acredita con la documentación acompañada por ambas
+partes, respecto a las causas sometidas a conocimiento del Centro de
+Arbitraje y Mediación de Santiago, en relación al contrato de promesa
+y su cumplimiento, por tanto, aun no existe un título o sentencia
+declarativa ejecutoriada que señale como incumplidor de sus
+obligaciones al demandado.
+
+CUARTO. Que, por lo establecido anteriormente, no nace aun la
+obligación del demandado de responder ante un supuesto
+incumplimiento, cuando ello se está ventilando ante un tribunal arbitral,
+que las mismas partes del contrato de promesa de común acuerdo
+decidieron someter el asunto ante él, sin perjuicio de que las
+demandantes no concurrieran a su firma, pues el pago de la comisión
+depende del cumplimiento o incumplimiento de los contratantes,
+controversia sometida a otro tribunal distinto a este, según lo
+acordado, y no se rindió prueba alguna de que ello se encuentre
+zanjado, en consecuencia se desestimará la demanda deducida.
+
+QUINTO. Que, la restante prueba rendida por las demandantes,
+no logra desvirtuar lo ya establecido.
+
+SEXTO. Que, incumbe probar la existencia de las obligaciones o
+su extinción a quien alega aquéllas o ésta.
+
+D
+H
+
+JX
+Z
+
+E
+K
+
+F
+X
+
+J
+
+C-11125-2020
+
+Foja: 1
+Por estas consideraciones y, visto además, lo dispuesto en los
+artículos 1, 144, 160, 170, 341, 342, 346, y 680 y siguientes del
+Código de Procedimiento Civil; 1437, 1545 y 1698 del Código Civil, se
+declara:
+
+- Que se rechaza, con costas, la demanda deducida.
+
+Regístrese y notifíquese.
+
+PRONUNCIADA POR CAROLINA CANALES MORALES, JUEZ
+SUPLENTE. AUTORIZA, LORETO GREZ BECKER, SECRETARIA
+SUBROGANTE.
+
+Se deja constancia que se dio cumplimiento a lo dispuesto en el inciso final del art. 162
+del C.P.C. en Santiago, veintinueve de Abril de dos mil veintid só
+
+D
+H
+
+JX
+Z
+
+E
+K
+
+F
+X
+
+J
+
+Este documento tiene firma electrónica y su original puede ser
+validado en http://verificadoc.pjud.cl o en la tramitación de la
+causa.
+A contar del 03 de abril de 2022, la hora visualizada
+corresponde al horario de invierno establecido en Chile
+Continental. Para la Región de Magallanes y la Antártica
+Chilena sumar una hora, mientras que para Chile Insular
+Occidental, Isla de Pascua e Isla Salas y Gómez restar dos
+horas. Para más información consulte http://www.horaoficial.cl
+
+2022-04-29T12:58:28-0400
