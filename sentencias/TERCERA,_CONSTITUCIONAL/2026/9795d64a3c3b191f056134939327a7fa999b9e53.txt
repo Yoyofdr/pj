@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045045
 
 rol: 118-2026
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-02-26
 
 caratulado: JOSE LUIS GONZALEZ DUBRAVCIC CONTRA MINISTERIO DE OBRAS PUBLICAS DIRECCIÓN GENERAL DE OO PP DCYF
 
@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Bienes nacionales de uso público, bienes fiscales y municipales
 
-recurso: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

@@ -4,19 +4,19 @@ case_id: 5fdd136d279b992ef3e255b61a9384d5c8a65e71
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045800
 
-rol: 114-2024
+rol: 6230-2026
 
-fecha_sentencia: 2026-03-02
+fecha_sentencia: 2026-02-26
 
-caratulado: JOSE AURELIO PONTILLO LIRA Y OTRA CON FISCO DE CHILE - CDE
+caratulado: FRANTZ-CIE FLEURIDORT CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Responsabilidad extracontractual del Estado por Violaciones a los derechos humanos
+materias: ▪ Recurso de Amparo
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: RECHAZA CASACION EN EL FONDO (M)
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

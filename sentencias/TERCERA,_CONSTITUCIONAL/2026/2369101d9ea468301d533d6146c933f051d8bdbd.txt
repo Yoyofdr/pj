@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046360
 
 rol: 58409-2025
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-02-26
 
 caratulado: CAJIAO PIZARRO OSCAR ANTONIO CONTRA SEGOVIA RIVERA MIGUEL ARTUR Y OTROS
 
@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Potestad disciplinaria
 
-recurso: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
