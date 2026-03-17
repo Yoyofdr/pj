@@ -4,15 +4,15 @@ case_id: ddd21413051e46c0e5be11bb8bb71bea7274f746
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040853
 
-rol: 56726-2025
+rol: 42084-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: VILIGRON/ADMINISTRADORA DE FONDOS DE CESANTIA
+caratulado: QUINTERO/SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Seguros
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
