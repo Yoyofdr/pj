@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044116
 
 rol: 7204-2026
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-02-26
 
 caratulado: EUROCAPITAL S.A./UNIVERSIDAD DE LA SERENA
 
@@ -14,7 +14,7 @@ sala: PRIMERA, CIVIL
 
 materias: ▪ Admisibilidad del recurso de casación en el fondo
 
-recurso: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: RECHAZA CASACION EN EL FONDO
 
