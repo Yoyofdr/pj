@@ -4,50 +4,35 @@ case_id: c0273bb2c7f5cb5b2e5198415f81887500a2a546
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046892
 
-rol: 49807-2024
+rol: 9524-2026
 
-fecha_sentencia: 2026-03-03
+fecha_sentencia: 2026-03-02
 
-caratulado: CDE- FISCO/ALCAÍNO
+caratulado: COLIMON FALTHER CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Admisibilidad del recurso de revisión
+materias: (CRIMEN) APELACIÓN AMPARO
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: ACOGE RECURSO DE REVISIÓN (M)
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
+Corte Apelaciones ▼
 Santiago, tres de marzo de dos mil veintiséis.
 
 Vistos y teniendo únicamente presente:
-Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de veinte de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de San Miguel, en el Ingreso Corte N° 253 - 2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.
+Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de veinte de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N° 752 - 2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.
 
 Regístrese y devuélvase.
 
-Rol N° 9229 - 2026.
+Rol N° 9524 - 2026.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
-Corte Apelaciones ▼
-Svd.
-San Miguel, veinte de febrero de dos mil veintiséis.
-Visto y teniendo presente:
-
-1°) Que, se deduce acción constitucional de amparo en contra de la resolución de 12 de febrero del presente año dictada por la Séptima Sala de la Corte de Apelaciones de Santiago, que revocó la resolución del tribunal a quo, y mantuvo la medida cautelar de prisión preventiva, respecto de Joan Manuel Rebolledo Caldera.
-2°) Que, conforme el artículo 21 de la Carta Fundamental, la acción de que se trata, se ejerce en favor de quien se hallare arrestado, detenido o preso con infracción a lo dispuesto en la Constitución Política de la República o la ley, esto es, tiene por finalidad cautelar la libertad personal y la seguridad individual, entendida esta última como la garantía de que aquélla no será afectada sino conforme a derecho;
-3°) Que, para esos efectos y, según la misma norma, tal recurso debe ser conocido “por la magistratura que señale la ley”, mandato que cumple el artículo 63 del Código Orgánico de Tribunales, señalando que corresponde a las Cortes de Apelaciones conocerlos en primera instancia;
-4°) Que, ahora bien, como ha reflexionado la Excma. Corte Suprema en sentencia de primero de julio de dos mil veinte, en la causa ingreso N°76.433- 2020, no resulta procedente recurrir por la vía de una acción cautelar respecto de lo resuelto por una Corte de Apelaciones ante otro tribunal de igual jerarquía y distinta jurisdicción, para que esta última revise el mérito de dicha decisión, “…por cuanto significaría darle competencia impropia como tribunal superior, lo que afecta seriamente las reglas sobre competencia contenidas en el Código Orgánico de Tribunales, entre ellas la del grado y jerarquía, y puede constituir seriamente una vulneración del artículo 7° de la Constitución Política de la República”;
-5°) Que, a mayor abundamiento, de acuerdo al mismo fallo citado, habiéndose conocido de un asunto por las instancias previstas para ello, no es posible volver a discutirlo, que es justamente lo ocurrido, según se consignó en el motivo primero precedente;
-6°) Que, así las cosas, no puede acogerse a tramitación el arbitrio interpuesto ya que, aceptar lo contrario, implica el desapego al principio de juridicidad y erigirlo en un instrumento que propicia la revisión anómala e impropia de lo actuado por otro tribunal superior, de igual jerarquía –como se dijo- y, distorsionar, en consecuencia, tanto su finalidad, como la regularidad elemental del procedimiento que lo rige;
-7°) Que, a mayor abundamiento, este criterio ha sido ratificado por la Excma. Corte Suprema en los fallos N°59.781-2024, N°59.893-2024, N°60.734- 2024, N°61.300-2024 y N°5661-2025, N°15.433-2025, N°16.415-2025, N°20.461-2025, N°27.939-2025, N°31.120-2025, N°32.783-2025, N°35.790-2025, N°36.275-2025, N°37.211-2025, N°38.350-2025, N°38.790-2025,N° 40.185-2025, N°40.374-2025, N°40.375-2025, N°46.788-2025, N°47.895-2025, N°52.169-2025, N°52.262-2025, N°52.263-2025, N°52.264-2025, N°57.546-2025, N°57.549-2025, N°57.553-2025, N°141-2026, N°334-2026, N°2556-2026, N°3284-2026 y N°5711-2026.
-Por estas razones, se declara inadmisible la acción constitucional de amparo ejercida.
-
-Archívese, en su oportunidad.
-
-Rol N°253-2026 Amparo.
+Santiago, tres de marzo de dos mil veintiséis.Vistos y teniendo únicamente presente:Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de veinte de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de San Miguel, en el Ingreso Corte N° 253 - 2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.Regístrese y devuélvase.Rol N° 9229 - 2026. Santiago, tres de marzo de dos mil veintiséis.Vistos y teniendo únicamente presente:Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de veinte de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de San Miguel, en el Ingreso Corte N° 253 - 2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.Regístrese y devuélvase.Rol N° 9229 - 2026. Sentencia anonimizada
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------

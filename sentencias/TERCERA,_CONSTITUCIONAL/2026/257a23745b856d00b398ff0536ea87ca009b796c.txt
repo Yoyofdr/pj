@@ -4,19 +4,19 @@ case_id: 257a23745b856d00b398ff0536ea87ca009b796c
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046737
 
-rol: 54601-2025
+rol: 54441-2025
 
 fecha_sentencia: 2026-03-02
 
-caratulado: PATIÑO SALDAÑA FELIPE RIGOBERTO CONTRA LIGA DEPORTIVA MAGISTERIAL DE FUTBOL DE IQUIQUE
+caratulado: PONCE FUENTES TAMMY / ILUSTRE MUNICIPALIDAD DE QUILPUÉ
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Protecciones en contra de particulares
+materias: ▪ Función pública
 
-recurso: (CIVIL) CASACIÓN FORMA Y FONDO
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA EN LO APELADO
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
