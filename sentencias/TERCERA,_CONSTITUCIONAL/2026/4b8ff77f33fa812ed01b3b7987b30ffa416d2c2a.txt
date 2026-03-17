@@ -4,17 +4,17 @@ case_id: 4b8ff77f33fa812ed01b3b7987b30ffa416d2c2a
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062611
 
-rol: 41072-2025
+rol: 58418-2025
 
 fecha_sentencia: 2026-03-12
 
-caratulado: MACÍAS/BANCO DEL ESTADO D E CHILE
+caratulado: IVÁN MARCELO MORALES CAAMAÑO /MUNICIPALIDAD DE YUMBEL
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Potestad disciplinaria
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
 
 resultado_recurso: REVOCADA SENTENCIA APELADA
 

@@ -4,19 +4,19 @@ case_id: 9bcc2dee05e3ffaa42dc3d133f989dd4a1e9f23d
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062688
 
-rol: 5633-2025
+rol: 44457-2025
 
-fecha_sentencia: 2026-03-13
+fecha_sentencia: 2026-03-12
 
-caratulado: MUÑOZ/MUNICIPALIDAD DE LAMPA
+caratulado: GARRAMUÑO/CAJA DE COMPENSACIÓN DE ASIGNACIÓN FAMILIAR LOS ANDES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) CASACIÓN FONDO
+materias: ▪ Caja de compensación de asignación familiar
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

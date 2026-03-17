@@ -4,17 +4,17 @@ case_id: d591b3173898cefd7fc7d2483ed9800322aa4c03
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062969
 
-rol: 41499-2025
+rol: 58411-2025
 
-fecha_sentencia: 2026-03-13
+fecha_sentencia: 2026-03-12
 
-caratulado: ABARCA/METLIFE CHILE SEGUROS DE VIDA S.A..
+caratulado: PÉREZ/I. MUNICIPALIDAD DE COQUIMBO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) CASACIÓN FONDO
+materias: ▪ Potestad disciplinaria
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CIVIL) APELACIÓN RECLAMACIÓN
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
