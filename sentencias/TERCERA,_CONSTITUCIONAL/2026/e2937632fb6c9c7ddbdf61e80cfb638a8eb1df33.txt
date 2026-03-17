@@ -4,11 +4,11 @@ case_id: e2937632fb6c9c7ddbdf61e80cfb638a8eb1df33
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049182
 
-rol: 4903-2026
+rol: 3945-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: LUIS ALBERTO ROBLES VERA/ CAJA DE COMPENSACIÓN LOS HÉROES Y OTROS
+caratulado: SCARLETT JULISSA DEL CARMEN TAPIA RUBILAR/ SUPERINTENDENCIA DE SEGURIDAD SOCIAL Y OTRO
 
 sala: TERCERA, CONSTITUCIONAL
 

@@ -4,15 +4,15 @@ case_id: 9c32b73028413e2bdc3fee7dedb001a7e1d659b1
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8048814
 
-rol: 44931-2025
+rol: 30321-2025
 
 fecha_sentencia: 2026-03-04
 
-caratulado: CIPIRÁN/RAMOS
+caratulado: MAMANI/SERVICIO NACIONAL DE MIGRACIONES DE DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Migración y Extranjería
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
