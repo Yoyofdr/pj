@@ -4,17 +4,17 @@ case_id: 1b9edb3510800c6db4a1c2e9c0c87114834455e6
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046215
 
-rol: 6218-2026
+rol: 6678-2026
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-02-26
 
-caratulado: TRILLOS IBAÑEZ GENESIS MARINEY CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: VENISE BENOIT MARIE CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

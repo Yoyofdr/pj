@@ -4,17 +4,17 @@ case_id: c402e1a205a9411de6a771bee1a1188eaffd28cb
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045803
 
-rol: 8438-2026
+rol: 48625-2025
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-02-26
 
-caratulado: I. MUNICIPALIDAD DE OVALLE/SUPERINTEDENCIA DE EDUCACION
+caratulado: ALMONACID/FONDO NACIONAL DE SALUD (FONASA)
 
 sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Potestad sancionadora
 
-recurso: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

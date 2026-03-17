@@ -4,17 +4,17 @@ case_id: 60ae02e7d376c1b4ed0669462a977cc901572ffe
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045811
 
-rol: 53702-2024
+rol: 5305-2025
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-02-26
 
-caratulado: SERVICIO NACIONAL DEL CONSUMIDOR CON IBERIA LÍNEAS AÉREAS DE ESPAÑA S.A. OPERADORA AGENCIA EN CHILE (S)
+caratulado: ITAU CORPBANCA CON FISCO DE CHILE - C.D.E (E)
 
 sala: PRIMERA, CIVIL
 
-materias: ▪ Acción interés colectivo o difuso
+materias: ▪ Juicio ejecutivo. Factura
 
-recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: RECHAZA CASACION EN EL FONDO (M)
 
