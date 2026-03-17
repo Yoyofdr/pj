@@ -4,11 +4,11 @@ case_id: 702a5f43d196aa00edd5a73ef122b50269fc6069
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8037446
 
-rol: 6240-2026
+rol: 7165-2026
 
 fecha_sentencia: 2026-02-24
 
-caratulado: FREJUSTE ISMAEL CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: ZHANG ZHISHUANG CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
@@ -20,12 +20,14 @@ resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
+Corte Apelaciones ▼
 Santiago, veinticuatro de febrero de dos mil veintiséis.
-Visto:
-Se confirma la sentencia apelada de cinco de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N°Amparo-520-2026.
-Acordado con la prevención del Abogado Integrante Sr. Ferrada, quien estuvo por rechazar el arbitrio intentado, por exceder los márgenes de lo dispuesto en el artículo 21 de la Constitución Política de la República, al encontrarse el amparado legalmente privado de su libertad por orden judicial, y haber actuado la autoridad impugnada en el ejercicio de sus facultades legales, sin perjuicio de su derecho a recurrir de esta y otras decisiones relativas a la ejecución de su condena ante el Juzgado de Garantía competente, de conformidad con lo dispuesto en el artículo 466 del Código Procesal Penal y en el artículo 14, letra f) del Código Orgánico de Tribunales.
+Visto y teniendo únicamente presente:
+Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de once de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Valparaíso, en el Ingreso Corte N° 462-2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.
+Acordado con el voto en contra del Ministro Suplente Sr. Mera, quien estuvo por confirmar el fallo en alzada, teniendo presente únicamente que los antecedentes expuestos en el recurso no dan cuenta de hechos que, según el artículo 21 de la Constitución Política de la República, correspondan a aquellos susceptibles de la cautela requerida por esta vía.
 Regístrese y devuélvase.
-Rol N°6249-2026.
+
+Rol N° 7165-2026.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------

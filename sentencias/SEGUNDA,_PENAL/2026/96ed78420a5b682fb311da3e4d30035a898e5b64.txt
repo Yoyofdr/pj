@@ -4,11 +4,11 @@ case_id: 96ed78420a5b682fb311da3e4d30035a898e5b64
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8037910
 
-rol: 6249-2026
+rol: 4928-2026
 
 fecha_sentencia: 2026-02-24
 
-caratulado: GARCIA PINEDA CLAUDIO ANDRES CONTRA COMISION DE LIBERTAD CONDICIONAL
+caratulado: OLAYA ROMERO JUAN CARLOS CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
