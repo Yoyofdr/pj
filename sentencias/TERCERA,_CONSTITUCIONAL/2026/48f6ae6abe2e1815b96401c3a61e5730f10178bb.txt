@@ -4,11 +4,11 @@ case_id: 48f6ae6abe2e1815b96401c3a61e5730f10178bb
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041008
 
-rol: 4226-2026
+rol: 4229-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: MONTIGLIO/BANMEDICA S.A.
+caratulado: GÓNGORA/ISAPRE CRUZ BLANCA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
