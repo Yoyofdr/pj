@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046971
 
 rol: 7931-2026
 
-fecha_sentencia: 2026-03-03
+fecha_sentencia: 2026-03-02
 
 caratulado: MONCADA CESPEDES ROBIN ALEXIS CONTRA SALA CORTE DE APELACIONES DE TEMUCO
 
@@ -20,24 +20,17 @@ resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
+Corte Apelaciones ▼
 Santiago, tres de marzo de dos mil veintiséis.
 
-VISTOS Y TENIENDO PRESENTE:
-Primero: Que en este procedimiento de liquidación voluntaria de empresa deudora, seguido ante el Séptimo Juzgado Civil de Santiago, bajo el Rol C-13377-2023, caratulado “/Goico Consultores SpA”, se ha ordenado dar cuenta de la admisibilidad de los recursos de casación en la forma y en el fondo deducidos por la empresa deudora, contra la sentencia de la Corte de Apelaciones de esta ciudad, de veintidós de enero de dos mil veintiséis, que confirmó la resolución de primer grado, de diecisiete de enero de dos mil veinticinco, que acogió el incidente declarando la mala fe de la empresa deudora en la venta que indica, con costas.
-Segundo: Que la impugnante de nulidad formal sustenta su arbitrio en la causal prevista en el numeral 5° del artículo 768 del Código de Procedimiento Civil, en relación con el numeral 4° del artículo 170 del mismo cuerpo legal.
+Vistos y teniendo únicamente presente:
+Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de diecisiete de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Valdivia, en el Ingreso Corte N° 60-2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.
 
-Por otra parte, la recurrente funda el arbitrio de nulidad de fondo en la infracción de los artículos 5, 115, 116 y 169 A de la Ley N° 20.720, en relación con los artículos cuarto y quinto transitorios de la Ley N° 21.563, y el artículo 19 N° 3 de la Constitución Política de la República.
-Solicita se anule el fallo recurrido y se dicte sentencia de reemplazo que revoque la resolución de primer grado y niegue lugar a la demanda incidental.
+Acordada con el voto en contra de la Ministra Sra. Gajardo, quien estuvo por confirmar la resolución apelada en virtud de sus propios fundamentos.
 
-Tercero: Que el artículo 766 del Código de Procedimiento Civil dispone que se admite el recurso de casación en la forma contra sentencias definitivas y contra sentencias interlocutorias cuando ponen término al juicio o hacen imposible su continuación y, excepcionalmente, contra las sentencias interlocutorias dictadas en segunda instancia sin previo emplazamiento de la parte agraviada, o sin señalar día para la vista de la causa.
-A su turno, el artículo 767 del Código de Procedimiento Civil dispone que se admite el recurso de casación en el fondo contra sentencias definitivas inapelables, y sentencias interlocutorias inapelables cuando ponen término al juicio o hacen imposible su continuación, dictadas -en lo que interesa para el presente caso- por Cortes de Apelaciones, siempre que se hayan pronunciado con infracción de ley influyendo substancialmente en lo dispositivo del fallo.
-Cuarto: Que, como puede advertirse, la resolución impugnada por esta vía no presenta las características de aquéllas aludidas en el motivo precedente, toda vez que no es una sentencia definitiva, ni tampoco una interlocutoria que haya concluido el juicio, ni hecho imposible su prosecución; razón por la que los recursos de nulidad intentados no pueden admitirse a tramitación.
+Regístrese y devuélvase.
 
-Por estas consideraciones y de conformidad, además, con lo dispuesto en los artículos 764, 765, 766, 767, 768, 781 y 782 del Código de Procedimiento Civil, se declaran inadmisibles los recursos de casación en la forma y en el fondo, interpuestos por el abogado Francisco Goic González, en representación por la empresa deudora, contra la sentencia de veintidós de enero de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago.
-Al folio 6: a lo principal, téngase presente; al otrosí, estese al mérito de autos.
-Regístrese, notifíquese, comuníquese y devuélvase, vía interconexión.
-
-Rol N° 7495-2026
+Rol N° 7931-2026.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------

@@ -4,11 +4,11 @@ case_id: a532e6fed8f9d721cc075e38f99fa0cf785e7369
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047217
 
-rol: 8246-2026
+rol: 7172-2026
 
-fecha_sentencia: 2026-03-03
+fecha_sentencia: 2026-03-02
 
-caratulado: VILLALOBOS OLAVE JAIME EUGENIO Y OTRO CONTRA ILUSTRÍSIMA CORTE DE APELACIONES DE SANTIAGO
+caratulado: MONTANO UCULMANA MARIELLA ELIZABETH CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
@@ -16,7 +16,7 @@ materias: ▪ Recurso de Amparo
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

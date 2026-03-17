@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046557
 
 rol: 9352-2026
 
-fecha_sentencia: 2026-03-03
+fecha_sentencia: 2026-03-02
 
 caratulado: QUEZADA LAGOS PABLO ANTONIO CONTRA CUARTO TRIBUNAL DE JUICIO ORAL EN LO PENAL DE SANTIAGO
 

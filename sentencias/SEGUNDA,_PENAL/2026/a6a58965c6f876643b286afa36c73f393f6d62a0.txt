@@ -4,45 +4,64 @@ case_id: a6a58965c6f876643b286afa36c73f393f6d62a0
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047259
 
-rol: 8431-2026
+rol: 9097-2026
 
-fecha_sentencia: 2026-03-03
+fecha_sentencia: 2026-03-02
 
-caratulado: CARABALI TOLOZA LINA MARCELA CONTRA 6 JUZGADO DE GARANTIA DE SANTIAGO
+caratulado: RODRÍGUEZ VERA NESTOR ALBERTO CONTRA COMISIÓN DE LIBERTAD CONDICIONAL ARICA Y PARINACOTA
 
 sala: SEGUNDA, PENAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Recurso de Amparo
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
 Santiago, tres de marzo de dos mil veintiséis.
-
-Vistos y teniendo únicamente presente:
-Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de dieciséis de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N° 694 - 2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.
-
+Vistos:
+Se confirma la sentencia apelada de trece de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Arica, en el Ingreso Corte N°Amparo-66-2026.
 Regístrese y devuélvase.
-
-Rol N° 8422 - 2026
+Rol N°9097-2026.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
-Corte Apelaciones ▼
-pbo
-C.A. de Santiago
-Santiago, dieciséis de febrero de dos mil veintiséis.
-Al folio N°1: a lo principal y al primer otrosí, aténgase a lo que se resolverá; al segundo otrosí, téngase presente.
-Vistos y teniendo presente:
-1°) Que, según se colige de lo establecido en los artículos 21 de la Carta Fundamental y 7.6 de la Convención Americana de Derechos Humanos, la acción constitucional de amparo tiene como finalidad esencial controlar la “legalidad” de eventuales afectaciones o amenazas a la libertad personal y seguridad individual, en términos de verificar que, de mediar, se ajusten a la Constitución y a las leyes;
-2°) Que, los antecedentes expuestos en el recurso no dan cuenta de hechos que, según el artículo 21 de la Constitución Política de la República, correspondan a aquellos susceptibles de la cautela impetrada por esta vía, al no vulnerar o amenazar la libertad personal y la seguridad individual, entendida esta última como la garantía de que la libertad personal no pueda ser afectada sino en los casos previstos por la ley, máxime si, de lo expuesto, se advierte que el ordenamiento jurídico concede y reconoce al recurrente el remedio idóneo para poner término a la situación descrita en el libelo, ejerciendo su derecho de defensa a través de la vía del recurso de protección.
-Por estas consideraciones, y lo dispuesto por el artículo 21 de la Constitución Política de la República, se declara inadmisible el recurso deducido en estos autos.
-Archívese en su oportunidad.
-N°Amparo-694-2026.
+Arica, trece de febrero de dos mil veintiséis.
+VISTO:
+
+Se dedujo recurso de amparo en favor de NESTOR ALBERTO RODRIGUEZ VERA, en contra de la Comisión de Libertad Condicional a efectos de obtener su libertad condicional, en virtud del Decreto Ley N° 321 de 1925.
+
+Señala que el amparado se encuentra cumpliendo una condena de 541 días de presidio menor en su grado medio por el delito de receptación de vehículo motorizado, una condena de 4 años de presidio menor en su grado máximo por el delito de tenencia ilegal de armas de Fuego, tenencia ilegal de municiones y receptación.
+
+Indica que la Comisión de Libertad Condicional rechazó la petición de su representado por estimar que no cumplía con todos los requisitos necesarios para un cumplimiento en libertad
+
+Afirma que el amparado cumple a cabalidad todos y cada uno de los requisitos exigidos por el Decreto Ley N° 321 sobre Libertad Condicional y su reglamento para optar a la libertad condicional y cuenta con avances comprobables dentro su Proceso de Reinserción Social.
+Pide que se acoja el recurso otorgando al amparado el beneficio de cumplir bajo el régimen de libertad condicional el saldo de la pena.
+Informó el Juez Gabriel Ormeño Valdebenito miembro de la Comisión de Libertad Condicional quien señaló que la decisión de la Comisión se adoptó teniendo en cuenta el mérito del informe elaborado por Gendarmería de Chile en el cual se desprende, en síntesis, que el amparado no cumple con todos los requisitos necesarios para el cumplimiento de la pena en libertad, concluyendo que el amparado no podrá reinsertarse adecuadamente en la sociedad, compartiendo la sugerencia del informe psicosocial relativa a la continuación en el sistema cerrado.
+
+Se agregó además el informe de Gendarmería de Chile que da cuenta que el amparado inició el cumplimiento de condena el 15 de mayo de 2023, su fecha de término es el 8 de febrero de 2028 y cumplió el tiempo mínimo para optar al beneficio el 14 de mayo de 2025.
+
+Se trajeron los autos en relación
+
+CONSIDERANDO Y TENIENDO PRESENTE:
+
+PRIMERO: Que, la acción de amparo, prevista en el artículo 21 de la Constitución Política de la República, tiene por objeto proteger a las personas que ilegal o arbitrariamente sufren cualquier privación, perturbación o amenaza en su derecho a la libertad personal y/o a la seguridad individual, motivo por el cual y considerando que en definitiva el acto denunciado concierne a aquel en virtud del cual se negó al amparado el beneficio de libertad condicional, corresponderá entonces determinar si, en la especie, la Comisión de Libertad Condicional, al decidir como lo hizo, incurrió efectivamente de modo ilegítimo en alguna vulneración a los derechos fundamentales precedentemente citados.
+
+SEGUNDO: Que, examinados los antecedentes que obran en el proceso, fundamentalmente el Informe de Postulación Psicosocial del amparado, elemento calificado en análisis, conforme a lo dispuesto en el artículo 2° numeral 3) del Decreto Ley 321, se advierte que el amparado aun requiere variados aspectos a intervenir tales como actitud y orientación pro criminal, prevención selectiva de drogas, asociación a pares infractores, control de impulsividad, control de ira y hostilidad, integración social y comunicación efectiva y desarrollo de empatía, requiriendo de apoyo y orientación para lograr un cambio estable y permanente en el tiempo, por lo que se comparte la decisión de la Comisión de Libertad Condicional.
+
+TERCERO: Que, de lo expuesto en el motivo precedente se concluye que la actuación de la recurrida no resulta ser ilegal, toda vez que actuó dentro de sus facultades legales y fundamentó la negativa al cumplimiento de la pena impuesta en la modalidad pretendida.
+
+Por estas consideraciones, lo preceptuado en el artículo 21 de la Constitución Política de la República, se resuelve:
+
+Que, SE RECHAZA el recurso de amparo interpuesto en favor de NESTOR ALBERTO RODRIGUEZ VERA.
+Comuníquese al Jefe del Complejo Penitenciario de Acha y al Director Regional de Gendarmería de Chile.
+
+Regístrese, notifíquese y archívese en su oportunidad.
+
+Rol N° 66-2026 Amparo.
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------
-pboC.A. de SantiagoSantiago, dieciséis de febrero de dos mil veintiséis.Al folio N°1: a lo principal y al primer otrosí, aténgase a lo que se resolverá; al segundo otrosí, téngase presente.Vistos y teniendo presente:1°) Que, según se colige de lo establecido en los artículos 21 de la Carta Fundamental y 7.6 de la Convención Americana de Derechos Humanos, la acción constitucional de amparo tiene como finalidad esencial controlar la “legalidad” de eventuales afectaciones o amenazas a la libertad personal y seguridad individual, en términos de verificar que, de mediar, se ajusten a la Constitución y a las leyes;2°) Que, los antecedentes expuestos en el recurso no dan cuenta de hechos que, según el artículo 21 de la Constitución Política de la República, correspondan a aquellos susceptibles de la cautela impetrada por esta vía, al no vulnerar o amenazar la libertad personal y la seguridad individual, entendida esta última como la garantía de que la libertad personal no pueda ser afectada sino en los casos previstos por la ley, máxime si, de lo expuesto, se advierte que el ordenamiento jurídico concede y reconoce al recurrente el remedio idóneo para poner término a la situación descrita en el libelo, ejerciendo su derecho de defensa a través de la vía del recurso de protección.Por estas consideraciones, y lo dispuesto por el artículo 21 de la Constitución Política de la República, se declara inadmisible el recurso deducido en estos autos.Archívese en su oportunidad.N°Amparo-694-2026.                        ⚠                      Sin documento en esta instancia - pdf
+Arica, trece de febrero de dos mil veintiséis.VISTO:Se dedujo recurso de amparo en favor de NESTOR ALBERTO RODRIGUEZ VERA, en contra de la Comisión de Libertad Condicional a efectos de obtener su libertad condicional, en virtud del Decreto Ley N° 321 de 1925.Señala que el amparado se encuentra cumpliendo una condena de 541 días de presidio menor en su grado medio por el delito de receptación de vehículo motorizado, una condena de 4 años de presidio menor en su grado máximo por el delito de tenencia ilegal de armas de Fuego, tenencia ilegal de municiones y receptación.Indica que la Comisión de Libertad Condicional rechazó la petición de su representado por estimar que no cumplía con todos los requisitos necesarios para un cumplimiento en libertadAfirma que el amparado cumple a cabalidad todos y cada uno de los requisitos exigidos por el Decreto Ley N° 321 sobre Libertad Condicional y su reglamento para optar a la libertad condicional y cuenta con avances comprobables dentro su Proceso de Reinserción Social. Pide que se acoja el recurso otorgando al amparado el beneficio de cumplir bajo el régimen de libertad condicional el saldo de la pena.Informó el Juez Gabriel Ormeño Valdebenito miembro de la Comisión de Libertad Condicional quien señaló que la decisión de la Comisión se adoptó teniendo en cuenta el mérito del informe elaborado por Gendarmería de Chile en el cual se desprende, en síntesis, que el amparado no cumple con todos los requisitos necesarios para el cumplimiento de la pena en libertad, concluyendo que el amparado no podrá reinsertarse adecuadamente en la sociedad, compartiendo la sugerencia del informe psicosocial relativa a la continuación en el sistema cerrado.  Se agregó además el informe de Gendarmería de Chile que da cuenta que el amparado inició el cumplimiento de condena el 15 de mayo de 2023, su fecha de término es el 8 de febrero de 2028 y cumplió el tiempo mínimo para optar al beneficio el 14 de mayo de 2025.Se trajeron los autos en relaciónCONSIDERANDO Y TENIENDO PRESENTE:PRIMERO: Que, la acción de amparo, prevista en el artículo 21 de la Constitución Política de la República, tiene por objeto proteger a las personas que ilegal o arbitrariamente sufren cualquier privación, perturbación o amenaza en su derecho a la libertad personal y/o a la seguridad individual, motivo por el cual y considerando que en definitiva el acto denunciado concierne a aquel en virtud del cual se negó al amparado el beneficio de libertad condicional, corresponderá entonces determinar si, en la especie, la Comisión de Libertad Condicional, al decidir como lo hizo, incurrió efectivamente de modo ilegítimo en alguna vulneración a los derechos fundamentales precedentemente citados.SEGUNDO: Que, examinados los antecedentes que obran en el proceso, fundamentalmente el Informe de Postulación Psicosocial del amparado, elemento calificado en análisis, conforme a lo dispuesto en el artículo 2° numeral 3) del Decreto Ley 321, se advierte que el amparado aun requiere variados aspectos a intervenir tales como actitud y orientación pro criminal, prevención selectiva de drogas, asociación a pares infractores, control de impulsividad, control de ira y hostilidad, integración social y comunicación efectiva y desarrollo de empatía, requiriendo de apoyo y orientación para lograr un cambio estable y permanente en el tiempo, por lo que se comparte la decisión de la Comisión de Libertad Condicional.TERCERO: Que, de lo expuesto en el motivo precedente se concluye que la actuación de la recurrida no resulta ser ilegal, toda vez que actuó dentro de sus facultades legales y fundamentó la negativa al cumplimiento de la pena impuesta en la modalidad pretendida.Por estas consideraciones, lo preceptuado en el artículo 21 de la Constitución Política de la República, se resuelve:Que, SE RECHAZA el recurso de amparo interpuesto en favor de NESTOR ALBERTO RODRIGUEZ VERA.Comuníquese al Jefe del Complejo Penitenciario de Acha y al Director Regional de Gendarmería de Chile. Regístrese, notifíquese y archívese en su oportunidad.Rol N° 66-2026 Amparo.                        ⚠                      Sin documento en esta instancia - pdf

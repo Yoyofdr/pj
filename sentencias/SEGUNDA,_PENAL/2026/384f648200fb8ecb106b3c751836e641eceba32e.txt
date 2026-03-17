@@ -4,17 +4,17 @@ case_id: 384f648200fb8ecb106b3c751836e641eceba32e
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046568
 
-rol: 7172-2026
+rol: 7164-2026
 
 fecha_sentencia: 2026-03-02
 
-caratulado: MONTANO UCULMANA MARIELLA ELIZABETH CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: GARCÍA UTRERA RHONAN JOSÉ CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) CASACIÓN FORMA Y FONDO
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
