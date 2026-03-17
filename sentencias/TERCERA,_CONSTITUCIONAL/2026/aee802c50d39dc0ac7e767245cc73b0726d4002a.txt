@@ -4,19 +4,19 @@ case_id: aee802c50d39dc0ac7e767245cc73b0726d4002a
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8039949
 
-rol: 17938-2024
+rol: 4232-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: IMELSA S.A. CON DIRECTOR EJECUTIVO DEL SERVICIO DE EVALUACION AMBIENTAL
+caratulado: SILVA/ISAPRE CRUZ BLANCA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Sistema de Evaluación de impacto ambiental (SEIA)
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: RECHAZADAS CASACIÓN FORMA Y FONDO
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

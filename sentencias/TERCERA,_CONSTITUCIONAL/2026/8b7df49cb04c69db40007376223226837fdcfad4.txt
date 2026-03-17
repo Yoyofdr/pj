@@ -4,11 +4,11 @@ case_id: 8b7df49cb04c69db40007376223226837fdcfad4
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040831
 
-rol: 5955-2026
+rol: 58476-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: JORDÁN/ISAPRE VIDA TRES S.A.
+caratulado: PEREZ/MINISTERIO DEL INTERIOR Y SEGURIDAD PUBLICA DE CHILE
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
