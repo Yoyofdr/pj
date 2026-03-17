@@ -4,11 +4,11 @@ case_id: 75d6e4a9e99f803213ec933f89cb19a59cacead6
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046996
 
-rol: 3228-2026
+rol: 56652-2025
 
 fecha_sentencia: 2026-03-03
 
-caratulado: GONZALEZ/SERVICIO NACIONAL DE MIGRACIONES
+caratulado: JOSEPH/SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CRIMEN) APELACIÓN AMPARO
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
