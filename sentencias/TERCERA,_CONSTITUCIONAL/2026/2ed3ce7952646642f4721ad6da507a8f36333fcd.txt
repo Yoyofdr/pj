@@ -4,15 +4,15 @@ case_id: 2ed3ce7952646642f4721ad6da507a8f36333fcd
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040408
 
-rol: 7591-2026
+rol: 159-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: BRACHO/AFP PROVIDA S.A.
+caratulado: SEGOVIA HERRERA ORANGEL XAVIEL/SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Previsional
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
