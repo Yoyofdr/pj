@@ -4,17 +4,17 @@ case_id: b8197db804d2ca519df01de20f930e671917639f
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041557
 
-rol: 6045-2026
+rol: 6048-2026
 
 fecha_sentencia: 2026-02-26
 
-caratulado: ANONIMIZADO
+caratulado: MARIE-GENA HUBERT MICHEL CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CIVIL) RECLAMO NACIONALIDAD
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

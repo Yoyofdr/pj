@@ -4,19 +4,19 @@ case_id: 4f6f31999cceb22da1fa478f6fda9be4631f9ae9
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041574
 
-rol: 6057-2026
+rol: 247880-2023
 
 fecha_sentencia: 2026-02-26
 
-caratulado: DESULMA LOUISINETTE CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: REYES CON FISCO-CDE
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: ▪ Responsabilidad civil
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CIVIL) RECLAMO NACIONALIDAD
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: RECHAZADAS CASACIÓN FORMA Y FONDO (M)
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

@@ -4,17 +4,17 @@ case_id: ffe1b7770df952e1ab07e47b1bada1ef764c4d06
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041550
 
-rol: 6093-2026
+rol: 7213-2026
 
 fecha_sentencia: 2026-02-26
 
-caratulado: NAHAR/SERVICIO NACIONAL DE MIGRACIONES (LTE)
+caratulado: ANONIMIZADO
 
 sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Reclamo de expulsión de extranjeros
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CIVIL) RECLAMO NACIONALIDAD
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

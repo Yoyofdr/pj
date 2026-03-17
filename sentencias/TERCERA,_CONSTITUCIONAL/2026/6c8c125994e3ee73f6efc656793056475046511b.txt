@@ -12,15 +12,20 @@ caratulado: COBRANZA DE SERVICIOS ÑUBLE SPA/MONTECINOS
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) CASACIÓN FONDO
+materias: (CIVIL) RECLAMO NACIONALIDAD
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CIVIL) RECLAMO NACIONALIDAD
 
 resultado_recurso: CONFIRMA RESOLUCIÓN APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
-Santiago, veintiséis de febrero de dos mil veintiséis.Vistos:Primero: Que según consta del certificado agregado a los presentes antecedentes, el recurrente de casación no se hizo parte en esta causa dentro de plazo, desde que los autos ingresaron a esta Corte, el tres de febrero de dos mil veintiséis; habiendo transcurrido con creces al plazo establecido en la ley para hacerlo.Segundo: Que la Ley N° 20.886, sobre Tramitación Electrónica, en su artículo 1° hace aplicable sus disposiciones a los Tribunales a que se refiere el artículo 5° del Código Orgánico de Tribunales, dentro de los cuales no se encuentran aquellas materias propias de esta causa.Tercero: Que atento lo anterior, subsisten... Santiago, veintiséis de febrero de dos mil veintiséis.Vistos:Primero: Que según consta del certificado agregado a los presentes antecedentes, el recurrente de casación no se hizo parte en esta causa dentro de plazo, desde que los autos ingresaron a esta Corte, el tres de febrero de dos mil veintiséis; habiendo transcurrido con creces al plazo establecido en la ley para hacerlo.Segundo: Que la Ley N° 20.886, sobre Tramitación Electrónica, en su artículo 1° hace aplicable sus disposiciones a los Tribunales a que se refiere el artículo 5° del Código Orgánico de Tribunales, dentro de los cuales no se encuentran aquellas materias propias de esta causa.Tercero: Que atento lo anterior, subsisten...
+Santiago, veintiséis de febrero de dos mil veintiséis.
+Vistos:
+Se confirma la resolución apelada de fecha treinta de enero de dos mil veintiséis, dictada por la Corte de Apelaciones de Chillán.
+Regístrese y devuélvase.
+
+Rol N° 4.900-2026.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
