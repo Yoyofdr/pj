@@ -4,19 +4,19 @@ case_id: b17756cfea44befcbd4e654cc51a3a11e3d36d01
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062736
 
-rol: 21471-2025
+rol: 41499-2025
 
 fecha_sentencia: 2026-03-12
 
-caratulado: GARCIA/SUBSECRETARÍA DEL INTERIOR
+caratulado: ABARCA/METLIFE CHILE SEGUROS DE VIDA S.A..
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN RECLAMACIÓN
+materias: (CIVIL) CASACIÓN FONDO
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (CIVIL) CASACIÓN FONDO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

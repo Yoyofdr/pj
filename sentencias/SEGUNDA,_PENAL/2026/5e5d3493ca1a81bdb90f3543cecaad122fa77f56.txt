@@ -4,30 +4,45 @@ case_id: 5e5d3493ca1a81bdb90f3543cecaad122fa77f56
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062840
 
-rol: 11904-2026
+rol: 9120-2026
 
-fecha_sentencia: 2026-03-13
+fecha_sentencia: 2026-03-12
 
-caratulado: BIEN AIME ROSE MARTINE CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: MADDYNA CHERY CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Recurso de Amparo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) CASACIÓN FONDO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
-Santiago, dieciséis de marzo del dos mil veintiséis.
+Santiago, trece de marzo de dos mil veintiséis.
 
-Vistos y teniendo únicamente presente:
-Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de cuatro de marzo de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N° 924 - 2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.
+Vistos:
+Se reproduce el fallo en alzada, previa eliminación de los considerandos que sustentan la decisión de acoger la acción deducida.
 
+Y se tiene, además, presente:
+Primero: Que, el recurrente dedujo acción de protección, en lo pertinente en contra de la autoridad migratoria, denunciando como arbitraria e ilegal la decisión de revocar tácitamente la permanencia definitiva de la que era beneficiario. Señaló que es residente regular de Chile, contando con permanencia definitiva desde hace años, antes de salir del país. Por ello, solicitó que se acoja el recurso y se deje sin efecto la revocación tácita de su permanencia definitiva para poder permanecer en Chile.
+
+Segundo: Que, para dilucidar la controversia planteada, es preciso tener presente que el artículo 43 del Decreto Ley N°1094 -normativa aplicable al momento en que el actor volvió al país- señalaba: “Se considerará revocada tácitamente la permanencia definitiva de todo extranjero que se ausente del país por un plazo ininterrumpido superior a 1 año. Esta revocación no operará respecto de los casos calificados que determine el reglamento”.
+A su vez, el reglamento respectivo disponía en su artículo 84 que: “La permanencia definitiva quedará tácitamente revocada al cumplir su titular un plazo ininterrumpido superior a un año fuera del país. Los funcionarios del Servicio Exterior, podrán prorrogar la vigencia de la permanencia definitiva en favor de aquellos extranjeros que, por razones de estudio o debido a enfermedad u otra causa justificada, estén impedidos de retornar a Chile, dentro del año, debiendo estampar la constancia pertinente en el certificado de permanencia definitiva. Esta prórroga deberá solicitarse dentro de los 60 días anteriores a su vencimiento. Sólo se podrán conceder hasta 4 prórrogas del permiso de permanencia definitiva, en forma sucesiva y con un año de validez cada una, las que se computarán desde la fecha de vencimiento del plazo primitivo de vigencia. Vencida una prórroga, sin que se haya obtenido una nueva, la permanencia definitiva quedará tácitamente revocada, si el extranjero continúa fuera del país. En todo caso, si el extranjero prorroga la vigencia de su permanencia definitiva, dicha prórrogas mantendrán la plena validez de este permiso, por períodos anuales completos, contados desde la fecha de su salida del país. La revocación señalada en el inciso primero, no operará respecto de los cónyuges extranjeros de funcionarios del Servicio Exterior de Chile.”.
+
+Tercero: Que, de acuerdo con el informe de la Policía de Investigaciones de Chile, la parte recurrente registra como una salida del país por un periodo superior al contemplado en la normativa citada en el motivo precedente, hecho que no fue desvirtuado mediante antecedentes que tengan la entidad suficiente para demostrar la presencia física en Chile. Ello permite colegir que a su respecto puede operar la revocación tácita en los términos señalados por la ley.
+
+Cuarto: Que, en tales circunstancias y en el presente caso no se advierte de modo alguno que el actuar de la recurrida pueda calificarse de ilegal o arbitrario, toda vez que la recurrente de autos se ausentó formalmente del país por más de un año, sin realizar la solicitud de prórroga respectiva, por lo que el recurso debe ser desestimado.
+Asimismo, cabe tener presente que, de conformidad a la normativa, la revocación procede por el sólo ministerio de la ley, una vez configurado el presupuesto que la hace aplicable, siendo las resoluciones del Servicio únicamente actos que constatan dicha circunstancia, pero que no constituye un acto declarativo respecto de la situación migratoria del actor.
+Por estas consideraciones y de conformidad, además, con lo previsto en el artículo 20 de la Constitución Política de la República y Auto Acordado de esta Corte sobre la materia, se revoca la sentencia apelada y, en su lugar, se declara que se rechaza la acción deducida.
 Regístrese y devuélvase.
 
-Rol N° 11904 - 2026
+Rol Nº28201-2025
+Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sra. Adelita Ravanales A., Sr. Jean Pierre Matus A., Sr. Omar Astudillo C., Sr. Gonzalo Ruz L. y el Abogado Integrante Sr. José Miguel Valdivia O. Santiago, 13 de marzo de 2026.
+
+Autoriza el Ministro de Fe de la Excma. Corte Suprema.
+En Santiago, a trece de marzo de dos mil veintiséis, notifiqué en Secretaría por el Estado Diario la resolución precedente.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------

@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de nulidad
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (CIVIL) CASACIÓN FONDO
 
 resultado_recurso: DECLARA COMPETENTE PARA CONOCER NULIDAD CORTE (M)
 

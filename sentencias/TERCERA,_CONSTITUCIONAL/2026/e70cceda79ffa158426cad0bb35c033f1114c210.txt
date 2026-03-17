@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062626
 
 rol: 54729-2025
 
-fecha_sentencia: 2026-03-13
+fecha_sentencia: 2026-03-12
 
 caratulado: MUÑOZ/POLICIA DE INVESTIGACIONES DE CHILE,
 
@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Función pública
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) CASACIÓN FONDO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
