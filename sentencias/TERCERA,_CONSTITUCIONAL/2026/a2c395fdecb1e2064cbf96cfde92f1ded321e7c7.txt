@@ -4,11 +4,11 @@ case_id: a2c395fdecb1e2064cbf96cfde92f1ded321e7c7
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040498
 
-rol: 2759-2026
+rol: 5441-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: CÁNEPA BAASCH / ISAPRE CRUZ BLANCA S.A.
+caratulado: GIULIANO CORREA ALFREDO SALVADOR/ISAPRE BANMÉDICA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
