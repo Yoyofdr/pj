@@ -4,11 +4,11 @@ case_id: 5d8a033cc547483639b6f82093ef25b856d52ad5
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040881
 
-rol: 58491-2025
+rol: 57701-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: PORRAS/ELIZALDE
+caratulado: MORENO BURBANO GINET ALEJANDRA CONTRA SERVICIO NACIONAL DE MIGRACIONES Y OTROS
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

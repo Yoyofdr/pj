@@ -4,11 +4,11 @@ case_id: c9292a6d769d9cdaf7ce516f7a2865397a1a6e47
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040492
 
-rol: 454-2026
+rol: 58491-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: DURAN/SERVICIO NACIONAL DE MIGRACIONES
+caratulado: PORRAS/ELIZALDE
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -22,12 +22,16 @@ TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
 Santiago, veinticinco de febrero de dos mil veintiséis.
 
-Vistos:
-Se confirma la sentencia apelada.
+Vistos y teniendo únicamente presente:
+Primero: Que en estos autos la parte recurrente ha deducido recurso de apelación en contra de la resolución por la que se declaró inadmisible, en cuenta, el recurso de protección deducido.
 
+Segundo: Que el inciso segundo del número 2 del Auto Acordado de esta Corte sobre Tramitación del Recurso de Protección de Garantías Constitucionales dispone: “Presentado el recurso, el Tribunal examinará en cuenta si ha sido interpuesto en tiempo y si se mencionan hechos que puedan constituir la vulneración de garantías de las indicadas en el artículo 20 de la Constitución Política de la República. Si su presentación es extemporánea o no se señalan hechos que puedan constituir vulneración a garantías de las mencionadas en la referida disposición constitucional, lo declarará inadmisible desde luego por resolución fundada, la que sólo será susceptible del recurso de reposición ante el mismo tribunal, el que deberá interponerse dentro de tercero día. En carácter de subsidiario de la reposición, procederá la apelación para ante la Corte Suprema, recurso que será resuelto en cuenta”.
+
+Tercero: Que del mérito de los antecedentes aparece de manifiesto que en el libelo interpuesto en autos se han mencionado hechos que eventualmente pueden constituir la vulneración de garantías de las indicadas en el artículo 20 de la Constitución Política de la República, razón por la que el recurso debió haber sido acogido a tramitación.
+
+Por estas consideraciones y lo dispuesto en el artículo 20 de la Constitución Política de la República y en el Auto Acordado de esta Corte sobre la materia, se revoca la resolución apelada, y en su lugar se declara que el recurso de protección deducido es admisible, debiendo dársele la tramitación correspondiente.
 Regístrese y devuélvase.
-
-Rol N° 159-2026.
+Rol N° 58.491-2025.
 Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sr. Omar Astudillo C., Sr. Gonzalo Ruz L., la ministra suplente Sra. Eliana Quezada M. y las Abogadas Integrantes Sra. Fabiola Esther Lathrop Gómez y Sra. Andrea Paola Ruiz Rosas. Santiago, 25 de febrero de 2026.
 Autoriza el Ministro de Fe de la Excma. Corte Suprema.
 
@@ -35,22 +39,8 @@ En Santiago, a veinticinco de febrero de dos mil veintiséis, notifiqué en Secr
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
-C.A. de Temuco
-Temuco, diecisiete de diciembre de dos mil veinticinco.
-
-VISTOS:
-
-Primero: Que, la razón de ser del recurso de protección es someter al imperio del derecho las acciones u omisiones ilegales y arbitrarias que importen privación, perturbación o amenaza en el legítimo ejercicio de aquellas garantías constitucionales indicadas taxativamente en el artículo 20 de la Constitución Política de la República.
-
-Segundo: Que, conforme consta de los antecedentes del líbelo, el conflicto que allí se expresa dice relación con la declaración de inadmisibilidad de la solicitud de residencia definitiva, reemplazando dicha tramitación por la iniciación de oficio de una residencia temporal en favor del recurrente.
-Tercero: Que, conforme lo hechos relatados en el recurso de protección deducido, no se desprende que pueda existir vulneración de las garantías indicadas en el artículo 20 de la Constitución Política de la República, que requiera del amparo constitucional que la citada norma otorga.
-
-Por estas consideraciones y visto, además, lo dispuesto en la norma Constitucional y legales citadas, se declara INADMISIBLE el recurso de protección deducido a folio 1, por Orangel Xaviel Segovia Herrera y en contra del Servicio Nacional de Migraciones.
-
-Regístrese y archívese, en su oportunidad.
-
-Rol N° Protección-4387-2025.(jog)
+Santiago, veinticinco de febrero de dos mil veintiséis.Vistos:Se confirma la sentencia apelada.Regístrese y devuélvase.Rol N° 159-2026.Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sr. Omar Astudillo C., Sr. Gonzalo Ruz L., la ministra suplente Sra. Eliana Quezada M. y las Abogadas Integrantes Sra. Fabiola Esther Lathrop Gómez y Sra. Andrea Paola Ruiz Rosas. Santiago, 25 de febrero de 2026.Autoriza el Ministro de Fe de la Excma. Corte Suprema.En Santiago, a veinticinco de febrero de dos mil veintiséis, notifiqué en Secretaría por el Estado Diario la resolución precedente. Santiago, veinticinco de febrero de dos mil veintiséis.Vistos:Se confirma la sentencia apelada.Regístrese y devuélvase.Rol N° 159-2026.Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sr. Omar Astudillo C., Sr. Gonzalo Ruz L., la ministra suplente Sra. Eliana Quezada M. y las Abogadas Integrantes Sra. Fabiola Esther Lathrop Gómez y Sra. Andrea Paola Ruiz Rosas. Santiago, 25 de febrero de 2026.Autoriza el Ministro de Fe de la Excma. Corte Suprema.En Santiago, a veinticinco de febrero de dos mil veintiséis, notifiqué en Secretaría por el Estado Diario la resolución precedente. Sentencia anonimizada
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------
-C.A. de TemucoTemuco, diecisiete  de diciembre de dos mil veinticinco.VISTOS:Primero: Que, la razón de ser del recurso de protección es someter al imperio del derecho las acciones u omisiones ilegales y arbitrarias que importen privación, perturbación o amenaza en el legítimo ejercicio de aquellas garantías constitucionales indicadas taxativamente en el artículo 20 de la Constitución Política de la República.Segundo: Que, conforme consta de los antecedentes del líbelo, el conflicto que allí se expresa dice relación con la declaración de inadmisibilidad de la solicitud de residencia definitiva, reemplazando dicha tramitación por la iniciación de oficio de una residencia temporal en favor del recurrente.Tercero: Que, conforme lo hechos relatados en el recurso de protección deducido, no se desprende que pueda existir vulneración de las garantías indicadas en el artículo 20 de la Constitución Política de la República, que requiera del amparo constitucional que la citada norma otorga.Por estas consideraciones y visto, además, lo dispuesto en la norma Constitucional y legales citadas, se declara INADMISIBLE el recurso de protección deducido a folio 1, por Orangel Xaviel Segovia Herrera y en contra del Servicio Nacional de Migraciones.Regístrese y archívese, en su oportunidad.Rol N° Protección-4387-2025.(jog)                        ⚠                      Sin documento en esta instancia - pdf
+C.A. de TemucoTemuco, diecisiete  de diciembre de dos mil veinticinco.VISTOS:Primero: Que, la razón de ser del recurso de protección es someter al imperio del derecho las acciones u omisiones ilegales y arbitrarias que importen privación, perturbación o amenaza en el legítimo ejercicio de aquellas garantías constitucionales indicadas taxativamente en el artículo 20 de la Constitución Política de la República.Segundo: Que, conforme consta de los antecedentes del líbelo, el conflicto que allí se expresa dice relación con la declaración de inadmisibilidad de la solicitud de residencia definitiva, reemplazando dicha tramitación por la iniciación de oficio de una residencia temporal en favor del recurrente.Tercero: Que, conforme lo hechos relatados en el recurso de protección deducido, no se desprende que pueda existir vulneración de las garantías indicadas en el artículo 20 de la Constitución Política de la República, que requiera del amparo constitucional que la citada norma otorga.Por estas consideraciones y visto, además, lo dispuesto en la norma Constitucional y legales citadas, se declara INADMISIBLE el recurso de protección deducido a folio 1, por Orangel Xaviel Segovia Herrera y en contra del Servicio Nacional de Migraciones.Regístrese y archívese, en su oportunidad.Rol N° Protección-4387-2025.(jog)
