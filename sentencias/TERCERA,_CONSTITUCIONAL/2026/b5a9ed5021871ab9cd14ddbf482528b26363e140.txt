@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Tesorería General de la República
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

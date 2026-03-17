@@ -12,9 +12,9 @@ caratulado: MARCELO ARTURO ÁLVAREZ DEL CANTO Y OTROS
 
 sala: MINISTRO INSTRUCTOR
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
 
 resultado_recurso: Rechaza extradición- Toledo Avendaño
 
