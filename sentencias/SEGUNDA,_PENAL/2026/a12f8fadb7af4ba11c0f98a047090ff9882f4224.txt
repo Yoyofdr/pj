@@ -4,11 +4,11 @@ case_id: a12f8fadb7af4ba11c0f98a047090ff9882f4224
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046848
 
-rol: 9536-2026
+rol: 7167-2026
 
 fecha_sentencia: 2026-03-03
 
-caratulado: OJEDA TORRENT WALDO ANTONIO CONTRA DIRECCION REGIONAL METROPOLITANA DE GENDARMERIA DE CHILE
+caratulado: APHENSTON JOSEPH CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
@@ -16,7 +16,7 @@ materias: ▪ Recurso de Amparo
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

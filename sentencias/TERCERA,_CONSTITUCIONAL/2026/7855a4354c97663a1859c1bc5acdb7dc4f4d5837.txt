@@ -4,11 +4,11 @@ case_id: 7855a4354c97663a1859c1bc5acdb7dc4f4d5837
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049262
 
-rol: 6148-2026
+rol: 3228-2026
 
 fecha_sentencia: 2026-03-03
 
-caratulado: VERGARA GUTIERREZ / ISAPRE BANMÉDICA S.A.
+caratulado: GONZALEZ/SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CRIMEN) APELACIÓN AMPARO
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
