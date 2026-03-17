@@ -4,19 +4,19 @@ case_id: a960195d092a921e794b30135491f2e278583957
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040852
 
-rol: 708-2026
+rol: 4223-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: QUINTERO MORALES / SERVICIO NACIONAL DE MIGRACIONES
+caratulado: TORRENS/ISAPRE CRUZ BLANCA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

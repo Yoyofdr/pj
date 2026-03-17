@@ -4,17 +4,17 @@ case_id: 57b8b7ad6a4fe0fb89cd9177b257eb4a6132d740
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040817
 
-rol: 57781-2025
+rol: 58427-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: VALBUENA ATENCIO / MINISTERIO DEL INTERIOR Y SEGURIDAD PUBLICA Y OTRO
+caratulado: DUNO/SUBSEC. INTERIOR, MINISTERIO DEL INTERIOR
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 

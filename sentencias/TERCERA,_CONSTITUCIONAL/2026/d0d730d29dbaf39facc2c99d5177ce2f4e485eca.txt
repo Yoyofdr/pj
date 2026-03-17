@@ -4,17 +4,17 @@ case_id: d0d730d29dbaf39facc2c99d5177ce2f4e485eca
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041007
 
-rol: 58453-2025
+rol: 137-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: DUKIC/MINISTERIO DEL INTERIOR
+caratulado: MIRA/MINISTERIO DEL INTERIOR Y OTRO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 

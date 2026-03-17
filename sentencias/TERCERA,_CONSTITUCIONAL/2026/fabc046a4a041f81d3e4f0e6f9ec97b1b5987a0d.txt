@@ -4,17 +4,17 @@ case_id: fabc046a4a041f81d3e4f0e6f9ec97b1b5987a0d
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040868
 
-rol: 58034-2025
+rol: 58438-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: MARQUEZ/SUBSECRETARÍA DEL INTERIOR MINISTERIO DEL INTERIOR
+caratulado: ANDRADE/SERVICIO NACIONAL DE MIGRACIONES SANTIAGO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 

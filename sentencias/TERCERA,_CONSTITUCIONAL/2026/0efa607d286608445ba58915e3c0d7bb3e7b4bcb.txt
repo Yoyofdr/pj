@@ -4,17 +4,17 @@ case_id: 0efa607d286608445ba58915e3c0d7bb3e7b4bcb
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8039402
 
-rol: 48297-2025
+rol: 56649-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: MUÑOZ/SERVICIO NACIONAL DE. MIGRACIONES
+caratulado: VILLEGAS/SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

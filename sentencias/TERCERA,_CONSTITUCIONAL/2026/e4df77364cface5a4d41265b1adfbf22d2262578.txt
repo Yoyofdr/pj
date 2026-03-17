@@ -4,17 +4,17 @@ case_id: e4df77364cface5a4d41265b1adfbf22d2262578
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041259
 
-rol: 38611-2025
+rol: 55553-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: BARRIOS NEGRETE / SERVICIO DE MIGRACIONES
+caratulado: GEISER TORO MICHAEL PHILIP/ASOCIACION DE FUNCIONARIOS DE RIEGO Y OTROS
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Derecho a la honra, a la imagen y a la vida privada, libertad de expresión
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
