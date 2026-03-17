@@ -4,11 +4,11 @@ case_id: 8c4f3e020af1dc75c3169c276b76b8e531adb802
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040619
 
-rol: 7592-2026
+rol: 7762-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: CAICUTO/ADMINISTRADORA DE FONDOS DE PENSIONES MODELO S.A.
+caratulado: LUCENA VALERO DAYANA COROMOTO/ADMINISTRADORA DE FONDOS DE PENSIONES MODELO S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 

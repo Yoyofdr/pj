@@ -4,11 +4,11 @@ case_id: 99af504a50de78f098470f40a4d88db61ca9ff52
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040508
 
-rol: 5954-2026
+rol: 44620-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: QUEZADA/ISAPRE VIDA TRES S.A.
+caratulado: ANONIMIZADO
 
 sala: TERCERA, CONSTITUCIONAL
 
