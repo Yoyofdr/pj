@@ -6,15 +6,15 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041932
 
 rol: 57999-2025
 
-fecha_sentencia: 2026-02-25
+fecha_sentencia: 2026-02-26
 
 caratulado: MORALES/DIRECCIÓN NACIONAL GENDARMERÍA DE CHILE
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA
 
@@ -35,17 +35,22 @@ Rol Nº 57.999-2025.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
+jtha
 C.A. de Santiago
-rmg
-Santiago, dos de diciembre de dos mil veinticinco.
+dpo
+Santiago, tres de diciembre de dos mil veinticinco.
+
 Vistos y teniendo presente:
 1°) Que el recurso de protección tiene por objeto restablecer el imperio del derecho cuando este ha sido quebrantado por actos u omisiones arbitrarias o ilegales que amenazan, perturban o privan del ejercicio legítimo de alguna de las garantías taxativamente numeradas en el artículo 20 de la Constitución Política de la República, dejando a salvo las demás acciones legales.
-2°) Que de los hechos expuestos en la presentación, en relación con lo dispuesto en el artículo 20 de la Constitución Política de la República, se colige que la acción impetrada no reúne los requisitos que permitan declarar su admisibilidad, toda vez que no resulta ser la vía idónea al efecto.
-Y de conformidad, además, con lo dispuesto en el Auto Acordado de la Excma. Corte Suprema sobre tramitación y fallo del recurso de protección de las garantías constitucionales, se declara inadmisible el interpuesto al folio 1.
-Archívese.
-N°Protección-25671-2025.-crz
 
-Pronunciada por la Primera Sala de la Iltma. Corte de Apelaciones de Santiago, presidida por el Ministro señor Guillermo E. de la Barra Dünner e integrada por la Ministra señora Iara Barrios Melo y el Ministro (s) señor Fernando Antonio Valderrama Martínez.
+2°) Que de los hechos expuestos en la presentación, en relación con lo dispuesto en el artículo 20 de la Constitución Política de la República, se colige que la acción impetrada no reúne los requisitos que permitan declarar su admisibilidad, toda vez que no resulta ser la vía idónea al efecto.
+
+Y de conformidad, además, con lo dispuesto en el Auto Acordado de la Excma. Corte Suprema sobre tramitación y fallo del recurso de protección de las garantías constitucionales, se declara inadmisible el interpuesto al folio 1.
+
+Archívese.
+N°Protección-25745-2025.
+
+Pronunciada por la Primera Sala de la Iltma. Corte de Apelaciones de Santiago, presidida por el Ministro señor Guillermo E. de la Barra Dünner e integrada por la Ministra señora Iara Barrios Melo y por la Abogada Integrante señora Catalina Infante Correa.
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------

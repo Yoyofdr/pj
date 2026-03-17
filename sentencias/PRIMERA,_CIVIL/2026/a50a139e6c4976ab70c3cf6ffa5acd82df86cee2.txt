@@ -4,19 +4,19 @@ case_id: a50a139e6c4976ab70c3cf6ffa5acd82df86cee2
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8042447
 
-rol: 5695-2026
+rol: 25471-2024
 
 fecha_sentencia: 2026-02-26
 
-caratulado: CONSTRUCTORA M Y T LTDA./SOCIEDAD DE DESARROLLO TECNOLÓGICO USACH LIMITADA - VUELVE A TABLA
+caratulado: INNOVACIONES FORESTALES SPA (C)
 
 sala: PRIMERA, CIVIL
 
-materias: ▪ Admisibilidad del recurso de casación en el fondo
+materias: ▪ Reorganización y Liquidación de Empresas y Personas
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: RECHAZA CASACION EN EL FONDO
+resultado_recurso: RECHAZADAS CASACIÓN FORMA Y FONDO
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
