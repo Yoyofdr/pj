@@ -4,19 +4,19 @@ case_id: f058ed117e33a80fc5088d9b947e54bf503dc848
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040543
 
-rol: 7555-2026
+rol: 752-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: PARRA BERNAL MÓNICA VIVIANA/ADMINISTRADORA DE FONDOS DE PENSIONES MODELO SOCIEDAD ANÓNIMA
+caratulado: CABRERA NADRADE VANESA CAROLINA Y OTRO / MINISTERIO DEL INTERIOR Y OTROS
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Previsional
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
