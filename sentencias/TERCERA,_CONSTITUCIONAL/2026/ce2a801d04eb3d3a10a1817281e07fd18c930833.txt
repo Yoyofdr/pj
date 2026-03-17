@@ -4,11 +4,11 @@ case_id: ce2a801d04eb3d3a10a1817281e07fd18c930833
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040938
 
-rol: 233-2026
+rol: 58461-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: POLANCO/SERVICIO NACIONAL DE MIGRACIONES
+caratulado: LISCANO/MINISTERIO DEL INTERIOR - SUBSECRETARÍA DEL INTERIOR
 
 sala: TERCERA, CONSTITUCIONAL
 

@@ -4,15 +4,15 @@ case_id: 2f6dee19626549a77adf2023c20bc1726ce4f11c
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040678
 
-rol: 7304-2026
+rol: 48930-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: GARCIA/AFP PROVIDA S.A.
+caratulado: BOSCAN/RAMOS
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Previsional
+materias: ▪ Migración y Extranjería
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
