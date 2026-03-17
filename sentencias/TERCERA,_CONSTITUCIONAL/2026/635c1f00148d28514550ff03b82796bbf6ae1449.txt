@@ -4,11 +4,11 @@ case_id: 635c1f00148d28514550ff03b82796bbf6ae1449
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8061588
 
-rol: 58096-2025
+rol: 32158-2025
 
-fecha_sentencia: 2026-03-12
+fecha_sentencia: 2026-03-13
 
-caratulado: HERRERA/ILUSTRE MUNICIPAL DE MEJILLONES
+caratulado: VICTOR ALONSO TOLEDO VALENZUELA/ILUSTRE MUNICIPALIDAD DE SAN PEDRO DE LA PAZ
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CRIMEN) APELACIÓN AMPARO
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

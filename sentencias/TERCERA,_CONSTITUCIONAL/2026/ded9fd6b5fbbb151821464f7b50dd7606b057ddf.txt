@@ -4,19 +4,19 @@ case_id: ded9fd6b5fbbb151821464f7b50dd7606b057ddf
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062545
 
-rol: 32158-2025
+rol: 50759-2025
 
 fecha_sentencia: 2026-03-13
 
-caratulado: VICTOR ALONSO TOLEDO VALENZUELA/ILUSTRE MUNICIPALIDAD DE SAN PEDRO DE LA PAZ
+caratulado: DURÁN/MINISTERIO PUBLICO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) CASACIÓN FONDO
+materias: ▪ Aspectos procesales del recurso de protección
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA
+resultado_recurso: CONFIRMA RESOLUCION APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

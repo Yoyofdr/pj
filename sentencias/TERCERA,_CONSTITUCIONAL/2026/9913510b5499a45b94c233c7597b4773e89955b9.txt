@@ -4,15 +4,15 @@ case_id: 9913510b5499a45b94c233c7597b4773e89955b9
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062720
 
-rol: 10497-2025
+rol: 41072-2025
 
-fecha_sentencia: 2026-03-12
+fecha_sentencia: 2026-03-13
 
-caratulado: DÍAZ/SERVICIO NACIONAL DE MIGRACIONES
+caratulado: MACÍAS/BANCO DEL ESTADO D E CHILE
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Bancos, Instituciones Financieras y otros
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 

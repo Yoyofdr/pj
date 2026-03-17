@@ -4,19 +4,19 @@ case_id: 11a7f23a1109c6a55b5a9872372acad5953584aa
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062804
 
-rol: 56795-2025
+rol: 24256-2025
 
 fecha_sentencia: 2026-03-13
 
-caratulado: COMPAÑÍA DE PETROLEOS DE CHILE COPEC S.A CONTRA SUPERINTENDENCIA DE ELECTRICIDAD Y COMBUSTIBLES
+caratulado: RUIZ PASMIÑO VICTOR CONTRA ASOCIACION DEPORTIVA LOCAL DE FUTBOL CARLOS SCHNEEBERGER
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) CASACIÓN FONDO
+materias: ▪ Protecciones en contra de particulares
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

@@ -1,0 +1,70 @@
+METADATA
+
+case_id: e9b606de9f5229bcef6e7368f9750ae757386f66
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062602
+
+rol: 57859-2025
+
+fecha_sentencia: 2026-03-13
+
+caratulado: PARISCA CARMEN (/DELGADO)
+
+sala: CUARTA, MIXTA
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: DESISTIDO RECURSO DE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Corte Apelaciones ▼
+Santiago, trece de marzo de dos mil veintiséis.
+
+Vistos:
+Se reproduce la sentencia apelada a excepción de sus considerandos quinto y sexto, que se eliminan.
+
+Y se tiene en su lugar y además presente:
+1°) Que, la Convención Americana de Derechos Humanos, así como el Pacto Internacional de Derechos Civiles y Políticos y la Convención Internacional de los Derechos del Niño, reconoce como garantía judicial del imputado el derecho a obtener la revisión de la condena, declaración que engarza a plenitud con el reconocimiento que esta Corte Suprema ha hecho del mentado derecho como elemento integrante del debido proceso.
+
+2°) Que en el caso en concreto la declaración de abandono del recurso se ve agravada por cuanto la resolución atacada no sólo no admite posteriores revisiones, sino que además expone al amparado a sufrir una pena corporal de crimen con cumplimiento efectivo.
+
+3°) Que así las cosas, al tenor del certificado evacuado por la secretaria el tribunal a quo, la declaración de abandono del recurso y el posterior rechazo al entorpecimiento promovido por la defensa del amparado aparece ilegal por aplicar una medida desproporcionada en circunstancias que el principio básico reglado en el artículo 10 del Código Procesal Penal permitía al tribunal buscar salidas distintas que permitiesen conciliar la eficacia del derecho a recurrir contra la condena con la inasistencia del abogado defensor a la vista de la causa y de esa forma evitar radicar los efectos negativos de la incomparecencia del letrado en la persona del encausado.
+
+Y de conformidad con lo preceptuado en el artículo 21 de la Carta Fundamental, se revoca la sentencia apelada de 23 de febrero de 2026, dictada por la Corte de Apelaciones de San Miguel, en el Ingreso Rol N°166-2026, y en su lugar se declara que se acoge la acción de amparo intentada en favor de Leonidas Alvarado Araya y, en consecuencia, se deja sin efecto la resolución que rechazó el entorpecimiento deducido por la defensa del amparado respecto de la resolución que declaró el abandono del recurso intentado a su favor y, en su lugar, se declara que queda acogido.
+
+En razón de lo anterior, la Corte de Apelaciones de Santiago deberá convocar a la brevedad a los intervinientes a una nueva vista, ante tribunal no inhabilitado, del recurso de nulidad impetrado a favor del acusado Leonidas Alvarado Araya respecto de la sentencia condenatoria pronunciada por el Tribunal Oral en lo Penal de Colina.
+
+Acordado con el voto en contra de la Ministra Sra. Gajardo, quien fue del parecer de confirmar la decisión apelada teniendo únicamente presente que el recurso de amparo entablado no puede erigirse como una herramienta de revisión acerca de lo resuelto por una Corte de Apelaciones por cuanto mediante tal proceder se infringe la regla general de competencia absoluta del grado o jerarquía.
+
+Regístrese, comuníquese por la vía más expedita y devuélvase.
+
+Rol N°10679-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Corte Apelaciones ▼
+Ch/(nbm)
+
+San Miguel, treinta y uno de enero de dos mil veintiséis.
+
+Visto y teniendo presente:
+
+1°) Que, se deduce acción constitucional de amparo para impugnar la decisión de la Tercera Sala de la Corte de Apelaciones de Santiago, mediante la cual se declaró el abandono de la defensa en el contexto del recurso de nulidad interpuesto contra la sentencia dictada por el Tribunal de Juicio Oral de Colina.
+2°) Que, conforme el artículo 21 de la Carta Fundamental, la acción de que se trata, se ejerce en favor de quien se hallare arrestado, detenido o preso con infracción a lo dispuesto en la Constitución Política de la República o la ley, esto es, tiene por finalidad cautelar la libertad personal y la seguridad individual, entendida esta última como la garantía de que aquélla no será afectada sino conforme a derecho;
+3°) Que, para esos efectos y, según la misma norma, tal recurso debe ser conocido “por la magistratura que señale la ley”, mandato que cumple el artículo 63 del Código Orgánico de Tribunales, señalando que corresponde a las Cortes de Apelaciones conocerlos en primera instancia;
+4°) Que, ahora bien, como ha reflexionado la Excma. Corte Suprema en sentencia de primero de julio de dos mil veinte, en la causa ingreso N°76.433- 2020, no resulta procedente recurrir por la vía de una acción cautelar respecto de lo resuelto por una Corte de Apelaciones ante otro tribunal de igual jerarquía y distinta jurisdicción, para que esta última revise el mérito de dicha decisión, “…por cuanto significaría darle competencia impropia como tribunal superior, lo que afecta seriamente las reglas sobre competencia contenidas en el Código Orgánico de Tribunales, entre ellas la del grado y jerarquía, y puede constituir seriamente una vulneración del artículo 7° de la Constitución Política de la República”;
+5°) Que, a mayor abundamiento, de acuerdo al mismo fallo citado, habiéndose conocido de un asunto por las instancias previstas para ello, no es posible volver a discutirlo, que es justamente lo ocurrido, según se consignó en el motivo primero precedente;
+6°) Que, así las cosas, no puede acogerse a tramitación el arbitrio interpuesto ya que, aceptar lo contrario, implica el desapego al principio de juridicidad y erigirlo en un instrumento que propicia la revisión anómala e impropia de lo actuado por otro tribunal superior, de igual jerarquía –como se dijo- y, distorsionar, en consecuencia, tanto su finalidad, como la regularidad elemental del procedimiento que lo rige;
+7°) Que, a mayor abundamiento, este criterio ha sido ratificado por la Excma. Corte Suprema en los fallos N°59.781-2024, N°59.893-2024, N°60.734- 2024, N°61.300-2024 y N°5661-2025, N°15.433-2025, N°16.415-2025, N°20.461-2025, N°27.939-2025, N°31.120-2025, N°32.783-2025, N°35.790-2025, N°36.275-2025, N°37.211-2025, N°38.350-2025, N°38.790-2025,N° 40.185-2025, N°40.374-2025, N°40.375-2025, N°46.788-2025, N°47.895-2025, N°52.169-2025, N°52.262-2025, N°52.263-2025, N°52.264-2025, N°57.546-2025, N°57.549-2025, N°57.553-2025, N°141-2026 y N°334-2026.
+Por estas razones, se declara inadmisible la acción constitucional de amparo ejercida.
+
+Archívese, en su oportunidad.
+
+N°166-2026 Amparo.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Santiago, trece de marzo de dos mil veintiséis.Vistos:Se reproduce la sentencia apelada a excepción de sus considerandos quinto y sexto, que se eliminan.Y se tiene en su lugar y además presente:1°) Que, la Convención Americana de Derechos Humanos, así como el Pacto Internacional de Derechos Civiles y Políticos y la Convención Internacional de los Derechos del Niño, reconoce como garantía judicial del imputado el derecho a obtener la revisión de la condena, declaración que engarza a plenitud con el reconocimiento que esta Corte Suprema ha hecho del mentado derecho como elemento integrante del debido proceso.2°) Que en el caso en concreto la declaración de abandono del recurso se ve agravada por cuanto la resolución atacada no sólo no admite posteriores revisiones, sino que además expone al amparado a sufrir una pena corporal de crimen con cumplimiento efectivo.3°) Que así las cosas, al tenor del certificado evacuado por la secretaria el tribunal a quo, la declaración de abandono del recurso y el posterior rechazo al entorpecimiento promovido por la defensa del amparado aparece ilegal por aplicar una medida desproporcionada en circunstancias que el principio básico reglado en el artículo 10 del Código Procesal Penal permitía al tribunal buscar salidas distintas que permitiesen conciliar la eficacia del derecho a recurrir contra la condena con la inasistencia del abogado defensor a la vista de la causa y de esa forma evitar radicar los efectos negativos de la incomparecencia del letrado en la persona del encausado.Y de conformidad con lo preceptuado en el artículo 21 de la Carta Fundamental, se revoca la sentencia apelada de 23 de febrero de 2026, dictada por la Corte de Apelaciones de San Miguel, en el Ingreso Rol N°166-2026, y en su lugar se declara que se acoge la acción de amparo intentada en favor de Leonidas Alvarado Araya y, en consecuencia, se deja sin efecto la resolución que rechazó el entorpecimiento deducido por la defensa del amparado respecto de la resolución que declaró el abandono del recurso intentado a su favor y, en su lugar, se declara que queda acogido.En razón de lo anterior, la Corte de Apelaciones de Santiago deberá convocar a la brevedad a los intervinientes a una nueva vista, ante tribunal no inhabilitado, del recurso de nulidad impetrado a favor del acusado Leonidas Alvarado Araya respecto de la sentencia condenatoria pronunciada por el Tribunal Oral en lo Penal de Colina.Acordado con el voto en contra de la Ministra Sra. Gajardo, quien fue del parecer de confirmar la decisión apelada teniendo únicamente presente que el recurso de amparo entablado no puede erigirse como una herramienta de revisión acerca de lo resuelto por una Corte de Apelaciones por cuanto mediante tal proceder se infringe la regla general de competencia absoluta del grado o jerarquía.Regístrese, comuníquese por la vía más expedita y devuélvase.Rol N°10679-2026. Santiago, trece de marzo de dos mil veintiséis.Vistos:Se reproduce la sentencia apelada a excepción de sus considerandos quinto y sexto, que se eliminan.Y se tiene en su lugar y además presente:1°) Que, la Convención Americana de Derechos Humanos, así como el Pacto Internacional de Derechos Civiles y Políticos y la Convención Internacional de los Derechos del Niño, reconoce como garantía judicial del imputado el derecho a obtener la revisión de la condena, declaración que engarza a plenitud con el reconocimiento que esta Corte Suprema ha hecho del mentado derecho como elemento integrante del debido proceso.2°) Que en el caso en concreto la declaración de abandono del recurso se ve agravada por cuanto la resolución atacada no sólo no admite posteriores revisiones, sino que además expone al amparado a sufrir una pena corporal de crimen con cumplimiento efectivo.3°) Que así las cosas, al tenor del certificado evacuado por la secretaria el tribunal a quo, la declaración de abandono del recurso y el posterior rechazo al entorpecimiento promovido por la defensa del amparado aparece ilegal por aplicar una medida desproporcionada en circunstancias que el principio básico reglado en el artículo 10 del Código Procesal Penal permitía al tribunal buscar salidas distintas que permitiesen conciliar la eficacia del derecho a recurrir contra la condena con la inasistencia del abogado defensor a la vista de la causa y de esa forma evitar radicar los efectos negativos de la incomparecencia del letrado en la persona del encausado.Y de conformidad con lo preceptuado en el artículo 21 de la Carta Fundamental, se revoca la sentencia apelada de 23 de febrero de 2026, dictada por la Corte de Apelaciones de San Miguel, en el Ingreso Rol N°166-2026, y en su lugar se declara que se acoge la acción de amparo intentada en favor de Leonidas Alvarado Araya y, en consecuencia, se deja sin efecto la resolución que rechazó el entorpecimiento deducido por la defensa del amparado respecto de la resolución que declaró el abandono del recurso intentado a su favor y, en su lugar, se declara que queda acogido.En razón de lo anterior, la Corte de Apelaciones de Santiago deberá convocar a la brevedad a los intervinientes a una nueva vista, ante tribunal no inhabilitado, del recurso de nulidad impetrado a favor del acusado Leonidas Alvarado Araya respecto de la sentencia condenatoria pronunciada por el Tribunal Oral en lo Penal de Colina.Acordado con el voto en contra de la Ministra Sra. Gajardo, quien fue del parecer de confirmar la decisión apelada teniendo únicamente presente que el recurso de amparo entablado no puede erigirse como una herramienta de revisión acerca de lo resuelto por una Corte de Apelaciones por cuanto mediante tal proceder se infringe la regla general de competencia absoluta del grado o jerarquía.Regístrese, comuníquese por la vía más expedita y devuélvase.Rol N°10679-2026. Sentencia anonimizada

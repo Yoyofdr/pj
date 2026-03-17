@@ -4,19 +4,19 @@ case_id: e70cceda79ffa158426cad0bb35c033f1114c210
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062626
 
-rol: 24256-2025
+rol: 54729-2025
 
-fecha_sentencia: 2026-03-12
+fecha_sentencia: 2026-03-13
 
-caratulado: RUIZ PASMIÑO VICTOR CONTRA ASOCIACION DEPORTIVA LOCAL DE FUTBOL CARLOS SCHNEEBERGER
+caratulado: MUÑOZ/POLICIA DE INVESTIGACIONES DE CHILE,
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Función pública
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
