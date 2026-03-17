@@ -1,14 +1,14 @@
 METADATA
 
-case_id: 6149b45ab1116e53ff6a59ed1c1cae7c6403673f
+case_id: ce88c3f010bede1f9ff8f00151a33c7543fd98b4
 
-url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8037458
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8037463
 
-rol: 7735-2026
+rol: 5246-2026
 
 fecha_sentencia: 2026-02-24
 
-caratulado: DÍAZ SOTO JOSÉ BERNARDO CONTRA GENDARMERÍA DE CHILE
+caratulado: DALY HERNÁNDEZ LIBER CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
