@@ -14,7 +14,7 @@ sala: PRIMERA, CIVIL
 
 materias: ▪ Responsabilidad civil
 
-recurso: (CIVIL) CASACIÓN FORMA Y FONDO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: RECHAZA CASACION EN EL FONDO (M)
 

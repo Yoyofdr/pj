@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Seguros
 
-recurso: (CIVIL) CASACIÓN FORMA Y FONDO
+recurso: (CIVIL) RECLAMACIÓN T. LIBRE COMPETENCIA
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

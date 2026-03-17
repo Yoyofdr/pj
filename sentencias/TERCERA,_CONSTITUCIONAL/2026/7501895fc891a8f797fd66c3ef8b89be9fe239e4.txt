@@ -4,19 +4,19 @@ case_id: 7501895fc891a8f797fd66c3ef8b89be9fe239e4
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045807
 
-rol: 42909-2025
+rol: 29850-2025
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-03-02
 
-caratulado: VÁSQUEZ ROBLERO RICHARD/SUPERINTENDENCIA DE SEGURIDAD SOCIAL
+caratulado: CONSORCIO FINANCIERO S.A. CON TRIBUNAL DE DEFENSA DE LA LIBRE COMPETENCIA
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Potestad sancionadora
+materias: ▪ Colusión
 
-recurso: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: ACOGIDA RECURSO DE RECLAMACIÓN
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

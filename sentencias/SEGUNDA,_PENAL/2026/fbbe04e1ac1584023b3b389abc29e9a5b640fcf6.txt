@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044989
 
 rol: 6244-2026
 
-fecha_sentencia: 2026-02-26
+fecha_sentencia: 2026-03-02
 
 caratulado: CHOURIO COLINA HELEN ANDREINA CONTRA SERVICIO NACIONAL DE MIGRACIONES
 

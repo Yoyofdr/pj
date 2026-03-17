@@ -4,17 +4,17 @@ case_id: 2130a2a7f868ad9db62e7953f7fb039af44b5753
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044988
 
-rol: 6219-2026
+rol: 6679-2026
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-03-02
 
-caratulado: LOPEZ RIOS YERSON ANTONIO CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: GINEL NICOLAS CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) RECLAMACIÓN T. LIBRE COMPETENCIA
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
