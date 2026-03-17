@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045748
 
 rol: 6236-2026
 
-fecha_sentencia: 2026-02-26
+fecha_sentencia: 2026-03-02
 
 caratulado: CUASPUD REINA DORIS TATIANA CONTRA SERVICIO NACIONAL DE MIGRACIONES
 

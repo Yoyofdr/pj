@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045149
 
 rol: 6223-2026
 
-fecha_sentencia: 2026-02-26
+fecha_sentencia: 2026-03-02
 
 caratulado: MACKENDY CHARLES CONTRA SERVICIO NACIONAL DE MIGRACIONES
 

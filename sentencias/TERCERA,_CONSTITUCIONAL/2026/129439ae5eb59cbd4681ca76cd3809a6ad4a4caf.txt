@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Potestad disciplinaria
 
-recurso: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
+recurso: (PENAL) NULIDAD
 
 resultado_recurso: REVOCADA SENTENCIA APELADA
 
