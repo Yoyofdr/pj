@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8037478
 
 rol: 7525-2026
 
-fecha_sentencia: 2026-02-23
+fecha_sentencia: 2026-02-24
 
 caratulado: VELOZO YANEZ ERNESTO EUGENIO CONTRA CORTE DE APELACIONES DE SAN MIGUEL
 

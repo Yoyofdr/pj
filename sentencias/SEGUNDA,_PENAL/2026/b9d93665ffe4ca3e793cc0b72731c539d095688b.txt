@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8039017
 
 rol: 7745-2026
 
-fecha_sentencia: 2026-02-23
+fecha_sentencia: 2026-02-24
 
 caratulado: FAITO MILLAHUAL IVÁN ISAAC CONTRA MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS
 

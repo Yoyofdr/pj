@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8038067
 
 rol: 5452-2026
 
-fecha_sentencia: 2026-02-23
+fecha_sentencia: 2026-02-24
 
 caratulado: ROMERO MENDEZ MARÍA ALEJANDRA CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
