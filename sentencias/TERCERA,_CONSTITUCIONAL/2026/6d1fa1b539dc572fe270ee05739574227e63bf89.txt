@@ -4,17 +4,17 @@ case_id: 6d1fa1b539dc572fe270ee05739574227e63bf89
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8041014
 
-rol: 58436-2025
+rol: 4292-2026
 
-fecha_sentencia: 2026-02-25
+fecha_sentencia: 2026-02-24
 
-caratulado: ROMERO/THAYER
+caratulado: MÉNDEZ/ISAPRE CRUZ BLANCA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
