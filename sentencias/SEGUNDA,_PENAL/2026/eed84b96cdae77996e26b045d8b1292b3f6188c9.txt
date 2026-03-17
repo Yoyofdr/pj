@@ -4,19 +4,19 @@ case_id: eed84b96cdae77996e26b045d8b1292b3f6188c9
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047306
 
-rol: 7937-2026
+rol: 8249-2026
 
 fecha_sentencia: 2026-03-03
 
-caratulado: GARRIDO MENESES ALEXANDER MAURICIO CONTRA GENDARMERIA CHILE
+caratulado: LEFIMIL CIFUENTES DANIEL ANTONIO CONTRA TERCERA SALA CORTE DE APELACIONES DE TEMUCO
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: (CRIMEN) APELACIÓN AMPARO
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

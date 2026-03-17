@@ -4,19 +4,19 @@ case_id: 14b164cb11df44ced1f8e8ff463da9c5e01ce18c
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047576
 
-rol: 7174-2026
+rol: 9182-2026
 
-fecha_sentencia: 2026-03-02
+fecha_sentencia: 2026-03-03
 
-caratulado: ORDOÑEZ URGILES JENNIFER ANDREA CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: FACCHINETTI LÓPEZ CARLOS GUILLERMO CONTRA DIRECCIÓN REGIONAL METROPOLITANA DE GENDARMERIA DE CHILE (NP)
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (CIVIL) CASACIÓN FORMA Y FONDO
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

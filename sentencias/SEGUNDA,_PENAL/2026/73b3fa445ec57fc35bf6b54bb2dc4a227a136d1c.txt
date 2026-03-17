@@ -4,31 +4,31 @@ case_id: 73b3fa445ec57fc35bf6b54bb2dc4a227a136d1c
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046981
 
-rol: 8202-2026
+rol: 7174-2026
 
-fecha_sentencia: 2026-03-02
+fecha_sentencia: 2026-03-03
 
-caratulado: MÜLLER SONIA ELIZABETH CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: ORDOÑEZ URGILES JENNIFER ANDREA CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: (CIVIL) CASACIÓN FORMA Y FONDO
+materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) CASACIÓN FORMA Y FONDO
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
-Corte Apelaciones ▼
 Santiago, tres de marzo de dos mil veintiséis.
-
-Vistos y teniendo únicamente presente:
-Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de diecisiete de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N° 709-2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.
-
+Vistos:
+Se confirma la sentencia apelada de diecisiete de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Puerto Montt, en el Ingreso Corte N°Amparo-67-2026.
+Acordado con el voto en contra del Ministro Sr. Llanos, quien fue del parecer de revocar la sentencia apelada y acoger el amparo deducido, teniendo para ello presente las siguientes consideraciones:
+1°) Que el procedimiento para la obtención de la Libertad Condicional, el cual está regulado por el Decreto Ley N° 321, con las modificaciones posteriores de la Ley N° 21.627, no son jurisdiccionales, sino evidentemente administrativos. Así lo ha reconocido, por lo demás, el Tribunal Constitucional (Rol N° 6717-2019 INA).
+2°) Que, en tales circunstancias, se debe tener presente que, no obstante tratarse de un procedimiento administrativo, en éste se encuentra plenamente vigente el principio de legalidad penal, que como señala la profesora María Inés Horvitz “debería abarcar todas las fases de manifestación de la práctica punitiva estatal –conminación, adjudicación y ejecución de las penas y medidas de seguridad-, en tanto ella [la fase de ejecución de las penas privativas de libertad] constituye una potencial fuente de afectación de derechos constitucionales” (María Inés Horvitz: “La insostenible situación de la ejecución de las penas privativas de libertad”, en Política Criminal, Vol. 13, N° 26, Diciembre de 2018, pp. 904-951).
+De manera que, en la especie, al negarse la postulación del interno por aplicación de las disposiciones de la Ley N° 21.627, no se observó el principio de irretroactividad de la ley penal desfavorable, consagrado en los artículos 6°, 7° y 19 N° 3 de la Constitución Política de la República, lo que indudablemente importa –a su vez- una vulneración de la libertad personal del amparado.
 Regístrese y devuélvase.
-
-Rol N° 8202-2026.
+Rol N°7936-2026.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
