@@ -4,19 +4,19 @@ case_id: 6579f09c9baa27746bd8c7df66e1915b310e4681
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8038004
 
-rol: 33808-2025
+rol: 57441-2025
 
-fecha_sentencia: 2026-02-24
+fecha_sentencia: 2026-02-23
 
-caratulado: HIDALGO/UNIVERSIDAD TECNOLÓGICA METROPOLITANA
+caratulado: TORRES MORALES DANIEL ERNESTO/GONZÁLEZ SALINAS CARMEN GLORIA
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+materias: ▪ Potestad sancionadora
 
-recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

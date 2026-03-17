@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8037855
 
 rol: 7242-2026
 
-fecha_sentencia: 2026-02-24
+fecha_sentencia: 2026-02-23
 
 caratulado: DIOCARES TORRES LUIS CONTRA COMISIÓN DE REDUCCIÓN DE CONDENA
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

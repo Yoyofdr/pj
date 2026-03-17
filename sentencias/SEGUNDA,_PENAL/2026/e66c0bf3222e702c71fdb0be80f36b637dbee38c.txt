@@ -4,17 +4,17 @@ case_id: e66c0bf3222e702c71fdb0be80f36b637dbee38c
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8039005
 
-rol: 5480-2026
+rol: 5247-2026
 
-fecha_sentencia: 2026-02-24
+fecha_sentencia: 2026-02-23
 
-caratulado: HERNÁNDEZ MÉNDEZ KEIBER ALBERTO CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: DONATA NUÑEZ ANAGUA CONTRA SERVICIO NACIONAL DE MIGRACIONES Y PDI
 
 sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

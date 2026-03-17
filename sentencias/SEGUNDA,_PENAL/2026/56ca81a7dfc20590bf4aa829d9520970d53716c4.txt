@@ -6,15 +6,15 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8037858
 
 rol: 6237-2026
 
-fecha_sentencia: 2026-02-24
+fecha_sentencia: 2026-02-23
 
 caratulado: NARVAEZ IBARRA ANGELI YULIETH CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 

@@ -4,19 +4,19 @@ case_id: 7ebf1c666b900b7f845b510ba6689aee2f4b1502
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8037471
 
-rol: 53798-2024
+rol: 4819-2026
 
-fecha_sentencia: 2026-02-24
+fecha_sentencia: 2026-02-23
 
-caratulado: BANCO SANTANDER-CHILE CHILE CON CONSTRUCTORA LC2 LIMITADA (E)
+caratulado: ACUÑA/INMOBILIARIA E INVERSIONES TRES ESTRELLAS DEL SUR SPA
 
 sala: PRIMERA, CIVIL
 
-materias: ▪ Juicio ejecutivo obligaciones de dar hacer y no hacer
+materias: ▪ Admisibilidad del recurso de casación en la forma
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: SENTENCIA DE REEMPLAZO (M)
+resultado_recurso: INADMISIBLE CASACIÓN FORMA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
