@@ -4,19 +4,19 @@ case_id: a642f4ce1e1a8f9b155051684b424b3b847cb486
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8036763
 
-rol: 27518-2025
+rol: 11903-2024
 
 fecha_sentencia: 2026-02-23
 
-caratulado: ROJAS/HOSPITAL CLAUDIO VICUÑA SAN ANTONIO
+caratulado: CONSEJO DE DEFENSA DEL ESTADO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Admisibilidad del recurso de casación en el fondo
+materias: ▪ Expropiaciones
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: RECHAZA CASACION EN EL FONDO
+resultado_recurso: SENTENCIA DE REEMPLAZO
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

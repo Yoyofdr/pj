@@ -4,17 +4,17 @@ case_id: df5ca27795619db60e0d31871ba1e1ca952a6d29
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8036758
 
-rol: 22195-2025
+rol: 56220-2025
 
 fecha_sentencia: 2026-02-23
 
-caratulado: BAEZA/UNIDAD ADMINISTRADORA DE LOS TRIBUNALES TRIBUTARIOS Y ADUANEROS
+caratulado: DÍAZ/FISCALÍA ADMINISTRATIVA DE LA JEFATURA DE ZONA METROPOLITANA
 
 sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Función pública
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

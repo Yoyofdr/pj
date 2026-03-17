@@ -4,19 +4,19 @@ case_id: bb21e5e7b50bac4f12fb3f12776801ee5fa7d239
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8037149
 
-rol: 11903-2024
+rol: 41815-2025
 
-fecha_sentencia: 2026-02-20
+fecha_sentencia: 2026-02-23
 
-caratulado: CONSEJO DE DEFENSA DEL ESTADO
+caratulado: CESPEDES/HOSPITAL REGIONAL LEONARDO GUZMÁN DE ANTOFAGASTA
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Expropiaciones
+materias: ▪ Admisibilidad del recurso de casación en el fondo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: SENTENCIA DE REEMPLAZO
+resultado_recurso: INADMISIBLE CASACIÓN FORMA RECHAZADA,CASACIÓN FONDO
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
