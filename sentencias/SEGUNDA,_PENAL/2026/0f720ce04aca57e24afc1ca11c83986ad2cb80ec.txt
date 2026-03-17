@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046650
 
 rol: 7948-2026
 
-fecha_sentencia: 2026-03-02
+fecha_sentencia: 2026-03-03
 
 caratulado: BOZZO CORDOVA DIEGO ALEJANDRO CONTRA JUZGADO DE GARANTÍA DE OVALLE (MG. POZZI ANILIO)
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) CASACIÓN FORMA Y FONDO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
