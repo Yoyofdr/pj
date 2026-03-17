@@ -4,19 +4,19 @@ case_id: dfeb640fcf9decd2210d2576a7bf6b97431060ce
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8063392
 
-rol: 9251-2026
+rol: 9320-2026
 
-fecha_sentencia: 2026-03-13
+fecha_sentencia: 2026-03-16
 
-caratulado: ALBA GRICELDA VILLANUEVA DE POLACRE CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: BEAUVOIR DUNEL CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Recurso de Amparo
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

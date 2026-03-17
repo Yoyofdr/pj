@@ -12,7 +12,7 @@ caratulado: MONTERO/INSTITUTO SALUD PUBLICA DE CHILE
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Contratas
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 

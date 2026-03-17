@@ -4,15 +4,15 @@ case_id: 5b42308dfcdae35c280828f8a3d31fe87c5d1d73
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8064419
 
-rol: 2424-2026
+rol: 368-2026
 
 fecha_sentencia: 2026-03-16
 
-caratulado: LIBERTAD SPA CONTRA SUPERINTENDENCIA DEL MEDIO AMBIENTE
+caratulado: RUBILAR NÚÑEZ, NANCY CONTRA CONTRALORÍA GENERAL DE LA REPÚBLICA REGIÓN DEL BIO BIO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Función pública
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
