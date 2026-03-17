@@ -4,15 +4,15 @@ case_id: 0ea5100d86f9c2a9b7e4cd2cad0ab603269253dd
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8064110
 
-rol: 9300-2026
+rol: 9315-2026
 
 fecha_sentencia: 2026-03-16
 
-caratulado: DIONICIO MAAMANI LAURA CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: DORCIN OSLIN CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Recurso de Amparo
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 

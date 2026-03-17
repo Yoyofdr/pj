@@ -4,11 +4,11 @@ case_id: 14ee20b835f36dc26683da9959162a6aecab5a92
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8064149
 
-rol: 13018-2026
+rol: 11907-2026
 
 fecha_sentencia: 2026-03-16
 
-caratulado: JOSEPH JERRY CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: ENGRACIA IBARRA FRANCISCO ANTONIO CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
