@@ -14,7 +14,7 @@ sala: PRIMERA, CIVIL
 
 materias: ▪ Admisibilidad del recurso de casación en el fondo
 
-recurso: (CIVIL) CASACIÓN FORMA Y FONDO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: RECHAZA CASACION EN EL FONDO
 

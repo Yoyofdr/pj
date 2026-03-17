@@ -4,19 +4,19 @@ case_id: 613f866afff5c987327c29941cc6d46b27dd75e5
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045812
 
-rol: 21092-2024
+rol: 2951-2026
 
-fecha_sentencia: 2026-02-26
+fecha_sentencia: 2026-03-02
 
-caratulado: WIFICOM CHILE LTDA. CON ILUSTRE MUNICIPALIDAD DE QUILICURA
+caratulado: INMOB. CONSTRUCTORA E INVERSIONES EL VALLE LTDA./TESORERÍA REGIONAL DEL BIOBIO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Admisibilidad del recurso de casación en el fondo
+materias: ▪ Tesorería General de la República
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: RECHAZA CASACION EN EL FONDO
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
