@@ -4,17 +4,17 @@ case_id: 46dfd87456b7a01b01a39e479076249722dfae18
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040418
 
-rol: 38611-2025
+rol: 37564-2025
 
 fecha_sentencia: 2026-02-25
 
-caratulado: BARRIOS NEGRETE / SERVICIO DE MIGRACIONES
+caratulado: ANONIMIZADO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: ▪ Previsional
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) CASACIÓN FORMA Y FONDO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
