@@ -4,11 +4,11 @@ case_id: 6caaba5f8279f2ae7a1ee3a2cbe2eaa047d3b1e9
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040524
 
-rol: 4268-2026
+rol: 4286-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: SIDHU/SERVICIO NACIONAL DE MIGRACIONES
+caratulado: TUMA/ISAPRE CRUZ BLANCA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -28,7 +28,7 @@ Vistos:
 Se confirma la sentencia apelada en estos autos.
 Regístrese y devuélvase.
 
-Rol N° 4.244-2026.
+Rol N° 4.286-2026.
 Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sr. Omar Astudillo C., Sr. Gonzalo Ruz L., la ministra suplente Sra. Eliana Quezada M. y las Abogadas Integrantes Sra. Fabiola Esther Lathrop Gómez y Sra. Andrea Paola Ruiz Rosas. Santiago, 25 de febrero de 2026.
 Autoriza el Ministro de Fe de la Excma. Corte Suprema.
 
@@ -37,12 +37,13 @@ En Santiago, a veinticinco de febrero de dos mil veintiséis, notifiqué en Secr
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
 Corte Apelaciones ▼
-Jrr.-
+jtha
 
-C.A. de Santiago
+C.A. de Santiago.
 
 cb
-Santiago, veintiséis de mayo de dos mil veinticinco.
+
+Santiago, veinticinco de junio de dos mil veinticinco.
 
 Visto y teniendo presente:
 
@@ -53,9 +54,8 @@ Visto y teniendo presente:
 Y de conformidad, además, con lo dispuesto en el Auto Acordado de la Excma. Corte Suprema sobre tramitación y fallo del recurso de protección, se declara inadmisible el recurso de protección interpuesto al folio 1.
 
 Archívese.
-
-N°Protección-7279-2025.
+N°Protección-13950-2025.
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------
-PAGE2Santiago, veinticinco de febrero de dos mil veintiséis.Vistos:Se confirma la sentencia apelada en estos autos.Regístrese y devuélvase.Rol N° 4.244-2026.Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sr. Omar Astudillo C., Sr. Gonzalo Ruz L., la ministra suplente Sra. Eliana Quezada M. y las Abogadas Integrantes Sra. Fabiola Esther Lathrop Gómez y Sra. Andrea Paola Ruiz Rosas. Santiago, 25 de febrero de 2026.Autoriza el Ministro de Fe de la Excma. Corte Suprema.En Santiago, a veinticinco de febrero de dos mil veintiséis, notifiqué en Secretaría por el Estado Diario la resolución precedente. PAGE2Santiago, veinticinco de febrero de dos mil veintiséis.Vistos:Se confirma la sentencia apelada en estos autos.Regístrese y devuélvase.Rol N° 4.244-2026.Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sr. Omar Astudillo C., Sr. Gonzalo Ruz L., la ministra suplente Sra. Eliana Quezada M. y las Abogadas Integrantes Sra. Fabiola Esther Lathrop Gómez y Sra. Andrea Paola Ruiz Rosas. Santiago, 25 de febrero de 2026.Autoriza el Ministro de Fe de la Excma. Corte Suprema.En Santiago, a veinticinco de febrero de dos mil veintiséis, notifiqué en Secretaría por el Estado Diario la resolución precedente. Sentencia anonimizada
+PAGE2Santiago, veinticinco de febrero de dos mil veintiséis.Vistos:Se confirma la sentencia apelada en estos autos.Regístrese y devuélvase.Rol N° 4.286-2026.Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sr. Omar Astudillo C., Sr. Gonzalo Ruz L., la ministra suplente Sra. Eliana Quezada M. y las Abogadas Integrantes Sra. Fabiola Esther Lathrop Gómez y Sra. Andrea Paola Ruiz Rosas. Santiago, 25 de febrero de 2026.Autoriza el Ministro de Fe de la Excma. Corte Suprema.En Santiago, a veinticinco de febrero de dos mil veintiséis, notifiqué en Secretaría por el Estado Diario la resolución precedente. PAGE2Santiago, veinticinco de febrero de dos mil veintiséis.Vistos:Se confirma la sentencia apelada en estos autos.Regístrese y devuélvase.Rol N° 4.286-2026.Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sr. Omar Astudillo C., Sr. Gonzalo Ruz L., la ministra suplente Sra. Eliana Quezada M. y las Abogadas Integrantes Sra. Fabiola Esther Lathrop Gómez y Sra. Andrea Paola Ruiz Rosas. Santiago, 25 de febrero de 2026.Autoriza el Ministro de Fe de la Excma. Corte Suprema.En Santiago, a veinticinco de febrero de dos mil veintiséis, notifiqué en Secretaría por el Estado Diario la resolución precedente. Sentencia anonimizada

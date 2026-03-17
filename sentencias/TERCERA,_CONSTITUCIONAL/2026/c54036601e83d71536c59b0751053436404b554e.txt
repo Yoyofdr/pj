@@ -4,30 +4,31 @@ case_id: c54036601e83d71536c59b0751053436404b554e
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8040735
 
-rol: 1199-2026
+rol: 4286-2026
 
 fecha_sentencia: 2026-02-25
 
-caratulado: GARCIA VALDERRAMA ISABEL BEATRIZ / MINISTERIO DEL INTERIOR Y OTROS
+caratulado: TUMA/ISAPRE CRUZ BLANCA S.A.
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) CASACIÓN FORMA Y FONDO
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CIVIL) CASACIÓN FORMA Y FONDO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
+Corte Apelaciones ▼
+PAGE
+2
 Santiago, veinticinco de febrero de dos mil veintiséis.
-
 Vistos:
-Se confirma la sentencia apelada.
-
+Se confirma la sentencia apelada en estos autos.
 Regístrese y devuélvase.
 
-Rol N° 705-2026.
+Rol N° 4.286-2026.
 Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sr. Omar Astudillo C., Sr. Gonzalo Ruz L., la ministra suplente Sra. Eliana Quezada M. y las Abogadas Integrantes Sra. Fabiola Esther Lathrop Gómez y Sra. Andrea Paola Ruiz Rosas. Santiago, 25 de febrero de 2026.
 Autoriza el Ministro de Fe de la Excma. Corte Suprema.
 
@@ -35,26 +36,26 @@ En Santiago, a veinticinco de febrero de dos mil veintiséis, notifiqué en Secr
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
-/dcg
+Corte Apelaciones ▼
+jtha
 
-Antofagasta, a dieciséis de diciembre de dos mil veinticinco.
+C.A. de Santiago.
 
-A folio 1:
+cb
 
-A todo, estese a lo que se resolverá:
+Santiago, veinticinco de junio de dos mil veinticinco.
 
-VISTOS:
+Visto y teniendo presente:
 
-Atendido que los hechos expuestos en el recurso de protección no dan cuenta de la existencia de una vulneración o amenaza a la garantía constitucional que invoca, por cuanto la demora en dar respuesta a la solicitud de la parte recurrente, obedece a la tramitación de un procedimiento reglado y cuyo avance es posible de verificar en forma pública, asimismo, los eventuales inconvenientes que se esgrimen en el recurso, no son tales, porque la parte recurrente mantiene su situación migratoria regular, pudiendo ingresar y egresar del territorio nacional sin límite, en tanto esté vigente el permiso de residencia respectivo y se cumplan los requisitos que exigen la ley de migración y su reglamento, como lo indica el artículo 38 de la Ley 21.325.
+1°) Que el recurso de protección tiene por objeto restablecer el imperio del derecho cuando éste ha sido quebrantado por actos u omisiones arbitrarias o ilegales que amenazan, perturban o privan del ejercicio legítimo de alguna de las garantías taxativamente numeradas en el artículo 20 de la Constitución Política de la República, dejando a salvo las demás acciones legales;
 
-Del mismo modo cabe indicar que el recurrente, mantiene la vigencia de su cédula de identidad, en tanto acredite que cuenta con un certificado de residencia en trámite o hasta que la autoridad migratoria resuelva su respectiva solicitud, conforme así lo establece el artículo 43 del mismo cuerpo legal, conforme lo ha asentado la jurisprudencia reciente de la Excma. Corte Suprema, por lo cual, no es posible establecer de los presupuestos fácticos que invoca el recurrente la existencia de vulneración a la garantía constitucional aludida en los términos pretendidos por el actor, lo que importa necesariamente la imposibilidad de continuar su tramitación por carecer de presupuestos de admisibilidad de la acción constitucional.
+2°) Que, en la presentación efectuada en estos autos, no se han mencionado hechos que puedan constituir una vulneración a las garantías constitucionales indicadas en el artículo 20 de la Constitución Política de la República, teniendo especialmente presente que la solicitud que se realiza abarca aspectos que demuestran que lo pretendido es una declaración de mera certeza, toda vez que no se aportaron antecedentes suficientes que hayan dado cuenta del uso de las prestaciones médicas de carácter mental alegadas, razón por la cual tiene aplicación la norma de inadmisibilidad prevista en el inciso segundo del numeral 2° del Auto Acordado de la Excma. Corte Suprema sobre Tramitación del Recurso del Protección de Garantías Constitucionales.
 
-Por estas consideraciones, y conforme lo dispuesto en el numeral segundo del Auto Acordado sobre tramitación de Recurso de Protección de la Excma. Corte Suprema, se declara INADMISIBLE el recurso de protección interpuesto.
+Y de conformidad, además, con lo dispuesto en el Auto Acordado de la Excma. Corte Suprema sobre tramitación y fallo del recurso de protección, se declara inadmisible el recurso de protección interpuesto al folio 1.
 
-Regístrese y comuníquese
-
-Rol 2230-2025 (Protección)
+Archívese.
+N°Protección-13950-2025.
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------
-/dcgAntofagasta, a dieciséis de diciembre de dos mil veinticinco.A folio 1:A todo, estese a lo que se resolverá:VISTOS:Atendido que los hechos expuestos en el recurso de protección no dan cuenta de la existencia de una vulneración o amenaza a la garantía constitucional que invoca, por cuanto la demora en dar respuesta a la solicitud de la parte recurrente, obedece a la tramitación de un procedimiento reglado y cuyo avance es posible de verificar en forma pública, asimismo, los eventuales inconvenientes que se esgrimen en el recurso, no son tales, porque la parte recurrente mantiene su situación migratoria regular, pudiendo ingresar y egresar del territorio nacional sin límite, en tanto esté vigente el permiso de residencia respectivo y se cumplan los requisitos que exigen la ley de migración y su reglamento, como lo indica el artículo 38 de la Ley 21.325. Del mismo modo cabe indicar que el recurrente, mantiene la vigencia de su cédula de identidad, en tanto acredite que cuenta con un certificado de residencia en trámite o hasta que la autoridad migratoria resuelva su respectiva solicitud, conforme así lo establece el artículo 43 del mismo cuerpo legal, conforme lo ha asentado la jurisprudencia reciente de la Excma. Corte Suprema, por lo cual, no es posible establecer de los presupuestos fácticos que invoca el recurrente la existencia de vulneración a la garantía constitucional aludida en los términos pretendidos por el actor, lo que importa necesariamente la imposibilidad de continuar su tramitación por carecer de presupuestos de admisibilidad de la acción constitucional.Por estas consideraciones, y conforme lo dispuesto en el numeral segundo del Auto Acordado sobre tramitación de Recurso de Protección de la Excma. Corte Suprema, se declara INADMISIBLE el recurso de protección interpuesto. Regístrese y comuníqueseRol 2230-2025 (Protección)                        ⚠                      Sin documento en esta instancia - pdf
+PAGE2Santiago, veinticinco de febrero de dos mil veintiséis.Vistos:Se confirma la sentencia apelada en estos autos.Regístrese y devuélvase.Rol N° 4.286-2026.Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sr. Omar Astudillo C., Sr. Gonzalo Ruz L., la ministra suplente Sra. Eliana Quezada M. y las Abogadas Integrantes Sra. Fabiola Esther Lathrop Gómez y Sra. Andrea Paola Ruiz Rosas. Santiago, 25 de febrero de 2026.Autoriza el Ministro de Fe de la Excma. Corte Suprema.En Santiago, a veinticinco de febrero de dos mil veintiséis, notifiqué en Secretaría por el Estado Diario la resolución precedente. PAGE2Santiago, veinticinco de febrero de dos mil veintiséis.Vistos:Se confirma la sentencia apelada en estos autos.Regístrese y devuélvase.Rol N° 4.286-2026.Pronunciado por la Tercera Sala de esta Corte Suprema integrada por los ministros Sr. Omar Astudillo C., Sr. Gonzalo Ruz L., la ministra suplente Sra. Eliana Quezada M. y las Abogadas Integrantes Sra. Fabiola Esther Lathrop Gómez y Sra. Andrea Paola Ruiz Rosas. Santiago, 25 de febrero de 2026.Autoriza el Ministro de Fe de la Excma. Corte Suprema.En Santiago, a veinticinco de febrero de dos mil veintiséis, notifiqué en Secretaría por el Estado Diario la resolución precedente. Sentencia anonimizada
