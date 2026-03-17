@@ -4,17 +4,17 @@ case_id: 5054c7e96a05ec157fffd9e4efcd6ef796721e7b
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8061575
 
-rol: 9221-2026
+rol: 9133-2026
 
 fecha_sentencia: 2026-03-12
 
-caratulado: ARAPE SANCHEZ ISAMAR NATHALI CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: SANABRIA MAURO EZEQUIEL CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (CIVIL) CASACIÓN FONDO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 

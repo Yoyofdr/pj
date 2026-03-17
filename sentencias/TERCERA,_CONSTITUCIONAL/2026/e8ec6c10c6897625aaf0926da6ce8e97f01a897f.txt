@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062961
 
 rol: 10497-2025
 
-fecha_sentencia: 2026-03-13
+fecha_sentencia: 2026-03-12
 
 caratulado: DÍAZ/SERVICIO NACIONAL DE MIGRACIONES
 
@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Refugiado
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) CASACIÓN FONDO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA
 

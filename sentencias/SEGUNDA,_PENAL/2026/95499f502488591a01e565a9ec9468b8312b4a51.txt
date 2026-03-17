@@ -4,19 +4,19 @@ case_id: 95499f502488591a01e565a9ec9468b8312b4a51
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062631
 
-rol: 9163-2026
+rol: 7827-2026
 
 fecha_sentencia: 2026-03-12
 
-caratulado: GONZALEZ MARQUEZ MARGENES DEL CARMEN CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: XIMENA SOLEDAD BAHAMONDES GONZALEZ C/ JUANCARLOS ABARCA MORENO
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: ▪ Recurso de nulidad
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (CIVIL) CASACIÓN FONDO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: DECLARA COMPETENTE PARA CONOCER NULIDAD CORTE (M)
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

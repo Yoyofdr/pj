@@ -4,19 +4,19 @@ case_id: dfe9686f923a5b61bb709be5958bf7b1761d697b
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062892
 
-rol: 9115-2026
+rol: 9221-2026
 
 fecha_sentencia: 2026-03-12
 
-caratulado: DESIUS CLEBERT CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: ARAPE SANCHEZ ISAMAR NATHALI CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Recurso de Amparo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) CASACIÓN FONDO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

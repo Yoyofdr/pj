@@ -4,19 +4,19 @@ case_id: 18b04ad3773a78b7c50265ad76306255b38ad2a2
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8061571
 
-rol: 10679-2026
+rol: 9116-2026
 
-fecha_sentencia: 2026-03-13
+fecha_sentencia: 2026-03-12
 
-caratulado: ALVARADO ARAYA LEONIDAS ERNESTO CONTRA TERCERA SALA CORTE DE APELACIONES DE SANTIAGO
+caratulado: ZAPATA BRICEÑO RIGOBERTO ALEXANDER CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) CASACIÓN FONDO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
