@@ -4,17 +4,17 @@ case_id: 2b5d138d6e8cdc803a589ae5b49415c22e3372e6
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045661
 
-rol: 32004-2024
+rol: 53702-2024
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-02-26
 
-caratulado: ECHEVERRÍA CARRASCO OLGA CON UMAÑA MONTENEGRO ALEJANDRO Y OTRA (O)
+caratulado: SERVICIO NACIONAL DEL CONSUMIDOR CON IBERIA LÍNEAS AÉREAS DE ESPAÑA S.A. OPERADORA AGENCIA EN CHILE (S)
 
 sala: PRIMERA, CIVIL
 
-materias: ▪ Compraventa
+materias: ▪ Acción interés colectivo o difuso
 
-recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: RECHAZA CASACION EN EL FONDO (M)
 

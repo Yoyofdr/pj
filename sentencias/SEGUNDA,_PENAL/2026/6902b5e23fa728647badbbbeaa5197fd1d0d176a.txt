@@ -4,19 +4,19 @@ case_id: 6902b5e23fa728647badbbbeaa5197fd1d0d176a
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045138
 
-rol: 6681-2026
+rol: 36037-2025
 
-fecha_sentencia: 2026-03-02
+fecha_sentencia: 2026-02-26
 
-caratulado: GOURDET LYGENS CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: C/ NICOLAS BENJAMIN CEA TAPIA
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: ▪ Delitos de narcotráfico
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: SENTENCIA DE REEMPLAZO (M)
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

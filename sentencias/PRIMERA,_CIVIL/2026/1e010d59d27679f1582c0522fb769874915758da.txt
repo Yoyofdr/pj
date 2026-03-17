@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044963
 
 rol: 8354-2025
 
-fecha_sentencia: 2026-03-02
+fecha_sentencia: 2026-02-26
 
 caratulado: INMOBILIARIA NATALIA DEL CARMEN ROSS TAPIA E.I.R.L. CON LUIS MALLEA BAQUEDANO (S)
 
