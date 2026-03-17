@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045804
 
 rol: 7935-2026
 
-fecha_sentencia: 2026-03-02
+fecha_sentencia: 2026-02-26
 
 caratulado: INZUNZA CARRASCO ÁNGEL ARIEL Y OTRA CONTRA JUZGADO DE LETRAS Y GARANTÍA QUELLÓN
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) CASACIÓN FORMA Y FONDO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

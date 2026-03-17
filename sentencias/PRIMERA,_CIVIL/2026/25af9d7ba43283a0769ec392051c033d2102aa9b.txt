@@ -4,19 +4,19 @@ case_id: 25af9d7ba43283a0769ec392051c033d2102aa9b
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8043218
 
-rol: 54821-2025
+rol: 25471-2024
 
-fecha_sentencia: 2026-02-25
+fecha_sentencia: 2026-02-26
 
-caratulado: MARGARITA CARTAGENA NUÑEZ CON HUGO MAULEN GUZMAN
+caratulado: INNOVACIONES FORESTALES SPA (C)
 
 sala: PRIMERA, CIVIL
 
-materias: ▪ Admisibilidad del recurso de casación en el fondo
+materias: ▪ Reorganización y Liquidación de Empresas y Personas
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) CASACIÓN FONDO
 
-resultado_recurso: RECHAZA CASACION EN EL FONDO (M)
+resultado_recurso: RECHAZADAS CASACIÓN FORMA Y FONDO
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
