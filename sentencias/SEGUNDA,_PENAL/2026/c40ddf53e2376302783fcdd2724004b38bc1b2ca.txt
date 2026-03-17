@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044587
 
 rol: 6059-2026
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-02-26
 
 caratulado: DORLEAN FRANTZ WILLY CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

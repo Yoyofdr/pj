@@ -4,19 +4,19 @@ case_id: bda579e213b485c6f621425f2b8bc18a758c3563
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044684
 
-rol: 6083-2026
+rol: 9958-2025
 
 fecha_sentencia: 2026-02-26
 
-caratulado: BUSTAMANTE NIBELSI CONTRA SERVICIO NACIONAL DE MIGRACION
+caratulado: MINISTERIO PUBLICO C/ RAMON HERNAN DUARTE LOBOS
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: ▪ Delitos contra la propiedad y el patrimonio
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: ACOGE RECURSO DE NULIDAD (M)
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

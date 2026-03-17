@@ -4,15 +4,15 @@ case_id: 1e7548ba7140251f10c863a537df1a18ed5b1f95
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8043539
 
-rol: 46560-2025
+rol: 56831-2025
 
 fecha_sentencia: 2026-02-26
 
-caratulado: ROMERO MORALES OSCAR ERNESTO CONTRA SERVICIO DE SALUD TARAPACÁ Y OTRO
+caratulado: DÍAZ/ILUSTRE MUNICIPAL DE MEJILLONES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Función pública
+materias: ▪ Potestad disciplinaria
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
