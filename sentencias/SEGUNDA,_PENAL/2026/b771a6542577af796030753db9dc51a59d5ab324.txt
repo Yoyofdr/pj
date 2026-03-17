@@ -4,19 +4,19 @@ case_id: b771a6542577af796030753db9dc51a59d5ab324
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8061252
 
-rol: 10370-2026
+rol: 8441-2026
 
-fecha_sentencia: 2026-03-11
+fecha_sentencia: 2026-03-12
 
-caratulado: MINISTERIO PUBLICO ANTOFAGASTA C/ DANIEL SALVADOR GOMEZ AGUIRRE
+caratulado: ANONIMIZADO
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de nulidad
+materias: (FAMILIA) CASACIÓN FONDO
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (FAMILIA) CASACIÓN FONDO
 
-resultado_recurso: DECLARA COMPETENTE PARA CONOCER NULIDAD A LA CORTE
+resultado_recurso: DESIERTO RECURSO DE CASACION EN EL FONDO
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

@@ -4,17 +4,17 @@ case_id: 2cae5a61c2e11b6cf8d4436a89c4ca2c2dcb1b7a
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8061242
 
-rol: 9139-2026
+rol: 10679-2026
 
 fecha_sentencia: 2026-03-12
 
-caratulado: BOURSIQUOT MARIE BERTINE CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: ALVARADO ARAYA LEONIDAS ERNESTO CONTRA TERCERA SALA CORTE DE APELACIONES DE SANTIAGO
 
 sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) CASACIÓN FONDO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 

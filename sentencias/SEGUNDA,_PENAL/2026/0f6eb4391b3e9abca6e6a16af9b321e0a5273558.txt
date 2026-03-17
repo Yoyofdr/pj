@@ -4,19 +4,19 @@ case_id: 0f6eb4391b3e9abca6e6a16af9b321e0a5273558
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8058127
 
-rol: 10598-2026
+rol: 26025-2025
 
-fecha_sentencia: 2026-03-11
+fecha_sentencia: 2026-03-10
 
-caratulado: C/ JOYNER JOSE MONTAGU CASTILLO
+caratulado: MINISTERIO PUBLICO FISCALIA LOCAL C/ JUAN ANDRES ESPINOZA FIERRO
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de nulidad
+materias: ▪ Otros Delitos en leyes especiales
 
-recurso: (CIVIL) CASACIÓN FORMA Y FONDO
+recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
 
-resultado_recurso: DECLARA INADMISIBLE RECURSO DE NULIDAD, REMITE ANT
+resultado_recurso: RECHAZA RECURSO DE NULIDAD (M)
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

@@ -4,23 +4,28 @@ case_id: 9b0b4cfb92042dc73a14bed45a71752896b09e7e
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8059253
 
-rol: 8441-2026
+rol: 10598-2026
 
-fecha_sentencia: 2026-03-12
+fecha_sentencia: 2026-03-11
 
-caratulado: ANONIMIZADO
+caratulado: C/ JOYNER JOSE MONTAGU CASTILLO
 
 sala: SEGUNDA, PENAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Recurso de nulidad
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: DESIERTO RECURSO DE CASACION EN EL FONDO
+resultado_recurso: DECLARA INADMISIBLE RECURSO DE NULIDAD, REMITE ANT
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
-C.A. de SantiagoSantiago, veintitrés de enero de dos mil veintiséis.Vistos y considerando:Que el antecedente acompañado de fojas 456 a 464 vta. del expediente de primera instancia en nada altera lo razonado por el tribunal a quo y que los argumentos expuestos en el recurso de apelación deducido por la parte reclamante no logran desvirtuar lo que viene decidido por el juez del grado, razón por la cual corresponde mantener la decisión de primera instancia.Y atendido, además, lo dispuesto en el artículo 140 del Código Tributario, se confirma la sentencia apelada de catorce de agosto de dos mil veinticinco, dictada por el Primer Tribunal Tributario y Aduanero de Santiago, en causa RIT GR–15-00039-2024. Regístrese y devuélvase.Rol Corte Nro. 634-2025 (Tributario)                        ⚠                      Sin documento en esta instancia - pdf
+Santiago, doce de marzo de dos mil veintiséis.
+
+Vistos:
+Atendido lo dispuesto en el artículo 76 del Código de Procedimiento Civil, dése curso al presente exhorto y remítanse estos antecedentes al juzgado de familia competente en Santiago. Ofíciese.
+Regístrese.
+Nº9.522-26.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
