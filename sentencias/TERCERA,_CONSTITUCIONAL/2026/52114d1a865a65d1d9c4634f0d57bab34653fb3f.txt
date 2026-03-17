@@ -1,0 +1,94 @@
+METADATA
+
+case_id: 52114d1a865a65d1d9c4634f0d57bab34653fb3f
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8063081
+
+rol: 465-2025
+
+fecha_sentencia: 2026-03-16
+
+caratulado: MONTERO/INSTITUTO SALUD PUBLICA DE CHILE
+
+sala: TERCERA, CONSTITUCIONAL
+
+materias: (CRIMEN) APELACIÓN AMPARO
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: CONFIRMA SENTENCIA APELADA
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Corte Suprema ▼
+Santiago, dieciséis de marzo de dos mil veintiséis.
+
+En cumplimiento de lo dispuesto en el artículo 785 del Código de Procedimiento Civil, se dicta la siguiente sentencia de reemplazo:
+VISTO:
+Se reproduce la resolución en alzada con excepción de sus considerandos tercero y cuarto que se eliminan.
+
+Y, SE TIENE EN SU LUGAR, ADEMÁS PRESENTE:
+Lo razonado en los motivos cuarto a sexto del fallo de casación que antecede, que se dan por reproducidos y lo previsto además en los artículos 152, 186 y siguientes del Código de Procedimiento Civil, se revoca la resolución apelada de quince de enero de dos mil veinticinco dictada por el 1° Juzgado de Letras de Curicó en los autos Rol C-1.868-2022, y se declara en su lugar:
+Que se rechazan los incidentes de abandono del procedimiento deducidos por las demandadas, debiendo el tribunal de la causa disponer lo necesario para dar debida prosecución al juicio.
+
+Acordado con el voto en contra de los ministros señor Arturo Prado y señora Soledad Melo quienes fueron del parecer de confirmar la resolución en alzada por compartir sus fundamentos y atendido además los argumentos señalados en su voto en contra del fallo de casación que antecede.
+
+Regístrese y devuélvase vía interconexión.
+
+Redacción a cargo del ministro señor Arturo Prado P.
+
+N° 20.812-2025.
+
+Pronunciado por la Primera Sala de la Corte Suprema integrada por los Ministros señor Arturo Prado P., señora María Angélica Repetto G., señor Mario Carroza E., señora María Soledad Melo L. y el Abogado integrante señor Álvaro Vidal O.
+
+No obstante, haber concurrido a la vista de la causa y al acuerdo, no firman los Ministros señora Repetto y señor Carroza, por estar con feriado legal.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+Corte Suprema ▼
+Santiago, dieciséis de marzo de dos mil veintiséis.
+
+En cumplimiento de lo dispuesto en el artículo 785 del Código de Procedimiento Civil, se dicta la siguiente sentencia de reemplazo:
+VISTO:
+Se reproduce la resolución en alzada con excepción de sus considerandos tercero y cuarto que se eliminan.
+
+Y, SE TIENE EN SU LUGAR, ADEMÁS PRESENTE:
+Lo razonado en los motivos cuarto a sexto del fallo de casación que antecede, que se dan por reproducidos y lo previsto además en los artículos 152, 186 y siguientes del Código de Procedimiento Civil, se revoca la resolución apelada de quince de enero de dos mil veinticinco dictada por el 1° Juzgado de Letras de Curicó en los autos Rol C-1.868-2022, y se declara en su lugar:
+Que se rechazan los incidentes de abandono del procedimiento deducidos por las demandadas, debiendo el tribunal de la causa disponer lo necesario para dar debida prosecución al juicio.
+
+Acordado con el voto en contra de los ministros señor Arturo Prado y señora Soledad Melo quienes fueron del parecer de confirmar la resolución en alzada por compartir sus fundamentos y atendido además los argumentos señalados en su voto en contra del fallo de casación que antecede.
+
+Regístrese y devuélvase vía interconexión.
+
+Redacción a cargo del ministro señor Arturo Prado P.
+
+N° 20.812-2025.
+
+Pronunciado por la Primera Sala de la Corte Suprema integrada por los Ministros señor Arturo Prado P., señora María Angélica Repetto G., señor Mario Carroza E., señora María Soledad Melo L. y el Abogado integrante señor Álvaro Vidal O.
+
+No obstante, haber concurrido a la vista de la causa y al acuerdo, no firman los Ministros señora Repetto y señor Carroza, por estar con feriado legal.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+Corte Suprema ▼
+Santiago, dieciséis de marzo de dos mil veintiséis.
+
+En cumplimiento de lo dispuesto en el artículo 785 del Código de Procedimiento Civil, se dicta la siguiente sentencia de reemplazo:
+VISTO:
+Se reproduce la resolución en alzada con excepción de sus considerandos tercero y cuarto que se eliminan.
+
+Y, SE TIENE EN SU LUGAR, ADEMÁS PRESENTE:
+Lo razonado en los motivos cuarto a sexto del fallo de casación que antecede, que se dan por reproducidos y lo previsto además en los artículos 152, 186 y siguientes del Código de Procedimiento Civil, se revoca la resolución apelada de quince de enero de dos mil veinticinco dictada por el 1° Juzgado de Letras de Curicó en los autos Rol C-1.868-2022, y se declara en su lugar:
+Que se rechazan los incidentes de abandono del procedimiento deducidos por las demandadas, debiendo el tribunal de la causa disponer lo necesario para dar debida prosecución al juicio.
+
+Acordado con el voto en contra de los ministros señor Arturo Prado y señora Soledad Melo quienes fueron del parecer de confirmar la resolución en alzada por compartir sus fundamentos y atendido además los argumentos señalados en su voto en contra del fallo de casación que antecede.
+
+Regístrese y devuélvase vía interconexión.
+
+Redacción a cargo del ministro señor Arturo Prado P.
+
+N° 20.812-2025.
+
+Pronunciado por la Primera Sala de la Corte Suprema integrada por los Ministros señor Arturo Prado P., señora María Angélica Repetto G., señor Mario Carroza E., señora María Soledad Melo L. y el Abogado integrante señor Álvaro Vidal O.
+
+No obstante, haber concurrido a la vista de la causa y al acuerdo, no firman los Ministros señora Repetto y señor Carroza, por estar con feriado legal.
