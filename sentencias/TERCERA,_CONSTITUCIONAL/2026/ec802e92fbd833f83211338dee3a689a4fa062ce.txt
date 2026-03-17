@@ -4,19 +4,19 @@ case_id: ec802e92fbd833f83211338dee3a689a4fa062ce
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062610
 
-rol: 53476-2025
+rol: 8242-2026
 
 fecha_sentencia: 2026-03-13
 
-caratulado: SERVICIO NACIONAL DE PROTECCION ESPECIALIZADA A LA NIÑEZ Y ADOLESCENCIA/ YANIRA NICOLETTE BOLT HELLWIG
+caratulado: CONGREGACION SALESIANA INSPECTORIA SALESIANA / INSTITUTO SALESIANO VALDIVIA/SUPERINTEDENCIA DE EDUCA
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) CASACIÓN FONDO
+materias: ▪ Potestad sancionadora
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

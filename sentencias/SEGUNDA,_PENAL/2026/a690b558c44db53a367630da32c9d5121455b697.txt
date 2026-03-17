@@ -1,0 +1,670 @@
+METADATA
+
+case_id: a690b558c44db53a367630da32c9d5121455b697
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062900
+
+rol: 9113-2026
+
+fecha_sentencia: 2026-03-13
+
+caratulado: PIERRE MAXIANA CONTRA SERVICIO NACIONAL DE MIGRACIONES
+
+sala: SEGUNDA, PENAL
+
+materias: ▪ Recurso de Amparo
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, trece de marzo de dos mil veinticinco.
+
+Vistos y teniendo presente:
+Primero: Que, de conformidad con lo dispuesto en el artículo 782 del Código de Procedimiento Civil, se ordenó dar cuenta del recurso de casación en el fondo deducido por la ejecutante en contra de la sentencia dictada por la Corte de Apelaciones de Concepción, que confirmó la de primera instancia que acogió la excepción de prescripción de la acción de cobro de cotizaciones previsionales opuesta por la demandada.
+
+Segundo: Que la recurrente denuncia vulnerados los artículos 4 del Código del Trabajo, 5 N°5, 31 Bis de la Ley N°17.322, 464 N°17 del Código de Procedimiento Civil, dado que el contrato de trabajo reconoce expresamente la antigüedad laboral, pero no la continuidad de la empresa, lo que es una contradicción. No es necesario iniciar ninguna acción declarativa para que se dé cuenta de la continuidad jurídica de una empresa, pues no es lo mismo que la unidad económica. Además, se pretende alegar la prescripción respecto de las cotizaciones previsionales, afirmando que la relación laboral con la trabajadora habría concluido en 2017, en circunstancias que continuó trabajando, bajo otro Rut y razón social, pero supeditada al mismo contrato celebrado en el año 1999.
+Solicita se acoja el recurso de casación en el fondo, se invalide la sentencia recurrida y se dicte la de reemplazo que describe.
+
+Tercero: Que la sentencia impugnada estableció los siguientes hechos:
+1. La resolución N°2518976, determinó que la ejecutada adeuda la suma de $1.420.900, por cotizaciones previsionales morosas de la trabajadora, doña Delicia del Carmen Araneda Garrido, correspondientes a los periodos junio, septiembre y noviembre de 2006; enero de 2007 a diciembre de 2008; enero, febrero, marzo, mayo, junio, julio, octubre y noviembre de 2010; y de enero de 2011 a agosto de 2012.
+2. Desde el 1 de agosto de 2016, la afiliada, doña Delicia del Carmen Araneda Garrido, dejó de trabajar para la ejecutada, MB Auditores Consultores Limitada, quien pagó sus cotizaciones desde el año 2012, y comenzó a trabajar para MB Auditores Ltda., desempeñando el mismo cargo de contadora y outsourcing en contabilidad, en el mismo lugar y reconociéndosele una antigüedad laboral desde el 1999, quien pagó sus cotizaciones previsionales, desde agosto de 2016 a julio de 2025, sin que haya prestado servicios para ambas empresas.
+3. Los socios de ambas empresas son los mismos y Auditores Consultores y Abogados Concepción Limitada y MB Auditores Consultores Limitada son un único empleador.
+4. Empero, no se acreditó que MB Auditores Ltda. sea la continuadora legal, según el artículo 4 del Código del Trabajo, de MB Auditores Consultores Limitada, la ejecutada.
+5. El 1 de agosto de 2016 doña Delicia Araneda dejó de prestar servicios para la demandada.
+6. La demanda se presentó el 1 de octubre de 2024.
+Sobre estos presupuestos fácticos concluyó que transcurrió con creces el plazo de cinco años para que opere la prescripción, aún interrumpida con la sola presentación de la demanda.
+Cuarto: Que, dicho lo anterior, resulta pertinente tener en consideración que sólo los tribunales del fondo se encuentran facultados para fijar los hechos de la causa, y que efectuada correctamente dicha labor, esto es, con sujeción a las denominadas normas reguladoras de la prueba atinentes al caso en estudio, resultan inalterables para esta Corte, conforme a lo previsto en el artículo 785 del Código de Procedimiento Civil, no siendo posible su revisión por la vía de la nulidad que se analiza, menos aun cuando, como en la especie, no se denuncian infringidas tales reglas.
+
+Quinto: Que, entonces, en lo que dice relación con las alegaciones referidas en el recurso, cabe señalar que no se advierte la infracción de ley acusada, toda vez que los tribunales del fondo efectuaron una correcta aplicación de la norma jurídica pertinente al caso, por lo que no cabe sino concluir que el recurso debe ser desestimado por adolecer de manifiesta falta de fundamento.
+
+Por estas consideraciones y normas citadas, se rechaza el recurso de casación en el fondo deducido en contra de la sentencia de veintidós de enero de dos mil veintiséis.
+
+Regístrese y devuélvase.
+
+Nº7.426-2026.-
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Concepción
+DIV/rtp
+Concepción, veintidós de enero de dos mil veintiséis.
+
+VISTO Y TENIENDO ADEMÁS PRESENTE:
+
+Que las alegaciones vertidas en el recurso de apelación no fueron invocadas por la ejecutante al interponer su demanda ejecutiva, por lo que no fueron objeto de la discusión y decisión que se revisa, SE CONFIRMA, sin costas del recurso, la resolución apelada de tres de septiembre de dos mil veinticinco, dictada en causa RIT P-7090-2024, del ingreso del Juzgado de Cobranza Laboral y Previsional de Concepción.
+Devuélvase.
+
+N°Laboral - Cobranza-752-2025.
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+JUZGADO DE COBRANZA LABORAL
+
+Y PREVISIONAL DE CONCEPCION
+
+PODER JUDICIAL
+
+CHILE
+
+Concepción, tres de septiembre de dos mil veinticinco.
+
+VISTOS Y TENIENDO PRESENTE:
+
+Con fecha 1 de octubre de 2024, comparece el abogado Antonio Álamos Avendaño,
+
+en representación de la ADMINISTRADORA DE FONDOS DE PENSIONES
+
+HABITAT, Entidad de Previsión Social, ambos domiciliados en San Martín 880 OF. 208-B,
+
+Concepción, quien viene en interponer demanda ejecutiva en contra del empleador MB
+
+AUDITORES CONSULTORES LTDA., representado por Orlando Anselmo Marambio
+
+Vinagre, ignora profesión, con domicilio en San Martín 553, Concepción.
+
+Funda su demanda en la resolución Nro. 2518976, dictada en uso de la facultad que le
+
+confiere el artículo 19 del Decreto Ley 3.500 de 1980, en relación con el artículo 2 de la Ley
+
+17.322, la que ha establecido que la ejecutada le adeuda y debe pagar, la suma de $
+
+1.420.900, por cotizaciones previsionales morosas de los trabajadores individualizados en
+
+ella, correspondientes a los periodos junio, septiembre y noviembre de 2006; enero de 2007 a
+
+diciembre de 2008; enero, febrero, marzo, mayo, junio, julio, octubre y noviembre de 2010; y
+
+de enero de 2011 a agosto de 2012.
+
+Señala que la resolución tiene mérito ejecutivo, que la deuda es líquida, actualmente
+
+exigible la obligación, y que la acción no se encuentra prescrita.
+
+Solicita tener por interpuesta demanda ejecutiva y se ordene despachar mandamiento
+
+de ejecución y embargo en su contra, por la suma de $1.420.900, más reajustes, intereses,
+
+recargos y costas,  disponiendo se siga adelante la ejecución hasta el íntegro pago de lo
+
+adeudado, todo con costas.
+
+Con fecha 1 de octubre de 2024, se despachó mandamiento de ejecución y
+
+embargo en contra de la demandada ejecutiva, por la suma señalada, notificándose a la
+
+ejecutada de forma personal subsidiaria el día 22 de julio del año en curso, siendo
+
+requerida de pago en rebeldía al día siguiente.
+
+Con fecha 28 de julio de 2025, la ejecutada opuso a la ejecución la excepción del
+
+numeral 17 del artículo 464 del Código de Procedimiento Civil, en relación con el artículo 5
+
+Nro. 5 de la Ley 17.322, esto es, la prescripción de la acción ejecutiva.
+
+Funda la excepción en que Delicia del Carmen Araneda Garrido, dejó de trabajar para
+
+MB Auditores Consultores Limitadas el día 1 de septiembre del año 2017 y comenzó a
+
+trabajar en MB Auditores Limitada, lo que consta en contrato de trabajo que firmó doña
+
+Delicia con su actual empleador MB Auditores Limitada. Refiere que en dicho contrato se
+
+explicita que se compromete a ejecutar el trabajo de contadora y outsourcing en contabilidad,
+
+también se estipula que su jornada laboral se desarrollará de lunes a viernes, en horario de
+
+_____________________________________________________________________________________________________
+
+Avda. Libertador Bernardo O’higgins 241 piso 11 oficina 1122, Concepción
+Teléfonos 412697624 – 412697628- 412697629- 412697630
+
+jcobconcepcion@pjud.cl
+
+Código: JUJPBBXXKXX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+mailto:jcobconcepcion@pjud.cl
+
+JUZGADO DE COBRANZA LABORAL
+
+Y PREVISIONAL DE CONCEPCION
+
+PODER JUDICIAL
+
+CHILE
+
+09:00 a 13:00 horas por la mañana, y de 14:00 a 18:30 horas por la tarde. Lo anterior se
+
+corrobora, además, con el certificado de cotizaciones previsionales emitido por su actual
+
+empleador.
+
+Explica, seguidamente, que las empresas MB Auditores Consultores Limitadas y la
+
+empresa MB Auditores Limitadas son dos sociedades completamente distintas. Explayándose
+
+sobre la génesis de ambas y sus modificaciones, refiere que la sociedad “Andrea Caro y
+
+Compañía Limitada” fue constituida con fecha 27 de octubre de 1999 mediante escritura
+
+pública otorgada ante el notario don José Gerardo Bambach Echazarreta, bajo el repertorio
+
+N° 2.933 y fue inscrita en el Registro de Comercio de Concepción a fojas 1460 vuelta
+
+número 1082 del año 1999. Posteriormente, fue modificada por escritura pública de fecha 17
+
+de septiembre de 2009, otorgada ante el notario don Ramón García Carrasco, bajo el
+
+repertorio N° 8.263, cambiando su razón social a “MB Auditores Consultores Limitada”, la
+
+que fue inscrita en el Registro de Comercio con fecha 22 de septiembre de 2009, a fojas
+
+1.585 vuelta, número 1.597.
+
+En cambio, la empresa “MB Auditores Limitada”, actual empleadora de doña Delicia,
+
+fue constituida mediante escritura pública de fecha 25 de septiembre del año 2015 ante el
+
+notario público titular Camilo Valenzuela bajo el número de repertorio 3696 y fue inscrita en
+
+el Registro de Comercio de Santiago con fecha 30 de septiembre del mismo año a fojas
+
+73.210 número 42834.
+
+Por lo anterior, sostiene que el plazo de prescripción de la acción de cobro de cinco
+
+años comenzó a computarse el día 1 de septiembre de 2017, completándose el día 1 de
+
+septiembre del año 2022. En consecuencia, al 1 de octubre del año 2024- fecha de la
+
+interposición de esta demanda – la acción de cobro se encontraba prescrita respecto de las
+
+cotizaciones previsionales que la demandante asegura que su parte adeuda a Delicia del
+
+Carmen Araneda Garrido.
+
+Solicita, en definitiva, declarar que la acción de cobro se encuentra prescrita,
+
+desestimando la ejecución de autos, en todas sus partes, con expresa condenación en costas.
+
+Conferido traslado de la excepción a la ejecutante, la parte lo evacuó con fecha 7 de
+
+agosto de 2025 y solicitó su rechazo, con costas.
+
+Afinca su solicitud en la ausencia de seriedad de la excepción opuesta, al no exponer
+
+las fechas exactas en que se habría producido la supuesta prescripción. Ello en el entendido
+
+que los plazos se entienden interrumpidos desde que se presenta la demanda, de conformidad
+
+a lo dispuesto en el artículo 18 de la Ley Nro. 17.322, por lo cual, en autos, dicho plazo se
+
+entendería interrumpido con fecha 1 de octubre de 2024. Cita jurisprudencia en abono de su
+
+tesis, asilándose en la legislación común, en específico, en el artículo 2518 Nº 3 del Código
+
+_____________________________________________________________________________________________________
+
+Avda. Libertador Bernardo O’higgins 241 piso 11 oficina 1122, Concepción
+Teléfonos 412697624 – 412697628- 412697629- 412697630
+
+jcobconcepcion@pjud.cl
+
+Código: JUJPBBXXKXX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+mailto:jcobconcepcion@pjud.cl
+
+JUZGADO DE COBRANZA LABORAL
+
+Y PREVISIONAL DE CONCEPCION
+
+PODER JUDICIAL
+
+CHILE
+
+Civil, pues a su juicio, la interrupción de la prescripción consiste en el ejercicio ante los
+
+tribunales, más allá de la fecha de notificación (acto que da inicio a la controversia judicial),
+
+porque la sola interposición de la demanda constituirá un elemento de prueba suficientemente
+
+capaz de destruir la presunción de abandono u olvido del derecho que al actor la institución le
+
+supone, desde el ingreso a distribución. Sostiene que otra interpretación llevaría a perjudicar
+
+al acreedor perseverantemente y a premiar al deudor que, en algunos casos, elude con
+
+artificios la notificación de la demanda.
+
+Con fecha 11 de agosto de 2025, se declaró admisible la excepción opuesta y se
+
+recibió la causa a prueba, lo que permitió la rendición de la prueba que obra en autos.
+
+Con esta fecha, se decretó medida para mejor resolver, la que fue cumplida, citándose
+
+a las partes a oír sentencia.
+
+CONSIDERANDO:
+
+PRIMERO: La parte ejecutante solicita el pago de las cotizaciones previsionales
+
+adeudadas por la ejecutada, fundada en la Resolución Nro. 2518976, según da cuenta la parte
+
+expositiva.
+
+SEGUNDO: La demandada ejecutiva se opone a la ejecución mediante la excepción
+
+de prescripción de la acción de cobro, conforme se ha referido en lo expositivo.
+
+TERCERO: Conferido traslado a la parte ejecutante, lo evacuó solicitando su
+
+rechazo, por cuanto, a su juicio, la sola interposición de la demanda interrumpió la
+
+prescripción, sin que, por lo demás, la ejecutada haya expuesto la fecha en que ésta se
+
+produjo.
+
+CUARTO: Con fecha 11 de agosto de 2025, fue declarada admisible la excepción
+
+opuesta, y se recibió la causa a prueba, fijándose como hecho sustancial, pertinente y
+
+controvertido el siguiente: “Efectividad de encontrarse prescrita la acción ejecutiva para el
+
+cobro de las cotizaciones adeudadas respecto de DELICIA DEL CARMEN ARANEDA
+
+GARRIDO, cédula de identidad N° 13.619.964-1. Fecha y circunstancias que lo acrediten.”
+
+QUINTO: En orden a acreditar sus aseveraciones, la parte ejecutada acompañó bajo
+
+apercibimiento legal y sin objeción de la contraria, los siguientes documentos: a) Copia de
+
+contrato de trabajo de fecha 1 de septiembre del año 2017, celebrado entre Mb Auditores
+
+Ltda. y Delicia del Carmen Araneda Garrido; b) Certificado de pago de cotizaciones
+
+previsionales de Delicia del Carmen Araneda Garrido por parte de su empleador Mb
+
+Auditores Limitada desde septiembre del año 2017 a agosto de 2019; c) Copia de inscripción
+
+del Registro de Comercio de Santiago correspondiente a la Sociedad “MB Auditores
+
+Limitada” de fojas 73210 número 42834, año 2015; d) Copia de inscripción del Registro de
+
+Comercio de Concepción correspondiente a la sociedad “Andrea Caro y Compañía Limitada”
+
+_____________________________________________________________________________________________________
+
+Avda. Libertador Bernardo O’higgins 241 piso 11 oficina 1122, Concepción
+Teléfonos 412697624 – 412697628- 412697629- 412697630
+
+jcobconcepcion@pjud.cl
+
+Código: JUJPBBXXKXX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+mailto:jcobconcepcion@pjud.cl
+
+JUZGADO DE COBRANZA LABORAL
+
+Y PREVISIONAL DE CONCEPCION
+
+PODER JUDICIAL
+
+CHILE
+
+de fojas 1460 vuelta número 1082 del año 1999; y e) Copia de inscripción del Registro de
+
+Comercio de Concepción de la modificación de la razón social a “MB Auditores Consultores
+
+Limitada” a fojas 1.585 vuelta, número 1.597 del año 2009.
+
+La ejecutada, a su turno, acompañó bajo apercibimiento legal y sin objeción de la
+
+contraria, los siguientes documentos: a) Contrato de trabajo de Delicia del Carmen Araneda
+
+Garrido y Orlando Marambio Servicios Contables y Tributarios Ltda. de fecha 1 de agosto de
+
+1999; b) Contrato de trabajo entre Delicia del Carmen Araneda Garrido y Auditores,
+
+Consultores y Abogados Concepción Ltda. de fecha 1 de enero de 2003; c) Contrato de
+
+trabajo entre Delicia del Carmen Araneda Garrido y Auditores, Consultores y Abogados
+
+Concepción Ltda. de fecha 1 de julio de 2006; d) Contrato de trabajo entre Delicia del
+
+Carmen Araneda Garrido y MB. Auditores Ltda. de 1 de agosto de 2016; d) Contrato de
+
+trabajo entre Delicia del Carmen Araneda Garrido y MB. Auditores Ltda. de 1 de septiembre
+
+de 2017; e) Contrato de trabajo entre Delicia del Carmen Araneda Garrido y MB. Auditores
+
+Ltda. de 1 de diciembre de 2019; f) Contrato de trabajo entre Delicia del Carmen Araneda
+
+Garrido y MB. Auditores Ltda. de 1 de diciembre de 2023; g) Anexo de Contrato de trabajo
+
+entre Delicia del Carmen Araneda Garrido y MB. Auditores Ltda. de 16 de mayo de 2024; y
+
+h) Certificado de afiliación de AFP HABITAT, de fecha 12 de agosto de 2025, de la afiliada
+
+Delicia del Carmen Araneda Garrido, RUT 13.619.964-1.
+
+Por su parte, el tribunal decretó como medida para mejor resolver, agregar el
+
+“Certificado de Afiliación y Cotizaciones” de AFP HABITAT, de la afiliada Delicia del
+
+Carmen Araneda Garrido, del periodo julio de 2011 a julio de 2025, el que consta a folio 38
+
+del cuaderno principal.
+
+SEXTO: Prima facie, la cobranza judicial de imposiciones, aportes y multas a las
+
+Instituciones de Previsión Social se encuentra regulada por la Ley Nro. 17.322, que dispone
+
+que los juicios a que den origen las resoluciones de los institutos de seguridad social se
+
+substanciarán de acuerdo con el procedimiento fijado en las normas especiales de esta ley y
+
+en el Título I del Libro III del Código de Procedimiento Civil, en cuanto fueren compatibles
+
+con ella.
+
+Por su parte, el artículo 442 del Código de Procedimiento Civil, dispone que el
+
+tribunal denegará la ejecución si el título presentado tiene más de tres años contados desde
+
+que la obligación se hizo exigible, disposición que guarda armonía con lo dispuesto en el
+
+artículo 2515 del Código Civil. No obstante ello, el plazo de prescripción de las acciones de
+
+cobro de imposiciones previsionales se encuentra regulada en una norma especial, cual es, el
+
+artículo 19 del D.L. 3500 de 1980, el que fue agregado por el sexto numeral del artículo 2 de
+
+la Ley Nro. 19.260, que se publicó en el Diario Oficial de fecha 4 de diciembre de 1993, y
+
+_____________________________________________________________________________________________________
+
+Avda. Libertador Bernardo O’higgins 241 piso 11 oficina 1122, Concepción
+Teléfonos 412697624 – 412697628- 412697629- 412697630
+
+jcobconcepcion@pjud.cl
+
+Código: JUJPBBXXKXX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+mailto:jcobconcepcion@pjud.cl
+
+JUZGADO DE COBRANZA LABORAL
+
+Y PREVISIONAL DE CONCEPCION
+
+PODER JUDICIAL
+
+CHILE
+
+que señala: “La prescripción que extingue las acciones para el cobro de cotizaciones
+
+previsionales, multas, reajustes e intereses, será de cinco años y se contará desde el término
+
+de los respectivos servicios.” Esta norma no hizo más que mantener el mismo criterio que
+
+establece el artículo 49 de la Ley Nro. 15.386, sobre Revalorización de Pensiones, publicada
+
+en el Diario Oficial de fecha 11 de diciembre de 1963.
+
+SÉPTIMO: Por lo anterior, en consonancia con lo dispuesto en la norma referida
+
+precedentemente, resulta esencial para la acertada resolución de la causa contar con un
+
+supuesto objetivo, cual es determinar la fecha cierta del término de la relación laboral o de la
+
+prestación de los servicios de la trabajadora incorporada en el título que funda la ejecución.
+
+Pues bien, tal como lo reconoce la ejecutada en su oposición, resulta ser efectiva la
+
+existencia de la relación laboral que la unía a la trabajadora individualizada en el título en
+
+ejecución y que motiva el cobro previsional, Delicia del Carmen Araneda Garrido, siendo,
+
+por lo demás, el fundamento fáctico de la excepción, el término de la relación laboral que
+
+unía a la ejecutada a ésta, el 1 de septiembre del año 2017, toda vez que comenzó a trabajar
+
+en MB Auditores Limitada.
+
+OCTAVO: Conforme al mérito de todos los contratos de trabajo acompañados por
+
+ejecutante y ejecutada, así como de los certificados de pago de cotizaciones previsionales y el
+
+certificado de afiliación y cotizaciones, se acredita de modo irrefragable que, desde el 1 de
+
+agosto de 2016, la afiliada Delicia del Carmen Araneda Garrido, dejó de trabajar para la
+
+ejecutada de autos y empezó a trabajar para MB Auditores Ltda., RUT 76.501.801-3, no en la
+
+fecha indicada en la excepción.
+
+En efecto, ello se colige del contrato de trabajo entre Delicia del Carmen Araneda
+
+Garrido y MB. Auditores Ltda. de 1 de agosto de 2016, abonado por el Certificado de
+
+Afiliación y Cotizaciones, que da cuenta del pago ininterrumpido de cotizaciones
+
+previsionales por esta empresa, RUT 76.501.801-3, desde el periodo agosto de 2016 al
+
+periodo julio de 2025, documento emanado de la propia ejecutante.
+
+Si bien no escapa a esta sentenciadora el que los socios de ambas empresas sean los
+
+mismos, conforme al mérito de las copias de inscripciones en el Registro de Comercio de
+
+Santiago de sus pactos fundacionales, sin embargo, a diferencia de lo que acontece con el
+
+cambio de razón social de "Auditores Consultores y Abogados Concepción Limitada" a "MB
+
+Auditores Consultores Limitada", ejecutada de autos, en que sí existe unidad empresarial, no
+
+es posible, a juicio de esta sentenciadora, sostener esta misma continuidad entre la ejecutada
+
+y la empresa MB Auditores Limitada. Ergo, tratándose de dos personas jurídicas distintas,
+
+siendo la jornada de trabajo extensa, a saber, de lunes a viernes, de 09:00 a 18:30 horas, como
+
+_____________________________________________________________________________________________________
+
+Avda. Libertador Bernardo O’higgins 241 piso 11 oficina 1122, Concepción
+Teléfonos 412697624 – 412697628- 412697629- 412697630
+
+jcobconcepcion@pjud.cl
+
+Código: JUJPBBXXKXX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+mailto:jcobconcepcion@pjud.cl
+
+JUZGADO DE COBRANZA LABORAL
+
+Y PREVISIONAL DE CONCEPCION
+
+PODER JUDICIAL
+
+CHILE
+
+para conjeturar en relación con la duplicidad de empleadores, la única posibilidad razonable
+
+es que en esa fecha dejó de trabajar para la empresa ejecutada.
+
+Tampoco es posible desprender subterfugio por una hipótesis de sucesión de
+
+empresas, solo porque las labores desempeñadas por la afiliada sean idénticas, contadora y
+
+outsourcing en contabilidad, se desarrollen en el mismo lugar y porque se le haya reconocido
+
+antigüedad laboral desde el año 1999, por cuanto, a más de tratarse de una declaración que
+
+solo puede ser efectuada por la judicatura laboral, a instancias del trabajador, no ha sido el
+
+fundamento de la ejecutante para solicitar el rechazo de la excepción, al evacuar el traslado
+
+de la excepción.
+
+Como fuere, el certificado de afiliación y cotizaciones da cuenta de un pago continuo
+
+de las cotizaciones de la señora Araneda Garrido, por ambos empleadores, al menos, desde el
+
+periodo de septiembre de 2012, por lo que no se avizora por esta sentenciadora la intención
+
+de ocultar al verdadero empleador y eludir las obligaciones previsionales, al esperar tres años
+
+desde la última cotización en cobro hasta constituir la nueva sociedad en el año 2015. Menos
+
+aún, se configura la hipótesis de responsabilidad solidaria del artículo 19 de la Ley Nro.
+
+17.322.
+
+NOVENO: De este modo, la documental referida, apreciada en conformidad a la ley,
+
+teniendo especialmente presente que se trata del cobro de cotizaciones previsionales de
+
+aproximadamente trece años atrás, las más recientes y de más de diecinueves años, las más
+
+antiguas, por cuyo motivo la apreciación de la prueba necesariamente debe observar el orden
+
+público laboral y no ser contrarias a los principios formadores del mismo, le es posible a esta
+
+sentenciadora, dar por establecido que respecto de la trabajadora Delicia del Carmen Araneda
+
+Garrido, ésta dejó de prestar servicios bajo subordinación y dependencia para la ejecutada, el
+
+1 de agosto de 2016.
+
+DÉCIMO: Así las cosas, el plazo de prescripción debe contarse desde la fecha del
+
+término de la relación laboral o prestación de servicios, hecho que ocurrió, respecto de la
+
+trabajadora Delicia del Carmen Araneda Garrido, el 1 de agosto de 2016, por lo que habría
+
+transcurrido con creces el plazo de cinco años para que opere la prescripción, aún bajo la tesis
+
+sustentada por la ejecutante con la que esta magistratura no comulga, razón por la cual en la
+
+parte resolutiva se acogerá la excepción opuesta.
+
+UNDÉCIMO: Cabe tener presente que del mérito de los antecedentes que obran en
+
+autos, no se desprende que la ejecutada haya informado a la ejecutante el término del vínculo
+
+laboral que la unía con su trabajadora, por lo que la ejecutante, carente del cumplimiento de
+
+dicha obligación, se encontraba obligada legalmente a demandar. Por lo anterior, se estima
+
+que tuvo motivo plausible para litigar y, en consecuencia, no se le condenará en costas.
+
+_____________________________________________________________________________________________________
+
+Avda. Libertador Bernardo O’higgins 241 piso 11 oficina 1122, Concepción
+Teléfonos 412697624 – 412697628- 412697629- 412697630
+
+jcobconcepcion@pjud.cl
+
+Código: JUJPBBXXKXX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+mailto:jcobconcepcion@pjud.cl
+
+JUZGADO DE COBRANZA LABORAL
+
+Y PREVISIONAL DE CONCEPCION
+
+PODER JUDICIAL
+
+CHILE
+
+Por estas consideraciones y en conformidad con lo dispuesto en los artículos 1698,
+
+2492 y 2514 del Código Civil, 144, 442 y 464 del Código de Procedimiento Civil, Ley Nro.
+
+17.322, y D.L.3500; se declara:
+
+I. Que se hace lugar a la excepción de prescripción extintiva de la acción ejecutiva de
+
+la deuda, alegada por la ejecutada.
+
+II. Que no se condena en costas a la ejecutante, no obstante haber resultado vencida,
+
+se estima que tuvo motivos plausibles para litigar.
+
+RIT: P-7090-2024
+RUC: 24-3-0270938-2
+
+Dictada por Ana María Fierro Oyarzo, jueza del Juzgado de Cobranza Laboral y
+Previsional de Concepción, quien suscribe con firma electrónica avanzada.
+
+En Concepción a tres de septiembre de dos mil veinticinco, se notificó por el estado
+diario la resolución precedente.
+
+_____________________________________________________________________________________________________
+
+Avda. Libertador Bernardo O’higgins 241 piso 11 oficina 1122, Concepción
+Teléfonos 412697624 – 412697628- 412697629- 412697630
+
+jcobconcepcion@pjud.cl
+
+Código: JUJPBBXXKXX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+mailto:jcobconcepcion@pjud.cl
+
+Código: JUJPBBXXKXX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2025-09-03T12:20:37-0400

@@ -4,19 +4,19 @@ case_id: 413e18a42f2808a08acd1f3c38d7f39aac81ddd5
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8061591
 
-rol: 9118-2026
+rol: 9123-2026
 
 fecha_sentencia: 2026-03-13
 
-caratulado: MERVIL ATHANISE CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: GERALSON JEAN CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: (CIVIL) CASACIÓN FONDO
+materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

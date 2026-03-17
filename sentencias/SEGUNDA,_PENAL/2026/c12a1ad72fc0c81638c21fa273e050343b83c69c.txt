@@ -4,19 +4,19 @@ case_id: c12a1ad72fc0c81638c21fa273e050343b83c69c
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8061579
 
-rol: 9113-2026
+rol: 7852-2026
 
 fecha_sentencia: 2026-03-13
 
-caratulado: PIERRE MAXIANA CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: MP C/ JESUS ALBERTO MARTINEZ ARANGUIZ
 
 sala: SEGUNDA, PENAL
 
-materias: (CIVIL) CASACIÓN FONDO
+materias: ▪ Recurso de nulidad
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: DECLARA COMPETENTE PARA CONOCER NULIDAD CORTE (M)
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
@@ -57,4 +57,4 @@ N° Amparo-428-2026.imm
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------
-C.A. de SantiagoSantiago, veintiocho de enero de dos mil veintiséis.Al folio N° 1: a todo, aténgase a lo que se resolverá.Vistos y teniendo presente:1°) Que, según se colige de lo establecido en los artículos 21 de la Carta Fundamental y 7.6 de la Convención Americana de Derechos Humanos, la acción constitucional de amparo tiene como finalidad esencial controlar la “legalidad” de eventuales afectaciones o amenazas a la libertad personal y seguridad individual, en términos de verificar que, de mediar, se ajusten a la Constitución y a las leyes;2°) Que, los antecedentes expuestos en el recurso no dan cuenta de hechos que, según el artículo 21 de la Constitución Política de la República, correspondan a aquellos susceptibles de la cautela impetrada por esta vía, al no vulnerar o amenazar la libertad personal y la seguridad individual, entendida esta última como la garantía de que la libertad personal no pueda ser afectada sino en los casos previstos por la ley, máxime si, de lo expuesto, se advierte que el ordenamiento jurídico concede y reconoce al recurrente el remedio idóneo para poner término a la situación descrita en el libelo, ejerciendo su derecho de defensa a través de la vía del recurso de protección.Por estas consideraciones, y lo dispuesto por el artículo 21 de la Constitución Política de la República, se declara inadmisible el recurso deducido en estos autos.Archívese en su oportunidad.N° Amparo-428-2026.imm
+C.A. de SantiagoSantiago, veintiocho de enero de dos mil veintiséis.Al folio N° 1: a todo, aténgase a lo que se resolverá.Vistos y teniendo presente:1°) Que, según se colige de lo establecido en los artículos 21 de la Carta Fundamental y 7.6 de la Convención Americana de Derechos Humanos, la acción constitucional de amparo tiene como finalidad esencial controlar la “legalidad” de eventuales afectaciones o amenazas a la libertad personal y seguridad individual, en términos de verificar que, de mediar, se ajusten a la Constitución y a las leyes;2°) Que, los antecedentes expuestos en el recurso no dan cuenta de hechos que, según el artículo 21 de la Constitución Política de la República, correspondan a aquellos susceptibles de la cautela impetrada por esta vía, al no vulnerar o amenazar la libertad personal y la seguridad individual, entendida esta última como la garantía de que la libertad personal no pueda ser afectada sino en los casos previstos por la ley, máxime si, de lo expuesto, se advierte que el ordenamiento jurídico concede y reconoce al recurrente el remedio idóneo para poner término a la situación descrita en el libelo, ejerciendo su derecho de defensa a través de la vía del recurso de protección.Por estas consideraciones, y lo dispuesto por el artículo 21 de la Constitución Política de la República, se declara inadmisible el recurso deducido en estos autos.Archívese en su oportunidad.N° Amparo-428-2026.imm                        ⚠                      Sin documento en esta instancia - pdf
