@@ -4,19 +4,19 @@ case_id: 5c95083fd7043c9a353cd0d5b6c8e9c495fba791
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044665
 
-rol: 56833-2025
+rol: 3556-2025
 
 fecha_sentencia: 2026-02-26
 
-caratulado: MONTIEL VADE, ASTRID ALEJANDRA/PHILLIPS REYNOLD, STEVEN
+caratulado: SERVICIO DE SALUD OSORNO C/ ERNESTO LÓPEZ CASTRO Y OTROS
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Educación
+materias: ▪ Admisibilidad del recurso de casación en el fondo
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: RECHAZA CASACION EN EL FONDO
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

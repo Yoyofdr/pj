@@ -4,19 +4,19 @@ case_id: e0562ac964a0f7282921afc3e7a4b4fe53817e83
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044680
 
-rol: 6058-2026
+rol: 8704-2025
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-02-26
 
-caratulado: DUBRASKA DARIBEL GONZALEZ CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: VARAS/- FISCO DE CHILE
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: ▪ Declaración previa de existencia de error judicial
 
-recurso: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: ACOGE SOLICITUD DE DECLARACIÓN PREVIA DE ERROR J (M)
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

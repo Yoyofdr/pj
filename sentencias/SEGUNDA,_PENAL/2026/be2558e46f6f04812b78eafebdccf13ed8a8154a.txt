@@ -4,11 +4,11 @@ case_id: be2558e46f6f04812b78eafebdccf13ed8a8154a
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8044706
 
-rol: 6065-2026
+rol: 6055-2026
 
 fecha_sentencia: 2026-02-26
 
-caratulado: CONES RAMIREZ ALEJANDRA DEL VALLE CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: ROSALES ROA DAFFER CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
@@ -16,7 +16,7 @@ materias: ▪ Recurso de Amparo
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

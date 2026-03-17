@@ -4,17 +4,17 @@ case_id: a6895191f21ec3b4c2b7503b6e0c978d57e6d73c
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8043566
 
-rol: 6083-2026
+rol: 6058-2026
 
-fecha_sentencia: 2026-02-27
+fecha_sentencia: 2026-02-26
 
-caratulado: BUSTAMANTE NIBELSI CONTRA SERVICIO NACIONAL DE MIGRACION
+caratulado: DUBRASKA DARIBEL GONZALEZ CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (PENAL) INDEMNIZACIÓN ART.19 Nº 7
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 

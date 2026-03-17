@@ -16,7 +16,7 @@ materias: ▪ Contrato de promesa
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: SENTENCIA DE REEMPLAZO (M)
+resultado_recurso: ACOGIDA CASACIÓN FONDO, ANULADA SENTENCIA DE (M)
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
