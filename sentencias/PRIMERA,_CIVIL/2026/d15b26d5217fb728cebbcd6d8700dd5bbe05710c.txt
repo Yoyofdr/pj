@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8061598
 
 rol: 54090-2024
 
-fecha_sentencia: 2026-03-13
+fecha_sentencia: 2026-03-12
 
 caratulado: ST CAPITAL S.A. CON SCHOFIELD ARAYA SERGIO Y OTROS (S)
 
@@ -14,7 +14,7 @@ sala: PRIMERA, CIVIL
 
 materias: ▪ Reorganización y Liquidación de Empresas y Personas
 
-recurso: (PENAL) NULIDAD
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: SENTENCIA DE REEMPLAZO (M)
 

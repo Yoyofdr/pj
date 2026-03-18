@@ -4,19 +4,19 @@ case_id: 6c526dffb8e558f03a518d13f0e056126c014765
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062618
 
-rol: 10681-2026
+rol: 9139-2026
 
 fecha_sentencia: 2026-03-12
 
-caratulado: JEREZ SOTO GONZALO ANDRES CONTRA JUZGADO DE GARANTÍA DE MELIPILLA
+caratulado: BOURSIQUOT MARIE BERTINE CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

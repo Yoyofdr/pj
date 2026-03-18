@@ -4,19 +4,19 @@ case_id: 0b65491d445861a245edc9c89d042f536c3b0add
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062581
 
-rol: 1566-2025
+rol: 9457-2026
 
 fecha_sentencia: 2026-03-12
 
-caratulado: CAPITAL EXPRESS SERVICIOS FINANCIEROS S.A. CON I. MUNICIPALIDAD DE PUERTO MONTT, DAEM (E)
+caratulado: FIGUEROA/GUZMÁN
 
 sala: PRIMERA, CIVIL
 
-materias: ▪ Juicio ejecutivo. Factura
+materias: ▪ Admisibilidad del recurso de casación en el fondo
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: RECHAZA CASACION EN EL FONDO (M)
+resultado_recurso: INADMISIBLES RECURSOS DE CASACIÓN FORMA Y FONDO
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
