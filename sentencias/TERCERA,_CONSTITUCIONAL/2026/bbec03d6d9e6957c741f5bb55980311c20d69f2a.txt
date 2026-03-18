@@ -4,17 +4,17 @@ case_id: bbec03d6d9e6957c741f5bb55980311c20d69f2a
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8037462
 
-rol: 46579-2025
+rol: 46310-2025
 
 fecha_sentencia: 2026-02-24
 
-caratulado: ILUSTRE MUNICIPALIDAD DE PURRANQUE/MARCIA ELIZABETH MANCILLA ARZOLA
+caratulado: CUERPO DE BOMBEROS DE TOME /VICTOR MANUEL TAPIA LATORRE
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Potestad disciplinaria
+materias: ▪ Derecho a la honra, a la imagen y a la vida privada, libertad de expresión
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA
 
