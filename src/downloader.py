@@ -261,8 +261,32 @@ async def download_item(
     final_filename: str | None = None
     source_method: str = source_type
 
-    # ── Estrategia 1: expect_download (click en botón/link) ────
-    if element:
+    # ── Estrategia 1: URL directa (más rápido, sin interacción de browser) ───
+    if source_url and not source_url.startswith("javascript:") and source_url != "#":
+        ext = _determine_extension(source_url, None)
+        temp_dest = download_dir / f"{temp_name}{ext}"
+
+        result, suggested = await _try_url_download(context, source_url, temp_dest)
+        if result:
+            source_method = "url"
+            final_filename = suggested or f"{temp_name}{ext}"
+            final_filename = sanitize_filename(final_filename)
+
+            final_dest = download_dir / final_filename
+            if final_dest != result:
+                counter = 1
+                while final_dest.exists():
+                    stem = final_dest.stem
+                    final_dest = download_dir / f"{stem}_{counter}{final_dest.suffix}"
+                    counter += 1
+                result.rename(final_dest)
+                saved_path = final_dest
+            else:
+                saved_path = result
+            log.info("  ✅ Descargado (URL directa): %s", final_filename)
+
+    # ── Estrategia 2: expect_download (click en botón/link) ────
+    if not saved_path and element:
         download = await _try_expect_download(page, element, config.timeout_ms)
         if download:
             source_method = "button"
@@ -285,7 +309,6 @@ async def download_item(
                 log.info("  ✅ Descargado (expect_download): %s", final_filename)
             except Exception as e:
                 log.warning("  save_as falló: %s", e)
-                # Intentar copiar desde path temporal
                 try:
                     tmp = await download.path()
                     if tmp:
@@ -293,30 +316,6 @@ async def download_item(
                         saved_path = dest
                 except Exception:
                     pass
-
-    # ── Estrategia 2: Descargar por URL directa ────────────────
-    if not saved_path and source_url:
-        ext = _determine_extension(source_url, None)
-        temp_dest = download_dir / f"{temp_name}{ext}"
-
-        result, suggested = await _try_url_download(context, source_url, temp_dest)
-        if result:
-            source_method = "url"
-            final_filename = suggested or f"{temp_name}{ext}"
-            final_filename = sanitize_filename(final_filename)
-
-            final_dest = download_dir / final_filename
-            if final_dest != result:
-                counter = 1
-                while final_dest.exists():
-                    stem = final_dest.stem
-                    final_dest = download_dir / f"{stem}_{counter}{final_dest.suffix}"
-                    counter += 1
-                result.rename(final_dest)
-                saved_path = final_dest
-            else:
-                saved_path = result
-            log.info("  ✅ Descargado (URL directa): %s", final_filename)
 
     # ── Estrategia 3: Captura de nueva pestaña ─────────────────
     if not saved_path and element:
@@ -417,9 +416,9 @@ async def download_case_documents(
                 )
             continue
 
-        for item in items:
+        async def _dl_one(item: dict) -> bool:
             try:
-                success = await download_item(
+                return await download_item(
                     page=page,
                     context=context,
                     case_id=case_id,
@@ -430,10 +429,6 @@ async def download_case_documents(
                     db=db,
                     config=config,
                 )
-                if success:
-                    ok_count += 1
-                else:
-                    fail_count += 1
             except Exception as e:
                 log.error("Error descargando %s/%s: %s", section, item["label"], e)
                 db.insert_download(
@@ -445,6 +440,27 @@ async def download_case_documents(
                     status="FAILED",
                     error=str(e),
                 )
+                return False
+
+        # Items con URL conocida se descargan en paralelo (HTTP directo);
+        # los que requieren click en browser se procesan uno a uno para
+        # no interferir con el estado de la página.
+        url_items = [it for it in items if it.get("url") and not (it.get("url") or "").startswith("javascript:")]
+        btn_items = [it for it in items if it not in url_items]
+
+        if url_items:
+            results = await asyncio.gather(*[_dl_one(it) for it in url_items])
+            for r in results:
+                if r:
+                    ok_count += 1
+                else:
+                    fail_count += 1
+
+        for item in btn_items:
+            r = await _dl_one(item)
+            if r:
+                ok_count += 1
+            else:
                 fail_count += 1
 
     return ok_count, fail_count

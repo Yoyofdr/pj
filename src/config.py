@@ -23,10 +23,13 @@ class Config:
     output_dir: Path = field(default_factory=lambda: Path("./out"))
 
     # ── Rate limiting / reintentos ─────────────────────────────
-    rate_limit_seconds: float = 1.0
+    rate_limit_seconds: float = 0.3   # era 1.0 — reducido tras eliminar sleeps internos
     fast_mode: bool = False
     retries: int = 6
     timeout_ms: int = 60_000
+
+    # ── Concurrencia ───────────────────────────────────────────
+    concurrency: int = 1   # número de workers paralelos (1 = comportamiento original)
 
     # ── Paginación ─────────────────────────────────────────────
     start_page: int = 1
@@ -65,6 +68,10 @@ class Config:
         if self.test_mode:
             self.max_pages = self.max_pages or 1
             self.max_items = self.max_items or 5
+
+        # Concurrencia mínima 1
+        if self.concurrency < 1:
+            self.concurrency = 1
 
     @property
     def dumps_dir(self) -> Path:
@@ -107,10 +114,13 @@ def parse_args(argv: list[str] | None = None) -> Config:
                     help="Ruta a la base de datos SQLite")
     p.add_argument("--output-dir", type=str, default="./out",
                     help="Directorio de salida para documentos")
-    p.add_argument("--rate-limit-seconds", type=float, default=1.0,
-                    help="Segundos entre procesamiento de cada caso")
+    p.add_argument("--rate-limit-seconds", type=float, default=0.3,
+                    help="Segundos de cortesía entre casos (default: 0.3)")
     p.add_argument("--fast-mode", type=_bool_flag, default=False,
-                    help="Reduce esperas fijas para mayor velocidad (default: false)")
+                    help="Reduce esperas internas al 40%% (default: false)")
+    p.add_argument("--concurrency", type=int, default=1,
+                    help="Workers paralelos (contextos Playwright independientes). "
+                         "1=secuencial, 3-5 recomendado (default: 1)")
     p.add_argument("--retries", type=int, default=6,
                     help="Reintentos máximos por descarga")
     p.add_argument("--timeout-ms", type=int, default=60_000,

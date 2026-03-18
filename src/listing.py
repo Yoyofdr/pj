@@ -85,11 +85,18 @@ async def set_results_per_page(page: Page, config: Config) -> bool:
             sel.dispatchEvent(new Event('change', {{bubbles: true}}));
         }})()""")
 
-        # Esperar a que se carguen nuevos resultados
+        # Esperar a que se carguen nuevos resultados (polling en vez de sleep fijo)
         log.info("Esperando recarga de resultados...")
-        await asyncio.sleep(3)
-        await page.wait_for_load_state("networkidle", timeout=config.timeout_ms)
-        await asyncio.sleep(2)
+        for _w in range(30):
+            await asyncio.sleep(0.3)
+            _probe = await page.evaluate(f"""(() => {{
+                const spans = document.querySelectorAll('{RESULT_ITEM}');
+                const seen = new Set();
+                spans.forEach(s => seen.add(s.getAttribute('data-idsentencia')));
+                return seen.size;
+            }})()""")
+            if _probe > 0:
+                break
 
         # Verificar que cambió
         count_after = await page.evaluate(f"""(() => {{
@@ -175,7 +182,7 @@ async def apply_year_filter(page: Page, year: int, config: Config) -> bool:
         return False
 
     # Esperar recarga del listado
-    await asyncio.sleep(2.0)
+    await asyncio.sleep(0.5)
     for _ in range(25):
         count = await page.evaluate(
             f"""() => {{

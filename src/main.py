@@ -37,7 +37,6 @@ async def run(config: Config) -> None:
     )
     from src.case_page import process_case_page, save_case_text, _close_case_detail
     from src.db import Database
-    from src.downloader import download_case_documents
     from src.listing import (
         apply_year_filter,
         set_results_per_page,
@@ -103,8 +102,8 @@ async def run(config: Config) -> None:
         try:
             # ── FASE 1: Navegar a la página de búsqueda ────────
             log.info("Navegando a %s", config.base_url)
-            await page.goto(config.base_url, wait_until="networkidle", timeout=config.timeout_ms)
-            await asyncio.sleep(2)
+            await page.goto(config.base_url, wait_until="domcontentloaded", timeout=config.timeout_ms)
+            await asyncio.sleep(0.5)
 
             # ── FASE 2: Verificar autenticación ────────────────
             log.info("Verificando autenticación...")
@@ -137,8 +136,8 @@ async def run(config: Config) -> None:
 
                 # Asegurar que estamos en la página de búsqueda
                 if "busqueda" not in page.url:
-                    await page.goto(config.base_url, wait_until="networkidle", timeout=config.timeout_ms)
-                    await asyncio.sleep(2)
+                    await page.goto(config.base_url, wait_until="domcontentloaded", timeout=config.timeout_ms)
+                    await asyncio.sleep(0.5)
             else:
                 log.info("✅ Sesión activa detectada")
                 # Guardar estado
@@ -167,7 +166,7 @@ async def run(config: Config) -> None:
                             }
                         }"""
                     )
-                    await asyncio.sleep(2)
+                    await asyncio.sleep(0.5)
                 except Exception:
                     pass
 
@@ -178,8 +177,8 @@ async def run(config: Config) -> None:
 
             # Asegurar que estamos en la página de búsqueda
             if "busqueda" not in page.url:
-                await page.goto(config.base_url, wait_until="networkidle", timeout=config.timeout_ms)
-                await asyncio.sleep(2)
+                await page.goto(config.base_url, wait_until="domcontentloaded", timeout=config.timeout_ms)
+                await asyncio.sleep(0.5)
 
             # Si se pide partir en otra página, avanzar antes de procesar
             current_page_num = config.start_page
@@ -193,9 +192,8 @@ async def run(config: Config) -> None:
                     await asyncio.sleep(pace)
 
             processed = 0
+            failed_total = 0
             listed_total = 0
-            ok_total = 0
-            fail_total = 0
             session_check_interval = 25 if config.fast_mode else 10
             pages_processed = 0
             stop_due_to_max = False
@@ -221,12 +219,12 @@ async def run(config: Config) -> None:
                     )
                     if not ok:
                         return False
-                    await asyncio.sleep(1.8)
+                    await asyncio.sleep(0.8)
                     for _ in range(6):
                         cases_probe = await _extract_cases_from_listing(page)
                         if cases_probe:
                             return True
-                        await asyncio.sleep(0.6)
+                        await asyncio.sleep(0.3)
                     return False
                 except Exception:
                     return False
@@ -303,12 +301,12 @@ async def run(config: Config) -> None:
                 3) avanzar hasta target_page_num
                 """
                 try:
-                    await page.goto(config.base_url, wait_until="networkidle", timeout=config.timeout_ms)
-                    await asyncio.sleep(2)
+                    await page.goto(config.base_url, wait_until="domcontentloaded", timeout=config.timeout_ms)
+                    await asyncio.sleep(0.5)
                     if config.target_year:
                         await apply_year_filter(page, config.target_year, config)
                     await set_results_per_page(page, config)
-                    await asyncio.sleep(1)
+                    await asyncio.sleep(0.5)
 
                     if target_page_num > 1:
                         for _ in range(target_page_num - 1):
@@ -320,275 +318,437 @@ async def run(config: Config) -> None:
                 except Exception:
                     return False
 
-            while True:
-                # Si no se pudo aplicar filtro nativo por año, intentar búsqueda
-                # directa de bloque para evitar barrido lineal completo.
-                if (
-                    target_year
-                    and not year_filter_applied
-                    and pages_processed == 0
-                    and current_page_num == config.start_page
-                ):
-                    try:
-                        target_int = int(target_year)
-                    except Exception:
-                        target_int = 0
-                    if target_int > 0:
-                        seek_page = await _seek_first_page_for_year(target_int)
-                        if seek_page:
-                            current_page_num = seek_page
-                            log.info("Año %s encontrado cerca de página %d.", target_year, seek_page)
-                        else:
-                            log.warning("No se pudo ubicar directamente el año %s. Continuando lineal.", target_year)
+            # ── MODO PARALELO: workers independientes ──────────────
+            if config.concurrency > 1:
+                log.info("=" * 60)
+                log.info("MODO PARALELO: %d workers concurrentes", config.concurrency)
+                log.info("=" * 60)
 
-                log.info("─── Página %d ───", current_page_num)
-                cases = await _extract_cases_from_listing(page)
-                if not cases:
-                    # Reintento defensivo: el listado puede quedar vacío temporalmente.
-                    recovered = False
-                    for attempt in range(1, 4):
-                        log.warning(
-                            "Página %d sin casos (intento %d/3). Reintentando recarga de listado...",
-                            current_page_num,
-                            attempt,
-                        )
+                from src.worker import case_worker
+
+                # Exportar cookies del contexto autenticado para los workers
+                storage_state_dict = await context.storage_state()
+
+                case_queue: asyncio.Queue = asyncio.Queue(maxsize=config.concurrency * 6)
+                stop_event = asyncio.Event()
+                counters = {"ok": 0, "fail": 0, "processed": 0, "skipped": 0}
+
+                # Feeder: pagina el listado y encola casos
+                async def _feeder() -> None:
+                    nonlocal listed_total, pages_processed, stop_due_to_max, current_page_num
+                    feeder_processed = 0
+
+                    # Ubicar año si aplica
+                    if (
+                        target_year
+                        and not year_filter_applied
+                        and pages_processed == 0
+                        and current_page_num == config.start_page
+                    ):
                         try:
-                            await page.evaluate(
-                                """() => {
-                                    if (typeof window.cargar_datos_resultados_busqueda_sentencias === 'function') {
-                                        window.cargar_datos_resultados_busqueda_sentencias();
-                                    }
-                                }"""
-                            )
+                            target_int = int(target_year)
                         except Exception:
-                            pass
-                        await asyncio.sleep(2 + attempt)
-                        cases = await _extract_cases_from_listing(page)
-                        if cases:
-                            recovered = True
-                            log.info("Página %d recuperada con %d casos.", current_page_num, len(cases))
+                            target_int = 0
+                        if target_int > 0:
+                            seek_page = await _seek_first_page_for_year(target_int)
+                            if seek_page:
+                                current_page_num = seek_page
+                                log.info("Año %s encontrado cerca de página %d.", target_year, seek_page)
+
+                    while True:
+                        log.info("─── [Feeder] Página %d ───", current_page_num)
+                        feed_cases = await _extract_cases_from_listing(page)
+
+                        if not feed_cases:
+                            recovered = False
+                            for attempt in range(1, 4):
+                                log.warning("Feeder: página %d vacía (intento %d/3)", current_page_num, attempt)
+                                try:
+                                    await page.evaluate(
+                                        """() => {
+                                            if (typeof window.cargar_datos_resultados_busqueda_sentencias === 'function')
+                                                window.cargar_datos_resultados_busqueda_sentencias();
+                                        }"""
+                                    )
+                                except Exception:
+                                    pass
+                                await asyncio.sleep(2 + attempt)
+                                feed_cases = await _extract_cases_from_listing(page)
+                                if feed_cases:
+                                    recovered = True
+                                    break
+                            if not recovered:
+                                reset_ok = await _reset_and_reposition(current_page_num)
+                                if reset_ok:
+                                    feed_cases = await _extract_cases_from_listing(page)
+                                    if not feed_cases:
+                                        log.info("Feeder: no hay más casos. Fin.")
+                                        break
+                                else:
+                                    log.info("Feeder: no hay más casos. Fin.")
+                                    break
+
+                        listed_total += len(feed_cases)
+
+                        # Filtrar por año si aplica
+                        if target_year:
+                            feed_cases = [c for c in feed_cases if (c.get("fecha_sentencia") or "").startswith(target_year)]
+
+                        for feed_case in feed_cases:
+                            fid = feed_case["case_id"]
+                            db.upsert_case(
+                                case_id=fid,
+                                url=feed_case["url"],
+                                rol=feed_case.get("rol"),
+                                fecha_sentencia=feed_case.get("fecha_sentencia"),
+                                caratulado=feed_case.get("caratulado"),
+                                corte_origen=feed_case.get("corte_origen"),
+                                page_fingerprint=None,
+                            )
+                            if feed_case.get("idsentencia"):
+                                db.set_setting(f"idsentencia_{fid}", feed_case["idsentencia"])
+
+                            existing_feed = db.get_case(fid)
+                            if existing_feed and existing_feed["status"] == "DONE":
+                                counters["skipped"] += 1
+                                continue
+
+                            dup = db.find_done_duplicate_case_id(
+                                rol=feed_case.get("rol"),
+                                fecha_sentencia=feed_case.get("fecha_sentencia"),
+                                caratulado=feed_case.get("caratulado"),
+                                sala=feed_case.get("sala"),
+                                exclude_case_id=fid,
+                            )
+                            if dup:
+                                db.set_case_status(fid, "DONE", error=f"DUPLICATE_OF:{dup}")
+                                counters["skipped"] += 1
+                                continue
+
+                            if config.max_items and feeder_processed >= config.max_items:
+                                stop_due_to_max = True
+                                break
+
+                            await case_queue.put(feed_case)
+                            feeder_processed += 1
+
+                        if stop_due_to_max:
                             break
 
-                    if not recovered:
-                        log.warning(
-                            "Página %d sigue vacía tras reintentos. Intentando reset de búsqueda...",
-                            current_page_num,
+                        pages_processed += 1
+                        if config.max_pages and pages_processed >= config.max_pages:
+                            log.info("Feeder: alcanzado max_pages=%d", config.max_pages)
+                            break
+
+                        advanced = await _go_to_next_page(page, config)
+                        if not advanced:
+                            next_pn = current_page_num + 1
+                            reset_ok = await _reset_and_reposition(next_pn)
+                            if not reset_ok:
+                                log.info("Feeder: no hay más páginas.")
+                                break
+                            current_page_num = next_pn
+                        else:
+                            current_page_num += 1
+                        await asyncio.sleep(pace)
+
+                    stop_event.set()
+                    log.info("Feeder terminado. Encolados: %d", feeder_processed)
+
+                # Lanzar workers
+                worker_tasks = []
+                for wid in range(1, config.concurrency + 1):
+                    t = asyncio.create_task(
+                        case_worker(
+                            worker_id=wid,
+                            browser=browser,
+                            storage_state=storage_state_dict,
+                            queue=case_queue,
+                            db=db,
+                            config=config,
+                            counters=counters,
+                            stop_event=stop_event,
                         )
-                        reset_ok = await _reset_and_reposition(current_page_num)
-                        if reset_ok:
+                    )
+                    worker_tasks.append(t)
+
+                # Correr feeder y esperar workers
+                await _feeder()
+                await case_queue.join()           # esperar que todos los items sean procesados
+                await asyncio.gather(*worker_tasks)
+
+                processed = counters["processed"]
+                failed_total = counters["fail"]
+                log.info(
+                    "Modo paralelo completo: %d procesados, %d FAILED, %d saltados",
+                    processed, failed_total, counters["skipped"],
+                )
+
+            else:
+                # ── MODO SECUENCIAL (original) ──────────────────────
+                # fmt: off
+                while True:
+                    # Si no se pudo aplicar filtro nativo por año, intentar búsqueda
+                    # directa de bloque para evitar barrido lineal completo.
+                    if (
+                        target_year
+                        and not year_filter_applied
+                        and pages_processed == 0
+                        and current_page_num == config.start_page
+                    ):
+                        try:
+                            target_int = int(target_year)
+                        except Exception:
+                            target_int = 0
+                        if target_int > 0:
+                            seek_page = await _seek_first_page_for_year(target_int)
+                            if seek_page:
+                                current_page_num = seek_page
+                                log.info("Año %s encontrado cerca de página %d.", target_year, seek_page)
+                            else:
+                                log.warning("No se pudo ubicar directamente el año %s. Continuando lineal.", target_year)
+
+                    log.info("─── Página %d ───", current_page_num)
+                    cases = await _extract_cases_from_listing(page)
+                    if not cases:
+                        # Reintento defensivo: el listado puede quedar vacío temporalmente.
+                        recovered = False
+                        for attempt in range(1, 4):
+                            log.warning(
+                                "Página %d sin casos (intento %d/3). Reintentando recarga de listado...",
+                                current_page_num,
+                                attempt,
+                            )
+                            try:
+                                await page.evaluate(
+                                    """() => {
+                                        if (typeof window.cargar_datos_resultados_busqueda_sentencias === 'function') {
+                                            window.cargar_datos_resultados_busqueda_sentencias();
+                                        }
+                                    }"""
+                                )
+                            except Exception:
+                                pass
+                            await asyncio.sleep(2 + attempt)
                             cases = await _extract_cases_from_listing(page)
                             if cases:
                                 recovered = True
-                                log.info(
-                                    "Página %d recuperada tras reset con %d casos.",
-                                    current_page_num,
-                                    len(cases),
+                                log.info("Página %d recuperada con %d casos.", current_page_num, len(cases))
+                                break
+
+                        if not recovered:
+                            log.warning(
+                                "Página %d sigue vacía tras reintentos. Intentando reset de búsqueda...",
+                                current_page_num,
+                            )
+                            reset_ok = await _reset_and_reposition(current_page_num)
+                            if reset_ok:
+                                cases = await _extract_cases_from_listing(page)
+                                if cases:
+                                    recovered = True
+                                    log.info(
+                                        "Página %d recuperada tras reset con %d casos.",
+                                        current_page_num,
+                                        len(cases),
+                                    )
+
+                        if not recovered:
+                            log.info("No se encontraron casos en esta página. Fin.")
+                            break
+
+                    listed_total += len(cases)
+                    # Filtrado opcional por año objetivo
+                    cases_to_process = cases
+                    if target_year:
+                        year_matches = [
+                            c for c in cases
+                            if (c.get("fecha_sentencia") or "").startswith(target_year)
+                        ]
+                        skipped_non_target = len(cases) - len(year_matches)
+                        if skipped_non_target:
+                            log.info(
+                                "Página %d: %d caso(s) fuera de %s, se omiten.",
+                                current_page_num,
+                                skipped_non_target,
+                                target_year,
+                            )
+                        cases_to_process = year_matches
+
+                    for case in cases_to_process:
+                        case_id = case["case_id"]
+                        case_url = case["url"]
+                        idsentencia = case.get("idsentencia")
+
+                        db.upsert_case(
+                            case_id=case_id,
+                            url=case_url,
+                            rol=case.get("rol"),
+                            fecha_sentencia=case.get("fecha_sentencia"),
+                            caratulado=case.get("caratulado"),
+                            corte_origen=case.get("corte_origen"),
+                            page_fingerprint=None,
+                        )
+                        if idsentencia:
+                            db.set_setting(f"idsentencia_{case_id}", idsentencia)
+
+                        # Saltar casos ya procesados en corridas previas.
+                        existing_case = db.get_case(case_id)
+                        if existing_case and existing_case["status"] == "DONE":
+                            log.info("Caso %s ya estaba DONE. Se omite.", case_id[:12])
+                            continue
+
+                        # Dedupe por identidad de negocio (mismo fallo, distinto idsentencia/case_id).
+                        dup_case_id = db.find_done_duplicate_case_id(
+                            rol=case.get("rol"),
+                            fecha_sentencia=case.get("fecha_sentencia"),
+                            caratulado=case.get("caratulado"),
+                            sala=case.get("sala"),
+                            exclude_case_id=case_id,
+                        )
+                        if dup_case_id:
+                            db.set_case_status(case_id, "DONE", error=f"DUPLICATE_OF:{dup_case_id}")
+                            log.info(
+                                "Caso %s duplicado de %s (rol/fecha/caratulado). Se omite.",
+                                case_id[:12],
+                                dup_case_id[:12],
+                            )
+                            continue
+
+                        if config.max_items and processed >= config.max_items:
+                            log.info("Alcanzado max_items=%d. Deteniendo procesamiento.", config.max_items)
+                            stop_due_to_max = True
+                            break
+
+                        # ── Verificación periódica de sesión ───────────
+                        if processed > 0 and processed % session_check_interval == 0:
+                            still_logged = await check_session_alive(page)
+                            if not still_logged:
+                                if config.ci_mode:
+                                    log.error("=" * 60)
+                                    log.error("❌  SESIÓN EXPIRADA — MODO CI")
+                                    log.error("=" * 60)
+                                    log.error("  La sesión de ClaveÚnica expiró durante el scraping.")
+                                    log.error("  Actualiza el secreto SESSION_JSON en GitHub.")
+                                    log.error("=" * 60)
+                                    sys.exit(1)
+                                log.warning("Sesión posiblemente expirada")
+                                relogged = await handle_session_expired(
+                                    page=page,
+                                    context=context,
+                                    storage_state_path=(
+                                        config.storage_state_path if config.persist_session else None
+                                    ),
+                                    base_url=config.base_url,
                                 )
+                                if not relogged:
+                                    log.warning("Continuando sin sesión activa...")
 
-                    if not recovered:
-                        log.info("No se encontraron casos en esta página. Fin.")
-                        break
-
-                listed_total += len(cases)
-                # Filtrado opcional por año objetivo
-                cases_to_process = cases
-                if target_year:
-                    year_matches = [
-                        c for c in cases
-                        if (c.get("fecha_sentencia") or "").startswith(target_year)
-                    ]
-                    skipped_non_target = len(cases) - len(year_matches)
-                    if skipped_non_target:
+                        db.set_case_status(case_id, "IN_PROGRESS")
                         log.info(
-                            "Página %d: %d caso(s) fuera de %s, se omiten.",
-                            current_page_num,
-                            skipped_non_target,
-                            target_year,
-                        )
-                    cases_to_process = year_matches
-
-                for case in cases_to_process:
-                    case_id = case["case_id"]
-                    case_url = case["url"]
-                    idsentencia = case.get("idsentencia")
-
-                    db.upsert_case(
-                        case_id=case_id,
-                        url=case_url,
-                        rol=case.get("rol"),
-                        fecha_sentencia=case.get("fecha_sentencia"),
-                        caratulado=case.get("caratulado"),
-                        corte_origen=case.get("corte_origen"),
-                        page_fingerprint=None,
-                    )
-                    if idsentencia:
-                        db.set_setting(f"idsentencia_{case_id}", idsentencia)
-
-                    # Saltar casos ya procesados en corridas previas.
-                    existing_case = db.get_case(case_id)
-                    if existing_case and existing_case["status"] == "DONE":
-                        log.info("Caso %s ya estaba DONE. Se omite.", case_id[:12])
-                        continue
-
-                    # Dedupe por identidad de negocio (mismo fallo, distinto idsentencia/case_id).
-                    dup_case_id = db.find_done_duplicate_case_id(
-                        rol=case.get("rol"),
-                        fecha_sentencia=case.get("fecha_sentencia"),
-                        caratulado=case.get("caratulado"),
-                        sala=case.get("sala"),
-                        exclude_case_id=case_id,
-                    )
-                    if dup_case_id:
-                        db.set_case_status(case_id, "DONE", error=f"DUPLICATE_OF:{dup_case_id}")
-                        log.info(
-                            "Caso %s duplicado de %s (rol/fecha/caratulado). Se omite.",
+                            "━━━ Caso %d [%s] idsentencia=%s ━━━",
+                            processed + 1,
                             case_id[:12],
-                            dup_case_id[:12],
+                            idsentencia or "?",
                         )
-                        continue
 
-                    if config.max_items and processed >= config.max_items:
-                        log.info("Alcanzado max_items=%d. Deteniendo procesamiento.", config.max_items)
-                        stop_due_to_max = True
-                        break
-
-                    # ── Verificación periódica de sesión ───────────
-                    if processed > 0 and processed % session_check_interval == 0:
-                        still_logged = await check_session_alive(page)
-                        if not still_logged:
-                            if config.ci_mode:
-                                log.error("=" * 60)
-                                log.error("❌  SESIÓN EXPIRADA — MODO CI")
-                                log.error("=" * 60)
-                                log.error("  La sesión de ClaveÚnica expiró durante el scraping.")
-                                log.error("  Actualiza el secreto SESSION_JSON en GitHub.")
-                                log.error("=" * 60)
-                                sys.exit(1)
-                            log.warning("Sesión posiblemente expirada")
-                            relogged = await handle_session_expired(
-                                page=page,
-                                context=context,
-                                storage_state_path=(
-                                    config.storage_state_path if config.persist_session else None
-                                ),
-                                base_url=config.base_url,
+                        async def _process_single_case() -> None:
+                            case_data = await process_case_page(
+                                page, case_id, case_url, db, config,
+                                idsentencia=idsentencia,
                             )
-                            if not relogged:
-                                log.warning("Continuando sin sesión activa...")
 
-                    db.set_case_status(case_id, "IN_PROGRESS")
-                    log.info(
-                        "━━━ Caso %d [%s] idsentencia=%s ━━━",
-                        processed + 1,
-                        case_id[:12],
-                        idsentencia or "?",
-                    )
+                            metadata = case_data.get("metadata", {})
+                            fecha = metadata.get("fecha_sentencia")
+                            sala = metadata.get("sala")
+                            txt_path = save_case_text(case_data, config.output_dir, fecha, sala)
 
-                    async def _process_single_case() -> tuple[int, int]:
-                        case_data = await process_case_page(
-                            page, case_id, case_url, db, config,
-                            idsentencia=idsentencia,
-                        )
-
-                        ok, fail = await download_case_documents(page, context, case_data, db, config)
-
-                        metadata = case_data.get("metadata", {})
-                        fecha = metadata.get("fecha_sentencia")
-                        sala = metadata.get("sala")
-                        save_case_text(case_data, config.output_dir, fecha, sala)
-
-                        if fail == 0:
                             db.set_case_status(case_id, "DONE")
-                        else:
-                            db.set_case_status(case_id, "DONE", error=f"{fail} descarga(s) fallida(s)")
-
-                        return ok, fail
-
-                    try:
-                        ok, fail = await asyncio.wait_for(
-                            _process_single_case(), timeout=120,
-                        )
-                        ok_total += ok
-                        fail_total += fail
-
-                        processed += 1
-                        log.info(
-                            "  Resultado: %d OK, %d FAILED (acumulado: %d OK, %d FAILED)",
-                            ok, fail, ok_total, fail_total,
-                        )
-
-                    except asyncio.TimeoutError:
-                        log.error(
-                            "⏱️  Caso %s excedió timeout de 120s. Saltando.",
-                            case_id[:12],
-                        )
-                        db.set_case_status(case_id, "FAILED", error="TIMEOUT_120s")
-                        fail_total += 1
-                        processed += 1
-
-                    except Exception as e:
-                        log.error("Error procesando caso %s: %s", case_id[:12], e, exc_info=True)
-                        db.set_case_status(case_id, "FAILED", error=str(e)[:500])
-                        fail_total += 1
-                        processed += 1
+                            if txt_path:
+                                log.info("  ✅ Guardado: %s", txt_path.name)
 
                         try:
-                            dumps = config.dumps_dir
-                            dumps.mkdir(parents=True, exist_ok=True)
-                            ts = datetime.now().strftime("%Y%m%d_%H%M%S")
-                            await page.screenshot(
-                                path=str(dumps / f"case_error_{case_id[:12]}_{ts}.png"),
-                                full_page=True,
+                            await asyncio.wait_for(
+                                _process_single_case(), timeout=120,
                             )
-                        except Exception:
-                            pass
 
-                    try:
-                        await _close_case_detail(page, config)
-                        await asyncio.sleep(0.5)
-                    except Exception:
+                            processed += 1
+                            log.info(
+                                "  Caso %d/%s procesado",
+                                processed, "?" if not config.max_items else config.max_items,
+                            )
+
+                        except asyncio.TimeoutError:
+                            log.error(
+                                "⏱️  Caso %s excedió timeout de 120s. Saltando.",
+                                case_id[:12],
+                            )
+                            db.set_case_status(case_id, "FAILED", error="TIMEOUT_120s")
+                            failed_total += 1
+                            processed += 1
+
+                        except Exception as e:
+                            log.error("Error procesando caso %s: %s", case_id[:12], e, exc_info=True)
+                            db.set_case_status(case_id, "FAILED", error=str(e)[:500])
+                            failed_total += 1
+                            processed += 1
+
+                            try:
+                                dumps = config.dumps_dir
+                                dumps.mkdir(parents=True, exist_ok=True)
+                                ts = datetime.now().strftime("%Y%m%d_%H%M%S")
+                                await page.screenshot(
+                                    path=str(dumps / f"case_error_{case_id[:12]}_{ts}.png"),
+                                    full_page=True,
+                                )
+                            except Exception:
+                                pass
+
                         try:
-                            await page.goto(
-                                config.base_url, wait_until="networkidle", timeout=config.timeout_ms
-                            )
-                            await asyncio.sleep(1)
+                            await _close_case_detail(page, config)
+                            await asyncio.sleep(0.5)
                         except Exception:
-                            pass
+                            try:
+                                await page.goto(
+                                    config.base_url, wait_until="domcontentloaded", timeout=config.timeout_ms
+                                )
+                                await asyncio.sleep(0.3)
+                            except Exception:
+                                pass
 
-                    await asyncio.sleep(pace)
+                        await asyncio.sleep(pace)
 
-                pages_processed += 1
-                log.info(
-                    "Página %d: %d casos listados (acumulado listado: %d, procesados: %d)",
-                    current_page_num,
-                    len(cases),
-                    listed_total,
-                    processed,
-                )
-
-                if stop_due_to_max:
-                    break
-                if config.max_pages and pages_processed >= config.max_pages:
-                    log.info("Alcanzado max_pages=%d", config.max_pages)
-                    break
-
-                advanced = await _go_to_next_page(page, config)
-                if not advanced:
-                    # Recuperación fuerte antes de declarar fin.
-                    next_page_num = current_page_num + 1
-                    log.warning(
-                        "No se pudo avanzar a página %d. Intentando reset y reposicionamiento...",
-                        next_page_num,
+                    pages_processed += 1
+                    log.info(
+                        "Página %d: %d casos listados (acumulado listado: %d, procesados: %d)",
+                        current_page_num,
+                        len(cases),
+                        listed_total,
+                        processed,
                     )
-                    reset_ok = await _reset_and_reposition(next_page_num)
-                    if not reset_ok:
-                        log.info("No hay más páginas. Fin.")
+
+                    if stop_due_to_max:
                         break
-                    current_page_num = next_page_num
+                    if config.max_pages and pages_processed >= config.max_pages:
+                        log.info("Alcanzado max_pages=%d", config.max_pages)
+                        break
+
+                    advanced = await _go_to_next_page(page, config)
+                    if not advanced:
+                        # Recuperación fuerte antes de declarar fin.
+                        next_page_num = current_page_num + 1
+                        log.warning(
+                            "No se pudo avanzar a página %d. Intentando reset y reposicionamiento...",
+                            next_page_num,
+                        )
+                        reset_ok = await _reset_and_reposition(next_page_num)
+                        if not reset_ok:
+                            log.info("No hay más páginas. Fin.")
+                            break
+                        current_page_num = next_page_num
+                        await asyncio.sleep(pace)
+                        continue
+                    current_page_num += 1
                     await asyncio.sleep(pace)
-                    continue
-                current_page_num += 1
-                await asyncio.sleep(pace)
 
             # ── Guardar sesión final ───────────────────────────
             if config.persist_session:
@@ -660,6 +820,7 @@ def main(argv: list[str] | None = None) -> None:
     log.info("  retry_failed=%s, only_missing=%s", config.retry_failed, config.only_missing)
     log.info("  sections: suprema=%s, apelaciones=%s, tribunales=%s",
              config.download_suprema, config.download_apelaciones, config.download_tribunales)
+    log.info("  concurrency=%d", config.concurrency)
 
     start = time.time()
 

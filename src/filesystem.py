@@ -1,7 +1,12 @@
 """
 Gestión del filesystem de salida:
-- Estructura: out/<Sección>/<Sala>/YYYY/
-- Límite de 10.000 archivos por carpeta.
+- Estructura: out/<Sala>/YYYY/
+    <caso>.txt        ← texto completo
+    <caso>.json       ← metadatos
+    CorteSuprema/     ← PDFs por instancia
+    CorteApelaciones/
+    Tribunales/
+- Límite de 10.000 archivos directos por carpeta año.
 - Versionado: YYYY (2), YYYY (3), etc.
 """
 
@@ -71,6 +76,25 @@ def normalize_sala_name(sala: str | None) -> str:
     return clean or "SIN_SALA"
 
 
+def _get_year_dir(output_dir: Path, sala: str | None, year: str) -> Path:
+    """
+    Directorio base para una sala+año: out/<Sala>/<YYYY>/
+    Aplica límite de 10k archivos directos.
+    """
+    sala_name = normalize_sala_name(sala)
+    return get_safe_dir(output_dir / sala_name, year)
+
+
+def get_text_dir(output_dir: Path, sala: str | None, year: str) -> Path:
+    """out/<Sala>/<YYYY>/ — donde se guardan los .txt de sentencias."""
+    return _get_year_dir(output_dir, sala, year)
+
+
+def get_meta_dir(output_dir: Path, sala: str | None, year: str) -> Path:
+    """out/<Sala>/<YYYY>/ — donde se guardan los .json de metadatos."""
+    return _get_year_dir(output_dir, sala, year)
+
+
 def get_download_dir(
     output_dir: Path,
     section: str,
@@ -78,22 +102,11 @@ def get_download_dir(
     year: str,
 ) -> Path:
     """
-    Retorna el directorio de descarga para una sección/sala/año.
-    Aplica límite de 10k archivos.
+    out/<Sala>/<YYYY>/<Seccion>/ — PDFs/docs de cada instancia.
+    La subcarpeta de sección se crea bajo el directorio año.
     """
     section_name = SECTION_DIR_MAP.get(section, section)
-    sala_name = normalize_sala_name(sala)
-    base = output_dir / section_name / sala_name
-    return get_safe_dir(base, year)
-
-
-def get_meta_dir(output_dir: Path, sala: str | None, year: str) -> Path:
-    """Retorna directorio para metadatos JSON por sala/año."""
-    sala_name = normalize_sala_name(sala)
-    return get_safe_dir(output_dir / "meta" / sala_name, year)
-
-
-def get_text_dir(output_dir: Path, sala: str | None, year: str) -> Path:
-    """Retorna directorio para archivos unificados de causa por sala/año."""
-    sala_name = normalize_sala_name(sala)
-    return get_safe_dir(output_dir / "sentencias" / sala_name, year)
+    year_dir = _get_year_dir(output_dir, sala, year)
+    section_dir = year_dir / section_name
+    section_dir.mkdir(parents=True, exist_ok=True)
+    return section_dir

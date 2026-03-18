@@ -522,7 +522,7 @@ async def _activate_sentence_content_tab(page: Page, config: Config) -> None:
             el = await page.query_selector(sel)
             if el and await el.is_visible():
                 await el.click()
-                await _sleep_scaled(config, 0.6)
+                await _sleep_scaled(config, 0.2)
                 return
         except Exception:
             continue
@@ -596,7 +596,7 @@ async def _click_tab(page: Page, section: str, config: Config) -> bool:
                 continue
 
             # Espera corta, no bloqueante por networkidle (el sitio mantiene requests)
-            await _sleep_scaled(config, 0.7)
+            await _sleep_scaled(config, 0.3)
 
             # Validar estado activo del tab
             is_active = await page.evaluate(
@@ -720,7 +720,7 @@ async def _open_case_detail(page: Page, idsentencia: str, config: Config) -> boo
                         return True
             except Exception:
                 pass
-            await _sleep_scaled(config, 0.4)
+            await _sleep_scaled(config, 0.2)
         return False
 
     try:
@@ -766,7 +766,7 @@ async def _open_case_detail(page: Page, idsentencia: str, config: Config) -> boo
                 idsentencia,
             )
             if clicked:
-                await _sleep_scaled(config, 1.0)
+                await _sleep_scaled(config, 0.2)
             else:
                 # Fallback 3 robusto: invocar JS SPA directamente por idsentencia
                 invoked = await page.evaluate(
@@ -783,7 +783,7 @@ async def _open_case_detail(page: Page, idsentencia: str, config: Config) -> boo
                 if not invoked:
                     return False
 
-        await _sleep_scaled(config, 1.0)
+        await _sleep_scaled(config, 0.2)
 
         # Esperar a que aparezca el panel de detalle
         try:
@@ -792,11 +792,10 @@ async def _open_case_detail(page: Page, idsentencia: str, config: Config) -> boo
             )
         except Exception:
             # Fallback: esperar un poco más
-            await _sleep_scaled(config, 3.0, minimum=0.2)
+            await _sleep_scaled(config, 0.4, minimum=0.1)
 
-        if not config.fast_mode:
-            await page.wait_for_load_state("networkidle", timeout=config.timeout_ms // 2)
-        await _sleep_scaled(config, 1.0)
+        # networkidle removed: confía en el polling de _wait_detail_loaded
+        await _sleep_scaled(config, 0.2)
 
         # Verificar que el panel de detalle está visible
         if await _wait_detail_loaded(min(config.timeout_ms, 20_000)):
@@ -874,7 +873,7 @@ async def _close_case_detail(page: Page, config: Config) -> bool:
         btn = await page.query_selector(BTN_VOLVER_BUSQUEDA)
         if btn and await btn.is_visible():
             if await _click_with_fallback(BTN_VOLVER_BUSQUEDA):
-                await _sleep_scaled(config, 0.8)
+                await _sleep_scaled(config, 0.3)
                 return True
 
         # Fallback: buscar cualquier botón de volver
@@ -885,13 +884,13 @@ async def _close_case_detail(page: Page, config: Config) -> bool:
             "#btn_volver_busqueda",
         ]:
             if await _click_with_fallback(sel):
-                await _sleep_scaled(config, 0.8)
+                await _sleep_scaled(config, 0.3)
                 return True
 
         # Último recurso: recargar la página de búsqueda
         log.warning("No se encontró botón volver, recargando búsqueda")
-        await page.goto(config.base_url, wait_until="networkidle", timeout=config.timeout_ms)
-        await _sleep_scaled(config, 2.0, minimum=0.2)
+        await page.goto(config.base_url, wait_until="domcontentloaded", timeout=config.timeout_ms)
+        await _sleep_scaled(config, 0.5, minimum=0.1)
         return True
 
     except Exception as e:
@@ -927,8 +926,8 @@ async def process_case_page(
         # Fallback: navegar a la URL (puede funcionar si el hash trigger JS)
         log.debug("Usando fallback: page.goto(%s)", case_url)
         try:
-            await page.goto(case_url, wait_until="networkidle", timeout=config.timeout_ms)
-            await _sleep_scaled(config, 2.0, minimum=0.2)
+            await page.goto(case_url, wait_until="domcontentloaded", timeout=config.timeout_ms)
+            await _sleep_scaled(config, 0.5, minimum=0.1)
             if idsentencia:
                 await _open_case_detail(page, idsentencia, config)
             # Esperar a que cargue el detalle por el fragment
@@ -995,15 +994,6 @@ async def process_case_page(
                 section_texts[section] = txt
                 log.info("  Texto %s: %d chars", section, len(txt))
 
-        # Encontrar descargables
-        downloadables = await find_downloadables(page, section)
-        sections_data[section] = downloadables
-
-        if downloadables:
-            log.info("  → %d elemento(s) descargable(s)", len(downloadables))
-        else:
-            log.info("  → Sin elementos descargables")
-
     # Fallback: si no logramos etiqueta SUPREMA por tab, usar el texto principal.
     if "SUPREMA" not in section_texts and sentencia_text:
         section_texts["SUPREMA"] = sentencia_text
@@ -1014,7 +1004,6 @@ async def process_case_page(
         or sentencia_text
     )
 
-    # Guardar metadatos JSON
     result = {
         "case_id": case_id,
         "url": case_url,
@@ -1029,17 +1018,12 @@ async def process_case_page(
             "resultado_recurso": metadata.get("resultado_recurso"),
             "raw_fields": metadata.get("raw_fields", {}),
         },
-        "sections": {
-            s: [{"label": d["label"], "source": d["source"], "url": d.get("url")}
-                for d in dls]
-            for s, dls in sections_data.items()
-        },
         "scraped_at": datetime.now().isoformat(),
         "sentencia_text": primary_text,
         "sentencias_por_seccion": section_texts,
     }
 
-    return {**result, "_downloadables": sections_data}
+    return result
 
 
 def save_case_meta(
