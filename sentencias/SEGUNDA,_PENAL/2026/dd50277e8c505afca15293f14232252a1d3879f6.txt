@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Otros Delitos en leyes especiales
 
-recurso: (LABORAL) UNIFICACIÓN DE JURISPRUDENCIA
+recurso: (CIVIL) CASACIÓN FORMA Y FONDO
 
 resultado_recurso: RECHAZA RECURSO DE NULIDAD (M)
 

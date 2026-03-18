@@ -4,19 +4,19 @@ case_id: b771a6542577af796030753db9dc51a59d5ab324
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8061252
 
-rol: 8441-2026
+rol: 10681-2026
 
 fecha_sentencia: 2026-03-12
 
-caratulado: ANONIMIZADO
+caratulado: JEREZ SOTO GONZALO ANDRES CONTRA JUZGADO DE GARANTÍA DE MELIPILLA
 
 sala: SEGUNDA, PENAL
 
-materias: (FAMILIA) CASACIÓN FONDO
+materias: ▪ Recurso de Amparo
 
-recurso: (FAMILIA) CASACIÓN FONDO
+recurso: (PENAL) NULIDAD
 
-resultado_recurso: DESIERTO RECURSO DE CASACION EN EL FONDO
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

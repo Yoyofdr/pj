@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8059253
 
 rol: 10598-2026
 
-fecha_sentencia: 2026-03-11
+fecha_sentencia: 2026-03-12
 
 caratulado: C/ JOYNER JOSE MONTAGU CASTILLO
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de nulidad
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (PENAL) NULIDAD
 
 resultado_recurso: DECLARA INADMISIBLE RECURSO DE NULIDAD, REMITE ANT
 

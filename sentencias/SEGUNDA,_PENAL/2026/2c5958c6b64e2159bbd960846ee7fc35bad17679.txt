@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8059188
 
 rol: 10370-2026
 
-fecha_sentencia: 2026-03-12
+fecha_sentencia: 2026-03-11
 
 caratulado: MINISTERIO PUBLICO ANTOFAGASTA C/ DANIEL SALVADOR GOMEZ AGUIRRE
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de nulidad
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: DECLARA COMPETENTE PARA CONOCER NULIDAD A LA CORTE
 

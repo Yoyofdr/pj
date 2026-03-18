@@ -4,19 +4,19 @@ case_id: 2cae5a61c2e11b6cf8d4436a89c4ca2c2dcb1b7a
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8061242
 
-rol: 8146-2026
+rol: 9522-2026
 
 fecha_sentencia: 2026-03-12
 
-caratulado: ANONIMIZADO
+caratulado: EMILY ESTEFANI ZAPATA GAMARRA / ALFONSO EDUARDO PIÑA MENA
 
 sala: CUARTA, MIXTA
 
-materias: (CIVIL) CASACIÓN FONDO
+materias: (PENAL) NULIDAD
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (PENAL) NULIDAD
 
-resultado_recurso: INADMISIBLE UNIFICACIÓN DE JURISPRUDENCIA, NO ES MATERIA PROPIA DE UNIFICACION
+resultado_recurso: DÉSE CURSO, REMÍTASE EXHORTO AL
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

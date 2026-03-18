@@ -4,17 +4,17 @@ case_id: ffe7b4a00646dc8e4ae3982e5ea91d264c042e0e
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8056337
 
-rol: 28512-2025
+rol: 26025-2025
 
 fecha_sentencia: 2026-03-10
 
-caratulado: JORGE HUGO POLANCO COFRE C/ LUIS WALDO QUINTEROS ESCOBAR
+caratulado: MINISTERIO PUBLICO FISCALIA LOCAL C/ JUAN ANDRES ESPINOZA FIERRO
 
 sala: SEGUNDA, PENAL
 
 materias: ▪ Otros Delitos en leyes especiales
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) CASACIÓN FORMA Y FONDO
 
 resultado_recurso: RECHAZA RECURSO DE NULIDAD (M)
 

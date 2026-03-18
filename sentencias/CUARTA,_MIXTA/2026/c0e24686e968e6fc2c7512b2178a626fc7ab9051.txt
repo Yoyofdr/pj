@@ -4,19 +4,19 @@ case_id: c0e24686e968e6fc2c7512b2178a626fc7ab9051
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8057806
 
-rol: 9522-2026
+rol: 26901-2025
 
 fecha_sentencia: 2026-03-11
 
-caratulado: EMILY ESTEFANI ZAPATA GAMARRA / ALFONSO EDUARDO PIÑA MENA
+caratulado: ANONIMIZADO
 
 sala: CUARTA, MIXTA
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: ▪ Compensación económica
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: DÉSE CURSO, REMÍTASE EXHORTO AL
+resultado_recurso: INVALIDADA DE OFICIO (M)
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
