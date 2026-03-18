@@ -4,11 +4,11 @@ case_id: 11cd381debbcaffc42fae7415782df4da6712522
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046821
 
-rol: 7163-2026
+rol: 7937-2026
 
-fecha_sentencia: 2026-03-02
+fecha_sentencia: 2026-03-03
 
-caratulado: FERREIRA LLANOS MARCELINA CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: GARRIDO MENESES ALEXANDER MAURICIO CONTRA GENDARMERIA CHILE
 
 sala: SEGUNDA, PENAL
 
@@ -16,7 +16,7 @@ materias: ▪ Recurso de Amparo
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

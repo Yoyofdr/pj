@@ -4,33 +4,45 @@ case_id: d5d690a57c7dc5c966d669016b1dd1b2cf3d095a
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046979
 
-rol: 7931-2026
+rol: 7947-2026
 
 fecha_sentencia: 2026-03-03
 
-caratulado: MONCADA CESPEDES ROBIN ALEXIS CONTRA SALA CORTE DE APELACIONES DE TEMUCO
+caratulado: REYES AGÜERO ANÍBAL EDUARDO CONTRA ILUSTRÍSIMA CORTE DE APELACIONES DE VALPARAÍSO
 
 sala: SEGUNDA, PENAL
 
-materias: (CIVIL) CASACIÓN FORMA Y FONDO
+materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) CASACIÓN FORMA Y FONDO
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
-Corte Apelaciones ▼
 Santiago, tres de marzo de dos mil veintiséis.
 
-Vistos y teniendo únicamente presente:
-Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de diecisiete de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Valdivia, en el Ingreso Corte N° 60-2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.
+VISTOS Y TENIENDO PRESENTE:
+Primero: Que en este procedimiento sumario especial de reivindicación y compensación de derechos en dinero, seguido ante el Primer Juzgado de Letras de San Antonio, bajo el Rol C-1115-2021, caratulado “El Jardín Sociedad Anónima con Homero Mestre Pino”, se ha ordenado dar cuenta de la admisibilidad del recurso de casación en el fondo, deducido por la parte demandante, contra la sentencia de la Corte de Apelaciones de Valparaíso, de veintinueve de enero de dos mil veintiséis, que confirmó el fallo de primer grado, de veintitrés de octubre de dos mil veinticuatro, que desestimó la demanda principal de reivindicación, y la subsidiaria de compensación de derechos en dinero, sin costas.
 
-Acordada con el voto en contra de la Ministra Sra. Gajardo, quien estuvo por confirmar la resolución apelada en virtud de sus propios fundamentos.
+Segundo: Que la recurrente funda su arbitrio en la infracción del artículo 28 del Decreto Ley N° 2695 de 1979, en relación con el artículo 1700 del Código Civil y el artículo 342 del Código de Procedimiento Civil.
 
-Regístrese y devuélvase.
+Explica, en síntesis, que la infracción normativa se produce porque el fallo recurrido rechazó la acción subsidiaria de compensación de derechos en dinero, fundado en que el demandante no acreditó ser propietario de todo o parte del predio regularizado por el demandado; no obstante que los jueces del fondo han establecido que el actor tiene la calidad de comunero del inmueble, tal como se desprende de las inscripciones de dominio, la escritura pública de transacción y las piezas de causa Rol C-1411-2014 del mismo Tribunal.
 
-Rol N° 7931-2026.
+Solicita se invalide el fallo recurrido y se dicte sentencia de reemplazo que acoja la demanda subsidiaria de compensación de derechos en dinero en los términos que indica, con costas.
+Tercero: Que, examinados los antecedentes del proceso, fluye que el recurso de nulidad en estudio se encuentra construido sobre la base de una propuesta fáctica distinta de aquélla que viene asentada en el fallo recurrido.
+En efecto, los jueces del fondo para desestimar la demanda subsidiaria de autos, han dejado asentado que el demandante no acreditó dominio sobre todo o parte del inmueble regularizado por el demandado, así como tampoco la existencia de superposición entre dicho predio y la propiedad del actor; a diferencia de la recurrente quien postula a través de su arbitrio que su parte probó ser titular de dominio sobre el inmueble saneado por el demandado.
+
+Frente a tal divergencia, valga recordar que sólo los jueces del fondo se encuentran facultados para fijar los presupuestos fácticos, por lo que efectuada correctamente dicha labor en mérito de las probanzas aportadas, éstos resultan ser inamovibles para esta Corte, conforme lo prevé el artículo 785 del Código de Procedimiento Civil; no siendo posible su revisión por la vía de la nulidad que se analiza, salvo que se haya denunciado de modo eficaz la vulneración de alguna de las leyes reguladoras de la prueba; situación que tampoco acontece en la especie de forma satisfactoria.
+Cuarto: Que, sobre el particular, la parte recurrente se ha limitado a denunciar la infracción del artículo 1700 del Código Civil, y del artículo 342 del Código de Procedimiento Civil, a propósito de la valoración de la prueba instrumental allegada al proceso; sin embargo, no es posible avizorar la forma en que dichas reglas hayan sido infringidas por los jueces del fondo.
+
+En efecto, del examen del fallo recurrido no consta que los magistrados del grado hayan negado el carácter público de los documentos acompañados al proceso, o asignado a éstos un valor distinto del previsto por la ley; sino que han ponderado la instrumental allegada, pero efectuando de ésta un análisis que no derivó en el establecimiento de los hechos y circunstancias pretendidos por la parte recurrente; quedando así en evidencia que las alegaciones de ésta se orientan más bien a promover que esta Corte realice una nueva valoración de dichas probanzas, lo que constituye una actividad ajena al recurso de casación en estudio; unido a que tampoco se ha cuestionado por la parte recurrente el dictamen pericial del que se valieron también los sentenciadores del grado para descartar derechos de la parte demandante sobre el predio saneado por el demandado.
+
+Quinto: Que, por consiguiente, siendo necesario para el éxito de la pretensión de la recurrente, modificar los hechos fijados por los jueces de la instancia; y no pudiendo aquello verificarse en esta sede por lo señalado precedentemente, indefectible es que el arbitrio de nulidad debe ser rechazado por adolecer de manifiesta falta de fundamento.
+Por estas consideraciones y de conformidad, además, con lo dispuesto en los artículos 764, 765, 767, 772 y 782 del Código de Procedimiento Civil, se rechaza el recurso de casación en el fondo, interpuesto por el abogado Juan Luis Urrutia Schiappacasse, en representación de la parte demandante, contra la sentencia de veintinueve de enero de dos mil veintiséis, dictada por la Corte de Apelaciones de Valparaíso.
+Regístrese, notifíquese, comuníquese y devuélvase, vía interconexión.
+
+Rol N° 7724-2026
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
