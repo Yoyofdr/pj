@@ -4,19 +4,19 @@ case_id: f3e6238a4e8d7aee5d0f59941a5edf144d7f56a8
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047640
 
-rol: 7170-2026
+rol: 8198-2026
 
 fecha_sentencia: 2026-03-03
 
-caratulado: CEIDE RENALD CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: PAULEUS ERISNEL CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: (CRIMEN) APELACIÓN AMPARO
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

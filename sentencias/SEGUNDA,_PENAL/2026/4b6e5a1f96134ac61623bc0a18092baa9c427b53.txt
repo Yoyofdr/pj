@@ -4,88 +4,2372 @@ case_id: 4b6e5a1f96134ac61623bc0a18092baa9c427b53
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046984
 
-rol: 7934-2026
+rol: 49807-2024
 
 fecha_sentencia: 2026-03-03
 
-caratulado: AGUILA CORNEJO VICTOR ALEJANDRO CONTRA COMPLEJO PENITENCIARIO DE PUERTO MONTT
+caratulado: CDE- FISCO/ALCAÍNO
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: ▪ Admisibilidad del recurso de revisión
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: ACOGE RECURSO DE REVISIÓN (M)
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
 Santiago, tres de marzo de dos mil veintiséis.
-Vistos:
-Se confirma la sentencia apelada de trece de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Puerto Montt, en el Ingreso Corte N°52-2026.
-Acordado con el voto en contra del Ministro Sr. Llanos, quien fue del parecer de revocar la sentencia apelada y acoger el amparo deducido, teniendo para ello presente las siguientes consideraciones:
-1°) Que el procedimiento para la obtención de la Libertad Condicional, el cual está regulado por el Decreto Ley N° 321, con las modificaciones posteriores de la Ley N° 21.627, no son jurisdiccionales, sino evidentemente administrativos. Así lo ha reconocido, por lo demás, el Tribunal Constitucional (Rol N° 6717-2019 INA).
-2°) Que, en tales circunstancias, se debe tener presente que, no obstante tratarse de un procedimiento administrativo, en éste se encuentra plenamente vigente el principio de legalidad penal, que como señala la profesora María Inés Horvitz “debería abarcar todas las fases de manifestación de la práctica punitiva estatal –conminación, adjudicación y ejecución de las penas y medidas de seguridad-, en tanto ella [la fase de ejecución de las penas privativas de libertad] constituye una potencial fuente de afectación de derechos constitucionales” (María Inés Horvitz: “La insostenible situación de la ejecución de las penas privativas de libertad”, en Política Criminal, Vol. 13, N° 26, Diciembre de 2018, pp. 904-951).
-De manera que, en la especie, al negarse la postulación del interno por aplicación de las disposiciones de la Ley N° 21.627, no se observó el principio de irretroactividad de la ley penal desfavorable, consagrado en los artículos 6°, 7° y 19 N° 3 de la Constitución Política de la República, lo que indudablemente importa –a su vez- una vulneración de la libertad personal del amparado.
-Regístrese y devuélvase.
-Rol N°7934-2026.
+
+VISTOS Y TENIENDO PRESENTE:
+Primero: Que en este procedimiento ordinario de resolución y cumplimiento de contrato e indemnización de perjuicios, seguido ante el Primer Juzgado Civil de Chillán, bajo el Rol C-3160-2022, caratulado “Muñoz con Lara”, se ha ordenado dar cuenta de la admisibilidad del recurso de casación en el fondo deducido por la parte demandada y demandante reconvencional, contra la sentencia de la Corte de Apelaciones de la misma ciudad, de veintidós de enero de dos mil veintiséis, que confirmó el fallo de primer grado, de uno de junio de dos mil veinticuatro, que: (i) acogió la demanda principal y, en consecuencia, declaró resuelto el contrato de construcción a suma alzada suscrito por las partes, teniendo por reservado el derecho de la actora para discutir la especie y monto de los perjuicios en la etapa de ejecución del fallo o en otro juicio diverso; y (ii) rechazó la demanda reconvencional de cumplimiento de contrato e indemnización de perjuicios, sin costas.
+
+Segundo: Que la recurrente de casación en el fondo alega que el fallo recurrido infringió los artículos 1545, 1546, 1560, 1563, 1564, 1698 y 1702 del Código Civil,
+En síntesis, explica que la infracción normativa se produce porque la sentencia recurrida confirmó el fallo de primer grado que acogió la acción resolutoria y rechazó la reconvencional de cumplimiento contractual, fundado en que el demandado no hizo entrega de la obra dentro del plazo estipulado, existiendo a dicha época sólo un avance parcial de la construcción y partidas aún pendientes de ejecutar; en circunstancias que de la fuerza obligatoria del contrato, las reglas de interpretación contractual, y la documental consistente en mensajería intercambiada entre los contratantes, constan modificaciones por escrito convenidas con posterioridad al vencimiento del primitivo pacto, sobre definiciones y avances propios de la obra, así como la adición de otras no previstas originalmente; lo que denota la continuidad del vínculo, y con ello la prórroga tácita del plazo.
+
+Por otra parte, alega que los jueces del fondo al establecer la infracción contractual del demandado, han desatendido las conclusiones técnicas del informe pericial allegado al proceso, del que consta que la construcción no presenta fallas estructurales o de diseño que impidan su uso, y que al mes de diciembre de 2022 presentaba un avance de 72,75% de la partidas del pacto; descartándose de este modo la existencia de una obra defectuosa o inútil que justifique proporcional y jurídicamente la resolución del contrato, más allá de la falta de entrega final de la obra.
+
+Finalmente, acusa que el fallo recurrido vulnera el principio de buena fe y coherencia contractual, dado que al resolver la controversia no ha tenido en consideración que los contratantes han dado continuidad a la coordinación y ejecución de la obra con posterioridad al vencimiento del plazo original, lo cual no se condice con la existencia de un incumplimiento contractual que sirva de base para reclamar la resolución del contrato.
+
+Solicita se invalide el fallo recurrido y se dicte sentencia de reemplazo que rechace la demanda principal de resolución de contrato, y acoja la reconvencional de cumplimiento e indemnización de perjuicios, con costas.
+Tercero: Que, dicho lo anterior, valga recordar que el artículo 772 N° 1 del Código de Procedimiento Civil, sujeta el recurso de casación en el fondo a un requisito indispensable para su admisibilidad, como es que el escrito en que se interpone “exprese”, es decir, explicite en qué consiste o cómo se han producido el o los errores que se denuncian, y siempre que éstos sean “de derecho”.
+
+Cuarto: Que, en la especie, pese al esfuerzo argumentativo de la parte recurrente, su recurso no ha sido encaminado, como debió serlo, abarcando el basamento jurídico que, en propiedad, resultaba ser pertinente y de rigor para la resolución del asunto controvertido; puesto que la preceptiva legal citada en su arbitrio de nulidad, no es suficiente para abordar el examen de la sentencia impugnada, al no venir denunciada la conculcación de las normas decisoria litis fundamentales para la solución de las materias discutidas.
+
+En efecto, el recurso de nulidad en estudio no denuncia la infracción de los artículos 1437, 1438, 1489, 1494, 1547, 1551, 1552, 1553, 1556 y siguientes del Código Civil, que contemplan precisamente el estatuto de responsabilidad civil contractual y, en particular, las acciones de resolución y cumplimiento de contrato e indemnización de perjuicios ejercitadas en autos, y de los cuales se han valido los jueces del fondo para establecer el incumplimiento contractual del demandado.
+
+En consecuencia, habiéndose omitido por la impugnante alegar la infracción de la preceptiva sustantiva básica citada y que detenta el carácter de decisoria litis en el caso sub-judice; inequívocamente, se genera un vacío que esta Corte no puede subsanar para el caso de acogerse el recurso y dictarse sentencia de reemplazo, dado el carácter de derecho estricto que éste reviste; razón por la que no puede ser admitido a tramitación.
+Quinto: Que, sin perjuicio de lo anterior, examinados los fundamentos del arbitrio de nulidad en estudio, fluye que éste también está construido por la parte recurrente sobre la base de una propuesta fáctica distinta de aquélla que viene asentada en el fallo recurrido.
+En efecto, los jueces del fondo para acoger la acción resolutoria, y desestimar la reconvencional de cumplimiento contractual, junto con dejar asentada la existencia de un contrato de construcción de obra a suma alzada entre las partes, dieron por establecida la infracción contractual en que incurrió la parte demandada al no hacer entrega de la obra final dentro del plazo estipulado; mientras que la recurrente –por el contrario– postula a través de su arbitrio de nulidad que no ha existido infracción contractual de su parte que justifique la resolución del contrato, dada la prórroga tácita del plazo de ejecución de la obra.
+
+Frente a tal divergencia, tal como lo ha resuelto reiteradamente esta Corte, sólo los sentenciadores del fondo se encuentran facultados para fijar los presupuestos fácticos, por lo que efectuada correctamente dicha labor, en mérito de las probanzas aportadas, éstos resultan ser inamovibles para esta Corte, conforme lo prevé el artículo 785 del Código de Procedimiento Civil; no siendo posible su revisión por la vía de la nulidad de fondo que se analiza, salvo que se haya denunciado de modo eficaz la vulneración de alguna de las leyes reguladoras de la prueba; situación que no acontece en la especie, al no reclamarse la infracción de ninguna de dichas reglas de forma satisfactoria.
+Sexto: Que, sobre el particular, la recurrente se ha limitado a denunciar la infracción de los artículos 1698 y 1702 del Código Civil, a propósito de la carga de la prueba, y la valoración de la instrumental rendida; sin embargo, no es posible vislumbrar la forma en que dichas reglas hayan sido conculcada por los jueces del grado.
+
+En efecto, tal como ha tenido oportunidad de señalar esta Corte, la regla del “onus probandi”, sólo se vulnera en la medida que se obligue a una de las partes a acreditar un hecho que corresponde probar a la contraria; cuestión que no ha tenido lugar en este caso, dado que siendo de responsabilidad de la parte demandada probar el cumplimiento de las obligaciones emanadas del contrato de ejecución de obra a suma alzada, aquélla no cumplió con dicha carga en torno a la entrega de la obra final dentro del plazo convenido; razón por la que se tuvo por establecido el incumplimiento contractual del demandado que ha servido de fundamento para declarar la resolución de aquel contrato.
+
+Por otra parte, del examen del fallo impugnado tampoco aparece que los jueces del grado hayan negado el carácter público o privado de los documentos acompañados al proceso, o asignado a éstos un valor distinto del previsto por la ley; sino que han ponderado la instrumental allegada y, en particular, la consistente en la mensajería intercambiada entre las partes, pero efectuando de ésta un análisis que no derivó en el establecimiento de los hechos y circunstancias pretendidos por la recurrente en torno a la prórroga del plazo de ejecución de la obra y la continuidad del vínculo; quedando así en evidencia que las alegaciones de ésta se orientan más bien a promover que esta Corte realice una nueva valoración de dicha probanza, lo que constituye una actividad ajena al recurso de casación en estudio.
+
+Séptimo: Que, por consiguiente, siendo necesario para el éxito de la pretensión de la recurrente, modificar los hechos fijados por los jueces de la instancia; y no pudiendo aquello verificarse en esta sede de casación por lo señalado en los motivos precedentes, indefectible es que el arbitrio de nulidad de fondo en estudio debe ser desestimado por adolecer de manifiesta falta de fundamento.
+
+Por estas consideraciones y de conformidad, además, con lo dispuesto en los artículos 764, 765, 767, 772 y 782 del Código de Procedimiento Civil, se rechaza el recurso de casación en el fondo, interpuesto por la abogada Vannessa Vizcaya Lara, en representación de la parte demandada y demandante reconvencional, contra la sentencia de veintidós de enero de dos mil veintiséis, dictada por la Corte de Apelaciones de Chillán.
+Regístrese, notifíquese, comuníquese y devuélvase, vía interconexión.
+
+Rol N° 5291-2026
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
-Puerto Montt, trece de febrero de dos mil veintiséis
+C.A. de Chillán.
 
-VISTOS:
+Mgab/cff
+Chillán, veintidós de enero de dos mil veintiséis
+Visto:
+Atendido el mérito de los antecedentes, teniendo además presente que la demandada principal tuvo motivo plausible para litigar, y conforme lo dispuesto en los artículos 186, 227 del Código de Procedimiento Civil, se confirma, la sentencia apelada de uno de junio de dos mil veinticuatro.
 
-A folio 1, comparece Constanza Barrueto Bravo, abogada, con domicilio en Américo Vespucio Norte N° 22, oficina 1408, comuna de Las Condes, en favor de Víctor Alejandro Águila Cornejo, RUT 19.068.313-3, actualmente privado de libertad en el CP Puerto Montt, deduciendo recurso de amparo en contra de Gendarmería de Chile por la inclusión del amparado en la nómina de las personas condenadas que reúnen los requisitos para postular a la libertad condicional de abril del 2026, pero exigiendo los requisitos de la Ley N° 21.124, del 18 de enero de 2019, cuestión que constituye una afectación a su libertad personal y seguridad individual por los argumentos que indica.
-
-Afirma que el amparado se encuentra cumpliendo penas de 15 años y un día, 12 años, 7 años, 874 días y 41 días por delitos de robo con intimidación y homicidio, siendo causas cuya fecha de comisión de los ilícitos fue en el año 2014 y otras provenientes del Juzgado del Crimen. En este sentido, al amparado se le exige el requisito de tiempo que lo cumple el 15 de junio de 2025 y en relación con su conducta, mantiene más de 6 bimestres de calificaciones de muy buena.
-
-Indica que, en la especie, se le exige el tenor de lo establecido en el artículo 2 del D.L. N° 321, en cuanto a la existencia de un informe de postulación psicosocial elaborado por el área técnica de Gendarmería de Chile, en circunstancias que aquella exigencia se incorpora en enero de 2019, mediante la dictación de la Ley N° 21.124, esto es, con posterioridad a la comisión de los delitos, resultando ilegal y arbitrario lo obrado por el Tribunal de Conducta del Complejo Penitenciario de Puerto Montt, por estar aplicándose una ley posterior al hacer efectiva la norma señalada de manera retroactiva.
-
-Afirma que los hechos indicados importan una vulneración a la libertad personal del amparado, vulnerándose con ello lo dispuesto en el artículo 19 Nº 7 de la Constitución Política de la República y diversos tratados internacionales que indica, por cuanto en la especie se está aplicando una ley penal más desfavorable que posterga la posibilidad de egreso del régimen cerrado, efectuando diversas consideraciones entorno a la irretroactividad de la ley penal y su vinculación con los principios de legalidad y seguridad jurídica.
-
-Previas citas jurisprudenciales, solicita que se acoja la presente acción y se declare que la exigencia de un requisito adicional por la recurrida a la postulación de beneficios del amparado es ilegal y arbitraria, conforme al texto del Decreto Ley N° 321, de 1925, vigente al momento en que el amparado perpetró los delitos por los que actualmente cumple condena.
-
-A folio 4, se tuvo por interpuesto el presente recurso de amparo.
-
-A folio 6, consta informe evacuado por Gendarmería de Chile, afirmando la improcedencia de la presente acción por encontrarse el amparado cumpliendo una pena privativa de libertad ordenada por un Tribunal de la República. Luego, agrega que la libertad condicional no es un derecho, sino un beneficio al que se postula, no existiendo por tanto afectación a una garantía indubitada en la especie.
-
-Continúa afirmando que el principio de irretroactividad es propio de las leyes penales y que el D.L. N° 321, como la Ley N° 21.124, deben ser entendidas como leyes administrativas sobre la ejecución de la pena, rigiendo in actum, cuestión que se encuentra explícitamente resuelto en el artículo 9 de última norma citada, al establecer expresamente que se entenderá que los requisitos para la obtención del beneficio de libertad condicional son aquellos que se exigen al momento de la postulación. En este sentido, habiendo entrado en vigencia aquélla, el 18 de enero de 2019, no hay dudas que los requisitos son los contenidos en dicha normativa y no aquellos vigentes al momento de comisión del delito o inicio de la condena, tal como ocurre en la especie.
-
-Agrega que la norma en comento exige que el amparado cuente con un informe de postulación psicosocial elaborado por un equipo de profesionales de Gendarmería de Chile, que permita orientar sobre los factores de riesgo de reincidencia con el fin de conocer sus posibilidades para reinsertarse adecuadamente en la sociedad, el cual es, además, un antecedente calificado al momento de resolver las solicitudes respectivas. Sostiene que, ante cualquier postura que se tenga respecto de cuáles son las normas aplicables para efectos de analizar la postulación del recurrente, el texto vigente ha establecido un estándar claro y explícito en cuanto a la aplicación temporal de las normas que fijan los requisitos para ello.
-
-Continua con observaciones en cuanto a la naturaleza jurídica de las normas aplicables al caso, reiterando que aquéllas son de un origen administrativo, sosteniendo que no existe un actuar ilegal o arbitrario de su parte y solicitando, en definitiva, que se rechace la presente acción.
-
-Encontrándose en estado de ver, se agregó extraordinariamente a la tabla el presente recurso.
-
-CON LO RELACIONADO Y CONSIDERANDO:
-
-Primero: Que la acción de amparo, prevista en el artículo de la Constitución Política de la República, tiene por objeto proteger las personas que ilegal o arbitrariamente sufren cualquier privación, perturbación o amenaza en su derecho a la libertad personal y/o la seguridad individual, con el objeto de que la magistratura adopte las medidas pertinentes para restablecer el imperio del derecho y asegurar la debida protección del afectado, el cual puede ser deducido por aquel o cualquier otra persona en su nombre.
-
-Segundo: Que, en este sentido, el objeto de la presente acción dice relación con el análisis de lo efectuado por Gendarmería de Chile en torno a la determinación de los requisitos de postulación del amparado y, en concreto, a la exigencia de un informe psicosocial de aquél, en circunstancias que dicho requisito no existía en el texto vigente del D.L. N° 321, a la época de comisión de los delitos, resultando ilegal y arbitrario lo dispuesto en aquel sentido por el órgano recurrido.
-
-Tercero: Que, en la especie, hay que dejar asentado que el amparado cumple diversas condenas por los delitos de homicidio calificado, robo con intimidación, robo con violencia y porte de aparatos de comunicación en recintos penitenciarios en una extensión de las mismas, conforme lo señalado en lo expositivo de este fallo y por hechos acaecidos entre junio y julio del año 2001, salvo el último de los delitos el cual fue cometido en julio de 2024.
-
-Cuarto: Que, sobre el punto, cabe precisar que la recurrente no alega en el presente caso alguna actuación que importe una eventual modificación de la determinación de los tiempos mínimos de condena para acceder a beneficios respecto del amparado, sino de la procedencia de uno de los requisitos establecidos por el legislador para que sea considerado por la Comisión de Libertad Condicional respectiva en su oportunidad, en concreto, el informe psicosocial del artículo 2 Nº 3 del D.L. N° 321, el cual, conforme el tenor literal de la norma, se erige como “un antecedente calificado al momento de resolver la respectiva solicitud, y contendrá, además, los antecedentes sociales y las características de personalidad de la persona condenada, dando cuenta de la conciencia de la gravedad del delito, del mal que éste causa y de su rechazo explícito a tales delitos. Asimismo, deberá contener información sobre eventuales beneficios intrapenitenciarios que la persona postulante hubiese obtenido, especialmente si éstos hubiesen sido revocados y las razones para ello.”
-
-Quinto: Que, por su parte, el artículo 9 de la citada norma establece “para los efectos del presente decreto ley, se entenderá que los requisitos para la obtención del beneficio de la libertad condicional son aquellos que se exigen al momento de la postulación.” Lo anterior resulta relevante por cuanto en la especie no se ha impedido al amparado efectuar su postulación al proceso de libertad condicional del presente año -con lo cual se descarta cualquier tipo de consideración entorno a una eventual extensión del cumplimiento de su pena de forma injustificada-, sino que se ha obrado conforme a los presupuestos de admisibilidad que el legislador ha ordenado considerar en consideración a la normativa vigente, tal como lo ordena el citado artículo 9, como de la especial atención que se debe prestar respecto del informe, el cual se considera, por expreso mandato legal, como un antecedente calificado a efectos de analizar la postulación que efectúe el recurrente.
-
-Efectuar un razonamiento en contrario, esto es, permitir al recurrente su postulación en ausencia del citado informe psicosocial, importaría una inobservancia del texto de la ley que redundaría en una actuación ilegal por parte de la citada comisión, por las razones precedentemente dadas, cuestión que atentaría, en consecuencia, con la finalidad misma del beneficio a solicitar y de los fines contemplados en el D.L. N° 321.
-
-Sexto: Que, en definitiva, resulta procedente la aplicación de los requisitos legales actuales que contiene el D.L. N° 321, aun cuando se trate de delitos cometidos en el año 2001, la mayoría de ellos, puesto que la postulación y la posibilidad de acceder al beneficio de la libertad condicional, al cumplir con sus exigencias legales, se regulan por normas que no tienen carácter penal propiamente tal, ya que la configuración de los ilícitos, la participación que en ellos le cupo el sentenciado y la sanción que finalmente se le impuso, son materias ya resueltas en base a dichas normas penales, siendo aquellas alusivas a la libertad condicional de carácter técnico-administrativas, que establecen los requisitos, oportunidad y forma de cumplimiento, órganos que intervienen, modos de verificación, criterios de resolución, etc., motivo por el cual los presupuestos para acceder a dicho beneficio deben cumplirse, como ya se dijo, al momento de la postulación, de acuerdo con el citado artículo 9 del D.L. N° 321.
-
-Séptimo: Que, en consecuencia, esta Corte no advierte ilegalidad o arbitrariedad en lo obrado por la recurrida, al no existir actuación u omisión alguna que importe una vulneración de la libertad personal o seguridad individual del amparado, razón por la cual la presente acción constitucional será desestimada en los términos a indicarse a continuación.
-
-Por estas consideraciones y visto lo dispuesto en el artículo 20 de la Constitución Política de la República y Auto Acordado de la Excma. Corte Suprema que rige en la materia, se rechaza el recurso de amparo deducido por doña Constanza Barrueto Bravo, en favor de Víctor Alejandro Águila Cornejo, en contra de Gendarmería de Chile.
-
-Redacción a cargo del Ministro (S) Rodrigo Loyola Brito.
-
-No firma el Ministro (S) don Rodrigo Loyola Brito, quien concurrió a la vista y acuerdo por haber cesado su cometido funcionario
-
-Regístrese, notifíquese y archívese en su oportunidad.
-
-Rol Amparo N° 52-2026.
+Regístrese y, en su oportunidad devuélvase.
+N°Civil-444-2024.
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------
-Puerto Montt, trece de febrero de dos mil veintiséisVISTOS:A folio 1, comparece Constanza Barrueto Bravo, abogada, con domicilio en Américo Vespucio Norte N° 22, oficina 1408, comuna de Las Condes, en favor de  Víctor Alejandro Águila Cornejo, RUT 19.068.313-3, actualmente privado de libertad en el CP Puerto Montt, deduciendo recurso de amparo en contra de Gendarmería de Chile por la inclusión del amparado en la nómina de las personas condenadas que reúnen los requisitos para postular a la libertad condicional de abril del 2026, pero exigiendo los requisitos de la Ley N° 21.124, del 18 de enero de 2019, cuestión que constituye una afectación a su libertad personal y seguridad individual por los argumentos que indica. Afirma que el amparado se encuentra cumpliendo penas de 15 años y un día, 12 años, 7 años, 874 días y 41 días por delitos de robo con intimidación y homicidio, siendo causas cuya fecha de comisión de los ilícitos fue en el año 2014 y otras provenientes del Juzgado del Crimen. En este sentido, al amparado se le exige el requisito de tiempo que lo cumple el 15 de junio de 2025 y en relación con su conducta, mantiene más de 6 bimestres de calificaciones de muy buena. Indica que, en la especie, se le exige el tenor de lo establecido en el artículo 2 del D.L. N° 321, en cuanto a la existencia de un informe de postulación psicosocial elaborado por el área técnica de Gendarmería de Chile, en circunstancias que aquella exigencia se incorpora en enero de 2019, mediante la dictación de la Ley N° 21.124, esto es, con posterioridad a la comisión de los delitos, resultando ilegal y arbitrario lo obrado por el Tribunal de Conducta del Complejo Penitenciario de Puerto Montt, por estar aplicándose una ley posterior al hacer efectiva la norma señalada de manera retroactiva. Afirma que los hechos indicados importan una vulneración a la libertad personal del amparado, vulnerándose con ello lo dispuesto en el artículo 19 Nº 7 de la Constitución Política de la República y diversos tratados internacionales que indica, por cuanto en la especie se está aplicando una ley penal más desfavorable que posterga la posibilidad de egreso del régimen cerrado, efectuando diversas consideraciones entorno a la irretroactividad de la ley penal y su vinculación con los principios de legalidad y seguridad jurídica. Previas citas jurisprudenciales, solicita que se acoja la presente acción y se declare que la exigencia de un requisito adicional por la recurrida a la postulación de beneficios del amparado es ilegal y arbitraria, conforme al texto del Decreto Ley N° 321, de 1925, vigente al momento en que el amparado perpetró los delitos por los que actualmente cumple condena.A folio 4, se tuvo por interpuesto el presente recurso de amparo.A folio 6, consta informe evacuado por Gendarmería de Chile, afirmando la improcedencia de la presente acción por encontrarse el amparado cumpliendo una pena privativa de libertad ordenada por un Tribunal de la República. Luego, agrega que la libertad condicional no es un derecho, sino un beneficio al que se postula, no existiendo por tanto afectación a una garantía indubitada en la especie. Continúa afirmando que el principio de irretroactividad es propio de las leyes penales y que el D.L. N° 321, como la Ley N° 21.124, deben ser entendidas como leyes administrativas sobre la ejecución de la pena, rigiendo in actum, cuestión que se encuentra explícitamente resuelto en el artículo 9 de última norma citada, al establecer expresamente que se entenderá que los requisitos para la obtención del beneficio de libertad condicional son aquellos que se exigen al momento de la postulación. En este sentido, habiendo entrado en vigencia aquélla, el 18 de enero de 2019, no hay dudas que los requisitos son los contenidos en dicha normativa y no aquellos vigentes al momento de comisión del delito o inicio de la condena, tal como ocurre en la especie. Agrega que la norma en comento exige que el amparado cuente con un informe de postulación psicosocial elaborado por un equipo de profesionales de Gendarmería de Chile, que permita orientar sobre los factores de riesgo de reincidencia con el fin de conocer sus posibilidades para reinsertarse adecuadamente en la sociedad, el cual es, además, un antecedente calificado al momento de resolver las solicitudes respectivas. Sostiene que, ante cualquier postura que se tenga respecto de cuáles son las normas aplicables para efectos de analizar la postulación del recurrente, el texto vigente ha establecido un estándar claro y explícito en cuanto a la aplicación temporal de las normas que fijan los requisitos para ello.  Continua con observaciones en cuanto a la naturaleza jurídica de las normas aplicables al caso, reiterando que aquéllas son de un origen administrativo, sosteniendo que no existe un actuar ilegal o arbitrario de su parte y solicitando, en definitiva, que se rechace la presente acción. Encontrándose en estado de ver, se agregó extraordinariamente a la tabla el presente recurso. CON LO RELACIONADO Y CONSIDERANDO:Primero: Que la acción de amparo, prevista en el artículo de la Constitución Política de la República, tiene por objeto proteger las personas que ilegal o arbitrariamente sufren cualquier privación, perturbación o amenaza en su derecho a la libertad personal y/o la seguridad individual, con el objeto de que la magistratura adopte las medidas pertinentes para restablecer el imperio del derecho y asegurar la debida protección del afectado, el cual puede ser deducido por aquel o cualquier otra persona en su nombre. Segundo: Que, en este sentido, el objeto de la presente acción dice relación con el análisis de lo efectuado por Gendarmería de Chile en torno a la determinación de los requisitos de postulación del amparado y, en concreto, a la exigencia de un informe psicosocial de aquél, en circunstancias que dicho requisito no existía en el texto vigente del D.L. N° 321, a la época de comisión de los delitos, resultando ilegal y arbitrario lo dispuesto en aquel sentido por el órgano recurrido. Tercero: Que, en la especie, hay que dejar asentado que el amparado cumple diversas condenas por los delitos de homicidio calificado, robo con intimidación, robo con violencia y porte de aparatos de comunicación en recintos penitenciarios en una extensión de las mismas, conforme lo señalado en lo expositivo de este fallo y por hechos acaecidos entre junio y julio del año 2001, salvo el último de los delitos el cual fue cometido en julio de 2024. Cuarto: Que, sobre el punto, cabe precisar que la recurrente no alega en el presente caso alguna actuación que importe una eventual modificación de la determinación de los tiempos mínimos de condena para acceder a beneficios respecto del amparado, sino de la procedencia de uno de los requisitos establecidos por el legislador para que sea considerado por la Comisión de Libertad Condicional respectiva en su oportunidad, en concreto, el informe psicosocial del artículo 2 Nº 3 del D.L. N° 321, el cual, conforme el tenor literal de la norma, se erige como “un antecedente calificado al momento de resolver la respectiva solicitud, y contendrá, además, los antecedentes sociales y las características de personalidad de la persona condenada, dando cuenta de la conciencia de la gravedad del delito, del mal que éste causa y de su rechazo explícito a tales delitos. Asimismo, deberá contener información sobre eventuales beneficios intrapenitenciarios que la persona postulante hubiese obtenido, especialmente si éstos hubiesen sido revocados y las razones para ello.”Quinto: Que, por su parte, el artículo 9 de la citada norma establece “para los efectos del presente decreto ley, se entenderá que los requisitos para la obtención del beneficio de la libertad condicional son aquellos que se exigen al momento de la postulación.” Lo anterior resulta relevante por cuanto en la especie no se ha impedido al amparado efectuar su postulación al proceso de libertad condicional del presente año -con lo cual se descarta cualquier tipo de consideración entorno a una eventual extensión del cumplimiento de su pena de forma injustificada-, sino que se ha obrado conforme a los presupuestos de admisibilidad que el legislador ha ordenado considerar en consideración a la normativa vigente, tal como lo ordena el citado artículo 9, como de la especial atención que se debe prestar respecto del informe, el cual se considera, por expreso mandato legal, como un antecedente calificado a efectos de analizar la postulación que efectúe el recurrente. Efectuar un razonamiento en contrario, esto es, permitir al recurrente su postulación en ausencia del citado informe psicosocial, importaría una inobservancia del texto de la ley que redundaría en una actuación ilegal por parte de la citada comisión, por las razones precedentemente dadas, cuestión que atentaría, en consecuencia, con la finalidad misma del beneficio a solicitar y de los fines contemplados en el D.L. N° 321. Sexto: Que, en definitiva, resulta procedente la aplicación de los requisitos legales actuales que contiene el D.L. N° 321, aun cuando se trate de delitos cometidos en el año 2001, la mayoría de ellos, puesto que la postulación y la posibilidad de acceder al beneficio de la libertad condicional, al cumplir con sus exigencias legales, se regulan por normas que no tienen carácter penal propiamente tal, ya que la configuración de los ilícitos, la participación que en ellos le cupo el sentenciado y la sanción que finalmente se le impuso, son materias ya resueltas en base a dichas normas penales, siendo aquellas alusivas a la libertad condicional de carácter técnico-administrativas, que establecen los requisitos, oportunidad y forma de cumplimiento, órganos que intervienen, modos de verificación, criterios de resolución, etc., motivo por el cual los presupuestos para acceder a dicho beneficio deben cumplirse, como ya se dijo, al momento de la postulación, de acuerdo con el citado artículo 9 del D.L. N° 321.Séptimo: Que, en consecuencia, esta Corte no advierte ilegalidad o arbitrariedad en lo obrado por la recurrida, al no existir actuación u omisión alguna que importe una vulneración de la libertad personal o seguridad individual del amparado, razón por la cual la presente acción constitucional será desestimada en los términos a indicarse a continuación. Por estas consideraciones y visto lo dispuesto en el artículo 20 de la Constitución Política de la República y Auto Acordado de la Excma. Corte Suprema que rige en la materia, se rechaza el recurso de amparo deducido por doña Constanza Barrueto Bravo, en favor de Víctor Alejandro Águila Cornejo, en contra de Gendarmería de Chile. Redacción a cargo del Ministro (S) Rodrigo Loyola Brito. No firma el Ministro (S) don Rodrigo Loyola Brito, quien concurrió a la vista y acuerdo por haber  cesado su cometido funcionario Regístrese, notifíquese y archívese en su oportunidad.Rol Amparo N° 52-2026.                        ⚠                      Sin documento en esta instancia - pdf
+NOMENCLATURA : 1. [40]Sentencia
+JUZGADO : 1º Juzgado Civil de Chillán
+CAUSA ROL : C-3160-2022
+CARATULADO : MUÑOZ/LARA
+
+Chillán, uno de junio de dos mil veinticuatro.
+
+VISTO:
+
+1° A folio 1, de 20 de diciembre de 2022, comparece don Paul Chazal
+
+Garrido, abogado, en representación de doña MARCELA ALEJANDRA MUÑOZ
+
+BOUTHORS, instructora, domiciliada en Condominio El Otoñal N° 860, Casa 1, de
+
+la comuna de Chillán, quien deduce demanda de resolución del contrato de
+
+construcción a suma alzada, en contra de don FRANCISCO LEONARDO LARA
+
+DURÁN, contratista, domiciliado en callejón Las Encinas, Parcela 58 Lotes 1 y 2,
+
+de la comuna de Chillán.
+
+Funda su demanda en que con fecha 15 de diciembre de 2021, se celebró
+
+entre doña Marcela Alejandra Muñoz Bouthors y don Francisco Leonardo Lara
+
+Durán, un contrato de construcción a suma alzada, por el cual la primera encargó
+
+al último, quien se obligó a la ejecución de un proyecto habitacional de 171 metros
+
+cuadrados, que se construirían en un inmueble Rol 12204-74 de la comuna de
+
+Chillán, de acuerdo con títulos y plano archivados en el Conservador de Bienes
+
+Raíces de esta ciudad. De acuerdo con el aludido instrumento, el proyecto se
+
+ejecutaría según los siguientes antecedentes que lo conforman: a) Proyecto de
+
+arquitectura; b) Proyecto de cálculo estructural y especificaciones técnicas; c)
+
+Planos y especificaciones técnicas de agua potable; alcantarillado; gas;
+
+electricidad; 2 calefones de agua caliente. Que el contratista se habría obligado a
+
+ejecutar el proyecto de construcción aludido, el que comprendía, en forma especial
+
+pero no limitadamente, la ejecución de los siguientes trabajos: a) Excavaciones; b)
+
+Rellenos perimetrales; c) Obra gruesa; d) Terminaciones de la vivienda; e)
+
+instalaciones de electricidad, agua potable, alcantarillado y gas; f) paneles solares
+
+para necesidades de la vivienda; g) cierre perimetrales y medianeros, obligándose
+
+a suministrar la totalidad de los materiales y equipos necesarios para el trabajo
+
+encomendado, y a desarrollar la totalidad de los servicios contratados y requeridos
+
+hasta la recepción final del proyecto por parte de la mandante, quedando también
+
+obligado a dar cumplimiento a toda la normativa legal y reglamentaria vigente,
+
+aplicable a la ejecución de las obras a él encargadas, asumiendo además la
+
+supervisión y dirección de las obras, sin perjuicio de las facultades de la
+
+mandante. El contratista se comprometió a cumplir sus obligaciones en la forma
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+especificada en el contrato, de acuerdo con las actividades o tareas que en él se
+
+definieron.
+
+En cuanto a los requerimientos técnicos, refiere el contratista se habría
+
+obligado a cumplir con la obra contratada y servicios solicitados bajo los
+
+requerimientos, parámetros y especificaciones técnicas establecidas de acuerdo
+
+con la ordenanza municipal, construyendo la casa habitación de acuerdo con las
+
+siguientes especificaciones: Cimientos de 50 cm en concreto H20, Sobre
+
+cimientos de 30 cm Concreto H20, Radier de 10 cm Concreto H20, Ventanales en
+
+OPVC termo panel, Estructura Metalcon 90mm en muros y cerchas; Cubierta
+
+exterior Fibrocemento 5mm, Aislación muros y cielo 5cm Poliuretano expandido,
+
+equivalente a 2kg x M2 densidad 40kgM3, Techo Zinc 5v, pisos equivalentes a
+
+$20.000 x M2, luminaria, Paneles fotovoltaicos para suministrar x kilowatts con
+
+baterías de respaldo, luminaria, muebles de cocina, muebles de cocina y grifería
+
+equivalentes a $3.000.000; muebles baño, grifería, wc y tina, equivalentes a
+
+$3.000.000.- en la totalidad de los baños, puertas interiores $1.000.000.- en total,
+
+fosa séptica de 2.500 litros, Módulos eléctricos 924 en dormitorios, cocina, cuarto
+
+de estar, estar-comedor. Indica que el precio pactado en el contrato fue la suma
+
+única, fija y total de $550.000.- por metro cuadrado construido, los cuales serían
+
+171 metros cuadrados, equivalentes a $94.050.000.- que no incluía el Impuesto al
+
+Valor Agregado (IVA). En el precio convenido del contrato se incluían todas las
+
+obras, servicios, estudios, trabajos, suministros, insumos, equipos, construcción y
+
+montaje, así como todos los costos, honorarios, gastos, remuneraciones, gastos
+
+generales directos e indirectos, utilidades y cualquier otra contribución, cargo,
+
+tasas, derechos, impuestos, y, en general, todo otro valor que sea necesario para
+
+la cabal y completa ejecución de las obras materia del contrato, por tratarse de un
+
+contrato a suma alzada, de consiguiente, no asistía al contratista derecho a
+
+invocar aumentos de costos ni circunstancia alguna que justificara cobros
+
+adicionales, complementarios ni extraordinarios. Se convino que el precio del
+
+contrato lo pagaría la mandante al contratista, por las obras y servicios
+
+contratados, de la forma siguiente: a) Con un anticipo del 60%; b) Continuando
+
+con un 20% pagadero una vez culminada la etapa estructural, entendiéndose por
+
+tal radier terminado, tabiquería de muros con la respectiva aislación, techo y cielo
+
+terminado; y c) El 20% correspondiente al saldo restante para completar el precio
+
+total acordado, se pagaría al momento de la entrega de la obra con todas sus
+
+terminaciones finales, con ventanas de PVC termo panel, electricidad mediante
+
+paneles solares fotovoltaicos, gas, agua, pintura, revestimientos o pulidos de pisos
+
+y todo lo acorde y necesario a la entrega para el correcto funcionamiento de la
+
+casa habitación.
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Agrega que el demandado debía presentar a la mandante una declaración
+
+escrita indicando haber cumplido con todas sus obligaciones de pago de las
+
+remuneraciones y leyes sociales de todos sus empleados y los pagos a sus
+
+subcontratistas. Las partes pactaron que las obras objeto del contrato aludido,
+
+debían estar concluidas en su totalidad dentro del plazo de 180 días contados
+
+desde el 27 de diciembre de 2021. Finalmente, se convino que en caso de mora o
+
+simple retardo en la entrega y/o ejecución de las obras en el plazo señalado para
+
+la total conclusión de las obras por parte del contratista, se devengaría una multa
+
+en favor de la mandante de $40.000.- diarios, considerando como fecha inicial el
+
+día siguiente al previsto para la entrega o término de ejecución.
+
+Manifiesta que su parte habría cumplido con su obligación de pagar al
+
+contratista el 60% inicial de valor pactado, pagándole también el 20% del precio
+
+acordado para la culminación de la fase o etapa estructural de la obra
+
+encomendada, entregándole en total $76.000.000.- y que el contratista no habría
+
+dado oportuno cumplimiento a su obligación de concluir las obras dentro del plazo
+
+convenido en el contrato, de 180 días contados desde el 27 de diciembre de 2021,
+
+el que expiró el día 25 de junio de 2022. Añade que, el contratista se obligó a
+
+asumir todos los costos que irrogara la obra a él encargada, por haberse pactado
+
+el precio bajo la modalidad “suma alzada”, ante la inacción de su contraparte, con
+
+el solo propósito de procurar una pronta culminación de los trabajos, la mandante
+
+debió adquirir o proveer al demandado para su adquisición, diversos materiales,
+
+artefactos, grifería, fabricación de muebles de cocina, lavaplatos y llave de cocina,
+
+puertas exteriores e interiores, además de la instalación de gas y balón,
+
+totalizando desembolsos por $16.315.235.- adicionales a lo pagado al contratista,
+
+según detalle que transcribe en su demanda. Tampoco el demandado habría
+
+cumplido con su obligación de informar a la actora sobre el cumplimiento de las
+
+obligaciones de pago que aquel mantenía, de las remuneraciones y leyes sociales
+
+de sus empleados y pagos a sus subcontratistas.
+
+Indica que ante los incumplimientos del demandado, o cumplimientos
+
+imperfectos o retardados, y que han sido denunciados, asiste a su parte el
+
+derecho de instar por la resolución del contrato de construcción a suma alzada
+
+reseñado al comienzo, con costas, por lo que, previas citas legales, pide tener por
+
+presentada demanda de resolución de contrato en contra de don Francisco
+
+Leonardo Lara Durán, ya singularizados, someterla a tramitación y en definitiva
+
+hacer lugar a ella, declarando: a) Resuelto el contrato de construcción a suma
+
+alzada celebrado con fecha 15 de diciembre del año 2021, entre Marcela
+
+Alejandra Muñoz Bouthors y Francisco Leonardo Lara Durán, a causa de los
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+incumplimientos o cumplimientos imperfectos o retardos en que ha incurrido este
+
+último; b) Que, el demandado deberá indemnizar a la demandante los perjuicios
+
+sufridos por ella a causa del incumplimiento del primero, cumplimientos
+
+imperfectos o retardos en que éste ha incurrido, reservándonos el derecho de
+
+discutir su especie y monto para la etapa de cumplimiento de la sentencia que se
+
+dicte o en un juicio diverso conforme a lo dispuesto en el artículo 173 del Código
+
+de Procedimiento Civil; c) Que, el demandado es condenado al pago de las costas
+
+de la causa. En subsidio, solicita se acoja la demanda, en aquellos conceptos y/o
+
+prestaciones diversas a los reclamados, que el Tribunal determine ajustados al
+
+mérito del proceso, también con costas.
+
+2° A folio 6, consta notificación de la demanda y su proveído, realizada de
+
+conformidad al artículo 44 del Código de Procedimiento Civil, al demandado don
+
+Francisco Lara Duran, con fecha 25 de enero de 2023.-
+
+3° A folio 7, de fecha 15 de febrero de 2023, comparece el demandado,
+
+don FRANCISCO LEONARDO LARA DURÁN, quien contesta la demanda,
+
+solicitando su rechazo con costas, en atención los siguientes fundamentos:
+
+Expone, en síntesis, que es efectivo que con la demandante celebró un
+
+contrato de construcción a suma alzada el día 15 de diciembre de 2022, sin
+
+embargo, ésta omitiría deliberadamente señalar que dicho contrato habría sido
+
+modificado por acuerdo de las partes, de manera que, las causales de
+
+incumplimiento contractual que invoca no proceden en el caso de marras. El real
+
+propietario del inmueble Rol de avalúo N°12204-74 de la comuna de Chillán, sería
+
+don Pablo Antonio Jara Bolívar, pareja de la demandante y no ella como señala en
+
+su demanda.
+
+Agrega que, el contrato habría sido modificado en reiteradas ocasiones por
+
+la demandante, quien le pagó, daba las órdenes, autorizaciones y modificaciones
+
+era don Pablo Antonio Jara Bolívar, dueño del predio donde se ejecutó la
+
+construcción y en menor medida la demandante de autos. La construcción se
+
+realizó a través de subcontratistas, cuyos servicios y obras ejecutadas fueron
+
+íntegramente pagadas, como es del conocimiento de la demandante. Que en
+
+cuanto al plazo establecido en el contrato de fecha 15 de diciembre de 2022,
+
+también fue modificado por la demandante y su pareja de manera tácita, tal como
+
+acreditará en la etapa procesal pertinente. La modificación del plazo del contrato
+
+no fue una decisión antojadiza de parte de la demandante, pues según sus
+
+propios dichos, ella le solicitó explícitamente no terminar prontamente la
+
+construcción, pues debían juntar el dinero para pagar el saldo de precio que le
+
+adeudaba. Durante toda la época invernal habría sido imposible ejecutar la obra
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+encomendada, pues el único camino para acceder al predio donde se ejecutaba la
+
+obra se encontraba inundado. Para poder cumplir con su obligación de terminar la
+
+construcción del inmueble, le solicitó por meses y en reiteradas ocasiones a la
+
+demandante y su pareja solucionar dicha situación, cosa que no ocurrió, razón por
+
+la cual no pudo ejecutar la obra durante prácticamente todo el periodo invernal.
+
+En cuanto a la multa, expone que las partes, al modificar voluntariamente el
+
+plazo de la entrega de la construcción acordada, habrían dejado sin efecto la
+
+cláusula sexta del contrato primitivo. No siendo efectivo además, que su parte solo
+
+haya alcanzado el 56% del avance del total de la obra encargada, puesto que la
+
+construcción se encontraría terminada, solo faltó instalar los paneles fotovoltaicos,
+
+los cuales se instalarían en el mes de diciembre del año 2022, no obstante, esta
+
+instalación no se llevó a cabo porque el dueño del predio y la demandante, le
+
+habrían prohibido la entrada al inmueble, impidiendo de esta manera concluir y
+
+entregar la construcción terminada como se había convenido.
+
+Respecto al cuadro de gastos que la demandante indica en el numeral 13
+
+de su demanda, precisa lo siguiente: a) Respecto de los gastos incurridos en la
+
+construcción del cerco que trata los primeros 5 cuadros de la tabla, señala que el
+
+cerco perimetral y medianero fue construido y costeado por el dueño del predio
+
+con anterioridad a la celebración del contrato que le vincula con la demandante.
+
+De manera que, si bien es cierto, en el contrato de fecha 15 de diciembre de 2022,
+
+se obligó a la construcción de cierres perimetrales y medianeros, dicha
+
+construcción no fue necesaria, pues ya estaban construidos antes de la
+
+celebración del contrato y no existían otros cercos o cierres que construir; b)
+
+Respecto de los gastos señalados en los cuadros 6° al 13° de la tabla, estos
+
+corresponden a los desembolsos que la demandante y su pareja incurrieron en la
+
+construcción del radier de una terraza, cuya construcción -radier- no forma parte
+
+del contrato a zuma alzada, por lo tanto, no corresponde a su parte pagar -como
+
+se acreditará en la etapa procesal pertinente; c) Respecto de los gastos señalados
+
+en los cuadros 14°, 15°, 18°, 19°, 20°, 22° de la tabla, la demandante junto a su
+
+pareja decidieron voluntariamente incurrir en dichos desembolsos, pues los
+
+artefactos y muebles proporcionados por esta parte no eran de su gusto, además
+
+según consta en la misma tabla de gastos confeccionada por la propia
+
+demandante, el monto de dichos muebles excedía al presupuesto convenido para
+
+dichos ítem. Agrega que el monto presupuestado respecto de esos ítems, habría
+
+sido compensado a la demandante mediante la ejecución de obras adicionales
+
+que no estaban convenidas en el contrato primitivo y que fue precisamente parte
+
+de las modificaciones del contrato de fecha 15 de diciembre de 2022; d) Respecto
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+de los gastos señalados en los cuadros 16° y 17° de la tabla, indica que el
+
+porcelanato de muro y piso no estaba considerado en el presupuesto del contrato.
+
+Es por lo anterior, que las partes convinieron que la demandante junto a su pareja
+
+compraría y pagarían el porcelanato de piso y muro, quedando su parte solo
+
+responsable y obligado a su instalación, compensando de esta manera -con la
+
+mano de obra de la instalación- el costo considerado para dicho ítem; e) Respecto
+
+del gasto de la puerta exterior señalado en el cuadro 21° de la tabla, el costo de
+
+dicha puerta nunca formó parte contrato primitivo, ni de sus modificaciones; f)
+
+Finalmente, respecto del gasto de “gas y balón” señalado en el cuadro 24° de la
+
+referida la tabla, es necesario precisar que, su parte se obligó a realizar la
+
+instalación de gas, considerándose para ello la instalación de la red de
+
+abastecimiento de gas, no obstante la demandante y su pareja Pablo Jara Bolívar
+
+decidieron voluntariamente contratar el servicio de gas a granel a cuya instalación
+
+fue realizada por la empresa proveedora, “Gasco”, cuyo costo de instalación y
+
+contratación jamás fue parte del contrato primitivo o de sus modificaciones.
+
+Afirma que su parte dio cumplimiento íntegro a lo convenido en el contrato
+
+de fecha 15 de diciembre de 2022 y sus modificaciones, de manera que, para
+
+finalizar la construcción convenida, solo bastaba la instalación de los paneles
+
+fotovoltaicos, cuya instalación no fue posible realizar, pues don Pablo Jara Bolívar
+
+y la demandante de autos prohibieron su acceso al inmueble donde se ejecutaba
+
+la construcción, terminando repentinamente el contrato que nos vinculaba de
+
+manera unilateral. Que, la prohibición del acceso al inmueble donde se ejecutaba
+
+la obra y el aviso del término unilateral del presente contrato, le fue comunicada
+
+por don Pablo Jara Bolívar a través del grupo de WhatsApp “Parcela 5
+
+Construyendo” -grupo que él mismo creó el día 27 de diciembre de 2022.- Refiere
+
+por último, que la decisión de la actora de poner terminó unilateralmente al
+
+contrato, fue sumamente inesperado, pues en reiteradas ocasiones -y solo días
+
+antes a este hecho-, ellos señalaron, según consta en conversaciones en grupo de
+
+WhatsApp “Parcela 5 Construyendo”, que tomara las cosas con calma y no tenían
+
+apuro en la entrega de la obra, pues no tenían el dinero suficiente para pagarle el
+
+20% faltante del precio convenido, al terminar la construcción. Por tanto, solicita se
+
+tenga por contestada la demanda, rechazando, conforme a lo expuesto,
+
+totalmente las pretensiones de la actora, con expresa condenación en costas.
+
+Luego, en el primer otrosí de su presentación, don FRANCISCO
+
+LEONARDO LARA DURÁN, interpone demanda reconvencional de cumplimiento
+
+forzado de contrato con indemnización de perjuicios, en contra de doña MARCELA
+
+ALEJANDRA MUÑOZ BOUTHORS, todos ya individualizados, la cual funda, en
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+cuanto a los hechos, por economía procesal, da por reiteradas todas las
+
+circunstancias y hechos expuestos en su contestación, agregando además que su
+
+parte habría dado cumplimiento oportuno y de buena fe al contrato de marras junto
+
+con sus modificaciones, no obstante al hecho que, la demandante principal y su
+
+pareja don Pablo Jara Bolívar, no le permitieron concluir la obra, prohibiéndome el
+
+acceso al predio.
+
+Refiere que, dentro de las modificaciones ya expuestas, se agregó la
+
+instalación de porcelanato en pisos y muros del inmueble, instalación de siding en
+
+la fachada de la propiedad, mano de obra de la construcción de vereda frontis del
+
+inmueble, mano de obra radier terraza y vereda patio posterior, fabricación de
+
+terraza -se excluye radier-, construcción de pozo profundo tipo puntera, instalación
+
+de luminaria adicional, entre otras. Respecto de dichas modificaciones se habría
+
+acordado compensaciones económicas entre los montos presupuestados en el
+
+contrato y los servicios adicionales solicitados la demandante. Por la construcción
+
+de la terraza -excepto su radier-, se convino con la demandante de autos y su
+
+pareja, un pago adicional de $3.000.000.-
+
+Concluye que lo anteriormente expuesto, solo dejaría en evidencia la mala
+
+fe de la demandante de autos, en el hecho de desconocer las modificaciones del
+
+contrato primitivo celebrado el día 15 de diciembre de 2022, solicitando
+
+injustificadamente el término del contrato de marras, no obstante que, para
+
+concluir con la obra bastaba la instalación de los paneles fotovoltaicos. Por lo que
+
+contrario a lo señalado por la demandante principal, habría sido ella quien se
+
+encuentra en mora de cumplir con sus obligaciones al impedir el acceso al
+
+inmueble a ejecutar y terminar la obra convenida. Por lo que alega que la
+
+demandada reconvencional, le debe pagar el restante 20% del precio convenido al
+
+momento de la entrega del inmueble, esta parte se ve en la obligación de solicitar
+
+a que se condene a la demanda reconvencional a cumplir íntegramente el contrato
+
+convenido y sus modificaciones. Señala, por último, que se reserva el derecho a
+
+ejercer la acción de perjuicios en contra la demandada reconvencional,
+
+reservándose el derecho de discutir la especie y monto de la indemnización para
+
+la etapa de ejecución de la sentencia que se dicte en la presente causa o en otro
+
+juicio diverso.
+
+Por lo anterior y normas legales que cita, solicita en definitiva que se
+
+condene a la demandada reconvencional: 1.- A cumplir íntegramente el contrato
+
+convenido y sus modificaciones, permitiendo a su parte terminar con la ejecución y
+
+construcción del inmueble objeto del contrato y una vez terminada la construcción,
+
+la demandada reconvencional me pague el 20% del saldo de precio restante; 2.-
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Que, la demandada reconvencional sea condenada a pagar por los perjuicios que
+
+me ha ocasionado por su incumplimiento, reservándome el derecho a discutir la
+
+especie y monto de dicha indemnización para la etapa de cumplimiento de la
+
+sentencia que de dicte en este juicio o en un juicio diverso; 3.- Que la demandada
+
+reconvencional sea condenada a pagar las costas del juicio.
+
+4° A folio 13, con fecha 03 de marzo de 2023, el actor principal evacuó el
+
+traslado de la réplica, señalando que no sería efectivo que el contrato celebrado
+
+con el demandado hubiere sido motivo de modificaciones posteriores, como se
+
+afirma en la contestación; lo cual requería de todas formas, dar cumplimiento a lo
+
+pactado en la cláusula 2ª, capítulo 2.7., que exigía de aprobación previa y escrita
+
+de la mandante.
+
+Indica que, dada la naturaleza del vínculo contractual de marras, que
+
+genera derechos personales o subjetivos en favor de los contratantes, para
+
+efectos de demandar su resolución e indemnizaciones carece de relevancia la
+
+propiedad del inmueble en el que se debieron ejecutar las obras contratadas con
+
+el demandado. Existiendo un vínculo obligacional entre las partes, que son para
+
+quienes nacen obligaciones correlativas y recíprocas, radicándose en ellas los
+
+efectos del contrato, tanto en su ejecución, cumplimiento o incumplimiento, no
+
+resulta atendible el que el demandado invoque una supuesta modificación de los
+
+términos del contrato a partir de pactos que habría acordado con un tercero que
+
+no es parte de la convención cuya resolución se demanda y que por lo demás
+
+carece de potestad para representar a la actora.
+
+Niega igualmente que la proporción de materiales efectuado al contratista
+
+por su parte, hubiere obedecido al mero deseo de la demandante, toda vez que
+
+ésta vino a suplir la inacción y/o incorrecta ejecución que experimentó el
+
+demandado en cuanto al avance e implementación de las obras a él encargadas,
+
+como en la calidad del trabajo que estaba desarrollando. Dada la modalidad
+
+elegida por las partes para la contratación de la obra que debió construir el
+
+demandado, “a suma alzada”, disentimos de que esa parte pretenda excluir de sus
+
+obligaciones contractuales algunas de las obras y/o materiales y/o artefactos, a
+
+cuya ejecución e instalación se obligó, lo que quedó explicitado en el instrumento
+
+de contratación, según se lee de sus declaraciones y disposiciones, existiendo un
+
+pacto expreso que lo obligaba al suministro de todos los materiales y equipos, y al
+
+desarrollo de la totalidad de los servicios contratados y requeridos hasta la
+
+recepción final del proyecto por parte de la mandante (Cl Segunda, 2.2), lo que
+
+habría quedado incumplido por el contratista.
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+En el otrosí de su presentación, contesta la demanda reconvencional,
+
+solicitando el rechazo de la misma, con costas, negando lo hechos señalados en
+
+dicha demanda. Refiere que no existieron las modificaciones contractuales a las
+
+que alude el actor reconvencional. Inclusive, para que éstas se hubieren
+
+producido, tenido valor y surtido efectos entre las partes era necesaria su
+
+aprobación previa y escrituración por parte de la demandada, lo que no ocurrió,
+
+según quedó regulado en el estatuto contractual que se dieron los contratantes
+
+para regular las relaciones surgidas a partir de los pactos que acordaron, como se
+
+estipuló en la cláusula 2ª, capítulo 2.7., del instrumento de contratación. Tampoco
+
+es cierto que se hubiere encargado al actor las obras adicionales que indica en el
+
+numeral 3.- de su escrito de demanda reconvencional, como tampoco las
+
+compensaciones que cita y reclama en los numerales 4 y 5 de su libelo. Inclusive,
+
+en la cláusula quinta 5.2. del contrato que vinculó a las partes se dejó establecido
+
+que por estar incluidos en el precio pactado del contrato todas las obras, servicios,
+
+estudios, trabajos, suministros, insumos, equipos, construcción y montaje, así
+
+como todos los costos, honorarios, gastos, remuneraciones, gastos generales
+
+directos e indirectos, utilidades y cualquier otra contribución, cargo, tasas,
+
+derechos, impuestos, y, en general, todo otro valor que sea necesario para la
+
+cabal y completa ejecución de las obras materia del contrato, por tratarse de un
+
+contrato a suma alzada, de consiguiente, no asistía al contratista derecho a
+
+invocar aumentos de costos ni circunstancia alguna que justificara cobros
+
+adicionales, complementarios ni extraordinarios. La disposición contractual citada
+
+queda complementada con lo pactado en la cláusula segunda, 2.7., en cuya parte
+
+final se estipuló que en el caso que el contratista ejecutara obras extraordinarias o
+
+aumentos de obra sin previa autorización por escrito de la mandante, éstas serían
+
+de su exclusivo costo. En virtud del pacto citado, aún para el caso que el
+
+contratista hubiere ejecutado obras extraordinarias o adicionales, al no ser éstas
+
+autorizadas previamente por escrito por la mandante, recae en el primero la
+
+obligación de soportar su costo, careciendo en consecuencia de acción para su
+
+cobro. Manifiesta que desconoce la existencia del contrato que cita el demandante
+
+reconvencional en el ordinal 6.- de su libelo, como celebrado el 15 de diciembre
+
+del 2022, pues el único que se suscribió con él lo fue un año antes, esto es en
+
+diciembre de 2021.-
+
+Sostiene que su parte habría cumplido en todo momento con las
+
+obligaciones que le imponía el contrato, efectuando las prestaciones a las que ella
+
+se obligó, pagando las sumas pactadas, en las épocas convenidas, estando
+
+siempre llana a cumplir con las futuras, sin embargo, los sucesivos y graves
+
+incumplimientos en que incurrió la contraparte, así como la necesidad de contar
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+con la vivienda, cuya construcción encargó, debidamente terminada, la obligaron a
+
+instar por demandar su resolución. No habiendo cumplido el contratista con las
+
+obligaciones por el asumidas en el contrato en el plazo acordado, siendo la no
+
+ejecución oportuna de las obras contratadas, su realización imperfecta o apartada
+
+de los términos del contrato, la causa de la no conclusión de la obra contratada,
+
+que por obedecer a hechos, conductas u omisiones imputables a él, siendo el de
+
+marras un contrato bilateral, liberan a su parte de su obligación de cumplir con las
+
+obligaciones por ella contraídas, en los términos del artículo 1552 del Código Civil.
+
+Refiere que no se advierte algún perjuicio sufrido por el actor reconvencional que
+
+su parte deba resarcir. Por todo lo anterior, solicita se rechace la demanda
+
+reconvencional deducida, con costas.
+
+5° A folio 16, de fecha 16 de marzo de 2023, se tuvo por evacuada la
+
+dúplica de la demanda principal y la réplica de la demanda reconvencional en
+
+rebeldía del demandado principal y actor reconvencional.
+
+6° A folio 17, de fecha 23 de marzo de 2023, el demandado reconvencional
+
+evacuó el trámite de dúplica respecto de dicha acción reconvencional, ratificando
+
+en todas sus partes de los hechos expuestos en su contestación, sin agregar
+
+nuevos antecedentes.
+
+7° A folio 31, con fecha 29 de junio de 2023, se efectuó la audiencia de
+
+conciliación, a la cual compareció sólo el apoderado de la parte demandante, don
+
+Paul Chazal Garrido, no logrando arribar a acuerdo, atendida la rebeldía de la
+
+parte demandada principal y demandante reconvencional.
+
+8° A folio 36, se recibió a prueba la causa, notificando por cédula a la
+
+apoderada de la parte demandada a folio 37, con fecha 21 de agosto de 2023, y
+
+teniendo por notificado expresamente al apoderado de la parte demandante, a
+
+folio 40, con fecha 22 de septiembre de 2023, rindiéndose la prueba que obra en
+
+autos.
+
+9° A folio 86, de fecha 21 de diciembre de 2023, se citó a las partes a oír
+
+sentencia.
+
+CONSIDERANDO:
+
+I.- EN CUANTO A LAS TACHAS OPUESTAS POR EL DEMANDADO
+
+PRINCIPAL A FOLIO 55:
+
+PRIMERO: Que, a folio 55, la parte demandada principal, opone tacha del
+
+N°7 del artículo 358 del Código de Procedimiento Civil, respecto de doña Gladys
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Cecilia Avendaño Torres, por desprenderse de lo declarado por ésta, que
+
+existiría un vínculo de amistad de la testigo con la demandante principal.
+
+SEGUNDO: Que, evacuando el traslado respectivo, el apoderado de la
+
+demandante principal se opone a la tacha deducida, por cuanto, si bien la testigo
+
+admite ser amiga de la actora, habiendo sido vecina de ésta durante cuatro años,
+
+no existiría ningún otro antecedente que se pueda establecer que dicha relación
+
+tenga el carácter de íntima, como lo exige el N°7 del artículo 358 del Código de
+
+Procedimiento Civil.
+
+TERCERO: Que, la testigo cuya inhabilidad se solicita declaró que es
+
+amiga de la demandante principal, por cuatro o cinco años, ya que fueron vecinas
+
+en el Condominio El Otoñal de esta ciudad.
+
+CUARTO: Que, de conformidad con lo dispuesto en el artículo 358 numeral
+
+7° del Código de Procedimiento Civil, son inhábiles para declarar, los que tengan
+
+íntima amistad con la persona que los presenta o enemistad respecto de la
+
+persona contra quien declaran. Dicha causal requiere para su procedencia, la
+
+acreditación de un vínculo de amistad que necesariamente lleve al testigo a
+
+declarar con cierta parcialidad, no bastando el simple hecho que reconozca ser
+
+amiga por haber sido vecinas durante algunos años, para que se dé, en la
+
+especie, por concurrente la inhabilidad que se plantea. Por lo anterior, y siendo
+
+éste el único antecedente en que se fundó la tacha, deberá ser rechazada, por no
+
+acreditarse sus presupuestos fácticos.
+
+QUINTO: Que, la parte demandada principal y demandante reconvencional
+
+opone tacha del N°1 y en subsidio la del N°7, ambas del artículo 358 del Código
+
+de Procedimiento Civil, respecto del testigo don Pablo Antonio Jara Bolívar, por
+
+haber tenido éste una convivencia de pareja con la actora principal por largos
+
+años, teniendo hijos en común y por la relación actual existente.
+
+SEXTO: Que, evacuando el traslado respectivo, el apoderado de la
+
+demandante principal se opone a las tachas deducidas, por cuanto el testigo no se
+
+encontraría en ninguna de las situaciones descritas en el artículo 358 N°1 del
+
+Código Adjetivo, ya que no tiene relación de parentesco alguna con la parte que lo
+
+presenta. En cuanto a la causa del N°7 de la norma antes referida, señala que el
+
+propio testigo declaro que en la actualidad no mantiene una relación con la actora,
+
+solo los ligaría los hijos en común que tienen, por lo que no hay antecedentes para
+
+calificar la relación que éste tiene con dicha parte como de “íntima amistad”.
+
+SÉPTIMO: Que, de los dichos del testigo, único antecedente existente en la
+
+causa para resolver sobre las causales de inhabilidad alegadas, se advierte que
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+éste reconoce expresamente no ser cónyuge ni conviviente civil con la
+
+demandante principal, habiendo sólo sido pareja de ésta y padre de sus hijas, por
+
+lo que fuerza resulta concluir que no existe entre dicho testigo y la actora un grado
+
+de parentesco de los señalados en la norma que se invocó, por lo que se
+
+desestimará la tacha del numeral 1° del artículo 358 del código citado.
+
+Por otro lado, en lo que respecta a la causal de inhabilidad comprendida en
+
+el número 7° del mismo artículo, habiendo el testigo reconocido mantener en la
+
+actualidad una relación de amistad con la actora principal, con la cual tiene hijos
+
+en común, habiendo mantenido una relación sentimental por dieciocho años, no
+
+cabe más que concluir que entre éstos efectivamente existe un vínculo de una
+
+entidad tal, que hace ilusoria la imparcialidad que se requiere para declarar como
+
+testigo, atendido el nivel de cercanía entre ellos y las circunstancias especiales y
+
+determinantes de su ciclo vital, relacionándose, además, actualmente como
+
+padres de hijos en común y que, por lo demás, el propio declarante sostuvo
+
+mantener una relación actual de amistad, motivos por los cuales se acogerá la
+
+tacha opuesta, sin costas, como se dirá en lo resolutivo.
+
+II.- EN CUANTO A LAS TACHAS OPUESTAS POR EL DEMANDANTE
+
+PRINCIPAL A FOLIO 56:
+
+OCTAVO: Que, a folio 56, la parte demandante principal, opone las tachas
+
+de los N°4 y N°6, ambas del artículo 358 del Código de Procedimiento Civil,
+
+respecto de los testigos don Ángelo Erasmo Toledo Salazar y don Rodrigo
+
+Eduardo Guzmán Ortega, por desprenderse de lo declarado por éstos, que
+
+prestaron habitualmente servicios retribuidos para el demandado, por lo que
+
+debería entenderse como un dependiente. Agrega respecto de la segunda causal
+
+opuesta, que al haber prestado servicios los testigos en la obra objeto del contrato
+
+de marras, carecerían de la imparcialidad necesaria para declarar en el pleito.
+
+NOVENO: Que, evacuando los traslados respectivos, el apoderado de la
+
+demandada principal se opone a las tachas deducidas, señalando que los testigos
+
+no serían dependientes de la parte que lo presenta, ni menos prestarían servicios
+
+de forma habitual, que sólo habría prestado servicios en calidad de contratista en
+
+una sola oportunidad. En cuanto a la segunda causal de inhabilidad opuesta,
+
+refiere que no existen antecedentes que los testigos tengan algún interés directo o
+
+indirecto en el juicio, habiendo sólo participado en la ejecución de la obra por un
+
+período determinado.
+
+DÉCIMO: Que, los testigos cuya inhabilidad se solicita, declararon en juicio
+
+que le prestaron servicios al demandado, Toledo Salazar de carpintería, y Guzmán
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Ortega elaboración de muros y pisos, ambos entre enero a diciembre de 2021,
+
+que se le pagaba al primero mensualmente conforme al avance de la obra, y al
+
+segundo únicamente conforme al avance del trabajo, encontrándose pagado en su
+
+totalidad los servicios que le realizaron en la obra objeto del contrato de marras.
+
+DÉCIMO PRIMERO: Que, dispone el artículo 358 N°4 del Código de
+
+Procedimiento Civil, que son inhábiles para declarar los criados domésticos o
+
+dependientes de la persona que presenta su testimonio. Dicha norma lo que
+
+pretende es evitar una declaración que pueda ser objeto de presión, que se daría
+
+sobre el trabajador dada las características propias de la relación laboral
+
+(subordinación, dependencia y retribución económica). Sin embargo, el actual
+
+desarrollo del derecho laboral contempla una serie de restricciones y sanciones
+
+para el caso en que se produzca una presión indebida o una amenaza de despido
+
+basado en la declaración de una persona, y son estas situaciones de protección
+
+junto con que el hecho de haber sido los testigos sólo unos subcontratistas en la
+
+obra encargada al demandado principal, según sus dichos y que, por lo demás,
+
+sostuvieron que los servicios finalizaron, todo lo cual conduce rechazo de la tacha
+
+de esta causal, como se consignará en lo resolutivo del presente fallo.
+
+En cuanto a la causal del numeral 6° del artículo citado, si bien los testigos
+
+reconocieron haber prestados servicios para el demandado en su oportunidad en
+
+labores de construcción de la vivienda encargada, lo cierto es que de aquella
+
+circunstancia no se aprecia concurrir de manera nítida un interés, a lo menos,
+
+indirecto en el pleito, desde que la discusión que se plantea en esta causa, no dice
+
+relación con alguna actuación u omisión de las personas que prestaron servicios
+
+para el demandado, ni se ha cuestionado su calificación profesional o métodos
+
+utilizados en el desempeño de tales servicios, sino que, lisa y llanamente, lo
+
+pretendido por la actora es el incumplimiento –o cumplimiento imperfecto- de las
+
+obligaciones contraídas por aquel en las cláusulas contractuales acordadas. Es
+
+decir, no se avizora que el resultado del presente juicio pueda influir en algún
+
+interés que los declarantes quisiesen proteger mediante un comportamiento
+
+parcial en sus declaraciones, motivos que llevan a desestimar las tachas
+
+alegadas, sin costas.
+
+III.- EN CUANTO AL FONDO DE LA DEMANDA PRINCIPAL:
+
+DÉCIMO SEGUNDO: Que, a folio 1, comparece don Paul Chazal Garrido,
+
+abogado, en representación de doña MARCELA ALEJANDRA MUÑOZ
+
+BOUTHORS, quien deduce demanda de resolución del contrato de construcción a
+
+suma alzada, en contra de don FRANCISCO LEONARDO LARA DURÁN, todos
+
+ya individualizados, solicitando, en base a los fundamentos expuestos latamente
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+en la parte expositiva de la presente sentencia, los que se tendrán por
+
+reproducidos para todos los efectos legales se acoja la demanda y en definitiva se
+
+declare: a) Resuelto el contrato de construcción a suma alzada celebrado con
+
+fecha 15 de diciembre del año 2021, entre Marcela Alejandra Muñoz Bouthors y
+
+Francisco Leonardo Lara Durán, a causa de los incumplimientos o cumplimientos
+
+imperfectos o retardos en que ha incurrido este último; b) Que, el demandado
+
+deberá indemnizar a la demandante los perjuicios sufridos por ella a causa del
+
+incumplimiento del primero, cumplimientos imperfectos o retardos en que éste ha
+
+incurrido, reservándonos el derecho de discutir su especie y monto para la etapa
+
+de cumplimiento de la sentencia que se dicte o en un juicio diverso conforme a lo
+
+dispuesto en el artículo 173 del Código de Procedimiento Civil; c) Que, el
+
+demandado es condenado al pago de las costas de la causa. En subsidio, solicita
+
+se acoja la demanda, en aquellos conceptos y/o prestaciones diversas a los
+
+reclamados, que el Tribunal determine ajustados al mérito del proceso, también
+
+con costas.
+
+DÉCIMO TERCERO: Que, a folio 7, el demandado, don FRANCISCO
+
+LEONARDO LARA DURÁN, representado por la abogada doña Vanessa
+
+Alejandra Vizcaya Lara, contestó la demanda, solicitando su rechazo, con costas,
+
+de acuerdo a los antecedentes ya referidos en lo expositivo de la presente
+
+sentencia, los que, en aras de la economía procesal, se dan por reproducidos.
+
+DÉCIMO CUARTO: Que, la demandante evacuó el trámite de la réplica,
+
+reiterando los argumentos de hecho y derecho expuestos en su demanda y
+
+negando los dichos del demandado, los que se han detallado en lo expositivo de la
+
+presente sentencia, y que se tendrán por reproducidos en este acto. Mientras que
+
+el demandado no evacúo el trámite de dúplica.
+
+DÉCIMO QUINTO: Que, la parte demandante principal, a fin de acreditar su
+
+pretensión rindió la siguiente prueba: I.- Documental: acompañando 1) A folio 1,
+
+Copia de contrato de construcción a suma alzada, suscrito por doña Marcela
+
+Alejandra Muñoz Bouthors y don Francisco Leonardo Lara Duran, con fecha 15 de
+
+diciembre de 2021; A folio 19: 2) Acta de gestión notarial levantada por el notario
+
+público de Chillán, don Joaquín Tejos Henríquez, respecto de la construcción
+
+objeto del juicio realizada con fecha 12 de diciembre de 2022; 3) Documento
+
+privado denominado “Informe de inspección de la obra” suscrito por doña Romina
+
+Folch Pastorini, en noviembre de 2002; 4) Documento privado consistente en
+
+Planilla con detalle de transferencias bancarias.-
+
+II.- Testimonial, A folios 54 y 55, consta que con fecha 17 de octubre de
+
+2023, la demandante principal obtuvo la declaración ante este Tribunal de los
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+testigos, don Cristian Omar Pardo Ortiz, doña Romina Silvana Folch Pastorini,
+
+doña Gladys Cecilia Avendaño Torres, los cuales declararon conforme a la
+
+sentencia interlocutoria de prueba de folio 36, lo siguiente:
+
+1.- Cristian Omar Pardo Ortiz: A los puntos de prueba uno, dos y tres del
+
+auto de prueba declara que conoce sólo a la demandante la señora Marcela
+
+Muñoz, ello celebró un contrato con el testigo para el término de una obra que está
+
+abandonada, que entiende es su casa particular, sector weste de Chillán. No
+
+conoce el contrato celebrado entre las partes en este juicio. No sabe si existe
+
+incumplimiento del contrato por parte del demandado. Tampoco sabe si este
+
+incumplimiento ha irrogado perjuicios a la demandante. Repreguntado expresa
+
+que la señora Muñoz se contactó por teléfono con él solicitando un presupuesto
+
+para la terminación de una obra inconclusa, se le envió el presupuesto, previa
+
+visita a la obra. El presupuesto versaba para dejar habilitada la vivienda, fue
+
+aceptado y se iniciaron las obras en diciembre del año 2022. La vivienda estaba
+
+inconclusa porque no estaba terminada y estaba inhabilitada para habitar, porque
+
+no tenía instalación eléctrica, no tenía puertas, no tenía sistema de gas, faltaban
+
+instalaciones y prueba de instalaciones de alcantarillado y agua potable, la
+
+cubierta del techo en malas condiciones con filtraciones y la pintura interior en mal
+
+estado por humedad y filtraciones desde la cubierta, ventanas existentes no se
+
+cerraban. Se tuvo que cambiar todo el sistema eléctrico interior para cumplir con la
+
+normativa para que fuera aceptada por la compañía, no tenía caja ni tablero
+
+eléctrico, el piso de dos baños se tuvo que picar y hacer de nuevo porque estaban
+
+desnivelados, pintura exterior de la vivienda en mal estado y agrietada, tuvo que
+
+reemplazar el sistema de la fosa sanitaria por mal cálculo de pendiente, cambió
+
+los canales de agua que tenían poco desarrollo y colocar bajadas de agua. Eso es
+
+lo más grave. La cubierta del techo estaba en malas condiciones porque producía
+
+goteras y filtraciones por los muros al interior, tenía mala pendiente. No estaba con
+
+energía eléctrica y tuvo que hacer la postación, cableado eléctrico y solicitar la
+
+habilitación por parte de Copelec. El sistema eléctrico no cumplía normativa, pues
+
+el cableado existente no es el exigido por la compañía de electricidad para evitar
+
+que la vivienda se queme y hubo que reemplazar este cableado para cumplir con
+
+la normativa y fuera aceptada por Copelec, sólo se reemplazó el cableado, pues
+
+no había centros de luz ni enchufes, los que se instalaron. Para efectuar estas
+
+evaluaciones sus competencias son que es constructor civil. De acuerdo a su
+
+experiencia y conocimientos el nivel de avance de la construcción referida tenía un
+
+55% aproximado. El nivel de instalación del sistema de agua era que tubería
+
+interior y proyecciones para colocar grifería están hechas, hicieron las pruebas de
+
+agua y tuvieron filtraciones interiores, tuvieron que romper muros, reparar las
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+instalaciones y reparar los muros para habilitar y colocar las griferías. La
+
+instalación de las griferías era deficiente, algunas ya estaban y otras se tuvieron
+
+que comprar en un 50% estaba y en un 50% se compraron. Previa exhibición de la
+
+fotografía acompañada a folio 19 bajo el título Inspección de Obra, señala que es
+
+la casa a que se he referido, los fotografías de las páginas 5, 6 y 7 corresponden a
+
+la vivienda de la demandante cuando se hizo el Presupuesto y dice: foto 2
+
+instalación eléctrica, tablero general inexistentes están los puros cables pelados;
+
+foto 3 revestimiento de muro inexistente; foto 4, piso retirar, picar nivelar; foto 6
+
+instalación de ventanas con desplomo, mal cierre, retirar, cuadrar nivelar
+
+reinstalar; foto 8 instalación sanitaria, no hay sanitarios; foto 9 dice canal aguas
+
+lluvias, falta canal y bajadas de agua lluvias; foto 10 puntura exterior, pintar toda la
+
+casa nuevamente; foto 11 aleros, con desplome, en mal estado; foto 13 puerta de
+
+logia, remplazarla estaba partida y agrietada, hubo que remplazarla; foto 15, pozo
+
+sin motor. Expone que todo lo que ha declarado lo sabe y le consta por sus visitas
+
+a terreno antes del inicio de la terminación de la obra.
+
+Contrainterrogado señala que comenzó en diciembre del año 2022 a
+
+ejecutar la obra encargada por la demandante. Del informe de la inspección d ela
+
+obra no tomo conocimiento, de él sólo lo conoce en esta presentación. Del informe
+
+pagina 11, punto tres no ha llegado a ninguna conclusión. Que en sus
+
+declaraciones como constructor civil en la construcción de la vivienda tomó una
+
+falta de avance, a medida que avanzaba se fue encontrando con deficiencias en la
+
+construcción, era una mala ejecución y no consecuencia del abandono de la
+
+vivienda.
+
+2.- Romina Silvana Folch Pastorini, declara respecto de los puntos uno, dos
+
+y tres de la interlocutoria de prueba que sabe que existe un contrato de
+
+construcción entre las partes, no sabe las estipulaciones. Existe incumplimiento
+
+del contrato por parte del demandado, pues al momento de su visita a la propiedad
+
+en noviembre del año 2022 no estaba la construcción vivienda terminada, había
+
+un avance de un 56%. Con este incumplimiento hubo perjuicios, porque ella
+
+arrendaba y al terminarse en la fecha indicada para la construcción de su vivienda
+
+tuvo que prorrogar su arriendo y contratar a otra persona para terminar la
+
+construcción de la vivienda. Repreguntada expresa que el Informe que ha referido
+
+se lo solicitaron como arquitecto, como perito judicial por 10 años y por sus años
+
+de experiencia en arquitectura. El Informe de avance de obra el cual contemplaba
+
+todas las partidas básicas de una propiedad, es decir, si estaban las instalaciones
+
+eléctricas, sanitarias, gas, puertas, ventanas, alcantarillado, pinturas. En general,
+
+ver el estrado de avance en que estaba la propiedad, observándose lo que no
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+estaba terminado gas, sanitarios, electricidad, instalación de puertas,
+
+alcantarillado, no estaban los artefactos sanitarios instalados. Los antecedentes
+
+que obtuvo para elaborar este Informe fue por whatsapp, no había una carpeta
+
+con los antecedentes para construir la vivienda, en base a esas imágenes y
+
+experiencia profesional elaboro su Informe. El nivel de avance que informó lo
+
+corroboro en la visita de noviembre del año 2022, midió la casa y allí se calcularon
+
+los metros cuadrados y lineales de cada partida y con ello se llegó a estimar el
+
+avance de la obra. Previa exhibición del Informe de folio 19, páginas uno a once lo
+
+reconoce como suyo, es su firma la que aparece en la página 11.
+
+Contrainterrogada expresa que lo que constato en la obra es un retraso y
+
+una deficiencia en la construcción. Las deficiencias que encontró eran en la parte
+
+sanitaria ya que la fosa no estaba en las condiciones correctas y no estaban en su
+
+Informe porque él sólo se refiere al avance de la obra. Ante lo que se le pregunta
+
+respecto al título de su Informe si sólo se refiere a la Inspección de la obra
+
+propiamente tal o al avance de ésta, responde que es sólo respecto al avance de
+
+la obra. Los Ítems considerados para el avance de la obra tienen, todos de la
+
+misma importancia. Ignora a qué se debía el retraso o abandono de la obra. No
+
+existía un Plano de Arquitectura porque se lo solicitó a la demandante y le dijo que
+
+no lo tenía, ya que no le habían entregado ninguna carpeta con los antecedentes.
+
+No tuvo antecedentes ni respecto con el ejecutor de la obra, no tuvo contacto con
+
+él.
+
+3.- Gladys Cecilia Avendaño Torres: Declara respecto de los puntos uno,
+
+dos y tres de la interlocutoria de prueba que es efectivo, las partes celebraron un
+
+contrato de construcción, fue cerca de mayo del año 2021, la fecha exacta no la
+
+sabe, no se maneja en las estipulaciones, lo que recuerda era que la casa debía
+
+estar lista en seis meses, no estuvo el contrato en sus manos, lo que sabe es por
+
+conversaciones con la demandante. Hubo incumplimiento por parte del
+
+demandado por no entregarse la casa en el plazo estipulado, estaba incompleta,
+
+lo que le trajo perjuicios a la demandante como trastornos sicológicos, ansiedad,
+
+en la parte económica porque seguía pagando un arriendo y el dueño quería que
+
+se fuera, de allí su ansiedad tan fuerte. Repreguntada expresa que el demandado
+
+no concluyó la construcción de la casa. Hubo otra persona que se encargó de
+
+terminar la construcción que fue financiada por la señora Marcela. Visitó la obra.
+
+La obra no fue terminada en la instalación de la luz y todo lo que es terminación
+
+fina, faltaba parte de techo, era la parte más gruesa la que estaba. Previa
+
+exhibición de las fotografías de folio 19, la testigo expresa que la foto I es la casa
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+que visitó como también los de las páginas 5, 6 y 7. Todo lo que ha declarado le
+
+consta porque lo observó cuando visitó la obra de la demandante.
+
+Contrainterrogada expresa que dijo que la obra se demoró por el tiempo en
+
+que debía estar construido, debía estar lista en el año 2022, ignora porqué se
+
+demoró. También le consta que no se concluyó la obra en los términos en que se
+
+contrató por la fecha en que debería haberse ido la demandante desde la casa del
+
+Otoñal y aunque le pidieron estaba casa que estaba arrendando no podía irse a su
+
+casa porque no estaba terminada. Dijo que faltó terminación fina, aunque no
+
+reconoce que no es experta, se refiere a que faltaba luz, llaves de agua,
+
+terminaciones de baño, cocina, piso, closet, algunas divisiones en piezas, parte de
+
+terraza, es lo que recuerda. Se refiriere a que faltaba techo, preciso que es al cielo
+
+raso.
+
+III.- Pericial: Solicitó y obtuvo informe pericial rolante a folio 83, elaborado
+
+por el arquitecto, don Carlos Rodríguez Sáez, en el que se concluye, en lo que
+
+interesa, que la vivienda no presenta fallas estructurales o de diseño que impidan
+
+su uso. El avance de la vivienda al 12 de diciembre de 2022, correspondía al
+
+72,75% de las partidas descritas en el Contrato de Construcción.
+
+DÉCIMO SEXTO: Que, la parte demandada principal, rindió a su vez, la
+
+siguiente prueba:
+
+I.- Documental: A folio 80, solicitó y obtuvo se llevará a efecto audiencia
+
+de percepción documental, en la cual se exhibieron las conversaciones por la
+
+aplicación whatsapp realizadas en el grupo en dicha aplicación, denominado
+
+“Parcela 5 en Construcción”, entre los días 27 de diciembre de 2021 y 28 de
+
+diciembre de 2022”, cuyos integrantes registrados eran los números telefónicos de
+
+Marcela Muñoz Bouthors, Pablo Jara Bolivar y Francisco Lara Duran; también se
+
+percibió las conversaciones realizadas por dicha aplicación entre los teléfonos
+
+pertenecientes a Marcela Muñoz Bouthors y Francisco Lara Duran, en el periodo
+
+comprendido entre 09 de octubre de 2021 y el 20 de agosto de 2022;
+
+conversaciones cuyas impresiones fueron acompañadas a folio 25 por el
+
+demandado principal.
+
+II.- Testimonial, A folio 56, consta que con fecha 17 de octubre de 2023, la
+
+demandada principal y demandante reconvencional obtuvo la declaración ante
+
+este Tribunal de los testigos, don Angelo Erasmo Toledo Salazar y don Rodrigo
+
+Eduardo Guzmán Ortega, los cuales declararon conforme a la sentencia
+
+interlocutoria de prueba de folio 36, lo siguiente:
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+1.- Ángelo Erasmo Toledo Salazar: Al punto de prueba cuatro del auto de
+
+prueba declara que el proyecto primero era tipo A, después se modificó a
+
+mediterránea. La altura era 240, se modificó 5 centímetros más. El piso era pulido,
+
+después quisieron porcelanato. Los baños eran pintados y se le tuvo que instalar
+
+porcelanato. La parte exterior era solo pintura, internit y pintura, se agregó en la
+
+parte de los aleros siding o fibro cemento, se le agregó eso en la parte norte y sur
+
+de la casa. Las ventanas de la cocina eran a ras y se le hizo después bow window.
+
+Eso es lo que recuerda. Repreguntado sobre donde estaba ubicada la obra que
+
+describe, responde que detrás de la Coca Cola, pasando la ruta 5, de Chillán, la
+
+dirección exacta no la recuerda; Sobre quienes o quien es el dueño de la obra
+
+para la cual estaba trabajando, responde que la señora Marcela y don Pablo, no
+
+recuerda el apellido; Sobre quién o con quien se acordó la modificación del
+
+proyecto original, responde que eso solamente don Francisco lo sabía, excepto
+
+que la Sra, Marcela de repente llegaba y les decía cosas o modificaciones que
+
+tenían que hacer o llegaba el caballero igual, don Pablo; Sobre si existió o no un
+
+retraso en la ejecución de la obra y en la afirmativa cuales son los motivos del
+
+mismo, responde que sí, existió bastante retraso por temas de que el proyecto
+
+original se modificó en muchas ocasiones y se tuvo que hacer más cosas de las
+
+que estaban en el proyecto, como la terraza que no estaba contemplada, el piso
+
+de la terraza y la parte oeste; Sobre que obras ejecutó dentro de la obra, responde
+
+que estructuras, cubiertas, forro interior, exterior, instalación sanitaria, todo lo que
+
+es fosas, cámaras, drenaje y no alcance a instalar puertas, porque nos cerraron;
+
+Sobre a que se refieren a “nos cerraron” y si existió alguna dificultad de acceso
+
+para entrar a la obra. Responde que primero, las puertas no llegaron para ser
+
+instaladas y en un momento don Francisco, dijo que estaba cerrado, por ende, no
+
+se podía terminar; Sobre si le dieron a conocer el motivo por el cual la obra estaría
+
+cerrada, responde que no exactamente, pero se escuchaba que había pocos
+
+recursos como para terminar, eso es lo que uno escucha detrás; Sobre si esos
+
+recursos que faltaban era por problemas de don Francisco o los dueños de la
+
+obra, responde que no sabe si don Francisco porque él le pagó hasta la
+
+instalación de puertas y si hubiese sido él no hubiese pagado y no se hizo, pero se
+
+lo canceló igual.
+
+Contrainterrogado sobre entre qué periodo se ejecutó la obra en la que él
+
+trabajo y que se ha referido, indicando día, mes y año, responde que no recuerda
+
+el día exacto, pero el mes fue enero a diciembre del año 2021, no recuerda bien
+
+ha pasado tiempo; Sobre si durante el año 2022, trabajó en otras obras, responde
+
+que sí; Sobre si puede indicar en cuantas obras trabajó el año 2022, responde que
+
+no recuerda cuantas; Sobre si el año 2022 trabajó para otra empresa distinta de
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+don Francisco o lo hizo de forma independiente, responde que sí, independiente;
+
+Sobre si sabe en la obra de la Sra. Marcela, cuál era la superficie construida para
+
+la que se había contratado a don Francisco, responde que las medidas exactas no
+
+sabe, pero entre 180 a 200 metros cuadrados, más la terraza, que no estaba
+
+contratada; Sobre si conoce cuál era el valor de la obra y la forma de pago,
+
+responde que no; Sobre si sabe en qué época se habrían acordado las
+
+modificaciones que refirió en su declaración, responde que las modificaciones iban
+
+de acuerdo a lo que se avanzaba y después que estaba hecho se modificaba;
+
+Sobre si las modificaciones que refiere tenían incidencia en el presupuesto de la
+
+obra, responde que sí, toda modificación tiene un costo en el presupuesto; Sobre
+
+si sabe los montos en los que se había modificado el presupuesto de la obra a
+
+causa de las modificaciones que señaló, responde que no; Sobre si sabe cuál era
+
+el plazo de ejecución de la obra, responde que no, no sabe si existía un plazo,
+
+porque siempre llegaba la Sra. Marcela diciendo no se apuren niños, pero que
+
+quede bien y uno no se daba cuenta si tenían o no plazo; Sobre quién era el
+
+encargado de llevar a la obra las puertas que él indicó no habría llegado, responde
+
+que no sabe quién realmente tenía que comprar o enviar las puertas, solo sabe
+
+que no llegaron.
+
+Al punto cinco de la interlocutoria de prueba declara que hay un contrato y
+
+se agregan cosas deberían ser por escrito, no sabe si se incumplió o no.
+
+Repreguntado sobre si conocía las condiciones originales y en que se
+
+diferenciarían con las modificaciones que posteriormente fueron surgiendo durante
+
+la ejecución de la obra, responde que sale en el contrato obviamente no lo sabe,
+
+pero sobre el plano original había muchas modificaciones, como la cubierta que lo
+
+había dicho anteriormente; Sobre si esas modificaciones que señaló influyeron en
+
+la ejecución de la obra provocando el retraso de la misma, responde que obvio
+
+que sí, más trabajo y por ende más tiempo.
+
+Contrainterrogado sobre si él tuvo a la vista los planos u otros antecedentes
+
+del proyecto para la obra que estaba ejecutando, responde que sí; Sobre quien le
+
+proporcionó esa documentación, responde don Francisco Lara; Sobre si vio
+
+planos, proyectos u otros antecedentes relacionados con las modificaciones que
+
+indicó, responde que el plano de estructura de cubierta, lo otro era cosas chicas
+
+de ellos.
+
+Al punto seis de la interlocutoria de prueba declara que no sabría decir.
+
+Repreguntado sobre si tiene conocimiento si se le adeuda algún concepto a don
+
+Francisco Lara por la ejecución de la obra materia de autos, responde que no
+
+sabría decir.
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2.- Rodrigo Eduardo Guzmán Ortega: Al punto cuatro del auto de prueba
+
+declara que los cambios que se hicieron, lo que yo hice era primero, cemento
+
+pulido y después se cambió a porcelanato. Repreguntado sobre qué obra se
+
+ejecutó, el lugar de la misma y durante cuánto tiempo aproximado, responde que
+
+las instalaciones de porcelanato alrededor de dos meses en baño, cocina, living
+
+comedor y dormitorios; Sobre si existieron retrasos y en la afirmativa cuales fueron
+
+los motivos de dichos retrasos en la ejecución de la obra en la cual estaba
+
+trabajando, responde que si había retrasos en los accesos para llegar a la obra, ya
+
+que era como un pantano; Sobre a qué se refiere con problemas de acceso a la
+
+obra y en que implicaron tales problemas de acceso a la obra; Responde que los
+
+problemas era que no había acceso para entrar a pie y menos en camioneta ya
+
+que se quedaban enterrado y no sabe si podía dejar el vehículo afuera porque al
+
+vecino le molestaba; Sobre si existieron o no retrasos y de que naturaleza en la
+
+ejecución de la obra, responde que la lluvia, porque el camino se echaba más a
+
+perder; Sobre si se modificaron o no las condiciones respecto de la obra que se le
+
+encomendó ejecutar y en la afirmativa, quien o quienes hicieron tales
+
+modificaciones, responde que él por lo menos no, porque yo fue a instalar los
+
+porcelanatos y no hubo modificaciones.
+
+Al punto cinco de la interlocutoria de prueba declara que no sabe.
+
+Al punto seis de la interlocutoria de prueba declara que lo único que sabe
+
+es que le deben plata, más allá no sabe. Repreguntado sobre a que se refiere y
+
+especifique con que le deben dinero al señor Lara, responde que le deben los
+
+pegamentos del porcelanato y la mano de obra; Sobre cuál era el monto
+
+aproximado de la deuda, responde que de los materiales no tiene claro el valor,
+
+pero de la mano de obra es $1.500.000.-
+
+Contrainterrogado sobre si sabe cuál era el valor de la obra y forma de pago
+
+que acordaron la Sra. Marcela con don Francisco, responde que no sabe.
+
+DÉCIMO SÉPTIMO: Que, la actora principal ha promovido demanda de
+
+resolución de contrato con indemnización de perjuicios, en relación al “contrato de
+
+construcción a suma alzada” suscrito por las partes, el cual tenía por objeto la
+
+construcción por parte del demandado, por encargo de la actora, de un “proyecto
+
+habitacional” compuesto por 172 metros cuadrados, en el inmueble cuyo rol de
+
+avalúo fiscal es el N°12.204-174 de la comuna de Chillán, fundando dicha acción
+
+de resolución en que el contratista habría incumplidos con sus obligaciones,
+
+principalmente consistente en no haber terminado la obra encomendada dentro
+
+del plazo pactado en el contrato referido. Dicho incumplimiento habría generado
+
+que la actora tuviese que contratar a un tercero para poder terminar la
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+construcción, generándole una serie de perjuicios, resultando procedente la
+
+resolución de dicho contrato y la indemnización de los perjuicios sufridos,
+
+reservándose la determinación de los mismos para la etapa de cumplimiento de la
+
+presente sentencia.
+
+DÉCIMO OCTAVO: Que, atendida la naturaleza de la acción principal
+
+deducida, es pertinente señalar que la condición resolutoria tácita que va envuelta
+
+en todos los contratos bilaterales, de acuerdo con el artículo 1489 del Código Civil,
+
+concede al contratante diligente que pretende valerse de ella, un derecho
+
+alternativo: solicitar la resolución del contrato o el cumplimiento del mismo,
+
+pudiendo, además, en ambos casos solicitar la indemnización de los perjuicios
+
+causados con ocasión del incumplimiento.
+
+Esta condición, respecto de la cual se dice que constituye sanción,
+
+reparación y garantía dispuesta en beneficio del acreedor diligente, requiere: a)
+
+que la convención de la que se trata sea un contrato bilateral; b) que haya un
+
+incumplimiento imputable de una obligación; c) que quien la invoque haya
+
+cumplido o se encuentre llano a cumplir con su propia obligación y d) que sea
+
+declarada por una sentencia judicial.
+
+DÉCIMO NOVENO: Que, así las cosas, de la copia del contrato de
+
+construcción a suma alzada acompañado por la actora a folio 1, ha quedado
+
+acreditada la existencia del vínculo contractual con el demandado, en virtud del
+
+cual éste último se obligó a construir un proyecto habitacional compuesto por 171
+
+metros cuadrados, en el predio Rol de avalúo fiscal N°12.204-174 de la comuna
+
+de Chillán, construcción que se haría conforme antecedentes anexos al contrato,
+
+como planos, proyecto de cálculo y de arquitectura y especificaciones técnicas,
+
+antecedentes que, a pesar de ser mencionados, no fueron acompañados a autos.
+
+De esta forma, únicamente se ha logrado determinar respecto a las características
+
+que debía tener la construcción, lo que se expresa en el contrato de folio 1, el cual,
+
+en su cláusula segunda, señala que la obra encomendada consistía en la
+
+ejecución de los siguientes trabajos: excavaciones, rellenos perimetrales, obra
+
+gruesa, terminaciones de la vivienda, instalaciones de electricidad agua potable,
+
+alcantarillado, gas, paneles solares para necesidades de la vivienda, cierres
+
+perimetrales y medianeros, debiendo el contratista suministrar la totalidad de los
+
+materiales y equipos necesarios para el trabajo y desarrollo de la totalidad de los
+
+servicios contratados y requeridos hasta la recepción final de la obra. Los
+
+requerimiento técnicos, indican que la casa habitación debía construirse de la
+
+siguientes forma: Cimientos de 50cm en Concreto H20; Sobrecimientos de 30cm
+
+Concreto H20; Radier de 10 cm Concreto H20; Ventanales en OPVC Termopanel;
+
+Estructura Metalcon 90mm en muros y cerchas Cubierta exterior Fibrocemento
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+5MM; Aislación Muros y cielo 5cm Poliuretano expandido, equivalente a 2kg x M2
+
+densidad 40kgM3; Techo Zinc 5v; Pisos equivalentes a $20.000 x M2 Luminaria;
+
+Paneles fotovoltaicos para suministrar x kilowatts con baterías de respaldo;
+
+Luminaria; Muebles de cocina; Muebles de cocina y grifería equivalentes a
+
+$3.000.000; Muebles Baño, grifería, WC y tina, equivalentes a $3.000.000 en la
+
+totalidad de los baños; Puertas interiores $1.000.000 en total; Fosa séptica de
+
+2.500 litros; Módulos eléctricos 924 en dormitorios, cocina, cuarto de estar, estar-
+
+comedor.
+
+Asimismo, aparece del contrato que el precio que la actora debía pagar al
+
+demandado por la obra, ascendía a una cantidad única de $550.000.- por metro
+
+cuadrado construido, es decir,171 metros cuadrados, equivalente a un precio total
+
+de $94.050.000.- suma que no incluía el impuesto al valor agregado. Dicho precio,
+
+conforme al apartado N°5.3 del referido contrato debía ser pagado de la siguiente
+
+forma: a) Con un anticipo del 60%; b) Con un 20% una vez culminados la etapa
+
+estructural, es decir, radier terminado, tabiquería de muros con la respectiva
+
+aislación, techo y cielo terminado; c) Finalmente el 20% restante se pagaría al
+
+momento de la entrega de la obra con todas sus terminaciones finales, ventanas
+
+de PVC termopanel, electricidad mediante paneles solares fotovoltaicos, gas,
+
+agua, pintura, revestimiento o pulidos de pisos y todo lo acorde y necesario a la
+
+entrega para el correcto funcionamiento de la casa habitación. También se
+
+convino que el atraso por parte de la mandante en el pago de alguna de las cuotas
+
+no facultaba al contratista para retrasar la ejecución normal de la obra. Finalmente,
+
+consta que se estableció en la cláusula sexta, que la obra debía ser concluida
+
+dentro del plazo de 180 días contados desde el 27 de diciembre de 2021, plazo
+
+que se verificaba, por lo tanto, el día 25 de junio de 2022.-
+
+Que, el contrato que suscribieron las partes y cuyo incumplimiento
+
+denuncian, ha sido expresamente reconocido por ambos en sus escritos, por lo
+
+que el obrar procesal ha operado bajo el supuesto de su existencia y que sus
+
+cláusulas son del tenor que en el instrumento se expresa, por lo que el modo en
+
+que se tuvo acompañado a estos autos, no afectará el valor probatorio del mismo,
+
+al no ser un asunto controvertido, centrándose la discusión, como se dijo, en torno
+
+a la falta de cumplimiento y sus consecuencias.
+
+VIGÉSIMO: Que, con relación al cumplimiento de dicho contrato, se ha
+
+podido acreditar, principalmente por medio del documento consistente en acta de
+
+gestión notarial suscrito por el notario público de esta ciudad, don Joaquín Tejos
+
+Henríquez, rolante a folio 19, que con fecha 12 de diciembre de 2022 y las
+
+aseveraciones de las partes, que la construcción objeto del contrato sub-lite, a
+
+dicha fecha, no se encontraba terminada, hecho que se ve corroborado por los
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+testimonios de los tres testigos que depusieron por la parte demandante, don
+
+Cristian Omar Pardo Ortiz, doña Romina Silvana Folch Pastorini, doña Gladys
+
+Cecilia Avendaño Torres, quienes, de forma conteste y dando razón de sus
+
+dichos, declararon que efectivamente el demandado no terminó la construcción de
+
+la casa habitación encomendada, que faltaba las terminaciones de la misma y que
+
+algunas obras tuvieron que hacerse de nuevo, atendido que se encontraban mal
+
+ejecutadas, resultando esclarecedores lo declarado por los dos primeros testigos
+
+referidos, toda vez, que éstos pudieron analizar detenidamente el estado de la
+
+obra y sus condiciones, atendida sus profesiones y las gestiones que les habría
+
+encomendado la actora, declarando el testigo Pardo Ortiz que la actora lo contrató
+
+para terminar la obra y dejarla en estado de ser habitada, lo cual realizó a partir de
+
+diciembre de 2022 y que cuando asumió dicha labor pudo constatar que la obra no
+
+tenía instalación eléctrica, puertas, sistema de gas, faltaba instalaciones y prueba
+
+del alcantarillado, y agua potable, el techo presentaba filtraciones, y la pintura
+
+interior se encontraba en mal estado por la humedad, las ventanas existentes no
+
+se cerraban completamente, entre otros. Mientras que la testigo Folch Pastorini,
+
+declaró que visitó la obra en noviembre de 2022, la cual a dicha fecha no se
+
+encontraba terminada, reconociendo en su declaración el documento suscrito por
+
+ella misma, individualizado como “Informe Inspección Obra”, que se encuentra
+
+acompañado a folio 19, en el cual se detalla los aspectos que le faltaban a la obra,
+
+concluyendo que esta únicamente presentaba un avance de un 56% y que la
+
+construcción no sería mala, sino que únicamente carente de terminaciones e
+
+instalaciones, agregando que, si bien, la construcción del avance de la vivienda no
+
+tenía deficiencias, sí lo tenía la parte sanitaria de la misma, ya que la fosa no
+
+estaba en las condiciones correctas.
+
+Además, el informe pericial que rola folio 83, elaborado por el arquitecto don
+
+Carlos Rodríguez Sáez, concluyó que la vivienda no presentaba fallas
+
+estructurales o de diseño que impidieran su uso y que el avance en la
+
+construcción, al 12 de diciembre de 2022, correspondía a un 72,75% de las
+
+partidas descritas en el Contrato de Construcción. Dicha conclusión se considera
+
+suficientemente fundada de lo expresado en el informe, dándole valor de
+
+conformidad con lo dispuesto en el artículo 425 del Código de Procedimiento Civil,
+
+pues en su confección, se advierte una acabada revisión de los antecedentes y un
+
+ajustado análisis de los aspectos técnicos de construcción, con relación al
+
+contrato. En consecuencia, se tendrá por acreditado que el cumplimiento por parte
+
+del demandante fue el equivalente al 72,75% de la obra que se acordó.
+
+VIGÉSIMO PRIMERO: Que, concordante con la conclusión anterior, se
+
+desecha en aquella parte, el avance que habría establecido doña Romina Folch
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Pastorini, en el documento privado de folio 19 y que es el instrumento en que el
+
+actor se asila para plantear sus pretensiones. En efecto, en primer término, el
+
+informe pericial evacuado en estos autos se encuentra dotado de la fuerza propia
+
+que le imprime el hecho de encontrarse bajo el control de ambas partes, en cuanto
+
+a las apreciaciones que se efectúan en el reconocimiento y su coincidencia con las
+
+conclusiones a las que se arriba por el profesional, cuestión que no puede decirse
+
+del estudio que efectúa la testigo indicada, por haber realizado su labor a
+
+requerimiento de una de las partes interesadas. También, este tribunal es del
+
+parecer, que debe valorarse el mayor desarrollo que se lee en el informe pericial
+
+en sus distintos acápites. Por último, las apreciaciones que plasma el informe del
+
+perito se avienen de mejor manera con lo que puede apreciarse de las fotografías
+
+acompañadas por la parte demandante, en que se observa una vivienda en un
+
+estado avanzado de construcción, con distintas terminaciones pendientes.
+
+VIGÉSIMO SEGUNDO: Que, respecto a las modificaciones del contrato
+
+que, según alega el demandado, se habrían ido acordando a medida que se
+
+ejecutaba la obra, principalmente, referidas al plazo de entrega y a la realización
+
+de otras mejoras, cabe señalar que dicha situación se encuentra expresamente
+
+regulada en el contrato de marras, en su apartado 2.7, que señala: “Las partes
+
+dejan expresa constancia que cualquier disminución o aumento de la obra, obras
+
+extraordinarias, cambio en especificaciones, cambios en el proyecto y, en general,
+
+cualquier modificación a lo establecido en el presente contrato y sus documentos
+
+anexos, sólo procederá previa aprobación por escrito de parte de la mandante
+
+(actora). En el caso que el contratista ejecuta obras extraordinarias o aumentos de
+
+obra sin previa autorización por escrito de la mandante, éstas serán de su
+
+exclusivo costo”. Sin embargo, siendo de carga del demandado acreditar sus
+
+alegaciones, ningún pacto escrito, distinto del contrato, ha sido acompañado a la
+
+causa.
+
+En cuanto a la serie de conversaciones que se llevaron a cabo a través de
+
+la aplicación whatsapp, entre la demandante, el demandado y don Pablo Jara
+
+Bolívar, las que fueron percibidas a folio 80, lo primero que se desprende de ellas
+
+es que, efectivamente, éste último, a pesar de no ser parte del contrato, manifiesta
+
+opiniones y decisiones en torno a la ejecución del mismo, autoridad que puede
+
+derivarse de la relación que lo vincula con la parte demandante y que fuera
+
+acreditada al momento de tener por acreditada su inhabilidad en la tacha deducida
+
+a su respecto. Luego, también queda en evidencia que, en aquel contexto, se van
+
+acordando una serie de definiciones menores relacionadas con la ejecución
+
+material de la obra, como es la elección de determinados elementos, colores,
+
+ubicaciones, productos alternativos, reparaciones, etc., los que se van
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+implementando a medida que se avanza en la construcción. Sin embargo, ninguna
+
+de ellas conduce a la modificación del plazo contenido en el contrato. Si bien,
+
+algunas fechas contenidas en las citadas conversaciones serían de una época
+
+posterior al vencimiento del plazo acordado, lo cierto es que ello no puede
+
+considerarse una manifestación de voluntad en torno a cambiar el período que se
+
+había acordado, sino que, solamente se refieren a definiciones de aspectos
+
+menores con relación a la obra mediante un parecer común, pero sin modificar las
+
+cláusulas suscritas, como es el plazo que se denuncia incumplido.
+
+Al respecto cabe establecer que conforme a lo dispuesto en el artículo
+
+1.494 del Código Civil “El plazo es la época que se fija para el cumplimiento de la
+
+obligación, y puede ser expreso o tácito. Es tácito el indispensable para cumplirlo ”.
+
+Por su parte, el artículo 1.551 del citado cuerpo legal manifiesta que “El deudor
+
+está en mora, 1º Cuando no ha cumplido la obligación dentro del término
+
+estipulado, salvo que la ley en casos especiales exija que se requiera al deudor
+
+para constituirle en mora”. Debiendo dicho incumplimiento presumirse culpable
+
+conforme lo dispuesto en el artículo 1547 del Código Civil.
+
+Por último, las declaraciones de dos testigos de la parte demandada,
+
+tampoco resultan idóneas para acreditar la modificación contractual en que se
+
+asila, puesto que se opone a la expresa cláusula citada precedentemente, como
+
+por lo establecido en los artículos 1709 y 1710 del Código Civil.
+
+VIGÉSIMO TERCERO: Que, del mismo modo, consta de las
+
+conversaciones realizadas en la aplicación whatsapp entre las partes, que se
+
+convinieron entre éstos, durante el transcurso de la ejecución de la obra, trabajos
+
+que no se encontraban dentro del acuerdo original como la obra de “siding” o
+
+revestimiento de dos caras del inmueble con un material de plástico, la cual fue
+
+acordada en conversaciones del mes de marzo de 2022. Asimismo, se acordó por
+
+medio de dicha vía, la construcción de un radier y posteriormente de una terraza
+
+en el mes de marzo y mayo de 2022.- Dichos trabajos añadidos, sin embargo, no
+
+alteran lo concluido en el considerando precedente, respecto a la verificación del
+
+incumplimiento en la entrega de la obra final por parte del contratista, ya que de
+
+dichas conversaciones consta que tales trabajos se realizaron mucho antes de la
+
+terminación del plazo originalmente pactado para la ejecución que es motivo de
+
+estos autos.
+
+VIGÉSIMO CUARTO: Que, por otro lado, respecto de la obligación que
+
+pesaba sobre la actora, consistente en haber pagado efectivamente las primeras
+
+dos cuotas del precio convenido para la obra, conforme a la modalidad establecida
+
+en la cláusula 5.3 del contrato, ya detallada, atendido lo señalado por el
+
+demandado en su contestación de demanda, se tendrá por no controvertido que
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+ésta efectivamente las pagó, mientras que la última cuota consistente en el 20%
+
+del precio, al no haberse efectuado la entrega final de la obra, no puede tenérsele
+
+por morosa de la misma.
+
+De esta forma, se tiene por acreditado que la actora realizó transferencias
+
+al demandado por la suma total de $75.240.000.- equivalentes a un 80% del
+
+precio acordado, y que el saldo del mismo, al no haberse verificado la condición
+
+establecida, no le resultaba exigible, por lo que cumple, en la especie, la
+
+demandante con el requisito dispuesto en el artículo 1552 del Código Civil.
+
+VIGÉSIMO QUINTO: Que, corrobora lo anterior, el hecho que lo
+
+encomendado al demandado fue una casa terminada de las características y en el
+
+tiempo estipulado en el contrato, objeto que no se cumplió en el plazo definido en
+
+el mismo, conforme se ha tenido por acreditado. Tampoco existen antecedente
+
+alguno que permita sostener que el demandado se encontraba llano o disponible
+
+para cumplir con su obligación, toda vez que la declaración de los dos testigos que
+
+depusieron por dicha parte, no resulta suficiente para tener por concurrente algún
+
+impedimento, como el mal estado del camino y que su mantención fuera de cargo
+
+de la parte demandante, desde que no abundan en detalles, como fechas, formas
+
+de ingresos o sus condiciones específicas en todo el período de ejecución del
+
+contrato. Lo mismo, en torno a alguna prohibición de ingreso que se hubiera
+
+impuesto, todo lo cual fuerza a tener por establecido que se cumplen en la especie
+
+los presupuestos para acceder a la declaración de resolución del contrato de
+
+marras solicitada por la actora.
+
+VIGÉSIMO SEXTO: Que, en cuanto a los perjuicios demandados, la
+
+demandante formuló la reserva de su derecho para discutir la especie y monto de
+
+los mismos en la etapa de cumplimiento de la sentencia, conforme a lo que
+
+dispone el artículo 173 del Código de Procedimiento Civil, norma que dice relación
+
+con la posibilidad de dejar para instancias posteriores la determinación de la
+
+especie y monto a que deberá ascender la indemnización de los perjuicios a ser
+
+pagados por una de las partes. No habiéndose discutido en esta instancia tales
+
+presupuestos, se accederá a la reserva pedida.
+
+IV.- EN CUANTO A LA ACCIÓN RECONVENCIONAL
+
+VIGÉSIMO SÉPTIMO: Que, en el primer otrosí de la contestación de folio 7,
+
+el demandado don FRANCISCO LEONARDO LARA DURÁN entabla acción
+
+reconvencional de cumplimiento forzado del contrato de construcción de suma
+
+alzada y de indemnización de perjuicios, en contra de doña MARCELA
+
+ALEJANDRA MUÑOZ BOUTHORS, todos ya individualizados, solicitando, por los
+
+fundamentos de hecho y derecho ya expuestos, que se dan por reproducidos, se
+
+acoja dicha demanda reconvencional, declarando: 1.- A cumplir íntegramente el
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+contrato convenido y sus modificaciones, permitiendo a su parte terminar con la
+
+ejecución y construcción del inmueble objeto del contrato y una vez terminada la
+
+construcción, la demandada reconvencional le pague el 20% del saldo de precio
+
+restante; 2.- Que, la demandada reconvencional sea condenada a pagar por los
+
+perjuicios que le ha ocasionado por su incumplimiento, reservándose el derecho a
+
+discutir la especie y monto de dicha indemnización para la etapa de cumplimiento
+
+de la sentencia que de dicte en este juicio o en un juicio diverso; 3.- Que la
+
+demandada reconvencional sea condenada a pagar las costas de este juicio.
+
+VIGÉSIMO OCTAVO: Que, la demandada reconvencional, solicitó su
+
+rechazo, con costas, de acuerdo a los antecedentes ya referidos en lo expositivo
+
+de la presente sentencia, los que, en aras de la economía procesal, se dan por
+
+íntegramente reproducidos.
+
+VIGÉSIMO NOVENO: Que, en cuanto a la prueba rendida por las partes
+
+para acreditar sus acciones y defensas, por economía procesal se estará a los
+
+reseñados en los considerandos décimo quinto y décimo sexto de esta sentencia,
+
+evitando así incurrir en reiteraciones.
+
+TRIGÉSIMO: Que, en consideración a los fundamentos de la acción
+
+reconvencional y teniendo presente lo ya tenido por acreditado respecto de la
+
+acción principal, en cuanto a que el demandado principal y actor reconvencional
+
+incumplió su obligación contractual, conforme fuera asentado, necesariamente ha
+
+de concluirse que la acción reconvencional deberá ser desestimada, conforme a lo
+
+dispuesto en el artículo 1552 del Código Civil, más aun, teniendo presente que,
+
+conforme al mérito del informe pericial rendido y lo declarado por los testigos de la
+
+demandante principal, consta que la obra encomendada al actor reconvencional,
+
+en la actualidad, se encuentra terminada.
+
+TRIGÉSIMO PRIMERO: Que, la demás prueba rendida y no
+
+pormenorizada, no altera lo resuelto precedentemente.
+
+TRIGÉSI MO SEGUNDO : Que, considerando que el demandado principal y
+
+actor reconvencional ha litigado con motivos plausibles, se le eximirá de las costas
+
+de la causa.
+
+Por estas consideraciones, y vistos, además, lo dispuesto por los artículos
+
+144, 170, 254, 341 y siguientes del Código de Procedimiento Civil y los artículos
+
+1437, 1545, 1546, 1551, 1552, 1554, 1557, 1559, 1698, 1702, y siguientes del
+
+Código Civil; se resuelve:
+
+I.- Que, se rechaza, sin costas, la tacha opuesta por el demandado
+
+principal a folio 55, en contra de la testigo Gladys Cecilia Avendaño Torres.
+
+II.- Que se acoge, sin costas, la tacha opuesta por el demandado principal
+
+a folio 55, en contra del testigo Pablo Antonio Jara Bolívar.
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+III.- Que se rechazan, sin costas, las tachas opuestas por el demandante
+
+principal a folio 56, en contra de los testigos Ángelo Erasmo Toledo Salazar y
+
+Rodrigo Eduardo Guzmán Ortega.
+
+IV.- Que, se ACOGE la demanda principal interpuesta a folio 1, por el
+
+abogado don Paul Chazal Garrido, en representación de doña MARCELA
+
+ALEJANDRA MUÑOZ BOUTHORS, en contra de don FRANCISCO LEONARDO
+
+LARA DURÁN, todos ya individualizados, solo en cuanto se declara resuelto el
+
+contrato de construcción de suma alzada celebrado entre las partes con fecha 15
+
+de diciembre de 2021.
+
+V.- Téngase por formulada reserva del derecho de discutir la especie y
+
+monto de los perjuicios provocados por el incumplimiento contractual del
+
+demandado a la actora, en la etapa de ejecución del fallo o en otro juicio diverso,
+
+de conformidad con lo dispuesto en el artículo 173 inciso 2º del Código de
+
+Procedimiento Civil.
+
+VI.- Que, se RECHAZA la demanda reconvencional de cumplimiento del
+
+contrato de construcción de suma alzada y de indemnización de perjuicios, de folio
+
+7, deducida por don FRANCISCO LEONARDO LARA DURÁN en contra de doña
+
+MARCELA ALEJANDRA MUÑOZ BOUTHORS, todos ya individualizados.
+
+VII.- Que, se exime del pago de las costas al demandado principal y actor
+
+reconvencional.
+
+Anótese, regístrese y notifíquese.
+
+Rol C-3160-2022.-
+
+En cumplimiento a lo dispuesto en el artículo 162 del Código de
+
+Procedimiento Civil, se incluyó en el estado diario la sentencia anterior. Chillán, a
+
+uno de junio de dos mil veinticuatro.
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+Código: XXCXXNBSBLX
+
+Este documento tiene firma electrónica
+y su original puede ser validado en
+http://verificadoc.pjud.cl
+
+2024-06-01T19:49:43-0400

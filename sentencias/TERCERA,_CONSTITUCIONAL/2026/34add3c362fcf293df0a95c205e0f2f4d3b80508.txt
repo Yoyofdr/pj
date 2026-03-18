@@ -4,15 +4,15 @@ case_id: 34add3c362fcf293df0a95c205e0f2f4d3b80508
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046554
 
-rol: 54441-2025
+rol: 54131-2025
 
 fecha_sentencia: 2026-03-03
 
-caratulado: PONCE FUENTES TAMMY / ILUSTRE MUNICIPALIDAD DE QUILPUÉ
+caratulado: CORVALÁN FIGUEROA FILIPPO/SANHUEZA BRAVO RODRIGO ALEJANDRO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Función pública
+materias: ▪ Dirección General de Aguas
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
