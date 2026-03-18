@@ -4,19 +4,19 @@ case_id: f45fb9e75ef5ecf7bbd5f0b5d208a70a305d9617
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8064107
 
-rol: 11027-2026
+rol: 9323-2026
 
 fecha_sentencia: 2026-03-16
 
-caratulado: LEÓN FARFÁN, ANDRÉS ALEJANDRO CONTRA ICA VALPARAISO
+caratulado: FIERRO POVES FERNANDA CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Recurso de Amparo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

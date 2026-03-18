@@ -12,9 +12,9 @@ caratulado: EDWIN CONDORI CCACHURA CONTRA SERVICIO NACIONAL DE MIGRACIONES DE CH
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
@@ -22,10 +22,9 @@ TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
 Santiago, dieciséis de marzo de dos mil veintiséis.
 Vistos:
-Se confirma la sentencia apelada de diecinueve de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Valparaíso, en el Ingreso Corte N°Amparo-419-2026.
-Acordada con el voto en contra del Ministro Sr. Zepeda, quien estuvo por revocar la sentencia en alzada y, en su lugar, acoger la acción de amparo interpuesta, atendido el arraigo familiar debidamente acreditado por parte del amparado, resultando desproporcionada la decisión que se impugna y, por ende, ilegal.
+Se confirma la sentencia apelada de diecisiete de febrero de dos mil veintiséis, dictada por la Corte de Apelaciones de Arica, en el Ingreso Corte N°Amparo-32-2026.
 Regístrese y devuélvase.
-Rol N°9313-2026.
+Rol N°9301-2026.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------

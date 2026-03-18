@@ -1,22 +1,22 @@
 METADATA
 
-case_id: c3ba8c34e83b79ef6c25b6a1aa974d8b44663423
+case_id: 0e7a57f4256ec51d54e733885e59858141b18845
 
-url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8063406
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8063302
 
-rol: 11899-2026
+rol: 11044-2026
 
 fecha_sentencia: 2026-03-16
 
-caratulado: FRANTZDY JACQUES CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: G4S SECURITY SERVICE REGIONALES S.A./SOCIEDAD COMERCIAL E INDUSTRIAL AGROMAR LIMITADA
 
-sala: SEGUNDA, PENAL
+sala: PRIMERA, CIVIL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: ▪ Admisibilidad del recurso de casación en el fondo
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: RECHAZA CASACION EN EL FONDO
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
