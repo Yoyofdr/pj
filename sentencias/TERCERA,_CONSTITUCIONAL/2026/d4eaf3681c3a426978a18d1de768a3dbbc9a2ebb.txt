@@ -4,19 +4,19 @@ case_id: d4eaf3681c3a426978a18d1de768a3dbbc9a2ebb
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046881
 
-rol: 54191-2025
+rol: 218-2026
 
 fecha_sentencia: 2026-03-03
 
-caratulado: PÉREZ CORDOVA JORGE MARCOS/SINDICATO DE ASERRADEROS LONCOCHE
+caratulado: TORRES/FONDO NACIONAL DE SALUD (ACUM. I.C. N°2384-2023)
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Protecciones en contra de particulares
+materias: (CRIMEN) APELACIÓN AMPARO
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: INADMISIBLE CASACIÓN FORMA RECHAZADA, CASACIÓN FON
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
