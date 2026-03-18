@@ -4,19 +4,19 @@ case_id: ef7a05e0b5a5e3ca83e287b772f88b3310a63da1
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8063373
 
-rol: 10254-2026
+rol: 10277-2026
 
 fecha_sentencia: 2026-03-16
 
-caratulado: MULTISERVICE GEOMIN DEL NORTE S.A/Q.M.T. MAQUINARIAS Y TRANSPORTES LTDA.
+caratulado: MARTÍNEZ PARRA, JORGE MARIANO /IGLESIA METODISTA PENTECOSTAL DE CHILE
 
 sala: PRIMERA, CIVIL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Admisibilidad del recurso de casación en el fondo
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: RECHAZA CASACION EN EL FONDO
+resultado_recurso: INADMISIBLE CASACIÓN FORMA RECHAZADA, CASACIÓN FON
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
