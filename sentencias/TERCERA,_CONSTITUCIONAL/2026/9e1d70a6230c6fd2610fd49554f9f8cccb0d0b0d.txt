@@ -4,19 +4,19 @@ case_id: 9e1d70a6230c6fd2610fd49554f9f8cccb0d0b0d
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8064114
 
-rol: 49525-2025
+rol: 364-2026
 
 fecha_sentencia: 2026-03-16
 
-caratulado: CONTRERAS/CAJA DE COMPENSACION DE ASIGNACION FAMILIAR LA ARAUCANA
+caratulado: SÁEZ, GABILY Y OTROS CONTRA JUZGADO DE LETRAS DE NUEVA IMPERIAL
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

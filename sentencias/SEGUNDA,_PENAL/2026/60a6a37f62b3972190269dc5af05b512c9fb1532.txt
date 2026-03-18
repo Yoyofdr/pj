@@ -4,19 +4,19 @@ case_id: 60a6a37f62b3972190269dc5af05b512c9fb1532
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8063978
 
-rol: 9247-2026
+rol: 9309-2026
 
 fecha_sentencia: 2026-03-16
 
-caratulado: ORTEGA ROJAS PERLA GABRIELA CONTRA SERVICIO NACIONAL DE MIGRACIONES DE CHILE
+caratulado: PEÑAFIEL QUINTERO JOSE ALBERTO CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
