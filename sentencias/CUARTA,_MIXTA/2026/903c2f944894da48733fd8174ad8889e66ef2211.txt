@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047254
 
 rol: 5464-2026
 
-fecha_sentencia: 2026-03-03
+fecha_sentencia: 2026-03-02
 
 caratulado: LEÓN/ARTL CHILE AUDITORES LIMITADA
 
@@ -14,7 +14,7 @@ sala: CUARTA, MIXTA
 
 materias: ▪ Recurso de unificación de jurisprudencia
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) CASACIÓN FORMA Y FONDO
 
 resultado_recurso: INADMISIBLE,UNIFICACIÓN DE JURISPRUDENCIA
 

@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) RECLAMACIÓN T. LIBRE COMPETENCIA
+recurso: (CIVIL) CASACIÓN FORMA Y FONDO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
