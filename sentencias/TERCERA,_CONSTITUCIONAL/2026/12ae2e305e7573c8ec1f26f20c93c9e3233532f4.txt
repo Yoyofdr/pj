@@ -4,11 +4,11 @@ case_id: 12ae2e305e7573c8ec1f26f20c93c9e3233532f4
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049154
 
-rol: 3372-2026
+rol: 3724-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: ROA/ELIZALDE
+caratulado: ISAPRE COLMENA GOLDEN CROSS S.A. Y OTRO/GONZALO ALEJANDRO CORTEZ LILLO
 
 sala: TERCERA, CONSTITUCIONAL
 

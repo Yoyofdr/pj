@@ -4,11 +4,11 @@ case_id: b57661878c673336cbd468c06a4a099d324e7d4e
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049162
 
-rol: 2429-2026
+rol: 3372-2026
 
 fecha_sentencia: 2026-03-04
 
-caratulado: PINTO/SERVICIO NACIONAL DE MIGRACIONES
+caratulado: ROA/ELIZALDE
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: DESISTIDO RECURSO DE
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
