@@ -4,19 +4,19 @@ case_id: 5054c7e96a05ec157fffd9e4efcd6ef796721e7b
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8061575
 
-rol: 9133-2026
+rol: 13028-2026
 
-fecha_sentencia: 2026-03-12
+fecha_sentencia: 2026-03-13
 
-caratulado: SANABRIA MAURO EZEQUIEL CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: MARIN MARQUEZ MAILESKA CHIQUINQUIRA CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

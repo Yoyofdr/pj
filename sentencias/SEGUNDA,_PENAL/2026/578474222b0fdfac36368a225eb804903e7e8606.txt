@@ -4,17 +4,17 @@ case_id: 578474222b0fdfac36368a225eb804903e7e8606
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8061564
 
-rol: 9210-2026
+rol: 9163-2026
 
 fecha_sentencia: 2026-03-13
 
-caratulado: RIASCOS RIASCOS JHON JAIRO CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: GONZALEZ MARQUEZ MARGENES DEL CARMEN CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (PENAL) NULIDAD
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
@@ -24,22 +24,22 @@ Corte Apelaciones ▼
 Santiago, trece de marzo de dos mil veintiséis.
 
 Vistos:
-Se reproduce la sentencia en alzada, con excepción de sus fundamentos cuarto y quinto, que se eliminan.
+Se reproduce la sentencia en alzada, con excepción de sus fundamentos cuarto a décimo, que se eliminan.
 
 Y se tiene en su lugar y, además, presente:
 1°) Que el artículo 7 de la Ley N° 21.325 dispone que “El Estado promoverá que los extranjeros cuenten con las autorizaciones y permisos de residencia o permanencia necesarios para su estadía en el país, y para el desarrollo de sus actividades y el ejercicio de sus derechos, de conformidad con la Constitución Política de la República, la ley y los tratados internacionales ratificados por Chile que se encuentren vigentes.”
-2°) Que se incumple por la Administración dicha obligación de protección y respeto del derecho a un procedimiento racional y justo, así como de promoción de la obtención de las autorizaciones y permisos de residencia o permanencia, al rechazar la solicitud de residencia definitiva y posterior orden de abandono, mediante Resolución Exenta N°25367482 de fecha 3 de julio de 2025. Lo anterior, fundado en que la amparada no acompañó comprobante de pago de multa por residencia irregular y certificado de antecedentes penales debidamente legalizado y/o apostillado.
+2°) Que se incumple por la Administración dicha obligación de protección y respeto del derecho a un procedimiento racional y justo, así como de promoción de la obtención de las autorizaciones y permisos de residencia o permanencia, al rechazar la solicitud de residencia definitiva y posterior orden de abandono, mediante Resolución Exenta Nº2600100026873, de 15 de enero de 2026. Lo anterior, fundado en que el amparado no acompañó comprobante que acredite el pago de la multa por residencia irregular.
 
-Desde esa perspectiva, no es posible pasar por alto las graves consecuencias que conlleva para la amparada la decisión impuesta por la administración, teniendo especialmente en consideración que aquélla reside en el Chile hace más de veinte años, mantiene arraigo laboral en el país, a lo que se suma que la administración no ha dado cuenta de anotaciones penales en nuestro país.
+Desde esa perspectiva, no es posible pasar por alto las graves consecuencias que conlleva para el amparado la decisión impuesta por la administración, teniendo especialmente en consideración que reside en el país hace más de seis años, mantiene arraigo familiar y laboral en el país, a lo que se suma que la administración no ha dado cuenta de anotaciones penales en Chile.
 
-3°) Que por todo lo anterior, la actuación impugnada resulta, en definitiva,
-ilegal por desproporcionada a la luz de los antecedentes acreditados en esta sede, todos los cuales deben ser reevaluados por la autoridad migratoria para determinar la idoneidad de la medida, motivos todos que llevarán a acoger la acción constitucional deducida, con el propósito de adoptar las medidas necesarias para restablecer el imperio del derecho.
+3°) Que por todo lo anterior, la actuación impugnada resulta, en definitiva, ilegal por desproporcionada a la luz de los antecedentes acreditados en esta sede, todos los cuales deben ser reevaluados por la autoridad migratoria para
+determinar la idoneidad de la medida, motivos todos que llevarán a acoger la acción constitucional deducida, con el propósito de adoptar las medidas necesarias para restablecer el imperio del derecho.
 
-Y visto, además, lo dispuesto en el artículo 21 de la Constitución Política de la República, se revoca la sentencia apelada de 16 de febrero de 2026, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N°414-2026, y en su lugar se declara que se acoge el recurso de amparo interpuesto a favor de la ciudadana Yudi Emicela Castillo González, por lo que se deja sin efecto la Resolución Exenta N°25367482 de fecha 3 de julio de 2025, debiendo la autoridad recurrida reabrir el procedimiento administrativo pertinente, otorgando a la amparada, un nuevo plazo, cuando menos, de ciento veinte (120) días para los efectos de allegar el comprobante de pago de multa por residencia irregular y el certificado de antecedentes penales legalizado y/o apostillado. Todo lo anterior es sin perjuicio de considerar positivamente parte de la documentación aportada en sede judicial.
+Y visto, además, lo dispuesto en el artículo 21 de la Constitución Política de la República, se revoca la sentencia apelada de 18 de febrero de 2026, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N°441-2025, y en su lugar se declara que se acoge el recurso de amparo interpuesto a favor del ciudadano Márgenes del Carmen González Márquez, por lo que se deja sin efecto la Resolución Exenta Nº2600100026873, de 15 de enero de 2026, debiendo la autoridad recurrida reabrir el procedimiento administrativo pertinente, otorgando al amparado, un nuevo plazo, cuando menos, de sesenta (60) días para los efectos de allegar el comprobante que acredite el pago por residencia irregular.
 
 Regístrese y devuélvase.
 
-Rol N°9140-2026.
+Rol N°9163-2025.
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
@@ -47,21 +47,20 @@ Corte Apelaciones ▼
 dvs
 
 C.A. de Santiago
-Santiago, veintiocho de enero de dos mil veintiséis.
+Santiago, veintinueve de enero de dos mil veintiséis.
 
-Al folio N°1, a todo, estese a lo que se resolverá.
+Al folio N°1: a lo principal y segundo otrosí, estese a lo que se resolverá; al primer otrosí, a sus antecedentes; al tercer otrosí, téngase presente; al cuarto otrosí, ténganse presente los datos de contacto aportados para los fines pertinentes. Sin perjuicio de ello, estese al mérito de las notificaciones por estado diario aplicables a esta clase de asuntos.
 Vistos y teniendo presente:
 
 1°) Que, según se colige de lo establecido en los artículos 21 de la Carta Fundamental y 7.6 de la Convención Americana de Derechos Humanos, la acción constitucional de amparo tiene como finalidad esencial controlar la “legalidad” de eventuales afectaciones o amenazas a la libertad personal y seguridad individual, en términos de verificar que, de mediar, se ajusten a la Constitución y a las leyes;
 
-2°) Que, los antecedentes expuestos en el recurso no dan cuenta de hechos que, según el artículo 21 de la Constitución Política de la República, correspondan a aquellos susceptibles de la cautela impetrada por esta vía, al no vulnerar o amenazar la libertad personal y la seguridad individual, entendida esta última como la garantía de que la libertad personal no pueda ser afectada sino en los casos previstos por la ley, máxime si, de lo expuesto, se advierte que el ordenamiento jurídico concede y reconoce a la recurrente el remedio idóneo para poner término a la situación descrita en el libelo, ejerciendo su derecho de defensa a través de la vía del recurso de protección.
+2°) Que, los antecedentes expuestos en el recurso no dan cuenta de hechos que, según el artículo 21 de la Constitución Política de la República, correspondan a aquellos susceptibles de la cautela impetrada por esta vía, al no vulnerar o amenazar la libertad personal y la seguridad individual, entendida esta última como la garantía de que la libertad personal no pueda ser afectada sino en los casos previstos por la ley, máxime si, de lo expuesto, se advierte que el ordenamiento jurídico concede y reconoce al recurrente el remedio idóneo para poner término a la situación descrita en el libelo, ejerciendo su derecho de defensa a través de la vía del recurso de protección.
 
 Por estas consideraciones, y lo dispuesto por el artículo 21 de la Constitución Política de la República, se declara inadmisible el recurso deducido en estos autos.
 
 Archívese en su oportunidad.
-
-N°Amparo-414-2026.
+N°Amparo-441-2026.
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------
-dvsC.A. de SantiagoSantiago, veintiocho de enero de dos mil veintiséis.Al folio N°1, a todo, estese a lo que se resolverá.Vistos y teniendo presente: 1°) Que, según se colige de lo establecido en los artículos 21 de la Carta Fundamental y 7.6 de la Convención Americana de Derechos Humanos, la acción constitucional de amparo tiene como finalidad esencial controlar la “legalidad” de eventuales afectaciones o amenazas a la libertad personal y seguridad individual, en términos de verificar que, de mediar, se ajusten a la Constitución y a las leyes;2°) Que, los antecedentes expuestos en el recurso no dan cuenta de hechos que, según el artículo 21 de la Constitución Política de la República, correspondan a aquellos susceptibles de la cautela impetrada por esta vía, al no vulnerar o amenazar la libertad personal y la seguridad individual, entendida esta última como la garantía de que la libertad personal no pueda ser afectada sino en los casos previstos por la ley, máxime si, de lo expuesto, se advierte que el ordenamiento jurídico concede y reconoce a la recurrente el remedio idóneo para poner término a la situación descrita en el libelo, ejerciendo su derecho de defensa a través de la vía del recurso de protección.Por estas consideraciones, y lo dispuesto por el artículo 21 de la Constitución Política de la República, se declara inadmisible el recurso deducido en estos autos.Archívese en su oportunidad.N°Amparo-414-2026.                        ⚠                      Sin documento en esta instancia - pdf
+dvsC.A. de SantiagoSantiago, veintinueve de enero de dos mil veintiséis.Al folio N°1: a lo principal y segundo otrosí, estese a lo que se resolverá; al primer otrosí, a sus antecedentes; al tercer otrosí, téngase presente; al cuarto otrosí, ténganse presente los datos de contacto aportados para los fines pertinentes. Sin perjuicio de ello, estese al mérito de las notificaciones por estado diario aplicables a esta clase de asuntos.  Vistos y teniendo presente: 1°) Que, según se colige de lo establecido en los artículos 21 de la Carta Fundamental y 7.6 de la Convención Americana de Derechos Humanos, la acción constitucional de amparo tiene como finalidad esencial controlar la “legalidad” de eventuales afectaciones o amenazas a la libertad personal y seguridad individual, en términos de verificar que, de mediar, se ajusten a la Constitución y a las leyes;2°) Que, los antecedentes expuestos en el recurso no dan cuenta de hechos que, según el artículo 21 de la Constitución Política de la República, correspondan a aquellos susceptibles de la cautela impetrada por esta vía, al no vulnerar o amenazar la libertad personal y la seguridad individual, entendida esta última como la garantía de que la libertad personal no pueda ser afectada sino en los casos previstos por la ley, máxime si, de lo expuesto, se advierte que el ordenamiento jurídico concede y reconoce al recurrente el remedio idóneo para poner término a la situación descrita en el libelo, ejerciendo su derecho de defensa a través de la vía del recurso de protección.Por estas consideraciones, y lo dispuesto por el artículo 21 de la Constitución Política de la República, se declara inadmisible el recurso deducido en estos autos.Archívese en su oportunidad. N°Amparo-441-2026.                        ⚠                      Sin documento en esta instancia - pdf

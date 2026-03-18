@@ -4,19 +4,19 @@ case_id: 84db382294ce1f8e9ae20218195dbb67828d895a
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8063387
 
-rol: 10827-2026
+rol: 20812-2025
 
 fecha_sentencia: 2026-03-16
 
-caratulado: BANCO DE CHILE/MORA
+caratulado: POZO BRAVO CARLOS CON POZO BRAVO MARIA (O)
 
 sala: PRIMERA, CIVIL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Abandono del procedimiento
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: RECHAZA CASACION EN EL FONDO
+resultado_recurso: ACOGIDA CASACIÓN FONDO, ANULADA SENTENCIA DE (M)
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
