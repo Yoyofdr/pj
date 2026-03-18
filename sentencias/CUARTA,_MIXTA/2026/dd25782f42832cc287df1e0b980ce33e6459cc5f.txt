@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049150
 
 rol: 5003-2026
 
-fecha_sentencia: 2026-03-03
+fecha_sentencia: 2026-03-04
 
 caratulado: SINDICATO DE SUPERVISORES MINERA MERIDIAN ¿ EL PEÑÓN/MINERA MERIDIAN LTDA
 
@@ -14,7 +14,7 @@ sala: CUARTA, MIXTA
 
 materias: ▪ Recurso de unificación de jurisprudencia
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: INADMISIBLE,UNIFICACIÓN DE JURISPRUDENCIA
 

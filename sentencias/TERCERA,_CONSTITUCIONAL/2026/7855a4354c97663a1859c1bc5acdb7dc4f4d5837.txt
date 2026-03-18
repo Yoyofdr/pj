@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049262
 
 rol: 3228-2026
 
-fecha_sentencia: 2026-03-03
+fecha_sentencia: 2026-03-04
 
 caratulado: GONZALEZ/SERVICIO NACIONAL DE MIGRACIONES
 
