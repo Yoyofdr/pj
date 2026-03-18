@@ -4,19 +4,19 @@ case_id: 7447703cc7bf1c2a2ce497fc1b0ad23247cebd78
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047152
 
-rol: 54601-2025
+rol: 54191-2025
 
-fecha_sentencia: 2026-03-03
+fecha_sentencia: 2026-03-02
 
-caratulado: PATIÑO SALDAÑA FELIPE RIGOBERTO CONTRA LIGA DEPORTIVA MAGISTERIAL DE FUTBOL DE IQUIQUE
+caratulado: PÉREZ CORDOVA JORGE MARCOS/SINDICATO DE ASERRADEROS LONCOCHE
 
 sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Protecciones en contra de particulares
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) CASACIÓN FORMA Y FONDO
 
-resultado_recurso: CONFIRMA SENTENCIA EN LO APELADO
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
