@@ -4,19 +4,19 @@ case_id: 64ccb81f2d611fb204b9f2a040c5f5fd939bcdb7
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046840
 
-rol: 52388-2025
+rol: 2194-2026
 
 fecha_sentencia: 2026-03-03
 
-caratulado: FISCO DE CHILE/CHILQUINTA ENERGÍA S.A. (ACUMULADA 2397-2024-D)
+caratulado: DIAZ/SERVICIO NACIONAL DE. MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Admisibilidad del recurso de casación en el fondo
+materias: (CRIMEN) APELACIÓN AMPARO
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: INADMISIBLE CASACIÓN FORMA RECHAZADA, CASACIÓN FON
+resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

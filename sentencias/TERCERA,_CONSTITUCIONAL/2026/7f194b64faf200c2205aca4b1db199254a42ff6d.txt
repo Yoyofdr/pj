@@ -4,11 +4,11 @@ case_id: 7f194b64faf200c2205aca4b1db199254a42ff6d
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047883
 
-rol: 34769-2025
+rol: 40431-2025
 
 fecha_sentencia: 2026-03-04
 
-caratulado: LEON/SERVICIO NACIONAL DE MIGRACIONES
+caratulado: KERCY PREVIL/SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
@@ -16,7 +16,7 @@ materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

@@ -4,17 +4,17 @@ case_id: 60cfb9eacc5eaa747c1f2e6dfda8e57904646cb6
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8049288
 
-rol: 6745-2026
+rol: 1597-2026
 
-fecha_sentencia: 2026-03-04
+fecha_sentencia: 2026-03-03
 
-caratulado: JARA/SUPERINTENDENCIA DE SALUD
+caratulado: MARQUEZ/SERVICIO NACIONAL DE MIGRACIONES
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) APELACIÓN PROTECCIÓN
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
