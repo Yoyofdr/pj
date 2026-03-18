@@ -12,9 +12,9 @@ caratulado: MARCELO ARTURO ÁLVAREZ DEL CANTO Y OTROS
 
 sala: MINISTRO INSTRUCTOR
 
-materias: (CIVIL) APELACIÓN RECLAMACIÓN
+materias: (CIVIL) CASACIÓN FORMA Y FONDO
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (CIVIL) CASACIÓN FORMA Y FONDO
 
 resultado_recurso: Rechaza extradición- Toledo Avendaño
 

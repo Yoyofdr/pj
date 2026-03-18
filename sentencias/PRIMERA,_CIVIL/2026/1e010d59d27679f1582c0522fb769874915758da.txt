@@ -14,7 +14,7 @@ sala: PRIMERA, CIVIL
 
 materias: ▪ Precario. Comodato precario
 
-recurso: (CIVIL) RECLAMACIÓN T. LIBRE COMPETENCIA
+recurso: (CIVIL) CASACIÓN FORMA Y FONDO
 
 resultado_recurso: RECHAZA FORMA, ACOGIDA CASACIÓN FONDO, ANULADA SENTENCIA DE (M)
 

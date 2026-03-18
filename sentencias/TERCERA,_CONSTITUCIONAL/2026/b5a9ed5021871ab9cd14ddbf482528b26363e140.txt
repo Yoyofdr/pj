@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046393
 
 rol: 2951-2026
 
-fecha_sentencia: 2026-02-26
+fecha_sentencia: 2026-03-02
 
 caratulado: INMOB. CONSTRUCTORA E INVERSIONES EL VALLE LTDA./TESORERÍA REGIONAL DEL BIOBIO
 
@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Tesorería General de la República
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) CASACIÓN FORMA Y FONDO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
