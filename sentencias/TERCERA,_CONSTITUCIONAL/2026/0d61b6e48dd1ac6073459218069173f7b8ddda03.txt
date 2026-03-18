@@ -4,17 +4,17 @@ case_id: 0d61b6e48dd1ac6073459218069173f7b8ddda03
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062579
 
-rol: 57502-2025
+rol: 57809-2025
 
 fecha_sentencia: 2026-03-12
 
-caratulado: LUZLINARES S.A. CONTRA SUPERINTENDENCIA DE ELECTRICIDAD Y COMBUSTIBLES
+caratulado: ANONIMIZADO
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: ▪ Potestad sancionadora
+materias: ▪ Potestad disciplinaria
 
-recurso: (CIVIL) APELACIÓN RECLAMACIÓN
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

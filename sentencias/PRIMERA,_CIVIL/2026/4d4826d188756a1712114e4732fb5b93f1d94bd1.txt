@@ -4,15 +4,15 @@ case_id: 4d4826d188756a1712114e4732fb5b93f1d94bd1
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062734
 
-rol: 59053-2024
+rol: 58616-2024
 
-fecha_sentencia: 2026-03-13
+fecha_sentencia: 2026-03-12
 
-caratulado: MANQUILEF BACHLER ALEJANDRA Y OTRO CON CHANES CARVAJAL JOSE (S)
+caratulado: INMOBILIARIA TORRE CAPITAL S.A. (C)
 
 sala: PRIMERA, CIVIL
 
-materias: ▪ Casación de oficio
+materias: (CRIMEN) APELACIÓN AMPARO
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 

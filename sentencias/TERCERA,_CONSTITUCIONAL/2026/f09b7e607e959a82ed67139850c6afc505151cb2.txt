@@ -4,19 +4,19 @@ case_id: f09b7e607e959a82ed67139850c6afc505151cb2
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062816
 
-rol: 41137-2025
+rol: 40804-2025
 
-fecha_sentencia: 2026-03-13
+fecha_sentencia: 2026-03-12
 
-caratulado: TURISMO COSTA CISNE SPA CON CAPITANIA DE PUERTO DE VALDIVIA
+caratulado: ÁLAMOS/PALACIOS
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CIVIL) CASACIÓN FONDO
+materias: ▪ Admisibilidad del recurso de casación en el fondo
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: RECHAZA CASACION EN EL FONDO
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

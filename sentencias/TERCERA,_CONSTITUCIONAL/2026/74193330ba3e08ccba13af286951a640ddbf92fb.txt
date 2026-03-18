@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062789
 
 rol: 57819-2025
 
-fecha_sentencia: 2026-03-13
+fecha_sentencia: 2026-03-12
 
 caratulado: ZENTENO ROJAS MARCELO ESTEBAN /ILUSTRE MUNICIPALIDAD DE VINA DEL MAR
 
@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Potestad disciplinaria
 
-recurso: (PENAL) NULIDAD
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA
 

@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8062688
 
 rol: 44457-2025
 
-fecha_sentencia: 2026-03-13
+fecha_sentencia: 2026-03-12
 
 caratulado: GARRAMUÑO/CAJA DE COMPENSACIÓN DE ASIGNACIÓN FAMILIAR LOS ANDES
 
@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Caja de compensación de asignación familiar
 
-recurso: (PENAL) NULIDAD
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
