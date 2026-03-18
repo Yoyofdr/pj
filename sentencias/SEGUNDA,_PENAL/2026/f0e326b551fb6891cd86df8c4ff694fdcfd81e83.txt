@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047001
 
 rol: 9201-2026
 
-fecha_sentencia: 2026-03-02
+fecha_sentencia: 2026-03-03
 
 caratulado: PARRA BUTIERREZ FRANCISCO ANDRES CONTRA COMISIÓN DE LIBERTAD CONDICIONAL (CLC)
 
@@ -14,7 +14,7 @@ sala: SEGUNDA, PENAL
 
 materias: ▪ Recurso de Amparo
 
-recurso: (CIVIL) RECLAMACIÓN T. LIBRE COMPETENCIA
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 

@@ -6,7 +6,7 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8047217
 
 rol: 54138-2025
 
-fecha_sentencia: 2026-03-02
+fecha_sentencia: 2026-03-03
 
 caratulado: VALERIA ALEJANDRA ARÉVALO MUÑOZ Y OTROS C/ CORPORACIÓN CULTURAL BALLET FOLKLORICO VALDIVIA
 
@@ -14,7 +14,7 @@ sala: TERCERA, CONSTITUCIONAL
 
 materias: ▪ Derecho a la honra, a la imagen y a la vida privada, libertad de expresión
 
-recurso: (CIVIL) RECLAMACIÓN T. LIBRE COMPETENCIA
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
