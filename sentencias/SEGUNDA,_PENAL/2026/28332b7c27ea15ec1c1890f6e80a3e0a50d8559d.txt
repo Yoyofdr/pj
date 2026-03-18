@@ -4,30 +4,55 @@ case_id: 28332b7c27ea15ec1c1890f6e80a3e0a50d8559d
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8064492
 
-rol: 12098-2026
+rol: 11027-2026
 
 fecha_sentencia: 2026-03-16
 
-caratulado: VEGA CAMARGO MAICKER ANDRE CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: LEÓN FARFÁN, ANDRÉS ALEJANDRO CONTRA ICA VALPARAISO
 
 sala: SEGUNDA, PENAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Recurso de Amparo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
-Santiago, dieciséis de marzo del dos mil veintiséis.
+PAGE
+1
+Santiago, dieciséis de marzo de dos mil veintiséis.
+Al escrito folio N° 12: estese a lo que se resolverá.
+Vistos:
+Se reproduce la sentencia en alzada, con excepción de su motivo cuarto, que se elimina.
 
-Vistos y teniendo únicamente presente:
-Que conforme a los antecedentes señalados en el recurso aparece que la situación allí descrita sí puede constituir uno de los supuestos previstos en el artículo 21 de la Constitución Política de la República, por lo que de su mérito deberá decidirse al conocer el fondo de la acción deducida, se revoca la resolución apelada de cuatro de marzo de dos mil veintiséis, dictada por la Corte de Apelaciones de Santiago, en el Ingreso Corte N° 907 - 2026, por la cual se declaró inadmisible la acción de amparo interpuesta, y en su lugar se dispone que aquélla es admisible, debiendo una sala no inhabilitada de la Corte de Apelaciones antes señalada darle la tramitación que en derecho corresponda, a fin de pronunciarse derechamente sobre el amparo deducido.
+Y se tiene, además, presente:
+Primero: Que compareció doña María José Montero Varela, e interpuso acción constitucional de protección en contra del Instituto de Salud Pública, por el acto que considera ilegal y arbitrario consistente en la dictación de la Resolución Exenta N° 1284 de 26 de junio de 2024, que puso término anticipado a su designación a contrata.
+Segundo: Que, no es controvertido que la actora se desempeñaba como jefa de la Unidad de Comunicaciones e Imagen Institucional del Instituto de Salud Pública, grado 5° EUS, en calidad de contrata desde el 28 de agosto de 2019, vínculo que fue renovado anualmente de forma ininterrumpida y sucesiva.
+Tercero: Que el acto impugnado refiere en su motivo décimo, que las labores de la funcionaria eran de confianza, destacando la relación de cercanía que existía con la Dirección anterior. Justifica luego que esta confianza no se mantiene, pues “a juicio de esta Dirección sus aptitudes personales, esto es, sus competencias y capacidades personales, no son compatibles con el perfil que se requiere para ejercer la jefatura de la Unidad de Comunicaciones e Imagen Institucional”.
+Cuarto: Que, como se dijo, la actora fue designada como profesional a contrata, asimilada al grado 5 E.U.S. para cumplir la función de jefe de la Unidad e Comunicaciones e Imagen Institucional del Instituto de Salud Pública.
+En este contexto, se advierte que, según el organigrama del Instituto de Salud Pública, tal jefatura depende directamente del Director del servicio, por lo que se ubica en el segundo nivel jerárquico, sin que resulte posible asimilarla a una jefatura de planta, que debe designarse previo concurso.
 
+Quinto: Que, asentado lo anterior, es preciso referirse a la calidad de “cargo de confianza” que se atribuye al desempeñado por la recurrente.
+Al respecto, cabe señalar que el artículo 7 del DFL Nº 29 que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.834, sobre Estatuto Administrativo, dispone: “Serán cargos de exclusiva confianza del Presidente de la República o de la autoridad facultada para efectuar su nombramiento:
+a) Los cargos de la planta de la Presidencia de la República;
+b) En los Ministerios, los Secretarios Regionales Ministeriales y los Jefes de División o Jefaturas de niveles jerárquicos equivalentes o superiores a dichas jefaturas, existentes en la estructura ministerial, cualquiera sea su denominación;
+c) En los servicios públicos, los jefes superiores de los servicios, los subdirectores, los directores regionales o jefaturas de niveles jerárquicos equivalentes o superiores a dichas jefaturas, existentes en la estructura del servicio, cualquiera sea su denominación”.
+
+Por su parte, el artículo 49 del D.F.L Nº 1 que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, prescribe en su inciso cuarto que “Se entenderá por funcionarios de exclusiva confianza aquéllos sujetos a la libre designación y remoción del Presidente de la República o de la autoridad facultada para disponer su nombramiento”.
+Sexto: Que, en consecuencia, teniendo en cuenta la naturaleza de las funciones encomendadas a la recurrente, el hecho que estas se incardinan en el segundo nivel jerárquico, lo que implica que se trata de una designación sujeta a la libre remoción y designación del jefe del servicio, los reproches que se plantean en el presente arbitrio no pueden prosperar.
+En efecto, según las consideraciones precedentes, y aquellas que se han dado por reproducidas, el acto impugnado cuenta con la motivación que le resulta exigible, teniendo en especial consideración la naturaleza de las funciones encomendadas, ya examinada, y la facultad de la autoridad para poner término anticipado a la designación.
+
+Séptimo: Que, entonces, por no concurrir un acto ilegal o arbitrario como plantea el recurrente, presupuesto de procedencia de la acción intentada, debe ser necesariamente rechazada, de modo que la sentencia que se revisa será confirmada, como se expresa en lo resolutivo.
+
+Por estas consideraciones, y de conformidad, además, con lo prevenido en el artículo 20 de la Constitución Política de la República y Auto Acordado de esta Corte sobre la materia, se confirma la sentencia apelada de seis diciembre del año dos mil veinticuatro, dictada por la Corte de Apelaciones de Santiago.
+Redacción a cargo del Abogado Integrante Sr. Fuentes.
 Regístrese y devuélvase.
 
-Rol N° 12098 - 2026
+Rol N° 465-2025.
+Pronunciada por la Tercera Sala de esta Corte Suprema integrada por los Ministros (as) Sra. Adelita Ravanales A., Sr. Jean Pierre Matus A. y Sr. Diego Simpértigue L. y por los Abogados Integrantes Sr. Raúl Fuentes M. y Sra. Andrea Ruiz R. No firman, no obstante haber concurrido a la vista y al acuerdo de la causa, los Ministros Sr. Matus por estar con permiso y Sr. Simpértigue por haber cesado en funciones.
+PAGE
 
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------

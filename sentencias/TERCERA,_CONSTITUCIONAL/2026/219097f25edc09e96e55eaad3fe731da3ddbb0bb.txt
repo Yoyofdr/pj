@@ -12,9 +12,9 @@ caratulado: MUÑOZ/FISCO DE CHILE(COMISION MEDICA CENTRAL CARABINEROS) - (LTE) -
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Admisibilidad del recurso de casación en el fondo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
 resultado_recurso: RECHAZA CASACION EN EL FONDO
 
