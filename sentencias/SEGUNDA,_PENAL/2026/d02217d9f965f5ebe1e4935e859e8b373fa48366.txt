@@ -6,15 +6,15 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046973
 
 rol: 6686-2026
 
-fecha_sentencia: 2026-03-03
+fecha_sentencia: 2026-03-02
 
-caratulado: BERMUELA LORRE CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: MARES RUSSO MARIELBIS CAROLINA CONTRA SERVICIO NACIONAL DE MIGRACIONES-POLICÍA DE INVESTIGACIONES DE CHILE
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: (CIVIL) CASACIÓN FORMA Y FONDO
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) CASACIÓN FORMA Y FONDO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
