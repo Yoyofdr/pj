@@ -4,22 +4,23 @@ case_id: 14ee20b835f36dc26683da9959162a6aecab5a92
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8064149
 
-rol: 11907-2026
+rol: 9311-2026
 
 fecha_sentencia: 2026-03-16
 
-caratulado: ENGRACIA IBARRA FRANCISCO ANTONIO CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: MARIE-JOLENE LAMBERT CONTRA SERVICIO NACIONAL DE MIGRACIONES
 
 sala: SEGUNDA, PENAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: (CIVIL) APELACIÓN PROTECCIÓN
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
+Corte Suprema ▼
 Santiago, dieciséis de marzo de dos mil veintiséis.
 
 En cumplimiento a lo ordenado en el fallo precedente y lo dispuesto en el artículo 785 del Código de Procedimiento Civil, se dicta la siguiente sentencia de reemplazo.
@@ -41,20 +42,23 @@ No obstante, haber concurrido a la vista de la causa y al acuerdo, no firma la M
 TEXTO_SENTENCIA_APELACIONES
 --------------------------------------------------------------------------------
 Corte Suprema ▼
-C.A. de Santiago
-Santiago, diez de enero de dos mil veinticinco.
+Santiago, dieciséis de marzo de dos mil veintiséis.
 
-Vistos:
+En cumplimiento a lo ordenado en el fallo precedente y lo dispuesto en el artículo 785 del Código de Procedimiento Civil, se dicta la siguiente sentencia de reemplazo.
 
-Atendido el mérito de los antecedentes, se confirma la resolución apelada de doce de abril de dos mil veinticuatro, dictada por el Noveno Juzgado Civil de Santiago, en causa C-11712-2022.
+VISTO:
+Teniendo únicamente presente los argumentos de las motivaciones Cuarta a Novena de la sentencia de casación que antecede, que se reproducen, y lo dispuesto en los artículos 186 y siguientes del Código de Procedimiento Civil, se revoca, la sentencia de once de abril de dos mil veinticuatro dictada por el Noveno Juzgado Civil de Santiago en la causa rol C-11.712-2022, solo en cuanto rechazó la objeción planteada por doña María Loreto Ried Undurraga en su calidad de Liquidadora y Veedora Concursal respecto de las indemnizaciones por daño moral y lucro cesante y, en su lugar, se decide que se acoge dicha impugnación, por lo que el crédito verificado por Liliana Marisol Ruiz Barra no tiene la preferencia alegada en el primer otrosí de la presentación del folio 153 del cuaderno de administración, sino que tiene naturaleza de valista. Sin costas, por existir motivo plausible para litigar. Se confirma en lo demás no apelado.
 
-Se previene que la Abogada Integrante Catalina Infante Correa  estuvo por confirmar  la resolución con declaración, excluyendo de la preferencia la indemnización por daño moral, al estimar que las hipótesis del artículo  2472 N° 5 del Código Civil, están establecidas para asegurar la subsistencia del trabajador -o de su familia en el caso de los alimentos que se deben por ley-, circunstancia que no concurre en el caso de la indemnización por  daño moral, habida consideración que de acuerdo con el artículo 2488 del texto legal citado solo toca el legislador crear las preferencias, lo que en el caso en examen no ha hecho.
-Comuníquese.
+Acordada con el voto en contra del Ministro (S) señor Zepeda, quien estuvo por confirmar la sentencia apelada en todas sus partes, por los fundamentos expuestos en su disidencia de la decisión de casación que antecede.
 
-N°Civil-6874-2024.
+Regístrese y devuélvase.
 
-Pronunciada por la Novena Sala, integrada por los Ministros señor Antonio Ulloa Márquez, señor José Pablo Rodríguez Moreno y la Abogado Integrante señora Catalina Infante Correa
-En Santiago, diez de enero de dos mil veinticinco, se notificó por el estado diario la resolución que antecede.
+Redacción a cargo de la Ministra señora María Angélica Repetto García y la disidencia, de su autor.
+
+Rol N° 5.060-2025.
+Pronunciado por la Primera Sala de la Corte Suprema integrada por los Ministros señora María Angélica Repetto G., señora María Soledad Melo L., señor Jorge Zepeda A. (S) y los Abogados integrantes señor Álvaro Vidal O. y señor Raúl Patricio Fuentes M.
+
+No obstante, haber concurrido a la vista de la causa y al acuerdo, no firma la Ministra señora Repetto, por estar con permiso.
 
 TEXTO_SENTENCIA_TRIBUNALES
 --------------------------------------------------------------------------------

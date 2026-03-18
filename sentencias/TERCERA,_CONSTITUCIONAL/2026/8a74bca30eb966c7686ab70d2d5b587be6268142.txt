@@ -1,22 +1,22 @@
 METADATA
 
-case_id: 8442f28b107e0977d8f8f640c4e45e9e95bba3aa
+case_id: 8a74bca30eb966c7686ab70d2d5b587be6268142
 
-url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8063349
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8063340
 
-rol: 12103-2026
+rol: 2446-2026
 
 fecha_sentencia: 2026-03-16
 
-caratulado: MINA SAMANIEGO ANDRES ALEXIS CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: CRISTIAN ALBERTO SCHEIHING MUÑOZ/ SERVICIO SALUD DE LOS RÍOS
 
-sala: SEGUNDA, PENAL
+sala: TERCERA, CONSTITUCIONAL
 
 materias: (CIVIL) APELACIÓN PROTECCIÓN
 
 recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

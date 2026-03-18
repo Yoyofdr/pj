@@ -14,9 +14,9 @@ sala: PRIMERA, CIVIL
 
 materias: ▪ Reorganización y Liquidación de Empresas y Personas
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: ACOGIDA CASACIÓN FONDO, ANULADA SENTENCIA DE (M)
+resultado_recurso: SENTENCIA DE REEMPLAZO (M)
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------

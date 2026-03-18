@@ -4,19 +4,19 @@ case_id: 37d2ee1e4929cb5b7384d4f57f8c6d4fd517d3d9
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8063294
 
-rol: 3547-2026
+rol: 2884-2026
 
 fecha_sentencia: 2026-03-16
 
-caratulado: FELIPE ANDRÉS ACEVEDO MONSALVE/DIVISIÓN DE PERSONAL DEL EJERCITO DE CHILE
+caratulado: SOCIEDAD COMERCIAL AGRICOLA Y DE INVERSIONES SAN JOSÉ LIMITADA/SECRETARIA REGIONAL MINISTERIAL. ACUM. 1955-24/CIV.
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Admisibilidad del recurso de casación en el fondo
 
-recurso: (CRIMEN) APELACIÓN AMPARO
+recurso: (CIVIL) APELACIÓN PROTECCIÓN
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: RECHAZA CASACION EN EL FONDO
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
