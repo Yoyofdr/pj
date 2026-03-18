@@ -4,11 +4,11 @@ case_id: 4f4b81583901d35f62a1e3ad7aff17342dcb9dbc
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8046551
 
-rol: 7937-2026
+rol: 7946-2026
 
 fecha_sentencia: 2026-03-03
 
-caratulado: GARRIDO MENESES ALEXANDER MAURICIO CONTRA GENDARMERIA CHILE
+caratulado: MOROSO PEÑA GERMAN JEYSSON CONTRA COMISIÓN DE LIBERTAD CONDICIONAL
 
 sala: SEGUNDA, PENAL
 
@@ -16,7 +16,7 @@ materias: ▪ Recurso de Amparo
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: REVOCADA SENTENCIA APELADA QUE
+resultado_recurso: CONFIRMA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
