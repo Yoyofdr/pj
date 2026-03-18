@@ -14,7 +14,7 @@ sala: CUARTA, MIXTA
 
 materias: ▪ Recurso de unificación de jurisprudencia
 
-recurso: (CIVIL) RECLAMACIÓN T. LIBRE COMPETENCIA
+recurso: (CIVIL) CASACIÓN FORMA Y FONDO
 
 resultado_recurso: INADMISIBLE,UNIFICACIÓN DE JURISPRUDENCIA
 

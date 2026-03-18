@@ -4,17 +4,17 @@ case_id: c402e1a205a9411de6a771bee1a1188eaffd28cb
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8045803
 
-rol: 6230-2026
+rol: 7493-2026
 
 fecha_sentencia: 2026-03-02
 
-caratulado: FRANTZ-CIE FLEURIDORT CONTRA SERVICIO NACIONAL DE MIGRACIONES
+caratulado: PINO VELÁSQUEZ JESÚS IGNACIO CONTRA JUZGADO DE GARANTÍA DE VALDIVIA
 
 sala: SEGUNDA, PENAL
 
-materias: ▪ Recurso de Amparo
+materias: (CIVIL) CASACIÓN FORMA Y FONDO
 
-recurso: (CIVIL) APELACIÓN PROTECCIÓN
+recurso: (CIVIL) CASACIÓN FORMA Y FONDO
 
 resultado_recurso: REVOCADA SENTENCIA APELADA QUE
 
