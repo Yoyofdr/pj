@@ -1,0 +1,71 @@
+METADATA
+
+case_id: 36055efb90f6420b5d457bed03c0a507e71d99b9
+
+url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8064122
+
+rol: 56779-2025
+
+fecha_sentencia: 2026-03-16
+
+caratulado: BANCO INTERNACIONAL/WAITOMO NZ SPA (ACUM.N°6206-2023, N°9858-2023, N°11144-2023, N° 13783-2024 Y N° 14462-2024)
+
+sala: PRIMERA, CIVIL
+
+materias: ▪ Admisibilidad del recurso de casación en el fondo
+
+recurso: (CRIMEN) APELACIÓN AMPARO
+
+resultado_recurso: INADMISIBLE CASACIÓN FORMA RECHAZADA,CASACIÓN F(M)
+
+TEXTO_SENTENCIA_SUPREMA
+--------------------------------------------------------------------------------
+Santiago, dieciséis de marzo de dos mil veintiséis
+Vistos:
+Se confirma la sentencia apelada de fecha dieciséis de enero de dos mil veintiséis, dictada por la Corte de Apelaciones de Concepción.
+Regístrese y devuélvase.
+
+Rol N° 3.547-2026.
+
+TEXTO_SENTENCIA_APELACIONES
+--------------------------------------------------------------------------------
+C.A. de Concepción
+Concepción, dieciséis de enero de dos mil veintiséis.
+
+VISTOS:
+
+En estos autos comparece don FELIPE ANDRÉS ACEVEDO MONSALVE, Sargento Primero del Ejército de Chile, quien interpone acción de protección en contra de la DIVISIÓN DE PERSONAL DEL EJÉRCITO DE CHILE (DIVPER).
+
+El Sr. Acevedo fundamenta su acción en la Resolución N° 1080/66002/11455, de fecha 5 de agosto de 2025, la cual ordena descuentos en sus remuneraciones por un monto superior a $12.000.000, derivado del rechazo de diversas licencias médicas. Expone que padece una hernia del núcleo pulposo desde 2020, condición que ha requerido reposo total y tratamiento paliativo.
+
+Denuncia que la autoridad ha actuado de forma contradictoria y arbitraria, pues mientras la Comisión de Sanidad del Ejército (CSE) rechazó licencias en los periodos entre noviembre de 2023 y septiembre de 2024, otras licencias otorgadas por el mismo diagnóstico y en periodos similares fueron autorizadas. A su juicio, esto constituye una discriminación injustificada y una vulneración a su derecho a la integridad física y psíquica del Art. 19 N° 1, igualdad ante la ley del Art. 19 N° 2 y derecho de propiedad del Art. 19 N° 24. Solicita que se deje sin efecto la resolución y se restituya el patrimonio afectado.
+
+La DIVISIÓN DE PERSONAL y LA COMISIÓN DE SANIDAD DEL EJÉRCITO evacuaron sus informes solicitando el rechazo íntegro del recurso. Sostienen que la CSE es el único organismo técnico con la facultad exclusiva y excluyente para pronunciarse sobre la aptitud psicofísica del personal y la validez de sus reposos, según el artículo 234 del DFL N° 1 de 1997. Informan que el recurrente mantiene un histórico de licencias médicas que acumulan 1.915 días de reposo total hasta julio de 2025, sin haber trabajado efectivamente desde mayo de 2019.
+
+Las instituciones argumentan que el rechazo de las licencias no es arbitrario, sino que se funda en un juicio técnico médico. El reposo fue calificado como "prolongado e injustificado" para el tipo de diagnóstico, considerando que el recurrente no aportó antecedentes clínicos nuevos u objetivos que desvirtuaran la decisión del médico auditor. Además, recalcan que el recurrente ya ejerció su derecho a defensa mediante un recurso de reposición administrativo, el cual fue resuelto y rechazado por la autoridad competente conforme a la ley. Finalmente, señalan que el descuento es una obligación legal ante la inexistencia de contraprestación de servicios no justificada por licencias válidas.
+
+CONSIDERANDO:
+
+PRIMERO: Que la acción de protección tiene por objeto restablecer el imperio del derecho ante actos u omisiones ilegales o arbitrarios que priven, perturben o amenacen el legítimo ejercicio de garantías constitucionales preexistentes e indubitadas.
+
+SEGUNDO: Que, de los antecedentes analizados, se desprende que la recurrida ha ejercido sus derechos y facultades conforme a la ley. El rechazo de las licencias médicas emana de la Comisión de Sanidad del Ejército, órgano que, por mandato del artículo 234 del DFL N° 1 de 1997, detenta la potestad exclusiva para evaluar la salud del personal militar. Dicho acto se encuentra debidamente motivado en informes técnicos que calificaron el reposo como injustificado dado su carácter crónico y la falta de nuevas evidencias médicas aportadas por el funcionario.
+
+TERCERO: Que, respecto a la orden de descuento de haberes, ésta se ajusta al principio de que la remuneración es la contraprestación por servicios efectivamente realizados. Al ser rechazadas las licencias, el periodo de ausencia carece de justificación legal, naciendo para la Administración la obligación de reintegrar dichos montos al patrimonio fiscal.
+
+CUARTO: Que, asimismo, consta que el recurrente también ha ejercido sus derechos dentro del marco institucional, habiendo interpuesto el recurso de reposición administrativo correspondiente contra el dictamen de la CSE. Por tanto, no se observa una indefensión o una actuación caprichosa de la administración, sino un conflicto técnico-médico ya ventilado por la vía administrativa. Que, cabe además señalar que el recurrente dispone de otras vías legales específicas para reclamar. Conforme a la Ley N° 10.336, Orgánica Constitucional de la Contraloría General de la República, específicamente en el artículo 67, al administrado le cabe el derecho de acudir ante dicho órgano superior para solicitar la condonación de deudas o facilidades de pago por remuneraciones percibidas indebidamente. Esta es la vía interna idónea para resolver la controversia patrimonial y no el recurso de protección, el cual no es una instancia de declaración de derechos ni un sustituto de los procedimientos administrativos legales.
+
+QUINTO: Que, en consecuencia, no existiendo un acto ilegal o arbitrario, ni una vulneración a las garantías constitucionales invocadas, la presente acción debe ser desestimada.
+
+POR ESTAS CONSIDERACIONES, y lo dispuesto en el artículo 20 de la Constitución Política de la República y el Auto Acordado sobre la materia, SE RESUELVE que SE RECHAZA, sin costas, el recurso de protección interpuesto por don Felipe Andrés Acevedo Monsalve en contra de la División de Personal del Ejército de Chile.
+
+Regístrese, comuníquese y archívese.
+
+Redactado por la abogada integrante Beatriz Larraín Martínez.
+
+No firma el ministro Rodrigo Cortés Gutiérrez, pese a haber concurrido a la vista y al acuerdo de la causa por encontrarse haciendo uso de feriado.
+
+Rol Protección 3877-2025
+
+TEXTO_SENTENCIA_TRIBUNALES
+--------------------------------------------------------------------------------
+C.A. de ConcepciónConcepción, dieciséis de enero de dos mil veintiséis.VISTOS:En estos autos comparece don FELIPE ANDRÉS ACEVEDO MONSALVE, Sargento Primero del Ejército de Chile, quien interpone acción de protección en contra de la DIVISIÓN DE PERSONAL DEL EJÉRCITO DE CHILE (DIVPER).El Sr. Acevedo fundamenta su acción en la Resolución N° 1080/66002/11455, de fecha 5 de agosto de 2025, la cual ordena descuentos en sus remuneraciones por un monto superior a $12.000.000, derivado del rechazo de diversas licencias médicas. Expone que padece una hernia del núcleo pulposo desde 2020, condición que ha requerido reposo total y tratamiento paliativo.Denuncia que la autoridad ha actuado de forma contradictoria y arbitraria, pues mientras la Comisión de Sanidad del Ejército (CSE) rechazó licencias en los periodos entre noviembre de 2023 y septiembre de 2024, otras licencias otorgadas por el mismo diagnóstico y en periodos similares fueron autorizadas. A su juicio, esto constituye una discriminación injustificada y una vulneración a su derecho a la integridad física y psíquica del Art. 19 N° 1, igualdad ante la ley del Art. 19 N° 2 y derecho de propiedad del Art. 19 N° 24. Solicita que se deje sin efecto la resolución y se restituya el patrimonio afectado.La DIVISIÓN DE PERSONAL y LA COMISIÓN DE SANIDAD DEL EJÉRCITO evacuaron sus informes solicitando el rechazo íntegro del recurso. Sostienen que la CSE es el único organismo técnico con la facultad exclusiva y excluyente para pronunciarse sobre la aptitud psicofísica del personal y la validez de sus reposos, según el artículo 234 del DFL N° 1 de 1997. Informan que el recurrente mantiene un histórico de licencias médicas que acumulan 1.915 días de reposo total hasta julio de 2025, sin haber trabajado efectivamente desde mayo de 2019.Las instituciones argumentan que el rechazo de las licencias no es arbitrario, sino que se funda en un juicio técnico médico. El reposo fue calificado como "prolongado e injustificado" para el tipo de diagnóstico, considerando que el recurrente no aportó antecedentes clínicos nuevos u objetivos que desvirtuaran la decisión del médico auditor. Además, recalcan que el recurrente ya ejerció su derecho a defensa mediante un recurso de reposición administrativo, el cual fue resuelto y rechazado por la autoridad competente conforme a la ley. Finalmente, señalan que el descuento es una obligación legal ante la inexistencia de contraprestación de servicios no justificada por licencias válidas.CONSIDERANDO:PRIMERO:  Que la acción de protección tiene por objeto restablecer el imperio del derecho ante actos u omisiones ilegales o arbitrarios que priven, perturben o amenacen el legítimo ejercicio de garantías constitucionales preexistentes e indubitadas.SEGUNDO:  Que, de los antecedentes analizados, se desprende que la recurrida ha ejercido sus derechos y facultades conforme a la ley. El rechazo de las licencias médicas emana de la Comisión de Sanidad del Ejército, órgano que, por mandato del artículo 234 del DFL N° 1 de 1997, detenta la potestad exclusiva para evaluar la salud del personal militar. Dicho acto se encuentra debidamente motivado en informes técnicos que calificaron el reposo como injustificado dado su carácter crónico y la falta de nuevas evidencias médicas aportadas por el funcionario.TERCERO:  Que, respecto a la orden de descuento de haberes, ésta se ajusta al principio de que la remuneración es la contraprestación por servicios efectivamente realizados. Al ser rechazadas las licencias, el periodo de ausencia carece de justificación legal, naciendo para la Administración la obligación de reintegrar dichos montos al patrimonio fiscal.CUARTO: Que, asimismo, consta que el recurrente también ha ejercido sus derechos dentro del marco institucional, habiendo interpuesto el recurso de reposición administrativo correspondiente contra el dictamen de la CSE. Por tanto, no se observa una indefensión o una actuación caprichosa de la administración, sino un conflicto técnico-médico ya ventilado por la vía administrativa. Que, cabe además señalar que el recurrente dispone de otras vías legales específicas para reclamar. Conforme a la Ley N° 10.336, Orgánica Constitucional de la Contraloría General de la República, específicamente en el artículo 67, al administrado le cabe el derecho de acudir ante dicho órgano superior para solicitar la condonación de deudas o facilidades de pago por remuneraciones percibidas indebidamente. Esta es la vía interna idónea para resolver la controversia patrimonial y no el recurso de protección, el cual no es una instancia de declaración de derechos ni un sustituto de los procedimientos administrativos legales.QUINTO: Que, en consecuencia, no existiendo un acto ilegal o arbitrario, ni una vulneración a las garantías constitucionales invocadas, la presente acción debe ser desestimada.POR ESTAS CONSIDERACIONES, y lo dispuesto en el artículo 20 de la Constitución Política de la República y el Auto Acordado sobre la materia, SE RESUELVE que SE RECHAZA, sin costas, el recurso de protección interpuesto por don Felipe Andrés Acevedo Monsalve en contra de la División de Personal del Ejército de Chile.Regístrese, comuníquese y archívese.Redactado por la abogada integrante Beatriz Larraín Martínez.No firma el ministro Rodrigo Cortés Gutiérrez, pese a haber concurrido a la vista y al acuerdo de la causa por encontrarse haciendo uso de feriado.Rol Protección 3877-2025

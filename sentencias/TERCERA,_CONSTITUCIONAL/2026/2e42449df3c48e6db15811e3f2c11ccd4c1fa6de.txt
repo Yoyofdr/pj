@@ -4,19 +4,19 @@ case_id: 2e42449df3c48e6db15811e3f2c11ccd4c1fa6de
 
 url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8063382
 
-rol: 3726-2026
+rol: 11924-2026
 
 fecha_sentencia: 2026-03-16
 
-caratulado: ANTIÑANCO LEVICOY MARÍA ANGELICA / WHITELAW JHON ALBERT
+caratulado: GARCÍA MEZA RAMÓN AUGUSTO CONTRA ILUSTRE MUNICIPALIDAD DE ESTACIÓN CENTRAL
 
 sala: TERCERA, CONSTITUCIONAL
 
-materias: (CRIMEN) APELACIÓN AMPARO
+materias: ▪ Amparo Económico
 
 recurso: (CRIMEN) APELACIÓN AMPARO
 
-resultado_recurso: CONFIRMA SENTENCIA APELADA
+resultado_recurso: REVOCADA SENTENCIA APELADA
 
 TEXTO_SENTENCIA_SUPREMA
 --------------------------------------------------------------------------------
