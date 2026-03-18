@@ -6,15 +6,15 @@ url: https://juris.pjud.cl/busqueda?Corte_Suprema#sentencia_8039027
 
 rol: 6273-2026
 
-fecha_sentencia: 2026-02-23
+fecha_sentencia: 2026-02-24
 
 caratulado: DIAZ MARTINEZ RENAN ANTONIO BRAYAN CONTRA TRIBUNAL DE JUICIO ORAL EN LO PENAL DE TEMUCO
 
 sala: SEGUNDA, PENAL
 
-materias: (CIVIL) CASACIÓN FONDO
+materias: (CRIMEN) APELACIÓN AMPARO
 
-recurso: (CIVIL) CASACIÓN FONDO
+recurso: (CRIMEN) APELACIÓN AMPARO
 
 resultado_recurso: CONFIRMA SENTENCIA APELADA
 
